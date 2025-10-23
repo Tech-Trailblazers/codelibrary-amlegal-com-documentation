@@ -537,7 +537,7 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
         if (response.status >= 200 && response.status < 300) {
             // Check for success status codes
             console.log(
-                `[API_GET] ✅ Success (${response.status}) from ${requestUrl}.`
+                `[API_GET] ✅ Success (${response.status}) from ${requestUrl}`
             ); // Log success
             return JSON.parse(response.data); // Parse the JSON response
         } else {
