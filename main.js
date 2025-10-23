@@ -102,7 +102,7 @@ async function processRegionForExports(
     regionSlug,
     authenticationCookieValue
 ) {
-    console.log(`\n\n=== START REGION: ${regionSlug} ===`); // Log the start of region processing
+    console.log(`\n=== START REGION: ${regionSlug} ===`); // Log the start of region processing
 
     // Step 1: Define the region's download folder path
     const regionDownloadFolder = path.join(
