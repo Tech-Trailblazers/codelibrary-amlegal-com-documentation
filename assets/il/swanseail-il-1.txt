@@ -1,7 +1,7 @@
 SWANSEA, ILLINOIS
 CODE OF ORDINANCES
 2025 S-6 Supplement contains:
-Local legislation current through Ordinance 1992, passed 7-21-2025; and
+Local legislation current through Ordinance 1997, passed 10-6-2025; and
 State legislation current through Illinois Legislative Service, 2024 Acts,
 Pamphlet No. 1
  
@@ -4348,6 +4348,9 @@ Gas and Electric Utility Tax
 36.158   Tax remittance and return
    
 36.159   Resellers
+Tax Increment Financing Registries
+   
+36.170   Establishment; registration rules
  
    
 36.999   Penalty
@@ -5332,6 +5335,21 @@ reports to the village the total amount of gas and/or electricity delivered to
 the reseller and such other information that the village may reasonably
 require.
 (Prior Code, § 3-605)
+TAX INCREMENT FINANCING REGISTRIES
+§ 36.170 ESTABLISHMENT; REGISTRATION RULES.
+   (A)   The Village Clerk or their designee, is hereby authorized and directed
+to create an "interested parties" registry in accordance with § 11-7 4.4-4.2 of
+the Act (65 ILCS 5/11-74.4-1 et seq.) for the proposed tax increment financing
+redevelopment project areas currently being considered by the village and for
+each redevelopment project area created after the date of the adoption of this
+section.
+   (B)   In accordance with § 11-74.4-4.2 of the Act, the village hereby adopts
+the registration rules attached to Ord. 1997 as Exhibit A as registration rules
+for each such "interested parties" registry. The village shall have the
+authority to amend such registration rules from time to time as may be
+necessary or desirable to comply with and carry out the purposes intended by
+the Act.
+(Ord. 1997, passed 10-6-2025)
 § 36.999 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -28138,11 +28156,11 @@ entity, or their legal representatives, agents or assigns.
          (b)   POTABLE WATER shall mean any water used for human or domestic
 consumption, including, but not limited to, water used for drinking, bathing,
 swimming, washing dishes or preparing foods.
-[https://export.amlegal.com/media/e83876671917526febc78a0e9ec0d8489b176fed/
+[https://export.amlegal.com/media/59b8a6496ea44e52ccaac4291073810a0d58853a/
 IMAGES/0-0-0-30.png]
  
 FIGURE 1
-[https://export.amlegal.com/media/e83876671917526febc78a0e9ec0d8489b176fed/
+[https://export.amlegal.com/media/59b8a6496ea44e52ccaac4291073810a0d58853a/
 IMAGES/0-0-0-32.png]
  
 FIGURE 2
@@ -36557,6 +36575,7 @@ ILCS Cites                    Code Section
                               70.103
 65 ILCS 5/11-60-2             155.01
 65 ILCS 5/11-81-1             36.106
+65 ILCS 5/11-74.4-1 et seq.   36.170
 65 ILCS 5/11-81-2             36.106
 70 ILCS 405/22                153.084
 70 ILCS 405/22.02a            154.212,
@@ -38618,5 +38637,6 @@ Ord. No. Date Passed Code Section
 1990     6-16-2025   154.018,
                      154.059
 1992     7-21-2025   150.004
+1997     10-6-2025   36.170
                     
  
