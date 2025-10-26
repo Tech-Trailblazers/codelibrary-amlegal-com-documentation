@@ -4,7 +4,7 @@ WENONA
 ILLINOIS
 1994
 Code current through:
-Ord. 09-16-24D, passed 9-17-2024
+Ord. 051925, passed 5-19-2025
  
 Published by:
 American Legal Publishing
@@ -13,15 +13,15 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 PREFACE
-   This code of the City of Wenona, as supplemented, contains ordinances up to
-and including ordinance 09-16-24D, passed September 17, 2024, and resolution
-2017-04-17A, passed April 17, 2017. Ordinances of the City adopted after said
+         This code of the City of Wenona, as supplemented, contains ordinances
+up to and including ordinance 051925, passed May 19, 2025, and resolution 2017-
+04-17A, passed April 17, 2017. Ordinances of the City adopted after said
 ordinance supersede the provisions of this code to the extent that they are in
 conflict or inconsistent therewith. Consult the City office in order to
 ascertain whether any particular provision of the code has been amended,
 superseded or repealed.
-         American Legal Publishing
-         Cincinnati, Ohio
+                     American Legal Publishing
+                     Cincinnati, Ohio
 ORDINANCES PENDING REVIEW FOR CODIFICATION
 Listed ordinances have been passed, but they are pending review by the
 publisher, and they may not amend the code of ordinances. Additionally,
@@ -5973,17 +5973,17 @@ met:
 manufactured within completely enclosed buildings having incombustible exterior
 walls and protected with an automatic fire extinguishing system.
       2.   Such material, if stored outdoors, shall be stored in accordance
-with National Fire Protection Association (“NFPA”) 58, Appendix I standards as
+with National Fire Protection Association ("NFPA") 58, Appendix I standards as
 follows in Table 1:
    B.   I Industrial District: The storage, utilization, or manufacture of
 flammable liquids shall be permitted in accordance with the following table,
 exclusive of storage of finished products in original sealed containers, which
 shall be restricted. Flammable liquid and gas storage tanks shall not be less
 than fifty feet (50') from all lot lines.
-         TABLE 1
-[https://export.amlegal.com/media/8a8eff009dc2c046884b3ed0b2bc35e3acc79747/
+TABLE 1
+[https://export.amlegal.com/media/88bc71e9f29de97d2b0d1c040f5d6d45545ebbc8/
 IMAGES/0-0-0-1559.jpg]
-[https://export.amlegal.com/media/8a8eff009dc2c046884b3ed0b2bc35e3acc79747/
+[https://export.amlegal.com/media/88bc71e9f29de97d2b0d1c040f5d6d45545ebbc8/
 IMAGES/0-0-0-1561.jpg]
          TABLE 2
          TOTAL CAPACITY OF FLAMMABLE
@@ -6000,8 +6000,9 @@ Materials having a closed cup flashpoint of less than     3,000    100,00
  
 When flammable gases are stored, utilized, or manufactured and measured in
 cubic feet, the quantity in cubic feet at standard temperature and pressure
-shall not exceed thirty (30) times the quantities listed above. (Ord. 070102B,
-7-1-2002; amd. Ord. 091823, 9-18-2023; Ord. 082123, 8-21-2023)
+shall not exceed thirty (30) times the quantities listed above.
+(Ord. 070102B, 7-1-2002; amd. Ord. 091823, 9-18-2023; Ord. 082123, 8-21-2023;
+Ord. 091823, 9-18-2023)
 3-7-8: RADIO AND ELECTRICAL INTERFERENCE:
 No use may be made of land within any zone established by this chapter in such
 a manner as to create electrical interference with radio communication or
@@ -7194,7 +7195,84 @@ insures is not required, to the extent of the self-insurance, to comply with
 the requirement for the name of additional insureds under this section. A
 wireless provider that elects to self-insure shall provide to the City evidence
 sufficient to demonstrate its financial ability to self- insure the insurance
-coverage limits required by the City. (Ord. 071618A, 7-16-2018)
+coverage limits required by the City.
+(Ord. 071618A, 7-16-2018)
+CHAPTER 14
+SOLAR ENERGY CONVERSION SYSTEMS ("SECS")
+SECTION:
+3-14-1:    Purpose And Scope
+3-14-2:    Rooftop Mounted SECS
+3-14-3:    Ground Mounted SECS
+3-14-1: PURPOSE AND SCOPE:
+   A.   The City of Wenona has found solar energy conversion systems ("SECS")
+to be a viable and useful method of localized energy generation. SECS shall be
+permitted in all zoning districts in accordance with the minimum standards set
+forth in this Chapter.
+   B.   Solar energy conversion systems shall comply with the National Electric
+Code and the Illinois State Electric Code.
+   C.   In the event that applicable Federal or State laws or regulations
+conflict with the requirements of this Chapter, the requirements of this
+Chapter shall be complied with to the maximum extent possible without violating
+Federal or State laws ot regulations.
+   D.   Prohibitions.
+      1.   Solar Farms, defined as a commercial facility that converts sunlight
+into electricity, whether by photovoltaics (PV), concentrating solar thermal
+devices (CST), or other conversion technology, for the primary purpose of
+wholesale sales of generated electricity and is the principal land use for the
+parcel on which it is located, are prohibited in all zoning districts.
+      2.   Solar Gardens, defined as a commercial solar-electric (photovoltaic)
+array that provides retail electric power (or a financial proxy for retail
+power) to individual or multiple households or businesses residing or located
+either on-site or off-site from the location of the solar energy system and is
+either an accessory or a principal use, are prohibited in all zoning districts.
+(Ord. 042125A, 4-21-2025)
+3-14-2: ROOFTOP MOUNTED SECS:
+   A.   Shall not project higher than the maximum building height permitted for
+the zoning district. If mounted on an accessory structure, the SECS shall not
+project higher than the maximum height permitted for that structure.
+   B.   If mounted on a pitched roof, shall be mounted flush with the slope of
+the roof and shall not extend further than twelve inches (12") from the roof
+surface at any point. SECS shall not extend beyond the ridgeline of the roof at
+any point.
+   C.   Shall be safely and securely attached to the rooftop.
+   D.   At a minimum, two (2) access pathways with a minimum of thirty-six
+inches (36") each must be provided on separate planes of the roof. One access
+pathway must be on the street or driveway side. The pathway must be on the same
+roof plane as the panels, on an adjacent roof plane, or straddling the same and
+adjacent roof plane.
+   E.   The panels must be set back from the ridge line to allow for fire
+service roof ventilation at the peak of the roof. The setback is a minimum of
+thirty-six inches (36"). This setback occurs on both sides of the ridge.
+   F.   Permit Required. The property owner shall submit an application to the
+City for a rooftop mounted SECS demonstrating compliance with the requirements
+set forth herein. The permit fee is thirty-five dollars ($35.00). No rooftop
+mounted SECS shall be installed without a permit issued by the City.
+(Ord. 042125A, 4-21-2025)
+3-14-3: GROUND MOUNTED SECS:
+   A.   A ground mounted SECS is a solar energy system mounted on a rack or
+pole that rests or is attached to the ground. Ground-mount systems can be an
+accessory use, not a principal use of the property.
+   B.   Are not permitted in residential zoning districts unless the property
+owner obtains the written consent of all adjacent property owners.
+   C.   Shall satisfy the applicable setback requirements for an accessory
+structure on the lot for the zoning district, however, ground mounted SECS are
+not permitted in the front yard.
+   D.   Shall be no higher than eight feet (8') in height.
+   E.   Shall be limited to an area no larger than ninety-six (96) square feet
+in size.
+   F.   In commercial and industrial districts, the perimeter shall be enclosed
+by a fence constructed of a type suitable for security purposes. The fence must
+be a minimum of six feet (6') high but no more than ten feet (10') in height
+and must comply with City regulations concerning fences.
+   G.   Shall be designed to avoid glare or reflection onto adjacent properties
+and adjacent roadways. The exterior surface shall have a nonreflective finish
+and shall be color coordinated to harmonize with roof materials and other
+dominant colors of the structure.
+   H.   Permit Required. The property owner shall submit an application to the
+City for a ground mounted SECS demonstrating compliance with the requirements
+set forth herein. The permit fee is thirty-five dollars ($35.00). No ground
+mounted SECS shall be installed without a permit issued by the City.
+(Ord. 042125A, 4-21-2025)
 TITLE 4
 SUBDIVISIONS
 CHAPTER 1
@@ -15344,4 +15422,161 @@ adopted to achieve eligibility in the program. Nor does this chapter repeal,
 abrogate, or impair any existing easements, covenants, or deed restrictions.
 Where this chapter and other ordinance, easements, covenants or deed
 restrictions conflict or overlap, whichever imposes the more stringent
-restrictions shall prevail. (Ord. 100410, 10-4-2010)
+restrictions shall prevail.
+(Ord. 100410, 10-4-2010)
+TITLE 10 GENERAL REGULATIONS
+CHAPTER 1
+TEMPORARY STORAGE POD AND SHIPPING CONTAINER REGULATIONS AND RESTRICTIONS
+SECTION
+10-1-1:    Definitions
+10-1-2:    Regulations
+10-1-3:    Permit Required
+10-1-4:    Exemptions
+10-1-5:    Non-Conforming Uses
+10-1-6:    Penalty
+10-1-1: DEFINITIONS:
+SHIPPING CONTAINER: A unit or container which is intended to be used primarily
+for shipping goods or materials within an enclosed container on highways, rail
+lines, or waterways or consisting of a truck compartment or trailer that is not
+on a currently licensed trailer or attached to a currently licensed chassis.
+STORAGE POD: A self-contained container used for the temporary storage and/or
+moving of small amounts of goods such as a household's contents or office
+tenants contents.
+(Ord. 051925, 5-19-2025)
+10-1-2: REGULATIONS:
+   A.   Temporary storage pods and shipping containers shall be utilized only
+for the storage, loading, and unloading of household or business items or other
+tangible personal property. A temporary storage pod or shipping container shall
+not be utilized for the purpose of conducting business, selling merchandise or
+property, dwelling, living, habitation, camping, cooking, or recreation. It is
+the intent of this Chapter to limit, except as provided herein, the placement
+and use of any temporary storage pod or shipping container as an accessory
+building or storage building on commercial, industrial, or residentially zoned
+land.
+   B.   On properties where the primary structure is identified as a single-
+family detached structure, townhouse, two-family dwelling structure or three-
+family dwelling structure, a temporary storage pod or shipping container may be
+placed, maintained, or stored only within the boundaries of the property
+owner's lot and subject to the front area regulations applicable to residential
+districts.
+   C.   On properties where the primary structure is identified as anything
+other than a single-family detached structure, townhouse, two-family dwelling
+structure or three-family dwelling structure, a temporary storage pod or
+shipping container may be placed, maintained, or stored only within the
+boundaries of the property owner's lot and in compliance with the front and
+side area regulations of the applicable zoning district, and further provided
+that the placement, maintenance, or storage of such container does not impede
+the flow of vehicular or pedestrian traffic, occupy off-street parking spaces
+required by this City Code, or interfere with the normal operation of the
+permanent use on the property.
+   D.   A temporary storage pod or shipping container, or any portion thereof,
+shall not be placed, maintained, or stored on or within any roadway, alley,
+parkway, other publicly-owned right-of-way, sidewalk, easement for ingress and
+egress, access lane or aisle, fire access lane, public utility easement,
+location that obstructs traffic visibility, or other location not specifically
+identified as acceptable within the provisions of this Chapter. A temporary
+storage pod or shipping container shall not be placed, maintained, or stored in
+a manner that will or may interfere with City operations including, but not
+limited to, snow removal, street cleaning, or capital improvements.
+   E.   The temporary storage pod or shipping container user and/or permit
+holder shall be responsible for any damage to the public right-of-way. In the
+event of damage to the public right-of-way, the City shall estimate, or cause
+an estimate to be made, of the cost to repair the damage, and the user and/or
+permit holder will be notified of the cost of repair. Failure of the user and/
+or pe1mit holder to pay the cost to repair the damage within thirty (30) days
+of receipt of the estimate of the cost of repair shall be punishable by a fine
+in the amount as determined by Section 10-1-5 of this Chapter.
+   F.   Only one (1) temporary storage pod or shipping container may be located
+on a residential property at any time. The stacking or placement of any items
+on top of or around any temporary storage pod or shipping container in a
+residential district is prohibited.
+   G.   Only two (2) temporary storage pods or shipping containers may be
+located on a commercial property at any time.
+   H.   A temporary storage pod or shipping container placed, maintained, or
+stored on a residential property shall not exceed eight feet (8') in height and
+one hundred thirty (130) square feet in size. A temporary storage pod or
+shipping container placed, maintained, or stored on a commercial or industrial
+property shall not exceed eight feet, six inches (8'6") in height and three
+hundred (320) square feet in size.
+   I.   A temporary storage pod or shipping container shall be painted and in
+good condition and appearance, with no structural damage, holes in the
+container that would allow leaks, visible rust, or other forms of visible
+deterioration; capable of being moved intact; free of vermin or other pests;
+and free of graffiti or advertising other than the name, address, and telephone
+number of the person or entity engaged in the business of renting or otherwise
+placing the temporary storage pod or shipping container. A temporary storage
+pod or shipping container shall not be placed, maintained, or stored in such a
+manner as to create a risk of injury to persons or damage to property.
+   J.   A temporary storage pod or shipping container shall not be placed,
+maintained, or stored on a residential property for more than fifteen (15)
+consecutive days. No person, firm, corporation, or other entity shall place,
+maintain, or store such a pod or container upon the same property for more than
+two (2) such fifteen (15) day periods per calendar year.
+   K.   A temporary storage pod or shipping container shall not be placed,
+maintained, or stored on a commercial property for more than thirty (30)
+consecutive days. No person, firm, corporation, or other entity shall place,
+maintain, or store such a pod or container upon the same property for more than
+four (4) such thirty (30) day periods per calendar year.
+   L.   A temporary storage pod or shipping container shall not be used to
+store personal or business property of a toxic, flammable, hazardous, or
+offensive nature.
+   M.   A temporary storage pod or shipping container shall be kept locked and
+secured against unauthorized entry when not being loaded or unloaded.
+(Ord. 051925, 5-19-2025)
+10-1-3: PERMIT REQUIRED:
+   Any person. firm, corporation, or other entity desiring to use a temporary
+storage pod or shipping container in a commercial or residential district shall
+apply for and obtain a permit from the City prior to the placement,
+maintenance, or storage of said temporary storage pod or shipping container on
+any property in the City. An applicant for a permit shall complete an
+application on a form to be determined by the City. The permit fee shall be
+five dollars ($5.00).
+(Ord. 051925, 5-19-2025)
+10-1-4: EXEMPTIONS:
+   The restrictions and regulations contained in this Chapter shall not apply
+to any temporary storage pod or shipping container that is located on property
+owned or used by a unit of local, state, or federal government or a railroad.
+(Ord. 051925, 5-19-2025)
+10-1-5: NON-CONFORMING USES:
+   The Storage Pods located at 205 S. Hickory Street and 307 N. Walnut Street
+are deemed allowed non-conforming uses and are hereby granted to September 30,
+2025 to be painted or sided in a manner to be cornplimentaiy to the respective
+residential houses on the same lots. Failure to comply with this requirement on
+or before September 30, 2025 will cause these existing Storage Pods to lose
+their status as allowed non-conforming uses and shall thereafter be subject to
+the provisions of the Chapter, including the penalties set forth in Section
+10-1-6.
+(Ord. 051925, 5-19-2025)
+10-1-6: PENALTY:
+   A.   Any person, firm, corporation, or other entity who violates any
+provision of this Chapter shall be guilty of a petty offense and shall be
+subject to a fine of not less than one hundred dollars ($100.00) nor more than
+seven hundred fifty dollars ($750.00) for each offense. Each day such violation
+is committed or permitted to continue shall constitute a separate offense and
+shall be punishable as such hereunder.
+   B.   Any tempora1y storage pod or shipping container in violation of the
+requirements of this Chapter shall be removed immediately from the property it
+is located on.
+   C.   Nothing in this Chapter shall be deemed to limit the City in any way to
+use any or all means available to remove the nuisance, or summarily eliminate
+immediate hazards to the public health, safety, or welfare as granted in any
+ordinances of the City or the laws or Constitution of the State of Illinois.
+   D.   Whenever a person, firm, corporation, or other entity violates any of
+the provisions of this Chapter, the City may cause appropriate legal actions
+and proceedings, in law or in equity, to be instituted and maintained to
+enforce compliance herewith.
+   E.   Every act or omission of whatsoever nature constituting a violation of
+any of the provisions of this Chapter by a property owner or any officer,
+director, manager, agent, employee, patron, tenant, contractor, or
+subcontractor thereof shall be deemed and held to be the act of such property
+owner, and such property owner shall be punishable in the same manner as if
+such act or omission had been done or omitted by the property owner personally.
+   F.   The restrictions and regulations contained in this Chapter shall be
+interpreted as minimum standards, and shall be in addition to any other
+applicable City ordinances and requirements that apply to temporary storage
+pods or shipping containers or the properties on which they are located. If any
+restriction or regulation in this Chapter is found to be in conflict with any
+other restriction or regulation in this Code, the most restrictive or highest
+standard shall prevail.
+(Ord. 051925, 5-19-2025)
+ 
