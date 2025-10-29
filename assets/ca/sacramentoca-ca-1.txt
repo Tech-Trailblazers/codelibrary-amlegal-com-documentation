@@ -4279,6 +4279,7 @@ Sections:
    The following officers and employees of the city shall be bonded for the
 faithful performance of their duties in the amounts hereinafter specified with
 each position:
+ 
 City manager                                       $100,000.00
 City treasurer                                     200,000.00
 Finance director                                   100,000.00
@@ -9772,8 +9773,7 @@ under Section
 2.124.1830 of this chapter shall be seven percent.
    B.   Mortality Table. The mortality rates for determining actuarial
 equivalence shall be the following:
-Post Retirement Mortality
-Age Nondisability Participant Retirement Spouse
+ 
 Post Retirement Mortality
 Age Nondisability Participant Retirement Spouse
 20  .00057                    .00047
@@ -10126,7 +10126,7 @@ fraction of one-sixtieth of his or her final compensation, set forth opposite
 his or her age at retirement, taken and applied by interpolation of such
 fractions to the preceding quarter years in the following table multiplied by
 the number of years of service with which he or she is entitled to be credited:
-Age of Retirement Exact 1/4 1/2 3/4
+ 
 Age of Retirement Exact    1/4      1/2      3/4
 55                .661651  .675352  .689054  .702755
 56                .716456  .731194  .745932  .760670
@@ -10838,9 +10838,7 @@ equal to the percentage of his or her final compensation set forth opposite his
 or her age at retirement taken to the preceding completed quarter year in the
 following table and multiplied by the number of years of such service with
 which he or she is credited at retirement:
-SAFETY MEMBERS
-PERCENTAGE OF FINAL COMPENSATION
-Age of Retirement Exact 1/4 1/2 3/4
+ 
 SAFETY MEMBERS
 PERCENTAGE OF FINAL COMPENSATION
 Age of Retirement Exact  1/4    1/2    3/4
@@ -10865,9 +10863,7 @@ allowance equal to the percentage of his or her final compensation set forth
 opposite his or her age at retirement taken to the preceding completed quarter
 year in the following table and multiplied by the number of years of such
 service with which he or she is credited at retirement:
-MISCELLANEOUS MEMBERS
-PERCENTAGE OF FINAL COMPENSAT ON
-Age of Retirement Exact 1/4 1/2 3/4
+ 
 MISCELLANEOUS MEMBERS
 PERCENTAGE OF FINAL COMPENSAT ON
 Age of Retirement Exact  1/4    1/2    3/4
@@ -11327,8 +11323,7 @@ determined by multiplying one group rate established in subsection B of this
 section, by the factor applicable to his or her nearest age at the effective
 date of his or her membership in the retirement system as set forth in the
 following tables:
-SAFETY MEMBERS
-Age at Entry Factor
+ 
 SAFETY MEMBERS
 Age at Entry Factor
 21           .801
@@ -11361,8 +11356,7 @@ Age at Entry Factor
 48           1.416
 49 & over    1.439
  
-MISCELLANEOUS MEMBERS
-Age at Entry Factor
+ 
 MISCELLANEOUS MEMBERS
 Age at Entry Factor
 20 & under   .800
@@ -11606,11 +11600,7 @@ terms and conditions as it deems reasonable. (Prior code § 34.06.602)
 contribution rate for cost-of-living benefits pursuant to City Charter Section
 379 and Section
 2.124.1690 of this chapter shall be:
-SAFETY MEMBERS
-(Retained in this plan pursuant to any ordinance enacted to implement City
-Charter Section
-400, as amended June 6, 1989)
-Age at Entry into System Rate of Contribution (%)
+ 
 SAFETY MEMBERS
 (Retained in this plan pursuant to any ordinance enacted to implement City
 Charter Section
@@ -11647,8 +11637,7 @@ Age at Entry into System Rate of Contribution (%)
 48                       14.30
 49 or over               14.53
  
-MISCELLANEOUS MEMBERS
-Age at Entry into System Rate of Contribution (%)
+ 
 MISCELLANEOUS MEMBERS
 Age at Entry into System Rate of Contribution (%)
 20 & under               6.45
@@ -11741,9 +11730,7 @@ equal to the percentage of his or her final compensation set forth in the
 following table opposite his or her age at retirement taken to the preceding
 completed quarter and multiplied by the number of years of service with which
 he or she is credited at retirement:
-SAFETY MEMBERS
-PERCENTAGE OF FINAL COMPENSATION
-Age of Retirement Exact 1/4 1/2 3/4
+ 
 SAFETY MEMBERS
 PERCENTAGE OF FINAL COMPENSATION
 Age of Retirement Exact  1/4    1/2    3/4
@@ -11766,7 +11753,7 @@ allowance equal to the percentage of his or her final compensation set forth in
 the following table opposite his or her age at retirement taken to the
 preceding completed quarter and multiplied by the number of years of service
 which he or she is credited at retirement:
-Age of Retirement Exact 1/4 1/2 3/4
+ 
 Age of Retirement Exact  1/4    1/2    3/4
 50                1.1000 1.1325 1.1650 1.1975
 51                1.2300 1.2625 1.2950 1.3275
@@ -25971,6 +25958,7 @@ materials; and access to technology at city libraries. (Ord. 2024-0013 § 2;
 Ord. 2016-0002 § 2; Ord. 2004-029 § 2)
 3.148.020   Tax rates.
    The tax rates for fiscal year 2023-2024 are as follows:
+ 
 Residential                             
 Single family                          $54.50
 Multi-family                           a. $40.88 per unit, units 1-4
@@ -64652,6 +64640,7 @@ or operator to recover the vehicle. (Prior code § 26.01.060)
 adopts and imposes a vehicle release fee, in an amount to be set by resolution
 of the city council, for recovery of administrative costs incurred for vehicles
 towed and/or stored pursuant to the following Vehicle_Code sections:
+ 
 10751    CVC Altered or removed vehicle identification number
 14602.6  CVC Revoked/suspended license
 22523(a) CVC Abandoned on highway
@@ -65975,7 +65964,7 @@ maintenance, control and use of the parking spaces and regulating parking of
 vehicles in the parking meter zones. (Ord. 2000-028 § 2(c)(xii); Ord. 2000-007
 § 13; prior code § 25.08.142)
 10.40.140   Exhibit.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15318.png]
 (Ord. 2025-0019 § 4)
 Chapter 10.42
@@ -74010,7 +73999,7 @@ the application is deemed denied under subsection (A)(3) of Section
    The city manager or designee may adopt administrative regulations and
 application forms that are consistent with this chapter and further its
 purpose. (Ord. 2012-040 § 1)
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-14999.png]
 Chapter 12.76
 SACRAMENTO MARINA AND SPECIAL USE AREAS*
@@ -78879,7 +78868,7 @@ paid. (Prior code § 36.12.902)
    The fee required for connection to sanitary sewer lines for each parcel
 within this district shown on the map at the end of this chapter marked Exhibit
 "A" shall be as follows:
-Parcel Number Forced Main Fee Lateral Fee Outfall Fee
+ 
 Parcel Number Forced Main Fee Lateral Fee Outfall Fee
 1             $1,398.27       $0          $211.67
 2             243.42          0           36.85
@@ -78905,7 +78894,7 @@ Parcel Number Forced Main Fee Lateral Fee Outfall Fee
 22            0               3,079.04    683.00
 23            0               0           0
  
-Parcel Number Area Fee Total Credit Fee
+ 
 Parcel Number Area Fee  Total Credit Fee
 1             $1,702.32 $0           $3,312.26
 2             538.23    0            818.50
@@ -78942,7 +78931,7 @@ Section
 13.08.360 of this chapter shall be paid to the redevelopment agency of the city
 to reimburse said agency for cost incurred in construction of oversized trunk
 sewers with the district for the benefit of owners within the district.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15001.png]
 (Prior code § 36.12.904)
 Chapter 13.10
@@ -82351,7 +82340,7 @@ customer may terminate the customer service agreement with no penalties. (Ord.
 2023-0024 § 47; Ord. 2021-0003 § 15)
 13.24.280   Reporting requirements.
    A.   Due dates for reports are as follows:
-Report: Due Date
+ 
 Report:                                Due Date
                                        On or before the first business day of
 Monthly Revenue Report                 the second calendar month immediately
@@ -84466,9 +84455,7 @@ erosion or mechanical damage shall be protected in an approved manner.
    B.   Table 312.4 is added to Chapter 3 of the CPC to read as follows:
 Table 312.4. Anode Selection Chart
  
-Allowable Length of Coated and Wrapped Buried Ferrous Gas or Water Pipe
-Pipe Size
-Anode Size 1/2" 3/4" & 1" 1-1/4" & 1-1/2" 2" 3" 4"
+ 
 Allowable Length of Coated and Wrapped Buried Ferrous Gas or Water Pipe
 Pipe Size
 Anode Size   1/2"   3/4" & 1" 1-1/4" & 1-1/2" 2"     3"     4"
@@ -85402,12 +85389,7 @@ follows:
       1.   Table CC105.1 is amended to read as follows:
 TABLE NO. CC105.1
 NUMBER AND DISTRIBUTION OF FIRE HYDRANTS f
-                                                           MAXIMUM DISTANCE
-FIRE FLOW                    AVERAGE SPACING               FROM HYDRANT
-REQUIREMENT  MINIMUM NUMBER  BETWEEN HYDRANTS a, b, d, e  TO ANY POINT ON
-(gpm)c       OF HYDRANTS     (Ft.)                         STREET
-                                                           OR ROADWAY FRONTAGE
-                                                           (Ft.)
+ 
                                                            MAXIMUM DISTANCE
 FIRE FLOW                    AVERAGE SPACING               FROM HYDRANT
 REQUIREMENT  MINIMUM NUMBER  BETWEEN HYDRANTS a, b, d, e  TO ANY POINT ON
@@ -88821,7 +88803,7 @@ City of Sacramento Jan Feb Mar Apr Ma y Jun Jul Aug Sep Oct Nov Dec Annual ETo
  
 (Ord. 2015-0038 § 2)
 15.92 Appx. B   Sample water efficient landscape worksheet.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15014.png]
 ETAF Calculations
 Regular Landscape Areas
@@ -93139,7 +93121,7 @@ established by chapter
 17.442.
    "ESC sign district" means the special sign district that has the boundary
 shown on this map:
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15018.png]
    "ESC monument sign" means a low-profile, freestanding sign that is erected
 with its base on the ground or on a solid-appearing support substantially
@@ -93192,7 +93174,7 @@ images, parts, or illumination that changes less than one time in a 24-hour
 period qualifies as a non-animated sign.
    "Plaza" means the off-street area within the ESC sign district that is
 identified on the following map:
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15016.png]
    "Plaza kiosk" means a small, pedestrian-oriented, free-standing structure
 that is within the plaza and used to display information.
@@ -93335,7 +93317,7 @@ illumination.
 is 120 square feet.
             v.   Display areas must have at least 60% open area or transparency
 to allow visual access beyond or through the sign. For example:
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15020.png]
             vi.   Must be similar in their physical characteristics and
 visually compatible with buildings and other structures in the ESC sign
@@ -93409,7 +93391,7 @@ grade and 20 feet away from the plane of the display (determined by a line that
 is within 6 degrees of a line perpendicular to the plane of the display).
    Step Two. Use the following formula to determine the "measurement distance"
 (the "display area" in the radicand is in square feet):
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15023.png]
    Step Three. Use the following formulas to calculate the display's equivalent
 maximum brightness during the day and at night:
@@ -93637,14 +93619,13 @@ repair to the sign owner.
 2.84 are not subject to this section or to site plan and design review.
    D.   Zone map, sign levels, sign types, illumination hours, display areas.
       1.   Map of zones.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15027.png]
       2.   Vertical sign levels.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15025.png]
       3.   Types of signs allowed in the ESC sign district.
- Zone A                  Zone B
- Level 1 Level 2 Level 3 Level 1 Level 2 Level 3
+ 
                           Zone A                  Zone B
                           Level 1 Level 2 Level 3 Level 1 Level 2 Level 3
 Aerial-View Sign          N       N       N       N       N       N
@@ -93734,7 +93715,7 @@ instead of wall signs and projected-image signs. The banner may display general
 advertising, but neither it nor its mounting devices may extend past or wrap
 around the stairwell (north and south faces) or impede the use of, or access
 to, the stairwell in any way.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15029.png]
 Northwest corner (primary & secondary facades)   Southeast corner (secondary &
 primary facades)
@@ -93772,7 +93753,7 @@ E.2.g.
 joints.
          i.   A single roof-mounted sign may be installed, similar in style,
 size, and location of the historic roof sign.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15031.png]
 Northwest corner (primary & secondary facades)   Southeast corner (secondary &
 primary facades)
@@ -93796,7 +93777,7 @@ Tuesday, Wednesday, and Thursday and until midnight on Friday and Saturday.
          f.   Either a wall sign (which may display general advertising) or a
 mural may be installed on one of the secondary facades, with a maximum total
 display area of 900 square feet.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15033.png]
 Southeast corner (primary facades)   Northeast corner (secondary facades)
    F.   Prohibited signs. Except as otherwise provided, the following signs are
@@ -93918,9 +93899,7 @@ of content is needed to comply with federal or state law.
       3.   Amounts of administrative penalties. The administrative penalties
 for violations of this section are as follows, and the amounts depend on the
 display areas of the signs in violation:
-DISPLAY AREA OF SIGN ADMINISTRATIVE PENALTIES PER DAY OF VIOLATION
-IN VIOLATION         First Violation Second Violation Third Violation and All
-(square feet)                                         Subsequent Violations
+ 
 DISPLAY AREA OF SIGN ADMINISTRATIVE PENALTIES PER DAY OF VIOLATION
 IN VIOLATION         First Violation Second Violation Third Violation and All
 (square feet)                                         Subsequent Violations
@@ -95225,7 +95204,7 @@ candelas, as applicable.
       Step Two. Determine the "measurement distance" using the following
 formula (the "display area" in the radicand is the area of the display in
 square feet):
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15035.png]
       Step Three. Use the following formulas to calculate the display's maximum
 allowed brightness at night and during the day:
@@ -95531,7 +95510,7 @@ display).
          b.   Step Two. Use the following formula to determine the "measurement
 distance" (the "display area" in the radicand is the area of the display in
 square feet):
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15037.png]
          c.   Step Three. Use the following formulas, calculate the display's
 equivalent maximum brightness during the day and at night:
@@ -97624,7 +97603,7 @@ accessible and open to the public.
    "Arts and entertainment district" means that area shown in Exhibit A.
 Exhibit A
 Arts and Entertainment District
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15039.png]
    "Assembly-cultural, religious, social" means a meeting place at which the
 public or membership groups are assembled regularly or occasionally, including
@@ -99258,7 +99237,7 @@ development that is consistent with the general plan. (Ord. 2013-0020 § 1; Ord.
 17.200.110   A zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the A
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                           Limitations
 1. Residential Uses
    Dwelling, single unit
@@ -99279,8 +99258,7 @@ property)                                     exempt from the provisions of
  
    B.   Conditional uses. The following uses in the A zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                Approval
                                                                Required by:
                                                                Planning and
@@ -99341,7 +99319,7 @@ property)                                       regulations in ZA
    C.   Accessory uses. The following uses are permitted in the A zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
 Childcare, in-home (family day care  
@@ -99454,7 +99432,7 @@ premature development of land to urban uses. (Ord. 2013-0020 § 1; Ord. 2013-
 17.200.210   A-OS zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the A-OS
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                         Limitations
 1. Residential Uses
    Farm worker housing                   Appropriate density determined
@@ -99471,8 +99449,7 @@ property)                                   from the provisions of this title
  
    B.   Conditional uses. The following uses in the A-OS zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                Approval
                                                                Required by:
                                                                Planning and
@@ -99627,8 +99604,7 @@ property)                                   from the provisions of this title
  
    B.   Conditional uses. The following uses in the F zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                          Approval Required by:
                                                          Planning and Design
 Use                               Limitations            Commission (PDC);
@@ -99914,7 +99890,7 @@ acres (i.e., RE-1/4, RE-1/2, RE-1/1, RE-1/.5). (Ord. 2013-0020 § 1; Ord. 2013-
 17.204.110   RE zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the RE
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                         Limitations
 1. Residential Uses
    Dwelling, single-unit
@@ -99937,8 +99913,7 @@ property)                                   from the provisions of this title
  
    B.   Conditional uses. The following uses in the RE zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                               Approval Required
                                                               by: Planning and
                                                               Design Commission
@@ -100008,7 +99983,7 @@ acre)                                          section
    C.   Accessory uses. The following uses are permitted in the RE zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                   Limitations
 Accessory antenna                      
 Childcare center                      Permitted if accessory to assembly-
@@ -100139,7 +100114,7 @@ neighborhood function. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.204.210   R-1 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-
 1 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses
    Dwelling, duplex                             Limited to corner lots
@@ -100168,8 +100143,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-1 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                          Approval Required by:
                                                          Planning and Design
 Use                              Limitations             Commission (PDC);
@@ -100246,7 +100220,7 @@ Well-gas, oil                                           PDC
    C.   Accessory uses. The following uses are permitted in the R-1 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -100393,7 +100367,7 @@ rowhouses, are allowed. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.204.310   R-1A zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-1A
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses
    Dwelling, duplex
@@ -100422,8 +100396,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-1A zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)   
+ 
 Use                                                          Limitations   Approval Required by: Planning and Design Commission (PDC);
                                                                            Zoning Administrator (ZA); or City Council (CC)   
 1. Residential Uses                                           
@@ -100523,7 +100496,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R1-A zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -100653,7 +100626,7 @@ lots generally located in the central city and in North Natomas. (Ord. 2013-
 17.204.410   R-1B zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-1B
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses
    Dwelling, duplex
@@ -100682,8 +100655,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-1B zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                            Approval
                                                                            Required by:
                                                                            Planning and
@@ -100790,7 +100762,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R-1B zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -100925,7 +100897,7 @@ single-unit attached or detached units. (Ord. 2013-0020 § 1; Ord. 2013-0007 §
 17.204.510   R-2 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-
 2 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses
    Dwelling, duplex
@@ -100954,8 +100926,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-2 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)   
+ 
 Use                                                          Limitations   Approval Required by: Planning and Design Commission (PDC);
                                                                            Zoning Administrator (ZA); or City Council (CC)   
 1. Residential Uses                                           
@@ -101055,7 +101026,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R-2 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -101252,7 +101223,7 @@ structures and maximize open space. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.208.110   R-2A zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-2A
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses                                 
    Dwelling, duplex                              
@@ -101283,8 +101254,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-2A zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                            Approval
                                                                            Required by:
                                                                            Planning and
@@ -101391,7 +101361,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R-2A zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -101517,7 +101487,7 @@ setting. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.208.210   R-2B zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-2B
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses                                 
    Dwelling, duplex                              
@@ -101548,8 +101518,7 @@ property)                                          exempt from the provisions
  
    B.   Conditional uses. The following uses in the R-2B zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                            Approval
                                                                            Required by:
                                                                            Planning and
@@ -101656,7 +101625,7 @@ Well-gas, oil                                                             PDC
    C.   Accessory uses. The following uses are permitted in the R-2B zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -101782,7 +101751,7 @@ streets and near shopping centers. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.208.310   R-3 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-
 3 zone, subject to the limitations as specified:
-Use Limitations
+ 
 Use                                    Limitations
 1. Residential Uses
                                        Subject to special use regulations in
@@ -101810,13 +101779,12 @@ exceeding 1.0 acre)                    section
                                        Subject to special use regulations in
 Market garden (not exceeding 1.0 acre) section
                                        17.228.810 et seq.
-Solar energy system, commercial (city  Allowed in this zone and exempt from
-property)                              the provisions of this title
+Solar energy system, commercial (city  Allowed in this zone and exempt from the
+property)                              provisions of this title
  
    B.   Conditional uses. The following uses in the R-3 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                            Approval
                                                                            Required by:
                                                                            Planning and
@@ -101930,7 +101898,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R-3 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -102057,7 +102025,7 @@ institutions and public transit facilities. (Ord. 2013-0020 § 1; Ord. 2013-0007
 17.208.410   R-3A zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-3A
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses                                 
                                                    Subject to special use
@@ -102091,8 +102059,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-3A zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                            Approval
                                                                            Required by:
                                                                            Planning and
@@ -102194,7 +102161,7 @@ consumption
    C.   Accessory uses. The following uses are permitted in the R-3A zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -102325,7 +102292,7 @@ and limited commercial goods and services serving the surrounding neighborhood.
 17.208.510   R-4 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-
 4 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                Limitations
 1. Residential Uses                                 
                                                    Subject to special use
@@ -102468,8 +102435,7 @@ acre)                                              regulations in section
  
    B.   Conditional uses. The following uses in the R-4 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                               Approval
                                                                               Required by:
                                                                               Planning and
@@ -102718,7 +102684,7 @@ consumption                                                    display, shall
    C.   Accessory uses. The following uses are permitted in the R-4 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -102848,7 +102814,7 @@ and limited commercial goods and services serving the surrounding neighborhood.
 17.208.610   R-4A zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-4A
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                                  Limitations
 1. Residential Uses                                   
                                                      Subject to special use
@@ -103003,8 +102969,7 @@ acre)                                                regulations in section
  
    B.   Conditional uses. The following uses in the R-4A zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -103147,7 +103112,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the R-4A zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -103290,7 +103255,7 @@ commercial goods and services serving the surrounding neighborhood. (Ord. 2013-
 17.208.710   R-5 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the R-
 5 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                    Limitations
 1. Residential Uses
                                        Subject to special use regulations in
@@ -103399,8 +103364,7 @@ property)                              provisions of this title
  
    B.   Conditional uses. The following uses in the R-5 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -103541,7 +103505,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the R-5 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -103703,7 +103667,7 @@ ground-floor retail and service uses. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.212.110   RMX zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the RMX
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                    Limitations
 1. Residential Uses                     
                                        Subject to special use regulations in
@@ -103767,8 +103731,7 @@ property)                              provisions of this title
  
    B.   Conditional uses. The following uses in the RMX zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -103873,7 +103836,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the RMX zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -104002,7 +103965,7 @@ compatible with adjacent residential uses. (Ord. 2013-0020 § 1; Ord. 2013-0007
 17.212.210   RO zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the RO
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                    Limitations
 1. Residential Uses                     
                                        Subject to special use regulations in
@@ -104043,8 +104006,7 @@ property)                              provisions of this title
  
    B.   Conditional uses. The following uses in the RO zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -104122,7 +104084,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the RO zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -104326,7 +104288,7 @@ dwellings. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.216.110   OB zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the OB
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                     Limitations
 1. Residential Uses                      
                                         Subject to special use regulations in
@@ -104447,8 +104409,7 @@ property)                               the provisions of this title
  
    B.   Conditional uses. The following uses in the OB zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -104571,7 +104532,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the OB zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                  Limitations
 Accessory antenna                     
                                      Subject to special use regulations in
@@ -104678,7 +104639,7 @@ dwellings. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.216.210   OB-2 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the OB-
 2 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                     Limitations
 1. Residential Uses                      
                                         Subject to special use regulations in
@@ -104796,8 +104757,7 @@ property)                               the provisions of this title
  
    B.   Conditional uses. The following uses in the OB-2 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -104917,7 +104877,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the OB-2 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -105049,7 +105009,7 @@ dwellings. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.216.310   OB-3 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the OB-
 3 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                     Limitations
 1. Residential Uses                      
                                         Subject to special use regulations in
@@ -105171,8 +105131,7 @@ property)                               the provisions of this title
  
    B.   Conditional uses. The following uses in the OB-3 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -105295,7 +105254,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the OB-3 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                       Limitations
 Accessory antenna                          
                                           Subject to special use regulations in
@@ -105461,7 +105420,7 @@ uses supportive of primary uses. Non-primary uses are divided into "support
 retail" and "residential." Primary and non-primary uses are set forth in Table
 1.
 Table 1
-Category Permitted uses
+ 
 Category    Permitted uses
             Office
             High-tech manufacturing research and development (not limited to 25% office-may
@@ -105685,8 +105644,7 @@ most intense EC zones shall be located within close proximity to transit
 service. The suffix provides the opportunity for a range of employment
 intensities on the site. The following chart identifies the minimum and average
 intensity for each EC zone:
-Employees Per Net Acre
-Zone Minimum Average
+ 
 Employees Per Net Acre
 Zone  Minimum Average
 EC-30 10      30
@@ -105793,7 +105751,7 @@ retail shopping center are prohibited. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1
 17.216.510   SC zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the SC
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -105878,8 +105836,7 @@ property)
  
    B.   Conditional uses. The following uses in the SC zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                  Approval
                                                                                                  Required by:
                                                                                                  Planning and
@@ -106026,7 +105983,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the SC zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -106148,7 +106105,7 @@ surrounded by a residential neighborhood. (Ord. 2013-0020 § 1; Ord. 2013-0007 �
 17.216.610   C-1 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the C-
 1 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                     Limitations
 1. Residential Uses                      
                                         Subject to special use regulations in
@@ -106212,8 +106169,7 @@ property)                               the provisions of this title
  
    B.   Conditional uses. The following uses in the C-1 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -106324,7 +106280,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the C-1 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
 Childcare, in-home (family day care  
@@ -106441,7 +106397,7 @@ small wholesale stores or distributors; and limited processing and packaging.
 17.216.710   C-2 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the C-
 2 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -106568,8 +106524,7 @@ property)
  
    B.   Conditional uses. The following uses in the C-2 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                  Approval
                                                                                                  Required by:
                                                                                                  Planning and
@@ -106783,7 +106738,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the C-2 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -106920,7 +106875,7 @@ commercial, and office developments in the city. (Ord. 2013-0020 § 1; Ord.
 17.216.810   C-3 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the C-
 3 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                     Limitations
 1. Residential Uses                      
                                         Subject to special use regulations in
@@ -107019,8 +106974,7 @@ property)                               the provisions of this title
  
    B.   Conditional uses. The following uses in the C-3 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                  Approval
                                                                                                  Required by:
                                                                                                  Planning and
@@ -107161,7 +107115,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the C-3 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
 Childcare, in-home (family day care  
@@ -107206,13 +107160,13 @@ subject to the provisions of this section and designates ground-floor retail
 requirements of either 75% or 50% for each individual block-face, as shown.
 Exhibit A
 Required Retail Frontage
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15129.png]
       2.   Retail, pedestrian-oriented, and personal service classifications
 indicated on Table 1 shall occupy a minimum of 50% to 75% of the street-
 frontage floor area of a building on a retail block, as indicated on Exhibit A,
 and subject to other applicable provisions of this title.
-Table 1: Retail, Pedestrian-Oriented, and Personal Service Classifications
+ 
 Table 1: Retail, Pedestrian-Oriented, and Personal Service Classifications
 Amusement center, indoor
 Athletic club; fitness studio
@@ -107311,22 +107265,22 @@ are illustrated on the map in Exhibits D, E, F, and G to this chapter. The
 setback requirements apply notwithstanding any other provision of this title to
 the contrary.
 Exhibit B
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15043.png]
 Exhibit C
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15045.png]
 Exhibit D
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15047.png]
 Exhibit E
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15049.png]
 Exhibit F
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15051.png]
 Exhibit G
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15053.png]
 (Ord. 2025-0 007 § 12; Ord. 2018-0 017 § 2; Ord. 2013-0 020 § 1; Ord. 2013-
 0 007 § 1)
@@ -107381,7 +107335,7 @@ permitted. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.216.910   C-4 zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the C-
 4 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -107563,8 +107517,7 @@ center
 of a conditional use permit, subject to the limitations specified: Allowed if
 exempt from the conditional use permit requirement pursuant to section
 17.228.900.C.
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Approval
                                                                                                   Required by:
                                                                                                   Planning and
@@ -107789,7 +107742,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the C-4 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                  Limitations
 Accessory antenna                     
                                      Subject to special use regulations in
@@ -107976,7 +107929,7 @@ The purpose of the M-1 zone is to permit the manufacture or treatment of goods.
 17.220.110   M-1 zone-Permitted uses.
    A.   The following uses are permitted by right in the M-1 zone, subject to
 the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -108145,8 +108098,7 @@ center
  
    B.   Conditional uses. The following uses in the M-1 zone require approval
 of a conditional use permit, subject to the conditions specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Approval
                                                                                                   Required by:
                                                                                                   Planning and
@@ -108371,7 +108323,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the M-1 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -108489,7 +108441,7 @@ uncrowded developments. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.220.210   M-1(S) zone-Permitted uses.
    A.   The following uses are permitted by right in the M-1(S) zone, subject
 to the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -108667,8 +108619,7 @@ center
  
    B.   Conditional uses. The following uses in the M-1(S) zone require
 approval of a conditional use permit, subject to the limitations specified:
-Use Limitations Level of Review: Planning and Design Commission (PDC); Zoning
-                Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Level of
                                                                                                   Review:
                                                                                                   Planning and
@@ -108893,7 +108844,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses in the M-1(S) zone are permitted
 when accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -109015,7 +108966,7 @@ The purpose of the M-2 zone is to permit the manufacture or treatment of goods.
 17.220.310   M-2 zone-Permitted uses.
    A.   The following uses are permitted by right in the M-2 zone, subject to
 the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -109186,8 +109137,7 @@ center
  
    B.   Conditional uses. The following uses in the M-2 zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Approval
                                                                                                   Required by:
                                                                                                   Planning and
@@ -109410,7 +109360,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the M-2 zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                  Limitations
 Accessory antenna                     
                                      Subject to special use regulations in
@@ -109528,7 +109478,7 @@ uncrowded developments. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.220.410   M-2(S) zone-Permitted uses.
    A.   The following uses are permitted by right in the M-2(S) zone, subject
 to the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -109700,8 +109650,7 @@ center
  
    B.   Conditional uses. The following uses in the M-2(S) zone require
 approval of a conditional use permit, subject to the limitations specified:
-Use Limitations Level of Review: Planning and Design Commission (PDC); Zoning
-                Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Level of
                                                                                                   Review:
                                                                                                   Planning and
@@ -109924,7 +109873,7 @@ Well-gas, oil                                                                  
    C.   Accessory uses. The following uses are permitted in the M-2(S) zone
 when accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
                                     Subject to special use regulations in
@@ -110051,7 +110000,7 @@ development designation established in accordance with chapter
 17.220.510   MIP zone-Permitted uses.
    A.   The following uses are permitted by right in the MIP zone, subject to
 the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Commercial
 and             
@@ -110098,8 +110047,7 @@ property)
  
    B.   Conditional uses. The following uses in the MIP zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                              Approval
                                                                                              Required by:
                                                                                              Planning and
@@ -110298,7 +110246,7 @@ uses. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.220.610   MRD zone-Permitted uses.
    A.   The following uses are permitted by right in the MRD zone, subject to
 the limitations specified:
-Use Limitations
+ 
 Use            Limitations
 1. Residential  
 Uses
@@ -110373,8 +110321,7 @@ center
  
    B.   Conditional uses. The following uses in the MRD zone require approval
 of a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                                                                   Approval
                                                                                                   Required by:
                                                                                                   Planning and
@@ -110478,7 +110425,7 @@ property)
    C.   Accessory uses. The following uses are permitted in the MRD zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                  Limitations
 Accessory antenna                     
 Child care, in-home (family day care  
@@ -110508,7 +110455,7 @@ conditional uses are prohibited in the MRD zone. (Ord. 2024-0054 § 34; Ord.
 2024-0017 § 41; Ord. 2021-0023 § 36; Ord. 2020-0025 § 18; Ord. 2020-0021 § 38
 Ord. 2020-0012 § 13; Ord. 2018-0055 § 13; Ord. 2017-0059 § 12; Ord. 2017-0056 §
 12; Ord. 2016-0001 § 28; Ord. 2015-0005 § 37; Ord. 2013-0020 § 1; Ord. 2013-
-0007 § 1)
+0007 §
 17.220.620   MRD zone-Lot size, width, and depth.
    A.   Lot size. The minimum lot size is 10,000 square feet.
    B.   Lot width. The minimum lot width is 62 feet.
@@ -110629,7 +110576,7 @@ office and retail uses, and limits low-density auto-oriented uses. (Ord. 2020-
 17.220.710   M-T zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the M-
 T zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                    Limitations
 1. Residential Uses                     
                                        Subject to special use regulations in
@@ -110728,8 +110675,7 @@ Warehouse; distribution center          
    
    B.   Conditional uses. The following uses in the M-T zone require approval
 of a conditional use permit, subject to the conditions specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                      Approval Required by:
                                                      Planning and Design
 Use                       Limitations                Commission (PDC); Zoning
@@ -110810,7 +110756,7 @@ Recycling facility        regulations in section     ZA/PDC
    C.   Accessory uses. The following uses are permitted in the M-T zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                 Limitations
 Accessory antenna                    
 Childcare, in-home (family day care  
@@ -110974,7 +110920,7 @@ pharmacies are also permitted. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.224.110   H zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the H
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                   Limitations
 1. Commercial and Institutional Uses   
                                       Subject to special use regulations in
@@ -111000,8 +110946,7 @@ property)                             provisions of this title
  
    B.   Conditional uses. The following uses in the H zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -111074,7 +111019,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses are permitted in the H zone when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                              Limitations
 Accessory antenna
 Accessory drive-through facility Subject to special use regulations in section
@@ -111200,8 +111145,7 @@ guidelines. A conditional use permit is required for each use in this zone.
 17.224.210   SPX zone-Permitted uses.
    A.   Conditional uses. The following uses in the SPX zone require approval
 of a conditional use permit, subject to the conditions specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -111264,7 +111208,7 @@ Well-gas, oil                                        PDC
  
    B.   Accessory uses. The following uses are permitted in the SPX zone when
 accessory to a conditional use, subject to the limitations specified:
-Use Limitations
+ 
 Use                              Limitations
 Accessory antenna
 Accessory drive-through facility Subject to special use regulations in section
@@ -111329,7 +111273,7 @@ ground rights and air rights within the corridor. (Ord. 2013-0020 § 1; Ord.
 17.224.310   TC zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the TC
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                   Limitations
 1. Commercial and Institutional Uses   
                                       Permitted in a store that has greater
@@ -111351,8 +111295,7 @@ property)                             provisions of this title
  
    B.   Conditional uses. The following uses in the TC zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -111523,7 +111466,7 @@ other highways or major streets. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.224.410   HC zone-Permitted uses.
    A.   Permitted uses. The following uses are permitted by right in the HC
 zone, subject to the limitations specified:
-Use Limitations
+ 
 Use                                   Limitations
 1. Residential Uses                    
 Residential care facility              
@@ -111570,8 +111513,7 @@ property)                             provisions of this title
  
    B.   Conditional uses. The following uses in the HC zone require approval of
 a conditional use permit, subject to the limitations specified:
-Use Limitations Approval Required by: Planning and Design Commission (PDC);
-                Zoning Administrator (ZA); or City Council (CC)
+ 
                                                       Approval Required by:
                                                       Planning and Design
 Use                        Limitations                Commission (PDC); Zoning
@@ -111689,7 +111631,7 @@ Well-gas, oil                                        PDC
    C.   Accessory uses. The following uses in the HC zone are permitted when
 accessory to a permitted or conditional use, subject to the limitations
 specified:
-Use Limitations
+ 
 Use                                  Limitations
 Accessory antenna
                                      Subject to special use regulations in
@@ -111711,9 +111653,7 @@ Watchperson's quarters               The structure shall be limited to 1,000
  
    D.   Prohibited uses. All uses not listed as permitted, conditional, or
 accessory uses are prohibited in the HC zone. (Ord. 2025-0007 § 22; Ord. 2024-
-0017 § 45; Ord. 2021-0024 § 17; Ord. 2020-0025 § 20; Ord. 2020-0021 § 43; Ord.
-2019-0027 § 21; Ord. 2016-0016 § 14; Ord. 2016-0001 § 31; Ord. 2015-0005 § 40;
-Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
+0017 § 45; Ord. 2021-0024 §
 17.224.420   HC zone-Height, density, and floor area ratios.
    A.   Height. The maximum height is 35 feet.
    B.   Density. Not applicable.
@@ -114018,11 +113958,7 @@ after a "yes" indicates the use is permitted subject to the limitations stated
 in that footnote.
 Sacramento Executive Airport
 Land Use Compatibility Guidelines for Safety
-Land Use Category
-(Standard                      Approach-      Approach-
-Industrial     Clear Zone (EA- Departure Zone Departure Zone 2 Overflight Zone
-Classification 1)              1 (EA-2)       (EA-3)           (EA-4)
-Code)
+ 
 Land Use Category
 (Standard                       Approach-      Approach-
 Industrial      Clear Zone (EA- Departure Zone Departure Zone Overflight Zone
@@ -114644,7 +114580,7 @@ provided in this chapter, or other provisions of this title or code. (Ord.
 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.312.130   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-26.png]
  
 Exhibit B
@@ -114811,6 +114747,7 @@ per-acre requirement for uses located within approach-departure zones 1 and 2
 compatible uses contained in Title 17, and must be approved by the city
 pursuant to section
 17.312.070.
+ 
 Department store (over 3000 sq. ft.)
 Discount house-retail merchandise (over 6400 sq. ft.)
 Drug store (over 3000 sq. ft.)
@@ -115326,17 +115263,17 @@ east and west sides of Stockton Boulevard, between 2nd Avenue on the north and
 65th Street on the south. The SPD boundaries are identified in
 Exhibit A.
 Exhibit A-Map of Broadway/Stockton SPD Boundaries
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-28.jpg]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-30.jpg]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-32.jpg]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-34.jpg]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-36.jpg]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-38.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.404.030   Special land use regulations.
@@ -115402,10 +115339,10 @@ the east, 69th Street/Elvas Avenue to the north, and Q Street to the south. The
 boundaries of the Folsom Boulevard West SPD are shown on
 Exhibit A.
 Exhibit A - Map of Folsom Boulevard West SPD Boundaries
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15131.png]
  
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15133.png]
 (Ord. 2020-0043 § 2)
 17.408.030   Special land use regulations.
@@ -115454,7 +115391,7 @@ on the west and Watt Avenue on the east. The boundaries of the Folsom Boulevard
 East SPD are shown on
 Exhibit B.
 Exhibit B - Map of Folsom Boulevard East SPD Boundaries
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-42.jpg]
 (Ord. 2020-0043 § 3)
 17.409.030   Special land use regulations.
@@ -115619,10 +115556,10 @@ McClellan Heights and Parker Homes SPD and require a conditional use permit:
 2013-0007 § 1)
 17.412.040   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-44.jpg]
 Exhibit B
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-46.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 Chapter 17.416
@@ -115664,7 +115601,7 @@ east side and portions of the west side of Northgate Boulevard south of Patio
 Avenue and north of Garden Highway. The zone is depicted on the map in Exhibit
 A.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-48.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.416.030   Prohibited uses.
@@ -115697,7 +115634,7 @@ these urban neighborhoods; and
    C.   Provide the opportunity for a balanced mixture of uses in neighborhoods
 adjacent to transit facilities and transportation corridors.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15135.png]
 (Ord. 2018-0014 § 2; Ord. 2018-0004 § 1; Ord. 2013-0020 § 1; Ord. 2013-0007 §
 1)
@@ -115789,7 +115726,7 @@ conditions. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 The boundaries of the Del Paso Boulevard/Arden Way SPD are shown on the map set
 out at the end of this section as Exhibit A.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-52.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.424.030   Del Paso Boulevard/Arden Way SPD special regulations.
@@ -115983,7 +115920,7 @@ for 10 to 15 dwelling units per net acre. Housing types within the area
 designated for 8 to 12 dwelling units per acre are limited to detached single-
 unit dwellings.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-54.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.428.040   Del Paso Nuevo SPD-Institutional uses.
@@ -116016,7 +115953,7 @@ Army Depot reuse plan. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 The Sacramento Army Depot SPD is that area shown on Exhibit A set out at the
 end of this section.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-56.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.432.030   Sacramento Army Depot SPD-Allowed uses.
@@ -116230,7 +116167,7 @@ below. The zoning administrator may approve a conditional use permit pursuant
 to, and subject to the findings required by, section
 17.808.200 to allow a nonconforming use to be changed to another nonconforming
 use listed in Table 2 below.
-Table 1: Nonconforming Use Change Permitted by Right
+ 
 Table 1: Nonconforming Use Change Permitted by Right
 Appliance repair shop
 Assembly of electrical or electronic equipment
@@ -116258,8 +116195,7 @@ RV storage (commercial)
 Warehouse; distribution center
 Wholesale stores and distributors
  
-Table 2: Nonconforming Use Change With Zoning Administrator Conditional Use
-Permit
+ 
 Table 2: Nonconforming Use Change With Zoning Administrator Conditional Use
 Permit
 Auto dismantler
@@ -116305,15 +116241,15 @@ of occupancy or approval of final inspection of the repair or reconstruction
 work, whichever is later. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.436.070   Exhibits.
 Exhibit A: River District Specific Plan Boundary
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15137.png]
  
 Exhibit B: Maximum Allowed Height (Measured from Existing Grade)
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15139.png]
  
 Exhibit C: Ground Floor Retail Accommodation
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15141.png]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 Chapter 17.440
@@ -116865,13 +116801,13 @@ development agreement that addresses parking on the unimproved or vacant
 parcel. (Ord. 2016-0045 § 2)
 17.440.140   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15143.png]
 Exhibit B
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15145.png]
 Exhibit C
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15147.png]
 (Ord. 2021-0011 § 14)
 Chapter 17.442
@@ -116934,7 +116870,7 @@ to the size of a retail store.
    B.   Conditional uses. The following uses require approval of a conditional
 use permit by the planning director, subject to chapter
 17.808 and the limitations specified:
-Use Limitations Approval Required by Planning Director (PD)
+ 
 Use                         Limitations                  Approval Required by
                                                          Planning Director (PD)
 1. Residential Uses                                      
@@ -117547,16 +117483,16 @@ building devoted to industrial and commercial uses; and
 devoted to industrial and commercial uses. (Ord. 2018-0013 § 8)
 17.444.150   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15149.png]
 Exhibit B
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15151.png]
 Exhibit C
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15153.png]
 Exhibit D
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15155.png]
 (Ord. 2021-0011 § 15; Ord. 2020-0034 § 2; Ord. 2018-0013 § 8)
 Chapter 17.448
@@ -117597,7 +117533,7 @@ the west, and, on the east, the eastern boundary of the town of Freeport as it
 existed at the time of annexation into the city, as depicted in the map in
 Exhibit A at the end of this section.
 Exhibit A: Freeport Special Planning District (SPD) Boundary Map
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-78.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.448.030   Freeport SPD-Land use regulations.
@@ -118434,11 +118370,7 @@ public street. (Ord. 2017-0009 § 11)
 17.502.190   Standard street sections.
    A.   The right-of-way improvement standards applicable to the land dedicated
 pursuant to this chapter are as follows:
- Range            Planter                                            Total
- of      Sidewalk measured Curb  Parking Bike   Travel Median Half   Right-of-
- Average (feet)   to face  Typea Lane    Lane   Lanes  (feet) Street Way
- Daily            of curb        (feet)  (feet) (feet)        (feet) Dedication
- Traffic          (feet)                                             (feet)
+ 
                         Range of          Planter                                               Total
                         Average  Sidewalk measured Curb     Parking Bike   Travel Median Half   Right-of-
                         Daily    (feet)   to face  Typea    Lane    Lane   Lanes  (feet) Street Way
@@ -120817,7 +120749,7 @@ established as shown in
 Figure 17.608-1: Central Business and Arts & Entertainment, Urban, Traditional,
 and Suburban.
 Figure 17.608-1
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-15157.png]
  
    B.   Maximum number of off-street vehicle parking spaces. Table 17.608.030B
@@ -120826,10 +120758,7 @@ land uses within each parking district. There are no minimum off-street vehicle
 parking requirements for any land use.
 Table 17.608.030B
 Maximum On-site Vehicle Parking Spaces by Parking Districts
-         Central Business
-Land Use and Arts &       Urban District Traditional District Suburban District
-         entertainment
-         District
+ 
                 Central
                 Business and                    Traditional     Suburban
 Land Use        Arts &          Urban District  District        District
@@ -120888,10 +120817,7 @@ established for land uses in each parking district as stated in Table
 17.608.030C.
 Table 17.608.030C
 Bicycle Parking Requirements by Parking Districts
-                    Central Business and Arts &
-Land Use            Entertainment District, Urban      Suburban District
-                    District, and Traditional District
-1. Residential Uses Long-Term Short-Term               Long-Term Short-Term
+ 
 Land Use      Central Business and Arts & Entertainment District, Urban District, and Traditional District                                                Suburban District
 1.
 Residential   Long-Term                                                             Short-Term                                                            Long-Term                                                            Short-Term
@@ -121516,7 +121442,7 @@ Recycling volume shall be provided and maintained as specified in the table
 below for the use to which the property is devoted. Fractional requirements up
 to one-half are omitted; fractional requirements of one-half or over require
 additional volume.
-Land Use Recycling Volume Required Recyclable Materials
+ 
 Land Use                  Recycling Volume Required  Recyclable Materials
 1. Multi-unit dwelling of 1 cubic yard/16 units      metal, glass, plastic,
 5 or more dwelling units                             newspaper (ONP)
@@ -121699,7 +121625,7 @@ right-of-way line, whichever is furthest from the street centerline. The back
 of the sidewalk is the edge of the sidewalk furthest from the street
 centerline.
 Exhibit A
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-82.png]
  
    D.   Maintenance. Maintenance of the wall or fence is the responsibility of
@@ -121996,9 +121922,9 @@ CalTrans sound wall design criteria and the CalTrans standard construction
 drawings of approved sound wall types.
    H.   In areas where terrain, grade, and access control allow, walls may be
 constructed within the state right-of-way under a CalTrans encroachment permit.
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-84.png]
-[https://export.amlegal.com/media/2a593b4373d58f5fc2b5779db4b9cb1a3c90b8f7/
+[https://export.amlegal.com/media/e4d2f50f7bd56b79396bef022677b81e6d87cff1/
 IMAGES/0-0-0-86.png]
  
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
@@ -122297,10 +122223,7 @@ proposed type of accessory structure or use in the first column and read across
 the chart to find the regulations for that type of accessory structure or use.
 For example, the minimum setback requirements for an uncovered parking pad are
 set forth in footnote 1 of this section. "N/A" means not applicable.
-Type of                     Max. Lot    Minimum   Maximum
-Accessory Minimum  Max. Lot Coverage of Distance  Distance  Driveway Other
-Structure Setbacks Coverage Required    from Main from Main          Standards
-or Use                      Rear Yard   Building  Building
+ 
 Type of                      Max. Lot    Minimum   Maximum
 Accessory  Minimum  Max. Lot Coverage of Distance  Distance  Driveway Other
 Structure  Setbacks Coverage Required    from Main from Main          Standards
@@ -122478,7 +122401,7 @@ than 90 days. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.700.050   Occupancy calculation methods.
 The following chart shall be used to estimate the total number of full-time
 employees expected to occupy a development project under this chapter:
-Zoning  Area No. of Employees Per 1,000 Gross Sq. Ft. of Floor Area
+ 
                                                      No. of Employees Per 1,000
 Zoning                             Area              Gross Sq. Ft. of Floor
                                                      Area
@@ -134865,7 +134788,7 @@ complete prior code cross-reference table in the Sacramento City Code.)
    Thus, prior code Section
 3.01.001 appears in the new Sacramento City Code as Section
 8.56.010.
-Prior Code §Herein
+ 
 Prior Code §         Herein
 3.01.001              8.56.010
 3.01.002              8.56.020
@@ -136323,7 +136246,7 @@ Section
 and Zoning Ordinance, comprising the general ordinances of the City of
 Sacramento, California enacted through Ordinance 97-064, published by the City
 of Sacramento.
-Prior Code §Ordinance History Herein
+ 
 Prior Code  Ordinance History                                                   Herein
 §
 1.01.010                                                                       1.04.010
@@ -143627,6 +143550,7 @@ Ch. 32.11                                                                      
 87.01.121                                                                      Not
                                                                                 codified
  
+ 
 ZONING ORDINANCE
 1-1-A             Repealed by 2013-007
 1-1-B             Repealed by 2013-007
@@ -143958,7 +143882,7 @@ ZONING ORDINANCE
  
  
 ORDINANCE LIST AND DISPOSITION TABLE
-Ord. No. Disposition
+ 
 Ord.  Disposition
 No.
 97-   Amends prior code §§ 1.01.070, administrative penalty (1.28)
