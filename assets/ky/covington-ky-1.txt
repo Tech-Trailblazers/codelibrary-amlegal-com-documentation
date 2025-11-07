@@ -1,7 +1,7 @@
 COVINGTON, KENTUCKY
 CODE OF ORDINANCES
-2025 S-8 Supplement contains:
-Local legislation current through Ord. O-09-2025, passed 6-24-2025; and
+2025 S-9 Supplement contains:
+Local legislation current through Ord. O-15-2025, passed 9-23-2025; and
 State legislation current through 2024 Acts
  
 Published by:
@@ -5112,8 +5112,8 @@ consideration by the Board of Commissioners.
    (A)   Department heads shall be responsible for obtaining signatures of all
 non-city parties to a contract. Non-city signatures shall be obtained prior to
 seeking city signatures, except when a conflicting policy of the non-city
-entity exists, or when time will not permit. Original signatures, meaning wet
-ink signatures on paper, should be obtained whenever possible.
+entity exists, or when time will not permit. Signatures of all non-city parties
+to a contract may be obtained electronically or as wet ink signatures on paper.
    (B)   The City Clerk’s office shall utilize a contract cover sheet for
 obtaining internal signatures. One contract cover sheet shall be utilized for
 small contracts and a separate cover sheet for all other agreements. Department
@@ -5131,32 +5131,40 @@ City Clerk. The City Clerk, or the acting City Clerk if the City Clerk is
 otherwise unavailable, shall obtain the signature of the Mayor. No other
 individual shall be permitted to submit a contract for signature, without the
 express authority of the City Manager.
-   (E)   All contracts routed for execution shall contain at least two copies
-of the agreement.
-   (F)   An original and fully executed version of every city contract shall be
-submitted to and maintained by the City Clerk. The City Clerk shall maintain a
-register of all contracts, with the approving legislation number, name of all
-non-city contracting parties and a reference to the physical location of the
-contract, in addition to and independent of the city’s contract management
-software.
+   (E)   Whenever possible, contracts shall be routed electronically via the
+city’s contract management software.
+   (F)   For contracts that require wet ink signatures on paper, an original
+and fully executed version of every city contract along with the corresponding
+completed cover sheet shall be submitted to and maintained by the City Clerk.
+The City Clerk shall maintain a register of all contracts, with the approving
+legislation number, name of all non-city contracting parties and a reference to
+the physical location of the contract, in addition to and independent of the
+city’s contract management software.
    (G)   Department heads shall be responsible for providing a copy of the
 fully executed contract to all non-city contracting parties.
-(1984 Code, § 35.55) (Ord. O-42-18, passed 12-11-2018)
+(1984 Code, § 35.55) (Ord. O-42-18, passed 12-11-2018; Ord. O-10-2025, passed
+7-15-2025)
 § 35.041 CONTRACT DATABASE.
-   (A)   Once a contract has been fully executed, the City Clerk or his or her
-designee shall upload the agreement to the city’s contract management software.
+   (A)   Once a contract has been fully executed via the city’s contract
+management software, the contract shall remain and be stored in its digital
+format within the city’s contrac management software. For contracts that
+require wet ink signatures on paper, the City Clerk or his or her designee
+shall upload the agreement to the city’s contract management software.
    (B)   Utilizing the contract cover sheet completed by the applicable
 department, the City Clerk or his or her designee shall update the contract
 management software with relevant information regarding the contract (i.e.,
 term, contract price, expiration date).
    (C)   Individual department heads shall retain the ultimate responsibility
 for monitoring renewals and compliance with terms of all contracts generated in
-their office. In addition, the office of the City Clerk shall keep a
-notification system identifying the termination date of contracts, with
+their office. In addition, the office of the City Clerk shall maintain
+notification settings for automatic electronic notifications within the city’s
+contract management software based upon the information provided on the
+contract cover sheet identifying the termination date of contracts, with
 sufficient advance notice to negotiate renewals, where applicable, on a timely
 basis. The City Clerk shall provide the procurement officer access to alerts in
 the notification system.
-(1984 Code, § 35.56) (Ord. O-42-18, passed 12-11-2018)
+(1984 Code, § 35.56) (Ord. O-42-18, passed 12-11-2018; Ord. O-10-2025, passed
+7-15-2025)
 CHANGE ORDERS
 § 35.055 CHANGE ORDERS.
    (A)   Issuance. Change orders may be issued to authorize revised work that
@@ -8613,18 +8621,19 @@ dates for the county and the issuance of bills for the collection of taxes
 shall be August 1.
 (1984 Code, § 97.01) (Ord. O-33-73, passed 4-12-1973)
 § 45.02 DUE DATE.
-   (A)   (1)   The due date for city taxes, commencing with the calendar year
-2015 and thereafter, unless otherwise modified or changed, is established as
-October 15 and the delinquency date is established as October 16.
-      (2)   If October 15 falls on a Saturday or Sunday, then the due date
-would be the next available business day.
+   (A)   The due date for city taxes, commencing with the calendar year 2025
+and thereafter, unless otherwise modified or changed, is established as October
+31 and the delinquency date is established as November 1. If October 31 falls
+on a Saturday or Sunday, then the due date would be the next available business
+day.
    (B)   The above dates are fixed in accordance with provisions of KRS 132.285
 which provides, in part, that the legislative body of any city adopting a
 county assessment may fix the due and delinquency dates for taxes and any other
 dates that will enable it effectively to adopt the county assessment,
 notwithstanding any statutory provision to the contrary.
 (1984 Code, § 97.02) (Ord. O-84-77, passed 6-30-1977; Ord. O-86-79, passed 8-
-23-1979; Ord. O-21-14, passed 9-9-2014; Ord. O-33-15, passed 8-25-2015)
+23-1979; Ord. O-21-14, passed 9-9-2014; Ord. O-33-15, passed 8-25-2015; Ord. O-
+14-2025, passed 9-23-2025)
 § 45.03 PAYMENT, COLLECTION AND ENFORCEMENT OF TAXES.
    The city’s Finance Director is authorized, with the assistance of the City
 Solicitor, to file in the appropriate court of competent jurisdiction an action
@@ -21727,7 +21736,7 @@ parcel of real estate abutting upon the proposed improvement.
 shall pay a fee in the amount of $50.
 (1984 Code, § 96.21) (Ord. O-04-20, passed 1-28-2020)
 § 96.037 DUTY OF PROPERTY OWNER TO MAINTAIN AND REPAIR.
-   (A)   It shall be the duty of event person owning lots or real estate
+   (A)   It shall be the duty of every person owning lots or real estate
 fronting and abutting on any sidewalk in the city to maintain, at his or her
 own expense and in a suitable state of repair, the sidewalk, so far as it
 fronts or abuts upon his or her lots or real estate.
@@ -23958,14 +23967,14 @@ misdemeanor.
 7-2004; Ord. O-24-07, passed 6-19-2007; Ord. O-31-15, passed 8-18-2015; Ord. O-
 33-16, passed 11-15-2016)
 APPENDIX A: FORM OL-3
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3568.png]
  
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3570.png]
  
 APPENDIX B: FORM 1099-SF
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3572.png]
  
 CHAPTER 111: ADVERTISING
@@ -34130,13 +34139,13 @@ violates this or any provision thereof may be deemed a separate offense.
 (1984 Code, § 150.99) (Ord. O-13-94, passed 4-12-1994; Ord. O-83-03, passed 12-
 16-2003; Ord. O-22-10, passed 6-28-2010)
 APPENDIX A: COUNTY ORDINANCE ON ELECTRICIANS; ELECTRICAL CONTRACTORS
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3576.png]
  
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3578.png]
  
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3580.png]
  
 Editor’s note:
@@ -38886,12 +38895,12 @@ APPENDIX C: TYPICAL DETAIL SECTIONS FOR STREET DESIGNS
    
 14.   Joint details
 § 1. SINGLE AND DOUBLE GUTTER INLET.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3712.png]
  
 (1984 Code, Ch. 157, App. C, § 1) (Ord. O-86-78, passed 8-17-1978)
 § 2. COVER HEIGHTS, GAGES AND CLASSES FOR CERTAIN-TYPE PIPE.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3714.png]
  
    NOTES
@@ -38962,34 +38971,34 @@ As per §
 157.102 of this chapter.
 (1984 Code, Ch. 157, App. C, § 3) (Ord. O-86-78, passed 8-17-1978)
 § 4. STANDARD DROP MANHOLE.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3644.png]
  
 (1984 Code, Ch. 157, App. C, § 4) (Ord. O-86-78, passed 8-17-1978)
 § 5. STANDARD MANHOLE.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3646.png]
  
 (1984 Code, Ch. 157, App. C, § 5) (Ord. O-86-78, passed 8-17-1978)
 § 6. TYPICAL WATER MAIN AND FIRE HYDRANT ASSEMBLY LOCATION FOR ALL STREETS.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3648.png]
  
 (1984 Code, Ch. 157, App. C, § 6) (Ord. O-86-78, passed 8-17-1978)
 § 7. CURB AND GUTTER DETAILS.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3650.png]
  
 (1984 Code, Ch. 157, App. C, § 7) (Ord. O-86-78, passed 8-17-1978)
 § 8. TYPICAL SECTIONS .
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3652.png]
  
 *Typical sections would vary with use of optional section as per §
 157.104, Table 2, of this chapter.
 (1984 Code, Ch. 157, App. C, § 8) (Ord. O-86-78, passed 8-17-1978)
 § 9. TYPICAL SHOULDER AND DITCH DETAIL.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3654.png]
  
    OPTION TO CURB AND GUTTER - ALL STREETS
@@ -39000,27 +39009,27 @@ IMAGES/0-0-0-3654.png]
 157.104, Table 2, of this chapter.
 (1984 Code, Ch. 157, App. C, § 9) (Ord. O-86-78, passed 8-17-1978)
 § 10. TURNAROUND DETAILS FOR DEAD-END STREETS.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3656.png]
  
 (1984 Code, Ch. 157, App. C, § 10) (Ord. O-86-78, passed 8-17-1978)
 § 11. DETAIL OF TEMPORARY TURNAROUND FOR FUTURE STREET EXTENSION.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3658.png]
  
 (1984 Code, Ch. 157, App. C, § 11) (Ord. O-86-78, passed 8-17-1978)
 § 12. RESIDENTIAL DRIVEWAY DETAILS.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3660.png]
  
 (1984 Code, Ch. 157, App. C, § 12) (Ord. O-86-78, passed 8-17-1978)
 § 13. DETAIL CENTERLINE PERMANENT CONTROL MONUMENT.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3662.png]
  
 (1984 Code, Ch. 157, App. C, § 13) (Ord. O-86-78, passed 8-17-1978)
 § 14. JOINT DETAILS.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3664.png]
  
 (1984 Code, Ch. 157, App. C, § 14) (Ord. O-86-78, passed 8-17-1978)
@@ -39187,12 +39196,12 @@ the road descends at 5 to 6%, sight distance should be reduced by a factor of
 0.5.
    (E)   When the criteria for sight distances to the right cannot be met, the
 need can be eliminated by prohibiting left turns by existing vehicles.
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3716.png]
  
    SIGHT DISTANCE FOR VEHICLES EXITING FROM ACCESS POINTS
    (Refer to Appendix E, Table 7a)
-[https://export.amlegal.com/media/cf6a7832afd9fd165140aebe9e7f712d966bc646/
+[https://export.amlegal.com/media/89ab0d844d61fd00e48b8c90396d74edbbdb4f8f/
 IMAGES/0-0-0-3718.png]
  
 LEFT TURN SIGHT DISTANCE FOR VEHICLES ENTERING ACCESS POINTS
@@ -39960,6 +39969,8 @@ O-12- 7-19-  Vacating a portion of the Monterey Street right of way and a portio
 22    2022   unnamed alley south of Fourteenth Street and north of Monterey Street.
 O-02- 1-23-  Closing a portion of the first unimproved ten-foot-wide alley east of Greenup
 24    2024   Street and perpendicular to 15th Street East.
+O-13- 8-12-  Vacating a portion of Washington Street in the Covington Central Riverfront
+2025  2025   Site.
             
  
 TABLE II: COMPREHENSIVE PLAN AMENDMENTS
@@ -40930,6 +40941,8 @@ O-29- 8-27-  Naming the planned Covington Central Riverfront project alley betwe
 O-31- 10-8-  Avenue and Scott Street, from Scott Street to its intersection with the north/
 24    2024   south alley, and between E. 9th Street and E. 10th Street, as “Dr. John D.
              Redden Way”.
+O-12- 8-12-  Renaming Holman Street as “Holman Avenue”.
+2025  2025
             
  
 TABLE VIII: FRANCHISES
@@ -45386,5 +45399,12 @@ O-06-2025  5-27-2025   30.07
 O-07-2025  5-27-2025   TSO Table V
 O-08-2025  6-10-2025   158.01
 O-09-2025  6-24-2025   Not included
+O-10-2025  7-15-2025   35.040;
+                       35.041
+O-11-2025  8-12-2025   Not included
+O-12-2025  8-12-2025   TSO Table VII
+O-13-2025  8-12-2025   TSO Table I
+O-14-2025  9-23-2025   45.02
+O-15-2025  9-23-2025   Not included
                       
  
