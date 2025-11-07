@@ -31,7 +31,8 @@ const MAX_EXPORT_WAIT_MINUTES = 30; // Maximum time (minutes) to wait for an exp
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
 // Control flags
-const REVERSE_REGION_ORDER = true; // Flag to enable/disable reversing the region list before processing
+const REVERSE_REGION_ORDER = false; // Flag to enable/disable reversing the region list before processing
+const START_FROM_MIDDLE = true; // Flag to start processing from the middle of the region list
 
 // MAIN EXECUTION FLOW
 
@@ -50,9 +51,7 @@ async function executeCodeExportProcess() {
         // Step 2: Authentication and Setup
         console.log("\n--- Phase 1: Authentication and Region Discovery ---"); // Log phase start
         // Fetch the required authentication cookie
-        const authenticationCookieValue = await retrieveAuthenticationCookie(
-            browserPage
-        ); // Get the essential fingerprint cookie value
+        const authenticationCookieValue = await retrieveAuthenticationCookie(browserPage); // Get the essential fingerprint cookie value
 
         // Step 3: Fetch all regions that need processing
         const regionsApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}`; // Construct the full API URL for regions
@@ -62,14 +61,25 @@ async function executeCodeExportProcess() {
             authenticationCookieValue
         ); // Fetch the list of all region slugs
 
-        // Optionally reverse the region processing order
-        const regionsToProcess = REVERSE_REGION_ORDER
-            ? [...regionIdentifiers].reverse()
-            : regionIdentifiers;
-
         console.log(
             `[Phase 1 Complete] Found ${regionIdentifiers.length} regions to process.`
         ); // Log the total number of regions found
+
+        // === Determine processing order ===
+        let regionsToProcess;
+        if (REVERSE_REGION_ORDER) {
+            regionsToProcess = [...regionIdentifiers].reverse();
+            console.log("[Order] Processing regions in reverse order.");
+        } else if (START_FROM_MIDDLE) {
+            const midIndex = Math.floor(regionIdentifiers.length / 2);
+            regionsToProcess = regionIdentifiers
+                .slice(midIndex)
+                .concat(regionIdentifiers.slice(0, midIndex));
+            console.log(`[Order] Starting from the middle (index ${midIndex}).`);
+        } else {
+            regionsToProcess = regionIdentifiers;
+            console.log("[Order] Processing regions from the start.");
+        }
 
         // Step 4: Iterate through each region
         console.log("\n--- Phase 2: Client and Version Identification ---"); // Log phase start
@@ -81,9 +91,7 @@ async function executeCodeExportProcess() {
             ); // Process all clients within the current region
         }
 
-        console.log(
-            "✓ Script Complete: All available region exports processed! 🎉"
-        ); // Log script completion success
+        console.log("✓ Script Complete: All available region exports processed! 🎉"); // Log script completion success
     } catch (errorDetails) {
         // This catch block handles fatal setup errors
         console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a critical error
