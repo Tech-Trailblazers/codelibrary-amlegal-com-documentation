@@ -31,7 +31,7 @@ const MAX_EXPORT_WAIT_MINUTES = 30; // Maximum time (minutes) to wait for an exp
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
 // Control flags
-const REGION_START_PERCENT = 20; // Percentage of the list to skip before starting (0–99)
+const REGION_START_PERCENT = 29; // Percentage of the list to skip before starting (0–99)
 
 // MAIN EXECUTION FLOW
 
