@@ -53418,7 +53418,7 @@ SEC. 32-83.   AUTHORITY TO ENFORCE.
    Authority to enforce this article is delegated to the department of water
 utilities acting by and through the director and the police department. (Ord.
 Nos. 15071; 19312; 21176)
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-39.png]
 CHAPTER 33
 ASSISTED LIVING FACILITIES
@@ -61381,23 +61381,31 @@ Sec.
 SEC. 40A-1.   DEFINITIONS.
    In this chapter, unless the context clearly indicates otherwise:
       (1)   ACTUARIAL EQUIVALENT means the equivalent in value on the basis of
-the actuarial factors recommended by the fund's actuary and adopted by the
+the actuarial factors recommended by the fund’s actuary and adopted by the
 board.
-      (2)   ACTUARIAL VALUATION REPORT means the report issued by the fund's
+      (2)   ACTUARIAL VALUATION REPORT means the report issued by the fund’s
 actuary and adopted by the board for any relevant period. The board shall
 provide a copy of each actuarial valuation report to the city promptly after
 adoption.
-      (3)   ACTUARIALLY REQUIRED CONTRIBUTION RATE means, for any fiscal year,
-a rate of contribution to the fund, expressed as a percentage of members'
+      (3)   ACTUARIALLY DETERMINED CONTRIBUTION RATE means, for any fiscal
+year, a rate of contribution to the fund, expressed as a percentage of members’
 projected wages for such fiscal year, that is the sum of the following as
 determined in the actuarial valuation report for the preceding plan year:
-         (A)   the actuarial present value of the pension plan benefits and
-expenses that are allocated to a valuation period by the actuarial cost method;
-and
+         (A)   the normal cost and expenses that are allocated to a valuation
+period by the actuarial cost method; and
          (B)   the contribution that will amortize the difference between the
 actuarial accrued liability of the fund and the actuarial value of the assets
-of the fund over the period of years required by generally accepted accounting
-principles.
+of the fund over the period(s). For purposes of this paragraph, the unfunded
+actuarial accrued liability as of December 31, 2024, will be amortized over a
+closed amortization period of 30 years from December 31, 2024. In each future
+valuation, new amortization layers will be amortized over a closed amortization
+period that is the later of December 31, 2054 or 20 years. Each year’s new
+amortization layer is the difference between the expected remaining balance of
+all previous years’ layers and the actual unfunded actuarial accrued liability
+for the given valuation. If the actuarial assets of the fund exceed the
+actuarial liabilities for a given valuation, the outstanding layers may be
+collapsed into a single layer with a closed amortization period that is the
+later of December 31, 2054 or 20 years.
       (4)   ACTUARY means a person with at least five years of experience as an
 actuary working with one or more public retirement systems; and is a fellow of
 the Society of Actuaries, a member of the American Academy of Actuaries, or an
@@ -61422,7 +61430,7 @@ benefits as computed under this chapter at the time of retirement or death of a
 member, inactive member, or retiree.
       (7)   BENEFICIARY means a person who is entitled to payment of benefits
 under this chapter upon the death of a member, inactive member, or retiree.
-      (8)   BOARD means the board of trustees of the employees' retirement fund
+      (8)   BOARD means the board of trustees of the employees’ retirement fund
 of the city of Dallas.
       (9)   CHILD means an unmarried person whose parent is a member, inactive
 member, or retiree.
@@ -61431,38 +61439,31 @@ member, or retiree.
 Texas.
       (12)   COMMUTED VALUE means the present value of a series of payments to
 be made in the future, the present value to be calculated using the actuarial
-interest assumption prescribed in Section
-40A-9 as the only discounting factor.
+interest assumption prescribed in Section 40A-9 as the only discounting factor.
       (13)   CREDITED SERVICE means any period that a person is paid as an
 employee of the city and contributes to the fund.
       (14)   CURRENT ADJUSTED TOTAL OBLIGATION RATE means, for any fiscal year,
-the rate recommended by the fund's actuary and adopted by the board as follows,
-using whichever formula is applicable:
-         (A)   If the current total obligation rate minus the prior adjusted
-total obligation rate is greater than three, then the current adjusted total
-obligation rate for such fiscal year is equal to the lesser of:
-            (i)   the prior adjusted total obligation rate plus one-half times
-the difference of the current total obligation rate minus the prior adjusted
-total obligation rate; or
-            (ii)   110 percent times the prior adjusted total obligation rate;
-or
-            (iii)   36 percent.
-         (B)   If the difference between the current total obligation rate and
-the prior adjusted total obligation rate is less than three, then the current
-adjusted total obligation rate for such fiscal year is equal to the prior
-adjusted total obligation rate.
-         (C)   If the prior adjusted total obligation rate minus the current
-total obligation rate is greater than three, then the current adjusted total
-obligation rate for such fiscal year is equal to the greater of:
-            (i)   the prior adjusted total obligation rate minus one-half times
-the difference of the prior adjusted total obligation rate minus the current
-total obligation rate; or
-            (ii)   90 percent times the prior adjusted total obligation rate.
-      (15)   CURRENT TOTAL OBLIGATION RATE means, for any fiscal year, the rate
-adopted by the board that is equal to the sum of the pension obligation bond
-credit rate for such fiscal year plus the actuarially required contribution
-rate for such fiscal year.
-      (16)   DEPENDENT PARENT means a member, inactive member, or retiree's
+the rate recommended by the fund’s actuary and adopted by the board as follows:
+         (A)   During the applicable phase-in period:
+            (i)   If the current total obligation rate exceeds the total
+contribution rate maximum, then the current adjusted total obligation rate for
+such fiscal year is equal to the total contribution rate maximum.
+            (ii)   If the current total obligation rate is less than or equal
+to the total contribution rate maximum, then the current adjusted total
+obligation rate for such fiscal year is equal to the current total obligation
+rate.
+         (B)   After the applicable phase-in period, the current adjusted total
+obligation rate for the fiscal year shall equal the current total obligation
+rate for such fiscal year. To determine the current adjusted total obligation
+rate, the applicable phase-in period means the five-year period beginning on
+October 1, 2025, and ending September 30, 2030.
+      (15)   CURRENT TOTAL OBLIGATION RATE means, for any fiscal year in which
+a pension obligation bond credit rate is included, the contribution rate over
+the period adopted by the board that incorporates the pension obligation bond
+credit rate (if any) for such fiscal year and the actuarially determined
+contribution rate for such fiscal year, otherwise it will be equal to the
+actuarially determined contribution rate.
+      (16)   DEPENDENT PARENT means a member, inactive member, or retiree’s
 parent who is:
          (A)   totally and permanently disabled and who receives over half of
 the support for each calendar year from the member, inactive member, or
@@ -61477,7 +61478,7 @@ value lump sum payment under Section
 40A-16(e) or
 40A-21(c); or
          (C)   a member, inactive member, or retiree to receive the earned but
-unpaid portion of the final month's pension due under Section
+unpaid portion of the final month’s pension due under Section
 40A-23(e).
       (18)   EMPLOYEE:
          (A)   means a person employed by the city on a permanent basis who
@@ -61493,7 +61494,7 @@ employment by the city;
             (v)   a police officer, firefighter, or fire alarm operator as
 those categories are defined in the classifications of the personnel department
 of the city.
-      (19)   FISCAL YEAR means the city's fiscal year, which is the 12-month
+      (19)   FISCAL YEAR means the city’s fiscal year, which is the 12-month
 period commencing October 1 and ending the following September 30.
       (20)   INACTIVE MEMBER means a person:
          (A)   who has terminated employment with the city but who has not
@@ -61525,20 +61526,22 @@ a person establishing credited service under Section
       (26)   NONSERVICE DISABILITY means total and permanent disability caused
 by injury, sickness, or disease while not in the performance of official city
 duties.
+      (26.1)   NORMAL COST means the actuarial present value of the pension
+plan benefits that are allocated to a valuation period by the actuarial cost
+method.
       (27)   PARENT has the meaning ascribed to that term in Section 51.02 of
 the Texas Family Code, as amended.
       (28)   PART-TIME EMPLOYEE means an employee classified as part-time by
-the city under Section
-34-8(c) of this code, as amended.
+the city under Section 34-8(c) of this code, as amended.
       (29)   PENSION means an amount payable monthly to a person eligible to
 receive death or retirement benefits under the retirement fund.
       (30)   PENSION OBLIGATION BOND CREDIT RATE means, for any fiscal year,
 the rate adopted by the board that is a percentage calculated by dividing the:
          (A)   debt service due during such fiscal year on any pension
 obligation bonds, the proceeds of which have been deposited in the fund, by
-         (B)   total members' projected wages for such fiscal year, as reported
+         (B)   total members’ projected wages for such fiscal year, as reported
 in the relevant actuarial valuation report.
-      (31)   PENSION OBLIGATION BONDS means bonds described in Chapter 107 of
+      (31)    PENSION OBLIGATION BONDS means bonds described in Chapter 107 of
 the Texas Local Government Code (or any successor law that supersedes such
 chapter) and issued by the city.
       (32)   PERCENTAGE MULTIPLIER means the percentage by which the average
@@ -61552,14 +61555,11 @@ the board.
       (36)   PRICE INDEX means the national Consumer Price Index of Urban Wage
 Earners and Clerical Workers (CPI-W) published by the Bureau of Labor
 Statistics of the U. S. Department of Labor, or its successor in function.
-      (37)   PRIOR ADJUSTED TOTAL OBLIGATION RATE means, for any fiscal year,
-the current adjusted total obligation rate that was effective for the prior
-fiscal year.
-      (38)   QUALIFIED RECIPIENT means:
+      (37)   QUALIFIED RECIPIENT means:
          (A)   the spouse of a deceased member or inactive member at the time
 of death of the member or inactive member;
          (B)   the spouse of a deceased retiree, if the spouse was married to
-the retiree at the time of retirement and at the time of the retiree's death;
+the retiree at the time of retirement and at the time of the retiree’s death;
          (C)   each child of a deceased member, inactive member, or retiree
 under the age of 18, if the child was alive or had been conceived at the time
 of death of the member, inactive member, or retiree;
@@ -61569,19 +61569,19 @@ disabled before the age of 18; and
          (E)   a parent of a deceased member, inactive member, or retiree who
 was a dependent parent at the time of death of the member, inactive member, or
 retiree.
-      (39)   RESTRICTED PRIOR SERVICE CREDIT means service credit for work as a
+      (38)   RESTRICTED PRIOR SERVICE CREDIT means service credit for work as a
 permanent, full-time, paid employee of a government entity, agency, authority,
 or political subdivision of the United States or its states or territories,
 performed before employment or re-employment by the city.
-      (40)   RETIREE means a person who was once a member but who has retired
+      (39)   RETIREE means a person who was once a member but who has retired
 from city employment and is receiving a pension from the fund other than a
 death benefit.
-      (41)   RETIREMENT means terminating city employment for a reason other
+      (40)   RETIREMENT means terminating city employment for a reason other
 than death and fulfilling all requirements for a pension under this chapter.
-      (42)   RETIREMENT FUND or FUND means the employees' retirement fund of
+      (41)   RETIREMENT FUND or FUND means the employees’ retirement fund of
 the city of Dallas and the program of benefits established under this chapter
 and any rule or regulation established by the board.
-      (43)   SERVICE DEATH means the death of a member resulting from an injury
+      (42)   SERVICE DEATH means the death of a member resulting from an injury
 sustained while in the performance of official city duties. A death resulting
 from an injury sustained while in the performance of official city duties does
 not include:
@@ -61590,7 +61590,7 @@ performance of official city duties was subjected to a greater hazard from an
 act of God than that to which the general public was subjected;
          (B)   a death caused by an act of a third person who causes the death
 of the member because of reasons personal to the third person and not for
-reasons of the member's employment;
+reasons of the member’s employment;
          (C)   a death caused while the member was attempting to injure or kill
 another person;
          (D)   a suicide;
@@ -61599,9 +61599,9 @@ solely because of an injury sustained in the performance of official city
 duties and the injury was the primary cause of death;
          (F)   a death while on leave for military active duty; or
          (G)   a death resulting from an injury in which a contributing factor
-was the member's ingestion of an alcoholic beverage or illegal ingestion,
+was the member’s ingestion of an alcoholic beverage or illegal ingestion,
 inhalation, or injection of a controlled substance.
-      (44)   SERVICE DISABILITY means total and permanent disability caused by
+      (43)   SERVICE DISABILITY means total and permanent disability caused by
 injury while in the performance of official city duties. An injury while in the
 performance of official city duties does not include:
          (A)   an injury caused by an act of God unless the member in the
@@ -61609,48 +61609,51 @@ performance of official city duties was subjected to a greater hazard from an
 act of God than that to which the general public was subjected;
          (B)   an injury caused by an act of a third person who injures the
 member because of reasons personal to the third person and not for reasons of
-the member's employment;
-         (C)   an injury in which a contributing factor was the member's
+the member’s employment;
+         (C)   an injury in which a contributing factor was the member’s
 ingestion of an alcoholic beverage or illegal ingestion, inhalation, or
 injection of a controlled substance;
          (D)   an injury caused while the member was attempting to injure or
 kill another person; or
          (E)   an injury that was self-inflicted.
-      (45)   SPOUSE means the person to whom the member, inactive member, or
+      (44)   SPOUSE means the person to whom the member, inactive member, or
 retiree is married, as evidenced by the last marriage certificate or
 declaration of informal marriage on file with the retirement fund and verified
 by the administrator to be valid in the jurisdiction in which the marriage was
 celebrated.
-      (46)   TIER A means:
+      (45)   TIER A means:
          (A)   a person who was:
             (i)   employed by the city before January 1, 2017; or
             (ii)    re-employed or reinstated by the city on or after January
 1, 2017, and whose credited service before January 1, 2017, has not been
 canceled by withdrawal or forfeiture; and
          (B)   a beneficiary or designee of that person.
-      (47)   TIER B means:
+      (46)   TIER B means:
          (A)   a person who was:
             (i)   employed by the city on or after January 1, 2017; or
             (ii)    re-employed or reinstated by the city on or after January
 1, 2017, and whose prior credited service has been canceled by withdrawal or
 forfeiture; and
          (B)   a beneficiary or designee of that person.
-      (48)   TOTAL AND PERMANENT DISABILITY means the continuing inability of a
+      (47)   TOTAL AND PERMANENT DISABILITY means the continuing inability of a
 person to obtain and retain any type of employment for compensation as a result
 of a mental or physical impairment caused by an injury or illness. A person is
 not under a total or permanent disability if, with reasonable effort and safety
 to the person, the impairment can be diminished to the extent that the person
 will not be prevented by the impairment from obtaining and retaining any type
 of employment for compensation.
-      (49)   TRANSITION YEAR means each of the following:
-         (A)   the first fiscal year in which debt service payments related to
-pension obligation bonds are due from the city; and
-         (B)   the first fiscal year in which no debt service payments related
-to pension obligation bonds are due from the city.
-      (50)   VESTED means that a member or inactive member has accumulated
+      (48)   TOTAL CONTRIBUTION RATE MAXIMUM means for fiscal years 2026
+through 2030:
+         (A)   38.22 percent (fiscal year 2026);
+         (B)   39.45 percent (fiscal year 2027);
+         (C)   40.68 percent (fiscal year 2028);
+         (D)   41.91 percent (fiscal year 2029); and
+         (E)   the actuarially determined contribution rate (fiscal year 2030
+and all subsequent fiscal years).
+      (49)   VESTED means that a member or inactive member has accumulated
 sufficient credited service or age to have earned a nonforfeitable right to
 receive a pension benefit, payable in accordance with the terms of the plan.
-      (51)   WAGE:
+      (50)   WAGE:
          (A)   means:
             (i)   wages of an employee as defined in Section 3401(a) of the
 Internal Revenue Code for income tax withholding, including salary continuation
@@ -61661,7 +61664,7 @@ services performed;
             (iii)   elective contributions to a plan of deferred compensation,
 including a plan established under Section 125, 401(k), or 457 of the Internal
 Revenue Code, and elective reductions in compensation for qualified
-transportation fringe benefits that are excluded from an employee's gross
+transportation fringe benefits that are excluded from an employee’s gross
 income by reason of Section 132(f)(4) of the Internal Revenue Code; and
             (iv)   any lump sum payment made at termination of employment for
 accrued vacation leave or prorated service incentive pay; and
@@ -61680,7 +61683,7 @@ benefits, or catastrophic leave benefits; or
             (vii)   any compensation in excess of the limits imposed by Section
 401(a)(17)(A), as adjusted in accordance with Section 401(a)(17)(B), of the
 Internal Revenue Code. (Ord. Nos. 15414; 16886; 17713; 18181; 19470; 20960;
-21582; 22345; 25695; 25818; 28739; 29644; 30162)
+21582; 22345; 25695; 25818; 28739; 29644; 30162; 32801)
 SEC. 40A-2.   CREATION OF THE RETIREMENT FUND AND BOARD OF TRUSTEES;
 COMPOSITION AND OFFICERS OF THE BOARD.
    (a)   Creation. There is hereby created the employees' retirement fund of
@@ -61716,20 +61719,29 @@ elect a replacement at its next meeting. (Ord. Nos. 15414; 20960; 21582; 25695;
 SEC. 40A-3.   TERMS AND REMUNERATION OF THE BOARD.
    (a)   Terms.
       (1)   Elected board members.
-         (A)   On and after January 1, 2017, the three elected positions on the
+         (A)   On and after January 1, 2025, the three elected positions on the
 board will be designated Place 1, Place 2, and Place 3, respectively, as
 determined by the board.
          (B)   The elected members, including incumbents, of the board shall
 serve without remuneration and for terms as follows:
             (i)   A member elected to Place 1 will serve a three-year term,
-with the initial term running from January 1, 2017, through December 31, 2019.
+with the initial term running from January 1, 2027, through December 31, 2029.
             (ii)   A member elected to Place 2 will serve a three-year term,
-with the initial term running from January 1, 2019, through December 31, 2021.
+with the initial term running from January 1, 2025, through December 31, 2027.
             (iii)   A member elected to Place 3 will serve a three-year term,
 except that the initial term will be for two years and run from January 1,
-2019, through December 31, 2020.
+2026, through December 31, 2028.
+         (C)   A person who has served as an elected member of the board under
+this subsection for three consecutive terms beginning on and after January 1,
+2025, of whatever length of time, will not again be eligible to serve on the
+board until at least one term has elapsed, regardless of whether service was as
+a member or chair.
       (2)   Appointed board members. The appointed members of the board shall
-serve without remuneration and for terms of two years.
+serve without remuneration and for terms of two years. In accordance with
+Section 8-1.5(a), a person who has served as an appointed member of the board
+under this subsection for four consecutive two-year terms will not again be
+eligible to serve on the board until at least one term has elapsed, regardless
+of whether service was as a member or chair.
    (b)   Vacancy.
       (1)   A position on the board becomes vacant if the occupant:
          (A)   was elected as an employee member and is no longer an employee;
@@ -61742,7 +61754,7 @@ within 90 days after the vacancy occurs to fill the unexpired term of the
 member; or
          (B)   a city council appointee, the city council shall appoint a new
 member to fill the unexpired term of the member. (Ord. Nos. 15414; 20960;
-21582; 25695; 30162)
+21582; 25695; 30162; 32801)
 SEC. 40A-4.   POWERS, DUTIES, AND IMMUNITIES OF THE BOARD.
    (a)   In addition to other powers and duties it may have under state or
 federal law, the board shall have the power and duty to:
@@ -61807,13 +61819,15 @@ constitutes a prohibited transaction under Section 503(b) of the Internal
 Revenue Code.
    (c)   No expenditures may be made from the retirement fund without the
 approval of the board by resolution or by adoption of its budget.
-   (d)   The board shall adopt the actuarially required contribution rate, the
+   (d)   Except as provided in Sections
+40A-7.1 and
+40A-9, the board shall adopt the actuarially determined contribution rate, the
 current adjusted total obligation rate, the current total obligation rate, and
 the pension obligation bond credit rate for each fiscal year no later than June
 1 of the preceding fiscal year, and shall promptly notify the city manager of
 the adoption.
    (e)   At least every five plan years, or in accordance with state law,
-whichever is sooner, the board shall provide 60 days' notice to the city
+whichever is sooner, the board shall provide 60 days’ notice to the city
 manager:
       (1)   that the board intends to engage a second actuarial firm to perform
 an actuarial peer review/audit; and
@@ -61822,10 +61836,7 @@ an actuarial peer review/audit; and
 selected, the board shall seek another actuarial firm to perform the peer
 review/audit and re-notify the city manager. This process shall repeat until
 the city manager no longer objects to the actuarial firm the board intends to
-engage. The board shall then engage such actuarial firm for such purpose. If
-the process described in Section
-40A-7.1 is used, the requirements of this subsection shall be satisfied for the
-plan year in which the process concludes.
+engage. The board shall then engage such actuarial firm for such purpose.
    (f)   The board shall meet at any time after posting timely notice as
 required by law. Four members of the board constitute a quorum. The approval of
 four members of the board is necessary for any motion of the board to carry.
@@ -61846,7 +61857,7 @@ accountant, who may also be employed by the city. The board is not liable for
 any act or conduct that was performed in good faith reliance on the opinion of
 an actuary, attorney, physician, or accountant with respect to an actuarial,
 legal, medical, or accounting matter, respectively. (Ord. Nos. 15414; 17713;
-18181; 19470; 20960; 21582; 22345; 25695; 30162)
+18181; 19470; 20960; 21582; 22345; 25695; 30162; 32801)
 SEC. 40A-4.1.   INVESTMENT MANAGERS; FIDUCIARY DUTIES.
    (a)   The board may appoint investment managers for the fund by contracting
 for professional investment management services with one or more organizations,
@@ -61919,15 +61930,13 @@ SEC. 40A-6.   EMPLOYEE CONTRIBUTIONS.
 to the fund under Section
 40A-20; or
       (2)   a leased employee who is not eligible to contribute to the fund.
-   (b)   Contribution amount.
-      (1)   For each pay period ending during a transition year, each member
-shall contribute to the retirement fund an amount equal to 37 percent times the
-current total obligation rate for that fiscal year times the member’s wages for
-the pay period.
-      (2)   For each pay period ending during a fiscal year other than a
-transition year, each member shall contribute to the retirement fund an amount
-equal to 37 percent times the current adjusted total obligation rate for that
-fiscal year times the member’s wages for the pay period.
+   (b)   Contribution amount. For each pay period ending during a fiscal year,
+each member shall contribute to the retirement fund an amount equal to 37
+percent times the current adjusted total obligation rate for that fiscal year
+times the member’s wages for the pay period, except that a Tier A member shall
+not contribute more than 14 percent of the member’s wages per pay period to the
+retirement fund and a Tier B member shall not contribute more than 13.32
+percent of the member’s wages per pay period to the retirement fund.
    (c)   Deductions. The contributions by each member receiving compensation
 from the city will normally be made by means of deduction on each payday.
    (d)   Discontinuing contributions.
@@ -61938,106 +61947,80 @@ unless the member is on:
       (2)   A member who discontinues contributions to the retirement fund
 under Subsection (d)(1)(B) will have any retirement or death benefits computed
 based on credited service established at the date of discontinuance. (Ord. Nos.
-15414; 17713; 19470; 20960; 21582; 25695; 30162)
+15414; 17713; 19470; 20960; 21582; 25695; 30162; 32801)
 SEC. 40A-7.   CITY CONTRIBUTIONS.
-   (a)   Contribution amount.
-      (1)   For each pay period ending during a transition year, the city shall
-contribute to the retirement fund an amount equal to:
-         (A)   63 percent times the current total obligation rate for that
-fiscal year times the members' wages for the pay period, minus
-         (B)   the pension obligation bond credit rate for that fiscal year
-times the members' wages for the pay period.
-      (2)   For each pay period ending during a fiscal year other than a
-transition year, the city shall contribute to the retirement fund an amount
-equal to:
-         (A)   63 percent times the current adjusted total obligation rate for
-that fiscal year times the members' wages for the pay period, minus
-         (B)   the pension obligation bond credit rate for that fiscal year
-times the members' wages for the pay period.
-   (b)   The city shall provide for costs of administration of the retirement
+   (a)   Contribution amount. The city shall contribute to the retirement fund
+an amount equal to the current adjusted total obligation rate for that fiscal
+year times the members’ wages for the pay period, minus the sum of:
+      (1)   the projected aggregate member contributions under Section
+40A-6; and
+      (2)   the pension obligation bond credit rate for that fiscal year, with
+such sum divided by the members’ wages for the pay period.
+   (b)   In addition to the contributions required under Subsection (a), the
+city may at any time, in its sole discretion, contribute additional monies to
+the retirement fund. The impact of any such additional contributions will be
+reflected in the contribution rates determined by the actuarial valuation next
+following the date on which any such additional contributions are made.
+   (c)   The city shall provide for costs of administration of the retirement
 fund, if the board determines that payment of the costs by the retirement fund
 will have an adverse effect on payment of benefits and that the costs are
 necessary. The city may modify any budget provision for administrative costs
 that it is being asked to fund under this subsection.
-   (c)   The total contributions of the employees and the city must be
+   (d)   The total contributions of the employees and the city must be
 forwarded by the city to the retirement fund not later than the end of each
 week for all contributions made as to the pay period ending in that week.
-   (d)   The city may not contribute to the retirement fund for an employee on
+   (e)   The city may not contribute to the retirement fund for an employee on
 leave of absence or unpaid leave for military active duty.
-   (e)   The city may not withdraw its contribution previously made to the
+   (f)   The city may not withdraw its contribution previously made to the
 retirement fund. Nothing in this subsection prohibits the administrative
 adjustment of future contributions for erroneously made prior contributions, if
 the adjustment is made within 60 days after the error is made or discovered,
 whichever occurs later.
-   (f)   All payments and benefits provided for in this chapter must be made
+   (g)    All payments and benefits provided for in this chapter must be made
 from the retirement fund. There is no obligation on the part of the city, the
 board, or the employees to provide for payment of benefits from any other
 source, nor is there any liability on the city or the employees to make any
 contribution other than those specified in this section and Section
-40A-6. (Ord. Nos. 15414; 18181; 19470; 20960; 21582; 25695; 30162)
+40A-6. (Ord. Nos. 15414; 18181; 19470; 20960; 21582; 25695; 30162; 32801)
 SEC. 40A-7.1.   MODIFICATION OF CONTRIBUTION RATES.
-   (a)   Notwithstanding the provisions of Sections
-40A-4(d),
-40A-6, and
-40A-7, for any fiscal year in which the prior adjusted total obligation rate
-does not equal the current adjusted total obligation rate, the city may, within
-45 days after receiving notice of the rates adopted by the board under Section
-40A-4(d), retain at its complete discretion its own actuary who shall calculate
-member and city contributions to the fund based on the methods, assumptions,
-projections, and calculations determined by the actuary employed by the city;
-provided, however, that the actuarial assumptions must be consistent with the
-terms of this chapter. If the city's actuary agrees with the board's actuary,
-the determinations of the board's actuary shall be used to determine member and
-city contributions to the fund for the fiscal year.
-   (b)   If there is a dispute between the actuary employed by the board and
-the actuary employed by the city with respect to the required member and/or
-city contributions to the fund for a fiscal year, the two actuaries shall
-attempt to resolve their differences. If the two actuaries resolve their
-differences, they shall sign a document setting forth the underlying actuarial
-methods, assumptions, projections, and calculations, and the resulting
-actuarially required contribution rate, current adjusted total contribution
-rate, current total obligation rate, and pension obligation bond credit rate,
-all of which shall be adopted by the board and used to determine member and
-city contributions to the fund for the fiscal year if the dispute is resolved
-prior to the commencement of the fiscal year; unless the board determines, in
-its discretion, that the conclusions agreed to by the two actuaries are not
-actuarially sound, in which case the board shall adopt sound actuarial
-assumptions and the resulting actuarially required contribution rate, current
-adjusted total obligation rate, current total obligation rate, and pension
-obligation bond credit rate.
-   (c)   If the differences between the two actuaries cannot be resolved within
-90 days after the appointment of the second actuary, the board shall retain a
-third actuary based upon the joint recommendation of the other two actuaries.
-The third actuary shall review and calculate member and city contributions to
-the fund based on the methods, assumptions, projections, and calculations
-determined by the third actuary; provided, however, that the actuarial
-assumptions must be consistent with the terms of this chapter. The board, the
-city, and their respective actuaries shall cooperate with the third actuary and
-promptly provide such information as the third actuary reasonably requests. The
-three actuaries shall confer regarding the actuarial dispute between the city's
-and the board's actuaries, and shall attempt to resolve their differences. If
-any two of the three actuaries agree regarding the underlying actuarial
-methods, assumptions, projections, and calculations, and the resulting
-actuarially required contribution rate, current adjusted total obligation rate,
-current total obligation rate, and pension obligation bond credit rate, such
-joint determinations shall be communicated in writing to the board and adopted
-by the board and used in establishing the member and city contributions to the
-fund for the fiscal year if the dispute is resolved prior to the commencement
-of the fiscal year; unless the board determines, in its discretion, that the
-conclusions agreed upon are not actuarially sound, in which case the board
-shall adopt sound actuarial assumptions and the resulting actuarially required
-contribution rate, current adjusted total obligation rate, current total
-obligation rate, and pension obligation bond credit rate.
-   (d)   If a dispute described in this Section
-40A-7.1 is not resolved prior to the commencement of the fiscal year, the
-member and city contributions to the fund for such fiscal year (as a percentage
-of wages) shall be the same as the prior fiscal year.
-   (e)   Notwithstanding Section
-40A-1(37), for any fiscal year in which the process described in this Section
-40A-7.1 results in a change in the current adjusted total obligation rate, then
-the prior adjusted total obligation rate for the succeeding fiscal year shall
-be deemed to be the current adjusted total obligation rate determined by the
-board through the process described in this section. (Ord. Nos. 25695; 30162)
+   Notwithstanding the definitions in Sections
+40A-1(3),
+40A-1(14),
+40A-1(15),
+40A-1(30), and
+40A-1(48), the provisions of Sections
+40A-4(d) and 40A-7, or any other provision to the contrary:
+      (1)   Changes to the actuarial assumptions, including, but not limited
+to, the discount rate, that increases the retirement fund liability must be
+approved prospectively by the board and the city council.
+      (2)   Settlement of any lawsuit by the retirement fund that increases the
+retirement fund liability must be approved prospectively by the board and the
+city council.
+      (3)   Annually, the fund and the city will each calculate an actuarially
+determined contribution rate for the following fiscal year. The city will
+accept the rate that is determined by the fund's actuary and presented to the
+board, except, if the difference between the rates that are calculated by the
+actuaries of the city and the fund is greater than three percent, the fund and
+the city shall engage in a 30-day reconciliation period. If, within such
+period, the actuaries of the city and the fund reconcile the results of their
+respective calculations of the actuarially determined contribution rate for the
+applicable fiscal year, the rate that was calculated by the fund’s actuary
+shall be accepted by the city and the fund. If no such resolution is reached
+within the 30-day reconciliation period, an average of the rates, determined by
+the actuaries of the city and the fund, will be used to determine the city's
+contribution under Section 40A-7 for the upcoming fiscal year.
+      (4)   After the applicable phase-in period defined in Section
+40A-1(14), if in any fiscal year the actuarially determined contribution rate
+(excluding the December 31, 2024 unfunded actuarially accrued liability 30-year
+amortization schedule) exceeds plus or minus five percent of the actuarially
+determined contribution rate (excluding the December 31, 2024 unfunded
+actuarially accrued liability 30-year amortization schedule) specified by the
+December 31, 2024 actuarial valuation, the excess amount will be amortized over
+a period of 20 years or until December 31, 2054, whichever is later. If the
+city council determines that the fund is projected to be fully funded in over
+30 years, the city council may, in its sole discretion, waive this paragraph.
+The board may make a recommendation to city council requesting that city
+council waive this paragraph. (Ord. Nos. 25695; 30162; 32801)
 SEC. 40A-8.   EFFECT OF MEMBERSHIP IN THE RETIREMENT FUND.
    A person, by becoming or remaining a member, inactive member, retiree, or
 beneficiary of the retirement fund, binds the person and the person's heirs,
@@ -62045,10 +62028,11 @@ administrators, executors, legal representatives, beneficiaries, and survivors
 to all provisions of this chapter. (Ord. Nos. 15414; 19470; 20960; 21582;
 30162)
 SEC. 40A-9.   ACTUARIAL ASSUMPTIONS.
-   (a)   Except when specifically provided otherwise in this chapter, the
-board, upon recommendation of the fund's actuary, shall adopt and establish
-reasonable actuarial assumptions, interest rates, and mortality tables to be
-used under this chapter.
+   (a)   Except when specifically provided in Section
+40A-7.1(1) or as otherwise provided in this chapter, the board, upon
+recommendation of the fund’s actuary, shall adopt and establish reasonable
+actuarial assumptions, interest rates, and mortality tables to be used under
+this chapter.
    (b)   When determining the commuted value of future benefits under the fund
 during a particular calendar year, the five-year average of the 10-year
 treasury bond (calculated as of the last business day of each of the last five
@@ -62056,7 +62040,7 @@ years averaged together) is the interest assumption that must be used.
    (c)   When calculating the limits under Section 415 of the Internal Revenue
 Code, the applicable mortality table and applicable interest rate determined by
 the United States secretary of the treasury and in effect at the time of the
-calculation must be used. (Ord. Nos. 20960; 21582; 28739; 30162)
+calculation must be used. (Ord. Nos. 20960; 21582; 28739; 30162; 32801)
 SEC. 40A-10.   CREDITED SERVICE; COMPUTATION OF BENEFITS.
    (a)   A retiree or a beneficiary is entitled to benefits of the retirement
 fund on the basis of credited service established while a member.
@@ -62896,17 +62880,19 @@ may not take action to reduce an individual pension. (Ord. Nos. 15414; 19470;
 SEC. 40A-35.   AMENDMENT TO THIS CHAPTER.
    (a)   Except as provided in Subsection (b) of this section, this chapter may
 not be amended except by a proposal initiated by either the board or the city
-council that results in an ordinance approved by the board, adopted by the city
-council, and approved by a majority of the voters voting at a general or
-special election.
+council that results in an ordinance adopted by the city council and approved
+by a majority of the voters voting at a general or special election. The board
+may make a recommendation to city council on all proposed amendments to this
+chapter.
    (b)   A provision of this chapter, other than this section, that is
-determined by the board to require amendment in order to comply with federal
-law may be amended by ordinance of the city council, without voter approval,
-upon recommendation of the board. The board shall recommend the exact amending
-language to be included in the ordinance, which language may not be limited or
-added to by the city council. An amendment may be made under this subsection
-only to the extent necessary to comply with federal law. (Ord. Nos. 15414;
-20960; 21582; 25695; 30162)
+determined by the board or the city to require amendment in order to comply
+with federal law may be amended by ordinance of the city council, without voter
+approval. An amendment may be made under this subsection only to the extent
+necessary to comply with federal law.
+   (c)   The city manager shall notify the board and the plan administrator in
+writing of the city’s intent to propose any amendments to this chapter for city
+council discussion, deliberation, or direction. (Ord. Nos. 15414; 20960; 21582;
+25695; 30162; 32801)
 CHAPTER 40B
 SECONDARY METALS RECYCLERS
 ARTICLE I.
@@ -73345,7 +73331,7 @@ Min. No. Inlets (N) Pool Volume Gals. (V)
 By formula N2 + N + 6 =  V  through 25 inlets.
           1000
 Over 25 inlets are limited to a maximum of 70 GPM per each 2” inlet.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-41.png]
  
 ARTICLE IV.
@@ -82143,12 +82129,12 @@ the capital and operating cost of wastewater facilities to provide treatment
 for the reduction of BOD and suspended solids. The formula is:
          (A)   Surcharge for excessive concentrations:
       Payment rate per 1,000 gallons:
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9895.png]
          (B)   Surcharge for excessive concentrations for wastewater metered
 separately:
       Payment rate per 1,000 gallons:
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9893.png]
       BOD =   Average concentrations of BOD in mg/l, determined from sampling
 the waste as described in Section
@@ -97072,8 +97058,28 @@ Ordinance Number Specified Passage Effective Date   Ordinance City Code
                                                                28-76.6
                                                   2         Amends
                                                                28-130.9(a)
-32801            8-14-24                            1         Deletes 8-1.5(a-
+32801            8-14-24            8-14-24          1         Deletes 8-1.5(a-
                                                                1)
+                                  1-1-25           2         Amends
+                                                               40A-1
+                                                  3         Amends
+                                                               40A-3(a)
+                                                  4         Amends
+                                                               40A-4(a)
+                                                  5         Amends
+                                                               40A-4(d)
+                                                  6         Amends
+                                                               40A-4(e)
+                                                  7         Amends
+                                                               40A-6(b)
+                                                  8         Amends
+                                                               40A-7
+                                                  9         Amends
+                                                               40A-7.1
+                                                  10        Amends
+                                                               40A-9(a)
+                                                  11        Amends
+                                                               40A-35
 32843            9-11-24                            1         Amends
                                                                7-5.5(a)
                                                   2         Amends
@@ -116679,17 +116685,17 @@ chapter for specific regulations. In the event of a conflict between the yard,
 lot, and space charts and the text of this chapter, the text of this chapter
 controls.
 To view a PDF of the schedules found below, please click HERE
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-89.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-91.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-93.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-95.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-97.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-99.png]
 SEC. 51A-4.411.   SHARED ACCESS DEVELOPMENT.
    (a)   Purpose. Traditional single family lots front on a street and have a
@@ -118977,10 +118983,10 @@ or used as a parking structure or a projecting porch. For purposes of
 interpreting the vertical plane in the neighborhood stabilization overlay
 districts adopted prior to December 13, 2023, the term "building line" means
 "building facade."
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-10159.jpg]
  
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-10157.jpg]
       (5)   INTERIOR SIDE YARD is a side yard not abutting a street.
       (6)   MEDIAN means the middle number in a set of numbers where one-half
@@ -126005,7 +126011,7 @@ foot away from the point of beginning for every one foot the slope rises,
 resulting in a 45 degree slope. A 2:1 setback-to-height slope moves two feet
 away from the point of beginning for every one foot the slope rises, resulting
 in a 26.5651 degree slope.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-103.png]
       (6)   SINGLE-TENANT SIGN means a detached sign that advertises only one
 business.
@@ -130564,13 +130570,13 @@ SEC. 51A-7.1215.   APPLICATION OF HIGHWAY BEAUTIFICATION ACTS.
    For purposes of applying the Federal and Texas Highway Beautification Acts,
 this district is considered to be a commercial zone. (Ord. 28071)
 EXHIBIT A - ORD. 20345
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-105.png]
 EXHIBIT B - ORD. 20345
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-107.png]
 EXHIBIT C - ORD. 26768
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-109.png]
 Division 51A-7.1300. Provisions for Deep Ellum/Near East Side Sign District.
 SEC. 51A-7.1301.   DESIGNATION OF SIGN DISTRICT.
@@ -145979,13 +145985,13 @@ surface parking areas must be located to the rear of the building. Primary
 entrances must be prominent and street- facing. Large storefront windows must
 be provided to encourage interaction between the pedestrian and the ground-
 story space.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9251.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9253.png]
       (3)   Districts permitted.
  
@@ -145995,7 +146001,7 @@ HIGH:    WMU-20, WMU-40
 OVERLAY: -SH
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9255.png]
 BUILDING USE
 A summary of permitted uses by story is shown on the left. For a complete list
@@ -146034,9 +146040,9 @@ Abutting alley (min ft)                                           5
 Abutting service street (min ft)                                  10
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9257.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9259.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146088,13 +146094,13 @@ surface parking areas must be located to the rear of the building. Primary
 entrances must be prominent and street-facing. Large storefront windows must be
 provided to encourage interaction between the pedes- trian and the ground-story
 space.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9261.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9263.png]
       (3)   Districts Permitted.
  
@@ -146102,7 +146108,7 @@ LOW:     WMU-3, WMU-5
 OVERLAY: -SH
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9265.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146140,9 +146146,9 @@ Abutting alley (min ft)                                           5
 Abutting service street (min ft)                                  10
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9267.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9269.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146197,13 +146203,13 @@ of compatible nonresidential uses. The building must be pulled up to the
 street. No on-site surface parking is permitted between the building and the
 street. On-site surface parking areas must be located to the rear of the
 building. Primary entrances must be street-facing.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9271.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9273.png]
       (3)   Districts Permitted.
  
@@ -146212,7 +146218,7 @@ MEDIUM: WMU-8, WMU-12
 HIGH:   WMU-20, WMU-40
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9275.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146250,9 +146256,9 @@ Abutting alley (min ft)                                           5
 Abutting service street (min ft)                                  10
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9277.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9279.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146311,13 +146317,13 @@ permitted between the building and the street. On-site sur- face parking must
 be located to the rear of the building. The building often shares a common
 entrance. Primary entrances must be prominent and street-facing. An elevated
 ground floor for residential uses is recommended to ensure privacy.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9281.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character ex- amples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9283.png]
       (3)   Districts Permitted.
  
@@ -146326,7 +146332,7 @@ MEDIUM: WMU-8, WMU-12  WR-8, WR-12
 HIGH:   WMU-20, WMU-40 WR-20, WR-40
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9285.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146364,9 +146370,9 @@ Abutting alley (min ft)                                           5
 Abutting service street (min ft)                                  10
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9287.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9289.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146425,13 +146431,13 @@ units total). Each unit typically has its own external entrance. No on-site
 surface parking is permitted between the building and the street. Garages
 facing the primary street are not per- mitted. An elevated ground floor for
 residential uses is recommended to ensure privacy.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9291.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9293.png]
       (3)   Districts Permitted.
  
@@ -146439,7 +146445,7 @@ LOW:    WMU-3, WMU-5  WR-3, WR-5
 MEDIUM: WMU-8, WMU-12 WR-8, WR-12
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9295.png]
 BUILDING USE
 A summary of permitted uses by story is shown on the left. For a complete list
@@ -146479,9 +146485,9 @@ Abutting alley (ft)                                             3 or 20 or more
 Abutting service street (ft)                                    3 or 20 or more
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9297.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9299.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146521,7 +146527,7 @@ street.
          (B)   All vehicular access must be to the rear of the building.
          (C)   Where the garage is less than 20 feet from the alley, an
 automatic garage door opener is required.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9301.png]
       (7)   Landscaping.
          (A)   General landscaping standards are set forth in Section
@@ -146547,13 +146553,13 @@ parking is permitted between the building and the street. Garages facing the
 primary street are pro- hibited. In the RTN district, only one unit per lot is
 permitted. An elevated ground floor for residential uses is recommended to
 ensure privacy.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9303.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9766.png]
       (3)   Districts Permitted.
  
@@ -146561,7 +146567,7 @@ LOW:    WMU-3, WMU-5  WR-3, WR-5  RTN
 MEDIUM: WMU-8, WMU-12 WR-8, WR-12
  
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9307.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146600,9 +146606,9 @@ Abutting alley (ft)                                             3 or 20 or more
 Abutting service street (ft)                                    3 or 20 or more
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9309.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9311.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146644,7 +146650,7 @@ street.
          (B)   All vehicular access must be to the rear of the building.
          (C)   Where the garage is less than 20 feet from the alley, an
 automatic garage door opener is required.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9313.png]
       (7)   Landscaping.
          (A)   General landscaping standards and alternative requirements for
@@ -146682,18 +146688,18 @@ building may be situated either wholly or partially over or under other
 dwelling units. No garage may face a primary street. In the RTN district, up to
 two units per lot are permitted. An elevated ground floor for residential uses
 is recommended to ensure privacy.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9315.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9317.png]
       (3)   Districts Permitted.
          LOW:   WMU-3, WMU-5, WR-3, WR-5   RTN
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9319.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146723,9 +146729,9 @@ Abutting common lot line (min ft)                               3
 Abutting alley (min ft)                                         3 or 20+
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9321.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9323.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146764,14 +146770,14 @@ must take place from the alley. On corner lots, access may be taken from the
 side street, in which case the garage door may face a side street.
             (ii)   If the garage is less than 20 feet from the alley, an
 automatic garage door opener is required.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9325.png]
          (B)   No Alley Provided.
             (i)   When an alley is not provided or developed, street-facing
 garages may be positioned as set forth below.
             (ii)   If the garage is less than 20 feet from the street, an
 automatic garage door opener is required.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9327.png]
       (7)   Landscaping.
          (A)   General landscaping standards are set forth in Section
@@ -146790,18 +146796,18 @@ lot.
 lot. Garages fac- ing the primary street are prohibited. Only one unit per lot
 is permitted. An elevated ground floor for residential uses is recom- mended to
 ensure privacy.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9329.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9331.png]
       (3)   Districts Permitted.
          LOW:   RTN
       (4)   Use and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9333.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146830,9 +146836,9 @@ Abutting a common lot line (min ft)                             5
 Abutting alley (min ft)                                         3 or 20+
  
       (5)   Height and Elements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9335.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9337.png]
 BUILDING HEIGHT
 HEIGHT
@@ -146870,7 +146876,7 @@ from an alley. On a corner lot, access may be taken from the side street, in
 which case the garage door may face a side street.
          (B)   If the garage is less than 20 feet from the alley, an automatic
 garage door opener is required.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9339.png]
       (7)   Landscaping.
          (A)   General landscaping standards and alternative requirements for
@@ -146891,13 +146897,13 @@ order to provide a visual landmark. In order to provide greater flexibility and
 allow more distinctive architectural expression, civic buildings do not have
 mandatory street frontage requirements. No surface parking is permitted between
 the building and any primary street.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9341.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9343.png]
       (3)   Districts Permitted.
  
@@ -146907,7 +146913,7 @@ HIGH:    WMU-20, WMU-40 WR-20, WR-40
 OVERLAY: -SH
  
       (4)   Use, Height, and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9345.png]
 BUILDING USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -146955,13 +146961,13 @@ space or natural area worthy of preservation.
 private open space. Open space lots can also be used to accommodate commercial
 surface parking lots, although commercial surface parking lots may not be used
 to satisfy open space requirements.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9347.png]
       (2)   Character Examples.
          Character examples are provided below for illustrative purposes only
 and are intended to be character examples of the development type and not the
 streetscape.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9349.png]
       (3)   Districts Permitted.
  
@@ -146971,9 +146977,9 @@ HIGH:    WMU-20, WMU-40 WR-20, WR-40
 OVERLAY: -SH
  
       (4)   Use, Height, and Placement.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9351.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9353.png]
 USE
 A summary of permitted uses is shown on the left. For a complete list of
@@ -147001,7 +147007,7 @@ Rear (min ft)                      10
             An open space lot must be configured as set forth in Subparagraphs
 (B) through (K).
          (B)   Plaza or Esplanade.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9355.png]
             (i)   A plaza is a formal open space defined by building frontages
 and abutting streets. An esplanade is a linear, open area, abutting a river,
@@ -147032,7 +147038,7 @@ esplanade must be level.
 must configure development as though the plaza or esplanade were a primary
 street.
          (C)   Square.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9357.png]
             (i)   A square is a formal open space defined by building frontages
 and abutting streets. A square must be at least 10,000 square feet in size, but
@@ -147055,7 +147061,7 @@ least two inches at the time of planting.
             (ix)   Lots that share a common lot line with a square must
 configure development as though the square were a primary street.
          (D)   Green.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9359.png]
             (i)   A green is an informal open space defined by abutting
 streets.
@@ -147080,7 +147086,7 @@ least two inches at the time of planting. Site tree plantings may be informal.
             (x)   Lots that share a common lot line with a green must configure
 development as though the green were a primary street.
          (E)   Neighborhood Park.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9361.png]
             (i)   A neighborhood park is a natural landscape consisting of open
 and wooded areas and may also include, but are not limited to, tennis courts,
@@ -147104,7 +147110,7 @@ Streets and Streetscapes.”)
 tree per 2,500 square feet of lot area. Each tree must have a caliper of at
 least two inches at the time of planting.
          (F)   Tot Lot.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9363.png]
             (i)   A tot lot provides play areas for children as well as open
 shelter and benches.
@@ -147121,7 +147127,7 @@ Streets and Streetscapes.”)
 tree per 2,500 square feet of lot area. Each tree must have a caliper of at
 least two inches at the time of planting.
          (G)   Community Garden.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9365.png]
             (i)   A community garden is a grouping of garden plots available to
 nearby residents for small-scale cultivation, including storage facilities for
@@ -147134,7 +147140,7 @@ size, but may not exceed two acres.
 accordance with the ST-1 streetscape standard. (See Division 51A-13.500, “Minor
 Streets and Streetscapes.”)
          (H)   Landscaped Median.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9367.png]
             (i)   A wide landscape median provides open space and green area
 embedded within the public realm of a minor street.
@@ -147151,7 +147157,7 @@ feet from the back of curb.
             (vi)   Improvements may include paved walks, trails, benches, and
 trash receptacles.
          (I)   Greenbelt.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9369.png]
             (i)   Greenbelts typically follow natural features such as streams
 or rivers. They are designed to incorporate natural settings such as creeks and
@@ -147186,7 +147192,7 @@ occupancy is required for all open space lots.
 (Am. Ord. 30889, passed 6-13-18; Am. Ord 31470, passed 2-24-20)
 SEC. 51A-13.305. BUILDING ELEMENTS.
    (a)   Arcades.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9371.png]
       (1)   Arcades are permitted on mixed use shopfront, single-story
 shopfront, general commercial, and civic development types.
@@ -147198,7 +147204,7 @@ the width of the building facade.
       (4)   No arcade may encroach into the door yard or the public right-of-
 way.
    (b)   Galleries.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9373.png]
       (1)   Galleries are permitted on mixed use shopfront, single-story
 shopfront, general commercial, and civic development types.
@@ -147211,7 +147217,7 @@ the width of the building facade from which it projects.
 into the public right-of-way without a license for the use of that right-of-
 way.
    (c)   Awnings.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9375.png]
       (1)   Awnings are permitted on mixed use shopfront, single-story
 shopfront, general commercial, apartment, and civic development types.
@@ -147221,7 +147227,7 @@ above the sidewalk and must have a minimum depth of six feet.
 into the public right-of-way without a license for the use of that right-of-
 way.
    (d)   Balconies.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9377.png]
       (1)   Balconies are permitted only on the upper stories of mixed use
 shopfront, general commercial, apartment, townhouse stacked, townhouse, manor
@@ -147231,7 +147237,7 @@ house, single- family house, and civic development types.
 into the public right-of-way without a license for the use of that right-of-
 way.
    (e)   Stoops.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9770.png]
       (1)   Stoops are permitted on townhouse stacked, townhouse, manor house,
 apartment, and single-family house development types.
@@ -147243,7 +147249,7 @@ and six feet wide.
       (5)   A stoop may encroach into the door yard. No stoop may encroach into
 the public right-of-way without a license for the use of that right-of-way.
    (f)   Front Porches.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9381.png]
       (1)   Front porches are permitted on townhouse stacked, townhouse, manor
 house, apartment, and single-family house development types.
@@ -148706,7 +148712,7 @@ additional spaces may be provided through the use of special parking.
 Division 51A-13.500.
 Minor Streets and Streetscapes.
 SEC. 51A-13.501.   GENERAL PROVISIONS.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9383.png]
    (a)   Planting Zone.
       (1)   The planting zone is the area nearest to the curb within the public
@@ -148880,10 +148886,10 @@ may be approved by the director of transportation and public works.
 within a WMU, WR, or RTN district. All streets must be two-way and be
 constructed with a maxi- mum design speed of 35 mph.
          (A)   Parallel Parking (MS-1A).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9385.png]
          (B)   Angle (60°) Parking (MS-1B).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9387.png]
       (3)   Residential Streets.
          The following requirements apply to the construction of new
@@ -148892,10 +148898,10 @@ constructed with a maxi- mum design speed of 30 mph. When RTN applies to either
 side of a street and the other side of the street is in a WMU or WR district,
 both sides of the street must use the RTN cross-section.
          (A)   Parallel Parking (MS-2A).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9389.png]
          (B)   Yield with Parallel Parking (MS-2B).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9391.png]
       (4)   Service Street (MS-3A).
          (A)   The following requirements apply to the construction of new
@@ -148905,7 +148911,7 @@ maximum design speed of 30 mph.
          (C)   A hedge or low wall not less than 30 inches in height at the
 time of installation must be provided within the parking setback area to screen
 the edge of the vehicular use area or parking structure.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9393.png]
       (5)   Alley.
          The following requirements apply to the construction of new alleys
@@ -148913,18 +148919,18 @@ within a WMU, WR, and RTN district. When a residential use abuts both sides of
 an alley, the cross-section for a residential alley (MS-4B) is required,
 otherwise the cross-section for a commercial alley (MS-4A) is required.
          (A)   Commercial Alley (MS-4A).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9395.png]
          (B)   Residential Alley (MS-4B).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9397.png]
       (6)   Shared Access Area.
          The following requirements apply to the construction of a shared
 access area.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9399.png]
       (7)   Pedestrian Passage.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9768.png]
    The following requirements apply to the construction of a pedestrian
 passage. Except as provided in this paragraph, the passage must connect from a
@@ -148941,7 +148947,7 @@ cross. No bump-outs are required on alleys.
       (2)   The width and depth of the bump-out will be determined by the
 director of transportation and public works by balancing the needs for
 vehicular access with those of pedestrian accessibility.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9403.png]
    (d)   Modification of Standards.
    Modifications to the street standards may be allowed by the director of
@@ -148972,7 +148978,7 @@ TXDOT.
    (b)   Mixed Use Streetscape (ST-1).
    The following streetscape standard applies to property within a WMU or WR
 district that abuts an existing street.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9405.png]
    (c)   Indented Parking.
       (1)   In General.
@@ -148986,7 +148992,7 @@ parking setback, as set forth in Section
 specified below. Trees along a multi-way boulevard are considered street trees
 and are not counted as site trees.
       (2)   Indented Parking (ST-2).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9407.png]
    (d)   Multi-Way Boulevards.
       (1)   In General.
@@ -149001,15 +149007,15 @@ setback area and parking setback, as set forth in Section
 zone as specified below. Trees along a multi- way boulevard are considered
 street trees and are not counted as site trees.
       (2)   Parallel Parking (ST-3).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9409.png]
       (3)   Angle (60°) Parking (ST-4).
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9411.png]
    (e)   Residential Streetscape (ST-5).
       The following streetscape standards apply to property within a RTN
 district that abuts an existing street.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9413.png]
    (f)   Parking Buffer (ST-6).
       (1)   The following streetscape standards apply when a parking lot abuts
@@ -149017,7 +149023,7 @@ a public street (not including an alley).
       (2)   A hedge or low wall at least 30 inches in height at the time of
 installation must be provided within the parking setback area to screen the
 edge of the vehicular use area/parking structure.
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9415.png]
    (g)   Nonconforming Streetscapes.
       (1)   Reductions.
@@ -156778,44 +156784,44 @@ brief a city council committee on this provision by May 24, 2025.
 30894; 31705; 32441; 32465; 32659; 32864; 32907)
 51-4.201 USE CHARTS
  
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9502.png]
  
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9504.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9506.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9508.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9510.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9512.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9514.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9516.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9518.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9520.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9522.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9524.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9522.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9526.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9528.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9530.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9532.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9534.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9881.png]
  
 SEC. 51-4.218.   LIMITED USES.
@@ -157655,13 +157661,13 @@ SEC. 51-4.410.   SCHEDULE OF YARD, LOT, AND SPACE REGULATIONS.
    The following charts comprise the schedule of yard, lot, and space
 regulations for purposes of this division. (Ord. 18920)
 YARD, LOT, AND SPACE CHART (PDF)
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9856.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9854.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9852.png]
-[https://export.amlegal.com/media/fce4cccb436e7458aa5de289df014aa7c850b70c/
+[https://export.amlegal.com/media/45538b7d70cf2be6385b79fb74c935e549ca0663/
 IMAGES/0-0-0-9850.png]
  
 SEC. 51-4.411.   MAXIMUM DENSITIES FOR RESIDENTIAL USES.
