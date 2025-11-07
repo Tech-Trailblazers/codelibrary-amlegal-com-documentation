@@ -30,6 +30,9 @@ const AUTH_FINGERPRINT_COOKIE_NAME = "_alp_fp"; // The name of the essential coo
 const MAX_EXPORT_WAIT_MINUTES = 30; // Maximum time (minutes) to wait for an export job to complete
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
+// Control flags
+const REVERSE_REGION_ORDER = true; // Flag to enable/disable reversing the region list before processing
+
 // MAIN EXECUTION FLOW
 
 // Main function to orchestrate the entire code export process.
@@ -58,13 +61,19 @@ async function executeCodeExportProcess() {
             regionsApiUrl,
             authenticationCookieValue
         ); // Fetch the list of all region slugs
+
+        // Optionally reverse the region processing order
+        const regionsToProcess = REVERSE_REGION_ORDER
+            ? [...regionIdentifiers].reverse()
+            : regionIdentifiers;
+
         console.log(
             `[Phase 1 Complete] Found ${regionIdentifiers.length} regions to process.`
         ); // Log the total number of regions found
 
         // Step 4: Iterate through each region
         console.log("\n--- Phase 2: Client and Version Identification ---"); // Log phase start
-        for (const regionSlug of regionIdentifiers) {
+        for (const regionSlug of regionsToProcess) {
             await processRegionForExports(
                 browserPage,
                 regionSlug,
