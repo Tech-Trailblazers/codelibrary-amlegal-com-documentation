@@ -1,8 +1,8 @@
 PEWEE VALLEY, KENTUCKY
 CODE OF ORDINANCES
-2024 S-8 Supplement contains:
-Local legislation current through November 1, 2023
-State legislation current through KRS Pamphlet 2023
+2025 S-9 Supplement contains:
+Local legislation current through December 4, 2024; and
+State legislation current through KRS 2025 Pamphlet
  
 Published by:
 American Legal Publishing
@@ -1347,9 +1347,10 @@ received by it under division (A) of this section to the Legislative Research
 Commission to be used for the purposes of KRS 6.955 to 6.975 or to the Auditor
 of Public Accounts.
    (D)   Each city required by this section to conduct an annual or biennial
-audit shall enter into a written contract with the selected auditor. The
-contract shall set forth all terms and conditions of the agreement which shall
-include but not be limited to requirements that:
+audit shall enter into a written contract with an auditor, who shall be a
+certified public accountant or the Auditor of Public Accounts. The contract
+shall set forth all terms and conditions of the agreement which shall include
+but not be limited to requirements that:
       (1)   The auditor be employed to examine the basic financial statements,
 which shall include the government-wide and fund financial statements;
       (2)   The auditor shall include in the annual or biennial city audit
@@ -1390,7 +1391,7 @@ include the general fund and all major funds;
       (3)   A statement that a copy of the complete audit report, including
 financial statements and supplemental information, is on file at city hall and
 is available for public inspection during normal business hours;
-      (4)    A statement that any citizen may obtain from city hall a copy of
+      (4)   A statement that any citizen may obtain from city hall a copy of
 the complete audit report, including financial statements and supplemental
 information, for his or her personal use;
       (5)   A statement which notifies citizens requesting a personal copy of
@@ -1416,15 +1417,17 @@ completing and submitting a required audit or financial statement in compliance
 with the applicable deadlines in division (A) of this section, the city may
 submit a written request for an extension of time to the Department for Local
 Government on a form prescribed by the Department for Local Government. The
-Department for Local Government shall approve the request if it is submitted on
-or before the applicable deadline and, in the judgment of the Department for
-Local Government, the request is warranted by extenuating circumstances beyond
-the control of the city. Extensions granted under this subsection shall not
-exceed nine months from the original due date of the audit or financial
-statement. If the Department for Local Government approves an extension for a
-city and the city fails to complete and submit the required audit or financial
-statement in compliance with that extended deadline, then the provisions of
-division (I) of this section shall apply.
+Department for Local Government shall approve the request if, in the judgment
+of the Department for Local Government, the request is warranted by extenuating
+circumstances beyond the control of the city or other factors that justify the
+city’s noncompliance with the required deadlines. The Department for Local
+Government may consider any evidence it deems appropriate, including, but not
+limited to, proof of the city’s progress towards compliance. Extensions granted
+under this division shall not exceed 18 months from the original due date of
+the audit or financial statement. If the Department for Local Government
+approves an extension for a city and the city fails to complete and submit the
+required audit or financial statement in compliance with that extended
+deadline, then the provisions of division (I) of this section shall apply.
    (I)   If a city fails to complete an audit or financial statement and submit
 it to the Department for Local Government as required in divisions (A) and (H)
 of this section, the Department for Local Government shall notify the Finance
@@ -1437,12 +1440,15 @@ requirements of divisions (A) and (H) of this section for all prior fiscal
 years it has failed to comply with the audit requirements of this section, and
 the Finance and Administration Cabinet shall direct the reinstatement of
 payments to the city, including any funds that were withheld due to the
-noncompliance.
+noncompliance. This division shall not be interpreted or construed to permit
+the state to withhold any nondiscretionary payments to a city that are due the
+city for the provision of services by the city to the state or any of its
+agencies, including for the use of city utilities.
    (J)   Within a reasonable time after the completion of a special audit or
 examination conducted pursuant to KRS 43.050, the Auditor shall bill the city
 for the actual expense of the audit or examination conducted. The actual
 expense shall include the hours of work performed on the audit or examination
-as well as reasonable associated costs, including but not limited to travel
+as well as reasonable associated costs, including, but not limited to, travel
 costs. The bill submitted to the city shall include a statement of the hourly
 rate, total hours, and total costs for the entire audit or examination.
 (KRS 91A.040)
@@ -1562,9 +1568,8 @@ total cost of the entire project.
 33.15, any affected property owner may file an action in the circuit court of
 the county, contesting the undertaking of the project by special assessment,
 the inclusion of his or her property in the improvement, or the amount of his
-or her
-assessment. If the action contests the undertaking of the improvement by the
-special assessment method of the inclusion of the property of that property
+or her assessment. If the action contests the undertaking of the improvement by
+the special assessment method of the inclusion of the property of that property
 owner, no further action on the improvement insofar as it relates to any
 property owner who is a plaintiff shall be taken until the final judgment has
 been entered.
@@ -1902,7 +1907,7 @@ applications to agencies for permits or licenses necessary to do business or to
 expand business operations within the state, except as provided in division (A)
 (2) above.
       (5)   Public records which are developed by an agency in conjunction with
-the regulation or supervision of financial institutions, including but not
+the regulation or supervision of financial institutions, including, but not
 limited to, banks, savings and loan associations, and credit unions, which
 disclose the agency’s internal examining or audit criteria and related
 analytical methods.
@@ -1916,7 +1921,8 @@ examination before the exam is given or if it is to be given again.
       (8)   Records of law enforcement agencies or agencies involved in
 administrative adjudication that were compiled in the process of detecting and
 investigating statutory or regulatory violations, if the disclosure of the
-information would harm the agency by revealing the identity of informants not
+information could pose an articulable risk of harm to the agency or its
+investigation by revealing the identity of informants or witnesses not
 otherwise known or by premature release of information to be used in a
 prospective law enforcement action or administrative adjudication. Unless
 exempted by other provisions of this chapter, public records exempted under
@@ -1940,10 +1946,10 @@ prohibited or restricted or otherwise made confidential by enactment of the
 General Assembly, including any information acquired by the Department of
 Revenue in tax administration that is prohibited from divulgence or disclosure
 under KRS 131.190;
-    (13)   (a)   Public records the disclosure of which would have a reasonable
-likelihood of threatening the public safety by exposing a vulnerability in
-preventing, protecting against, mitigating, or responding to a terrorist act
-and limited to:
+    (13)      (a)   Public records the disclosure of which would have a
+reasonable likelihood of threatening the public safety by exposing a
+vulnerability in preventing, protecting against, mitigating, or responding to a
+terrorist act and limited to:
             (i)   Criticality lists resulting from consequence assessments;
             (ii)   Vulnerability assessments;
             (iii)   Antiterrorism protective measures and plans;
@@ -1955,7 +1961,7 @@ or security of critical systems, including public utility critical systems.
 These critical systems shall include but not be limited to information
 technology, communication, electrical, fire suppression, ventilation, water,
 wastewater, sewage, and gas systems;
-          (vii)   The following records when their disclosure will expose a
+            (vii)   The following records when their disclosure will expose a
 vulnerability referred to in this division: detailed drawings, schematics,
 maps, or specifications of structural elements, floor plans, and operating,
 utility, or security systems of any building or facility owned, occupied,
@@ -1982,7 +1988,7 @@ environmental, health, and safety programs;
          (e)   The exemption established in this section shall not apply when a
 member of the Kentucky General Assembly seeks to inspect a public record
 identified in this section under the Open Records Law.
-      (14)    Public or private records, including books, papers, maps,
+      (14)   Public or private records, including books, papers, maps,
 photographs, cards, tapes, discs, diskettes, recordings, software, or other
 documentation regardless of physical form or characteristics, having historic,
 literary, artistic, or commemorative value accepted by the archivist of a
@@ -2056,30 +2062,36 @@ Section
    
 35.06   Disposition of funds
 § 35.01 COUNTY ASSESSMENT ADOPTED.
-   (A)   Pursuant to the authority granted in KRS 132.285, the city hereby
-adopts the county assessment for all real and personal property situated within
-the city as the basis of all ad valorem tax levies ordered or approved by the
-City Council.
+   (A)   January 1 is hereby designated as the assessment date for all real and
+personal property subject to city taxation within the corporate limits of the
+city. Pursuant to the authority granted in KRS 132.285, the city hereby adopts
+the county assessment for all real and personal property situated within the
+city as the basis of all ad valorem tax levies ordered or approved by the City
+Council.
    (B)   The assessment as finally determined for county tax purposes shall
 serve as the basis for all city levies for the fiscal year commencing after the
 assessment date.
+(Am. Ord. 3, Series 2024, passed August 7, 2024)
 § 35.02 DUE DATE; PAYMENT.
    (A)   All taxes, except ad valorem taxes on motor vehicles or as otherwise
 provided in this chapter, shall become due on December 1.
-   (B)   Any taxpayer who pays his or her city taxes before December 1 after
-they become due shall be entitled to a 2% discount thereon, and the Clerk shall
-allow the discount and give a receipt in full to the taxpayer.
+   (B)   Any taxpayer who pays his or her city taxes before November 1 after
+they become due shall be entitled to a 10% discount thereon, and the Clerk
+shall allow the discount and give a receipt in full to the taxpayer.
+(Am. Ord. 3, Series 2024, passed August 7, 2024)
 § 35.03 DELINQUENCY.
    (A)   All city taxes, except ad valorem taxes on motor vehicles or as
-otherwise provided in this chapter, shall become delinquent on January 1
-following their due dates.
+otherwise provided in this chapter, shall become delinquent on December 1.
    (B)   Any taxes not paid by the date when they become delinquent shall be
-subject to a penalty of 10% on the taxes due and unpaid. The delinquent
-taxpayer shall also pay all costs and expenses incidental to any action taken
-by the city for collection of the delinquent tax bill.
+subject to a penalty of 7% on the taxes due and unpaid plus interest of 1% per
+month beginning January 1 following their due dates until paid in full. The
+delinquent taxpayer shall also pay all costs and expenses incidental to any
+action taken by the city for collection of the delinquent tax bill, including a
+reasonable attorney’s fee.
    (C)   Delinquent taxes shall be collectable under the provisions of the
 state law relating to the collection of delinquent taxes by cities of the fifth
 class.
+(Am. Ord. 3, Series 2024, passed August 7, 2024)
 § 35.04 AD VALOREM TAXES ON MOTOR VEHICLES.
    (A)   All ad valorem taxes on motor vehicles shall be collected by the
 County Clerk in accordance with KRS 134.800.
@@ -2883,7 +2895,7 @@ TITLE VII: TRAFFIC CODE
       
 71.   TRAFFIC RULES
       
-72.   PARKING SCHEDULES
+72.   PARKING REGULATIONS
       
 73.   BICYCLES AND MOTORCYCLES
       
@@ -3041,7 +3053,11 @@ exceeds , 36,000 pounds gross weight, including the load.
       (5)   Any truck, semitrailer truck or tractor-trailer unit which exceeds
 a gross weight equal to the sum of 600 pounds per inch of the combined width of
 the tires upon which the vehicle may be propelled, but in no event more than
-36,000 pounds.
+36,000 pounds; and
+      (6)   Notwithstanding the provisions of this section, any truck hauling
+building materials under KRS 189.2226, or to a road construction project on a
+highway rated less than the maximum weight provided above, may haul up to
+80,000 pounds gross weight, including the load, without a permit.
 (KRS 189.221)
    (C)   The weight limit enumerated above shall be conspicuously posted on the
 streets, and roads of Pewee Valley.
@@ -3296,8 +3312,17 @@ PROHIBITIONS
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
 and other vehicles upon the highway.
-   (B)   No person shall willfully operate any vehicle on any highway in such a
-manner as to injure the highway.
+   (B)   A person shall not willfully operate any vehicle on any highway in
+such a manner as to injure the highway.
+   (C)   A person shall not willfully operate any vehicle on any highway in
+such a manner as to injure vehicles or equipment located in or near a highway
+work zone.
+   (D)   A person shall not operate any vehicle in a reckless or negligent
+manner as to endanger persons or property in or near a highway, or in or near a
+highway work zone.
+   (E)   In addition to any other penalty, an operator who violates division
+(C) or (D) of this section shall be subject to revocation of his or her
+operator’s license under KRS 186.560.
 (KRS 189.290) Penalty, see §
 71.99
 § 71.26 RIGHT-OF-WAY OF EMERGENCY VEHICLES; FOLLOWING EMERGENCY VEHICLES;
@@ -3305,17 +3330,17 @@ DRIVING OVER FIRE HOSE.
    (A)   Upon the approach of an emergency vehicle equipped with, and
 operating, one or more flashing, rotating, or oscillating red or blue lights
 visible under normal conditions from a distance of 500 feet to the front of the
-vehicle; or when the driver is giving audible signal by siren, exhaust whistle
-or bell, the driver of every other vehicle shall yield the right-of-way,
-immediately drive to a position parallel to, and as close as possible to, the
-edge or curb of the highway clear of any intersection, and stop and remain in
-such position until the emergency vehicle has passed, except when otherwise
-directed by a police officer or firefighter.
+emergency vehicle; or when the driver is giving audible signal by siren,
+exhaust whistle or bell, the driver of every other vehicle shall yield the
+right-of-way, immediately drive to a position parallel to, and as close as
+possible to, the edge or curb of the highway clear of any intersection, and
+stop and remain stopped until the emergency vehicle has passed, except when
+otherwise directed by a police officer or firefighter.
    (B)   Upon the approach of any emergency vehicle operated in conformity with
 the provisions of division (A) above, the operator of every vehicle shall
-immediately stop clear of any intersection and shall keep the position until
-the emergency vehicle has passed, unless directed otherwise by a police officer
-or firefighter.
+immediately stop clear of any intersection and shall remain stopped until the
+emergency vehicle has passed, unless directed otherwise by a police officer or
+firefighter.
    (C)   No operator of any vehicle, unless he or she is on official business,
 shall follow any emergency vehicle being operated in conformity with the
 provisions of division (A) above closer than 500 feet, nor shall he or she
@@ -3326,6 +3351,29 @@ she is directed otherwise by a police officer or firefighter.
 unprotected hose of a fire department when the hose is laid down on any street,
 private driveway or track for use at any fire alarm unless the Fire Department
 official in command consents that the hose be driven over.
+   (E)   The provisions of division (F) of this section shall apply to any
+driver approaching a stationary:
+      (1)   Emergency vehicle or public safety vehicle, when the emergency
+vehicle or public safety vehicle is giving a signal by displaying alternately
+flashing yellow, red, red and white, red and blue, or blue lights; or
+      (2)   Disabled vehicle, when the disabled vehicle is displaying some type
+of warning signal, such as emergency flashers, flares, or retroreflective
+signals.
+   (F)   The driver of a vehicle that is approaching a vehicle described in
+division (E) of this section shall, while proceeding with due caution:
+      (1)   Yield the right-of-way by moving to a lane not adjacent to that of
+the vehicle, if:
+         (a)   The person is driving on a highway having at least four lanes,
+with at least two lanes proceeding in the same direction as the approaching
+vehicle; and
+         (b)   It is possible to make the lane change with due regard to safety
+and traffic conditions; or
+      (2)   Reduce the speed of the vehicle, maintaining a safe speed to road
+conditions, if the road has less than four lanes or if changing lanes would be
+impossible or unsafe.
+   (G)   This section does not operate to relieve the person who drives an
+emergency vehicle from the duty to operate the vehicle with due regard for the
+safety of all persons using the highway.
 (KRS 189.930) Penalty, see §
 71.99
 § 71.27 SMOKE EMISSION OR OTHER NUISANCE.
@@ -3749,7 +3797,7 @@ the violator’s arrest.
 impoundment can be issued for the vehicle’s release.
 § 72.21 RESERVED.
 § 72.22 SALE OF VEHICLE.
-   (A)   (1)    Any person engaged in the business of storing or towing motor
+   (A)   (1)   Any person engaged in the business of storing or towing motor
 vehicles, who has complied with the notification requirements of this section,
 shall have a lien on the motor vehicle and its contents, except as set forth in
 division (B) of this section, for the applicable and reasonable charges
@@ -3768,24 +3816,27 @@ responsibility for payment of unpaid charges by the owner or responsible
 casualty insurer of the vehicle. A lien on a vehicle under this subsection
 shall be subject to prior recorded liens, unless released by any existing
 lienholder pursuant to (A)(3) of this section.
-      (3)   A lien holder having a prior recorded lien listed on the title
+      (3)   (a)   A lienholder having a prior recorded lien listed on the title
 issued by the Commonwealth of Kentucky shall be notified by certified mail
-within the first ten days of impoundment in accordance with state law. Such
-notification, in addition to the requirements of state law shall include the
-make, model, license number, vehicle identification number, owner’s name and
-last known address, and tentative date of sale for the vehicle, and state that
-the towing company or storage facility seeks to obtain a new title free and
-clear of any liens, excluding tax liens. If the above-referenced certified
-letter is not sent within the ten days by the towing and storage company, then
-only ten days of storage may be charged. The lien holder has the right to take
-possession of the motor vehicle after showing proof of lien still enforced, and
-paying the reasonable or agreed towing and storage charges on the motor
-vehicle. If a lienholder does not exercise the right to take possession of the
-motor vehicle under this division within 45 days of notification, and all
-lienholders agree in writing, the tow company or storage facility may obtain a
-new title under state law free and clear of all liens, excluding tax liens.
-Nothing in this section shall allow the transfer of a vehicle subject to a
-lien, except as provided in KRS 186A.190.
+within the first ten days of impoundment in accordance with state law.
+         (b)   The notification, in addition to the requirements of state law
+shall include the make, model, license number, vehicle identification number,
+owner’s name and last known address, and tentative date of sale for the
+vehicle, and state that the towing company or storage facility seeks to obtain
+a new title free and clear of any liens, excluding tax liens.
+         (c)   If the certified letter required under this division is not sent
+within the ten days by the towing and storage company, then only ten days of
+storage may be charged.
+         (d)   The lienholder has the right to take possession of the motor
+vehicle after showing proof of lien still enforced, and paying the reasonable
+or agreed towing and storage charges on the motor vehicle.
+         (e)   If a lienholder does not exercise the right to take possession
+of the motor vehicle under this division within 45 days of notification, the
+towing company or storage facility may obtain a new title under state law free
+and clear of all liens, excluding tax liens.
+         (f)   Nothing in this section shall allow the transfer of a vehicle
+subject to a lien, except as provided in KRS 186A.190 or division (A)(3)(e) of
+this section.
       (4)   If there are no lienholders required to be notified under state
 law, and the owner does not exercise the right to take possession of the motor
 vehicle under this section within 45 days of notification required under state
@@ -3927,27 +3978,61 @@ I.   Speed limits
    
 II.   One-way traffic
 SCHEDULE I. SPEED LIMITS.
-Street or Location Speed Limit Prior Code KOC Section Date Passed
-Street or Location             Speed Limit Prior Code KOC Section Date Passed
-Railroads                      35 mph                             11-6-1989
-School Zone
-(Mon. - Fri., 7:30 a.m. - 3:00 20 mph      520.3                  10-5-1970
-p.m.)
-Ash Avenue                     35 mph      520.2                  11-4-1968
-Central Avenue                 35 mph      520.2                  11-4-1968
-Cherry Avenue                  25 mph      520.2                  11-4-1968
-Colonel Way                    25 mph      520.2                  11-4-1968
-Elm Street                     25 mph      520.2                  11-4-1968
-LaGrange Road                  35 mph      520.2                  11-4-1968
-Maple Avenue                   25 mph      520.2                  11-4-1968
-Mt. Mercy Avenue               25 mph      520.2                  11-4-1968
-Old Forrest Road               25 mph      520.2                  11-4-1968
-Peace Lane                     15 mph      520.2                  11-4-1968
-Rebel Road                     25 mph      520.2                  11-4-1968
-Rollington Road                25 mph      520.2                  11-4-1968
-Tulip Avenue                   25 mph      520.2                  11-4-1968
-Woolridge Avenue               15 mph      520.6                  6-3-1985
+Street or Location Speed Limit Prior Code  Date Passed
+                               KOC Section
+Street or Location                   Speed Limit Prior Code  Date Passed
+                                                 KOC Section
+Railroads                            35 mph                  11-6-1989
+School Zone                          20 mph      520.3       10-5-1970
+(Mon. - Fri., 7:30 a.m. - 3:00 p.m.)
+Ash Avenue (State Hwy)               35 mph      520.2       11-4-1968
+Bentbrook Place                      25 mph
+Castlewood Drive                     **                      12-4-2024
+Central Avenue (State Hwy)           35 mph      520.2       11-4-1968
+Central Court                        15 mph                  12-4-2024
+Cherry Grove Lane                    15 mph                  12-4-2024
+Cherry Hill Road                     15 mph                  12-4-2024
+Cherry Lane                          25 mph      520.2       11-4-1968
+Colonel Way                          25 mph      520.2       11-4-1968
+Dogwood Lane                         25 mph
+Eberle Drive                         **                      12-4-2024
+** Private driveway on private property not a city street. No signage
+required
+Edgewood Way                         15 mph
+Elm Avenue                           25 mph      520.2
+Friendship Drive                     15 mph
+Houston Lane                         25 mph
+LaGrange Road (State Hwy)            35 mph      520.2       11-4-1968
+Locust Lane                          25 mph
+Maple Avenue                         25 mph      520.2       11-4-1968
+Mt. Mercy Drive                      15 mph      520.2
+Mt, Mercy Place                      15 mph                  12-4-2024
+Muirs Lane                           15 mph      520.2
+Oak Terrace                          15 mph                  12-4-2024
+Old Floydsburg Road                  25 mph
+Old Forrest Road                     25 mph      520.2       11-4-1968
+Peace Lane                           15 mph      520.2       11-4-1968
+Pollock Avenue                       15 mph                  12-4-2024
+Powhatan Lane                        15 mph                  12-4-2024
+Poplar Terrace                       15 mph                  12-4-2024
+Rebel Road                           25 mph      520.2       11-4-1968
+Red Plum Terrace                     15 mph
+Rest Cottage                         15 mph                  12-4-2024
+Ridgewood Drive                      15 mph                  12-4-2024
+Rollington Road                      25 mph      520.2       11-4-1968
+Rosswoods Drive                      25 mph
+Sedley Court                         15 mph                  12-4-2024
+Shadowood Lane                       15 mph                  12-4-2024
+Shagbark                             15 mph                  12-4-2024
+Stoney Creek Court                   15 mph                  12-4-2024
+Sunnyside Court                      15 mph                  12-4-2024
+Tulip Avenue                         25 mph      520.2       11-4-1968
+Woolridge Avenue                     15 mph      520.6       6-3-1985
+Woolridge Drive                      15 mph
+Woodridge Place                      15 mph                  12-4-2024
  
+(Am. Ord. 5, Series 2024, passed 12-4-2024) Penalty, see §
+70.99
 Penalty, see §
 70.99
 SCHEDULE II. ONE-WAY TRAFFIC.
@@ -4384,11 +4469,15 @@ described in this subchapter shall restore the surface of the area to Kentucky
 Department of Highways specification (and this subchapter) and shall warrant
 the pavement repairs against failure of all types for the duration of five
 years.
-   (B)   The city may, upon repeated violation of this subchapter, require any
-entity to post a performance bond prior to initiating any work in the city, by
-cash or certified check, in the amount of $15 per square foot of the area to be
-disturbed (minimum fee of $150), to defray the cost of performing repair and
-restoration work.
+   (B)   The city shall require any entity to post a performance bond prior to
+initiating any work in the city, by cash or certified check, in the amount
+sufficient to defray the cost of performing repair and restoration work, if the
+applicant does not perform its restoration responsibilities. The cost shall be
+estimated by the City Engineer. If the project anticipates the city accepting a
+public roadway into its roadway system, the developer must post a bond in
+sufficient amount for the city to complete the final coat of asphalt on the
+public road and any other cost to bring the roadway up to an adequate standard
+for acceptance into the public roadway system of the city.
    (C)   Upon the failure of any entity to properly repair and restore any cut,
 excavation, or alternation, the city may authorize the repair or restoration of
 the area in a proper manner and charge said cost to the entity who made the
@@ -4418,7 +4507,7 @@ following regular meeting. Applicant will be allowed a reasonable time to
 present any relevant evidence that supports applicant’s appeal. The decision of
 the City Council on the appeal must be in writing, with findings supporting
 said approval or denial.
-(Ord. 2016-05, passed 12-5-2016)
+(Ord. 2016-05, passed 12-5-2016; Am. Ord. 2, Series 2024, passed July 3, 2024)
 Statutory reference:
    Sidewalks; construction along public roads; specifications, see KRS 178.290
    Sidewalks; ramps for wheelchairs, see KRS 66.660
@@ -5186,7 +5275,7 @@ TITLE XI: BUSINESS REGULATIONS
       
 110.   GENERAL LICENSING PROVISIONS
       
-111.   RESERVED
+111.   CANNABIS BUSINESSES
       
 112.   INSURANCE COMPANIES
       
@@ -5355,7 +5444,20 @@ remedial civil actions for violations of §
 rights or other appropriate proceedings filed in the Oldham County, Kentucky
 Circuit Court.
 (Ord. 2020-5, passed 8-3-2020; Am. Ord. 2021-1, passed 2-1-2021)
-CHAPTER 111: RESERVED
+CHAPTER 111: CANNABIS BUSINESSES
+Section
+   
+111.01   Definitions
+   
+111.02   Cannabis businesses prohibited
+§ 111.01 DEFINITIONS.
+   The City Council accepts that the definitions within KRS 218B.010 are hereby
+adopted as if set out herein and as relevant to this chapter.
+(Ord. 4, Series 2024, passed September 4, 2024)
+§ 111.02 CANNABIS BUSINESSES PROHIBITED.
+   All cannabis businesses are hereby prohibited from operating within the city
+limits.
+(Ord. 4, Series 2024, passed September 4, 2024)
 CHAPTER 112: INSURANCE COMPANIES
 Section
    
@@ -10441,9 +10543,11 @@ Ch. 154            34.16
 174.100(4)         91.19
 174.100(5)         91.20
 186.020            72.22
+186.560            71.25
 186A.190           72.22
 189.020            71.27
 189.221            70.06
+189.2226           70.06
 189.285            73.02
 189.287            73.01
 189.290            71.25
@@ -10453,12 +10557,13 @@ Ch. 154            34.16
 189.580            71.15
 189.725            72.08
 189.751 - 189.753  96.01
-189.930            71.25
+189.930            71.26
 189.990(1)         72.99
 189.993(8)         71.99
 Ch. 198B           150.002
 198B.070           150.002
 198B.990(1)        150.999
+218B.010           111.01
 Ch. 227            93.21
 227.990(1)         150.999
 Ch. 241            114.01
@@ -10758,5 +10863,11 @@ Res. -            6-1-2011    T.S.O. II
 5, Series 2023    9-6-2023    T.S.O. I
 7, Series 2023    12-6-2023   T.S.O. I
 6, Series 2023    11-1-2023   130.08
+2, Series 2024    7-3-2024    91.04
+3, Series 2024    8-7-2024    35.01 -
+                              35.03
+4, Series 2024    9-4-2024    111.01,
+                              111.02
+5, Series 2024    12-4-2024   Ch. 74, Sch. I
                              
  
