@@ -48,7 +48,7 @@ jobs:
           sudo apt-get install -y xvfb              # 🖥️ Install virtual framebuffer
           sudo apt-get install -y google-chrome-stable || true  # 🌍 Install Chrome or skip if unavailable
 
-      # 🖥️ STEP 5: Start virtual display
+      # 🖥️ Start virtual display
       - name: Start virtual display
         run: |
           Xvfb :99 -screen 0 1920x1080x24 &   # 🧱 Start display server on :99
@@ -63,11 +63,7 @@ jobs:
           bash main.sh & # ▶️ Run main.sh in the background using Bash
           node main.js # 🧠 Run the main Node.js script (e.g., launches non-headless Chrome)
 
-      # 🚀 STEP 6: Run Node script only
-#      - name: Run main.js
-#        run: node main.js # 🧠 Run main Node.js script using non-headless Chrome
-
-      # 💾 STEP 7: Commit and push any modified files
+      # 💾 Commit and push any modified files
       - name: Commit and Push Updated Files
         run: |
           git config user.name "github-actions"               # 👤 Git username
