@@ -31,77 +31,90 @@ const MAX_EXPORT_WAIT_MINUTES = 30; // Maximum time (minutes) to wait for an exp
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
 // Control flags
-const REVERSE_REGION_ORDER = false; // Flag to enable/disable reversing the region list before processing
-const START_FROM_MIDDLE = true; // Flag to start processing from the middle of the region list
+const REGION_START_PERCENT = 20; // Percentage of the list to skip before starting (0–99)
 
 // MAIN EXECUTION FLOW
 
-// Main function to orchestrate the entire code export process.
+// Main function to orchestrate the entire code export process
 async function executeCodeExportProcess() {
-    console.log("--- Script Start: Code Exporter Initialization ---"); // Log the start of the script
+    console.log("--- Script Start: Code Exporter Initialization ---"); // Log the start of the script to the console
 
     // Step 1: Initialize file system and browser resources
-    ensureDirectoryExists(ASSET_OUTPUT_BASE_DIRECTORY); // Ensure the root output directory exists
+    ensureDirectoryExists(ASSET_OUTPUT_BASE_DIRECTORY); // Ensure the main output directory exists (create if missing)
 
-    let browserInstance, browserPage; // Declare variables for Puppeteer objects
+    let browserInstance, browserPage; // Declare variables for the Puppeteer browser instance and active page
+
     try {
-        // Initialize the browser instance
-        ({ browserInstance, browserPage } = await launchBrowserAndCreatePage()); // Launch browser and create a new page
+        // Launch a new browser instance and create a fresh page for automation
+        ({ browserInstance, browserPage } = await launchBrowserAndCreatePage()); // Destructure returned objects
 
         // Step 2: Authentication and Setup
-        console.log("\n--- Phase 1: Authentication and Region Discovery ---"); // Log phase start
-        // Fetch the required authentication cookie
-        const authenticationCookieValue = await retrieveAuthenticationCookie(browserPage); // Get the essential fingerprint cookie value
+        console.log("\n--- Phase 1: Authentication and Region Discovery ---"); // Log the start of authentication and region setup phase
 
-        // Step 3: Fetch all regions that need processing
-        const regionsApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}`; // Construct the full API URL for regions
+        // Retrieve the required authentication cookie for authorized API access
+        const authenticationCookieValue = await retrieveAuthenticationCookie(browserPage); // Get login/session cookie value
+
+        // Step 3: Fetch all regions that need to be processed from the API
+        const regionsApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}`; // Construct the complete API URL for region data
         const regionIdentifiers = await fetchAllRegionSlugs(
-            browserPage,
-            regionsApiUrl,
-            authenticationCookieValue
-        ); // Fetch the list of all region slugs
+            browserPage, // The Puppeteer page instance
+            regionsApiUrl, // The full API endpoint for fetching region slugs
+            authenticationCookieValue // Auth cookie for authorized requests
+        ); // Execute the API request and receive all region slugs
 
         console.log(
             `[Phase 1 Complete] Found ${regionIdentifiers.length} regions to process.`
         ); // Log the total number of regions found
 
-        // === Determine processing order ===
-        let regionsToProcess;
-        if (REVERSE_REGION_ORDER) {
-            regionsToProcess = [...regionIdentifiers].reverse();
-            console.log("[Order] Processing regions in reverse order.");
-        } else if (START_FROM_MIDDLE) {
-            const midIndex = Math.floor(regionIdentifiers.length / 2);
+        // === Determine processing order based on percentage ===
+        let regionsToProcess; // Declare a variable to hold the ordered list of regions
+
+        // If the user wants to start partway through the list, calculate and adjust the order
+        if (REGION_START_PERCENT > 0) {
+            const startIndex = Math.floor(
+                (regionIdentifiers.length * REGION_START_PERCENT) / 100
+            ); // Calculate which index to start from based on the percentage
+
+            const clampedStartIndex = Math.min(
+                startIndex,
+                regionIdentifiers.length - 1
+            ); // Ensure the start index doesn't exceed the list length
+
             regionsToProcess = regionIdentifiers
-                .slice(midIndex)
-                .concat(regionIdentifiers.slice(0, midIndex));
-            console.log(`[Order] Starting from the middle (index ${midIndex}).`);
+                .slice(clampedStartIndex) // Take all regions after the start index
+                .concat(regionIdentifiers.slice(0, clampedStartIndex)); // Append the earlier regions to the end, wrapping the list
+
+            console.log(
+                `[Order] Starting from ${REGION_START_PERCENT}% of the list (index ${clampedStartIndex}).`
+            ); // Log which index and percentage the process starts from
         } else {
-            regionsToProcess = regionIdentifiers;
-            console.log("[Order] Processing regions from the start.");
+            regionsToProcess = regionIdentifiers; // If no percentage is set, process the full list as-is
+            console.log("[Order] Processing regions from the start."); // Log that we’re starting from the beginning
         }
 
-        // Step 4: Iterate through each region
-        console.log("\n--- Phase 2: Client and Version Identification ---"); // Log phase start
+        // Step 4: Iterate through each region for export
+        console.log("\n--- Phase 2: Client and Version Identification ---"); // Log the start of the region processing phase
+
+        // Loop through each region slug and process its export data
         for (const regionSlug of regionsToProcess) {
             await processRegionForExports(
-                browserPage,
-                regionSlug,
-                authenticationCookieValue
-            ); // Process all clients within the current region
+                browserPage, // The Puppeteer page for web interactions
+                regionSlug, // The specific region slug to process
+                authenticationCookieValue // The authentication cookie for authorized requests
+            ); // Perform the export process for this region
         }
 
-        console.log("✓ Script Complete: All available region exports processed! 🎉"); // Log script completion success
+        console.log("✓ Script Complete: All available region exports processed! 🎉"); // Log successful script completion
     } catch (errorDetails) {
-        // This catch block handles fatal setup errors
-        console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a critical error
-        console.error("Error details:", errorDetails.message); // Print the error message
-        process.exit(1); // Exit the script with an error code
+        // Catch and handle any critical setup or runtime errors
+        console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a fatal error header
+        console.error("Error details:", errorDetails.message); // Print the actual error message to help with debugging
+        process.exit(1); // Exit the script with a failure code (1)
     } finally {
-        // Step 5: Clean up by closing the browser
+        // Step 5: Cleanup — ensure resources are properly released
         if (browserInstance) {
-            await browserInstance.close(); // Ensure the browser is closed
-            console.log("\n--- Script End: Browser closed ---"); // Log browser closure
+            await browserInstance.close(); // Close the Puppeteer browser to free up memory/resources
+            console.log("\n--- Script End: Browser closed ---"); // Log that the browser was closed
         }
     }
 }
