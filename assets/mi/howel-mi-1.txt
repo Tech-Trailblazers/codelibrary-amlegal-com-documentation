@@ -1,6 +1,6 @@
 HOWELL, MICHIGAN
 CODE OF ORDINANCES
-Local legislation current through December 31, 2023
+Local legislation current through April 28, 2025
 Published by:
 AMERICAN LEGAL PUBLISHING
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
@@ -10,13 +10,13 @@ CERTIFICATION
 the general and permanent legislation of the City of Howell, Michigan, as
 revised, arranged, compiled, numbered, codified and printed herewith in
 component codes, is correctly set forth and constitutes the Codified Ordinances
-of the City of Howell, Michigan, 1982, complete to December 31, 2023.
+of the City of Howell, Michigan, 1982, complete to April 28, 2025.
                            /s/   Robert Ellis
                               Mayor
                            /s/   Deanna Robson
                               City Clerk
 DIRECTORY OF OFFICIALS
-(2023)
+(2025)
 COUNCIL
 COUNCIL
 Robert Ellis, Mayor
@@ -29,21 +29,21 @@ Erin Britten
  
 APPOINTED OFFICIALS
 APPOINTED OFFICIALS
-City Manager                                  Ervin J. Suida
-City Clerk                                    Deanna Robson
-Finance Director                              Alyssa Miller
-City Treasurer                                Kelly Patterson
-City Assessor                                 Peter Augostino
-City Attorney                                 Dennis L. Perkins, Esq.
-Police Chief                                  Scott Mannor
-Building Official                             Jeff Shafer
-Department of Public Services Director        Matt Davis
-Department of Public Services Deputy Director Mike Spitler
-Wastewater Treatment Plant Operations Manager Scott Reece
-Water Treatment Plant Operations Manager      Chelsea Whiter
-Technology Director                           Mike Pitera
-Human Resource Manager                        Jamie Helman
-Planning and Zoning Administrator             Kristi Troy
+City Manager                                          Ervin J. Suida
+Deputy City Manager/Planning and Zoning Administrator Kristi Troy
+City Clerk                                            Deanna Robson
+Finance Director                                      Alyssa Miller
+City Treasurer                                        Kelly Patterson
+City Assessor                                         Peter Augostino
+City Attorney                                         Sarah Gabis
+Police Chief                                          Michael Dunn
+Building Official                                     Jeff Shafer
+Department of Public Services Director                Matt Davis
+Department of Public Services Deputy Director         Mike Spitler
+Wastewater Treatment Plant Operations Manager         Shawn Wheat
+Water Treatment Plant Operations Manager              Chelsea Whiter
+Technology                                            Mike Pitera
+Human Resource Manager                                Jamie Helman
  
 COMPARATIVE SECTION TABLE
 EDITOR'S NOTE: Source material for the 1982 Codified Ordinances of Howell was
@@ -1216,8 +1216,8 @@ Res. 11-  6-   1044.07,
           5-
 872       20-  1460.09
           13
-          5-   1480.01 to
-873       20-  1480.08,
+          5-   1480.01 , 1480.02 to 1480.05 (Repealed), 1480.06, 1480.07, 1480.08
+873       20-  (Repealed),
           13   1480.99 (1480.02, 1480.04, 1480.06, 1480.07 repealed by, 1480.05 and 1480.08
                renumbered by Ord. 918, passed 10-8-18)
           5-   1250.01 to
@@ -1333,15 +1333,10 @@ Res. 17-  6-   1044.07,
           8-
 917       13-  430.05
           18
-               202.99 ,
-               1450.02 (Repealed),
-               1460.15 ,
-          10-  1480.02  to
-918       8-18 1480.08 , Repeals Ch. 1420, 1470,
-               1460.11 ,
-               1480.04 ,
-               1480.06 ,
-               1480.07
+               202.99 , 1450.02 (Repealed), 1460.15, 1480.02 (Repealed), 1480.03, 1480.04
+918       10-  (Repealed), 1480.05 (Repealed),
+          8-18 1480.06  to
+               1480.09 , Repeals Ch. 1420, 1470, 1460.11, 1480.04, 1480.06, 1480.07
                656.02  to
 919       10-  656.04 ,
           8-18 656.99A ,
@@ -1439,6 +1434,30 @@ Res. 21-  12-  210.01
           6-
 957       12-  430.05
           23
+958       4-8- 1210.01
+          24
+959       4-8- 1240.01 ,
+          24   Appendix A, 12.02
+960       5-6- 1410.01
+          24
+          7-8- 230.01 ,
+965       24   230.07 ,
+               230.08
+          10-
+966       28-  652.05
+          24
+          2-   1410.01  to
+967       24-  1410.06 ,
+          25   1410.99
+          2-   1480.01  to
+968       10-  1480.10
+          25
+          3-   1450.02 ,
+969       24-  1450.02a
+          25
+          4-
+970       28-  1022.07
+          25
               
  
 TABLES OF SPECIAL ORDINANCES
@@ -1800,6 +1819,9 @@ Res.  1-
 Res.  9-
 2023- 11-  Authorizing the sale of property known as 1333 Ashebury Lane.
 18    23
+2024- 8-   Authorizing City Manager to close on real property owned by Snedicor’s
+23    26-  Cleaners, Ltd. located on Michigan Avenue.
+      24
           
  
 TABLE F - LEASE OF REAL PROPERTY
@@ -2432,6 +2454,12 @@ No.
      11-
 953  14-  Classifies Parcel 4717-36-307-018, 216 West Sibley Street, from R-1 to CBD.
      22
+     5-
+961  20-  Rezoning property at 502 S. Michigan Avenue from R-1 to R-T.
+     24
+     6-   Rezoning property at 214 N. Walnut, Parcel 4717-36-102-067 and Parcel 4717-
+962  10-  36-102-066 from B-2 to CBD.
+     24
          
  
 TABLE J - OBSOLETE PROPERTY REHABILITATIVE DISTRICT
@@ -6036,7 +6064,7 @@ direction and control of the City Manager. The City Manager shall designate
 himself or herself or another officer of the City not affiliated with the City
 Treasurer's office to act as the Purchasing Agent. The duties of the Purchasing
 Agent are as set forth in this chapter.
-(Ord. 954. Passed 12-19-22.)
+(Ord. 954. Passed 12-19-22; Ord. 965. Passed 7-8-24.)
 230.02 GENERAL DUTIES.
    The Purchasing Agent shall purchase or contract for all supplies, materials,
 equipment and contractual services needed by all departments, boards,
@@ -6090,24 +6118,24 @@ concerned a sufficient unencumbered appropriation balance, in excess of all
 unpaid obligations, to defray the amount of such order.
 (Ord. 166. Passed 1-28-57.)
 230.07 APPROVAL LEVELS.
-   (a)   Department heads are hereby authorized to make expenditures up to five
-thousand dollars ($5,000) or less for which funds were provided in the annual
-budget for all items necessary to run the department.
-   (b)   The City Manager is hereby authorized to make expenditures up to ten
+   (a)   Department heads are hereby authorized to make expenditures up to ten
 thousand dollars ($10,000) or less for which funds were provided in the annual
-budget for all items necessary to run the City.
-   (c)   All purchases in excess of ten thousand dollars ($10,000) will require
-City Council approval. In all cases requiring Council approval, Council shall
-reserve the right to make the purchase that Council deems to be in the best
-interests of the City.
-(Ord. 954. Passed 12-19-22.)
+budget for all items necessary to run the department.
+   (b)   The City Manager is hereby authorized to make expenditures up to
+twenty thousand dollars ($20,0000) or less for which funds were provided in the
+annual budget for all items necessary to run the City.
+   (c)   All purchases in excess of twenty thousand dollars ($20,000) will
+require City Council approval. In all cases requiring Council approval, Council
+shall reserve the right to make the purchase that Council deems to be in the
+best interests of the City.
+(Ord. 954. Passed 12-19-22; Ord. 965. Passed 7-8-24.)
 230.08 COMPETITIVE BIDDING.
    (a)   All purchases of and contracts for supplies and contractual services,
 and all sales of personal property which has become obsolete and unusable,
 shall, except as otherwise specifically provided in this chapter, be based,
 wherever possible, on competitive bids.
    (b)   For all supplies and contractual services that for a purchase of no
-less than two thousand dollars ($2,000) and no more than ten thousand dollars
+less than five thousand dollars ($5,000) and no more than ten thousand dollars
 ($10,000), the Purchasing Agent shall solicit three quotations if possible.
    (c)   For all supplies and contractual services that for a purchase of no
 less than ten thousand dollars ($10,000) and no more than twenty thousand
@@ -6133,8 +6161,8 @@ advise City Council immediately of said purchase and the City Council shall
 affirm said purchase at the next regularly scheduled meeting.
    (f)   An emergency as provided in subsection (e), above, is defined as an
 imminent threat to the health, safety, or welfare of the general public.
-(Ord. 655. Passed 9-15-97; Ord. 725. Passed 4-22-02; Ord. 954. Passed 12-19-
-22.)
+(Ord. 655. Passed 9-15-97; Ord. 725. Passed 4-22-02; Ord. 954. Passed 12-19-22;
+Ord. 965. Passed 7-8-24.)
 230.09 RECORDS OF PURCHASES.
    The Purchasing Agent shall keep adequate records of all purchase
 transactions, and such records shall be open to public inspection.
@@ -9994,56 +10022,62 @@ commercial or noncommercial handbill in or upon a vehicle. However, it shall
 not be unlawful in any public place for a person to hand out or distribute,
 without charge to the receiver thereof, a noncommercial handbill to any
 occupant of a vehicle who is willing to accept it.
-   (k)   Handbills on Uninhabited or Vacant Premises. No person shall throw or
+    (k)   Exemption for Mail and Newspapers. The provisions of subsections (a)
+through (j) hereof and subsections (l) through (r), hereof shall not apply to
+the distribution of mail by the United States, nor to newspapers, except that
+newspapers shall be placed on private property in such a manner as to prevent
+their being carried or deposited by the elements upon any street, sidewalk or
+other public place or upon private property.
+   (l)   Handbills on Uninhabited or Vacant Premises. No person shall throw or
 deposit any commercial or noncommercial handbill in or upon any private
 premises which are temporarily or continuously uninhabited or vacant.
-   (l)   Distributing Handbills at Inhabited Private Premises. No person shall
+    (m)   Distributing Handbills at Inhabited Private Premises. No person shall
 throw, deposit or distribute any commercial or noncommercial handbill in or
 upon private premises which are inhabited, except by handing or transmitting
 any such handbill directly to the owner, occupant or other person then present
 in or upon such private premises.
-   (m)   Exemption for Mail and Newspapers. The provisions of subsections (a)
+    (n)   Exemption for Mail and Newspapers. The provisions of subsections (a)
 through (l) hereof and subsections (n) through (s) hereof shall not apply to
 the distribution of mail by the United States, nor to newspapers, except that
 newspapers shall be placed on private property in such a manner as to prevent
 their being carried or deposited by the elements upon any street, sidewalk or
 other public place or upon private property.
-   (n)   Dropping Litter from Aircraft. No person in an aircraft shall throw
+   (o)   Dropping Litter from Aircraft. No person in an aircraft shall throw
 out, drop or deposit within the City any litter, handbill or any other object.
-   (o)   Posting Notices Prohibited. No person shall post or affix any notice,
+    (p)   Posting Notices Prohibited. No person shall post or affix any notice,
 poster or other paper device, calculated to attract the attention of the
 public, to any lamppost, public utility post or shade tree, or upon any public
 structure or building, except as may be authorized or required by law.
-   (p)   Litter on Occupied Private Property. No person shall throw or deposit
+   (q)   Litter on Occupied Private Property. No person shall throw or deposit
 litter on any occupied private property within the City, whether owned by such
 person or not, except that the owner or person in control of private property
 may maintain authorized private receptacles for collection in such a manner
 that litter will not be carried or deposited by the elements upon any street,
 sidewalk or other public place or upon private property.
-   (q)   Responsibility of Owners and Occupants. The owner, as well as the
+    (r)   Responsibility of Owners and Occupants. The owner, as well as the
 occupant, which includes the person in control of any private property, shall
 at all times maintain the premises free of litter. However, this subsection
 does not prohibit the storage of litter in authorized private receptacles for
 collection. It shall be the responsibility of the owner, as well as the
 occupant or person in control of such premises, to provide for the emptying of
 such private receptacle at least once each week.
-   (r)   Litter on Vacant Lots. No person shall throw or deposit litter upon
+    (s)   Litter on Vacant Lots. No person shall throw or deposit litter upon
 any open or vacant private property within the City, whether owned by such
 person or not.
-   (s)   Clearing of Litter from Private Property by City. The presence of
+    (t)   Clearing of Litter from Private Property by City. The presence of
 litter on any property or premises in the City that is not in compliance with
 this section is hereby declared to be a nuisance, and the City Manager is
 authorized to abate the same in accordance with Section
-652.02. The cost thereof may be assessed against the property and collected
+652.02 . The cost thereof may be assessed against the property and collected
 according to law. Where any premises or property is occupied and investigation
 reveals the arrangements for the disposal of litter from such premises fail to
 comply with the requirements of this section, the City Manager is hereby
 authorized, after notice as provided in Section
-652.02, to arrange for the regular disposal of litter from such premises at
+652.02 , to arrange for the regular disposal of litter from such premises at
 least once each week during such periods of time as such premises are occupied,
 and the cost of such removal shall be assessed against the property and
 collected according to law.
-(Ord. 828. Passed 11-9-09.)
+(Ord. 828. Passed 11-9-09; Ord. 966. Passed 10-28-24.)
 652.06 NOISE CONTROL.
    (a)   Purpose; General Prohibition. In order to preserve and protect the
 public peace, health and safety, no person shall make, continue or cause to be
@@ -15605,7 +15639,7 @@ sidewalks shall be immediately removed to the interior of the address to which
 it was destined.
    (e)   If the sidewalks abutting any lot or premises in the City are not
 cleaned of snow, ice and/or debris in the manner and within the time provided
-in subsections (a), (b), (c) and (d) hereof, then the City shall cause such
+in subsections (a), (b), (c) and (d) hereof, then the City may cause such
 sidewalks to be cleaned at the expense of the City. After such cleaning by the
 City, the actual cost thereof shall be certified to by the City Manager or his
 or her duly authorized representative and shall become and be a lien upon the
@@ -15626,7 +15660,7 @@ special assessment roll or certified directly to the assessing officer for
 collection as a City tax shall depend upon the number and magnitude of such
 outstanding delinquent statements.
 (Ord. 61. Passed 2-25-19; Ord. 863. Passed 2-11-13; Ord. 875. Passed 6-10-13;
-Ord. 876. Passed 7-8-13; Ord. 942. Passed 4-12-21.)
+Ord. 876. Passed 7-8-13; Ord. 942. Passed 4-12-21; Ord. 970. Passed 4-28-25.)
 1022.99 PENALTY.
    Whoever violates any of the provisions of this chapter is responsible for a
 Municipal civil infraction and shall be subject to the civil fines set forth in
@@ -19421,19 +19455,20 @@ Chapter 1240 (Zoning Code)
    (a)   In accordance with the Michigan Planning Enabling Act (Act 33 of
 2008), as amended, there is hereby established a Planning Commission consisting
 of seven members. Up to five of the members shall be residents of the City, and
-shall, insofar as possible, represent important segments and major interests of
-the City, and shall not hold any elective office. The remaining two members
+shall, insofar as possible , represent important segments and major interests
+of the City, and shall not hold any elective office. The remaining two members
 shall be the Mayor and a member of Council. Planning Commission members shall
 be qualified electors of the City, except that one member may, when
 appropriate, be an individual who is not a qualified elector of the City but is
 a qualified elector in another local unit of government.
    (b)   The Mayor shall appoint the five citizen members of the Commission
 with the approval of Council. The terms of such members shall commence on May 1
-and shall be for three years, except that two members of the first Planning
+and shall be for three years , except that two members of the first Planning
 Commission to be appointed under this chapter shall serve for a term of one
 year, two for a term of two years and two for a term of three years. The
 Council member shall be recommended by the Mayor with approval by Council and
-shall serve for a period of one year.
+the term of the Council member shall expire with his or her term on the City
+Council.
    (c)   All members of the Commission shall hold office until their successors
 are appointed or, in the case of the Mayor, until his or her successor is
 elected. Members of the Commission may, after a public hearing, be removed by
@@ -19441,7 +19476,8 @@ the Mayor, with the approval of Council, for misfeasance, malfeasance or
 nonfeasance in office. Vacancies occurring otherwise than through the
 expiration of term shall be filled for the unexpired term as provided in
 subsection (b) hereof for first appointments.
-(Ord. 262. Passed 5-20-69; Ord. 845. Passed 7-11-11; Ord. 909. Passed 8-22-16.)
+(Ord. 262. Passed 5-20-69; Ord. 845. Passed 7-11-11; Ord. 909. Passed 8-22-16;
+Ord. 958. Passed 4- 8-24.)
 1210.02 COMPENSATION.
    There shall be no compensation for a member of the Planning Commission,
 except that reasonable expenses may be allowed in case of necessity.
@@ -21175,7 +21211,7 @@ Ord. 882. Passed 10-28-13; Ord. 884. Passed 3-24-14; Ord. 888. Passed 8-11-14;
 Ord. 898. Passed 10-26-15; Ord. 904. Passed 7-25-16; Ord. 910. Passed 11-21-16;
 Ord. 913. Passed 4-9-18; Ord. 921. Passed 1-28-19; Ord. 924. Passed 5-20-19;
 Ord. 929. Passed 3-9-20; Ord. 939. Passed 1-11-21; Ord. 940. Passed 4-26-21;
-Ord. 943. Passed 4-26-21.)
+Ord. 943. Passed 4-26-21; Ord. 959. Passed 4-8-24.)
 APPENDIX A
 TABLE OF CONTENTS
 HOWELL ZONING ORDINANCE
@@ -24421,7 +24457,7 @@ distance noted has an excessively large or small setback, or is used for non-
 commercial purposes, it may be excluded from the determination of the build-to-
 line. The build-to-line will be determined by the Planning Commission on a
 parcel by parcel basis.
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-2265.gif]
  
 (q)   All principal residential buildings shall be set back at least twenty-
@@ -24439,7 +24475,7 @@ properties that are corner lots. The average ignores vacant properties.
 well as additions and renovations located in the front yard.
    (4)   Unenclosed porches and porticos on a residential structure are subject
 to the requirements of Section 4.05(d).
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3056.jpg]
  
  
@@ -24749,7 +24785,7 @@ Placement Side Yard: No minimum side setback
           right-of-way, and cross access shall be provided in         
           instances where a development is within an out lot of a     
           higher classified building form                            [https://export.amlegal.com/media/
-Lot       Parking location: Parking shall be located in a side or    34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+Lot       Parking location: Parking shall be located in a side or    d5125621f0f24c098f4399b7488d627c568c38ed/
           rear yard; when located in a side yard and abutting the    IMAGES/0-0-0-2902.jpg]
           required build-to line adjacent to the right-of-way,
           parking shall be screened with a minimum 30-inch masonry
@@ -24790,7 +24826,7 @@ Placement Side Yard: No minimum side setback
           right-of-way, and cross access shall be provided in         
           instances where a development is within an out lot of a     
           higher classified building form                            [https://export.amlegal.com/media/
-Lot       Parking location: Parking shall be located in a side or    34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+Lot       Parking location: Parking shall be located in a side or    d5125621f0f24c098f4399b7488d627c568c38ed/
           rear yard; when located in a side yard and abutting the    IMAGES/0-0-0-2904.jpg]
           required build-to line adjacent to the right-of-way,
           parking shall be screened with a minimum 30-inch masonry
@@ -24833,7 +24869,7 @@ Placement Side Yard: No minimum side setback
           right-of-way, and cross access shall be provided in         
           instances where a development is within an out lot of a     
           higher classified building form                            [https://export.amlegal.com/media/
-Lot       Parking location: Parking shall be located in a side or    34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+Lot       Parking location: Parking shall be located in a side or    d5125621f0f24c098f4399b7488d627c568c38ed/
           rear yard; when located in a side yard and abutting the    IMAGES/0-0-0-2906.jpg]
           required build-to line adjacent to the right-of-way,
           parking shall be screened with a minimum 30-inch masonry
@@ -24892,7 +24928,7 @@ Building Placement minimum side
                    pathways must be    
                    provided from the   
                    right-of-way, and  [https://export.amlegal.com/media/
-                   cross access shall 34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+                   cross access shall d5125621f0f24c098f4399b7488d627c568c38ed/
                    be provided        IMAGES/0-0-0-2908.jpg]
                    Parking location:
                    Parking may be
@@ -24949,7 +24985,7 @@ Placement setback to allow for architectural consideration
           Impervious Surface: Maximum 60%                         
           Access and circulation: Parking may be accessed from    
           right-of-way (ROW) or alley; detached garages or       [https://export.amlegal.com/media/
-          multi-garage structures are permitted only in a rear   34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+          multi-garage structures are permitted only in a rear   d5125621f0f24c098f4399b7488d627c568c38ed/
 Lot       yard, or behind primary buildings; pedestrian pathways IMAGES/0-0-0-2910.jpg]
           shall be provided from the right-of way
           Parking location: Parking shall be located in a rear
@@ -24995,7 +25031,7 @@ Placement if provided, minimum 5 feet
           instances where a development is within an out lot of a   
 Lot       higher classified building form                           
           Parking location: Parking shall be located in a side or  [https://export.amlegal.com/media/
-          rear yard; when located in a side yard and abutting the  34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+          rear yard; when located in a side yard and abutting the  d5125621f0f24c098f4399b7488d627c568c38ed/
           required build-to line adjacent the primary building,    IMAGES/0-0-0-2912.jpg]
           parking shall be screened with a minimum 30-inch masonry
           wall on the required build-to line, or within 5 feet of
@@ -25370,7 +25406,7 @@ Ordinance, all proposed development shall comply with the standards set forth
 herein.
 Map 4A-1
 South Michigan Avenue Form Based District Reglating Plan
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-2914.jpg]
  
 Table 4A-8
@@ -28718,7 +28754,7 @@ Area of Sign Sq. ft. Measurement Distance (ft.)
 this table (e.g., 12 sq. ft., 400 sq. ft., etc.), the measurement distance may
 be calculated with the following formula:
 Measurement Distance = [https://export.amlegal.com/media/
-34ae4535c0986b2ec5ba0cb964661606b4f170c4/IMAGES/0-0-0-3141.gif]
+d5125621f0f24c098f4399b7488d627c568c38ed/IMAGES/0-0-0-3141.gif]
  
       (3)   Illumination Measurement Criteria – The illumination of a sign
 shall be measured with an illuminance meter set to measure footcandles accurate
@@ -29543,7 +29579,7 @@ the City and prevent "sky glow".
       (2)   Lighting shall utilize full cut-off shielding to prevent the lamp
 from extending beyond the light fixture, and the illumination shall be downward
 directed to prevent off-site glare.
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-2826.jpg]
  
       (3)   Light intensity shall not exceed one (1) foot- candle when measured
@@ -30685,16 +30721,18 @@ determine the application of the regulations established under this Zoning
 Ordinance in harmony with their purpose and intent as hereinafter set forth.
 • Section 12.02 Membership.
    (a)   The City Council shall appoint a Board of Zoning Appeals consisting of
-seven (7) members. Two (2) members shall be appointed for a three (3) year
-term, two (2) members shall be appointed for a two (2) year term, three (3)
-members shall be appointed for a one (1) year term, each being a resident at-
-large of the City of Howell for a period of no less than one (1) year prior.
+seven (7) members. One member of the Board of Zoning Appeals shall be a member
+of the Howell City Council. Two (2) members shall be appointed for a three (3)
+year term, two (2) members shall be appointed for a two (2) year term, three
+(3) members shall be appointed for a one (1) year term, each being a resident
+at-large of the City of Howell for a period of no less than one (1) year prior.
 After the initial appointment, each member shall hold office for a period of
 three (3) years or until a successor is appointed. Members may be removed at
 the pleasure of the City Council. Any vacancy in the Board shall be filled by
 the City Council for the remainder of the unexpired term. The Board shall
-annually elect its own Chair, Vice-Chair and Secretary. Compensation of the
-members of the Board may be fixed by the Council.
+annually elect its own Chair, Vice-Chair and Secretary, except that the member
+of the Howell City Council may not serve as the Chair of the Board.
+Compensation of the members of the Board may be fixed by the Council.
    (b)   In addition to the appointment of the seven (7) regular members of the
 Board by Council, up to two (2) alternate members may also be appointed for the
 same term as regular members of the Board of Zoning Appeals. The alternate
@@ -30936,58 +30974,58 @@ action to abate, any existing violation of the aforementioned Code, as amended,
 if the use so in violation is in violation of the provisions of this Ordinance.
 APPENDIX
 Figure 1 Basement Definition
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3147.png]
 Figure 2 Measuring Building Height
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3149.png]
 Figure 3 Grade
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3151.png]
 Figure 4 Parking Lot Landscaping - Perimeter Parking Lot
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3153.png]
 Figure 5 Screening Between Conflicting Land Uses
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3155.png]
 Figure 6 Greenbelt Buffer
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3157.png]
 Figure 7 Lot Types
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3159.png]
 Figure 8 Lot Lines, Width, Depth
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3161.png]
 Figure 9 Parking (54° - 90°)
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3163.png]
 Figure 10 Parking (30° - 53°)
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3165.png]
 Figure 11 Parallel Parking
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3167.png]
 Figure 12 Off-Street Stacking Spaces and Lanes for Drive-Through Facilities
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3169.png]
 Figure 13 Setbacks
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3171.png]
 Figure 14 Story Definition
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3173.png]
 Figure 15 Visibility at Intersections
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3175.png]
 Figure 16 Parking Lot Landscaping - Interior Parking Areas
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3177.png]
 Figure 17 Site Landscaping
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3179.png]
 Figure 18 Trash Container Screening
-[https://export.amlegal.com/media/34ae4535c0986b2ec5ba0cb964661606b4f170c4/
+[https://export.amlegal.com/media/d5125621f0f24c098f4399b7488d627c568c38ed/
 IMAGES/0-0-0-3181.png]
 CHAPTER 1250
 Historic District
@@ -31514,60 +31552,73 @@ Chapter 1240 (Zoning Code)
    Review of building permit applications - see B. & H. 1440.05
 1410.01 ADOPTION BY REFERENCE.
    Pursuant to Section
-6.5 of the City Charter and Sections 8 and 8a of the State Construction Code
-Act (Act 230 of the Public Acts of 1972 (MCL 125.1501 et seq.)), as amended,
-the State Construction Code is hereby adopted by reference as if the same were
-fully set forth herein. The State Construction Code, as hereinafter known, is
-more specifically set forth in R 408.30401 to 408.30499 of the Michigan
-Administrative Code adopting by reference the International Building Code, 2009
-edition and the International Residential Code, 2009 edition both as published
-by the International Code Council, Inc. Any and all amendments which are
-hereinafter made to the State Construction Code, pursuant to Sections 8 and 8a
-of Act 230 referenced herein, shall amend, by reference, this chapter as of the
-effective date of the amendment of the State Construction Code.
+6.5  of the City Charter and the State Construction Code Act, otherwise known
+as the Stille-DeRossett-Hale Single State Construction Code Act (Act 230 of the
+Public Acts of 1972 (MCL 125.1501 et seq.)), as amended, is hereby adopted by
+reference as if the same were fully set forth herein. The State Construction
+Code, as hereinafter known, consists of the adoption, by reference, of the
+Michigan Residential Code, the Michigan Building Code, the Michigan Mechanical
+Code, the Michigan Plumbing Code, the Michigan Rehabilitation Code, the
+Michigan Energy Code, and the Michigan Electrical Code. Any and all amendments
+to the Act, which are hereinafter made to the State Construction Code and those
+additional Codes as set forth herein, by the State of Michigan, shall amend, by
+reference, this chapter as of the effective date of the amendment of the State
+Construction Code.
 (Ord. 702. Passed 1-17-2000; Ord. 765. Passed 10-25-04; Ord. 887. Passed 6-23-
-14.)
+14; Ord. 960. Passed 5-6-24; Ord. 967. Passed 2-24-25.)
 1410.02 PURPOSE.
-   The purpose of the State Construction Code, as adopted in Section
-1410.01, is to prescribe construction and material standards and specifications
-for all occupancies named in such Code.
-(Ord. 765. Passed 10-25-04.)
+   The purpose of the State Construction Code Act and the Michigan Residential
+Code, the Michigan Building Code, the Michigan Mechanical Code, the Michigan
+Plumbing Code, the Michigan Rehabilitation Code, the Michigan Energy Code, and
+the Michigan Electrical Code, as adopted in Section 1410.01, is to prescribe
+construction and material standards and specifications for all occupancies
+named in such Code.
+(Ord. 765. Passed 10-25-04; Ord. 967. Passed 2-24-25.)
 1410.03 FILE AND DISTRIBUTION COPIES.
-   Printed copies of the State Construction Code, as adopted in Section
-1410.01, shall be kept in the office of the City Clerk and the office of the
-City Building Official, and be available for inspection by and distribution to
-the public at all times.  
-(Ord. 765. Passed 10-25-04.)
+   Printed copies of the State Construction Code Act and the Michigan
+Residential Code, the Michigan Building Code, the Michigan Mechanical Code, the
+Michigan Plumbing Code, the Michigan Rehabilitation Code, the Michigan Energy
+Code, and the Michigan Electrical Code, as adopted in Section 1410.01, shall be
+kept in the office of the City Clerk and the office of the City Building
+Official, and be available for inspection by and distribution to the public at
+all times.
+(Ord. 765. Passed 10-25-04; Ord. 967. Passed 2-24-25.)
 1410.04 CONFLICTS.
    In the event of a conflict between any of the provisions of the State
-Construction Code, as adopted in Section
+Construction Code Act and the Michigan Residential Code, the Michigan Building
+Code, the Michigan Mechanical Code, the Michigan Plumbing Code, the Michigan
+Rehabilitation Code, the Michigan Energy Code, and the Michigan Electrical
+Code, as adopted in Section
 1410.01, and a provision of any City ordinance, resolution, rule or regulation,
-the provisions of the State Code shall prevail.
-(Ord. 702. Passed 1-17-2000; Ord. 765. Passed 10-25-04.)
+the provisions of Section
+1410.01 herein, 1972 PA 230 shall prevail.
+(Ord. 702. Passed 1-17-2000; Ord. 765. Passed 10-25-04; Ord. 967. Passed 2-24-
+25.)
 1410.05 ENFORCEMENT; BOARD OF BUILDING CODE APPEALS.
-   Pursuant to the provisions of Section 9 of Act 230 of the Public Acts of
-1972 (MCL 125.1509), as amended, the Building Official is hereby designated as
-the enforcing agency to discharge the responsibilities of the City under Act
-230 of the Public Acts of 1972, as amended. The City hereby assumes
-responsibility for the administration and enforcement of such Act throughout
-its corporate limits.
+   The Building Official is hereby designated as the enforcing agency to
+discharge the responsibilities of the City under Act 230 of the Public Acts of
+1972, as amended. The City hereby assumes responsibility for the administration
+and enforcement of the State Construction Code Act, the Michigan Residential
+Code, the Michigan Building Code, the Michigan Mechanical Code, the Michigan
+Plumbing Code, the Michigan Rehabilitation Code, the Michigan Energy Code, and
+the Michigan Electrical Code.
 (Ord. 337. Passed 10-14-74; Ord. 765. Passed 10-25-04; Ord. 887. Passed 6-23-
-14.)
+14; Ord. 967. Passed 2-24-25.)
 1410.06 EXTENSIONS OF BUILDING PERMITS.
-   Pursuant to the State Construction Code, Section 105.5, building permits
-shall become invalid after the expiration of 180 days pursuant to the terms and
-conditions set out in that Section. One or more extensions of time may be
-authorized by the Building Official for periods not more than 180 days each,
-subject to the terms of Section 105.5 of the State Construction Code and
-Section
-1450.02 of the Howell City Code.
-(Ord. 870. Passed 5-20-13.)
+   Every permit issued shall become invalid unless the work authorized by such
+permit is commenced within 180 days after its issuance, or if the work
+authorized by such permit is suspended or abandoned for a period of 180 days
+after the time the work is commenced. The Building Official is authorized to
+grant, in writing, one or more extensions of time, for periods not more than
+180 days each. The extension shall be requested in writing and justifiable
+cause demonstrated.
+(Ord. 870. Passed 5-20-13; Ord. 967. Passed 2-24-25.)
 1410.99 PENALTY.
    In addition to any other civil remedy allowed by law, whoever violates any
-of the provisions of this chapter is responsible for a Municipal civil
+of the provisions of this chapter is responsible for a municipal civil
 infraction and shall be subject to the civil fines set forth in Section
 202.99.
-(Ord. 794. Passed 3-26-07.)
+(Ord. 794. Passed 3-26-07; Ord. 967. Passed 2-24-25.)
 CHAPTER 1420
 Unsafe Buildings
 EDITOR'S NOTE:
@@ -31679,6 +31730,7 @@ CHAPTER 1450
 Fees for Permits, Certificates and Inspections
 1450.01   Collection.
 1450.02   Building permit fees.
+1450.02a    Trade permit fee schedule.
 1450.03   Sign permit fees.
 1450.04   Demolition permit fees.
 1450.05   Mobile home set-up permit fees.
@@ -31718,7 +31770,7 @@ for the City. Appeals of a revised cost estimate shall be made to the City
 Manager.
    (c)   Residential and Non-residential Building Permit Fees - Renovations/
 Alterations/ Repairs. Residential and non-residential building permit fees for
-renovations/alterations/repairs shall be determined by taking the actual cost
+renovations/ alterations/repairs shall be determined by taking the actual cost
 of the construction and multiplying the same by the ICC permit fee multiplier,
 adjusted by using a two-year construction cost average for the City. The
 minimum permit fee shall be one hundred dollars ($100.00).
@@ -31747,10 +31799,179 @@ applying for a building permit.
    (f)   Nonstructural Alterations. Permits shall not be required for
 nonstructural alterations costing five hundred dollars ($500.00) or less
 pursuant to the Howell City Zoning Code.
-   (g)   Plumbing, mechanical, and electrical permits and fees. Permits for
-plumbing, mechanical, and electrical work must be obtained from, and fees, if
-any, paid to, the Livingston County Building Department.
-(Ord. 948. Passed 2-14-22; Ord. 952. Passed 10-10-22.)
+(Ord. 948. Passed 2-14-22; Ord. 952. Passed 10-10-22; Ord. 969. Passed 3-24-
+25.)
+1450.02a TRADE PERMIT FEE SCHEDULE.
+   The following trade (electrical, mechanical, plumbing) permit fees shall
+apply for those items listed in this subsection.
+Electrical Permit Fee Schedule  
+Electrical Permit Fee Schedule                                                     
+1.   Application Fee (non-refundable)                                          $50.00
+Service
+2.   Through 200 Amp.                                                          $10.00
+3.   Over 200 Amp. thru 600 Amp.                                               $15.00
+4.   Over 600 Amp. thru 800 Amp.                                               $20.00
+5.   Over 800 Amp. thru 1200 Amp.                                              $25.00
+6.   Over 1200 Amp. (GFI only) thru 1600 Amp                                   $50.00
+7.   Over 1600 Amp.                                                            $120.00
+8.   Circuits                                                                  $5.00
+                                                                                  ea.
+9.   Lighting Fixtures/Outlets including Receptacles and Wired Smoke Detectors $6.00
+per 25
+10.   Dishwasher, Microwave or Garbage Disposal                                $5.00
+11.   Furnace - Unit Heater                                                    $5.00
+12.   Electrical - Heating Units (baseboard)                                   $4.00
+13.   Power Outlets (ranges, dryers, etc.)                                     $7.00
+Signs
+14.   Unit                                                                     $10.00
+15.   Letter (each)                                                            $15.00
+16.   Neon - each 25 feet                                                      $20.00
+17.   Feeders-Bus Ducts, etc. - per 50'                                        $6.00
+18.   Mobile Home Park Site *                                                  $6.00
+19.   Recreational Vehicle Park Site                                           $4.00
+K.V.A., H.P., Wind Turbines                                                        
+20.   Units up to 20 K.V.A. or H.P.                                            $6.00
+21.   Units 21 to 50 K.V.A. or H.P.                                            $10.00
+22.   Units >50 K.V.A. or H.P.                                                 $12.00
+23.   Solar Photovoltaic System where the total inverter generating capacity is$2.00
+less than 5,000KW (each)
+24.   Solar Photovoltaic System where the total inverter generating capacity is$1.00
+no less than 5,000KW (each)
+25.   Electric Vehicle Charging Station (each station)                         $5.00
+Fire Alarm Systems (not smoke detectors)
+26.   Up to 10 devices                                                         $50.00
+27.   11 to 20 devices                                                         $100.00
+28.   Over 20 devices (each)                                                   $5.00
+Data / Telecommunication Outlets
+29.   1 - 19 devices (each)                                                    $5.00
+30.   Outlets 20 to 300 devices                                                $100.00
+31.   Outlets Over 300 devices                                                 $300.00
+Energy Management Temp. Control
+32.   Energy Retrofit - Temp. Control                                          $45.00
+33.   Energy Devices - Energy Mgmt.                                            $5.00
+                                                                                  ea.
+Inspections
+34.   Underground Inspection                                                   $60.00
+35.   Rough Inspection                                                         $60.00
+36.   Service Inspection                                                       $60.00
+37.   Final Inspection                                                         $60.00
+38.   Reinspection                                                             $60.00
+39.   Re-Open Expired Permit                                                   $75.00
+ 
+Mechanical Permit Fee Schedule
+Mechanical Permit Fee Schedule
+1.   Application Fee (non-refundable)                                  $50.00
+2.   Residential Heating System New Building Only*                     $50.00
+3.   Gas/Oil Burning Equipment                                         $30.00
+4.   HWC Unit                                                          $30.00
+5.   Generator (also requires electrical permit)                       $30.00
+6.   Residential Boiler                                                $30.00
+7.   Water Heater (gas piping & venting-direct replacement only) (also $5.00
+requires plumbing permit)
+8.   Damper (control, back-draft, barometric or fire/smoke)            $5.00
+9.   Solid Fuel Equipment (includes chimney)                           $30.00
+10.   Chimney, factory built (installed separately), B Vent, PVC Ventin$25.00
+11.   Gas Burning Fireplace                                            $30.00
+12.   Solar; set of 3 panels-fluid transfer (includes piping)          $20.00
+13.   Gas Piping; each opening-new install (residential)               $5.00
+14.   Air Conditioning Split Systems                                   $30.00
+15.   Roof Top Unit                                                    $30.00
+16.   Heat Pumps (split systems) or Geothermal (complete residential)  $30.00
+17.   Dryer, Bath & Kitchen Exhaust (residential ducting not included) $5.00
+18.   Humidifiers/Air Cleaners                                         $10.00
+19.   Heat Exchanger Replacement                                       $30.00
+20.   LP. Above ground Connection                                      $20.00
+21. LP. Underground Connection                                            $25.00
+Tanks
+22.   Above ground                                                     $20.00
+23.   Underground                                                      $25.00
+Piping (ALL piping-minimum fee $25.00)
+24.   Above ground fuel gas piping                                     $.05/
+                                                                          ft
+25.   Underground fuel gas piping                                      $.05/
+                                                                          ft
+26.   Above ground process piping                                      $.05/
+                                                                          ft
+27.   Underground process piping                                       $.05/
+                                                                          ft
+28.   Above ground hydronic piping                                     $.05/
+                                                                          ft
+29.   Underground hydronic piping                                      $.05/
+                                                                          ft
+30.   Refrigeration piping                                             $.05/
+                                                                          ft
+31.   Commercial Air Conditioning Piping                               $.05/
+                                                                          ft
+32.   Exhausters (commercial)                                          $15.00
+33.   Duct - minimum fee $25.00                                        $.10/
+                                                                          ft
+34.   Heat Pumps; Commercial (pipe not included)                       $20.00
+Air Handlers/Heat Wheels
+35.   Under 10,000 CFM                                                 $20.00
+36.   Over 10,000 CFM                                                  $60.00
+37.   Commercial Hoods                                                 $15.00
+38.   Heat Recovery Units                                              $10.00
+39.   V.A.V. Boxes (all variable volume or zone damper equipment)      $10.00
+40.   Unit Ventilators/PTAC Units/Liebert units                        $10.00
+41.   Fuel Fired Unit Heaters (terminal units)                         $15.00
+42.   Fire Suppression/Protection (includes piping)-minimum fee $20.00 $.75/
+                                                                          head
+43.   Coils (Heat/Cool)                                                $30.00
+44.   Refrigeration (split system)                                     $30.00
+Chiller/Cooling Towers
+45.   Chiller-Refrigeration                                            $30.00
+46.   Chiller-Air Conditioning                                         $30.00
+47.   Cooling Towers-Refrigeration                                     $30.00
+48.   Cooling Towers-Air Conditioning                                  $30.00
+49.   Compressor/Condenser                                             $30.00
+Inspections
+50.   Gas Pressure Test                                                $60.00
+51.   Underground Inspection                                           $60.00
+52.   Rough Inspection                                                 $60.00
+53.   Final Inspection                                                 $60.00
+54.   Reinspection                                                     $60.00
+55.   Re-Open Expired Permit                                           $75.00
+Contractor Registration Fee                                               $15.00
+ 
+Plumbing Permit Fee Schedule
+Plumbing Permit Fee Schedule
+1.   Application Fee (non-refundable)                        $50.00
+2.   Mobile Home Park Site*                                  $5.00 ea.
+3.   Fixtures, floor drains, special drains, water connected $5.00 ea.
+appliances
+4.   Stacks (soil, waste, vent and                           $3.00 ea.
+5.   Sewage ejectors, sumps                                  $5.00 ea.
+6.   Sub-soil drains                                         $5.00 ea.
+Water Service
+7.   Less than 2"                                            $5.00
+8.   2" to 6"                                                $25.00
+9.   Over 6"                                                 $50.00
+10.   Connection (bldg. drain-bldg. sewers)                  $5.00
+Sewers (sanitary, storm or
+11.   Less than 6"                                           $5.00
+12.   6" and over                                            $25.00
+13.   Manholes, Catch Basins                                 $5.00 ea.
+Water Distributing Pipe (system)
+14.   3/4" Water Distribution Pipe                           $5.00
+15.   1" Water Distribution Pipe                             $10.00
+16.   1-1/4" Water Distribution Pipe                         $15.00
+17.   1-1/2" Water Distribution Pipe                         $20.00
+18.   2" Water Distribution Pipe                             $25.00
+19.   Over 2" Water Distribution Pipe                        $30.00
+20.   Reduced pressure zone back-flow preventer              $5.00 ea.
+21.   Domestic water treatment and filtering equipment only**$5.00 ea.
+22.   Medical Gas System                                     $45.00
+23.   Water Heater                                           $5.00
+Inspections
+24.   Rough Inspection                                       $60.00
+25.   Water/Sewer Inspection                                 $60.00
+26.   Underground Inspection                                 $60.00
+27.   Final Inspection                                       $60.00
+28.   Reinspection                                           $60.00
+29.   Re-Open Expired Permit                                 $75.00
+Contractor Registration Fee                                     $15.00
+ 
+(Ord. 969. Passed 3-24-25.)
 1450.03 SIGN PERMIT FEES.
    All property owners shall obtain a sign permit from the Building Official
 prior to the installation, display, erection, relocation, or alteration of any
@@ -32569,97 +32790,262 @@ CHAPTER 1480
 Property Maintenance
 1480.01   Intent.
 1480.02   Adoption of Code by reference.
-1480.03   Grading and drainage.
-1480.04   Defacement of property.
-1480.05   Building materials left outside.
-1480.06   Laborers and materials.
-1480.07   Hearings and appeals.
-1480.08   Violations; repair or removal by city; recovery of costs..
+1480.03   Definitions.
+1480.04   Amendments to the Property Maintenance Code.
+1480.05   Fire extinguishers in multiple dwelling buildings.
+1480.06   Defacement of property.
+1480.07   Building materials left outside.
+1480.08   Laborers and materials.
+1480.09   Repair or removal by City; recovery of costs.
+1480.10   Copies of Code.
 1480.99   Penalty.
 1480.01 INTENT.
    This chapter shall be construed to secure its expressed intent, which is to
-ensure public health, safety and welfare insofar as they are affected by the
-continued occupancy and maintenance of any and all structures, units and
+ensure public health, safety, and welfare insofar as they are affected by the
+continued occupancy and maintenance of any and all structures, units, and
 premises. Existing structures and premises that do not comply with these
 provisions shall be altered or repaired to provide a minimum level of health
 and safety as required herein.
-(Ord. 873. Passed 5-20-13.)
-1480.02 DEFINITIONS.
-   Pursuant to Section
-6.5 of the Howell City Charter, the International Property Maintenance Code,
-2015 edition, as published by the International Code Council, for the purpose
-of regulating existing buildings and structures and premises in the City of
-Howell, as in this chapter modified, is hereby adopted by reference as if fully
-set forth herein, save and except such portions as may be hereinafter be
-amended or deleted by the City of Howell or the International Code Council,
-said amendments being effective as of the date of the amendment. A complete
-printed copy of the International Property Maintenance Code, as adopted and the
-amendments herein, shall be kept on file in the office of the City Clerk and
-the Community Development Office, where it shall be available for inspection by
-and distribution to the public during regular business hours.
-(Ord. 918. Passed 10-8-18.)
-1480.03 GRADING AND DRAINAGE.
-   No property owner shall change the grade or drainage pattern so as to cause
-water to flow upon neighboring properties. Detention and retention structures
-as required under the Howell City Zoning Code are exempt from this provision.
-(Ord. 873. Passed 5-20-13; Ord. 918. Passed 10-8-18.)
-1480.04 DEFACEMENT OF PROPERTY.
+(Ord. 873. Passed 5-20-13; Ord. 968. Passed 2-10-25.)
+1480.02 ADOPTION OF CODE BY REFERENCE.
+   Pursuant to Section 6.5 of the Howell City Charter, the International
+Property Maintenance Code, 2021 Edition, as published by the International Code
+Council, for the purpose of regulating existing buildings and structures and
+premises in the City of Howell, as in this chapter modified, is hereby adopted
+by reference as if fully set forth herein, save and except such portions as may
+be hereinafter amended or deleted by the City of Howell or the International
+Code Council, said amendments being effective as of the date of the amendment.
+A complete printed copy of the International Property Maintenance Code, as
+adopted and the amendments herein, shall be kept on file in the office of the
+City Clerk and the Community Development Office, where it shall be available
+for inspection by and distribution to the public during regular business hours.
+(Ord. 968. Passed 2-10-25.)
+1480.03 DEFINITIONS.
+   Whenever the words "City," "jurisdiction," "authority" or "governmental
+unit" are used in the International Property Maintenance Code, 2021 Edition,
+they shall mean the City of Howell. Whenever the word "state" is used in the
+International Property Maintenance Code, 2021 Edition, it shall mean the State
+of Michigan.
+(Ord. 918. Passed 10-8-18; Ord. 968. Passed 2-10-25.)
+1480.04 AMENDMENTS TO THE PROPERTY MAINTENANCE CODE.
+   The International Property Maintenance Code, 2021 Edition, is amended as
+follows:
+   (a)   Section 101.1 is amended to read in its entirety as follows:
+      101.1 Title. These regulations shall be known as the Property Maintenance
+Code of the City of Howell, hereinafter referred to as "this code."
+   (b)   Section 102.3 is amended to read in its entirety as follows:
+      102.3. Application of other codes. Repairs, additions or alterations to a
+structure, or changes of occupancy, shall be done in accordance with the
+procedures and provisions of the Michigan Building Code, the Michigan
+Residential Code, the Michigan Mechanical Code, the Michigan Plumbing Code, the
+Michigan Electrical Code, and the Howell Fire Prevention Code. The references
+in the Code to International Codes shall be amended as follows: Whenever the
+"International Building Code" or "building code" is referenced in this Code it
+shall mean the Michigan Building Code; whenever the "International Mechanical
+Code" is referenced in this Code it shall mean the Michigan Mechanical Code;
+whenever the "International Plumbing Code" is referenced in this Code it shall
+mean the Michigan Plumbing Code; whenever the "International Electrical Code"
+or "National Electrical Code (NEC)" or "NFP A 70" is referenced in this Code it
+shall mean the Michigan Electrical Code; whenever the "International Fire
+Code," "fire code" or "NFPA 25" is referenced in this Code it shall mean the
+Howell Fire Prevention Code; whenever the "International Zoning Code" is
+referenced in this Code it shall mean the Howell Zoning Code. Nothing in this
+Code shall be construed to cancel, modify, or set aside any provision of the
+Howell Zoning Code.
+   (c)   Section 103.1 is amended to read in its entirety as follows:
+      103.1. Creation of agency. The Building Safety Department is hereby
+created and the official in charge thereof shall be known as the Building Code
+Official. The function of the agency shall be the implementation,
+administration, and enforcement of the provisions of this code.
+   (d)   Section 103.2 is amended to read in its entirety as follows:
+      103.2 Appointment. The code official shall be the City Council appointed
+Building Official of the City of Howell.
+   (e)   Section 104.1 is amended to read in its entirety as follows:
+      104.1 Fees. The City Council shall by resolution from time to time,
+establish a fee schedule for activities and services performed by the
+department in carrying out its responsibilities under this Code, including but
+not limited to a refund policy.
+   (f)   Section 104.2 is deleted in its entirety.
+   (g)   Section 104.3 is added to read in its entirety:
+      104.3 Unpaid fees. Any unpaid fees, as required by this Code that remain
+unpaid after February 15th, shall become a debt to the City from the owner or
+person otherwise to be assessed on Tax Day provided by law. Such unpaid fees
+shall become a lien upon such real property and the lien for such amounts and
+all associated interest and penalties shall continue until payment. All such
+lien amounts shall be collected in the same manner as real property taxes.
+   (h)   Section 105.3 is amended to read in its entirety as follows:
+      105.3. Right of Entry. Where it is necessary to make an inspection to
+enforce the provisions of this Code, or whenever the code official has
+reasonable cause to believe that there exists in a structure or upon a premises
+a condition in violation of this Code, the code official is authorized to enter
+the structure or premises at reasonable times to inspect or perform the duties
+imposed by this Code, provided that if such structure or premises is occupied
+the code official shall present credentials to the occupant and request entry.
+If such structure or premises is unoccupied, the code official shall first make
+a reasonable effort to locate the owner, owner's authorized agent or other
+person having charge or control of the structure or premises and request entry.
+If entry is refused, the code official shall have recourse to the remedies
+provided by law to secure entry. In all instances where entry is refused, the
+code official is authorized to pursue recourse as provided by law.
+   (i)   Section 105.7 is amended to read in its entirety as follows:
+      105.7 Liability. The Building Code Official, members of the Howell
+Building Safety Department, or employees charged with the enforcement of this
+Code, while acting for the City, in good faith and without malice in the
+discharge of the duties required by this Code or other pertinent law or
+ordinance, shall not be rendered liable personally, and is relieved from all
+personal liability for any damage accruing to persons or property as a result
+of an act or by reason of an act or omission in the discharge of official
+duties.
+   (j)   Section 107.1 is amended to read in its entirety as follows:
+      107.1 General. Any person interested, who may be aggrieved by an order or
+notice of the code official made pursuant to this chapter, may, within twenty
+days from the date of service of such order or notice, appeal to the Howell
+City Council by filing, with the code official from whom the appeal is taken
+and with the City Clerk, a notice of appeal, in writing, specifying the grounds
+thereof. The code official shall forthwith transmit to Council all papers
+constituting the record upon which the action appealed from was taken. An
+appeal stays all proceedings in furtherance of the action appealed from, unless
+the code official from whom the appeal is taken certifies to Council, after the
+notice of the appeal has been filed with him or her, that by reason of facts
+stated in the certificate, a stay would, in his or her opinion, cause imminent
+peril to life, health and property. In such a case, proceedings shall not be
+stayed otherwise than by a restraining order granted by Council or by a court
+of record. Any person, whether or not a previous party of the appeal, owner,
+agent or occupant interested, who may feel aggrieved by an order or notice of
+the code official shall have the right to apply to the appropriate court for a
+writ of certiorari to correct errors of law. Application for review shall be
+made in the manner and time required by law following the filing of the
+decision in the office of the Howell City Clerk.
+   (k)   Section 107.3 is deleted in its entirety.
+   (l)   Section 107.4 is amended to read in its entirety as follows:
+      107.4 Administrative. The Building Code Official shall take immediate
+action in accordance with the decision of the City Council.
+   (m)   Section 108.1 is deleted in its entirety.
+   (n)   Section 109.3 is amended to read in its entirety as follows:
+      109.3 Prosecution of violation. Any person failing to comply with a
+notice of violation or order served in accordance with Section 111.4 shall be
+deemed guilty of a municipal civil infraction as governed by the provisions of
+Chapter 208 of the Howell City Code, Municipal Civil Infractions, and the
+violation shall be deemed a strict liability offense. If the notice of
+violation is not complied with, the Building Code Official shall institute the
+appropriate proceeding at law or in equity to restrain, correct or abate such
+violation, or to require the removal or termination of the unlawful occupancy
+of the structure in violation of the provisions of this Code or of the order or
+direction made pursuant thereto. Any action taken by the authority having
+jurisdiction on such premises shall be charged against the real estate upon
+which the structure is located and shall be a lien upon such real estate.
+   (o)   Section 109.4 is amended to read in its entirety as follows:
+      109.4 Violation penalties.
+      (a)   Any owner of a structure, unit or premises who fails to comply with
+any of the requirements of this chapter shall be responsible for a municipal
+civil infraction pursuant to Section 202.99 of the Howell City Code.
+      (b)   The City may also seek any and all remedies available to it by law,
+including bringing an action for an injunction or other process against a
+person to restrain, prevent or abate any violation of this chapter.
+   (p)   Section 201.3 is amended to read in its entirety as follows:
+      201.3. Terms defined in other codes. Where terms are not defined in this
+Code and are defined in the Michigan Building Code, the Michigan Residential
+Code, the Michigan Mechanical Code, the Michigan Plumbing Code, the Michigan
+Electrical Code, the
+      Howell Fire Code or the Howell Zoning Ordinance, such terms shall have
+the meanings ascribed to them as stated in those codes or ordinances.
+         Exception: When used within this Code, the terms unsafe and dangerous
+shall have only the meanings ascribed to them in this Code and shall not have
+the meanings ascribed to them by the Michigan Rehabilitation Code for Existing
+Buildings.
+   (q)   Section 302.2 is amended to read in its entirety as follows:
+      302.2 Grading and drainage. Premises shall be graded and maintained to
+prevent the erosion of soil and to prevent the accumulation of stagnant water
+thereon, or within any structure located thereon. No property owner shall
+change the grade or drainage pattern so as to cause water to flow upon
+neighboring properties.
+         Exception: Detention and retention structures as required under the
+Howell City Zoning Code are exempt from this provision.
+   (r)   Section 304.14 insert "April 1 to November 15."
+   (s)   Section 401.3 is amended to read in its entirety as follows:
+      401.3. Alternative devices. In lieu of the means for natural light and
+ventilation herein prescribed, artificial light or mechanical ventilation
+complying with the Michigan Building Code and/or the Michigan Mechanical Code
+shall be permitted.
+   (t)   Section 602.2 is amended to read in its entirety as follows:
+      602.2. Residential occupancies. Dwellings shall be provided with heating
+facilities capable of maintaining a room temperature of 68°F (20°C) in all
+habitable rooms, bathrooms and toilet rooms based on the winter outdoor design
+temperature for the City of Howell as indicated in the Michigan Plumbing Code.
+Cooking appliances shall not be used, nor shall portable unvented fuel-burning
+space heaters be used, as a means to provide required heating. The installation
+of one or more portable space heaters shall not be used to achieve compliance
+with this section.
+         Exception: In areas where the average monthly temperature is above
+30°F (-1 °C), a minimum temperature of 65°F (l8°C) shall be maintained.
+   (u)   Section 602.3 is amended to read in its entirety as follows:
+      602.3. Heat supply. Every owner or operator of any building who rents,
+leases, or lets one or more dwelling units, rooming units, dormitory or
+guestrooms on terms, either expressed or implied, to furnish heat to the
+occupants thereof shall supply heat during the period from October 1 to May 1
+to maintain a temperature of 68°F (20°C) in all habitable rooms, bathrooms, and
+toilet rooms.
+         Exception: When the outdoor temperature is below the winter outdoor
+design temperature for the City, maintenance of the minimum room temperature
+shall not be required provided that the heating system is operating at its full
+design capacity. The winter outdoor design temperature for the City of Howell
+shall be as indicated in the Michigan Plumbing Code.
+   (v)   Section 602.4 is amended to read in its entirety as follows:
+      602.4. Occupiable work spaces. Indoor occupiable workspaces shall be
+supplied with heat during the period from October 1 to May 1 to maintain a
+temperature of 65°F (18°C) during the period the spaces are occupied.
+         Exceptions:
+            i.   Processing, storage, and operation areas that require cooling
+or special temperature conditions.
+            ii.   Areas in which persons are primarily engaged in vigorous
+physical activities.
+(Ord. 968. Passed 2-10-25.)
+1480.05 FIRE EXTINGUISHERS IN MULTIPLE DWELLING BUILDINGS.
+   (a)   It shall be the duty of the owners of a multiple dwelling building
+(more than two residential units) to provide at least one 1A:10B:C type fire
+extinguisher for each apartment or dwelling unit within the building.
+   (b)   It shall be the duty of the owners of a multiple dwelling building
+(more than two residential units) to provide at least one 2A:10B:C type fire
+extinguisher for each common area within the building.
+(Ord. 968. Passed 2-10-25.)
+1480.06 DEFACEMENT OF PROPERTY.
    No person shall willfully or wantonly damage, mutilate or deface any
 exterior surface of any structure or building on any private or public property
 by placing thereon any marking, carving or graffiti. It shall be the
 responsibility of the owner to restore said surface to an approved state of
 maintenance and repair according to the Building Official.
-(Ord. 873. Passed 5-20-13; Ord. 918. Passed 10-8-18.)
-1480.05 BUILDING MATERIALS LEFT OUTSIDE.
+(Ord. 873. Passed 5-20-13; Ord. 918. Passed 10-8-18; Ord. 968. Passed 2-10-25.)
+1480.07 BUILDING MATERIALS LEFT OUTSIDE.
    No property owner shall store, accumulate, or permit the storage or
 accumulation of any building materials on property owned, leased, rented or
 occupied by him or her for any period longer than reasonably necessary for the
 immediate use of such materials, but in no event longer than the length of an
 active building permit on the premises.
-(Ord. 873. Passed 5-20-13; Ord. 918. Passed 10-8-18.)
-1480.06 LABORERS AND MATERIALS.
+(Ord. 873. Passed 5-20-13; Ord. 918. Passed 10-8-18; Ord. 968. Passed 2-10-25.)
+1480.08 LABORERS AND MATERIALS.
    For the purpose of this chapter, the Code Official, with the approval of
 Council, may employ such laborers and materials as may be necessary to
 implement this chapter.
-(Ord. 918. Passed 10-8-18.)
-1480.07 HEARINGS AND APPEALS.
-   Notwithstanding those requirements set out in Section 111, Means of Appeal,
-of the International Property Maintenance Code such requirements shall not
-apply to property maintenance violations issued under this Chapter. In the
-place of Section 111 shall be the following for purposes of appeals:
-   Any person interested, who may be aggrieved by an order or notice of the
-code official made pursuant to this chapter, may, within twenty days from the
-date of service of such order or notice, appeal to the Howell City Council by
-filing, with the code official from whom the appeal is taken and with the City
-Clerk, a notice of appeal, in writing, specifying the grounds thereof. The code
-official shall forthwith transmit to Council all papers constituting the record
-upon which the action appealed from was taken. An appeal stays all proceedings
-in furtherance of the action appealed from, unless the code official from whom
-the appeal is taken certifies to Council, after the notice of the appeal has
-been filed with him or her, that by reason of facts stated in the certificate,
-a stay would, in his or her opinion, cause imminent peril to life, health and
-property. In such a case, proceedings shall not be stayed otherwise than by a
-restraining order granted by Council or by a court of record. Any person,
-whether or not a previous party of the appeal, owner, agent or occupant
-interested, who may feel aggrieved by an order or notice of the code official
-shall have the right to apply to the appropriate court for a writ of certiorari
-to correct errors of law. Application for review shall be made in the manner
-and time required by law following the filing of the decision in the office of
-the Howell City Clerk.
-(Ord. 918. Passed 10-8-18.)
-1480.08 VIOLATIONS; REPAIR OR REMOVAL BY CITY; RECOVERY OF COSTS.
+(Ord. 918. Passed 10-8-18; Ord. 968. Passed 2-10-25.)
+1480.09   REPAIR OR REMOVAL BY CITY; RECOVERY OF COSTS.
    (a)   No owner of an unsafe building or structure, to whom an order or
 notice to repair or remove such building or structure is given, shall fail to
 commence or to complete such repair or removal within the time limit prescribed
 by such notice.
    (b)   If the owner fails to commence or complete such work within such time
-limit, the Code Official may cause such work to be commenced and/or completed
-by the City, the cost and expense thereof, with a penalty of ten percent, to be
-collected from the owner of such structure in the manner provided by law. The
-recovery of such cost and expense, together with the penalty, may be in
-addition to the penalty provided for in Section
-1480.99.
-(Ord. 918. Passed 10-8-18.)
+limit, the Building Code Official, with approval of the City Council, may cause
+such work to be commenced and/or completed by the City, the cost and expense
+thereof, with a penalty of ten percent, to be collected from the owner of such
+structure in the manner provided by law. The recovery of such cost and expense,
+together with the penalty, may be in addition to the penalty provided for in
+Section 109.4 of the International Property Maintenance Code, 2021 Edition, as
+amended herein.
+(Ord. 918. Passed 10-8-18; Ord. 968. Passed 2-10-25.)
+1480.10   COPIES OF CODE.
+   A complete copy of the International Property Maintenance Code, 2021
+Edition, is available for public use and inspection at the offices of the City
+Clerk.
+(Ord. 968. Passed 2-10-25.)
 1480.99 PENALTY.
    (a)   Any owner of a structure, unit or premises who fails to comply with
 any of the requirements of this chapter shall be responsible for a municipal
