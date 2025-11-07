@@ -1,7 +1,7 @@
 AITKIN, MINNESOTA
 CODE OF ORDINANCES
 2025 S-6 Supplement contains:
-Local legislation current through Ord. 417, passed 7-21-2025
+Local legislation current through Ord. 418, passed 10-20-2025
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310 Cincinnati, Ohio 45202
@@ -11254,6 +11254,8 @@ General Performance Standards
 152.104   Salvage yards
    
 152.105   Utility substation
+   
+152.106   Traffic visibility
 Signs
    
 152.120   Findings, purpose and intent
@@ -11717,7 +11719,7 @@ feet above the ordinary high water mark averages 30% or greater; and
                d.   The slope must drain towards the water body.
             2.   An area with an average slope of less than 18% over a distance
 for 50 feet or more shall not be considered part of the bluff.
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1077.jpg]
  
          BLUFF IMPACT ZONE. A bluff and the land located within 30 feet inland
@@ -11773,7 +11775,7 @@ ground level at the building or ten feet above the lowest ground level,
 whichever is lower, and the highest point of a flat roof or average height
 between the eaves and the highest ridge of gable, hip or gambrel roofs or ten
 feet below the peak, whichever is greater.
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1079.jpg]
  
          BUILDING LINE. A line parallel to a lot line or the ordinary high
@@ -12078,10 +12080,11 @@ as recreational facilities, tree coverage, water course, sewage disposal or
 similar uses. Public property permanently dedicated to park, vegetative buffer,
 tree coverage or water courses.
          GROUP CARE FACILITIES. A facility which provides residential services
-for individuals that are handicapped, aged, disabled or undergoing
-rehabilitation. This includes uses such as homes for the physically
-handicapped, mentally retarded, chemically dependent, foster children,
-maternity shelters and half-way houses.
+for individuals that may require assistance due to age, disability, medical or
+mental health conditions, substance use recovery, or other special needs. This
+includes, but is not limited to, group homes for persons with physical or
+developmental disabilities, substance use recovery residences, foster care
+homes, maternity shelters, and transitional housing such as halfway houses.
          GROWLER. Sixty-four-ounce or 750-milliliter containers provided for
 off-sale distribution at a taproom. (M.S. § 340A.285)
          HAZARDOUS MATERIAL or SUBSTANCE.
@@ -12201,7 +12204,7 @@ way, street or ally that results in one parcel.
          LOT, CORNER. A lot situated at the junction of and abutting on two or
 more intersecting streets or a lot at the point of deflection in alignment of
 one street with the internal angle less than 135 degrees.
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1081.jpg]
  
          LOT, FRONT. The boundary of a lot which abuts on a public right-of-
@@ -12277,8 +12280,8 @@ point.
          MICRODISTILLERY. A distillery operated within the state producing
 premium, distilled spirits in total quantity not to exceed 40,000 proof gallons
 in a calendar year as defined in M.S. § 340A.101, subd. 17A, as may be amended.
-         MINOR LOT SUBDIVISION. A subdivisions of land into not more than three
-lots in five years that do not require any new street, require any public
+         MINOR LOT SUBDIVISION. A subdivision of land into not more than three
+lots in one year that do not require any new street, require any public
 improvements and result in a buildable lot area for each of the subsequent
 parcels.
          MISSISSIPPI HEADWATERS BOARD (MHB). The Board composed of one county
@@ -12632,9 +12635,11 @@ transported, including by trailer or on its own wheels, even though the wheels
 of such sign may be removed and the remaining chassis or support is converted
 to another sign or attached temporarily or permanently to the ground since this
 characteristic is based on the design of such sign.
-         SIGN, PROJECTING. Any sign which is affixed to a building or wall in
-such a manner that its leading edge extends more than two feet beyond the
-surface of such building or wall face.
+         SIGN, PROJECTING. A double-sided sign that is either supported in a
+cantilever fashion by a bracket, pole or beam from the side of a building or
+hanging from the underside of a roof or overhang so that the sign hangs over
+and is positioned perpendicular to a pedestrian walkway and viewable in both
+directions of the walkway.
          SIGN, PYLON. Any freestanding sign which has its supportive structure
 (s) anchored in the ground and which has a sign face elevated above ground
 level by pole(s) or beam(s) and with the area below the sign face open.
@@ -12889,7 +12894,7 @@ division (B)(1) above, as provided for within §
 (Ord. 332, passed 5-19-2008; Ord. 337, passed 12-21-2009; Ord. 347, passed 7-6-
 2010; Ord. 354, passed 11-1-2010; Ord. 359, passed 8-6-2012; Ord. 372, passed
 12-15-2014; Ord. 394, passed 8-5-2019; Ord. 405, passed 4-4-2022; Ord. 406,
-passed 4-4-2022)
+passed 4-4-2022; Ord. 418, passed 10-20-2025)
 § 152.004 APPLICATION OF CHAPTER.
    (A)   The provisions of this chapter shall be held to be the minimum
 requirements for the maintaining of the public health, safety and welfare.
@@ -13371,8 +13376,12 @@ Residential District may be established in areas abutting Urban/Rural
 Transition Residential (TR), Highway Commercial (C) or Industrial (I)
 Districts.
    (C)   Lot and density requirements.
-Accessory structure size - square feet, 1,280 square feet
-max, cumulative
+ 
+                                        1,280 square feet for the first 15,000
+Accessory structure size - square feet, square feet; 500 square feet for each
+max, cumulative                         additional 15,000 square feet (possible
+                                        with CUP approval); maximum of 1,000
+                                        additional square feet
 Buildable lot area (sewered) - square   6,250
 feet, minimum
 Lot width - feet, minimum               50
@@ -13427,7 +13436,8 @@ neighborhood or vicinity of the improvement; and
 in which the improvement is made.
       (5)   Animal husbandry. Animal husbandry and farm animals shall only be
 allowed in the Urban Residential District on lots with a minimum of five acres.
-(Ord. 332, passed 5-19-2008; Ord. 403, passed 12-6-2021)
+(Ord. 332, passed 5-19-2008; Ord. 403, passed 12-6-2021; Ord. 418, passed 10-
+20-2025)
 § 152.036 HIGHWAY COMMERCIAL (C) DISTRICT.
    (A)   Purpose and intent. To provide a zoning classification for commercial
 uses oriented around the automobile. Parcels are larger than in the Downtown
@@ -13684,7 +13694,7 @@ E - Denotes “Excluded Use”
 C - Denotes “Conditional Use”
 I - Denotes “Interim Use Permit”
 Use District
-    OS P&R RR TR UR DMU LI-CT C I
+    OS P&R RR TR UR DMU LI-C T C I
 Land Use Matrix
 A - Denotes “Allowed without a Permit”
 PAC - Denotes “Accessory Use (Permit Required)”
@@ -13693,147 +13703,148 @@ E - Denotes “Excluded Use”
 C - Denotes “Conditional Use”
 I - Denotes “Interim Use Permit”
                                               District
-Use                                           OS P&R RR  TR  UR  DMU LI- C   I
-                                                                     CT
-Abandoned building                            E  E   E   E   E   E   E   E   E
-Abandoned motor vehicle                       E  E   E   E   E   E   E   E   E
-Accessory structure                           P  PAC PAC PAC PAC PAC PAC PAC PAC
-Adult use                                     E  E   E   E   E   E   E   E   C
-Agricultural use                              A  C   C   E   E   E   E   E   E
-Airport                                       E  C   E   E   E   E   E   E   C
-Animals, domestic                             E  C   A   A   A   A   A   A   A
-Animals, farm                                 A  C   A   P   AP  E   E   E   E
-Animals, specialty                            E  C   A   A   A   A   A   A   A
-Animals, wild                                 A  A   E   E   E   E   E   E   E
-Animal boarding facility                      E  E   C   E   E   C   E   C   C
-Animal grooming establishment                 E  E   C   C   C   A   A   A   A
-Animal husbandry                              E  E   C   P   P   E   E   E   E
-Artist’s studio                             E  E   C   C   C   A   A   A   A
-Auctions (more than one in a calendar year)   E  C   C   E   E   A   A   A   A
-Auto repair facility                          E  E   E   E   E   C   C   C   C
-Auto sales                                    E  E   E   E   E   C   C   C   C
-Bed and breakfast (in definition state that   E  E   C   C   C   E   E   E   E
+Use                                           OS P&R RR  TR  UR  DMU LI- C  I
+                                                                     C T
+Abandoned building                            E  E   E   E   E   E   E   E  E
+Abandoned motor vehicle                       E  E   E   E   E   E   E   E  E
+Accessory structure                           P  PAC PAC PAC PAC PAC PAC PA PA
+                                                                         C  C
+Adult use                                     E  E   E   E   E   E   E   E  C
+Agricultural use                              A  C   C   E   E   E   E   E  E
+Airport                                       E  C   E   E   E   E   E   E  C
+Animals, domestic                             E  C   A   A   A   A   A   A  A
+Animals, farm                                 A  C   A   P   AP  E   E   E  E
+Animals, specialty                            E  C   A   A   A   A   A   A  A
+Animals, wild                                 A  A   E   E   E   E   E   E  E
+Animal boarding facility                      E  E   C   E   E   C   E   C  C
+Animal grooming establishment                 E  E   C   C   C   A   A   A  A
+Animal husbandry                              E  E   C   P   P   E   E   E  E
+Artist’s studio                             E  E   C   C   C   A   A   A  A
+Auctions (more than one in a calendar year)   E  C   C   E   E   A   A   A  A
+Auto repair facility                          E  E   E   E   E   C   C   C  C
+Auto sales                                    E  E   E   E   E   C   C   C  C
+Bed and breakfast (in definition state that   E  E   C   C   C   E   E   E  E
 this is an accessory use)
-Billboards                                    E  E   E   E   E   E   E   P   P
-Brew on-premises store (6)                    E  E   E   E   E   P   P   P   E
-Brew pub (6)                                  E  E   E   E   E   P   P   P   E
-Brewery, large distributor (6)                E  E   E   E   E   E   E   E   C
-Brewery, small distributor (6)                E  E   E   E   E   P   P   P   C
-Campground                                    E  C   C   C   E   E   E   C   E
+Billboards                                    E  E   E   E   E   E   E   P  P
+Brew on-premises store (6)                    E  E   E   E   E   P   P   P  E
+Brew pub (6)                                  E  E   E   E   E   P   P   P  E
+Brewery, large distributor (6)                E  E   E   E   E   E   E   E  C
+Brewery, small distributor (6)                E  E   E   E   E   P   P   P  C
+Campground                                    E  C   C   C   E   E   E   C  E
 Cannabis business (7)
-   Cannabis cultivation (7)                E  E   E   E   E   E   E   E   I
-   Cannabis delivery service (7)           E  E   I   I   I   I   I   I   I
-   Cannabis manufacturer (7)               E  E   E   E   E   E   E   E   I
-   Cannabis retailer (7)                   E  E   E   E   E   I   I   I   E
-   Cannabis transporter (7)                E  E   E   E   E   E   I   I   E
-   Cannabis wholesaler (7)                 E  E   E   E   E   E   E   I   I
-   Lower-potency hemp edible manufacturer (E) E   E   E   E   E   E   E   I
-   Lower-potency hemp edible retailer (7)  E  E   E   E   E   A   A   A   E
-   Temporary cannabis event (7)            E  E   E   E   E   P   E   P   E
-Cemetery                                      C  C   C   C   E   E   E   E   E
-Child care center                             E  E   E   E   C   C   C   C   E
-Child care, family home (definition will      E  E   A   A   A   E   E   E   E
+   Cannabis cultivation (7)                E  E   E   E   E   E   E   E  I
+   Cannabis delivery service (7)           E  E   I   I   I   I   I   I  I
+   Cannabis manufacturer (7)               E  E   E   E   E   E   E   E  I
+   Cannabis retailer (7)                   E  E   E   E   E   I   I   I  E
+   Cannabis transporter (7)                E  E   E   E   E   E   I   I  I
+   Cannabis wholesaler (7)                 E  E   E   E   E   E   E   I  I
+   Lower-potency hemp edible manufacturer (E) E   E   E   E   E   E   E  I
+   Lower-potency hemp edible retailer (7)  E  E   E   E   E   A   A   A  E
+   Temporary cannabis event (7)            E  E   E   E   E   P   E   P  E
+Cemetery                                      C  C   C   C   E   E   E   E  E
+Child care center                             E  E   E   E   C   C   C   C  E
+Child care, family home (definition will      E  E   A   A   A   E   E   E  E
 state that this is accessory use)
-Church                                        E  E   C   C   C   C   C   P   C
-Clinic                                        E  E   C   C   C   P   P   P   P
-Community park                                A  A   A   A   A   A   A   A   A
-Deck                                          P  P   P   P   P   P   P   P   P
-Distillery (6)                                E  E   E   E   E   E   E   E   C
-Dwelling, multi-family, 2-4 units             E  E   E   C   P   P   E   E   E
-Dwelling, multi-family, 5 units or more       E  E   E   C   C   C   E   C   E
-Dwelling, single-family                       E  E   P   P   P   P   E   E   E
-Exterior storage                              E  E   E   E   E   E   C   C   E
-Feedlot                                       E  E   E   E   E   E   E   E   E
-Fence                                         P  P   P   P   P   P   P   P   P
-Forest land conversion                        E  E   A   A   A   A   A   A   A
-Garage, detached                              E  P   PAC PAC PAC PAC PAC PAC PAC
-Grading                                       C  A/P A/P A/P A/P A/P A/P A/P A/P
-                                                 (3) (3) (3) (3) (3) (3) (3) (3)
-Group care facilities                         E  E   A   A   A   E   E   E   E
-Hen chickens                                  E  E   P   P   P   E   E   E   C
-Home occupation, Type I                       E  E   A   A   A   A   E   A   E
-Home occupation, Type II                      E  E   A   A   A   A   E   A   E
-Home occupation, Type III                     E  E   C   C   C   A   E   E   E
-Home occupation, Type IV                      E  E   C   C   C   P   E   E   E
-Hospital                                      E  E   E   E   E   E   E   P   P
-Hotel                                         E  E   E   E   E   P   E   P   E
-Industrial use                                E  E   E   E   E   E   P   E   P
-Junk yard                                     E  E   E   E   E   E   E   E   E
-Landfill                                      E  E   E   E   E   E   E   E   E
-Manufactured home park                        E  E   C   E   C   E   E   E   E
-Medical marijuana cultivation facility        E  E   E   E   E   E   E   E   C
-Medical marijuana dispensary                  E  E   E   E   E   E   E   E   C
-Microdistillery (6)                           E  E   E   E   E   P   P   P   C
-Motel                                         E  E   E   E   E   P   E   P   E
-Nursery                                       E  E   C   C   E   E   A   A   E
-Nursing home                                  E  E   C   C   C   E   E   P   E
-Off-street parking                            A  A   A   A   A   A   A   A   A
-Office, professional                          E  E   C   C   C   A   A   A   PAC
-Patio                                         E  P   PAC PAC PAC PAC PAC PAC PAC
-Pawn shop                                     E  E   E   E   E   P   P   P   E
-Planned unit development, commercial          E  E   E   E   E   C   C   C   E
-Planned unit development, residential         E  E   C   C   C   C   E   C   E
-Porch                                         P  P   PAC PAC PAC PAC PAC PAC PAC
-Resort                                        E  E   C   E   E   E   E   C   E
-Restaurant                                    E  E   E   E   E   A   E   P   E
-Retail use                                    E  E   E   E   E   A   A   A   E
-Salvage yard                                  E  E   E   E   E   E   E   E   C
-                                                                             (1)
-Sign, balloon                                 E  E   E   E   E   P   P   P   P
-Sign, banner                                  E  E   E   E   E   A   A   A   A
-Sign, canopy                                  E  E   E   E   E   P   P   P   P
-Sign, digital display                         E  E   E   E   E   P   P   P   P
-Sign, directory                               E  C   C   C   C   A   A   A   A
-Sign, awning                                  E  E   E   E   E   P   P   P   P
-Sign, flashing                                E  E   E   E   E   P   P   P   P
-Sign, marquee                                 E  E   E   E   E   P   P   P   P
-Sign, neon                                    E  E   E   E   E   P   P   P   P
-Sign, off-premises                            E  E   E   E   E   E   E   E   E
-Sign, on-premises                             E  P   P   P   P   P   P   P   P
-Sign, portable                                E  E   E   E   E   P   P   P   E
-Sign, pylon                                   E  E   E   E   E   C   P   P   P
-Sign, scrolling                               E  E   E   E   E   P   P   P   P
-Sign, shimmering                              E  E   E   E   E   P   P   P   P
-Slaughter of animals                          E  E   E   E   E   E   E   C   C
-Storage pods                                  E  E   E   E   E   C   P   P   P
-Swimming pool, public                         E  C   E   E   E   C   C   C   E
-Swimming pool, private (4)                    E  E   P   P   P   E   E   E   E
-Taproom (6)                                   E  E   E   E   E   P   P   P   C
-Tattoo parlor/body piercing                   E  E   E   E   E   A   A   A   E
-Telecommunications tower (5)                  E  E   E   E   E   E   E   E   C
-Temporary structure                           E  A   A   A   A   A   A   A   A
-Tow yard                                      E  E   E   E   E   C   E   E   C
-Transition subdivision                        E  E   C   C   E   E   E   E   E
-Utility substation                            C  C   C   C   C   C   C   C   C
-Water oriented accessory structure or         E  PAC PAC PAC PAC E   E   E   E
+Church                                        E  E   C   C   C   C   C   P  C
+Clinic                                        E  E   C   C   C   P   P   P  P
+Community park                                A  A   A   A   A   A   A   A  A
+Deck                                          P  P   P   P   P   P   P   P  P
+Distillery (6)                                E  E   E   E   E   E   E   E  C
+Dwelling, multi-family, 2-4 units             E  E   E   C   P   P   E   E  E
+Dwelling, multi-family, 5 units or more       E  E   E   C   C   C   E   C  E
+Dwelling, single-family                       E  E   P   P   P   P   E   E  E
+Exterior storage                              E  E   E   E   E   E   C   C  E
+Feedlot                                       E  E   E   E   E   E   E   E  E
+Fence                                         P  P   P   P   P   P   P   P  P
+Forest land conversion                        E  E   A   A   A   A   A   A  A
+Garage, detached                              E  P   PAC PAC PAC PAC PAC PA PA
+                                                                         C  C
+                                                 A/P A/P A/P A/P A/P A/P A/ A/P
+Grading                                       C  (   (   (   (   (   (   P  (
+                                                 3)  3)  3)  3)  3)  3)  (  3)
+                                                                         3)
+Group care facilities                         E  E   A   A   A   E   E   E  E
+Hen chickens                                  E  E   P   P   P   E   E   E  C
+Home occupation, Type I                       E  E   A   A   A   A   E   A  E
+Home occupation, Type II                      E  E   A   A   A   A   E   A  E
+Home occupation, Type III                     E  E   C   C   C   A   E   E  E
+Home occupation, Type IV                      E  E   C   C   C   P   E   E  E
+Hospital                                      E  E   E   E   E   E   E   P  P
+Hotel                                         E  E   E   E   E   P   E   P  E
+Industrial use                                E  E   E   E   E   E   P   E  P
+Junk yard                                     E  E   E   E   E   E   E   E  E
+Landfill                                      E  E   E   E   E   E   E   E  E
+Manufactured home park                        E  E   C   E   C   E   E   E  E
+Medical marijuana cultivation facility        E  E   E   E   E   E   E   E  C
+Medical marijuana dispensary                  E  E   E   E   E   E   E   E  C
+Microdistillery (6)                           E  E   E   E   E   P   P   P  C
+Motel                                         E  E   E   E   E   P   E   P  E
+Nursery                                       E  E   C   C   E   E   A   A  E
+Nursing home                                  E  E   C   C   C   E   E   P  E
+Off-street parking                            A  A   A   A   A   A   A   A  A
+Office, professional                          E  E   C   C   C   A   A   A  PA
+                                                                            C
+Patio                                         E  P   PAC PAC PAC PAC PAC PA PA
+                                                                         C  C
+Pawn shop                                     E  E   E   E   E   P   P   P  E
+Planned unit development, commercial          E  E   E   E   E   C   C   C  E
+Planned unit development, residential         E  E   C   C   C   C   E   C  E
+Porch                                         P  P   PAC PAC PAC PAC PAC PA PA
+                                                                         C  C
+Resort                                        E  E   C   E   E   E   E   C  E
+Restaurant                                    E  E   E   E   E   A   E   P  E
+Retail use                                    E  E   E   E   E   A   A   A  E
+Salvage yard                                  E  E   E   E   E   E   E   E  C
+                                                                            (1)
+Sign, balloon                                 E  E   E   E   E   P   P   P  P
+Sign, banner                                  E  E   E   E   E   A   A   A  A
+Sign, canopy                                  E  E   E   E   E   P   P   P  P
+Sign, digital display                         E  E   E   E   E   P   P   P  P
+Sign, directory                               E  C   C   C   C   A   A   A  A
+Sign, awning                                  E  E   E   E   E   P   P   P  P
+Sign, flashing                                E  E   E   E   E   P   P   P  P
+Sign, marquee                                 E  E   E   E   E   P   P   P  P
+Sign, neon                                    E  E   E   E   E   P   P   P  P
+Sign, off-premises                            E  E   E   E   E   E   E   E  E
+Sign, on-premises                             E  P   P   P   P   P   P   P  P
+Sign, portable                                E  E   E   E   E   P   P   P  E
+Sign, projecting                              E  E   E   E   E   P   E   E  E
+Sign, pylon                                   E  E   E   E   E   C   P   P  P
+Sign, scrolling                               E  E   E   E   E   P   P   P  P
+Sign, shimmering                              E  E   E   E   E   P   P   P  P
+Slaughter of animals                          E  E   E   E   E   E   E   C  C
+Storage pods                                  E  E   E   E   E   C   P   P  P
+Swimming pool, public                         E  C   E   E   E   C   C   C  E
+Swimming pool, private (4)                    E  E   P   P   P   E   E   E  E
+Taproom (6)                                   E  E   E   E   E   P   P   P  C
+Tattoo parlor/body piercing                   E  E   E   E   E   A   A   A  E
+Telecommunications tower (5)                  E  E   E   E   E   E   E   E  C
+Temporary structure                           E  A   A   A   A   A   A   A  A
+Tow yard                                      E  E   E   E   E   C   E   E  C
+Transition subdivision                        E  E   C   C   E   E   E   E  E
+Utility substation                            C  C   C   C   C   C   C   C  C
+Water oriented accessory structure or         E  PAC PAC PAC PAC E   E   E  E
 facility
-Warehousing                                   E  E   E   E   E   E   P   P   P
-Warehousing, commercial                       E  E   E   E   E   E   P   P   P
-Winemaking on-premises store (6)              E  E   E   E   E   P   P   P   E
-Winery, farm (6)                              E  E   P   C   E   E   E   E   E
-Winery (6)                                    E  E   E   E   E   C   C   C   C
+Warehousing                                   E  E   E   E   E   E   P   P  P
+Warehousing, commercial                       E  E   E   E   E   E   P   P  P
+Winemaking on-premises store (6)              E  E   E   E   E   P   P   P  E
+Winery, farm (6)                              E  E   P   C   E   E   E   E  E
+Winery (6)                                    E  E   E   E   E   C   C   C  C
 NOTES TO TABLE:
-(1) Screening standards as provided for in §
-152.093 of this chapter.
-(2) For storage standards, see §
-152.092 of this chapter.
-(3) For grading standards, see §
-152.098 of this chapter.
-(4) For pool permit requirements, see §
-152.100 of this chapter.
-(5) For tower standards, see §§
-152.140 through
-152.155. Also, see §
-152.059 of this chapter.
-(6) For liquor ordinance standards, see
-Ch. 110 of this code of ordinances.
+(1) Screening standards as provided for in § 152.093 of this chapter.
+(2) For storage standards, see § 152.092 of this chapter.
+(3) For grading standards, see § 152.098 of this chapter.
+(4) For pool permit requirements, see § 152.100 of this chapter.
+(5) For tower standards, see §§ 152.140 through 152.155. Also, see § 152.059 of
+this chapter.
+(6) For liquor ordinance standards, see Ch. 110 of this code of ordinances.
 (7) For specific cannabis business standards, see Ch. 114 of this code of
 ordinances.
  
 (Ord. 332, passed 5-19-2008; Ord. 369, passed 10-20-2014; Ord. 372, passed 12-
 15-2014; Ord. 393, passed 6-3-2019; Ord. 403, passed 12-6-2021; Ord. 404,
 passed 12-6-2021; Ord. 405, passed 4-4-2022; Ord. 406, passed 4-4-2022; Ord.
-407, passed 4-4-2022; Ord. 413, passed 12-2-2024)
+407, passed 4-4-2022; Ord. 413, passed 12-2-2024; Ord. 418, passed 10-20-2025)
 OVERLAY DISTRICTS
 § 152.055 GENERAL.
    (A)   Purpose and intent. To establish and maintain districts that overlay
@@ -15356,7 +15367,7 @@ the airport which is specifically designated and used or planned to be used for
 the landing and/or taking off of aircraft.
          SLOPE. An incline from the horizontal expressed in an arithmetic ratio
 of horizontal magnitude to vertical magnitude.
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1085.jpg]
  
          STRUCTURE. An object constructed or installed by humans, including,
@@ -15996,7 +16007,7 @@ Use         Maximum     Setback from  Allowable    Prohibited    Corner/
                                                    Barbed or
                         10 feet       Metal, wood, electrified   Max height of
                         Unless        concrete,    (except where 2.5 feet
-Downtown    72 inches   permission is brick, vinyl specific      within 14
+Downtown    72 inches   permission is brick, vinyl specific      within 20
 Mixed Use               received from or smooth    approval has  feet of the
                         the Planning  wire         been given by corner
                         Commission                 the Planning
@@ -16004,7 +16015,7 @@ Mixed Use               received from or smooth    approval has  feet of the
                                                    Barbed or
                                       Metal, wood, electrified   Max height of
                                       concrete,    (except where 2.5 feet
-Highway     84 inches   10 feet       brick, vinyl specific      within 14
+Highway     84 inches   10 feet       brick, vinyl specific      within 20
 Commercial                            or smooth    approval has  feet of the
                                       wire         been given by corner
                                                    the Planning
@@ -16012,7 +16023,7 @@ Commercial                            or smooth    approval has  feet of the
                                                    Barbed or
                                       Metal, wood, electrified   Max height of
                                       concrete,    (except where 2.5 feet
-Industrial  84 inches   10 feet       brick, vinyl specific      within 14
+Industrial  84 inches   10 feet       brick, vinyl specific      within 20
                                       or smooth    approval has  feet of the
                                       wire         been given by corner
                                                    the Planning
@@ -16020,47 +16031,46 @@ Industrial  84 inches   10 feet       brick, vinyl specific      within 14
                                                    Barbed or
                         10 feet       Metal, wood, electrified   Max height of
 Light                   Unless        concrete,    (except where 2.5 feet
-Industrial/ 72 inches   permission is brick, vinyl specific      within 14
+Industrial/ 72 inches   permission is brick, vinyl specific      within 20
 Commercial              received from or smooth    approval has  feet of the
 Transition              the Planning  wire         been given by corner
                         Commission                 the Planning
                                                    Commission)
             6 feet                                 Barbed or
-            Unless                    Metal, wood, electrified
-            permission                concrete,    (where
-Open Space  is received 10 feet       brick, vinyl frequent
-            from the                  or smooth    human contact
-            Planning                  wire         is
+            Unless                    Metal, wood, electrified   Max height of
+            permission                concrete,    (where        2.5 feet
+Open Space  is received 10 feet       brick, vinyl frequent      within 20
+            from the                  or smooth    human contact feet of the
+            Planning                  wire         is            corner
             Commission                             anticipated)
-Parks and
-Recreation
+                                                                 Max height of
+Parks and                                                        2.5 feet
+Recreation                                                       within 20
+                                                                 feet of the
+                                                                 corner
             6 feet                                 Barbed or
-            Unless                    Metal, wood, electrified
-Rural       permission                concrete,    (where
-Residential is received 10 feet       brick, vinyl frequent
-            from the                  or smooth    human contact
-            planning                  wire         is
+            Unless                    Metal, wood, electrified   Max height of
+Rural       permission                concrete,    (where        2.5 feet
+Residential is received 10 feet       brick, vinyl frequent      within 20
+            from the                  or smooth    human contact feet of the
+            planning                  wire         is            corner
             commission                             anticipated)
             6 feet                                 Barbed or
             Unless                    Metal, wood, electrified   Max height of
 Urban       permission                concrete,    (where        2.5 feet
-Residential is received 10 feet       brick, vinyl frequent      within 14
+Residential is received 10 feet       brick, vinyl frequent      within 20
             from the                  or smooth    human contact feet of the
             Planning                  wire         is            corner
             Commission                             anticipated)
             6 feet                                 Barbed or
-            Unless                    Metal, wood, electrified
-Urban Rural permission                concrete,    (where
-Transition  is received 10 feet       brick, vinyl frequent
-Residential from the                  or smooth    human contact
-            Planning                  wire         is
+            Unless                    Metal, wood, electrified   Max height of
+Urban Rural permission                concrete,    (where        2.5 feet
+Transition  is received 10 feet       brick, vinyl frequent      within 20
+Residential from the                  or smooth    human contact feet of the
+            Planning                  wire         is            corner
             Commission                             anticipated)
  
-* Traffic Visibility Exhibit
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
-IMAGES/0-0-0-1109.jpg]
- 
-(Ord. 332, passed 5-19-2008) Penalty, see §
+(Ord. 332, passed 5-19-2008; Ord. 418, passed 10-20-2025) Penalty, see §
 152.999
 § 152.092 STORAGE.
    (A)   Exterior storage.
@@ -16665,6 +16675,40 @@ process to minimize visual impacts to surrounding properties.
 appearance of other structures in the area.
       (4)   Lighting shall not project from the Utility Substation on to other
 properties, or public rights-of-way.
+§ 152.106 TRAFFIC VISIBILITY.
+   No walls, fences, structures, trees, shrubs, vegetation, or other
+obstructions shall be permitted in any yard when it poses a danger to traffic
+by obscuring the view from any street, roadway, or alley, except as provided
+below:
+   (A)   Visibility from any street or roadway shall be unobstructed above the
+height of two and one-half feet and below five feet within the triangle
+described as beginning from a point at the intersection of the extension of the
+existing curb lines of the two streets and extending a distance of 20 feet
+along the edge of each street. This defines two sides of the triangle. The
+third side is a line connecting the end points of the two sides described
+above.
+   (B)   Visibility from the intersection of any street or roadway and an alley
+or driveway shall be unobstructed above the height of two and one-half feet and
+below five feet within the triangle described as beginning from a point at the
+intersection of the extension of the existing curblines or pavement edges or if
+unpaved, the edge of the traveled surface, of the street and alley, and
+extending a distance of 15 feet along the edge of each street. This defines two
+sides of the triangle. The third side is a line connecting the end points of
+the sides described above.
+   (C)   Visibility from the intersection of any two alleys shall be
+unobstructed above the height of two and one-half feet and below five feet
+within the triangle described as beginning from a point at the intersection of
+the extension of the existing curblines or pavement edges of the two alleys and
+extending a distance of ten feet along the edge of each alley. This defines two
+sides of the triangle. The third side is a line connecting the end points of
+the two sides described above.
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
+IMAGES/0-0-0-1375.jpg]
+   (D)   The traffic visibility ordinance shall apply to properties in all
+residential zoning districts as well as properties in other zoning use
+districts with a defined residential land use including but not limited to a
+single-family dwelling or multi-family dwelling.
+(Ord. 418, passed 10-20-2025)
 SIGNS
 § 152.120 FINDINGS, PURPOSE AND INTENT.
    (A)   Findings. The city hereby finds as follows:
@@ -16694,11 +16738,11 @@ set forth herein under the zoning authority of the city.
 § 152.121 RULES AND REGULATIONS.
    (A)   Size. No sign shall exceed 128 square feet in area. See division (I)
 below for measurement of area.
-   (B)   Regulations. Except as hereinafter provided, no signs shall be erected
-or maintained at any angle to a building or structure so that the sign extends
-or projects over the street or highway. No sign which is erected or maintained
-flat against any building or structure shall extend or project more that 12
-inches from the building.
+   (B)   Regulations. Except as otherwise permitted in this section, no signs
+shall be erected or maintained at any angle to a building or structure so that
+the sign extends or projects over the street or highway. No sign which is
+erected or maintained flat against any building or structure shall extend or
+project more than 12 inches from the building.
    (C)   Electrical signs. Electrical signs must be installed in accordance
 with the current Electrical Code and a separate electrical permit from the
 state must be obtained prior to placement.
@@ -16753,10 +16797,9 @@ in a plane figure bounded by straight lines connecting the outermost points
 thereof. Each surface utilized to display a message or to attract attention
 shall be measured as a separate sign and shall be calculated in the overall
 square footage. Symbols, flags, pictures, wording, figures or other forms of
-graphics painted on or attached to windows, walls, awnings, free-standing
-structures, suspended by balloons or kites or on persons, animals or vehicles
-are considered a sign and are included in calculating the overall square
-footage.
+graphics painted on or attached to walls, awnings, free-standing structures,
+suspended by balloons or kites are considered a sign and are included in
+calculating the overall square footage.
    (J)   Canopies, marquees and fixed awnings. Canopies, marquees and fixed
 awnings are an integral part of the structure to which they are attached. Where
 allowed, they shall meet the following requirements and the applicable square
@@ -16764,7 +16807,7 @@ footage requirements.
       (1)   An awning, canopy or marquee may not extend out from the building
 more than 30 inches.
       (2)   Awnings, canopies or marquees may have no part of the structure
-other than supports nearer to the ground surface than seven feet.
+other than supports nearer to the ground surface than eight feet.
       (3)   No sign, either illuminated or non-illuminated, may project below a
 marquee.
    (K)   Illumination. External illumination for signs shall be so constructed
@@ -16779,7 +16822,40 @@ chapter, all signs of any size containing non-commercial speech may be posted
 in any number from August 1 in a (state) general election year until ten days
 following the (state) general election and 13 weeks prior to any special
 election until ten days following the special election.
-(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010) Penalty, see §
+   (N)   Projecting signs. Projecting signs are subject to the building sign
+requirements in this chapter. Where there is a conflict between the
+requirements governing projecting signs and building signs, the requirements
+for projecting signs shall control for projecting signs only.
+      (1)   A building tenant shall have no more than one projecting sign
+attached outside the tenant's space within building. The projecting sign may be
+in addition to other signage permitted by this chapter.
+      (2)   Projecting signs attached directly to the building facade shall be
+supported in a stationary position by a cantilevered structure without the use
+of any guy wires, cables, angle irons, or turnbuckles. Projecting signs
+attached to the underside of an overhang covering the pedestrian walkway shall
+be securely attached by metal anchors, bolts, or expansion screws and hang by a
+metal pole or chain of sufficient gauge to hold the weight of the sign. The
+only permissible attachment angle shall be 90 degrees from the building facade
+and positioned perpendicular to a pedestrian walkway so to be viewable in both
+directions of the walkway. The projecting sign shall be attached to the
+building within ten feet of the tenant's entrance for the public from the
+exterior as measured along the building facade. The projecting sign shall not
+extend more than four feet from the building measured from the face of the wall
+to which the sign is mounted to the farthest edge of the sign structure
+including any mounting equipment. The sign shall not extend over a parking
+area, or a loading area. A projecting sign hanging over a pedestrian walkway
+shall not conflict with the use of the walkway and in no case shall the bottom
+edge of the sign structure, including mounting devices, be less than eight feet
+above grade of the walkway. The top edge of the sign shall not be taller than
+the roof line of a single-story building, nor a windowsill of the second story
+of a multi-story building. If multiple projecting signs are attached to the
+same building, they shall be attached at the same height so to present a
+uniform appearance.
+      (3)   Sign size. A projecting sign structure (not copy area on sign),
+excluding the mounting equipment, shall not exceed eight square feet. The
+thickness of the sign shall be no more than one foot.
+(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010; Ord. 418, passed 10-
+20-2025) Penalty, see §
 152.999
 § 152.122 SPECIFIC REGULATIONS BY ZONING DISTRICT.
    (A)   Residential districts.
@@ -16793,58 +16869,43 @@ zoning districts:
          (d)   Flashing signs;
          (e)   Marquee signs;
          (f)   Pole signs;
-         (g)   Pylon signs;
-         (h)   Neon signs;
-         (i)   Scrolling signs; and
-         (j)   Shimmering signs.
+         (g)   Projecting signs;
+         (h)   Pylon signs;
+         (i)   Neon signs;
+         (j)   Scrolling signs; and
+         (k)   Shimmering signs.
    (B)   Business districts.
-      (1)   The following types of signs are Conditional in the DMU district
-and permitted other business zoning districts:
-         (a)   Pole signs; and
-         (b)   Pylon signs.
-      (2)   The following types of signs are permitted in business zoning
-districts:
-         (a)   Awning signs:
-         (b)   Balloon signs;
-         (c)   Digital display signs;
-         (d)   Flashing signs;
-         (e)   Marquee signs;
-         (f)   Neon signs;
-         (g)   Scrolling signs; and
-         (h)   Shimmering signs.
-      (3)   Within the Downtown Mixed Use (DMU) and Light Industrial-Commercial
-Transition (LI-CT) Districts, signs are permitted as follows.
-         (a)   Maximum sign area of a single sign is 64 square feet.
-         (b)   Up to 10% of any principal structure facade area which directly
-abuts and lies generally parallel with a road right-of-way or publicly traveled
-roadway may be dedicated to signage.
-         (c)   The permitted sign area may be split up into several signs or
-used for one sign.
-         (d)   Signs placed on a building shall not exceed 10% of the facade
-area encompassed by the building side on which the sign is placed.
-         (e)   The maximum sign area for the side of the principal structure
-not abutting the road right-of-way or publicly traveled road is 24 square feet.
-         (f)   Each property is allowed one freestanding sign so long as the
-sign's placement does not create a safety hazard by obstructing lines of sight
-or pedestrian corridors.
-         (g)   For corner lots, one freestanding sign conforming to these
-standards is allowed on each roadway.
-      (4)   Within the Commercial District (C), signs are permitted as follows.
-         (a)   Each property is allowed one free-standing sign so long as the
-sign’s placement does not create a safety hazard by obstructing lines of sight
-or pedestrian corridors.
-         (b)   For corner lots, one free-standing sign conforming to these
-standards is allowed on each roadway.
-         (c)   Maximum sign area of a single sign is 128 square feet.
-         (d)   Up to 10% of any principal structure facade area which directly
-abuts and lies generally parallel with a road right-of-way or publicly traveled
-roadway may be dedicated to signage.
-         (e)   The permitted sign area may be split up into several signs or
-used for one sign.
-         (f)   Signs placed on a building shall not exceed 10% of the facade
-area encompassed by the building side on which the sign is placed.
-         (g)   The maximum sign area for the side of the principal structure
-not abutting the road right-of-way or publicly traveled road is 24 square feet.
+      (1)   Highway Commercial District. Within the Highway Commercial District
+(C), signs are permitted as follows.
+         (a)   The following types of signs are permitted in Highway Commercial
+zoning districts:
+            1.   Pole signs;
+            2.   Pylon signs;
+            3.   Awning signs;
+            4.   Balloon signs;
+            5.   Digital display signs;
+            6.   Flashing signs;
+            7.   Marquee signs;
+            8.   Neon signs;
+            9.   Scrolling signs; and
+            10.   Shimmering signs.
+      (2)   Downtown Mixed Use District. Within the Downtown Mixed Use District
+(DMU), signs are permitted as follows.
+         (a)   The following types of signs are conditional in the DMU
+district:
+            1.   Pole signs; and
+            2.   Pylon signs.
+         (b)   The following types of signs are permitted in Downtown Mixed Use
+zoning districts:
+            1.   Awning signs;
+            2.   Balloon signs;
+            3.   Digital display signs;
+            4.   Flashing signs;
+            5.   Marquee signs;
+            6.   Projecting signs;
+            7.   Neon signs;
+            8.   Scrolling signs; and
+            9.   Shimmering signs.
    (C)   Industrial districts. Within the Industrial District (I), signs are
 permitted as follows.
       (1)   The following types of signs are permitted in industrial zoning
@@ -16874,7 +16935,8 @@ for one sign.
 encompassed by the building side on which the sign is placed.
       (8)   The maximum sign area for the side of the principal structure not
 abutting the road right-of-way or publicly traveled road is 24 square feet.
-(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010) Penalty, see §
+(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010; Ord. 418, passed 10-
+20-2025) Penalty, see §
 152.999
 § 152.123 REQUIRED PERMITS.
    No sign shall be erected, altered, reconstructed or moved in the city
@@ -16928,10 +16990,10 @@ the responsibility of its erection and maintenance, and its compliance with the
 provisions of this chapter or any other law or ordinance regulating signs:
       (1)   The changing of the display surface on a previously approved sign;
       (2)   Signs six square feet or less in size, per surface if double sided;
-      (3)   Window signage that does not cover more than one-third of the total
-area of the window in which the sign is displayed; and
+      (3)   Window signage; and
       (4)   Governmental signs.
-(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010)
+(Ord. 332, passed 5-19-2008; Ord. 354, passed 11-1-2010; Ord. 418, passed 10-
+20-2025)
 § 152.124 NON-CONFORMING SIGNS.
    (A)   (1)   It is recognized that signs exist within the zoning districts
 which were lawful before this chapter was enacted, which may be prohibited,
@@ -19010,7 +19072,7 @@ financial surety to cover the cost of removing the interim use and any interim
 structures upon the expiration of the interim use permit;
       (7)   There are no delinquent property taxes, special assessments,
 interest or city utility fees due upon the subject parcel; and
-      (8)   The term of the interim use does not exceed two years.
+      (8)   The term of the interim use does not exceed three years.
    (C)   Application. Applications for an interim use permit shall be made by
 the fee owner or authorized representative of the fee owner of the property
 upon which the interim use is proposed. All applications shall include the
@@ -19026,6 +19088,10 @@ date or event that will terminate the use;
 within the community; and
       (6)   A map showing all principal land uses within 500 feet of the parcel
 on which the interim use is proposed;
+         (a)   For cannabis business interim use permit applications only, an
+additional map must be provided showing all school property lines located
+within 900 feet of the proposed cannabis business parcel property line, as
+found in § 114.03.
       (7)   Development plans for the proposed use showing all information
 deemed necessary by the Zoning Administrator to ensure the community can
 determine whether the proposed development will meet all applicable development
@@ -19137,7 +19203,7 @@ termination of the existing interim use permit.
 applications and all interim use permits issued, including information on the
 use, location, conditions imposed by the community, time limits, review dates
 and such other information as may be appropriate.
-(Ord. 347, passed 7-6-2010)
+(Ord. 347, passed 7-6-2010; Ord. 418, passed 10-20-2025)
 § 152.272 VARIANCES.
    (A)   Pursuant to M.S. § 462.357, subd. 6, as it may be amended from time to
 time, the Board of Adjustment, may issue variances from the provisions of the
@@ -19338,12 +19404,14 @@ plat or plan.
       (1)   Purpose. The minor subdivision process allows for the division of
 certain property described by metes and bounds legal description and is an
 abbreviated review process in which there are fewer requirements than a normal
-subdivision. This process is limited to specific situations as set forth in
-this section.
-      (2)   Qualification. The following may be considered a minor subdivision
+subdivision. This process may be an administrative review process and the
+Zoning Administrator may refer the matter to the Planning Commission, or
+consultant if necessary. This process is limited to specific situations as set
+forth in this section.
+      (2)   Qualification.The following may be considered a minor subdivision
 provided that the parcel of land has not been part of a minor subdivision
-within the last five years: Division of land into not more than three new lots
-in a five-year period fronting on an existing public street which does not:
+within the last one year: Division of land into not more than three new lots in
+a one-year period fronting on an existing public street which does not:
          (a)   Require any new street;
          (b)   Require the creation of any public improvement;
          (c)   Adversely affect the remainder of the parcel or adjoining
@@ -19357,11 +19425,11 @@ proposed subdivision shall be granted, the subdividing owner or authorized
 agent, shall file an application and secure approval of a minor subdivision.
          (b)   Placement on the Planning Commission agenda. The city must
 receive an application form and all of the required information. Upon receipt,
-the matter will be placed on the next Planning Commission meeting agenda which
+the matter may be placed on the next Planning Commission meeting agenda which
 is at least 30 days after the date the application was received. The Zoning
-Administrator or appointee shall submit copies of the application and required
+Administrator or appointee may submit copies of the application and required
 information to other staff, committees, consultants, or agencies as appropriate
-who may make written comments to the Planning Commission.
+who may make written comments to the Planning Commission if needed.
          (c)   Incomplete application. The city shall have the authority to
 request additional information. An application may not be heard by the Planning
 Commission if incomplete. The Zoning Administrator or appointee will notify
@@ -19387,24 +19455,25 @@ within a Watershed District, the Watershed District shall be notified. Any
 requirements of the Watershed District shall be met prior to the issuance of a
 building permit.
          (g)   Planning Commission meeting. The minor subdivision application
-shall be submitted to the Planning Commission for its review and
-recommendation. The Planning Commission shall review and comment on the
-subdivision's acceptability in relation to the Comprehensive Plan, zoning code,
-and any other city regulation.
+may be submitted to the Planning Commission for its review and recommendation.
+The Planning Commission shall review and comment on the subdivision's
+acceptability in relation to the Comprehensive Plan, zoning code, and any other
+city regulation.
          (h)   Attendance at Advisory and Planning Commission meetings, and
 Council meetings. Attendance at Advisory and Planning Commission meetings is
 mandatory. Attendance at City Council meeting is suggested.
       (4)   Information required for minor subdivision. Unless waived by the
-Planning Commission, all items identified in §
+Planning Commission and/or Zoning Administrator, all items identified in §
 152.242 shall be included on an exhibit.
       (5)   Minor subdivision approval. Where appropriate under the provisions
 of this chapter, the subdivider shall submit documents containing the essential
 information of a proposed plat or plan as specified in §
 152.242 and including dimensions computed to one-hundredth of a foot and
-bearing computed to equivalent accuracy to the Planning Commission for
-approval. The resulting legal description must be a complete legal and not
-reference a separate legal nor should it be overly complicated. The review of
-the Planning Commission need not include a public hearing.
+bearing computed to equivalent accuracy to the Planning Commission and/or
+Zoning Administrator for approval. The resulting legal description must be a
+complete legal and not reference a separate legal nor should it be overly
+complicated. The review of the Planning Commission need not include a public
+hearing.
       (6)   Conditions of approval.
          (a)   All necessary utility and drainage easements are provided for.
          (b)   All new lots created by the minor subdivision conform to lot
@@ -19421,15 +19490,16 @@ to the Zoning Administrator 30 days prior to the normal Planning Commission
 meeting and pay the corresponding fee.
          (b)   The Zoning Administrator shall review the minor subdivision for
 compliance with the zoning ordinance including a field review at his or her
-discretion.
-         (c)   The Planning Commission shall decide on approval of the
-subdivision within a reasonable time based on the resulting lots complying with
-the chapter, the feasibility of the resulting lots for their intended purpose,
-and the provision for access to adjacent properties. Conditions may be attached
-to an approval requiring appropriate improvements. No more than three lots
-shall be allowed in a five-year period of time using the minor subdivision
-process. An additional parcel for right-of-way or commonly owned driveway
-access may also be allowed.
+discretion. The Zoning Administrator may give final approval or refer the
+matter to the Planning Commission.
+         (c)   If the matter is referred, the Planning Commission shall decide
+on approval of the subdivision within a reasonable time based on the resulting
+lots complying with the chapter, the feasibility of the resulting lots for
+their intended purpose, and the provision for access to adjacent properties.
+Conditions may be attached to an approval requiring appropriate improvements.
+No more than three lots shall be allowed in a one-year period of time using the
+minor subdivision process. An additional parcel for right-of-way or commonly
+owned driveway access may also be allowed.
          (d)   The resulting land descriptions shall be prepared and signed by
 a licensed surveyor and shall comply with all provisions of this chapter.
          (e)   Failure of the subdivider to act after an approval of a minor
@@ -19615,7 +19685,7 @@ plat for signature by the Mayor and City Administrator.
       (6)   Upon signature, the subdivider shall file all pertinent documents
 with the County Recorder. Failure to file a final plat or plan, within two
 years shall void the approval unless extended by the City Council.
-(Ord. 332, passed 5-19-2008)
+(Ord. 332, passed 5-19-2008; Ord. 418, passed 10-20-2025)
 § 152.275 FEES.
    (A)   (1)   Applicable fees are established in §
 152.015 of this chapter. No permit shall be issued, or request brought before
@@ -19743,23 +19813,23 @@ time to time, and other applicable law.
 (Ord. 332, passed 5-19-2008; Ord. 337, passed 12-21-2009; Ord. passed 3-15-
 2018)
 APPENDIX A: ZONING MAP
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1117.jpg]
  
 APPENDIX B: AFFECTED SECTIONS OF LAND; MAPS
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1119.jpg]
  
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1121.jpg]
  
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1123.jpg]
  
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1125.jpg]
  
-[https://export.amlegal.com/media/71a2520e12c1bf9268ceeaacacee729caf3c4ae3/
+[https://export.amlegal.com/media/9fc2aff4551f1c554d1e5b31f94a46fb97ff4054/
 IMAGES/0-0-0-1127.jpg]
  
 TABLE OF SPECIAL ORDINANCES
@@ -20424,5 +20494,14 @@ Ord. No. Date Passed Code Section
                      110.09,
 417      7-21-2025   110.28,
                      110.35
+                     152.003,
+                     152.035,
+                     152.040,
+                     152.091,
+418      10-20-2025  152.106,
+                     152.121—
+                     152.123,
+                     152.271,
+                     152.274
                     
  
