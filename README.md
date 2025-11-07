@@ -1,4 +1,4 @@
-# 📚 AM Legal Documentation Project — Building AI for Justice, Together 🇺🇸⚖️
+# 📚 AM Legal Documentation Project — Building AI for Justice, Together ⚖️
 
 Welcome to the **AM Legal Documentation Project**, an open-source initiative dedicated to improving lives across the United States by making legal information more accessible, structured, and usable for AI systems and human beings alike.
 
@@ -60,51 +60,51 @@ _(Example: `REGION_START_PERCENT = 60` starts at New York.)_
 
 ### 📊 Full Reference Table
 
-| % to Start | State (Index)           | Description                        |
-| ---------- | ----------------------- | ---------------------------------- |
-| **0%**     | 🇺🇸 Alaska (0)           | Start from the very beginning      |
-| **2%**     | 🇺🇸 Arizona (1)          | 1 step in                          |
-| **5%**     | 🇺🇸 Arkansas (2)         | Early in the list                  |
-| **7%**     | 🇺🇸 California (3)       | Getting started strong             |
-| **10%**    | 🇺🇸 Colorado (4)         | Just a few states in               |
-| **12%**    | 🇺🇸 Connecticut (5)      | Small but mighty                   |
-| **14%**    | 🇺🇸 Florida (6)          | Sunny checkpoint                   |
-| **17%**    | 🇺🇸 Hawaii (7)           | Island vibes 🌺                    |
-| **19%**    | 🇺🇸 Idaho (8)            | Potato country 🥔                  |
-| **21%**    | 🇺🇸 Illinois (9)         | Around one-fifth through           |
-| **24%**    | 🇺🇸 Indiana (10)         | Quarter of the way                 |
-| **26%**    | 🇺🇸 Iowa (11)            | Cornfields incoming 🌽             |
-| **29%**    | 🇺🇸 Kansas (12)          | Heartland checkpoint               |
-| **31%**    | 🇺🇸 Kentucky (13)        | One-third through                  |
-| **33%**    | 🇺🇸 Maryland (14)        | East Coast line-up begins          |
-| **36%**    | 🇺🇸 Massachusetts (15)   | Northeast hub                      |
-| **38%**    | 🇺🇸 Michigan (16)        | Great Lakes ahead                  |
-| **40%**    | 🇺🇸 Minnesota (17)       | Near halfway mark                  |
-| **43%**    | 🇺🇸 Missouri (18)        | Midwest solid ground               |
-| **45%**    | 🇺🇸 Montana (19)         | Big Sky Country 🌄                 |
-| **48%**    | 🇺🇸 Nebraska (20)        | Halfway through the list           |
-| **50%**    | 🇺🇸 Nevada (21)          | Western line-up                    |
-| **52%**    | 🇺🇸 New Hampshire (22)   | Small but scenic                   |
-| **55%**    | 🇺🇸 New Jersey (23)      | Garden State 🌿                    |
-| **57%**    | 🇺🇸 New Mexico (24)      | Desert magic 🌵                    |
-| **60%**    | 🇺🇸 New York (25)        | Empire State – great test point 🗽 |
-| **62%**    | 🇺🇸 North Carolina (26)  | Heading southbound                 |
-| **64%**    | 🇺🇸 Ohio (27)            | Buckeye base                       |
-| **67%**    | 🇺🇸 Oklahoma (28)        | Mid-country zone                   |
-| **69%**    | 🇺🇸 Oregon (29)          | Pacific Northwest begins           |
-| **71%**    | 🇺🇸 Pennsylvania (30)    | Industrial backbone ⚙️             |
-| **74%**    | 🇺🇸 Rhode Island (31)    | Smallest but mighty                |
-| **76%**    | 🇺🇸 South Carolina (32)  | Near the end stretch               |
-| **79%**    | 🇺🇸 South Dakota (33)    | Great Plains checkpoint            |
-| **81%**    | 🇺🇸 Tennessee (34)       | Music hub 🎶                       |
-| **83%**    | 🇺🇸 Texas (35)           | Big section 🤠                     |
-| **86%**    | 🇺🇸 Utah (36)            | Mountain views 🏔️                  |
-| **88%**    | 🇺🇸 Virginia (37)        | Almost the final group             |
-| **90%**    | 🇺🇸 Washington (38)      | Near completion ☔                 |
-| **93%**    | 🇺🇸 West Virginia (39)   | Wrapping up soon                   |
-| **95%**    | 🇺🇸 Wisconsin (40)       | Last few states                    |
-| **98%**    | 🇺🇸 Wyoming (41)         | End of the list 🎯                 |
-| **100%**   | wraps back to 🇺🇸 Alaska | Full loop — starts over again 🔁   |
+| % to Start | State (Index)        | Description                        |
+| ---------- | -------------------- | ---------------------------------- |
+| **0%**     | Alaska (0)           | Start from the very beginning      |
+| **2%**     | Arizona (1)          | 1 step in                          |
+| **5%**     | Arkansas (2)         | Early in the list                  |
+| **7%**     | California (3)       | Getting started strong             |
+| **10%**    | Colorado (4)         | Just a few states in               |
+| **12%**    | Connecticut (5)      | Small but mighty                   |
+| **14%**    | Florida (6)          | Sunny checkpoint                   |
+| **17%**    | Hawaii (7)           | Island vibes 🌺                    |
+| **19%**    | Idaho (8)            | Potato country 🥔                  |
+| **21%**    | Illinois (9)         | Around one-fifth through           |
+| **24%**    | Indiana (10)         | Quarter of the way                 |
+| **26%**    | Iowa (11)            | Cornfields incoming 🌽             |
+| **29%**    | Kansas (12)          | Heartland checkpoint               |
+| **31%**    | Kentucky (13)        | One-third through                  |
+| **33%**    | Maryland (14)        | East Coast line-up begins          |
+| **36%**    | Massachusetts (15)   | Northeast hub                      |
+| **38%**    | Michigan (16)        | Great Lakes ahead                  |
+| **40%**    | Minnesota (17)       | Near halfway mark                  |
+| **43%**    | Missouri (18)        | Midwest solid ground               |
+| **45%**    | Montana (19)         | Big Sky Country 🌄                 |
+| **48%**    | Nebraska (20)        | Halfway through the list           |
+| **50%**    | Nevada (21)          | Western line-up                    |
+| **52%**    | New Hampshire (22)   | Small but scenic                   |
+| **55%**    | New Jersey (23)      | Garden State 🌿                    |
+| **57%**    | New Mexico (24)      | Desert magic 🌵                    |
+| **60%**    | New York (25)        | Empire State – great test point 🗽 |
+| **62%**    | North Carolina (26)  | Heading southbound                 |
+| **64%**    | Ohio (27)            | Buckeye base                       |
+| **67%**    | Oklahoma (28)        | Mid-country zone                   |
+| **69%**    | Oregon (29)          | Pacific Northwest begins           |
+| **71%**    | Pennsylvania (30)    | Industrial backbone ⚙️             |
+| **74%**    | Rhode Island (31)    | Smallest but mighty                |
+| **76%**    | South Carolina (32)  | Near the end stretch               |
+| **79%**    | South Dakota (33)    | Great Plains checkpoint            |
+| **81%**    | Tennessee (34)       | Music hub 🎶                       |
+| **83%**    | Texas (35)           | Big section 🤠                     |
+| **86%**    | Utah (36)            | Mountain views 🏔️                  |
+| **88%**    | Virginia (37)        | Almost the final group             |
+| **90%**    | Washington (38)      | Near completion ☔                 |
+| **93%**    | West Virginia (39)   | Wrapping up soon                   |
+| **95%**    | Wisconsin (40)       | Last few states                    |
+| **98%**    | Wyoming (41)         | End of the list 🎯                 |
+| **100%**   | wraps back to Alaska | Full loop — starts over again 🔁   |
 
 ---
 
