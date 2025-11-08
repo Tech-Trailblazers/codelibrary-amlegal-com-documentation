@@ -1,7 +1,7 @@
 TOWN OF OCCOQUAN, VIRGINIA
 CODE OF ORDINANCES
-2025 S-20 Supplement contains:
-Local legislation current through Ord. O-2025-09, passed 8-6-2025
+2025 S-21 Supplement contains:
+Local legislation current through Ord. O-2025-11, passed 9-16-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -4004,6 +4004,8 @@ lieu of issuing summons
    
 73.12   Removal of motor vehicles, vehicles, or trailers against which there
 are outstanding parking violations
+   
+73.13   Parking districts
  
    
 73.99   Penalty
@@ -4304,6 +4306,74 @@ in accordance with the procedures set forth in the VA Code § 46.2-1213, after
 giving notice to the owner at his last known address and to the holder of any
 lien of record with the office of the Virginia Department of Motor Vehicles.
 (Ord. O-2022-03, passed 5-17-2022; Ord. O-2023-16, passed 12-5-2023)
+§ 73.13 PARKING DISTRICTS.
+   The purpose of this section is to codify and establish a Parking District
+Program to address parking demand in both residential and business areas in a
+fair and equitable manner, particularly where demand may exceed the supply of
+available public or on-street parking spaces. The program seeks to reduce the
+volume and impact of non-resident, non-customer, and non-visitor vehicles in
+designated areas; achieve a balance between maximizing on-street/public parking
+utilization and protecting residents, businesses, and their visitors or
+customers from unreasonable burdens in gaining access to their properties;
+reduce motor vehicle congestion, excessive noise, and other adverse impacts
+within residential and business districts; and to promote the general health,
+safety, and welfare of the public.
+   (A)   Authority. The Town Manager is authorized to designate, establish, and
+modify parking districts as necessary to meet the objectives of this program.
+   (B)   Free Timed Parking District. The Town Council previously established a
+Free Timed Parking District in the Occoquan Historic and Business Districts to
+increase the availability of on-street parking spaces, reduce the practice of
+long-term parking in the district, and reduce non-patron use of prime business
+parking during peak business hours. This parking district shall continue in
+effect unless modified or ended by the Town Manager pursuant to this section.
+   (C)   Residential Parking District. The Town Manager may designate,
+establish, and modify Residential Parking Districts that include on-street and
+public property. The Town Manager may end an existing Residential Parking
+District after providing notice to Town Council with the reasons for ending it.
+   (D)   Establishment of Residential Parking District. The establishment of a
+Residential Parking District shall be effective and enforceable upon the
+installation of signs on public streets within the district in prominent
+locations that indicate the times, locations and conditions under which parking
+shall be by permit only. The signs placed in such areas shall be of such size
+and character as to inform readily an ordinarily observant person of the
+existence of the rules and regulations imposing such restrictions. The permit
+parking restrictions shall not apply to the parking of service or delivery
+vehicles during the time that they are actively needed in connection with
+services or deliveries within the district.
+   (E)   Parking permits. A Residential Parking District shall require annual
+parking permits. In addition, the Residential Parking District permits shall:
+      (1)   Be valid for a period of time that shall commence on November 16
+and shall expire on the following November 15 of each year.
+      (2)   No more than two resident parking permits may be sold each year for
+qualifying vehicles at each property in a Residential Parking District. The
+administrative process and requirements for enforcement of this two-permit
+limit shall be promulgated by the Town Manager.
+      (3)   Each calendar year up to 20 temporary visitor/guest permits may be
+sold for each property.
+      (4)   Residential parking permits shall be applied for in accordance with
+procedures established by the Town Manager and shall be sold through the Town
+Treasurer or such other department as may be designated by the Town Manager.
+      (5)   Permit applications shall be accompanied by the fee established by
+the Town Council and proof of the applicant's residency in the specific
+Residential Parking District. The applicant must also pay all outstanding
+parking violations, taxes and license fees owed to the town prior to the
+issuance of a permit.
+      (6)   Parking permit fees shall be established by an ordinance adopted by
+the Town Council, and only in such amounts that are sufficient to pay the
+town's costs incidental to permit processing, issuance and enforcement.
+   (F)   Violations. The parking of any vehicle or the use of any parking
+permit in a manner contrary to the provisions of this section or the
+regulations established by the Town Manager pursuant to this section is
+prohibited, and such parking or use of a parking permit is hereby declared to
+be an infraction.
+      (1)   Violations of this section shall be enforced by the Police
+Department.
+      (2)   The Town Council may, by resolution or uncodified ordinance,
+establish a graduated scale of fines to be imposed through parking tickets or
+other administrative procedures as an alternative to judicial enforcement.
+   (G)   Nothing in this section shall repeal or supersede any other provision
+of law which provides authority to regulate parking.
+(Ord. O-2025-10, passed 9-2-2025)
 § 73.99 PENALTY.
    (A)   Any person violating any provision of this chapter or of a parking
 regulation adopted pursuant to Town Code §
@@ -8865,7 +8935,7 @@ TITLE XV: LAND USAGE
       
 151.   FLOODS
       
-152.   EROSION AND SEDIMENT CONTROL
+152.   EROSION AND STORMWATER MANAGEMENT
       
 153.   STATE STORMWATER MANAGEMENT PROGRAM
       
@@ -9913,564 +9983,1573 @@ to correct or remedy such violations within a reasonable time.
 relocated in noncompliance with this chapter may be declared by the town to be
 a public nuisance and abatable as such.
 (1998 Code, § 26-50)
-CHAPTER 152: EROSION AND SEDIMENT CONTROL
+CHAPTER 152: EROSION AND STORMWATER MANAGEMENT
 Section
    
-152.01   Purpose
+152.01   Authorization
    
-152.02   Authorization
+152.02   Title, purpose, and authority
    
 152.03   Definitions
    
-152.04   Local erosion and sediment control program
+152.04   Virginia Erosion and Stormwater Management Program established
    
-152.05   Regulated land disturbing activities
+152.05   Regulated land-disturbing activities
    
-152.06   Action on erosion and sediment control plans
+152.06   Review and approval of plans; prohibitions
    
-152.07   Submission of plan by owner
+152.07   Review of a soil erosion control and stormwater management plan (ESM
+plan)
    
-152.08   Issuance of land disturbing permit; fees
+152.08   Stormwater permit requirement; exemptions
    
-152.09   Approved plan required for issuance of permits; certification; bonding
-of performance
+152.09   Stormwater pollution prevention plan; contents of plans
    
-152.10   Monitoring, reports, and inspections
+152.10   Stormwater management plan; contents of plan
    
-152.11   Administrative appeal; judicial review
- 
+152.11   Pollution prevention plan; contents of plans
    
-152.99   Penalty
-§ 152.01 PURPOSE.
-   (A)   The purpose of this chapter is to conserve the land, water, and other
-natural resources of the town and promote the public health and welfare of the
-people residing in the town by establishing requirements for the control of
-erosion and sediment, and by establishing procedures whereby these requirements
-shall be administered and enforced.
-   (B)   This chapter complements §§
-157.150 through
-157.163.
-(1998 Code, § 18-31)
-§ 152.02 AUTHORIZATION.
-   (A)   This chapter is authorized by VA Code §§ 62.1-44.15:54 et seq., known
-as the “Erosion and Sediment Control Law”.
-   (B)   This chapter provides for a comprehensive statewide program, with
-standards and guidelines to control soil erosion and sedimentation, which is
-implemented on the local level.
-(1998 Code, § 18-32)
+152.12   Erosion and sediment control plan; contents of plan
+   
+152.13   Technical criteria for regulated land-disturbing activities
+   
+152.14   Long-term maintenance of permanent stormwater facilities
+   
+152.15   Monitoring and inspections
+   
+152.16   Hearings
+   
+152.17   Appeals
+   
+152.18   Right of entry
+   
+152.19   Enforcement
+   
+152.20   Fees
+   
+152.21   Performance bond
+§ 152.01 AUTHORIZATION.
+   Pursuant to VA Code § 62.1-44.15:27, this chapter is adopted as part of an
+initiative to integrate the town stormwater management requirements with the
+town erosion and sediment control, flood insurance, and floodplain management,
+and Chesapeake Bay Preservation Act requirements into a consolidated erosion
+and stormwater management program. The erosion and stormwater management
+program is intended to facilitate the submission and approval of plans,
+issuance of permits, payment of fees, and coordination of inspection and
+enforcement activities for land-disturbing activities into a more convenient
+and efficient manner for both the town and those responsible for compliance
+with these programs.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.02 TITLE, PURPOSE, AND AUTHORITY.
+   (A)   This chapter shall be known as the "Erosion and Stormwater Management
+Ordinance” of the town.
+   (B)   The purpose of this chapter is to ensure the general health, safety,
+and welfare of the citizens of the town to protect the quality and quantity of
+state waters from the potential harm of unmanaged stormwater and soil erosion,
+including protection from a land-disturbing activity causing unreasonable
+degradation of properties, water quality, stream channels, and other natural
+resources, and to establish procedures whereby stormwater requirements related
+to water quality and quantity shall be administered and enforced.
+   (C)   This chapter is authorized by VA Code § 62.1-44.15:27.
+(Ord. O-2025-11, passed 9-16-2025)
 § 152.03 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning.
-   ADMINISTRATOR. The Town Engineer and/or Building/Code Official of the town,
-who has been appointed to serve as the agent of the Town Council in
-administering this chapter.
-   AGREEMENT IN LIEU OF A PLAN. A contract between the plan-approving authority
-and the owner that specifies conservation measures that must be implemented in
-the construction of a single-family residence; this contract may be executed by
-the plan-approving authority in lieu of a formal site plan.
-   APPLICANT. Any person submitting an erosion and sediment control plan for
-approval or requesting the issuance of a permit, when required, authorizing
-land disturbing activities to commence.
-   BOARD or STATE SOIL AND WATER CONSERVATION BOARD. The agency continued in VA
-Code § 10.1-502.
-   CLEARING. Any activity that removes the vegetative ground cover including,
-but not limited to, root mat removal and/or topsoil removal.
-   CONSERVATION PLAN, EROSION, AND SEDIMENT CONTROL PLAN or PLAN. A document
-containing material for the conservation of soil and water resources of a unit
-or group of units of land. It may include appropriate maps, an appropriate soil
-and water plan inventory and management information with needed
-interpretations, and a record of decisions contributing to conservation
-treatment. The PLAN shall contain all major conservation decisions to assure
-that the entire unit of land will be so treated to achieve the conservation
-objectives.
-   CONSERVATION STANDARDS or STANDARDS. The guidelines, techniques, and methods
-for the control of erosion and sediment.
-   DISTRICT or SOIL AND WATER CONSERVATION DISTRICT. The Prince William Soil
-and Water Conservation District.
-   EROSION AND SEDIMENT CONTROL PERMIT. A permit issued by the town for
-installation of erosion and sediment control devices or measures, including
-only the minimum degree of clearing and grading necessary to install such
-devices or measures.
-   EROSION IMPACT AREA. An area of land not associated with current land
-disturbing activity but subject to persistent soil erosion resulting in the
-delivery of sediment onto neighboring properties or into state waters. This
+   The following words and terms, when used in this chapter, shall have the
+following meanings, unless the context clearly indicates otherwise.
+   ADEQUATE CHANNEL. A channel that will convey the designated frequency storm
+event without overtopping the channel bank nor causing erosive damage to the
+channel bed or banks.
+   AGREEMENT IN LIEU OF A PLAN. A contract between the town and the owner or
+permittee that specifies methods that shall be implemented to comply with the
+requirements of the VESMA and this chapter for the construction of a single-
+family detached residential structure or farm building or structure on a parcel
+of land with a total impervious cover percentage, including the impervious
+cover from the farm building or structure to be constructed, of less than 2,500
+square feet; such contract may be executed by the town in lieu of a soil
+erosion control and stormwater management plan.
+   APPLICANT. Person submitting a soil erosion control and stormwater
+management plan to a VESMP authority for approval in order to obtain
+authorization to commence a land-disturbing activity.
+   BEST MANAGEMENT PRACTICE OR BMP. Schedules of activities, prohibitions of
+practices, maintenance procedures, and other management practices, including
+both structural and nonstructural practices, to prevent or reduce the pollution
+of surface waters and groundwater systems.
+      (1)   NONPROPRIETARY BEST MANAGEMENT PRACTICE. Both structural and
+nonstructural practices to prevent or reduce the pollution of surface waters
+and groundwater systems that are in the public domain and are not protected by
+trademark or patent or copyright.
+      (2)   PROPRIETARY BEST MANAGEMENT PRACTICE. Both structural and
+nonstructural practices to prevent or reduce the pollution of surface waters
+and groundwater systems that are privately owned and controlled and may be
+protected by trademark or patent or copyright.
+   BOARD. The State Water Control Board.
+   CAUSEWAY. A temporary structural span constructed across a flowing
+watercourse or wetland to allow construction traffic to access the area without
+causing erosion damage.
+   CHANNEL. A natural stream or manmade waterway.
+   CHESAPEAKE BAY PRESERVATION ACT. As defined in VA Code §§ 62.1-44.15:67 et
+seq.
+   CHESAPEAKE BAY PRESERVATION AREA. Any land designated by a local government
+pursuant to Part III (9 VAC §§ 25-830-70 et seq.) of the Chesapeake Bay
+Preservation Area Designation and Management Regulations and VA Code § 62.1-
+44.15:74. A Chesapeake Bay Preservation Area shall consist of a Resource
+Protection Area and a Resource Management Area as defined in the Chesapeake Bay
+Preservation Area Designation and Management Regulations (9 VAC 25-830).
+   CLEAN WATER ACT OR CWA. The federal Clean Water Act (33 U.S.C. § 1251 et
+seq.), formerly referred to as the Federal Water Pollution Control Act or
+Federal Water Pollution Control Act Amendments of 1972, Public Law 92-500, as
+amended by Public Law 95-217, Public Law 95-576, Public Law 96-483, and Public
+Law 97117, or any subsequent revisions thereto.
+   COFFERDAM. A watertight temporary structure in a river, lake, etc., for
+keeping the water from an enclosed area that has been pumped dry so that bridge
+foundations, dams, etc., may be constructed.
+   COMMON PLAN OF DEVELOPMENT OR SALE. A contiguous area where separate and
+distinct construction activities may be taking place at different times on
+different schedules.
+   COMPREHENSIVE STORMWATER MANAGEMENT PLAN. A plan, which may be integrated
+with other land use plans or regulations that specifies how the water quality
+components, quantity components, or both of stormwater are to be managed on the
+basis of an entire watershed or a portion thereof. The plan may also provide
+for the remediation of erosion, flooding, and water quality and quantity
+problems caused by prior development.
+   CONSTRUCTION ACTIVITY. Any clearing, grading, or excavation associated with
+large construction activity or associated with small construction activity.
+   CONTROL MEASURE. Any BMP, stormwater facility, or other method used to
+minimize the discharge of pollutants to state waters.
+   CWA AND REGULATIONS. The Clean Water Act and applicable regulations
+published in the Code of Federal Regulations promulgated thereunder. For the
+purposes of this chapter, it includes state program requirements.
+   DAM. A barrier to confine or raise water for storage or diversion, to create
+a hydraulic head, to prevent gully erosion, or to retain soil, rock or other
+debris.
+   DENUDED. A term applied to land that has been physically disturbed and no
+longer supports vegetative cover.
+   DEPARTMENT. The Virginia Department of Environmental Quality.
+   DEVELOPMENT. Land disturbance and the resulting landform associated with the
+construction of residential, commercial, industrial, institutional, recreation,
+transportation, or utility facilities or structures or the clearing of land for
+nonagricultural or non-silvicultural purposes. The regulation of discharges
+from development, for purposes of stormwater management, does not include the
+exclusions found in 9 VAC § 25-875-860.
+   DIKE. An earthen embankment constructed to confine or control water,
+especially one built along the banks of a river to prevent overflow of
+lowlands; levee.
+   DISCHARGE. When used without qualification, the discharge of a pollutant.
+   DISCHARGE OF A POLLUTANT.
+      (1)   Any addition of any pollutant or combination of pollutants to state
+waters from any point source; or
+      (2)   Any addition of any pollutant or combination of pollutants to the
+waters of the contiguous zone or the ocean from any point source other than a
+vessel or other floating craft which is being used as a means of
+transportation.
+      (3)   This definition includes additions of pollutants into surface
+waters from: surface runoff that is collected or channeled by man; discharges
+through pipes, sewers, or other conveyances owned by a state, municipality, or
+other person that do not lead to a treatment works; and discharges through
+pipes, sewers, or other conveyances, leading into privately owned treatment
+works. Does not include an addition of pollutants by any indirect discharge.
+   DISTRICT OR SOIL AND WATER CONSERVATION DISTRICT. A political subdivision of
+the Commonwealth organized in accordance with the provisions of VA Code §§
+10.1-506 et seq.
+   DIVERSION. A channel with a supporting ridge on the lower side constructed
+across or at the bottom of a slope for the purpose of intercepting surface
+runoff.
+   DORMANT. Denuded land that is not actively being brought to a desired grade
+or condition.
+   DRAINAGE AREA. A land area, water area, or both from which runoff flows to a
+common point.
+   ENERGY DISSIPATOR. A non-erodible structure which reduces the velocity of
+concentrated flow to reduce its erosive effects.
+   ENVIRONMENTAL PROTECTION AGENCY OR EPA. The United States Environmental
+Protection Agency.
+   EROSION AND SEDIMENT CONTROL PLAN. A document containing material for the
+conservation of soil and water resources of a unit or group of units of land.
+It may include appropriate maps, an appropriate soil and water plan inventory
+and management information with needed interpretations, and a record of
+decisions contributing to conservation treatment. The plan shall contain all
+major conservation decisions to ensure that the entire unit or units of land
+will be so treated to achieve the conservation objectives.
+   EROSION IMPACT AREA. An area of land that is not associated with a current
+land-disturbing activity but is subject to persistent soil erosion resulting in
+the delivery of sediment onto neighboring properties or into state waters. This
 definition shall not apply to any lot or parcel of land of 10,000 square feet
 or less used for residential purposes or to shorelines where the erosion
 results from wave action or other coastal processes.
-   EXCAVATING. Any digging, scooping, or other method of removing earth
-materials.
-   FILLING. Any depositing or stockpiling of earth materials.
-   GRADING. Any excavating or filling of earth materials, or any combination of
-materials, including the land in its excavated or filled condition.
-   LAND DISTURBING ACTIVITY. Any land change that may result in soil erosion
-from water or wind and the movement of sediments into state waters or onto
-lands in the state including, but not limited to, clearing, grading,
-excavating, transporting and filling of land; except that the term shall not
-include:
-      (1)   Minor LAND DISTURBING ACTIVITIES such as home gardens and
-individual home landscaping, repairs, and maintenance work;
-      (2)   Individual service connections;
-      (3)   Installation, maintenance, or repair of any underground public
-utility lines when such activity occurs on an existing hard-surfaced road,
-street, or sidewalk provided the LAND DISTURBING ACTIVITY is confined to the
-area of the road, street, or sidewalk which is hard surfaced;
-      (4)   Septic tank lines or drainage fields unless included in an overall
-plan for LAND DISTURBING ACTIVITY relating to construction of the building to
-be served by the septic tank system;
-      (5)   Surface or deep mining;
-      (6)   Exploration or drilling for oil and gas, including the well site,
-roads, feeder lines, and off-site disposal areas;
-      (7)   Tilling, planting, or harvesting of agricultural, horticultural, or
-forest crops, or livestock feedlot operations, including engineering operations
-as follows: construction of terraces; terrace outlets; check dams; desilting
-basins; dikes; ponds; ditches; strip cropping; lister furrowing; contour
-cultivating; contour furrowing; land drainage; and land irrigation; however,
-this exception shall not apply to harvesting of forest crops unless the area on
-which harvesting occurs is reforested artificially or naturally in accordance
-with the provisions of VA Code §§ 10.1-1100 et seq., or is converted to bona
-fide agricultural or improved pasture use as described in VA Code § 10.1-1163
-(B);
-      (8)   Repair or rebuilding of the tracks, right-of-way, bridges,
-communication facilities, and other related structures and facilities of a
-railroad company;
-      (9)   Agricultural engineering operations including, but not limited to,
-the construction of terraces, terrace outlets, check dams, desilting basins,
-dikes, ponds not required to comply with the provisions of the Dam Safety Act
-(VA Code §§ 10.1-604 et seq.), ditches, strip cropping, lister furrowing,
-contour cultivating, contour furrowing, land drainage, and land irrigation;
-      (10)   Disturbed land areas less than 2,500 square feet in size;
-      (11)   Installation of fence and sign posts or telephone and electric
-poles and other kinds of posts or poles;
-      (12)   Shore erosion control projects on tidal waters when the projects
-are approved by local wetlands boards, the State Marine Resources Commission or
-the United States Army Corps of Engineers; however, any associated land that is
-disturbed outside of this exempted area shall remain subject to this chapter;
-      (13)   Emergency work to protect life, limb, or property, and emergency
-repairs; however, if the LAND DISTURBING ACTIVITY would have required an
-approved erosion and sediment control plan, if the activity were not an
-emergency, then the land area disturbed shall be shaped and stabilized in
-accordance with the requirements of the plan approving authority; and
-      (14)   Activities specifically exempted by VA Code §§ 62.1-44.15:54 et
-seq.
-   LAND DISTURBING PERMIT. A permit issued by the town for clearing, filling,
-excavating, grading, or transporting, or any combination of such activities, on
-all lands, except privately owned occupied or operated, agricultural,
-horticultural, or forestry land.
-   LOCAL EROSION AND SEDIMENT CONTROL PROGRAM or LOCAL CONTROL PROGRAM. An
-outline of the various methods employed by a program authority to regulate land
-disturbing activities and thereby minimize erosion and sedimentation in
-compliance with the state program and may include such items as local
-ordinances, policies and guidelines, technical materials, inspection,
-enforcement, and evaluation.
-   OWNER. The owner of the freehold of the premises or lesser estate therein, a
-mortgagee or vendee in possession, assignee of rents, receiver, executor,
-trustee, lessee, or other person in control of a property.
+   ESC. Erosion and sediment control.
+   ESM PLAN. A soil erosion control and stormwater management plan, commonly
+referred to as the erosion control and stormwater management plan.
+   FARM BUILDING OR STRUCTURE. The same as that term is defined in VA Code 36-
+97 and also includes any building or structure used for agritourism activity,
+as defined in VA Code § 3.2-6400, and any related impervious services including
+roads, driveways, and parking areas.
+   FLOOD FRINGE. The portion of the floodplain outside the floodway that is
+usually covered with water from the 100-year flood or storm event. This
+includes the flood or floodway fringe designated by the Federal Emergency
+Management Agency.
+   FLOODING. A volume of water that is too great to be confined within the
+banks or walls of the stream, water body, or conveyance system and that
+overflows onto adjacent lands, thereby causing or threatening damage.
+   FLOODPLAIN. The area adjacent to a channel, river, stream, or other water
+body that is susceptible to being inundated by water normally associated with
+the 100-year flood or storm event. This includes the floodplain designated by
+the Federal Emergency Management Agency.
+   FLOOD-PRONE AREA. The component of a natural or restored stormwater
+conveyance system that is outside the main channel. Flood-prone areas may
+include the floodplain, the floodway, the flood fringe, wetlands, riparian
+buffers, or other areas adjacent to the main channel.
+   FLOODWAY. The channel of a river or other watercourse and the adjacent land
+areas, usually associated with flowing water, that must be reserved in order to
+discharge the 100-year flood or storm event without cumulatively increasing the
+water surface elevation more than one foot. This includes the floodway
+designated by the Federal Emergency Management Agency.
+   FLUME. A constructed device lined with erosion-resistant materials intended
+to convey water on steep grades.
+   GENERAL PERMIT. A permit authorizing a category of discharges under the CWA
+and the VESMA within a geographical area.
+   HYDROLOGIC UNIT CODE OR HUC. A watershed unit established in the most recent
+version of Virginia’s Sixth Order National Watershed Boundary Dataset unless
+specifically identified as another order.
+   IMPERVIOUS COVER. A surface composed of material that significantly impedes
+or prevents natural infiltration of water into soil.
+   INCORPORATED PLACE. A city, town, township, or village that is incorporated
+under the Code of Virginia.
+   INSPECTION. An on-site review of the project's compliance with any
+applicable design criteria, or an on-site review to obtain information or
+conduct surveys or investigations necessary in the implementation or
+enforcement of the VESMA and applicable regulations.
+   KARST AREA. Any land area predominantly underlain at the surface or shallow
+subsurface by limestone, dolomite, or other soluble bedrock regardless of any
+obvious surface karst features.
+   KARST FEATURES. Sinkholes, sinking and losing streams, caves, large flow
+springs, and other such landscape features found in karst areas.
+   LAND DISTURBANCE OR LAND-DISTURBING ACTIVITY. A manmade change to the land
+surface that may result in soil erosion or has the potential to change its
+runoff characteristics, including construction activity such as the clearing,
+grading, excavating, or filling of land.
+   LAND-DISTURBANCE APPROVAL. An approval allowing a land-disturbing activity
+to commence issued by the VESMP authority after the requirements of VA Code §
+62.1-44.15:34 have been met.
+   LARGE CONSTRUCTION ACTIVITY. Construction activity including clearing,
+grading, and excavation, except operations that result in the disturbance of
+less than five acres of total land area. LARGE CONSTRUCTION ACTIVITY also
+includes the disturbance of less than five acres of total land area that is a
+part of a larger common plan of development or sale if the larger common plan
+will ultimately disturb five acres or more. LARGE CONSTRUCTION ACTIVITY does
+not include routine maintenance that is performed to maintain the original line
+and grade, hydraulic capacity, or original purpose of the facility.
+   LINEAR DEVELOPMENT PROJECT. A land-disturbing activity that is linear in
+nature such as, but not limited to, the construction of electric and telephone
+utility lines, and natural gas pipelines; construction of tracks, rights-of-
+way, bridges, communication facilities and other related structures of a
+railroad company; highway construction projects; construction of stormwater
+channels and stream restoration activities; and water and sewer lines. Private
+subdivision roads or streets shall not be considered linear development
+projects.
+   LIVE WATERCOURSE. A definite channel with bed and banks within which
+concentrated water flows continuously.
+   LOCALITY. Town of Occoquan.
+   LOCALIZED FLOODING. Smaller scale flooding that may occur outside of a
+stormwater conveyance system. This may include high water, ponding, or standing
+water from stormwater runoff, which is likely to cause property damage or
+unsafe conditions.
+   MAIN CHANNEL. The portion of the stormwater conveyance system that contains
+the base flow and small frequent storm events.
+   MANMADE. Constructed by man.
+   MINIMIZE. To reduce or eliminate the discharge of pollutants to the extent
+achievable using stormwater controls that are technologically available and
+economically practicable.
+   MINOR MODIFICATION. Modifications and amendments not requiring extensive
+review and evaluation including changes in EPA promulgated test protocols,
+increasing monitoring frequency requirements, changes in sampling locations,
+and changes to compliance dates within the overall compliance schedules. A
+minor permit modification or amendment does not substantially alter permit
+conditions, substantially increase or decrease the amount of surface water
+impacts, increase the size of the operation, or reduce the capacity of the
+facility to protect human health or the environment.
+   NATURAL CHANNEL DESIGN CONCEPTS. The utilization of engineering analysis and
+fluvial geomorphic processes to create, rehabilitate, restore, or stabilize an
+open conveyance system for the purpose of creating or recreating a stream that
+conveys its bankfull storm event within its banks and allows larger flows to
+access its bankfull bench and its floodplain.
+   NATURAL STREAM. A tidal or nontidal watercourse that is part of the natural
+topography. It usually maintains a continuous or seasonal flow during the year
+and is characterized as being irregular in cross-section with a meandering
+course. Constructed channels such as drainage ditches or swales shall not be
+considered natural streams; however, channels designed utilizing natural
+channel design concepts may be considered natural streams.
+   NON-ERODIBLE. A material, e.g., riprap, concrete, plastic, etc., that will
+not experience surface wear due to natural forces.
+   NONPOINT SOURCE POLLUTION. Pollution such as sediment, nitrogen,
+phosphorous, hydrocarbons, heavy metals, and toxics whose sources cannot be
+pinpointed but rather are washed from the land surface in a diffuse manner by
+stormwater.
+   OPERATOR. The owner or operator of any facility or activity subject to the
+VESMA and this chapter. In the context of stormwater associated with a large or
+small construction activity, any person associated with a construction project
+that meets either of the following two criteria: the person has direct
+operational control over construction plans and specifications, including the
+ability to make modifications to those plans and specifications; or the person
+has day-to-day operational control of those activities at a project that are
+necessary to ensure compliance with a stormwater pollution prevention plan for
+the site or other permit or VESMP authority permit conditions (i.e., they are
+authorized to direct workers at a site to carry out activities required by the
+stormwater pollution prevention plan or comply with other permit conditions).
+   OWNER. The same as that term is defined in VA Code § 62.1-44.3. For a
+regulated land-disturbing activity that does not require a permit, OWNER also
+means the owner or owners of the freehold of the premises or lesser estate
+therein, mortgagee or vendee in possession, assignee of rents, receiver,
+executor, trustee, lessee, or other person, firm, or corporation in control of
+a property.
+   PEAK FLOW RATE. The maximum instantaneous flow from a prescribed design
+storm at a particular location.
+   PERCENT IMPERVIOUS. The impervious area within the site divided by the area
+of the site multiplied by 100.
+   PERMIT. A VPDES permit issued by the department pursuant to VA Code § 62.1-
+44.15 for stormwater discharges from a land-disturbing activity.
+   PERMITTEE. The person to whom the permit is issued.
    PERSON. Any individual, partnership, firm, association, joint venture,
 public or private corporation, trust, estate, commission, board, public or
 private institution, utility, cooperative, county, city, town, or other
-political subdivision of the state, any interstate body, or any other legal
+political subdivision of the Commonwealth, governmental body, including a
+federal or state entity as applicable, any interstate body, or any other legal
 entity.
-   PLAN APPROVING AUTHORITY. The Town Council.
-   PROGRAM AUTHORITY. The Town of Occoquan.
-   STATE EROSION AND SEDIMENT CONTROL PROGRAM or STATE PROGRAM. The program
-administered by the Board pursuant to this chapter, including regulations
-designed to minimize erosion and sedimentation.
-   STATE WATERS. All waters on the surface and under the ground wholly or
-partially within or bordering the state or within its jurisdiction.
-   SUBDIVISION. As defined in Chapter 156 of this code.
-   TRANSPORTING. Any moving of earth materials from one place to another, other
-than such movement incidental to grading, when such movement results in
-destroying the vegetative ground cover, either by tracking or the buildup of
-earth materials to the extent that erosion and sedimentation will result from
-the soil or earth materials over which such TRANSPORTING occurs.
-(1998 Code, § 18-33) (Ord. O-2006-10, passed 11-14-2006; Ord. O-2012-03, passed
-10-2-2012)
-§ 152.04 LOCAL EROSION AND SEDIMENT CONTROL PROGRAM.
-   (A)   This chapter, the State Erosion and Sediment Control Handbook, and all
-locally adopted guidelines, procedures, and standards shall comprise and be
-integral parts of the town erosion and sediment control program.
-   (B)   The guidelines, procedures, and other elements of the local control
-program shall be developed consistent with the state program and guidelines.
-   (C)   To carry out the local control program, conservation standards are
-established. Such standards shall include criteria, guidelines, techniques, and
-methods for the control of erosion and sedimentation. (See §
-152.05(A).) The conservation standards shall be included in part III of the
-State Erosion and Sediment Control Handbook.
-   (D)   The standards and specifications of the State Erosion Control Handbook
-shall be modified within the town as follows.
-      (1)   Temporary gravel construction entrances (minimum standard #17)
-shall have a minimum length of 70 feet and minimum width of 12 feet. Wash racks
-with appropriate water sources shall also be provided for washing mud off the
-tires of construction vehicles before entering the public road. Wash water
-shall be directed to a settling area for sediment removal.
-      (2)   Straw bale barriers (standard and specification #3.04) shall be
-used only for sheet flow application and not as perimeter controls or in any
-channel or drainageway.
-      (3)   Brush barriers (standard and specification #3.06) shall not be
-acceptable for use in the town.
-      (4)   Storm drain inlet protection (standard and specification #3.07)
-shall consist of VDOT #3, #357 or #5 stone wrapped in wire mesh and supported
-by concrete blocks, or standard block and gravel devices as illustrated in the
-State Erosion and Sediment Control Handbook. Inlet protection devices will not
-be considered sufficient protection for drainage areas of one acre or more.
-      (5)   Temporary sediment traps (standard and specification #3.13) shall
-be cleaned of sediment after every storm or shall be sized to provide storage
-volume of 134 cubic yards per acre of drainage area and be cleared out when
-half the storage volume is displaced by trapped sediment. Stone outlets for
-sediment traps shall be constructed with VDOT #3, #357, or #5 course aggregate
-and faced on the upstream side with a one-foot-thick layer of VDOT class 1
-stone.
-      (6)   Temporary sediment basins (standard and specification #3.14) shall
-be provided for any disturbed area exceeding three acres.
-      (7)   Temporary seeding (standard and specification #3.31) with mulching
-is required for all denuded areas where no land disturbing construction
-activities take place for a period exceeding 14 days.
-   (E)   Stream restoration and relocation projects that incorporate natural
-channel design concepts are not human-made channels and shall be exempt from
-any flow rate capacity and velocity requirements for natural or human-made
-channels as defined in any regulations promulgated pursuant to VA Code §§ 62.1-
-44.15:54 et seq.. Any land disturbing activity that provides for stormwater
-management intended to address any flow rate capacity and velocity requirements
-for natural or human-made channels shall satisfy the flow rate capacity and
-velocity requirements for natural or human-made channels if the practices are
-designed to: detain the water quality volume and to release it over 48 hours;
-detain and release over a 24-hour period the expected rainfall resulting from
-the one year, 24-hour storm; and reduce the allowable peak flow rate resulting
-from the 1.5-, 2-, and 10-year, 24-hour storms to a level that is less than or
-equal to the peak flow rate from the site assuming it was in a good forested
-condition achieved through multiplication of the forested peak flow rate by a
-reduction factor that is equal to the runoff volume from the site when it was
-in a good forested condition divided by the runoff volume from the site in its
-proposed condition, and shall be exempt from any flow rate capacity and
-velocity requirements for natural or human-made channels as defined in any
-regulations promulgated pursuant to VA Code §§ 10.1-562 or 10.1-570.
-(1998 Code, § 18-34) (Ord. O-2009-02, passed 7-14-2009)
-§ 152.05 REGULATED LAND DISTURBING ACTIVITIES.
-   (A)   Except as provided in this section, no person shall engage in any land
-disturbing activity until an erosion and sediment control plan for such
-activity has been submitted to and approved by the town. For the purposes of
-this section, when land disturbing activity will be required of a contractor
-performing construction work pursuant to a construction contract, the
-preparation, submission, and approval of an erosion and sediment control plan
-shall be the responsibility of the owner. The plan shall indicate phases of
-construction, as appropriate, and a detailed narrative shall be submitted to
-indicate in detail the timing and method of implementing each phase. This
-phased plan shall be designed to ensure adequate erosion and sediment control
-protection from the beginning of a project until its completion. Where storm
-sewers or paved areas are to be constructed, there shall be a minimum of two
-phases indicated on all erosion and sediment control plans. Plans shall clearly
-state when any proposed stormwater management facility is to be constructed.
-   (B)   Any person who owns, occupies, or operates private agricultural,
-horticultural, or forest lands shall not be deemed to be in violation of this
-chapter for land disturbing activities that result from the tilling, planting,
-or harvesting of agricultural, horticultural, or forest crops, or products of
-engineering operations.
-   (C)   Where land disturbing activities involve lands under the jurisdiction
-of more than one local control program, an erosion and sediment control plan
-may, at the option of the applicant, be submitted to the Board for review and
-approval rather than to each jurisdiction concerned.
-   (D)   (1)   Electric, natural gas, and telephone utility companies,
-interstate and intrastate natural gas pipeline companies and railroad companies
-shall file general erosion and sediment control specifications annually with
-the Board for review and written comments. The specifications shall apply to:
-         (a)   Construction, installation, or maintenance of electric, natural
-gas, and telephone utility lines, and pipelines; and
-         (b)   Construction of the tracks, rights-of-way, bridges,
-communication facilities, and other related structures and facilities of the
-railroad company.
-      (2)   Individual approval of separate projects within divisions (D)(1)(a)
-and (D)(1)(b) above is not necessary when Board approved specifications are
-followed, however, projects included in divisions (D)(1)(a) and (D)(1)(b) above
-must comply with Board approved specifications. Projects not included in
-divisions (D)(1)(a) and (D)(1)(b) above shall comply with the requirements of
-the town erosion and sediment control program.
-   (E)   State agency projects are exempt from the provisions of this chapter
-except as provided for in VA Code § 62.1-44.15:56.
-   (F)   Where the land disturbing activity results from the construction of a
-single-family residence, an agreement in lieu of a plan may be substituted for
-an erosion and sediment control plan if executed by the plan approving
-authority.
-(1998 Code, § 18-35) (Ord. O-2006-10, passed 11-14-2006) Penalty, see §
-152.99
-§ 152.06 ACTION ON EROSION AND SEDIMENT CONTROL PLANS.
-   (A)   The town, through the Town Engineer, shall, within 45 days, approve
-any erosion and sediment control plan submitted or specify, in writing, to the
-applicant, such modifications, terms, and conditions that will permit approval
-of the plan. The person responsible for carrying out the plan shall certify
-that he or she will properly perform the conservation measures included in the
-plan and will conform to the provisions of this chapter. In addition, as a
-prerequisite to engaging in the land disturbing activities shown on the
-approved plan, the person responsible for carrying out the plan shall provide
-the name of an individual holding a certificate of competence, to the program
-authority, as provided by VA Code § 10.1-561, of the State Erosion and Sediment
-Control Law, who will be in charge of and responsible for carrying out the land
-disturbing activity. Failure to provide the name of an individual holding a
-certificate of competence prior to engaging in land disturbing activities may
-result in revocation of the approval of the plan and the person responsible for
-carrying out the plan shall be subject to the penalties provided in this
-chapter. If no action is taken by the plan approving authority within the time
-specified in this section, the plan shall be deemed approved and the person
-authorized to proceed with the proposed activity. However, any plan approving
-authority may waive the certificate of competence
-requirement for an agreement in lieu of a plan for construction of a single
-family residence. If a violation occurs during the land disturbing activity,
-then the person responsible for carrying out the agreement in lieu of a plan
-shall correct the violation and provide the name of an individual holding a
-certificate of competence, as provided by VA Code § 10.1-561.
-   (B)   The town shall immediately transmit, for review, the plan to the
-district, which will return comments within 30 days.
-   (C)   The approved plan may be changed by the town which has approved the
-plan, in the following cases:
-      (1)   Where inspection has revealed the inadequacy of the plan to
-accomplish the erosion and sediment control objectives of the plan, appropriate
-modifications to correct the deficiencies of the plan may be directed by the
-town; and
-      (2)   Where the person responsible for carrying out the approved plan
-finds that, because of changed circumstances or for other reasons, the approved
-plan cannot be effectively carried out, and proposed amendments to the plan,
-consistent with the requirements of this chapter, are agreed to by the town and
-the person responsible for carrying out the plan.
-   (D)   Any person engaging, in more than one jurisdiction, in the creation
-and operation of wetland mitigation or stream restoration banks, which have
-been approved and have been operated in accordance with applicable federal and
-state guidance, laws, or regulations for the establishment, use, and operation
-of wetlands mitigation or stream restoration banks, pursuant to a mitigation
-banking instrument signed by the Department of Environmental Quality, the
-Marine Resources Commission, or the U.S. Army Corps of Engineers, may, at the
-option of that person, file general erosion and sediment control specifications
-for wetland mitigation or stream restoration banks annually with the Board for
-review and approval consistent with guidelines established by the Board.
-Projects not included in this division (D) shall comply with this chapter.
-Approval of general erosion and sediment control specifications by the Board
-does not relieve the owner or operator from compliance with any other local
-ordinances and regulations including requirements to submit plans and obtain
-permits as may be required by such ordinances and regulations.
-(1998 Code, § 18-36) (Ord. O-2006-10, passed 11-14-2006; Ord. O-2009-02, passed
-7-14-2009) Penalty, see §
-152.99
-§ 152.07 SUBMISSION OF PLAN BY OWNER.
-   For the purposes of §§
-152.05 and
-152.06, when land disturbing activity will be required of a contractor
-performing construction work pursuant to a construction contract, the
-preparation, submission, and approval of an erosion and sediment control plan
-shall be the responsibility of the owner.
-(1998 Code, § 18-37) Penalty, see §
-152.99
-Statutory reference:
-   Similar provisions, see VA Code § 62.1-44.15:55
-§ 152.08 ISSUANCE OF LAND DISTURBING PERMIT; FEES.
-   (A)   No person subject to the provisions of this chapter shall engage in
-any land disturbing activity until a sediment and erosion control permit for
-the property shall have been obtained from the town. The initial phase of the
-approved erosion and sediment control plan shall be installed and approved by
-the town prior to issuance of any further permits or commencement of any other
-land disturbing activities on the site.
-   (B)   Where an erosion and sediment control plan is approved as part of a
-site plan, grading plan, or other plan, separate cost estimates shall be
-prepared for all sediment and erosion control measures; and cash escrow, letter
-of credit, or other approved surety shall be provided for such measures
-separate and apart from any other required bonds or surety.
-   (C)   Persons conducting grading, excavating, or filling operations on
-private agricultural, horticultural, or forest lands shall not be required to
-obtain a permit for erosion and sediment control measures, but shall submit and
-receive approval of an erosion and sediment control plan prior to commencing
-any land disturbance.
-   (D)   A plan review and inspection fee shall be paid to the town at the time
-of filing the erosion and sediment control plan, in accordance with the town’s
-adopted fee schedule.
-(1998 Code, § 18-38) Penalty, see §
-152.99
-§ 152.09 APPROVED PLAN REQUIRED FOR ISSUANCE OF PERMITS; CERTIFICATION; BONDING
-OF PERFORMANCE.
-   (A)   The town shall not issue any grading, land disturbing, building, or
-other permits for activities that involve land disturbing activities unless the
-applicant submits, with his or her application, the approved erosion and
-sediment control plan or certification of such approved plan from the town and
-certification that such plan will be followed. Permits for permanent
-construction shall not be issued until the initial erosion and sediment control
-measures have been inspected and approved by the Town Engineer.
-   (B)   The town, prior to the issuance of any grading, land disturbing,
-building, or other permit, may require from any applicant a reasonable
-performance bond with surety, cash escrow, letter of credit, any combination
-thereof, or such other legal arrangement as is acceptable to the town, to
-ensure that emergency measures could be taken by the town, at the applicant’s
-expense, should he or she fail, within the time specified, to initiate
-appropriate conservation action, which may be required of him or her as a
-result of his or her land disturbing activity. This bond, cash escrow, letter
-of credit, or other acceptable legal arrangement will provide for a right of
-entry by representatives of the town for the purpose of inspection,
-reinstallation, maintenance, or any other conservation practice that may be
-necessary. Within 60 days of the achievement of adequate stabilization of the
-land disturbing activity in any project or section of such activity, the bond,
-cash escrow, letter of credit, or other legal arrangement, or the unexpended or
-unobligated portion of such arrangement, shall be refunded to the applicant or
-terminated
-based upon the percentage of stabilization accomplished in the project or
-section of the project. The town may collect stabilization costs in excess of
-the security held.
-   (C)   The requirements of this section are in addition to all other
-provisions of the law that relate to the issuance of such permits. The
-Building/Code Official shall issue no building or other permit until the
-erosion and sediment control measures have been inspected and approved by the
-town.
-(1998 Code, § 18-39)
-§ 152.10 MONITORING, REPORTS, AND INSPECTIONS.
-   (A)   The town, through the Town Engineer or other agent, shall periodically
-inspect the land disturbing activity to ensure compliance with the approved
-plan, and to determine whether the measures required in that plan are effective
-in controlling erosion and sediment resulting from the land disturbing
-activity. For purposes of this section, the word PERIODICALLY means during or
-immediately following initial installation of erosion and sediment controls, at
-least once in every two-week period, within 48 hours following any runoff
-producing storm event, and at the completion of the project prior to the
-release of any performance bonds. The right of entry to conduct such
-inspections shall be expressly reserved in the permit. The owner, permittee, or
-person responsible for carrying out the plan shall be given notice of the
-inspection. If the town, through the Town Engineer, finds that the permit
-holder has failed to comply with the plan, the town shall immediately serve a
-notice to comply upon the permit holder by registered or certified mail, at the
-address to be specified by the permit holder in his or her permit application.
-Such notice shall set forth specifically the measures necessary to comply with
-such plan. If no action is taken within the time specified in the letter, the
-town shall prepare a letter of intent to use the escrow account to correct the
-deficiency. This letter will be cleared by the Town Attorney and sent by
-registered mail to the owner, builder, or developer, with a copy to the escrow
-agent. The town will undertake the work, and the applicable account shall then
-be reimbursed from the escrow account. The owner, builder, or developer shall
-then be obligated to replenish the escrow account within ten days of the
-expenditure. Failure to do so will constitute a violation of this chapter. In
-addition, if the owner, builder, or developer fails to act within the specified
-time, the permit may be revoked; furthermore, the permittee or person
-responsible for carrying out the plan shall be deemed to be in violation of
-this chapter; and, upon conviction, shall be subject to the penalties provided
-by this chapter. Upon issuance of the letter of intent, the town and the
-Building/Code Official shall withhold all future permits until such violation
-is corrected.
-   (B)   With respect to approved plans for erosion and sediment control in
-connection with all regulated land disturbing activities that require no
-permit, the town may require of the person responsible for carrying out the
-plan such monitoring and reports, and may make such on-site inspections, after
-notice to that person, as are deemed necessary to determine whether the soil
-erosion and sediment control has been performed, and whether such measures are
-effective in controlling soil erosion and sediment resulting from the land
-disturbing activity. The owner, permittee, or person responsible for carrying
-out the plan shall be given notice of the inspection. If it is determined that
-there is a failure to comply with the approved plan, the town shall serve
-notice of such failure upon the person who is responsible for carrying out the
-plan, at the address specified by him or her in his or her certification, at
-the time of obtaining his or her approved plan. Such notice shall set forth the
-measures necessary for compliance
-and the time within which such measures shall be completed. Upon failure of
-such person to comply within the specified period, he or she will be deemed to
-be in violation of this chapter and, upon conviction, shall be subject to the
-penalties provided for by this chapter.
-   (C)   After land clearing operations have begun, no area shall be denuded
-for more than 30 days unless authorized by the town. All trenches for storm
-sewer, electric power, telephone, water, and gas lines are to be back-filled,
-compacted, seeded, and mulched within seven days after installation.
-   (D)   For projects involving more than two acres of land disturbance, permit
-holders will be required to file periodic reports to document monitoring and
-compliance with the approved plan. Such reports shall be in a form approved by
-the Town Engineer and shall be certified by a registered professional engineer.
-   (E)   (1)   Upon determination of a violation of this chapter, the Mayor or
-Town Engineer may, in conjunction with or subsequent to a notice to comply as
-specified in this chapter, issue an order requiring that all or part of the
-land disturbing activities permitted on the site be stopped until the specified
-corrective measures have been taken.
-      (2)   If land disturbing activities have commenced without an approved
-plan, the Mayor or Town Engineer may, in conjunction with or subsequent to a
-notice to comply as specified in this chapter, issue an order requiring that
-all of the land disturbing activities be stopped until an approved plan or any
-required permits are obtained.
-      (3)   Where the alleged noncompliance is causing or is in imminent danger
-of causing harmful erosion of lands or sediment deposition in waters within the
-watersheds of the state, or where the land disturbing activities have commenced
-without an approved plan or any required permits, such an order may be issued
-without regard to whether the permittee has been issued a notice to comply as
-specified in this chapter. Otherwise, such an order may be issued only after
-the permittee has failed to comply with such a notice to comply. The order
-shall be served in the same manner as a notice to comply, and shall remain in
-effect for a period of seven days from the date of service pending application
-by the enforcing authority or permit holder for appropriate relief to the
-Circuit Court.
-      (4)   If the alleged violator has not obtained an approved plan or any
-required permits within seven days from the date of service of the order, the
-Mayor or Town Engineer may issue an order to the owner requiring that all
-construction and other work on the site, other than corrective measures, be
-stopped until an approved plan and any required permits have been obtained.
-Such an order shall be served upon the owner by registered or certified mail to
-the address specified in the permit application or the land records of the
-town.
-      (5)   The owner may appeal the issuance of an order to the Circuit Court.
-      (6)   Any person violating or failing, neglecting, or refusing to obey an
-order issued by the Mayor or Town Engineer may be compelled in a proceeding
-instituted in the Circuit Court to obey same and to comply therewith by
-injunction, mandamus, or other appropriate remedy. Upon completion and approval
-of corrective action or obtaining an approved plan or any required permits, the
-order shall immediately be lifted.
-      (7)   Nothing in this section shall prevent the Mayor or Town Engineer
-from taking any other action authorized by this chapter.
-(1998 Code, § 18-40) (Ord. O-2006-10, passed 11-14-2006) Penalty, see §
-152.99
-§ 152.11 ADMINISTRATIVE APPEAL; JUDICIAL REVIEW.
-   Final decisions of the Town Engineer under this chapter shall be subject to
-review by the Town Council, provided an appeal is filed within 30 days from the
-date of any written decision by the Town Engineer that adversely affects the
-rights, duties, or privileges of the person engaging in or proposing to engage
-in land disturbing activities.
-(1998 Code, § 18-41)
-§ 152.99 PENALTY.
-   (A)   A violation of this chapter shall be deemed a class 1 misdemeanor.
-Violators shall be denied all future permits, until violations of this chapter
-are corrected. The decision of the Town Council shall be final unless, within
-30 days of such decision, the appellant shall file an appeal in proper legal
-form with the Circuit Court of the county.
-   (B)   Violations of any regulation or order of the Board, any provision of
-its program, any condition of a permit, or any provision of VA Code §§ 62.1-
-44.15:54 et seq., shall be subject to a civil penalty. The civil penalty for
-any one violation shall be $100, except that the civil penalty for commencement
-of land disturbing activities without an approved plan as provided in VA Code §
-62.1-44.15:55, shall be $1,000. In no event shall a series of specified
-violations arising from the same operative set of facts result in civil
-penalties that exceed a total of $3,000, except that a series of violations
-arising from the commencement of land disturbing activities without an approved
-plan for any site shall not result in civil penalties that exceed a total of
-$10,000. This division (B) shall be in lieu of criminal sanctions and shall
-preclude the prosecution of such violation as a misdemeanor under VA Code §
-62.1-44.15:63.
-   (C)   Any person who violates any regulation or order of the Board, any
-condition of a permit, any provision of its program, or any provision of VA
-Code §§ 62.1-44.15:54 et seq., shall, upon a finding of an appropriate general
-district court, be assessed a civil penalty in accordance with division (B)
-above. The Erosion and Sediment Control Administrator, his or her deputy or a
-certified inspector for the town may issue a summons for collection of the
-civil penalty; and the action may be prosecuted by the town. In any trial for a
-scheduled violation, it shall be the burden of the town to show the liability
-of the violator by a preponderance of the evidence. An admission or finding of
-liability shall not be a criminal conviction for any purpose. Any civil
-penalties assessed by a court shall be paid into the treasury of the town;
-except that where the violator is the town itself, or its agent, the court
-shall direct the penalty to be paid into the state treasury.
-   (D)   The Town Attorney may apply to the Circuit Court of the county for
-injunctive relief to enjoin a violation or threatened violation of this
-chapter.
-   (E)   Without limiting the remedies that may be obtained in this section,
-any person violating or failing, neglecting, or refusing to obey any
-injunction, mandamus, or other remedy obtained pursuant to this section shall
-be subject, in the discretion of the court, to a civil penalty not to exceed
-$2,000 for each violation. A civil action for such violation or failure may be
-brought by the town. Any civil penalties assessed by a court shall be paid into
-the treasury of the town; except that where the violator is the town itself, or
-its agent, the court shall direct the penalty to be paid into the state
-treasury.
-   (F)   The Town Attorney shall take legal action to enforce the provisions of
-this chapter.
-   (G)   Compliance with the provisions of this chapter shall be prima facie
-evidence, in any legal or equitable proceeding for damages caused by erosion or
-sedimentation, that all requirements of law have been met and that the
-complaining party must show negligence in order to recover damages.
-(1998 Code, § 18-42)
+   POINT OF DISCHARGE. A location at which concentrated stormwater runoff is
+released.
+   POINT SOURCE. Any discernible, confined, and discrete conveyance including
+any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container,
+rolling stock, concentrated animal feeding operation, landfill leachate
+collection system, vessel, or other floating craft from which pollutants are or
+may be discharged. Does not include return flows from irrigated agriculture or
+agricultural stormwater runoff.
+   POLLUTANT DISCHARGE. The average amount of a particular pollutant measured
+in pounds per year or other standard reportable unit as appropriate, delivered
+by stormwater runoff.
+   POLLUTION. Such alteration of the physical, chemical, or biological
+properties of any state waters as will or is likely to create a nuisance or
+render such waters harmful or detrimental or injurious to the public health,
+safety, or welfare, or to the health of animals, fish or aquatic life;
+unsuitable with reasonable treatment for use as present or possible future
+sources of public water supply; or unsuitable for recreational, commercial,
+industrial, agricultural, or other reasonable uses, provided that an alteration
+of the physical, chemical, or biological property of state waters, or a
+discharge or deposit of sewage, industrial wastes or other wastes to state
+waters by any owner which by itself is not sufficient to cause pollution, but
+which, in combination with such alteration of or discharge or deposit to state
+waters by other owners, is sufficient to cause pollution; the discharge of
+untreated sewage by any owner into state waters; and contributing to the
+contravention of standards of water quality duly established by the State Water
+Control Board, are POLLUTION for the terms and purposes of this chapter.
+   POST-DEVELOPMENT. Conditions that reasonably may be expected or anticipated
+to exist after completion of the land development activity on a specific site
+or tract of land.
+   PRE-DEVELOPMENT. Conditions that exist at the time that plans for the land-
+disturbing activity are submitted to the VESMP authority. Where phased
+development or plan approval occurs (preliminary grading, demolition of
+existing structures, roads and utilities, etc.), the existing conditions at the
+time prior to the commencement of land-disturbing activity shall establish
+predevelopment conditions.
+   PRIOR DEVELOPED LANDS. Land that has been previously utilized for
+residential, commercial, industrial, institutional, recreation, transportation,
+or utility facilities or structures, and that will have the impervious areas
+associated with those uses altered during a land-disturbing activity.
+   QUALIFIED PERSONNEL. A person knowledgeable in the principles and practices
+of erosion and sediment and stormwater management controls who possesses the
+skills to assess conditions at the construction site for the operator that
+could impact stormwater quality and quantity and to assess the effectiveness of
+any sediment and erosion control measures or stormwater management facilities
+selected to control the quality and quantity of stormwater discharges from the
+construction activity.
+   RESPONSIBLE LAND DISTURBER OR RLD. An individual holding a certificate
+issued by the department who is responsible for carrying out the land-
+disturbing activity in accordance with the approved erosion and sediment
+control plan or ESM plan. The RLD may be the owner, applicant, permittee,
+designer, superintendent, project manager, contractor, or any other project or
+development team member. The RLD must be designated on the erosion and sediment
+control plan, ESM plan, or permit as defined in this chapter as a prerequisite
+for engaging in land disturbance.
+   RUNOFF OR STORMWATER RUNOFF. That portion of precipitation that is
+discharged across the land surface or through conveyances to one or more
+waterways.
+   RUNOFF CHARACTERISTICS. Includes maximum velocity, peak flow rate, volume,
+and flow duration.
+   RUNOFF VOLUME. The volume of water that runs off the land development
+project from a prescribed storm event.
+   SEDIMENT BASIN. A temporary impoundment built to retain sediment and debris
+with a controlled stormwater release structure.
+   SEDIMENT TRAP. A temporary impoundment built to retain sediment and debris
+which is formed by constructing an earthen embankment with a stone outlet.
+   SHEET FLOW (OR OVERLAND FLOW). Shallow, unconcentrated and irregular flow
+down a slope. The length of strip for overland flow usually does not exceed 200
+feet under natural conditions.
+   SHORELINE EROSION CONTROL PROJECT. An erosion control project approved by
+local wetlands boards, the Virginia Marine Resources Commission, the
+department, or the United States Army Corps of Engineers and located on tidal
+waters and within nonvegetated or vegetated wetlands as defined in VA Code
+Title 28.2.
+   SITE. The land or water area where any facility or land-disturbing activity
+is physically located or conducted, including adjacent land used or preserved
+in connection with the facility or land-disturbing activity. Areas channelward
+of mean low water in tidal Virginia shall not be considered part of a site.
+   SITE HYDROLOGY. The movement of water on, across, through, and off the site
+as determined by parameters including soil types, soil permeability, vegetative
+cover, seasonal water tables, slopes, land cover, and impervious cover.
+   SLOPE DRAIN. Tubing or conduit made of non-erosive material extending from
+the top to the bottom of a cut or fill slope with an energy dissipator at the
+outlet end.
+   SMALL CONSTRUCTION ACTIVITY. 
+      (1)   Construction activities including clearing, grading, and excavating
+that results in land disturbance of equal to or greater than one acre and less
+than five acres. SMALL CONSTRUCTION ACTIVITY also includes the disturbance of
+less than one acre of total land area that is part of a larger common plan of
+development or sale if the larger common plan will ultimately disturb equal to
+or greater than one and less than five acres. SMALL CONSTRUCTION ACTIVITY does
+not include routine maintenance that is performed to maintain the original line
+and grade, hydraulic capacity, or original purpose of the facility. The
+department may waive the otherwise applicable requirements in a general permit
+for a stormwater discharge from construction activities that disturb less than
+five acres where stormwater controls are not needed based on an approved TOTAL
+MAXIMUM DAILY LOAD (TMDL) that addresses the pollutants of concern or, for
+nonimpaired waters that do not require TMDLs, an equivalent analysis that
+determines allocations for small construction sites for the pollutants of
+concern or that determines that such allocations are not needed to protect
+water quality based on consideration of existing in-stream concentrations,
+expected growth in pollutant contributions from all sources, and a margin of
+safety. For the purpose of this definition, the pollutants of concern include
+sediment or a parameter that addresses sediment (such as total suspended
+solids, turbidity, or siltation) and any other pollutant that has been
+identified as a cause of impairment of any water body that will receive a
+discharge from the construction activity. The operator shall certify to the
+department that the construction activity will take place, and stormwater
+discharges will occur, within the drainage area addressed by the TMDL or
+provide an equivalent analysis. As of the start date in Table 1 of 9 VAC § 25-
+31-1020, all certifications submitted in support of the waiver shall be
+submitted electronically by the owner or operator to the department in
+compliance with this definition and 40 C.F.R. Part 3 (including, in all cases,
+40 C.F.R. Part 3(D)), 9 VAC § 25-875-940, and Part XI (9 VAC §§ 25-31-950 et
+seq.) of the Virginia Pollutant Discharge Elimination System (VPDES) Permit
+Regulation. Part XI of 9 VAC 25-31 is not intended to undo existing
+requirements for electronic reporting. Prior to this date, and independent of
+Part XI of 9 VAC 25-31, permittees may be required to report electronically if
+specified by a particular permit.
+      (2)   Any other construction activity designated by either the department
+or the EPA regional administrator, based on the potential for contribution to a
+violation of a water quality standard or for significant contribution of
+pollutants to surface waters.
+   SOIL EROSION. The movement of soil by wind or water into state waters or
+onto lands in the Commonwealth.
+   SOIL EROSION CONTROL AND STORMWATER MANAGEMENT PLAN. Commonly referred to as
+the erosion control and stormwater management plan, or ESM PLAN, a document
+describing methods for controlling soil erosion and managing stormwater in
+accordance with the requirements adopted pursuant to the VESMA. The ESM plan
+may consist of aspects of the erosion and sediment control plan and the
+stormwater management plan as each is described in this chapter.
+   STABILIZED. Land that has been treated to withstand normal exposure to
+natural forces without incurring erosion damage.
+   STATE. The Commonwealth of Virginia.
+   STATE APPLICATION OR APPLICATION. The standard form or forms, including any
+additions, revisions, or modifications to the forms, approved by the
+administrator and the department for applying for a permit.
+   STATE WATER CONTROL LAW. VA Code §§ 62.1-44.2 et seq.
+   STATE WATERS. All water, on the surface and under the ground, wholly or
+partially within or bordering the Commonwealth or within its jurisdiction,
+including wetlands.
+   STORM SEWER INLET. A structure through which stormwater is introduced into
+an underground conveyance system.
+   STORMWATER. For the purposes of the VESMA, precipitation that is discharged
+across the land surface or through conveyances to one or more waterways and
+that may include stormwater runoff, snow melt runoff, and surface runoff and
+drainage.
+   STORMWATER CONVEYANCE SYSTEM. A combination of drainage components that are
+used to convey stormwater discharge, either within or downstream of the land-
+disturbing activity. This includes:
+      (1)   MANMADE STORMWATER CONVEYANCE SYSTEM. A pipe, ditch, vegetated
+swale, or other stormwater conveyance system constructed by man except for
+restored stormwater conveyance systems;
+      (2)   NATURAL STORMWATER CONVEYANCE SYSTEM. The main channel of a natural
+stream and the flood-prone area adjacent to the main channel; or
+      (3)   RESTORED STORMWATER CONVEYANCE SYSTEM. A stormwater conveyance
+system that has been designed and constructed using natural channel design
+concepts. Restored stormwater conveyance systems include the main channel and
+the flood-prone area adjacent to the main channel.
+   STORMWATER DETENTION. The process of temporarily impounding runoff and
+discharging it through a hydraulic outlet structure to a downstream conveyance
+system.
+   STORMWATER MANAGEMENT FACILITY. A control measure that controls stormwater
+runoff and changes the characteristics of that runoff including the quantity
+and quality, the period of release or the velocity of flow.
+   STORMWATER MANAGEMENT PLAN. A document containing material describing
+methods for complying with the requirements of the VESMP.
+   STORMWATER POLLUTION PREVENTION PLAN OR SWPPP. A document that is prepared
+in accordance with good engineering practices and that identifies potential
+sources of pollutants that may reasonably be expected to affect the quality of
+stormwater discharges. A SWPPP required under the VESMP for construction
+activities shall identify and require the implementation of control measures
+and shall include or incorporate by reference an approved erosion and sediment
+control plan, an approved stormwater management plan, and a pollution
+prevention plan.
+   SUBDIVISION. The same as defined in VA Code § 15.2-2201 and §
+156.001 of this code.
+   SURFACE WATERS.
+      (1)   Includes:
+         (a)   All waters that are currently used, were used in the past, or
+may be susceptible to use in interstate or foreign commerce, including all
+waters that are subject to the ebb and flow of the tide;
+         (b)   All interstate waters, including interstate wetlands;
+         (c)   All other waters such as intrastate lakes, rivers, streams
+(including intermittent streams), mudflats, sandflats, wetlands, sloughs,
+prairie potholes, wet meadows, playa lakes, or natural ponds the use,
+degradation, or destruction of which would affect or could affect interstate or
+foreign commerce including any such waters:
+            1.   That are or could be used by interstate or foreign travelers
+for recreational or other purposes;
+            2.   From which fish or shellfish are or could be taken and sold in
+interstate or foreign commerce; or
+            3.   That are used or could be used for industrial purposes by
+industries in interstate commerce;
+         (d)   All impoundments of waters otherwise defined as surface waters
+under this definition;
+         (e)   Tributaries of waters identified in divisions (1)(a) through (d)
+of this definition;
+         (f)   The territorial sea; and
+         (g)   Wetlands adjacent to waters (other than waters that are
+themselves wetlands) identified in subdivisions divisions (1)(a) through (f) of
+this definition.
+      (2)   Waste treatment systems, including treatment ponds or lagoons
+designed to meet the requirements of the CWA and the law, are not surface
+waters. Surface waters do not include prior converted cropland. Notwithstanding
+the determination of an area's status as prior converted cropland by any other
+agency, for the purposes of the CWA, the final authority regarding the CWA
+jurisdiction remains with the EPA.
+   SWM. Stormwater management.
+   TEMPORARY VEHICULAR STREAM CROSSING. A temporary non-erodible structural
+span installed across a flowing watercourse for use by construction traffic.
+Structures may include bridges, round pipes or pipe arches constructed on or
+through non-erodible material.
+   TEN-YEAR STORM. A storm that is capable of producing rainfall expected to be
+equaled or exceeded on the average of once in ten years. It may also be
+expressed as an exceedance probability with a 10% chance of being equaled or
+exceeded in any given year.
+   TOTAL MAXIMUM DAILY LOAD OR TMDL. The sum of the individual wasteload
+allocations for point sources, load allocations (LAs) for nonpoint sources,
+natural background loading, and a margin of safety. TMDLs can be expressed in
+terms of either mass per time, toxicity, or other appropriate measure. The TMDL
+process provides for point versus nonpoint source trade-offs.
+   TOWN. The incorporated Town of Occoquan.
+   TWO-YEAR STORM. A storm that is capable of producing rainfall expected to be
+equaled or exceeded on the average of once in two years. It may also be
+expressed as an exceedance probability with a 50% chance of being equaled or
+exceeded in any given year.
+   VIRGINIA EROSION AND STORMWATER MANAGEMENT ACT OR VESMA. VA Code §§ 62.1-
+44.15:24 et seq.(Chapter 3.1, State Water Control Law).
+   VIRGINIA EROSION AND STORMWATER MANAGEMENT PROGRAM OR VESMP. A program
+established by the VESMP authority for the effective control of soil erosion
+and sediment deposition and the management of the quality and quantity of
+runoff resulting from land-disturbing activities to prevent the unreasonable
+degradation of properties, stream channels, waters, and other natural
+resources. The program shall include such items as local ordinances, rules,
+requirements for permits and land-disturbance approvals, policies and
+guidelines, technical materials, and requirements for plan review, inspection,
+and enforcement consistent with the requirements of the VESMA.
+   VIRGINIA EROSION AND STORMWATER MANAGEMENT PROGRAM AUTHORITY OR VESMP
+AUTHORITY. The town as approved by the department to operate the VESMP.
+   VIRGINIA POLLUTANT DISCHARGE ELIMINATION SYSTEM (VPDES) PERMIT OR VPDES
+PERMIT. A document issued by the department pursuant to the State Water Control
+Law authorizing, under prescribed conditions, the potential or actual discharge
+of pollutants from a point source to surface waters.
+   VIRGINIA STORMWATER BMP CLEARINGHOUSE. A collection that contains detailed
+design standards and specifications for control measures that may be used in
+Virginia to comply with the requirements of the VESMA and associated
+regulations.
+   VIRGINIA STORMWATER MANAGEMENT HANDBOOK. A collection of pertinent
+information that provides general guidance for compliance with the VESMA and
+associated regulations and is developed by the department with advice from a
+stakeholder advisory committee.
+   WASTELOAD ALLOCATION OR WASTELOAD. The portion of a receiving surface
+water's loading or assimilative capacity allocated to one of its existing or
+future point sources of pollution. Wasteload allocations are a type of water
+quality-based effluent limitation.
+   WATER QUALITY TECHNICAL CRITERIA. Standards set forth in regulations adopted
+pursuant to the VESMA that establish minimum design criteria for measures to
+control nonpoint source pollution.
+   WATER QUANTITY TECHNICAL CRITERIA. Standards set forth in regulations
+adopted pursuant to the VESMA that establish minimum design criteria for
+measures to control localized flooding and stream channel erosion.
+   WATERSHED. A defined land area drained by a river or stream, karst system,
+or system of connecting rivers or streams such that all surface water within
+the area flows through a single outlet. In karst areas, the karst feature to
+which water drains may be considered the single outlet for the watershed.
+   WETLANDS. Those areas that are inundated or saturated by surface water or
+groundwater at a frequency and duration sufficient to support, and that under
+normal circumstances do support, a prevalence of vegetation typically adapted
+for life in saturated soil conditions. Wetlands generally include swamps,
+marshes, bogs, and similar areas.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.04 VIRGINIA EROSION AND STORMWATER MANAGEMENT PROGRAM ESTABLISHED.
+   Pursuant to VA Code § 62.1-44.15:27 the town hereby establishes a Virginia
+Erosion and Stormwater Management Program for land-disturbing activities and
+adopts the Virginia Erosion and Stormwater Management Regulation that specify
+standards and specifications for VESMPs promulgated by the State Water Control
+Board for the purposes set out in §
+152.02. The Town Council hereby designates the Town Manager or Town Manager's
+designee as the administrator of the Virginia Erosion and Stormwater Management
+Program established by this chapter.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.05 REGULATED LAND-DISTURBING ACTIVITIES.
+   (A)   Land-disturbing activities that meet the criteria below are regulated
+as follows: Land-disturbing activity that disturbs 625 square feet or more, is
+less than one acre, and in an area of a locality designated as a Chesapeake Bay
+Preservation Area is subject to criteria defined in Article 2 (9 VAC §§ 25-875-
+540 et seq.) and Article 3 (9 VAC §§ 25-875-570 et seq.) of Part V unless
+Article 4 (9 VAC §§ 25-875-670 et seq.) of Part V of the Regulation is
+applicable, as determined in accordance with 9 VAC §§ 25-875-480 and 25-875-
+490.
+   (B)   Land-disturbing activities exempt per 9 VAC § 25-875-90 are not
+required to comply with the requirements of the VESMA unless otherwise required
+by federal law.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.06 REVIEW AND APPROVAL OF PLANS; PROHIBITIONS.
+   (A)   The town shall review and approve soil erosion control and stormwater
+management (ESM) plans, except for activities not required to comply with the
+requirements of the Virginia Erosion and Stormwater Management Act (VESMA),
+pursuant to VA Code § 62.1-44.15:34. Activities not required to comply with
+VESMA are defined in 9 VAC § 25-875-90.
+   (B)   A person shall not conduct any land-disturbing activity in the town
+until:
+      (1)   An application that includes a permit registration statement, if
+required, a soil erosion control and stormwater management plan or an executed
+agreement in lieu of a plan, if required, has been submitted to the town;
+      (2)   The name of the individual who will be assisting the owner in
+carrying out the activity and holds a responsible land disturber certificate
+pursuant to VA Code § 62.1-44.15:30 is submitted to the town. Except that such
+certificate shall not be required where an agreement in lieu of a plan for
+construction of a single-family detached residential structure is provided;
+however, if a violation occurs during the land-disturbing activity for the
+single-family detached residential structure, then the owner shall correct the
+violation and provide the name of the individual holding a responsible land
+disturber certificate as provided by VA Code § 62.1-14:30. Failure to provide
+the name of an individual holding a responsible land disturber certificate
+prior to engaging in land-disturbing activities may result in revocation of the
+land-disturbance approval and shall subject the owner to the penalties provided
+by the VESMA; and
+      (3)   The town has issued its land-disturbance approval. In addition, as
+a prerequisite to engaging in an approved land-disturbing activity, the name of
+the individual who will be assisting the owner in carrying out the activity and
+holds a responsible land disturber certificate pursuant to VA Code § 62.1-
+44.15:30 shall be submitted to the town. The town may waive the responsible
+land disturber certificate requirement for an agreement in lieu of a plan for
+construction of a single-family detached residential structure; however, if a
+violation occurs during the land-disturbing activity for the single-family
+detached residential structure, then the owner shall correct the violation and
+provide the name of the individual holding a responsible land disturber
+certificate as provided by VA Code § 62.1-14:30. Failure to provide the name of
+an individual holding a responsible land disturber certificate prior to
+engaging in land-disturbing activities may result in revocation of the land-
+disturbance approval and shall subject the owner to the penalties provided the
+Act.
+   (C)   The town may require changes to an approved ESM plan in the following
+cases:
+      (1)   Where inspection has revealed that the plan is inadequate to
+satisfy applicable regulations or ordinances; or
+      (2)   Where the owner finds that because of changed circumstances or for
+other reasons the plan cannot be effectively carried out, and proposed
+amendments to the plan, consistent with the requirements of the Act, are agreed
+to by the VESMP authority and the owner.
+   (D)   In order to prevent further erosion, the town may require approval of
+an erosion and sediment control plan and a stormwater management plan for any
+land it identifies as an erosion impact area.
+   (E)   Prior to issuance of any land-disturbance approval, the town may also
+require an applicant, excluding state agencies and federal entities, to submit
+a reasonable performance bond with surety, cash escrow, letter of credit, any
+combination thereof, or such other legal arrangement it finds acceptable, to
+ensure that it can take measures at the applicant's expense should he or she
+fail, after proper notice, within the time specified to comply with the
+conditions it imposes as a result of his or her land-disturbing activity. If
+the town takes such action upon such failure by the applicant, it may collect
+from the applicant the difference should the amount of the reasonable cost of
+such action exceed the amount of the security held. Within 60 days of the
+completion of the town conditions, such bond, cash escrow, letter of credit, or
+other legal arrangement, or the unexpended or unobligated portion thereof,
+shall be refunded to the applicant or terminated.
+   (F)   The town may enter into an agreement with an adjacent VESMP authority
+regarding the administration of multi-jurisdictional projects, specifying who
+shall be responsible for all or part of the administrative procedures. Should
+adjacent VESMP authorities fail to reach such an agreement, each shall be
+responsible for administering the area of the multi-jurisdictional project that
+lies within its jurisdiction.
+   (G)   No exception to, or waiver of, post-development nonpoint nutrient
+runoff compliance requirements shall be granted unless off-site options have
+been considered and found not available in accordance with VA Code § 62.1-
+44.15:35(D).
+   (H)   The town is authorized to cooperate and enter into agreements with any
+federal or state agency in connection with the requirements for land-disturbing
+activities in accordance with VA Code § 62.1-44.15:50.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.07 REVIEW OF A SOIL EROSION CONTROL AND STORMWATER MANAGEMENT PLAN (ESM
+PLAN).
+   The town shall approve or disapprove an ESM plan according to the following:
+   (A)   The town shall determine the completeness of any application within 15
+days after receipt, and shall act on any application within 40 days after it
+has been determined by the Town Manager to be complete.
+   (B)   The town shall issue either land-disturbance approval or denial and
+provide written rationale for any denial.
+   (C)   All deficiencies identified during a third or subsequent resubmission
+of any ESM plan shall be provided to the applicant. Within 14 days of receipt
+the town shall either:
+      (1)   Approve the ESM plan as submitted.
+      (2)   Permit the applicant to address any deficiencies deemed minor by
+the town and resubmit the ESM plan for approval. The town shall complete the
+administrative approval within seven days of resubmission; or
+      (3)   Disapprove the resubmission and identify all deficiencies by cause
+of disapproval by referencing specific duly adopted ordinances, regulations, or
+policies and identify all modifications or corrections that will permit
+approval of the ESM plan.
+   (D)   Prior to issuing a land-disturbance approval, the town shall be
+required to obtain evidence of permit coverage when such coverage is required.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.08 STORMWATER PERMIT REQUIREMENT; EXEMPTIONS.
+   (A)   Except as provided herein, no person may engage in any land-disturbing
+activity until a permit has been issued by the town in accordance with the
+provisions of this chapter and the Regulation.
+   (B)   Notwithstanding any other provisions of this chapter, the following
+activities are not required to comply with the requirements of this chapter
+unless otherwise required by federal law:
+      (1)   Minor land-disturbing activities, including home gardens and
+individual home landscaping, repairs, and maintenance work;
+      (2)   Installation, maintenance, or repair of any individual service
+connection;
+      (3)   Installation, maintenance, or repair of any underground utility
+line when such activity occurs on an existing hard surfaced road, street, or
+sidewalk, provided the land-disturbing activity is confined to the area of the
+road, street, or sidewalk that is hard surfaced;
+      (4)   Installation, maintenance, or repair of any septic tank line or
+drainage field unless included in an overall plan for land-disturbing activity
+relating to construction of the building to be served by the septic tank
+system;
+      (5)   Permitted surface or deep mining operations and projects, or oil
+and gas operations and projects conducted pursuant to VA Code Title 45.2;
+      (6)   Clearing of lands specifically for bona fide agricultural purposes;
+the management, tilling, planting, or harvesting of agricultural,
+horticultural, or forest crops; livestock feedlot operations; agricultural
+engineering operations, including construction of terraces, terrace outlets,
+check dams, desilting basins, dikes, ponds, ditches, strip cropping, lister
+furrowing, contour cultivating, contour furrowing, land drainage, and land
+irrigation; or as additionally set forth by the Board in regulations. However,
+this exception shall not apply to harvesting of forest crops unless the area on
+which harvesting occurs is reforested artificially or naturally in accordance
+with the provisions of VA Code §§ 10.1-1100 et seq. or is converted to bona
+fide agricultural or improved pasture use as described in VA Code § 10.1-1163
+(B);
+      (7)   Installation of fence and sign posts or telephone and electric
+poles and other kinds of posts or poles;
+      (8)   Shoreline erosion control projects on tidal waters when all of the
+land-disturbing activities are within the regulatory authority of and approved
+by local wetlands boards, the Marine Resources Commission, or the United States
+Army Corps of Engineers; however, any associated land that is disturbed outside
+of this exempted area shall remain subject to the VESMA and the regulations
+adopted pursuant thereto;
+      (9)   Repair or rebuilding of the tracks, rights-of-way, bridges,
+communication facilities, and other related structures and facilities of a
+railroad company;
+      (10)   Land-disturbing activities in response to a public emergency where
+the related work requires immediate authorization to avoid imminent
+endangerment to human health or the environment. In such situations, the town
+shall be advised of the disturbance within seven days of commencing the land-
+disturbing activity, and compliance with the administrative requirements of
+division (A) is required within 30 days of commencing the land-disturbing
+activity; and
+      (11)   Discharges to a sanitary sewer or a combined sewer system; that
+are not from a land-disturbing activity.
+   (C)   Notwithstanding this chapter and in accordance with the Virginia
+Erosion and Stormwater Management Act, Article 2.3 (VA Code §§ 62.1-44.15:24 et
+seq.) of VA Code, Title 62.1, Chapter 3.1, the following activities are
+required to comply with the soil erosion control requirements but are not
+required to comply with the water quantity and water quality technical
+criteria, unless otherwise required by federal law:
+      (1)   Activities under a state or federal reclamation program to return
+an abandoned property to an agricultural or open land use;
+      (2)   Routine maintenance that is performed to maintain the original line
+and grade, hydraulic capacity, or original construction of the project. The
+paving of an existing road with a compacted or impervious surface and
+reestablishment of existing associated ditches and shoulders shall be deemed
+routine maintenance if performed in accordance with this division; and
+      (3)   Discharges from a land-disturbing activity to a sanitary sewer or a
+combined sewer system.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.09 STORMWATER POLLUTION PREVENTION PLAN; CONTENTS OF PLANS.
+   (A)   A stormwater pollution prevention plan shall include, but not be
+limited to, an approved erosion and sediment control plan, an approved
+stormwater management plan, a pollution prevention plan for regulated land-
+disturbing activities, and a description of any additional control measures
+necessary to address a TMDL pursuant to division (D) of this section.
+   (B)   A soil erosion control and stormwater management (ESM) plan consistent
+with the requirements of the Virginia Erosion and Stormwater Management Act
+(VESMA) and regulations must be designed and implemented during construction
+activities. Prior to land disturbance, this plan must be approved by the town
+in accordance with the VESMA, this chapter, and attendant regulations.
+   (C)   A pollution prevention plan that identifies potential sources of
+pollutants that may reasonably be expected to affect the quality of stormwater
+discharges from the construction site and describe control measures that will
+be used to minimize pollutants in stormwater discharges from the construction
+site must be developed before land disturbance commences.
+   (D)   In addition to the requirements of divisions (A) through (C) of this
+section, if a specific wasteload allocation for a pollutant has been
+established in an approved TMDL and is assigned to stormwater discharges from a
+construction activity, additional control measures must be identified and
+implemented by the operator so that discharges are consistent with the
+assumptions and requirements of the wasteload allocation.
+   (E)   The stormwater pollution prevention plan must address the following
+requirements as specified in 40 C.F.R. § 450.21, to the extent otherwise
+required by state law or regulations and any applicable requirements of a state
+permit:
+      (1)   Control stormwater volume and velocity within the site to minimize
+soil erosion;
+      (2)   Control stormwater discharges, including both peak flow rates and
+total stormwater volume, to minimize erosion at outlets and to minimize
+downstream channel and stream bank erosion;
+      (3)   Minimize the amount of soil exposed during construction activity;
+      (4)   Minimize the disturbance of steep slopes;
+      (5)   Minimize sediment discharges from the site. The design,
+installation and maintenance of erosion and sediment controls must address
+factors such as the amount, frequency, intensity and duration of precipitation,
+the nature of resulting stormwater runoff, and soil characteristics, including
+the range of soil particle sizes expected to be present on the site;
+      (6)   Provide and maintain natural buffers around surface waters, direct
+stormwater to vegetated areas to increase sediment removal and maximize
+stormwater infiltration, unless infeasible;
+      (7)   Minimize soil compaction and, unless infeasible, preserve topsoil;
+      (8)   Stabilization of disturbed areas must, at a minimum, be initiated
+immediately whenever any clearing, grading, excavating, or other earth-
+disturbing activities have permanently ceased on any portion of the site, or
+temporarily ceased on any portion of the site and will not resume for a period
+exceeding 14 calendar days. Stabilization must be completed within a period of
+time determined by the VESMP authority. In arid, semiarid, and drought-stricken
+areas where initiating vegetative stabilization measures immediately is
+infeasible, alternative stabilization measures must be employed as specified by
+the VESMP authority; and
+      (9)   Utilize outlet structures that withdraw water from the surface,
+unless infeasible, when discharging from basins and impoundments.
+   (F)   The SWPPP shall be amended whenever there is a change in design,
+construction, operation, or maintenance that has a significant effect on the
+discharge of pollutants to state waters and that has not been previously
+addressed in the SWPPP. The SWPPP must be maintained at a central location on-
+site. If an on-site location is unavailable, notice of the SWPPP's location
+must be posted near the main entrance at the construction site.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.10 STORMWATER MANAGEMENT PLAN; CONTENTS OF PLAN.
+   (A)   A stormwater management plan shall be developed and submitted to the
+town. The stormwater management plan shall be implemented as approved or
+modified by the town and shall be developed in accordance with the following:
+      (1)   A stormwater management plan for a land-disturbing activity shall
+apply the stormwater management technical criteria set forth in this chapter
+and Article 4 (9 VAC §§ 25-875-670 et seq.) of Part V of the Regulation to the
+entire land-disturbing activity. Individual lots in new residential,
+commercial, or industrial developments, including those developed under
+subsequent owners, shall not be considered separate land-disturbing activities.
+      (2)   A stormwater management plan shall consider all sources of surface
+runoff and all sources of subsurface and groundwater flows converted to surface
+runoff.
+   (B)   A complete stormwater management plan shall include the following
+elements:
+      (1)   Information on the type of and location of stormwater discharges,
+information on the features to which stormwater is being discharged including
+surface waters or karst features if present, and predevelopment and post-
+development drainage areas;
+      (2)   Contact information including the name, address, telephone number,
+and email address of the owner and the tax reference number and parcel number
+of the property or properties affected;
+      (3)   A narrative that includes a description of current site conditions
+and final site conditions or if allowed by the VESMP authority, the information
+provided and documented during the review process that addresses the current
+and final site conditions;
+      (4)   A general description of the proposed stormwater management
+facilities and the mechanism through which the facilities will be operated and
+maintained after construction is complete;
+      (5)   Information on the proposed stormwater management facilities,
+including detailed narrative on the conversion to a long-term stormwater
+management facility if the facility was used as a temporary ESC measure; the
+type of facilities; location, including geographic coordinates; acres treated;
+and the surface waters or karst features into which the facility will
+discharge;
+      (6)   Hydrologic and hydraulic computations, including runoff
+characteristics;
+      (7)   Documentation and calculations verifying compliance with the water
+quality and quantity requirements of these regulations;
+      (8)   A map of the site that depicts the topography of the site and
+includes:
+         (a)   All contributing drainage areas;
+         (b)   Existing streams, ponds, culverts, ditches, wetlands, other
+water bodies, and floodplains;
+         (c)   Soil types, geologic formations if karst features are present in
+the area, forest cover, and other vegetative areas;
+         (d)   Current land use including existing structures, roads, and
+locations of known utilities and easements;
+         (e)   Sufficient information on adjoining parcels to assess the
+impacts of stormwater from the site on these parcels;
+         (f)   The limits of clearing and grading, and the proposed drainage
+patterns on the site;
+         (g)   Proposed buildings, roads, parking areas, utilities, and
+stormwater management facilities; and
+         (h)   Proposed land use with tabulation of the percentage of surface
+area to be adapted to various uses, including planned locations of utilities,
+roads, and easements;
+      (9)   If an operator intends to meet the requirements established in 9
+VAC §§ 25-875-580 or 25-875-600 through the use of off-site compliance options,
+where applicable, then a letter of availability from the off-site provider must
+be included; and
+      (10)   If the town requires payment of a fee with the stormwater
+management plan submission, the fee and the required fee form in accordance
+with §
+152.20 of this chapter must have been submitted.
+   (C)   All final plan elements, specifications, or calculations of the
+stormwater management plans whose preparation requires a license under VA Code,
+Title 54.1, Chapter 4 or Chapter 22 (VA Code §§ 54.1400 et seq. or VA Code §§
+54.1-2200 et seq.) shall be appropriately signed and sealed by a professional
+who is licensed to engage in practice in the Commonwealth of Virginia. Nothing
+in this division shall authorize any person to engage in practice outside his
+or her area of professional competence.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.11 POLLUTION PREVENTION PLAN; CONTENTS OF PLANS.
+   (A)   A plan for implementing pollution prevention measures during
+construction activities shall be developed, implemented, and updated as
+necessary. The pollution prevention plan shall detail the design, installation,
+implementation, and maintenance of effective pollution prevention measures as
+specified in 40 C.F.R. § 450.21(d) to minimize the discharge of pollutants. At
+a minimum, such measures must be designed, installed, implemented, and
+maintained to:
+      (1)   Minimize the discharge of pollutants from equipment and vehicle
+washing, wheel wash water, and other wash waters. Wash waters must be treated
+in a sediment basin or alternative control that provides equivalent or better
+treatment prior to discharge;
+      (2)   Minimize the exposure of building materials, building products,
+construction wastes, trash, landscape materials, fertilizers, pesticides,
+herbicides, detergents, sanitary waste, and other materials present on the site
+to precipitation and to stormwater; and
+      (3)   Minimize the discharge of pollutants from spills and leaks and
+implement chemical spill and leak prevention and response procedures.
+   (B)   The pollution prevention plan shall include effective best management
+practices to prohibit the following discharges in accordance with 40 C.F.R. §
+450.21(e):
+      (1)   Wastewater from washout of concrete, unless managed by an
+appropriate control;
+      (2)   Wastewater from washout and cleanout of stucco, paint, form release
+oils, curing compounds, and other construction materials;
+      (3)   Fuels, oils, or other pollutants used in vehicle and equipment
+operation and maintenance; and
+      (4)   Soaps or solvents used in vehicle and equipment washing.
+   (C)   Discharges from dewatering activities, including discharges from
+dewatering of trenches and excavations, are prohibited unless managed by
+appropriate controls in accordance with 40 C.F.R. § 450.21(c).
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.12 EROSION AND SEDIMENT CONTROL PLAN; CONTENTS OF PLANS.
+   (A)   An erosion and sediment control plan, which is a component of the ESM
+plan, shall be filed for a development and the buildings constructed within,
+regardless of the phasing of construction. The erosion and sediment control
+plan shall contain all major conservation decisions to ensure that the entire
+unit or units of land will be so treated to achieve the conservation objectives
+in 9 VAC § 25-875-560. The erosion and sediment control plan may include:
+      (1)   Appropriate maps;
+      (2)   An appropriate soil and water plan inventory and management
+information with needed interpretations; and
+      (3)   A record of decisions contributing to conservation treatment.
+   (B)   The person responsible for carrying out the plan shall provide the
+name of an individual holding a certificate who will be in charge of and
+responsible for carrying out the land-disturbing activity to the town. If
+individual lots or sections in a residential development are being developed by
+different property owners, all land-disturbing activities related to the
+building construction shall be covered by an erosion and sediment control plan
+or an "Agreement in Lieu of a Plan" signed by the property owner.
+   (C)   Land-disturbing activity of less than 10,000 square feet on individual
+lots in a residential development shall not be considered exempt from the
+provisions of the VESMA if the total land-disturbing activity in the
+development is equal to or greater than 2,500 square feet.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.13 TECHNICAL CRITERIA FOR REGULATED LAND-DISTURBING ACTIVITIES.
+   (A)   To protect the quality and quantity of state water from the potential
+harm of unmanaged stormwater runoff resulting from land-disturbing activities,
+the town hereby adopts the technical criteria for regulated land-disturbing
+activities set forth in Part V of 9 VAC 25-875 expressly to include 9 VAC § 25-
+875-580 (water quality design criteria requirements); 9 VAC § 25-875-590 (water
+quality compliance); 9 VAC § 25-875-600 (water quantity); 9 VAC § 25-875-610
+(off-site compliance options); 9 VAC § 25-875-620 (design storms and hydrologic
+methods); 9 VAC § 25-875-630 (stormwater harvesting); 9 VAC § 25-875-640
+(linear development project); and 9 VAC § 25-875-650 (stormwater management
+impoundment structures or facilities), which shall apply to all land-disturbing
+activities regulated pursuant to this chapter, except as expressly set forth in
+division (B) of this section.
+   (B)   Any land-disturbing activity shall be considered grandfathered and
+shall be subject to Article 4 (9 VAC §§ 25-875-670 et seq.) of Part V of the
+Regulation provided:
+      (1)   A proffered or conditional zoning plan, zoning with a plan of
+development, preliminary or final subdivision plat, preliminary or final site
+plan, or any document determined by the town to be equivalent thereto was
+approved by the town prior to July 1, 2012; provided a layout as defined in 9
+VAC § 25-875-670; will comply with the technical criteria of Article 4 of Part
+V of 9 VAC 25-875; and has not been subsequently modified or amended in a
+manner resulting in an increase in the amount of phosphorus leaving each point
+of discharge, and such that there is no increase in the volume or rate of
+runoff;
+      (2)   A permit has not been issued prior to July 1, 2014; and
+      (3)   Land disturbance did not commence prior to July 1, 2014.
+   (C)   Locality, state, and federal projects shall be considered
+grandfathered by the town and shall be subject to the technical criteria of
+Article 4 of Part V of 9 VAC 25-875 provided:
+      (1)   There has been an obligation of locality, state, or federal
+funding, in whole or in part, prior to July 1, 2012, or the department has
+approved a stormwater management plan prior to July 1, 2012;
+      (2)   A permit has not been issued prior to July 1, 2014; and
+      (3)   Land disturbance did not commence prior to July 1, 2014.
+   (D)   Land-disturbing activities grandfathered under divisions (A) and (B)
+of this section shall remain subject to the technical criteria of Article 4 of
+Part V of 9 VAC 25-875 for one additional permit cycle. After such time,
+portions of the project not under construction shall become subject to any new
+technical criteria adopted by the Board.
+   (E)   In cases where governmental bonding or public debt financing has been
+issued for a project prior to July 1, 2012, such project shall be subject to
+the technical criteria of Article 4 of Part V of 9 VAC 25-875.
+   (F)   Nothing in this section shall preclude an operator from constructing
+to a more stringent standard at his or her discretion.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.14 LONG-TERM MAINTENANCE OF PERMANENT STORMWATER FACILITIES.
+   (A)   The operator shall submit a construction record drawing for permanent
+stormwater management facilities to the town in accordance with 9 VAC § 25-875-
+535. The record drawing shall contain a statement signed by a professional
+registered in the Commonwealth of Virginia pursuant to VA Code, Title 54.1,
+Chapter 4 stating that to the best of their knowledge, the construction record
+drawing shows all adjustments and revisions to the stormwater management plan
+made during construction and serves as a permanent record of the actual
+location of all constructed elements.
+   (B)   The town shall require the provision of long-term responsibility for
+and maintenance of stormwater management facilities and other techniques
+specified to manage the quality and quantity of runoff. Such requirements shall
+be set forth in an instrument recorded in the local land records prior to
+general permit termination or earlier as required by the town and shall at a
+minimum:
+      (1)   Be submitted to the town for review and approval prior to the
+approval of the stormwater management plan;
+      (2)   Be stated to run with the land;
+      (3)   Provide for all necessary access to the property for purposes of
+maintenance and regulatory inspections;
+      (4)   Provide for inspections and maintenance and the submission of
+inspection and maintenance reports to the town; and
+      (5)   Be enforceable by all appropriate governmental parties.
+   (C)   At the discretion of the town such recorded instruments need not be
+required for stormwater management facilities designed to treat stormwater
+runoff primarily from an individual residential lot on which they are located,
+provided it is demonstrated to the satisfaction of the town that future
+maintenance for those facilities will be addressed through an enforceable
+mechanism at the discretion of the town.
+   (D)   If a recorded instrument is not required pursuant to division (C), the
+town shall develop a strategy for addressing maintenance of stormwater
+management facilities designed to treat stormwater runoff primarily from an
+individual residential lot on which they are located. Such a strategy may
+include periodic inspections, homeowner outreach and education, or other
+methods targeted at promoting the long-term maintenance of such facilities.
+Such facilities shall not be subject to the requirement for an inspection to be
+conducted by the town or its duly authorized designee.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.15 MONITORING AND INSPECTIONS.
+   (A)   The town shall inspect the land-disturbing activity during
+construction for:
+      (1)   Compliance with the approved erosion and sediment control plan;
+      (2)   Compliance with the approved stormwater management plan;
+      (3)   Development, updating, and implementation of a pollution prevention
+plan; and
+      (4)   Development and implementation of any additional control measures
+necessary to address a TMDL.
+   (B)   The town shall conduct periodic inspections on all projects during
+construction. The town shall either:
+      (1)   Provide for an inspection during or immediately following initial
+installation of erosion and sediment controls, at least once in every two-week
+period, within 48 hours following any runoff producing storm event, and at the
+completion of the project prior to the release of any performance bonds; or
+      (2)   Establish an alternative inspection program which ensures
+compliance with the approved erosion and sediment control plan. Any alternative
+inspection program shall be:
+         (a)   Approved by the department prior to implementation;
+         (b)   Established in writing;
+         (c)   Based on a system of priorities that, at a minimum, address the
+amount of disturbed project area, site conditions and stage of construction;
+and
+         (d)   Documented by inspection records.
+   (C)   The town shall establish an inspection program that ensures that
+permanent stormwater management facilities are being adequately maintained as
+designed after completion of land-disturbing activities. Inspection programs
+shall:
+      (1)   Be approved by the department;
+      (2)   Ensure that each stormwater management facility is inspected by the
+town or its designee, not to include the owner, except as provided in divisions
+(D) and (E) of this section, at least once every five years; and
+      (3)   Be documented by records.
+   (D)   The town may utilize the inspection reports of the owner of a
+stormwater management facility as part of an inspection program established in
+division (B) if the inspection is conducted by a person who is licensed as a
+professional engineer, architect, landscape architect, or land surveyor
+pursuant to VA Code §§ 54.1-400 et seq; a person who works under the direction
+and oversight of the licensed professional engineer, architect, landscape
+architect, or land surveyor; or a person who holds an appropriate certificate
+of competence from the department.
+   (E)   If a recorded instrument is not required pursuant to 9 VAC § 25-875-
+130, the town shall develop a strategy for addressing maintenance of stormwater
+management facilities designed to treat stormwater runoff primarily from an
+individual residential lot on which they are located. Such a strategy may
+include periodic inspections, homeowner outreach and education, or other
+methods targeted at promoting the long-term maintenance of such facilities.
+Such facilities shall not be subject to the requirement for an inspection to be
+conducted by the town.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.16 HEARINGS.
+   (A)   Any permit applicant or permittee, or person subject to the
+requirements of this chapter, aggrieved by any action of the town taken without
+a formal hearing, or by inaction of the town may demand in writing a formal
+hearing by the Town Council Town Manager within 30 days after notice of such
+action is given by the town.
+   (B)   The hearings held under this section shall be conducted by the Town
+Council at a regular or special meeting of the Town Council. A verbatim record
+of the proceedings of such hearings shall be taken and filed with the Town
+Council. Depositions may be taken and read as in actions at law.
+   (C)   The Town Council or its designated member, as the case may be, shall
+have power to issue subpoenas and subpoenas duces tecum, and at the request of
+any party shall issue such subpoenas. The failure of a witness without legal
+excuse to appear or to testify or to produce documents shall be acted upon by
+the local governing body, or its designated member, whose action may include
+the procurement of an order of enforcement from the circuit court. Witnesses
+who are subpoenaed shall receive the same fees and reimbursement for mileage as
+in civil actions.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.17 APPEALS.
+   (A)   Pursuant to VA Code § 62.1-44.15:62 and 9 VAC § 25-875-160, final
+decisions of the town under this chapter shall be subject to appeal to the
+County Circuit Court, provided that an appeal is filed within 30 days from the
+date of any written decision adversely affecting the rights, duties, or
+privileges of the person engaging in or proposing to engage in land-disturbing
+activities.
+   (B)   The burden shall be upon the party complaining of town action to
+designate and demonstrate an error subject to review by the court. Allegations
+of error may be based upon: accordance with constitutional right, power,
+privilege, or immunity; compliance with statutory authority, jurisdiction
+limitations, or right as provided in the Act, the stated objectives for which
+regulations may be made, and the factual showing respecting violations or
+entitlement in connection with case decisions; observance of required procedure
+where any failure therein is not mere harmless error; and the substantiality of
+the evidentiary support for findings of fact. The determination of the
+substantiality of the evidence shall be made upon the whole evidentiary record
+provided by the town and the court shall determine whether there was
+substantial evidence in the town's record to support its decision.
+   (C)   The court shall take due account of the presumption of official
+regularity, the experience and specialized competence of the town, and the
+purposes of the Act.
+   (D)   The court may dismiss the appeal, order the town to take any
+nondiscretionary action that the town has withheld, or remand the matter to the
+town for further proceedings as the court may permit or direct in accordance
+with law. The court shall not itself undertake to supply town action committed
+by the Act to the town.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.18 RIGHT OF ENTRY.
+   (A)   The town or any duly authorized designee thereof may, at reasonable
+times and under reasonable circumstances, enter any establishment or upon any
+property, public or private, for the purpose of obtaining information or
+conducting surveys or investigations necessary in the enforcement of the
+provisions of this chapter.
+   (B)   In accordance with a performance bond with surety, cash escrow, letter
+of credit, any combination thereof, or such other legal arrangement, the town
+may also enter any establishment or upon any property, public or private, for
+the purpose of initiating or maintaining appropriate actions that are required
+by conditions imposed by the town on a land-disturbing activity when an owner,
+after proper notice, has failed to take acceptable action within the time
+specified.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.19 ENFORCEMENT.
+   (A)   If the town determines that there is a failure to comply with the
+permit conditions or determines there is an unauthorized discharge, notice
+shall be served upon the permittee or person responsible for carrying out the
+permit conditions by any of the following: verbal warnings and inspection
+reports, notices of corrective action, consent special orders, and notices to
+comply. Written notices shall be served by registered or certified mail to the
+address specified in the permit application or by delivery at the site of the
+development activities to the designee or employee supervising such activities.
+      (1)   The notice shall specify the measures needed to comply with the
+permit conditions and shall specify the time within which such measures shall
+be completed. Upon failure to comply within the time specified, a stop work
+order may be issued in accordance with division (A)(2) or the permit may be
+revoked by the administrator.
+      (2)   If a permittee fails to comply with a notice issued in accordance
+with this section within the time specified, the town may issue an order
+requiring the owner, permittee, person responsible for carrying out an approved
+plan, or the person conducting the land-disturbing activities without an
+approved plan or required permit to cease all land-disturbing activities until
+the violation of the permit has ceased, or an approved plan and required
+permits are obtained, and specified corrective measures have been completed.
+      (3)   Such orders shall be issued in accordance with applicable state and
+local law on the person by certified mail, return receipt requested. However,
+if the town finds that any such violation is grossly affecting or presents an
+imminent and substantial danger of causing harmful erosion of lands or sediment
+deposition in waters within the watersheds of the Commonwealth or otherwise
+substantially impacting water quality, it may issue, without advance notice or
+hearing, an emergency order directing such person to cease immediately all
+land-disturbing activities on the site and shall provide an opportunity for a
+hearing, after reasonable notice as to the time and place thereof, to such
+person, to affirm, modify, amend, or cancel such emergency order. If a person
+who has been issued an order is not complying with the terms thereof, the town
+may institute a proceeding for an injunction, mandamus, or other appropriate
+remedy in accordance with division (C).
+   (B)   In addition to any other remedy provided by this chapter, if the town
+or its designee determines that there is a failure to comply with the
+provisions of this chapter, they may initiate such informal and/or formal
+administrative enforcement procedures in a manner that is consistent with the
+Prince William County Design and Construction Standards Manual. Any person
+violating or failing, neglecting, or refusing to obey any rule, regulation,
+ordinance, order, approved standard or specification, or any permit condition
+issued by the town may be compelled in a proceeding instituted in the Circuit
+Court of Prince William County by the town to obey same and to comply therewith
+by injunction, mandamus or other appropriate remedy.
+   (C)   Any person violating or failing, neglecting, or refusing to obey any
+rule, regulation, ordinance, order, approved standard or specification, or any
+permit condition issued by the town or its designee may be compelled in a
+proceeding instituted in the Circuit Court of Prince William County to obey
+same and to comply therewith by injunction, mandamus or other appropriate
+remedy.
+      (1)   Violations for which a penalty may be imposed under this section
+shall include but not be limited to the following:
+         (a)   No state permit registration;
+         (b)   No SWPPP;
+         (c)   Incomplete SWPPP;
+         (d)   SWPPP not available for review;
+         (e)   No approved erosion and sediment control plan;
+         (f)   Failure to install stormwater BMPs or erosion and sediment
+controls;
+         (g)   Stormwater BMPs or erosion and sediment controls improperly
+installed or maintained;
+         (h)   Operational deficiencies;
+         (i)   Failure to conduct required inspections;
+         (j)   Incomplete, improper, or missed inspections; and
+         (k)   Discharges not in compliance with the requirements of 9 VAC §
+25-880-70.
+      (2)   The town may issue a summons for collection of the civil penalty
+and the action may be prosecuted in the appropriate court.
+      (3)   In imposing a civil penalty pursuant to this division, the court
+may consider the degree of harm caused by the violation and also the economic
+benefit to the violator from noncompliance.
+      (4)   Any civil penalties assessed by a court as a result of a summons
+issued by the town shall be paid into the treasury of the town to be used for
+the purpose of minimizing, preventing, managing, or mitigating pollution of the
+waters of the town and abating environmental pollution therein in such manner
+as the court may, by order, direct.
+   (D)   Notwithstanding any other civil or equitable remedy provided by this
+chapter or by law, any person who willfully or negligently violates any
+provision of this chapter, any order of the administrator, any condition of a
+permit, or any order of a court shall, be guilty of a misdemeanor punishable by
+confinement in jail for not more than 12 months or a fine of not less than
+$2,500 nor more than $32,500, or both.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.20 FEES.
+   (A)   Fees to cover costs associated with implementation of a VESMP related
+to land-disturbing activities and issuance of general permit coverage and VESMP
+authority permits shall be imposed in accordance with
+Table 1. When a site or sites has been purchased for development within a
+previously permitted common plan of development or sale, the applicant shall be
+subject to fees ("total fee to be paid by applicant" column) in accordance with
+the disturbed acreage of their site or sites according to
+Table 1.
+Table 1: Fees for Permit Issuance
+     Total fee
+     to be paid
+     by
+     applicant
+Fee  (includes  Department portion of “total fee to be paid by applicant” (based on 28% of
+type both VESMP total fee paid1)
+     authority
+     and
+     department
+     portions)
+Table 1: Fees for Permit Issuance
+             Total fee
+             to be paid
+             by
+             applicant
+Fee type     (includes  Department portion of “total fee to be paid by applicant” (based on 28% of
+             both VESMP total fee paid1)
+             authority
+             and
+             department
+             portions)
+Chesapeake
+Bay
+Preservation
+Act Land-
+Disturbing
+Activity
+(not subject
+to general
+permit
+coverage;
+sites within
+designated   $290 +
+areas of     CRC1,2     $0
+Chesapeake
+Bay Act
+localities
+with land-
+disturbance
+acreage
+equal to or
+greater than
+2,500 square
+feet and
+less than 1
+acre)
+General/
+stormwater
+management -
+small
+construction
+activity/
+land
+clearing
+(areas       $290 + CRC $81
+within
+common plans
+of
+development
+or sale with
+land
+disturbance
+acreage less
+than 1 acre)
+General/
+stormwater
+management -
+small
+construction
+activity/
+land
+clearing
+(sites or
+areas within
+common plans $2,700 +   $756
+of           CRC
+development
+or sale with
+land
+disturbance
+acreage
+equal to or
+greater than
+1 acre and
+less than 5
+acres)
+General/
+stormwater
+management -
+large
+construction
+activity/
+land
+clearing
+(sites or
+areas within
+common plans $3,400 +   $952
+of           CRC
+development
+or sale with
+land
+disturbance
+acreage
+equal to or
+greater than
+5 acres and
+less than 10
+acres)
+General/
+stormwater
+management -
+large
+construction
+activity/
+land
+clearing
+(sites or
+areas within
+common plans $4,500 +   $1,260
+of           CRC
+development
+or sale with
+land
+disturbance
+acreage
+equal to or
+greater than
+10 acres and
+less than 50
+acres)
+General/
+stormwater
+management -
+large
+construction
+activity/
+land
+clearing
+(sites or
+areas within
+common plans $6,100 +   $1,708
+of           CRC
+development
+or sale with
+land
+disturbance
+acreage
+equal to or
+greater than
+50 acres and
+less than
+100 acres)
+General/
+stormwater
+management -
+large
+construction
+activity/
+land
+clearing
+(sites or
+areas within $9,600 +   $2,688
+common plans CRC
+of
+development
+or sale with
+land
+disturbance
+acreage
+equal to or
+greater than
+100 acres)
+1 If the project is completely administered by the department such as may be the case for a state or
+federal project or projects covered by individual permits, the entire applicant fee shall be paid to
+the department.
+2 Contractor review charges.
+ 
+   (B)   Fees for the modification or transfer of registration statements from
+the general permit issued by the department shall be imposed in accordance with
+Table 2. If the general permit modifications result in changes to stormwater
+management plans that require additional review by the town, such reviews shall
+be subject to the fees set out in
+Table 2. The fee assessed shall be based on the total disturbed acreage of the
+site. In addition to the general permit modification fee, modifications
+resulting in an increase in total disturbed acreage shall pay the difference in
+the initial permit fee paid and the permit fee that would have applied for the
+total disturbed acreage in
+Table 1.
+Table 2: Fees for the Modification or Transfer of Registration Statements for
+the General Permit for Discharges of Stormwater from Construction Activities
+Type of Permit                                                       Fee Amount
+General/stormwater management - small construction activity/land
+clearing (areas within common plans of development or sale with land $20 + CRC1
+disturbance acreage less than 1 acre)
+General/stormwater management - small construction activity/land
+clearing (sites or areas within common plans of development or sale  $200 + CRC
+with land disturbance acreage equal to or greater than 1 acre and
+less than 5 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or sale  $250 + CRC
+with land disturbance acreage equal to or greater than 5 acres and
+less than 10 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or sale  $300 + CRC
+with land disturbance acreage equal to or greater than 10 acres and
+less than 50 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or sale  $450 + CRC
+with land disturbance acreage equal to or greater than 50 acres and
+less than 100 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or sale  $700 + CRC
+with land disturbance acreage equal to or greater than 100 acres)
+1 Contractor review charges.
+ 
+   (C)   (1)   The following annual permit maintenance shall be imposed in
+accordance with
+Table 3, including fees imposed on expired permits that have been
+administratively continued. With respect to the general permit, these fees
+shall apply until the permit coverage is terminated.
+Table 3: Permit Maintenance Fees
+Type of Permit Fee Amount
+Table 3: Permit Maintenance Fees
+Type of Permit                                                     Fee Amount
+Chesapeake Bay Preservation Act Land-Disturbing Activity (not
+subject to general permit coverage; sites within designated areas  $50 + CRC*
+of Chesapeake Bay Act localities with land-disturbance acreage
+equal to or greater than 2,500 square feet and less than 1 acre)
+General/stormwater management - small construction activity/land
+clearing (areas within common plans of development or sale with    $50 + CRC
+land disturbance acreage less than 1 acre)
+General/stormwater management - small construction activity/land
+clearing (sites or areas within common plans of development or     $400 + CRC
+sale with land disturbance acreage equal to or greater than 1 acre
+and less than 5 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or     $500 + CRC
+sale with land disturbance acreage equal to or greater than 5
+acres and less than 10 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or     $650 + CRC
+sale with land disturbance acreage equal to or greater than 10
+acres and less than 50 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or     $900 + CRC
+sale with land disturbance acreage equal to or greater than 50
+acres and less than 100 acres)
+General/stormwater management - large construction activity/land
+clearing (sites or areas within common plans of development or     $1,400 + CRC
+sale with land disturbance acreage equal to or greater than 100
+acres)
+1 Contractor review charges.
+ 
+      (2)   General permit coverage maintenance fees shall be paid annually to
+the town by the anniversary date of general permit coverage. No permit will be
+reissued or automatically continued without payment of the required fee.
+General permit coverage maintenance fees shall be applied until a notice of
+termination is effective.
+   (D)   The fees set forth in divisions (A) through (C), shall apply to:
+      (1)   All persons seeking coverage under the general permit.
+      (2)   All permittees who request modifications to or transfers of their
+existing registration statement for coverage under a general permit.
+      (3)   Persons whose coverage under the general permit has been revoked
+shall apply to the department for an individual permit for discharges of
+stormwater from construction activities.
+   (E)   Permit and permit coverage maintenance fees outlined under this
+section may apply to each general permit holder.
+   (F)   No general permit application fees will be assessed to:
+      (1)   Permittees who request minor modifications to general permits as
+defined in §
+152.03. Permit modifications at the request of the permittee resulting in
+changes to stormwater management plans that require additional review by the
+town shall not be exempt pursuant to this section.
+      (2)   Permittees whose general permits are modified or amended at the
+initiative of the department, excluding errors in the registration statement
+identified by the town or errors related to the acreage of the site.
+   (G)   All incomplete payments will be deemed as nonpayments, and the
+applicant shall be notified of any incomplete payments. Interest may be charged
+for late payments at the underpayment rate set forth in VA Code 58.1-15 and is
+calculated on a monthly basis at the applicable periodic rate. A 10% late
+payment fee shall be charged to any delinquent (over 90 days past due) account.
+The town shall be entitled to all remedies available under VA Code in
+collecting any past due amount.
+(Ord. O-2025-11, passed 9-16-2025)
+§ 152.21 PERFORMANCE BOND.
+   Prior to issuance of any permit, the applicant shall be required to submit a
+reasonable performance bond with surety, cash escrow, letter of credit, any
+combination thereof, or such other legal arrangement acceptable to the Town
+Attorney, to ensure that measures could be taken by the town at the applicant's
+expense should he or she fail, after proper notice, within the time specified
+to initiate or maintain appropriate actions which may be required of him or her
+by the permit conditions as a result of his or her land-disturbing activity. If
+the town takes such action upon such failure by the applicant, the town may
+collect from the applicant for the difference should the amount of the
+reasonable cost of such action exceed the amount of the security held, if any.
+Within 60 days of the completion of the requirements of the permit conditions,
+such bond, cash escrow, letter of credit or other legal arrangement, or the
+unexpended or unobligated portion thereof, shall be refunded to the applicant
+or terminated.
+(Ord. O-2025-11, passed 9-16-2025)
 CHAPTER 153: STATE STORMWATER MANAGEMENT PROGRAM
 Section
    
@@ -11299,11 +12378,11 @@ Council may exercise any of the powers and duties as to arts and cultural
 districts permitted under VA Code § 15.2-1129.1, as amended.
 (1998 Code, § 8-4) (Ord. O-2017-02, passed 7-18-2017)
 § 154.05 MAP OF THE NOVA ARTS AND CULTURAL DISTRICT.
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1523.jpg]
 (1998 Code, § 8-5)
 § 154.06 MAP OF THE TOWN SEGMENT OF THE NOVA ARTS AND CULTURAL DISTRICT.
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1525.jpg]
 (1998 Code, § 8-6)
 CHAPTER 155: SITE PLAN
@@ -16484,18 +17563,18 @@ protection of adjacent properties and roadways may be required.
       (2)   All applications for lighted outdoor recreational facilities shall
 include an accurate photometric plan in conjunction with a site plan for the
 proposed field and associated facilities.
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1515.jpg]
 Figure 1: Full Cut-off Lighting Fixture
 Source: Fairfax County, Virginia Zoning Ordiance - Appendix 2 (Illustrations)
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1517.jpg]
 Figure 2: Full Cut-Off Light Fixtures
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1519.jpg]
 Figure 3: Mounting Height
 Source: Fairfax County, Virginia Zoning Ordinance - Appendix 2 (Illustrations)
-[https://export.amlegal.com/media/633a90494f39bc3135ec750a18fb4292a6fb87f2/
+[https://export.amlegal.com/media/309d312d21ab993e994701764a2e9e5d09d98831/
 IMAGES/0-0-0-1521.jpg]
 Figure 4: Photometric Plan
 Source: Hubbell Outdoor Lighting
@@ -17147,327 +18226,350 @@ References to 1998 Code
 References to Ordinances
 REFERENCES TO VIRGINIA CODE
 VA Code Code Section
-VA Code               Code Section
-1-220                 70.03,
-                      153.01
-2.1-517               Ch. 150
-                      Title III,
-2.1-639.1 et seq.     33.25,
-                      33.26
-2.2-3100—2.2-3131   Title III
-2.2-3700—2.2-3714   31.027,
-                      33.26
-2.2-3708.3            31.028
-3.2-5202              Title XI
-3.2-6000 et seq.      Ch. 90
-3.2-6500 et seq.      Ch. 90
-3.2-6570 et seq.      Ch. 90
-3.2-6585              Ch. 90
-3.2-6587              Ch. 90
-10.1-502              152.03
-10.1-561              152.06
-10.1-600 et seq.      Ch. 151,
-                      151.01
-10.1-604 et seq.      152.03
-10.1-1100 et seq.     152.03
-10.1-1163(B)          152.03
-10.1-1170 et seq.     153.03
-10.1-1321             Title XV
-10.1-1400             34.14
-10.1-1425             Ch. 92
-10.1-2100 et seq.     32.07,
-                      32.08
-11-35 et seq.         Title III
-13.1-501 et seq.      111.01
-                      Title III,
-15.2                  33.07,
-                      157.266
-15.2, Ch. 11          Charter § 2.2
-15.2-106              10.14
-15.2-900              92.01,
-                      157.306
-15.2-901              92.18
-15.2-904              Ch. 75
-15.2-905              Ch. 75
-15.2-906              157.306
-15.2-1115             157.306
-15.2-1118             133.04
-15.2-1129.1           154.02,
-                      154.04
-15.2-1300             35.101
-15.2-1429             35.999
-15.2-1433             10.12
-15.2-1714             93.03
-15.2-1731             34.04
-15.2-2000             93.23,
-                      93.27
-15.2-2200 et seq.     Ch. 155
-15.2-2201             33.29
-                      33.29,
-15.2-2204             156.004,
-                      157.181,
-                      157.241
-15.2-2209.1           156.085,
-                      157.011
-15.2-2214             33.04,
-                      157.266
-15.2-2240—15.2-2279 156.002
-15.2-2240 et seq.     Ch. 156,
-                      156.016
-                      33.30,
-15.2-2280 et seq.     Ch. 157,
-                      157.001
-15.2-2283             157.151
-15.2-2286A(4)         157.228
-15.2-2306.A.3         157.182
-15.2-2311             157.008,
-                      157.228
-15.2-2314             157.228
-16.1-253              131.12
-16.1-253.1            131.12
-16.1-278 et seq.      70.03
-16.1-278.2—16.1-278.131.12
-16.1-278.8            131.12
-16.1-278.14           131.12
-16.1-278.15           131.12
-16.1-279.1            131.12
-18.2                  70.03, Title XIII
-18.2-57               130.01
-18.2-95               131.02
-18.2-95(iii)          131.01
-18.2-96               131.01,
-                      131.02
-18.2-102              131.10
-18.2-103—18.2-106   131.02
-18.2-104              131.03
-                      93.03,
-18.2-119              131.11,
-                      131.12
-18.2-120              131.13
-18.2-121              131.15
-18.2-125              131.16
-18.2-128              93.03
-18.2-130              131.14
-18.2-132—18.2-136   131.12
-18.2-137              131.06
-18.2-138              131.07
-18.2-143              131.17
-18.2-146              131.08
-18.2-147              131.09
-18.2-148              131.10
-18.2-152              131.04
-18.2-163              131.05
-18.2-179              132.02
-18.2-188              132.04
-18.2-212              132.01
-18.2-216              132.03
-18.2-223              Title XI
-18.2-224              Title XI
-18.2-264              133.03
-18.2-266 et seq.      70.03
-18.2-268.12           70.03
-18.2-280              133.09
-18.2-314              133.01
-18.2-316              133.06
-18.2-318              Ch. 92
-18.2-319              133.05
-18.2-322              133.02
-18.2-323              Ch. 90
-18.2-324              133.08
-18.2-346—18.2-349   112.04
-18.2-347              134.04
-18.2-355—18.2-361   112.04
-18.2-368              112.04
-18.2-370              112.04
-18.2-371              134.01
-18.2-372              134.05
-18.2-373              134.05
-18.2-374              134.05
-18.2-377              134.05
-18.2-379              134.05
-18.2-380              134.05
-18.2-387              134.06
-18.2-388              134.02
-18.2-403.1 et seq.    Ch. 90
-18.2-404              93.03,
-                      135.03
-                      93.03,
-18.2-405              135.20,
-                      135.21
-                      93.03,
-18.2-406              135.20,
-                      135.21
-18.2-407              135.22
-18.2-409              135.04
-18.2-411              135.23
-18.2-412              135.23
-18.2-415              93.03,
-                      135.01
-18.2-416              135.02
-18.2-418              93.03
-18.2-419              93.03
-18.2-460              136.01
-18.2-510              Ch. 90
-19.2-8                Ch. 150
-19.2-393 et seq.      Ch. 92
-20-103                131.12
-24.2-310 E            157.304
-itle 27, Chapter 9    91.02
-27-36                 34.15,
-                      34.16
-28.2-1300             157.152
-Title 29.1, Chapter 7 93.08
-29.1                  Ch. 90
-29.1-527              Ch. 90
-29.1-744(c)           93.08
-32.1                  Ch. 92
-32.1-202              Ch. 92
-33.2-1200 et seq.     157.300
-35.1-9                110.02
-36-70 et seq.         Ch. 150
-36-97 et seq.         Ch. 150
-36-98                 Ch. 150
-36-99.11              Title VII
-36-105                Ch. 150,
-                      150.04
-36-106                150.99
-40.1-53               93.03
-40.1-66               93.03
-40.1-117 et seq.      Ch. 150
-42.1-76 et seq.       Title III, Ch. 156
-44-146.13 et seq.     34.25,
-                      34.26
-45.1                  153.03
-46.2                  70.03
-46.2-100              75.03
-46.2-100 et seq.      Title VII
-46.2-730              72.04
-46.2-731              73.06
-46.2-739              73.06
-46.2-752 et seq.      Title VII,
-                      Ch. 71
-46.2-938              73.99
-46.2-1047             72.04
-46.2-1049             72.04
-46.2-1200 et seq.     Title VII
-46.2-1209             76.03
-46.2-1212             Title VII
-46.2-1213             73.12
-46.2-1216             Title VII
-46.2-1220             Title VII
-46.2-1239             73.03
-46.2-1247             70.03
-46.2-1253             70.03
-46.2-1300             70.03
-46.2-1300 et seq.     Title VII
-46.2-1313             70.03
-46.2-1315             78.02
-54.1                  Title XI
-54.1-400 et seq.      153.06
-54.1-1100 et seq.     Ch. 150
-54.1-1117             Ch. 150
-54.1-3401             133.03,
-                      157.008
-54.1-4111             Title XI
-54.1-4200 et seq.     Title XI
-55-79.1 et seq.       73.12
-55-79.39 et seq.      73.12,
-                      157.008
-55-202 et seq.        Ch. 90
-55-336 et seq.        Ch. 156
-56-594                35.065
-                      35.066,
-58.1                  35.067,
-                      111.01
-58.1-1 et seq.        Ch. 35
-58.1-6 et seq.        Ch. 35
-58.1-400.2            111.43
-58.1-520 et seq.      Ch. 35
-58.1-605 et seq.      Ch. 35
-58.1-631              35.108
-58.1-1000             35.100
-58.1-1013             35.999
-58.1-1200 et seq.     35.005
-58.1-1208 et seq.     Ch. 35
-58.1-1821             111.07
-58.1-1822             111.07
-58.1-2600             111.43
-58.1-3000 et seq.     Ch. 35
-58.1-3210 et seq.     35.002
-58.1-3340             35.003
-58.1-3700 et seq.     Title XI,
-                      111.01
-58.1-3701             111.01,
-                      111.05
-58.1-3703(C)(7)       111.10
-58.1-3703.1           111.04
-58.1-3706             111.10
-58.1-3709             111.05
-58.1-3714             111.10
-58.1-3714(B)          111.01
-                      111.01,
-58.1-3715             111.04,
-                      111.05,
-                      111.10
-58.1-3716             111.10
-58.1-3717             111.04
-58.1-3718             111.04
-58.1-3727             111.10
-58.1-3728             111.04
-58.1-3730             111.10
-58.1-3731             111.04,
-                      111.43
-58.1-3813             35.066,
-                      35.067
-58.1-3814             35.066,
-                      35.067
-58.1-3830             35.101,
-                      35.107
-                      35.101—
-                      35.103,
-                      35.105—
-58.1-3832             35.107,
-                      35.109—
-                      35.111,
-                      35.999
-58.1-3840             35.049,
-                      35.101
-58.1-3900 et seq.     Ch. 35, Title XI
-58.1-3903             111.06
-58.1-3906             35.999
-58.1-3916             111.04
-58.1-3919             35.006
-58.1-3921 et seq.     35.003
-58.1-3940             111.06
-58.1-3940 et seq.     92.01,
-                      92.19
-58.1-3958             35.006
-58.1-3965 et seq.     92.01
-58.1-3980             35.006
-58.1-3984             111.06,
-                      111.07
-58.1-3986             111.05
-58.1-3993             111.05
-62.1-44.2 et seq.     153.02
-                      Title XV,
-62.1-44.15:24 et seq. 153.01,
-                      153.02,
-                      153.04
-62.1-44.15:40         153.11
-                      Title XV,
-                      152.02,
-62.1-44.15:54 et seq. 152.03,
-                      152.04,
-                      152.99
-62.1-44.15:55         152.07,
-                      152.99
-62.1-44.15:56         152.05
-62.1-44.15:63         152.99
-62.1-44.15:67 et seq. 153.02
-62.1-44.15:72 et seq. 157.151
-62.1-44.34:8          34.14
-62.1-255              157.151
-                      
+VA Code                 Code Section
+1-220                   70.03,
+                        153.01
+2.1-517                 Ch. 150
+                        Title III,
+2.1-639.1 et seq.       33.25,
+                        33.26
+2.2-3100—2.2-3131     Title III
+2.2-3700—2.2-3714     31.027,
+                        33.26
+2.2-3708.3              31.028
+3.2-5202                Title XI
+3.2-6000 et seq.        Ch. 90
+3.2-6400                152.03
+3.2-6500 et seq.        Ch. 90
+3.2-6570 et seq.        Ch. 90
+3.2-6585                Ch. 90
+3.2-6587                Ch. 90
+10.1-506 et seq.        152.03
+10.1-600 et seq.        Ch. 151,
+                        151.01
+10.1-1100 et seq.       152.08
+10.1-1163(B)            152.08
+10.1-1321               Title XV
+10.1-1400               34.14
+10.1-1425               Ch. 92
+10.1-2100 et seq.       32.07,
+                        32.08
+11-35 et seq.           Title III
+13.1-501 et seq.        111.01
+                        Title III,
+15.2                    33.07,
+                        157.266
+15.2, Ch. 11            Charter § 2.2
+15.2-106                10.14
+15.2-900                92.01,
+                        157.306
+15.2-901                92.18
+15.2-904                Ch. 75
+15.2-905                Ch. 75
+15.2-906                157.306
+15.2-1115               157.306
+15.2-1118               133.04
+15.2-1129.1             154.02,
+                        154.04
+15.2-1300               35.101
+15.2-1429               35.999
+15.2-1433               10.12
+15.2-1714               93.03
+15.2-1731               34.04
+15.2-2000               93.23,
+                        93.27
+15.2-2200 et seq.       Ch. 155
+15.2-2201               33.29,
+                        152.03
+                        33.29,
+15.2-2204               156.004,
+                        157.181,
+                        157.241
+15.2-2209.1             156.085,
+                        157.011
+15.2-2214               33.04,
+                        157.266
+15.2-2240—15.2-2279   156.002
+15.2-2240 et seq.       Ch. 156,
+                        156.016
+                        33.30,
+15.2-2280 et seq.       Ch. 157,
+                        157.001
+15.2-2283               157.151
+15.2-2286A(4)           157.228
+15.2-2306.A.3           157.182
+15.2-2311               157.008,
+                        157.228
+15.2-2314               157.228
+16.1-253                131.12
+16.1-253.1              131.12
+16.1-278 et seq.        70.03
+16.1-278.2—16.1-278.6 131.12
+16.1-278.8              131.12
+16.1-278.14             131.12
+16.1-278.15             131.12
+16.1-279.1              131.12
+18.2                    70.03, Title XIII
+18.2-57                 130.01
+18.2-95                 131.02
+18.2-95(iii)            131.01
+18.2-96                 131.01,
+                        131.02
+18.2-102                131.10
+18.2-103—18.2-106     131.02
+18.2-104                131.03
+                        93.03,
+18.2-119                131.11,
+                        131.12
+18.2-120                131.13
+18.2-121                131.15
+18.2-125                131.16
+18.2-128                93.03
+18.2-130                131.14
+18.2-132—18.2-136     131.12
+18.2-137                131.06
+18.2-138                131.07
+18.2-143                131.17
+18.2-146                131.08
+18.2-147                131.09
+18.2-148                131.10
+18.2-152                131.04
+18.2-163                131.05
+18.2-179                132.02
+18.2-188                132.04
+18.2-212                132.01
+18.2-216                132.03
+18.2-223                Title XI
+18.2-224                Title XI
+18.2-264                133.03
+18.2-266 et seq.        70.03
+18.2-268.12             70.03
+18.2-280                133.09
+18.2-314                133.01
+18.2-316                133.06
+18.2-318                Ch. 92
+18.2-319                133.05
+18.2-322                133.02
+18.2-323                Ch. 90
+18.2-324                133.08
+18.2-346—18.2-349     112.04
+18.2-347                134.04
+18.2-355—18.2-361     112.04
+18.2-368                112.04
+18.2-370                112.04
+18.2-371                134.01
+18.2-372                134.05
+18.2-373                134.05
+18.2-374                134.05
+18.2-377                134.05
+18.2-379                134.05
+18.2-380                134.05
+18.2-387                134.06
+18.2-388                134.02
+18.2-403.1 et seq.      Ch. 90
+18.2-404                93.03,
+                        135.03
+                        93.03,
+18.2-405                135.20,
+                        135.21
+                        93.03,
+18.2-406                135.20,
+                        135.21
+18.2-407                135.22
+18.2-409                135.04
+18.2-411                135.23
+18.2-412                135.23
+18.2-415                93.03,
+                        135.01
+18.2-416                135.02
+18.2-418                93.03
+18.2-419                93.03
+18.2-460                136.01
+18.2-510                Ch. 90
+19.2-8                  Ch. 150
+19.2-393 et seq.        Ch. 92
+20-103                  131.12
+24.2-310 E              157.304
+itle 27, Chapter 9      91.02
+27-36                   34.15,
+                        34.16
+Title 28.2              152.03
+28.2-1300               157.152
+Title 29.1, Chapter 7   93.08
+29.1                    Ch. 90
+29.1-527                Ch. 90
+29.1-744(c)             93.08
+32.1                    Ch. 92
+32.1-202                Ch. 92
+33.2-1200 et seq.       157.300
+35.1-9                  110.02
+36-70 et seq.           Ch. 150
+36-97 et seq.           Ch. 150
+36-97                   152.03
+36-98                   Ch. 150
+36-99.11                Title VII
+36-105                  Ch. 150,
+                        150.04
+36-106                  150.99
+40.1-53                 93.03
+40.1-66                 93.03
+40.1-117 et seq.        Ch. 150
+42.1-76 et seq.         Title III, Ch. 156
+44-146.13 et seq.       34.25,
+                        34.26
+45.1                    153.03
+Title 45.2              152.08
+46.2                    70.03
+46.2-100                75.03
+46.2-100 et seq.        Title VII
+46.2-730                72.04
+46.2-731                73.06
+46.2-739                73.06
+46.2-752 et seq.        Title VII,
+                        Ch. 71
+46.2-938                73.99
+46.2-1047               72.04
+46.2-1049               72.04
+46.2-1200 et seq.       Title VII
+46.2-1209               76.03
+46.2-1212               Title VII
+46.2-1213               73.12
+46.2-1216               Title VII
+46.2-1220               Title VII
+46.2-1239               73.03
+46.2-1247               70.03
+46.2-1253               70.03
+46.2-1300               70.03
+46.2-1300 et seq.       Title VII
+46.2-1313               70.03
+46.2-1315               78.02
+54.1                    Title XI
+Title 54.1, Chapter 4   152.10,
+                        152.14
+Title 54.1, Chapter 22  152.10
+54.1-400 et seq.        152.15,
+                        153.06
+54.1-1100 et seq.       Ch. 150
+54.1-1400 et seq.       152.10
+54.1-1117               Ch. 150
+54.1-2200 et seq.       152.10
+54.1-3401               133.03,
+                        157.008
+54.1-4111               Title XI
+54.1-4200 et seq.       Title XI
+55-79.1 et seq.         73.12
+55-79.39 et seq.        73.12,
+                        157.008
+55-202 et seq.          Ch. 90
+55-336 et seq.          Ch. 156
+56-594                  35.065
+                        35.066,
+58.1                    35.067,
+                        111.01
+58.1-1 et seq.          Ch. 35
+58.1-6 et seq.          Ch. 35
+58.1-15                 152.20
+58.1-400.2              111.43
+58.1-520 et seq.        Ch. 35
+58.1-605 et seq.        Ch. 35
+58.1-631                35.108
+58.1-1000               35.100
+58.1-1013               35.999
+58.1-1200 et seq.       35.005
+58.1-1208 et seq.       Ch. 35
+58.1-1821               111.07
+58.1-1822               111.07
+58.1-2600               111.43
+58.1-3000 et seq.       Ch. 35
+58.1-3210 et seq.       35.002
+58.1-3340               35.003
+58.1-3700 et seq.       Title XI,
+                        111.01
+58.1-3701               111.01,
+                        111.05
+58.1-3703(C)(7)         111.10
+58.1-3703.1             111.04
+58.1-3706               111.10
+58.1-3709               111.05
+58.1-3714               111.10
+58.1-3714(B)            111.01
+                        111.01,
+58.1-3715               111.04,
+                        111.05,
+                        111.10
+58.1-3716               111.10
+58.1-3717               111.04
+58.1-3718               111.04
+58.1-3727               111.10
+58.1-3728               111.04
+58.1-3730               111.10
+58.1-3731               111.04,
+                        111.43
+58.1-3813               35.066,
+                        35.067
+58.1-3814               35.066,
+                        35.067
+58.1-3830               35.101,
+                        35.107
+                        35.101—
+                        35.103,
+                        35.105—
+58.1-3832               35.107,
+                        35.109—
+                        35.111,
+                        35.999
+58.1-3840               35.049,
+                        35.101
+58.1-3900 et seq.       Ch. 35, Title XI
+58.1-3903               111.06
+58.1-3906               35.999
+58.1-3916               111.04
+58.1-3919               35.006
+58.1-3921 et seq.       35.003
+58.1-3940               111.06
+58.1-3940 et seq.       92.01,
+                        92.19
+58.1-3958               35.006
+58.1-3965 et seq.       92.01
+58.1-3980               35.006
+58.1-3984               111.06,
+                        111.07
+58.1-3986               111.05
+58.1-3993               111.05
+Title 62.1, Chapter 3.1 152.08
+62.1-14:30              152.06
+62.1-44.2 et seq.       152.03,
+                        153.02
+62.1-44.3               152.03
+62.1-44.15              152.03
+                        Title XV,
+                        152.03,
+62.1-44.15:24 et seq.   152.08,
+                        153.01,
+                        153.02,
+                        153.04
+                        152.01,
+62.1-44.15:27           152.02,
+                        152.04
+62.1-44.15:30           152.06
+62.1-44.15:34           152.03,
+                        152.06
+62.1-44.15:35(D)        152.06
+62.1-44.15:40           153.11
+62.1-44.15:50           152.06
+                        Title XV,
+                        152.02,
+62.1-44.15:54 et seq.   152.03,
+                        152.04,
+                        152.99
+62.1-44.15:62           152.17
+62.1-44.15:67 et seq.   152.03,
+                        153.02
+62.1-44.15:72 et seq.   157.151
+62.1-44.15:74           152.03
+62.1-44.34:8            34.14
+62.1-255                157.151
+                        
  
 REFERENCES TO 1998 CODE
 1998 Code 2018 Code
@@ -17647,18 +18749,6 @@ REFERENCES TO 1998 CODE
 14-228    112.52
 14-229    112.53
 14-230    112.54
-18-31     152.01
-18-32     152.02
-18-33     152.03
-18-34     152.04
-18-35     152.05
-18-36     152.06
-18-37     152.07
-18-38     152.08
-18-39     152.09
-18-40     152.10
-18-41     152.11
-18-42     152.99
 18-51     153.01
 18-52     153.02
 18-53     153.03
@@ -18186,15 +19276,9 @@ O-2005-05 6-14-2005   71.04,
                       71.05
 O-2006-02 11-8-2005   10.14
 O-2006-08 9-26-2006   35.041
-                      152.03,
-O-2006-10 11-14-2006  152.05,
-                      152.06,
-                      152.10
 O-2007-02 6-12-2007   111.38
 O-2007-3  9-11-2007   111.04
 O-2008-04 11-12-2008  150.04
-O-2009-02 7-14-2009   152.04,
-                      152.06
 O-2009-04 8-11-2009   155.075—
                       155.079
 O-2011-03 6-14-2011   155.077,
@@ -18203,9 +19287,8 @@ O-2011-04 6-14-2011   31.015,
                       31.070
 O-2011-06 10-4-2011   33.49
 O-2012-01 2-7-2012    33.50
-                      152.03,
-O-2012-03 10-2-2012   155.001,
-                      155.021,
+                      155.001,
+O-2012-03 10-2-2012   155.021,
                       155.022
                       34.10—
                       34.16,
@@ -18466,5 +19549,11 @@ O-2025-09 8-6-2025    92.32,
                       92.35,
                       92.99,
                       93.99
+O-2025-11 9-16-2025   152.01—
+                      152.21
+                      157.300—
+O-2025-12 10-21-2025  157.309,
+                      157.320,
+                      157.321
                      
  
