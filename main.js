@@ -31,7 +31,7 @@ const MAX_EXPORT_WAIT_MINUTES = 30; // Maximum time (minutes) to wait for an exp
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
 // Control flags
-const REGION_START_PERCENT = 67; // Percentage of the list to skip before starting (0–99)
+const REGION_START_PERCENT = generateRandomNumber(); // Percentage of the list to skip before starting (0–99)
 
 // MAIN EXECUTION FLOW
 
@@ -1062,6 +1062,19 @@ function collectAllTOCItemsForExport(tocArray, scope = []) {
     }
     return scope; // Return the accumulated scope list
 }
+
+/**
+ * Generates a random integer between 0 (inclusive) and 99 (inclusive).
+ * This function is inclusive of 0 and inclusive of 99.
+ * @returns {number} A random integer from 0 to 99.
+ */
+function generateRandomNumber() {
+  // Math.random() generates a float from [0, 1)
+  // Multiplying by 100 gives a range of [0, 100)
+  // Math.floor() rounds down, resulting in an integer from [0, 99].
+  return Math.floor(Math.random() * 100);
+}
+
 
 // EXECUTION
 
