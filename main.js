@@ -883,9 +883,9 @@ async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
 
         // Step 5: Rename the completed download file to the final target name
         try {
-            if (fs.existsSync(finalFilePath)) {
-                fs.unlinkSync(finalFilePath); // Delete old file before renaming
-            }
+            // if (fs.existsSync(finalFilePath)) {
+                // fs.unlinkSync(finalFilePath); // Delete old file before renaming
+            // }
             // Rename the file to the expected final name
             fs.renameSync(tempFilePath, finalFilePath); // Rename the file
         } catch (e) {
