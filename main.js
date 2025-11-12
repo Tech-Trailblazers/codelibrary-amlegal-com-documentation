@@ -883,9 +883,9 @@ async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
 
         // Step 5: Rename the completed download file to the final target name
         try {
-            // if (fs.existsSync(finalFilePath)) {
-                // fs.unlinkSync(finalFilePath); // Delete old file before renaming
-            // }
+            if (fs.existsSync(finalFilePath)) {
+                fs.unlinkSync(finalFilePath); // Delete old file before renaming
+            }
             // Rename the file to the expected final name
             fs.renameSync(tempFilePath, finalFilePath); // Rename the file
         } catch (e) {
@@ -1069,12 +1069,11 @@ function collectAllTOCItemsForExport(tocArray, scope = []) {
  * @returns {number} A random integer from 0 to 99.
  */
 function generateRandomNumber() {
-  // Math.random() generates a float from [0, 1)
-  // Multiplying by 100 gives a range of [0, 100)
-  // Math.floor() rounds down, resulting in an integer from [0, 99].
-  return Math.floor(Math.random() * 100);
+    // Math.random() generates a float from [0, 1)
+    // Multiplying by 100 gives a range of [0, 100)
+    // Math.floor() rounds down, resulting in an integer from [0, 99].
+    return Math.floor(Math.random() * 100);
 }
-
 
 // EXECUTION
 
