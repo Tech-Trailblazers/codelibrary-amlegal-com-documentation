@@ -1,7 +1,7 @@
 CODIFIED ORDINANCES OF
 PICKERINGTON, OHIO
-Local legislation current through December 5, 2023
-State legislation current through February 28, 2024
+Local legislation current through December 3, 2024
+State legislation current through June 26, 2024
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -14,21 +14,21 @@ CERTIFICATION
 the City of Pickerington, Ohio, as revised, arranged, compiled, numbered,
 codified and printed herewith in component codes, is correctly set forth and
 constitutes the Codified Ordinances of the City of Pickerington, Ohio, complete
-to December 5, 2023.
+to December 3, 2024.
                      /s/   Lee A. Gray
                         Mayor
                      /s/    Heather Moore
                         Municipal Clerk
 DIRECTORY OF OFFICIALS
-(2024)
+(2025)
 COUNCIL
-Nick Derksen (President)
-Bob McCracken (Vice President)
+Bob McCracken (President)
+Kevin Kemper (Vice President)
 Tricia R. Sanders
 Crystal Hicks
 Brian Wisniewski
 Jaclyn Rohaly
-Kevin Kemper
+Nick Derksen
                  
 OFFICIALS
 Mayor            Lee A. Gray
@@ -2327,6 +2327,42 @@ Adopting Ordinance                    452.04,
                                        678.14,
                                        678.15,
                                        698.02
+                                       1466.06,
+                                       1466.07,
+                                       1466.11 to
+                                       1466.16,
+                                       1466.18 to
+2024-01                    3-5-24      1466.23,
+                                       1466.25 to
+                                       1466.28,
+                                       1466.30 to
+                                       1466.38,
+                                       1466.40
+2024-05                    4-3-24      636.26
+2024-09                    5-21-24     1290.02,
+                                       1290.10
+2024-11                    6-4-24      452.13,
+                                       452.14
+2024-12                    7-16-24     1298.05
+2024-15                    8-20-24     452.03
+                                       1046.05,
+2024-26                    12-3-24     1050.01,
+                                       1060.01
+                                       402.253,
+                                       402.59,
+                                       434.09,
+                                       434.10,
+                                       436.14,
+Adopting Ordinance                    452.05,
+                                       608.09,
+                                       624.01,
+                                       666.02,
+                                       666.03,
+                                       678.15,
+                                       698.05
+Adopting Ordinance                    624.02,
+                                       636.08
+Repeals                                
                                       
  
 TABLES OF SPECIAL ORDINANCES
@@ -3107,6 +3143,8 @@ No.   Passed
 10    23     Longview Highlands Phase 2.
 2023- 7-18-  Approving the final plat for Longview Highlands Phase 8, located west of
 11    23     Longview Highlands Phase 7.
+2024- 7-16-  Approving the final plat for Hampton Meadows, located west of Longview
+13    24     Highlands and north of Long Road.
             
  
 TABLE E - ACQUISITION AND DISPOSAL OF REAL PROPERTY
@@ -3473,6 +3511,9 @@ Res. 2015-21R 6-2-15      to the lease agreement with New Par (aka Verizon
 Res. 2021-01R 1-19-21     agreement with AT&T Wireless (DBA Cingular Wireless
                           PCS, LLC) for a wireless tower located at 1111 Gray
                           Drive.
+Res.                      Authorizing the City Manager to enter into a real
+2024-25R      11-5-24     estate lease agreement for a tenant at 192 Hill Road
+                          North.
                          
  
 TABLE G - STREET GRADE LEVELS AND CHANGE OF STREET NAME
@@ -5222,7 +5263,7 @@ any private or other public entity.
    (c)   The City of Pickerington agrees that twenty percent of any net
 proceeds raised by the City from the usage of the seal for commercial purposes
 shall be donated to the Pickerington and Violet Township Historical Society.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-3652.jpg]
  
 (Res. 89-32. Passed 9-5-89; Ord. 2007-44. Passed 11-20-08; Ord. 2008-87. Passed
@@ -7461,6 +7502,7 @@ Definitions
 402.23   Motorcycle.
 402.24   Motorized bicycle or moped.
 402.25   Motorized wheelchair.
+402.253   Natural resources officer.
 402.255   Operate.
 402.26   Parking.
 402.27   Pedestrian.
@@ -7501,6 +7543,7 @@ Definitions
 402.56   Urban district.
 402.57   Vehicle.
 402.58   Waste collection vehicle.
+402.59   Wildlife officer.
    CROSS REFERENCES
    See section histories for similar State law
    Blind person defined - see TRAF.
@@ -7774,6 +7817,10 @@ level surface. The terms do not include an electric bicycle.
 used by, a person with a disability and that is incapable of a speed in excess
 of eight miles per hour.
 (ORC 4511.01(EEE))
+402.253 NATURAL RESOURCES OFFICER.
+   “Natural resources officer.” An officer appointed pursuant to R.C. §
+1501.24.
+(R.C. § 4511.01(XXX))
 402.255 OPERATE.
    "Operate" means to cause or have caused movement of a vehicle.
 (ORC 4511.01(HHH))
@@ -8051,6 +8098,9 @@ any device, other than a bicycle, that is moved by human power.
    A vehicle used in the collection of garbage, refuse, trash, or recyclable
 materials.
 (R.C. § 4511.01(RRR))
+402.59 WILDLIFE OFFICER.
+   “Wildlife officer.” An officer designated pursuant to R.C. § 1531.13.
+(R.C. § 4511.01(YYY))
 CHAPTER 404
 Enforcement; Impounding
 404.01   Police may remove ignition key.
@@ -11260,7 +11310,7 @@ alcohol or drugs.
 434.06   Speed limitations over bridges.
 434.07   Speed exceptions for emergency or safety vehicles.
 434.08   Reasonable control.
-434.09   Street racing prohibited.
+434.09   Street racing, stunt driving and street takeovers prohibited.
 434.10   Vehicular homicide; vehicular manslaughter; vehicular assault.
 434.11   Operation restricted for mini-trucks and low-speed, under-speed, or
 utility vehicles.
@@ -12553,34 +12603,63 @@ operation or in compliance with law.
    (d)   Whoever violates any of the provisions of this section is guilty of a
 minor misdemeanor.
 (1980 Code § 333.025)
-434.09 STREET RACING PROHIBITED.
-   (a)   As used in this section, "street racing" means the operation of two or
-more vehicles from a point side by side at accelerating speeds in a competitive
-attempt to outdistance each other, or the operation of one or more vehicles
-over a common selected course, from the same point to the same point, wherein
-timing is made of the participating vehicles involving competitive
-accelerations or speeds. Persons rendering assistance in any manner to such
-competitive use of vehicles shall be equally charged as the participants. The
+ 434.09 STREET RACING, STUNT DRIVING AND STREET TAKEOVERS PROHIBITED
+   (a)   As used in this section:
+      (1)   “Burnout.” A maneuver performed while operating a vehicle whereby
+the vehicle is kept in a stationary position, but the wheels of the vehicle are
+spun, which may cause the tires of the vehicle to become heated and emit smoke
+from the friction.
+      (2)   “Doughnut.” A maneuver performed while operating a vehicle whereby
+the front or rear of the vehicle is rotated around the opposite set of wheels
+in a continuous motion, which may cause a circular skid-mark pattern of rubber
+on the driving surface, or the tires of the vehicle to become heated and emit
+smoke from the friction, or both.
+      (3)   “Drifting.” A maneuver performed while operating a vehicle whereby
+the vehicle is driven in a manner that causes a controlled, sideways skid
+during a turn, with the front wheels pointing in a direction that is the
+opposite of the direction of the turn.
+      (4)   “Street racing.” The operation of two or more vehicles from a point
+side by side at accelerating speeds in a competitive attempt to out-distance
+each other or the operation of one or more vehicles over a common selected
+course, from the same point to the same point, wherein timing is made of the
+participating vehicles involving competitive accelerations or speeds. The
 operation of two or more vehicles side by side either at speeds in excess of
-prima facie lawful speeds established by Ohio R.C. 4511.21(B)(1)(a) through (B)
-(9) or a substantially similar municipal ordinance, or rapidly accelerating
-from a common starting point to a speed in excess of such prima facie lawful
-speeds shall be prima facie evidence of street racing.
-   (b)   No person shall participate in street racing upon any public road,
-street, or highway in this Municipality.
-   (c)   Whoever violates this section is guilty of street racing, a
-misdemeanor of the first degree. In addition to any other sanctions, the court
-shall suspend the offender's driver's license, commercial driver's license,
-temporary instruction permit, probationary license, or nonresident operating
-privileges for not less than 30 days or more than three years. No judge shall
-suspend the first 30 days of any suspension of an offender's license, permit,
-or privilege imposed under this division.
-(ORC 4511.251)
+prima-facie lawful speeds established by R.C. § 4511.21(B)(1)(a) to (B)(9) or
+rapidly accelerating from a common starting point to a speed in excess of such
+prima-facie lawful speeds shall be prima-facie evidence of street racing.
+      (5)   “Street takeover.” Blocking or impeding the regular flow of vehicle
+or pedestrian traffic on a public road, street, or highway or on private
+property that is open to the general public for the purpose of street racing or
+stunt driving.
+      (6)   “Stunt driving.” Performing or engaging in burnouts, doughnuts,
+drifting, or wheelies, or allowing a passenger to ride either partially or
+fully outside of the vehicle while operating that vehicle.
+      (7)   “Wheelie.” A maneuver performed while operating a vehicle whereby
+the front wheel or wheels of the vehicle are raised off of the ground or
+whereby two wheels that are on the same side of the vehicle are raised off of
+the ground.
+   (b)   No person shall knowingly participate in street racing, stunt driving,
+or street takeover upon any public road, street, or highway, or on private
+property that is open to the general public.
+   (c)   Whoever violates this section is guilty of street racing, stunt
+driving, or street takeover, a misdemeanor of the first degree. In addition to
+any other sanctions, the court shall suspend the offender’s driver’s license,
+commercial driver’s license, temporary instruction permit, probationary
+license, or nonresident operating privilege for not less than 30 days or more
+than three years. No judge shall suspend the first 30 days of any suspension of
+an offender’s license, permit, or privilege imposed under this division.
+   (d)   Persons rendering assistance in any manner to street racing, stunt
+driving, or street takeover shall be equally charged as the participants.
+   (e)   This section does not apply to the competitive operation of vehicles
+on public or private property when the political subdivision with jurisdiction
+of the location or owner of the property knowingly permits such operation
+thereon.
+(R.C. § 4511.251)
 434.10 VEHICULAR HOMICIDE; VEHICULAR MANSLAUGHTER.
    (a)   No person, while operating or participating in the operation of a
-motor vehicle, motorcycle, snowmobile, locomotive, watercraft, or aircraft,
-shall cause the death of another or the unlawful termination of another's
-pregnancy in any of the following ways:
+motor vehicle, motorcycle, utility vehicle, mini-truck, snowmobile, locomotive,
+watercraft, or aircraft, shall cause the death of another or the unlawful
+termination of another’s pregnancy in any of the following ways:
       (1)   A.   As the proximate result of committing a violation of Ohio R.C.
 4511.19(A) or of a substantially equivalent municipal ordinance;
          B.   As the proximate result of committing a violation of Ohio R.C.
@@ -12590,21 +12669,21 @@ pregnancy in any of the following ways:
       (2)   In one of the following ways:
          A.   Recklessly;
          B.   As the proximate result of committing, while operating or
-participating in the operation of a motor vehicle or motorcycle in a
-construction zone, a reckless operation offense, provided that this division
-applies only if the person whose death is caused or whose pregnancy is
-unlawfully terminated is in the construction zone at the time of the offender’s
-commission of the reckless operation offense in the construction zone and does
-not apply as described in division (d) of this section.
+participating in the operation of a motor vehicle, utility vehicle, mini-truck,
+or motorcycle in a construction zone, a reckless operation offense, provided
+that this division applies only if the person whose death is caused or whose
+pregnancy is unlawfully terminated is in the construction zone at the time of
+the offender’s commission of the reckless operation offense in the construction
+zone and does not apply as described in division (d) of this section.
       (3)   In one of the following ways:
          A.   Negligently;
          B.   As the proximate result of committing, while operating or
-participating in the operation of a motor vehicle or motorcycle in a
-construction zone, a speeding offense, provided that this division applies only
-if the person whose death is caused or whose pregnancy is unlawfully terminated
-is in the construction zone at the time of the offender’s commission of the
-speeding offense in the construction zone and does not apply as described in
-division (d) of this section.
+participating in the operation of a motor vehicle, utility vehicle, mini-truck,
+or motorcycle in a construction zone, a speeding offense, provided that this
+division applies only if the person whose death is caused or whose pregnancy is
+unlawfully terminated is in the construction zone at the time of the offender’s
+commission of the speeding offense in the construction zone and does not apply
+as described in division (d) of this section.
       (4)   As the proximate result of committing a violation of any provision
 of any section contained in Ohio R.C. Title 45 that is a minor misdemeanor or
 of a municipal ordinance that, regardless of the penalty set by ordinance for
@@ -12674,7 +12753,8 @@ those divisions in that construction zone.
          A.   “Construction zone” has the same meaning as in Ohio R.C. 5501.27.
          B.   “Mandatory prison term” and “mandatory jail term” have the same
 meanings as in Ohio R.C. 2929.01.
-         C.   “Motor vehicle” has the same meaning as in Ohio R.C. 4501.01.
+         C.   “Motor vehicle”, “mini-truck”, and “utility vehicle”. Have the
+same meaning as in R.C. § 4501.01.
          D.   “Reckless operation offense” means a violation of Ohio R.C.
 4511.20 or a municipal ordinance substantially equivalent to Ohio R.C. 4511.20.
          E.   “Speeding offense” means a violation of Ohio R.C. 4511.21 or a
@@ -12698,17 +12778,18 @@ or current specified offense, the reference to the violation of the specified
 law or the specified offense includes any violation of any substantially
 equivalent municipal ordinance, former law of this State, or current or former
 law of this or another state or the United States.
-(ORC 2903.06)
+         (ORC 2903.06)
    (f)   Vehicular assault.
       (1)   No person, while operating or participating in the operation of a
-motor vehicle or motorcycle, shall cause serious physical harm to another
-person or another’s unborn as the proximate result of committing, while
-operating or participating in the operation of a motor vehicle or motorcycle in
-a construction zone, a speeding offense, provided that this division applies
-only if the person to whom the serious physical harm is caused or to whose
-unborn the serious physical harm is caused is in the construction zone at the
-time of the offender’s commission of the speeding offense in the construction
-zone and does not apply as described in division (f)(4) of this section.
+motor vehicle, motorcycle, utility vehicle, or mini-truck, shall cause serious
+physical harm to another person or another's unborn as the proximate result of
+committing, while operating or participating in the operation of a motor
+vehicle, utility vehicle, mini-truck, or motorcycle in a construction zone, a
+speeding offense, provided that this division applies only if the person to
+whom the serious physical harm is caused or to whose unborn the serious
+physical harm is caused is in the construction zone at the time of the
+offender’s commission of the speeding offense in the construction zone and does
+not apply as described in division (f)(4) of this section.
       (2)   A.   Except as otherwise provided in this division, vehicular
 assault committed in violation of division (f)(1) of this section is a
 misdemeanor of the first degree. Vehicular assault committed in violation of
@@ -12744,7 +12825,7 @@ prior or current specified offense, the reference to the violation of the
 specified law or the specified offense includes any violation of any
 substantially equivalent municipal ordinance, former law of this state, or
 current or former law of another state or the United States.
-(R.C. 2903.08(A)(3), (C)(3), (D)(3), (E) - (G))
+         (R.C. 2903.08(A)(3), (C)(3), (D)(3), (E) - (G))
 Statutory reference:
    Trial court to suspend driver's license, see Ohio R.C. 4510.05
    Vehicular assault and aggravated vehicular assault, felony offenses, see
@@ -14197,13 +14278,15 @@ but the private towing service performed the removal in a reckless manner.
       (2)   “Public safety official.” Means any of the following:
          A.   The sheriff of the county, or the chief of a law enforcement
 agency in the municipal corporation, township, port authority, conservancy
-district, or township or joint police district, in which the accident occurred;
+district, university campus police department, park district police force, or
+township or joint police district, in which the accident occurred;
          B.   A state highway patrol trooper;
          C.   The chief of the fire department having jurisdiction where the
 accident occurred;
          D.   A duly authorized subordinate acting on behalf of an official
-specified in divisions A. to C. of this definition.
-(R.C. § 4513.66)
+specified in divisions A. to C. of this definition;
+         E.   A natural resources officer or wildlife officer.
+            (R.C. § 4513.66)
    (d)   If a towing service is removing a motor vehicle, and the removal was
 not authorized under R.C. § 4513.60, 4513.601, 4513.61, or 4513.66, or any
 substantially equivalent municipal ordinance, prior to removing the motor
@@ -17324,7 +17407,7 @@ device, in any of the following places:
 stop sign, or traffic-control device;
       (8)   Between a safety zone and the adjacent curb or within 30 feet of
 points on the curb immediately opposite the ends of a safety zone, unless a
-different length is indicated by a traffic-control device;
+different length is indicated by a traffic- control device;
       (9)   Within 50 feet of the nearest rail of a railroad crossing;
       (10)   Within 20 feet of a driveway entrance to any fire station and, on
 the side of the street opposite the entrance to any fire station, within 75
@@ -17337,10 +17420,12 @@ street;
 highway tunnel;
       (14)   At any place where signs prohibit stopping;
       (15)   Within one foot of another parked vehicle;
-      (16)   On the roadway portion of a freeway, expressway, or thruway.
+      (16)   On the roadway portion of a freeway, expressway, or thruway;
+      (17)   Along any portion of a roadway, freeway, or expressway, marked
+with painted yellow curbs.
    (b)   A person is permitted, without charge or restriction, to stand or park
 on a sidewalk a motor-driven cycle or motor scooter that has an engine not
-larger than 150 cubic centimeters, a low-speed micromobility device, or a
+larger than 150 cubic centimeters, a low- speed micromobility device, or a
 bicycle or electric bicycle, provided that the motor-driven cycle, motor
 scooter, low-speed micromobility device, bicycle, or electric bicycle does not
 impede the normal flow of pedestrian traffic. This division does not authorize
@@ -17354,7 +17439,7 @@ section is guilty of a misdemeanor of the fourth degree. If, within one year of
 the offense, the offender previously has been convicted of two or more
 predicate motor vehicle or traffic offenses, whoever violates this section is
 guilty of a misdemeanor of the third degree.
-(ORC 4511.68)
+(Ord. 2024-15. Passed 8-20-24.)
 452.04 MANNER OF PARALLEL AND ANGLE PARKING; PRIVILEGES FOR PERSONS WITH
 DISABILITIES.
    (a)   Every vehicle stopped or parked upon a roadway where there is an
@@ -17537,93 +17622,91 @@ not be issued a warning but shall be fined not more than twenty-five dollars
 markings are not properly maintained.
 (ORC 4511.69)
 452.05 WILLFULLY LEAVING VEHICLES ON PRIVATE OR PUBLIC PROPERTY.
-   (a)   The chief of a law enforcement agency of the municipal corporation,
-within the chief’s territorial jurisdiction, or a state highway patrol trooper,
-upon notification to the chief of such action and of the location of the place
-of storage, may order into storage any motor vehicle, including an abandoned
-junk motor vehicle as defined in R.C. § 4513.63, that:
-      (1)   Has come into the possession of the chief or state highway patrol
-trooper as a result of the performance of the chief’s or trooper’s duties; or
+   (a)   The Police Chief, upon notification to the Police Chief of such action
+and of the location of the place of storage, may order into storage any motor
+vehicle, including an abandoned junk motor vehicle as defined in R.C. §
+4513.63, that:
+      (1)   Has come into the possession of the Police chief as a result of the
+performance of the Police Chief’s duties; or
       (2)   Has been left on a public street or other property open to the
 public for purposes of vehicular travel, or upon or within the right-of-way of
-any road or highway, for 48 hours or longer without notification to the chief
-of the reasons for leaving the motor vehicle in such place. However, when such
-a motor vehicle constitutes an obstruction to traffic it may be ordered into
-storage immediately unless either of the following applies:
+any road or highway, for 48 hours or longer without notification to the Police
+Chief of the reasons for leaving the motor vehicle in such place. However, when
+such a motor vehicle constitutes an obstruction to traffic it may be ordered
+into storage immediately unless either of the following applies:
          A.   The vehicle was involved in an accident and is subject to R.C. §
 4513.66, or any substantially equivalent municipal ordinance;
          B.   The vehicle is a commercial motor vehicle. If the vehicle is a
-commercial motor vehicle, the chief or state highway patrol trooper shall allow
-the owner or operator of the vehicle the opportunity to arrange for the removal
-of the motor vehicle within a period of time specified by the chief or state
-highway patrol trooper. If the chief or state highway patrol trooper determines
-that the vehicle cannot be removed within the specified period of time, the
-chief or state highway patrol trooper shall order the removal of the vehicle.
-      (3)   Subject to division (c) of this section, the chief shall designate
-the place of storage of any motor vehicle so ordered removed.
-   (b)   If the chief or a state highway patrol trooper issues an order under
-division (a) of this section and arranges for the removal of a motor vehicle by
-a towing service, the towing service shall deliver the motor vehicle to the
-location designated by the chief not more than two hours after the time it is
-removed.
-   (c)   (1)   The chief shall cause a search to be made of the records of an
-applicable entity listed in R.C. § 4513.601(F)(1) to ascertain the identity of
-the owner and any lienholder of a motor vehicle ordered into storage by the
-chief or a state highway patrol trooper within five business days of the
-removal of the vehicle. Upon obtaining such identity, the chief shall send or
-cause to be sent to the owner or lienholder at the owner’s or lienholder’s last
-known address by certified or express mail with return receipt requested, by
-certified mail with electronic tracking, or by a commercial carrier service
+commercial motor vehicle, the Police Chief shall allow the owner or operator of
+the vehicle the opportunity to arrange for the removal of the motor vehicle
+within a period of time specified by the Police Chief. If the Police Chief
+determines that the vehicle cannot be removed within the specified period of
+time, the Police Chief shall order the removal of the vehicle.
+      (3)   Subject to division (c) of this section, the Police Chief shall
+designate the place of storage of any motor vehicle so ordered removed.
+   (b)   If the Police Chief issues an order under division (a) of this section
+and arranges for the removal of a motor vehicle by a towing service, the towing
+service shall deliver the motor vehicle to the location designated by the
+Police Chief not more than two hours after the time it is removed.
+   (c)   (1)   The Police Chief shall cause a search to be made of the records
+of an applicable entity listed in R.C. § 4513.601(F)(1) to ascertain the
+identity of the owner and any lienholder of a motor vehicle ordered into
+storage by the Police Chief within five business days of the removal of the
+vehicle. Upon obtaining such identity, the Police Chief shall send or cause to
+be sent to the owner and any lienholder at the owner’s and any lienholder’s
+last known address by certified or express mail with return receipt requested,
+by certified mail with electronic tracking, or by a commercial carrier service
 utilizing any form of delivery requiring a signed receipt. The notice shall
-inform the owner or lienholder that the motor vehicle will be declared a
+inform the owner and any lienholder that the motor vehicle will be declared a
 nuisance and disposed of if not claimed within ten days of the date of the
 sending of the notice.
-      (2)   A.   The owner or lienholder of the motor vehicle may reclaim the
-motor vehicle upon payment of any expenses or charges incurred in its removal
-and storage, and presentation of proof of ownership, which may be evidenced by
-a certificate of title or memorandum certificate of title to the motor vehicle,
-a certificate of registration for the motor vehicle, or a lease agreement. Upon
-presentation of proof of ownership evidenced as provided above, the owner of
-the motor vehicle also may retrieve any personal items from the vehicle without
-retrieving the vehicle and without paying any fee. However, a towing service or
-storage facility may charge an after-hours retrieval fee established by the
-Public Utilities Commission in rules adopted under R.C. § 4921.25 if the owner
+      (2)   A.   The owner or lienholder of the motor vehicle is responsible
+for payment of any expenses or charges incurred in its removal and storage and
+may reclaim the motor vehicle upon payment of those expenses or charges, and
+presentation of proof of ownership, which may be evidenced by a certificate of
+title or memorandum certificate of title to the motor vehicle, a certificate of
+registration for the motor vehicle, or a lease agreement. Upon presentation of
+proof of ownership evidenced as provided above, the owner of the motor vehicle
+also may retrieve any personal items from the vehicle without retrieving the
+vehicle and without paying any fee. However, a towing service or storage
+facility may charge an after-hours retrieval fee established by the Public
+Utilities Commission in rules adopted under R.C. § 4921.25 if the owner
 retrieves the personal items after hours, unless the towing service or storage
 facility fails to provide the notice required under R.C. § 4513.69(B)(3), if
 applicable. However, the owner shall not do either of the following:
             1.   Retrieve any personal item that has been determined by the
-chief or a state highway patrol trooper, as applicable, to be necessary to a
-criminal investigation;
+Police Chief to be necessary to a criminal investigation;
             2.   Retrieve any personal item from a vehicle if it would endanger
 the safety of the owner, unless the owner agrees to sign a waiver of liability.
          B.   For purposes of division (c)(2) of this section, “personal items”
 do not include any items that are attached to the vehicle.
       (3)   If the owner or lienholder of the motor vehicle reclaims it after a
 search of the applicable records has been conducted and after notice has been
-sent to the owner or lienholder as described in this section, and the search
-was conducted by the place of storage, and the notice was sent to the motor
-vehicle owner by the place of storage, the owner or lienholder shall pay to the
-place of storage a processing fee of $25, in addition to any expenses or
+sent to the owner and any lienholder as described in this section, and the
+search was conducted by the place of storage, and the notice was sent to the
+motor vehicle owner by the place of storage, the owner or lienholder shall pay
+to the place of storage a processing fee of $25, in addition to any expenses or
 charges incurred in the removal and storage of the vehicle.
    (d)   If the owner or lienholder makes no claim to the motor vehicle within
 ten days of the date of sending the notice, and if the vehicle is to be
 disposed of at public auction as provided in R.C. § 4513.62 or any
-substantially equivalent municipal ordinance, the chief, without charge to any
-party, shall file with the clerk of courts of the county in which the place of
-storage is located an affidavit showing compliance with the requirements of
-this section. Upon presentation of the affidavit, the clerk, without charge,
-shall issue a salvage certificate of title, free and clear of all liens and
-encumbrances, to the chief. If the vehicle is to be disposed of to a motor
-vehicle salvage dealer or other facility as provided in R.C. § 4513.62 or any
-substantially equivalent municipal ordinance, the chief shall execute in
-triplicate an affidavit, as prescribed by the Registrar of Motor Vehicles,
-describing the motor vehicle and the manner in which it was disposed of, and
-that all requirements of this section have been complied with. The chief shall
-retain the original of the affidavit for the chief’s records, and shall furnish
-two copies to the motor vehicle salvage dealer or other facility. Upon
-presentation of a copy of the affidavit by the motor vehicle salvage dealer,
-the clerk of courts, within 30 days of the presentation, shall issue a salvage
-certificate of title, free and clear of all liens and encumbrances.
+substantially equivalent municipal ordinance, the Police Chief, without charge
+to any party, shall file with the clerk of courts of the county in which the
+place of storage is located an affidavit showing compliance with the
+requirements of this section. Upon presentation of the affidavit, the clerk,
+without charge, shall issue a salvage certificate of title, free and clear of
+all liens and encumbrances, to the Police Chief. If the vehicle is to be
+disposed of to a motor vehicle salvage dealer or other facility as provided in
+R.C. § 4513.62 or any substantially equivalent municipal ordinance, the Police
+Chief shall execute in triplicate an affidavit, as prescribed by the Registrar
+of Motor Vehicles, describing the motor vehicle and the manner in which it was
+disposed of, and that all requirements of this section have been complied with.
+The Police Chief shall retain the original of the affidavit for the Police
+Chief’s records, and shall furnish two copies to the motor vehicle salvage
+dealer or other facility. Upon presentation of a copy of the affidavit by the
+motor vehicle salvage dealer, the clerk of courts, within 30 days of the
+presentation, shall issue a salvage certificate of title, free and clear of all
+liens and encumbrances.
    (e)   Whenever a motor vehicle salvage dealer or other facility receives an
 affidavit for the disposal of a motor vehicle as provided in this section, the
 dealer or facility shall not be required to obtain an Ohio certificate of title
@@ -17639,9 +17722,8 @@ vehicle, as defined in R.C. § 4513.63, on private property for more than 72
 hours without the permission of the person having the right to the possession
 of the property, or on a public street or other property open to the public for
 purposes of vehicular travel or parking, or upon or within the right-of-way of
-any road or highway for 48 hours or longer without notification to the chief of
-a law enforcement agency of the municipal corporation of the reason for leaving
-the motor vehicle in that place.
+any road or highway for 48 hours or longer without notification to the Police
+Chief of the reason for leaving the motor vehicle in that place.
          B.   For purposes of this division (g)(1), the fact that a motor
 vehicle has been so left without permission or notification is prima facie
 evidence of abandonment.
@@ -17654,7 +17736,7 @@ Municipality.
 and shall also be assessed any costs incurred by the Municipality in disposing
 of such abandoned junk motor vehicle, less any money accruing to the
 Municipality from such disposal.
-(ORC 4513.64)
+         (ORC 4513.64)
 452.06 PARKING PROHIBITIONS ON PRIVATE PROPERTY; PRIVATE TOW-AWAY ZONES.
    (a)   (1)   The chief of a law enforcement agency of the municipal
 corporation, upon complaint of any person adversely affected, may order into
@@ -18086,11 +18168,17 @@ control signal.
 park a vehicle within an alley except while actually loading and unloading, and
 then only for a period not to exceed 30 minutes.
 452.13 MAXIMUM CONSECUTIVE HOURS FOR STREET PARKING.
-   No person shall park any motor vehicle upon any street or public parking lot
-for a period of time exceeding 48 consecutive hours, unless permission is
-granted, in writing, by the Chief of Police because of extraordinary
-circumstances.
-(Ord. 97-30. Passed 4-15-97.)
+   (a)   No person shall park any motor vehicle upon any street or public
+parking lot for a period of time exceeding 48 consecutive hours, unless
+permission is granted, in writing, by the Chief of Police because of
+extraordinary circumstances.
+   (b)   No person shall park any commercial tractor, truck, trailer or
+commercial vehicle weighing more than 8,000 pounds upon any street or public
+parking lot for any period of time except when such vehicle is being actively
+loaded or unloaded or used to deliver or hoist property or merchandise for
+completion of delivery. Such activities are to be conducted diligently and
+without delay.
+(Ord. 97-30. Passed 4-15-97; Ord. 2024-11. Passed 6-4-24.)
 452.14 PARKING OF TRACTORS, TRAILERS AND SEMITRAILERS.
    (a)   Except as otherwise expressly provided in this section, no owner or
 operator of any tractor, trailer or semitrailer shall park or permit the same
@@ -19548,13 +19636,13 @@ officer to bring the person's motor vehicle to a stop.
 with an order or signal of a police officer.
       (2)   A violation of division (a) of this section is a misdemeanor of the
 first degree.
-      (3)   Except as provided in divisions (c)(4) and (5) of this section, a
-violation of division (b) of this section is a misdemeanor of the first degree.
-      (4)   Except as provided in division (c)(5) of this section, a violation
-of division (b) of this section is a felony and shall be prosecuted under
-appropriate State law if the jury or judge as trier of fact finds by proof
-beyond a reasonable doubt that in committing the offense, the offender was
-fleeing immediately after the commission of a felony.
+      (3)   Except as provided in divisions (c)(4) and (c)(5) of this section,
+a violation of division (b) of this section is a felony to be prosecuted under
+appropriate state law.
+      (4)   A violation of division (b) of this section is a felony and shall
+be prosecuted under appropriate state law if the jury or judge as trier of fact
+finds by proof beyond a reasonable doubt that in committing the offense, the
+offender was fleeing immediately after the commission of a felony.
       (5)   A.   A violation of division (b) of this section is a felony and
 shall be prosecuted under appropriate State law if the jury or judge as trier
 of fact finds any of the following by proof beyond a reasonable doubt:
@@ -19585,21 +19673,20 @@ the pursuit;
             9.   Any other relevant factors indicating that the offender's
 conduct is more serious than conduct normally constituting the offense.
    (d)   In addition to any other sanction imposed for a violation of division
-(a) of this section or a misdemeanor violation of division (b) of this section,
-the court shall impose a class five suspension from the range specified in Ohio
-R.C. 4510.02(A)(5). If the offender previously has been found guilty of an
-offense under this section or under Ohio R.C. 2921.331 or any other
-substantially equivalent municipal ordinance, in addition to any other sanction
-imposed for the offense, the court shall impose a class one suspension as
-described in Ohio R.C. 4510.02(A)(1). The court may grant limited driving
+(a) of this section, the court shall impose a class five suspension from the
+range specified in R.C. § 4510.02(A)(5). If the offender previously has been
+found guilty of an offense under this section or under R.C. § 2921.331 or any
+other substantially equivalent municipal ordinance, in addition to any other
+sanction imposed for the offense, the court shall impose a class one suspension
+as described in R.C. § 4510.02(A)(1). The court may grant limited driving
 privileges to the offender on a suspension imposed for a misdemeanor violation
-of this section as set forth in Ohio R.C. 4510.021. No judge shall suspend any
+of this section as set forth in R.C. § 4510.021. No judge shall suspend any
 portion of the suspension under a class one suspension of an offender’s
 license, permit, or privilege required by this division.
    (e)   As used in this section:
-      (1)   "Moving violation" has the same meaning as in Ohio R.C. 2743.70.
-      (2)   "Police officer" has the same meaning as in Ohio R.C. 4511.01.
-(ORC 2921.331(A) - (C), (E), (F))
+      (1)   “Moving violation” has the same meaning as in Ohio R.C. 2743.70.
+      (2)   “Police officer” has the same meaning as in Ohio R.C. 4511.01.
+         (ORC 2921.331(A) - (C), (E), (F))
 608.10 HAVING AN UNLAWFUL INTEREST IN A PUBLIC CONTRACT.
    (a)   No public official shall knowingly do any of the following:
       (1)   Authorize or employ the authority of the public official’s office
@@ -22224,7 +22311,7 @@ occurred. Such remedy shall be in addition to the penalty provided in Section
 CHAPTER 624
 Drugs
 624.01   Definitions.
-624.02   Trafficking in controlled substances; gift of marihuana.
+624.02   Trafficking in controlled substances; gift of marihuana. (Repealed)
 624.025   Cultivation of marihuana.
 624.03   Drug possession offenses.
 624.04   Possession of drug abuse instruments.
@@ -22276,8 +22363,7 @@ Revised Code.
    (d)   “Bulk amount.” Of a controlled substance, means any of the following:
       (1)   For any compound, mixture, preparation, or substance included in
 Schedule I, Schedule II, or Schedule III, with the exception of any controlled
-substance
-         analog, marihuana, cocaine, L.S.D., heroin, any fentanyl-related
+substance analog, marihuana, cocaine, L.S.D., heroin, any fentanyl-related
 compound, and hashish and except as provided in division (2), (5), or (6) of
 this definition, whichever of the following is applicable:
          A.   An amount equal to or exceeding ten grams or 25 unit doses of a
@@ -22433,11 +22519,11 @@ States.
 piperidyl] propionanilide; 1-(1-methyl-2-phenylethyl)-4-(N-propanilido)
 piperidine);
       (3)   Alpha-methylthiofentanyl (N-[1-methyl-2-(2-thienyl)ethyl-4-
-piperidinyl]- N-phenylpropanamide);
+piperidinyl]-N- phenylpropanamide);
       (4)   Beta-hydroxyfentanyl (N-[1-(2-hydroxy-2-phenethyl-4-piperidinyl]-N-
 phenylpropanamide);
       (5)   Beta-hydroxy-3-methylfentanyl (other name: N-[1-(2-hydroxy-2-
-phenethyl)-3-methyl-4-piperidinyl]-phenylpropanamide);
+phenethyl)-3- methyl-4-piperidinyl]-phenylpropanamide);
       (6)   3-methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-
 phenylpropanamide);
       (7)   3-methylthiofentanyl (N-[3-methyl-1-[2-(thienyl)ethyl]-4-
@@ -22450,8 +22536,8 @@ propanamide;
       (11)   Carfentanil;
       (12)   Remifentanil;
       (13)   Sufentanil;
-      (14)   Acetyl-alpha-methylfentanyl (N- [1-(1-methyl-2-phenethyl)-4-
-piperidinyl]-N-phenylacetamide); and
+      (14)   Acetyl-alpha-methylfentanyl (N-[1-(1-methyl-2-phenethyl)-4-
+piperidinyl]-N- phenylacetamide); and
       (15)   Any compound that meets all of the following fentanyl
 pharmacophore requirements to bind at the mu receptor, as identified by a
 report from an established forensic laboratory, including acetylfentanyl,
@@ -22555,19 +22641,21 @@ architecture issued or renewed and registered under R.C. Chapter 4703;
 Chapter 4703 or who holds a permit as a landscape architect issued under that
 chapter;
       (4)   A person licensed under R.C. Chapter 4707;
-      (5)   A person who has been issued a certificate of registration as a
-registered barber under R.C. Chapter 4709;
+      (5)   A person who has been issued a barber’s license, barber
+instructor’s license, assistant barber instructor’s license, or independent
+contractor’s license under R.C. Chapter 4709;
       (6)   A person licensed and regulated to engage in the business of a debt
 pooling company by a legislative authority, under authority of R.C. Chapter
 4710;
       (7)   A person who has been issued a cosmetologist’s license, hair
 designer’s license, manicurist’s license, esthetician’s license, natural hair
-stylist’s license, advanced cosmetologist’s license, advanced hair designer’s
-license, advanced manicurist’s license, advanced esthetician’s license,
-advanced natural hair stylist’s license, cosmetology instructor’s license, hair
-design instructor’s license, manicurist instructor’s license, esthetics
-instructor’s license, natural hair style instructor’s license, independent
-contractor’s license, or tanning facility permit under R.C. Chapter 4713;
+stylist’s license, advanced license to practice cosmetology, advanced license
+to practice hair design, advanced license to practice manicuring, advanced
+license to practice esthetics, advanced license to practice natural hair
+styling, cosmetology instructor’s license, hair design instructor’s license,
+manicurist instructor’s license, esthetics instructor’s license, natural hair
+style instructor’s license, independent contractor’s license, or tanning
+facility permit under R.C. Chapter 4713;
       (8)   A person who has been issued a license to practice dentistry, a
 general anesthesia permit, a conscious sedation permit, a limited resident’s
 license, a limited teaching license, a dental hygienist’s license or a dental
@@ -22695,62 +22783,35 @@ containing a controlled substance that is separately identifiable and in a form
 that indicates that it is the amount or unit by which the controlled substance
 is separately administered to or taken by an individual.
    (fff)   “Wholesaler.” Has the same meaning as in R.C. § 3719.01.
-(R.C. § 2925.01)
-624.02 TRAFFICKING IN CONTROLLED SUBSTANCES; GIFT OF MARIHUANA.
-   (a)   No person shall knowingly do any of the following:
-      (1)   Sell or offer to sell a controlled substance or a controlled
-substance analog;
-      (2)   Prepare for shipment, ship, transport, deliver, prepare for
-distribution, or distribute a controlled substance or a controlled substance
-analog, when the offender knows or has reasonable cause to believe that the
-controlled substance or a controlled substance analog is intended for sale or
-resale by the offender or another person.
-   (b)   This section does not apply to any of the following:
-      (1)   Manufacturers, licensed health professionals authorized to
-prescribe drugs, pharmacists, owners of pharmacies, and other persons whose
-conduct is in accordance with Ohio R.C. Chapters 3719, 4715, 4723, 4729, 4730,
-4731, and 4741.
-      (2)   If the offense involves an anabolic steroid, any person who is
-conducting or participating in a research project involving the use of an
-anabolic steroid if the project has been approved by the United States Food and
-Drug Administration.
-      (3)   Any person who sells, offers for sale, prescribes, dispenses, or
-administers for livestock or other nonhuman species an anabolic steroid that is
-expressly intended for administration through implants to livestock or other
-nonhuman species and approved for that purpose under the “Federal Food, Drug
-and Cosmetic Act” (21 U.S.C. 301 et seq., as amended), and is sold, offered for
-sale, prescribed, dispensed, or administered for that purpose in accordance
-with that Act.
-   (c)   Whoever violates division (a) of this section is guilty of the
-following:
-      (1)   Except as otherwise provided in divisions (c)(2) and (c)(3) of this
-section, trafficking in controlled substances is a felony to be prosecuted
-under appropriate State law.
-      (2)   Except as otherwise provided in this division, if the offense
-involves a gift of 20 grams or less of marihuana, trafficking in marihuana is a
-minor misdemeanor upon a first offense and a misdemeanor of the third degree
-upon a subsequent offense. If the offense involves a gift of 20 grams or less
-of marihuana and if the offense was committed in the vicinity of a school or in
-the vicinity of a juvenile, trafficking in marihuana is a misdemeanor of the
-third degree.
-      (3)   If the drug involved in the violation is a compound, mixture,
-preparation, or substance that is a combination of a fentanyl-related compound
-and marihuana, one of the following applies:
-         A.   Except as otherwise provided in division (c)(3)B. of this
-section, the offender is guilty of trafficking in marihuana and shall be
-punished under division (c)(2) of this section. The offender is not guilty of
-trafficking in a fentanyl-related compound and shall not be charged with,
-convicted of, or punished under R.C. § 2925.03(C)(9) for trafficking in a
-fentanyl-related compound.
-         B.   If the offender knows or has reason to know that the compound,
-mixture, preparation, or substance that is the drug involved contains a
-fentanyl-related compound, the offender is guilty of trafficking in a fentanyl-
-related compound and shall be punished under R.C. § 2925.03(C)(9).
-   (d)   As used in this section, "drug" includes any substance that is
-represented to be a drug.
-(R.C. § 2925.03(A) - (C))
-Statutory reference:
-   Felony drug trafficking offenses, see Ohio R.C. 2925.03(C)
+      (R.C. § 2925.01)
+624.02 TRAFFICKING IN CONTROLLED SUBSTANCES; GIFT OF MARIHUANA.(REPEALED)
+   (EDITOR’S NOTE: For provisions regarding adult use cannabis, see Section
+624.18.)
+   624.025   CULTIVATION OF MARIHUANA.
+   (a)   No person shall knowingly cultivate marihuana.
+   (b)   This section does not apply to any person listed in Ohio R.C. 2925.03
+(B)(1), (2) or (3), or a substantially equivalent municipal ordinance, to the
+extent and under the circumstances described in that division.
+   (c)   Whoever commits a violation of division (a) of this section is guilty
+of illegal cultivation of marihuana.
+      (1)   Except as otherwise provided in the following divisions, illegal
+cultivation of marihuana is a minor misdemeanor or, if the offense was
+committed in the vicinity of a school or in the vicinity of a juvenile, a
+misdemeanor of the fourth degree.
+      (2)   If the amount of marihuana involved equals or exceeds 100 grams but
+is less than 200 grams, illegal cultivation of marihuana is a misdemeanor of
+the fourth degree or, if the offense was committed in the vicinity of a school
+or in the vicinity of a juvenile, a misdemeanor of the third degree.
+      (3)   If the amount of marihuana involved equals or exceeds 200 grams,
+illegal cultivation of marihuana is a felony to be prosecuted under appropriate
+State law.
+   (d)   Arrest or conviction for a minor misdemeanor violation of this section
+does not constitute a criminal record and need not be reported by the person so
+arrested or convicted in response to any inquiries about the person's criminal
+record, including any inquiries contained in any application for employment,
+license, or other right or privilege, or made in connection with the person's
+appearance as a witness.
+(R.C. § 2925.04(A), (B), (C)(5), (G))
 624.025 CULTIVATION OF MARIHUANA.
    (a)   No person shall knowingly cultivate marihuana.
    (b)   This section does not apply to any person listed in Ohio R.C. 2925.03
@@ -25741,7 +25802,7 @@ Offenses Relating to Persons
 636.05   Menacing by stalking.
 636.06   Menacing.
 636.07   Unlawful restraint.
-636.08   Failure to perform viability testing.
+636.08   Failure to perform viability testing. (Repealed)
 636.09   Criminal child enticement. (Repealed)
 636.10   Coercion.
 636.11   Nonsupport of dependents.
@@ -25761,6 +25822,7 @@ alternative nicotine products; transaction scans.
 636.23   Intimidation in connection with housing.
 636.24   Failing to provide for a person with a functional impairment.
 636.25   Unlawful collection of bodily substances.
+636.26   Source of income discrimination.
    CROSS REFERENCES
    See section histories for similar State law
    Juvenile Court - see Ohio R.C. Ch. 2151
@@ -26239,31 +26301,13 @@ misdemeanor of the third degree.
    (d)   As used in this section, "sexual motivation" has the same meaning as
 in Ohio R.C. 2971.01.
 (ORC 2905.03)
-636.08 FAILURE TO PERFORM VIABILITY TESTING.
-   (a)   Except in a medical emergency that prevents compliance with this
-division, no physician shall perform or induce or attempt to perform or induce
-an abortion on a pregnant woman after the beginning of the twentieth week of
-gestation unless, prior to the performance or inducement of the abortion or the
-attempt to perform or induce the abortion, the physician determines, in the
-physician’s good faith medical judgment, that the unborn child is not viable,
-and the physician makes that determination after performing a medical
-examination of the pregnant woman and after performing or causing to be
-performed those tests for assessing gestational age, weight, lung maturity, or
-other tests that the physician, in that physician’s good faith medical
-judgment, believes are necessary to determine whether an unborn child is
-viable.
-   (b)   Except in a medical emergency that prevents compliance with this
-division, no physician shall perform or induce or attempt to perform or induce
-an abortion on a pregnant woman after the beginning of the twentieth week of
-gestation without first entering the determination made in division (a) of this
-section and the associated findings of the medical examination and tests in the
-medical record of the pregnant woman.
-   (c)   Whoever violates this section is guilty of failure to perform
-viability testing, a misdemeanor of the fourth degree.
-   (d)   The State Medical Board shall suspend a physician’s license to
-practice medicine in this state for a period of not less than six months if the
-physician violates this section.
-(ORC 2919.18)
+636.08 FAILURE TO PERFORM VIABILITY TESTING. (REPEALED)
+   (EDITOR’S NOTE: In November 2023, voters approved Issue 1, enacting Article
+1, Section 22 to the Ohio Constitution relating to reproductive rights. To
+ensure that there are no conflicts with this Constitutional amendment, this
+section, relating to unlawful abortion, failure to perform viability testing,
+and abortion trafficking, has been removed from this code.)
+2025 Replacement
 636.09 CRIMINAL CHILD ENTICEMENT. (REPEALED)
    (EDITOR’S NOTE: This section was formerly based on R.C. § 2905.05, Criminal
 Child Enticement. The Ohio Supreme Court held that R.C. § 2905.05(A) was
@@ -27533,6 +27577,80 @@ guilty to a violation of division (a) of this section or a substantially
 equivalent state law or municipal ordinance, unlawful collection of a bodily
 substance is a felony to be prosecuted under appropriate state law.
 (R.C. § 2927.15)
+636.26 SOURCE OF INCOME DISCRIMINATION.
+   (a)   "Source of income" means a lawful financial resource or form of
+assistance which the recipient appropriately discloses, and which can be
+verified and substantiated as derived from wages, investments, trusts, child
+support, spousal support, grant or loan programs, or any federal, state, or
+local assistance payments, benefits, or subsidy programs including but not
+limited to vouchers for rent or housing, foster child assistance, public
+assistance, emergency rental assistance, veterans benefits, social security,
+supplemental security income, or other government programs, or any financial
+assistance programs administered by a nonprofit entity.
+   (b)   It shall be an unlawful discriminatory practice for any person, based
+on the source of income of a prospective tenant or current tenant, to:
+      (1)   Refuse to lease or rent any housing accommodations to a prospective
+tenant or current tenant;
+      (2)   Make any distinction in the terms or conditions of the rental or
+leasing of a housing accommodation, including but not limited to charging an
+additional or increased amount of security deposit, additional or increased
+amount of rental rate or fees, or limiting, restricting, or prohibiting a
+tenant's privileges, access to or use of common facilities or areas;
+      (3)   Attempt to discourage the rental or lease of any housing
+accommodations;
+      (4)   Discriminate against any person in furnishing facilities, services,
+or privileges in connection with the rental or lease of any housing
+accommodations;
+      (5)   Assist, induce, incite, or coerce another person to commit an act
+or engage in a practice that violates this section;
+      (6)   Print, publish, or circulate any statement or advertisement
+relating to the rental or lease of any housing accommodations which indicates
+any preference, limitation, specification, or discrimination based upon the
+source of income of any prospective tenant or current tenant of such housing
+accommodations;
+      (7)   Coerce, intimidate, threaten, or interfere with any person in the
+exercise or enjoyment of, or on account of their having exercised or enjoyed,
+or on account of their having aided or encouraged any other person in the
+exercise or enjoyment of, any right granted or protected by this section;
+      (8)   Represent to a person that a housing accommodation is not available
+for the inspections or rental when the housing accommodation in fact is
+available for inspection or rental;
+      (9)   Otherwise make unavailable or deny a housing accommodation to a
+prospective tenant or current tenant that, but for the source of income of the
+person, would be eligible to rent the housing accommodation;
+      (10)   Serve a notice of termination of tenancy or commence a forcible
+entry and detainer action on grounds not authorized by Ohio law; or
+      (11)   Refuse to rent or lease a housing accommodation, or serve a notice
+of termination of tenancy, commence a forcible entry and detainer action on
+grounds not authorized by Ohio law, or otherwise deny to or withhold from any
+person or persons, the rental or leasing of a housing accommodation on the
+basis of the landlord's expected or actual increase in administrative
+obligations or additional expenses incurred by the landlord due to the tenant's
+source of income, which such increased obligations or expenses include but are
+not limit to inspection requirements of, or necessity to verify, participate
+in, or receive payment from, programs administered by any federal, state, or
+local government, or a nonprofit entity. Notwithstanding this prohibition, a
+landlord may require a tenant or prospective to do the following:
+         A.   Complete background screening inquiries or lawful criteria
+established prior to tenant's application and requested of all prospective
+tenants, or
+         B.   Pass a review and verification of tenant's prior rental history,
+criminal background, credit report, and utility payment history.
+   (c)   If a landlord requires a prospective tenant or current tenant to have
+a certain threshold level of income based on the ratio of income to rent in
+order to rent or lease a housing accommodation, then any source of income in
+the form of a rent voucher, subsidy, or any rental assistance, paid directly to
+the landlord must be subtracted from the total of the monthly rent prior to the
+landlord calculating if the threshold level of income has been m et. The
+landlord must use the same ratio of income to rent for all tenants and the
+calculation must be based only on the tenant's share of the rent obligation.
+   (d)   Organizational criminal liability as provided for in Sections 606.09
+and 606.10 shall apply to an organization that violates this section and shall
+result in that organization being guilty of a minor misdemeanor, punishable by
+a $150 fine.
+   (e)   A person who violates this section is guilty of a minor misdemeanor,
+punishable by a $150 fine.
+(Ord. 2024-05. Passed 4-3-24.)
 CHAPTER 642
 Offenses Relating to Property
 642.01   Definitions.
@@ -30132,9 +30250,9 @@ date of the judgment for legal separation.
 (ORC 2907.01)
 666.02 UNLAWFUL SEXUAL CONDUCT WITH A MINOR.
    (a)   No person who is 18 years of age or older shall engage in sexual
-conduct with another who is not the spouse of the offender, when the offender
-knows the other person is 13 years of age or older but less than 16 years of
-age, or the offender is reckless in that regard.
+conduct with another when the offender knows the other person is 13 years of
+age or older but less than 16 years of age, or the offender is reckless in that
+regard.
    (b)   Whoever violates this section is guilty of unlawful sexual conduct
 with a minor.
       (1)   Except as otherwise provided in division (b)(2), unlawful sexual
@@ -30144,15 +30262,14 @@ the offender is less than four years older than the other person, unlawful
 sexual conduct with a minor is a misdemeanor of the first degree.
       (3)   If the offender previously has been convicted of or pleaded guilty
 to a violation of Ohio R.C. 2907.02, 2907.03 or 2907.04, or any substantially
-similar municipal ordinance, or a violation of former Ohio R.C. 2907.12, or any
-substantially similar municipal ordinance, unlawful sexual conduct with a minor
-is a felony to be prosecuted under appropriate State law.
-(ORC 2907.04)
+equivalent municipal ordinance, or a violation of former Ohio R.C. 2907.12, or
+any substantially equivalent municipal ordinance, unlawful sexual conduct with
+a minor is a felony to be prosecuted under appropriate State law.
+         (ORC 2907.04)
 666.03 SEXUAL IMPOSITION.
-   (a)   No person shall have sexual contact with another, not the spouse of
-the offender; cause another, not the spouse of the offender, to have sexual
-contact with the offender; or cause two or more other persons to have sexual
-contact when any of the following applies:
+   (a)   No person shall have sexual contact with another; cause another to
+have sexual contact with the offender; or cause two or more other persons to
+have sexual contact when any of the following applies:
       (1)   The offender knows that the sexual contact is offensive to the
 other person, or one of the other persons, or is reckless in that regard.
       (2)   The offender knows that the other person's, or one of the other
@@ -33765,7 +33882,7 @@ or suspended.
       (2)   Whoever violates this division (a) is guilty of possessing a
 revoked or suspended concealed handgun license, a misdemeanor of the third
 degree.
-(ORC 2923.1211(B), (C))
+         (ORC 2923.1211(B), (C))
    (b)   Additional Restrictions. Pursuant to Ohio R.C. 2923.126:
       (1)   A concealed handgun license that is issued under R.C. § 2923.125
 shall expire five years after the date of issuance. A licensee who has been
@@ -33930,6 +34047,10 @@ restrictions as specified in this division B.
 firearms while on duty under R.C. § 109.771 has the same right to carry a
 concealed handgun in this state as a person who was issued a concealed handgun
 license under R.C. § 2923.125.
+         D.   A fire investigator who is qualified to carry firearms while on
+duty under R.C. § 109.774 has the same right to carry a concealed handgun in
+this state as a person who was issued a concealed handgun license under R.C. §
+2923.125.
       (6)   A.   A qualified retired peace officer who possesses a retired
 peace officer identification card issued pursuant to division (b)(6)B. of this
 section and a valid firearms requalification certification issued pursuant to
@@ -34020,45 +34141,47 @@ officer under division (b)(6)B. of this section.
 program that is approved for purposes of firearms requalification required
 under Ohio R.C. 109.801 may be required to pay the cost of the program.
       (7)   As used in division (b)(6) of this section:
-         A.   “Governing body” has the same meaning as in Ohio R.C. 154.01.
-         B.   “Government facility of this State or a political subdivision of
-this State” means any of the following:
+         A.   “Fire investigator.” Has the same meaning as in R.C. § 109.71
+         B.   “Governing body.” Has the same meaning as in R.C. § 154.01.
+         C.   “Government facility of this state or a political subdivision of
+this state.” Any of the following:
             1.   A building or part of a building that is owned or leased by
-the government of this State or a political subdivision of this State and where
-employees of the government of this State or the political subdivision
+the government of this state or a political subdivision of this state and where
+employees of the government of this state or the political subdivision
 regularly are present for the purpose of performing their official duties as
-employees of the State or political subdivision;
-            2.   The office of a deputy registrar serving pursuant to Ohio R.C.
+employees of the state or political subdivision;
+            2.   The office of a Deputy Registrar serving pursuant to R.C.
 Chapter 4503 that is used to perform deputy registrar functions.
-         C.   “Nonprofit corporation” means any private organization that is
+         D.   “Nonprofit corporation.” Means any private organization that is
 exempt from federal income taxation pursuant to subsection 501(a) and described
 in subsection 501(c) of the Internal Revenue Code.
-         D.   “Qualified retired peace officer” means a person who satisfies
-all of the following:
+         E.   “Qualified retired peace officer.” A person who satisfies all of
+the following:
             1.   The person satisfies the criteria set forth in divisions (b)
 (6)B.1.a. to (b)(6)B.1.d. of this section.
             2.   The person is not under the influence of alcohol or another
 intoxicating or hallucinatory drug or substance.
-            3.   The person is not prohibited by Federal law from receiving
+            3.   The person is not prohibited by federal law from receiving
 firearms.
-         E.   “Retired peace officer identification card” means an
-identification card that is issued pursuant to division (b)(6)B. of this
-section to a person who is a retired peace officer.
-         F.   “Tactical medical professional.” Has the same meaning as in R.C.
+         F.   “Retired peace officer identification card.” An identification
+card that is issued pursuant to division (b)(6)B. of this section to a person
+who is a retired peace officer.
+         G.   “Tactical medical professional.” Has the same meaning as in R.C.
 § 109.71.
-         G.   “Validating identification.” Means photographic identification
+         H.   “Validating identification.” Means photographic identification
 issued by the agency for which an individual serves as a peace officer that
 identifies the individual as a peace officer of the agency.
-(R.C. § 2923.126)
+            (R.C. § 2923.126)
    (c)   Posting of signs prohibiting possession. Each person, board, or entity
 that owns or controls any place or premises identified in R.C. § 2923.126(B) as
-a place into which a valid license does not authorize the licensee to carry a
-concealed handgun, or a designee of such a person, board, or entity, shall post
-in the following one or more conspicuous locations in the premises a sign that
-contains a statement in substantially the following form: “Unless otherwise
-authorized by law, pursuant to the Ohio Revised Code, no person shall knowingly
-possess, have under the person’s control, convey, or attempt to convey a deadly
-weapon or dangerous ordnance onto these premises.”
+a place into which a valid
+license does not authorize the licensee to carry a concealed handgun, or a
+designee of such a person, board, or entity, shall post in the following one or
+more conspicuous locations in the premises a sign that contains a statement in
+substantially the following form: “Unless otherwise authorized by law, pursuant
+to the Ohio Revised Code, no person shall knowingly possess, have under the
+person’s control, convey, or attempt to convey a deadly weapon or dangerous
+ordnance onto these premises.”
 (R.C. § 2923.1212)
 678.16 DEFACED FIREARMS.
    (a)   No person shall do either of the following:
@@ -34954,18 +35077,18 @@ misdemeanors under this division, the term to be served is the aggregate of the
 consecutive terms imposed, except that the aggregate term to be served shall
 not exceed 18 months.
       (2)   A jail term or sentence of imprisonment imposed for a misdemeanor
-violation of Ohio R.C. 4510.14, 4510.16, 4510.21, or 4511.19, or a
-substantially similar municipal ordinance, shall be served consecutively to a
-prison term that is imposed for a felony violation of Ohio R.C. 2903.06,
-2903.07, 2903.08 or 4511.19 or a felony violation of Ohio R.C. 2903.04
-involving the operation of a motor vehicle by the offender and that is served
-in a State correctional institution when the trial court specifies that it is
-to be served consecutively. When consecutive jail terms or sentences of
-imprisonment and prison terms are imposed for one or more misdemeanors and one
-or more felonies under this division, the term to be served is the aggregate of
-the consecutive terms imposed, and the offender shall serve all terms imposed
-for a felony before serving any term imposed for a misdemeanor.
-(ORC 2929.41)
+violation of R.C. § 4510.14, 4510.16, 4510.21 or 4511.19, or a substantially
+equivalent municipal ordinance, shall be served consecutively to a prison term
+that is imposed for a felony violation of R.C. § 2903.06, 2903.08 or 4511.19 or
+a felony violation of R.C. § 2903.04 involving the operation of a vehicle by
+the offender and that is served in a state correctional institution when the
+trial court specifies that it is to be served consecutively. When consecutive
+jail terms or sentences of imprisonment and prison terms are imposed for one or
+more misdemeanors and one or more felonies under this division, the term to be
+served is the aggregate of the consecutive terms imposed, and the offender
+shall serve all terms imposed for a felony before serving any term imposed for
+a misdemeanor.
+         (R.C. § 2929.41)
 698.06 MODIFICATION OF SENTENCE. (REPEALED)
    (EDITOR'S NOTE: Section 698.06 was repealed as part of the 2003 updating and
 revision of this Model Ohio Municipal Code because substantially identical
@@ -43003,10 +43126,10 @@ customer shall be retained by the Municipality. However, if the test shows the
 meter to be more than three percent inaccurate, then the amount of the fee paid
 by the customer shall be refunded by the Municipality.
 (Ord. 80-77. Passed 12-16-80.)
-   (c)   Testing Fee. The testing fee to be paid for a meter test made on
-application to the
-Municipality shall be as set forth in the General Fee Schedule (see
-Chapter 208 of the Administration Code).
+   (c)   Testing Fee. To test a % inch meter the charge shall be twenty-five
+dollars ($25.00), meters larger than % inches the charge shall be cost of labor
+to remove the meter and cost of the test.
+(Ord. 2024-26. Passed 12-3-24.)
 1046.06 CUSTOMER DUTIES AND PROHIBITIONS.
    (a)   No person shall cover up or interfere with any curb box, water meter
 or hydrant.
@@ -43204,7 +43327,7 @@ follows:
 is hereby established as follows:
 Meter Size (inches) Inside Corporation Outside Corporation
 Meter Size (inches) Inside Corporation Outside Corporation
-3/4                 $ 4.50             $ 9.00
+3/4                 $ 4.50             $ 4.50
 1                   5.72               11.44
 1 ½                9.15               18.30
 2                   12.00              24.00
@@ -43230,19 +43353,19 @@ Effective Year Gallons, Cost per Gallons, Cost per
 2015           $4.16             $6.39
 2016           $4.16             $6.39
 2023           $4.16             $6.39
+2025           $5.07             $7.30
  
       There shall be a ten percent surcharge on the metered rate set forth
-herein for all customers outside the corporation limits, except as provided in
-subsection (c) hereof.
+herein for all customers outside the corporation limits.
    (c)   Notwithstanding the provisions of subsections (a) and (b) hereof, with
 respect to nonresidents, Township residents whose property abuts or is
 traversed by the water line to be constructed on Diley Road by the City, and
 who wish to be served by City water, shall be treated, for purposes of water
 rates and water system capacity charges, as residents of the City.
-(Ord. 97-88. Passed 11-18-97; Ord. 2002-130. Passed 11-5-02; Ord. 2006-91.
-Passed 10-3-06; Ord. 2012-07. Passed 3-20-12; Ord. 2014-13. Passed 4-1-14; Res.
-2015-16R. Passed 5-5-15; Res. 2016-06R. Passed 4-5-16; Res. 2023-13R. Passed 4-
-4-23.)
+      (Ord. 97-88. Passed 11-18-97; Ord. 2002-130. Passed 11-5-02; Ord. 2006-
+91. Passed 10-3-06; Ord. 2012-07. Passed 3-20-12; Ord. 2014-13. Passed 4-1-14;
+Res. 2015-16R. Passed 5-5-15; Res. 2016-06R. Passed 4-5-16; Res. 2023-13R.
+Passed 4-4-23; Ord. 2024-26. Passed 12-3-24.)
 1050.02 CALCULATION OF BILLS.
    (a)   Basis of Calculation. For the January, 2003, billing all water bills
 will be figured on the basis of the amount of water used in the previous
@@ -44495,8 +44618,9 @@ Ch. 1067
    Sanitary sewer improvements - see P. & Z.
 1258.21
 1060.01 RATES ESTABLISHED; COMPUTATION OF USAGE.
-   (a)   Rates. There is hereby established a sewer service charge for the use
-of and for the service made available by the Municipal sanitary sewer system,
+   (a)   Rates.
+      (1)   There is hereby established a sewer service charge for the use of
+and for the service made available by the Municipal sanitary sewer system,
 which charge shall be based upon the amount of waste flow into the Municipal
 sewerage system, whether from within or without the Municipality, according to
 the following schedule:
@@ -44513,11 +44637,21 @@ Effective Year Under 3,000 Gallons Over 3,000 Gallons,
 2015           $27.38              $9.13
 2016           $27.38              $9.13
 2023           $27.38              $9.13
+2025           $24.66              $8.22
  
-(Ord. 2000-68. Passed 7-18-00; Ord. 2002-130. Passed 11-5-02; Ord. 2002-139.
-Passed 1-7-03; Ord. 2011-21. Passed 4-19-11; Ord. 2012-07. Passed 3-20-12; Ord.
-2014-13. Passed 4-1-14; Res. 2015-16R. Passed 5-5-15; Res. 2016-06R. Passed 4-
-5-16; Res. 2023-13R. Passed 4-4-23.)
+      (2)   Fixed rate. This flat rate sewer charge is per 8,000 gallons.
+ 
+Effective Year 8,000 Gallons
+2023           $73.04
+2025           $65.76
+ 
+      (3)   Utility deposit fee. To establish service there shall be a one
+hundred dollar ($100.00) deposit fee for all renters.
+         (Ord. 2000-68. Passed 7-18-00; Ord. 2002-130. Passed 11-5-02; Ord.
+2002-139. Passed 1-7-03; Ord. 2011-21. Passed 4-19-11; Ord. 2012-07. Passed 3-
+20-12; Ord. 2014-13. Passed 4-1-14; Res. 2015-16R. Passed 5-5-15; Res. 2016-
+06R. Passed 4-5-16; Res. 2023-13R. Passed 4-4-23; Ord. 2024-26. Passed 12-3-
+24.)
    (b)   Computation of Usage.
       (1)   For any building, dwelling or other structure connected to the
 Municipal sanitary sewers and also connected to the Municipal water system, the
@@ -44559,11 +44693,11 @@ quantity of sewage actually entering the sewer system. The meters shall be
 approved by the Manager and furnished, installed and maintained at the expense
 of the user.
       (3)   When the user is supplied with water, in part or in total, from a
-source other than the Municipal water system, the Manager shall require the
-installation of meters to measure the supply of water from all sources or to
-measure the volume of sewage entering the sewer system. The meters shall be
-approved by the Manager and furnished, installed and maintained at the expense
-of the user.
+source other          than the Municipal water system, the Manager shall
+require the installation of meters to measure the supply of water from all
+sources or to measure the volume of sewage entering the sewer system. The
+meters shall be approved by the Manager and furnished, installed and maintained
+at the expense of the user.
       (4)   All sewage entering the sewer system shall be measured for payment.
 All meters required under this section shall be furnished and installed at the
 expense of the user. All defective meters shall be replaced at the expense of
@@ -44571,7 +44705,7 @@ the user.
       (5)   The Manager may require from the user that the Municipality be
 furnished, upon request, with information and data on all sources of water
 within the confines of the premises which may enter the sewer system.
-(Ord. 2000-40. Passed 6-6-00; Ord. 2006-91. Passed 10-3-06.)
+         (Ord. 2000-40. Passed 6-6-00; Ord. 2006-91. Passed 10-3-06.)
 1060.02 BILLING AND NONPAYMENT.
    Bills for rates and charges are herein established by the Municipality and
 shall be sent monthly. All bills shall be payable on the fifteenth day of the
@@ -47483,7 +47617,7 @@ acceptance of the project. When the City Engineer determines that it is
 necessary, the deed shall also provide a permanent access easement twenty feet
 in width.
 EXHIBIT A
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4030.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1258.24   ELECTRIC, GAS AND TELEPHONE IMPROVEMENTS.
@@ -50407,13 +50541,13 @@ depth of the existing front yards on the lots adjacent to each side if each of
 such lots is within the same block and within 100 feet of the subject site. No
 structure shall be located forward of such average depth of existing
 structures.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4035.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1276.13   DOUBLE FRONTAGE LOTS.
    Where lots have a double frontage, the required front yard shall be provided
 on both streets.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4037.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1276.14   CORNER LOTS.
@@ -50422,7 +50556,7 @@ shall be a front yard on each street side. When a street intersects with a
 private driveway, one yard shall be considered a front yard and one yard shall
 be considered a side yard. The buildable width of a lot shall not be reduced to
 less than forty feet.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4039.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1276.15   ACCESSORY USES IN FRONT YARDS.
@@ -50526,7 +50660,7 @@ designed so that it has a front entrance and front facade facing upon a public
 street and shall meet all setback, lot size, side yard and minimum living space
 requirements, and all other requirements of this Zoning Code and of the
 Building and Housing Code.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4041.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1276.24   RESIDENTIAL BUILDING DESIGN STANDARDS.
@@ -53064,12 +53198,37 @@ vehicle:
          B.   Is not in operating condition.
       (2)   Such motor vehicles may be parked or stored for a period in excess
 of seven days if parked or stored entirely within an enclosed building.
-   (f)   School Buses and Semitrailers. School buses and semitrailers may be
-parked in the AGR Rural District and the C3, C4, M1 and M Districts, but they
-shall not be parked in any other district except as they may be parked on the
-property of the local school district. (See
-Chapter 452 of the Traffic Code.)
-(Ord. 2014-27. Passed 8-5-14.)
+   (f)   School Buses and School-Owned Vehicles. School buses and school-owned
+vehicles may be parked in the AGR Rural District and the C3, C4, M1 and M
+Districts, but they shall not be parked in any other district except as they
+may be parked on the property of the local school district. (See Chapter 452 of
+the Traffic Code.)
+   (g)   Commercial Vehicles.
+      (1)   No commercial tractor, truck, trailer, automobile or other similar
+vehicle or apparatus weighing more than 8,000 pounds shall be permitted on any
+lot or parcel of land in any residential zoning district of the City subject to
+the exceptions in subsection (c) hereof and the school vehicle exception in
+subsection (f) hereof. The violation shall occur at the moment the vehicle is
+located on the property and documented with photographic evidence and the
+movement of such vehicle after receiving notice of a violation does not cure
+the initial violation.
+      (2)   Penalty.
+         A.   A violation of this provision shall constitute a minor
+misdemeanor punishable by up to a one hundred fifty dollar ($150.00) fine per
+violation. Each day of a violation shall constitute a separate and continuing
+offense, each of which is punishable by a fine of up to one hundred fifty
+dollars ($150.00) per day.
+         B.   If a person is convicted of a second offense within six months of
+an initial conviction, the offense shall constitute an unclassified misdemeanor
+punishable by up to a one thousand dollar ($1,000) fine per offense.
+      (3)   This section shall not apply to such vehicles used for conveying
+the necessary tools and materials to premises where labor using such materials
+is to be performed during the actual time of parking such vehicles, nor to the
+actual time during which such vehicles are being loaded or unloaded or used to
+deliver or hoist property or merchandise for completion of delivery as long as
+such activities referred to in this provision are conducted diligently and
+without unnecessary delay.
+         (Ord. 2014-27. Passed 8-5-14; Ord. 2024-09. Passed 5-21-24.)
 CHAPTER 1292
 Signs
 1292.01   Intent; scope; use types; unlisted signs.
@@ -53753,7 +53912,7 @@ The light level produced by the sign shall be measured using the following
 equation based on a typical sign-to-viewer distance: the square root of the
 product of the sign area multiplied by 100. Example using a twelve square foot
 sign:
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4471.png]
 measuring distance. Automatic dimming capability shall be implemented to adjust
 the signs illumination to the ambient light at all times of the day or night.
@@ -54531,7 +54690,7 @@ and/or some type of mechanical barrier and/or an earth berm. Plant material
 shall reach desired maturity within two years of planting and shall provide the
 same level of buffering all year. Plant materials used shall be from the list
 provided in subsection (c) hereof. Acceptable options are presented below:
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4046.jpg]
       (3)   Light buffer, Type C. A Type C buffer is the least intense buffer
 required. This buffer is to be at least thirty percent opaque from the ground
@@ -54540,7 +54699,7 @@ and/or some type of mechanical barrier and/or an earth berm. Plant material
 shall reach desired maturity within two years of planting and shall provide the
 same level of buffering all year. Plant material used shall be from the list
 provided in subsection (c) hereof. Acceptable options are presented below:
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4048.jpg]
    (c)   Buffer Locations.
 When Adjacent: AGR R1 R2 R3 R4 R6 R10 C1 C2 O C3 C4 M1 M
@@ -54579,7 +54738,7 @@ shall not be narrower at any point than one-half the otherwise required least
 width, or narrower than three feet in any case. This requirement
 notwithstanding, no new addition to any building shall encroach upon the
 minimum required side yard.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4050.jpg]
    (b)   Projections Into Yards. There may be projections into required yard
 areas as follows:
@@ -54602,7 +54761,7 @@ balconies, Oreil windows and chimneys may project into a yard for a distance
 not to exceed three feet, provided, however, that the aggregate width of such
 projection does not exceed one-third of the length of the wall upon which it is
 located.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4052.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1296.03   FOUNDATIONS.
@@ -54741,7 +54900,7 @@ feet above the ground shall be clear of landscape materials, vehicles, fences,
 signs or any other view obstructing structures. Only deciduous trees may be
 permitted in the sight triangle, so long as only the trunk is visible within
 ten feet above the ground, except during early growing stages.
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4054.jpg]
    (c)   Thoroughfare Plans/Access Policy. In addition to the frontage,
 driveway and set-back requirements herein, there may be additional requirements
@@ -54927,7 +55086,8 @@ apparatuses associated with the operation of a ground-mounted solar energy
 system shall be located underground unless otherwise technologically not
 feasible.
    (g)   Maintenance.
-      (1)   All solar energy systems shall be maintained in good working order.
+      (1)   All solar energy systems shall be maintained in good working order
+and any broken panels shall be replaced within 60 days.
       (2)   Any physical modification to the solar energy system that alters
 the number, size, location, or major electrical components shall require
 reapplication for zoning certificate under this chapter. Like kind replacements
@@ -54954,9 +55114,16 @@ horizontal portion of a mansard roof or a roof surrounded by a parapet shall be
 set back a minimum of five feet from the edge of the roof.
          B.   Roof mounted solar energy systems located on a pitched roof must
 be set back a minimum of three feet from the edge of the roof and ridgeline.
-         C.   Roof mounted solar energy systems shall not be located on a front
+         C.   Roof mounted solar energy systems shall be permitted on a front
 building elevation, or on any elevation facing within ninety degrees of the
-front building elevation.
+front building elevation, so long as they comply with the following
+requirements:
+            1.   All panels of the solar energy system shall be black on black
+with black trim;
+            2.   Conduit to the solar energy system shall be run through the
+attic; and
+            3.   All panels along visible edges shall be trimmed to appear
+flush with the roof.
    (j)   Height.
       (1)   Ground mounted solar energy systems may not exceed fifteen feet in
 height as measured from the ground to the maximum height of the solar energy
@@ -54973,7 +55140,7 @@ the panel no more than twelve inches from the surface of the roof at any point.
 calculations of the zoning district in which they are located
    (k)   Lot Coverage. Ground mounted solar energy systems shall count towards
 the lot coverage calculation for the zoning district in which they are located.
-(Ord. 2014-27. Passed 8-5-14.)
+      (Ord. 2014-27. Passed 8-5-14; Ord. 2024-12. Passed 7-16-24.)
 1298.06   PROCEDURE FOR REVIEW.
    (a)   In accordance with Section
 1272.06 - Administrative Procedures; Zoning Certificates, a solar energy system
@@ -55509,7 +55676,7 @@ the building planes into components with proportions that emphasize neither the
 vertical nor horizontal dimension beyond a ratio of 2.3. Figure 10 below shows
 a series of facades with various proportions and articulation.
 FIGURE 10
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4056.jpg]
    Figure 10: The illustration shows the proportions of facades in a
 traditional-style commercial street which range from 1:1 to a 2:1 vertical to
@@ -55536,7 +55703,7 @@ masonry pattern or material or differently colored materials; sloping roof with
 overhangs and brackets; stepped parapets; or aligned openings and
 articulations.
 FIGURE 11
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4058.jpg]
    Top of Building:
    Cupola, variation in roof form, visible roof form, clerestory windows,
@@ -55565,7 +55732,7 @@ the length of the facade.
 pilasters (see trim & details) that subdivide the facade into human-scale
 proportions.
 FIGURE 12
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4060.jpg]
    This side view of a front facade shows how setbacks or changes in wall plane
 were used to achieve horizontal articulation. The facade also incorporates
@@ -55587,13 +55754,13 @@ have windows or vents. See Figure 14.
 three percent of the building's depth, with window openings in the recessed
 wall indicating the presence of an upper-story. See Figure 15.
 FIGURE 13
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4062.jpg]
 FIGURE 14
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4064.jpg]
 FIGURE 15
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4066.jpg]
                b.   Primary facades which have total building heights over
 twenty feet shall be vertically articulated to present the appearance of at
@@ -55630,7 +55797,7 @@ and windows section);
 detailing section) that subdivide the facade into human-scale proportions. See
 Figure 16 below.
 FIGURE 16
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4068.jpg]
    This secondary facade is visible from a public road. The articulation has
 been carried over from the primary facade and incorporates variation in
@@ -55688,7 +55855,7 @@ be appropriate as described below.
 character desired and shall be the preferred roof form for new nonresidential
 buildings or portions thereof. See Figure 17 below for types of pitched roofs.
 FIGURE 17
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4070.jpg]
    Pitched roof forms.
             1.   Appropriate pitched roof forms for nonresidential structures
@@ -55702,7 +55869,7 @@ parapets on large-scale retail buildings, office buildings, or industrial
 buildings where full gabled roof forms or hipped roofs would be cost
 prohibitive or impractical. See Figure 18.
 FIGURE 18
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4072.jpg]
    Use of shed roofs on all facades of a building allows for a void in the roof
 form to house equipment while still conveying the impression of a gabled or
@@ -55717,7 +55884,7 @@ residential areas to portray the appearance of a gabled or hipped roof form.
 The pitch on a shed roof is encouraged to be between 5:12 and 14:12. See Figure
 19.
 FIGURE 19
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4074.jpg]
             5.   When the height of a pitched roof on a retail or office
 structure is forty percent or more of the total height of the building and
@@ -55725,7 +55892,7 @@ extends horizontally more than forty feet without a break or variation in roof
 form, dormers shall be used to break-up the roof plane or primary facades. See
 Figure 20.
 FIGURE 20
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4076.jpg]
          C.   Flat roofs. Flat roofs allow for practical application on large
 structures and provide variety and flexibility in nonresidential building
@@ -55749,7 +55916,7 @@ vertically measured is a minimum of five percent of the exterior wall height,
 coordinates with the overall design of the structure, and projects a minimum of
 four inches from the surface of the facade. See Figure 21;
 FIGURE 21
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4078.jpg]
                b.   Rooftop equipment is not visible from public spaces or
 adjacent residential areas; and
@@ -55757,7 +55924,7 @@ adjacent residential areas; and
 the facade with which the flat roof is associated incorporates either awnings
 or overhanging projections to cover walkways. See Figure 22.
 FIGURE 22 
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4080.jpg]
          D.   Asymmetric or dynamic roofs. Asymmetric or dynamic roof forms
 allude to motion, provide variety and flexibility in nonresidential building
@@ -55766,7 +55933,7 @@ be permitted on nonresidential buildings provided the criteria for flat roofs
 in paragraph C. above are met. See Figure 23 for an example of a building with
 a dynamic roof form.
 FIGURE 23
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4082.jpg]
          E.   Facade extensions and parapets. Facade extensions or parapets may
 be used on flat roofed structures to create variation and screen rooftop
@@ -55781,7 +55948,7 @@ or flat wall extended beyond the roof form when viewed in profile (See Figure
 24). Exceptions may be made by the City for rear facades that are not visible
 from public spaces or residential areas.
 FIGURE 24
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4084.jpg]
    Figure 24: This image shows a thin parapet extension this style is
 prohibited. See Figure 25 for preferred alternatives.
@@ -55791,7 +55958,7 @@ the pitched roof should project from the main wall and the pitched roof should
 be a minimum of ten percent of the building depth or terminated into a shed or
 gabled roof. See examples in Figure 25.
 FIGURE 25
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4086.jpg]
    This illustration shows the preferred methods for the use of parapets or
 roof forms for facades rather than the use of thin parapets as shown in Figure
@@ -55814,7 +55981,7 @@ pillars or columns of sufficient width and depth to create the appearance of an
 arcade or other architecturally integrated feature that reiterates the
 articulation standards established herein. See Figure 26 for examples.
 FIGURE 26
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4088.jpg]
    (c)   Gas Station/Service Station Canopies.
       (1)   Purpose. The appearance and scale of a gas station or service
@@ -55862,9 +56029,9 @@ usually comprising fifty percent or more of the facade finishing material.
 more than twenty-five percent of the facades surface. See illustrations in
 Figure 27.
 FIGURE 27
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4090.jpg]
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4092.jpg]
 Figure 27:
 This building facade represents a total of 1,557 square feet excluding the roof
@@ -56053,7 +56220,7 @@ made on the same facade, it shall be completed either with appropriate trim or
 as an accent with variation such as quoining or reveals based on material
 thickness. See Figure 28 for examples.
 FIGURE 28
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4094.jpg]
    This building example shows how a variety of materials can be successfully
 transitioned with changes in thickness
@@ -56068,7 +56235,7 @@ Flemish Bond, or English Bond. Stack Bond may only be used as accent. Soldier
 and sailor courses and rowlock courses are also appropriate as accent. See
 illustrations below in Figure 29.
 FIGURE 29
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4096.jpg]
 This figure illustrates the various types of brick or bonds used in masonry.
 Source: http://www.oldvirginiabrick.com
@@ -56098,7 +56265,7 @@ individual business to present a clear business image without compromising the
 unity of the facade or the general character of the City. Entries shall not be
 solely identified by signage. See Figure 30.
 FIGURE 30
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4098.jpg]
    (f)   Fenestration and Windows. Fenestration or the pattern of window
 openings in a facade assists with the articulation of the building and improves
@@ -56116,10 +56283,10 @@ percent of the floor height in which they are installed.
 into vertically proportioned components either through multi-part windows
 (shown in Figure 31) or other divided lights.
 FIGURE 31
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4100.jpg]
 FIGURE 32
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4102.jpg]
 These images show horizontally formatted windows that are divided into vertical
 components. Figure 32 shows the appropriate way to incorporate glazing on the
@@ -56147,7 +56314,7 @@ a bay with no windows which is approximately equal in width to the group of
 windows. Figure 35 shows fenestration where the spacing between windows is
 equal to the width of a window.
 FIGURE 33
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4104.jpg]
          B.   When a genuine window opening is not feasible, variation in the
 facade's pattern or the use of "blanks" on mortar buildings and shuttered
@@ -56160,7 +56327,7 @@ second floor windows is greater than two times the height of the upper story
 window spandrel panels shall be used. See Figure 34 which shows spandrel panels
 used to improve articulation.
 FIGURE 34
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4106.jpg]
          D.   Windows used to establish a fenestration pattern should generally
 be of the same size; however, smaller or larger windows may be employed to
@@ -56182,7 +56349,7 @@ stucco buildings the blank may appear to be a bricked or filled in window. On
 non-masonry buildings, closed shutters can be used rather than an actual window
 to convey the impression of the window. See Figure 35.
 FIGURE 35
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4108.jpg]
    This office building employs bricked-in openings to continue the rhythm of
 open windows where openings were not feasible. This is a side facade which
@@ -56195,7 +56362,7 @@ describe the required per Len ages of windows on the various facades based on
 the type o building. The method to calculate fenestration area is shown in
 Figure 36.
 FIGURE 36
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4110.jpg]
    This illustration shows how to determine the required area for openings.
 This example shows the percentages required for primary facades 50% on the
@@ -56312,7 +56479,7 @@ define the facade openings and articulation. However, the City may approve non-
 contrasting trim and detailing if it enhances the articulation and character of
 the structure. See Figure 37.
 FIGURE 37
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4112.jpg]
    This building shows the emphasis added by incorporating trim that contrasts
 with the main color of the building. The entryway, windows and outline of the
@@ -56332,7 +56499,7 @@ are:
 Examples of detailing are shown below in Figure 38. The letters correspond to
 the listed items above.
  FIGURE 38
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4114.jpg]
    (h)   Mechanical Equipment. Mechanical equipment shall be screened and/or
 incorporated into the architectural design of the building.
@@ -56349,7 +56516,7 @@ the basic building material color on which it is located to reduce the impact
 of its appearance unless it can successfully be integrated with other trim or
 detailing in a manner that enhances the architectural style of the structure.
 FIGURE 39
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4116.jpg]
 (Ord. 2014-27. Passed 8-5-14.)
 1300.07   RELATIONSHIP TO SURROUNDING USES.
@@ -56381,7 +56548,7 @@ buildings.
 especially with nonresidential uses that are pedestrian-intensive, for example
 restaurants and banks.
 FIGURE 40
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4118.jpg]
    To the maximum extent practicable, commercial development shall employ
 transition techniques to ensure compatibility with surrounding development,
@@ -56444,7 +56611,7 @@ the adjacent property, evergreen trees of at least five feet in height at the
 time of planting shall be placed along the wall to increase the buffers height
 to above ten feet at maturity.
 FIGURE 41
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4120.jpg]
       (3)   Semi-opaque buffer, Type B. A Type B buffer is the intermediate
 buffer. This buffer is to be completely opaque from the ground to three feet
@@ -56456,7 +56623,7 @@ wall, or earthen berm and either small trees at thirty foot intervals or medium
 or large trees at forty foot intervals shall be used to create a buffer.
 Examples of acceptable options are presented below in Figure 42.
 FIGURE 42
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4122.jpg]
       (4)   Light buffer, Type C. A Type C buffer is the least intense buffer.
 This buffer is to be at least thirty percent opaque from the ground to six feet
@@ -56468,7 +56635,7 @@ large/medium trees at forty-foot intervals and assorted shrubbery or split rail
 fences shall be used to achieve the required thirty percent opacity. Acceptable
 options are presented below in Figure 43.
 FIGURE 43
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4124.jpg]
    (c)   Street Screening.
       (1)   Purpose. The appearance of private development should be
@@ -56808,7 +56975,7 @@ taken into consideration on all nonresidential developments to promote
 consistency throughout the City. (See Figure 44 for examples of preferred
 types.)
 FIGURE 44
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4126.jpg]
 Source: Visionaire Lighting. Documents can be found at
 www.visionairelighting.com
@@ -57034,13 +57201,13 @@ architecturally appropriate for the building.
       (6)   All other sign standards of these codified ordinances apply.
 (Ord. 2014-27. Passed 8-5-14.)
 Appendix I - Parking Lot Lighting
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4128.jpg]
 Appendix II - Environmental Treatment
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4130.jpg]
 APPENDIX III - SIGN TYPES
-[https://export.amlegal.com/media/44bff6043943c74da9b7c1eb1f30fbba7158e1f1/
+[https://export.amlegal.com/media/7db3ab5dfb5a24523ca3449c4e8d3b55b4d74fc2/
 IMAGES/0-0-0-4132.jpg]
 (Ord. 89-31. Passed 5-16-89.)
 TABLE I - PERMITTED USES, ACCESSORY USES AND CONDITIONAL USES
@@ -59588,23 +59755,27 @@ Flood Damage Control
 1466.18   Post-construction certifications required.
 1466.19   Revoking a floodplain development permit.
 1466.20   Exemption from filing a development permit.
+1466.201   State and federal development.
 1466.21   Map maintenance activities.
 1466.22   Data use and flood map interpretation.
+1466.221   Use of preliminary flood insurance rate map and/or flood insurance
+study data.
 1466.23   Substantial damage determinations.
 1466.24   Use and development standards for flood hazard reduction.
 1466.25   Use regulations.
 1466.26   Water and wastewater systems.
-1466.27   Subdivisions and large developments.
+1466.27   Subdivisions and other new developments.
 1466.28   Residential structures.
 1466.29   Nonresidential structures.
 1466.30   Accessory structures.
 1466.31   Recreational vehicles.
-1466.32   Above-ground gas or liquid storage tanks.
+1466.32   Gas or liquid storage tanks.
 1466.33   Assurance of flood-carrying capacity.
-1466.34   Flood Damage Control Board.
+1466.34   Appeals Board established.
 1466.35   Powers and duties.
 1466.36   Appeals.
 1466.37   Variances.
+1466.371   Procedure at hearings.
 1466.38   Appeal to the court.
 1466.39   Compliance required.
 1466.40   Notice of violation.
@@ -59690,27 +59861,32 @@ City.
 1466.06 BASIS FOR ESTABLISHING THE AREAS OF SPECIAL FLOOD HAZARD.
    For the purposes of these regulations, the following studies and/or maps are
 adopted:
-   (a)   “Flood Insurance Study, Fairfield County, Ohio and Incorporated
-Areas,” dated January 6, 2012.
-   (b)   “Flood Insurance Rate Map, Fairfield County, Ohio and Incorporated
-Areas”, dated January 6, 2012.
-   (c)   Any hydrologic and hydraulic engineering analysis authored by a
+   (a)   Flood Insurance Rate Map (FIRM) and Flood Insurance Study (FIS) for
+Fairfield County, Ohio and Incorporated Areas, both effective April 25, 2024.
+   (b)   Flood Insurance Rate Map (FIRM) and Flood Insurance Study (FIS) for
+Franklin County, Ohio and Incorporated Areas, both effective January 6, 2012.
+   (c)   Other studies and/or maps, which may be relied upon for establishment
+of the flood protection elevation, delineation of the 100-year floodplain,
+floodways or delineation of other areas of special flood hazard.
+   (d)   Any hydrologic and hydraulic engineering analysis authored by a
 registered professional engineer in the State of Ohio which has been approved
-by the City as required by Section
-1466.28 Subdivisions and Large Developments.
-   (d)   Any revisions to the aforementioned maps and/or studies are hereby
+by the City as required by Section 1466.27, Subdivisions and Other New
+Developments.
+   (e)   Any revisions to the aforementioned maps and/or studies are hereby
 adopted by reference and declared to be a part of these regulations. Such maps
-and/or studies are on file at the Floodplain Administrator's Office,
-Pickerington City Hall, 100 Lockville Road, Pickerington, Ohio.
-(Ord. 2011-60. Passed 11-15-11.)
+and/or studies are on file at the Department of Planning, Building and
+Engineering, 51 East Columbus Street, Pickerington, Ohio 43147.
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.07 ABROGATION AND GREATER RESTRICTIONS.
-   These regulations are not intended to repeal any existing ordinances,
+   These regulations are not intended to repeal any existing ordinances
 including subdivision regulations, zoning or building codes. In the event of a
 conflict between these regulations and any other ordinance, the more
-restrictive shall be followed. These regulations shall not impair any deed,
-restriction, covenant or easement, but the land subject to such interests shall
-also be governed by the regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+restrictive shall be followed. These regulations are not intended to repeal,
+abrogate or impair any existing easements, covenants or deed restrictions.
+However, where this chapter and another ordinance, easement, covenant or deed
+restriction conflict or overlap, whichever imposes the more stringent
+restrictions shall prevail.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.08 INTERPRETATION.
    In the interpretation and application of these regulations, all provisions
 shall be:
@@ -59743,95 +59919,100 @@ so declared to be unconstitutional or invalid.
    Unless specifically defined below, words or phrases used in these
 regulations shall be interpreted so as to give them the meaning they have in
 common usage and to give these regulations the most reasonable application.
-   (a)   “Accessory structure.” A structure on the same lot with, and of a
+   (a)   "Accessory structure." A structure on the same lot with, and of a
 nature customarily incidental and subordinate to, the principal structure.
-   (b)   “Appeal.” A request for review of the Floodplain Administrator's
+   (b)   "Appeal." A request for review of the Floodplain Administrator’s
 interpretation of any provision of these regulations or a request for a
 variance.
-   (c)   “Base flood.” The flood having a 1% chance of being equaled or
+   (c)   "Base flood." The flood having a 1% chance of being equaled or
 exceeded in any given year. The base flood may also be referred to as the 1%
-chance annual flood or 100-year flood.
-   (d)   “Base (100-year) flood elevation (BFE).” The water surface elevation
+chance annual flood or 100 year flood.
+   (d)   "Base (100-year) flood elevation (BFE)." The water surface elevation
 of the base flood in relation to a specified datum, usually the National
 Geodetic Vertical Datum of 1929 or the North American Vertical Datum of 1988,
 and usually expressed in feet mean sea level (MSL). In Zone AO areas, the base
-flood elevation is the natural grade elevation plus the depth number (from one
-to three feet).
-   (e)   “Basement.” Any area of the building having its floor subgrade (below
+flood elevation is the lowest adjacent natural grade elevation plus the depth
+number (from one to three feet).
+   (e)   "Basement." Any area of the building having its floor subgrade (below
 ground level) on all sides.
-   (f)   “Development.” Any man-made change to improved or unimproved real
+   (f)   "Development." Any manmade change to improved or unimproved real
 estate, including but not limited to buildings or other structures, mining,
 dredging, filling, grading, paving, excavation or drilling operations or
 storage of equipment or materials.
-   (g)   “Enclosure below the lowest floor.” See “Lowest floor.”
-   (h)   “Executive Order 11988 (Floodplain Management).” Issued by President
+   (g)   "Enclosure below the lowest floor." See "Lowest floor."
+   (h)   "Executive Order 11988 (Floodplain Management)." Issued by President
 Carter in 1977, this order requires that no federally assisted activities be
 conducted in or have the potential to affect identified special flood hazard
 areas, unless there is no practicable alternative.
-   (i)   “Federal Emergency Management Agency (FEMA).” The agency with the
+   (i)   "Federal Emergency Management Agency (FEMA)." The agency with the
 overall responsibility for administering the National Flood Insurance Program.
-   (j)   “Fill.” A deposit of earth material placed by artificial means.
-   (k)   “Flood” or “flooding.” A general and temporary condition of partial or
+   (j)   "Fill." A deposit of earth material placed by artificial means.
+   (k)   "Flood" or "flooding." A general and temporary condition of partial or
 complete inundation of normally dry land areas from:
-      (1)   The overflow of inland or tidal waters; and/or
+      (1)   The overflow of inland or tidal waters, and/or
       (2)   The unusual and rapid accumulation or runoff of surface waters from
 any source.
-   (l)   “Flood Hazard Boundary Map (FHBM).” Usually the initial map, produced
+   (l)   "Flood hazard boundary map (FHBM)." Usually the initial map, produced
 by the Federal Emergency Management Agency, or U.S. Department of Housing and
 Urban Development, for a community depicting approximate special flood hazard
 areas.
-   (m)   “Flood Insurance Rate Map (FIRM).” An official map on which the
+   (m)   "Flood insurance rate map (FIRM)." An official map on which the
 Federal Emergency Management Agency or the U.S. Department of Housing and Urban
 Development has delineated the areas of special flood hazard.
-   (n)   “Flood Insurance Risk Zones.” Zone designations on FHBMs and FIRMs
+   (n)   "Flood insurance risk zones." Zone designations on FHBMs and FIRMs
 that indicate the magnitude of the flood hazard in specific areas of a
 community. Following are the zone definitions:
-      Zone A: Special flood hazard areas inundated by the 100-year flood; base
-flood elevations are not determined.
-      Zone A1-30 and Zone AE: Special flood hazard areas inundated by the 100-
-year flood; base flood elevations are determined.
-      Zone AO: Special flood hazard areas inundated by the 100-year flood; with
-flood depths of one to three feet (usually sheet flow on sloping terrain);
-average depths are determined.
-      Zone AH: Special flood hazard areas inundated by the 100-year flood;
-flood depths of one to three feet (usually areas of ponding); base flood
-elevations are determined.
-      Zone A99: Special flood hazard areas inundated by the 100-year flood to
-be protected from the 100-year flood by a Federal flood protection system under
-construction; no base flood elevations are determined.
-      Zone B and Zone X (shaded): Areas of 500-year flood; areas subject to the
-100-year flood with average depths of less than one foot or with contributing
-drainage area less than one square mile; and areas protected by levees from the
-base flood.
-      Zone C and Zone X (unshaded): Areas determined to be outside the 500-year
-floodplain.
-   (o)   “Flood Insurance Study (FIS).” The official report in which the
+      (1)   Zone A: Special flood hazard areas inundated by the 100-year flood
+in any given year; base flood elevations are not determined.
+      (2)   Zones A1-30 and Zone AE: Special flood hazard areas inundated by
+the 100-year flood in any given year; base flood elevations are determined.
+      (3)   Zone AO: Special flood hazard areas inundated by the 100-year flood
+in any given year; with flood depths of one to three feet (usually sheet flow
+on sloping terrain); average depths are determined.
+      (4)   Zone AH: Special flood hazard areas inundated by the 100-year flood
+in any given year; flood depths of one to three feet (usually areas of
+ponding); base flood elevations are determined.
+      (5)   Zone A99: Special flood hazard areas inundated by the 100-year
+flood to be protected from the 100-year flood by a federal flood protection
+system under construction; no base flood elevations are determined.
+      (6)   Zone B and Zone X (shaded): Areas of 500-year flood; areas subject
+to the 100-year flood with average depths of less than one foot or with
+contributing drainage area less than one square mile; and areas protected by
+levees from the base flood.
+      (7)   Zone C and Zone X (unshaded): Areas determined to be outside the
+500-year floodplain.
+   (o)   "Flood insurance study (FIS)." The official report in which the
 Federal Emergency Management Agency or the U.S. Department of Housing and Urban
 Development has provided flood profiles, floodway boundaries (sometimes shown
-on Flood Boundary and Floodway Maps), and the water surface elevations of the
+on flood boundary and floodway maps), and the water surface elevations of the
 base flood.
-   (p)   “Flood protection elevation (FPE).” The base flood elevation plus one
-and one-half feet of freeboard. In areas where no base flood elevations exist
-from any authoritative source, the flood protection elevation can be historical
-flood elevations, or base flood elevations determined and/or approved by the
+   (p)   "Floodproofing." Any combination of structural and non-structural
+additions, changes, or adjustments to structures which reduce or eliminate
+flood damage to real estate or improved real property, water and sanitary
+facilities, structures and their contents.
+   (q)   "Flood protection elevation (FPE)." The base flood elevation plus 1.5
+feet of freeboard. In areas where no base flood elevations exist from any
+authoritative source, the flood protection elevation can be historical flood
+elevations, or base flood elevations determined and/or approved by the
 Floodplain Administrator.
-   (q)   “Floodway.” The channel of a river or other watercourse and the
-adjacent land areas that have been reserved in order to pass the base flood
-discharge. A floodway is typically determined through a hydraulic and
+   (r)   "Floodway." A floodway is the channel of a river or other watercourse
+and the adjacent land areas that have been reserved in order to pass the base
+flood discharge. A floodway is typically determined through a hydraulic and
 hydrologic engineering analysis such that the cumulative increase in the water
 surface elevation of the base flood discharge is no more than a designated
 height. In no case shall the designated height be more than one foot at any
-point within the community. The floodway is an extremely hazardous area, and is
-usually characterized by any of the following: Moderate to high velocity flood
-waters, high potential for debris and projectile impacts, and moderate to high
-erosion forces.
-   (r)   “Freeboard.” A factor of safety usually expressed in feet above a
+point within the community.
+         The floodway is an extremely hazardous area, and is usually
+characterized by any of the following: Moderate to high velocity flood waters,
+high potential for debris and projectile impacts, and moderate to high erosion
+forces.
+   (s)   "Freeboard." A factor of safety usually expressed in feet above a
 flood level for the purposes of floodplain management. Freeboard tends to
 compensate for the many unknown factors that could contribute to flood heights
 greater than the height calculated for a selected size flood and floodway
 conditions, such as wave action, obstructed bridge openings, debris and ice
 jams, and the hydrologic effect of urbanization in a watershed.
-   (s)   “Historic structure.” Any structure that is:
+   (t)   "Historic structure." Any structure that is:
       (1)   Listed individually in the National Register of Historic Places (a
 listing maintained by the U.S. Department of Interior) or preliminarily
 determined by the Secretary of the Interior as meeting the requirements for
@@ -59843,102 +60024,113 @@ qualify as a registered historic district;
       (3)   Individually listed on the State of Ohio's inventory of historic
 places maintained by the Ohio Historic Preservation Office; or
       (4)   Individually listed on the inventory of historic places maintained
-by the City's historic preservation program, which program is certified by the
-Ohio Historic Preservation Office.
-   (t)   “Hydrologic and hydraulic engineering analysis.” An analysis performed
+by City of Pickerington's historic preservation program, which program is
+certified by the Ohio Historic Preservation Office.
+   (u)   "Hydrologic and hydraulic engineering analysis." An analysis performed
 by a professional engineer, registered in the State of Ohio, in accordance with
 standard engineering practices as accepted by FEMA, used to determine flood
 elevations and/or floodway boundaries.
-   (u)   “Letter of Map Change (LOMC).” An official FEMA determination, by
-letter, to amend or revise effective Flood Insurance Rate Maps, Flood Boundary
-and Floodway Maps, and Flood Insurance Studies. LOMCs are broken down into the
-following categories:
-      Letter of Map Amendment (LOMA): A revision based on technical data
+   (v)   "Letter of map change (LOMC)." A letter of map change is an official
+FEMA determination, by letter, to amend or revise effective flood insurance
+rate maps, flood boundary and floodway maps, and flood insurance studies. LOMCs
+are broken down into the following categories:
+      (1)   Letter of map amendment (LOMA). A revision based on technical data
 showing that a property was incorrectly included in a designated special flood
-hazard area. A LOMA amends the current effective Flood Insurance Rate Map and
+hazard area. A LOMA amends the current effective flood insurance rate map and
 establishes that a specific property is not located in a special flood hazard
 area.
-      Letter of Map Revision (LOMR): A revision based on technical data that,
-usually due to man-made changes, shows changes to flood zones, flood
+      (2)   Letter of map revision (LOMR). A revision based on technical data
+that, usually due to manmade changes, shows changes to flood zones, flood
 elevations, floodplain and floodway delineations, and planimetric features. One
 common type of LOMR, a LOMR-F, is a determination concerning whether a
 structure or parcel has been elevated by fill above the base flood elevation
 and is, therefore, excluded from the special flood hazard area.
-      Conditional Letter of Map Revision (CLOMR): A formal review and comment
-by FEMA as to whether a proposed project complies with the minimum National
-Flood Insurance Program floodplain management criteria. A CLOMR does not amend
-or revise effective Flood Insurance Rate Maps, Flood Boundary and Floodway
-Maps, or Flood Insurance Studies.
-   (v)   “Lowest floor.” The lowest floor of the lowest enclosed area
-(including basement) of a structure. This definition excludes an enclosure
-below the lowest floor which is an unfinished or flood-resistant enclosure
+      (3)   Conditional letter of map revision (CLOMR). A comment by FEMA
+regarding a proposed project that would, upon construction, affect the
+hydrologic or hydraulic characteristics of a flooding source and thus result in
+the modification of the existing regulatory floodway, the effective base flood
+elevations, or the special flood hazard area. A CLOMR does not amend or revise
+effective flood insurance rate maps, flood boundary and floodway maps, or flood
+insurance studies.
+   (w)   "Lowest floor." The lowest floor of the lowest enclosed area
+(including basement) of a structure. This definition excludes an "enclosure
+below the lowest floor" which is an unfinished or flood resistant enclosure
 usable solely for parking of vehicles, building access or storage, in an area
 other than a basement area, provided that such enclosure is built in accordance
 with the applicable design requirements specified in these regulations for
 enclosures below the lowest floor.
-   (w)   “Manufactured home.” A structure, transportable in one or more
+   (x)   "Manufactured home." A structure, transportable in one or more
 sections, which is built on a permanent chassis and is designed for use with or
 without a permanent foundation when connected to the required utilities. The
-term “manufactured home” does not include a recreational vehicle. For the
-purposes of these regulations, a “manufactured home” includes manufactured
-homes and mobile homes as defined in Ohio R.C. Chapter 3733.
-   (x)   “Manufactured home park.” As specified in O.A.C. 3701-27-01, any tract
-of land upon which three or more manufactured homes, used for habitation are
-parked, either free of charge or for revenue purposes, and includes any
-roadway, building, structure, vehicle, or enclosure used or intended for use as
-part of the facilities of the park. A tract of land that is subdivided and the
-individual lots are not for rent or rented, but are for sale or sold for the
-purpose of installation of manufactured homes on the lots, is not a
-manufactured home park, even though three or more manufactured homes are parked
-thereon, if the roadways are dedicated to the local government authority.
-   (y)   “National Flood Insurance Program (NFIP).” The NFIP is a Federal
+term "manufactured home" does not include a "recreational vehicle". For the
+purposes of these regulations, a manufactured home includes manufactured homes
+and mobile homes as defined in R.C. Chapter 4781.
+   (y)   "Manufactured home park." As specified in the Ohio Adm. Code 4781-12-
+01(K), a manufactured home park means any tract of land upon which three or
+more manufactured homes, used for habitation are parked, either free of charge
+or for revenue purposes, and includes any roadway, building, structure,
+vehicle, or enclosure used or intended for use as part of the facilities of the
+park. A tract of land that is subdivided and the individual lots are not for
+rent or rented, but are for sale or sold for the purpose of installation of
+manufactured homes on the lots, is not a manufactured home park, even though
+three or more manufactured homes are parked thereon, if the roadways are
+dedicated to the local government authority. "Manufactured home park" does not
+include any tract of land used solely for the storage or display for sale of
+manufactured homes.
+   (z)   "Mean sea level." For purposes of the National Flood Insurance
+Program, the National Geodetic Vertical Datum (NGVD) of 1929 or other datum, to
+which base flood elevations shown on a community's flood insurance rate map are
+referenced.
+   (aa)   "National Flood Insurance Program (NFIP)." The NFIP is a federal
 program enabling property owners in participating communities to purchase
 insurance protection against losses from flooding. This insurance is designed
 to provide an insurance alternative to disaster assistance to meet the
 escalating costs of repairing damage to buildings and their contents caused by
 floods. Participation in the NFIP is based on an agreement between local
-communities and the Federal government that states if a community will adopt
+communities and the federal government that states if a community will adopt
 and enforce floodplain management regulations to reduce future flood risks to
-all development in special flood hazard areas, the Federal government will make
+all development in special flood hazard areas, the federal government will make
 flood insurance available within the community as a financial protection
 against flood loss.
-   (z)   “New construction.” Structures for which the start of construction
-commenced on or after the initial effective date of the City's Flood Insurance
-Rate Map, October 2, 1987, and includes any subsequent improvements to such
+   (bb)   "New construction." Structures for which the "start of construction"
+commenced on or after the effective date of a floodplain regulation adopted by
+the City and includes any subsequent improvements to such structures.
+         For the purposes of determining insurance rates, structures for which
+the "start of construction" commenced on or after the effective date of an
+initial FIRM [August 5, 1981] and includes any subsequent improvements to such
 structures.
-   (aa)   “Person.” Includes any individual or group of individuals,
-corporation, partnership, association, or any other entity, including State and
-local governments and agencies. An “agency” is further defined in Ohio R.C.
-111.15 as any governmental entity of the State and includes, but is not limited
+   (cc)   "Person." Includes any individual or group of individuals,
+corporation, partnership, association, or any other entity, including state and
+local governments and agencies. An agency is further defined in R.C. § 111.15
+(A)(2) as any governmental entity of the state and includes, but is not limited
 to, any board, department, division, commission, bureau, society, council,
-institution, State college or university, community college district, technical
-college district, or State community college. “Agency” does not include the
+institution, state college or university, community college district, technical
+college district, or state community college. "Agency" does not include the
 general assembly, the controlling board, the adjutant general's department, or
 any court.
-   (bb)   “Recreational vehicle.” A vehicle which is: (1) built on a single
-chassis; (2) 400 square feet or less when measured at the largest horizontal
-projection; (3) designed to be self-propelled or permanently towable by a
-light-duty truck; and (4) designed primarily not for use as a permanent
-dwelling but as temporary living quarters for recreational, camping, travel, or
-seasonal use.
-   (cc)   “Registered professional architect.” A person registered to engage in
-the practice of architecture under the provisions of Ohio R.C. 4703.01 through
-4703.19.
-   (dd)   “Registered professional engineer.” A person registered as a
-professional engineer under Ohio R.C. Chapter 4733.
-   (ee)   “Registered professional surveyor.” A person registered as a
-professional surveyor under Ohio R.C. Chapter 4733.
-   (ff)   “Special flood hazard area.” Also known as “area of special flood
-hazard”, it is the land in the floodplain subject to a 1% or greater chance of
-flooding in any given year. “Special flood hazard areas” are designated by the
-Federal Emergency Management Agency on Flood Insurance Rate Maps, Flood
-Insurance Studies, Flood Boundary and Floodway Maps and Flood Hazard Boundary
-Maps as Zones A, AE, AH, AO, A1-30, and A99. Special flood hazard areas may
-also refer to areas that are flood-prone and designated from other Federal,
-State or local sources of data including but not limited to historical flood
+   (dd)   "Recreational vehicle." A vehicle which is (1) built on a single
+chassis, (2) 400 square feet or less when measured at the largest horizontal
+projection, (3) designed to be self-propelled or permanently towable by a light
+duty truck, and (4) designed primarily not for use as a permanent dwelling but
+as temporary living quarters for recreational, camping, travel, or seasonal
+use.
+   (ee)   "Registered professional architect." A person registered to engage in
+the practice of architecture pursuant to R.C. § 4703.01 and 4703.19.
+   (ff)   "Registered professional engineer." A person registered as a
+professional engineer pursuant to R.C. Chapter 4733.
+   (gg)   "Registered professional surveyor." A person registered as a
+professional surveyor pursuant to R.C. Chapter 4733.
+   (hh)   "Special flood hazard area." Also known as "areas of special flood
+hazard", it is the land in the floodplain subject to a 1% or greater chance of
+flooding in any given year. Special flood hazard areas are designated by the
+Federal Emergency Management Agency on flood insurance rate maps, flood
+insurance studies, flood boundary and floodway maps and flood hazard boundary
+maps as Zones A, AE, AH, AO, A1-30, or A99. Special flood hazard areas may also
+refer to areas that are flood prone and designated from other federal, state,
+or local sources of data including but not limited to historical flood
 information reflecting high water marks, previous flood inundation areas, and
-flood-prone soils associated with a watercourse.
-   (gg)   “Start of construction.” The date the building permit was issued,
+flood prone soils associated with a watercourse.
+   (ii)   "Start of construction." The date the building permit was issued,
 provided the actual start of construction, repair, reconstruction,
 rehabilitation, addition, placement, or other improvement was within 180 days
 of the permit date. The actual start means either the first placement of
@@ -59951,39 +60143,37 @@ and/or walkways; nor does it include excavation for a basement, footings,
 piers, or foundations or the erection of temporary forms; nor does it include
 the installation on the property of accessory buildings, such as garages or
 sheds not occupied as dwelling units or not part of the main structure. For a
-substantial improvement, the actual “start of construction” means the first
+substantial improvement, the actual start of construction means the first
 alteration of any wall, ceiling, floor, or other structural part of a building,
 whether or not that alteration affects the external dimensions of a building.
-   (hh)   “Structure.” A walled and roofed building, manufactured home, or gas
+   (jj)   "Structure." A walled and roofed building, manufactured home, or gas
 or liquid storage tank that is principally above ground.
-   (ii)   “Substantial damage.” Damage of any origin sustained by a structure
-whereby the cost of restoring the structure to its before damaged condition
+   (kk)   "Substantial damage." Damage of any origin sustained by a structure
+whereby the cost of restoring the structure to the ‘before damaged’ condition
 would equal or exceed 50% of the market value of the structure before the
 damage occurred.
-   (jj)   “Substantial improvement.” Any reconstruction, rehabilitation,
+   (ll)   "Substantial improvement." Any reconstruction, rehabilitation,
 addition, or other improvement of a structure, the cost of which equals or
-exceeds 50% of the market value of the structure before the start of
-construction of the improvement. This term includes structures, which have
-incurred substantial damage, regardless of the actual repair work performed.
+exceeds 50% of the market value of the structure before the "start of
+construction" of the improvement. This term includes structures, which have
+incurred "substantial damage," regardless of the actual repair work performed.
 The term does not, however, include:
-      (1)   Any improvement to a structure that is considered new construction;
-      (2)   Any project for improvement of a structure to correct existing
-violations of State or local health, sanitary, or safety code specifications
-which have been identified prior to the application for a development permit by
-the local code enforcement official and which are the minimum necessary to
-assure safe living conditions; or
-      (3)   Any alteration of a historic structure, provided that the
+      (1)   Any project for improvement of a structure to correct existing
+violations of state or local health, sanitary, or safety code specifications
+which have been identified by the local code enforcement official and which are
+the minimum necessary to assure safe living conditions; or
+      (2)   Any alteration of a "historic structure," provided that the
 alteration would not preclude the structure's continued designation as a
-historic structure.
-   (kk)   “Variance.” A grant of relief from the standards of these regulations
-consistent with the variance conditions herein.
-   (ll)   “Violation.” The failure of a structure or other development to be
+"historic structure".
+   (mm)   "Variance." A grant of relief from the standards of these
+regulations.
+   (nn)   "Violation." The failure of a structure or other development to be
 fully compliant with these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.12 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
-   The City Manager shall designate the Floodplain Administrator. The
-Floodplain Administrator shall administer and implement these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+   The City Manager is hereby appointed to administer and implement these
+regulations and is referred to herein as the Floodplain Administrator.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.13 DUTIES AND RESPONSIBILITIES OF THE FLOODPLAIN ADMINISTRATOR.
    The duties and responsibilities of the Floodplain Administrator shall
 include but are not limited to:
@@ -59997,12 +60187,13 @@ the event of noncompliance.
    (d)   Inspect buildings and lands to determine whether any violations of
 these regulations have been committed.
    (e)   Make and permanently keep all records for public inspection necessary
-for the administration of these regulations, including Flood Insurance Rate
-Maps, Letters of Map Amendment and Revision, records of issuance and denial of
+for the administration of these regulations including flood insurance rate
+maps, letters of map amendment and revision, records of issuance and denial of
 permits to develop in special flood hazard areas, determinations of whether
 development is in or out of special flood hazard areas for the purpose of
-issuing floodplain development permits, elevation certificates, variances, and
-records of enforcement actions taken for violations of these regulations.
+issuing floodplain development permits, elevation certificates, floodproofing
+certificates, variances, and records of enforcement actions taken for
+violations of these regulations.
    (f)   Enforce the provisions of these regulations.
    (g)   Provide information, testimony, or other evidence as needed during
 variance hearings.
@@ -60010,24 +60201,24 @@ variance hearings.
    (i)   Conduct substantial damage determinations to determine whether
 existing structures, damaged from any source and in special flood hazard areas
 identified by FEMA, must meet the development standards of these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.14 FLOODPLAIN DEVELOPMENT PERMITS.
    It shall be unlawful for any person to begin construction or other
-development activity including but not limited to filling; grading;
-construction; alteration, remodeling, or expanding any structure; or alteration
+development activity including but not limited to filling, grading,
+construction, alteration, remodeling, or expanding any structure; or alteration
 of any watercourse wholly within, partially within or in contact with any
-identified special flood hazard area, as established in Section
-1466.06, until a floodplain development permit is obtained from the Floodplain
-Administrator. Such floodplain development permit shall show that the proposed
-development activity is in conformity with the provisions of these regulations.
-No such permit shall be issued by the Floodplain Administrator until the
-requirements of these regulations have been met.
-(Ord. 2011-60. Passed 11-15-11.)
+identified special flood hazard area, as established in Section 1466.06, until
+a floodplain development permit is obtained from the Floodplain Administrator.
+Such floodplain development permit shall show that the proposed development
+activity is in conformity with the provisions of these regulations. No such
+permit shall be issued by the Floodplain Administrator until the requirements
+of these regulations have been met.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.15 APPLICATION REQUIRED.
    An application for a floodplain development permit shall be required for all
 development activities located wholly within, partially within, or in contact
 with an identified special flood hazard area. Such application shall be made by
-the owner of the property or his or her authorized agent, herein referred to as
+the owner of the property or his/her authorized agent, herein referred to as
 the applicant, prior to the actual commencement of such construction on a form
 furnished for that purpose. Where it is unclear whether a development site is
 in a special flood hazard area, the Floodplain Administrator may require an
@@ -60047,33 +60238,31 @@ of these regulations.
    (e)   Technical analyses conducted by the appropriate design professional
 registered in the State of Ohio and submitted with an application for a
 floodplain development permit when applicable:
-      (1)   Floodproofing certification for nonresidential floodproofed
+      (1)   Floodproofing certification for non-residential floodproofed
 structure as required in Section
 1466.29.
       (2)   Certification that fully enclosed areas below the lowest floor of a
 structure not meeting the design requirements of Section
 1466.28(e) are designed to automatically equalize hydrostatic flood forces.
       (3)   Description of any watercourse alteration or relocation that the
-flood-carrying capacity of the watercourse will not be diminished, and
-maintenance assurances as required in Section
-1466.33(c).
+flood carrying capacity of the watercourse will not be diminished, and
+maintenance assurances as required in Section 1466.33(c).
       (4)   A hydrologic and hydraulic analysis demonstrating that the
 cumulative effect of proposed development, when combined with all other
 existing and anticipated development will not increase the water surface
 elevation of the base flood by more than one foot in special flood hazard areas
 where the Federal Emergency Management Agency has provided base flood
-elevations but no floodway as required by Section
-1466.33(b).
+elevations but no floodway as required by Section 1466.33(b).
       (5)   A hydrologic and hydraulic engineering analysis showing impact of
 any development on flood heights in an identified floodway as required by
 Section
 1466.33(a).
-      (6)   Generation of base flood elevation(s) for subdivision and large-
-scale developments as required by Section
+      (6)   Generation of base flood elevation(s) for subdivision and other new
+developments as required by Section
 1466.27.
-   (f)   A floodplain development permit application fee set by the schedule of
-fees adopted by the City.
-(Ord. 2011-60. Passed 11-15-11.)
+   (f)   A floodplain development permit application fee set by the Schedule of
+Fees adopted by the City of Pickerington.
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.16 REVIEW AND APPROVAL OF A FLOODPLAIN DEVELOPMENT PERMIT APPLICATION.
    (a)   Review.
       (1)   After receipt of a complete application, the Floodplain
@@ -60091,12 +60280,14 @@ Clean Water Act, and the Ohio Environmental Protection Agency under Section 401
 of the Clean Water Act.
    (b)   Approval. Within 30 days after the receipt of a complete application,
 the Floodplain Administrator shall either approve or disapprove the
-application. If an application is approved, a floodplain development permit
-shall be issued. All floodplain development permits shall be conditional upon
-the commencement of work within one year. A floodplain development permit shall
-expire one year after issuance unless the permitted activity has been
-substantially begun and is thereafter pursued to completion.
-(Ord. 2011-60. Passed 11-15-11.)
+application. If the Floodplain Administrator is satisfied that the development
+proposed in the floodplain development application conforms to the requirements
+of this chapter, the Floodplain Administrator shall issue the permit. All
+floodplain development permits shall be conditional upon the commencement of
+work within 180 days. A floodplain development permit shall expire 180 days
+after issuance unless the permitted acti ity has been substantially begun and
+is thereafter pursued to completion.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.17 INSPECTIONS.
    The Floodplain Administrator shall make periodic inspections at appropriate
 times throughout the period of construction in order to monitor compliance with
@@ -60108,39 +60299,56 @@ development permit has been issued:
    (a)   For new or substantially improved residential structures, or
 nonresidential structures that have been elevated, the applicant shall have a
 Federal Emergency Management Agency Elevation Certificate completed by a
-registered surveyor to record as-built elevation data. For elevated structures
-in Zone A and Zone AO areas without a base flood elevation, the elevation
-certificate may be completed by the property owner or owner's representative.
+registered professional surveyor to record as-built elevation data. For
+elevated structures in Zone A and Zone AO areas without a base flood elevation,
+the elevation certificate may be completed by the property owner or owner's
+representative.
    (b)   For all development activities subject to the standards of Section
-1466.21(a), a Letter of Map Revision.
-(Ord. 2011-60. Passed 11-15-11.)
+1466.21(a), a letter of map revision.
+   (c)   For new or substantially improved nonresidential structures that have
+been floodproofed in lieu of elevation, where allowed, the applicant shall
+supply a completed Floodproofing Certificate for Non-Residential Structures
+completed by a registered professional engineer or architect together with
+associated documentation.
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.19 REVOKING A FLOODPLAIN DEVELOPMENT PERMIT.
    A floodplain development permit shall be revocable, if among other things,
 the actual development activity does not conform to the terms of the
 application and permit granted thereon. In the event of the revocation of a
-permit, an appeal may be taken to the Flood Damage Control Board in accordance
-with Sections
-1466.34 through
-1466.38 of these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+permit, an appeal may be taken to the Appeals Board in accordance with Sections
+1466.34 through 1466.38 of these regulations.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.20 EXEMPTION FROM FILING A DEVELOPMENT PERMIT.
-   (a)   An application for a floodplain development permit shall not be
-required for:
-      (1)   Maintenance work such as roofing, painting, and basement sealing,
-or for small non-structural development activities (except for filling and
-grading) valued at less than five thousand dollars ($5,000).
-      (2)   Development activities in an existing or proposed manufactured home
-park that are under the authority of the Ohio Department of Health and subject
-to the flood damage reduction provisions of O.A.C. Chapter 3701.
-      (3)   Major utility facilities permitted by the Ohio Power Siting Board
-under Ohio R.C. Chapter 4906.
-      (4)   Hazardous waste disposal facilities permitted by the Hazardous
-Waste Siting Board under Ohio R.C. Chapter 3734.
-      (5)   Development activities undertaken by a Federal agency and which are
+   An application for a floodplain development permit shall not be required for
+maintenance work such as roofing, painting, and basement sealing, or for small
+nonstructural development activities (except for filling and grading) valued at
+less than two thousand five hundred dollars ($2,500).
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.201 STATE AND FEDERAL DEVELOPMENT.
+   (a)   Development that is funded, financed, undertaken, or preempted by
+state agencies shall comply with minimum NFIP criteria.
+   (b)   Before awarding funding or financing or granting a license, permit, or
+other authorization for a development that is or is to be located within a 100-
+year floodplain, a state agency shall require the applicant to demonstrate to
+the satisfaction of the agency that the development will comply with minimum
+NFIP criteria and any applicable local floodplain management resolution or
+ordinance as required by R.C. § 1521.13. This includes, but is not limited to:
+      (1)   Development activities in an existing or proposed manufactured home
+park that are under the authority of the Ohio Department of Commerce and
+subject to the flood damage reduction provisions of the Ohio Adm. Code Section
+4781-12.
+      (2)   Major utility facilities permitted by the Ohio Power Siting Board
+under R.C. Chapter 4906.
+      (3)   Hazardous waste disposal facilities permitted by the Hazardous
+Waste Siting Board under R.C. Chapter 3734.
+   (c)   Development activities undertaken by a federal agency and which are
 subject to Federal Executive Order 11988 - Floodplain Management.
-   (b)   Any proposed action exempt from filing for a floodplain development
-permit is also exempt from the standards of these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+      (1)   Each federal agency has a responsibility to evaluate the potential
+effects of any actions it may take in a floodplain; to ensure that its planning
+programs and budget request reflect consideration of flood hazards and
+floodplain management; and to prescribe procedures to implement the policies
+and requirements of EO 11988.
+         (Ord. 2024-01. Passed 3-5-24.)
 1466.21 MAP MAINTENANCE ACTIVITIES.
    To meet National Flood Insurance Program minimum requirements to have flood
 data reviewed and approved by FEMA, and to ensure that City's flood maps,
@@ -60161,14 +60369,15 @@ area;
          C.   Alteration of watercourses that result in a relocation or
 elimination of the special flood hazard area, including the placement of
 culverts; and
-         D.   Subdivision or large scale development proposals requiring the
+         D.   Subdivision or other new development proposals requiring the
 establishment of base flood elevations in accordance with Section
 1466.27.
       (2)   It is the responsibility of the applicant to have technical data,
-required in accordance with Section 1466.21(a), prepared in a format required
-for a Conditional Letter of Map Revision or Letter of Map Revision, and
-submitted to FEMA. Submittal and processing fees for these map revisions shall
-be the responsibility of the applicant.
+required in accordance with Section
+1466.21(a), prepared in a format required for a Conditional Letter of Map
+Revision or Letter of Map Revision, and submitted to FEMA. Submittal and
+processing fees for these map revisions shall be the responsibility of the
+applicant.
       (3)   The Floodplain Administrator shall require a Conditional Letter of
 Map Revision prior to the issuance of a floodplain development permit for:
          A.   Proposed floodway encroachments that increase the base flood
@@ -60195,7 +60404,7 @@ accurately represent the City's boundaries, include within such notification a
 copy of a map of the City suitable for reproduction, clearly showing the new
 corporate limits or the new area for which the City has assumed or relinquished
 floodplain management regulatory authority.
-(Ord. 2011-60. Passed 11-15-11.)
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.22 DATA USE AND FLOOD MAP INTERPRETATION.
    The following guidelines shall apply to the use and interpretation of maps
 and other data showing areas of special flood hazard:
@@ -60210,30 +60419,51 @@ boundaries by any other source that reflect a reduced floodway width and/or
 lower base flood elevations. Other sources of data, showing increased base
 flood elevations and/or larger floodway areas than are shown on FEMA flood maps
 and studies, shall be reasonably used by the Floodplain Administrator.
-   (c)   When Preliminary Flood Insurance Rate Maps and/or Flood Insurance
-Study have been provided by FEMA:
-      (1)   Upon the issuance of a Letter of Final Determination by the FEMA,
-the preliminary flood hazard data shall be used and replace all previously
-existing flood hazard data provided from FEMA for the purposes of administering
-these regulations.
-      (2)   Prior to the issuance of a Letter of Final Determination by FEMA,
-the use of preliminary flood hazard data shall only be required where no base
-flood elevations and/or floodway areas exist or where the preliminary base
-flood elevations or floodway area exceed the base flood elevations and/or
-floodway widths in existing flood hazard data provided from FEMA. Such
-preliminary data may be subject to change and/or appeal to FEMA.
-   (d)   The Floodplain Administrator shall make interpretations, where needed,
+   (c)   The Floodplain Administrator shall make interpretations, where needed,
 as to the exact location of the flood boundaries and areas of special flood
 hazard. A person contesting the determination of the location of the boundary
 shall be given a reasonable opportunity to appeal the interpretation as
-provided in Sections
-1466.34 through
-1466.38, Appeals and Variances.
-   (e)   Where a map boundary showing an area of special flood hazard and field
-elevations disagree, the base flood elevations or flood protection elevations
-(as found on an elevation profile, floodway data table, established high water
-marks, etc.) shall prevail.
-(Ord. 2011-60. Passed 11-15-11.)
+provided in Section 1466.36, Appeals and Section 1466.37, Variances.
+   (d)   Where an existing or proposed structure or other development is
+affected by multiple flood zones, by multiple base flood elevations, or both,
+the development activity must comply with the provisions of this chapter
+applicable to the most restrictive flood zone and the highest base flood
+elevation affecting any part of the existing or proposed structure; or for
+other developments, affecting any part of the area of the development.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.221 USE OF PRELIMINARY FLOOD INSURANCE RATE MAP AND/OR FLOOD INSURANCE
+STUDY DATA.
+   (a)   Zone A.
+      (1)   Within Zone A areas designated on an effective FIRM, data from the
+preliminary FIRM and/or FIS shall be reasonably utilized as best available
+data.
+      (2)   When all appeals have been resolved and a notice of final flood
+elevation determination has been provided in a letter of final determination
+(LFD), BFE and floodway data from the preliminary FIRM and/or FIS shall be used
+for regulating development.
+   (b)   Zones AE, A1-30, AH, and AO.
+      (1)   BFE and floodway data from a preliminary FIS or FIRM restudy are
+not required to be used in lieu of BFE and floodway data contained in an
+existing effective FIS and FIRM. However,
+         A.   Where BFEs increase in a restudied area, communities have the
+responsibility to ensure that new or substantially improved structures are
+protected. Communities are encouraged to reasonably utilize preliminary FIS or
+FIRM data in instances where BFEs increase and floodways are revised to ensure
+that the health, safety, and property of their citizens are protected.
+         B.   Where BFEs decrease, preliminary FIS or FIRM data should not be
+used to regulate floodplain development until the LFD has been issued or until
+all appeals have been resolved.
+      (2)   If a preliminary FIRM or FIS has designated floodways where none
+had previously existed, communities should reasonably utilize this data in lieu
+of applying the encroachment performance standard of Section 1466.33(b) since
+the data in the draft or preliminary FIS represents the best data available.
+   (c)   Zones B, C, and X.
+      (1)   Use of BFE and floodway data from a preliminary FIRM or FIS are not
+required for areas designated as Zone B, C, or X on the effective FIRM which
+are being revised to Zone AE, A1-30, AH, or AO. Communities are encouraged to
+reasonably utilize preliminary FIS or FIRM data to ensure that the health,
+safety and property of their citizens are protected.
+         (Ord. 2024-01. Passed 3-5-24.)
 1466.23 SUBSTANTIAL DAMAGE DETERMINATIONS.
    (a)   Damages to structures may result from a variety of causes including
 flood, tornado, wind, heavy snow, fire, etc. After such a damage event, the
@@ -60242,20 +60472,20 @@ Floodplain Administrator shall:
 hazard areas;
       (2)   Conduct substantial damage determinations for damaged structures
 located in special flood hazard areas; and
-      (3)   Make reasonable attempt to notify owners of substantially damaged
-structures of the need to obtain a floodplain development permit prior to
-repair, rehabilitation, or reconstruction.
+      (3)   Require owners of substantially damaged structures to obtain a
+floodplain development permit prior to repair, rehabilitation, or
+reconstruction.
    (b)   Additionally, the Floodplain Administrator may implement other
 measures to assist with the substantial damage determination and subsequent
 repair process. These measures include issuing press releases, public service
 announcements, and other public information materials related to the floodplain
 development permits and repair of damaged structures; coordinating with other
-Federal, State, and local agencies to assist with substantial damage
+federal, state, and local agencies to assist with substantial damage
 determinations; providing owners of damaged structures materials and other
 information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially damaged structures with
 increased cost of compliance insurance claims.
-(Ord. 2011-60. Passed 11-15-11.)
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.24 USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION.
    The use and development standards in Sections
 1466.25 through
@@ -60265,35 +60495,31 @@ with any special flood hazard area as established in Section
 1466.22(a).
 (Ord. 2011-60. Passed 11-15-11.)
 1466.25 USE REGULATIONS.
-   (a)   Permitted Uses. All uses not otherwise prohibited in this section or
-any other applicable land use regulation adopted by the City are allowed
-provided they meet the provisions of these regulations.
-   (b)   Prohibited Uses.
-      (1)   Private water supply systems in all special flood hazard areas
-identified by FEMA, permitted under Ohio R.C. Chapter 3701.
-      (2)   Infectious waste treatment facilities in all special flood hazard
-areas, permitted under Ohio R.C. Chapter 3734.
-(Ord. 2011-60. Passed 11-15-11.)
+   Permitted Uses. All uses not otherwise prohibited in this section or any
+other applicable land use regulation adopted by the City or State of Ohio are
+allowed provided they meet the provisions of these regulations.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.26 WATER AND WASTEWATER SYSTEMS.
    The following standards apply to all water supply, sanitary sewerage and
-waste disposal systems not otherwise regulated by the Ohio Revised Code:
+waste disposal systems in the absence of any more restrictive standard provided
+under the Ohio Revised Code or applicable state rules:
    (a)   All new and replacement water supply systems shall be designed to
-minimize or eliminate infiltration of flood waters into the systems;
+minimize or eliminate infiltration of floodwaters into the systems;
    (b)   New and replacement sanitary sewerage systems shall be designed to
 minimize or eliminate infiltration of flood waters into the systems and
 discharge from the systems into flood waters; and
    (c)   On-site waste disposal systems shall be located to avoid impairment to
 or contamination from them during flooding.
-(Ord. 2011-60. Passed 11-15-11.)
-1466.27 SUBDIVISIONS AND LARGE DEVELOPMENTS.
-   (a)   All subdivision proposals shall be consistent with the need to
-minimize flood damage and are subject to all applicable standards in these
-regulations;
-   (b)   All subdivision proposals shall have public utilities and facilities
-such as sewer, gas, electrical, and water systems located and constructed to
-minimize flood damage;
-   (c)   All subdivision proposals shall have adequate drainage provided to
-reduce exposure to flood damage; and
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.27 SUBDIVISIONS AND OTHER NEW DEVELOPMENTS.
+   (a)   All subdivision proposals and all other proposed new development shall
+be consistent with the need to minimize flood damage and are subject to all
+applicable standards in these regulations;
+   (b)   All subdivision proposals and all other proposed new development shall
+have public utilities and facilities such as sewer, gas, electrical, and water
+systems located and constructed to minimize or eliminate flood damage;
+   (c)   All subdivision proposals and all other proposed new development shall
+have adequate drainage provided to reduce exposure to flood damage; and
    (d)   In all areas of special flood hazard where base flood elevation data
 are not available, the applicant shall provide a hydrologic and hydraulic
 engineering analysis that generates base flood elevations for all subdivision
@@ -60304,7 +60530,7 @@ FEMA in Section
 1466.21(a)(1)D. when a hydrologic and hydraulic analysis is completed that
 generates base flood elevations as required by Section
 1466.27(d).
-(Ord. 2011-60. Passed 11-15-11.)
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.28 RESIDENTIAL STRUCTURES.
    (a)   New construction and substantial improvements shall be anchored to
 prevent flotation, collapse, or lateral movement of the structure resulting
@@ -60326,9 +60552,9 @@ basement, elevated to or above the flood protection elevation.
    (e)   New construction and substantial improvements, including manufactured
 homes, that do not have basements and that are elevated to the flood protection
 elevation using pilings, columns, posts, or solid foundation perimeter walls
-with openings sufficient to allow unimpeded movement of flood waters may have
-an enclosure below the lowest floor, provided the enclosure meets the following
-standards:
+with openings to allow the automatic equalization of hydrostatic pressure may
+have an enclosure below the lowest floor provided the enclosure meets the
+following standards:
       (1)   Be used only for the parking of vehicles, building access, or
 storage; and
       (2)   Be designed and certified by a registered professional engineer or
@@ -60348,14 +60574,12 @@ over-the-top or frame ties to ground anchors.
 that the proposed repair or rehabilitation will not preclude the structure's
 continued designation as a historic structure and is the minimum necessary to
 preserve the historic character and design of the structure, shall be exempt
-from the development standards of this Section
-1466.28.
-(Ord. 2011-60. Passed 11-15-11.)
+from the development standards of this Section 1466.28.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.29 NONRESIDENTIAL STRUCTURES.
    (a)   New construction and substantial improvement of any commercial,
 industrial or other nonresidential structure shall meet the requirements of
-Section
-1466.28(a) through (c) and (e) through (g).
+Section 1466.28(a) through (c) and (e) through (g).
    (b)   New construction and substantial improvement of any commercial,
 industrial or other nonresidential structure shall either have the lowest
 floor, including basement, elevated to or above the level of the flood
@@ -60368,42 +60592,44 @@ protection elevation;
 hydrodynamic loads and effects of buoyancy; and
       (3)   Be certified by a registered professional engineer or architect,
 through the use of a Federal Emergency Management Agency Floodproofing
-Certificate, that the design and methods of construction are in accordance with
-Section
+Certificate, that the
+         design and methods of construction are in accordance with Section
 1466.29(b)(1) and (2).
-(Ord. 2011-60. Passed 11-15-11.)
+         (Ord. 2011-60. Passed 11-15-11.)
 1466.30 ACCESSORY STRUCTURES.
-   Relief to the elevation or dry floodproofing standards may be granted for
-accessory structures containing no more than 600 square feet. Such structures
-must meet the following standards:
+   Structures that are 600 square feet or less which are used for parking and
+storage only are exempt from elevation or dry floodproofing standards within
+zones A, A1-30, AE, AO, and AH designated on the community's FIRM. Such
+structures must meet the following standards:
    (a)   They shall not be used for human habitation;
-   (b)   They shall be constructed of flood-resistant materials;
+   (b)   They shall be constructed of flood resistant materials;
    (c)   They shall be constructed and placed on the lot to offer the minimum
-resistance to the flow of flood waters;
+resistance to the flow of floodwaters;
    (d)   They shall be firmly anchored to prevent flotation;
    (e)   Service facilities such as electrical and heating equipment shall be
 elevated or floodproofed to or above the level of the flood protection
 elevation; and
    (f)   They shall meet the opening requirements of Section
 1466.28(e)(3).
-(Ord. 2011-60. Passed 11-15-11.)
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.31 RECREATIONAL VEHICLES.
    Recreational vehicles must meet at least one of the following standards:
    (a)   They shall not be located on sites in special flood hazard areas for
 more than 180 days; or
    (b)   They must be fully licensed and ready for highway use; or
-   (c)   They must meet all standards of Section
+   (c)   They must be placed on the site pursuant to a floodplain development
+permit issued under Section
 1466.28.
-(Ord. 2011-60. Passed 11-15-11.)
-1466.32 ABOVE-GROUND GAS OR LIQUID STORAGE TANKS.
-   All above-ground gas or liquid storage tanks shall be anchored to prevent
-flotation or lateral movement resulting from hydrodynamic and hydrostatic
-loads.
-(Ord. 2011-60. Passed 11-15-11.)
-1466.33 ASSURANCE OF FLOOD-CARRYING CAPACITY.
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.32 GAS OR LIQUID STORAGE TANKS.
+   New or substantially improved above ground gas or liquid storage tanks shall
+be anchored to prevent flotation or lateral movement resulting from
+hydrodynamic and hydrostatic loads.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.33 ASSURANCE OF FLOOD CARRYING CAPACITY.
    Pursuant to the purpose and methods of reducing flood damage stated in these
 regulations, the following additional standards are adopted to assure that the
-reduction of the flood-carrying capacity of watercourses is minimized:
+reduction of the flood carrying capacity of watercourses is minimized:
    (a)   Development in Floodways.
       (1)   In floodway areas, development shall cause no increase in flood
 levels during the occurrence of the base flood discharge. Prior to issuance of
@@ -60452,15 +60678,15 @@ the banks shall be established by a field determination of the “bankfull
 stage.” The field determination of bankfull stage shall be based on methods
 presented in Chapter 7 of the USDA Forest Service General Technical Report RM-
 245, Stream Channel Reference Sites: An Illustrated Guide to Field Technique or
-other applicable publication available from a Federal, State, or other
+other applicable publication available from  a Federal, State, or other
 authoritative source. For all proposed developments that alter a watercourse,
 the following standards apply:
-      (1)   The bankfull flood-carrying capacity of the altered or relocated
+      (1)   The bankfull flood carrying capacity of the altered or relocated
 portion of the watercourse shall not be diminished. Prior to the issuance of a
 floodplain development permit, the applicant must submit a description of the
 extent to which any watercourse will be altered or relocated as a result of the
 proposed development, and certification by a registered professional engineer
-that the bankfull flood-carrying capacity of the watercourse will not be
+that the bankfull flood carrying capacity of the watercourse will not be
 diminished.
       (2)   Adjacent communities, the U.S. Army Corps of Engineers, and the
 Ohio Department of Natural Resources, Division of Water, must be notified prior
@@ -60468,7 +60694,7 @@ to any alteration or relocation of a watercourse. Evidence of such notification
 must be submitted to the Federal Emergency Management Agency.
       (3)   The applicant shall be responsible for providing the necessary
 maintenance for the altered or relocated portion of said watercourse so that
-the flood-carrying capacity will not be diminished. The Floodplain
+the flood carrying capacity will not be diminished. The Floodplain
 Administrator may require the permit holder to enter into an agreement with
 City specifying the maintenance responsibilities. If an agreement is required,
 it shall be made a condition of the floodplain development permit.
@@ -60477,132 +60703,157 @@ in Section
 1466.21(a)(1)C. when an alteration of a watercourse results in the relocation
 or elimination of the special flood hazard area, including the placement of
 culverts.
-(Ord. 2011-60. Passed 11-15-11.)
-1466.34 FLOOD DAMAGE CONTROL BOARD.
-   The Flood Damage Control Board shall hear and decide appeals and requests
-for variances from the requirements of this chapter. The Flood Damage Control
-Board shall consist of the City Manager, City Engineer, Chief Building
-Official, and a representative from the Service Committee of City Council. If
-one of these officials is the appointed Floodplain Administrator, then that
-official shall not be on the Flood Damage Control Board.
-(Ord. 2011-60. Passed 11-15-11.)
+         (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.34 APPEALS BOARD ESTABLISHED.
+   (a)   The City Council shall appoint an Appeals Board consisting of the
+Flood Damage Control Board . The Flood Damage Control Board shall consist of
+the City Manager, City Engineer, Chief Building Official, and a representative
+from the Service Committee of the City Council. If one of these officials is
+the appointed Floodplain Administrator, then that official shall not be on the
+Flood Damage Control Board. Each member shall serve until his/her successor is
+appointed.
+   (b)   A chairperson shall be elected by the members of the Appeals Board.
+Meetings of the Appeals Board shall be held as needed and shall be held at the
+call of the Chairperson, or in his/her absence, the Acting Chairperson. All
+meetings of the Appeals Board shall be open to the public except that the Board
+may deliberate in executive sessions as part of quasi-judicial hearings in
+accordance with law. The Appeals Board shall keep minutes of its proceedings
+showing the vote of each member upon each question and shall keep records of
+all official actions. Records of the Appeals Board shall be kept and filed in
+the Pickerington City Hall, 100 Lockville Road, Pickerington, OH 43147.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.35 POWERS AND DUTIES.
-   (a)   The Flood Damage Control Board shall hear and decide appeals where it
-is alleged there is an error in any order, requirement, decision or
-determination made by the Floodplain Administrator in the administration or
-enforcement of these regulations.
+   (a)   The Appeals Board shall hear and decide appeals where it is alleged
+there is an error in any order, requirement, decision or determination made by
+the Floodplain Administrator in the administration or enforcement of these
+regulations.
    (b)   Authorize variances in accordance with Section
 1466.37 of these regulations.
-(Ord. 2011-60. Passed 11-15-11.)
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.36 APPEALS.
    (a)   Any person affected by any notice and order, or other official action
 of the Floodplain Administrator may request and shall be granted a hearing on
-the matter before the Flood Damage Control Board provided that such person
-shall file, within ten days of the date of such notice and order, or other
-official action, a brief statement of the grounds for such hearing or for the
-mitigation of any item appearing on any order of the Floodplain Administrator's
-decision. Such appeal shall be in writing, signed by the applicant, and be
-filed with the Floodplain Administrator. Upon receipt of the appeal, the
-Floodplain Administrator shall transmit said notice and all pertinent
-information on which the Floodplain Administrator's decision was made to the
-Flood Damage Control Board.
-   (b)   Upon receipt of the notice of appeal, the Flood Damage Control Board
-shall fix a reasonable time for the appeal, give notice in writing to parties
-in interest, and decide the appeal within a reasonable time after it is
-submitted.
-(Ord. 2011-60. Passed 11-15-11.)
+the matter before the Appeals Board provided that such person shall file,
+within 30 days of the date of such notice and order, or other official action,
+a brief statement of the grounds for such hearing or for the mitigation of any
+item appearing on any order of the Floodplain Administrator's decision. Such
+appeal shall be in writing, signed by the applicant, and be filed with the
+Floodplain Administrator. Upon receipt of the appeal, the Floodplain
+Administrator shall transmit said notice and all pertinent information on which
+the Floodplain Administrator's decision was made to the Appeals Board.
+   (b)   Upon receipt of the notice of appeal, the Appeals Board shall fix a
+reasonable time for the appeal, give notice in writing to parties in interest,
+and decide the appeal within a reasonable time after it is submitted.
+(Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.37 VARIANCES.
    Any person believing that the use and development standards of these
 regulations would result in unnecessary hardship may file an application for a
-variance. The Flood Damage Control Board shall have the power to authorize, in
-specific cases, such variances from the standards of these regulations, not
-inconsistent with Federal regulations, as will not be contrary to the public
-interest where, owning to special conditions of the lot or parcel, a literal
-enforcement of the provisions of these regulations would result in unnecessary
-hardship.
+variance. The Appeals Board shall have the power to authorize, in specific
+cases, such variances from the standards of these regulations, not inconsistent
+with federal regulations, as will not be contrary to the public interest where,
+owning to special conditions of the lot or parcel, a literal enforcement of the
+provisions of these regulations would result in unnecessary hardship.
    (a)   Application for a Variance.
-      (I)   Any owner, or agent thereof, of property for which a variance is
-sought, shall make an application for a variance by filing it with the
+      (1)   Any owner, or agent thereof, of property for which a variance is
+sought shall make an application for a variance by filing it with the
 Floodplain Administrator, who upon receipt of the variance shall transmit it to
-the Flood Damage Control Board.
+the Appeals Board.
       (2)   Such application at a minimum shall contain the following
 information: Name, address, and telephone number of the applicant; legal
 description of the property; parcel map; description of the existing use;
 description of the proposed use; location of the floodplain; description of the
 variance sought; and reason for the variance request.
       (3)   All applications for a variance shall be accompanied by a variance
-application fee set in the schedule of fees adopted by the City of
-Pickerington.
-   (b)   Notice for Public Hearing. The Flood Damage Control Board shall
-schedule and hold a public hearing within 30 days after the receipt of an
-application for a variance from the Floodplain Administrator. Prior to the
-hearing, a notice of such hearing shall be given in one or more newspapers of
-general circulation in the community at least ten days before the date of the
-hearing.
-   (c)   Public Hearing. At such hearing the applicant shall present such
-statements and evidence as the Flood Damage Control Board requires. In
-considering such variance applications, the Flood Damage Control Board shall
-consider and make findings of fact on all evaluations, all relevant factors,
-standards specified in other sections of these regulations and the following
-factors:
-      (1)   The danger that materials may be swept onto other lands to the
+application fee set in the schedule of fees adopted by the City.
+   (b)   Notice for Public Hearing. The Appeals Board shall schedule and hold a
+public hearing within 30 days after the receipt of an application for a
+variance from the Floodplain Administrator. Prior to the hearing, a notice of
+such hearing shall be given in one or more newspapers of general circulation in
+the community at least ten days before the date of the hearing.
+   (c)   Public Hearing.
+      (1)   At such hearing the applicant shall present such statements and
+evidence as the Appeals Board requires. In considering such variance
+applications, the Appeals Board shall consider and make findings of fact on all
+evaluations, all relevant factors, standards specified in other sections of
+these regulations and the following factors:
+         A.   The danger that materials may be swept onto other lands to the
 injury of others.
-      (2)   The danger to life and property due to flooding or erosion damage.
-      (3)   The susceptibility of the proposed facility and its contents to
+         B.   The danger to life and property due to flooding or erosion
+damage.
+         C.   The susceptibility of the proposed facility and its contents to
 flood damage and the effect of such damage on the individual owner.
-      (4)   The importance of the services provided by the proposed facility to
-the community.
-      (5)   The availability of alternative locations for the proposed use that
-are not subject to flooding or erosion damage.
-      (6)   The necessity to the facility of a waterfront location, where
+         D.   The importance of the services provided by the proposed facility
+to the community.
+         E.   The availability of alternative locations for the proposed use
+that are not subject to flooding or erosion damage.
+         F.   The necessity to the facility of a waterfront location, where
 applicable.
-      (7)   The compatibility of the proposed use with existing and anticipated
-development.
-      (8)   The relationship of the proposed use to the comprehensive plan and
-floodplain management program for that area.
-      (9)   The safety of access to the property in times of flood for ordinary
-and emergency vehicles.
-      (10)   The expected heights, velocity, duration, rate of rise, and
-sediment transport of the flood waters and the effects of wave action, if
+         G.   The compatibility of the proposed use with existing and
+anticipated development.
+         H.   The relationship of the proposed use to the comprehensive plan
+and floodplain management program for that area.
+         I.   The safety of access to the property in times of flood for
+ordinary and emergency vehicles.
+         J.   The expected heights, velocity, duration, rate of rise, and
+sediment transport of the floodwaters and the effects of wave action, if
 applicable, expected at the site.
-      (11)   The costs of providing governmental services during and after
+         K.   The costs of providing governmental services during and after
 flood conditions, including maintenance and repair of public utilities and
 facilities such as sewer, gas, electrical, and water systems, and streets and
 bridges.
-   (d)   Variances shall only be issued upon:
-      (1)   A showing of good and sufficient cause.
-      (2)   A determination that failure to grant the variance would result in
-exceptional hardship due to the physical characteristics of the property.
-Increased cost or inconvenience of meeting the requirements of these
-regulations does not constitute an exceptional hardship to the applicant.
-      (3)   A determination that the granting of a variance will not result in
-increased flood heights beyond that which is allowed in these regulations;
+      (2)   Variances shall only be issued upon:
+         A.   A showing of good and sufficient cause.
+         B.   A determination that failure to grant the variance would result
+in exceptional hardship due to the physical characteristics of the property.
+            Increased cost or inconvenience of meeting the requirements of
+these regulations does not constitute an exceptional hardship to the applicant.
+         C.   A determination that the granting of a variance will not result
+in increased flood heights beyond that which is allowed in these regulations;
 additional threats to public safety; extraordinary public expense, nuisances,
 fraud on or victimization of the public, or conflict with existing local laws.
-      (4)   A determination that the structure or other development is
+         D.   A determination that the structure or other development is
 protected by methods to minimize flood damages.
-      (5)   A determination that the variance is the minimum necessary,
+         E.   A determination that the variance is the minimum necessary,
 considering the flood hazard, to afford relief.
-   Upon consideration of the above factors and the purposes of these
-regulations, the Flood Damage Control Board may attach such conditions to the
-granting of variances, as it deems necessary to further the purposes of these
-regulations.
-   (e)   Other Conditions for Variances.
+      (3)   Upon consideration of the above factors and the purposes of these
+regulations, the Appeals Board may attach such conditions to the granting of
+variances, as it deems necessary to further the purposes of these regulations.
+   (d)   Other Conditions for Variances.
       (1)   Variances shall not be issued within any designated floodway if any
 increase in flood levels during the base flood discharge would result.
       (2)   Generally, variances may be issued for new construction and
 substantial improvements to be erected on a lot of one-half acre or less in
 size contiguous to and surrounded by lots with existing structures constructed
-below the base flood level, providing items in Section
-1466.37(c)(1) through (11) have been fully considered. As the lot size
-increases beyond one-half acre, the technical justification required for
-issuing the variance increases.
+below the base flood level, providing items in Section 1466.37(c)(1)A. to K.
+have been fully considered. As the lot size increases beyond one-half acre, the
+technical justification required for issuing the variance increases.
       (3)   Any applicant to whom a variance is granted shall be given written
 notice that the structure will be permitted to be built with a lowest floor
 elevation below the base flood elevation and the cost of flood insurance will
 be commensurate with the increased risk resulting from the reduced lowest floor
 elevation.
-(Ord. 2011-60. Passed 11-15-11.)
+         (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
+1466.371 PROCEDURE AT HEARINGS.
+   (a)   All testimony shall be given under oath.
+   (b)   A complete record of the proceedings shall be kept, except
+confidential deliberations of the Board, but including all documents presented
+and a verbatim record of the testimony of all witnesses.
+   (c)   The applicant shall proceed first to present evidence and testimony in
+support of the appeal or variance.
+   (d)   The Administrator may present evidence or testimony in opposition to
+the appeal or variance.
+   (e)   All witnesses shall be subject to cross-examination by the adverse
+party or their counsel.
+   (f)   Evidence that is not admitted may be proffered and shall become part
+of the record for appeal.
+   (g)   The Board shall issue subpoenas upon written request for the
+attendance of witnesses. A reasonable deposit to cover the cost of issuance and
+service shall be collected in advance.
+   (h)   The Board shall prepare conclusions of fact supporting its decision.
+The decision may be announced at the conclusion of the hearing and thereafter
+issued in writing or the decision may be issued in writing within a reasonable
+time after the hearing.
+(Ord. 2024-01. Passed 3-5-24.)
 1466.38 APPEAL TO THE COURT.
    Those aggrieved by the decision of the Flood Damage Control Board may appeal
 such decision to the Fairfield Court of Common Pleas, as provided in Ohio R.C.
@@ -60629,7 +60880,7 @@ accordance with Section
 (Ord. 2011-60. Passed 11-15-11.)
 1466.40 NOTICE OF VIOLATION.
    Whenever the Floodplain Administrator determines that there has been a
-violation of any provision of these regulations, he shall give notice of such
+violation of any provision of these regulations, they shall give notice of such
 violation to the person responsible therefore and order compliance with these
 regulations as hereinafter provided. Such notice and order shall:
    (a)   Be put in writing on an appropriate form;
@@ -60643,7 +60894,7 @@ notice and order shall be deemed to be properly served upon the owner,
 occupant, or agent if a copy thereof is sent by registered or certified mail to
 the person's last known mailing address, residence, or place of business, and/
 or a copy is posted in a conspicuous place in or on the dwelling affected.
-(Ord. 2011-60. Passed 11-15-11.)
+      (Ord. 2011-60. Passed 11-15-11; Ord. 2024-01. Passed 3-5-24.)
 1466.99 VIOLATIONS AND PENALTIES.
    Violation of the provisions of these regulations or failure to comply with
 any of its requirements shall be deemed to be a strict liability offense, and
