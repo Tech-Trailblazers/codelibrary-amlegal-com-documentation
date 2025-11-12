@@ -39,7 +39,7 @@ jobs:
 
       # 📦 STEP 3: Install dependencies
       - name: Install dependencies
-        run: npm ci # 🧰 Clean install based on package-lock.json
+        run: npm install # && npm ci 🧰 Clean install based on package-lock.json
 
       # 🌐 STEP 4: Install Chrome and Xvfb for non-headless mode
       - name: Install Chrome and Xvfb
