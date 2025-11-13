@@ -3461,6 +3461,10 @@ Ordinance              612.07,
                        666.03,
                        672.16,
                        698.05
+                       881.01,
+Res. R-02-25 1-27-25   881.03,
+                       881.04,
+                       881.06
 6-25         2-24-25   1262.08
 34-25        4-28-25   210.01
 57-25        6-23-25   277.02
@@ -7600,7 +7604,7 @@ Saving Time schedule once the Department of Energy study is complete.
 204.01 CITY SEAL.
    The official seal of the City shall be the seal presented by the Avon
 Chamber of Commerce to Council on April 28, 1965, as set forth below.
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4128.jpg]
  
 (Res. 84-65. Passed 5-12-65.)
@@ -53458,12 +53462,14 @@ maintenance, new equipment, extension and enlargement of Municipal services and
 facilities and capital improvements, City hereby levies an annual municipal
 income tax on income, qualifying wages, commissions and other compensation, and
 on net profits as provided in this chapter.
-   (b)   (1)   The annual tax is levied at a rate of 1.75% (one and seventy-
-five hundredths percent). The tax is levied at a uniform rate on all persons
+   (b)   (1)   The annual tax is levied at a rate of 1.95% (one and ninety-five
+hundredths percent) for tax years beginning on and after January 1, 2026, and
+at the rate of 1.75% (one and seventy-five hundredths percent) for tax years
+prior to January 1, 2026. The tax is levied at a uniform rate on all persons
 residing in or earning or receiving income in City. The tax is levied on
 income, qualifying wages, commissions and other compensation and on net profits
-as hereinafter provided in Section
-881.03 of this chapter and other sections as they may apply.
+as hereinafter provided in Section 881.03 of this chapter and other sections as
+they may apply.
       (2)   The funds collected under the provisions of this chapter shall be
 applied for the following purposes:
          A.   Such part thereof as is necessary to defray all costs of
@@ -53476,7 +53482,9 @@ other expenditures of the General Fund, and for such other purposes as may be
 determined by Council, with the exception of:
             1.   Construction of a fire station and operation of a full-time
 fire department, capital improvements for and operations of the fire department
-and police department, which makes up 0.50% of the 1.75%.
+and police department, which makes up 0.50% of the 1.95% for tax years
+beginning on and after January 1, 2026, and 0.50% of the 1.75% for tax years
+prior to January 1, 2026.
             2.   Construction and/or acquisition of a recreational facility,
 including but not limited to, a swimming facility, baseball diamonds, soccer
 fields and all appurtenances thereto, land acquisition within the City of Avon,
@@ -53486,12 +53494,20 @@ infrastructure improvements which will serve the proposed development together
 with engineering and legal costs, operating costs, maintenance, the purchase of
 new and/or used equipment, extending and/or enlarging new or existing services
 and facilities an such other capital improvements related thereto, which makes
-up 0.25% of the 1.75%. See above.
+up 0.25% of the 1.95% for tax years beginning on and after January 1, 2026, and
+0.25% of the 1.75% for tax years prior to January 1, 2026.
+            3.   Construction, renovation or improvement of safety department
+facilities, including the purchase or lease of real property for said
+facilities; the purchase or lease of safety vehicles and equipment and the
+other operating expenses of the police and fire departments, including the
+payment of acquisition, engineering and legal costs; and payment of the
+principal and interest on debt incurred to finance such expenditures which
+makes up 0.20% of the 1.95% beginning on and after January 1, 2026.
    (c)   The tax on income and the withholding tax established by this
 Chapter 881 are authorized by Article XVIII, Section 880.03 of the Ohio
 Constitution. The tax is levied in accordance with, and is intended to be
 consistent with, the provisions and limitations of Ohio R.C. Chapter 718.
-(Ord. 145-15. Passed 11-9-15.)
+(Ord. 145-15. Passed 11-9-15; Res. R-02-25. Passed 1-27-25.)
 881.02   DEFINITIONS.
    (a)   Any term used in this chapter that is not otherwise defined in this
 chapter has the same meaning as when used in a comparable context in laws of
@@ -54103,9 +54119,9 @@ licensed under Ohio R.C. Chapter 3770 to conduct video lottery terminals on
 behalf of the State pursuant to Ohio R.C. 3770.21.
 (Ord. 145-15. Passed 11-9-15; Ord. 41-18. Passed 5-29-18.)
 881.03   IMPOSITION OF TAX.
-   The income tax levied by City at a rate of 1.75 percent [1.75%] is levied on
-the Municipal Taxable Income of every person residing in and/or earning and/or
-receiving income in City.
+   The income tax levied by City at a rate of 1.95% is levied on the Municipal
+Taxable Income of every person residing in and/or earning and/or receiving
+income in the City for tax years beginning on and after January 1, 2026.
    (a)   Individuals.
       (1)   For residents of City, the income tax levied herein shall be on all
 income, salaries, qualifying wages, commissions, and other compensation from
@@ -54436,7 +54452,7 @@ division is intended to affect the withholding of taxes on qualifying wages
 pursuant to Section
 881.04 of this chapter.
 (Ord. 145-15. Passed 11-9-15; Ord. 41-18. Passed 5-29-18; Ord. 64-24. Passed 5-
-28-24.)
+28-24; Res. R-02-25. Passed 1-27-25.)
 881.04   COLLECTION AT SOURCE.
    (a)   Withholding Provisions.
       (1)   Each employer, agent of an employer, or other payer located or
@@ -54445,11 +54461,11 @@ earned and/or received by each employee in City. Except for qualifying wages
 for which withholding is not required under Section
 881.03 or division (a)(2)D. or F. of this section, the tax shall be withheld at
 the rate, specified in Section
-881.01 of this chapter, of 1.75%. An employer, agent of an employer, or other
-payer shall deduct and withhold the tax from qualifying wages on the date that
-the employer, agent, or other payer directly, indirectly, or constructively
-pays the qualifying wages to, or credits the qualifying wages to the benefit
-of, the employee.
+881.01 of this chapter, of 1.95% for tax years beginning on and after January
+1, 2026. An employer, agent of an employer, or other payer shall deduct and
+withhold the tax from qualifying wages on the date that the employer, agent, or
+other payer directly, indirectly, or constructively pays the qualifying wages
+to, or credits the qualifying wages to the benefit of, the employee.
       (2)   A.   Except as provided in division (a)(2)B. of this section, an
 employer, agent of an employer, or other payer shall remit to the Tax
 Administrator of City the greater of the income taxes deducted and withheld or
@@ -54678,7 +54694,8 @@ to the extent that a Tax Administrator and an employer enter into an agreement
 regarding the manner in which the employer shall comply with the requirements
 of Section
 881.04.
-(Ord. 145-15. Passed 11-9-15; Ord. 41-18. Passed 5-29-18.)
+(Ord. 145-15. Passed 11-9-15; Ord. 41-18. Passed 5-29-18; Res. R- 02-25. Passed
+1-27-25.)
 881.041   CONTRACTOR REGISTRATION.
    An individual, partnership, association, corporation or other entity engaged
 in the business of construction work in the City shall be required to submit a
@@ -54836,7 +54853,8 @@ does not expect to be a taxpayer subject to City income tax ordinance for a
 taxable year if both the following apply:
                a.   The person was required to file a tax return with City for
 the immediately preceding taxable year because the person performed services at
-a worksite location (as defined in Section 881.04(b)(1)A.7.) within City.
+a worksite location (as defined in Section
+881.04(b)(1)A.7.) within City.
                b.   The person no longer provides services in City and does not
 expect to be subject to City income tax for the taxable year.
             2.   The person shall provide the notice in a signed affidavit that
@@ -55096,7 +55114,7 @@ municipality. Subject to division (c) of this section, the credit shall not
 exceed 100% of the amount obtained by multiplying the income, qualifying wages,
 commissions, net profits or other compensation subject to tax in the other
 municipality by the lower of the tax rate in such other municipality or the
-rate of 1.5 0%.
+rate of 1.70% for tax years beginning on and after January 1, 2026.
    (b)   City shall grant a credit against its tax on income to a resident of
 City who works in a joint economic development zone created under Ohio R.C.
 715.691 or a joint economic development district created under Ohio R.C.
@@ -55111,7 +55129,7 @@ tax in the other municipality shall be limited to the amount computed by
 dividing the tax withheld or paid to the other municipality by the tax rate for
 that municipality.
    (d)   Intentionally left blank.
-(Ord. 145-15. Passed 11-9-15.)
+(Ord. 145-15. Passed 11-9-15; Res. R-02-25. Passed 1-27-25.)
 881.07   ESTIMATED TAXES.
    (a)   As used in this section:
       (1)   "Estimated taxes" means the amount that the taxpayer reasonably
@@ -56671,7 +56689,7 @@ committed each day during or on which a violation or noncompliance occurs or
 continues.
 Exhibit A - Standard Design for Construction, Building and Maintenance of
 Private Driveways and Drains for Driveways
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4130.jpg]
  
 CHAPTER 1028
@@ -61791,7 +61809,7 @@ this regulation or other applicable laws, ordinances, rules, or regulations, or
 the orders of the City.
 (Ord. 75-15. Passed 7-13-15.)
 APPENDIX: FRENCH CREEK WATERSHED MAP
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4713.png]
 (Ord. 75-15. Passed 7-13-15.)
 CHAPTER 1052
@@ -65948,7 +65966,7 @@ yard, or in the case of a corner lot, the side yard abutting the street.
       (14)   "Building, height of." The vertical distance measured from the
 average finished grade across the front of the building to the highest point of
 the roof.
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4141.jpg]
  
       (15)   “Block.” A tract of land bounded by streets, public or common
@@ -66086,7 +66104,7 @@ used for one family, situated on a parcel having front, sides, and rear yards
 as required by the Planning and Zoning Code, and separated from all other
 dwelling units by open space from ground to sky.
    Figure 2 – Dwelling, Single Family Detached on a Lot
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4143.jpg]
  
       (34)   “Dwelling, single-family.” A building designed or arranged for use
@@ -66402,7 +66420,7 @@ more than one street. A through lot abutting two streets may be referred to as
 a double frontage lot. Such lots are commonly referred to as double frontage
 lots.
    Figure 3 – Lot Type
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4145.jpg]
  
       (76)   “Lot width.” The distance between straight lines connecting the
@@ -66749,7 +66767,7 @@ rear of a lot and from the rear lot line to the rear of the principal building.
 side lot line on both sides of the principal building between the lines
 establishing the front and rear side yards.
    Figure 4 - Yards and Required Yards
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4147.jpg]
  
       (143)   “Yard, required.” The space between a lot line and a setback line
@@ -66770,18 +66788,18 @@ Passed 1-8-07; Ord. 24-11. Passed 4-25-11; Ord. 34-12. Passed 7-9-12; Ord. 24-
 Ord. 51-21. Passed 8-9-21; Ord. 59-23. Passed 5-22-23; Ord. 74-24. Passed 9-23-
 24; Ord. 75-25. Passed 10-14-25.)
 MEASUREMENT OF LOT WIDTH
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4149.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4151.jpg]
  
 (Ord. 58-01. Passed 5-29-01.)
 MEASUREMENT OF LOT WIDTH
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4154.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4156.jpg]
  
 (Ord. 58-01. Passed 5-29-01.)
@@ -70077,12 +70095,12 @@ comply with the side and rear yard setback requirements as shown in Figure 1
 and Figure 2 below.
 Figure 1
 (R-1) Residential Corner Lots
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-5072.jpg]
  
 Figure 1
 (R-2) Residential Corner Lots
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-5075.jpg]
  
 (Ord. 58-01. Passed 5-29-01; Ord. 230-03. Passed 12-8-03; Ord. 258-03. Passed
@@ -70342,7 +70360,7 @@ Chapter 1292 .
 Passed 1-11-10; Ord. 26-11. Passed 4-25-11; Ord. 92-14. Passed 9-22-14; Ord.
 72-15. Passed 7-13-15; Ord. 67-21. Passed 10-12-21; Ord. 6-25. Passed 2-24-25.)
 APPENDIX A TO 1262.08
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-5338.gif]
  
 (Ord. 6-25. Passed 2-24-25.)
@@ -73054,7 +73072,7 @@ Nursing Care                                          29 beds
  
       (5)   When located in a C-4 District, all regulations of Chapter 1270
 shall apply, except for the minimum lot regulations set forth in Section
-1280.05(ii).
+1280.05(jj).
    (i)   Day Care Facility, Child and/or Adult.
       (1)   For the protection of children and adults enrolled in the day care
 center, a fence or wall having a height of at least five feet shall enclose all
@@ -76161,7 +76179,7 @@ angle of the spaces. The vehicular circulation system and parking facilities
 shall be designed to fully accommodate the local traffic with safety and
 efficiency, without permitting it to dominate and destroy the form of the
 neighborhood.
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4162.jpg]
  
 (Ord. 58-01. Passed 5-29-01.)
@@ -76818,34 +76836,34 @@ installation.
    3.   Utilize community organizations and volunteers to complete selected
 projects. An existing example of such a joint effort is the Avon Community
 Center Project undertaken by the Lions Club.
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4170.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4172.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4174.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4176.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4178.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4180.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4182.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4184.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4186.jpg]
  
-[https://export.amlegal.com/media/464efdd49195b3b86b2f6dd08936aa7b84eb3946/
+[https://export.amlegal.com/media/42c9768fabe5cb2b18241353dc6fadfa7493bb5f/
 IMAGES/0-0-0-4188.jpg]
  
 APPENDIX B
