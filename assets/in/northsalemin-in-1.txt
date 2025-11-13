@@ -2755,10 +2755,10 @@ Ord. 2-95, passed 9-12-1995; Ord. 1-98, passed 7-7-1998; Ord. 2014-5, passed 5-
 1-2014; Ord. 2022-8, passed 1-5-2023)
 § 52.16 METER DEPOSIT CHARGE.
     The water meter deposit charge for owner occupied water utility users shall
-be the sum of $25. The water meter deposit charge for renter occupied water
-users shall be the sum of $50.
+be the sum of $50. The water meter deposit charge for renter occupied water
+users shall be the sum of $87.50.
 (1985 Code, § 3-4-2) (Ord. 5C-1984, passed 11-29-1984; Ord. 1-88, passed 5-10-
-1988; Ord. 1-98, passed 7-7-1998)
+1988; Ord. 1-98, passed 7-7-1998; Ord. 2021-1, passed 6-3-2021)
 § 52.17 WATER USER CHARGES AND SURCHARGES.
     There are established for the use of and service rendered by the waterworks
 system of the town the following rates and charges based on the use of water
@@ -3917,8 +3917,8 @@ event billing shall be for a single service.
    (A)   From and after December 4, 1984, every new sewer user, as a
 requirement of initial or continuing sewer service to the premises which is
 owner occupied and renter occupied by the new sewer user, shall pay to the town
-a sewer billing deposit of $25 and $50, respectively as guarantee against sewer
-user charges owed to the town.
+a sewer billing deposit of $50 and $87.50, respectively as guarantee against
+sewer user charges owed to the town.
    (B)   Deposits collected under this section shall be deemed as a provisional
 security deposit only, to be held in trust and escrow by the town, and not as
 revenues of the sewage works, and shall be credited to and held under the name
@@ -3927,7 +3927,7 @@ Deposit Account” within the town’s Special Deposit Fund.
    (C)   The sewer user shall not be entitled to any interest on the deposit
 while held by the town.
 (1985 Code, § 3-7-11) (Ord. 7C-1984, passed 12-4-1984; Ord. 1-98, passed 7-7-
-1998)
+1998; Ord. 2021-1, passed 6-3-2021)
 § 53.34 REFUND OF SEWER BILLING DEPOSIT; APPLICATION TO UNPAID SEWER BILLS.
    (A)   If any sewer user who has paid a sewer billing deposit subsequently
 ceases to own or occupy any premises for which he or she is liable for sewer
@@ -7716,6 +7716,8 @@ Ord. No.  Date Passed Description
 2020-2    5-21-2020   52.17
 2020-3    5-21-2020   52.17
 2020-4    10-1-2020   52.17
+2021-1    6-3-2021    52.16,
+                      53.33
 2021-2    4-1-2021    52.06
 2021-3    6-3-2021    93.21
 2021-4    5-6-2021    31.11

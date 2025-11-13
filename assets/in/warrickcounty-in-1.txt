@@ -1,7 +1,7 @@
 WARRICK COUNTY, INDIANA
 CODE OF ORDINANCES
 Contains 2025 S-25 Supplement, current through
-Ordinance 2025-08, passed 4-15-25
+County Commissioners Ordinance 2025-15, passed 9-8-25
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -6238,6 +6238,21 @@ TITLE V: PUBLIC WORKS
 54.   CONSTRUCTION SITE AND POST-CONSTRUCTION SITE STORMWATER CONTROL
       
 55.   STORMWATER UTILITY RATES
+      
+56.   DRAINAGE MANAGEMENT
+         
+APPENDIX A:   FLOWCHARTS
+         
+APPENDIX B:   DRAINAGE PLAN DRAWING CHECKLIST
+         
+APPENDIX C:   DECLARATION OF COVENANTS; INSPECTION/MAINTENANCE OF DRAINAGE
+FACILITY
+         
+APPENDIX D:   CERTIFICATION FORM
+         
+APPENDIX E:   TRENCH DETAILS
+         
+APPENDIX F:   RAINFALL INTENSITY TABLE
 CHAPTER 50: SOLID WASTE
 Section
 General Provisions
@@ -8511,6 +8526,1905 @@ collected in accordance with the provisions of I.C. 36-9-25-11.
 violation of this chapter, which shall be enforced by the Department and such
 agents as it may appoint for such purposes.
 (SWM Ord. 2007-01, passed 8-29-07)
+CHAPTER 56: DRAINAGE MANAGEMENT
+Section
+   
+56.01   Statutory authority
+   
+56.02   Statement of purpose
+   
+56.03   Conflicting ordinances
+   
+56.04   Compliance with other ordinances
+   
+56.05   Definitions
+   
+56.06   Drainage control policy
+   
+56.07   Drainage Board’s rights to discretionary decisions
+   
+56.08   Drainage plan approval required before construction
+   
+56.09   Record of Board decisions
+   
+56.10   Special or emergency decisions
+   
+56.11   Drainage plan description
+   
+56.12   Drainage plan review procedures
+   
+56.13   Drainage plan approval
+   
+56.14   Drainage approval before recording plat
+   
+56.15   Variances
+   
+56.16   Floodplain management ordinance
+   
+56.17   Easements
+   
+56.18   Amount of runoff to be accommodated by various parts of the drainage
+system
+   
+56.19   Storm sewer design standards
+   
+56.20   Open channel design standards
+   
+56.21    Detention/retention design standards
+   
+56.22   Private drainage facilities
+   
+56.23   Erosion control
+   
+56.24   Pipe connections
+   
+56.27   Stormwater discharge
+   
+56.28   Inspection of storm sewer system installation
+   
+56.27   Letter of credit
+   
+56.28   Record drawings
+   
+56.29   Modifications to approved drainage plan
+   
+56.30   Maintenance
+   
+56.31   Disclaimer of liability
+   
+56.32   Corrective action
+   
+56.33   Notice of violation
+   
+56.34   Illicit discharge and illegal connection
+   
+56.35   Exempt developments
+   
+56.37   Updates
+ 
+   
+56.98   Violations, enforcement, and penalties
+   
+56.99   Penalties
+   Appendix A:   Flowcharts
+   Appendix B   Drainage plan drawing checklist
+   Appendix C   Declaration of covenants; inspection/maintenance of drainage
+facility
+   Appendix D   Certification form
+   Appendix E   Trench details
+   Appendix F   Rainfall intensity table
+§ 56.01 STATUTORY AUTHORITY.
+   The Indiana Legislature granted the power of local government units per I.C.
+36-7-4 to control land use within their jurisdictions to accomplish the
+following.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.02 STATEMENT OF PURPOSE.
+   (A)   This chapter regulates proposed developments by a mixture of
+requirements, performance, and design standards. The purpose of the drainage
+standards outlined in this chapter is to establish reasonable rules and
+regulations for development in Warrick County to:
+      (1)   Reduce harm due to periodic flooding, including loss of life and
+property and threats, and inconveniences to public health and welfare;
+      (2)   Assure that new development does not increase flood or drainage
+hazards, or create unstable conditions susceptible to erosion;
+      (3)   Create the least financial burden on the taxpayers for flood
+control projects, repairs to flood-damaged public facilities and utilities, and
+flood rescue and relief operations;
+      (4)   Protect, conserve, and promote the orderly development of land and
+water resources;
+      (5)   Protect buildings and improvements from flood damage to the
+greatest extent possible;
+      (6)   Conserve the natural hydrologic, hydraulic, water quality, and
+other beneficial functions of watercourses, floodplains, and wetlands;
+      (7)   Prevent disruption of the economy and governmental services due to
+stormwater and flood drainage; and
+      (8)   Maintain eligibility for Warrick County in the National Flood
+Insurance Program by meeting or exceeding its requirements and thus making
+federally subsidized flood insurance available at reduced premiums.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.03 CONFLICTING ORDINANCES.
+   The provisions outlined in these sections shall be deemed as additional to
+the minimum standards required by other municipal, state, and federal
+ordinances, laws, regulations, and statutes. In the case of conflicting
+requirements, the most restrictive requirement shall apply.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.04 COMPLIANCE WITH OTHER ORDINANCES.
+   In addition to the requirements outlined in those sections, compliance with
+the requirements outlined in other applicable ordinances adopted by Warrick
+County and state and federal regulations shall be met.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.05 DEFINITIONS.
+   As used in this chapter:
+   ABS. Acrylonitrile Butadiene Styrene.
+   APPLICANT. The person, persons, partnership, corporation, or other private,
+duly authorized representative or agent, including their heirs and assigns, who
+applies to the Drainage Board for Drainage Plan approval.
+   BAFFLE. A structure, fabricated with water-resistant materials, that directs
+water, impedes water flows, and forces the water to flow around it.
+   BASE FLOOD ELEVATION. The elevation delineates the flooding level from the
+100-year flood.
+   BERM. A mound of soil added to the surface of a property to create a level
+space, shelf, or raised barrier separating areas vertically.
+   BUILDING.  See STRUCTURE.
+   BOARD. Warrick County Drainage Board.
+   CAPACITY OF A STORM DRAINAGE FACILITY. The maximum flow rate that can be
+conveyed or stored by a storm drainage facility.
+   CATCH BASIN. A structure with a grate that collects runoff in non-curbed
+paved areas or in grassed areas.
+   CATCHMENT AREA.  See WATERSHED.
+   CFS. Cubic Feet per second.
+   CHANNEL. A natural or man-made watercourse that periodically or continuously
+conveys water. It has a bed and a bank that confines the water.
+   CMP. Corrugated metal pipe.
+   CONTIGUOUS. Adjoining or in actual contact with.
+   COUNTY COMMISSIONERS. Board of County Commissioners of Warrick County,
+Indiana.
+   COUNTY SURVEYOR. The Warrick County Surveyor.
+   CULVERT. A closed conduit with at least one end open used to pass surface
+drainage water under an impediment.
+   CURB INLET. A structure with a grate and opening that collects runoff from
+curbed paved areas.
+   CURB SPILL-OUTS. See CURB TURNOUT.
+   CURB TURNOUT. An opening in the curb that allows runoff to be discharged off
+the pavement and into a roadside ditch or drainage structure.
+   DESIGN STORM EVENT. The rainfall event that is under consideration.
+   DEVELOPER. See APPLICANT.
+   DEVELOPMENT. Any man-made change to improved or unimproved real estate,
+including, but not limited to:
+      (1)   Construction, reconstruction, or redevelopment;
+      (2)   Placement of a building or any addition to a building;
+      (3)   Installing a manufactured home on a site;
+      (4)   Preparing a site for a manufactured home or a recreational vehicle;
+      (5)   Utility installations;
+      (6)   Wall or fence erection;
+      (7)   Road construction;
+      (8)   Parking lot construction; and
+      (9)   Residential or commercial subdivision development.
+   DETENTION FACILITY. (Also known as pond, lake, basin, tanks, chambers, or
+parking lot.) An above or belowground facility with a positive outlet
+constructed to restrict the flow rate of stormwater to a specified maximum
+rate, while detaining the excess stormwater that accumulates.
+   DRAINAGE. See RUNOFF.
+   DRAINAGE AREA. (Also known as watershed or catchment area.) See WATERSHED.
+   DRAINAGE BOARD. Warrick County Drainage Board.
+   DRAINAGE BOARD OF COMMISSIONERS. Warrick County Drainage Board.
+   DRAINAGE DIRECTION. The natural or artificial direction in which runoff
+flows.
+   DRAINAGE DITCH. A depression in the land created to channel water.
+(Typically formed around low-lying areas, roadside or field proximately to a
+water body or created to channel water from a more distant water source for
+plant irrigation.)
+   DRAINAGE EASEMENT. An easement appurtenant or attached to a tract or parcel
+of land allowing the owner of adjacent tracts, other persons, or the public to
+install drainage facilities and/or to discharge stormwater onto or through the
+tract or parcel of land subject to the drainage casement.
+   DRAINAGE FACILITIES. Drainage structures, basins, bridges, pipes, culverts,
+ditches, channels, and any other man-made items used in either storing and/or
+conveying drainage.
+   DRAINAGE PLAN. A set of documents containing a Technical Report, Letter of
+Certification, calculations, and drawings.
+   DRAINAGE STRUCTURE. A structure designed to collect, direct, or divert
+drainage, such as a manhole, curb inlet, yard inlet, catch basin, or outfall
+structure.
+   DRY BOTTOM DETENTION or DRY BOTTOM RETENTION FACILITY. A facility designed
+to completely drain after providing temporary water storage during and after a
+storm event.
+   DURATION. The time period of a rainfall event.
+   EASEMENT. Authorization or grant by a property owner to specific persons or
+the public to use the land for specified purposes.
+   EMERGENCY SPILLWAY. A waterway in or near a detention or retention facility
+to escape excess water.
+   EMERGENCY WEIR. The top of the curb at curb inlets for the escape of excess
+water.
+   ENGINEER. The Warrick County Highway Engineer, the Executive Director of the
+Warrick County Stormwater Department or his duly appointed representative(s).
+   EXISTING. See PRE-DEVELOPED CONDITION.
+   FLOOD. A general and temporary condition of partial or complete inundation
+of normally dry land areas from the overall, unusual, and rapid accumulation,
+or the runoff of surface waters from any source.
+   FLOODPLAIN. The channel proper and the adjoining areas, including wetland,
+lake, or watercourse, which have been or hereafter may be inundated by the
+regulatory flood. The floodplain includes both the floodway and the floodway
+fringe.
+   FLOODWAY. The channel of any river, stream, creek, or ditch, and those
+portions of the floodplain adjoining the channel which are reasonably required
+to convey the 100-year flood flow without increasing the water surface
+elevation of the 100-year flood by more than the regulatory limit. The Indiana
+Department of Natural Resources has jurisdiction over floodways whose
+watersheds are greater than one square mile. The Local Floodplain Administrator
+has jurisdiction over floodways whose watersheds are less than one square mile.
+   FLOODWAY FRINGE. The portion of the floodplain outside the flood way.
+   FLOOD PROTECTION GRADE (i.e., FPG).  The base flood elevation (i.e., the
+100-year flood elevation) plus two feet.
+   FLOW LINE. The lowest point in a ditch, swale, creek, stream, river, or any
+water body that conveys water.
+   FOOTING DRAIN. A drain pipe installed around the exterior of a basement wall
+foundation or crawl space to relieve water pressure caused by groundwater.
+   FREEBOARD. The vertical distance between a surface or water level and the
+top of whatever contains or restrains it. Freeboard is a safety feature that
+provides storage capacity and prevents spills.
+   GRADE. The inclination or slope of a channel, canal, pipe, culvert, etc., or
+natural ground surface, usually expressed in percent of the vertical rise (or
+fall) divided by the horizontal distance.
+   HERPICC MANUAL. See the latest version of the LTAP Drainage Manual.
+   ILLEGAL CONNECTION. Any pipe, open channel, drain, or conveyance, whether on
+the surface or subsurface, which allows an illicit discharge to enter the
+stormwater system including but not limited to any conveyances that allow any
+non-stormwater discharge including, but not limited to, sewage, process
+wastewater, and wash water to enter the storm drain system, regardless of
+whether such pipe, open channel, drain or conveyance has been previously
+allowed, permitted, or approved by an authorized enforcement agency.
+   ILLICIT DISCHARGE. Any discharge to a municipal or county separate storm
+sewer system (stormwater drainage system) not composed entirely of stormwater
+runoff (except for discharges allowed under an NPDES permit or non-polluting
+flows). These non-stormwater discharges occur due to illegal dumping or illegal
+connections to the stormwater drainage system.
+   IMPERVIOUS AREA. A relatively hard surface area that does not readily absorb
+water. Impervious areas include pavement, parking lots, driveways, roofs, and
+other hard surfaces that do not absorb water. An impervious area is one in
+which the runoff coefficient is 0.90 or higher.
+   INDOT. Indiana Department of Transportation.
+   INFILTRATION. The seepage of water into the sub-surface ground.
+   INLET PIPE. A pipe that conveys water to a detention or retention facility.
+   LTAP DRAINAGE MANUAL. The latest revised Stormwater Drainage Manual, within
+reason, with the goal of creating good drainage, as prepared by Purdue Research
+Foundation and the Indiana Local Technical Assistance Program. (To obtain a
+copy of this manual, call the Indiana Local Technical Assistance Program (LTAP)
+at 765- 494-2164.)
+   LEGAL DRAIN. An open or tiled ditch, or combination of the two, which arc
+subject to the jurisdiction and control of the Warrick County Drainage Board.
+   LETTER OF CREDIT. A legally binding instrument, such as an Irrevocable
+Letter of Credit or cashier's check, from a duly chartered financial
+institution providing surety satisfactory to the Drainage Board that all
+proposed Drainage Facilities specified in the Drainage Plan will be constructed
+by the standards of this chapter.
+   LOCAL FLOODPLAIN ADMINISTRATOR. The Executive Director of the Warrick County
+Area Plan Commission.
+   MANHOLE. A drainage structure with a solid cover, through which a person may
+enter to access an underground storm sewer or enclosed drainage structure.
+   MS4 (MUNICIPAL SEPARATE STORM SEWER SYSTEM). A conveyance or system of
+conveyances, including roads with drainage systems, municipal streets, catch
+basins, curbs, gutters, ditches, manmade channels, or storm drains, that is:
+      (1)   Owned or operated by a federal, state, city, town, county,
+district, association, or other public body (created by or per state law)
+having jurisdiction over stormwater, including special districts under state
+law such as a sewer district, flood control district, or drainage district, or
+similar entity, or a designated and approved management agency under Section
+208 of the Clean Water Act (33 U.S.C. 1288) that discharges into water of the
+state; or privately owned stormwater utility, hospital, university, or college
+having jurisdiction over stormwater that discharges into waters of the state;
+      (2)   Designed or used for collecting or conveying stormwater;
+      (3)   Not a combined sewer; and
+      (4)   Not part of a publicly owned treatment works (POTW) as defined at
+40 CFR 122.2.
+   NORMAL POOL ELEVATION. See PERMANENT POOL ELEVATION.
+   OFF-SITE. All right-of-way and all property that is not where the
+development is to be constructed.
+   ON-SITE. The property where the proposed development is to be constructed.
+   OPEN CHANNEL CONVEYANCE. Drainage facilities that are open to the
+atmosphere, such as ditches, canals, swales, and channels. Technically, open
+channel conveyance occurs when the liquid stream is not completely enclosed by
+solid boundaries. For purposes related to this chapter, an open channel will be
+considered a drainage conveyance facility that is not closed.
+   ORDINANCE. This chapter and all subsequent additions or amendments thereto.
+   ORIFICE. See RESTRICTOR.
+   OUTFALL. A point where collected and concentrated surface water is
+discharged into an open drainage feature. These drainage features include
+ditches, channels, swales, streams, rivers, ponds, lakes, or other open bodies
+of water. In most cases, an outfall will consist of a pipe discharging runoff
+from a detention facility or storm sewer system.
+   OUTFALL CONTROL STRUCTURE. A structure that may include a restrictor
+designed to control the discharge from a detention facility to meet the desired
+performance specifications.
+   OUTLET PIPE. A pipe that conveys water from a detention facility.
+   PEAK FLOW RATE. The rate of flow of water at a given point resulting from a
+particular storm event.
+   PERMANENT POOL ELEVATION. The permanent pool elevation of a basin must be at
+or above the elevation of the outlet pipe and/or downstream BMR. The permanent
+pool should not be lower than six inches below the seasonal high-water table.
+The permanent pool elevation of a basin must be not less than six feet deep.
+   PIPE. A closed containment of geometric shape with open ends used to convey
+liquids. See CULVERTS or STORM SEWERS.
+   PIPE COLLAR. A device secured to the outside wall of a pipe, specifically
+designed to prevent water from flowing along the pipe within the exterior of
+the pipe trench.
+   PRE-DEVELOPED CONDITION. The site conditions that exist on a site before the
+commencement of a land development project and at the time that plans for the
+land development of a site are approved by the Warrick County Area Planning
+Commission. Where phased development or plan approval occurs (preliminary
+grading, roads, utilities, etc.), the existing conditions before the first item
+is approved or permitted shall establish pre-development conditions.
+   POST-DEVELOPED CONDITION. The site conditions that may reasonably be
+expected or anticipated to exist after the land development activity is
+completed on a site.
+   PROPOSED. See POST-DEVELOPED CONDITION.
+   PVC. Polyvinyl Chloride.
+   RAINFALL INTENSITY.  The cumulative depth of rainfall occurring over a given
+duration, usually expressed in inches per hour.
+   RECORD DRAWINGS. As-built drawings - engineering design drawings that have
+been revised to reflect all changes to the design drawings that occurred during
+construction.
+   RCP. Reinforced concrete pipe.
+   RELEASE RATE. The amount of stormwater released from a detention or
+retention facility per unit of time.
+   REGULATORY FLOOD. (Also known as the Base Flood or the 100-year flood +
+intensity calculations). The flood having a one percent probability of being
+equaled or exceeded in any given year, as shown on the Federal Insurance Rate
+Maps (FIRMs) or as approved by the Local Floodplain Administrator.
+   REGULATED DRAIN. (Also known as a LEGAL DRAIN.) A drain or ditch maintained
+by the County Surveyor and the Drainage Board per Indiana Drainage Code, I.C.
+36-9-27.
+   RESTRICTOR. A device to restrict the flow of water discharging from a
+detention facility.
+   RETENTION FACILITY. (Also known as a pond, lake, basin, perforated pipe,
+chamber, or facility.) An above or below-ground facility to retain runoff that
+has no positive outlet. Runoff is removed only by infiltration through a porous
+bottom or by evaporation.
+   RETURN PERIOD. The average interval of time within which a given rainfall
+event will be equaled or exceeded once. For example, a storm event having a
+return period of 100 years has a one percent (1/100) probability of being
+equaled or exceeded in any year. The occurrence of a 100-year storm event does
+not change the chance of another 100- year storm event occurring the next day.
+   RUNOFF. (Also known as stormwater runoff.) The portion of rainwater that
+does not infiltrate the ground within the land development.
+   RUNOFF COEFFICIENT. A decimal fraction relating the amount of rain that
+appears as runoff and reaches the storm sewer system to the amount of rain
+falling. A coefficient of 0.5 implies that 50% of rain falling on a given
+surface appears as runoff.
+   SLOPE. The gradient in feet per foot or expressed as a percent (see GRADE).
+   STORM SEWERS. Pipes, closed conduits, or any other manufactured or
+fabricated product with a geometrical shape designed to convey runoff. Storm
+sewers have both ends connected to drainage structures. See CULVERTS.
+   STORMWATER. See RUNOFF.
+   STORM WATER POLLUTION PREVENTION PLAN (SWPPP). A plan developed to minimize
+the impact of stormwater pollutants resulting from construction activities,
+also known as the Construction Stormwater General Permit.
+   STORMWATER RUNOFF. See RUNOFF.
+   STORMWATER DRAINAGE FACILITY. All means, natural or man-made, including
+conduits and appurtenant features, canals, channels, ditches, streams,
+culverts, and pipes, used for conveying stormwater.
+   STUB OUT. A short length of pipe for future connection.
+   SWALE. A drainage ditch with relatively flat side slopes.
+   TRASH RACK. A device or equipment that prevents trash and debris from
+discharging from a drainage facility.
+   TRIBUTARY. Any watercourse that flows into a larger watercourse.
+   WATERCOURSE. Any river, stream, brook, ditch, creek, or natural or man-made
+drainage system where stormwater or floodwaters flow.
+   WATERSHED. A geographic area from which water drains to a specific
+concentration point at the furthest downstream (i.e., the lowest elevation)
+point.
+   WCSWCD. Warrick County Soil and Water Conservation District.
+   WET BOTTOM DETENTION FACILITY. A basin designed to permanently retain a pool
+of water after temporarily detaining runoff during a storm event.
+   YARD INLET/AREA DRAIN. A structure with a grate that collects runoff in
+grassed areas.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.06 DRAINAGE CONTROL POLICY.
+   (A)   It is recognized that some natural watercourses and existing storm
+sewers within Warrick County may not have sufficient capacity to receive and
+convey runoff resulting from development. Accordingly, either the temporary
+storage and controlled release rale of runoff, or the retention of runoff,
+shall be required for any development whenever a development increases the
+total impervious area by at least 10,000 square feet, and a drainage plan shall
+be prepared and approved for all such developments. For lots that are located
+within subdivisions where a detention or retention facility was constructed,
+that is considered an increase in impervious area of 10,000 square feet for
+said lot, submission of documentation demonstrating that detention and/or
+retention for the excess runoff from said lot shall be submitted. If, in the
+opinion of the County Surveyor, the documentation is satisfactory, a drainage
+plan will not be required.
+   (B)   Developments that result in a total impervious area of more than 5,000
+square feet, but less than 10,000 square feet, regardless of net increase or
+decrease of impervious areas (such as reconstruction, new construction,
+replacement, redevelopment, combination, expansion, etc.) may require the
+review and approval of the County Surveyor. The County Surveyor may review the
+existing site conditions, and he/she may request a sketch, plan, and/or drawing
+of the proposed site conditions from the developer.
+   (C)   It is understood that during certain storm events, discharging
+unretained peak runoff flow from a development into a receiving watercourse,
+before the peak runoff flow in that receiving water flows by the development,
+might reduce downstream or upstream impacts. However, it is not possible to
+guarantee that the discharge of unretained peak flow from a development will
+occur before the peak flow of the receiving watercourse during all storm
+events. In fact, under most conditions and most common storm events, detaining
+the peak runoff flow will reduce downstream and/or upstream impacts. Therefore,
+all developments, unless those exempt by this chapter, shall detain or retain
+the peak runoff flow generated from a 50-year storm event under the developed
+conditions while discharging a release rate that may not exceed the peak runoff
+flow generated from a five-year storm event under the pre-developed condition.
+Except with the exemptions stated in this chapter, the applicant must either
+submit a drainage plan to the Warrick County Drainage Board to demonstrate that
+this requirement will be met, or technically demonstrate that during the one-
+year, two-year, five-year, ten-year, 25-year, and the 50-year storm event,
+releasing unretained runoff flow will not result in negative impacts downstream
+or upstream of the site.
+   (D)   The drainage plan must clearly show that the post-developed runoff for
+the 50- year storm event discharged off the site does not exceed the pre-
+developed peak runoff rate for the five-year storm event.
+   (E)   Drainage calculations for developments where the watershed under
+consideration is less than 200 acres may be determined by the Rational Method
+(Q = CIA) per the latest version of the LTAP Drainage Manual, except that the
+rainfall intensity (I) shall be determined from the Rainfall Intensity Table in
+Appendix F of this chapter. Note that a minimum time of concentration shall be
+ten minutes. Drainage calculations for developments where the watershed under
+consideration is more than 200 acres may be determined by the Soil Conservation
+Service Curve Number Method, per the latest version of the LTAP Drainage
+Manual.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+56.99
+§ 56.07 DRAINAGE BOARD'S RIGHTS TO DISCRETIONARY DECISIONS.
+   (A)   Because topography, soil types, field conditions, and the availability
+and adequacy of outlets for stormwater runoff vary with almost every site, the
+requirements for drainage management tend to be a unique matter for each
+project; therefore, the Drainage Board retains the right to make discretionary
+decisions on an individual basis.
+   (B)   The Drainage Board shall authorize and empower certain technical
+advisors, including the Warrick County Surveyor and his assigns, as well as the
+Warrick County Highway Engineer and his assigns. The Drainage Board shall
+empower the technical advisors as follows:
+      (1)   To review the submitted drainage plans;
+      (2)   Make recommendations to the Drainage Board concerning such reviews,
+and make other reports when ordered by the Board;
+      (3)   To make periodic inspections before, during, and after completion
+of a development project, and to report findings to the Drainage Board; and
+      (4)   To act on behalf of the Drainage Board when so authorized, or by
+ordinance.
+   (C)   The Drainage Board encourages and advises anyone with an interest in a
+development project to contact the technical advisors named above as soon as
+possible during the planning stage of the project.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.08 DRAINAGE PLAN APPROVAL REQUIRED BEFORE CONSTRUCTION.
+   Construction for development projects, unless exempt from this chapter,
+shall not commence without prior approval of the Drainage Plan from the
+Drainage Board. However, the applicant must be aware that before construction
+commences, all applicable municipal, state, and federal permits must be
+secured, including MS4 required SWPPP applications.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+56.99
+§ 56.09 RECORD OF BOARD DECISIONS.
+   (A)   Decisions by the Drainage Board concerning this chapter shall be made
+only during regular or special meetings of the Drainage Board.
+   (B)   Records of actions taken by the Drainage Board concerning this chapter
+shall be recorded in the appropriate edition of the minutes of each Drainage
+Board meeting.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.10 SPECIAL OR EMERGENCY DECISIONS.
+   (A)   In special or emergency circumstances where actions must be taken
+quickly to enforce this chapter's purposes, policies, or other requirements,
+the Drainage Board or the duly authorized representatives may make decisions or
+take actions outside of Board meetings.
+   (B)   Special or emergency decisions and actions of the Drainage Board and/
+or their authorized representatives shall be recorded in the appropriate
+edition of each Drainage Board meeting.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.11 DRAINAGE PLAN DESCRIPTION.
+   A drainage plan shall include drawings (including the Drawings Checklist), a
+technical report, and a Letter of Certification (including the Certification
+Form).
+   (A)   Drawings.
+      (1)   The drawings shall include all plans, profiles, details, notes, and
+specifications to construct the development. All applicable items listed in the
+Drawings Checklist in the Appendices shall be shown. The Drawings Checklist
+shall be filled out and submitted with the drawings. The applicant may mark N/
+A for any inapplicable items.
+      (2)   The drawings shall portray design concepts in a common format. This
+format must present all the information necessary for persons trained in
+engineering to review the plans and those skilled in construction work to build
+the project according to the design engineer's intent. Supporting documentation
+for the site improvement plans must also be presented in an orderly and concise
+format that can be systematically reviewed and understood by others. A good
+format is also essential for easy access to information for future reference.
+      (3)   Plan sheets, profile sheets, or combined plan and profile sheets,
+specifications, and detail sheets shall be on 24" x 36" sheet sizes.
+      (4)   The drawings shall include a project information/cover sheet with
+the following:
+         (a)   Title of development or project name (including applicant's
+name);
+         (b)   Table of contents (if more than three pages);
+         (c)   Vicinity map;
+         (d)   Name and telephone number of utility field contacts;
+         (e)   One-call telephone number;
+         (f)   Name and telephone number of the developer's project surveyor;
+         (g)   Name and telephone number of the owner/agent;
+         (h)   Name and telephone number of the developer;
+         (i)   Name and telephone number of the developer's engineering firm
+preparing plans; and
+         (j)   Legal description (or reference to deed).
+      (5)   Existing features shall be shown on the drawings with dashed lines,
+and/or are half-toned (screened), to distinguish existing features from
+proposed improvements clearly.
+      (6)   The vertical datum shall be based on the current flood maps. The
+drawings shall show the location, description, and elevation for at least two
+permanent benchmarks. Permanent means that the benchmark will not be disturbed
+or damaged during the construction of the development.
+      (7)   An Overall Site Plan shall be included if the site must be divided
+into more than three plan sheets. The overall plan shall include, at least, a
+north arrow and graphic scale, the entire property to be developed, existing
+and proposed rights-of-way with street names, and the location of the detailed
+site plan sheets, indexed to the detailed site plan sheets. The scale of the
+overall plan shall be 1" = 40', 1" = 50', 1" = 60', 1" - 100', 1" = 200', l" =
+300", 1" = 400', 1" = 500', or 1" = 600', unless otherwise approved by the
+County Surveyor.
+      (8)   Each drawing shall be stamped, signed, and dated by a professional
+civil engineer or a professional land surveyor regularly engaged in stormwater
+drainage design, and registered to practice in the State of Indiana.
+      (9)   Site plans shall have a north arrow, graphic scale, match lines
+showing the matched sheet number, and project phasing, if known at the time of
+the drainage plan's submission.
+      (10)   Detail sheets shall provide sufficient information to construct
+complex elements of the plan. Details may be provided on plan and profile
+sheets if space allows. The location and label for each section or other
+details shall be provided.
+      (11)   Each drawing, except for the title sheet, shall have a title block
+that lists, at minimum, the development title, the name, address, and phone
+number of the firm or individual preparing the plan, a revision block, page (of
+pages) numbering, and sheet title.
+      (12)   All natural and proposed drainage collection, conveyance, and
+detention/retention systems with structure numbers shall be shown on one
+overall site plan showing the entire property, even if only a portion of the
+property is to be developed.
+      (13)   General, drainage, and structural notes that apply to the plan
+shall be provided on the plans.
+      (14)   The drawings consist of all the plans, profiles, details, notes,
+and specifications necessary to construct roads, grading, and the drainage
+system. Detailed site plan scales shall be in legible scales and show the
+entire development and off-site work. Details for clarification, including
+those for intersections and existing driveways, should be displayed on a larger
+scale.
+      (15)   The drawings shall include, at least, the following existing
+features:
+         (a)   If able, the existing ground surface topography within the site
+and extending beyond the property line for at least ten feet. Existing and
+proposed topography contours shall be shown at one-foot intervals for the
+entire area to be developed unless the County Surveyor approves another contour
+interval;
+         (b)   If able, the existing surface water discharge points. Ground
+surface elevations for a reasonable "area" around points of discharge shall
+extend at least 20 feet downstream of all discharge points;
+         (c)   Existing hydrologic features. Provide spot elevations, in
+addition to contour lines to aid in delineating the boundaries and depth of all
+existing floodplains, wetlands, channels, swales, streams, storm drainage
+systems, roads (low spots), bogs, depressions, springs, seeps, swales, ditches,
+pipes, groundwater, and seasonal standing water;
+         (d)   Other existing natural features. Provide spot elevations to
+delineate perimeter and variations, including existing vegetation and trees, as
+needed;
+         (e)   Flow arrows to indicate the direction of existing surface flow
+on all public and private property and for all existing conveyance systems;
+         (f)   Floodplains, as shown on Flood Insurance Rate Maps (FIRMs) with
+the FIRM panel noted, along with the regulatory base flood elevation and the
+regulatory flood zone. If the Local Floodplain Administrator requires the
+floodplain to be determined by the applicant, that floodplain with base
+elevations shall be shown;
+         (g)   Floodways, as shown on Flood Insurance Rate Maps (FIRMs), as
+approved by the Indiana Department of Natural Resources (in cases where the
+watershed is greater than one square mile but not shown on the FIRM panel), or
+as designated or as required by the Local Floodplain Administrator (in cases
+where the watershed is less than one square mile);
+         (h)   Wetlands shall be identified by the National Wetland Inventory
+Map;
+         (i)   Location and limits of all existing property boundaries;
+         (j)   If able, the location of all existing structures, including the
+locations of all structures on abutting properties within 20 feet of the
+proposed site. Maps, plans, and/or aerial photography may be used if verified
+by observation;
+         (k)   If able, the dimensions of existing easements within the
+property to be developed and within 20 feet of the property to be developed;
+         (l)   If able, the dimensions of existing property lines and lot lines
+within the property to be developed and within 20 feet of the property to be
+developed;
+         (m)   Location and limits of all existing roads and rights-of-way
+within the property to be developed and adjoining the property to be developed.
+This includes the opposite side of the road and curb drives/sidewalk entrances
+from the property to be developed;
+         (n)   Location of all existing sanitary sewers and water mains
+(including appurtenances) within the property to be developed and, if possible,
+within ten feet from the property to be developed;
+         (o)   Location of all existing utilities within the property to be
+developed and, if possible, within ten feet from the property to be developed;
+         (p)   Location of all drainage facilities within the property to be
+developed and, if possible, within ten feet from the property to be developed;
+         (q)   Location of all existing utility poles and fences within the
+property to be developed and, if possible, within ten feet from the property to
+be developed;
+         (r)   Location and limits of existing pavement, including type of
+pavement (i.e., asphalt, concrete, etc.) within the property to be developed
+and, if possible, within ten feet from the property to be developed;
+         (s)   Location and limits of all existing common open space within the
+property to be developed and, if possible, within ten feet from the property to
+be developed;
+         (t)   Location and limits of all existing public dedications within
+the property to be developed and, if possible, within ten feet from the
+property to be developed; and
+         (u)   Existing features to be removed shall be clearly labeled as "To
+Be Removed".
+      (16)   The drawings shall include the following proposed features;
+         (a)   Proposed property lines, right-of-way lines, and widths for
+proposed roads and intersecting roads;
+         (b)   Proposed roadway features such as centerline, edge of pavement
+and shoulder, ditch lines, curbs, and/or sidewalks. In addition, points of
+access to abutting properties and roadway continuations shall be shown within
+the property to be developed and within 20 feet of the property to be
+developed, if able;
+         (c)   Proposed topography contours shall be shown at one foot
+intervals and selected spot elevations within all right-of-way and drainage
+easements, as needed. For the remainder of the development, proposed topography
+contours shall be shown at one foot intervals with proposed drainage
+directions;
+         (d)   The location of all proposed utilities, as well as known future
+utilities installed by others, that are within right-of-way and drainage
+easements shall be shown to the extent that these will be affected by the
+proposed project;
+         (e)   The proposed right-of-way and easements are sufficiently
+dimensioned to clearly show the locations of all proposed dedicated land;
+         (f)   Proposed pavement, including type of pavement (i.e., asphalt,
+concrete, gravel, etc.);
+         (g)   Proposed drainage structures, including all surface drainage
+structures, are generally sequentially numbered starting from the furthest
+downstream structure;
+         (h)   Slope, length, diameter, and material for all proposed pipes,
+culverts, and stub-outs. The storm sewer information shall be shown in a table
+formal;
+         (i)   All proposed drainage facilities;
+         (j)   Approximate location of proposed downspout sub-drains or footing
+drains for all lots intending to connect to the storm drainage system, with
+prior county approval only. All stub-outs shall be located to allow gravity
+flow from the lowest corner of the lot to the connecting drainage structure.
+Stub-outs shall be terminated with fabricated caps;
+         (k)   Proposed stub-out locations for any future pipe connections.
+Stub-outs shall be terminated with fabricated caps. For all pipes not RCP, the
+cap shall be fabricated from the same material as the pipe to be stubbed. For
+RCP stubs, a fabricated cap such as Foreman Night Cap by Advanced Products and
+Systems from Lafayette, Louisiana, or a similar product shall be used;
+         (l)   Proposed drainage easements, tracts, access easements, streets,
+with dimensions and type of restriction and/or use;
+         (m)   Location, identification, and dimensions of all proposed
+buildings (if known), property lines, streets, alleys, and easements;
+         (n)   Sections and details of all retaining walls, if applicable;
+         (o)   Profile of all storm sewers showing proposed and existing ground
+profiles at 50-foot stations and significant ground breaks and topographic
+features. The storm sewer profile shall have the same stationing shown on the
+site plan. The profile shall be read from left to right, with lower stationing
+on the left. The profile shall have a grid of numbered lines, providing a
+continuous plot of vertical positioning against horizontal;
+         (p)   Invert elevations of all pipes and culverts, as well as the
+inside bottom and rim elevations of all drainage structures. This information
+can be shown on the plan or in a table;
+         (q)   Show locations where pipes that are proposed to have one foot or
+less of cover from the finished grade (measured vertically from the top of the
+pipe to the finished grade, not from the top of the pipe to the road centerline
+finished grade elevations);
+         (r)   Show the profile on the same, sheet aligned underneath the plan
+view whenever possible;
+         (s)   Clearly label all profiles with respective street names and plan
+sheet reference numbers if drawn on separate sheets;
+         (t)   Locale match points with existing pavements and show elevations;
+         (u)   Locate, in plan and profile, all existing (if a gravity line,
+base the location and elevation on the data collected at the upstream and
+downstream structure, and if a non-gravity line, make an assumption and note
+it), proposed, and future (if known) utilities where they cross proposed storm
+sewers, including the elevations of the top and bottom of pipes where they
+cross; and
+         (v)   Maintenance statement recommending maintenance tasks and
+frequency for all drainage facilities.
+      (17)   Proposed retention/detention and infiltration facilities.
+         (a)   Scaled drawing of each retention/detention or infiltration
+facility.
+         (b)   Maximum design water elevation for the 50-year storm event.
+         (c)   Normal pool elevation.
+         (d)   Elevations and dimensions of all berm widths.
+         (e)   At least two cross-sections through a facility. One cross-
+section must include the outflow restrictor.
+         (f)   Detail, section, and plan view of restrictor/outfall control
+structure, including restrictor.
+         (g)   Pipe collar, if necessary.
+         (h)   All inlet and outlet pipes' location, elevation, and orientation
+detail.
+         (i)   Construction and material requirements for retention/detention
+facility construction.
+         (j)   Location, elevations, and detail of emergency overflows and
+spillways.
+         (k)   Rock protection/energy dissipation requirements and details.
+         (l)   Invert elevations of all pipes, grates, inlets, tanks, and
+vaults of the retention/detention facility, plus spot elevations at the bottom
+of dry bottom detention facilities. This information can be in a table form.
+         (m)   Provide the location of the access route if required.
+         (n)   Minimum freeboard amounts.
+         (o)   Maintenance statement recommending maintenance tasks and
+frequency for all drainage facilities.
+         (p)   Details of all energy dissipators, including splash pads.
+         (q)   Size, type, slope, and length of pipes entering or exiling the
+retention/detention facility, when applicable. This information can be
+presented in a table form.
+         (r)   Details shall be drawn at one of the following scales: ½” = 1',
+¼” = 1', ” = 1', l"= 1', l”= 2', l”= 3', l” = 4', l” = 5', 1" = 6', l”=10', or
+l”= 20', when applicable.
+      (19)   Structural plan details. Any structurally designed drainage
+facility (e.g., bridge crossing, reinforced concrete footings, walls, or
+vaults) shall include plan sheets necessary to provide complete working
+drawings showing dimensions, steel placement, and specifications for
+construction. Structures may require a design prepared and stamped by a
+professional civil engineer regularly engaged in structural design, and
+registered to practice in the State of Indiana.
+   (B)   Letter of Certification. The Letter of Certification shall be prepared
+by a professional engineer registered in the State of Indiana, stating that the
+drainage plan was prepared following the criteria of the requirements of the
+Drainage Board. This letter shall also contain the estimated cost of the
+drainage facilities, as specified in the drainage plan. In addition, a
+Certification Form shall be filled out and signed. A sample Certification Form
+can be found in Appendix D of this chapter.
+   (C)   Technical report.
+      (1)   The technical report shall be typed or computer-generated on 8½” X
+11" paper and be bound or placed in a three-hole binder. The drainage report
+shall include the following sections:
+         (a)   Title page;
+         (b)   Table of Contents;
+         (c)   Project overview;
+         (d)   Existing conditions summary;
+         (e)   Off-site analysis;
+         (f)   Conveyance systems analysis and design;
+         (g)    Retention/detention analysis and design;
+         (h)   Special reports and studies;
+         (i)   Letter of Credit (or Bond) cost estimate;
+         (j)   Maintenance and operations manual; and
+         (k)   Appendices.
+      (2)   The title page shall show the project name, applicant, address if
+known of the development, and submission date of the drainage report. The title
+page shall be stamped by a professional civil engineer or professional land
+surveyor regularly engaged in stormwater drainage design, and registered to
+practice in the State of Indiana
+      (3)   The project overview shall identify and discuss the site's
+location, topography, and size. It shall also include general descriptions of
+the site's pre-developed conditions, the existing drainage system (including
+drainage to and from the adjacent property), the proposed development, and the
+proposed drainage system. The project overview shall also include a map showing
+the general location of the site, all roads that border the site, and
+significant geographic features and sensitive areas.
+      (4)   The existing conditions summary shall include a description of the
+site topography, including basins, watershed areas, drainage facilities,
+flooding, and backwater. This section shall estimate the runoff peak flow rate
+for the five-year storm event generated by the existing site and shall discuss
+the capacity of the existing drainage facilities, existing drainage problems,
+if known (i.e., scouring, sedimentation, bank sloughing, flooding, etc.), and
+location of discharge points, indicating if the discharge points are point
+locations and/or areas of overland flow. This section shall include a
+discussion of the assumptions and site parameters used to analyze the existing
+site hydrology. Watersheds with areas identified in acres, surface conditions
+with appropriate runoff coefficients or curve numbers (if any), times of
+concentration, and travel times shall be included. Watershed areas within the
+site or contributing runoff towards the site, drainage facilities with invert
+elevations, and direction of overland drainage shall be shown on a
+topographical map showing one-foot interval ground contours at a scale suitable
+to show these plan elements sufficiently. Each watershed area shall be labeled
+individually, with flow calculations for each watershed area. Information
+required under this section, shown on the plans, may be referenced. Information
+may be presented in table form.
+      (5)   The off-site analysis shall discuss the capacity of the existing
+drainage facilities, existing drainage problems, if known (i.e., scouring,
+sedimentation, bank sloughing, flooding, etc.), and the location of discharge
+points.
+      (6)   The conveyance systems analysis and design section shall present a
+detailed analysis of the proposed conveyance system. The analysis, which should
+be checked and verified, should be presented in a clear, concise manner that
+can be easily followed. All drainage structures and storm sewers shall be
+clearly labeled and correspond directly to the construction drawings. This
+section shall include a discussion regarding the sizing of the elements of the
+conveyance system. Documentation supporting the chosen runoff coefficient
+values and the chosen concentration time for each catchment area shall be
+included in this section or the Appendices. A Storm Sewer Design Table, shown
+in Figure 7.2.1 in the latest version of the LTAP Drainage Manual, must be
+provided when the rational method is used.
+      (7)   The retention/detention analysis and design section shall include a
+professionally prepared illustration of any retention or detention facilities
+and their appurtenances. This illustration shall include plan, section,
+profile, and elevation views. This section shall include the basic measurements
+of the facilities necessary to calculate the storage volumes available from
+zero to the maximum head available, orifice/restrictor sizes, head
+relationships, and outfall structure orientation concerning the retention or
+detention facility. The section shall include calculations, equations, storage/
+volume tables, graphs, references, and other necessary documents to clearly
+show the results and methodology used to determine the storage facility
+volumes. This section should provide a clear sequence of how the retention or
+detention facility was determined. Section 6.3 of the latest version of the
+LTAP Drainage Manual shall be followed for detention/retention; calculations
+may reference plans.
+      (8)   The special reports and studies section shall include a summary of
+special reports prepared by persons with expertise in the particular area of
+analysis in cases where site characteristics pose unique and challenging road
+and drainage design problems. Special reports and studies may involve
+geotechnical/soils, wetlands, floodplains, slope protection/stability,
+groundwater, erosion and deposition, structural design, geology, hydrology,
+hydraulics, water quality, and/or structural fill. If the submitted drainage
+plan does not include a special report or study that would technically address
+the potential impacts and mitigation implementations associated with a unique
+feature of the site, the County Surveyor may request a special report or study.
+A copy of the special report or study shall be included in the Appendices of
+the Technical Report.
+      (9)   The Letter of Credit Cost Estimate section shall include a quantity
+tabulation and appropriate unit costs for each work item specified in the
+drainage plan. The total cost of the drainage system shall then be specified.
+Once approved, the total cost, of the remaining construction shall be the value
+of a Letter of Credit. That estimated cost maybe specified in the Letter of
+Certification.
+      (10)   The Maintenance and Operations Manual section shall include a
+maintenance and operations manual for each retention or detention facility
+specified in the drainage plan. The manual should be simply written and briefly
+describe the retention or detention facility, what it is, and how it works. In
+addition, the manual shall provide an outline of recommended maintenance tasks
+with the recommended frequency at which each task should be performed, and an
+estimate of the recommended life expectancy of the major drainage structures.
+      (11)   Appendices shall include copies of reference material (if a
+reference is made in the drainage report, and the reference is less than ten
+pages, a copy of the reference will be placed in the appendices), maps, plans,
+special reports, or studies, drawings (if there are several construction
+drawings, the drawings may be submitted as a bound and stapled separate set,
+although it is preferable for all of the drawings to be in the appendices).
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.12 DRAINAGE PLAN REVIEW PROCEDURES.
+   (See the Flowcharts in
+Appendix A of this chapter.)
+   (A)   All requests for drainage plan approval for commercial projects shall
+be made by the applicant to the Warrick County Drainage Board through the
+County Surveyor's office. The applicant shall submit four copies of the
+drainage plan, including four blacklines of the drawings, to the office of the
+County Surveyor for review at least 28 days before the Drainage Board meeting
+in which the drainage plan is to be presented and discussed. See Appendix A-
+1 of this chapter.
+   (B)   All requests for drainage plan approval for subdivisions shall be made
+by the applicant to the Warrick County Area Plan Commission. The applicant
+shall submit four copies of the drainage plan, including four blacklines of the
+drawings to be included in the primary plat application. See Appendix A-2 of
+this chapter.
+   (C)   After reviewing the drainage plan, the County Surveyor will respond to
+the applicant in writing with a copy sent to the engineer. If the drainage plan
+is determined to be sufficient by the County Surveyor, the County Surveyor will
+include it in the agenda for the next scheduled Drainage Board meeting,
+assuming that the agenda is not full and there is ample time for it to be
+placed on the agenda. If the Drainage Plan is insufficient, the County Surveyor
+will return a marked-up drainage plan checklist indicating the areas of
+deficiency, and he/she shall return a marked-up Technical Report and/or drawing
+(s). The applicant will then revise the drainage plan to address the
+deficiencies. The applicant shall submit four complete, sufficient drainage
+plans, including four blacklines of the drawings, to the County Surveyor at
+least seven days before the Drainage Board meeting in which the drainage plan
+is to be presented and discussed. If the County Surveyor returned a marked-up
+Technical Report and/or drawing(s) to the applicant, the applicant shall return
+the marked-up Technical Report or drawing(s) with the revised drainage plan.
+Note that any changes in the drainage plan that were not required to address an
+identified deficiency must be noted.
+   (D)   Once the County Surveyor has four copies of a sufficient drainage
+plan, at least seven days before the Drainage Board meeting in which the
+drainage plan is to be presented and discussed, he/she will include it in the
+agenda for the next scheduled Drainage Board meeting, assuming that the agenda
+is not full and there is ample time, and he/she will present the drainage plan
+to the Drainage Board for its consideration. The applicant or his/her
+representative should attend that Drainage Board meeting.
+   (E)   If the drainage plan is approved by the Drainage Board, the Board will
+send one copy to the applicant with a written notice of approval.
+   (F)   Within 14 days of the date of drainage plan approval, the applicant
+shall submit an electronic version of the approved drawings in portable
+document format (pdf) that is acceptable to the County Surveyor.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+56.99
+§ 56.13 DRAINAGE PLAN APPROVAL.
+   (A)   The Drainage Board shall approve any drainage plan that complies with
+the requirements of this chapter and with the conditions and requirements
+applied by the Drainage Board. A drainage plan becomes effective when the
+Drainage Board approves it.
+   (B)   The applicant must initiate construction within 36 months from the
+date that the applicant receives the approved drainage plan approval from the
+Drainage Board. If construction has not commenced within 36 months, the
+drainage plan approval shall be void, and the drainage plan must be resubmitted
+and reviewed. The applicant may request the Drainage Board, in writing and
+through the County Surveyor, to extend the drainage plan approval.
+   (C)   If the drainage work specified in the drainage plan has not been
+completed within five years from the date the secondary plat was approved, the
+drainage plan must be resubmitted and reviewed. The applicant may request the
+Drainage Board, in writing and through the County Surveyor, to extend the
+drainage plan approval.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.14 DRAINAGE APPROVAL BEFORE RECORDING PLAT.
+   Drainage plan approval shall be obtained before the consideration by the
+Warrick County Area Plan Commission of the plat and before the recording of the
+plat for development.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.15 VARIANCES.
+   Variances may be requested on rare occasions when a proposed development
+justifies varying from this chapter. The Warrick County Drainage Board may
+grant variances. Any variances must be based on a demonstration that such
+variances are in the public interest and that the objectives of safety,
+function, appearance, environmental protection, and maintainability, based on
+sound engineering judgment, are fully met. All variances must be approved
+before the drainage plan is approved.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.16 FLOODPLAIN MANAGEMENT ORDINANCE.
+   The Warrick County Floodplain Management Ordinance contains specific
+requirements that apply to this chapter. Each Development shall be reviewed for
+compliance with the same.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.17 EASEMENTS.
+   (A)   All facilities conveying or detaining/retaining stormwater runoff
+(except for those specified in this section), including, but not limited to;
+pipes, storm sewers, conduits, culverts, catch basins, manholes, headwalls,
+ditches, channels, swales, ponds, basins, and outfall structures shall be
+located within an easement. Downspouts from buildings, footings, and yard
+inlets from private property do not have to be located within casements.
+   (B)   Drainage easements shall be dedicated to stormwater facilities only.
+Other structures, such as utility pipelines, may cross drainage easements at no
+less than 45 degrees, but preferably at an angle of 90 degrees. There shall be
+a minimum 12 inch vertical clearance between storm sewers and other utilities
+that cross, except as specified in sections below.
+   (C)   Utilities, other than drainage facilities, that cross a drainage
+easement shall have a minimum of 36 inches of cover unless otherwise approved
+by the Drainage Board.
+   (D)   All county regulated drains have 75 foot wide right-of-entry
+easements, as measured from the top of the banks, except where a variance has
+reduced the right-of-entry easements. Other structures, such as utility, may
+cross a regulated drain easement, upon application, the payment, of a $300 fee,
+and the approval of the Drainage Board at an angle no less than 45 degrees, but
+preferably at an angle of 90 degrees. There shall be a minimum of 60 inches of
+cover for utilities below the bottom of the drain that crosses a regulated
+drain easement, unless otherwise approved by the Drainage Board.
+   (E)   (1)   Easements for open channels based upon typical sections provided
+in the drainage plans shall be a minimum of ten feet wide. Additional easement
+widths are as follows;
+         (a)   For channels less than two feet in depth, the distance is
+measured from the top of the bank to the top of the bank plus 1.5 feet along
+both banks.
+         (b)   For channels less than four-feet depth but greater than two-feet
+depth, the distance is measured from the top of the bank to the top of the bank
+plus 2.0 feet along both banks.
+         (c)   For channels greater than four-feet depth, the distance measured
+from top of bank to top of bank plus ten feet minimum along one side for access
+purposes.
+      (2)   Easements for existing natural channels shall be as follows:
+         (a)   Natural channels with side slopes of 3:1 or less shall have a
+minimum easement width equal to the distance measured from top of bank to top
+of bank plus ten feet minimum along one side for access purposes.
+         (b)   Natural channels with side slopes greater than 3:1 shall have a
+minimum easement width equal to the distance measured from top of bank to top
+of bank plus 12 feet minimum along one side for access purposes.
+      (3)   All easements reserved for pipes shall be at least 12 feet in
+width.
+ 
+Pipe Diameter    Feet of Cover         Minimum Easement Width
+24" or less      Up to 4' cover        12'
+Greater than 24" Up to 4' cover        12' + diameter of pipe
+24" or less      Greater than 4' cover [(Total cover - 4') x 2] + 12'
+Greater than 24" Greater than 4' cover [(Total cover - 4') x 2] + (12' +
+                                       diameter of pipe)
+ 
+      (4)   If special circumstances exist, the Warrick County Engineer and/or
+Warrick County Surveyor may require additional easement widths.
+   (F)   After the construction specified in the drainage plan has been
+accepted, no improvements within the easement shall be performed, including but
+not limited to, installing fences or poles, constructing sheds or buildings,
+planting trees or shrubs, regrading, excavating, placing fill, or anything else
+that may impede the flow of water in the easement without the expressed written
+approval from the County Surveyor.
+   (G)   Drainage and sanitary sewer easements (DSSE) shall be dedicated to
+stormwater facilities and sanitary sewer facilities that run parallel and eight
+feet apart (measured from centers).
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.18 AMOUNT OF RUNOFF TO BE ACCOMMODATED BY VARIOUS PARTS OF THE DRAINAGE
+SYSTEM.
+   (A)   All drainage facilities shall be designed for a minimum peak flow
+runoff generated from the 50-year storm event.
+   (B)   Detention facilities shall release a maximum flow rate equal to the
+runoff generated from a five-year storm event under the pre-developed
+condition, while detaining at a minimum the excess runoff generated from a 50-
+year storm event under the developed conditions.
+   (C)   Retention facilities shall retain at a minimum the runoff generated
+from a 50-year storm event under the developed conditions.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.19 STORM SEWER DESIGN STANDARDS.
+   All storm sewers, whether private or public, and whether constructed on
+private or public property, shall conform to the design standards and other
+requirements contained herein.
+   (A)   Manning Equation, Q = (A) X (V) = (A) X (1.486 / n) X (R2/3) X (S1/2),
+where:
+      Q = Discharge in cubic feet per second.
+      A = Waterway area of the pipe in square feet.
+      V = The mean velocity of flow in feet per second.
+      R = The hydraulic radius in feet (cross-sectional area / wetted
+perimeter).
+      S = The slope of the energy grade line in feel per foot.
+      n = The roughness coefficient, where:
+         PIPE (n values)
+         RCP   0.013
+         Concrete Box Culverts    0.013
+         PVC or HDPE (smooth-wall pipe)    0.010
+         CMP   0.021
+         Steel (smooth-wall pipe)   0.011
+         Ductile iron    0.011
+      For roughness coefficients for pipes or ditches, other than those
+specified above, refer to Table 4.2.1 or the equivalent in the latest version
+of the LTAP Drainage Manual.
+   (B)   Minimum pipe capacity. All storm sewers shall be designed to be a
+maximum of 90% full when conveying at a minimum the peak flow of a 50-year
+storm event, except for basin discharge pipes, which can be designed to convey
+100% of their capacity.
+   (C)   Minimum pipe size. The minimum size of all storm sewers shall be 12
+inches in diameter. Where a 12 inch diameter pipe will not limit the required
+release rate, a stainless-steel orifice plate or similar device shall control
+the release rate for detention facilities.
+   (D)   Minimum cover. The storm sewer grade shall be such that, generally, a
+minimum of one foot of cover shall be maintained over the top of the pipe,
+unless pipe manufacturer literature recommends a greater minimum cover.
+   (E)   Slopes. Uniform slopes shall be maintained between drainage
+structures. Minimum and maximum slopes shall produce velocities between two and
+15 feet per second when the pipe is flowing full.
+   (F)   Horizontal alignment. Storm sewers shall be straight between drainage
+structures, except in the case of box culverts which may have bends with access
+manholes.
+   (G)   Location of drainage structures.
+      (1)   Drainage structures shall be installed to provide access to storm
+sewers for inspection and maintenance.
+      (2)   Except for box culverts, drainage structures shall be installed at
+the following locations:
+         (a)   Where two or more storm sewers converge with a minimum diameter
+of 12 inches;
+         (b)   Where pipe sizes change;
+         (c)   Where a change of vertical alignment occurs;
+         (d)   Where a change of horizontal alignment occurs; and
+         (e)   Where a change in pipe slope occurs.
+      (3)   For box culverts, access manholes shall be installed at the
+following locations:
+         (a)   Where two or more box culverts converge;
+         (b)   Where box culvert sizes change;
+         (c)   Where a change of vertical alignment occurs;
+         (d)   Where a change of horizontal alignment occurs; and
+         (e)   Where a change in slope occurs.
+      (4)   The maximum distance between surface drainage structures shall be
+600 feet. The maximum distance between structures shall be 300 feet for access.
+      (5)   Manhole covers shall not be installed at the following locations:
+         (a)   Within a curb and/or gutter.
+   (H)   Curb inlets. Curb inlets shall collect surface water on curbed and
+paved areas through grated openings. Curb inlets shall be designed according to
+the latest version of the LTAP Drainage Manual. Curb inlet openings shall be
+adequate to pass a runoff from a 50-year storm event with a maximum gutter flow
+depth of four inches in sag areas. An emergency weir with an overflow channel
+or similar drainage facility shall be installed adjacent to curb inlets in sags
+so that the maximum depth of water that is ponded in a street sag during a 50-
+year storm event, assuming the inlet is plugged, shall not exceed ten inches,
+as measured at a point from, and perpendicular to, the front of the grate. The
+maximum distance between curb inlets shall be 600 feet.
+   (I)   Area drains and yard inlets. Area drains and yard inlets shall be
+utilized to collect surface water on paved, non-curbed surfaces through grated
+openings. Area drains and yard inlet openings shall be adequate to pass a
+runoff from a 50-year storm event.
+   (J)   Minimum road elevation.  The minimum road elevations shall be such so
+that all manhole rims and curb inlets/front of the grate shall be above the
+100-year flood elevation.
+   (K)   Curb turnouts. Curb turnouts shall not be allowed to be part of a
+drainage plan unless specifically approved by the County Surveyor and County
+Engineer.
+   (L)   Construction and materials. The specifications for the construction of
+storm sewer drainage structures shall not be less than those outlined in the
+latest edition of the Indiana Department of Transportation (INDOT) Standard
+Specifications or as modified by the County Surveyor or County Engineer. Pipe
+trench details are shown in the Appendices. The most current manufacturer's
+installation recommendations shall be followed. All workmanship in implementing
+the drainage plan shall be of high quality and reflect compliance with this
+chapter's requirements and with all applicable local, state, and federal laws
+and regulations, as well as common industry standards.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.20 OPEN CHANNEL DESIGN STANDARDS.
+   All open channels, whether private or public, and whether constructed on
+private or public property, shall conform to the design standards and other
+requirements contained herein.
+   (A)   Manning Equation, Q - (A) X (V) = (A) X (1.486 / n) X (R2/3) X (S1/2),
+where:
+      Q = Discharge in cubic feet per second.
+      A = Waterway area of the pipe in square feet.
+      V = The mean velocity of flow in feet per second.
+      R = The hydraulic radius in feet (cross-sectional area / wetted
+perimeter).
+      S = The slope of the energy grade line in feet per foot.
+      a = The roughness coefficient, where:
+      Ditch (i.e., open channel) n values
+      Concrete (trowel finish)   0.013
+      Concrete (broom or float finish)   0.015
+      Guite   0.018
+      Rip-rap, placed   0.030
+      Rip-Rap, dumped    0.035
+      Gabions   0.028
+      For roughness coefficients for pipes or ditches other than those
+specified above, refer to Table 4.2.1 or an equalizing table in the latest
+version of the LTAP Drainage Manual.
+   (B)   Cross section and grade. The required channel cross-section and grade
+are determined by the design capacity, the material lining the channel, and the
+maintenance requirements. A minimum depth may be required to provide adequate
+outlets for subsurface drains, tributary ditches, or streams. The channel grade
+shall be such that the velocity in the channel is high enough to prevent
+siltation but low enough to avoid erosion and to maintain channel stability.
+Velocities less than 1.5 feet per second should be avoided because siltation
+will occur, reducing the channel capacity.
+   (C)   Side slopes. Earthen channel side slopes shall be no steeper than
+three horizontal to one vertical. Flatter slopes may be required to prevent
+erosion and for case of maintenance. Where channels will be lined, side slopes
+shall be no steeper than 1 - ½ to 1 with adequate provisions for weepholes.
+Side slopes steeper than 1- ½ to 1 may be used for lined channels, provided the
+sidelining is designed and constructed as a structural retaining wall.
+   (D)   Channel stability.
+      (1)   Characteristics of a stable channel are:
+         (a)   It neither aggravates nor degrades beyond tolerable limits.
+         (b)   The channel banks do not erode to the extent that the channel
+cross section is changed appreciably.
+         (c)   Excessive sediment bars do not develop.
+         (d)   Excessive erosion does not occur around culverts, bridges, storm
+drains, channel outfalls, or elsewhere.
+         (e)   Gullies do not form or enlarge due to the entry of uncontrolled
+flow into the channel.
+   (E)   Low flow channels. Low-flow channels shall be installed in wide bottom
+channels. The bottom width of a grass-lined channel shall not exceed 15 feet
+unless a concrete low-flow channel is provided to prevent flowline meandering.
+   (F)   V-shaped channels shall not be allowed.
+   (G)   Drainage of waterways. Vegetated waterways subject to long-term low
+flows or where wet conditions prevail shall be drained with a tile system or by
+other means, such as paved gutters. Tile lines may outlet through a drop
+structure at the end of the waterway or through a standard tile outlet.
+   (H)   Appurtenant structures. The effect of channel improvements on existing
+culverts, bridges, buried cables, pipelines, and inlet structures for surface
+and subsurface drainage to the channel being improved and the channel laterals
+shall be evaluated to determine the need for modification or replacement.
+Culverts and bridges that are modified or added as part of channel improvement
+projects shall meet reasonable standards for the type of structure and shall
+have a minimum capacity equal to the design discharge.
+   (I)   Disposition of spoil. Spoil material resulting from clearing,
+grubbing, and channel excavation shall be disposed of in such a manner that
+will:
+      (1)   Minimize overbank wash.
+      (2)   Provide for the free water flow between the channel and floodplain
+unless the valley routing and water surface profile are based on continuous
+dikes being installed.
+      (3)   Do not hinder the development of maintenance travel ways.
+      (4)   Leave the right-of-way or right-of-entry in the best condition
+feasible, consistent with the project purposes, for productive use by the
+owner.
+   (J)   Construction and materials.
+      (1)   The specifications for the construction of storm sewer open
+channels shall not be less than those outlined in the latest edition of the
+Indiana Department of Transportation (INDOT) Standard Specifications.
+      (2)   The most current manufacturer's installation recommendations shall
+be followed.
+      (3)   Acceptable materials for channel lining shall be Grass, Riprap,
+Concrete, Grouted Riprap, or Gabions. Other lining materials shall require
+specific approval from the County Surveyor and shall comply with the latest
+edition of the INDOT "Standard Specifications."
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.21 DETENTION/RETENTION DESIGN STANDARDS.
+   The following shall govern the design of any improvement concerning the
+detention/retention of stormwater runoff.
+   (A)   Acceptable detention/retention methods. As this chapter requires,
+runoff from a proposed development shall be detained on-site by appropriate
+detention or retention facilities. As these standards explain, detention
+facilities shall be sized to store excess flows. In the case of detention
+facilities, control devices shall limit the discharge to a rate no greater than
+that prescribed in this chapter. All storm water pipes carrying runoff water
+into a detention facility shall be installed and maintained in a manner that
+does not hold standing water. The permanent pool elevation of a detention
+facility shall not be changed without the Drainage Board's approval.
+   (B)   Design storm. The design of stormwater detention facilities shall be
+based on a return period of once every 50 years. The storage volume and outflow
+rale shall be sufficient to accommodate the stormwater runoff from such a
+storm.
+   (C)   Allowable release rate.
+      (1)   The allowable release rate of stormwater originating from a
+proposed development shall not exceed the amount specified in §
+52.06.
+      (2)   In the event the natural downstream channel or storm sewer system
+is inadequate to convey the release rate provided above, then the allowable
+release rate shall be reduced to that rate permitted by the capacity of the
+receiving downstream channel or storm sewer system, and additional detention,
+as determined by the County Surveyor, shall be required to store that portion
+of the runoff exceeding the capacity of the receiving sewers or waterways.
+      (3)   An allowance, equivalent to the reduction in flow rate provided,
+shall be made for upstream detention when the Warrick Drainage Board has
+previously approved such upstream detention and release rate, and evidence of
+the upstream detention facility's as-built condition and operation can be
+demonstrated to the Drainage Board.
+   (D)   Emergency overflow spillway.
+      (1)   An emergency overflow spillway shall be provided to release runoff
+that exceeds the maximum detention volume, or all runoff, should the normal
+discharge devices for the detention facility become totally or partially
+inoperative.
+      (2)   As a safety factor, a minimum freeboard of one-half foot above the
+calculated maximum of the design storm detention high water level to the
+elevation of the emergency overflow spillway is required.
+      (3)   The emergency overflow spillway shall be designed so that it
+operates openly, and automatically, does not require manual attention, and will
+pass all of the unretained runoff from storms with intensities of the 50-year
+storm event while maintaining a minimum vertical height of six inches from the
+water surface flowing over the spillway to the lowest ground elevation in the
+earthwork surrounding the spillway.
+      (4)   The runoff flowing over the spillway shall be directed to
+watercourses and shall not be directed to cause damage.
+   (E)   Determination of storage volume - Rational Method. For areas of 200
+acres or less, the Rational Method shall be used to determine the required
+stormwater storage volume. The procedure for calculating the storage of
+stormwater needed using the Rational Method is included in Section 6.2.1 of the
+latest version of the LTAP Drainage Manual. The facility must be designed to
+store the largest volume, which is calculated for storm durations of up to 24
+hours.
+   (F)   Determination of storage volume - Other Methods. For tributary
+drainage areas larger than 200 acres, computerized runoff hydrographs and
+routing techniques shall be used. Various standard methods may be used, as long
+as the source of the method is documented. The facility must store the largest
+volume, which is calculated for storm durations of up to 24 hours.
+   (G)   General detention or retention basin design requirements.
+      (1)   Basins shall be constructed to temporarily detain the stormwater
+runoff that exceeds the maximum peak flow rate authorized by this chapter. The
+volume of storage provided in these basins, together with such storage as may
+be permitted in other on-site facilities, shall be sufficient to control excess
+runoff from the design storm.
+      (2)   The following design principles shall be followed:
+         (a)   The maximum volume of water stored and subsequently released at
+the design release rale shall not result in a storage duration over 48 hours
+unless additional storms occur;
+         (b)   The inside top of a bank for stormwater detention or retention
+facilities shall be separated by at least 20 feet from any occupied building or
+structure. The Lowest Adjacent Grade (including walkout basement floor
+elevations) shall be set at least 12 inches above the lowest point at the top
+of the detention or retention basin bank; and
+         (c)   The maximum depth of water to be stored in a dry-bottom
+detention or retention facility during the design storm event shall not exceed
+four feet, and the maximum depth of water to be stored above the normal pool
+level in a wet bottom detention or retention facility shall not exceed four
+feet during the design storm event.
+      (3)   All excavated excess spoil may be spread for aesthetic and
+recreational features.
+      (4)   All detention and retention basins with grassed, earthen side
+slopes shall have side slopes no steeper than four horizontal units of
+measurement to one vertical unit of the same measurement (4:1) to the base of
+dry-bottom basins and the permanent pool elevation of wet-bottom basins.
+      (5)   All detention and retention basins with rip-rap armored side slopes
+shall have side slopes no steeper than two horizontal units of measurement to
+one vertical unit of the same measurement (2:1) at any point in the side slope.
+The rip-rap shall extend below the minimum depth of the permanent pool
+elevation by at least two feet below the permanent pool elevation. The minimum
+depth of rip-rap armament shall be 12 inches in all areas. Structural retaining
+walls shall be constructed on side slopes steeper than two horizontal units of
+measurement to one vertical unit of the same measurement (2:1).
+      (6)   For retention basins with non-armored earthen side slopes, the
+submerged side slopes shall have side slopes no steeper than four horizontal
+units of measurement to one vertical unit of the same measurement (4:1) from
+the permanent pool elevation to a level that is two vertical feet below the
+permanent pool elevation.
+      (7)   Safety screens having a maximum opening of six inches shall be
+provided for any pipe or opening discharging from a detention facility to
+prevent children or large animals from crawling into the structures.
+      (8)   Danger signs shall be mounted on signposts at appropriate locations
+to warn of deep water or possible flooding during storm periods.
+      (9)   Outlet control structures shall be designed to operate as simply as
+possible and require minimal maintenance and/or attention for proper operation.
+Regardless of the primary outlet device, this structure shall include a grate
+or similar device set at the emergency overflow elevation for the 50-year
+storm.
+      (10)   Grass or suitable vegetative cover shall be provided on all side
+slopes where rip-rap is not used. Grass should be cut regularly at
+approximately monthly intervals during the growing season or as required.
+      (11)   Debris and trash removal and other necessary maintenance shall be
+performed regularly to assure continued operation in conformance to design.
+Trash racks, fabricated from and secured by stainless steel, aluminum, or any
+other water-resistant material, shall be installed to prevent trash from
+discharging from the detention/retention facility.
+      (12)   Inlet pipes shall discharge runoff into the basins as reasonably
+far as practically possible from the outlet control structure to provide the
+maximum time for sediments to settle. If inlet pipes cannot be located
+reasonably far from the outlet control structure, permanent baffles constructed
+of water-resistant materials shall be installed to provide a longer time for
+sediments to settle.
+   (H)   Parking lot storage. Paved parking lots may be designed to provide
+temporary detention storage of runoff on all or a portion of their surface.
+Outlets shall be designed to slowly empty the stored water. Depths of storage
+shall be limited to a maximum depth of six inches to prevent damage to parked
+vehicles, so that access to parked vehicles is not restricted. Parking lot
+storage should, in general, be confined to those areas of the parking lot that
+are furthest from the areas being served by the parking lot.
+   (I)   Dry bottom basin design requirements. Detention basins that will not
+contain a permanent pool of water shall comply with the following requirements:
+      (1)   Provisions shall be incorporated to facilitate complete interior
+drainage of dry bottom basins, including the provisions of natural grades to
+outlet structures, longitudinal and transverse grades to perimeter drainage
+facilities, paved gutters, or the installation of subsurface drains.
+      (2)   The detention basin shall, whenever possible, be designed to serve
+a secondary or multipurpose function, such as recreational facilities,
+aesthetic qualities (open spaces) or other types of use. Such detention basin
+shall be regularly mowed and maintained free of excess brush and vegetation.
+   (J)   Wet bottom basin design requirements. Where part of a detention basin
+will contain a permanent pool of water, all the items required for detention
+storage shall apply, except that the system of drains with a positive gravity
+outlet required to maintain a dry bottom basin will not be required. A
+controlled positive outlet will be required to maintain the design water level
+in the wet bottom basin and provide required detention storage above the design
+water level. However, the following additional conditions shall apply:
+      (1)   Basins designed with permanent pools or containing permanent ponds
+shall have a minimum water depth at any point of six feet, except as required
+by division (3) below;
+      (2)   In excavated ponds, the underwater side slopes in the pond shall be
+stable. In the case of valley storage, natural slopes may be considered to be
+stable; and
+      (3)   Ponds require periodic maintenance to control weed and larval
+growth. They must also be designed to easily remove sediment accumulated during
+operation periods.
+      (4)   Aeration facilities may be installed to enhance and maintain pond
+water quality in wet-bottom basins. The type and size of the aeration
+facilities shall be determined either by the manufacturer of the aeration
+facilities or by the engineer. Design calculations and written recommendations
+by the manufacturer to substantiate the effectiveness of these aeration
+facilities may be submitted.
+      (5)   If the local fire department requires it, a dry hydrant shall be
+installed. The dry hydrant shall meet the Department's specifications and
+requirements.
+   (K)   Trash racks.
+      (1)   The trash racks shall be fabricated or manufactured from stainless
+steel, aluminum, or any other durable water- and weather-resistant material.
+For outlets greater than six inches in any dimension, the trash rack shall have
+openings no wider than six inches in any dimension. For outlets six inches or
+less in any dimension, the trash rack shall have openings no wider than the
+greatest dimension of the outlet in any dimension.
+      (2)   The trash racks shall be securely fastened to the outlet control
+structure or similar structure with stainless steel, aluminum, or any other
+durable, water- and weather- resistant material.
+      (3)   The trash rack must be large enough that partial clogging will not
+adversely restrict the outflow. It shall be fabricated so that it will pass the
+designed outflow rate even if as many as 25% of the openings are clogged. The
+trash rack shall be placed at a suitable distance from the outlet to avoid
+interference with the outlet's hydraulic efficiency.
+      (4)   The trash rack shall be installed so that debris can be removed
+from it while standing from the top of the outlet control drainage facility and
+using only manual tools and/or equipment.
+   (L)   Restrictors.
+      (1)   Restrictors shall be an opening with a closed perimeter, usually
+sharp-edged, and of geometric shape in the form of a plate, wall, or partition,
+through which water may flow at a restricted flow rate. For example, a
+stainless-steel plate with an opening secured within the inside of a pipe to
+reduce the cross-sectional area to restrict the flow, or an opening in a
+concrete wall of an outlet control structure to restrict the amount of flow
+discharging from a detention facility.
+      (2)   Restrictors shall be fabricated or manufactured from stainless
+steel, aluminum, or any other durable, water- and weather-resistant material.
+They shall be securely fastened to the outlet control structure or similar
+structure with stainless steel, aluminum, or any other durable, water- and
+weather-resistant material.
+      (3)   The minimum dimension in any direction of the restrictor shall be
+12 inches. If hydraulic calculations show that the restrictor must be less than
+12 inches in any dimension, a special device shall be designed. This device may
+consist of a perforated riser, vertical slotted pipe, inlet-controlled
+perforated pipe, internally- controlled perforated pipe, hooded orifice or
+riser that draws water at least one foot below the permanent pool elevation
+(for retention basins only), negatively sloped pipe that draws water at least
+one foot below the permanent pool elevation (for retention basins only), or any
+other specialty device that has been designed to meet the hydraulic
+requirements while minimizing clogging.
+   (M)   Pipe collars. The County Surveyor may require pipe collars in the
+trench for the outlet pipe to prevent water from flowing from the detention
+facility. Fabricated or manufactured devices shall be stainless steel,
+aluminum, concrete, bentonite, ABS (i.e., Ripley's Dam), or any other water/
+weather-resistant material. The pipe collar shall span the trench's entire
+width and create a watertight seal against the pipe.
+   (N)   Paved ditch. If the slope of the pond bottom in a detention basin is
+less than one percent, a paved ditch shall be constructed by constructing a
+concrete ribbon (minimum 4000 psi and 5%—6% air entrainment) with a minimum
+thickness of six inches of reinforced concrete and a minimum width of 16
+inches. The minimum slope shall be 0.2%.
+   (O)   To minimize the wetness of the pond bottom that might harbor insects,
+if a paved ditch is required, the pond bottom between the toe of the side
+slopes and the paved ditch shall be graded to a minimum slope of one percent.
+   (P)   Sub-surface detention or retention design requirements.
+      (1)   Subsurface storage units may be accommodated using tanks, chambers,
+vaults, pipes, stones, voids, or any other fabricated or manufactured
+container, but such storage units shall not be located in the county right-of-
+way.
+      (2)   The minimum diameter for a pipe, and the minimum vertical height or
+horizontal span for any other type of detention or retention storage unit shall
+be 30 inches, unless otherwise approved by the County Surveyor.
+      (3)   Materials, including material limitations, on all detention or
+retention units shall be per the latest edition of the INDOT Standard
+Specifications.
+      (4)   In areas where seasonal groundwater may induce dotation, buoyancy
+tendencies must be balanced by either adding ballast, placing heavier backfill
+materials like concrete, installing hold-down straps and concrete anchors,
+increasing the total weight of the units, or providing sub-surface drains to
+lower the groundwater table permanently.
+      (5)   The maximum depth to the invert of any sub-surface detention or
+retention units shall be 12 feet. Spacing between access openings shall not
+exceed 200 feet. All access openings shall be readily accessible to maintenance
+vehicles. Openings shall have a 24 inch diameter with a scaled cover.
+   (Q)   Water quality.
+      (1)   Water quality during and after construction of the development
+shall be specifically addressed through the Construction/Stormwater Pollution
+Prevention Plan, as required for the development of sites that disturb an area
+that is equal to or greater than one acre in size. Vegetated filter strips,
+vegetated swales, infiltration trenches, infiltration basins, detention or
+retention facilities, constructed or restored wetlands, filtration systems, and
+oil-grit separators can improve water quality.
+      (2)   For the development of sites that disturb an area that is less than
+one acre in size, water quality shall still be considered in the development's
+overall design.
+   (R)   Off-site drainage provisions. When allowable runoff is released in an
+area susceptible to flooding, the developer may be required to construct
+appropriate storm drains through such an area to avert increased flood hazard
+caused by the concentration of allowable runoff at one point instead of the
+natural overland distribution. The requirement of off-site drains shall be at
+the discretion of the Drainage Board unless the applicant technically proves
+that the development will not cause or increase downstream flooding.
+   (S)   Infiltration systems. The design of infiltration systems shall follow
+section 6.3.5 or its equivalent of the latest, version of the LTAP Drainage
+Manual.
+   (T)   Construction and materials. The specifications for the construction of
+detention and retention facilities shall be at least those outlined in the
+latest edition of the Indiana Department of Transportation (INDOT) Standard
+Specifications.
+   (U)   Inspections. All public and privately owned detention or retention
+facilities may be inspected by representatives of the county, at any time.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.22 PRIVATE DRAINAGE FACILITIES.
+   (A)   Sump pumps installed to receive and discharge groundwater and other
+stormwater shall be directed to the storm surface system where possible, or
+discharged into a designated storm sewer channel, but never allowed to
+discharge or pool in public roadways or storm inlet structures. Sump pumps
+installed to receive and discharge floor drain flow or sanitary sewage must be
+connected to the sewer system or an approved septic system. A sump pump shall
+be used for one function only, either the discharge of storm water/groundwater
+or the discharge of floor drain/sanitary sewage.
+   (B)   All downspouts or roof drains shall discharge onto the ground or be
+directed to the storm surface drainage structures. No downspouts or roof drains
+shall be connected to the sanitary sewer system.
+   (C)   Footing drains shall discharge onto the ground or be directed to storm
+surface drainage structures, where possible, or be discharged into a designated
+storm sewer surface channel. No footing drains or drainage tile shall be
+connected to the sanitary sewer system.
+   (D)   Basement floor drains shall not be connected to the storm system.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+52.99
+§ 56.23 EROSION CONTROL.
+   If a construction project disturbs one acre or more of land, the site owner
+must apply for a Construction Stormwater General Permit from the Warrick County
+MS4.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+52.99
+§ 56.24 PIPE CONNECTIONS.
+   No unauthorized connections to stormwater pipes are allowed.
+(BC Ord. 2025-11, passed 8-11-25) Penalty, see §
+52.99
+§ 56.25 STORMWATER DISCHARGE.
+   Runoff from developments shall discharge into the existing stormwater
+drainage facility.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.26 INSPECTION OF STORM SEWER SYSTEM INSTALLATION.
+   (A)   Photo documentation of pipe, installation showing bedding and backfill
+per the manufacturer's standards. If special circumstances exist, the Warrick
+County Engineer and/or Warrick County Surveyor may require deflection testing
+of flexible pipe per the next section.
+   (B)   All storm sewer construction of flexible pipe, including pipe
+manufactured from Polyvinyl Chloride (PVC), High-Density Polyethylene (HDPE),
+and corrugated metal pipe (CMP), shall be inspected or tested for deflection
+per the following:
+      (1)   Pipes that cannot be inspected and measured for deflection with
+video cameras, visual inspection, or manual measurement to the satisfaction of
+the County Engineer or the Warrick County Surveyor to determine less than five
+percent deflection shall be tested using a mandrel;
+      (2)   The mandrel shall be pulled by hand without mechanical assistance,
+and the mandrel test shall be a "go/no-go" procedure;
+      (3)   The mandrel shall be approved by the County Engineer or the Warrick
+County Engineer or their authorized representative before its use to certify
+that the mandrel is rigid, non-adjustable, has an odd number of legs not less
+than nine, and has a length not less than its nominal diameter;
+      (4)   The diameter of the mandrel at any point shall not be less than the
+allowed percentage of deflection of the certified actual mean inside diameter
+of the tested pipe;
+      (5)   The mandrel shall be fabricated of metal, fitted with pulling rings
+at each end, stamped or engraved on some segment other than a runner with the
+nominal pipe size and the mandrel's outside diameter;
+      (6)   For any vertical or horizontal deflection test, pipe failure shall
+be defined as a five percent or greater deflection of the tested pipe's
+internal diameter;
+      (7)   The project site owner/operator shall perform or cause to be
+performed all required deflection tests no sooner than 30 days after the final
+backfill, per the manufacturer's specifications, has been placed over the pipe
+to be tested;
+      (8)   Pipe inspection and test methods, procedures, and equipment,
+whether conducted or employed for mandrel testing under special circumstances
+or other video inspections necessary to comply with this section, shall be
+subject to the County Engineer's or the Warrick County Surveyor's approval and
+all tests and inspections must be conducted in the presence of the County
+Engineer or his or her authorized representative;
+      (9)   The pipe inspection and test results must be reviewed and certified
+by the County Engineer or authorized representative before the storm sewer
+facilities' final acceptance or release and applicable portion improvements;
+and
+      (10)   All flexible pipes failing the deduction test within the warranty
+period shall be replaced or caused to be replaced by the project site owner or
+operator at no cost to the county.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.27 LETTER OF CREDIT.
+   For major subdivisions, a separate Letter of Credit for the stormwater
+system will not be required because the Letter of Credit for approval of the
+major subdivisions, as defined in the Warrick County, Indiana Subdivision
+Control Ordinance, includes the stormwater system.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.28 RECORD DRAWINGS.
+   (A)   After completion of the project, but before final approval and/or
+acceptance by the county, two blackline sets of the drawings and by email, USB
+drive or drop-box containing an electronic version of the record drawings in
+PDF that is acceptable to the County Surveyor shall be submitted to the
+Drainage Board through the office of the County Surveyor. The blacklines shall
+be stamped, signed, and dated by a professional civil engineer or professional
+land surveyor regularly engaged in stormwater drainage design, and registered
+to practice in the State of Indiana.
+   (B)   Certified "Record Drawings".
+      (1)   After completion of the project, and before final approval and/or
+acceptance can be made, two professionally prepared and certified sets of
+"Record Drawings" shall be submitted to the County Surveyor and the County
+Engineer for review. The plans shall also be submitted electronically in PDF
+format, which does not allow edits. If the Drainage Plan is constructed
+essentially as designed or with only minor variations within acceptable
+Engineering Practice, a Certification Statement may be submitted on the
+approved County Certification for 803.
+      (2)   These plans shall include all pertinent data relevant to the
+completed stormwater drainage system and shall include:
+         (a)   Pipe size, length, and material;
+         (b)   All rim and invert elevations of all drainage structures;
+         (c)   Spot elevations on all drainage swales and ditches. Elevations
+shall be provided on the flow line at 100-foot intervals, or at each property
+line (whichever is less). Upon request of the County Engineer or County
+Surveyor, the top of the bank shall also be shown on the "as-built" plans;
+         (d)   Correctly located limits and alignment of all drainage
+facilities, intended to remain in place, in correlation to platted easements
+and rights-of-way;
+         (e)   Data and calculations showing all basin storage volumes and
+storage elevations as built with a statement that the volumes contained within
+any retention or detention facility meet or exceed the required design storage
+volumes; and
+         (f)   An engineer's certified statement on the “Record Drawings” plans
+that the completed stormwater drainage system complies with the final drainage
+plan approved by the Board, or clearly depicts, describes, and explains
+deviations from the approved final drainage plan.
+      (3)   The County Surveyor will store "Record Drawings" with the drainage
+plan. The County Surveyor shall store one copy of the "as-built" plans with the
+approved drainage plan.
+      (4)   The County Engineer will store "Record Drawings" with Street Plans.
+The County Engineer shall store one copy of the "as-built" or “Record Drawings”
+plans with the approved street plans.
+      Drainage Certification
+      The completed stormwater drainage system complies with the final drainage
+plans approved by the Warrick County Drainage Board on
+                          except as noted on the Record Drawings.
+                                                                 
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.29 MODIFICATIONS TO APPROVED DRAINAGE PLAN.
+   (A)   Modifications during construction.
+      (1)   Any major modification (or modifications) to an approved drainage
+plan shall be filed with the Drainage Board before implementing the major
+modification(s). The word "major" shall be determined by the County Surveyor.
+If the Drainage Board approves the modification(s), it will become part of the
+approved drainage plan. If the Drainage Board does not approve it, the
+applicant must revise the modification(s) and resubmit them to the Drainage
+Board for approval. If the major modification(s) have been implemented and then
+not approved by the Drainage Board, the major modification(s) will either have
+to be removed or modified to satisfy this chapter.
+      (2)   Any minor modification (or modifications) to an approved drainage
+plan shall be filed with the Drainage Board before implementing the minor
+modification(s). The word "minor" shall be determined by the County Surveyor.
+The County Surveyor may approve the minor modification(s), not approve the
+minor modification(s), or request the Drainage Board to consider the minor
+modification(s). If the minor modification(s) have been implemented and then
+not approved by the County Surveyor or by the Drainage Board, the minor
+modification(s) will cither have to be removed or modified to satisfy this
+chapter.
+   (B)   Modifications after project completion and acceptance. Any
+modification (or modifications) to any part of the approved drainage plan shall
+require a new approval of the drainage plan from the Drainage Board. If the
+modification(s) are major, as determined by the County Surveyor, a new drainage
+plan conforming to this chapter shall be submitted to the Drainage Board for
+approval.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.30 MAINTENANCE.
+   (A)   General maintenance.
+      (1)   Before project completion and acceptance, maintenance of proposed
+(as shown on the approved drainage plan) drainage facilities within existing
+and proposed county right-of-way shall be the applicant's responsibility.
+Before project completion and acceptance, the county shall be responsible for
+maintaining existing drainage facilities that receive stormwater from the
+development and are within the existing county right- of-way. However, if the
+County Surveyor determines that the sole reason for performing maintenance on
+existing drainage facilities is due to the implementation of the approved
+drainage plan (such as sedimentation, damage, and construction debris), the
+applicant shall be responsible for the maintenance. After project completion
+and acceptance, maintenance of existing and proposed (as shown on the approved
+drainage plan) drainage facilities, which are within existing and accepted
+county right-of-way and drainage easements (which were shown to be proposed in
+the drainage plan), shall be the responsibility of the county, excluding
+retention/detention facilities.
+   (B)   Assignment of maintenance of drainage easements and drainage
+facilities.
+      (1)   The county shall perform structural and non-structural maintenance
+of drainage facilities within the right-of-way.
+      (2)   The property owner of the said easement shall perform non-
+structural maintenance of the land with drainage easements. See Appendix C's
+“Declaration of Covenants, Inspection/Maintenance of Drainage Facility.”
+      (3)   The county shall perform structural maintenance of drainage
+facilities within drainage easements, excluding retention/detention facilities.
+See Appendix C’s “Declaration of Covenants, Inspection/Maintenance of Drainage
+Facility.”
+      (4)   Structural and non-structural maintenance of the land and drainage
+facilities not within drainage easements shall be performed by the property
+owner of the said land.
+   (C)   Types of maintenance.
+      (1)   Non-structural maintenance shall include; mowing grass, removing
+trash, controlling weeds, and maintaining the designed cover over the storm
+sewers.
+      (2)   Structural maintenance shall include: keeping all parts of the
+stormwater drainage system operating as designed and constructed, keeping
+channels, embankments, shorelines, and bottoms of waterways and basins free of
+all erosion and sedimentation; maintaining the drainage facilities which lie on
+his or her property following the conditions described in the accepted drainage
+plan on file in the County Surveyor's office, and in compliance with this
+chapter; preventing all persons or parties from causing any unauthorized
+alternations, obstructions, or detrimental actions from occurring to any part
+of the stormwater drainage facility and drainage casement.
+   (D)   Drainage facility repair account.
+      (1)   A drainage facility repair account established for each development
+will pay for the costs of structural maintenance of the drainage facilities
+shown on the record plans for this subdivision, which are either within county
+right-of-way or are outside of the county right-of-way and but within drainage
+easements, as shown on the plat of this subdivision.
+      (2)   The Drainage facility repair account shall be created and
+maintained by the Warrick County Auditor as follows;
+         (a)   The County Auditor shall create an account into which the County
+Treasurer shall deposit the prepaid maintenance money received from the
+applicant using this maintenance method and all money collected through fines
+and liens from properties within subdivisions. This account shall also collect
+all money received from fines, tax liens, interest payments, and penalties
+generated by violations of the terms of this chapter.
+         (b)   The County Surveyor shall sign a warrant for payment of a claim
+for materials and/or labor used to repair structural failures of drainage
+facilities, or to bring a project or a part thereof into compliance with the
+terms of this chapter all as described in this section of this chapter; but
+only if the criteria are met.
+         (c)   The applicant shall submit to the County Treasurer a sum equal
+to $5 times the linear feet of stormwater sewers and culverts installed for
+this development that are 12" or greater in nominal diameter ($5/linear foot),
+plus $200 times the number of drainage structures installed for this
+development ($200/structure).
+   (E)   Inspection.
+      (1)   The entire drainage system, including the basins, for all
+developments requiring a drainage plan shall be inspected by the County
+Surveyor or his representative after construction. A written approval and
+acceptance of the drainage facilities, including basins and off-site
+facilities, shall be subject to an inspection conducted by the County Surveyor
+according to the following procedure:
+         (a)   The County Surveyor's inspection shall be conducted by the
+following procedure:
+            1.   The applicant shall give written notice to the County Surveyor
+that the drainage system for the development is completed;
+            2.   The County Surveyor shall inspect, or cause to be inspected,
+the drainage system, including the basins, and shall issue, within 21 days from
+the receipt of the owner's/developer's written notice, either a written
+approval of the facilities or a notice listing any inadequacies in the system;
+            3.   Upon correction of inadequacies, if any, written notice of
+completion again shall be given to the County Surveyor by the owner(s)/
+developer(s); and
+            4.   The applicant shall maintain and guarantee the entire storm
+sewer system, including the basin(s), for one year beginning on the date of the
+County Surveyor's written approval of the system; and
+      (2)   Periodic inspections of storm sewer systems and basins.
+         (a)   Drainage facilities constructed under the provisions of this
+chapter will be inspected by the County Surveyor or his/her agent on a periodic
+or as-needed basis.
+         (b)   A permanent record of all inspections shall be kept in the
+Office of the County Surveyor.
+         (c)   The purpose of such periodic inspections shall be to determine
+compliance or noncompliance with the requirements of this chapter and
+compliance with the conditions of the approved drainage plan.
+         (d)   If required by the Drainage Board, a certified inspection report
+covering physical conditions, operational conditions, compliance with ordinance
+requirements, and other pertinent data will be filed with the Drainage Board
+and made available for public viewing.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.31 DISCLAIMER OF LIABILITY.
+   The Drainage Board accepts no responsibility for any impacts due to
+deviations from the approved drainage plan.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.32 CORRECTIVE ACTION.
+   Nothing in this chapter shall prevent Warrick County, Indiana, from taking
+lawful action as may be necessary to prevent or remedy any violation. All costs
+of such action shall accrue to the person or persons responsible.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.33 NOTICE OF VIOLATION.
+   (A)   If the Warrick County Surveyor determines that an applicant or other
+responsible person has failed to comply with the terms and conditions of an
+approved drainage plan or the provisions of this chapter, it shall issue a
+written notice of violation to such applicant or other responsible person.
+Where a person is engaged in activity covered by this chapter without having
+first secured a permit, the notice of violation shall be served on the owner or
+the person responsible for the activity being conducted on the site.
+   (B)   The notice of violation shall contain:
+      (1)   The name and address of the owner, the applicant or the responsible
+person;
+      (2)   The address or other description of the site upon which the
+violation is occurring;
+      (3)   A statement specifying the nature of the violation;
+      (4)   A description of the remedial measures necessary to bring the
+action or inaction into compliance with the permit, the stormwater management
+plan or this chapter and the date for the completion of such remedial action;
+      (5)   A statement of the penalty or penalties that may be assessed
+against the person to whom the notice of violation is directed; and
+      (6)   A statement that the determination of violation may be appealed to
+the Drainage Board by filing a written notice of appeal within 30 days after
+the notice of violation (except, that in the event the violation constitutes an
+immediate danger to public health or public safety, a 24-hour notice shall be
+sufficient).
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.34 ILLICIT DISCHARGE AND ILLEGAL CONNECTION.
+   Discharges to the storm sewer system not composed entirely of stormwater
+runoff contribute to increased non-point source pollution and degradation of
+receiving water. These non- stormwater discharges occur due to spills, dumping,
+and improper connections to the municipal/county separate storm sewer system
+from residential, industrial, commercial, or institutional establishments.
+These non-stormwater discharges impact waterways not only individually, but
+geographically dispersed, small volume non-storm water discharges can have
+cumulative impacts on receiving waters. Those discharges adversely affect
+public health and safety, drinking water supplies, recreation, fish and other
+aquatic life, property values, and other uses of lands and waters. These
+impacts can be minimized through the regulation of spills, dumping, and
+discharges into the storm sewer system; Warrick County is required to comply
+with many state and federal laws, regulations, and permits that require a
+locality to address the impacts of stormwater runoff quality and nonpoint
+source pollution due to improper non-stormwater discharges to the (municipal/
+county) separate storm sewer system. Therefore, Warrick County prohibits such
+non-stormwater discharges to the storm sewer system and has determined that the
+regulation of spills, improper dumping, and discharges to the municipal/county
+separate storm sewer system is in the public interest and will prevent threats
+to the public health and safety, and the environment.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.35 EXEMPT DEVELOPMENTS.
+   (A)   Any development that has had its drainage plan approved by the
+Drainage Board before the effective date of this chapter and has not made any
+unapproved changes to the approved drainage plan since the approval date of the
+drainage plan shall be exempt from all of the requirements of this chapter.
+   (B)   Developments that will increase less than 10,000 square feet of
+impervious area do not require a drainage plan.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.36 UPDATES.
+   This drainage chapter may be updated and revised as recommended by the
+County Surveyor, with the approval of the Warrick County Board of
+Commissioners.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.98 VIOLATIONS, ENFORCEMENT, AND PENALTIES.
+   Any action or inaction that violates the provisions of this chapter or the
+requirements of an approved stormwater management plan or permit may be subject
+to the enforcement actions outlined in this section. Any such action or
+inaction that is continuous over time is deemed a public nuisance and may be
+abated by injunctive or other equitable relief. Imposing any of the penalties
+described below shall not prevent such equitable relief.
+(BC Ord. 2025-11, passed 8-11-25)
+§ 56.99 PENALTIES.
+   In the event the remedial measures described in the notice of violation have
+not been completed by the date set forth for such completion in the notice of
+violation, any one or more of the following actions or penalties may be taken
+or assessed against the person to whom the notice of violation was directed.
+Before taking any of the following actions or imposing any of the following
+penalties, the County Surveyor shall first notify the applicant or other
+responsible person in writing of the intended action and shall provide a
+reasonable opportunity, of not less than ten days (except, that in the event
+the violation constitutes an immediate danger to public health or public
+safety, 24-hour notice shall be sufficient) to cure such violation. If the
+applicant or other responsible person fails to cure such violation after such
+notice and cure period, the County Surveyor may take any one or more of the
+following actions or impose any of the following penalties.
+   (A)   Stop-work order. The County Surveyor may issue a stop-work order,
+which shall be served on the applicant or other responsible person. The stop-
+work order shall remain in effect until the remedial measures outlined in the
+notice of violation have been cured or the violation or violations described
+therein have otherwise been cured, provided that the stop-work order may be
+withdrawn or modified to enable the applicant or other responsible person to
+take the necessary remedial measures to cure such violation or violations.
+   (B)   Withhold certificate of occupancy. The Warrick County Building
+Department may be directed in writing by the County Surveyor to refuse to issue
+a certificate of occupancy for the building or other improvements constructed
+or being constructed on the site until the applicant or other responsible
+person has taken the remedial measures outlined in the notice of violation or
+has otherwise cured the violations described therein.
+   (C)   Suspension, revocation or modification of permit. The Warrick County
+Area Plan Commission may be directed in writing by the County Surveyor to
+suspend, revoke, or modify the permit authorizing the land development project.
+A suspended, revoked, or modified permit may be reinstated after the applicant
+or other responsible person has taken the remedial measures outlined in the
+notice of violation or has otherwise cured the violations described therein,
+provided such permit may be reinstated to enable the applicant or other
+responsible person to take the necessary remedial measures to cure such
+violations.
+   (D)   Civil penalties. In the event the applicant or other responsible
+person fails to take the remedial measures outlined in the notice of violation
+or otherwise fails to cure the violations described therein within ten days, or
+such greater period as the County Surveyor shall deem appropriate (except, that
+in the event the violation constitutes an immediate danger to public health or
+public safety, 24-hour notice shall be sufficient) after the County Surveyor
+has taken one or more of the actions described above, the County Surveyor may
+impose a penalty not to exceed $1,000 (depending on the severity of the
+violation) for each day the violation remains unremedied after receipt of the
+notice of violation.
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX A: FLOWCHARTS
+COMMERCIAL SITE
+FLOWCHART A-1
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1810.png]
+ 
+SUBDIVISION SITE
+FLOWCHART A-2
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1812.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX B: DRAINAGE PLAN DRAWING CHECKLIST 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1814.png]
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1816.png]
+ 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1818.png]
+ 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1820.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX C: DECLARATION OF COVENANTS
+INSPECTION/MAINTENANCE OF DRAINAGE FACILITY
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1822.png]
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1824.png]
+ 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1826.png]
+ 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1828.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX D: CERTIFICATION FORM
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1830.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX E: TRENCH DETAILS
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1832.png]
+ 
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1834.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
+APPENDIX F: RAIN FALL INTENSITY TABLE
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
+IMAGES/0-0-0-1836.png]
+ 
+(BC Ord. 2025-11, passed 8-11-25)
 TITLE VII: TRAFFIC CODE
    Chapter
       
@@ -17600,10 +19514,10 @@ requirements.
 must file a request with the Warrick County Board of Commissioners.
 (BC Ord. 2006-05, passed 3-20-06; Am. BC Ord. 2013-08, passed 6-10-13)
 APPENDIX A: STREET SIGN SPECIFICATIONS
-[https://export.amlegal.com/media/cc8579b7d721f26b2868754fc9db4a20bbe94431/
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
 IMAGES/0-0-0-1139.png]
 APPENDIX B: WARRICK COUNTY ROADWAY SPECIFICATIONS
-[https://export.amlegal.com/media/cc8579b7d721f26b2868754fc9db4a20bbe94431/
+[https://export.amlegal.com/media/645e4bc65e25a2dd953495689f2188c7dd4ff1c1/
 IMAGES/0-0-0-1141.png]
 APPENDIX C: CHECKLIST FOR PARCELIZATION
 1.           Submit five copies of proposed survey plat of parcelization, with
@@ -17643,7 +19557,9 @@ Ord. 2021-39, passed 12-13-21; Am. BC Ord. 2021-40, passed 12-13-21; Am. BC
 Ord. 2021-41, passed 12- 13-21; Am. BC Ord. 2023-11, passed 6-26-23; Am. BC
 Ord. 2023-12, passed 6-26-23; Am. BC Ord. 2023-13, passed 6-26-23; Am. BC Ord.
 2023-17, passed 9-11-23; Am. BC Ord. 2023-18, passed 9-11-23; Am. BC Ord. 2023-
-19, passed 9-11-23; Am. BC Ord. 2024- 12, passed 9-9-24)
+19, passed 9-11-23; Am. BC Ord. 2024- 12, passed 9-9-24; Am. CC Ord. 2025-12,
+passed 9-8-25; Am. CC Ord. 2025-13, passed 9-8-25; Am. CC Ord. 2025-14, passed
+9-8-25; Am. CC Ord. 2025-15, passed 9-8-25)
 CHAPTER 156: UNSAFE BUILDINGS AND PREMISES
 Section
    
@@ -19795,6 +21711,10 @@ CC           Rezoning part of the Southeast Quarter of the Northwest Quarter of 
 Ord.  4-15-  Township 6 South, Range 9 West of the 2nd P.M., lying in Ohio Township, from A
 2025- 25     to M-1
 08
+CC
+Ord.  7-15-  Rezoning part of the Southwest Quarter of the Southeast Quarter of Section 32,
+2025- 25     Township 6 South, Range 9 West in Ohio Township from Agriculture to R-1
+09
             
  
 TABLE VII: VACATIONS
@@ -20364,6 +22284,10 @@ BC
 Ord.  3-24-  Vacating a portion of a 25-foot drainage easement in Keith’s Ridge in Warrick
 2025- 25     County
 05
+BC
+Ord.  8-11-  Vacating a 30-foot public utility easement on Lots 18 and 19 in Wren Lake No. 2
+2025- 25     Subdivision
+10
             
  
 TABLE VIII: STREET NAME CHANGES
@@ -20720,6 +22644,7 @@ I.C. Section                Code Section
 36-7-1-500 et seq.          154.004
 36-7-3 et seq.              154.050,
                             154.060
+36-7-4                      56.01
 36-7-4-405(2)               154.011
                             154.011,
                             154.023,
@@ -20750,8 +22675,9 @@ I.C. Section                Code Section
 36-8-10-11                  33.72
 36-8-16                     90.01
 36-9-25-11                  55.09
-36-9-27                     54.03,
-                            54.08
+                            54.03,
+36-9-27                     54.08,
+                            56.05
 36-9-33-2                   136.01
 36-10-3-3(A)                33.01
 36-10-3-9                   33.05
@@ -21925,6 +23851,17 @@ Amended 2019-03 2-11-19     36.12
 2024-22         11-25-24    T.S.O. VII
 2024-23         11-25-24    T.S.O. VII
 2025-05         3-24-25     T.S.O. VII
+2025-09         7-15-25     T.S.O. VI
+2025-10         8-11-25     T.S.O. VII
+                            56.01 -
+                            56.37,
+2025-11         8-11-25     56.98,
+                            56.99, Apps.
+                            A -
+                            F
+2025-12         9-8-25      155.01
+2025-13         9-8-25      155.01
+2025-14         9-8-25      155.01
                            
  
 REFERENCES TO DEPARTMENT OF STORMWATER MANAGEMENT ORDINANCES
