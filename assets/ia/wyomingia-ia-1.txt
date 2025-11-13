@@ -215,6 +215,9 @@ Oct-24    60.02; 65.05             451      10-8-24  Pedestrians' Right-of-Way
           7.05; 7.08               453      10-8-24  Fiscal Management
           5.06                     454      10-8-24  Electronic Meetings
           5.02                     455      10-8-24  Bond Requirements
+Sep-25    92.09                    456      11-12-24 Customer Deposits
+          165.03; 165.05; 165.06;  457      12-10-24 Accessory Structures and
+          165.13(9)                                  Class R-2 Bulk Regulations
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -10057,21 +10060,58 @@ residents in the City.
 165.03   DEFINITIONS.
 For the purpose of this chapter certain terms or words used herein shall be
 interpreted and defined as follows, unless the context requires otherwise:
-1.   “Dwelling” is a building with a permanent foundation or crawl space used
+1.   “Accessory buildings or structure” means a building or structure which is
+associated with a specific allowed use or building on the same site.
+2.   “Accessory use” is a use customarily incidental and subordinate to the
+main use or building and located on the same lot therewith. In no case shall
+such accessory use dominate, in area, extent or purpose, the principal lawful
+use or building.
+3.   “Building” means any structure designed or intended for the support,
+enclosure, shelter, or protection of persons, animals, or property, but not
+including signs or billboards and not including structures or vehicles
+originally designed for transportation purposes.
+4.   “Dwelling” is a building with a permanent foundation or crawl space used
 as living quarters for one or more families not including auto courts, rooming
 houses or tourist homes.
-2.   “Lot” includes the word plat and parcel.
-3.   “Professional office building” is a building occupied and used by the
+5.   “Duplex” means a legally-described lot for two dwelling units, each
+occupied by one household within a single building, excluding manufactured or
+mobile home units, but including modular housing units.
+6.   “Garage” is a structure primarily designed for parking and storage of
+automotive vehicles and related uses and may be attached (and therefore part of
+the principal building) or detached (and therefore an accessory building).
+7.   “Lot” includes the word plat and parcel.
+8.   “Professional office building” is a building occupied and used by the
 following professions: lawyers, medical doctors, dentists, chiropractors,
 insurance agents, engineers, accountants, abstractors of title to real estate,
-and Federal, State and local governmental offices for the conduct of
+and federal, State and local governmental offices for the conduct of
 governmental business.
-4.   “Structure” means a combination of materials other than a building to form
+9.   “Structure” means a combination of materials other than a building to form
 a construction that is safe and stable and includes among other things,
 stadiums, platforms, radio towers, sheds, storage bins, fences, signs.
-5.   “Used” and “occupied” as applied to any land or building shall be
+10.   “Used” and “occupied” as applied to any land or building shall be
 construed to include the words intended, arranged, or designed to be used or
 occupied.
+11.   “Yard; required.” That portion of a lot which lies between a lot line and
+the corresponding building setback line or the required landscape area. This
+area shall be unoccupied and unobstructed by permitted uses, accessory uses or
+conditional uses, or anything specifically regulated by this ordinance.
+   A.   “Front yard” means the space extending the full width of a lot between
+the principal building foundation line and the front lot line. For a corner
+lot, the front yard shall normally be defined as that yard along a street which
+meets one of the following two criteria:
+      (1)   The yard along the blockface to which a greater number of
+structures are oriented; or
+      (2)   The yard along a street that has the smaller horizontal dimension.
+   B.   “Rear yard” means the space extending the full width of a lot between
+the principal building foundation line and the rear lot line.
+   C.   “Side yard” means the space extending from the front yard to the rear
+yard between the principal building and the side lot line.
+   D.   “Street side yard” means on a corner lot, the space extending from the
+front yard to the rear lot line, between the principal building and the street
+side lot line.
+[https://export.amlegal.com/media/9b67ce01382f30a126a43dd137cb4fa8b56aad88/
+IMAGES/0-0-0-1737.png]
+(Section 165.03 – Ord. 457 – Sep. 25 Supp.)
 165.04   APPLICABILITY OF REGULATIONS.
 Except as otherwise specifically provided by this chapter:
 1.   No building or land shall hereafter be used or occupied and no building or
@@ -10091,20 +10131,21 @@ that district.
 165.05   CLASS R-1 DISTRICTS – SINGLE-FAMILY RESIDENTIAL.
 1.   The areas designated R-1 as shown on the zoning map, a certified copy of
 which is on file in the office of the Clerk, shall be zoned Class R-1.
-2.   The following uses shall be allowed in any Class R-1 district:
+2.   The following uses shall be allowed in any Class R-1 District:
    A.   One-family dwelling units.
    B.   Churches, places of worship, and parochial schools.
    C.   Public schools, public libraries, parks and playgrounds.
    D.   Small home occupations provided there are no signs or other evidence of
 such use.
-   E.   Other accessory uses in buildings provided such uses are incidental to
+   E.   Private garages following the regulations defined in Section 13.
+   F.   Other accessory uses in buildings provided such uses are incidental to
 the principal use and do not include any activity conducted as a business.
-   F.   Other uses, which in the opinion of the Board of Adjustment, are of the
-same general character as those listed    
-   G.   above as permitted uses, and which will not be detrimental to the
+   G.   Other uses, which in the opinion of the Board of Adjustment, are of the
+same general character as those listed
+   H.   Above as permitted uses, and which will not be detrimental to the
 district in which they are located.
 3.   The following regulations shall apply to any structure, building or
-dwelling constructed or altered in any Class R-1 district:
+dwelling constructed or altered in any Class R-1 District:
    A.   Density of Population. Lot area should be not less than 6,000 square
 feet and lot width shall be not less than fifty (50) feet. No more than one
 dwelling shall be placed upon any lot of the above size.
@@ -10112,7 +10153,7 @@ dwelling shall be placed upon any lot of the above size.
 No dwelling or other structure including accessory buildings, shall cover more
 than 40% of the area of the lot. If more than one lot is used, the percentage
 shall be computed on the combined size of the lots.
-   C.   Yards, Courts and Open Spaces. Every lot in any class R-1 District
+   C.   Yards, Courts and Open Spaces. Every lot in any Class R-1 District
 shall be required to have a front yard with a minimum of fifteen (15) feet
 before any structure may be erected, a rear yard setback of ten (10) feet and a
 side yard on each side with a minimum of five (5) feet before any structure may
@@ -10124,13 +10165,24 @@ the required minimum by five (5) feet for every five (5) feet, or fraction
 thereof, of additional height over thirty (30) feet. In no case shall the
 building height exceed fifty (50) feet.
    E.   Temporary Residences. (Repealed by Ordinance No. 436 – Sep. 22 Supp.)
+(Section 165.05 – Ord. 457 – Sep. 25 Supp.)
 165.06   CLASS R-2 DISTRICTS - ZERO-LOT DUPLEX RESIDENTIAL.
 1.   The areas shown on the zoning map, a certified copy of which is on file in
 the office of the Clerk, designated R-2, shall be zoned Class R-2.
-2.   The same uses permitted in Class R-1 districts will be permitted in an R-
-2 district.
+2.   Duplexes and the uses permitted in Class R-1 Districts will be permitted
+in an R-2 District.
 3.   The following regulations shall apply to any structure, building or
-dwelling constructed or altered in a Class R-2 district:
+dwelling constructed or altered for a one-family dwelling unit in a Class R-
+2 District:
+   A.   Density of Population. Lot area should be not less than 6,000 square
+feet and lot width shall be not less than fifty (50) feet. No more than one
+dwelling shall be placed upon any lot of the above size.
+   B.   Percentage of Lot Covered by Buildings, Dwellings and Other Structures.
+No dwelling or other structure including accessory buildings, shall cover more
+than 40% of the area of the lot. If more than one lot is used, the percentage
+shall be computed on the combined size of the lots.
+4.   The following regulations shall apply to any structure, building or
+dwelling constructed or altered for all other uses in a Class R-2 District:
    A.   Density of Population. Lot area shall be not less than 9,000 square
 feet with a minimum of 4,500 square feet per unit, and lot width shall be not
 be less than 75 feet.
@@ -10138,17 +10190,23 @@ be less than 75 feet.
 No dwelling or other structure, including accessory buildings, shall cover more
 than 50% of the area of the lot. If more than one lot is used, the percentage
 shall be computed on the combined size of the lots.
-   C.   Yards, Courts and Open Spaces. Every lot in any Class R-2 district
+   C.   Yards, Courts and Open Spaces. Every lot in any Class R-2 District
 shall be required to have a front yard with a minimum of fifteen (15) feet
 before any structure may be erected, a rear yard setback of ten (10) feet and a
 side yard on each side with a minimum of five (5) feet before any structure may
 be erected. Lots located at the intersection of two streets shall meet the
 front yard setbacks for both frontages.
-   D.   Size of Structure. No structure shall be built having less than 1000
+   D.   Building Minimums and Conditions. No building shall exceed two (2)
+stories or thirty (30) feet in height, unless each side yard is increased over
+the required minimum by five (5) feet for every five (5) feet, or fraction
+thereof, of additional height over thirty (30) feet. In no case shall the
+building height exceed fifty (50) feet.
+   E.   Size of Structure. No structure shall be built having less than 1000
 square feet of living space per dwelling unit.
-   E.   Temporary Residences. (Repealed by Ordinance No. 436 – Sep. 22 Supp.)
-   F.   Other Uses. Funeral homes and professional office buildings are
-permitted in the R-2 district.
+   F.   Temporary Residences. (Repealed by Ordinance No. 436 – Sep. 22 Supp.)
+   G.   Other Uses. Funeral homes and professional office buildings are
+permitted in the R-2 District.
+(Section 165.06 – Ord. 457 – Sep. 25 Supp.)
 165.07   CLASS RM DISTRICTS – MULTIPLE-FAMILY RESIDENTIAL.
 1.   The districts shown on the zoning map and designated Class RM shall be
 zoned Class RM.
@@ -10365,7 +10423,7 @@ orientation to the street.
 alternative to parallel orientation should provide a street-front façade. The
 following illustration provides an example of a perpendicular orientation
 providing a street-front façade.
-[https://export.amlegal.com/media/ca5e26be8d42bd304e470a9bc873c3eea82673e9/
+[https://export.amlegal.com/media/9b67ce01382f30a126a43dd137cb4fa8b56aad88/
 IMAGES/0-0-0-1556.png]
  
    I.   Park Perimeter Buffering. Each yard area abutting on a perimeter public
@@ -10683,16 +10741,19 @@ and gazebos, shall be separated from the main building by ten (10) feet.
 materials as the principal building.
 9.   Private Garages. An accessory building used as a private garage may be
 located in any portion of the rear or side yard under the following conditions:
-   A.   Maximum one private garage per lot.
-   B.   A maximum square feet gross building area not to exceed 30% of the rear
-yard area with a maximum size of 850 square feet.
+   A.   Maximum one private garage per lot. This may be in addition to a garage
+attached to a primary structure.
+   B.   A maximum square feet gross building area not to exceed 70% of the rear
+yard area. Overall lot coverage requirements in district regulations still
+apply.
    C.   No portion of the structure located in a rear yard area shall be
-located less than four (4) feet from an adjoining property line; less than
+located less than four (4) feet from an adjoining property lines; less than
 twenty (20) feet from a public or private alley; on a utility easement.
    D.   No portion of the structure located in a side yard area shall be
 located less than the required side yard setback for the main building or on a
 utility easement.
    E.   Maximum building height of eighteen (18) feet.
+(Subsection 9 – Ord. 457 – Sep. 25 Supp.)
 10.   Accessory Structures. Decks, gazebos, or other seasonal structural
 addition is an accessory to the permitted use. They may be located in either
 the front, rear, or side yard not to exceed the setback requirements.
