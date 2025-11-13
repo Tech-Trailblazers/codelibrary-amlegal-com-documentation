@@ -33,6 +33,54 @@ Jan-25    99.10                   840      6-3-24  Sewer Service Charges
           18.06(8);               847      10-7-24 City Administrator
           18.06(35);
           18.06(41-43)
+Sep-25    170.13                  848      1-6-25  Rezoning from R-1 to R-2
+          170.13                  849      1-6-25  Johnson Farms Villas Planned
+                                                   Development District
+          Ch.                     850      2-3-25  Fire Suppression Appliances
+          159                                      and Fire Code
+          Ch.                                      Bicycles and Other Non-
+          76                      851      4-21-25 Motorized Self-Propelled
+                                                   Vehicles
+          55.01(6);
+          55.01(11-12);
+          55.01(17-18);
+          55.05;                  852      4-21-25 Urban Chickens
+          55.09;
+          55.29;
+          170.07(12)(F);
+          170.58
+          100.02;                 853      6-6-25  Sewer Service Charges
+          100.05
+          106.06;                 854      6-6-25  Collection of Solid Waste
+          106.07
+          Ch.
+          7; Ch.
+          8;
+          18.06;
+          19.06; Ch.
+          41;
+          49.02;
+          122.01;
+          122.07;
+          122.17; Ch.
+          161;
+          170.07(2)(D);
+          170.07(4)(N);
+          170.07(4)(Y);           855      8-18-25 Omnibus Changes
+          170.07(8)(A);
+          170.07(8)(F);
+          170.07(12)(O);
+          170.07(19)(AA);
+          170.16(3)(P);
+          170.17(3)(F);
+          170.19(2-3);
+          170.30(3);
+          170.51;
+          170.52(1);
+          170.52(5)(A);
+          170.52(6)(A);
+          170.59(20)(I)(1);
+          170.67
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -625,7 +673,7 @@ Administration                           and Inventory
 Preparation and Administration
 7.06 Funds, Expenditures, and Purchasing 7.13 Fees Established
 Controls
-7.07 Bidding, Request for Proposals, and
+7.07 Bidding, Requests for Proposal, and
 Purchasing Controls
  
 7.01   PURPOSE.
@@ -748,12 +796,12 @@ addition to those types listed above:
    B.   Any legally incurred debt, due and owing by the City which has been
 previously approved by specific Council action.
    C.   Postage or shipping costs which must be paid immediately.
-   D.   Recording feed.
+   D.   Recording fees.
    E.   Any request from the City Administrator which must be expedited for the
 good of the City.
    F.   Employee-related reimbursements (medical/dental, safety boots/glasses,
 travel expenses, etc.)
-   G.   Deposit refunds (rec. cards and utilities).
+   G.   Deposit refunds (facility rentals and utilities).
 7.   Authorized Signatories. Two signatures are required on all City checks.
 The Mayor, Mayor Pro Tem, City Administrator, and the City Clerk/Treasurer are
 hereby designated as the official City signatories, and such are hereby
@@ -783,20 +831,22 @@ Administrator, Department Heads, and Supervisors shall be responsible for
 making sure that the requirements of this section are adhered to.
 2.   Any purchase of materials, equipment, supplies, services, etc., where the
 estimated cost is expected to exceed $10,000.00 in value, shall be done only
-after having received written, sealed proposals, or as otherwise approved by
-the Council. Proposals shall be taken from at least three qualified,
-responsible bidders. Contracts over $10,000.00 shall be reviewed and acted upon
-by the Council.
+after having received written proposals or as otherwise approved by the
+Council. Proposals shall be taken from at least three qualified, responsible
+bidders. Contracts over $10,000.00 shall be reviewed and acted upon by the
+Council. Public improvement construction contracts in excess of $25,000 must be
+bid in accordance with Chapter 26 of the Code of Iowa.
 3.   Local Purchases. Any and all purchases by the City will be made within the
 City in accordance with Section 23A.3 of the Code of Iowa, as amended, unless:
-   A.   The times are not locally and readily available after a reasonable
+   A.   The items are not locally and readily available after a reasonable
 attempt has been made in canvassing the local merchants for pricing and
 availability status.
-   B.   The items and quantities can be purchased elsewhere for a cheaper
-amount, including transportation/delivery charges or our own pick-up costs.
+   B.   The items and quantities can be purchased elsewhere for a less
+expensive amount, including transportation/delivery charges or our own pick-up
+costs.
    C.   The items are purchased while an employee is already in the greater
 metropolitan area to purchase specialty or locally unavailable items and the
-items are cheaper than those available locally.
+items are less expenseive than those available locally.
 4.   Purchase Orders Required. The use of purchase orders will be required for
 any singular or cumulative purchases exceeding $2,500.00. The City
 Administrator shall develop the necessary administrative policies and
@@ -926,7 +976,8 @@ governmental agency without the necessity of advertising, bids, or auction
 sale.
    D.   Sale of land or other real property requires Council authorization and
 must be disposed of in accordance with Section 364.7 of the Code of Iowa.
-   E.   Disposal of public right-of-ways.
+   E.   Disposal of public right-of-ways. See
+Chapter 137.
 7.   Special Considerations.
    A.   Items purchased with tax exempt bonds or grant funds shall be disposed
 of in accordance with applicable federal, State or grant requirements. If no
@@ -950,13 +1001,14 @@ the Code of Iowa, as amended.
 Any and all fees, charges, or rates for any products or services rendered by
 the City (including UanyU employee, department, committee, commission, or
 board) shall be as established by formal action of the City Council.
+(Chapter 7 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 8
 RECORDS AND INFORMATION MANAGEMENT AND RELATED PROCEDURES
  
-8.01 Purpose                                8.04 Personnel Records
-8.02 Definition                             8.05 Records and Information
-                                            Management in General
-8.03 City Administrator’s Designation and 8.06 Release of Records Information
+8.01 Purpose                        8.04 Personnel Records
+8.02 Definition                     8.05 Records and Information Management in
+                                    General
+8.03 City Clerk’s Designation and 8.06 Release of Records Information
 Responsibilities
  
 8.01   PURPOSE.
@@ -977,16 +1029,15 @@ and which is discarded when no longer needed, personal files, working drafts,
 memos, and correspondence which is clearly and only incidental to the
 activities of the City, adding machine tapes, rough notes, duplicate file
 copies unless required by law, rule or regulation, and such related items.
-8.03   CITY ADMINISTRATOR’S DESIGNATION AND RESPONSIBILITIES.
-The City Administrator is hereby designated as the City’s public official
-charged with the obligation of providing for, maintaining, securing, and
-disposing of the City’s official records and information according to the
-requirements of this Code, State, and federal law, and the guidelines set forth
-in the “Records Retention Manual for Iowa Cities,” as amended. They shall
-implement such practices and procedures as are necessary to effect the intent
-of this chapter. This obligation extends to any and all City records of any
-kind except those dealing with law enforcement issues requiring a law
-enforcement certification.
+8.03   CITY CLERK’S DESIGNATION AND RESPONSIBILITIES.
+The City Clerk is hereby designated as the City’s public official charged with
+the obligation of providing for, maintaining, securing, and disposing of the
+City’s official records and information according to the requirements of this
+Code, State, and federal law, and the guidelines set forth in the “Records
+Retention Manual for Iowa Cities,” as amended. They shall implement such
+practices and procedures as are necessary to effect the intent of this chapter.
+This obligation extends to any and all City records of any kind except those
+dealing with law enforcement issues requiring a law enforcement certification.
 8.04   PERSONNEL RECORDS.
 The City will maintain a personnel record for each paid employee in the service
 of the City showing the name, title of position held, the department to which
@@ -994,10 +1045,10 @@ assigned, salary, changes in employment status, evaluations, and such other
 information as may be considered pertinent. Each employee shall promptly report
 all changes of name, address, and telephone number to the Clerk’s office. Any
 assignment change in the employment status of an employee shall be reported to
-the Clerk’s office in writing by the respective department head as soon as
+the Clerk’s office in writing by the respective Department Head as soon as
 possible. Any and all information regarding all City personnel-related matters
 will be kept in a single location under the jurisdiction of the City
-Administrator.
+Administrator in the absence of a Human Resources Director.
 1.   Segregation of Certain Records. Personnel-related records will be
 separated in a separate, secured, filing cabinet so that personal medical,
 performance evaluation, disciplinary, and internal affairs investigative
@@ -1007,7 +1058,7 @@ day” payroll, attendance, and leave type records and will be labeled as
 2.   Records Access. Access to an employee’s personnel file (information not
 otherwise classified and labeled as “CONFIDENTIAL”) will be limited to the
 employee, the Deputy City Clerk, the Clerk’s office, immediate supervisor,
-department head, and others who will be directly involved in making a decision
+Department Head, and others who will be directly involved in making a decision
 as to terms and conditions of employment.
 Employees shall have the right to inspect their own entire personnel files
 (“CONFIDENTIAL” and otherwise) on their own time during normal City Hall
@@ -1018,24 +1069,24 @@ permanent record. Employees may receive copies of information in their
 personnel files upon payment of the City’s standard copying fees. Access to
 personnel records labeled as “CONFIDENTIAL” will be limited and will be allowed
 only, when necessary, in the normal course of personnel administration to the
-employee, the employee’s immediate supervisor, department head, City
+employee, the employee’s immediate supervisor, Department Head, City
 Administrator, Mayor, and City Attorney. Access to these records will only be
 allowed upon the direct approval and supervision of the City Administrator.
 8.05   RECORDS AND INFORMATION MANAGEMENT IN GENERAL.
-1.   Records Access. Only the City Administrator and their specific designees,
-with case by case and matter specific authorization, shall have direct access
-to the physical files, records, electronic media, and other information of the
-City. As such, all official, legal, and other such requests for records shall
-be coordinated with and approved by the City Administrator.
+1.   Records Access. Only the City Clerk and their specific designees, with
+case by case and matter specific authorization, shall have direct access to the
+physical files, records, electronic media, and other information of the City.
+As such, all official, legal, and other such requests for records shall be
+coordinated with and approved by the City Clerk.
 2.   Records Ownership. All records created by any City department, committee,
 board, or other agency shall remain property of the City.
 3.   Removal of Records. No record shall be removed from its place of
-origination or storage unless specifically approved by the City Administrator.
+origination or storage unless specifically approved by the City Clerk.
 4.   Record Retention and Disposition. All City records and documents, or
-accurate reproductions, shall be maintained and disposed of by the City
-Administrator according to the policies and procedures set forth by State Code
-and those guidelines as established and set forth in the “Records Retention
-Manual for Iowa Cities,” as amended.
+accurate reproductions, shall be maintained and disposed of by the City Clerk
+according to the policies and procedures set forth by State Code and those
+guidelines as established and set forth in the “Records Retention Manual for
+Iowa Cities,” as amended.
 5.   Intentional Destruction of Records. It is unlawful for anyone to
 knowingly, willfully, and maliciously destroy or alter in any manner any City
 record.
@@ -1043,7 +1094,7 @@ record.
 other than a City-owned facility) in order to effect the intent of certain
 security and information protection features contemplated by this chapter. The
 content, location, timing, and other such details shall be approved by the City
-Administrator.
+Clerk.
 7.   Protection of Security Measures. It is unlawful for any City employee or
 official entrusted with such security means to divulge or compromise in any way
 any electronic media access passwords, safe or lock combinations, to distribute
@@ -1057,6 +1108,7 @@ Except when authorized by a statement signed by the employee or former
 employee, no information concerning an employee will be released to anyone
 other than: confirmation of employment, confirmation of salary, dates of
 employment, job title, and department.
+(Chapter 8 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 15
 MAYOR
  
@@ -1352,7 +1404,7 @@ such are done in close cooperation and coordination with those officials.
 18.06   ROLES, EXPECTATIONS, POWERS, DUTIES, AND RESPONSIBILITIES.
 The following, although not fully inclusive, are considered to be the roles,
 expectations, powers, duties, and responsibilities of the City Administrator:
-1.   Supervise enforcement and execution of all Municipal laws, resolutions,
+1.   Supervise enforcement and execution of all municipal laws, resolutions,
 Council policies, and directives.
 2.   Recommend to the Council any measure necessary or expedient for the good
 and welfare of the City.
@@ -1372,7 +1424,6 @@ City.
 the City, and of its future needs.
 8.   Conduct the business affairs of the City and cause complete and accurate
 records to be kept by modern and efficient methods.
-(Subsection 8 – Ord._847 – Jan. 25 Supp.)
 9.   Administer oaths of office as prescribed by law in the absence of the
 Clerk.
 10.   Have direct financial management over all City departments.
@@ -1405,7 +1456,7 @@ make recommendations for such arrangements as are mutually acceptable, and
 coordinate these activities as agreed upon.
 21.   Assist the Mayor in their Mayoral duties as requested by the Mayor.
 22.   Assist the Council and the Planning and Zoning Commission in the carrying
-out of the comprehensive plan and assist in all other forms of planning within
+out of the Comprehensive Plan and assist in all other forms of planning within
 the City government.
 23.   Act for the City in the exercise and execution of all policies and
 programs whereby the City is involved on a joint basis with any other
@@ -1418,7 +1469,7 @@ assigned by the City Administrator.
 properties.
 26.   Keep apprised of grants that may be available to the City and recent
 legislation affecting the City and aggressively apply for available grants with
-the assistance of department heads for subject matter and justification.
+the assistance of Department Heads for subject matter and justification.
 27.   Administer documentation of claims to current grants.
 28.   Draft routine ordinances and amendments including penalty provisions, if
 appropriate, with review and assistance by the City Attorney. Answer inquiries
@@ -1431,16 +1482,14 @@ organizations who work with or for the City.
 32.   Be responsible for research and analysis for projects and prepare
 preliminary data for municipal finance committee and budget meetings.
 33.   Be responsible for the employment of and termination of all City
-personnel (excluding Police Department personnel, Library Director, and
-LeClaire Community Library personnel) in accordance with those standard
-procedures and policies in effect now or as may hereafter be adopted by the
-Council.
+personnel (excluding Police Department personnel and LeClaire Community Library
+personnel) in accordance with those standard procedures and policies in effect
+now or as may hereafter be adopted by the Council.
 34.   In the absence of the Clerk, assume those duties and responsibilities of
 that position as required by law and as required by the Council.
 35.   Possess a degree in Business Administration, Public Administration, or a
 Council approved equivalent and participate in annual continuing professional
 education on subjects applicable and beneficial to the City.
-(Subsection 35 – Ord._847 – Jan. 25 Supp.)
 36.   Coordinate with the Mayor in their official responsibilities and act
 immediately to institute whatever actions are deemed necessary on behalf of the
 City during times of emergency to minimize the loss of life and property and to
@@ -1456,21 +1505,18 @@ Council.
 personnel, if such a program is adopted by the Council, except for the Police
 Department, which evaluations shall be administered by the Police Chief and the
 Mayor.
-39.   In the absence of a Human Resources director, provide such services as
+39.   In the absence of a Human Resources Director, provide such services as
 needed with regard to benefit programs offered by the City, employee
-understanding of same, and periodic updating the employee manual, as needed.
+understanding of same, and periodic updating the Employee Manual, as needed.
 40.   Prepare draft for Council and committee, of the whole agendas for
 approval by the Mayor.
 41.   Acts as a Building and Zoning Enforcement Officer, conducts zoning and
 subdivision reviews, and coordinates meetings and agendas for the Planning &
 Zoning Commission and Board of Adjustment.
-42.   Responsible for providing for, maintaining, securing, and disposing of
-the City’s official records and information according to the requirements of
-this Code, State, and federal law, and the guidelines.
-43.   Acts as Floodplain Administrator in enforcing the floodplain ordinance,
+42.   Acts as Floodplain Administrator in enforcing the floodplain ordinance,
 reviewing Floodplain Permits, and ensuring compliance with State and federal
 law.
-(Subsections 41 through 43 – Ord._847 – Jan. 25 Supp.)
+(Section 18.06 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 19
 CITY CLERK
  
@@ -1591,6 +1637,10 @@ shall assume all costs involved in this requirement.)
 transactions engaged in by the City, any ordinance required to be recorded by
 Council action, street names, and name changes, and any other required
 documents.
+39.   Responsible for providing for, maintaining, securing, and disposing of
+the City’s official records and information according to the requirements of
+this Code, State, and federal law, and the guidelines.
+(Section 19.06 – Ord._855 – Sep. 25 Supp.)
 19.07   PUBLICATION OF MINUTES.
 Within 15 days following a regular or special meeting, the Clerk shall cause
 the minutes of the proceedings thereof to be published. Such publication shall
@@ -2979,24 +3029,23 @@ accessible to children.
 41.09   ANTENNA AND RADIO WIRES.
 It is unlawful for a person to allow antenna wires, antenna supports, radio
 wires, or television wires to exist over any street, alley, highway, sidewalk,
-public way, public ground, or public building without written consent of the
-Council.
+public way, public ground, or public building, unless they comply with the
+right-of-way requirements in
+Chapter 142.
 (Code of Iowa, Sec. 364.12[2])
 41.10   BARBED WIRE AND ELECTRIC FENCES.
 It is unlawful for a person to use barbed wire or electric fences to enclose
-land within the City limits without the written consent of the Council unless
-such land consists of 10 acres or more and is used as agricultural land.
+land within the City limits unless such land consists of 10 acres or more and
+is used as agricultural land.
 41.11   DISCHARGING WEAPONS.
 1.   It is unlawful for a person to discharge rifles, shotguns, revolvers,
-pistols, guns, or other firearms of any kind within the City limits except by
-written consent of the Council.
+pistols, guns, or other firearms of any kind within the City limits.
 2.   No person shall intentionally discharge a firearm in a reckless manner.
 41.12   THROWING AND SHOOTING.
 It is unlawful for a person to throw stones, bricks, or missiles of any kind or
 to shoot arrows, paintballs, rubber guns, slingshots, air rifles, BB guns, or
 other dangerous instruments or toys on or into any street, alley, highway,
-sidewalk, public way, public ground, or public building, without written
-consent of the Council.
+sidewalk, public way, public ground, or public building.
 (Code of Iowa, Sec. 364.12[2])
 41.13   URINATING AND DEFECATING.
 It is unlawful for any person to urinate or defecate onto any sidewalk, street,
@@ -3017,7 +3066,7 @@ within the City limits without a permit as may be required by local, State, or
 federal laws and regulations.
    B.   Sales and Retail Display Permitted. Persons shall not manufacture,
 construct, display, nor offer for sale explosives, explosive materials, or
-fireworks (either First-class or Second-class) upon any property in any zoning
+fireworks (either First-Class or Second-Class) upon any property in any zoning
 district other than those areas zoned “C-3: Highway Oriented Commercial
 District” or any “I – Industrial District.”
    C.   Sales Exceptions. This section does not prohibit the sale by a
@@ -3031,27 +3080,27 @@ or fumigation purposes.
    D.   Approved Dates of Sales. Consumer fireworks sales shall only be
 conducted in accordance with dates and times designated by Section 727.2 of the
 Code of Iowa. It shall be unlawful to sell consumer fireworks without meeting
-the requirements specified in this code, or to sell fireworks outside of the
+the requirements specified in this Code, or to sell fireworks outside of the
 dates specified.
-   E.   Approved consumer fireworks sales meeting the requirements of this code
+   E.   Approved consumer fireworks sales meeting the requirements of this Code
 shall be allowed from an approved permanent structure or building between June
 1 and July 8 and from December 10 until January 3.
-   F.   Approved consumer fireworks sales meeting the requirements of this code
+   F.   Approved consumer fireworks sales meeting the requirements of this Code
 shall be allowed from an approved temporary structure, including, but not
 limited to, stands, tents, or canopies, between June 13 and July 8.
    G.   Required Public Notice for Sales of Consumer Fireworks. An 8” x 11”
 copy of this ordinance is required to be prominently posted within two feet of
 all cash registers or point of payment for the sale and purchase of consumer
 fireworks.
-   H.   Sales to Persons Less Than Age 18. Consumer or display fireworks shall
+   H.   Sales to Persons Less than Age 18. Consumer or display fireworks shall
 not be sold or transferred by a resident, dealer, manufacturer, wholesaler,
 retailer, or jobber of such firework, to a person who is less than 18 years of
 age.
    I.   Purchases by Persons Less Than Age 18. Person less than 18 years of age
 shall not purchase or receive consumer or display fireworks from resident,
 dealer, manufacturer, wholesaler, retailer, or jobber of such firework.
-   J.   Inspections of approved permanent and temporary structures for the sale
-of consumer fireworks. Applicants for and recipients of permits to sell
+   J.   Inspections of Approved Permanent and Temporary Structures for the Sale
+of Consumer Fireworks. Applicants for and recipients of permits to sell
 consumer fireworks are subject to periodic inspection of the approved permanent
 and temporary structures for the storage, housing, wholesale, and retail sale
 of consumer fireworks.
@@ -3079,14 +3128,15 @@ discharge a consumer fireworks device in a reckless manner or manner likely to
 cause death, injury, fire, or property damage.
    E.   No person shall discharge a consumer fireworks device outside the
 following dates and hours:
-      (1)   July 3rd through July 4th from the hours of 12:00 p.m. until 10:00
-P.M.
-      (2)   December 31st from the hours of 12:00 p.m. until 12:30 a.m.
-      (3)   It shall be unlawful to alter, remove, or discharge components of a
+      (1)   July 3rd from the hours of 9:00 a.m. until 10:00 p.m. unless it is
+the Saturday or Sunday immediately preceding July 4, and then until 11:00 p.m.
+      (2)   July 4th from the hours of 9:00 a.m. until 11:00 p.m.
+      (3)   December 31st from the hours of 12:00 p.m. until 12:30 a.m.
+      (4)   It shall be unlawful to alter, remove, or discharge components of a
 consumer fireworks device from its intended method of discharging.
-      (4)   Sky lantern open flame devices are not permitted to be released
+      (5)   Sky lantern open flame devices are not permitted to be released
 within the City limits.
-      (5)   The City may, upon application in writing, grant a permit for the
+      (6)   The City may, upon application in writing, grant a permit for the
 display of fireworks on public property by a “community group,” fair
 associations, amusement parks, and other organizations or groups of individuals
 approved by the City when such fireworks display will be handled by a competent
@@ -3099,7 +3149,7 @@ prosecuted as either a misdemeanor criminal offense or a municipal infraction
 at the sole discretion of the City. Fines shall be set by resolution of the
 Council and shall not be less than $500.00. Violations of this section shall be
 reported to the State Fire Marshal by the Fire Chief.
-5.   Use of “First-class Consumer Fireworks” within the corporate limits of the
+5.   Use of “first-class consumer fireworks” within the corporate limits of the
 City, except as otherwise provided in this section, is prohibited.
 41.15   FAILURE TO ASSIST.
 A person who reasonably believes another person is suffering from a risk of
@@ -3119,6 +3169,7 @@ inhale the fumes from any paint, glue, or other substance containing toluene or
 toluol, xylene or xylol, acetone, acetate, hexane, or ketone.
 1.   Any person violating this section shall be subject to the general penalty
 provisions of this Code of Ordinances.
+(Chapter 41 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 42
 PUBLIC AND PRIVATE PROPERTY
  
@@ -3832,13 +3883,13 @@ any activity which meets all of the following criteria:
 Council;
    B.   The event must be sponsored by and/or conducted by any “local civic
 organization” as defined in Section
-122.17.
+122.18.
    C.   The event must be held on public property where such public property is
 utilized for any purpose(s) other than that which it was originally intended;
    D.   The event must reasonably expect to generate an influx of or create a
 congregation of people within the City during a 24-hour period.
-2.   A “city-wide event” is distinguished from a “special event” in that a
-“city-wide event” is an event where only the City (or any duly recognized,
+2.   A “City-wide event” is distinguished from a “special event” in that a
+“City-wide event” is an event where only the City (or any duly recognized,
 subsidiary thereof) is the sponsoring entity.
 3.   “Temporary” means any time frame duration during the event time frame as
 authorized and approved by the Council.
@@ -3846,6 +3897,7 @@ authorized and approved by the Council.
 City’s Zoning Ordinance.
 5.   “Outdoor” means any place on any parcel of land other than that which is
 totally within the confines of a principal building.
+(Section 49.02 – Ord._855 – Sep. 25 Supp.)
 49.03   STREETS AND PARKING.
 In addition to and/or in lieu of those various street and parking-related
 provisions contained within this Code, the following specific street and
@@ -4321,22 +4373,23 @@ other costs associated with the City’s abatement of any weed nuisances as
 referenced herein.
 CHAPTER 55
 ANIMAL PROTECTION AND CONTROL
-55.01 Definitions                  55.15 Impounding Costs
-55.02 Animal Neglect               55.16 Pet Awards Prohibited
-55.03 Livestock Neglect            55.17 Tampering With A Rabies Vaccination
+55.01 Definitions                  55.16 Pet Awards Prohibited
+55.02 Animal Neglect               55.17 Tampering With A Rabies Vaccination
                                    Tag
-55.04 Abandonment of Cats and Dogs 55.18 Tampering With An Electronic Handling
+55.03 Livestock Neglect            55.18 Tampering With An Electronic Handling
                                    Device
-55.05 Livestock                    55.19 Animal Control Officer
-55.06 At Large Prohibited          55.20 Wild or Vicious Animals
-55.07 Damage or Interference       55.21 Apprehension and Impoundage
-55.08 Annoyance or Disturbance     55.22 Parents’ Liability
-55.09 Vicious Dogs                 55.23 Nuisance by Animal
-55.10 Rabies Vaccination           55.24 Manner of Keeping
-55.11 Owner’s Duty               55.25 Bees
-55.12 Confinement                  55.26 Kennels
-55.13 At Large: Impoundment        55.27 Hunting and Trapping
-55.14 Disposition of Animals       55.28 Authority of Police Officers
+55.04 Abandonment of Cats and Dogs 55.19 Animal Control Officer
+55.05 Livestock                    55.20 Wild or Vicious Animals
+55.06 At Large Prohibited          55.21 Apprehension and Impoundage
+55.07 Damage or Interference       55.22 Parents’ Liability
+55.08 Annoyance or Disturbance     55.23 Nuisance by Animal
+55.09 Vicious Dogs                 55.24 Manner of Keeping
+55.10 Rabies Vaccination           55.25 Bees
+55.11 Owner’s Duty               55.26 Kennels
+55.12 Confinement                  55.27 Hunting and Trapping
+55.13 At Large: Impoundment        55.28 Authority of Police Officers
+55.14 Disposition of Animals       55.29 Urban Chickens
+55.15 Impounding Costs
  
 55.01   DEFINITIONS.
 The following terms are defined for use in this chapter.
@@ -4361,10 +4414,9 @@ veterinary hospital or kennel.
    B.   A recruitment for employment or membership in an organization.
    C.   A solicitation to make an investment.
    D.   An amusement or entertainment activity.
-6.   “Commercial establishment” means an animal shelter, boarding kennel,
-commercial breeder, commercial kennel, dealer, pet shop, pound, public auction,
-or research facility.
-(Code of Iowa, Sec. 717.B1)
+6.   “Chicken” means a member of the subspecies Gallus gallus domesticus, a
+domesticated fowl.
+(Subsection 6 – Ord._852 – Sep. 25 Supp.)
 7.   “Dog kennel” means a place of business where dogs are sold, bred, raised,
 or kept for the purpose of resale, training, or teaching, and which business is
 done commercially and for profit, or as a hobby; provided, however, this shall
@@ -4388,10 +4440,12 @@ the loss of an animal’s limb or organ.
 (Code of Iowa, Sec. 717.B1)
 11.   “Livestock” means an animal belonging to the bovine, caprine, equine,
 ovine or porcine species, ostriches, rheas, and emus; farm deer (as defined in
-Section 170.1 of the Code of Iowa); or poultry.
-(Code of Iowa, Sec. 717.1)
+Section 170.1 of the Code of Iowa; or fowl excluding urban chickens.
+(Subsection 11 – Ord._852 – Sep. 25 Supp.)
 12.   “Number of animals” means any person shall not own, keep, possess,
-shelter or harbor more than a total of four animals per street address.
+shelter or harbor more four animals (non-urban chickens) and four urban
+chickens per street address for a maximum total of eight animals.
+(Subsection 12 – Ord._852 – Sep. 25 Supp.)
 13.   “Owner” means any person owning, keeping, sheltering, or harboring an
 animal.
 14.   “Pet” means a living dog, cat, or an animal normally maintained in a
@@ -4414,9 +4468,12 @@ concerning the structure or function of living organisms, the cause,
 prevention, control, or cure of diseases or abnormal conditions of human beings
 or animals.
 (Code of Iowa, Sec. 162.2)
-17.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169 of
+17.   “Urban chickens” means a chicken permitted to be kept within the City
+limits under this chapter.
+(Subsection 17 – Ord._852 – Sep. 25 Supp.)
+18.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169 of
 the Code of Iowa who practices veterinary medicine in the State.
-(Code of Iowa, Sec. 717.B1)
+(Subsection 18 – Ord._852 – Sep. 25 Supp.)
 55.02   ANIMAL NEGLECT.
 1.   It is unlawful for a person who owns or has custody of an animal and
 confines that animal to fail to provide the animal with any of the following
@@ -4502,9 +4559,9 @@ person does not hold a legal or equitable interest, if previously the person
 had taken custody of the cat at the same location and provided for the cat’s
 sterilization by a veterinarian.
 55.05   LIVESTOCK.
-It is unlawful for a person to keep livestock within the City except by written
-consent of the Council or except in compliance with the City’s zoning
-regulations.
+It is unlawful for a person to keep livestock within the City except in
+compliance with the City’s zoning regulations.
+(Section 55.05 – Ord._852 – Sep. 25 Supp.)
 55.06   AT LARGE PROHIBITED.
 It is unlawful for any owner to allow an animal to run at large within the
 corporate limits of the City.
@@ -4525,7 +4582,10 @@ automobiles, or other vehicles.
 It is unlawful for any person to harbor or keep a vicious dog within the City.
 A dog is deemed to be vicious when it has attacked or bitten any person without
 provocation, or when propensity to attack or bite persons exists and is known
-or ought reasonably to be known to the owner.
+or out reasonable to be know to the owner. A dog causing the death of a chicken
+which is off the permitted tract of land shall not, for that reason alone, be
+considered a dangerous or aggressive animal.
+(Section 55.09 – Ord._852 – Sep. 25 Supp.)
 55.10   RABIES VACCINATION.
 Every owner of a dog shall obtain a rabies vaccination for such animal. It is
 unlawful for any person to own or have a dog in said person’s possession, six
@@ -4729,6 +4789,20 @@ hour period.
 Any duly sworn police officer of the City is hereby authorized to discharge his
 or her weapon and kill any dangerous, maimed, or otherwise diseased animals of
 any kind.
+55.29   URBAN CHICKENS.
+1.   Chickens may be kept on a single-family residential (R-1) or rural
+residential (RR) zoned properties where a single-family dwelling exits.
+2.   Only female chickens (hens) are permitted.
+3.   Chickens must be kept in an enclosure or fenced area at all times.
+Chickens shall be secured within a henhouse or chicken tractor during non-
+daylight hours. Chickens may be kept in the rear yard only.
+4.   No portion of an enclosure for chickens shall be located closer than ten
+feet (10’) from a property line or twenty-five feet (25’) from any adjacent
+residential dwlling, church, school or place of business.
+5.   No person shall slaughter any chickens within the City.
+6.   It shall be unlawful for any person to keep chickens in violation of any
+provision of this chapter or any other provision of this Code.
+(Section 55.29 – Ord._852 – Sep. 25 Supp.)
 CHAPTER 56
 DOG AND CAT LICENSE REQUIRED
  
@@ -6580,22 +6654,76 @@ law.
 CHAPTER 76
 BICYCLES AND OTHER NON-MOTORIZED SELF-PROPELLED VEHICLES
  
-76.01 Scope of Regulations 76.04 Equipment Requirements
-76.02 Movement Regulations 76.05 Skateboards, Sleds, Roller Skates, Scooters,
-                           etc.
-76.03 Parking              76.06 Enforcement
+76.01 Scope of Regulations 76.06 Parking
+76.02 Purpose              76.07 Equipment Requirements
+76.03 Definitions          76.08 Skateboards, Sleds, Roller Skates, Scooters,
+                           Etc.
+76.04 Trail Rules          76.09 Enforcement
+76.05 Movement Regulations
  
 76.01   SCOPE OF REGULATIONS.
 These regulations, applicable to bicycles and other non-motorized, self-
 propelled vehicles, except recognized emergency vehicles (see Sec. 321.231 of
 the Code of Iowa, as amended) apply whenever such vehicle is operated upon any
 public right-of-way, subject to those exceptions stated herein.
-76.02   MOVEMENT REGULATIONS.
+76.02   PURPOSE.
+The trail system is intended for the activities of individuals and permitted
+groups for recreation, transportation, fitness and other similar purposes using
+human powered or power assisted propulsion. Activities using powered equipment
+are to be permitted by the unit of government given authority to issue permits.
+Individuals with disabilities are allowed to use ADA compliant power assisted
+devices intended for personal transport on trails. The intent of this ordinance
+is to establish consistent rules and regulations for trail use. The rules set
+forth herein are a supplement to any existing State of Iowa vehicle codes or
+other applicable federal, State, or local rules and regulation pertaining to
+trail use. The intent of this ordinance is to establish consistent rules and
+regulations for trail use. The rules set forth herein are a supplement to any
+existing State of Iowa vehicle codes or other applicable federal, State, or
+local rules and regulation pertaining to trail use.
+76.03   DEFINITIONS.
+1.   Trail – For the purposes of this ordinance “trail” is a multi-use trail,
+side path or shared use path defined by the American Association of State
+Highway and Transportation Officials (AASHTO) as: a bikeway physically
+separated from motorized vehicular traffic by an open space or barrier and
+either within the highway right-of-way or on other public property or within an
+easement dedicated for public use. These facilities may also be used by
+pedestrians, skaters, wheelchair users, joggers, and other non-motorized users.
+Minimum trail width for bike usage is 8 feet.
+2.   Electric scooter – A device weighing less than one hundred pounds that is
+equipped with two or three wheels, handlebars, and an electric motor, and which
+is solely powered by the rider or by an electric motor capable of propelling
+the device without additional propulsion supplied by the rider, at a maximum
+speed on a paved level surface of no more than twenty miles per hour, or both.
+3.   Compliant vehicle – Human powered devices no wider than four feet with the
+exception of equipment approved by the governing agency for use to maintain the
+trail, provide for public safety, or specially permitted for use by the
+governing agency responsible for the trail, including electric scooters. Class
+1 , 2, and 3 electric bikes are considered compliant.
+   Class 1: An electric bicycle that only provides assistance when the rider is
+pedaling; the motor ceases at 20 miles per hour (mph).
+   Class 2: An electric bicycle that provides assistance regardless of whether
+the rider is pedealing; the motor ceases at 20 mph.
+   Class 3: An electric bicycle that provides assistance only when the rider is
+pedaling; the motor ceases at 28 mph.
+76.04   TRAIL RULES.
+Rules users of the trails shall not:
+1.   Travel at a rate of speed that is greater than reasonable and prudent.
+2.   Use the trail in a negligent manner that is likely to endanger persons or
+property. Trail user shall use common courtesy and respect the rights and
+safety of others. The applicable State regulations regarding the equipment
+required to allow the safe operation of bicycles or other wheeled vehicles
+during the times of the day when natural light is diminished shall be applied
+to the trails subject to this ordinance.
+3.   Litter, leave animal waste, or discard any other items along or near the
+trail.
+4.   Operate any vehicle other than a compliant vehicle as previously defined
+in this ordinance.
+76.05   MOVEMENT REGULATIONS.
 1.   Traffic Code Applies to Persons Riding Bicycles. Every person riding a
 bicycle upon a roadway shall be granted all of the rights and will be subject
 to all of the duties applicable to the driver of a vehicle by the laws of the
 State declaring rules of the road applicable to the driver of a vehicle, except
-as to those provisions which by their nature can have no application. Whenever
+as to those provisions which by their nature can have application. Whenever
 such person dismounts from a bicycle, they shall be subject to all regulations
 applicable to pedestrians.
 2.   Riding on Bicycles. A person propelling a bicycle shall not ride other
@@ -6613,20 +6741,21 @@ reasonable and prudent under the conditions then existing.
 6.   Emerging from Alley or Driveway. The operators of a bicycle emerging from
 an alley, driveway, or building shall, upon approaching a sidewalk area
 extending across any alleyway, yield the right-of-way to pedestrians
-approaching on said sidewalk or sidewalk area, and upon entering the roadway
-shall yield the right-of-way to all vehicles approaching in said roadway.
+approaching on said sidewalk sidewalk area, , trail, or trail area, and upon
+entering the roadway shall yield the right-of-way to all vehicles approaching
+in said roadway.
 7.   Carrying Articles. No person operating a bicycle shall carry any package,
 bundle, or article which prevents the rider from keeping at least one hand upon
 the handlebars.
-8.   Riding on Sidewalks.
+8.   Riding on Sidewalks or Trail.
    A.   No person shall ride a bicycle upon a sidewalk in the Business
 District, which is that area along Cody Road (U.S. 67) from May Street to
 Walnut Street.
    B.   When signs are erected on any public right-of-way prohibiting the
 riding of bicycles thereon, no person shall do so.
-   C.   Whenever any person is riding a bicycle upon a sidewalk, such person
-shall yield the right-of-way to any pedestrian and shall give an audible signal
-before overtaking and passing.
+   C.   Whenever any person is riding a bicycle upon a sidewalk or trail, such
+person shall yield the right-of-way to any pedestrian and shall give an audible
+signal before overtaking and passing.
 9.   Towing. It is unlawful for any person riding a bicycle to be towed or to
 tow any other vehicle upon the streets of the City, except those commercially
 available vehicles or apparatus so designed for that use.
@@ -6635,12 +6764,12 @@ truck or other fire equipment at any time.
 11.   Improper Riding. No person shall ride a bicycle in an irregular or
 reckless manner such as zigzagging, stunting, speeding, or otherwise, so as to
 disregard the safety of or the operations of others.
-76.03   PARKING.
+76.06   PARKING.
 No person shall park a bicycle upon a street other than upon the roadway
-against the curb, or upon the sidewalk in a rack to support the bicycle, or
-against a building or at the curb, in such manner as to afford the least
-obstruction to pedestrian traffic.
-76.04   EQUIPMENT REQUIREMENTS.
+against the curb, or upon the sidewalk or trail in a rack to support the
+bicycle, or against a building or at the curb, in such manner as to afford the
+least obstruction to pedestrian traffic.
+76.07   EQUIPMENT REQUIREMENTS.
 1.   Lamps Required. Every bicycle, when in use at nighttime, shall be equipped
 with a lamp on the front which shall emit a white light visible from a distance
 of at least 300 feet to the front and with a lamp on the rear exhibiting a red
@@ -6652,27 +6781,21 @@ headlamps on a motor vehicle, may be used in lieu of a rear light.
 2.   Brakes Required. Every bicycle shall be equipped with a brake which will
 enable the operator to make the braked wheel skid on dry, level, or clean
 pavement.
-(Code of Iowa, Sec. 321.236 [10])
-76.05   SKATEBOARDS, SLEDS, ROLLER SKATES, SCOOTERS, ETC.
+(Code of Iowa, Sec. 321.236(10))
+76.08   SKATEBOARDS, SLEDS, ROLLER SKATES, SCOOTERS, ETC.
 Skateboards, sleds, roller skates, scooters, tricycles, and similar self-
 propelled and/or motorized vehicles shall not be used or operated on any U.S.
-Highway right-of-way, any City street or upon any sidewalk or upon any other
-public place where signs have been placed prohibiting such use. The operator of
-such a self-propelled and/or motorized vehicle shall yield the right-of-way to
-pedestrians at all times.
-76.06   ENFORCEMENT.
+Highway right-of-way, any City street or upon any sidewalk or trail where signs
+have been placed prohibiting such use, or upon any other public place where
+signs have been placed prohibiting such use. The operator of such a self-
+propelled and/or motorized vehicle shall yield the right-of-way to pedestrians
+at all times.
+76.09   ENFORCEMENT.
 Upon discovering a violation of any of the provisions of this chapter, police
 officers are encouraged to:
 1.   Issue a verbal warning for the first offense;
-2.   Confiscate the device and then return it only upon the personal request
-and appearance at the Police Department of a parent or legal guardian of the
-offender for the second offense; and
-3.   Issue a citation for the third offense.
-Any device confiscated under the provisions of this chapter, and not claimed
-within six months from the date of confiscation, will automatically be
-forfeited and become the property of the City. Upon discovering a violation of
-any of the provisions of this chapter, any police officer may issue a citation
-for a City violation into County traffic court.
+2.   Issue a citation for a following offense.
+(Chapter 76 – Ord._851 – Sep. 25 Supp.)
 CHAPTER 78
 GOLF CARTS
  
@@ -7957,21 +8080,19 @@ considered a separate and distinct customer whether owned or controlled by the
 same person or not.
 100.02   RATE.
 There shall be and there is hereby established a sewer service charge for the
-use of and for the service supplied by the Municipal Sanitary Swer Utility
-based upon the amount of water used, flat rates, or excess discharges as
+use of and for the service supplied by the Municipal Sanitary Sewer Utility
+based upon the amount of water used, flate rates, or excess discharges as
 follows:
+ 
 Charge Descriptors                     Sewer Service Charges
-Charge Descriptors                     Sewer Service Charges
-Regular metered charge                 $24.75 per user unit
-Eligible senior monthly metered charge $22.15 per user unit
-Depreciation and replacement reserve   $5.50 per user unit (included in base
+Regular metered charge                 $25.74 per user unit
+Eligible senior monthly metered charge $23.04 per user unit
+Depreciation and replacement reserve   $5.72 per user unit (included in base
                                        meter charge)
-Monthly metered usage charge           $2.04/500 gallons (above first 500)
-Non-metered monthly flat rates         $73.87 (flat rate)
-                                       $56.78 (contractor rate)
-Meter activation/Deactivation fee      $48.30 $50.00 per additional meter
-                                       installed
-(Section 100.02 – Ord._841 – Jan. 25 Supp.)
+Monthly metered usage charge           $2.12/500 gallons (above first 500)
+Non-metered monthly flat rates         $76.82 (flat rate)
+                                       $59.05 (contractor rate)
+Meter activation/Deactivation fee      $50.00 per additional meter installed
 1.   “Seniors” means any residential customers of the Sanitary Sewer Utility,
 65 years of age or older, that have registered for said discount at City Hall
 prior to any billing date. (See definition of “eligible senior citizen” for
@@ -8038,9 +8159,10 @@ billing and will remain so until the situation is corrected for those “user
 units” NOT connected to the Municipal Water Supply System who have elected to
 use metered billing where individual private well debris has plugged the City’s
 water meter three or more times during any six-month period.
-14.   “Contractor’s Fees” as shown herein shall be charged to all utility hook-
+14.   “Contractor’s fees” as shown herein shall be charged to all utility hook-
 up applicants commencing upon the completion of the plumbing rough- in
 inspection.
+(Section 100.02 – Ord._853 – Sep. 25 Supp.)
 100.03   CUSTOMER DEPOSITS REQUIRED.
 Customer deposits, covering all services supplied by the City, shall be
 required for each and every service provided to each and every user unit in
@@ -8152,7 +8274,7 @@ assessed for nonpayment.
 100.05   BILLING PROCEDURES AND CHARGES FOR SPECIAL SERVICES.
 Following is a listing of special service charges not associated with actual
 water consumption:
- 
+Description Amount
 Description                              Amount
 Meter service test                       $50.00/test
 Leak test                                $50.00/test
@@ -8160,7 +8282,9 @@ Meter damage charges                     Cost plus $50.00
 NSF check charge                         $30.00
 Building lateral and/or curb stop locate $50.00
 Water shut-off fee                       $46.00 (or contractual rate with IAW)
- 
+Iowa Dept of Administrative Services     $7.00
+(DAS) Collection Fee
+(Section 100.05 – Ord._853 – Sep. 25 Supp.)
 100.06   BILL ADJUSTMENT.
 Adjustments to bills may be made only by the City Administrator or City Council
 to take into account such occurrences as billing errors, meter errors,
@@ -8588,7 +8712,7 @@ No person shall engage in the business of collecting, transporting, processing,
 or disposing of solid waste other than waste produced by that person within the
 City without first obtaining from the City and annual license in accordance
 with the following:
-1.   Application. Application for a solid waste collector’s license shall be
+1.   Application. Application for a Solid Waste Collector’s License shall be
 made to the City and provide the following:
    A.   Name and Address. The full name and address of the applicant, and if a
 corporation, the names and addresses of the officers thereof.
@@ -8607,9 +8731,7 @@ shall further indicate that the City is an “additional insured” under this
 policy and that the insurer will, unconditionally and without exception, notify
 the City no less than 30 days prior to the policy’s expiration and/or
 cancellation date.
-3.   License Fee. A license fee in the amount of $50.00 shall accompany the
-application. In the event the requested license is not granted, the fee paid
-shall be refunded by the City to the applicant.
+3.   License Fee. A license fee in the amount of $100.00.
 4.   License Issued. If the City, upon investigation, finds the application to
 be in order and determines that the applicant will collect, transport, process,
 or dispose of refuse without hazard to the public health or damage to the
@@ -8620,10 +8742,10 @@ the City shall notify the applicant in writing of the reasons for such refusal
 and of the applicant’s right of appeal to the Council. The Council shall
 consider any appeals at its next regular meeting and may affirm, reverse, or
 modify the determination.
-6.   License Renewal. An annual license may be renewed simply upon payment of
-the required fee if operated in substantially the same manner as provided in
-the original application and by providing the City with a current listing of
-vehicles, equipment, and facilities in use.
+6.   License Renewal. The annual license may be renewed simply upon payment of
+the required $100.00 license fee if operated in substantially the same manner
+as provided in the original application and by providing the City with a
+current listing of vehicles, equipment and facilities in use.
 7.   Owner May Transport. Nothing herein is to be construed so as to prevent
 the owner from transporting solid waste accumulating upon premises owned,
 occupied or used by such owner, provided such refuse is disposed of properly in
@@ -8635,6 +8757,7 @@ in tight vehicles, trucks or receptacles so constructed and maintained that
 none of the material being transported spills upon any public right-of-way.
 9.   License Not Transferable. No license authorized by this chapter may be
 transferred to another person.
+(Section 106.06 – Ord._854 – Sep. 25 Supp.)
 106.07   COLLECTION FEES.
 1.   All residential premises located within the corporate limits of this City
 shall be serviced only by licensed garbage and trash collection contractors
@@ -8655,10 +8778,10 @@ more units that can verify that they will be utilizing the services of a City-
 licensed contractor.
 4.   In consideration for the collection and disposal services provided to the
 residential premises located in the City, the following rates shall apply:
-   A.   Regular residential rate:   $17.00/month
-   B.   Senior citizens† 7 :   $16.00/month
+   A.   Regular residential rate:   $18.00/month
+   B.   Senior citizens† 7 :   $17.00/month
    C.   Commercial establishment using residential services (without
-dumpster)   $17.00/month
+dumpster)   $18.00/month
 5.   The above-listed charges are calculated on a once per week pickup basis.
 Any other number of pickups per week will be billed according to the above-
 listed rates times the number of weekly pickups.
@@ -8685,11 +8808,13 @@ not be changed back to the tenant until the deposit and/or bill has been paid
 in full.
 10.   If a residential service has sewer billed to the premises, the garbage
 charge cannot be billed separately.
+(Section 106.07 – Ord._854 – Sep. 25 Supp.)
  
 Notes
-  † EDITOR’S NOTE: See section 95.01(11) for the definition of “eligible senior
-7 citizen” and Section 100.02 for the applicable conditions and requirements to be
-  eligible for this billing status.
+  † EDITOR’S NOTE: See Section
+7 95.01(11) for the definition of “eligible senior citizen” and Section
+  100.02 for the applicable conditions and requirements to be eligible for this
+  billing status.
 106.08   LIEN FOR NONPAYMENT.
 Except as provided for in Section
 100.08 of this Code of Ordinances, the owner of the premises served, and any
@@ -9690,22 +9815,24 @@ permit to the Alcoholic Beverages Division of the Department of Commerce within
 (Code of Iowa, Sec. 453A.22)
 CHAPTER 122
 PEDDLERS, SOLICITORS, AND TRANSIENT MERCHANTS
-122.01 Purpose                  122.11 Time Restriction
-122.02 Applicability            122.12 Revocation of License
-122.03 Definitions              122.13 Hearing
-122.04 License Required         122.14 Record and Determination
-122.05 Application for License  122.15 Appeal
-122.06 License Fees             122.16 Effect of Revocation
-122.07 Bond Required            122.17 License Exemptions
-122.08 License Issued           122.18 Charitable, Nonprofit, and Local Civic
-                                Organizations Requirements
-122.09 Display of License       122.19 Use of Public Property Prohibited
+122.01 Purpose                     122.11 Time Restriction
+122.02 Applicability               122.12 Revocation of License
+122.03 Definitions                 122.13 Hearing
+122.04 License Required            122.14 Record and Determination
+122.05 Application for License     122.15 Appeal
+122.06 License Fees                122.16 Effect of Revocation
+122.07 Insurance & Indemnification 122.17 License Exemptions
+Required
+122.08 License Issued              122.18 Charitable, Nonprofit, and Local
+                                   Civic Organizations Requirements
+122.09 Display of License          122.19 Use of Public Property Prohibited
 122.10 License Not Transferable
  
 122.01   PURPOSE.
 The purpose of this chapter is to protect residents of the City against fraud,
 unfair competition, and intrusion into the privacy of their homes by licensing
 and regulating peddlers, solicitors, and transient merchants.
+(Section 122.01 – Ord._855 – Sep. 25 Supp.)
 122.02   APPLICABILITY.
 The provisions of this chapter are only applicable to those peddlers,
 solicitors and transient merchants who are not part of a recognized and
@@ -9785,10 +9912,12 @@ period or any portion thereof longer than one calendar day)
 than one calendar week.
    D.   For not more than one calendar year or any portion thereof longer than
 six calendar months.
-122.07   BOND REQUIRED.
+122.07   INSURANCE & INDEMNIFICATION REQUIRED.
 Prior to the issuance of any license, the applicant will submit to the City a
-surety bond as specified and required by Chapter 9C of the Code of Iowa, as
-amended.
+proof of liability insurance naming the City as an additional insured in an
+amount no less than $1,000,000 and a City Hold-Harmless, Waiver of Liability,
+and Indemnification Agreement.
+(Section 122.07 – Ord._855 – Sep. 25 Supp.)
 122.08   LICENSE ISSUED.
 If, not less than five working days after the submittal of the application, the
 City Administrator finds the application is completed in conformance with the
@@ -9876,10 +10005,11 @@ exclusively by a person under the age of 18, operated on an occasional basis
 for no more than 89 calendar days in a calendar year.
 (Code of Iowa, Sec. 364.3[15])
 9.   Individual peddlers, solicitors, and transient merchants who are
-conducting business within the public vending areas identified in
+conducting business in accordance with City Code
 Chapter 123 shall conform to all of the limitations and requirements identified
 in
 Chapter 123.
+(Section 122.17 – Ord._855 – Sep. 25 Supp.)
 122.18   CHARITABLE, NONPROFIT, AND LOCAL CIVIC ORGANIZATIONS REQUIREMENTS.
 “Local Civic organizations” defined as those recognized organizations domiciled
 within the corporate City limits, holding a “non-profit” or “not-for-profit”
@@ -12357,71 +12487,555 @@ time of the year, except one hour after sunrise and one hour before sunset.
 6.   Existing Buildings. Nothing in this section shall be deemed to require the
 demolition or alteration of any existing building.
 CHAPTER 159
-FIRE SUPPRESSION APPLIANCES
+FIRE SUPPRESSION APPLIANCES AND FIRE CODE
  
-159.01 Sprinkler and Standpipe Systems 159.02 Fire Hydrants
+159.01 International Fire Code Adopted 159.02 Amendments
  
-159.01   SPRINKLER AND STANDPIPE SYSTEMS.
-Sprinkler and standpipe systems will be installed in accordance with the
-provisions of the various building and fire codes covering these appliances.
-The Building Inspector and the Fire Chief will determine the need for and
-monitor and approve the installation of these appliances.
-159.02   FIRE HYDRANTS.
-1.   All fire hydrants erected within the public right-of-way or on immediately
+159.01   INTERNATIONAL FIRE CODE ADOPTED.
+That a certain document, one (1) copy of which is on file in the office of the
+City Clerk of the City of Leclaire, being marked and designated as the
+International Fire Code, 2021 Edition, including errata and Appendix Chapters
+B, C, D, E, F, G, H, I, K and N as published by the International Code Council,
+be and is hereby adopted as the Fire Code of the City of LeClaire, in the State
+of Iowa regulating and governing the safeguarding of life and property from
+fire and explosion hazards arising from the storage, handling and use of
+hazardous substances, materials and devices, and from conditions hazardous to
+life or property in the occupancy of buildings and premises as herein provided,
+providing for the issuance of permits and each, and all of the regulations,
+provisions, penalties, conditions and terms of said Fire Code on file in the
+office of the City Clerk are hereby referred to, adopted and made a part
+hereof, as if fully set out in this ordinance, with the additions, insertions,
+deletions and changes, prescribed in the following sections of this ordinance.
+159.02   AMENDMENTS.
+The International Fire Code, 2021 Edition is amended as follows:
+1.   Section [A] 102.7 Referenced Codes and Standards shall be amended as
+follows:Section [A] 102.7 Referenced Codes and Standards.
+   All references throughout the International Fire Code to the International
+Building Code shall refer to the building code as adopted elsewhere in the City
+Code.
+   All references throughout the International Fire Code to the International
+Residential Code shall refer to the residential code as adopted elsewhere in
+the City Code.
+   All references throughout the International Fire Code to the International
+Property Maintenance Code shall refer to the building code as adopted elsewhere
+in the City Code.
+   All references throughout the International Fire Code to the International
+Mechanical Code shall refer to the mechanical code as adopted elsewhere in the
+City Code.
+   All references to the International Plumbing Code shall refer to the
+plumbing code as adopted elsewhere in the City Code.
+   All references to the ICC Electrical Code shall refer to the electrical code
+as adopted elsewhere in the City Code.
+2.   Section [A] 101.1 Title is amended by inserting ‘the City of LeClaire’ in
+place of [NAME OF JURISDICTION].
+3.   Section [A] 101.2.1 Appendices shall be deleted and replaced as follows:
+   [A] 101.2.1 Appendices. Appendices B, C, D, E, F, G, H, I, K and N are
+specifically adopted by the City of LeClaire with amendments as noted in the
+municipal Code.
+4.   Section [A] 103.1 Creation of agency shall be amended by inserting
+‘LeClaire Fire Department’ in place of [INSERT NAME OF DEPARTMENT].
+5.   Section 104 Authority at fires and other emergencies shall be amended by
+addition of the following section:
+   104.12.4 Evacuation. The Fire Code Official is authorized to order an
+operation or use stopped, or the evacuation of any premises, building, or
+vehicle or portion thereof which has or is a fire, life safety or health
+hazard.
+6.   Section [A] 105.2 Application shall be amended by addition of the
+following section:
+   [A] 105.2 (a) Permit. A permit application will need to be completed and
+submitted along with Commented [SB1]: Review permit process with City Hall and
+Scott County the applicable permit fee to the City of LeClaire for installation
+of the appropriate system. Permit application forms and information are
+available at LeClaire City Hall located at 325 Wisconsin Street or at the City
+of LeClaire website.
+7.   Section 105.5 Required Operational Permits shall be amended by addition of
+the following sentence: The Fire Code Official at their discretion shall send
+plans for an operational permit request to an outside agency for review. The
+Fire Code Official shall choose the plans review agency. The applicant shall
+pay all fees associated with the plan review directly to the outside agency.
+The permit shall not be issued until the review fees have been paid.
+8.   Section [A] 105.6 Required Construction Permits shall be amended by
+addition of the following sentence: The Fire Code Official at their discretion
+shall send plans for a construction permit request to an outside agency for
+review. The Fire Code Official shall choose the plans review agency. The
+applicant shall pay all fees associated with the plan review directly to the
+outside agency. The permit shall not be issued until the review fees have been
+paid.
+9.   Section [A] 111.1 Board of Appeals Established shall be deleted and
+replaced as follows:
+   [A] 111.1 Board of Appeals Established. See Section
+170.34 Board of Adjustment of the City of LeClaire Municipal Code for Board of
+Appeals process.
+10.   Section [A] 112.4 Violation penalties shall be deleted (note: Subsection
+[A] 112.4.1 shall not be deleted) and replaced as follows:
+   [A] 112.4 Violation Penalties. Any person who shall violate any of the
+provisions of this Code hereby adopted or fail to comply therewith, or who
+shall violate or fail to comply with any order made thereunder, or who shall
+build in violation of any detailed statement of specifications or plans
+submitted and approved thereunder, or any certificate or permit issued
+thereunder and from which no appeal has been taken or who shall fail to comply
+with such order as affirmed or modified by any court of competent jurisdiction,
+within the time fixed herein, shall severally for each and every such violation
+be guilty of a municipal infraction. The imposition of one penalty for any
+violation shall not permit it to continue; and all such persons shall be
+required to correct or remedy such violations or defects within a reasonable
+time; and when not specified, each day that prohibited conditions are
+maintained shall constitute a separate offense.
+11.   Section 202 GENERAL DEFINITIONS shall be amended by addition of the
+following definition:
+   CROWD MANAGER. Crowd Manager is responsible for safe crowd movement during
+daily activities and special events, means of egress, assisting venue
+occupants, and overseeing emergency response and evacuation plans.
+12.   Section [M] COMMERCIAL COOKING APPLIANCES shall be deleted and replaced
+as follows:
+   [M] COMMERCIAL COOKING APPLIANCES. Appliances used in a commercial food
+service establishment for heating or cooking food, and which produce grease
+vapors, steam, fumes, smoke, or odors that are required to be removed through a
+local exhaust ventilation system. Such appliances include deep fat fryers;
+upright broilers; griddles; broilers; steam-jacketed kettles; hot­ top ranges;
+under-fired broilers (Char broilers); ovens; barbecues; rotisseries;
+residential stoves/ovens and similar appliances. For the purpose of this
+definition, a food service establishment shall include any commercial building
+or portion thereof used for the preparation and serving of food including for
+employees.
+13.   Section 307.2 Permit Required shall be deleted and replaced as follows:
+   307.2 Permit Required. Open burning shall be conducted in accordance with
+Section 307 and its subsections and with Sections
+105.05 of the City of LeClaire municipal Code. Open burning shall also be
+conducted as required by other governmental agencies regulating emissions.
+Application for such approval shall only be presented by and issued to the
+owner of the land upon which the fire is to be kindled.
+14.   Section 307.4 Location shall be amended by addition of the following
+section:
+   307.4.4 Permanent Outdoor Fire Pits or Fire Feature Devices. Fire pits shall
+comply with all the following restrictions:
+   1.   The fire pit must be in an approved location at least fifteen (15) feet
+from a structure.
+   2.   If the building is equipped with fire sprinklers and there is an
+overhang in the area where the firepit is being used, then the overhang must
+have horizontal sidewall sprinkler protection.
+   3.   There must be an emergency stop button installed within fifteen (15)
+feet (line of sight) to disconnect the fuel gas in the event of an emergency.
+   4.   The emergency shut off must be labeled using a weatherproof sign with
+letters on a contrasting background.
+   5.   Solid fuels are strictly prohibited for fire pits and fire feature
+devices.
+   Exception: Fire pits and fire features used at one- and two-family
+dwellings.
+15.   Section 405.3 Frequency shall be amended by addition of the following
+section:
+   405.3.1 Drills in Group E. Fire and evacuation drills in Group E occupancies
+shall be conducted in accordance with Section 100.31 of the Iowa Administrative
+Code. Emergency evacuation/fire drills shall be conducted at least four (4)
+times a year. Not less than two (2) drills shall be conducted between July 1
+and December 31 each year and not less than two (2) drills shall be conducted
+between January 1 and June 30 of each year.
+16.   Section 405.3 Frequency Table 405.3 shall be amended by addition of the
+following footnote:
+   d. Group E occupancies shall conduct fire and evacuation drills in
+accordance with Section 405.3.1.
+17.   Section 505.1 Address Identification shall be deleted and replaced as
+follows:
+   New and existing buildings shall provide approved address identification.
+The address identification shall be legible and placed in a position that is
+visible from the street or road fronting the property. Address identification
+characters shall contrast with their background. Address numbers shall be
+Arabic numbers or alphabetical letters. Numbers shall not be spelled out. Each
+character shall be not less than 4 inches (102 mm) high with a minimum stroke
+width of 1/2 inch (12.7 mm). Where required by the Fire Code Official, address
+identification shall be provided in additional approved locations to facilitate
+emergency response. Where access is by means of a private road and the building
+cannot be viewed from the public way, a monument, pole or other sign or means
+shall be used to identify the structure. Address identification shall be
+maintained.
+18.   Section 507.5.1.1 Hydrant for Standpipe Systems shall be deleted and
+replaced as follows:
+   507.5.1.1 Hydrant for Standpipe Systems and/or Fire Department Connections.
+Buildings equipped with a standpipe and/or a Fire Department connection
+installed in accordance with Section 912 shall have a fire hydrant located on a
+fire access road within one hundred (100) feet (30 m) of the Fire Department
+connection as measured by an approved route around the exterior of the
+building.
+Exception: The distance shall be permitted to exceed one hundred (100) feet (30
+m) where approved by the Fire Code Official.
+19.   Addition (New footnote to be added to IFC) Section 507.5 Fire Hydrant
+Systems.
+All fire hydrants erected within the public right-of-way or on immediately
 adjacent easements, for the purpose of extinguishing fires, are hereby declared
 to be public fire hydrants. No person or persons, except members of the Fire
-Department acting in an official capacity or water department personnel, or
+Department acting in an official capacity or Water Department personnel, or
 other persons that have been specifically authorized by the City and/or
 Company, and then only in the exercise of authority delegated by the City and/
 or Company, shall open any of said fire hydrants, or attempt to uncover or
-remove any protection from, or in any manner tamper with any of said fire
+remove any protection from, or in any manner tamper or alter any of said fire
 hydrants.
-2.   Public fire hydrants shall be installed at such time as any public water
-main is extended for a distance of 400 feet or more, or a water main is
-replaced and there is no hydrant within 400 feet in either direction. There
-shall be no more than 400 feet in travel distance between each public fire
-hydrant.
-3.   All fire hydrants erected outside of the public right-of-way or outside of
-immediately adjacent easements, for the purpose of extinguishing fires, are
-hereby declared to be private, on-site fire hydrants. No person or persons,
-except members of the Fire Department acting in an official capacity or
-designated representatives of the property owner of the property upon which the
-private, on-site fire hydrants are located, shall open, or operate any of said
-fire hydrants or attempt to uncover, or remove any protection from or in any
-manner tamper with any fire hydrant. Private, on-site fire hydrants will not be
-opened or operated for any reason by any person except for the purposes of
-testing or extinguishing fires and then only at the direction of the Fire Chief
-or a representative of the Company.
-4.   The City may require private, on-site, fire hydrants and water mains
-capable of supplying adequate/required fire flows when any portion of any
-structure is more than 150 feet from a public fire hydrant on a public street
-or when such conditions exist as are outlined in item Subsection 5 below. The
-need for, location, material specifications, and number of private, on-site
-fire hydrants will be determined by the City. In making these determinations,
-such factors as the following will be considered by the City: (i) the Fire
-Chief’s recommendations relative to the Fire Department’s abilities and
-equipment status, (ii) the relative severity of a probable fire and the
-rapidity with which it may spread, (iii) especially hazardous occupancies, or
-special hazards that may exist in addition to the normal hazard of the
-occupancy, (iv) the suitability for use and ease of access to public fire
-hydrants, and (v) changes in use, occupancy, or configuration of a structure
-where such changes cause an increase in the hazards associated with said
-structure.
-5.   All public fire hydrant material specifications, positioning,
-construction, and maintenance will be the responsibility of the Company.
-6.   The construction, maintenance, and testing of private, on-site fire
-hydrants will be the responsibility of the property owner upon whose property
-the fire hydrants are located.
-7.   Fire hydrants shall be installed at a minimum of 18 inches from the
-nominal ground level to the center of the lowest water outlet.
-8.   Fire hydrants shall be positioned so the four- and one-half inch
-connection is facing the street or driveway accessible to the Fire Department.
-9.   No fire hydrant shall be installed on a water main less than six inches in
-diameter. Water mains shall be appropriately sized and installed to provide the
-required water flow for hydrant supplied by it.
-10.   A four-foot clear space around the circumference of a hydrant and a clear
-path of visibility from the hydrant to the road shall be maintained, except as
-otherwise required or approved.
+20.   Section 507.5.3 Private Fire Service Mains and Water Tanks shall be
+amended by addition of the following footnote:
+   4. All private fire hydrants must be painted red in color.
+21.   Section 507.5 Fire hydrant systems shall be amended by addition of the
+following sections:
+   507.5.7 Fire Hydrant Height. Fire hydrants shall be installed a minimum of
+eighteen (18) inches from the nominal ground level to the center of the lowest
+water outlet.
+   507.5.8 Fire Hydrant Outlet Direction. All fire hydrants shall be positioned
+so that the four and one­half (4½") inch connection is facing the street or
+driveway accessible to the fire department apparatus.
+   507.5.9 Fire Hydrant Threads. All fire hydrants within the City of LeClaire
+and within Scott County Benefited Fire District No. 1 shall have National
+Standard Threads (NST).
+   507.5.10 Size of Main. No fire hydrant shall be installed on a water main
+less than six inches in diameter. Water mains shall be appropriately sized and
+installed to provide the required water flow for hydrant supplied by it.
+   507.5.11 Distance Between Hydrants. Public fire hydrants shall be installed
+at such time as any public water main is extended for a distance of 400 feet or
+more, or a water main is replaced and there is no hydrant within 400 feet in
+either direction. There shall be no more than 400 feet in travel distance
+between each public fire hydrant.
+   507.5.12 Flow. The minimum flow requirement for a water main serving a fire
+hydrant is the rate of water flow, at a residual pressure of twenty (20) pounds
+per square inch (20 psi) and for a specified duration, as specified in Appendix
+B of this Code.
+22.   Section 901.2 Construction Documents shall be amended by addition of the
+following sections:
+   901.2 (a) Water Based Protection Systems. Water based fire protection
+systems. A qualified person shall have a minimum National Institute for
+Certification in Engineering Technologies [NICET] Level III certification for
+Water Based Systems Layout OR be a Professional Licensed Engineer with
+experience in life safety system design. The designer must also be licensed
+with the State of Iowa Department of Inspections, Appeals & Licensing.
+   Submittals must include an electronic (pdf) version of the design,
+specifications, cut sheets and hydraulic calculations to the LeClaire Fire
+Department. One (1) full size set of the drawing must also be sent to the
+LeClaire Department located at 201 N 15th St, LeClaire, IA 52753 for review.
+Both sets of drawings must be stamped and signed by the submitter.
+   901.2 (b) Fire Alarm Systems. A qualified person shall have a minimum
+National Institute for Certification in Engineering Technologies [NICET] Level
+III certification for Fire Alarm Systems OR be a Professional Licensed Engineer
+with experience in life safety system design. The designer must also be
+licensed with the State of Iowa Department of Inspections, Appeals & Licensing.
+Submittals must include an electronic (pdt) version of the drawing along with
+wiring/device specifications and voltage drop calculations to the LeClaire Fire
+Department. One (1) full size set of the drawing must also be sent to the
+LeClaire Fire Department located at 201 N 15th St, LeClaire, IA 52753 for
+review. Both sets of drawings must be stamped and signed by the submitter.
+23.   Section 901.4.6 Appearance of equipment shall be amended by addition of
+the following section:
+   901.4.6.1 Fire Sprinkler Riser Room. A fire sprinkler riser room shall be
+separated from the electrical room. The riser room shall have no electrical
+panels, devices, or apparatus inside the room other than the outlets or support
+equipment (lighting, air compressor, and heater) required for the use of the
+fire sprinkler system and/or the fire alarm panel. The sprinkler riser room
+shall not be exclusively accessed from the electrical room, but the electrical
+room may be accessed from the riser room. Emergency lighting shall be provided
+in the fire pump room or automatic sprinkler riser room.
+24.   Section 901.4.7.3 Environment shall be amended by addition of the
+following sentence:
+   The fire pump room or automatic sprinkler riser room shall have a supervised
+room temperature sensor.
+25.   Section 901.6.3 Records shall be amended by addition of the following
+section:
+   901.6.3.2 Records Management. Inspection record submission. Contractors who
+perform installation, inspection, testing, and/or maintenance services on fire
+and life safety systems are required to electronically submit all installation
+and compliant & non-compliant inspection reports to the Fire Department’s 3rd
+party compliance management platform approved by the Fire Code Official within
+thirty (30) calendar days of the installation/inspection date. Reports
+submitted after thirty (30) calendar days may incur late fees.
+26.   903.2.8 Group R. shall be deleted and replaced as follows:
+   An automatic sprinkler system shall be provided throughout all buildings
+with a Group R fire area with the exception of; one and two family homes and
+townhouses with four or less units. All automatic sprinkler systems shall be
+installed in accordance with Sections 903.3.
+27.   Section 903.3.1.2.1 Balconies and Decks shall be deleted and replaced as
+follows:
+   903.3.1.2.1 Group R Balconies and Decks. Sprinkler protection shall be
+provided for all exterior balconies, decks, and ground floor patios of dwelling
+units where the building is required to have a fire sprinkler system installed.
+Sidewall sprinklers that are used to protect such areas shall be permitted to
+be located such that their deflectors are within one (1) inch to six (6) inches
+below the structural members and a maximum distance of fourteen (14) inches
+below the deck of the exterior balconies and decks.
+28.   Section 903.3.1.2 NFPA 13R Sprinkler Systems shall be amended by addition
+of the following section:
+   903.3.1.2.4 Fire Sprinklers for Canopies. A canopy covering a door that is
+required to be marked as an exit shall be required to have fire sprinklers
+installed outside that door if the canopy extends more than four (4) feet out
+from the door and is twelve (12) feet or less in height from the ground
+regardless of whether the canopy is combustible or non-combustible. Canopies
+that have vehicle access under them with door openings shall be required to
+have fire sprinklers installed under the total canopy regardless of whether the
+canopy is combustible or non-combustible.
+29.   SECTION 903 AUTOMATIC SPRINKLER SYSTEMS shall be amended by addition of
+the following section:
+   903.7 Sprinkler Zones. Automatic sprinkler system zones shall not exceed the
+area permitted by NFPA 13 or NFPA 13R and shall provide a sprinkler control
+valve and waterflow device for each normally occupied floor. The location of
+sprinkler control valves must be approved by the Fire Code Official.
+30.   Section 904.13.2 System Interconnection shall be amended by addition of
+the following section:
+   904.13.2 (a) Ventilation Operation. The ventilation system shall shut down
+the make-up air to the hood and continue to exhaust upon activation of the hood
+fire extinguishing system. Supply air openings other than part of the hood
+system shall be a minimum of six (6) feet from any part of a Type 1 Hood.
+Supply air openings closer than 6 feet must shut down upon activation of the
+extinguishing system.
+31.   Section 905.1 General shall be deleted and replaced as follows:
+   905.1 General. Standpipe systems shall be provided in new buildings and
+structures in accordance with Sections 905.2 through 905.12. In buildings used
+for high-piled combustible storage, fire protection shall be in accordance with
+Chapter 32. For the purposes of this Section 905 “Standpipe Systems,” Sections
+905.3.1 through 905.6.2 shall be amended by deleting all references to Class II
+and Class III standpipe systems and inserting Class I standpipe systems in
+their place.
+32.   Section 905.2 Installation Standard shall be deleted and replaced as
+follows:
+   905.2 Installation Standard. A Class I standpipe system shall provide two
+and one-half (2½) inch (63.5 mm) hose connections to supply water for use by
+fire departments and those trained in handling heavy fire streams. Also, two
+and one-half (2½) inch to one and one-half (1 ½) inch reducers with one and
+one-half (1½) inch caps shall be provided on each standpipe outlet. Two and
+one-half (2½) inch and one and one-half (1½) inch threads shall be National
+Standard Threads (NST). No hose is to be provided.
+   Exception: Hose may be provided when the facility has an assigned and
+trained fire brigade.
+33.   Section 905.3.4.1 Hose and Cabinet shall be deleted in its entirety.
+34.   Section 905.5.3 Class II System 1-Inch Hose shall be deleted in its
+entirety.
+35.   Section 905.3 Required Installations shall be amended by addition of the
+following section:
+   905.3.9 Building Footprint and Access. Where the most remote portion of a
+floor or story is more than four hundred (400) feet from a hose connection or
+Fire Department access road, the Fire Code Official is authorized to require
+standpipes to be provided in approved locations.
+36.   Section 907.1 General shall be amended by addition of the following
+sections:
+   907.1.4 Fire Alarm Control Panels. Each building shall have no more than one
+(1) Fire Alarm Control Panel (FACP). Installation of the fire alarm panel shall
+not exceed six (6) feet in height measured from the floor to the top of the
+panel.
+   Exception 1: Panel height may be altered by the code official.
+   Exception 2: Suppression system releasing panels are not required to meet
+the limitation in the number of panels.
+   907.1.5 Fire Alarm Annunciator Panels. The Fire Code Official can require
+the addition of fire alarm annunciator panels based on the size of building and
+access to the building.
+37.   Section 907.2 Where Required - New Buildings and Structures shall be
+deleted and replaced as follows:
+   907.2 Where Required - New Buildings and Structures. An approved addressable
+fire alarm system complying with the provisions of this Code and NFPA 72 shall
+be installed when the gross square footage of a building is equal to or greater
+than the area as specified in Sections 903.2.1 through 903.2.11 inclusive,
+subject to the authority having jurisdiction or by Section 907.2, whichever
+shall be more restrictive.
+   Buildings with eight (8) or less initiating devices may use zoned systems
+provided only one (1) device is used per zone. Each device shall have a plain
+English LCD (liquid crystal display). This alpha/numeric descriptor location is
+required to be reported to the Scott Emergency Communications Center upon
+activation of the fire alarm system.
+   R-3 dwellings are not required to meet Section 907.2 of this Code.
+   Exception:
+38.   Section 907.2 Where Required - New Buildings and Structures shall be
+amended by addition of the following sections:
+   907.2 (a) Manual Fire Alarm Pull Boxes. Manual fire alarm pull boxes (“pull
+stations”) shall be required where deemed necessary by the Fire Code Official.
+   907.2 (b) Monitoring. All fire alarm systems shall be monitored by a UL
+listed monitoring station.
+   907.2 (c) Descriptive Location. Each address point identification shall have
+an alpha/numeric descriptor location for the fire alarm system. This alpha/
+numeric descriptor location is required to be reported to the Scott Emergency
+Communications Center upon activation of the fire alarm system.
+   907.2 (d) Detection Location. Where corridors and/or hallways are designed
+as the path of egress, and at the top of stairwells that serve more than two
+(2) floors and are protected by fire sprinkler systems, they shall also be
+protected by smoke detection. Smoke detection shall be of the photo electric
+type or as approved by the code official.
+39.   Section 907.2.1 Group A shall be deleted and replaced as follows:
+   Group A. A manual and automatic fire alarm system shall be installed in
+accordance with NFPA 72 in Group A Occupancies and have an occupant load of
+three hundred (300) or more. Group A occupancies not separated from one another
+in accordance with Section 707.3.10 of the International Building Code shall be
+considered as a single occupancy for the purposes of applying this section.
+Portions of Group E occupancies occupied for assembly purposes shall be
+provided with a fire alarm system as required for the Group E occupancy.
+   Exception: Manual fire alarm boxes are not required where the building is
+equipped throughout with an automatic sprinkler system installed in accordance
+with Section 903.3.1.1 and the occupant notification appliances will activate
+throughout the notification zones upon sprinkler water flow.
+40.   Section 907.2.1 Group A shall be amended by addition of the following
+section:
+   907.2.1.3 Group A Occupancies. In Group A occupancies with an occupant load
+of one thousand (1000) or more, the activation of the fire alarm or fire
+sprinkler system, shall automatically shut down or stop music, sound systems,
+conflicting or confusing sounds and visual distractions.
+41.   Section 907.2.3 Group E shall be deleted and replaced as follows:
+   907.2.3 Group E. In the absence of a complete automatic sprinkler system, a
+complete automatic detection system utilizing an emergency voice/alarm
+communication system shall be installed throughout the entire Group E
+occupancy. A Group E occupancy with a complete automatic sprinkler system shall
+be provided with a fire alarm system utilizing an emergency voice/alarm
+communication system in compliance with Section 907.5.2.2 and installed in
+accordance with Section 907.6. As a minimum, smoke detection shall be provided
+in corridors at a maximum spacing of thirty (30) feet on center, and heat or
+smoke detection shall be provided in any hazardous or non-occupied areas in all
+new or existing Group E occupancies.
+   Exceptions:
+   1.   Group E occupancies with an occupant load of less than fifty (50).
+   Manual fire alarm boxes are not required in Group E occupancies where all
+the following apply: Interior corridors are protected by smoke detectors with
+alarm verification.
+   Auditoriums, cafeterias, gymnasiums, and the like are protected by heat
+detectors or other approved detection devices.
+   Shops and laboratories involving dusts or vapors are protected by heat
+detectors or other approved detection devices.
+   Off-premises monitoring is provided.
+   The capability to activate the evacuation signal from a central point is
+provided.
+   In buildings where normally occupied spaces are provided with a two-way
+communication system between such spaces and a constantly attended receiving
+station from which a general evacuation alarm can be sounded, except in
+locations specifically designated by the Fire Code Official.
+   Manual fire alarm boxes shall not be required in Group E occupancies where
+the building is equipped throughout with an approved automatic sprinkler
+system, the notification appliances will activate on sprinkler water flow, and
+manual activation is provided from a normally occupied location.
+   Emergency voice/alarm communication systems meeting the requirements of
+Section 907.5.2.2 and installed in accordance with Section 907.6 shall not be
+required in Group E occupancies with occupant loads of one hundred (100) or
+less, provided activation of the fire alarm system initiates an approved
+occupant notification signal in accordance with Section 907.5.
+42.   Section 907.2.8 Group R-1 shall be deleted and replaced as follows:
+   907.2.8 Group R General. Group R-1; Group R-2 apartment houses, condominiums
+and boarding houses (non-transient) convents, dormitories, fraternities,
+sororities, and monasteries; and Group R-4 shall have a monitored addressable
+fire alarm system. Upon adoption of this Fire Code, Group R-1; Group R-
+2 apartment houses, condominiums and boarding houses (non-transient) convents,
+dormitories, fraternities, sororities, and monasteries that have existing
+automatic fire alarm systems shall comply when their existing fire alarm system
+needs replacement to have that fire alarm system monitored.
+43.   Section 907.2.8.1 Manual Fire Alarm System shall be deleted in its
+entirety.
+44.   Section 907.2.8.2 Automatic Smoke Detection System shall be deleted and
+replaced as follows:
+   907.2.8.2 Automatic Smoke Detection System. An automatic smoke detection
+system that activates the occupant notification system in accordance with
+Section 907.5 shall be installed in Group R occupancies.
+   1.   Common spaces outside of dwelling units and sleeping units
+   2.   Laundry rooms, mechanical equipment rooms, and storage rooms
+   3.   All interior corridors serving sleeping units or dwelling units
+   Exception: An automatic smoke detection system is not required in buildings
+that do not have interior corridors serving sleeping units or dwelling units
+and where each sleeping unit or dwelling unit either has a means of egress door
+opening directly to an exterior exit access that leads directly to an exit or a
+means of egress door opening directly to an exit.
+   Required smoke alarms in dwelling units and sleeping units in Group R
+occupancies shall be interconnected with the fire alarm system in accordance
+with NFPA 72.
+45.   Section 907.2.9 Group R-2 shall be deleted in its entirety.
+46.   Section 907.2.9.1 Manual Fire Alarm System shall be deleted in its
+entirety.
+47.   Section 907.2.9.3 Group R-2 College and University Buildings shall be
+deleted in its entirety.
+48.   Section 907.2.11 Single- and Multi-Station Smoke Alarms shall be deleted
+and replaced as follows:
+   907.2.11 Single and Multi-Station Smoke Alarms. Listed single and multiple-
+station smoke alarms complying with UL 217 shall be installed in accordance
+with provisions of this Code and the household fire warning equipment provision
+of NFPA 72. Smoke alarms in dwelling units shall be addressable with sounder
+bases and monitored by the building fire alarm system as a supervisory signal
+only. Mini horns in dwelling units are not required if notification from a
+building fire alarm system is through the smoke alarms with sounder bases.
+   Note: Section 907.2.11 only applies to R-1, R-2, R-4 and I-1.
+   Delete the exceptions for 907.6.3.
+49.   Section 907.2 Where Required - New Buildings and Structures shall be
+amended by addition of the following section:
+   907.2.24 Mixed Occupancy Requirements. All buildings containing dwelling
+unit(s) and/or guest room(s) which also contain other occupancies or uses shall
+be provided with the following protection from fire in addition to all
+applicable provisions of the International Fire Code, and International
+Building Code duly adopted by the City.
+   (1) All dwelling units and/or guest rooms shall be provided with smoke
+detectors conforming to the International Fire Code, and International Building
+Code.
+   (2) Alarms, when required, shall be interconnected to alert all occupants
+both residential and non­residential.
+50.   Section 912.4.1 Locking Fire Department Connection Caps shall be deleted
+and replaced as follows:
+   912.4.1 Locking Fire Department Connection Caps. Locking fire department
+connection caps approved by the fire department are required for all new
+construction that have a water-based fire protection system where the
+responding Fire Department carries approved key wrenches for removal. Existing
+structures that have a water-based fire protection system shall be required
+immediately after conducting the five (5) year obstruction and maintenance
+testing, or if one (1) or more of the fire department caps are missing.
+51.   Section 1003 General Means of Egress shall be amended by addition of the
+following section:
+   1003.8 Location of Preschool through Second Grade Students. In Group E
+occupancies, rooms normally occupied by preschool, kindergarten or first grade
+students shall not be located above or below the level of exit discharge. Rooms
+normally occupied by second grade students shall not be located more than one
+story above the level of exit discharge.
+52.   Section [BE] 1010.2.9 Panic and Fire Exit Hardware shall be amended by
+addition of the following section:
+   1010.2.9 (a) Door Hardware. All exterior doors deemed necessary by the Fire
+Code Official for emergency access shall have a keyed cylinder and handle for
+emergency personnel to enter. These exterior doors should be numbered in a
+sequential order starting with the main entrance (front office door/public
+entrance). The main entrance should always be #1 with the cardinal direction
+letter after. i.e. 1N, 7W. Subsequent doors will be numbered in sequential
+order in a clockwise manner. The font must be a minimum six (6) inch in height
+and contrast in color of the door. The inside of the door must also be labeled
+with the corresponding identification two (2) inch in height and contrast in
+color.
+53.   SECTION 1028 EXIT DISCHARGE shall be amended by addition of the following
+section:
+   [BE] 1028.6 Exit Discharge Pathways. Exit discharge pathways shall be paved
+from all required exits of a building to a public way or parking lot.
+54.   Section 1203.1 General shall be amended by addition of the following
+section:
+   1203.1.10 Shutdown of Emergency and Standby Power Systems. In addition to
+the requirements of NFPA 10 for a remote manual stop, a keyed switch to shut
+down the generator shall be located at the remote annunciator panel or fire
+panel. The Fire Code Official shall determine its location. If there is no
+annunciator or fire alarm panel or the location of these panels is determined
+to be inadequate for this shut down button, the Fire Code Official shall
+determine its location.
+55.   Section 5003.3.1.4 Responsibility for Cleanup shall be amended by
+addition of the following words at the end of this section:
+   unless otherwise provided by a 28E Agreement or another contract.
+56.   Section 5601.1 Scope shall be deleted and replaced as follows:
+   5601.1 Scope. The provisions of this chapter shall govern the possession,
+manufacture, storage, handling, sale and use of explosives, explosive materials
+and small arms ammunition. The provisions of this chapter also govern the
+manufacture of display and consumer fireworks. The sale, storage and use of
+display fireworks and consumer fireworks shall meet the requirements of Iowa
+Code Sections 100.1, 100.19, 100.19A, 364.2 and 727.2. These Iowa Code sections
+supersede other provisions of IFC Chapter 56 dealing with the sale, storage and
+use of display fireworks and consumer fireworks.
+57.   Section 5704.2.9.6.1 Locations Where Above-Bround Tanks are Prohibited
+shall be deleted and replaced as follows:
+   Section 5704.2.9.6.1 Locations Where Above-Ground Tanks are Prohibited.
+Storage of Class I and Class II liquids in above-ground tanks outside of
+buildings is prohibited in the entire City of LeClaire, Iowa.
+   Exceptions: Commercial and industrial zones subject to all required zoning
+controls, building and fire codes and approval by the Community Development
+Director and the Fire Code Official.
+58.   Section 5706.2.4.4 Locations Where Above-Ground Tanks are prohibited
+shall be deleted and replaced as follows:
+   Section 5706.2.4.4 Locations Where Above-Ground Tanks are Prohibited.
+Storage of Class I and Class II liquids in above-ground tanks outside of
+buildings is prohibited in the entire City of LeClaire, Iowa.
+   Exceptions: Commercial and industrial zones subject to all required zoning
+controls, building and fire codes and approval by the Community Development
+Director and the Fire Code Official.
+59.   Section 6104.2 Maximum Capacity Within Established Limits shall be
+amended by addition of the following statement:
+   Section 6104.2 Maximum Capacity Within Established Limits. The storage of
+liquified petroleum gas is prohibited in the entire City of LeClaire, Iowa.
+   Exceptions: Commercial and industrial zones subject to all required zoning
+controls, building and fire codes and approval by the Community Development
+Director and the Fire Code Official.
+(Chapter 159 – Ord._850 – Sep. 25 Supp.)
+ 
 CHAPTER 160
 SATELLITE OR DISH ANTENNA
  
@@ -12505,7 +13119,7 @@ updated).
 Any advertising sign falling under the jurisdiction of one or more of the
 above-named codes or any others shall first comply with the applicable
 provisions of said codes and secure any and all required permits and clearances
-prior to application to the City for its required sign permit.
+prior to application to the City for its required Sign Permit.
 161.03   DEFINITIONS.
 For purposes of this chapter, the following words and their derivations have
 the meaning given herein:
@@ -12525,110 +13139,115 @@ street network system of the City.
 with ASTM Standard Method Test for Flammability of Plastics over 0.050-inch in
 thickness (D635-44), burn no faster than two- and one-half inches per minute in
 .060-inch thickness.
-5.   “Banner” means any sign printed or displayed upon cloth or other flexible
+5.   “A-frame sign” means a type of portable signage that consists of two
+panels joined together by a hinge, resembling the letter “A” when opened.
+6.   “Banner” means any sign printed or displayed upon cloth or other flexible
 material, with or without frames.
-6.   “Beacon” means a stationary or revolving light which flashes or projects
+7.   “Beacon” means a stationary or revolving light which flashes or projects
 illumination, single color or multicolored, in any manner, which is intended to
 attract or divert attention, except, however, this term is not intended to
 include any kind of lighting device which is required or necessary under the
 safety regulations described by the Federal Aviation Agency or similar
 agencies.
-7.   “Billboard” means a type of sign having 72 square feet or more of display
+8.   “Billboard” means a type of sign having 72 square feet or more of display
 surface which is either erected on the ground or attached to or supported by a
 building or structure.
-8.   “Building line” means the average distance from the street line of
+9.   “Building line” means the average distance from the street line of
 existing buildings in any block where more than half the frontage has been
 built upon in the past.
-9.   “Bulletin board” means any sign erected by a charitable, educational, or
+10.   “Bulletin board” means any sign erected by a charitable, educational, or
 religious institution or public body which is erected upon the same property as
 said institution for purposes of announcing events which are held on the
 premises.
-10.   “Church bulletin board sign" means a sign attached to the exterior of a
+11.   “Church bulletin board sign" means a sign attached to the exterior of a
 church, or located elsewhere on the church premises, used to indicate the
 services or activities of the church, and including its name, if desired.
-11.   “Commercial sign” means any flat or embossed painted and printed or
+12.   “Commercial sign” means any flat or embossed painted and printed or
 enameled display used as an advertising medium.
-12.   “Controlled access highway” means any State or federal numbered highway
+13.   “Controlled access highway” means any State or federal numbered highway
 designated by ordinance as a controlled access highway by the Council.
-13.   “Display surface area” means the net geometric area enclosed by the
+14.   “Display surface area” means the net geometric area enclosed by the
 display surface of the sign, including the outer extremities of all letters,
 characters, delineation, trim, and border; provided, however, “display surface
 area” does not include the structural supports for free-standing signs,
 provided further that only one face of a double-faced sign, as defined, shall
 be considered in determining the display surface area.
-14.   “District” or “zoning district” means a section or sections of the City
+15.   “District” or “zoning district” means a section or sections of the City
 for which the then effective Zoning Ordinance governing the use of buildings
 and land are uniform for each class of use permitted therein.
-15.   “Electrical sign” means a sign of any type incorporating electric
+16.   “Electrical sign” means a sign of any type incorporating electric
 illumination of any type from within or without. A sign illuminated only by
 projecting electric lighting reflectors shall not be construed as an electric
 sign.
-16.   “Erect” means to construct, reconstruct, build, raise, assemble, place,
+17.   “Erect” means to construct, reconstruct, build, raise, assemble, place,
 affix, attach, create, paint, draw, or, in any other way, bring into being or
 establish; however, it does not include any of the foregoing activities when
 performed incidental to the customary maintenance of an advertising device.
-17.   “Flashing sign” means an illuminated sign on which artificial or
+18.   “Flashing sign” means an illuminated sign on which artificial or
 reflected light is not maintained stationary, and constant in intensity and
 color at all times when in use.
-18.   “Free-standing ground sign” means a sign which is attached to or a part
+19.   “Free-standing ground sign” means a sign which is attached to or a part
 of a completely self-supporting structure. The supporting structure shall be
 firmly in or below the ground surface and not attached to any building or any
-other structure whether portable or stationary.
-19.   “Identification and informational signs” means signs used for
+other structure whether portable or stationary. Ground signs may be a monument
+type or affixed to a pole or posts.
+20.   “Identification and informational signs” means signs used for
 identification or of informational nature bearing no advertising.
-20.   “Illuminated signs” means any sign which has characters, letters,
+21.   “Illuminated signs” means any sign which has characters, letters,
 figures, designs, or outlines illuminated by electric lights or luminous tubes
 as a part of the sign proper.
-21.   “Joint identification sign” means a sign which serves as common or
+22.   “Joint identification sign” means a sign which serves as common or
 collective identification for a group of persons or businesses operating on the
 same zoning lot (e.g., shopping center, office complex, etc.). Such a sign may
 name the persons or businesses included but carry no other advertising matter.
-22.   “Letter sign” means letters not self-illuminated and applied individually
+23.   “Letter sign” means letters not self-illuminated and applied individually
 and directly to a building wall, a cornice, canopy, or other similar element of
 a building.
-23.   “Letters and decorations” means the letters, illustrations, symbols,
+24.   “Letters and decorations” means the letters, illustrations, symbols,
 figures, insignia, and other devices employed to express and illustrate the
 message of the sign.
-24.   “Maintain” means to cause to remain in a state of good repair, but does
+25.   “Maintain” means to cause to remain in a state of good repair, but does
 not include reconstruction.
-25.   “Nameplate” means a plate or sign, typically made of metal, displaying
+26.   “Nameplate” means a plate or sign, typically made of metal, displaying
 the name of someone, such as the person working in a building or the builder of
 a ship.
-26.   “Nonconforming sign” means a sign existing at the effective date of the
+27.   “Nonconforming sign” means a sign existing at the effective date of the
 adoption of the ordinance codified in this chapter which could not be built
 under the terms of this chapter.
-27.   “Off-site sign” means a sign other than an on-site sign.
-28.   “On-site sign” means a sign relating in its subject matter to the
+28.   “Off-site sign” means a sign other than an on-site sign.
+29.   “On-site sign” means a sign relating in its subject matter to the
 premises on which it is located, or to products, accommodations, services, or
 activities on the premises.
-29.   “Political sign” means an outdoor sign of a temporary nature, not larger
+30.   “Political sign” means an outdoor sign of a temporary nature, not larger
 than 32 square feet in surface area, erected for the purpose of soliciting
 votes or support for or in opposition to any candidate or any political party
 under whose designation any candidate is seeking nomination or election of any
 public question on the ballot in an election held under the laws of this State.
-30.   “Portable swinger sign and ‘A’ frame or sandwich sign” means an
+31.   “Portable swinger sign and ‘A’ frame or sandwich sign” means an
 advertising device in the shape of an ‘A’ or some variation thereof, which is
 temporary in nature, located on the ground, easily movable, not permanently
 attached thereto and which is usually two-sided.
-31.   “Portable temporary attraction sign board” means a single or double
+32.   “Portable temporary attraction sign board” means a single or double
 surface painted or poster panel type sign or some variation thereof, which is
 temporary in nature, usually mounted on wheels, easily movable, and not
 permanently attached.
-32.   “Public property” includes all property owned by any governing or tax
+33.   “Projecting sign” means a sign attached to and projecting outward from a
+building face or wall, generally at a right angle to the building.
+34.   “Public property” includes all property owned by any governing or tax
 levying body, whether or not devoted to use as streets, alleys, sidewalks,
 parking lots, etc.
-33.   “Real estate sign” means a temporary sign placed upon property for the
+35.   “Real estate sign” means a temporary sign placed upon property for the
 purpose of advertising to the public the sale or lease of said property.
-34.   “Reconstruction” means any repair to the extent of 65 percent or more of
+36.   “Reconstruction” means any repair to the extent of 65 percent or more of
 the fair market value of the structure, excluding buildings.
-35.   “Right-of-way” means land area dedicated to public use for highways or
+37.   “Right-of-way” means land area dedicated to public use for highways or
 streets and their maintenance, and includes land acquired in fee simple or by
 permanent easement for highway or street purposes, but does not include
 temporary easements or rights for supplementary highway or street
 appurtenances.
-36.   “Roof sign” means any sign wholly erected, constructed, or maintained on
+38.   “Roof sign” means any sign wholly erected, constructed, or maintained on
 the roof structure or parapet wall of any building.
-37.   “Sign” means and includes every device, frame, letter, figure, character,
+39.   “Sign” means and includes every device, frame, letter, figure, character,
 mark, plane, point, design, picture, stroke, stripe, trademark, or reading
 matter which is used or intended to be used to attract attention or convey
 information when the same is placed out-of-doors in view of the general public.
@@ -12638,26 +13257,26 @@ related, and composed to form a unit. Where matter is displayed in a random
 manner without organized relationship to elements or where there is reasonable
 doubt as to the relationship of elements, each element shall be considered to
 be a single sign.
-38.   “Sign facing” means the opaque or transparent surface or surfaces of the
+40.   “Sign facing” means the opaque or transparent surface or surfaces of the
 sign, upon, against, or through which the message of the sign is exhibited.
-39.   “Special event sign” means a temporary advertising device, not larger
+41.   “Special event sign” means a temporary advertising device, not larger
 than 32 square feet in area, erected for the purpose of notifying the public of
 noncommercial community events including, but not limited to, fairs,
 centennials, festivals, and celebrations open to the general public and
 sponsored or approved by a city, county, or school district.
-40.   “Structural trim” includes the molding, battens, cappings, nailing
+42.   “Structural trim” includes the molding, battens, cappings, nailing
 strips, latticing, and platforms which are attached to the sign structure.
-41.   “Structure” means any sign supporting devices including, but not limited
+43.   “Structure” means any sign supporting devices including, but not limited
 to, buildings.
-42.   “Table or plaque” means a solid wall panel or ornament of nonferrous
+44.   “Table or plaque” means a solid wall panel or ornament of nonferrous
 metal with inscription integral or applied, not more than eight square feet in
 area, not more than three inches thick attached directly to a building wall
 (not a “commercial sign”).
-43.   “Temporary sign” means a banner or other advertising device constructed
+45.   “Temporary sign” means a banner or other advertising device constructed
 of cloth, canvas, fabric, or other light temporary material, with or without a
 structural frame, intended for a limited period of display, including
 decorative displays for holidays or public demonstrations.
-44.   “Visible” means capable of being read or comprehended without visual aid
+46.   “Visible” means capable of being read or comprehended without visual aid
 by a person of normal visual acuity.
 161.04   GENERAL CONDITIONS.
 1.   Vision clearance at street intersections and driveway intersections shall
@@ -12724,12 +13343,12 @@ are applicable.
 3.   Fees Required.
    A.   The Council shall establish, by resolution, the permit fees and other
 costs associated with any provision of this chapter as referenced herein.
-   B.   Exception: Where the owner of the improvement is a tax-levying body, a
+   B.   Exception: where the owner of the improvement is a tax-levying body, a
 permit shall be obtained in the normal manner, but no fee shall be required.
 4.   Permit Exemption. Exemptions shall not be construed as relieving the owner
 of such signs from the responsibility of complying with applicable provisions
-of this chapter. The exemptions shall apply to the requirements for a sign
-permit only and no sign permit shall be required for the erection of the
+of this chapter. The exemptions shall apply to the requirements for a Sign
+Permit only and no Sign Permit shall be required for the erection of the
 following signs:
    A.   Professional Name Plates. Professional name plates erected flat on
 walls of buildings and not exceeding four square feet of display surface area.
@@ -12766,7 +13385,7 @@ and private events as follows:
 two weeks before the event and removed within 48 hours following the event to
 which the banner applies.
       (3)   Private Sales Events. Banners placed on private property for
-advertising a special sales event. (Note: Banners bearing advertising matter
+advertising a special sales event. (Note: banners bearing advertising matter
 shall be considered wall or free-standing signs depending upon mounting and
 shall meet all regulations pertaining thereto.)
    L.   Signs Within Buildings. All signs located within a building that are
@@ -12794,6 +13413,7 @@ decorations are erected. All clearance requirements must be observed.
 provided, no more than one flag is permitted per business premises, or one per
 tenant in a multi-tenant building; and further provided, the flag does not
 exceed 20 square feet in surface area and does not advertise a product.
+   U.   A-frame signs.
 5.   Special Permits. Special permits are required for the following (no fees
 required):
    A.   Cloth signs on wood frames for advertising business sales, etc., when
@@ -12940,10 +13560,10 @@ the following:
 tablet provided its maximum projection from the wall face is two inches.
       (2)   Individual letter signs with a maximum projection of one inch may
 be mounted up a clear distance of not less than seven feet.
-         i.   Private Commercial Property. The same restrictions in Paragraph 3
+         a.   Private Commercial Property. The same restrictions in Paragraph 3
 (B) shall apply for wall signs mounted over publicly used walkways or roadways
 on private commercial property.
-         ii.   Public Alley. A wall sign may be erected over a public alley,
+         b.   Public Alley. A wall sign may be erected over a public alley,
 with a maximum projection of two inches, a minimum clearance above the alley
 surface at the lot line shall be nine feet, and the maximum area 16 square
 feet.
@@ -12959,14 +13579,16 @@ be as set forth for projecting signs.
 the extreme projection of the sign shall be considered the front of the marquee
 and shall comply with all clearance distances for projecting signs.
 5.   Projecting Signs.
-   A.   Requirements. No projecting sign shall exceed 30 feet in height or have
-a total gross area of any one face exceeding 250 square feet, except with
-written approval by the Council.
+   A.   Requirements. No projecting sign shall have a total gross area of any
+one face exceeding 25 square feet, except with written approval by the Council.
    B.   Public Property. Any projecting sign overhanging public property shall
-be an electrical sign or illuminated by wall-mounted or spot lighting.
-   C.   Projection. No projecting sign shall overhang public property more than
-nine feet six inches or project beyond a point within one foot of a line drawn
-perpendicularly upward from the face of the street curb.
+be an electrical sign or illuminated by wall-mounted or spot lighting. No
+projecting sign may overhang a public alley.
+   C.   Projection. Projecting signs may encroach into the public right-of-way
+but can only encroach a maximum of half the distance from the lot line to the
+back of curb or four feet from the building façade, whichever is less. The
+innermost point of a projecting sign shall not be more than two feet from the
+building wall.
    D.   Widened Streets and Curbs. Where streets are widened and curbs are set
 back, all projecting signs shall be altered to conform to the above within 30
 days after widening work contract is finished or order date. No notice is
@@ -12974,34 +13596,29 @@ required by the City to the sign owner. No liability shall accrue against the
 City.
    E.   Minimum Clear Height. The minimum clear height of a projecting sign
 above a public sidewalk shall be as follows:
-      (1)   In Zones “C-3,” “I-1,” and “I-2” signs projecting more than six
-feet over public property - 12 feet;
+      (1)   In Zones “C-2,” signs projecting over public property - 8 feet;
       (2)   All other zones - 10 feet, six inches.
-   F.   Innermost Point of Projection. The innermost point of a projecting sign
-shall not be more than two feet from the building wall.
-   G.   Private Commercial Property. All of the above clearance and dimension
+   F.   Private Commercial Property. All of the above clearance and dimension
 restrictions shall also apply to projecting signs when erected over publicly
 used walkways on private commercial property, or over publicly used drives and
 parking lots on such property.
-   H.   Public Alley. No projecting sign may overhang a public alley.
-6.   Ground Signs.
-   A.   Requirements. No ground signs shall exceed 30 feet in height, except
-upon written approval by the Council, measured from the highest adjoining
-sidewalk level or other grade as established herein.
+   G.   One projecting sign is permitted per establishment with frontage on a
+street. For a corner lot, one projecting sign is permitted for each street
+frontage.
+6.   Free-Standing Ground Signs.
+   A.   Requirements. No free-standing ground signs shall exceed 30 feet in
+height, except upon written approval by the Council, measured from the highest
+adjoining sidewalk level or other grade as established herein.
    B.   Total Gross Area. No ground sign shall have a total gross area of any
 one face exceeding 250 square feet, except upon written approval by the
 Council. This shall be computed for the actual sign area and does not include
 the supporting structure below the sign.
    C.   Supporting Structure. All parts of the supporting structure of a ground
-sign shall be on private property. No part of the supporting structure shall
-extend beyond a line one foot inside the public right-of-way line. No part of
-the supporting structure shall be set closer to the property line than the
-allowable distance for buildings provided by the Zoning Regulations.
-   D.   Projections. A ground sign may have portions (or all) of the actual
-sign projected from the supporting structure and such projections may extend
-over public property in which case all of the provisions of Subsection 5 shall
-apply, and the two-foot dimension of Paragraph 5(F) shall be measured from the
-property line.
+sign shall be on private property.
+   D.   Projections. A free-standing ground sign may have portions (or all) of
+the actual sign projected from the supporting structure. Such projections must
+comply with the provisions of Subsection 5 except projections will be measured
+from the supporting structure.
    E.   Special Permits. The Council, at its discretion and on receipt of
 proper application, may authorize special permits for heights and areas
 exceeding the limitations above. Each unit shall require separate action.
@@ -13010,6 +13627,9 @@ Such bulletins may have portions constructed of combustible materials. Fronts
 may be of glass. Maximum dimension of church bulletins shall be eight feet,
 with a maximum area of 32 square feet; both limitations to include the
 enclosing structure, but not the height of open column or post supports below.
+   G.   One free-standing sign is permitted per establishment with frontage on
+a street. For a corner lot, one free-standing ground sign is permitted for each
+street frontage.
 161.09   SIGNS PERMITTED IN RESIDENTIAL DISTRICTS.
 In all residential districts, the following classes of signs are permitted in
 accordance with the regulations set forth herein:
@@ -13058,6 +13678,14 @@ right-of-way.
       (3)   No sign shall project higher than eight feet above the established
 average grade.
       (4)   May be illuminated, but not flashing.
+   E.   Free-Standing Ground Signs. Freestanding ground signs for residential
+subdivisions are subject to the following sign area, sign height, and sign
+number permissions.
+      (1)   One freestanding ground sign is permitted for each entry point to
+any residential subdivision development. A minimum separation of 100 feet is
+required between signs.
+      (2)   Residential subdivision entrance signs are permitted a maximum sign
+area of 50 square feet per sign and a maximum sign height of 6 feet per sign.
 161.10   SIGNS PERMITTED IN COMMERCIAL DISTRICTS.
 In all commercial districts, the following signs are permitted subject to the
 requirements set forth herein:
@@ -13096,25 +13724,21 @@ affixed flat to the surface thereof, shall be non-illuminated and non-flashing,
 and shall indicate only the name and address of the establishment on the
 premises. Further, no such sign shall extend vertically or horizontally beyond
 the limits of said awning.
-   D.   Ground Signs. No ground sign shall be erected or placed between the
-street line and the building line.
+   D.   Free-Standing Ground Signs.
       (1)   Joint Identification. For an integrated planned business
 development in single ownership and management, or under unified control, one
 additional sign may be erected not exceeding 250 square feet in area
-advertising only the name and location of the integrated shopping center. Such
-sign shall be placed so as to be entirely within the property lines of the
-premises upon which it is located, and the bottom edge of such sign shall be at
-least five feet above the level of the ground, and the overall height shall not
-exceed 30 feet above curb level or above the adjoining ground level if such
-ground level is above the street level.
-   E.   Projecting Signs. Signs suspended from any building shall not project
-more than four feet beyond the front of the building. The sign location and
-arrangement shall be subject to approval by the Building and Zoning Enforcement
-Officer.
-3.   Off-site Signs. Off-site signs are permitted subject to the following:
+advertising only the name and location of the integrated shopping center. The
+bottom edge of such sign shall be at least five feet above the level of the
+ground, and the overall height shall not exceed 30 feet above curb level or
+above the adjoining ground level if such ground level is above the street
+level.
+   E.   Projecting Signs. The sign location and arrangement shall be subject to
+approval by the Building and Zoning Enforcement Officer.
+3.   Off-Site Signs. Off-site signs are permitted subject to the following:
    A.   Billboards. Signs which advertise products, businesses, or public
 service activities not related to the occupancy and use of the premises are
-prohibited in the C-1 zoning district and are subject to the following:
+prohibited in the C-1 Zoning District and are subject to the following:
       (1)   In any C-3 zone the minimum area for any billboard, except “service
 club or religious notice signs” as defined by the I.D.O.T., will be not less
 than 32 square feet.
@@ -13158,6 +13782,22 @@ feet of the principal building. Products may be displayed under group island
 canopies or between pumps within the area of the pump island base.
       (4)   Any sign may be painted on the inside and outside front door face
 of a closed tire rack, but shall not be painted on the sides or rear.
+   C.   A-Frame Signs. A-frame signs are permitted in any “C-2” zone.
+      (1)   One A-frame sign is permitted per establishment, including one for
+each tenant in a multi-tenant development. A minimum fifteen foot separation is
+required between all A-frame signs.
+      (2)   A-frame signs may be placed in a sidewalk or parkway within 200
+feet of the lot of the establishment being advertised and must comply with all
+provisions of
+Chapter 136 of the LeClaire Municipal Code.
+      (3)   A-frame signs are limited to six square feet in area per side and
+four feet in height.
+      (4)   The placement of A-frame signs outdoors is limited to business
+hours only. A-frame signs must be stored indoors at all other times.
+      (5)   A-frame signs must not be used outdoors when high winds or heavy
+rain conditions exist.
+      (6)   Illumination of A-frame signs is prohibited.
+      (7)   No A-frame sign may have any type of electronic component.
 161.11   SIGNS PERMITTED IN INDUSTRIAL DISTRICTS.
 In all industrial districts the following signs are permitted, subject to the
 requirements set forth herein:
@@ -13165,13 +13805,13 @@ requirements set forth herein:
 commercial districts.
 2.   All signs shall adhere to the requirements for signs in the commercial
 districts unless otherwise specified below.
-3.   Billboards and Ground Signs. Signs shall not have a sign area in excess of
-250 square feet, except that where only one advertising sign is erected per
-facing on a sign structure, such sign area may be doubled in size but shall not
-exceed 500 square feet.
-   A.   The minimum distance between any two located on the same side of a
-street or highway, and on the same zoning lot, shall be not less than four feet
-for every one square foot of the total area of the two signs.
+3.   Billboards and Free-Standing Ground Signs. Billboards shall not have a
+sign area in excess of 250 square feet, except that where only one advertising
+sign is erected per facing on a sign structure, such sign area may be doubled
+in size but shall not exceed 500 square feet.
+   A.   The minimum distance between any two signs located on the same side of
+a street or highway, and on the same zoning lot, shall be not less than four
+feet for every one square foot of the total area of the two signs.
    B.   No advertising sign shall be permitted to be erected closer than 100
 feet to any other structure on the same side of a street or highway, unless
 separated by a building, roadway, or structure for signs or billboards which
@@ -13185,8 +13825,8 @@ visible from a park, shall be permitted to be erected within 500 feet of any
 public park of more than five acres in area.
 161.12   SIGN MAINTENANCE.
 1.   Sign Identification. Every sign hereafter registered shall show in a
-conspicuous place thereon, which is visible to the Inspector and is readable by
-the Inspector from the ground, the permit number.
+conspicuous place thereon, which is visible to the inspector and is readable by
+the inspector from the ground, the permit number.
 2.   Premises Maintenance. All free-standing signs and the premises surrounding
 the same shall be maintained by the owner thereof in a clean, sanitary, and
 inoffensive condition, and free and clear of all obnoxious substances, rubbish,
@@ -13210,10 +13850,10 @@ timeframe as required in the notice, the advertising device shall be deemed to
 be forfeited and the City may enter upon the land and remove the advertising
 device. Such entry, after notice, shall not be deemed a trespass, and the City
 may be aided by injunction to abate the nuisance and to insure peaceful entry.
-   B.   Privately Owned Signs in Public Places. Existing privately owned signs
-currently located on or over a public place that are not in compliance with
-this Code shall be eliminated and removed. If the sign owner fails to remove
-the sign after so ordered by the City, the City may remove the sign.
+   B.   Privately Owned Signs in Public Places. Privately owned signs located
+on or over a public place that are not in compliance with this Code shall be
+eliminated and removed. If the sign owner fails to remove the sign after so
+ordered by the City, the City may remove the sign.
    C.   Assessment of Costs. All costs, fees, and expenses arising out of an
 action brought by the City to insure the peaceful entry and/or removal of any
 signs will be assessed against the property owner and act as a lien on the
@@ -13265,6 +13905,7 @@ The owner or tenant of any building, structure, premises, or part thereof, and
 any architect, builder, contractor, agent, or other person who commits,
 participates in, or maintains such violation may be found guilty of a separate
 offense and suffer the penalties herein provided.
+(Chapter 161 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 162
 NATIONAL POLLUTANT DISCHARGE ELIMINATION SYSTEM (NPDES AND MS4) PERMIT PROGRAM
  
@@ -15653,6 +16294,7 @@ from a “cellar”), and/or a story which has its floor or lowest level below
 ground level (sub-grade) on all sides. A basement will be counted as a story
 for the purpose of height measurements and determinations only if subdivided
 into rooms and used for dwelling purposes.
+(Paragraph D – Ord._855 – Sep. 25 Supp.)
    E.   “Bed and breakfast establishment” means a hotel or motel, which is of
 some historical significance, is occupied and managed by the owner, which
 provides separate toilet and lavatory facilities for the occupant and every
@@ -15900,21 +16542,25 @@ and where the design of said operation is such that upon receiving foodstuffs,
 the consumers will leave the premises prior to consuming the food.
    M.   “Driveway” means a private road providing access to vehicles and
 pedestrians to the principal building or use.
-   N.   “Dwelling” means any building or portion thereof, which is designed for
+   N.   “Duplex” is a small type of multifamily building with two connected
+dwellings that have separate entrances on a single property. Each dwelling is
+considered a duplex apartment.
+(Paragraph N – Ord._855 – Sep. 25 Supp.)
+   O.   “Dwelling” means any building or portion thereof, which is designed for
 and used primarily as a place of residential occupancy for one or more human
 beings but does not include hotels or motels or bed and breakfast
 establishments.
-   O.   “Dwelling, attached single-family or group, row, or townhouse” means a
+   P.   “Dwelling, attached single-family or group, row, or townhouse” means a
 residential building, originally constructed for said purpose, containing three
 or more adjoining, owner-occupied dwelling units, each of which is located on a
 platted lot or legally described lot, and each of which is joined to another
 dwelling unit by at least one un-pierced party wall(s).
-   P.   “Dwelling, detached” means a building which is surrounded on all sides
+   Q.   “Dwelling, detached” means a building which is surrounded on all sides
 by open space on the same lot.
-   Q.   “Dwelling, farm” means a building designed for and occupied exclusively
+   R.   “Dwelling, farm” means a building designed for and occupied exclusively
 by one family whose principal source of income is derived from the farm on
 which the building is located.
-   R.   “Dwelling, mobile home” means any vehicle without motive power used or
+   S.   “Dwelling, mobile home” means any vehicle without motive power used or
 so manufactured or constructed as to permit its being used as a conveyance upon
 the public streets and highways and so designed, constructed, or reconstructed
 as will permit the vehicle to be used as a place for human habitation by one or
@@ -15922,27 +16568,27 @@ more persons; but also includes any such vehicle with motive power not
 registered as a motor vehicle in Iowa. A mobile home means any such vehicle
 built before June 15, 1976, which was not built to a mandatory building code
 and which contains no State or federal seals.
-   S.   “Dwelling, multi-family” means a building containing three or more
+   T.   “Dwelling, multi-family” means a building containing three or more
 independent dwelling units, originally constructed for said purpose; and not
 including converted dwellings.
-   T.   “Dwelling, semi-detached” means a building which is joined to another
+   U.   “Dwelling, semi-detached” means a building which is joined to another
 dwelling by a garage, carport, recreation structure, or other nonresidential
 facility.
-   U.   “Dwelling, single-family” means a detached residential dwelling unit,
+   V.   “Dwelling, single-family” means a detached residential dwelling unit,
 including a manufactured housing unit which is erected or installed on a site-
 built, permanent foundation and is not designed to be moved once so installed,
 and which is designed and manufactured to comply with all building codes
 applicable to site-built housing, containing accommodations for and occupied by
 one family only, other than a mobile home, and which is entirely surrounded by
 open space on the same lot.
-   V.   “Dwelling, two-family” means a building, including a manufactured
+   W.   “Dwelling, two-family” means a building, including a manufactured
 housing unit which is erected or installed on a site-built, permanent
 foundation and is not designed to be moved once so installed, and which is
 designed and manufactured to comply with all building codes applicable to site-
 built housing, containing accommodations for and designed exclusively for
 occupancy by two families living independently from each other, and which is
 entirely surrounded by open space.
-   W.   “Dwelling unit” means a dwelling which consists of one or more rooms,
+   X.   “Dwelling unit” means a dwelling which consists of one or more rooms,
 or a portion of a dwelling arranged so as to create an independent housekeeping
 establishment, used for the occupancy of one family with separate toilets and
 facilities for cooking, living, and sleeping purposes. Each dwelling unit shall
@@ -15950,6 +16596,12 @@ have a floor area of at least 1,200 square feet, (unless otherwise noted
 herein), a minimum width of 22 feet for at least 75 percent of its narrowest
 dimension, be placed on a permanent foundation, have a perimeter foundation of
 masonry construction (load or non-load bearing), and be taxed as real property.
+   Y.   “Dwelling unit, accessory” is a smaller, independent residential
+dwelling unit located on the same lot as a stand-alone single-family home and
+may be attached or detached. The building shall not exceed one thousand square
+feet or fifty percent of the size of the single-family residence, whichever is
+larger.
+(Paragraph Y – Ord._855 – Sep. 25 Supp.)
 5.   Words beginning with “E.”
    A.   “Easement” means a grant by a property owner for the use of a strip of
 land by the general public, a corporation, or a certain person or persons for a
@@ -16158,11 +16810,12 @@ individuals. This term shall not include alcoholism or drug treatment centers,
 work release facilities for convicts or ex-convicts, or other housing
 facilities serving as an alternative to incarceration.
 8.   Words beginning with “H.”
-   A.   “Half-story” means a space under a sloping roof which has the line of
-intersection of roof decking and wall face not more than four feet above the
-top level, and in which space not more than 66 percent of the floor area is
-finished off for use. A half-story may be used for occupancy only in
-conjunction with and by the occupancy of the floor immediately below.
+   A.   “Half-story” means a partial story under a gable, hip or gambrel roof,
+the wall plates of which on at least two opposite exterior walls are not more
+than four feet above the floor of such story. However, any partial story used
+for residence purposes, other than for a janitor or caretaker and his family,
+shall be deemed a full story.
+(Paragraph A – Ord._855 – Sep. 25 Supp.)
    B.   “Halfway house or group home” means a temporary residential living
 arrangement for up to five persons, excluding staff, who are receiving therapy,
 counseling, and/or care from support staff who are present at all times
@@ -16204,26 +16857,54 @@ communities with historic preservation programs that have been certified by
 either: an approved state program as determined by the Secretary of the
 Interior or directly by the Secretary of the Interior in states without
 approved programs.
-   F.   “Home occupation” means any secondary use, non-domestic activity,
-conducted entirely within a dwelling unit participated in solely by the
-occupants of the dwelling unit or one additional person not an occupant of the
-dwelling unit. No home occupation will be permitted in which there is
-associated therewith:
-      (1)   Any commodity sold upon the premises except that which is produced
-therein;
-      (2)   Any disturbance such as noise, vibration, smoke, dust, odor, heat,
-or glare extending beyond the confines of the dwelling unit or accessory
-structure;
-      (3)   Any exterior display, exterior storage of materials, signs (except
-as otherwise permitted), house calls after 9:00 p.m. or before 8:00 a.m.,
-exterior additions or alterations or other indication from the exterior that
-the dwelling unit or accessory structure is being used in part for any use
-other than that of a dwelling or accessory structure for purely residential
-purposes.
-If, in the determination of the Building and Zoning Enforcement Officer, the
-above conditions are not met or that the home occupation creates a disturbance
-or becomes a nuisance to the general neighborhood in some other manner, the
-home occupation will be terminated.
+   F.   “Home occupation” means a business, profession, or trade or other
+activity conducted for economic gain by one or more occupants of a residential
+dwelling that is secondary and subordinate to the principal use of the dwelling
+as a residence and does not alter the residential character of the property. A
+“No-Impact Home Occupation” means a home occupation for which all of the
+following apply:
+      (1)   The total number of on-site employees and customers/clients does
+not exceed the City occupancy limit for the residential property.
+      (2)   The business activities are characterized by all of the following:
+         a.   The activities are limited to the sale of lawful goods and
+services.
+         b.   The activities do not generate on-street parking or a substantial
+increase in traffic through the residential area.
+         c.   The activities occur inside the residential dwelling or in the
+yard of the residential property.
+         d.   The activities are not visible from an adjacent property or
+street.
+      (3)   Exceptions: Child care homes, defined and regulated under Chapter
+237A of the State Code of Iowa, shall be considered a No-Impact Home Occupation
+and may exceed the customer/client limitations.
+      (4)   If, in the determination of the Building and Zoning Enforcement
+Officer, the above conditions are not being met or that the home occupation
+creates a disturbance or becomes a nuisance to the general neighborhood in some
+other manner, the home occupation will be treated as a nuisance under
+Chapter 50 of this Code and will no longer be classified as a No-Impact Home
+Occupation.
+   Home occupations do not include activities engaged in as a hobby or
+temporary uses such as garage, yard, or estate sales. The following occupations
+and activities are prohibited from being operated as home occupations:
+      (1)   Adult entertainment establishments.
+      (2)   On-premises sale and consumption of alcohol.
+      (3)   Businesses which involve outside storage, such as material,
+equipment, and vehicles, without screening.
+      (4)   Activities which change the character and appearance thereof as a
+residential building or internal structural alterations that would create
+permanent modifications not typically found in a residential structure.
+      (5)   Any related activity that creates traffic hazards or nuisances in
+the public right of way or creates a substantial increase in traffic.
+      (6)   Use or storage of toxic, explosive, flammable, combustible,
+corrosive, etiologic, radioactive, poisonous, or other hazardous materials on
+the premises, unless of a type or quantity used for normal household purposes.
+      (7)   Activities that are noxious, offensive, or hazardous by reason of
+pedestrian or vehicular traffic, or by creation of outdoor storage, noise,
+odor, refuse, heat, vibration, smoke, radiation, or any other objectionable
+emissions, or by interference with televisions or radio reception.
+      (8)   Employees, clients/customers, or activity that would be visible to
+adjacent neighbors between the hours of 9 p.m. and 8 a.m.
+(Paragraph F – Ord._855 – Sep. 25 Supp.)
    G.   “Hospital” means an institution providing health services primarily for
 human in-patient medical or surgical care for the sick or injured and including
 related facilities such as laboratories, out-patient departments, training
@@ -16288,11 +16969,12 @@ drying, or ironing machines for hire to be used by customers on the premises.
    E.   “Licensed center” means a childcare center issued a full or provisional
 license by the State Department of Human Services under the provisions of
 Chapter 237A of the Code of Iowa, as amended.
-   F.   “Livestock” means any animal(s) kept or raised for use, pleasure, and/
-or profit, primarily consisting of, but not limited, to farm animals such as
-cattle, horses, swine, sheep, rabbits, fowl, and other similar animals, (not
-including cats and dogs). (See Section
-170.58).
+   F.   “Livestock” means an animal belonging to the bovine, caprine, equine,
+ovine, or porcine species, ostriches, rheas, and emos; far dear (as defined in
+Section 170.1 of the Code of Iowa); or fowl excluding urban chickens. (See
+Section
+170.58)
+(Paragraph F – Ord._852 – Sep. 25 Supp.)
    G.   “Loading and unloading space” means that off-street area required for
 the receipt or distribution by vehicles of material or merchandise, which in
 this Code is held to be a 12 feet x 45 feet loading space with a 14-foot height
@@ -16326,7 +17008,10 @@ abutting on a street excluding the side dimension of a corner lot.
 of the exterior walls of the principal building on the lot.
    O.   “Lot line, front” means, in the case of an interior lot, the line
 separating said lot from the street. In the case of a corner lot or double
-frontage lot, the line(s) separating said lot from the street(s).
+frontage lot, the line(s) separating said lot from the street(s). If a lot
+abuts three (3) or more public streets, the lot shall have a front lot line
+only on the two (2) public streets with the highest roadway classifications.
+(Paragraph O – Ord._855 – Sep. 25 Supp.)
    P.   “Lot line, rear” means the lot boundary opposite and most distant from
 the front lot line. In the case of a pointed or irregular lot, it will be an
 imaginary line parallel to and farthest from the front lot line not less than
@@ -16876,15 +17561,10 @@ not part of the main structure. For a substantial improvement, the actual start
 of construction means the first alteration of any wall, ceiling, floor, or
 other structural part of the building, whether or not that alteration affects
 the external dimensions of the building.
-   AA.   “Story” means that portion of a building included between the upper
-surface of any floor and the upper surface of the floor next above, except that
-the top most story will be that portion of a building included between the
-upper surface of the top most floor and the ceiling or roof above. If the
-finished floor level directly above a basement or usable underfloor space is
-more than six feet above grade, as defined herein, for more than 50 percent of
-the total perimeter or is more than 12 feet above grade, as defined herein, at
-any point, such basement or usable underfloor space will be considered as a
-story.
+   AA.   “Story” means that portion of a building included between the surface
+of the floor and the surface of the next floor above it, or if there is no
+floor above it, then the space between the floor and the ceiling next above it.
+(Paragraph AA – Ord._855 – Sep. 25 Supp.)
    BB.   “Story, half” see “half story.”
    CC.   “Street” means a general term used to describe a right-of-way, both
 public and private, which provides a channel for vehicular and pedestrian
@@ -17201,6 +17881,8 @@ force and effect.
 ORDINANCE ADOPTED           ORDINANCE ADOPTED
 842       July 1, 2024
 846       September 3, 2024
+848       January 6, 2025
+849       January 6, 2025
  
 170.14   RULES OF INTERPRETATION OF DISTRICT BOUNDARIES.
 In determining the boundaries of districts, and establishing the regulations
@@ -17366,6 +18048,8 @@ premises.
    N.   Sanitary landfill, public or private, provided that such facilities are
 not less than 1,000 feet from a residentially zoned district boundary.
    O.   Single-family detached dwelling.
+   P.   Home occupations.
+(Paragraph P – Ord._855 – Sep. 25 Supp.)
 4.   Height Regulations. No building or structure will exceed 40 feet in height
 and no accessory structure will exceed the elevation of the principal building
 as verified by a State licensed professional engineer, except as otherwise
@@ -17438,6 +18122,8 @@ comprehensive plan.
    D.   Commercial golf course and accessory driving range.
    E.   Modular (manufactured) home, providing that the provisions of Section
 170.17(9) are complied with.
+   F.   Home occupations.
+(Paragraph F – Ord._855 – Sep. 25 Supp.)
 4.   Height Regulations. No building or structure will exceed 40 feet in height
 and no accessory structure will exceed the elevation of the principal building
 as verified by a State licensed professional engineer, except as otherwise
@@ -17554,21 +18240,24 @@ the different uses.
 2.   Principal Uses Permitted. Property and buildings in a One- and Two-Family
 Residential District (R-2) will be used only for the following purposes:
    A.   Any use permitted in the Single-Family Residential District (R-1).
-   B.   Two-family dwelling.
+   B.   Two-family dwellings.
    C.   Accessory uses or buildings which are customarily incidental to any of
 the above stated uses.
    D.   Planned Development District (PDD).
+(Subsection 2 – Ord._855 – Sep. 25 Supp.)
 3.   Special Exceptions. The following principal uses may be permitted as
 special exceptions by the Board of Adjustment in accordance with the provisions
 contained herein:
    A.   Any use permitted on review in the Single-Family Residential District.
-   B.   Townhouses, containing up to eight attached dwellings.
+   B.   Single-family attached dwellings, containing up to eight attached
+dwellings.
    C.   Parking area(s) accessory to a use in an adjoining, less restricted
 district, when abutting or directly across an alley or street.
    D.   Public utility service facilities such as, but not limited to, gas
 regulator station, telephone exchange, electric substation, water tower or
 well, sanitary sewer lift stations and treatment facilities, and
 telecommunication facilities.
+(Subsection 3 – Ord._855 – Sep. 25 Supp.)
 4.   Height Regulations. No principal building or structure will exceed 35 feet
 in height and no accessory structure will exceed the elevation of the principal
 building as verified by a State licensed professional engineer.
@@ -19132,7 +19821,8 @@ special exceptions by the Board of Adjustment in accordance with the provisions
 contained herein:
    A.   Church, temple, synagogue, or mosque.
    B.   Childcare center.
-   C.   Duplex, assuming underlying zoning district is either R-2 or R-3.
+   C.   Two-family dwellings, assuming underlying zoning district is either R-
+2 or R-3.
    D.   Home occupation.
    E.   Municipal administrative or public service building or properties,
 except storage yards, warehouses, or garages, connected therewith.
@@ -19144,6 +19834,7 @@ the same as ordinarily given in public schools.
 regulator station, telephone exchange, electric substation, water tower or
 well, sanitary sewer lift stations and treatment facilities, and
 telecommunication facilities.
+(Subsection 3 – Ord._855 – Sep. 25 Supp.)
 4.   Height Regulations. No principal building or structure will exceed 35 feet
 in height and no accessory structure will exceed the elevation of the principal
 building as verified by a State licensed professional engineer.
@@ -19295,7 +19986,7 @@ passive recreation, often enclosed by either landscaping or buildings, and
 encouraged to complement existing land uses. Tiles lining the plaza may be
 artistically designed in a mosaic to tell river or community history.
 Sample Easement Diagram
-[https://export.amlegal.com/media/a3cf6db6b3bcbba21021a8c7404dfe97a769bba6/
+[https://export.amlegal.com/media/3e35c7736fb27749608ba8a4377bf3cac6451e6f/
 IMAGES/0-0-0-2177.png]
  
 12.   Development Incentives. To encourage the creation of public space along
@@ -20585,15 +21276,14 @@ structure will exceed the maximum height as specified for each zoning district.
 ground floor area aggregate total of any one or more detached accessory
 buildings or structures on any residential lot, (including RR lots), or
 immediately adjoining lot(s) as specified in Section
-170.55, will not exceed the total ground floor area of the related principal
+170.40, will not exceed the total ground floor area of the related principal
 building or structure in question nor more than seven percent of the total lot
-area(s), whichever is larger. Any detached accessory building shall be stick-
-built with a permanent foundation, or the detached accessory building must be
+area(s), whichever is larger. Any detached accessory building greater than 120
+square feet shall be stick-built with a permanent foundation, or must be
 designed, manufactured, and originally intended to be used as an accessory
 structure and have a permanent foundation. There shall not be more than two
 detached accessory buildings associated with any one principal building at any
-time. No detached accessory building shall be used as a residence or dwelling
-unit.
+time.
    H.   Location on Lot. No detached accessory building or structure located in
 a residential district will be erected in any front yard and will be so located
 as to conform with all other applicable set-back requirements. In any
@@ -20602,6 +21292,7 @@ closer than eight feet to the principal building, and for each foot over 20
 feet in length that the wall of an accessory structure, (except swimming
 pools), parallels and is next to the principal building, the required distance
 between the structures shall be increased by an additional one foot.
+(Section 170.51 – Ord._855 – Sep. 25 Supp.)
 170.52   OFF-STREET PARKING AREAS AND LOADING SPACES AND SPECIAL PARKING
 PROVISIONS.
 1.   Definitions and Interpretations.
@@ -20615,25 +21306,32 @@ nonpublic purposes, such as restrooms, utilities, or dressing rooms.
    C.   “Fractions” means when units of measurement result in the requirement
 of a fractional space, any fraction will require one parking space.
    D.   “Parking space interpretation” means parking spaces required for
-single-family and duplexes must be located on a driveway, in a car port, or in
-a garage, or any continuous parking surface such as concrete, asphalt, paver
-bricks, or other alternative materials that are shown to be impervious yet as
-durable as concrete pavement. There shall be one off-street parking amenity per
-each dwelling unit.
-   E.   “Seating and benches in places of public assembly” means in stadiums,
+single-family and two-family dwellings must be located on a driveway, in a car
+port, or in a garage, or any continuous parking surface such as concrete,
+asphalt, paver bricks, or other alternative materials that are shown to be
+impervious yet as durable as concrete pavement.
+   E.   Parking space” means a permanently surfaced area, of brick, asphalt, or
+concrete, other than on a street or alley, either enclosed or unenclosed,
+sufficient in size to store one automobile, but not less than nine feet wide by
+19 feet long, and not less than 171 square feet, exclusive of permanently
+surfaced access drives, driveways, or aisles, connecting the parking space(s)
+with the street or alley, which permits satisfactory ingress and egress of an
+automobile. Parking spaces for the disabled shall be not less than that
+required by the Iowa Administrative Code.
+   F.   “Seating and benches in places of public assembly” means in stadiums,
 sports arenas, churches, and other places of public assembly in which patrons
 or spectators occupy benches, pews, or other similar seating facilities, each
 20 inches of such seating facilities will be counted as one seat for the
 purpose of determining requirements for off-street parking facilities under
 this Zoning Code.
-   F.   “Separation from use” means off-street parking will be located as
+   G.   “Separation from use” means off-street parking will be located as
 hereinafter specified. Where a distance is specified, such distance will be the
 walking distance measured from the nearest point of the parking facility to the
 nearest point of the building that such facility is required to serve. There
 will be no permanent recurring, on-street private parking allowed in any
 commercial or industrial district unless otherwise provided for by specific
-authorization of the Council through the site planning process. or without
-approval by the Board of Adjustment, as the case may be.
+authorization of the Council.
+(Subsection 1 – Ord._855 – Sep. 25 Supp.)
 2.   Off-Street Loading Spaces. In all districts, in connection with every
 building or part thereof hereafter erected, having a gross floor area of 2,500
 square feet or more, which is to be occupied by uses requiring the receipt or
@@ -20716,10 +21414,11 @@ herein:
       (1)   Residential Districts. In any residentially zoned districts, no
 vehicle will be parked in any yard except upon a permanently constructed
 driveway, built in accordance to provisions elsewhere in this Code. Parking
-lots may be allowed in residentially zoned districts if authorized by the Board
-of Adjustment and provided that the district does not require that the front
-yard be landscaped and devoted to another use, and further provided that the
-parking is in accordance with all other Zoning Code provisions.  
+lots may be allowed in the front yard of residentially zoned districts if
+authorized by the Board of Adjustment and provided that the district does not
+require that the front yard be landscaped and devoted to another use, and
+further provided that the parking is in accordance with all other Zoning Code
+provisions.
       (2)   Commercial and Industrial Districts. In commercial and industrial
 districts, no vehicle will be parked in any front yard except upon a
 permanently constructed parking lot. Parking lots are allowed in the front yard
@@ -20727,6 +21426,7 @@ of commercial and industrial districts provided that the district does not
 require that the front yard be landscaped and devoted to another use, and
 further provided that the parking is in accordance with all other Zoning Code
 provisions.
+(Paragraph A – Ord._855 – Sep. 25 Supp.)
    B.   Parkways. No parking will be permitted between the property line and
 the curb line or edge of the pavement or roadway in the event no curb exists.
    C.   Combining of Spaces. Off-Street parking space will be provided for each
@@ -20785,13 +21485,14 @@ provisions for ingress, egress, maneuvering, and required handicapped spaces:
    A.   Residential Uses.
  
 Use                               Parking Spaces Required
-One- and two-family dwellings     Two for each dwelling unit
+One- and two-family dwellings     Two for each dwelling unit excluding
+                                  accessory dwelling units
 Multiple-family dwellings         Two for each dwelling unit
 Hotels, motels, inns, auto courts Two for each guest room, sleeping room, plus
                                   one for owner, manager, and each employee
 Mobile home parks                 Two for each mobile home space
 Retirement village                Two for each dwelling unit
- 
+(Paragraph A – Ord._855 – Sep. 25 Supp.)
    B.   Commercial Uses.
 Use Parking Spaces Required
 Use                                                                         Parking Spaces
@@ -21543,7 +22244,11 @@ in the Petition for Hearing and Consideration of Action application form.
 The harboring and maintaining of livestock is only permitted in the General
 Agricultural and Rural Residential Districts where such activities in said
 district are no closer than 500 feet to the nearest residential dwelling other
-than that used by the party(s) conducting said activities.
+than that used by the party(s) conducting said activities. Urban chickens are
+permitted in Single-Family Residential or Rural Residential Districts in
+accordance with City Code
+Chapter 55.
+(Section 170.58 – Ord._852 – Sep. 25 Supp.)
 170.59   WIRELESS COMMUNICATION FACILITIES.
 The purpose of this section is to establish general guidelines for the siting
 of wireless communications towers and antennas. The goals of these provisions
@@ -21881,23 +22586,24 @@ Table 1
 Off-site Use/Designated Area Separation Distance
 Table 1
 Off-site Use/Designated Area               Separation Distance
-Single-family or duplex residential units1 200 feet or 200% height of tower,
+Single-family dwellings                    200 feet or 200% height of tower,
                                            whichever is greater
-Vacant single-family or duplex
+Vacant Single-Family or One-and Two-Family
 residentially zoned land which is either   200 feet or 200% height of tower,
 platted or has preliminary subdivision     whichever is greater2
 plan approval which is not expired
 Vacant unplatted residentially zoned       200 feet or 200% height of tower,
 lands3                                     whichever is greater
-Existing multi-family residential units    100 feet or 100% height of tower,
-greater than duplex units                  whichever is greater
+Existing multi-family residential          100 feet or 100% height of tower,
+dwellings                                  whichever is greater
 Non-residentially zoned lands or non-      None; only setbacks apply
 residential uses
 1 Includes modular homes and mobile homes used for living purposes.
 2 Separation measured from base of tower to closest building setback line.
 3 Includes any un-platted residential use properties without a valid
 preliminary subdivision plan or valid development plan approval and any multi-
-family residentially zoned land greater than duplex.
+family residentially zoned land.
+(Subparagraph (1) – Ord._855 – Sep. 25 Supp.)
 (2)   Separation distances between towers shall be applicable for and measured
 between the proposed tower and preexisting towers. The separation distances
 shall be measured by drawing or following a straight line between the base of
@@ -22301,26 +23007,25 @@ site plans.
 the property line, requires written authorization from the adjacent property
 owner and the Building and Zoning Enforcement Official.
 170.67   SHORT-TERM RENTAL.
-Short-term rental as a permitted use for residential homeowners, homestay shall
-be considered as a home occupation use for a primary residence. Unlike other
-home occupation standards, it shall not require a special exception. The home
-occupation of homestay shall meet all other standards of home occupations, as
-outlined below.
-1.   Any commodity sold upon the premises, except that which is produced
-thereon.
-2.   Any disturbance such as noise, vibration, smoke, dust, odor, heat, or
-glare extending beyond the confines of the dwelling unit or accessory
-structure.
-3.   Any exterior display, exterior storage of materials, signs (except as
+Short-term rental is a permitted use for residential property or dwelling
+units, and shall be considered a No-Impact Home Occupation use for residential
+properties. The short-term rental shall meet all other standards of home
+occupations, in addition to those outlined below.
+1.   Any disturbance such as noise, vibration, smoke, dust, odor, heat, or
+glare extending beyond the confines of the dwelling unit or accessory structure
+is prohibited.
+2.   Any exterior display, exterior storage of materials, signs (except as
 otherwise permitted), house calls after 9:00 p.m. or before 8:00 a.m., exterior
 additions or alterations or other indication from the exterior that the
 dwelling unit or accessory structure is being used in part for any use other
-than that of a dwelling or accessory structure for purely residential purposes.
-4.   If, in the determination of the Building and Zoning Enforcement Officer,
-the above conditions are not being met or that the home occupation creates a
+than that of a dwelling or accessory structure for purely residential purposes
+are prohibited.
+3.   If, in the determination of the Building and Zoning Enforcement Officer,
+the above conditions are not being met or that the short-term rental creates a
 disturbance or becomes a nuisance to the general neighborhood in some other
-manner, the home occupation will be treated as a nuisance under
-Chapter 50 of this code.
+manner, the short-term rental will be treated as a nuisance under
+Chapter 50 of this Code.
+(Section 170.67 – Ord._855 – Sep. 25 Supp.)
 CHAPTER 175
 SUBDIVISION REGULATIONS
 175.01 Short Title                      175.24 Blocks

@@ -7,7 +7,7 @@ PELLA, IOWA
 Copyright Notice
 Adopted September 2, 2003, by Ordinance No. 623
 Current through Ordinance No. 916 , passed 10-18-16
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-14_3810x3810.jpg]
  
 © IOWA CODIFICATION, INC.COPYRIGHT NOTICE
@@ -538,6 +538,32 @@ Oct.     Ch. 165                     1034 3-5-24   Zoning Map
          171.05                      1048 10-1-24  City Parking Fees
          Ch. 165                     1049 10-15-24 Zoning Map
          Ch. 165                     1050 10-15-24 Zoning Map
+Oct-25   Ch. 165                     1051 11-5-24  Zoning Map
+         Ch. 165                     1052 11-5-24  Zoning Map
+         Ch. 7                       1053 12-3-24  Urban Renewal Area
+         165.13.5(2C), 165.13.5(5C)  1054 12-17-24 Historic District Review
+         171.01(25)                  1055 12-17-24 Telecommunication Rates & Fees
+         Ch. 165                     1056 1-7-25   Zoning Map
+         Ch. 165                     1057 1-7-25   Zoning Map
+         Ch. 165                     1058 1-7-25   Zoning Map
+         Ch. 165                     1059 1-7-25   Zoning Map
+         Ch. 165                     1060 1-7-25   Zoning Map
+         Ch. 165                     1061 1-7-25   Zoning Map
+         Ch. 158                     1062 12-17-24 International Building Code
+         Ch. 157                     1063 12-17-24 International Residential Code
+         159.01, 159.02              1064 12-17-24 National Electrical Code
+         Ch. 165                     1065 3-4-25   Zoning Map
+         Ch. 165                     1066 6-3-25   Zoning Map
+         171.01(8)                   1067 6-3-25   Water Rates
+         171.01(9)                   1068 6-3-25   Sewer Rates
+         171.01(25)                  1069 6-3-25   Telecommunication Rates & Fees
+         Ch. 137                     1070 7-1-25   Easement Vacation
+         Ch. 137                     1071 7-1-25   Easement Vacation
+         Ch. 137                     1072 7-1-25   Easement Vacation
+         Ch. 165                     1073 7-1-25   Zoning Map
+         41.12                       1074 7-1-25   Fireworks
+         Ch. 171                     1075 8-5-25   Various Rates and Fees
+         Ch. 165                     1076 9-16-25  Zoning Map
                                                  
  
 CHAPTER 1
@@ -1245,6 +1271,7 @@ ORDINANCE NO. ADOPTED            NAME OF AREA
 1023          December 20, 2022  Webster Park Urban Renewal Area
 1042          July 2, 2024       Westside Urban Renewal Area
 1043          October 1, 2024    EPCON Residential Urban Renewal Area
+1053          December 3, 2024   Prairie Ridge West Urban Renewal Area
  
 CHAPTER 8
 HOTEL AND MOTEL TAX
@@ -3247,7 +3274,7 @@ PUBLIC HEALTH AND SAFETY
 with Public
 Safety Entities                          41.10 Throwing and Shooting
 41.03 Refusing to Assist Officer         41.11 Urinating and Defecating
-41.04 Harassment of Public Officers and  41.12 Fireworks
+41.04 Harassment of Public Officers and  41.12 Use of Fireworks
 Employees
 41.05 Interference with Official Acts    41.13 Extreme Fighting Contests
 41.06 Abandoned or Unattended            41.14 Indecent Exposure or Conduct
@@ -3344,45 +3371,94 @@ It is unlawful for any person to urinate or defecate onto any sidewalk, street,
 alley, or other public way, or onto any public or private building, including
 but not limited to the wall, floor, hallway, steps, stairway, doorway or window
 thereof, or onto any public or private land.
-41.12 FIREWORKS.
-1.   Consumer Fireworks.
-   A.   It shall be unlawful for a person to use or explode consumer fireworks
-as defined in Iowa Code section 727.2 within the city limits.
-   B.   It shall be a simple misdemeanor punishable by a fine of two hundred
-fifty dollars for any person to use or explode consumer fireworks within the
-city limits.
-   C.   It shall be unlawful for a person to offer for sale, expose for sale,
-or sell at retail consumer fireworks, unless a person is a retailer or
-community group as defined in Iowa Code Chapter 100 and possesses and complies
-with all requirements of a consumer fireworks seller license issued by the
-state fire marshal. Consumer fireworks may only be sold during the dates and
-times as allowed under Iowa Code Chapter 100 and in zoning districts permitted
-by section 165.12(15) of the Pella Zoning Ordinance.
-2.   Display Fireworks.
-   A.   It shall be unlawful to for any person to use or explode any display
-fireworks as defined in Iowa Code section 727.2 within the city limits unless,
-upon application in writing, the City has issued a permit for the use or
-explosion of display fireworks by a City agency, fair associations, amusement
-parks and other organizations or groups of individuals approved by City
-authorities when such display fireworks will be handled by a competent
-operator. No permit shall be granted hereunder unless the operator or
-sponsoring organization has filed with the City evidence of insurance in the
-following amounts:
-      (1)   Personal Injury: - $250,000 per person.
-      (2)   Property Damage: - $50,000.
-      (3)   Total Exposure: - $1,000,000.
-   B.   A person, firm, partnership, or corporation who uses or explodes any
-display fireworks without obtaining the appropriate permit from the City
-commits a simple misdemeanor punishable by a fine of two hundred fifty dollars.
+41.12 USE OF FIREWORKS.
+1.   Definitions.
+   A.   “Consumer fireworks" includes first- and second-class consumer
+fireworks, as those terms are defined in Iowa Code section 10A.519(1).
+“Consumer fireworks” does not include novelties enumerated in chapter 3 of the
+American pyrotechnics association’s standard 87-1 or display fireworks
+enumerated in chapter 4 of the American pyrotechnics association’s standard 87-
+1.
+   B.   “Display fireworks” includes any explosive composition, or combination
+of explosive substances, or article prepared for the purpose of producing a
+visible or audible effect by combustion, explosion, deflagration, or
+detonation, and includes fireworks containing any explosive or flammable
+compound, or other device containing any explosive substance. “Display
+fireworks” does not include novelties or consumer fireworks enumerated in
+chapter 3 of the American pyrotechnics association’s standard 87-1.
+   C.   “Novelties” include all novelties enumerated in chapter 3 of the
+American Pyrotechnics association’s standard 87-1, and the comply with the
+labeling regulations promulgated by the United States consumer product safety
+commission.
+   D.   “Competent operator” means a person who:
+      (1)   Is at least 21 years of age; and
+      (2)   Can demonstrate:
+         a.   Proper training, testing, certification, or licensure from:
+            i.   A national or other reputable organization promoting safety in
+firework displays; or
+            ii.   A jurisdiction or governmental entity in or for firework
+display operation; or
+         b.   Employment with a firm, corporation, association, or entity
+involved in the business of operating firework displays, and properly insured
+therefor.
+2.    Lawful Fireworks Use.
+   A.   It shall be lawful for a person to use or explode consumer fireworks,
+display fireworks, or novelties, as defined in Iowa Code section 727.2, in the
+city limits only on the following days and times:
+      (1)   On July 3, between 9:00 a.m. and 10:00 p.m., when July 3 falls on a
+weekday;
+      (2)   On July 3, between 9:00 a.m. and 11:00 p.m., when July 3 falls on a
+Saturday or Sunday;
+      (3)   On July 4, between 9:00 a.m. and 11:00 p.m.; and
+      (4)   On December 31, between 9:00 a.m. and 12:30 a.m. on the immediately
+following January 1.
+   A person shall not use or explode consumer fireworks, display fireworks, or
+novelties on any other day or at any other time than those permitted by this
+section.
+   B.   Display Fireworks Permit. The fire chief or their designee may, upon
+written application, grant a permit for the use of display fireworks within the
+city limits by an organization or group of individuals approved by the city
+when the fireworks display will be handled by a competent operator. Such permit
+shall be required in advance for such fireworks display. No permit shall be
+granted hereunder unless the operator or sponsoring organization has filed with
+the City evidence of insurance in the following minimum amounts:
+      (1)   Personal Injury: $250,000 per person;
+      (2)   Property Damage: $50,000
+      (3)   Total Exposure: $1,000,000
+3.   Unlawful Fireworks Use. It shall be unlawful:
+   A.   For any person to use or explode consumer fireworks or display
+fireworks in the city limits outside of those times permitted under this
+section;
+   B.   For any person to use or explode consumer fireworks or display
+fireworks in city parks and on city-owned property, except as may be authorized
+by a permit issued by the city;
+   C.   For any person to use or explode consumer fireworks, display fireworks,
+or novelties while the use of such devices is suspended by an order of the
+director of the department of inspections, appeals, and licensing or by city
+ordinance;
+   D.   For any person, firm, partnership, or corporation to sell consumer
+fireworks to a person who is less than 18 years of age, or for a person less
+than 18 years of age to purchase consumer fireworks.
+   E.   For any person to use or explode consumer fireworks on real property
+other than that person's real property or on the real property of another
+person who has not consented to the use or explosion of consumer fireworks on
+said property;
+   F.   For any person to use or explode display or consumer fireworks from a
+vehicle or to discharge, aim or point fireworks in the direction of another
+person.
+   G.   For any person, organization, or group of individuals to use or explode
+display fireworks without a proper permit from the fire chief, or without a
+competent operator.
+4.   It shall be unlawful for a person to offer for sale, expose for sale, or
+sell at retail consumer fireworks, unless a person is a retailer or community
+group as those terms are defined in Iowa Code section 10A.519(1) and possesses
+and complies with all requirements for a consumer fireworks seller license
+issued by the Director of Inspections, Appeals, and Licensing for the State of
+Iowa. Consumer fireworks may only be sold in the zoning districts permitted by
+section 165.12 (15) of the Pella Zoning Ordinance.
+5.   Any violation of this section will result in a simple misdemeanor charge,
+punishable by a fine of not less than $250.00.
 (Ord. 941 - Jun. 18 Supp.)
-3.   Exceptions. This section does not prohibit the sale by a resident, dealer,
-manufacturer or jobber of such fireworks as are not prohibited; or the sale of
-any kind of fireworks if they are to be shipped out of State; or the sale or
-use of blank cartridges for a show or theatre, or for signal purposes in
-athletic sports or by railroads or trucks for signal purposes, or by a
-recognized military organization. This section does not apply to any substance
-or composition prepared and sold for medicinal or fumigation purposes.
-(Code of Iowa, Sec. 727.2)
 41.13 EXTREME FIGHTING CONTESTS.
 No person shall hold, promote, or participate in an extreme fighting contest
 within the City. For purposes of this section, "extreme fighting contest" means
@@ -3395,7 +3471,7 @@ wrestling, or martial arts provided that such activities are conducted before a
 licensed official or in accordance with official rules adopted by a nationally
 recognized organization. Any person violating this section commits a simple
 misdemeanor.
-(Ord. 797 - Sep. 09 Supp.)
+(Ord. 1074 – Oct. 25 Supp.)
 41.14 INDECENT EXPOSURE OR CONDUCT.
 It is unlawful for any person to knowingly and intentionally engage in or cause
 another person to commit any act of indecent exposure or conduct in a place
@@ -6809,6 +6885,186 @@ City. Golf carts are allowed to cross any of the foregoing named restricted
 streets or a City street which is a primary road extension through the City, so
 long as all statutes, regulations, restrictions and other rules of the road
 pertaining to the operation of motor vehicles are obeyed.
+CHAPTER 79
+OFF-ROAD UTILITY VEHICLES
+ 
+79.01 Purpose             79.07 Traffic Code
+79.02 Definition          79.08 Parking
+79.03 Requirements        79.09 Accident Reports
+79.04 Places of Operation 79.10 Liability
+79.05 Hours of Operation  79.11 Penalty
+79.06 Speed                
+ 
+79.01 PURPOSE.
+The purpose of this chapter is to regulate the operation of Off-road Utility
+Vehicles ("UTVs")within the City. This chapter applies whenever a UTV is
+operated on any street or alley, subject to those exceptions stated herein.
+79.02 DEFINITIONS.
+1.   “Child restraint system” is a specially designed seating system, including
+a belt positioning seat or booster seat which meets federal motor vehicle
+safety standards and is used in accordance with the manufacturer's
+instructions.
+2.   “Off-road utility vehicle” (“UTV”) means a motorized vehicle with not less
+than four and not more than eight non-highway tires or rubberized tracks that
+has a seat that is of bucket or bench design, not intended to be straddled by
+the operator, and a steering wheel or control levers for control. “Off-road
+utility vehicle” includes the following vehicles:
+   A.    “Off-road utility vehicle — type 1” means an off-road utility vehicle
+with a total dry weight of one thousand two hundred pounds or less and a width
+of fifty inches or less.
+   B.   “Off-road utility vehicle — type 2” means an off-road utility vehicle,
+other than a type 1 off-road utility vehicle, with a total dry weight of two
+thousand pounds or less, and a width of sixty-five inches or less.
+   C.   “Off-road utility vehicle — type 3” means an off-road utility vehicle
+with a total dry weight of more than two thousand pounds or a width of more
+than sixty-five inches, or both.
+3.   “Operator” means a person who operates or is in actual physical control of
+the UTV.
+79.03 REQUIREMENTS.
+Operators of UTVs must adhere to the following equipment requirements and
+restrictions while operating UTVs within the City limits:
+1.   Operators of UTVs within the City limits must be 18 years of age or older
+and possess a valid driver’s license.
+2.   A person shall not operate a UTV within the City limits unless the
+operator has proof of financial liability coverage in effect for the vehicle.
+An Operator must carry proof of financial liability coverage at all times.
+3.   Owners of UTVs operated within City limits shall register their UTV with
+the Iowa Department of Natural Resources, and proof of such registration shall
+be displayed and provided, upon request, to any peace officer requesting it.
+Those who live outside of Iowa can purchase an OHV non-resident user permit
+through the Iowa DNR Online License and Registration website. The registration
+decal must be affixed to the rear of the UTV and must be clearly visible.
+4.   A person shall not operate a UTV on any road, street, highway, or
+interstate prohibited by the Iowa Code.
+5.   UTVs must always display lighted headlamps and taillamps while the vehicle
+is operated on City streets or highways.
+6.   UTVs must be equipped with:
+   A.   A reflective slow moving vehicle sign with an orange triangle and dark
+red border displayed on the rear of the vehicle.
+   B.   Operational turn signal lamps with a manually operated switch
+controlled by the driver.
+   C.   Properly operating speedometer and odometer calibrated in miles per
+hour and miles respectively and shall be fully illuminated when the headlamp(s)
+are activated.
+   D.   Operational horn with a switch controlled by the driver.
+   E.   Operational and adequate brakes to stop and hold the UTV in a stopped
+position.
+   F.   Two operational headlamps and taillamps must be affixed to each side on
+the front and back of the UTV. Taillamps shall be red and include a stop lamp
+activated by pressing the brake pedal. The use of light bars, spotlights, or
+decorative lights is not permitted while the UTV is being operated on City
+streets or highways.
+   G.   Rear-facing mirror providing the operator with a clear view of the
+rear.
+   H.   A system of structural elements designed to reduce the likelihood that
+an occupant would be crushed as the result of a rollover of the vehicle.
+   I.   A muffler that shall limit engine noise to not more than 86 decibels,
+as measured on the "A" scale of the American National Standards Institute
+(ANSI), incorporated, publications S1.4-1961, general purpose sound level
+meters, at a distance of 50 feet.
+7.   While the UTV is in motion, all occupants must wear safety belts or safety
+harnesses which conform with federal motor vehicle safety standard numbers 209
+and 210 as published in 49 C.F.R. § 571.209-571.210, except:
+   A.   Children under one year old and weighing less than 20 pounds must be
+secured in a rear-facing child restraint system while the UTV is motion.
+   B.   Children ages one to six years must be secured in a child restraint
+system (safety seat or booster seat) while the UTV is in motion.
+   C.    Any child restraint system must be properly secured to the UTV while
+in motion.
+   D.   Animals shall not be transported in the cargo portion, bed or attached
+trailer of a UTV unless they are contained within an enclosure secured to the
+UTV.
+8.   No seat shall be used by more than one person at a time.
+9.   No person may ride on the lap of another.
+10.   The number of passengers in a UTV shall not exceed the number of factory-
+installed seats in the UTV.
+11.   No cargo, materials, supplies, or other items may be transported on UTVs
+without being securely restrained.
+12.   No person shall be allowed in the cargo portion, bed or on an attached
+trailer while the UTV is being operated.
+13.   UTV doors or nets must be closed during operation if so equipped.
+14.   UTV operators shall not operate a UTV equipped with metal studded tires
+and/or tire chains on or alongside any City street or highway.
+15.   No open containers of alcohol shall be allowed while the UTV is being
+operated.
+16.   Operators under the influence of intoxicating liquor(s), narcotics, or
+habit-forming drugs are subject to the penalties outlined in Iowa Code Chapter
+321J.
+17.   No UTV will be operated in a careless or reckless manner so as to:
+endanger any person; cause injury or damage to person or property; create
+unnecessary skidding or sliding; or cause a wheel or wheels to lose traction or
+contact with the ground.
+79.04 PLACES OF OPERATION.
+1.   No person shall operate a UTV within the City in violation of the
+provisions of the Iowa Code or rules established by the Natural Resources
+Commission of the Department of Natural Resources.
+2.   UTVs shall not be operated on any city street or roadway which has a
+posted speed greater than 35 miles per hour.
+3.   UTVs shall not be operated on any City recreational bike trail or lanes.
+4.   UTVs shall not be operated upon sidewalks, unless operated for official
+city use or snow removal.
+5.   UTVs shall not be operated upon that portion of a street right-of-way
+between the curb or edge of street paving and the sidewalk referred to as the
+"parking".
+6.   UTVs shall not be operated in City parks or upon other city owned land
+unless for a special event authorized by the City Council.
+7.   A UTV may be used to move snow from a driveway or parking lot.
+8.   Notwithstanding any prohibitions in this chapter, a UTV may be operated
+contrary to regulations prescribed in this chapter in a police-designated
+emergency or by any recognized government employees involved in performing
+essential services for the City, by any law enforcement officers in accordance
+with the performance of their duties, or in relation to any construction or
+maintenance authorized by the City.
+9.   Direct Crossing. UTVs may make a direct crossing of a prohibited street
+provided:
+   A.   The crossing is made at an angle of approximately ninety degrees (90°)
+to the direction of the street and at a place where no obstruction prevents a
+quick and safe crossing;
+   B.   The UTV is brought to a complete stop before crossing the street;
+   C.   The operator yields the right-of-way to all on-going traffic which
+constitutes an immediate hazard;
+   D.   In crossing a divided street, the crossing is made only at an
+intersection of such street with another street; and
+   E.   The crossing is made from a street, roadway, or highway on which the
+UTV is authorized to operate to a street, roadway, or highway on which such
+vehicle is authorized to operate.
+10.   No person shall operate a UTV in a careless, reckless, or negligent
+matter so as to endanger the person or property of another or to cause injury
+or damage thereto.
+79.05 HOURS OF OPERATION.
+UTVs may be operated on City streets and alleys during the daytime and during
+the nighttime.
+79.06 SPEED.
+No UTV shall be operated at a speed in excess of thirty-five (35) miles per
+hour or more than the posted speed limit if less than thirty-five miles per
+hour, nor shall any UTV be operated at a speed greater than is reasonable and
+proper for the existing conditions.
+79.07 TRAFFIC CODE.
+Any person operating a UTV shall strictly adhere to all traffic signs and
+signals and all other traffic rules and regulations, and shall obey the orders
+and direction of any law enforcement officer authorized to direct or regulate
+traffic. No person shall leave a UTV unattended on public property while the
+motor is running or if the keys are in the ignition switch.
+79.08 PARKING.
+UTVs shall not be parked overnight on City streets, alleys or city owned
+parking lots at any time.
+79.09 ACCIDENT REPORTS.
+Either the operator, or someone acting for the operator, shall immediately
+notify a law enforcement officer whenever a UTV is involved in an accident
+resulting in injury or death to anyone, or property damage amounting to one
+thousand five hundred dollars ($1,500) or more, and shall file an accident
+report within forty-eight (48) hours, in accordance with the Iowa Code.
+79.10 LIABILITY.
+The owner and operator of a UTV are liable for any injury or damage occasioned
+by the negligent operation of the UTV. The owner of the UTV shall be liable for
+any injury or damage only if the owner was the operator of the UTV at the time
+of the injury or damage occurred or if the operator had the owner’s consent to
+operate the UTV at the time of the injury or damage.
+79.11 PENALTY.
+In addition to any penalties outlined in the Iowa Code, penalties for
+violations of Chapter 79 are established in CHAPTER 4 MUNICIPAL INFRACTIONS of
+the City of Pella, Iowa Code of Ordinances.
+(Ch. 79 – Ord. 1078 – Oct. 25 Supp.)
 CHAPTER 80
 ABANDONED VEHICLES
  
@@ -12122,6 +12378,9 @@ ORDINANCE NO. ADOPTED            ORDINANCE NO. ADOPTED
 992           May 18, 2021
 1011          May 17, 2022
 1025          January 17, 2023
+1070          July 1, 2025
+1071          July 1, 2025
+1072          July 1, 2025
  
 CHAPTER 138
 STREET GRADES
@@ -13162,30 +13421,41 @@ Delete Chapter 7 Fire Safety Requirements
 CHAPTER 157
 RESIDENTIAL CODE
  
-157.01  Adoption of International Residential Code 157.03 When Effective
-157.02  Revisions                                  157.04 Scope
+157.01  International Residential Code 157.03 Conflicting Provisions
+157.02  Revisions                       
  
-157.01 ADOPTION OF INTERNATIONAL RESIDENTIAL CODE.
-A certain document, three (3) copies of which are on file in the office of the
-Planning and Zoning Department, being marked and designated as the
-International Residential Code, 2015 edition as published by the International
-Code Council, be and is hereby adopted as the Residential Code of the City of
-Pella, Iowa for regulating and governing the construction, alteration,
-movement, enlargement, replacement, repair, equipment, location, removal and
-demolition of detached one and two family dwellings and multiple single family
-dwellings (townhouses) not more than three stories in height with separate
-means of egress as herein provided; providing for the issuance of permits and
-collection of fees therefor; and each and all of the regulations, provisions,
-penalties, conditions and terms of said Residential Code on file in the office
-of the Planning and Zoning Department are hereby referred to, adopted, and made
-a part hereof, as if fully set out in this chapter, with the additions,
-insertions, deletions and changes, if any, prescribed in Section 157.02 of this
-chapter.
+157.01 INTERNATIONAL RESIDENTIAL CODE.
+1.   Adoption of International Residential Code, 2021 Edition. Pursuant to
+published notice and public hearing, as required by law, the International
+Residential Code (IRC), 2021 edition as published by the International Code
+Council, be and is hereby adopted as the Residential Code of the City of Pella,
+Iowa, for regulating and governing the construction, alteration, movement,
+enlargement, replacement, repair, equipment, use and occupancy, location,
+removal and demolition of detached one and two family dwellings and multiple
+single family dwellings (townhouses) not more than three stories above grade
+plane in height with a separate means of egress and their accessory structures
+not more than three stories above grade plane in height as therein provided;
+providing for the issuance of permits and collection of fees therefor; and each
+and all of the regulations, provisions, penalties, conditions and terms of said
+Residential Code on file in the office of the Planning and Zoning Department
+are hereby referred to, adopted, and made a part hereof, as if fully set out in
+this chapter, with the additions, insertions, deletions and changes, if any,
+prescribed in Section 157.02 of this chapter. Three (3) copies of the IRC, 2021
+edition, are on file in the office of the Planning and Zoning Department of the
+City of Pella, Iowa.
+2.   Referenced Codes. All codes mentioned in the International Residential
+Code, 2021 edition, including: Existing Building Code, Property Maintenance
+Code, Fire Code, Pool Code, Internation Energy Conservation Code, International
+Plumbing and Mechanical Code, shall be adopted as referenced in the 2021
+International Residential Code but only to the extent they do not contradict
+any code provisions explicitly adopted by reference or enacted elsewhere in the
+City’s Code of Ordinances.
 157.02 REVISIONS.
-The following sections are hereby revised:
-Section R101.1. Insert: City of Pella
-Delete R102.7.1 Additions, alterations or repairs and replace with the
-following:
+The following sections of the International Residential Code (IRC), 2021
+edition are hereby revised as follows:
+1.   Insert “City of Pella” in Section R101.1.
+2.   Delete Section R102.7.1 Additions, alterations, or repairs, and replace
+with the following:
 R102.7.1 Additions, alterations or repairs. Additions, alterations or repairs
 to any structure shall conform to that required for a new structure without
 requiring the existing structure to comply with all of the requirements of this
@@ -13194,39 +13464,39 @@ cause an existing structure to become unsafe or adversely affect the
 performance of the building. The provisions of this Ordinance shall not apply
 to remodels or other alterations where the outer dimensions of the structure
 are not changed.
-Delete Section R103 Department of Building Safety and replace with the
+3.   Delete Section R103 Department of Building Safety and replace with the
 following:
-Section R103 Building Official
-R103.1 Building Official. The official in charge of administering this
-Ordinance shall be known as the building official and shall be under the
-Planning and Zoning Department.
+Section R103 Building Official R103.1 Building Official. The official in charge
+of administering this Ordinance shall be known as the building official and
+shall be a part of the Planning and Zoning Department.
 R103.2 Delegation. The building official may delegate the duties as prescribed
 herein to other personnel, including field inspectors, plan reviewers, code
 enforcement officers, or other persons capable of performing the duties
 delegated.
-Delete R105.11 Required, and replace with the following:
+4.   Delete Section R105.1 Required, and replace with the following:
 R105.1 Required. Any owner or authorized agent who intends to construct,
-enlarge, alter, repair, move, demolish, or charge the occupancy of a building
+enlarge, alter, repair, move, demolish, or change the occupancy of a building
 or structure, or to erect, install, enlarge, alter, repair, remove, convert, or
 replace any electrical, gas, mechanical or plumbing system, the installation of
 which is regulated by this code, or to cause any such work to be done, shall
 first make application to the building official and obtain the required permit
 or permits as required by the Code of Ordinances of the City of Pella, Iowa.
-Delete R105.2 Work Exempt from permit, and replace with the following:
-R105.2 Work Exempt from Permit. A building permit shall not be required for the
-following. Exemption from the permit requirements of this code shall not be
-deemed to grant authorization for any work to be done in any manner in
-violation of the provisions of this code or any other laws or ordinances of
-this jurisdiction.
+5.   Delete Section R105.2 Work Exempt from permit, and replace with the
+following:
+R105.2 Work Exempt from Permit. Exemption from the permit requirements of this
+code shall not be deemed to grant authorization for any work to be done in any
+manner in violation of the provisions of this code or any other laws or
+ordinances of this jurisdiction. A building permit shall not be required for
+the following:
 Building:
 1.   One-story detached accessory buildings used as tool or storage sheds,
-playhouses, pet shelters and similar uses, provided the foot print of the
+playhouses, pet shelters and similar uses, provided the floor area of the
 structure does not exceed 100 square feet and complies with all applicable
 zoning and setback requirements.
 2.   Water tanks supported directly upon grade if the capacity does not exceed
 5,000 gallons (18927L) and the ratio of the height to diameter or width does
 not exceed 2 to 1.
-3.   Painting, papering, tiling, carpeting, cabinets, counter tops and similar
+3.   Painting, papering, tiling, carpeting, cabinets, counter tops, and similar
 finish work.
 4.   Prefabricated swimming pools that are less than 24 inches (610 mm) deep
 with no electrical.
@@ -13236,106 +13506,93 @@ dwelling.
 7.   Window awnings supported by an exterior wall which do not project more
 than 54 inches (1372 mm) from the exterior wall and do not require additional
 support.
-Delete R106.1 Submittal Documents, and replace with the following:
+6.   Delete Section R106.1 Submittal Documents, and replace with the following:
 R106.1 Submittal Documents. For new single & two family construction and single
-& two family additions, a completed permit application shall be accompanied by:
-1.) Residential Plot Plan showing the actual dimensions and shape of the lot to
-be built upon, the exact sizes and location of the buildings already existing
-on the lot, if any; and the location and dimensions of the proposed building or
-alteration.
-Two sets of Structural Plans, drawn to scale, indicating floor plans for the
-basement, first floor, second floor, third floor, etc., elevations, foundation
-plans, stair sections, wall sections, truss engineering & connections and any
-pertinent details relating to the design and construction of the project. 3.)
-Energy Review; either a Home Heating Index Calculation (HHI) or a RESCheck
-Energy Analysis Compliance Certificate.
-The building official has the right to require that Structural Plans and
-specifications are prepared, designed and/or certified by an engineer or
-architect licensed by the State of Iowa, to practice such.
-Delete R106.2 Site Plan, and replace with the following:
+& two family additions, a completed permit application shall be accompanied by
+a Residential Plot Plan. Documents must be submitted electronically or on a
+flash drive and shall include the following: drawings, drawn to scale, or
+dimensioned indicating floor plans for the basement, first floor, second floor,
+third floor, etc.; elevations, foundation plans, stair sections, wall sections,
+truss engineering & connections and any pertinent details relating to the
+design and construction of the project; an energy review consisting of either a
+Home Heating Index Calculation (HHI) or a RES Check Energy Analysis Compliance
+Certificate. The building official has the right to require that Structural
+Plans and specifications are prepared, designed and/or certified by an engineer
+or architect licensed by the State of Iowa, to practice such.
+7.   Delete Section R106.2 Site Plan or plot plan, and replace with the
+following:
 R106.2 Residential Plot Plan. The construction documents submitted with the
 application for permit shall be accompanied by a residential plot plan showing
-the size and location of new construction and existing structures on the site
-and distances from lot lines. In the case of demolition, the residential plot
-plan shall show construction to be demolished and the location and size of
-existing structures and construction that are to remain on the site or plot.
-Delete R108.1 Schedule of Rates and Fees, and replace with the following:
+the following: 1. the actual dimensions and shape of the lot to be built upon;
+2. the exact sizes and location of the buildings already existing on the lot,
+if any; 3. the location and dimensions of the proposed building or alteration;
+and 4. the size and location of new construction and existing structures on the
+site and distances from lot lines.
+In the case of demolition, the residential plot plan shall show construction to
+be demolished and the location and size of existing structures and construction
+that are to remain on the site or plot.
+8.   Delete Section R108.1 Payment of Fees, and replace with the following:
 R108.1 Payment of Fees. A permit shall not be valid until the fees prescribed
 in Chapter 171.01 of the Code of Ordinances, Pella, Iowa, have been paid. Nor
 shall an amendment to a permit be released until the additional fee, if any,
 has been paid.
-Delete R108.3 Building Permits Valuations, and replace with the following:
-R108.3 Building Permits Valuations. Building permit valuation shall include
+9.   Delete Section R108.3 Building permit valuations, and replace with the
+following:
+R108.3 Building Permit Valuations. Building permit valuation shall include the
 total value of the work for which a permit is being issued, such as electrical,
-gas, mechanical, plumbing equipment and other permanent systems, including
+gas, mechanical, plumbing equipment, and other permanent systems, including
 materials and labor. If a permit is issued for a specific amount of work and,
 upon inspection, it is determined that more work was performed than was
 authorized by the permit, the permittee shall amend the permit or obtain
 another permit to include all additional work and shall pay a new base fee.
-Delete R113.4 Violation penalties, and replace with the following:
+10.   Delete Section R113.4 Violation penalties, and replace with the
+following:
 R113.4 Violation penalties. Any person who violates a provision of this code or
 fails to comply with any of the requirements thereof or who erects, constructs,
 alters or repairs a building or structure in violation of the approved
 construction documents or directive of the building official, or of a permit or
-certificate issued under the provisions of this code, shall be subject to
-penalties as prescribed by the Code of Ordinances of the City of Pella, Iowa.
-Delete R114.2 Unlawful continuance, and replace with the following:
+certificate issued under the provisions of this code, shall be a Municipal
+Infraction subject to the penalties as prescribed by Chapter 171.01 of the Code
+of Ordinances of the City of Pella, Iowa.
+11.   Delete Section R114.4 Failure to comply, and replace with the following:
 R114.2 Unlawful continuance. Any person, who shall continue any work in or
 about the structure after having been served with a stop work order, except
 such work as that person is directed to perform to remove a violation or unsafe
 condition, shall be subject to penalties as prescribed by the Code of
 Ordinances of the City of Pella, Iowa.
-Delete all references to the ICC Electrical Code and replace with the National
-Electrical Code.
-Delete Code Section: IRC 302.13, Exception 4 Replace with the following
-language:
-Exception
-4. Approved floor assemblies demonstrating equivalent fire performance by an
-approved testing company showing length and time duration for exposure to fire.
-It shall be defined by performance equivalent to 26 minutes using ASTM E119
-standard fire endurance testing with a superimposed load simulating a maximum
-load condition (i.e. 100% design load).
-Insert Exception # 2 to 310.1 Add the following language:
-Exception
-2. For 1 and 2 family dwellings constructed under the provisions of the 1988
-Uniform Building Code or a previously adopted code (prior to 1988) that are
-undergoing a renovation which requires an emergency escape window to an
-existing basement without a compliant emergency escape window; an emergency
-escape window shall not be require where the following conditions are met:
-1. An emergency escape window or door and the stairs to the floor above are
+12.   Delete Exception #2 to Section 310.1 and replace with the following:
+2.   For 1 and 2 family dwellings constructed under the provisions of the 1988
+Uniform Building Code, or a code adopted prior to 1988, that are undergoing a
+renovation which requires an emergency escape window to an existing basement
+without a compliant emergency escape window; an emergency escape window shall
+not be required when all of the following conditions are met:
+2.1  An emergency escape window or door and the stairs to the floor above are
 placed a distance apart equal to not less than one-half of the length of the
 maximum overall diagonal dimension of the basement area.
-2. Additional smoke alarms are installed in each area or room in the basement.
-3. The common path of egress travel distance starting in the remote corner of
+2.2  Additional smoke alarms are installed in each area or room in the
+basement.
+2.3  The common path of egress travel distance starting in the remote corner of
 the bedroom does not exceed 25 feet.
-4. The underside and supporting structure of the stair to the floors above is
-protected with ½ inch gypsum board or equivalent. Note: This exception does not
-apply to townhouses.
-Insert Exception #1 into Code Section: IRC 310.2.2 Add the following language:
-Exception
-1. A landing may be provided to meet the maximum sill height of forty-four (44)
-inches above the floor or landing provided. The landing shall be not less than
-thirty-six (36) inches wide, not less than twelve (12) inches out from the
-exterior wall, and not more than twenty-four (24) inches in height. The landing
-shall be permanently affixed to the floor below or the wall under the window it
-serves.
-Insert Exception #3 into Code Section: IRC 311.7.5.1 Add to the following
-language:
-Exception
-3. The dimension of the top and bottom riser of a stair may vary up to 1-inch
+2.4  The underside and supporting structure of the stair to the floors above is
+protected with ½ inch gypsum board or equivalent.
+Note: This exception does not apply to townhouses.
+13.   Insert an Exception #3 to Section 311.7.5.1 with the following language:
+3.   The dimension of the top and bottom riser of a stair may vary up to 1-inch
 (25.4 mm) from the stairway riser dimension; however, in no case shall the
 riser height exceed seven and three-quarter inches.
-Delete Code Section: IRC 313.1 Replace with the following language:
+14.   Delete Section R313.1 Townhouse automatic fire sprinkler systems, and
+replace with the following language:
 313.1 Townhomes automatic fire sprinkler systems. An automatic residential fire
 sprinkler system shall be installed in townhouses.
-Exceptions
+Exceptions 
 1.   An automatic residential fire sprinkler system shall not be required where
 additions or alterations are made to existing townhouses that do not have an
 automatic residential fire sprinkler system installed.
 2.   Townhouse structures that contain eight (8) or less dwelling units.
 3.   Townhouse structures less than eighteen thousand (18,000) square feet
 floor space, exclusive of any garages.
-Delete Code Section: IRC 313.2 Replace with the following language:
+15.   Delete Section R313.2 One- and two-family dwellings automatic sprinkler
+systems, and replace with the following language:
 313.2 One- and two-family dwelling automatic fire sprinkler systems. An
 automatic residential fire sprinkler system shall be installed in one- and two-
 family dwellings.
@@ -13344,105 +13601,61 @@ Exceptions
 additions or alterations are made to existing buildings that are not already
 provided with an automatic residential fire sprinkler system.
 2.   One-and two-family dwellings containing less than eight thousand (8,000)
-square feet of floor space, excluding attached garages and other unenclosed
-areas.
-Delete Code Section: IRC 403.1.4.1, Exception 1 Replace with the following
-language:
-Exception
-1. Protection for detached garages and other accessory structures 1,000 square
-feet or less in size, with a maximum height or eighteen (18) feet, located more
-than ten (10) feet from a dwelling, attached garage, or other principal
-structures, may be accomplished with a floating slab. The floating slab shall
-include a thickened slab edge of a minimum twelve (12) inches thick. Six inches
-of the thickened slab shall be below grade and six inches shall be above
-finished grade. The bottom portion of the thickened slab area shall be twelve
-(12) by twelve (12) inches. Two #4 rebar shall be placed within the thickened
-edge continuous around the perimeter of the slab. The floor shall be Portland
-cement concrete not less than four (4) inches thick. Garage floor areas shall
-have all sod and/or debris removed.
-Amend Code Section: IRC 1601.4 Insert the following language:
-Section 1601.4 Installation. Duct installation shall comply with sections M
-1601.4.1 through M1601.4.11
-Insert Code Section: IRC 1601.4.11 Insert the following language:
-Section 1601.4.11. Air plenum and duct separation. Air plenums and ducts
-located in floor and wall cavities shall be separated from unconditioned spaces
-by construction with sufficient insulation to meet energy code requirements.
-These areas include but are not limited to exterior walls, cantilevered floors,
-and floors above garages.
-Delete Code Section: IRC G2414.5.3 (403.5.4) Replace with the following
-language:
-G2414.5.3 (403.5.4): Corrugated Stainless Steel Tubing. Arc resistant
-corrugated stainless steel tubing shall be listed in accordance with ANSI LC 1
-(Optional Section 5.16)/CSA 6.26.
-Delete Code Section: IRC G2415.5.2 (404.2) Replace with the following language:
-G2415.2 (404.2) CSST. Only CSST with an Arc Resistant Jacket or Covering System
-listed in accordance with ANSI LC-1 (Optional Section 5.16)/CSA 6.26-2016 shall
-be installed in accordance with the terms of its approval, the conditions of
-listing, the manufactures instructions and this code including electrical
-bonding requirements in Section G2411. CSST shall not be used for through wall
-penetrations from the point of delivery of the gas supply to the inside of the
-structure. CSST shall not be installed in locations where subject to physical
-damage unless protected in an approved manner.
-157.03 WHEN EFFECTIVE.
-The ordinance codified by this chapter shall be in effect after its final
-passage, approval and publication as provided by law.
-157.04 SCOPE.
-The provisions of the adoption of National Electrical Code shall apply to:
-1.   New Construction.
-2.   Existing Buildings.
-   A.   Additions to, alterations of, and repairs to existing electrical
-equipment, if covered by this electrical code. The Building Official may, when
-such additions, alterations or repairs are made, order other reasonable
-additions or alterations in a building, structure, or on premises, when a
-danger to life or property may result if such other additions or alterations
-were not made.
-   B.   Installations, which were in compliance with the general wiring
-methods, in good working condition, in existence at the time such installations
-were made, shall be presumed to be safe and proper, which presumption can be
-rebutted by evidence that the installation may be dangerous to life or
-property.
-(Ch. 157 - Ord. 934 - Jun. 18 Supp.)
+square feet of floor space, not including any attached garages and other
+unenclosed areas.
+16.   Delete all references to the ICC Electrical Code and replace with the
+National Electrical Code.
+157.03 CONFLICTING PROVISIONS.
+In any case where the provisions of this chapter are found to be in conflict
+with the Code of Iowa or a provision of any zoning, safety or health ordinance
+of the Code of the City of Pella, Iowa, the provision which established the
+higher standard for the promotion and protection of the health and safety of
+the people shall prevail.
+(Ch. 157 – Ord. 1063 – Oct. 25 Supp.)
 CHAPTER 158
 BUILDING CODE
  
-158.01 Adoption of International Building Code 158.03 Conflicting Provisions
-158.02 Revisions                                
+158.01 Adoption of International Building Code, 158.03 Conflicting Provisions
+2021 Edition
+158.02 Revisions                                 
  
-158.01 ADOPTION OF INTERNATIONAL BUILDING CODE.
-That a certain document, three (3) copies of which are on file in the office of
-the Planning and Zoning Department, being marked and designated as the
-International Building Code (IBC), 2015 edition as published by the
+158.01 ADOPTION OF THE INTERNATIONAL BUILDING CODE, 2021 EDITION.
+Pursuant to published notice and public hearing, as required by law, the
+International Building Code (IBC), 2021 edition as published by the
 International Code Council, be and is hereby adopted as the Building Code of
 the City of Pella, Iowa, for regulating and governing the construction,
-alteration, movement, enlargement, replacement, repair, equipment, location,
-removal and demolition of buildings and structures; by providing the standards
-for supplied utilities and facilities and other physical things and conditions
-essential to ensure that structures are safe, sanitary and fit for occupation
-and use; providing for the issuance of permits and collection of fees therefor;
-and each and all of the regulations, provisions, penalties, conditions and
-terms of said Building Code on file in the office of the Planning and Zoning
-Department as hereby referred to, adopted, and made a part hereof, as if fully
-set out in this chapter, with the additions, insertions, deletions, and
-changes, if any, prescribed in Section 158.02 of this chapter.
+alteration, relocation, enlargement, replacement, repair, equipment, use and
+occupancy, location, maintenance, removal and demolition of every building or
+structure or any appurtenances connected or attached to such buildings or
+structures; providing the standards for supplied utilities and facilities and
+other physical things and conditions essential to ensure that structures are
+safe, sanitary and fit for occupation and use; providing for the issuance of
+permits and collection of fees therefor; and each and all of the regulations,
+provisions, penalties, conditions and terms of said Building Code are on file
+in the office of the Planning and Zoning Department as hereby referred to,
+adopted, and made a part hereof, as if fully set out in this chapter, with the
+additions, insertions, deletions, and changes, if any, prescribed in Section
+158.02 of this chapter. Three (3) copies of the IBC, 2021 edition, are on file
+in the office of the Planning and Zoning Department of the City of Pella, Iowa.
 158.02 REVISIONS.
 The following sections are hereby revised:
-Section 101.1. Insert: City of Pella
-Section 1612.3. Insert: City of Pella
-Section 1612.3. Insert: June 16, 2011
-Delete Section 101.4.3 Plumbing, and replace with the following:
+1.   Insert “City of Pella” in Section 101.1.
+2.   Insert “City of Pella” and “June 16, 2011” respectively in Section 1612.3.
+3.   Delete Section 101.4.3 Plumbing, and replace with the following:
 101.4.3 Plumbing. The provisions of the State of Iowa Plumbing Code shall apply
-to the installation, alteration, repair and replacement of plumbing systems,
-including equipment, appliances, fixtures, fittings and appurtenances, and
+to the installation, alteration, repair, and replacement of plumbing systems,
+including equipment, appliances, fixtures, fittings, and appurtenances, and
 where connected to a water or sewage system and all aspects of a medical gas
-system. The provisions of the International Private Sewage Disposal Code shall
-apply to private sewage disposal systems.
-Delete Section 103. Department of Building Safety.
-Delete Section 105.2 Work exempt from permit, and replace with the following:
+system. The provisions of the 2021 International Private Sewage Disposal Code
+shall apply to private sewage disposal systems.
+4.   Delete Section 103. Code Compliance Agency.
+5.   Delete Section 105.2 Work exempt from permit, and replace with the
+following:
 105.2 Work exempt from permit. Exemptions from permit requirements of this code
 shall not be deemed to grant authorization for any work to be done in any
 manner in violation of the provisions of this code or any other laws or
-ordinances of this jurisdiction. Permits shall not be required for the
-following.
+ordinances of this jurisdiction. A building permit shall not be required for
+the following.
 Building:
 1.   One-story detached accessory structures used as tool and storage sheds,
 playhouses and similar uses, provided the floor area does not exceed 100 square
@@ -13464,212 +13677,36 @@ less than 24 inches deep, do not exceed 5,000 gallons and are installed
 entirely above ground.
 11.   Non-fixed and movable fixtures, cases, racks, counters and partitions not
 over 5 feet 9 inches in height.
-Delete Section 108 Temporary Structures and Uses.
-Delete Section 109.2 Schedule of permit fees, and replace with the following:
+6.   Delete 108 Temporary Structures and Uses.
+7.   Delete Section 109.2 Schedule of permit fees, and replace with the
+following:
 109.2 Schedule of permit fees. A permit shall not be valid until the fees
 prescribed in Chapter 171.01 of the Code of Ordinances, Pella, Iowa, have been
 paid. Nor shall an amendment to a permit be released until the additional fee,
 if any, has been paid. No fees shall be collected on buildings or structures
 for the City of Pella, Iowa.
-Delete Section 114.4 Violation penalties, and replace with the following:
+8.   Delete Section 114.4 Violation penalties, and replace with the following:
 114.4 Violation penalties. Any person who violates a provision of this code or
 fails to comply with any of the requirements thereof or who erects, constructs,
-alters or repairs a building or structure in violation of the approved
+alters, or repairs a building or structure in violation of the approved
 construction documents or directive of the building official, or of a permit or
-certificate issued under the provisions of this code, shall be subject to
-penalties as prescribed by the Code of Ordinances of the City of Pella, Iowa.
-Delete Section 115.3 Unlawful continuance, and replace with the following:
-115.3 Unlawful continuance. Any person, who shall continue any work in or about
+certificate issued under the provisions of this code, shall be a Municipal
+Infraction subject to the penalties as prescribed by Chapter 171.01 of the Code
+of Ordinances of the City of Pella, Iowa.
+9.   Delete Section 115.4 Failure to comply, and replace with the following:
+115.4 Failure to comply. Any person, who shall continue any work in or about
 the structure after having been served with a stop work order, except such work
 as that person is directed to perform to remove a violation or unsafe
-condition, shall be subject to penalties as prescribed by the Code of
-Ordinances of the City of Pella, Iowa.
-Delete Code Section: IBC 308.6.4: Replace with and add the following language:
-308.6.4 Eight or fewer persons receiving care in a dwelling unit. A facility
-such as the above within a dwelling unit and having eight or fewer persons
-receiving custodial care shall be classified as a Group R-3 occupancy or shall
-comply with the International Residential Code.
-Delete Code Section: IBC 310.5 & 310.5.1 Replace with and add the following
-language:
-310.5 Residential Group R-3. Residential Group R-3 occupancies where the
-occupants are primarily permanent in nature and not classified as Group R-1, R-
-2, R-4 or I, including:
-1)   Buildings that do not contain more than two dwelling units
-2)   Boarding houses (nontransient) with 16 or fewer occupants
-3)   Boarding houses (transient) with 10 or fewer occupants
-4)   Care facilities as identified in Sections 308.3.4 or 308.4.2 that provide
-accommodations for five or fewer persons receiving care
-5)   Day care facilities as identified in section 308.6.4 located within single
-family dwellings with 8 or fewer persons receiving custodial care
-6)   Congregate living facilities (nontransient) with 16 or fewer occupants
-7)   Congregate living facilities (transient) with 10 or fewer occupants
-8)   Lodging houses with five or fewer guest rooms
-310.5.1 Care facilities within a dwelling. Care facilities that are located
-within a single-family dwelling are permitted to comply with the International
-Residential Code in accordance with this section.
-310.5.1.1 24-hour care facilities within a dwelling. Care facilities as
-identified in sections 308.3.4 or 308.4.2 that provide accommodations for 5 or
-fewer persons receiving custodial care in a single-family dwelling for 24-hours
-per day are permitted to comply with the International Residential Code
-provided an automatic sprinkler system is installed in accordance with Section
-903.3.1.3 or Section P2904 of the International Residential Code.
-310.5.1.2 Day care facilities within a dwelling. Day care facilities as
-identified in section 308.6.4 that provide custodial care for 8 or fewer
-persons for less than 24-hours per day in a single-family dwelling are
-permitted to comply with the International Residential Code.
-Exception: Day care facilities as identified in section 308.6.4 that provide
-custodial care for 16 or fewer persons for less than 24-hours per day in a
-single-family dwelling, and are registered with the State of Iowa Department of
-Human Services as child development homes on or before January 1, 2017, are
-permitted to comply with the International Residential Code.
-Modify Code Section: IBC 403.3.2 Replace with the following language:
-403.3.2 Water supply to required fire pumps. Required fire pumps shall be
-supplied by connections to a minimum of two water mains located in different
-streets. Separate supply piping shall be provided between each connection to
-the water main and the pumps. Each connection and the supply piping between the
-connection and the pumps shall be sized to supply the flow and pressure
-required for the pumps to operate.
-Exception: Two connections to the same main shall be permitted provided the
-main is valved such that an interruption can be isolated so that the water
-supply will continue without interruption through at least one of the
-connections.
-Insert into Code Section: IBC 423.4 the following exception to storm shelter
-requirements
-Exception: Existing schools undergoing alterations, additions, or construction
-of new accessory buildings.
-Insert New Code Section: IBC 901.8
-901.8 Fire Sprinkler Riser Room. A fire sprinkler riser room shall be separated
-from the electrical room. The riser room shall have no electrical panels,
-devices, or apparatus inside the room other than the outlets or support
-equipment (lighting, air compressor, and heater) required for the use of the
-fire sprinkler system and/or the fire alarm panel. The sprinkler riser room
-shall not be accessed from the electrical room, but the electrical room may be
-accessed from the fire riser room.
-Modify Code Section: IBC 903.2 (correlation: IFC 903.2) Replace and add the
-following language:
-903.2 Where required: Approved automatic sprinkler systems in new buildings and
-structures shall be provided in the locations described in Sections 903.2.1
-through 903.2.12
-Exceptions:
-1. Prior to July 1, 2016 any jurisdiction calculating fire areas by other
-methods not defined by the International fire Code or International Building
-Code, may continue to utilize those methods in calculating fire sprinkler
-square footage requirements as previously established by local jurisdiction.
-2. Prior to July 1, 2016 any jurisdiction requiring reduced fire areas or
-reduced occupant loads in determining the requirements for automatic sprinkler
-systems in Section 903.2.1 through 903.2.12 may continue to utilize these
-methods as previously established by local jurisdiction.
-3. Spaces or areas in telecommunications buildings used exclusively for
-telecommunications equipment, associated electrical power distribution
-equipment, batteries and standby engines, provided those spaces or areas are
-equipped throughout with an automatic smoke detection system in accordance with
-Section 907.2 and are separate from the remainder of the building by not less
-than 1-hour fire barriers constructed in accordance with Section 70 of the
-International Building Code or not less than 2-hour horizontal assemblies
-constructed in accordance with Section 711 of the International Building Code,
-or both.
-Modify Code Section: IBC 903.2.11.1.3 Replace with the following language:
-903.2.11.1.3 Basements: Where any portion of a basement is located more than 75
-feet from openings required by Section 903.2.11.1, the basement shall be
-equipped throughout with an approved automatic sprinkler system.
-Modify Code Section: IBC 903.4.2 Replace with the following language:
-903.4.2 Alarms. An approved weather proof audible device suitable for outdoor
-use with 110 candela visual signal shall be connected to every automatic
-sprinkler system. Such sprinkler water-flow alarm devices shall be activated by
-water flow equivalent to the flow of a single sprinkler of the smallest orifice
-size installed in the system. Alarm devices shall be provided on the exterior
-of the building in an approved location. Where a fire alarm system is
-installed, actuation of the automatic sprinkler system shall actuate the
-building fire alarm system.
-Insert Code Section: IBC 905.3.9
-905.3.9 Building Footprint and Access Where the most remote portion of a floor
-or story is more than 400 feet from a hose connection or fire department access
-road the fire code official is authorized to require standpipes to be provided
-in approved locations. Class I manual standpipes shall be allowed.
-Modify Code Section: IBC 907.2 Add the following exception:
-Exceptions: Prior to July 1, 2016 any jurisdiction requiring reduced fire areas
-or reduced occupant loads in 907.2.1 through 907.2.23 may continue to utilize
-these methods as previously established by local jurisdiction determining the
-requirements for fire alarm systems in Section 907.2.1 through 907.2.23.
-Insert Code Section: IBC 907.1.4
-907.1.4 FACP (Fire Alarm Control Panels) Each building shall have no more than
-1 FACP. Installation of fire alarm panel shall be not exceed six feet in height
-measured from the floor to the top of the unit.
-Exception: Suppression system releasing panels are not required to meet the
-height requirement or the limitation in the number of panels.
-Modify Code Section: IBC 907.6.6 Replace with the following language:
-907.6.6 Monitoring Fire alarm systems required by this chapter or by the
-International Building Code shall be monitored a central station approved and
-listed under UL 827 in accordance with NFPA 72.
-Exception: Monitoring station is not required for automatic sprinkler and fire
-alarm systems in one- and two- family dwellings.
-Modify Code Section: IBC 910.2.1 Replace with the following language:
-910.2.1 Group F-1 or S-1. Smoke and heat vents installed in accordance with
-Section 910.3 or a mechanical smoke removal system installed in accordance with
-Section 910.4 shall be installed in buildings and portions thereof used as a
-Group F-1 or S-1 occupancy having more than 30,000 square feet (2787 m2) of
-undivided area. In occupied portions of a building equipped throughout with an
-automatic sprinkler system in accordance with 903.3.1.1, where the upper
-surface of the story is not a roof assembly, a mechanical smoke removal system
-in accordance with Section 910.4 shall be installed.
-Exception: Group S-1 aircraft repair hangars.
-Modify Code Section: IBC 1008.3.1 Replace with the following language:
-1008.3.1 General. In the event of the power supply failure in rooms and spaces
-400 square feet or greater an emergency electrical system shall automatically
-illuminate all of the following areas:
-1.   Aisles.
-2.   Corridors.
-3.   Exit access stairways and ramps.
-Modify Code Section: IBC 1008.3.2 Replace with the following language:
-1008.3.2 Buildings. In the event of the power supply failure in rooms and
-spaces 400 square feet or greater an emergency electrical system shall
-automatically illuminate all of the following areas:
-1. Interior exit access stairways and ramps
-2. Interior and exterior exit stairways and ramps.
-3. Exit passageways.
-4. Vestibules and areas on the level of exit discharge used for exit discharge
-in accordance with Section 1028.1.
-5. Exterior landings as required by Section 1010.1.6 for exit doorways that
-lead directly to the exit discharge.
-Modify Code Section: IBC 1008.3.3 Replace Item # 5 with the following language:
-Restrooms containing more than one water closet/urinal or that are accessible.
-Modify Code Section: IBC 1009.2 Add Item # 11 with the following language:
-Components of exterior walking surfaces shall be concrete, asphalt, or other
-approved hard surface.
-Modify Code Section: IBC 1010.1.6 Replace with the following language:
-1010.1.6.1 For landings required by Section 1010.1.5 to be at the same
-elevation on each side of the door exterior landings at doors shall be provided
-with frost protection.
-Modify Code Section: IBC 1010.1.9.1 Add the following language: Thumb Turn
-Locks shall not be allowed.
-Insert Code Section: IBC 1013.1.1 Language:
-1013.1. 1 Additional Exit Signs.
-Exit signs may be required at the discretion of the Code Official to clarify an
-exit or exit access.
-Delete Code Section: IBC 1013.3 Replace with the following language:
-1013.3 Exit Sign Illumination. Exit signs shall use an LED lighting system and
-be illuminated internally. Exit signs are required to have battery backup
-unless an onsite generator is used. Luminance on the face of an exit sign shall
-have an intensity of not less than 5.0 foot candles (53.82 lux).
-Exception: Tactile Exit signs required by Section 1013.4 need not be provided
-with illumination.
-Delete Code Section: IBC 1013.5 do not replace with any other additional
-language.
-Delete Code Section: IBC 1013.6 including 1013.6.1, 1013.6.2, and 1013.6.3. Do
-not replace with any other additional language.
-Insert Code Section: IBC 1028.5.1
-Language: 1028.5.1 Components of exterior walking surfaces shall be concrete,
-asphalt, or other approved hard surface.
-Insert Code Section: IBC 1030.5.3
-Language: 1030.5.3 Window wells drainage. All window wells shall be provided
-with approved drainage.
+condition, shall be a Municipal Infraction subject to the penalties as
+prescribed by Chapter 171.01 of the Code of Ordinances of the City of Pella,
+Iowa.
 158.03 CONFLICTING PROVISIONS.
 In any case where the provisions of this chapter are found to be in conflict
-with the Code of Iowa or a provision of any zoning, safety or health ordinance
+with the Code of Iowa or a provision of any zoning, safety, or health ordinance
 of the Code of the City of Pella, Iowa, the provision which establishes the
 higher standard for the promotion and protection of the health and safety of
 the people shall prevail.
-(Ch. 158 - Ord. 935 - Jun. 18 Supp.)
+(Ch. 158 – Ord. 1062 – Oct. 25 Supp.)
 CHAPTER 159
 ELECTRICAL CODE
  
@@ -13679,60 +13716,26 @@ ELECTRICAL CODE
 159.04 Permit Required                       
  
 159.01 ADOPTION OF NATIONAL ELECTRICAL CODE.
-That a certain document, three (3) copies of which are on file in the office of
-the Planning and Zoning Department, being marked and designated at the National
-Electrical Code (NEC), 2008 edition, as published by the National Fire
-Protection Association (NFPA) (No. 70-2008), be and is hereby adopted as the
-Electrical Code of the City of Pella, Iowa, for regulating and governing the
-practice and materials used in the installation, maintenance, extension and
-alteration of all wiring, fixtures, appliances and appurtenances in connection
-with various electrical systems in the City; providing for the issuance of
-permits and collection of fees therefor; and each and all of the regulations,
-provisions, penalties, conditions and terms of said Electrical Code on file in
+Pursuant to published notice and public hearing, as required by law, the 2020
+Edition of the National Electric Code (NEC), published by the National Fire
+Protection Association (NFPA), is hereby adopted as the Electric Code of the
+City of Pella, Iowa for regulating and governing the practice, materials, and
+fixtures used in the installation, maintenance, extension, and alteration of
+all wiring, fixtures, appliances, and appurtenances in connection with various
+electrical systems in the City of Pella; providing for the issuance of permits
+and collection of fees therefore; and each and all of the regulations,
+provisions, penalties, conditions and terms of said Electric Code on file in
 the office of the Planning and Zoning Department as hereby referred to,
 adopted, and made a part hereof, as if fully set out in this chapter, with the
 additions, insertions, deletions, and changes, if any, prescribed in Section
-159.02 of this chapter.
+159.02 of this chapter. Three (3) copies of the 2020 Edition of the National
+Electric Code are on file in the office of the Planning and Zoning Department
+of the City of Pella, Iowa.
+(Ord. 1064 – Oct. 25 Supp.)
 159.02 REVISIONS.
-The following sections are hereby revised:
-1.   Delete Section 210.70, paragraph (A), and replace with the following:
-(A)   Dwelling Units. All 125-volt, single-phase, 15- and 20-ampere receptacles
-installed in the locations specified in (1) through (8) shall have ground-fault
-circuit-interrupter protection for personnel.
-(1)   Bathrooms.
-(2)   Garages, and also accessory buildings that have a floor located at or
-below grade level not intended as habitable rooms and limited to storage areas,
-work areas, and areas of similar use.
-Exception No. 1 to (2): Receptacles that are not readily accessible.
-Exception No. 2 to (2): A single receptacle or a duplex receptacle for two
-appliances located within dedicated space for each appliance that, in normal
-use, is not easily moved from one place to another and that is cord-and-plug
-connected in accordance with 400.7(A)(6), (A)7, or (A)8.
-Receptacles installed under the exceptions to 210.8(A) (2) shall not be
-considered as meeting the requirements of 210.52(G).
-(3)   Outdoors.
-Exception to (3): Receptacles that are not readily accessible and are supplied
-by a dedicated branch circuit for electric snow-melting or deicing equipment
-shall be permitted to be installed in accordance with 426.28.
-(4)   Crawl spaces - at or below grade level.
-(5)   Unfinished basements - for purposes of this section, unfinished basements
-are defined as portions or areas of the basement not intended as habitable
-rooms and limited to storage areas, work areas, and the like.
-Exception No. 1 to (5): Receptacles that are not readily accessible.
-Exception No. 2 to (5): A single receptacle or a duplex receptacle for two
-appliances located within a dedicated space for each appliance that, in normal
-use, is not easily moved from one place to another and that is cord-and-plug
-connected in accordance with 400.7(A)(6), (A)(7), or (A)(8).
-Exception No. 3 to (5): A receptacle supplying only a permanently installed
-fire alarm or burglar alarm system shall not be required to have ground-fault
-circuit-interrupter protection.
-Receptacles installed under the exceptions to 210.8(A) (5) shall not be
-considered as meeting the requirements of 210.52(G).
-(6)   Kitchens - where the receptacles are installed to serve the countertop
-surfaces.
-(7)   Laundry, utility, and wet bar sinks - where the receptacles are installed
-within (6ft) of the outside edge of the sink.
-(8)   Boathouses.
+The following sections of the 2020 Edition of the National Electrical Code
+repealed and replaced as follows:
+(Ord. 1064 – Oct. 25 Supp.)
 159.03 ELECTRICAL CONTRACTOR'S LICENSE.
 No person shall engage in the activity or represent himself or herself to the
 public as engaging in the activity of installing, altering, maintaining or
@@ -15815,16 +15818,17 @@ structures.
 Historic Preservation Commission shall review and determine if the proposed
 district is eligible to form a historic overlay zone. If the Commission
 determines the proposed district is eligible, then the petition shall be
-submitted to the Historical Division of the State Department of Cultural
-Affairs for its report and recommendations. If the Historical Division
-determines that the proposed district does not meet the requirements of state
-law for designation as a historic district, no further action shall be taken
-toward designation of the proposed district. The report and recommendations of
-the Historical Division shall be made available for public viewing at the
-office of the Planning and Zoning Department. Review by the Historical Division
-can occur before or after a public hearing before the Historic Preservation
-Commission, but must be completed before consideration by the Planning and
-Zoning Commission.
+submitted to the State Historic Preservation Office of the Iowa Economic
+Development Authority for its report and recommendations. If the State Historic
+Preservation Office determines that the proposed district does not meet the
+requirements of state law for designation as a historic district, no further
+action shall be taken toward designation of the proposed district. The report
+and recommendations of the State Historic Preservation Office shall be made
+available for public viewing at the office of the Planning and Zoning
+Department. Review by the State Historic Preservation Office can occur before
+or after a public hearing before the Historic Preservation Commission, but must
+be completed before consideration by the Planning and Zoning Commission.
+(Ord. 1054 – Oct. 25 Supp.)
    D.   The Historic Preservation Commission shall hold a public hearing and
 review the proposed historic district as per criteria herein established and
 forward a recommendation to the Planning and Zoning Commission and City
@@ -15903,18 +15907,17 @@ alterations are also exempt from the certificate of appropriateness
 requirements. Other alterations not visible from the public street or front of
 the structure, and which do not otherwise need a building permit, shall be
 exempt from historic review.
-   C.   Approval Criteria: Applications for historic review for contributing
-structures in the historic overlay zone will be in conformance with the
+   C.   Approval Criteria: Applications for historic review of contributing
+structures in the historic overlay zones will be in conformance with the
 Secretary of the Interior's Standards for Rehabilitation and Guidelines for
-Rehabilitating Historic Buildings. All other structures within a historic
-overlay zone will be reviewed in accordance with the Dutch Residential Design
-Review District Guidelines. Furthermore, it is the intent of this article that
-the Commission shall be reasonable in its judgments and shall endeavor to
-approve proposals for alteration of structures of little historical,
-architectural, and cultural value, except when such a proposal would seriously
-impair the historical values and character of the surrounding area. Also, the
-Commission shall be sympathetic to proposals utilizing energy saving
-modifications, such as solar panels.
+Rehabilitating Historic Buildings. Furthermore, it is the intent of this
+article that the Commission shall be reasonable in its judgments and shall
+endeavor to approve proposals for alteration of structures of little
+historical, architectural, and cultural value, except when such a proposal
+would seriously impair the historical values and character of the surrounding
+area. Also, the Commission shall be sympathetic to proposals utilizing energy
+saving modifications, such as solar panels.
+(Ord. 1054 – Oct. 25 Supp.)
    D.   Multi-family, Commercial, and Other Uses: For properties which have
 base zoning which permits multi-family, commercial, or other non-residential
 uses, design review shall be conducted by the Community Development Committee
@@ -17139,13 +17142,13 @@ district allows as a permitted use
 uses—minimum
  
 DURE-CBD Subdistrict Lot Setbacks
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-17_3036x3262.jpg]
 Lot Option A (One Family Dwelling)
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-20_3088x3262.jpg]
 Lot Option B (One Family Dwelling)
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-23_3245x3487.jpg]
 Lot Option C (Townhouse or Duplex)
    6.   DURE District Garages and Other Accessory Structures.
@@ -19534,7 +19537,7 @@ of the street described as follows: an area forming a triangle bounded by the
 street right-of-way lines or property lines of a corner lot and a straight line
 joining points on the right-of-way lines twenty-five feet (25’) from the point
 of intersection of the right-of-way or property lines.
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-26_6691x4478.jpg]
 15.   Gateway Corridor Overlay District Standards. The requirements for the
 Gateway Corridor Overlay District are based on the Washington Street/Vermeer
@@ -22799,31 +22802,31 @@ The following pages contain illustrations which are intended to further clarify
 certain Zoning Ordinance regulations contained in this chapter. In the case of
 conflict between these illustrations and the zoning text, the text regulations
 shall have precedence.
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2382.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2384.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2386.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2388.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2390.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2392.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2394.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2396.jpg]
  
-[https://export.amlegal.com/media/4fe3d8d4ef8f0789a3fe2e107b9f386836098fd4/
+[https://export.amlegal.com/media/e62fd606e56c000073c94ec1d1e525121074d7e7/
 IMAGES/0-0-0-2398.jpg]
  
  
@@ -22868,18 +22871,18 @@ ORDINANCE ADOPTED            ORDINANCE ADOPTED
  
 ORDINANCE ADOPTED            ORDINANCE ADOPTED
 930       March 20, 2018     1050      October 15, 2024
-933       March 6, 2018                
-946       September 18, 2018           
-947       September 18, 2018           
-948       September 18, 2018           
-949       September 18, 2018           
-951       December 18, 2018            
-952       December 18, 2018            
-957       April 16, 2019               
-960       July 16, 2019                
-961       August 20, 2019              
-963       September 17, 2019           
-964       September 17, 2019           
+933       March 6, 2018      1051      November 5, 2024
+946       September 18, 2018 1052      November 5, 2024
+947       September 18, 2018 1056      January 7, 2025
+948       September 18, 2018 1057      January 7, 2025
+949       September 18, 2018 1058      January 7, 2025
+951       December 18, 2018  1059      January 7, 2025
+952       December 18, 2018  1060      January 7, 2025
+957       April 16, 2019     1061      December 17, 2024
+960       July 16, 2019      1065      March 4, 2025
+961       August 20, 2019    1066      June 3, 2025
+963       September 17, 2019 1073      July 1, 2025
+964       September 17, 2019 1076      September 16, 2025
 968       November 19, 2019            
 973       February 18, 2020            
 974       April 21, 2020               
@@ -24558,31 +24561,30 @@ administrative fee.
       Bacteria and Nitrate                     $ 22.00
       Fluoride                        $ 12.00
    Monthly Water Rates:
+   Effective with the July 2025 Utility Billing, due August 20, 2025
       Rates within the Corporate Limits per 1,000 gallons used
-      Water User Minimum Charge                  $21.37 per month
-      Water Use Rate                     $ 5.16 per 1k gal.
-      Secondary Meter (Garden Meter)               $ 6.70 per month
+      Water User Minimum Charge                  $22.44 per month
+      Water Use Rate                     $ 5.42 per 1k gal.
+      Secondary Meter (Garden Meter)               $ 7.04 per month
       Rates outside Corporate Limits per 1,000 gallons used
-      Water User Minimum Charge                  $32.05 per month
-      Water Use Rate                     $ 7.84 per 1k gal.
-      Secondary Meter (Garden Meter)               $10.07 per month
-(Ord. 1041 - Oct. 24 Supp.)
+      Water User Minimum Charge                  $33.65 per month
+      Water Use Rate                     $ 8.23 per 1k gal.
+      Secondary Meter (Garden Meter)               $10.57 per month
+(Ord. 1067 – Oct. 25 Supp.)
 9.   Chapter 96 Rates and Fees:   (Sanitary Sewers)
    Description                        Fee
    Sanitary Sewer Septage Dump Rates
       In Service Area                  $100.00 per 1k gal.
       Out of Service Area                  $200.00 per 1k gal.
-**For service area designation, see map available at Public Works.**
-   Effective with the July 2020 Utility Billing due August 20, 2020:
-   Sewer User Minimum Charge               $ 21.42 per month
-   Sewer Use Rate                     $ 5.36 per 1k gal.
-(Ord. 977 - Jun. 20 Supp.)
+   Effective with the July 2025 Utility Billing, due August 20, 2025
+   Sewer User Minimum Charge               $ 22.49 per month
+   Sewer Use Rate                     $ 5.63 per 1k gal.
    On Site Wastewater Treatment & Disposal System (Septic)      $25.00
    Sewer hook-up – residential or commercial with wye      $20.00
    Sewer hook-up –residential or commercial without wye      $30.00
    Sewer hook up industrial – with or without wye         $50.00
    Sewer – new user (not previously assessed) per lineal front ft.   $ 5.00
-(Ord. 887 – July 14 Supp.)
+(Ord. 1068 – Oct. 25 Supp.)
 10.   Chapter 99 Rates and Fees:   (Sanitary Sewers)
    Description                        Fee
    Sanitary Sewer Surcharge
@@ -24765,7 +24767,7 @@ the base rate of $2.85/gal.
    Tulip Time Electrical Service:
       Business                     $275.00
       Non-Profit Organization               $100.00
-                           (Ord. 892 - Feb. 15 Supp.)
+(Ord. 892 - Feb. 15 Supp.)
 14.   Chapter 122 Fees:   (Mobile Food Units, Peddlers, Solicitors, Transient
 Merchants)
 (Ord. 1031 - Dec 23 Supp.)
@@ -24778,8 +24780,8 @@ Merchants)
 (Ord. 908 - May 16 Supp.)
 15.   Chapter 123 Fees:   (Special Events)
    Description                     Fee
-   Seasonal Event Permit                  $75.00
-Special Event Permit                  $20.00 per event
+   Seasonal Event Permit               $75.00
+   Special Event Permit                  $20.00 per event
  
 16.   Chapter 124 Fees:   (False Business Alarms)
    Description                        Fee
@@ -24794,140 +24796,162 @@ Special Event Permit                  $20.00 per event
 (Ord. 908 - May 16 Supp.)
 17.   Chapter 125 Fees:   (Building Move)
    Description                        Fee
-   Moving Permit                     $ 25.00
-   Moving Deposit                     $2,500.00
+   Structure Moving Permit                  $100.00 + plus $5,000.00 deposit
+(Ord. 1075 – Oct. 25 Supp.)
 18.   Chapter 136 Fees:   (Sidewalks)
    Description                        Fee
-   Sidewalk                        $5.00
+   Sidewalk                        $25.00
+(Ord. 1075 – Oct. 25 Supp.)
 19.   Chapter 140 Fees:   (Driveways)
    Description                        Fee
    Driveway                        $25.00
 20.   Chapter 141 Fees:   (Excavations)
    Description                        Fee
-Excavating                           $5.00/600’
-   Surety Bond                        $100.00/600’
+   Excavation                        $25.00
+(Ord. 1075 – Oct. 25 Supp.)
 21.   Chapter 155 Fees:   (Demolitions)
    Description                        Fee
-   Demolition Permit                     $ 25.00
-   Demolition Deposit                     $2,500.00
+   Demolition                        $50.00 + plus $2,500.00 deposit
+(Ord. 1075 – Oct. 25 Supp.)
 22.   Chapter 165 Fees:   (Planning and Zoning)
-   Description                        Fee
-   Annexation                        No Charge
-   Board of Adjustment (Residential)               $ 50.00
-   Board of Adjustment (Nonresidential)            $200.00
-   Building:   
-      Residential 1 Family, Residential 2 Family, Residential Additions
-      FEE SCHEDULE:
-Total Valuation       Fee
-$1 - $15,000          $15.00
-$15,001 - $30,000     $35.00 for the first $15,000 + $5.00 for each additional
-                      $1,000
-$30,001 - $50,000     $110.00 for the first $30,000 + $5.50 for each additional
-                      $1,000
-$50,001 - $100,000    $220.00 for the first $50,000 + $5.75 for each additional
-                      $1,000
-$100,001 - $500,000   $507.50 for the first $100,000 + $3.75 for each
-                      additional $1,000
-$500,001 - $1,000,000 $2,007.50 for the first $500,000 + $1.75 for each
-                      additional $1,000
-$1,000,001 +          $2,882.50 for the first $1,000,000 + $1.50 for each
-                      additional $1,000
+Description                                               Fee
+Annexation                                                No Charge
+Board of Adjustment (Residential)                         $50.00
+Board of Adjustment (Nonresidential)                      $200.00
+Residential Multiple Family                               $25.00
++ Each Multiple Family Unit                               $2.50
+Garage unattached or attached                             $50.00
+Decks                                                     $50.00
+Residential Mechanical Permit                             $25.00
+Residential Plumbing Permit                               $25.00
+Commercial, Industrial, Institutional - Mechanical Permit $50.00
+Commercial, Industrial, Institutional – Plumbing Permit $50.00
+ 
+   Building:
+Residential 1 Family, Residential 2 Family, Residential Additions Fee Schedule
+Total Valuation    Fee
+$1 - $15,000       $25.00
+$15,001 - $30,000  $25.00 for the first $15,001 + $6.50 for each additional
+                   $1,000
+$30,001 - $50,000  $122.50 for the first $30,001 + $7.15 for each additional
+                   $1,000
+$50,001 - $100,000 $265.00 for the first $50,001 + $7.47 for each additional
+                   $1,000
+$100,001 -         $639.00 for the first $100,001 + $4.87 for each additional
+$500,000           $1,000
+$500,001 -         $2,587.00 for the first $500,001 + $2.27 for each additional
+$1,000,000         $1,000
+$1,000,001 +       $3,722.00 for the first $1,000,001 + $1.95 for each
+                   additional $1,000
 A.   Valuation Baseline. Valuation baseline for construction cost to be
-determined by the most recent "Square Foot Construction Cost" published by the
-International Code Council (ICC) for the most recently adopted building code
+determined by the most recent “Square Foot Construction Cost” published by the
+International Code Council (“ICC”) for the most recently adopted building code
 enforced by the City.
 B.   Fee Refund. The Building Official may authorize a refund of 80% of the
 permit fee paid when no work has been done under a permit issued in accordance
 with the codes of the City. The Building Official may authorize a refund of not
-more than 80% of the difference in permit fees when the "scope of the work"
-changes and the "value" of the work being done has been reduced under a permit
-issued in accordance with the codes of the City. The Building Official shall
-not authorize a refund of any fee paid except upon written application filed by
-the original permittee not later than 180 days after the date of fee payment.
-C.   Fee Waiver for Home Base Iowa Program.  The Building Official may
-authorize a one-time waiver of up to $250 of the permit fee related to new home
-or remodeling construction for an owner-occupied residential structure that is
+more than 80% of the difference in permit fees when the “scope of work” changes
+the “value” of the work being done has been reduced under a permit issued in
+accordance with the codes of the City. The Building Official shall not
+authorize a refund of any fee paid except upon written application filed by the
+original permittee not later than 180 days after the date of fee payment.
+C.   Fee Waiver for Home Base Iowa Program. The Building Official may authorize
+a one-time waiver of up to $250 of the permit fee related to new home or
+remodeling construction for an owner-occupied residential structure that is
 occupied by a military veteran. This waiver may only be authorized within one
 year of the date that the military veteran applies for new utility service with
-the City of Pella.
-(Ord. 965 - Jun. 20 Supp.)
+the City of Pella
  
-(Ord. 748 - Sept. 07 Supp.)
-      Residential Multiple Family               $ 25.00
-         + Each Multiple Family Unit            $ 2.50
-      Garage unattached or attached            $ 15.00
-      Decks                        $ 15.00
-      Commercial, Industrial, Institutional
-      FEE SCHEDULE:
+ 
+Commercial, Industrial, Institutional Fee Schedule
 Total Valuation       Fee
-$1 - $500             $15.00
-$501 - $2,000         $15.00
-$2,001 - $25,000      $35.00 for the first $2,000 + $8.54 for each additional
+$1.00 - $2000.00      $50.00
+$2,001 - $25,000      $50.00 for the first $2,000 + $11.10 for each additional
                       $1,000
-$25,001 - $50,000     $240.00 for the first $25,000 + $6.50 for each additional
+$25,001 - $50,000     $305.30 for the first $25,000 + $8.45 for each additional
                       $1,000
-$50,001 - $100,000    $402.50 for the first $50,000 + $4.50 for each additional
+$50,001 - $100,000    $516.55 for the first $50,000 + $5.85 for each additional
                       $1,000
-$100,001 - $500,000   $627.50 for the first $100,000 + $3.25 for each
+$100,001 - $500,000   $809.05 for the first $100,000 + $4.22 for each
                       additional $1,000
-$500,001 - $1,000,000 $1,927.50 for the first $500,000 + $3.00 for each
+$500,001 - $1,000,000 $2,497.05 for the first $500,000 + $3.90 for each
                       additional $1,000
-$1,000,001 and up     $3,427.50 for the first $1,000,000 + $2.00 for each
+$1,000,001 +          $4,447.05 for the first $1,000,000 + $2.60 for each
                       additional $1,000
 A.   Fee Refund. The Building Official may authorize the refunding of up to one
 hundred (100) percent of the permit fee paid, minus any expenses occurred by
 the City, when no work has been done under a permit issued in accordance with
 the code of the City of Pella. The Building Official shall not authorize the
-refunding of any fee paid except upon written application filed by the original
-permittee not later than one hundred eighty (180) days after the date of fee
-payment.
+refunding of any fee paid except upon written applications filed by the
+original permittee not later than one hundred eighty (180) days after the date
+of fee payment.
 B.   Fee Ordinance Review. The Building Official shall review the permit fee
 schedule every two (2) years and submit to the Building Board of Appeals an
 amended fee schedule based on fees from neighboring communities or State of
 Iowa Fees. Upon review, the Building Board of Appeals may recommend said
 schedule and forward to City Council for examination.
-(Ord. 801 - Sep. 09 Supp.
-   Description                        Fee
-   Design                           No Charge
-   Fence                           $ 25.00
-   Photocopy black and white   8.5 x 11            $ 0.10
-   Photocopy color         8.5 x 11         $ 1.00
-   Printing/Mapping
-      8.5 x 11                     $ 1.00
-      11 x 17                        $ 3.00
-      18 x 24                        $ 5.00
-      24 x 36                        $ 10.00
-      36 x 48                        $ 15.00
-      Blueprints                     $ 2.00 each
-   Rezoning                        $250.00
-   Sidewalk                        $ 25.00
-   Sign                           $ 15.00
-   Site Plans < 1 acre                     $ 50.00
-   Site Plans > 1 acre                     $100.00
-   Special Planning and Zoning Meeting            $100.00
-   Comprehensive Development Plan                $ 25.00
-   Design Review District Design Manual            $ 10.00
-                        (Ord. 645 - Oct. 04 Supp.)
+ 
+Description                         Fee
+Design                              No Charge
+Fence                               $25.00
+Photocopy black and white 8.5 x 11  $0.10
+Photocopy color 8.5 x 11            $1.00
+Printing / Mapping                   
+•   8.5 x 11                   $1.00
+•   11 x 17                 $3.00
+•   18 x 24                    $5.00
+•   24 x 36                    $10.00
+•   36 x 48                    $15.00
+•   Blueprints                 $2.00 each
+Rezoning                            $250.00
+Sidewalk                            $25.00
+Sign                                $15.00
+Site Plans < 1 acre                 $50.00
+Site Plans > 1 acre                 $100.00
+Special Planning and Zoning Meeting $100.00
+Comprehensive Development Plan      $25.00
+Design Review District Manual       $10.00
+ 
+(Ord. 1075 – Oct. 25 Supp.)
 23.   Chapter 170 Fees:   (Subdivisions and Plats)
    Description                        Fee
    Final Plat                        $250.00
    Preliminary Plat                     $250.00
    Plat of Survey                        $ 25.00
 24.   Chapter 159 Fees:   (Electrical Code)
-      ELECTRICAL PERMIT FEES:
- 
-Base Fee                                $10.00
-Residential - new construction,         $.03 cents per square foot plus base
-additions, remodels                     fee
-Commercial, Industrial, Institutional - $.03 cents per square foot plus base
-new construction, additions, remodels   fee
-Commercial & Industrial Storage - with  $.01 cents per square foot plus base
-a 200 amp service or less               fee
-Annual Permits - Industrial or
-Institutional which employs a State of  $100.00
+Electrical Permit Fees
+Description                                                             Fee
+Panel Change Out (no base fee)                                          $50.00
+Meter Socket change out (no base fee)                                   $50.00
+Base Fee                                                                $25.00
+                                                                        $.04
+                                                                        cents
+                                                                        per
+Residential – new construction, additions, remodels & buildouts       square
+                                                                        foot
+                                                                        plus
+                                                                        base
+                                                                        fee
+                                                                        $.04
+                                                                        cents
+                                                                        per
+Commercial Industrial, Institutional – new construction, additions, & square
+remodels                                                                foot
+                                                                        plus
+                                                                        base
+                                                                        fee
+                                                                        $.01
+                                                                        cents
+                                                                        per
+Commercial & Industrial Storage – With 200 amp service or less        square
+                                                                        foot
+                                                                        plus
+                                                                        base
+                                                                        fee
+Annual Permits - Industrial or Institutional which employs a State of   $100.00
 Iowa licensed electrician
 A.   Fee Refund. The Building Official may authorize the refunding of up to one
-hundred (100) percent of the permit fee paid, minus any expenses occurred by
+hundred (100) percent of the permit fee paid, minus any expenses incurred by
 the City, when no work has been done under a permit issued in accordance with
 the Code of the City of Pella. The Building Official shall not authorize the
 refunding of any fee paid except upon written application filed by the original
@@ -24938,57 +24962,183 @@ schedule every two (2) years and submit to the Building Board of Appeals an
 amended fee schedule based on fees from neighboring communities or State of
 Iowa Fees. Upon review, the Building Board of Appeals may recommend said
 schedule and forward to City Council for examination.
-(Ord. 799 - Sep. 09 Supp.)
-Note: Fines, taxes and penalties, when applicable, are noted in each chapter
-and not listed in this chapter. County and/or State fees, when applicable, are
-noted in each chapter and not listed in this chapter.
+(Ord. 1075 – Oct. 25 Supp.)
+ 
 25.   Chapter 111A Rates and Fees: (Telecommunications Utility)
    Monthly Internet Service Rates:
-Description               Residential Fee Commercial Fee Tax Exempt* Fee
-Internet 150              N/A             $125.00        $75.00
-Internet 300              N/A             $250.00        $125.00
-Internet 1 GIG            $75.00          $500.00        $300.00
-Wifi Mesh Extender Rental $5.00/extender  $5.00/extender $5.00/extender
-Idle Service (Vacation)   $10.00          $10.00         $10.00
-Static IP                 $15.00          $15.00         $15.00
+Description                    Residential Fee Commercial Fee Tax Exempt* Fee
+Internet 150                   N/A             $125.00        $75.00
+Internet 300                   N/A             $250.00        $125.00
+Internet 1 GIG                 $75.00          $500.00        $300.00
+Internet 5 GIG                 $150.00         $1,000.00      $600.00
+PlumeWifi Mesh Extender Rental $5.00/extender  $5.00/extender $5.00/extender
+Idle Service (Vacation)        $10.00          $10.00         $10.00
+Static IP                      $15.00          $15.00         $15.00
 *To qualify for a tax exempt fee, the entity must be exempt from federal
 income tax
  
-   Monthly Voice Service Rates:
+ 
+Description         Monthly Rate
+Adtran SDX 631 ONT  $15.00
+Adtran SDX 632V ONT $15.00
+ 
+   Monthly Voice Service Rates Effective July 1, 2025:
    To receive voice services, subscriber must also receive internet service
 from the City of Pella.
-Description                Residential Fee Commercial Fee Tax Exempt* Fee
-Local Service              $15.00          $20.00         $20.00
-Long Distance              $10.00          $25.00         $25.00
-Toll Free Number           $3.00           $3.00          $3.00
-Toll Free Calls Intrastate $0.15/minute    $0.15/minute   $0.15/minute
-Toll Free Calls Interstate $0.15/minute    $0.15/minute   $0.15/minute
-Long Distance Intrastate   $0.10/minute    $0.10/minute   $0.10/minute
-Long Distance Interstate   $0.10/minute    $0.10/minute   $0.10/minute
-Idle Service (Vacation)    $10.00          $10.00         $10.00
-E911                       $1.00           $1.00          1.00
+Description                     Residential Fee Commercial Fee Tax Exempt* Fee
+Local Service                   $15.00          $30.00         $30.00
+Unlimited Long Distance Service $10.00          Included Free  Included Free
+Toll Free Number                $5.00           $5.00          $5.00
+Toll Free Calls Intrastate      $0.15/minute    $0.15/minute   $0.15/minute
+Toll Free Calls Interstate      $0.15/minute    $0.15/minute   $0.15/minute
+Idle Service (Vacation)         $10.00          $10.00         $10.00
+E911                            $1.00           $1.00          1.00
 *To qualify for a tax exempt fee, the entity must be exempt from federal
 income tax
+ 
+   Monthly Voice Over I.P. Cloud Based Phone System Rates:
+Fee Type                     Description                                Fee
+Audio Conference                                                        $15.00
+Advanced Auto Attendant      Set up Hunt Groups and higher Detail, more $17.00
+                             routing options   
+Additional Auto Attendant                                               $10.00
+Call Recording                                                          $9.00
+Fax Line                     Grandstream ATA HT801 $41.80               $15.00
+MS Teams Client                                                         $5.00
+Broadband Access             To be filled out on Contract               $-
+Personal Conference                                                     $10.00
+Hosted Fax                                                              $10.00
+ANPI VIP Receptionist        Manage and screen inbound callers          $60.00
+Secure Voice                 Encription for phone calls                 $1.50
+Group Hosted Fax             Multi user hosted fax                      $17.00
+Standalone Voice Mailbox     VM Box that us used for the Whole Business $2.50
+Storage Overage              VM messages storage                        $1.50
+Toll Free Numbers                                                       $5.00
+Virtual Extensions                                                      $5.00
+Virtual Numbers              Charged for each additional phone Number   $5.00
+                             Ported over
+Residential Select           Residential Phone Service with Soft App    $27.50
+Residential Standard         Residential Single Line Phone Service      $25.00
+Residential Toll Free                                                   $5.00
+Calling with Webex Basic     Polycom VVX 450 $191.40                    $24.00
+Calling with Webex Premium   Polycom VVX 450 $191.40                    $45.00
+Calling with Webex Softphone Polycom VVX 450 $191.40                    $20.00
+Calling with Webex Standard  Polycom VVX 450 $191.40                    $30.00
+VIPreferred Phone Lines      Yealink SIP T43U $111.10 Standard Business $30.00
+                             Seat
+VIPremium Phone Lines        Yealink SIP T54W $163.00 Standard Business $50.00
+                             Seat with Soft Phone
+VIPrimer Phone Lines         Yealink SIP T33G $82.50 - Common Area/     $7.00
+                             Kiosk Phone
+Advanced Call Center User                                               $30.00
+Agent Call Center Client                                                $20.00
+Call Center User                                                        $12.00
+Supervisor Client                                                       $50.00
+Supervisor Premium                                                      $75.00
+Supervisor Standard                                                     $62.00
+Standard SIP Trunk                                                      $22.00
+Trunk Bursting 10%                                                      $24.00
+Trunk Bursting 25%                                                      $44.00
+Trunk DID with Porting                                                  $0.90
+Trunk DID without Porting                                               $0.75
+Trunk 911 Registration                                                  $2.00
+Trunk Toll Free Number                                                  $5.00
+Equipment Pricing            Grandstream DP750/720 Dect Handset Only    $53.75
+Equipment Pricing            Grandstream DP750/720 Dect Handset and     $108.00
+                             Base Unit with P/S
+Equipment Pricing            Yealink W76P DECT Handset and W56H Handset $172.00
+                             with P/S
+Equipment Pricing            Yealink W56H DECT Handset                  $95.00
+Equipment Pricing            Yealink W59R Rugged DECT Handset           $191.00
+Equipment Pricing            HP Poly E100 PS                            $130.00
+Equipment Pricing            HP Poly E100 PoE                           $120.00
+Equipment Pricing            HP Poly E220 PS                            $137.50
+Equipment Pricing            HP Poly E220 PoE                           $126.25
+Equipment Pricing            HP Poly E300 PS                            $207.50
+Equipment Pricing            HP Poly E300 PoE                           $195.00
+Equipment Pricing            HP Poly E320 PS                            $225.00
+Equipment Pricing            HP Poly E320 POE                           $213.75
+Conference Phones            Polycom Trio 8300 Conference Phone PS      $399.00
+Conference Phones            Polycom Trio 8300 Conference Phone POE     $329.00
+Conference Phones            Polycom Trio 8800 Conference Phone POE     $552.00
+Equipment Pricing            Yealink SIP-T33G POE                       $90.00
+Equipment Pricing            Yealink SIP-T33G PS                        $95.00
+Equipment Pricing            Yealink SIP-T43U POE                       $115.00
+Equipment Pricing            Yealink SIP-T43U PS                        $121.00
+Equipment Pricing            Yealink SIP-T53W POE                       $139.00
+Equipment Pricing            Yealink SIP-T53W PS                        $146.00
+Equipment Pricing            Yealink SIP-T54W POE                       $175.00
+Equipment Pricing            Yealink SIP-T54W PS                        $183.00
+Equipment Pricing            Yealink SIP-T57W POE                       $222.00
+Equipment Pricing            Yealink SIP-T57W PS                        $229.00
+Expansion Modules            Yealink EXP43 Expansion Module for T4      $102.00
+                             Series
+Expansion Modules            Yealink EXP50 Expansion Module for T5      $115.00
+                             Series
+Expansion Modules            HP-Poly Edge E Expansion Module            $199.00
+ATA's                        Grandstream GXW4216 16 Port ATA            $365.00
+ATA's                        Grandstream GXW4224 24 Port ATA            $505.00
+ATA's                        Grandstream GXW4248 48 Port ATA            $850.00
+Conference Phones            Yealink CP925 Conference Phone POE         $353.00
+Conference Phones            Yealink CP965 Conference Phone POE         $446.00
+Conference Phones            Yealink CP965 Conference Phone PS          $475.00
+Equipment Pricing            Yealink W70 Base Station                   $88.00
+Equipment Pricing            Yealink W73H DECT Cordless Handset         $95.00
+ATA's                        Grandstream ATA HT801 $41.80               $58.00
+Extension Microphones        Polycom Trio Ext Micro 2 Pack              $226.00
+Extension Microphones        Yealink CP965 Wireless Expansion Mic Kit   $235.00
+Power Supplies               Polycom USB WiFi Adaptor for VVX           $36.00
+                             250,350,450
+Power Supplies               Polycom PS for VVX 250,350,450             $17.00
+Power Supplies               Yealink 5V/2A PS for T46U, T54W, T57W      $18.00
+Power Supplies               Yealink 5V/1.2A PS for T33G, T43U, T53W    $17.00
+Power Supplies               Poly Power Supply for Trio 8800            $87.00
+Power Supplies               Poly Power Supply for Trio 8300            $87.00
+Power Supplies               Yealink CP960 Power Supply                 $41.00
+Power Supplies               Yealink WiFi USB dongle for T4 Series      $40.00
+Power Supplies               Yealink Bluetooth USB dongle for T4 Series $38.00
+Power Supplies               Yealink Extra Power Supply 5V/ 600MA       $15.00
+Power Supplies               HP-Poly Edge E PS E11-E450                 $31.00
+Power Supplies               HP-Poly Edge E PS E500/E550                $44.00
+Wall Mounts/Stands           Polycom Wall Mount Bracket for VVX 150,    $24.00
+                             250
+Wall Mounts/Stands           Polycom Wall Mount Bracket for VVX 350     $24.00
+Wall Mounts/Stands           Polycom Wall Mount Bracket for VVX 450     $24.00
+Wall Mounts/Stands           Yealink Wall Mount Bracket for SIP-T33G    $9.00
+Wall Mounts/Stands           Yealink Wall Mount Bracket for SIP-T43U    $9.00
+Wall Mounts/Stands           Yealink Wall Mount Bracket for SIP-T53W/   $10.00
+                             T54W
+Wall Mounts/Stands           Yealink Wall Mount Bracket for SIP-T57W    $10.00
+Wall Mounts/Stands           Yealink Wall Mount Bracket for SIP-T46U    $9.00
+Wall Mounts/Stands           HP Poly Edge E100/200 Wall Mount Bracket   $29.00
+Wall Mounts/Stands           HP Poly Edge E300/320/350 Wall Mount       $40.00
+                             Bracket
+Wall Mounts/Stands           HP Poly Edge E400/450/500/550 Wall Mount   $40.00
+                             Bracket
+Repeater                     Yealink RT30 DECT Phone Repeater           $178.00
  
    Monthly Video Service Rates:
-   To receive voice services, subscriber must also receive internet service
-from the City of Pella.
-Description                        Fee
-Basic                              $39.00
-Basic Plus                         $96.00
-Basic Plus Family                  $106.00
-Basic Plus Sports                  $106.00
-NFL Red Zone (Seasonal a la carte) $60.00
-HBO                                $15.00
-Cinemax                            $15.00
-STARZ/Encore                       $15.00
-Showtime                           $10.99
-Idle Service (Vacation)            $10.00
-Set Top Box Rental (1)             $0.00
-Set Top Box Rental (2+)            $5.00/box
-Whole Home DVR                     $10.00
+   To receive video services, subscriber must receive internet service from the
+City of Pella.
+Service   Fee         Effective February 1, 2025 Fee Effective July 1, 2025
+Basic                    $45.00                     $45.00
+Basic Plus               $106.00                    $115.00
+Basic Plus Family        $116.00                    $125.00
+Basic Plus Sports        $116.00                    $125.00
+Basic Plus Family &      $126.00                    $135.00
+Sports
+NFL Red Zone (Seasonal a $60.00                     $60.00
+la carte)
+HBO                      $15.00                     $15.00
+Cinemax                  $15.00                     $15.00
+STARZ/Encore             $15.00                     $15.00
+Showtime                 $15.00                     $15.00
+Idle Service (Vacation)  $10.00                     $10.00
+Set Top Box Rental (1)   Included                   Included
+Set Top Box Rental (2+)  $5.00/box                  $5.00/box
+Whole Home DVR           $10.00                     $10.00
  
-         Monthly Hospitality Commercial Establishment A La Carte Channel Rates:
+   Monthly Hospitality Commercial Establishment A La Carte Channel Rates:
                        Fire Code Maximum Occupancy Rating
 Channel/Channel Group  >50    51-100 101-150 151-200 201-300 301-500 <500
 Marquee Sports Network $37.50 $50.00 $75.00  $100.00 $125.00 $150.00 $200.00
@@ -25001,19 +25151,22 @@ NFL Red Zone           $45.00 $50.00 $56.00  $56.00  $61.00  $61.00  $66.00
 Singray Music          $15.00 N/A    N/A     N/A     N/A     N/A     N/A
  
    Miscellaneous Discounts and Fees:
-Description                            Discount/Fee
-Monthly Discount for ACH and Ebill     ($5.00)
-Monthly Discount for Multiple Services ($10.00)/service
-Non-Sufficient Funds Fee               $30.00
-Late Payment Penalty Fee               1.5%/$5.00 minimum
-Non Returned/Damaged ONT/RG            $175.00
-Non Returned/Damaged Plume Pos         $75.00
-Non Returned/Damaged Set Top Box       $150.00
-Non Returned/Damaged Remote            $25.00
+Description                                     Discount/Fee
+Monthly Discount for ACH and Ebill              ($5.00)
+Monthly Discount for Multiple Services          ($10.00)/service
+Non-Sufficient Funds Fee                        $30.00
+Late Payment Penalty Fee                        1.5%/$5.00 minimum
+Non Returned/Damaged ONT/RG                     $175.00
+Non Returned/Damaged Plume Pos                  $75.00
+Non Returned/Damaged Set Top Box                $150.00
+Non Returned/Damaged Remote                     $25.00
+Trip Charge                                     $75.00
+Non Pay Reconnect Fee                           $50.00
+Internet Add-On for Outside of City Subscribers $75.00
  
-Contract Rates:
-For accounts with at least 10 GIG internet service, or at least six services,
-the City reserves the right to offer contract rates.
+   Contract Rates:
+   For accounts with at least 10 GIG internet service, or at least six
+services, the City reserves the right to offer contract rates.
    Voice Service Rates
  
 Description             Fee
@@ -25040,7 +25193,21 @@ Commercial Airing                $10.00/30 seconds
 Short-term Display Advertising   $20.00/week, $60.00/month, $600.00/year
 Ad Creation Package              $300.00
  
-(Ord. 1026 - Mar. 23 Supp.)
+(Ord. 1069 – Oct. 25 Supp.)
+26.   Miscellaneous Permit Fees
+Description                           Fee
+In ground pool or hot tub             $50.00
+Above ground pool or hot tub          $25.00
+Solar, wind, and/or renewable energy  $50.00
+Working without Permit                Double fee + $50.00 fine
+Re-Inspection                         First one free, second one a $50.00 fee
+Temporary Certificate of Occupancy -
+(expires in 6 months and cannot be    $150.00
+renewed)
+Retaining Wall Permit                 $25.00
+Communication Towers                  Valuation plus engineering fees
+ 
+(Ord. 1075 – Oct. 25 Supp.)
 CHAPTER 172
 SMALL WIRELESS FACILITY ANTENNA/TOWER RIGHT-OF-WAY SITING
 172.01 Purpose                   172.09 Attachment Limitations
