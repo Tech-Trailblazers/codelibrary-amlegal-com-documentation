@@ -153,6 +153,9 @@ Jul-25    100.03(3-6); 100.04      2025-200   4-28-25  Sanitary Sewer Distrtict
           122.02(1)                2025-800   6-23-25  Peddlers, Solicitors and
                                                        Transient Merchants
           165.03(2)(A)             2025-900   6-23-25  Adult Entertainment
+Oct-25    Ch. 137                  2025-800   9-8-25   Vacating Alley
+          Ch. 137                  2025-900   9-22-25  Vacating Alley
+          157.09                   2025-1000  9-22-25  Architectural Standards
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -15230,7 +15233,7 @@ VACATION AND DISPOSAL OF STREETS
 the City to vacate a street, alley, portion thereof, or any public grounds, the
 Council may do so by ordinance in accordance with the provisions of this
 chapter.
-(Code of Iowa, Sec. 364.12[2a])
+(Code of Iowa, Sec. 364.12(2)(a))
 137.02 PLANNING AND ZONING COMMISSION.
    Any proposal to vacate a street, alley, portion thereof, or any public
 grounds shall be referred by the Council to the Planning and Zoning Commission
@@ -15259,7 +15262,7 @@ of Iowa.
 137.06 DISPOSAL BY GIFT LIMITED.
    The City may not dispose of real property by gift except to a governmental
 body for a public purpose or to a fair.
-(Code of Iowa, Sec. 174.15[2] and 364.7[3])
+(Code of Iowa, Sec. 174.15(2) and 364.7(3))
 EDITOR’S NOTE
 The following ordinances, not codified herein and specifically saved from
 repeal, have been adopted vacating certain streets, alleys and/or public
@@ -15284,8 +15287,8 @@ ORDINANCE NO. ADOPTED            ORDINANCE NO. ADOPTED
 2003-800      October 13, 2003   2022-2000     January 24, 2022
 2004-100      March 8, 2004      2023-1000     January 9, 2023
 2004-400      November 22, 2004  2024-1500     January 13, 2025
-2007-1100     August 27, 2007                  
-2008-200      March 24, 2008                   
+2007-1100     August 27, 2007    2025-800      September 8, 2025
+2008-200      March 24, 2008     2025-900      September 22, 2025
 2008-500      July 28, 2008                    
 2009-1000     January 11, 2010                 
 2010-2100     August 23, 2010                  
@@ -16674,14 +16677,13 @@ established by resolution of the Council.
 CHAPTER 157
 SITE PLAN
  
-157.01 Purpose and Scope                        157.05 Appeals
-157.02 Site Plan Submittal                      157.06 Council Action
-157.03 Site Plan Requirements for One- and Two- 157.07 Site Plan Certificate
+157.01 Purpose and Scope                        157.06 Council Action
+157.02 Site Plan Submittal                      157.07 Site Plan Certificate
+157.03 Site Plan Requirements for One- and Two- 157.08 Design Standards
 Family Residential Dwellings
-157.04 Site Plan Requirements for Other than    157.08 Design Standards
+157.04 Site Plan Requirements for Other than    157.09 Architectural Standards
 One- and Two-Family Residential Dwellings
-                                               157.09 Architectural Standards
-                                               157.10 Approval and Penalties
+157.05 Appeals                                  157.10 Approval and Penalties
  
 157.01 PURPOSE AND SCOPE.
    It is the intent and purpose of this chapter to establish a procedure by
@@ -16990,8 +16992,8 @@ landscape materials.
 157.09 ARCHITECTURAL STANDARDS.
    The requirements, guidelines and standards set forth in this section shall
 apply to any development or redevelopment of property within the zoning
-districts listed in Section
-165.04 of this Code of Ordinances and within the City.
+districts listed in Section 165.04 of this Code of Ordinances and within the
+City.
    1.   Statement of Intent. In the interest of promoting the general welfare
 of the community and to protect the value of buildings and property, the image
 and character of a community is considered important. It is recognized that a
@@ -17011,27 +17013,35 @@ include building elevations showing the building’s design and exterior
 materials and any other information as deemed necessary to make a
 recommendation for approval. Detailed information relating to any lighting or
 signage on the structure shall be provided, including backlit material or
-accent lighting and shall be in conformance with Chapter 166 of this Code of
-Ordinances. The architectural design shall be in accordance with the standards
-as contained in this section and shall be in compliance with the following
-general provisions:
-      A.   The architectural theme of any development within a C-2, C-3 or C-
-4 District shall be dominated with permanency and strength of materials in
-proportion to the aesthetic characteristics of the architectural bulk, shape,
-materials and color, and shall be compatible with other structures within the
-immediate surrounding development area and the zoning district. The buildings
-within this district, both as principal permitted uses and accessory uses,
-shall be designed and constructed with such materials as may be necessary in
-order to assure durability, permanency and continued aesthetic quality. The
-general manner in which any use and development is accomplished shall be
-compatible to and in harmony with the character of the zoning district as
-established or proposed. Existing or potential land use conflicts shall be
-avoided through proper orientation, open space, setbacks, landscaping and
-screening, grading, traffic circulation and architectural compatibility.
+accent lighting and shall be in conformance with
+Chapter 166 of this Code of Ordinances. The architectural design shall be in
+accordance with the standards as contained in this section and shall be in
+compliance with the following general provisions:
+      A.   The architectural theme of any development within a C-TS, C-1, C-2,
+C-3, C-4, M-1, or M-2 District shall be dominated with permanency and strength
+of materials in proportion to the aesthetic characteristics of the
+architectural bulk, shape, materials and color, and shall be compatible with
+other structures within the immediate surrounding development area and the
+zoning district. The buildings within this district, both as principal
+permitted uses and accessory uses, shall be designed and constructed with such
+materials as may be necessary in order to assure durability, permanency and
+continued aesthetic quality. Architectural drawings shall be accompanied by a
+statement of warranty, certification from the manufacturer, or other approved
+documentation demonstrating a design life for all proposed materials of no less
+than 15 years. The general manner in which any use and development is
+accomplished shall be compatible to and in harmony with the character of the
+zoning district as established or proposed. Existing or potential land use
+conflicts shall be avoided through proper orientation, open space, setbacks,
+landscaping and screening, grading, traffic circulation and architectural
+compatibility.
       B.   Canopies, awnings and similar portico coverings for windows and
-walkways are encouraged for added architectural character.
+walkways shall be strongly encouraged for added architectural character, with
+additional consideration being given to match or conform with the existing,
+surrounding neighborhood.
       C.   Pitched roofs with gables, hips, dormers and similar offsetting and
-intersecting roof lines are desirable for increased architectural interest.
+intersecting roof lines shall be strongly encouraged for increased
+architectural interest, with additional consideration being given to match or
+conform with the existing, surrounding neighborhood.
    3.   Quality of Construction.
       A.   Wall Area Defined. In the application of these requirements, some
 standards are based upon a percentage of the wall area. The wall area is
@@ -17043,89 +17053,105 @@ glazed area of all doors, including overhead doors, shall be considered part of
 the total wall area. Each elevation must comply with the standards unless
 otherwise provided for herein or as amended or approved by the Council.
       B.   In the C-TS District, all building facades facing a public street
-shall have a minimum of 75 percent of the wall area constructed of brick or an
-acceptable alternative as defined herein. All building facades not facing a
-public street shall have a minimum of 50 percent of the wall area constructed
-of brick or acceptable alternative.
+shall have a minimum of 75 percent of the wall area constructed of Class A
+materials as defined herein. All building facades not facing a public street
+shall have a minimum of 50 percent of the wall area constructed of Class A
+materials.
       C.   In the C-1, C-2, C-3 and C-4 Districts, for all non-single-family or
 two-family residential buildings, all building facades facing a public street
-shall have a minimum of 60 percent of the wall area constructed of brick or an
-acceptable alternative as defined herein. All facades of such buildings that
-are not facing a public street shall have a minimum of 50 percent of the wall
-area constructed of brick or acceptable alternative.
-      D.   In PUD Districts, architectural design standards, including the
-percentage of brick required for various building types and facades, shall be
-as approved with the PUD Master Plan and/or rezoning ordinance.
-      E.   In the R-2 District, for all non-single-family or two-family
+shall have a minimum of 60 percent of the wall area constructed of Class A
+materials as defined herein. All facades of such buildings that are not facing
+a public street shall have a minimum of 50 percent of the wall area constructed
+of Class A materials.
+      D.   In the M-1, and M-2 Districts, for all non-single-family or two-
+family residential buildings, all building facades facing a public street shall
+have a minimum of 40 percent of the wall area constructed of Class A materials
+as defined herein. All facades of such buildings that are not facing a public
+street shall have a minimum of 30 percent of the wall area constructed of Class
+A materials.
+      E.   In PUD Districts, architectural design standards, including the
+percentage of Class A materials for various building types and facades, shall
+be as approved with the PUD Master Plan and/or rezoning ordinance.
+      F.   In the R-2 District, for all non-single-family or two-family
 residential buildings, all residential building facades facing a public or
 private street shall have a minimum of 15 percent of the applicable wall area
-constructed of brick or an acceptable alternative as defined herein.
-      F.   In the R-2A District, for all non-single-family or two-family
+constructed of Class A materials as defined herein.
+      G.   In the R-2A District, for all non-single-family or two-family
 residential buildings containing four or fewer dwelling units, all building
 facades facing a public or private street shall have a minimum of 15 percent of
-the applicable wall area constructed of brick or an acceptable alternative as
-defined herein. For all non-single-family or two-family residential buildings
-containing more than four dwelling units, all building facades facing a public
-or private street shall have a minimum of 30 percent of the applicable wall
-area constructed of brick or an acceptable alternative as defined herein.
-      G.   In the R-3 District, for all non-single-family or two-family
+the applicable wall area constructed of Class A materials as defined herein.
+For all non-single-family or two-family residential buildings containing more
+than four dwelling units, all building facades facing a public or private
+street shall have a minimum of 30 percent of the applicable wall area
+constructed of Class A materials as defined herein.
+      H.   In the R-3 District, for all non-single-family or two-family
 residential buildings containing four or fewer dwelling units, all building
 facades facing a public or private street shall have a minimum of 15 percent of
-the applicable wall area constructed of brick or an acceptable alternative as
-defined herein. For all non-single-family or two-family residential buildings
-containing more than four dwelling units, all building facades facing a public
-or private street shall have a minimum of 30 percent of the applicable wall
-area constructed of brick or an acceptable alternative as defined herein.
-      H.   For all nonresidential buildings in residential districts (other
+the applicable wall area constructed of brick or an acceptable alternative
+Class A materials as defined herein. For all non-single-family or two-family
+residential buildings containing more than four dwelling units, all building
+facades facing a public or private street shall have a minimum of 30 percent of
+the applicable wall area constructed of Class A materials as defined herein.
+      I.   For all nonresidential buildings in residential districts (other
 than permitted accessory structures), all building facades facing a public or
 private street shall have a minimum of 60 percent of the applicable wall area
-constructed of brick or an acceptable alternative as defined herein. All
-facades of such buildings that are not facing a public or private street shall
-have a minimum of 50 percent of the applicable wall area constructed of brick
-or acceptable alternative. Exceptions may be recommended to the Council by the
-Planning and Zoning Commission to preserve any existing architectural theme or
-historical ambiance, which may or may not be approved by the Council.
-      I.   Existing non-conformance renovation or addition exceeding 50 percent
+constructed of Class A materials as defined herein. All facades of such
+buildings that are not facing a public or private street shall have a minimum
+of 50 percent of the applicable wall area constructed of Class A materials.
+Exceptions may be recommended to the Council by the Planning and Zoning
+Commission to preserve any existing architectural theme or historical ambiance,
+which may or may not be approved by the Council.
+      J.   Where Class A materials are required in commercial or industrial
+districts, Class B materials may replace up to 30 percent of the required
+proportion of Class A materials, if specifically recommended for approval by
+the Planning & Zoning Commission and specifically approved by the City Council.
+      K.   Existing non-conformance renovation or addition exceeding 50 percent
 of building value or no more than 25 percent square footage of gross floor area
 must bring entire building into conformance.
-   4.   Acceptable Finish Materials for Exterior Building Walls.
-      A.   Acceptable Materials. For the purposes of this section, the
-following materials are deemed sufficient to provide for permanency and
-strength of materials in proportion to the aesthetic characteristics of
-architectural bulk, shape and materials:
-         (1)   Brick, stone, marble, granite, and other similar masonry veneers
-and fascia.
-         (2)   Glass and glass window panel systems.
-         (3)   Aluminum, steel, vinyl, fiber cement board, solid wood,
+   4.   Finish Materials for Exterior Building Walls.
+      A.   For the purposes of this section, finish materials for exterior
+building walls shall be defined to be contained within one of the following
+categories. Materials shall specified based upon their class as required
+herein.
+         (1)   Class A Materials: Brick, Stone, and Acceptable Alternatives.
+            a.   Brick, including thin brick veneer systems.
+            b.   Stone, including marble, granite, or cultured stone.
+            c.   Architectural concrete (precast or cast in place) or stone
+panels.
+            d.   Textured concrete block that simulate brick or stone.
+            e.   Other acceptable materials deemed suitable by the Council upon
+recommendation from the Planning and Zoning Commission.
+         (2)   Class B Materials: Alternative Materials where Brick and Stone
+is Required.
+            a.   Architectural steel panels with embossing or other texture to
+mimic or otherwise simulate the appearance of a Class A material and shall have
+concealed fasteners and no visible seams.
+         (3)   Class C Materials: Acceptable Non-Brick or Stone Materials.
+            a.   Brick, stone, marble, granite, and other similar masonry
+veneers and fascia.
+            b.   Aluminum, steel, vinyl, fiber cement board, solid wood,
 engineered wood, and similar lap siding when in character with the
 architectural characteristics of the structure.
-         (4)   Textured, fluted or similar exposed concrete block masonry
+            c.   Textured, fluted or similar exposed concrete block masonry
 materials.
-         (5)   Textured, concrete tilt-up panel construction systems.
-         (6)   Stucco and staccato board and trim.
-         (7)   Exceptions to the above may be granted by the Council in order
-to be in character with surrounding development.
-      B.   Acceptable Alternative Materials Where Brick is Required. On
-exterior walls, where a percentage of the wall area is required by this section
-to be constructed of brick or an acceptable alternative, the acceptable
-alternatives are defined as follows:
-         (1)   Brick, including thin brick veneer systems.
-         (2)   Stone, including marble, granite, or cultured stone.
-         (3)   Architectural concrete or stone panels.
-         (4)   Architectural steel panels.
-         (5)   Textured concrete block.
-         (6)   Other acceptable materials deemed suitable by the Council upon
-recommendation from the Planning and Zoning Commission.
-      C.   Unacceptable Materials. The following are not deemed sufficient to
-provide permanency and strength of materials in proportion to the aesthetic
-characteristics of the architectural bulk, shape and materials when not
-specifically a part of an approved architectural character or theme:
-         (1)   Plywood and similar sheet, untextured wood coverings.
-         (2)   Particle board, pressed board and similar composite siding
+            d.   Textured, concrete tilt-up panel construction systems.
+            e.   Stucco and staccato board and trim.
+            f.   Glass not placed to be vertical to the ground.
+            g.   Architectural steel panels with smooth finishes. Acceptable
+steel panels shall not have vertical seam and shall not be provided in a length
+or width less than 24”. Architectural steel panels shall have concealed
+fasteners.
+            h.   Exceptions to the above may be recommended by the Planning &
+Zoning Commission and granted by the Council in order to be in character with
+surrounding development.
+         (4)   Class D Materials: Unacceptable and Prohibited Materials.
+            a.   Plywood and similar sheet, untextured wood coverings.
+            b.   Particle board, pressed board and similar composite siding
 materials.
-         (3)   Common concrete block when used for exterior fascia, whether
+            c.   Common concrete block when used for exterior fascia, whether
 painted or not.
-         (4)   Vertical steel siding.
+            d.   Vertical steel siding with corrugated or ribbed surfaces and
+exposed fasteners or with slat widths of less than 24”.
    5.   Additional Architectural Elements. In order to reduce the negative
 aesthetic impacts of large buildings, additional architectural elements shall
 be incorporated into the overall building design and shall incorporate the
@@ -17134,12 +17160,42 @@ following:
 incorporate residential design elements such as pitched roofs, dormers,
 cupolas, or other similar roof elements into the building design in order to
 minimize the aesthetic impact of the differing uses.
-      B.   Multiple-family buildings shall be designed in a manner compatible
+         (1)   Detached garage structures containing multiple parking stalls
+proposed as accessory structures to rowhomes, townhomes, or multi-family
+residential structures shall include similar architectural and visual elements
+to those incorporated into the primary structures.
+         (2)   All garage structures shall include recesses or protrusions
+along their frontage to public streets, private streets, or shared driveways as
+to ensure that no more than 4 consecutive parking stalls are located on the
+same set back from the adjacent pavement.
+         (3)   In addition to recesses and protrusions, the building’s façade
+along a public street, private street, or shared driveway shall include visual
+interest items placed as to ensure that no greater than 1/10 of the building’s
+façade is a monotonous, uninterrupted expanse of wall. Visual interest items
+shall include recesses, projections, columns, windows, openings, ornamentation,
+material variation, color variation, plantings, or other elements if
+specifically recommended for approval by the Planning & Zoning Commission and
+specifically approved by the City Council.
+      B.   Rowhomes and townhomes shall be designed as to meet the following
+requirements:
+         (1)   Monotonous, uninterrupted expanses of wall are prohibited. No
+greater than 1/3 of the building’s frontage along a public street, private
+street, or shared driveway shall be proposed at the same setback from the
+adjacent pavement and shall have either a projection or recess that constitutes
+no greater than 1/3 of the building’s elevation.
+         (2)   In addition to recesses and protrusions, the building’s façade
+along a public street, private street, or shared driveway shall include visual
+interest items placed as to ensure that no greater than 1/6 of the building’s
+façade is a monotonous, uninterrupted expanse of wall. Visual interest items
+shall include recesses, projections, columns, windows, openings, ornamentation,
+material variation, color variation, plantings, or other elements if
+specifically recommended for approval by the Planning & Zoning Commission and
+specifically approved by the City Council.
+      C.   Multiple-family buildings shall be designed in a manner compatible
 with residential uses in the vicinity. Architectural design for multiple-family
 buildings shall attempt to lessen the plainness of appearance, which can be
-characteristic of large residential buildings. Multiple-family buildings with
-plain walls and boxy appearance are not encouraged. Their architectural design
-shall use a combination of the following design techniques, as appropriate:
+characteristic of large residential buildings. Their architectural design shall
+use a combination of the following design techniques, as appropriate:
          (1)   Exterior building materials shall employ a variety of textures
 and colors and window and door details and be in compliance with Paragraphs F
 and G of Subsection 2 of this section, as applicable.
@@ -17147,7 +17203,20 @@ and G of Subsection 2 of this section, as applicable.
 residential design.
          (3)   The structures’ perimeter shall vary when multiple buildings are
 proposed.
-      C.   Buildings proposed in commercial districts that are adjacent to
+         (4)   Monotonous, uninterrupted expanses of wall are prohibited. No
+greater than 1/5 of the building’s frontage along a public street, private
+street, or shared driveway shall be proposed at the same setback from the
+adjacent pavement and shall have either a projection or recess that constitutes
+no greater than 1/5 of the building’s elevation.
+         (5)   In addition to recesses and protrusions, the building’s façade
+along a public street, private street, or shared driveway shall include visual
+interest items placed as to ensure that no greater than 1/10 of the building’s
+façade is a monotonous, uninterrupted expanse of wall. Visual interest items
+shall include recesses, projections, columns, windows, openings, ornamentation,
+material variation, color variation, plantings, or other elements if
+specifically recommended for approval by the Planning & Zoning Commission and
+specifically approved by the City Council.
+      D.   Buildings proposed in commercial districts that are adjacent to
 residential developments are recommended to include an articulated roofline,
 giving emphasis to architectural elements that will help divide the mass of a
 large building into smaller, identifiable pieces. Flat roof buildings shall not
@@ -17157,7 +17226,7 @@ importance of material strength and permanency through the selection of
 building materials, and the principle of structural strength and permanency
 shall dominate the structural and exterior materials and components in
 compliance with Subsection 2 of this section.
-      D.   Buildings shall not be designed or orientated to expose loading
+      E.   Buildings shall not be designed or orientated to expose loading
 docks, service areas, HVAC elements, garbage dumpsters, or nonresidential
 overhead doors to the public rights-of-way.
          (1)   Buildings proposed in commercial districts adjacent to
@@ -17169,17 +17238,21 @@ service areas, or similar operations away from the residential developments,
 areas or public rights-of-way, additional landscape buffering, screening walls,
 fences, and setbacks may be recommended by the Planning and Zoning Commission
 to the Council which may or may not approve the recommendation.
-      E.   Screening shall be provided for roof-mounted HVAC units to conceal
+      F.   Screening shall be provided for roof-mounted HVAC units to conceal
 such units from public view.
-   6.   General Provisions. Adequate treatment or screening of negative aspects
-of buildings (loading docks, loading areas, outside storage areas, garbage
+   5.   General Provisions. Opaque screening at maturity of negative aspects of
+buildings (loading docks, loading areas, outside storage areas, garbage
 dumpsters and HVAC mechanical units) from any public street and adjoining
-properties shall be required. The Council, in its sole discretion and after
-receiving a recommendation from the Planning and Zoning Commission, may approve
-additional primary materials on a case-by-case basis, provided that such
-materials exhibit the structural strength and permanency desired, contain
-sufficient architectural relief, and do not detract from the desired aesthetic
-character of the building and the surrounding area.
+properties shall be required. Negative effects shall be screened as to be
+hidden by opaque screening at an eye height of no less than 6’ from the
+adjacent public right-of-way and/or shared driveway, or the adjacent property
+line. The Council, in its sole discretion and after receiving a recommendation
+from the Planning and Zoning Commission, may approve additional primary
+materials on a case-by-case basis, provided that such materials exhibit the
+structural strength and permanency desired, contain sufficient architectural
+relief, and do not detract from the desired aesthetic character of the building
+and the surrounding area.
+(Section 157.09 – Ord. 2025-1000 – Oct. 25 Supp.)
 157.10 APPROVAL AND PENALTIES.
    1.   No building permits shall be issued for any building or development
 construction that is subject to this chapter until a site plan has been
@@ -19299,7 +19372,7 @@ adjacent and most nearly parallel to a street.
 natural grade at the building line to the highest point of the coping of a flat
 roof, or to the deck line of a mansard roof, or to the mean height level
 (between eaves and ridge) for gable, hip, and gambrel roofs.
-[https://export.amlegal.com/media/4cfabcd3a7ac6faf0dc44dbdf7ffb8c4efb97789/
+[https://export.amlegal.com/media/6956c16e655ebd5e83d8b07c9cf677873d82cb98/
 IMAGES/0-0-0-2508.png]
  
    14.   “Building line” means the line of the outside wall of the building or
@@ -19504,7 +19577,7 @@ referred to as “through” lots.
       D.   “Reverse corner lot” means a corner lot, the side street line of
 which is substantially a continuation of the front lot line of the first lot to
 its rear.
-[https://export.amlegal.com/media/4cfabcd3a7ac6faf0dc44dbdf7ffb8c4efb97789/
+[https://export.amlegal.com/media/6956c16e655ebd5e83d8b07c9cf677873d82cb98/
 IMAGES/0-0-0-2510.png]
  
    59.   “Manufactured home,” as used in this chapter, means a factory-built

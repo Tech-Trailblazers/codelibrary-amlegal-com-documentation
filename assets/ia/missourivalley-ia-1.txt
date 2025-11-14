@@ -330,6 +330,16 @@ Feb-24 69.15    610   2-6-24 Parking Regulations
 Jun-24 Ch. 165  611   6-18-  Rezoning from RD60 to BGC
                       24
 Jan-25 Ch. 165  612   1-7-25 Rezoning from RD60 to BGC
+Oct-25 69.08    613   4-1-25 Parking Regulations
+       90.21    614   5-6-25 Water Service System
+       105.13   615   5-6-25 Solid Waste Control
+       69.19    616   10-7-  No Loading/Unloading Zones
+                      25
+       65.02(3) 617   10-7-  Stop Intersections
+                      25
+                618          Not Adopted
+       92.02    619   10-7-  Water Service Rates
+                      25
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -4903,7 +4913,10 @@ Street and Ninth Street.
    2.   Superior Street. Vehicles traveling on Superior Street shall stop at
 Second Street, Fourth Street, Eighth Street, West Street, and Harrison Street.
    3.   Michigan Street. Vehicles traveling west on Michigan Street shall stop
-at Eighth Street.
+at the following intersections:
+      A.   West Street.
+      B.   Harrison Street.
+(Subsection 3 - Ord. 617 - Oct. 25 Supp.)
    4.   St. Clair Street. Vehicles traveling on St. Clair Street shall stop at
 Eighth Street.
    5.   St. Clair Street. Vehicles traveling west on St. Clair Street shall
@@ -5105,17 +5118,19 @@ appropriate signs are in place.
 – NONE –
 CHAPTER 69
 PARKING REGULATIONS
-69.01 Park Adjacent to Curb             69.10 Truck Parking Limited
-69.02 Park Adjacent to Curb – One-Way 69.11 Loading Zones
+69.01 Park Adjacent to Curb             69.11 Loading Zones
+69.02 Park Adjacent to Curb – One-Way 69.12 Passenger Loading Zones
 Street
-69.03 Angle Parking                     69.12 Passenger Loading Zones
-69.04 Angle Parking – Manner          69.13 Library Patrons Parking Only
-69.05 Parking for Certain Purposes      69.14 Restricted Parking Zones – Low Rent Housing
-Illegal                                 Agency
-69.06 Parking Prohibited                69.15 Parking Limited to Two Hours
-69.07 Persons With Disabilities Parking 69.16 Parking Limited to Ten Minutes
-69.08 No Parking Zones                  69.17 Parking Prohibited – Funerals
-69.09 All Night Parking Prohibited      69.18 Parking During Snow Emergency
+69.03 Angle Parking                     69.13 Library Patrons Parking Only
+69.04 Angle Parking – Manner          69.14 Restricted Parking Zones – Low Rent Housing
+                                        Agency
+69.05 Parking for Certain Purposes      69.15 Parking Limited to Two Hours
+Illegal
+69.06 Parking Prohibited                69.16 Parking Limited to Ten Minutes
+69.07 Persons With Disabilities Parking 69.17 Parking Prohibited – Funerals
+69.08 No Parking Zones                  69.18 Parking During Snow Emergency
+69.09 All Night Parking Prohibited      69.19 No Loading/Unloading Zones
+69.10 Truck Parking Limited
  
 69.01 PARK ADJACENT TO CURB.
    No person shall stand or park a vehicle in a roadway other than parallel
@@ -5303,7 +5318,6 @@ Street;
 and on the south side between Third Street and Fourth Street;
    17.   St. Clair Street, on the south side, from Sixth Street to Seventh
 Street;
-   18.   Ontario Street, on the south side, from Fifth Street to Ninth Street;
    19.   Beacon Avenue, on the east side, from Superior Street south to the
 alley;
    20.   St. Clair Street, on the south side, from Seventh to Ninth Street;
@@ -5318,31 +5332,35 @@ Michigan Street;
    25.   Longview Road, on both sides, from the north line of North Street to
 112 feet north;
    26.   Eighth Street, on the west side, from the intersection of Eighth
-Street with the north line of Linn Street, thence north 75 feet.
+Street with the north line of Linn Street, thence north 75 feet;
    27.   Grove Street, on the south side, between Sixth Street and Seventh
-Street.
+Street;
    28.   Eighth Street, on the west side, between St. Clair Street and Linn
-Street.
-   29.   Linn Street, on the south side, between 8th Street and 9th Street.
+Street;
+   29.   Linn Street, on the south side, between 8th Street and 9th Street;
    30.   Grove Street, on the north side, from its intersection with Longview
-Road, 30’ west.
+Road, 30’ west;
    31.   Longview Road, on the east side, from its intersection with Longview
-Court, 15’ south.
+Court, 15’ south;
    32.   Harrison Street, on the west side, between St. Clair Street to
-Michigan Street.
+Michigan Street;
    33.   Seventh Street, on the west side, between East Superior Street and
 East Huron Street;
    34.   Willow Road from West Huron Street to City limits;
-   35.   Beacon Avenue from West Huron Street to West St. Clair Street;
-   36.   Park Avenue from West Huron Street to West St. Clair Street;
-   37.   North Boston Avenue from West Huron Street to West St. Clair Street;
-   38.   Portland Avenue from West Huron Street to West St. Clair Street;
-   39.   Shawmutt Avenue from West Huron Street to West St. Clair Street;
+   35.   Beacon Avenue from West Huron Street to West St Clair Street;
+   36.   Park Avenue from West Huron Street to West St Clair Street;
+   37.   North Boston Avenue from West Huron Street to West St Clair Street;
+   38.   Portland Avenue from West Huron Street to West St Clair Street;
+   39.   Shawmutt Avenue from West Huron Street to West St Clair Street;
    40.   West Huron Street from Willow Road to Dean DeWaele Way;
-   41.   West St. Clair Street from Willow Road to Shawmutt Avenue;
+   41.   West St Clair Street from Willow Road to Shawmutt Avenue;
    42.   West Michigan Street from Beacon Avenue to Shawmutt Avenue;
    43.   West Superior Street from Beacon Avenue to Shawmutt Avenue.
-(Section 69.08 - Ord. 572 - Mar. 21 Supp.)
+   44.   Longview Road, starting at Grove Street North to City Limits on either
+side.
+   45.   Eighth Street, on the both sides, from Huron Street to St. Clair
+Street.
+(Section 69.08 - Ord. 613 - Oct. 25 Supp.)
 69.09 ALL NIGHT PARKING PROHIBITED.
    No person, except physicians or other persons on emergency calls, shall park
 a vehicle on any street marked to prohibit all night parking and giving notice
@@ -5460,6 +5478,11 @@ news media to publicize the proclamation and the parking rules under the
 emergency. Such emergency may be extended or shortened when conditions warrant.
 (Code of Iowa, Sec. 321.236)
 (Section 69.18 – Ord. 590 – Feb.22 Supp.)
+69.19   NO LOADING/UNLOADING ZONES.
+   No person shall stop, stand, or park a vehicle for the purpose of loading or
+unloading in the following designated streets or portions thereof:
+   1.   Huron Street from Harrison Street to Willow Street.
+(Section 69.19 - Ord. 616 - Oct. 25 Supp.)
 CHAPTER 70
 TRAFFIC CODE ENFORCEMENT PROCEDURES
  
@@ -6201,16 +6224,19 @@ over any street traversed by their rails.
 (Code of Iowa, Sec. 364.11)
 CHAPTER 90
 WATER SERVICE SYSTEM
-90.01 Definitions                   90.11 Installation of Water Service Pipe
-90.02 Superintendent’s Duties     90.12 Responsibility for Water Service Pipe
-90.03 Mandatory Connections         90.13 Failure to Maintain
-90.04 Abandoned Connections         90.14 Curb Valve
-90.05 Permit                        90.15 Interior Valve
-90.06 Charges and Fees for Permit   90.16 Inspection and Approval
-90.07 Compliance with Plumbing Code 90.17 Completion by the City
-90.08 Plumber Required              90.18 Shutting off Water Supply
-90.09 Excavations                   90.19 Operation of Curb Valve and Hydrants
-90.10 Tapping Mains                 90.20 Tampering
+90.01 Definitions                        90.12 Responsibility for Water Service
+                                         Pipe
+90.02 Superintendent’s Duties          90.13 Failure to Maintain
+90.03 Mandatory Connections              90.14 Curb Valve
+90.04 Abandoned Connections              90.15 Interior Valve
+90.05 Permit                             90.16 Inspection and Approval
+90.06 Charges and Fees for Permit        90.17 Completion by the City
+90.07 Compliance with Plumbing Code      90.18 Shutting off Water Supply
+90.08 Plumber Required                   90.19 Operation of Curb Valve and
+                                         Hydrants
+90.09 Excavations                        90.20 Tampering
+90.10 Tapping Mains                      90.21 Final Bills
+90.11 Installation of Water Service Pipe
  
 90.01 DEFINITIONS.
    The following terms are defined for use in the chapters in this Code of
@@ -6437,6 +6463,13 @@ health and safety. The City may bring an enforcement action against those
 parties who use the public water supply in the manner set forth herein.
 (Section 90.20 - Ord. 563 - Mar. 21 Supp.)
 (Ch. 90 – Ord. 544 – Jan. 19 Supp.)
+90.21   FINAL BILLS.
+Final bills for water and sewer charges will be prorated using the city
+software, all other fees will be for full monthly charge. Account holder must
+notify City Hall of date to have final meter reading done and provide
+forwarding address. Failure to request a final reading may result in additional
+charges.
+(Section 90.21 - Ord. 614 - Oct. 25 Supp.)
 CHAPTER 91
 WATER METERS
  
@@ -6562,20 +6595,20 @@ or not.
    Water service shall be furnished at the following monthly rates within the
 City:
 (Code of Iowa, Sec. 384.84)
-   1.   For the first 1,000 gallons or fraction thereof – $18.30 within the
-City limits and $27.44 for service outside the City limits – minimum monthly
+   1.   For the first 1,000 gallons or fraction thereof – $18.85 within the
+City limits and $28.26 for service outside the City limits – minimum monthly
 charge.
-   2.   For each additional 1,000 gallons or fraction thereof – $7.39 per 1,000
-gallons within the City limits and $10.36 per 1,000 gallons for service outside
+   2.   For each additional 1,000 gallons or fraction thereof – $7.61 per 1,000
+gallons within the City limits and $10.67 per 1,000 gallons for service outside
 the City limits.
    3.   Seasonal water meters shall be billed monthly from May to October using
-the above schedule. Seasonal water meters are intended for measuring water to
-used from outside faucets and for outside watering.
+the above schedule. Seasonal water meters are intended for measuring water used
+from outside faucets and for outside watering.
    4.   Metered hydrant water sales shall be billed at the following rates:
-      A.   For the first 1,000 gallons or fraction thereof - $27.44.
-      B.   For each additional 1,000 gallons or fraction thereof - $10.36 per
+      A. For the first 1,000 gallons or fraction thereof – $28.26.
+      B. For each additional 1,000 gallons or fraction thereof – $10.67 per
 1,000 gallons.
-(Section 92.02 – Ord. 608 – Nov. 23 Supp.)
+(Section 92.02 – Ord. 619 – Oct. 25 Supp.)
 92.03 RATES OUTSIDE THE CITY.
    Water service shall be provided to any customer located outside the
 corporate limits of the City which the City has agreed to serve at the rates
@@ -7418,13 +7451,14 @@ applies to customers with only sewer services.
 CHAPTER 105
 SOLID WASTE CONTROL
  
-105.01 Purpose                           105.07 Littering Prohibited
-105.02 Definitions                       105.08 Open Dumping Prohibited
-105.03 Sanitary Disposal Required        105.09 Toxic and Hazardous Waste
-105.04 Health and Fire Hazard            105.10 Waste Storage Containers
-105.05 Open Burning Restricted           105.11 Prohibited Practices
-105.06 Separation of Yard Waste Required 105.12 Sanitary Disposal Project
+105.01 Purpose                           105.08 Open Dumping Prohibited
+105.02 Definitions                       105.09 Toxic and Hazardous Waste
+105.03 Sanitary Disposal Required        105.10 Waste Storage Containers
+105.04 Health and Fire Hazard            105.11 Prohibited Practices
+105.05 Open Burning Restricted           105.12 Sanitary Disposal Project
                                          Designated
+105.06 Separation of Yard Waste Required 105.13 City Yard Waste Site
+105.07 Littering Prohibited
  
 105.01 PURPOSE.
    The purpose of the chapters in this Code of Ordinances pertaining to Solid
@@ -7679,6 +7713,31 @@ consent of said party.
 Commission are hereby designated as the official “Public Sanitary Disposal
 Project” for the disposal of solid waste produced or originating within the
 City.
+105.13   CITY YARD WASTE SITE.
+   The designated City yard waste site shall be subject to all posted signage
+at the facility, as well as the following restrictions:
+   1.   Use Restricted to City Residents. The City yard waste site is for use
+by residents of the City of Missouri Valley only. The disposal of commercial
+waste, including waste from landscaping or tree service businesses, is
+prohibited.
+   2.   Permitted Materials. The only materials permitted for disposal at the
+City yard waste site are:
+      A.   Grass clippings
+      B.   Yard brush
+      C.   Leaves
+      D.   Tree branches no larger than eight (8) inches in diameter
+   3.   Prohibited Materials. The disposal of any materials other than
+permitted yard waste is strictly prohibited. Any person found dumping
+unauthorized materials may be cited for littering under this chapter or any
+other applicable City ordinance.Non-Residents and Commercial Dumping. Any non-
+resident or commercial entity disposing of any materials at the City yard waste
+site shall be subject to citation under this chapter or any other applicable
+City ordinance.
+   4.   Penalties and Enforcement. Violations of this section shall be subject
+to penalties as set forth in the Schedule of Fees. In addition to any fines,
+violators may be responsible for the costs associated with the removal and
+proper disposal of unauthorized materials.
+(Section 105.13 - Ord. 615 - Oct. 25 Supp.)
 CHAPTER 106
 COLLECTION OF SOLID WASTE
  
