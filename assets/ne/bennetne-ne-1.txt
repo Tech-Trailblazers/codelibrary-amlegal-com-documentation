@@ -1,7 +1,7 @@
 CITY OF BENNET, NEBRASKA
 CODE OF ORDINANCES
-2024 S-1 Supplement Contains:
-Local Legislation current through Ordinance No. 2023-6.2, passed 6-12-2023
+2025 S-2 Supplement Contains:
+Local Legislation current through Ordinance No. 2025-9.1, passed 10-13-2025
  
 Published by:
 American Legal Publishing
@@ -1323,23 +1323,9 @@ the greatest area of the city is located, and the jurisdiction of such county
 zoning Board of Adjustment shall include all portions of the city and its
 extraterritorial control, regardless of county lines.
 (Neb. Rev. Stat. 19-912.01)
-   (C)   (1)   The Board of Adjustment shall consist of five regular members,
-plus one additional member designated as an alternate who shall attend and
-serve only when one of the regular members is unable to attend for any reason,
-each to be appointed for a term of three years and removable for cause by the
-appointing authority upon written charges and after public hearings. Vacancies
-shall be filled for the unexpired term of any member whose term becomes vacant.
-One member only of the Board of Adjustment shall be appointed from the
-membership of the Planning Commission, and the loss of membership on the
-Planning Commission by such member shall also result in his or her immediate
-loss of membership on the Board of Adjustment and the appointment of another
-Planning Commissioner to the Board of Adjustment. The first vacancy occurring
-on the Board of Adjustment shall be filled by the appointment of a person who
-resides in the extraterritorial zoning jurisdiction of the city at such time as
-more than 200 persons reside within such area if the Board of Adjustment does
-not already include such a person. Thereafter, at all times, at least one
-member of the Board of Adjustment shall reside outside of the corporate
-boundaries of the city but within its extraterritorial zoning jurisdiction.
+   (C)   (1)   Regular, voting members of the Board of Adjustment shall consist
+of the members of the City Council. The Mayor and the Chair of the Planning
+Commission shall be non-voting members.
       (2)   The Board of Adjustment shall adopt rules in accordance with the
 provisions of any ordinance adopted pursuant to Neb. Rev. Stat. 19-901 to 19-
 914. Meetings of the Board of Adjustment shall be held at the call of the
@@ -1352,17 +1338,14 @@ question, or, if absent or failing to vote, indicating such fact, and shall
 keep records of its examinations and other official actions, all of which shall
 be immediately filed in the office of the Board of Adjustment and shall be a
 public record.
-(Neb. Rev. Stat. 19-908)
-   (D)   A number of members equal to a majority of the number of regular
-members appointed to the Board of Adjustment shall constitute a quorum for the
-transaction of any business. All members of an appointed Board of Adjustment
-shall serve without compensation and shall hold no other city office except for
-the member of the Planning Commission appointed to serve on the Board of
-Adjustment. No member of the Board of Adjustment shall serve in the capacity of
-both Chairperson and Secretary of the Board of Adjustment. The Secretary shall
-keep the full and correct minutes and records of all meetings and file them
-with the City Clerk where they shall be available for public inspection during
-office hours.
+(Neb. Rev. Stat. 19-908; 19-911)
+   (D)   A majority of the regular voting members of the Board of Adjustment
+shall constitute a quorum for the transaction of any business. All members of
+the Board of Adjustment shall serve without compensation. No member of the
+Board of Adjustment shall serve in the capacity of both Chairperson and
+Secretary of the Board of Adjustment. The Secretary shall keep the full and
+correct minutes and records of all meetings and file them with the City Clerk
+where they shall be available for public inspection during office hours.
    (E)   Appeals to the Board of Adjustment may be taken by any person
 aggrieved or by any officer, department, board, or bureau of the city affected
 by any decision of the administrative officer. Such appeal shall be taken
@@ -1465,6 +1448,14 @@ and on due cause shown, grant a restraining order. Any appeal from such
 judgment of the district court shall be prosecuted in accordance with the
 general laws of the state regulating appeals in actions at law.
 (Neb. Rev. Stat. 19-912)
+(Ord. 2025-9.1, passed 10-13-2025)
+Cross-reference:
+   Zoning regulations, see
+Chapter 152
+   Variance procedure for floodplains, see
+Chapter 154
+Statutory reference:
+   City Council may constitute Board of Adjustment, see Neb. Rev. Stat. 19-911
 § 32.03 BOARD OF HEALTH.
    (A)   (1)   The Board of Health shall consist of four members: The Mayor,
 who shall be chairperson, the President of the City Council, and two other
@@ -6299,7 +6290,7 @@ the city.
       (2)   The application for a permit shall be filed with the City Clerk/
 Treasurer, in writing, on forms approved by the City Clerk/Treasurer, showing
 the place where the cutting is to be done, and it shall be the Utilities
-Superintendent’s duty to inspect the place of entry into the paving, sidewalk,
+Superintendent's duty to inspect the place of entry into the paving, sidewalk,
 or curb, before the same is cut.
       (3)   Before any permit is issued by the City Clerk/Treasurer, the
 applicant shall deposit with the City Clerk/Treasurer a sum as may be set by
@@ -6324,9 +6315,12 @@ paving and charge the cost thereof to the permittee.
       (2)   In the event that the city elects to have the work performed by the
 Utilities Superintendent, the required deposit shall be retained by the city
 for the purpose of replacing the paving, curb, or sidewalk.
-   (D)   No curb cut shall exceed 20 feet in width unless a greater width is
-specially approved by resolution of the City Council.
-(Prior Code, § 92.46) (Ord. 2001-6.1, passed 6-11-2001) Penalty, see §
+   (D)   No curb cut shall exceed 25 feet in width unless a greater width is
+specially approved by the City Engineer. The City Engineer may request input
+from the Mayor and City Council before deciding whether to approve the curb
+cut.
+(Prior Code, § 92.46) (Ord. 2001-6.1, passed 6-11-2001; Ord. 2025-2.1, passed
+4-4-2025) Penalty, see §
 10.99
 Statutory reference:
    Authority, see Neb. Rev. Stat. 17-567
@@ -10878,6 +10872,7 @@ Ch. 60, Art. 6                         70.01
 19-908                                 32.02
 19-909                                 32.02
 19-910                                 32.02
+19-911                                 32.02
 19-912                                 32.02
 19-912.01                              32.02
 19-915                                 30.48
@@ -11518,5 +11513,7 @@ Ord. No.  Date Passed Description
 2023-5.5  5-8-2023    150.076
 2023-5.6  5-8-2023    150.077
 2023-6.2  6-12-2023   150.002
+2025-2.1  4-4-2025    92.21
+2025-9.1  10-13-2025  32.02
                      
  
