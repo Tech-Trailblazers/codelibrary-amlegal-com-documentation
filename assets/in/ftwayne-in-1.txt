@@ -1,7 +1,7 @@
 FORT WAYNE, INDIANA
 CODE OF ORDINANCES
-2025 S-58 Supplement contains:
-Local legislation current through Ord. G-7-25, passed 6-10-2025,
+2025 S-59 Supplement contains:
+Local legislation current through Ord. G-17-25, passed 9-9-2025,
 and Res. 83-19, passed 12-17-19
 State legislation current through Legislative Service, 2024 Acts, Pamphlet No.
 3
@@ -358,7 +358,7 @@ Indiana," around the outer edge. The seal's inside circle shall be white, the
 outside circle shall be blue and the remainder, gold.
    (B)   A facsimile of such seal is reproduced below:
       [https://export.amlegal.com/media/
-57f64c61de34bbd5ce01d4630dc7d09346ec7c0d/IMAGES/0-0-0-4799.jpg]
+3b1bf5d7f9ba1fa412b7939cdaf6b77c4928c8be/IMAGES/0-0-0-4799.jpg]
 ('74 Code, § 1-10) (Am. Ord. G-95-72, passed - -72)
 § 11.02 CITY FLAG.
    The official flag of the city shall be of the following design and
@@ -6883,6 +6883,14 @@ Section
 38.05   Publication of contracts for goods and services and city expenditures
    
 38.06   Contracting conflict of interest
+   
+38.07   Title
+   
+38.08   Policy
+   
+38.09   Definitions
+   
+38.10   Non-disclosure of public records for commercial purpose
 § 38.01 DEPOSITORIES OF PUBLIC DOCUMENTS DESIGNATED.
    (A)   The main branch of the Allen County Public Library and the HelmKe
 Library at Indiana-Purdue Fort Wayne campus are hereby named depositories of
@@ -6993,6 +7001,48 @@ annually certify to the State Board of Accounts, in writing, that the officer
 has not violated this chapter and has implemented a policy in accordance with
 I.C. 36-1-21, as codified on July 1, 2012.
 (Ord. G-27-12, passed 6-26-12)
+§ 38.07 TITLE.
+   This article, §§
+38.07 through
+38.10, may be cited and referred to as the “Non-Disclosure of Public Records
+for Commercial Purpose Ordinance.”
+(Ord. G-17-25, passed 9-9-25)
+§ 38.08 POLICY.
+   It is hereby declared to be the public policy of the city:
+   (A)   That the city recognizes that under the Access to Public Records Act,
+I.C. 5-14-3-1, et seq. (the “APRA”) providing persons with information is an
+essential function of a representative government and an integral part of the
+routine duties of public officials and employees, whose duty it is to provide
+the information.
+   (B)   The city also recognizes that its resources are limited and the APRA
+gives discretion to the city to determine in certain cases the limits to the
+type of information that may be disclosed and specifically permits, pursuant to
+I.C. 4-22-2, the city to create an ordinance limiting the disclosure of
+information to persons who seek information for commercial purpose.
+(Ord. G-17-25, passed 9-9-25)
+§ 38.09 DEFINITIONS.
+   For the purpose of §§
+38.07 through
+38.10, the following definitions shall apply unless the context clearly
+indicates or requires a different meaning:
+   CITY. The City of Fort Wayne, its departments and divisions.
+   COMMERCIAL PURPOSE. Selling, advertising, or soliciting the purchase of
+merchandise, goods, or services or selling, loaning, giving away, or otherwise
+delivering the information obtained to any other person for these purposes.
+   PUBLIC RECORDS. Any writing, paper, report, study, map, photograph, book,
+card, tape recording, or other material that is created, received, retained,
+maintained, or filed by or with the CITY and which is generated on paper, paper
+substitutes, photographic media, chemically based media, magnetic or machine
+readable media, electronically stored data, or any other material, regardless
+of form or characteristics.
+(Ord. G-17-25, passed 9-9-25)
+§ 38.10 NON-DISCLOSURE OF PUBLIC RECORDS FOR COMMERCIAL PURPOSE.
+   The city, in its discretion, may decline a request for public records under
+the APRA to the extent such request is sought by or on behalf of a person or
+entity who will or may use those records for commercial purpose. The
+determination of whether a requestor is seeking public records for commercial
+purpose shall be made by the city.
+(Ord. G-17-25, passed 9-9-25)
 CHAPTER 39: ORDINANCE VIOLATIONS BUREAU
 Section
    
@@ -10980,18 +11030,19 @@ Service periods falling outside this parameter shall be prorated.
 Am. Ord. G-12-09, passed 5-26-09; Am. Ord. G-6-12, passed 2-28-12)
 § 51.066 WATER OBTAINED FROM SOURCES OTHER THAN CITY'S WATER UTILITY.
    (A)   Where the property obtains any part or all of the water used from
-sources other than the city's water utility, the owner or the tenant may be
-required by the city to install and maintain at the user's own expense a meter
+sources other than the city’s water utility, the owner or the tenant may be
+required by the city to install and maintain at the user’s own expense a meter
 or meters acceptable to the city for the quantity of water obtained from these
 other sources. Once installed, no such meter may be bypassed for any reason.
    (B)   Residential meter on well. The following provisions apply only to
 single family residential dwellings:
       (1)   If a single family residential dwelling obtains all or part of its
-water from a well, the owner or the properly on which the dwelling is located
+water from a well, the owner of the property on which the dwelling is located
 may request the city to install a meter on the well for purposes of calculating
-the monthly sewage fees. The city may approve installation of a meter on teh
+the monthly sewage fees. The city may approve installation of a meter on the
 well if the following conditions are met:
-         (a)   The property can be served by a 5/8" x 3/4" or 3/4" water meter;
+         (a)   The property can be served by a 5/8" x 3/4", 3/4" or 1" water
+meter;
          (b)   The property is served by a single lateral; and
          (c)   The owner of the property pays the cost of installation of the
 meter and radio as follows:
@@ -11000,15 +11051,28 @@ Meter Size  Radio and Meter
 5/8" x 3/4" $221.45
 3/4"        $257.75
  
+ 
+Residential
+Meter on Well Unit of  Effective Effective  Effective  Effective  Effective
+- Metering    Measure  2025      January 1, January 1, January 1, January 1,
+Equipment for                    2026       2027       2028       2029
+Sewer Bill
+5/8" x 3/4"   per Each $237.1 7  $241.9 2   $346.7 5   $251.6 9   $356.72
+3/4"          per Each $257.0 4  $262.1 8   $267.4 2   $272.7 7   $278.23
+1"            per Each $276.0 5  $281.5 7   $287.2 0   $292.9 5   $298.81
+ 
       (2)   Upon installation of a water meter on the well, the fees for sewage
 service shall be based on the volume of water passing through the water meter
-as set forth in Section 51.065. The customer shall be responsible for all
-consumption and service charges set forth in Section 51.069, as well as any
-applicable capital surcharges as set forth in Section 51.075.
-(‘74 Code, § 24-26) (Ord. G-16- 86, passed 4-22-86; Am. Ord. G- 17-91, passed
-6-12-91; Am. Ord. G-25-91, passed, 9-10-91; Am. Ord. G-17-94, passed 8-23-94;
-Am. Ord. G-07-97, passed 7-9-97; Am. Ord. G-12-09, passed 5-26-09; Am. Ord. G-
-6-12, passed 2-28-12; Am. Ord. G-6-20, passed 2-25-20)
+as set forth in §
+51.065. The customer shall be responsible for all consumption and service
+charges set forth in §
+51.069, as well as any applicable capital surcharges as set forth in §
+51.075.
+(‘74 Code, § 24-26) (Ord. G-16-86, passed 4-22-86; Am. Ord. G-17-91, passed 6-
+12-91; Am. Ord. G-25-91, passed, 9-10-91; Am. Ord. G-17-94, passed 8-23-94; Am.
+Ord. G-07-97, passed 7-9-97; Am. Ord. G-12-09, passed 5-26-09; Am. Ord. G-6-12,
+passed 2-28-12; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-25, passed 8-12-
+25)
 § 51.066.5 DISCHARGES OF NON-POTABLE WATER TO SANITARY SEWER SYSTEM.
    (A)   Definition of non-potable water. As used in this section, NON-POTABLE
 WATER means any form of water that is not immediately fit for human
@@ -11040,6 +11104,24 @@ Meter Size Radio and Meter
 8”       $4,592.23
 10”      $5,139.23
  
+Non-Potable
+Discharge -   Unit of Effective Effective  Effective  Effective  Effective
+Metering      Measure 2025      January 1, January 1, January 1, January 1,
+Equipment for                   2026       2027       2028       2029
+Sewer Bill
+Non-Potable
+Discharge -   Unit of  Effective  Effective  Effective  Effective  Effective
+Metering      Measure  2025       January 1, January 1, January 1, January 1,
+Equipment for                     2026       2027       2028       2029
+Sewer Bill
+1 1/2"        per Each $3,410.3 1 $3,478.5 2 $3,548. 09 $3,619 .05 $3,691. 43
+2"            per Each $3,506.7 0 $3,576.8 3 $3,648. 37 $3,721 .34 $3,795. 77
+3"            per Each $3,694.1 3 $3,768.0 1 $3,843. 37 $3,920 .24 $3,998. 64
+4"            per Each $3,878.3 4 $3,955.9 0 $4,035. 02 $4,115 .72 $4,198. 04
+6"            per Each $4,311.0 2 $4,397.2 4 $4,485. 19 $4,574 .89 $4,666. 39
+8"            per Each $4,918.2 8 $5,016.6 4 $5,116. 98 $5,219 .32 $5,323. 70
+10"           per Each $5,504.1 2 $5,614.2 0 $5,726. 48 $5,841 .01 $5,957. 83
+ 
       (3)   Upon installation of a non-potable water meter, the fees for sewage
 service shall be based on the volume of water passing through the water meter
 as set forth in §
@@ -11056,7 +11138,7 @@ Utilities shall be authorized to charge an administrative fee for temporary
 non-potable water discharges as well as consumption charges based on the volume
 of water discharged to the sanitary sewer at the rates set forth in §
 51.069.
-(Ord. G-26-22, passed 12-13-22)
+(Ord. G-26-22, passed 12-13-22; Am. Ord. G-14-25, passed 8-12-25)
 § 51.067 EXEMPT WATER - GENERAL.
       (A)   Where a significant portion of the metered water used in
 commercial, manufacturing, or industrial processes does not and cannot enter
@@ -11160,7 +11242,7 @@ which the deposit was made becomes the property of city utilities.
 12, passed 2-28-12)
 § 51.069 METERED RETAIL USER CHARGES.
    (A)   Metered retail users include residential, industrial, commercial,
-institutional and dvernmental users.
+institutional and governmental users.
    (B)   Hereinafter, the terms “inside city” or “outside city” shall be read
 to distinguish the users located within or outside the corporate boundaries of
 the City of Fort Wayne. Users designated as outside city who are within an
@@ -11175,43 +11257,52 @@ within the corporate boundaries of the City of Fort Wayne shall be based on
 metered water consumption, unless otherwise measured, in accordance with the
 following charges for this classification of service:
  
-           Unit of     Effective Effective  Effective  Effective  Effective
-          Measure     2020      January 1, January 1, January 1, January 1,
-                                 2021       2022       2023       2024
+ 
+           Unit of     Effective Effect ive Effect ive Effect ive Effect ive
+           Measure     2025      January 1, January 1, January 1, January 1,
+                                 2026       2027       2028       2029
 Total
 Treatment  Per ccf per
-Collection month       $5.6293   $5.8324    $5.9902    $6.3050    $6.6446
+Collection month       $7.022 8  $7.223 9   $7.676 9   $7.908 4   $7.855 8
 and
 Conveyance
  
       (2)   Service charge. In addition to the consumption charge, users inside
 the city shall be billed a monthly service charge based on water meter size:
-           Unit of                Effective  Effective  Effective  Effective
-Meter Size Measure Effective 2020 January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-           Unit of       Effective Effective  Effective  Effective  Effective
-Meter Size Measure       2020      January 1, January 1, January 1, January 1,
-                                   2021       2022       2023       2024
-5/8"- 3/4" Per meter per $16.55    $17.89     $19.77     $20.67     $21.71
-           month
-1"         Per meter per $33.11    $36.37     $40.71     $42.65     $45.05
-           month
-1 ½”    Per meter per $69.54    $77.03     $86.78     $90.99     $96.40
-           month
-2"         Per meter per $115.91   $128.77    $145.41    $152.52    $161.75
-           month
-3"         Per meter per $259.43   $288.93    $326.89    $342.97    $364.03
-           month
-4"         Per meter per $447.11   $498.37    $564.21    $592.02    $628.55
-           month
-6"         Per meter per $1,010.15 $1,126.69  $1,276.17  $1,339.17  $1,422.11
-           month
-8"         Per meter per $1,795.09 $2,002.64  $2,268.73  $2,380.79  $2,528.43
-           month
-10"        Per meter per $2,800.84 $3.124.99  $3,540.48  $3,715.40  $3,945.94
-           month
-12"        Per meter per $4,030.69 $4,497.44  $5,095.64  $5,347.41  $5,679.33
-           month
+           Unit of Effect ive Effect ive  Effect ive  Effect ive  Effect ive
+Meter Size Measure 2025       Januar y 1, Januar y 1, Januar y 1, Januar y 1,
+                              2026        2027        2028        2029
+           Unit of   Effect ive Effect ive  Effect ive  Effect ive  Effect ive
+Meter Size Measure   2025       Januar y 1, Januar y 1, Januar y 1, Januar y 1,
+                                2026        2027        2028        2029
+5/8"       Per meter $20.97     $20.96      $19.91      $19.83      $21.51
+           per month
+3/4"       Per meter $28.36     $28.26      $26.81      $26.70      $29.20
+           per month
+1"         Per meter $4.13      $42.86      $40.61      $40.43      $44.58
+           per month
+1 1/2"     Per meter $91.87     $91.04      $86.15      $85.73      $95.33
+           per month
+2"         Per meter $153.9 0   $152.3 6    $144.1 1    $143.4 0    $159.9 3
+           per month
+3"         Per meter $345.9 1   $342.1 6    $323.5 1    $321.8 9    $359.8 7
+           per month
+4"         Per meter $597.0 0   $590.3 6    $558.1 1    $555.3 0    $621.3 3
+           per month
+6"         Per meter $1,350 .27 $1,334 .96  $1,261 .91  $1,255 .53  $1,405 .71
+           per month
+8"         Per meter $2,400 .42 $2,373 .02  $2,243 .09  $2,231 .73  $2,499 .23
+           per month
+10"        Per meter $3,745 .96 $3,703 .08  $3,500 .27  $3,482 .54  $3,900 .35
+           per month
+12"        Per meter $5,391 .34 $5,329 .52  $5,037 .59  $5,012 .06  $5,613 .68
+           per month
+16"        Per meter $9,586 .02 $9,475 .92  $8,956 .79  $8,911 .38  $9,981 .60
+           per month
+20"        Per meter $14,97     $14,80 2.00 $13,99 1.03 $13,92 0.08 $15,59 2.22
+           per month 4.12
+24"        Per meter $21,56     $21,31 2.14 $20,14 4.45 $20,04 2.29 $22,45 0.16
+           per month 0.06
  
    (E)   Outside city compensation and service charges.
       (1)   Consumption charge. Monthly charges for services rendered to users
@@ -11219,59 +11310,78 @@ outside the corporate boundaries of the City of Fort Wayne shall be based on
 metered wager consumption, unless otherwise measured, in accordance with the
 following charges for this classification of service:
  
-           Unit of     Effective Effective  Effective  Effective  Effective
-          Measure     2020      January 1, January 1, January 1, January 1,
-                                 2021       2022       2023       2024
+Consumption Unit of     Effective Effect ive Effect ive Effect ive Effect ive
+Charge      Measure     2025      January 1, January 1, January 1, January 1,
+                                  2026       2027       2028       2029
 Total
-Treatment  Per ccf per
-Collection month       $7.0363   $7.2888    $7.4874    $7.8811    $8.3057
+Treatment   Per ccf per
+Collection  month       $8.778 6  $9.030 8   $9.596 7   $9.885 5   $9.820 3
 and
 Conveyance
  
       (2)   Service charge. In addition to the consumption charge, outside city
 users shall be billed a monthly service charge based on water meter size:
-           Unit of                Effective  Effective  Effective  Effective
-Meter Size Measure Effective 2020 January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-           Unit of       Effective Effective  Effective  Effective  Effective
-Meter Size Measure       2020      January 1, January 1, January 1, January 1,
-                                   2021       2022       2023       2024
-5/8"- 3/4" Per meter per $20.69    $22.36     $24.71     $25.84     $27.14
-           month
-1"         Per meter per $42.39    $45.46     $50.89     $53.31     $56.32
-           month
-1 ½”    Per meter per $86.93    $96.28     $108.47    $113.73    $120.50
-           month
-2"         Per meter per $144.89   $160.96    $181.76    $190.63    $202.19
-           month
-3"         Per meter per $324.29   $361.16    $408.61    $428.66    $455.04
-           month
-4"         Per meter per $558.89   $622.96    $705.26    $739.93    $785.69
-           month
-6"         Per meter per $1,262.69 $1,408.36  $1,595.21  $1,673.74  $1,777.64
-           month
-8"         Per meter per $2,243.87 $2,503.30  $2,835.91  $2,975.58  $3,160.54
-           month
-10"        Per meter per $3,501.05 $3,906.24  $4,425.60  $4,643.62  $4,932.43
-           month
-12"        Per meter per $5,038.37 $5,621.80  $6,269.53  $6,683.36  $7,099.16
-           month
-(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20)
+ 
+           Unit of Effect ive Effect ive Effect ive Effect ive Effect ive
+Meter Size Measure 2025       January 1, January 1, January 1, January 1, 2029
+                              2026       2027       2028
+           Unit of   Effect ive Effect ive  Effect ive  Effect ive  Effect ive
+Meter Size Measure   2025       January 1,  January 1,  January 1,  January 1,
+                                2026        2027        2028        2029
+5/8"       Per meter $26.21     $26.20      $24.89      $24.79      $26.89
+           per month
+3/4"       Per meter $35.44     $35.33      $33.52      $33.37      $36.51
+           per month
+1"         Per meter $53.90     $53.58      $50.77      $50.53      $55.74
+           per month
+1 1/2"     Per meter $114.8 2   $113.8 0    $107.6 9    $107.1 6    $119.1 9
+           per month
+2"         Per meter $192.3 5   $190.4 5    $180.1 4    $179.2 3    $199.9 6
+           per month
+3"         Per meter $432.3 3   $427.7 0    $404.3 9    $402.3 1    $449.9 5
+           per month
+4"         Per meter $746.1 5   $737.9 5    $697.6 4    $694.0 3    $776.8 6
+           per month
+6"         Per meter $1,687 .61 $1,668 .70  $1,577 .39  $1,569 .19  $1,757 .59
+           per month
+8"         Per meter $3,000 .12 $2,966 .28  $2,803 .87  $2,789 .27  $3,124 .84
+           per month
+10"        Per meter $4,681 .82 $4,628 .85  $4,375 .34  $4,352 .54  $4,876 .70
+           per month
+12"        Per meter $6,738 .27 $6,661 .90  $6,296 .99  $6,264 .17  $7,018 .92
+           per month
+16"        Per meter $11,98     $11,84 4.90 $11,19 5.99 $11,13 7.57 $12,48 0.24
+           per month 0.91
+20"        Per meter $18,71     $18.50 2.50 $17,48 8.79 $17,39 7.57 $19,49 5.34
+           per month 5.11
+24"        Per meter $26,94     $26,64 0.18 $25,18 0.57 $25,04 9.22 $28,07 0.00
+           per month 6.43
+6"         Per meter $1,262 .69 $1,408 .36  $1,595 .21  $1,673 .74  $1,777 .64
+           per month
+8"         Per meter $2,243 .87 $2,503 .30  $2,835 .91  $2,975 .58  $3,160 .54
+           per month
+10"        Per meter $3,501 .05 $3,906 .24  $4,425 .60  $4,643 .62  $4,932 .43
+           per month
+12"        Per meter $5,038 .37 $5,621 .80  $6,269 .53  $6,683 .36  $7,099 .16
+           per month
+ 
+(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-
+25, passed 8-12-25)
 § 51.070 FLAT RETAIL USER CHARGES.
    (A)   Flat user charges inside city. 
       (1)   In the event that any inside city user is not a metered water
 customer, there shall be imposed a monthly flat charge as follows:
  
-             Unit of     Effective  Effective  Effective  Effective  Effective
-            Measure     2020       January 1, January 1, January 1, January 1,
-                                    2021       2022       2023       2024
+Flat User    Unit of     Effective  Effecti ve Effecti ve Effecti ve Effecti ve
+Charge       Measure     2025       January 1, January 1, January 1, January 1,
+                                    2026       2027       2028       2029
 Single
 family       Per ERU per
-residential  month       $60.46     $62.22     $64.10     $66.07     $69.22
+residential  month       $69.43     $70.08     $71.35     $72.03     $72.57
 dwelling per
 month
-All un
-metered
+All
+unmetered
 customers                To be      To be      To be      To be      To be
 other than   Per ERU per calculated calculated calculated calculated calculated
 single       month       by City    by City    by City    by City    by City
@@ -11289,63 +11399,64 @@ errors may only be applied to bills that were due within the past six years.
       (1)   In the event that any outside city user is not a metered water
 customer, there shall be imposed a monthly flat charge as follows:
  
-             Unit of     Effective  Effective  Effective  Effective  Effective
-            Measure     2020       January 1, January 1, January 1, January 1,
-                                    2021       2022       2023       2024
+Flat User   Unit of     Effective   Effecti ve Effecti ve Effecti ve Effecti ve
+Charge      Measure     2025        January 1, January 1, January 1, January 1,
+                                    2026       2027       2028       2029
 Single
-family       Per ERU per
-residential  month       $75.57     $77.75     $80.12     $82.58     $85.28
-dwelling per
-month
+family      Per ERU per
+residential month       $86.78      $87.61     $89.19     $90.03     $90.72
+dwelling
+per month
 All un
 metered
-customers                To be      To be      To be      To be      To be
-other than   Per ERU per calculated calculated calculated calculated calculated
-single       month       by City    by City    by City    by City    by City
-family                   Utilities  Utilities  Utilities  Utilities  Utilities
+customers               To be       To be      To be      To be      To be
+other than  Per ERU per calculat ed calculated calculated calculated calculated
+single      month       by City     by City    by City    by City    by City
+family                  Utilitie s  Utilities  Utilities  Utilities  Utilities
 residential
-dwelling per
-month
+dwelling
+per month
  
       (2)   The utility shall retain documentation supporting its ERU
 determination and billings based thereon. Such determination of billings may be
 reviewed and adjusted by the utility at any time. Adjustments for reasons
 including, without limitation, a change in the ERU determination or billing
 errors may only be applied to bills that were due within the past six years.
-(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20)
+(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-
+25, passed 8-12-25)
 § 51.071 CONTINUING SURVEILLANCE SAMPLING/WASTE EVALUATION CHARGES.
-   (A)   Surveillance/evaluation charge inside city. All users discharging
-wastes into the system that require continuing surveillance sampling and waste
-evaluation, shall be subject to the following fixed charges to cover the costs
-of such services.
-   Monthly Evaluation
- 
-           Unit of       Effective Effective  Effective  Effective  Effective
-          Measure       2020      January 1, January 1, January 1, January 1,
-                                   2021       2022       2023       2024
+   (A)   Surveillance/evaluation charge inside and outside city. All users
+discharging wastes into the system that require continuing surveillance
+sampling and waste evaluation, shall be subject to the following fixed charges
+to cover the costs of such services.
+Continuing                    Effective  Effective  Effective
+Monthly    Unit of Effect ive January 1, January 1, January 1, Effective
+Evaluation Measure 2025       2026       2027       2028       January 1, 2029
+Charge
+Continuing                          Effective  Effective  Effective  Effective
+Monthly    Unit of       Effect ive January 1, January 1, January 1, January 1,
+Evaluation Measure       2025       2026       2027       2028       2029
+Charge
 Type 1     Per discharge
-Evaluation point per     $144.03   $144.03    $144.03    $144.03    $144.03
+Evaluation point per     $193.8 3   $197.7 1   $201.6 6   $205.69    $209.81
            month
 Type 2     Per discharge
-Evaluation point per     $197.70   $197.70    $197.70    $197.70    $197.70
+Evaluation point per     $247.1 8   $252.1 2   $257.1 7   $262.31    $267.56
            month
 Type 3     Per discharge
-Evaluation point per     $249.51   $249.51    $249.51    $249.51    $249.51
+Evaluation point per     $297.1 8   $303.1 2   $309.1 9   $315.37    $321.68
            month
- 
-Evaluation Per Occurrence
- 
-           Unit of       Effective Effective  Effective  Effective  Effective
-          Measure       2020      January 1, January 1, January 1, January 1,
-                                   2021       2022       2023       2024
-Type 1     Per discharge $432.10   $432.10    $432.10    $432.10    $432.10
+Evaluation Unit of       Effect ive Effective  Effective  Effective  Effective
+Charge per Measure       2025       January 1, January 1, January 1, January 1,
+Occurrence                          2026       2027       2028       2029
+Type 1     Per discharge $581.4 8   $593.1 1   $604.9 7   $617.07    $629.41
 Evaluation point
-Type 2     Per discharge $593.10   $593.10    $593.10    $593.10    $593.10
+Type 2     Per discharge $741.5 3   $756.3 6   $771.4 9   $786.91    $802.65
 Evaluation point
-Type 3     Per discharge $1,214.85 $1,214.85  $1,214.85  $1,214.85  $1,214.85
+Type 3     Per discharge $1,455 .93 $1,485 .05 $1,514 .75 $1,545. 04 $1,575. 94
 Evaluation point
-Grab       Per sample    $220.87   $220.87    $220.87    $220.87    $220.87
-Compliance
+Grab       Per discharge $245.9 6   $250.8 8   $255.9 0   $261.01    $266.24
+Compliance point
  
    (B)   Surveillance/evaluation charge for certain other customers. The city
 may perform surveillance sampling and waste evaluation for customers located
@@ -11353,40 +11464,50 @@ within the service area of a contract customer that has consented to such
 sampling and evaluation in accordance with applicable law. The fee for such
 sampling and evaluation shall be negotiated between the city and the contract
 customer.
-(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20)
+(Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-
+25, passed 8-12-25)
 § 51.072 STRENGTH OF WASTE SURCHARGE.
    (A)   Each user discharging wastes into the collection system shall be
 subject to a Strength of Waste Surcharge, in addition to other sewage service
 charges imposed by this chapter, based on the following minimum strength
 characteristics to the extent that such wastes are in concentrations greater
 than:
-      (1)   Biochemical oxygen demand of' 300 milligrams per liter.
-      (2)   Chemical oxygen demand of 600 milligrams per liter.
-      (3)   Suspended solids content 300 milligrams per liter,
-      (4)   Phosphorus content of 10 milligrams per liter.
-      (5)   Ammonia content of 25 milligrams per liter.
+      (1)   Biochemical oxygen demand of’ 300 milligrams per liter (“mgl”).
+      (2)   Chemical oxygen demand of 600 mgl.
+      (3)   Suspended solids content 300 mgl.
+      (4)   Phosphorus content of 10 mgl.
+      (5)   Ammonia content of 25 mgl.
    (B)   Strength of waste surcharge inside and outside city. In the event any
 user contributes waste having strength of sewage in excess of the
 concentrations set forth in subsection (A), a surcharge based on the following
 unit process charges will be in effect for all waste found to be in excess of
 limitations:
  
-            Unit of       Effective Effective  Effective  Effective  Effective
-           Measure       2020      January 1, January 1, January 1, January 1,
-                                    2021       2022       2023       2024
-Suspended   Per pound per $0.1964   $0.2026    $0.2090    $0.2156    $0.2224
-Solids      month
-Biochemical Per pound per
-Oxygen      month         $0.1504   $0.1551    $0.1600    $0.1651    $0.1702
-Demand
-Phosphorus  Per pound per $1.9337   $1.9946    $2.0574    $2.1221    $2.1889
-            month
-Ammonia     Per pound per $0.3407   $0.3514    $0.3625    $0.3739    $0.3857
-            month
+Strength of  Unit of   Effective Effective  Effective  Effective  Effective
+Waste        Measure   2025      January 1, January 1, January 1, January 1,
+Surcharg e                       2026       2027       2028       2029
+Suspended    Per pound $0.2777   $0.2889    $0.2920    $0.3042    $0.3168
+Solids       per month
+Phosphorus   Per pound $2.7336   $2.8442    $2.8742    $2.9937    $3.1184
+             per month
+Ammonia      Per pound $0.2126   $0.5011    $0.5064    $0.5275    $0.5495
+             per month
+Biochemi cal
+Oxygen
+Demand -     Per pound
+sample over  per month $0.2126   $0.2212    $0.2235    $0.2329    $0.2425
+300 mgL and
+up to 1500
+mgL
+Biochemi cal
+Oxygen       Per pound
+Demand -     per month $0.2126   $0.2212    $0.3318    $0.4977    $0.7466
+sample over
+1500 mgL
  
    (C)   The surcharge shall be determined as follows: the excess pounds of BOD
 or COD (whichever results in the higher charge) suspended solids, phosphorus
-and ammonia will each be computed by first multiplying the user's billing
+and ammonia will each be computed by first multiplying the user’s billing
 sewage volume measured in units of 100 cubic feet for the current billing
 period by the factor of 0.0062321 and then multiplying this product by the
 difference between, (a) the concentrations measured in milligrams per liter, of
@@ -11394,32 +11515,36 @@ the BOD (or COD), suspended solids, phosphorus and ammonia respectively in the
 user’s sewage, and (b) the allowed concentrations set out in §
 51.072(A). The surcharge for each constituent will then be determined by
 multiplying the excess pounds of each constituent by the appropriate rate of
-surcharge. In the event COD measurement is used, as hereinbefore provided, 50%
-of the excess pounds measured will be used to compute the equivalent BOD
-charge.
-(Ord. G-19-14, passed 7-22-14; Ord. G-6-20, passed 2-25-20)
+surcharge.
+In the event COD measurement is used, as hereinbefore provided, 50% of the
+excess pounds measured will be used to compute the equivalent BOD charge.
+(Ord. G-19-14, passed 7-22-14; Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-25,
+passed 8-12-25)
 § 51.073 BULK WASTE CHARGES.
    (A)   Bulk industrial waste charge. All industrial waste suitable for
 disposal, which has been delivered by an approved waste hauler to city’s plant.
 For purposes of computing charges hereunder, a LOAD is defined as 1,000 gallons
 of tank capacity or any fraction thereof.
  
-          Unit of       Effective Effective  Effective  Effective  Effective
-          Measure       2020      January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Discharge 1,000 gallons $123.67   $124.05    $124.33    $129.85    $136.57
-Billing   Per bill      $5.51     $5.57      $5.81      $6.02      $6.15
+ 
+Bulk                                Effectiv e Effectiv e Effectiv e Effectiv e
+Industrial Unit of       Effecti ve January 1, January 1, January 1, January 1,
+Waste      Measure       2025       2026       2027       2028       2029
+Discharge
+Discharge  1,000 gallons $146.53    $160.05    $158.22    $180.29    $177.23
+Billing    Per bill      $6.20      $6.36      $6.11      $6.10      $6.13
 Charge
  
    (B)   Domestic. All domestic waste delivered to the city’s plant by
 customer’s truck or tank. For purposes of computing charges hereunder, a LOAD
 is defined as 1,000 gallons of tank capacity or any fraction thereof.
  
-          Unit of       Effective Effective  Effective  Effective  Effective
-          Measure       2020      January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Discharge 1,000 gallons $64.52    $64.72     $64.87     $67.74     $71.25
-Billing   Per bill      $5.51     $5.57      $5.81      $6.02      $6.15
+Bulk                               Effectiv e Effectiv e Effectiv e Effectiv e
+Domestic  Unit of       Effecti ve January 1, January 1, January 1, January 1,
+Waste     Measure       2025       2026       2027       2028       2029
+Discharge
+Discharge 1,000 gallons $76.45     $83.50     $82.55     $94.06     $92.46
+Billing   Per bill      $6.20      $6.36      $6.11      $6.10      $6.13
 Charge
  
    (C)   Contracted services. The city or its designated agent may enter into
@@ -11434,7 +11559,7 @@ be appropriate by the city or its designated agent.
 control plant shall be accompanied by a “waste hauler manifest,” the form for
 which will be provided by the city or an agent working on the city’s behalf.
 (Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-16-
-22, passed 10-11-22)
+22, passed 10-11-22; Am. Ord. G-14-25, passed 8-12-25)
 § 51.073.5 CITY UTILITIES GREASE COOPERATIVE.
    (A)   City Utilities Grease Cooperative. To improve the sustainability of
 the city’s POTW and continue to explore the use of fats, oils, and grease as a
@@ -11446,34 +11571,34 @@ participation in any such maintenance and cleaning program by food service
 establishments.
    (B)   Monthly service fees. Fees for food service establishments that
 participate in the City Utilities Grease Cooperative shall be as follows:
-Program Fees Quantity* Unit of Measure*** Monthly Fee
-Program Fees                 Quantity* Unit of Measure*** Monthly Fee
-Outdoor grease interceptor -           Equivalent outdoor
-administrative service       1.00      interceptor        $16.25
+Program Fees Quanti ty* Unit of Measure*** Monthly Fee
+Program Fees                 Quanti ty* Unit of Measure*** Monthly Fee
+Outdoor grease interceptor -            Equivalent outdoor
+administrative service       1.00       interceptor        $16.25
 charge
-Outdoor grease interceptor - 1.00      Equivalent outdoor $108.33
-4 per year service                     interceptor
-Outdoor grease interceptor - 1.00      Equivalent outdoor $162.50
-6 per year service                     interceptor
-Outdoor grease interceptor - 1.00      Equivalent outdoor $325
-12 per year service                    interceptor
-Indoor grease interceptor -            Equivalent indoor
-administrative service       1.00      interceptor        $17.92
+Outdoor grease interceptor - 1.00       Equivalent outdoor $108.33
+4 per year service                      interceptor
+Outdoor grease interceptor - 1.00       Equivalent outdoor $162.50
+6 per year service                      interceptor
+Outdoor grease interceptor - 1.00       Equivalent outdoor $325
+12 per year service                     interceptor
+Indoor grease interceptor -             Equivalent indoor
+administrative service       1.00       interceptor        $17.92
 charge
-Indoor grease interceptor -  1.00      Equivalent indoor  $212.50
-12 per year service                    interceptor
-Outdoor grease interceptor - 1.00      Equivalent outdoor $125
-tank cleaning**                        interceptor
+Indoor grease interceptor -  1.00       Equivalent indoor  $212.50
+12 per year service                     interceptor
+Outdoor grease interceptor - 1.00       Equivalent outdoor $125
+tank cleaning**                         interceptor
 *Quantity will be not less than 1.00, but could be anything above
 that, rounded to two decimal places
 ** This fee, once activated, will automatically roll off after 12
 months
 *** Definitions:
-Equivalent Indoor Interceptor (EII). 1.00 = 250 gallon grease
+   Equivalent Indoor Interceptor (EII). 1.00 = 250 gallon grease
 interceptor, increased by units of .25 for each Ell above 1.00,
 minimum quantity is 1.00.
-Equivalent Outdoor Interceptor (EOI). 1.00 = 1,000 gallons, pro-rated
-by gallons for quantities above 1.00 (e.g., a 1,700 gallon
+   Equivalent Outdoor Interceptor (EOI). 1.00 = 1,000 gallons, pro-
+rated by gallons for quantities above 1.00 (e.g., a 1,700 gallon
 interceptor would have a quantity of 1.70)
  
    (C)   Issuance of bills: delinquency. The fees provided in this section
@@ -11490,21 +11615,28 @@ by the Board of Public Works.
    (A)   Incorporation of miscellaneous non-recurring rates and charges. The
 charges set forth in the city’s schedule of miscellaneous non-recurring rates
 and charges approved by the Indiana Utility Regulatory Commission which may be
-applicable to sewage services, including, without limitation, the Bad Check
-Charge, Additional Trip Charge, Special Service Charge, and Service Call
-Charge, are incorporated into this chapter as if fully sel forth herein.
+applicable to sewage services, including, without limitation, the Non-
+Sufficient Funds Charge, Service Trip Charge, Same Day Service Trip Charge, and
+Door Hanger Fee, are incorporated into this chapter as if fully sel forth
+herein.
    (B)   Food service establishment surcharge.
  
-          Unit of     Effective Effective  Effective  Effective  Effective
-         Measure     2020      January 1, January 1, January 1, January 1,
-                                2021       2022       2023       2024
-Surcharge Per ccf per $1.2661   $1.5826    $1.9783    $2.2750    $2.3081
-          month
+Food Service  Unit of   Effective Effective  Effective   Effective  Effective
+Establishment Measure   2025      January 1, January 1 , January 1, January 1,
+Charge                            2026       2027        2028       2029
+Surcharge     Per ccf   $3.599 4  $3.671 4   $3.744 8    $3.819 7   $3.8961
+              per month
  
-   (C)   Additional fees related to sewage services.
+   (C)   Sewer tap inspection fees.
+ 
+Tap        Unit of     Effective Effective  Effective  Effective  Effective
+Inspection Measure     2025      January 1, January 1, January 1, January 1,
+Fee                              2026       2027       2028       2029
+Tap        Per inspect $85.00    $85.00     $85.00     $90.00     $90.00
+Inspection ion
+   (D)   Additional fees related to sewage services.
  
 Type of Fee                             Cost
-Sewer tap inspection fee                $80.00 per inspection
 Residential downspout, yard drain, sump
 pump or other drain connected to a      $50.00 per month per connection
 sanitary sewer
@@ -11517,10 +11649,10 @@ Non-residential geothermal system
 connected to a sanitary or combined     TBD by Utility based an ERU calculation
 sewer
  
-   (D)   These charges arc subject to change as warranted and authorized by
+   (E)   These charges are subject to change as warranted and authorized by
 ordinance.
 (Ord. G-16-14, passed 7-8-14; Am. Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-
-20, passed 2-25-20)
+20, passed 2-25-20; Am. Ord. G-14-25, passed 8-12-25)
 § 51.075 MONTHLY CAPITAL IMPROVEMENT SURCHARGE.
    (A)   All classifications of users subject to a capital improvement
 surcharge shall pay the applicable surcharge in addition to other sewage
@@ -11534,45 +11666,42 @@ following:
  
 Capital                            Effective  Effective  Effective  Effective
 Improvement  Unit of     Effective January 1, January 1, January 1, January 1,
-Surcharge    Measure     2020      2021       2022       2023       2024
+Surcharge    Measure     2025      2026       2027       2028       2029
 Area
-Deer Track   Per ERU Per $42.00    $42.00     $42.00     $20.00     $20.00
-Area         month
 Neuhaus      Per ERU Per $20.00    $20.00     $20.00     $20.00     $20.00
-Extension    month
+             month
 Rothman Road Per ERU Per $22.50    $22.50     $22.50     $22.50     $22.50
-Area         month
-Tiernam Shed Per ERU Per $22.50    $22.50     $22.50     $22.50     $22.50
-B            month
+             month
+Tiernam      Per ERU Per $22.50    $22.50     $22.50     $22.50     $22.50
+             month
 Upper Ely    Per ERU Per $20.00    $20.00     $20.00     $20.00     $20.00
              month
+Southwest    Per ERU per $20.00    $20.00     $20.00     $20.00     $20.00
+             month
  
-(Ord. G-36-03, passed 10-28-03; Am. Ord. G-30-04, passed 11-23- 04; Am. Ord. G-
-13-05, passed 7- 26-05; Am. Ord. G-15-05, passed 8-25-05; Am. Ord. G-14-08,
-passed 12-9-08; Am. Ord. G-12-09, passed 5-26-09; Am. Ord. G-6-12, passed 2-28-
-12; Am. Ord. G-25-13, passed 12-18-13; Am. Ord. G-19-14, passed 7-22-14; Am.
-Ord. G-6-20, passed 2-25-20)
+(Ord. G-36-03, passed 10-28-03; Am. Ord. G-30-04, passed 11-23-04; Am. Ord. G-
+13-05, passed 7-26-05; Am. Ord. G-15-05, passed 8-25-05; Am. Ord. G-14-08,
+passed 12-9-08; Am. Ord. G-12-09, passed 5-26-09; Am. Ord. G-6- 12, passed 2-
+28-12; Am. Ord. G-25-13, passed 12-18-13; Am. Ord. G-19-14, passed 7-22-14; Am.
+Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-25, passed 8-12-25)
 § 51.076 AREA CONNECTION FEES.
-   (A)   Area connection fee charges, for areas as designated on Exhibit A.
+   (A) Area connection fee charges, for areas as designated, shall be charged
+as follows:
  
-Area       Unit of     Effective Effective  Effective  Effective  Effective
-Connection Measure     2020      January 1, January 1, January 1, January 1,
-Fee Area                         2021       2022       2023       2024
-Central    Per ERU per $365.00   $365.00    $730.00    $800.00    $800.00
-           month
-Northeast  Per ERU per $2,350.00 $2,350.00  $2,350.00  $2,600.00  $2,600.00
-           month
-Northwest  Per ERU per $2,015.00 $2,015.00  $2,015.00  $2,200.00  $2,200.00
-           month
-Southeast  Per ERU per $700.00   $1,200.00  $1,800.00  $1,980.00  $1,980.00
-           month
-Southwest  Per ERU per $1,100.00 $1,500.00  $1,950.00  $2,150.00  $2,150.00
-           month
+Area Connecti Unit of Effective  Effective  Effective  Effective  Effective
+on Fee Area   Measure 2025       January 1, January 1, January 1, January 1,
+                                 2026       2026       2027       2028
+Central       Per ERU $800.00    $1,000.0 0 $1,200.0 0 $1,390.0 0 $1,390.0 0
+Northeas t    Per ERU $2,600.0 0 $2,700.0 0 $2,800.0 0 $2,900.0 0 $2,900.0 0
+Northwes t    Per ERU $2,200.0 0 $2,400.0 0 $2,600.0 0 $2,800.0 0 $2,800.0 0
+Southeas t    Per ERU $1,980.0 0 $2,100.0 0 $2,200.0 0 $2,300.0 0 $2,400.0 0
+Southwes t    Per ERU $2,150.0 0 $2,400.0 0 $2,600.0 0 $2,800.0 0 $2,800.0 0
  
    (B)   These charges are subject to change as warranted and authorized by
 ordinance.
 (Ord. G-25-13, passed 12-18-13; Am. Ord. G-16-14, passed 7-8-14; Am. Ord. G-19-
-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20)
+14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-14-25, passed
+8-12-25)
 § 51.077 CONTRACT CUSTOMERS.
    (A)   Contract customer rates are applicable only to those users that meet
 the criteria described in the definition of a contract customer. If a user does
@@ -11584,11 +11713,11 @@ shall apply:
       (1)   Treatment charge (per 100 cubic feet).
       (2)   Conveyance charge (per 100 cubic feet). A variable charge for
 conveyance and collections costs attributable to each contract customer’s
-portion of the city conveyance system, operating costs associated therewith,
-shall be computed by the city and added to the treatment to arrive at the
-contractee’s total metered rate.
+portion of the city conveyance system, and operating costs associated
+therewith, shall be computed by the city and added to the treatment cost to
+arrive at the contractee’s total metered rate.
       (3)   Monthly service charge.
-      (4)    Surveillance/evaluation charge. All contract customers discharging
+      (4)   Surveillance/evaluation charge. All contract customers discharging
 wastes into the system that require continuing surveillance sampling and waste
 evaluation, shall be subject to the charges set forth in §
 51.071 or as otherwise specified in the customer’s contract.
@@ -11596,7 +11725,7 @@ evaluation, shall be subject to the charges set forth in §
 contributes waste having a strength of sewage in excess of domestic waste
 characteristics, as hereinbefore defined, a surcharge shall be implemented per
 §
-51.072 or as otherwise specified in the customer’s contract.
+51.072 or as otherwise specified in the customer’s contract.
       (6)   Capital surcharge. In the event a contract customer delivers sewage
 for treatment to the city for three consecutive billing periods (approximately
 90 consecutive days) which is in excess of the base volume limit guaranteed in
@@ -11625,119 +11754,94 @@ associated with operation, installation, adjustment or other improvements to
 the water pollution central utility intended to serve the contract customer
 when it discharges flows exceeding the capacity allocated per the contract.
       (9)   Other provisions. In the event sewage received pursuant to any
-contract entered into under this section exceeds any of the limitations imposed
-by this chapter, City Utilities shall have the right to impose all limitations,
-charges and penalties applicable to any non- contract customer user. Each
-contract entered into by City Utilities pursuant to the foregoing rate
-classification shall provide that the contract customer shall agree to enact
-and maintain a sewer use ordinance and user charge system acceptable to City
-Utilities and in conformance with City Utilities’ obligations under § 204(b)
-(1), Public Law 92-500 as amended and supplemented, and guidelines and
-regulations promulgated thereunder by the U.S. Environmental Protection Agency
-and 40 CFR 35-905-8, 35-928-1 and 35-928-2 and 35-935-13.
-Town of Grabill
+contract entered into under
+this section exceeds any of the limitations imposed by this chapter, City
+Utilities shall have the right to impose all limitations, charges and penalties
+applicable to any non-contract customer user. Each contract entered into by
+City Utilities pursuant to the foregoing rate classification shall provide that
+the contract customer shall agree to enact and maintain a sewer use ordinance
+and user charge system acceptable to City Utilities and in conformance with
+City Utilities’ obligations under § 204(b)(1), Public Law 92-500 as amended and
+supplemented, and guidelines and regulations promulgated thereunder by the U.S.
+Environmental Protection Agency and 40 CFR 35-905-8, 35-928-1 and 35-928-2 and
+35-935-13.
  
-           Unit of     Effective Effective  Effective  Effective  Effective
-          Measure     2020      January 1, January 1, January 1, January 1,
-                                 2021       2022       2023       2024
-Treatment  Per ccf per $2.1047   $2.1240    $2.1248    $2.2326    $2.3396
+Town of    Unit of     Effective Effective  Effective  Effective  Effective
+Grabhill   Measure     2025      January 1, January 1, January 1, January 1,
+                                 2026       2027       2028       2029
+Treatment  Per ccf per $2.486 4  $2.680 4   $2.665 7   $2.965 3   $2.961 8
            month
-Conveyance Per ccf per $0.3370   $0.3425    $0.3258    $0.3519    $0.3634
+Conveyance Per ccf per $0.417 7  $0.391 1   $0.532 9   $0.464 5   $0.425 3
            month
-Total      Per ccf per $2.4417   $2.4665    $2.4686    $2.5485    $2.7030
+Total      Per ccf per $2.904 1  $3.071 5   $3.198 6   $3.429 8   $3.387 1
            month
 Monthly
-service    Per month   $4,524.89 $5,047.96  $5,675.26  $5,907.53  $6,282.69
+service    Per month   $4,49. 75 $4,399 .95 $4,240 .64 $4,174 .63 $4,724 .66
 charge
  
-Leo-Cedarville Regional Sewer District
  
-           Unit of     Effective  Effective  Effective  Effective  Effective
-          Measure     2020       January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Treatment  Per ccf per $2.1047    $2.1240    $2.1248    $2.2326    $2.3396
+Leo-
+Cedarville Unit of   Effective Effective   Effective   Effective   Effective
+Regional   Measure   2025      January 1,  January 1,  January 1,  January 1,
+Sewer                          2026        2027        2028        2029
+District
+Treatment  Per ccf   $2.4864   $2.6804     $2.6657     $2.9653     $2.9618
+           per month
+Conveyance Per ccf   $0.5078   $0.4822     $0.6486     $0.5724     $0.5177
+           per month
+Total      Per ccf   $2.9942   $3.1626     $3.3143     $3.5377     $3.4795
+           per month
+Monthly              $12,032.
+service    Per month 75        $11,782. 95 $11,224. 64 $11,199. 63 $12,482. 66
+charge
+ 
+ 
+Maysville                        Effective  Effect ive Effect ive  Effect ive
+Regional   Unit of     Effective January 1, January 1, Januar y 1, Januar y 1,
+Sewer      Measure     2025      2026       2027       2028        2029
+District
+Treatment  Per ccf per $2.486 4  $2.680 4   $2.665 7   $2.965 3    $2.961 8
            month
-Conveyance Per ccf per $0.3922    $0.3986    $0.3791    $0.4096    $0.4230
+Conveyance Per ccf per $0.402 7  $0.386 1   $0.514 8   $0.459 5    $0.411 0
            month
-Total      Per ccf per $2.4969    $2.5226    $2.5219    $2.6422    $2.7626
+ 
+ 
+Total   Per ccf per $2.889 1   $3.066 5   $3.180 5   $3.424 8   $3.372 8
+        month
+Monthly
+service Per month   $4,015 .75 $3,974 .95 $3,749 .64 $3,782 .63 $4,165 .66
+charge
+ 
+ 
+City of    Unit of     Effective   Effective  Effective  Effective  Effective
+New Haven  Measure     2025        January 1, January 1, January 1, January 1,
+                                   2026       2027       2028       2029
+Treatment  Per ccf per $2.4864     $2.6804    $2.6657    $2.9653    $2.9618
+           month
+Conveyance Per ccf per $0.1038     $0.0979    $0.1325    $0.1162    $0.1057
+           month
+Total      Per ccf per $2.5902     $2.7783    $2.7982    $3.0815    $0.1057
            month
 Monthly
-service    Per month   $12,184.89 $13,595.96 $15,285.26 $15,912.53 $16,922.69
+service    Per month   $10,157. 75 $9,882.9 5 $9,482.6 4 $9,382.6 3 $10,540. 66
 charge
  
-Maysville Regional Sewer District
  
-           Unit of     Effective Effective  Effective  Effective  Effective
-          Measure     2020      January 1, January 1, January 1, January 1,
-                                 2021       2022       2023       2024
-Treatment  Per ccf per $2.1047   $2.1240    $2.1248    $2.2326    $2.3396
-           month
-Conveyance Per ccf per $0.2361   $0.2400    $0.2282    $0.2876    $0.2971
-           month
-Total      Per ccf per $2.3408   $2.3640    $2.3710    $2.5202    $2.6367
-           month
-Monthly
-service    Per month   $3,542.89 $3,951.96  $4,443.26  $5,394.53  $5,736.69
+General    Unit of   Effective Effective   Effective   Effective   Effective
+Motors     Measure   2025      January 1,  January 1,  January 1,  January 1,
+                               2026        2027        2028202 3   2029
+Treatment  Per ccf   $2.4864 0 $2.68040    $2.6657 0   $2.9653 0   $2.9618 0
+           per month
+Conveyance Per ccf   $0.4545 0 $0.42980    $0.5805 0   $0.5106 0   $0.4634 0
+           per month
+Total      Per ccf   $2.9409 0 $3.11020    $3.2462 0   $3.4759 0   $3.4252 0
+           per month
+Monthly              $15,507
+service    Per month .75       $15,132. 95 $14,465 .64 $14,374 .63 $16,090 .66
 charge
  
-City of New Haven
- 
-           Unit of     Effective  Effective  Effective  Effective  Effective
-          Measure     2020       January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Treatment  Per ccf per $2.1047    $2.1240    $2.1248    $2.2326    $2.3396
-           month
-Conveyance Per ccf per $0.0824    $0.0837    $0.0796    $0.0860    $0.0888
-           month
-Total      Per ccf per $2.1871    $2.2077    $2.2224    $3.3186    $2.4284
-           month
-Monthly
-service    Per month   $10,220.89 $11,403.96 $12,821.26 $13,346.53 $14,194.69
-charge
- 
-General Motors
- 
-           Unit of     Effective  Effective  Effective  Effective  Effective
-          Measure     2020       January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Treatment  Per ccf per $2.1498    $2.1240    $2.1428    $2.2326    $2.3396
-           month
-Conveyance Per ccf per $0.4255    $0.3355    $0.3191    $0.3447    $0.3560
-           month
-Total      Per ccf per $2.5753    $2.4595    $2.4619    $2.5773    $2.6956
-           month
-Monthly
-service    Per month   $12,096.90 $17,540.96 $19,721.26 $20,529.53 $21,833.69
-charge
- 
-Institutional Power Plant
- 
-                                                         Effective Effective Effective Effective Effective
-          Unit of Measure                               2020      January   January   January   January
-                                                                   1, 2021   1, 2022   1, 2023   1, 2024
-Treatment  Per ccf per month                             $3.7683   $3.7661   $3.7589   $3.9281   $4.1469
-Conveyance Per ccf per month                             $3.2680   $3.5227   $3.7285   $3.9530   $4.1588
-Total      Per ccf per month                             $ $7.0363 $ $7.2888 $7.4874   $7.8811   $8.3057
-Monthly    Based on meter size per month as shown in §
-service    51.069(E)(2)                                                                       
-charge
- 
-Allen County Regional Water and Sewer District
- 
-           Unit of     Effect ive Effective  Effective  Effective  Effective
-          Measure     2020       January 1, January 1, January 1, January 1,
-                                  2021       2022       2023       2024
-Treatment  Per ccf per $2.1047    $2.1240    $2.1248    $2.2326    $2.3396
-           month
-Conveyance Per ccf per $0.8795    $0.8939    $0.8502    $0.9184    $0.9485
-           month
-Total      Per ccf per $2.9842    $3.0179    $2.9930    $3.1510    $ $3.2881
-           month
-Monthly
-service    Per month   $19,058.89 $21,266.96 $23,910.26 $24,890.53 $26,471.69
-charge
 (Ord. G-19-14, passed 7-22-14; Am. Ord. G-6-20, passed 2-25-20; Am. Ord. G-17-
-23, passed 6-27-23)
+23, passed 6-27-23; Am. Ord. G-14-25, passed 8-12-25)
 § 51.078 GRINDER PUMP SERVICE CHARGES AND SERVICE PLANS.
    (A)   Purpose. The purpose of this section is to provide eligible customers
 who own certain types of grinder pump stations within the city’s sewer service
@@ -11749,47 +11853,74 @@ vendor.
    (C)   Fees for on-call services. There are hereby established the following
 fixed-fees for on-call repair and replacement services for certain types of
 grinder pump stations and their components:
-Service Description Price
-Service Description                Price
-Service call-during business hours $140
-Service call-after business hours  $240
-Replace capacitors1                $49
-Replace fuses1                     $35
-Replace breakers (Type 1)1         $65
-Replace breakers (Type 2)1         $112
-Replace breakers (Type 3)1         $294
-Replace motor starters (Type 1)1   $104
-Replace motor starters (Type 2)1   $168
-Grinder station pumping1           $180
-1 This fee is in addition to the applicable service call charge. However, only
-one service call charge per visit will be assessed. Multiple services can be
-performed during one service call.
+Fees for On-  Unit of Effective Effective  Effective  Effective  Effective
+Call Grinder  Measure 2025      January 1, January 1, January 1, January 1,
+Pump Services                   2026       2027       2028       2029
+Fees for On-  Unit of     Effective Effective  Effective  Effective  Effective
+Call Grinder  Measure     2025      January 1, January 1, January 1, January 1,
+Pump Services                       2026       2027       2028       2029
+Service Call
+- during      per Service $150.0 0  $153.0 0   $157.0 0   $161.0 0   $165.00
+business      Call
+hours
+Service Call
+- after       per Service $258.0 0  $264.0 0   $270.0 0   $276.0 0   $282.00
+business      Call
+hours
+Replace       per Each    $53.00    $55.00     $57.00     $59.00     $61.00
+Capacitors1
+Replace       per Each    $38.00    $39.00     $40.00     $41.00     $42.00
+Fuses1
+Replace
+Breakers      per Each    $70.00    $72.00     $74.00     $76.00     $78.00
+(Type 1)1
+Replace
+Breakers      per Each    $120.0 0  $123.0 0   $126.0 0   $129.0 0   $132.00
+(Type 2)1
+Replace
+Breakers      per Each    $315.0 0  $322.0 0   $329.0 0   $336.0 0   $343.00
+(Type 3)1
+Replace Motor
+Starter (Type per Each    $112.0 0  $115.0 0   $118.0 0   $121.0 0   $124.00
+1)1
+Replace Motor
+Starter (Type per Each    $180.0 0  $184.0 0   $188.0 0   $192.0 0   $196.00
+2)1
+Grinder
+Station Pump  per Each    $193.0 0  $197.0 0   $201.0 0   $206.0 0   $211.00
+Out/Cleaning1
+1.   This Fee is in addition to the applicable Service Call charge. However,
+only one service call charge per visit will be assessed. Multiple services can
+be performed during one Service Call.
  
    (D)   Optional service plans. In addition to on-call repair services, there
 are hereby established the following optional service plans in which eligible
 customers may elect to enroll:
  
-Service Plan   Terms/Benefits                                   Price
-                                                                $950/one-time
-City Utilities                                                  charge OR $20/
-care plus      5 year warranty on new pumps                     mo. (for full 5
-- 5 yr.        Customer pays service call charge for each visit year term)
-warranty - new 50% off “ repairs/replacement (excluding pump) Customer elects
-pumps          70% off pump replacement                         payment plan at
-                                                                the time of
-                                                                enrollment
-City Utilities Annual service visit including pump test,        $425/yr. OR
-service plus - electrical testing, and grinder pump station     $36/mo.
-extended       tank included                                    Customer elects
-warranty - all One additional service call/yr. at no charge     payment plan at
-pumps          20% off repairs/replacement (excluding pump)     the time of
-               50% off pump replacement                         enrollment
-City Utilities                                                  $200/yr. OR
-service basic  Annual service visit including pump test and     $17/mo.
-- extended     electrical testing included                      Customer elects
-warranty - all Service calls for $100                           payment plan at
-pumps          15% off repairs/replacement (including pump)     the time of
-                                                                enrollment
+Service Plan               Terms/Benefits              Price
+                           5 year warranty on new      $950/one-time charge OR
+                           pumps                       $20/mo. (for full 5 year
+City Utilities care plus   Customer pays service call  term)
+- 5 yr. warranty - new     charge for each visit       Customer elects payment
+pumps                      50% off repairs/replacement plan at the time of
+                           (excluding pump)            enrollment
+                           70% off pump replacement
+                           Annual service visit
+                           including pump test,
+                           electrical testing, and
+City Utilities service     grinder pump station tank   $425/yr. OR $36/mo.
+plus - extended warranty - included                    Customer elects payment
+all pumps                  One additional service      plan at the time of
+                           call/yr. at no charge       enrollment
+                           20% off repairs/replacement
+                           (excluding pump)
+                           50% off pump replacement
+                           Annual service visit
+City Utilities service     including pump test and     $200/yr. OR $17/mo.
+basic - extended warranty  electrical testing included Customer elects payment
+- all pumps                Service calls for $100      plan at the time of
+                           15% off repairs/replacement enrollment
+                           (including pump)
  
    (E)   Eligibility; establishment of terms and conditions. The Board of
 Public Works is authorized to define the criteria for customers to be eligible
@@ -11801,7 +11932,7 @@ criteria for on-call services and enrollment in service plans, providing
 technical definitions on the services provided (e.g., defining what constitutes
 a Type 1, Type 2, and Type 3 breaker), and outlining procedures for work not
 specifically described above.
-(Ord. G-27-22, passed 12-13-22)
+(Ord. G-27-22, passed 12-13-22; Am. Ord. G-14-25, passed 8-12-25)
 DELINQUENT ACCOUNTS; BILLING OF SERVICE CHARGES
 § 51.090 BILLING PERIOD.
    (A)   Charges for sewerage services shall be computed and billed by the
@@ -12067,7 +12198,7 @@ General Provisions
 water
 Rates and Charges
    
-52.15   Water usage schedule; inside city corporate limits
+52.15   Water usage schedule; inside city
    
 52.16   Fire protection service; inside city
    
@@ -12089,10 +12220,10 @@ Rates and Charges
    
 52.25   Water meter replacement (for damaged, frozen, lost or stolen meters)
    
-52.26   Individual water service installations (when performed by the Fort
-Wayne Water Utility)
+52.26   Individual water service installation, inspection, or disconnection
+(when performed by the Fort Wayne Water Utility)
    
-52.27   Individual water service installations - tap only (when performed by
+52.27   New connection water meter and radio installation (when performed by
 the Fort Wayne Water Utility)
    
 52.28   Water lab fees
@@ -12122,21 +12253,35 @@ guilty of a violation.
 ('74 Code, § 31-6) (Am. Ord. G-3-12, passed 2-14-12)
 Penalty, see § 10.99
 RATES AND CHARGES
-§ 52.15 WATER USAGE SCHEDULE; INSIDE CITY CORPORATE LIMITS.**
+§ 52.15 WATER USAGE SCHEDULE; INSIDE CITY.
    There shall be and hereby are established for the use of and the service
 rendered by the waterworks system of the city the following rates and charges
 based on the use of water supplied by the City Waterworks System:
    (A)   Metered rates per month.
  
+Metered Rates per Month (2025 only) Unit of Measure    2025
+First 2,500 cubic feet              Per 100 cubic feet $2.69
+Next 9,500 cubic feet               Per 100 cubic feet $2.51
+Over 12,000 cubic feet              Per 100 cubic feet $2.44
+ 
+ 
 Metered Rates per Month (cubic Rate per 100 Cubic Feet
 feet)                          Phase I Phase II Phase III Phase IV Phase V
-First 2,500 cubic feet         $2.17   $2.30    $2.44     $2.55    $2.69
-Next 9,500 cubic feet          $2.02   $2.14    $2.27     $2.37    $2.51
-Over 12,000 cubic feet         $1.97   $2.09    $2.21     $2.31    $2.44
+First 2,500 cubic feet         $2. 17  $2. 30   $2. 44    $2. 55   $2. 69
+Next 9,500 cubic feet          $2. 02  $2. 14   $2. 27    $2. 37   $2. 51
+Over 12,000 cubic feet         $1. 97  $2. 09   $2. 21    $2. 31   $2. 44
+ 
+ 
+Metered Rates per Month Unit of Measure    2025      Phase I Phase II Phase III
+(Phases I - III)
+First 1,000 cubic feet  Per 100 cubic feet See above $3.59   $3.68    $3.92
+Next 49,000 cubic feet  Per 100 cubic feet See above $3.42   $3.51    $3.81
+Over 50,000 cubic feet  Per 100 cubic feet See above $2.73   $2.71    $2.70
  
    (B)   Monthly service charges. Each user shall pay a monthly service charge,
 in addition to usage charges calculated under the metered rate schedule as
 follows:
+ 
 Size of Meter (inches) Monthly Service Charges
                        Phase I Phase II Phase III Phase IV Phase V
 Size of Meter (inches) Monthly Service Charges
@@ -12154,53 +12299,90 @@ Size of Meter (inches) Monthly Service Charges
 10                     $2,438.81 $2,583.43 $2,735.85 $2,855.96 $3.024.77
 12                     $2,438.81 $2,583.43 $2,735.85 $2,855.96 $3,024.77
  
-**   Excludes large industrial customers and contract customers
-(‘74 Code, § 31-18) (Ord. G-27, passed - - ; Am. Ord. G-27-84, passed 9-25-84;
-Am. Ord. G-15-86, passed 4-22-86; Am. Ord. G-22- 89, passed 10-10-89; Am. Ord.
-G-07-94, passed 3-22-94; Am. Ord. G-13-94, passed 6-28-94; Am. Ord. G-29-00,
-passed 10-24-00; Am. Ord. G-09-01, passed 6-12-01; Am. Ord. G-21-05, passed 11-
-22-05; Am. Ord. G-04-12, passed 2-21-12; Am. Ord. G-38-12, passed 12-18-12; Am.
-Ord. G-6-13, passed 5-14-13; Am. Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-
-19, passed 5-28-19; Am. Ord. G-7-22, passed 4-26-22)
-§ 52.16 FIRE PROTECTION SERVICE; INSIDE CITY.
-   Fire protection service for use in extinguishing fire only, shall be as
-follows:
-Size of Meter (inches) Phase I Phase II Phase III Phase IV Phase V
-Size of Meter (inches) Phase I Phase II  Phase III Phase IV  Phase V
-5/8                    $2.65   $2.81     $2.98     $3.11     $3.30
-3/4                    $2.65   $2.81     $2.98     $3.11     $3.30
-1                      $6.79   $7.19     $7.61     $7.94     $8.43
-1 ½                   $15.26  $16.16    $17.11    $17.86    $18.92
-2                      $27.13  $28.74    $30.44    $31.78    $33.66
-2 ½                   $42.40  $44.91    $47.56    $49.65    $52.60
-3                      $61.06  $64.68    $68.50    $71.51    $75.74
-4                      $108.54 $114.98   $121.76   $127.11   $134.63
-6                      $244.21 $258.69   $273.95   $285.98   $302.89
-8                      $434.16 $459.91   $487.04   $508.42   $538.48
-10                     $678.37 $718.60   $761.00   $794.41   $841.37
-12                     $976.85 $1,034.78 $1,095.83 $1,143.94 $1,211.57
-Private Hydrant fee (monthly)
-                      $33.80  $35.80    $37.91    $39.57    $41.92
-Private Fire Line Connection (Monthly Charge)
-1                      $0.30   $0.32     $0.34     $0.35     $0.38
-1 ½                   $0.88   $0.93     $0.98     $1.02     $1.10
-2                      $1.88   $1.99     $2.11     $2.20     $2.34
-2 ½                   $3.39   $3.59     $3.80     $3.97     $4.21
-3                      $5.45   $5.77     $6.11     $6.38     $6.77
-4                      $11.63  $12.32    $13.05    $13.62    $14.43
-6                      $33.80  $35.80    $37.91    $39.57    $41.92
-8                      $72.01  $76.28    $80.78    $84.34    $89.32
-10                     $129.51 $137.19   $145.28   $151.66   $160.63
-12                     $209.21 $221.62   $234.70   $245.00   $259.49
-16                     $445.82 $472.26   $500.12   $522.08   $552.95
+Monthly Service Charge by Meter Unit of Measure 2025 Phase I Phase II Phase III
+Size
+Monthly Service      Unit of Measure     2025       Phase I  Phase II Phase III
+Charge by Meter Size
+5/8 x 3/4"           Per meter per month $11.96     $8.05    $8.25    $8.35
+3/4"                 Per meter per month $11.96     $9.90    $10.15   $10.30
+1"                   Per meter per month $30.45     $13.50   $13.90   $14.10
+1 1/2"               Per meter per month $68.20     $22.45   $23.20   $23.65
+2"                   Per meter per month $120.9 6   $33.15   $34.30   $35.05
+2 ½"                Per meter per month $120.9 6   $52.45   $54.40   $55.65
+3"                   Per meter per month $272.3 5   $58.20   $60.35   $61.80
+4"                   Per meter per month $484.1 5   $94.05   $97.60   $100.0 0
+6"                   Per meter per month $1,088 .74 $183.6 0 $190.6 0 $195.4 0
+8"                   Per meter per month $1,936 .06 $291.0 5 $302.2 0 $309.9 0
+10"                  Per meter per month $3,024 .77 $416.4 0 $432.3 5 $443.4 5
+12"                  Per meter per month $3,024 .77 $774.5 5 $804.3 5 $825.0 5
  
-(‘74 Code, § 31-21) (Ord. G-27, passed - - ; Am. Ord. G-27-84, passed 9-25-84;
+(‘74 Code, § 31-18) (Ord. G-27, passed - - ; Am. Ord. G-27-84, passed 9-25-84;
 Am. Ord. G-15-86, passed 4-22-86; Am. Ord. G-22-89, passed 10-10-89; Am. Ord.
 G-07-94, passed 3-22-94; Am. Ord. G-13-94, passed 6-28-94; Am. Ord. G-29-00,
 passed 10-24-00; Am. Ord. G-09-01, passed 6-12-01; Am. Ord. G-21-05, passed 11-
 22-05; Am. Ord. G-04-12, passed 2-21-12; Am. Ord. G-38-12, passed 12-18-12; Am.
 Ord. G-6-13, passed 5-14-13; Am. Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-
-19, passed 5-28-19; Am. Ord. G-7-22, passed 4-26-22)
+19, passed 5-28-19; Am. Ord. G-7-22, passed 4-26-22; Am. Ord. G-13-25, passed
+8-12-25)
+§ 52.16 FIRE PROTECTION SERVICE; INSIDE CITY.
+   Fire protection service for use in extinguishing fire only, shall be as
+follows:
+   Fire protection service shall be as follows:
+ 
+Monthly Public Fire Protection Unit of Measure 2025 Phase I Phase II Phase III
+Charge by Meter Size
+Monthly Public
+Fire Protection Unit of Measure     2025       Phase I    Phase II   Phase III
+Charge by Meter
+Size
+5/8 x 3/4"      Per meter per month $3.30      $4.72      $5.31      $5.87
+3/4"            Per meter per month $3.30      $7.08      $7.97      $8.81
+1"              Per meter per month $8.43      $11.80     $13.28     $14.68
+1 1/2"          Per meter per month $18.92     $13.69     $15.40     $17.02
+2"              Per meter per month $33.66     $29.22     $32.87     $36.34
+2 ½"           Per meter per month $52.60     $52.53     $59.10     $65.33
+3"              Per meter per month $75.74     $84.87     $95.47     $105.54
+4"              Per meter per month $134.6 3   $180.87    $203.48    $224.94
+6"              Per meter per month $302.8 9   $525.38    $591.06    $653.39
+8"              Per meter per month $538.4 8   $1,119. 63 $1,259. 59 $1,392. 42
+10"             Per meter per month $841.3 7   $2,013. 46 $2,265. 14 $2,504. 02
+12"             Per meter per month $1,211 .57 $3,252. 27 $3,658. 80 $4,044. 66
+1"              Per connection per  $0.38      $0.77      $0.86      $0.94
+                month
+1 1/2"          Per connection per  $1.10      $2.23      $2.49      $2.73
+                month
+2"              Per connection per  $2.34      $4.77      $5.32      $5.82
+                month
+2 ½"           Per connection per  $4.21      $8.57      $9.57      $10.46
+                month
+3"              Per connection per  $6.77      $13.84     $15.46     $16.90
+                month
+4"              Per connection per  $14.43     $29.51     $32.96     $36.02
+                month
+6"              Per connection per  $41.92     $85.71     $95.73     $104.63
+                month
+8"              Per connection per  $89.32     $182.65    $204.00    $222.98
+                month
+10"             Per connection per  $160.6 3   $328.47    $366.86    $400.99
+                month
+12"             Per connection per  $259.4 9   $530.56    $592.57    $647.70
+                month
+16"             Per connection per  $552.9 5   $1,128. 77 $1,260. 70 $1,377. 97
+                month
+20"             Per connection per  Not active $2,033. 29 $2,270. 95 $2,482. 20
+                month
+24"             Per connection per  Not active $3,284. 33 $3,668. 21 $4,009. 44
+                month
+Private hydrant Per each per month  $41.92     $85.71     $95.73     $104.63
+ 
+(‘74 Code, § 31-21) (Ord. G-27, passed - - ; Am. Ord. G-27-84, passed 9-25-84;
+Am. Ord. G-15-86, passed 4-22-86; Am. Ord. G-22-89, passed 10- 10-89; Am. Ord.
+G-07-94, passed 3-22-94; Am. Ord. G-13-94, passed 6-28- 94; Am. Ord. G-29-00,
+passed 10-24-00; Am. Ord. G-09-01, passed 6-12-01; Am. Ord. G-21-05, passed 11-
+22-05; Am. Ord. G-04-12, passed 2-21-12; Am. Ord. G-38-12, passed 12-18-12; Am.
+Ord. G-6-13, passed 5-14-13; Am. Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-
+19, passed 5-28-19; Am. Ord. G-7- 22, passed 4-26-22; Am. Ord. G-13-25, passed
+8-12-25)
 § 52.17 (RESERVED).
 § 52.18 WATER USAGE SCHEDULE; OUTSIDE CITY CORPORATE LIMITS.
    The following rates and charges shall apply to customers located outside the
@@ -12213,12 +12395,23 @@ First 2,500 cubic feet $2.47   $2.60    $2.73     $2.83    $2.96
 Next 9,500 cubic feet  $2.30   $2.42    $2.54     $2.63    $2.76
 Over 12,000 cubic feet $2.25   $2.36    $2.48     $2.56    $2.68
  
+Metered Rates per Month Unit of Measure    2025                      
+(2025 only)
+First 2,500 cubic feet  Per 100 cubic feet $2.96                     
+Next 9,500 cubic feet   Per 100 cubic feet $2.76                     
+Over 12,000 cubic feet  Per 100 cubic feet $2.68                     
+Metered Rates per Month Unit of Measure    2025      Phase I Phase II Phase III
+(Phases I - III)
+First 1,000 cubic feet  Per 100 cubic feet See above $3.95   $4.05    $4.31
+Next 49,000 cubic feet  Per 100 cubic feet See above $3.76   $3.86    $4.19
+Over 50,000 cubic feet  Per 100 cubic feet See above $3.00   $2.98    $2.97
+ 
    (B)   Monthly service charges. Each user shall pay a monthly service charge,
 in addition to usage charges calculated under the metered rate schedule, as
 follows:
-Size of Meter (inches) Monthly Service Charges
+Size of Meter (inches)    Monthly Service Charges
                        Phase I Phase II Phase III Phase IV Phase V
-Size of Meter (inches) Monthly Service Charges
+Size of Meter (inches)    Monthly Service Charges
                        Phase I   Phase II  Phase III Phase IV  Phase V
 5/8                    $11.01    $11.56    $12.13    $12.56    $13.19
 3/4                    $11.01    $11.56    $12.13    $12.56    $13.19
@@ -12233,40 +12426,97 @@ Size of Meter (inches) Monthly Service Charges
 10                     $2,780.26 $2,919.29 $3,064.17 $3,170.15 $3,327.28
 12                     $2,780.26 $2,919.29 $3,064.17 $3,170.15 $3,327.28
  
-   (C)   Fire protection service for use in extinguishing fire only, shall be
-as follows:
+Monthly Service Charge by Meter Unit of Measure 2025 Phase I Phase II Phase III
+Size
+Monthly Service      Unit of Measure     2025       Phase I  Phase II Phase III
+Charge by Meter Size
+5/8 x 3/4"           Per meter per month $13.19     $8.45    $8.65    $8.70
+3/4"                 Per meter per month $13.19     $10.35   $10.60   $10.75
+1"                   Per meter per month $33.53     $14.30   $14.70   $14.95
+1 1/2"               Per meter per month $75.05     $24.05   $24.75   $25.25
+2"                   Per meter per month $133.09    $35.85   $36.90   $37.70
+3"                   Per meter per month $299.62    $63.25   $65.20   $66.65
+4"                   Per meter per month $532.60    $102.4 0 $105.65  $108.05
+6"                   Per meter per month $1,197.6 4 $200.3 0 $206.70  $211.50
+8"                   Per meter per month $2,129.7 0 $317.8 0 $327.95  $335.65
+10"                  Per meter per month $3,327.2 8 $454.8 0 $469.35  $480.45
+12"                  Per meter per month $3,327.2 8 $846.4 0 $873.55  $894.25
+ 
+   (C)   Fire protection service shall be as follows:
+ 
 Public Fire Protection (Monthly Charge)
 Size of Meter (inches) Phase I Phase II Phase III Phase IV Phase V
-Public Fire Protection (Monthly Charge)
-Size of Meter (inches) Phase I   Phase II  Phase III Phase IV  Phase V
-5/8                    $3.02     $3.18     $3.34     $3.45     $3.63
-3/4                    $3.02     $3.18     $3.34     $3.45     $3.63
-1                      $7.74     $8.12     $8.52     $8.81     $9.27
-1 ½                   $17.40    $18.26    $19.16    $19.82    $20.81
-2                      $30.93    $32.48    $34.09    $35.28    $37.03
-2 ½                   $48.34    $50.75    $53.27    $55.11    $57.86
-3                      $69.61    $73.09    $76.72    $79.38    $83.31
-4                      $123.74   $129.93   $136.37   $141.09   $148.09
-6                      $278.40   $292.32   $306.82   $317.44   $333.18
-8                      $494.94   $519.70   $545.48   $564.35   $592.33
-10                     $773.34   $812.02   $852.32   $881.80   $925.51
-12                     $1,113.61 $1,169.30 $1,227.33 $1,269.77 $1,332.73
-Private Hydrant Fee (Monthly)
-                      $38.53    $40.45    $42.46    $43.92    $46.11
-Private Fire Line Connection (Monthly Charge)
-1                      $0.34     $0.36     $0.38     $0.39     $0.42
-1 ½                   $1.00     $1.05     $1.10     $1.13     $1.21
-2                      $2.14     $2.25     $2.36     $2.44     $2.57
-2 ½                   $3.86     $4.06     $4.26     $4.41     $4.63
-3                      $6.21     $6.52     $6.84     $7.08     $7.45
-4                      $13.26    $13.92    $14.62    $15.12    $15.87
-6                      $38.53    $40.45    $42.46    $43.92    $46.11
-8                      $82.09    $86.20    $90.47    $93.62    $98.25
-10                     $147.64   $155.02   $162.71   $168.34   $176.69
-12                     $238.50   $250.43   $262.86   $271.95   $285.44
-16                     $508.23   $533.65   $560.13   $579.51   $608.25
+5/8                    $3.02   $3.18    $3.34     $3.45    $3.63
+3/4                    $3.02   $3.18    $3.34     $3.45    $3.63
+1                      $7.74   $8.12    $8.52     $8.81    $9.27
+1 ½                   $17.40  $18.26   $19.16    $19.82   $20.81
+2                      $30.93  $32.48   $34.09    $35.28   $37.03
  
-   (D)   Large industrial customers.
+Monthly Public Fire Protection Unit of Measure 2025 Phase I Phase II Phase III
+Charge by Meter Size
+Monthly Public
+Fire Protection  Unit of Measure    2025       Phase I    Phase II   Phase III
+Charge by Meter
+Size
+5/8 x 3/4"       Per meter per      $3.63      $5.19      $5.84      $6.46
+                 month
+3/4"             Per meter per      $3.63      $7.79      $8.77      $9.69
+                 month
+1"               Per meter per      $9.27      $12.98     $14.61     $16.15
+                 month
+1 1/2"           Per meter per      $20.81     $15.06     $16.94     $18.72
+                 month
+2"               Per meter per      $37.03     $32.14     $36.16     $39.97
+                 month
+2 ½"            Per meter per      $57.86     $57.78     $65.01     $71.86
+                 month
+3"               Per meter per      $83.31     $93.36     $105.02    $116.09
+                 month
+4"               Per meter per      $148.09    $198.96    $223.83    $247.43
+                 month
+6"               Per meter per      $333.18    $577.92    $650.17    $718.73
+                 month
+8"               Per meter per      $592.33    $1,231. 59 $1,385. 55 $1,531. 66
+                 month
+10"              Per meter per      $925.51    $2,214. 81 $2,491. 65 $2,754. 42
+                 month
+12"              Per meter per      $1,332.7 3 $3,577. 50 $4,024. 68 $4,449. 13
+                 month
+Monthly Private
+Fire Line Charge Unit of Measure    2025       Phase I    Phase II   Phase III
+by Connection
+Pipe Size
+1"               Per connection per $0.42      $0.85      $0.95      $1.03
+                 month
+1 1/2"           Per connection per $1.21      $2.45      $2.74      $3.00
+                 month
+2"               Per connection per $2.57      $5.25      $5.85      $6.40
+                 month
+2 ½"            Per connection per $4.63      $9.43      $10.53     $11.51
+                 month
+3"               Per connection per $7.45      $15.22     $17.01     $18.59
+                 month
+4"               Per connection per $15.87     $32.46     $36.26     $39.62
+                 month
+6"               Per connection per $46.11     $94.28     $105.30    $115.09
+                 month
+8"               Per connection per $98.25     $200.92    $224.40    $245.28
+                 month
+10"              Per connection per $176.69    $361.32    $403.55    $441.09
+                 month
+12"              Per connection per $285.44    $583.62    $651.83    $712.47
+                 month
+16"              Per connection per $608.25    $1,241. 65 $1,386. 77 $1,515. 77
+                 month
+20"              Per connection per Not active $2,236. 62 $2,498. 05 $2,730. 42
+                 month
+24"              Per connection per Not active $3,612. 76 $4,035. 03 $4,410. 38
+                 month
+Monthly Private
+Fire Hydrant     Unit of Measure    2025       Phase I    Phase II   Phase III
+Charge
+Private hydrant  Per each per month $46.11     $94.28     $105.30    $115.09
+ 
  
 Metered Rates per      Rate per 100 Cubic Feet
 Month (cubic feet)     Phase I Phase II Phase III Phase IV Phase V
@@ -12277,17 +12527,73 @@ Monthly service charge (Based on outside city monthly service charges)
 Monthly public fire    (Based on outside city private fire protection services)
 protection
  
+Metered Rates Per Month (2025 only) Unit of Measure 2025    
+Metered Rates Per Unit of Measure 2025                      
+Month (2025 only)
+First 2,500 cubic Per 100 cubic   $2.73                     
+feet              feet
+First 9,500 cubic Per 100 cubic   $2.52                     
+feet              feet
+Over 12,000 cubic Per 100 cubic   $2.14                     
+feet              feet
+Metered Rates per
+Month & Charges   Unit of Measure 2025      Phase I Phase II Phase III
+per Month (Phase
+I - Phase III)
+First 1,000 cubic Per 100 cubic   See above $2.78   $2.82    $2.96
+feet              feet
+Next 49,000 cubic Per 100 cubic   See above $2.57   $2.60    $2.73
+feet              feet
+Over 50,000 cubic Per 100 cubic   See above $2.18   $2.21    $2.32
+feet              feet
+Monthly service   Per meter per   Based on outside city monthly service charge
+charge            month
+Monthly public    Per meter per   Based on outside city public fire protection
+fire protection   month           charge
+charge
+ 
    (E)   City of New Haven.
  
-                        Phase I    Phase II   Phase III  Phase IV   Phase V
-Demand Charge (per      $11,383.19 $12,136.30 $12,930.01 $13.764.87 $14,654.68
+                   Phase I     Phase II    Phase III   Phase IV    Phase V
+Demand Charge (per  $11,383. 19 $12,136. 30 $12,930. 01 $13.764. 87 $14,654.6 8
 month)
-Commodity charge (per
-100 cubic feet of water 1.6849     1.7126     1.7932     1.8778     1.9684
-metered)
-Monthly service charge  (Based on inside city monthly service charges)
-Monthly public fire     (Based on inside city private fire protection services)
+Commodity charge
+(per 100 cubic feet 1.6849      1.7126      1.7932      1.8778      1.9684
+of water metered)
+Monthly service     (Based on inside city monthly service charges)
+charge
+Monthly public fire (Based on inside city private fire protection services)
 protection
+ 
+ 
+Metered Rates
+per Month &    Unit of       2025        Phase I     Phase II    Phase III
+Charges per    Measure
+Month
+Demand charge  Per month     $14,654 .68 $15,387 .41 $16,15 6.78 $16,964 .62
+Commodity      Per 100 cubic $1.9684     $2.1430     $2.170 0    $2.2900
+charge         feet
+Monthly        Per meter per Based on inside city monthly service charge
+service charge month
+Monthly public
+fire           Per meter per Based on inside city public fire protection charge
+protection     month
+charge
+ 
+   (F)   Town of Grabill.
+ 
+Metered Rates
+per Month &      Unit of Measure 2025       Phase I    Phase II   Phase III
+Charges per
+Month
+Demand charge    Per month       $1,801. 39 $1,891. 46 $1,986 .03 $2,085. 33
+Commodity charge Per 100 cubic   $1.9684    $2.1430    $2.170 0   $2.2900
+                 feet
+Monthly service  Per meter per   Based on inside city monthly service charge
+charge           month
+Monthly public   Per meter per   Based on inside city public fire protection
+fire protection  month           charge
+charge
  
 (‘74 Code, § 31-23) (Ord. G-27, passed - - ; Am. Ord. S-91-82, passed 5-25-82;
 Am. Ord. G-15-86, passed 4-22-86; Am. Ord. G-22-89, passed 10-10-89; Am. Ord.
@@ -12295,7 +12601,7 @@ G-13-94, passed 6-28-94; Am. Ord. G-29-00, passed 10-24-00; Am. Ord. G-09-01,
 passed 6-12-01; Am. Ord. G-21-05, passed 11-22-05; Am. Ord. G-04-12, passed 2-
 21-12; Am. Ord. G-38-12, passed 12-18-12; Am. Ord. G-6-13, passed 5-14-13; Am.
 Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-7-
-22, passed 4-26-22)
+22, passed 4-26-22; Am. Ord. G-13-25, passed 8-12-25)
 § 52.19 REASONABLE RETURN ON NET UTILITY PLANT.
    The rate and charges for the use of services rendered by the waterworks
 system of the city should incorporate and reflect a reasonable return on net
@@ -12315,23 +12621,37 @@ general fund.
 (Ord. G-29-00, passed 10-24-00; Am. Ord. G-09-01, passed 6-12-01)
 § 52.22 SYSTEM DEVELOPMENT CHARGE.
    A system development charge (“SDC”) shall be assessed for all permanent
-connections to the Fort Wayne water system in accordance with the Fort Wayne
-Water Utility’s connection policies after filing of the tariff with the Indiana
-Utility Regulatory Commission, as follows:
-Size of Meter SDC
-Size of Meter SDC
-5/8"          $580
-3/4"          $870
-1"            $1,450
-1 ½"         $2,900
-2"            $4,640
-3"            $8,700
-4"            $14,500
-6"            $29,000
-8"            $46,400
-10"           $66,700
+connections to the Fort Wayne water system in accordance with the Fort
+Wayne Water Utility’s connection policies after filing of the tariff with the
+Indiana Utility Regulatory Commission, as follows:
+System Develop ment Charge Unit of Measur e 2025 Phase I
+System Develop ment Charge Unit of Measur e 2025        Phase I
+5/8 x 3/4"                 Per meter        $580.0 0    $650.00
+3/4"                       Per meter        $870.0 0    $975.00
+1"                         Per meter        $1,450 .00  $1,625. 00
+1 1/2"                     Per meter        $2,900 .00  $3,250. 00
+2"                         Per meter        $4,640 .00  $5,200. 00
+3"                         Per meter        $8,700 .00  $9,750. 00
+4"                         Per meter        $14,50 0.00 $16,250 .00
+6"                         Per meter        $29,00 0.00 $32,500 .00
+8"                         Per meter        $46,40 0.00 $52,000 .00
+10"                        Per meter        $66,70 0.00 $74,750 .00
+12"                        Per meter        Not active  $139,75 0.00
  
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
+Size of Meter SDC
+Size of Meter SDC
+5/8"             $580
+3/4"             $870
+1"               $1,450
+1 ½”          $2,900
+2"               $4,640
+3"               $8,700
+4"               $14,500
+6"               $29,000
+8"               $46,400
+10"              $66,700
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
 § 52.23 MISCELLANEOUS NON-RECURRING RATES.
 Bad check charge                        $20
 Reconnection charge                     $28
@@ -12347,18 +12667,43 @@ Unauthorized usage shut-off charge      $71
 Special event water meter set-up charge $383 (up to 3")*
 Permanent disconnection charge          $1,167
  
+Miscellaneous Non- Recurring Rates Unit of Measure 2025 Phase I
+Miscellaneous Non- Recurring Rates        Unit of Measure 2025     Phase I
+Non- sufficien t funds charge             Per each        $20.00   $30.0 0
+Service trip charge                       Per each        $28.00   $35.0 0
+Same day service trip charge              Per each        $56.00   $70.0 0
+Accuracy meter investiga tion charge      Per each        $83.00   $125. 00
+Door hanger fee                           Per each        $14.00   $18.0 0
+Unauthori zed usage investiga tion charge Per each        $71.00   $98.0 0
+Water meter set-up charge (up to 3")*     Per each        $383.0 0 $412. 00
+ 
 * For meters larger than 3", the meter set-up charge will be equivalent to the
 actual cost to the Fort Wayne Water Utility in setting up the special event
 meter.
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
 § 52.24 TEMPORARY METER FEES.
  
 Meter Size Temporary Meter Fee for One Month
 3/4"       $25
 3"         $111
  
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
+ 
+Temporary Meter Fee per Month by Meter Size Unit of Measure 2025     Phase I
+3/4"                                        Per month       $25.0 0  $28.0 0
+3"                                          Per month       $111. 00 $178. 00
+ 
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
 § 52.25 WATER METER REPLACEMENT (FOR DAMAGED, FROZEN, LOST OR STOLEN METERS).
+ 
+Water Meter Replacement by Meter Size* Unit of Measur e 2025     Phase I
+5/8 x 3/4"                             Per meter        $134 .18 $187. 69
+3/4"                                   Per meter        $159 .33 $223. 19
+1"                                     Per meter        $184 .85 $273. 19
+Water Meter Radio Replacement          Unit of Measur e 2025     Phase I
+Radio only                             Per each         $133 .84 $163. 21
+ 
  
 Meter Size* Radio Only Meter Only Radio & Meter Pit Meter Only Pit Meter &
                                                                Radio
@@ -12367,51 +12712,61 @@ Meter Size* Radio Only Meter Only Radio & Meter Pit Meter Only Pit Meter &
 meter
 3/4" Meter  $133.84    159.33     226.33        160.82         227.82
 1" Meter    $133.84    184.85     251.85        186.34         253.34
- 
 * For any meter sizes not specifically listed, the meter replacement charge
 will be equivalent to the actual cost to the Fort Wayne Water Utility in
 replacing the meter.
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
-§ 52.26 INDIVIDUAL WATER SERVICE INSTALLATIONS (WHEN PERFORMED BY THE FORT
-WAYNE WATER UTILITY).
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
+§ 52.26 INDIVIDUAL WATER SERVICE INSTALLATION, INSPECTION, OR DISCONNECTION
+(WHEN PERFORMED BY THE FORT WAYNE WATER UTILITY).
+   Upon request from a customer, the Fort Wayne Water Utility may install,
+inspect, or disconnect an individual water service line. The cost of
+installation, inspection, or disconnection will be the actual cost incurred by
+the Fort Wayne Water Utility in performing the installation, inspection, or
+disconnection.
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
+§ 52.27 NEW CONNECTION WATER METER AND RADIO INSTALLATION (WHEN PERFORMED BY
+THE FORT WAYNE WATER UTILITY).
+; Am. Ord. G-13-25, passed 8-12-25
  
-Service Size* Charge
-3/4" to 2"    $1,817
+New Connection Water Meter Installation by Unit of Measure 2025       Phase I
+Meter Size*
+5/8 x 3/4"                                 Per meter       Not active $225.17
+3/4"                                       Per meter       Not active $260.67
+1"                                         Per meter       Not active $310.67
+New Connection Water Meter Radio           Unit of Measure 2025       Phase I
+Installation
+Radio only                                 Per each        Not active $120.67
  
-*   For any service sizes not specifically listed, the water service
-installation charge will be equivalent to the actual cost to the Fort Wayne
-Water Utility in performing the installation.
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
-§ 52.27 INDIVIDUAL WATER SERVICE INSTALLATIONS-TAP ONLY (WHEN PERFORMED BY THE
-FORT WAYNE WATER UTILITY).
- 
-Service Size* Tap Fee
-3/4" to 2"    $280
- 
-*   For any service sizes not specifically listed, the tap fee will be
-equivalent to the actual cost to the Fort Wayne Water Utility in installing the
-tap.
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
+* For any meter size not specifically listed, the meter installation cost will
+be equivalent to the actual cost to the Fort Wayne Water Utility in installing
+the meter.
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
 § 52.28 WATER LAB FEES.
-Chloride          $15
-Res. Chlorine     $10
-Color             $5
-Fluoride          $15
-Langlier Index    $101
-M.B.A.S           $27
-N03/N02           $25
-Phosphate         $28
-Sulfate           $15
-TDS               $20
-TSS               $12
-Turbidity         $15
-Bacti             $50
-Titration Package $73 (Total)
-Alkalinity        $35
-pH                $8
-Total Hardness    $30
+Water Lab Fees Unit of Measure 2025 Phase I
+Water Lab Fees            Unit of Measure 2025    Phase I
+Chloride                  Per each        $15.00  $15.00
+Residual Chlorine         Per each        $10.00  $10.00
+Color                     Per each        $5.00   $5.00
+Fluoride                  Per each        $15.00  $17.00
+Langlier Index            Per each        $101.00 $101.00
+M.B.A.S.                  Per each        $27.00  $27.00
+NO3/NO2                   Per each        $25.00  $29.20
+Phosphate                 Per each        $28.00  $28.00
+Sulfate                   Per each        $15.00  $15.00
+TDS                       Per each        $20.00  $20.00
+TSS                       Per each        $12.00  $12.00
+Turbidity                 Per each        $15.00  $15.00
+Bacti                     Per each        $50.00  $50.00
+Titration Package (total) Per each        $73.00  $80.00
+Alkalinity                Per each        $35.00  $35.00
+pH                        Per each        $8.00   $15.00
+Total Hardness            Per each        $30.00  $30.00
  
-(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19)
+(Ord. G-14-18, passed 6-26-18; Am. Ord. G-11-19, passed 5-28-19; Am. Ord. G-13-
+25, passed 8-12-25)
 CROSS-CONNECTION CONTROL AND BACKFLOW PREVENTION
 § 52.30 GENERAL PROVISIONS.
    (A)   Purpose.
@@ -13221,10 +13576,16 @@ ultimately disturb one or more acres of land.
 land disturbing activities on the site for which the plan is submitted. The
 SWP3 must comply with the design criteria and technical standards and
 specifications approved by the BSM.
-   (C)   This chapter does not apply to the following types of activities:
+   (C)   A residential property that involves activities described in division
+(A) of this section shall have an approved SWP3. If the condition described in
+division (A)(1) applies, the residential property shall have its own SWP3. If
+the condition described in division (A)(2) applies, the residential property
+does not need its own SWP3 but shall be covered by the SWP3 for the larger
+common plan of development.
+   (D)   This chapter does not apply to the following types of activities:
       (1)   Agricultural land disturbance activities.
       (2)   Forest harvesting activities.
-   (D)   This section does not apply to the following activities, provided
+   (E)   This section does not apply to the following activities, provided
 other applicable permits contain provisions requiring immediate implementation
 of soil erosion control measures:
       (1)   Landfills that have been issued a certification of closure under
@@ -13236,11 +13597,11 @@ requirements, including the expansion of landfill boundaries and construction
 of new cells either within or outside the original solid waste permit boundary.
       (4)   Roadway projects initiated by the Indiana Department of
 Transportation.
-   (E)   Charges for review of SWP3 submittals will be assessed in accordance
+   (F)   Charges for review of SWP3 submittals will be assessed in accordance
 with §
 53.63.
 (Ord. G-11-07, passed 4-10-07; Am. Ord. G-28-22, passed 12-13-22; Am. Ord. G-
-17-24, passed 7-9-24)
+17-24, passed 7-9-24; Am. Ord. G-11-25, passed 7-22-25)
 § 53.12 RESPONSIBILITY FOR ADMINISTRATION.
    The Board of Stormwater Management of the City of Fort Wayne shall
 administer, implement, and enforce the provisions of this Chapter.
@@ -13337,10 +13698,10 @@ should be followed as closely as possible.
    (B)   Existing natural vegetation should be retained and protected wherever
 possible. Areas immediately adjacent to watercourses and lakes also should be
 left undisturbed wherever possible. Unvegetated or vegetated areas with less
-than 70% cover that are scheduled or likely to be left inactive for 15 days or
-more must be temporarily or permanently stabilized with measures appropriate
-for the season to reduce erosion potential. Alternative measures to site
-stabilization may be
+than 70% cover that are scheduled or likely to be left inactive for seven days
+or more must be temporarily or permanently stabilized with measures appropriate
+for the season to reduce erosion potential no later than 14 days after
+initiation. Alternative measures to site stabilization may be
 acceptable if the project site owner or their representative can demonstrate
 they have implemented and maintained erosion and sediment control measures
 adequate to prevent sediment discharge from the inactive area.
@@ -13381,7 +13742,8 @@ pollutants associated with stormwater runoff. All erosion and sediment control
 measures necessary to comply with this Chapter and with other provisions as
 outlined in IDEM’s Construction Stormwater General Permit (IDEM CSGP) must be
 implemented in accordance with the submitted plans.
-(Ord. G-11-07, passed 4-10-07; Am. Ord. G-17-24, passed 7-9-24)
+(Ord. G-11-07, passed 4-10-07; Am. Ord. G-17-24, passed 7-9-24; Am. Ord. G-11-
+25, passed 7-22-25)
 STORMWATER QUALITY MANAGEMENT  CONTROL FOR POST-CONSTRUCTION
 § 53.20 PURPOSE AND INTENT.
    The purpose of this subchapter is to establish requirements for the
@@ -13401,8 +13763,7 @@ submitted and approved by the DSM for any project located within the Fort Wayne
 Stormwater Management District that includes clearing, grading, excavation,
 filling and other land disturbing activities resulting in the following:
       (1)   The disturbance of one (1) acre or more of total land area as
-determined per §
-53.13.
+determined per § 53.13.
       (2)   Disturbances of less than one (1) acre of land that are part of a
 larger common plan of development or sale if the larger common plan will
 ultimately disturb one or more acres of land.
@@ -13412,10 +13773,19 @@ SWP3 shall include stormwater quality features that shall become permanent
 features of the site plan and shall remain in place following completion of
 construction activities. The SWP3 shall comply with the design criteria and
 technical standards and specifications approved by the BSM.
-   (C)   This Chapter does not apply to the following types of activities:
+   (C)   Unless otherwise determined by the DSM, all residential properties
+that are required to have a SWP3 for construction site control as described in
+§ 53.11(C) shall have an approved SWP3 that addresses post-construction
+stormwater quality control measures. If the condition described in division (A)
+(1) of this section applies, the residential property shall have its own SWP3
+addressing post- construction stormwater quality control measures. If the
+condition described in division (A)(2) of this section applies, the residential
+property does not need its own SWP3 but shall be covered by the SWP3 for the
+larger common plan of development.
+   (D)   This Chapter does not apply to the following types of activities:
       (1)   Agricultural land disturbance activities.
       (2)   Forest harvesting activities.
-   (D)   This section does not apply to the following activities, provided
+   (E)   This section does not apply to the following activities, provided
 other applicable permits contain provisions requiring immediate implementation
 of soil erosion control measures:
       (1)   Landfills that have been issued a certification of closure under
@@ -13427,7 +13797,8 @@ requirements, including the expansion of landfill boundaries and construction
 of new cells either within or outside the original solid waste permit boundary.
       (4)   Roadway projects initiated by the Indiana Department of
 Transportation.
-(Ord. G-11-07, passed 4-10-07; Am. Ord. G-17-24, passed 7-9-24)
+(Ord. G-11-07, passed 4-10-07; Am. Ord. G-17-24, passed 7-9-24; Am. Ord. G-11-
+25, passed 7-22-25)
 § 53.22 RESPONSIBILITY FOR IMPLEMENTATION.
    A project site owner shall be identified for all projects that require the
 submission of a Stormwater Pollution Prevention Plan (SWP3) and a construction
@@ -13770,33 +14141,35 @@ city's NPDES stormwater discharge permit(s).
 § 53.56 STORMWATER RATE ESTABLISHMENT PROCEDURES.
    (A)   The stormwater service rate shall be as follows:
  
+ 
+Stormwater  Unit of                Effective  Effective  Effective  Effective
+Rate per    Measure Effective 2025 January 1, January 1, January 1, January 1,
+Month                              2026       2027       2028       2029
+Residential ERU     $6.14          $6.38      $6.64      $6.90      $7.18
+Non-        ERU     $4.95          $5.14      $5.35      $5.56      $5.79
+Residential
+ 
+ 
 Rate per Month per ERU Effective Date
 $4.40                  July 1, 2017
 $5.15                  July 1, 2018
 $5.90                  July 1, 2019
  
-   (B)   The stormwater service rate for non-residential properties shall be as
-follows:
- 
-Rate per Month per ERU Effective Date
-$3.85                  July 1, 2017
-$4.25                  July 1, 2018
-$4.75                  July 1, 2019
- 
 For the purpose of this chapter, a month shall be considered to be a period of
 25 days up through 35 days depending on billing cycles. Any billings for
 stormwater service outside this time shall be on a per diem basis.
-   (C)   These stormwater rates are designed to recover the cost of rendering
+   (B)   These stormwater rates are designed to recover the cost of rendering
 stormwater service to the users of the stormwater system, and shall be the
-basis for assessment of the city's stormwater service charge. These rates are
+basis for assessment of the city’s stormwater service charge. These rates are
 established so as to maintain adequate fund reserves to provide for reasonably
 expected variations in the cost of providing services, as well as variations in
 the demand for services.
-(Ord. G-11-07, passed 4-10-07; Am. Ord. G-5-17, passed 3-28-17)
+(Ord. G-11-07, passed 4-10-07; Am. Ord. G-5-17, passed 3-28-17; Am. Ord. G-12-
+25, passed 8-12-25)
 § 53.57 RATE STRUCTURE AND CALCULATION.
    (A)   For the purposes stated in §
 53.02 and subsequent, there is hereby assessed a stormwater service charge to
-each user situated with the corporate limits of the city who contributes
+each user situated within the corporate limits of the city who contributes
 directly or indirectly to the stormwater system of the city, in an amount as
 determined below.
    (B)   For any such property, lot, parcel of land, building or premises which
@@ -13809,12 +14182,9 @@ impervious surface being assigned at least one ERU.
 rendered to residential properties shall be charged to each account within the
 city limits according to the service address. All residential properties are
 hereby assigned one ERU. This fee shall apply to all residential properties as
-defined herein. Residential properties may apply for credits as outlined at
-§53.60. Based on the granting of a credit, a residential property may pay for
-less than one ERU. However, in no case shall a residential property pay for
-less than 35% of the gross stormwater bill owed before credits were applied.
+defined herein.
       (2)   Non-residential properties. Non-residential properties will be
-assigned a number of ERUs based upon the property's individually measured
+assigned a number of ERUs based upon the property’s individually measured
 impervious area (in square feet) divided by 2,500 square feet (one ERU). The
 division will be calculated to the first decimal place.
       (3)   For the purposes of quantifying the discharge of non-polluted
@@ -13827,7 +14197,8 @@ ERU shall be done according to mathematical convention (0 - 0.4 rounded down to
 nearest whole ERU; 0.5 - 0.9 rounded up to nearest whole ERU).
    (D)   There shall be no exceptions or exemptions from the assignment of
 gross stormwater ERUs.
-(Ord. G-11-07, passed 4-10-07; Am. Ord. G-5-17, passed 3-28-17)
+(Ord. G-11-07, passed 4-10-07; Am. Ord. G-5-17, passed 3-28-17; Am. Ord. G-12-
+25, passed 8-12-25
 § 53.58 BILLINGS; TERMS OF PAYMENT.
    (A)   Billings. All stormwater bills shall be rendered on a monthly basis,
 along with the user's charges for other city utility services.
@@ -13888,57 +14259,61 @@ accordingly for any overpayment made from the date of the petition.
 shall not be a valid reason for non-payment of the originally assessed
 stormwater service charge by the user.
 (Ord. G-11-07, passed 4-10-07)
-§ 53.60 DISCOUNT AND CREDITS POLICIES AND PROCEDURE.
+§ 53.60 DISCOUNT AND CREDITS POLICIES AND PROCEDURES.
    (A)   This section establishes a discount for land and buildings used for
 various purposes when exempt from property taxation under IC 6-1.1-10-1, 6-1.1-
-10-2, 6-1.1-10-4, 6-1.1-10-5, and 6-1.1-1016.
+10-2, 6-1.1-10-4, 6-1.1-10-5, and 6-1.1-10-16.
    (B)   This section also discusses some of the most common credit
 considerations and requirements but is not intended to be the exclusive
-authority. The Board, through the rules and regulations of the DSM shall more
-fully and completely establish the credit policies and procedures for
-stormwater management.
+authority. The Board, through the rules and regulations of the DSM and the
+adoption of the City Utilities Stormwater Credit Manual shall more fully and
+completely establish the credit policies and procedures for stormwater
+management.
       (1)   Discounts. The following categories of property exempt from
-property taxation shall be entitled to a 25% discount off of the gross ERUs
-assigned for any such land or building under §
+property taxation shall be entitled to up to a 25% discount off of the gross
+ERUs assigned for any such land or building under §
 53.57 where the statutory exemption has been granted and can be confirmed
-through the records of the Allen County Auditor's office, upon proper
+through the records of the Allen County Auditor’s office, upon proper
 application for said discount:
          (a)    IC 6-1.1-10-1. Property of the United States and its agencies
 and instrumentalities.
          (b)   IC 6-1.1-10-2. Property owned by the state, and any agency
-thereof or the Indiana Bureau of Motor Vehicles Commission.
+thereof of the Indiana Bureau of Motor Vehicles Commission.
          (c)   IC 6-1.1-10-4. Property owned by a political subdivision of the
 state.
          (d)   IC 6-1.1-10-5. Property owned by the city which is used to
 provide a municipal service.
-         (e)   IC 6-1.1-10-16. Property owned, occupied, and used for
+         (e) IC 6-1.1-10-16. Property owned, occupied, and used for
 educational, literary, scientific, religious or charitable purposes.
       (2)   Credit availability.
-         (a)   Credit will be available to all properties for various forms and
-levels of abatement.
+         (a) Credit will be available to all non-residential properties with
+more than one assigned ERU for various forms and levels of abatement.
          (b)   Maintenance requirements. Credit will only be allowed for
 properties where structural controls are maintained in fully functional
 condition and according to maintenance criteria and design standards issued by
 the DSM.
          (c)   Existing structure credits. Credit will be allowed for
-previously constructed abatement features or stormwater controls. The amount of
-credit granted will be determined by the methods of design as outlined within
-the rules and regulations of the DSM.
-         (d)   Property location. Credit will be granted on the basis of
+previously constructed abatement
+features or stormwater controls until December 31, 2025. Eligibility for
+credits after December 31, 2025 will be determined in accordance with this
+section, rules and regulations of the DSM, and the City Utilities Stormwater
+Credit Manual.
+         (d)   Property location. Credit may be granted on the basis of
 location of a given property in relation to a major waterway of the United
 States, if it directly discharges its stormwater to that waterway in
 conformance with all maintenance criteria and design standards as applicable.
-The waterways covered by this section shall include the St. Mary's River, the
+The waterways covered by this section shall include the St. Mayr’s River, the
 St. Joseph River, the Maumee River, the major tributaries of these three rivers
 and other ditches and drains specified in the rules and regulations of the DSM,
-and any legal public drains under the control by Allen County.
-         (e)   Voluntary controls. For new developments, credit will be granted
-where the city requires abatement features or stormwater controls to be
-constructed and/or maintained, and all city standards and criteria are met.
-Other voluntary controls or upgrades of existing systems through retrofitting
-will be granted credits on a case-by-case basis considering the impact of the
-controls on the city's stormwater system, as determined by the DSM.
-         (f)   Detention/retention. Credit will be granted for qualifying
+and any legal public drains under the control of Allen County.
+         (e)   Voluntary controls. For new developments, credit may be granted
+where the city requires abatement features or stormwater controls for quantity
+or quality to be constructed and/or maintained, and all city standards and
+criteria are met. Other voluntary controls or upgrades of existing systems
+through retrofitting will be granted credits on a case-by-case basis
+considering the impact of the controls on the city’s stormwater system, as
+determined by the DSM.
+         (f)    Detention/retention. Credit will be granted for qualifying
 detention basins and wet ponds. Credit may be granted for other control devices
 on a caseby-case basis providing sufficient technical justification is
 available to make such determinations.
@@ -13950,15 +14325,17 @@ additional credit.
          (h)   Industrial NPDES permit credits. No credit shall be allowed for
 industries in compliance with federal laws and regulations regarding industrial
 stormwater discharge permits at this time.
-         (i)   Pollution reduction Credit may be granted on a case-by-case
-basis for efforts to reduce the amount of pollutants in a user's stormwater
-runoff or for improvements to the quality of a user's stormwater discharge.
+         (i)   Pollution reduction credit may be granted on a case-by-case
+basis for efforts to reduce the amount of pollutants in a user’s stormwater
+runoff or for improvements to the quality of a user’s stormwater discharge.
+This could include efforts such as setback buffers or open channel maintenance
+activities.
          (j)   Regional basins. Credit will not be granted to properties
 draining into ponds or basins maintained or owned by the city. Credit will be
 considered for privately owned and maintained regional controls and will be
 apportioned among owners on a prearranged basis.
          (k)   Percent discounted credits for private stormwater facilities.
-            1.   Discounts and credits shall be computed on an ERU basis. A
+            1.    Discounts and credits shall be computed on an ERU basis. A
 maximum credit of less than 100% of the gross ERUs originally assigned can be
 granted for the construction and maintenance of private stormwater facilities
 considering the potential of each to reduce peak flow and/or volume stormwater
@@ -13967,47 +14344,56 @@ for credits listed above constitute elements of the secondary drainage system.
 The secondary system is designed to drain a limited area with benefits limited
 to the owners of the particular property or owners of adjacent properties. As
 such, secondary elements of the system are not eligible for 100% credit.
-            2.   Further, there are administrative costs involved with
-operation of the DSM that must be shared by all users, including costs incurred
-to meet quality-based permit requirements, which provide community-wide
-benefits, and thus cannot be credited. Discounts and credits shall be
-cumulative; however, in no case shall the total amount of discounts and credits
-equal more than 65% of the user's gross stormwater service fee.
+            2. Further, there are administrative costs involved with operation
+of the DSM that must be shared by all users, including costs incurred to meet
+quality-based permit requirements, which provide community-wide benefits, and
+thus cannot be credited. Discounts and credits shall be cumulative; however, in
+no case shall the total amount of discounts and credits equal more than 50% of
+the user’s gross stormwater fee.
             3.   The formula for determining the applicable credit percentage
 for individual parcels shall be specifically set out in the Rules and
-Regulations of the DSM.
+Regulations of the DSM and the City Utilities Credit Manual, as updated from
+time to time..
          (l)   Federal, state, city and county roadways, publicly-owned airport
 movement areas. Publicly-owned streets and roads and highway shall be given
 100% credit in reliance on governmental guidance documents which classify them
 as an integral part of the stormwater conveyance system. Publicly-owned airport
 movement areas including runways, taxiways, ramps and other areas of an airport
-which are used for taxiing or hover taxiing, air taxiing, takeoff and landing
-of aircraft when constructed and maintained similarly to public roadways, shall
-also qualify for this credit. The surface water control systems incorporated in
-the design of roadways and airport movement are areas engineered to convey all
-design runoff without street flooding, and the like associated with frequent,
-small runoff events up to about five- or ten- year recurrence intervals, and as
-such, constitute elements of the primary drainage system. Primary elements of
-the drainage system yield community-wide benefits and are installed to service
-the general public's interests, conveying runoff from large areas encompassing
-whole watershed in some cases.
+which are used for taxiing or hover taxiing, takeoff and landing of aircraft
+when constructed and maintained similarly to public roadways, shall also
+qualify for this credit. The surface water control systems incorporated in the
+design of roadways and airport movement are areas engineered to convey all
+design runoff without street
+flooding, and the like associated with frequent, small runoff events up to
+about five- or ten- recurrence intervals, and as such, constitute elements of
+the primary drainage system. Primary elements of the drainage system yield
+community-wide benefits and are installed to service the general public’s
+interests, conveying runoff from large areas encompassing whole watershed in
+some cases.
       (3)   Procedure.
          (a)   Timing of applications and/or determinations. Application for
 credits shall be made on forms provided by City Utilities and accompanied by
-the appropriate application fee. The fee shall be $25 for residential users and
-$100 for all others. It is the intent of the city that all applications will be
-reviewed and credits and discounts determined within 30 days after submittal of
-a complete and correct application package. The credit will be effective on the
-1st billing cycle for that property following completion of construction, or
-the date of the application. Appeals. Appeals of credit or discount
-determinations shall be handled consistent with the procedures set out above
-for reconsideration of ERU petitions. Appeals of credit or discount decisions
-will be made initially to the Director, or his designee. Should satisfaction
-not be achieved, an appeal may be lodged with the Board.
-         (b)   Application for credit or discount, or appeal of determination
+the appropriate application fee. The fee shall be $200 for all applications.
+However, in the event that a particular application requires excessive review
+time due to the complexity of the proposed controls or other reasons, City
+Utilities may charge a fee for each hour after three hours of review time at
+the rates set forth in §
+53.63. It is the intent of the city that all applications will be reviewed and
+credits and discounts determined within 90 days after submittal of a complete
+and correct application package. The credit will be effective on the 1st
+billing cycle for that property following approval of the application. Credits
+will expire after three years if not renewed.
+         (b)   Appeals. Appeals of credit or discount determinations shall be
+handled consistent with the procedures set out in §
+53.59 for reconsideration of ERU petitions. Appeals of credit or discount
+decisions will be made initially to the Director, or his or her designee.
+Should satisfaction not be achieved, an appeal may be lodged with the Board in
+accordance with §
+53.59.
+         (c)   Application for credit or discount, or appeal of determination
 thereon shall not constitute a valid reason for non-payment of the originally
 assessed stormwater service charge by the user.
-(Ord. G-11-07, passed 4-10-07)
+(Ord. G-11-07, passed 4-10-07; Am. Ord. G-12-25, passed 8-12-25)
 § 53.61 STORMWATER FUND.
    All revenues earned and fees collected for stormwater service, including but
 not limited to, drainage service charges, permit and inspection fees, direct
@@ -37445,6 +37831,7 @@ to real property in areas not designated as an economic development target area
 to three, five, seven, or ten years, based on the following Review System and
 corresponding abatement schedules:
 TAX ABATEMENT REVIEW SYSTEM—REAL PROPERTY
+ 
  Points Possible Points Awarded
                                                  Points Possible Points Awarded
 INVESTMENT (30 points possible)                                  
@@ -37456,25 +37843,25 @@ $100,000 to $499,999                             6                
 Under $100,000                                   4                
 Investment per employee (both jobs created and                    
 retained)
-$35,000 or more                                  10               
-$18,500 to $34,999                               8                
-$6,250 to $18,499                                6                
-$1,250 to $6,249                                 4                
-Less than $1,249                                 2                
+$70,000 or more                                  10               
+$36,000 to $69,999                               8                
+$12,500 to $35,999                               6                
+$2,500 to $12,499                                4                
+Less than $2,500                                 2                
 Estimated local income taxes generated from jobs                  
 retained
-$80,000 or more                                  5                
-$30,000 to $79,999                               4                
-$10,000 to $29,999                               3                
-$5,000 to $9,999                                 2                
-Less than $5,000                                 1                
+$82,000 or more                                  5                
+$32,000 to $81,999                               4                
+$12,000 to $31,999                               3                
+$7,000 to $11,999                                2                
+Less than $7,000                                 1                
 Estimated local income taxes generated from jobs                  
 created (double points for start-up)
-$30,000 or more                                  5                
-$10,000 to $29,999                               4                
-$5,000 to $9,999                                 3                
-$3,000 to $4,999                                 2                
-Less than $3,000                                 1                
+$50,000 or more                                  5                
+$30,000 to $49,000                               4                
+$10,000 to $29,000                               3                
+$5,000 to $9,000                                 2                
+Less than $5,000                                 1                
 ECONOMIC BASE (20 points possible)                                
 Location quotient in designated occupation code
 (use majority occupation code of all created and                  
@@ -37499,15 +37886,15 @@ Over 100                                         10               
 25 to 49                                         6                
 10 to 24                                         4                
 1 to 9                                           2                
-WAGES (20 points possible)                                        
+WAGES (25 points possible)                                        
 Median salary of the jobs created and/or                          
 retained
-Over $47,999                                     20               
-$43,000 to $47,999                               16               
-$38,000 to $42,999                               12               
-$33,000 to $37,999                               8                
-$28,000 to $32,999                               4                
-Under $28,000                                    0                
+Over$59,999                                      21               
+$54,000 to $59,000                               17               
+$49,000 to $53,999                               13               
+$44,000 to $43,999                               9                
+$39,000 to $43,999                               5                
+Under $39,000                                    0                
 BENEFITS (10 points possible)                                     
 Major medical plan offered                       7                
 Pension, tuition reimbursement, life insurance,
@@ -37516,37 +37903,12 @@ offered
 SUSTAINABILITY                                                    
 Construction uses green building techniques      5                
 (i.e. LEED certification)
-Construction uses techniques to minimize impact  5                
-on combined sewer overflows
 TOTALS                                                           
 LENGTH OF ABATEMENT                                              
 20 to 39 points - 3 year abatement
 40 to 59 points - 5 year abatement
 60 to 69 points - 7 year abatement
 70 to 100 points - 10 year abatement
-* If average annual salary of the full-time jobs created by listed occupation
-is 10% or greater than the average salary for Allen County using current
-occupational employment statistics, and is eligible for a 10 or 7 year
-abatement, then the applicant is eligible for an alternate deduction schedule
-10 Year
-Year 1                                                           100%
-Year 2                                                           100%
-Year 3                                                           100%
-Year 4                                                           100%
-Year 5                                                           100%
-Year 6                                                           90%
-Year 7                                                           80%
-Year 8                                                           65%
-Year 9                                                           50%
-Year 10                                                          40%
-7 Year
-Year 1                                                           100%
-Year 2                                                           100%
-Year 3                                                           100%
-Year 4                                                           100%
-Year 5                                                           100%
-Year 6                                                           71%
-Year 7                                                           43%
  
    Notwithstanding the foregoing, when a project is located within a designated
 economic development target area and not defined as ineligible under § 153.15,
@@ -37609,17 +37971,17 @@ the assessed value of the building or part of the building that is occupied by
 the property owner or tenant of the property owner in the second year.
    (C)   Projects involving the redevelopment or rehabilitation of a
 speculative building may receive a ten-year phased deduction (abatement)
-without adhering to the city's review system. For purposes of this division, a
+without adhering to the city’s review system. For purposes of this division, a
 SPECULATIVE BUILDING is any building development, construction, or
 rehabilitation of at least 50,000 square feet that is reasonably likely to
 create new jobs when the developer has no formal commitment from a buyer or
 tenant to purchase or lease the end product, whether the end product is a fully
 completed, move-in ready building or a partially completed shell suitable for
-build-out improvements by the future owner or tenant. Additional incentives for
-the final build out and personal property (equipment) may be considered upon
-the identification of the end user. Any additional incentives will adhere to
-the city's review system for real and personal property abatement at the time
-of submittal.
+build-out improvements
+by the future owner or tenant. Additional incentives for the final build out
+and personal property (equipment) may be considered upon the identification of
+the end user. Any additional incentives will adhere to the city’s review system
+for real and personal property abatement at the time of submittal.
    (D)   Affordable housing projects applying to and meeting the criteria for
 the Indiana Housing Finance Authority for Low Income Housing Tax Credits are
 eligible for ten-year phased deduction (abatement) without adhering to the
@@ -37640,10 +38002,10 @@ Year of Deduction Percentage
 11                0%
  
 (Ord. G-05-97, passed 4-8-97; Am. Ord. G-23-00, passed 9-12-00; Am. Ord. G-16-
-08, passed 12-9-08; Am. Ord. G-1-12, passed 12-20- 11; Am. Ord. G-3-13, passed
-2-26-13; Am. Ord. G-22-13, passed 10-8-13; Am. Ord. G-2-16, passed 2-9-16; Am.
+08, passed 12-9-08; Am. Ord. G-1-12, passed 12- 20-11; Am. Ord. G-3-13, passed
+2-26-13; Am. Ord. G-22-13, passed 10-8-13; Am. Ord. G-2- 16, passed 2-9-16; Am.
 Ord. G-18-17, passed 7-25-17; Am. Ord. G-8-18, passed 4-24-18; Am. Ord. G-29-
-22, passed 12-13-22)
+22, passed 12-13-22; Am. Ord. G-15-25, passed 8-26-25)
 § 153.20 DEDUCTION PERIODS AND ABATEMENT SCHEDULES FOR PERSONAL PROPERTY.
    In determining whether an applicant is entitled to a deduction for new
 manufacturing equipment, new research and development equipment, new logistical
@@ -37652,8 +38014,8 @@ IC 6-1.1-12.1-1(3), 6-1.1-12.1-1(12), 6-1.1-12.1-1(13) or 6-1.1-12.1-1(14), the
 Common Council shall qualify a designation by limiting the number of years of
 deduction for eligible personal property to three, five, seven or ten years
 based on the following Review System and corresponding abatement schedules:
- Points Possible Points Awarded
-                                                 Points Possible Points Awarded
+ Points Possible Points Awarded
+                                                Points Possible Points Awarded
 INVESTMENT (30 points possible)                                  
 Total new investment in equipment                                
 Over $5,000,000                                  10               
@@ -37662,25 +38024,25 @@ $500,000 to $999,999                             6                
 $0 to $499,999                                   4                
 Investment per employee (both jobs created and                    
 retained)
-$35,000 or more                                  10               
-$18,500 to $34,999                               8                
-$6,250 to $18,499                                6                
-$1,250 to $6,249                                 4                
-Less than $1,249                                 2                
+$70,000 or more                                  10               
+$36,000 to $69,999                               8                
+$12,500 to $35,999                               6                
+$2,500 to $12,499                                4                
+Less than$2,500                                  2                
 Estimated local income taxes generated from jobs                  
 retained
-$80,000 or more                                  5                
-$30,000 to $79,999                               4                
-$10,000 to $29,999                               3                
-$5,000 to $9,999                                 2                
-Less than $5,000                                 1                
+$82,000 or more                                  5                
+$32,000 to $81,999                               4                
+$12,000 to $31,999                               3                
+$7,000 to $11,999                                2                
+Less than $7,000                                 1                
 Estimated local income taxes generated from jobs                 
 created (double points for start-up)
-$30,000 or more                                  5                
-$10,000 to $29,999                               4                
-$5,000 to $9,999                                 3                
-$3,000 to $4,999                                 2                
-Less than $3,000                                 1                
+$50,000 or more                                  5                
+$30,000 to $49,000                               4                
+$10,000 to $29,000                               3                
+$5,000 to $9,000                                 2                
+Less than $5,000                                 1                
 ECONOMIC BASE (20 points possible)                               
 Location quotient in designated occupation code
 (use majority occupation code of all created and                 
@@ -37705,15 +38067,15 @@ Over 100                                         10               
 25 to 49                                         6                
 10 to 24                                         4                
 1 to 9                                           2                
-WAGES (20 points possible)                                       
+WAGES (25 points possible)                                       
 Median salary of the jobs created and/or                         
 retained
-Over $47,999                                     20               
-$43,000 to $47,999                               16               
-$38,000 to $42,999                               12               
-$33,000 to $37,999                               8                
-$28,000 to $32,999                               4                
-Under $28,000                                    0                
+Over $59,999                                     21               
+$54,000 to $59,000                               17               
+$49,000 to $53,999                               13               
+$44,000 to $43,999                               9                
+$39,000 to $43,999                               4                
+Under $39,000                                    0                
 BENEFITS (10 points possible)                                    
 Major medical plan offered                       7                
 Pension, tuition reimbursement, life insurance,
@@ -37722,37 +38084,12 @@ offered
 SUSTAINABILITY                                                   
 Construction uses green building techniques      5                
 (i.e. LEED certification)
-Construction uses techniques to minimize impact  5                
-on combined sewer overflows
 TOTALS                                                           
 LENGTH OF ABATEMENT                                              
 20 to 39 points - 3 year abatement                               
 40 to 59 points - 5 year abatement                               
 60 to 69 points - 7 year abatement                               
 70 to 100 points - 10 year abatement                             
-* If average annual salary of the full-time jobs created by listed occupation
-is 10% or greater than the average salary for Allen County using current
-occupational employment statistics, and is eligible for a 10 or 7 year
-abatement, then the applicant is eligible for an alternate deduction schedule
-10 Year
-Year 1                                                           100%
-Year 2                                                           100%
-Year 3                                                           100%
-Year 4                                                           100%
-Year 5                                                           100%
-Year 6                                                           90%
-Year 7                                                           80%
-Year 8                                                           65%
-Year 9                                                           50%
-Year 10                                                          40%
-7 Year
-Year 1                                                           100%
-Year 2                                                           100%
-Year 3                                                           100%
-Year 4                                                           100%
-Year 5                                                           100%
-Year 6                                                           71%
-Year 7                                                           43%
  
 TAX ABATEMENT SCHEDULES—PERSONAL PROPERTY
 Year Percentage
@@ -37786,11 +38123,11 @@ Year Percentage
 8    20%
 9    10%
 10   5%
- 
 (Ord. G-05-97, passed 4-8-97; Am. Ord. G-23-00, passed 9-12-00; Am. Ord. G-19-
 04, passed 9-14- 04; Am. Ord. G-16-08, passed 12-9-08; Am. Ord. G-1-12, passed
 12-20-11; Am. Ord. G-3-13, passed 2-26-13; Am. Ord. G-22-13, passed 10-8-13;
-Am. Ord. G-18-17, passed 7-25-17; Am. Ord. G-8-18, passed 4-24-18)
+Am. Ord. G-18-17, passed 7-25-17; Am. Ord. G-8-18, passed 4-24-18; Am. Ord. G-
+15-25, passed 8-26-25)
 § 153.21 COMPLIANCE WITH STATEMENT OF BENEFITS AND COMPLIANCE WITH LAW AND
 OTHER REGULATIONS.
    (A)   All deduction applications filed with the Allen County Auditor for
@@ -40209,7 +40546,8 @@ State Cite                  Code Section
 4-21.5-3-7                  94.10
 4-21.5-5                    151.053
 4-21.5-5-5                  116.57
-4-22-2                      93.071
+4-22-2                      38.08,
+                            93.071
 4-32-4-1 et seq. [repealed] 97.23
 5-1-1                       33.161
 5-2-5-7                     37.03
@@ -40224,6 +40562,7 @@ State Cite                  Code Section
 5-14-1.5-5                  32.32
 5-14-1.5-6.1                35.03
 5-14-3 et seq.              38.05
+5-14-3-1 et seq.            38.08
                             37.03,
 5-14-3-8                    41.01,
                             41.04,
@@ -42325,5 +42664,26 @@ G-6-25              5-27-25     33.190 -
                                 33.210 -
                                 33.216
 G-7-25              6-10-25     153.07
+                                53.11,
+G-11-25             7-22-25     53.15,
+                                53.21
+                                53.56,
+G-12-25             8-12-25     53.57,
+                                53.60
+                                52.15,
+                                52.16,
+G-13-25             8-12-25     52.18,
+                                52.22 -
+                                52.28
+                                51.066 -
+                                51.067,
+G-14-25             8-12-25     51.069 -
+                                51.073,
+                                51.074 -
+                                51.078
+G-15-25             8-26-25     153.19,
+                                153.20
+G-17-25             9-9-25      38.07 -
+                                38.10
                                
  
