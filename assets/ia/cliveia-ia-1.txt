@@ -63,6 +63,19 @@ Jul-25     11-2-1(12)(L);          1164     7-24-25 Accessory Dwelling Units
            11-2-1(20)(M);
            11-4-21;
            11-6-11(1)
+Oct-25     11-3-7                  1165     9-11-25 Variances
+           11-4-7                  1166     10-9-25 Commercial Entertainment
+                                                    Uses
+           4-1-5(8)                1167     10-9-25 Liquor Licenses and Wine
+                                                    and Beer Permits
+           4-2                     1168     10-9-25 Cigarette and Tobacco Sales
+           3-1-5(4)(D)(1);         1169     10-9-25 Public Hearing Requirements
+           3-1-5(6)
+           5-7-21                  1170     10-9-25 False Representation of
+                                                    Service Animal
+                                                    September 2025 Addition to
+           3-4                     1171     10-9-25 the Clive Urban Renewal
+                                                    Area
  
 Prepared By:   Local Government Professional Services, Inc.
 DBA Iowa Codification
@@ -1849,11 +1862,13 @@ not related to the proposed property tax amounts and the information in the
 statements shall not be conducted at the public hearing. After all testimony
 has been received and considered, the governing body may decrease, but not
 increase, the proposed property tax amount to be included in the City’s budget.
-         (1)   Notice of the public hearing shall be published not less than 10
-nor more than 20 days prior to the hearing, in a newspaper published at least
-once weekly and having general circulation in the City. However, if the City
-has a population of 200 or less, publication may be made by posting in three
-public places in the City.
+         (1)   Notice of the public hearing shall be published not less than
+four or more than 20 days in a newspaper published at least once weekly and
+having general circulation in the City. However, if the City has a population
+of 200 or less, publication may be made by posting in three public places in
+the City.
+(Code of Iowa, Sec, 24.2A(4)(b)(2))
+(Subparagraph (1) – Ord. 1169 – Oct. 25 Supp.)
          (2)   Notice of the hearing shall also be posted and clearly
 identified on the City’s internet site for public viewing beginning on the date
 of the newspaper publication and shall be maintained on the City’s internet
@@ -1876,16 +1891,17 @@ newspaper to publish the notice.
    5.   Council Review. The Council shall review the proposed budget and may
 make any adjustments it deems appropriate in the budget before accepting such
 proposal for publication, hearing, and final adoption.
-   6.   Notice of Hearing. Following, and not until the requirements of
-Subsection 4 of this section are completed, the Council shall set a time and
-place for public hearing on the budget to be held before April 30 and shall
-publish notice of the hearing not less than 10 nor more than 20 days before the
+   6.   Notice of Hearing. Following, and not until completion of requirements,
+of Subsection 4 of this section, the Council shall set a time and place for
+public hearing on the budget to be held before April 30 and shall publish
+notice of the hearing not less than four or more than 20 days before the
 hearing. A summary of the proposed budget and a description of the procedure
 for protesting the City budget under Section 384.19 of the Code of Iowa, in the
 form prescribed by the Director of the Department of Management, shall be
 included in the notice. Proof of publication of the notice under this
 subsection must be filed with the County Auditor.
-(Code of Iowa, Sec. 384.16[3])
+(Code of Iowa, Sec. 384.16(3))
+(Subsection 6 – Ord. 1169 – Oct. 25 Supp.)
    7.   Copies of Budget on File. Not less than 20 days before the date that
 the budget must be certified to the County Auditor and not less than 10 days
 before the public hearing, the Clerk shall make available a sufficient number
@@ -2208,8 +2224,10 @@ ORDINANCE NO. ADOPTED            NAME OF AREA
                                  Clive Urban Renewal Area
 1139          August 10, 2023    Repealing the 86th Street Addition to the
                                  Clive Urban Renewal Area
-1151          September 26, 2026 Repealing the 2003 (LADCO) Addition to the
+1151          September 26, 2024 Repealing the 2003 (LADCO) Addition to the
                                  Clive Urban Renewal Area
+1171          October 9, 2025    September 2025 Addition to the Clive Urban
+                                 Renewal Area
  
 TITLE 4 - BUSINESS AND LICENSE REGULATIONS
 CHAPTER 1
@@ -2218,7 +2236,7 @@ LIQUOR LICENSES; WINE AND BEER PERMITS
 4-1-1 License or Permit Required 4-1-5 Prohibited Sales and Acts
 4-1-2 General Prohibition        4-1-6 Amusement Devices
 4-1-3 Investigation              4-1-7 Penalty
-4-1-4 Action by Council
+4-1-4 Action by Council           
  
 4-1-1 LICENSE OR PERMIT REQUIRED.
    No person shall manufacture for sale, import, sell, or offer or keep for
@@ -2324,9 +2342,10 @@ liquor in any container except the original package purchased from the Iowa
 Department of Revenue and except mixed drinks or cocktails mixed on the
 premises for immediate consumption. However, mixed drinks or cocktails that are
 mixed on the premises and are not for immediate consumption may be consumed on
-the licensed premises, subject to rules adopted by the Iowa Department of
-Revenue.
-(Code of Iowa, Sec. 123.49[2d])
+the licensed premises, subject to Section 123.49, Subsection 2, Paragraph D,
+Subparagraphs (2), (3), and (4) of the Code of Iowa.
+(Code of Iowa, Sec. 123.49(2)(d)(2), (3), and (4))
+(Subsection 8 – Ord. 1167 – Oct. 25 Supp.)
    9.   Reuse for packaging alcoholic liquor or wine any container or
 receptacle used originally for packaging alcoholic liquor or wine; or
 adulterate, by the addition of any substance, the contents, or remaining
@@ -2387,11 +2406,12 @@ conviction, be subject to the standard penalty as stated in Section
 CHAPTER 2
 CIGARETTE AND TOBACCO SALES
  
-4-2-1 Definitions             4-2-6 Refunds
-4-2-2 Permit Required         4-2-7 Persons Under Legal Age
-4-2-3 Application             4-2-8 Self-Service Sales Prohibited
-4-2-4 Fees                    4-2-9 Permit Revocation
-4-2-5 Issuance and Expiration 4-2-10 Penalty
+4-2-1 Definitions     4-2-7 Expiration
+4-2-2 Permit Required 4-2-8 Refunds
+4-2-3 Application     4-2-9 Persons Under Legal Age
+4-2-4 City Approval   4-2-10 Self-Service Sales Prohibited
+4-2-5 Fees            4-2-11 Permit Revocation
+4-2-6 Issuance        4-2-12 Penalty
  
 4-2-1 DEFINITIONS.
    For purposes of this chapter the following terms are defined:
@@ -2403,38 +2423,35 @@ by any other means. “Alternative nicotine product” does not include cigarett
 tobacco products, or vapor products, or a product that is regulated as a drug
 or device by the United States Food and Drug Administration under Chapter V of
 the Federal Food, Drug, and Cosmetic Act.
-   2.   “Carton” means a box or container of any kind in which 10 or more
-packages or packs of cigarettes or tobacco products are offered for sale, sold,
-or otherwise distributed to consumers.
-   3.   “Cigarette” means any roll for smoking made wholly or in part of
+   2.   “Cigarette” means any roll for smoking made wholly or in part of
 tobacco, or any substitute for tobacco, irrespective of size or shape and
 irrespective of tobacco or any substitute for tobacco being flavored,
-adulterated or mixed with any other ingredient, where such roll has a wrapper
-or cover made of paper or any other material. However, this definition is not
-to be construed to include cigars.
-   4.   “Package” or “pack” means a container of any kind in which cigarettes
-or tobacco products are offered for sale, sold, or otherwise distributed to
-consumers.
-   5.   “Place of business” means any place where cigarettes or tobacco
-products are sold, stored, or kept for the purpose of sale or consumption by a
-retailer.
-   6.   “Retailer” means every person who sells, distributes, or offers for
+adulterated, or mixed with any other ingredient, where such roll has a wrapper
+or cover made of paper or any other material. However, cigarettes shall not be
+construed to include cigars.
+   3.   “Department” means the State Department of Revenue.
+   4.   “Place of business” means any place where cigarettes, tobacco products,
+alternative nicotine products, or vapor products are sold, stored, or kept for
+the purpose of sale or consumption by a retailer.
+   5.   “Retailer” means every person who sells, distributes, or offers for
 sale for consumption, or possesses for the purpose of sale for consumption,
-cigarettes, irrespective of the quantity or amount or the number of sales or
-who engages in the business of selling tobacco products to ultimate consumers.
-   7.   “Self-service display” means any manner of product display, placement,
+cigarettes, alternative nicotine products, or vapor products, irrespective of
+the quantity or amount or the number of sales, or who engages in the business
+of selling tobacco, tobacco products, alternative nicotine products, or vapor
+products to ultimate consumers.
+   6.   “Self-service display” means any manner of product display, placement,
 or storage from which a person purchasing the product may take possession of
 the product, prior to purchase, without assistance from the retailer or
 employee of the retailer, in removing the product from a restricted access
 location.
-   8.   “Tobacco products” means cigars; little cigars; cheroots; stogies;
-periques; granulated, plug cut, crimp cut, ready rubbed and other smoking
-tobacco; snuff; snuff flour; cavendish; cavendish twist tobacco; fine cut and
-other chewing tobaccos; shorts or refuse scraps, clippings, cuttings and
+   7.   “Tobacco products” means the following: cigars; little cigars;
+cheroots; stogies; periques; granulated, plug cut, crimp cut, ready rubbed, and
+other smoking tobacco; snuff; cavendish; plug and twist tobacco; fine-cut and
+other chewing tobaccos; shorts or refuse scraps, clippings, cuttings, and
 sweepings of tobacco; and other kinds and forms of tobacco prepared in such
 manner as to be suitable for chewing or smoking in a pipe or otherwise, or for
 both chewing and smoking, but does not mean cigarettes.
-   9.   “Vapor product” means any noncombustible product, which may or may not
+    8.   “Vapor product” means any noncombustible product, which may or may not
 contain nicotine, that employs a heating element, power source, electronic
 circuit, or other electronic, chemical, or mechanical means, regardless of
 shape or size, that can be used to produce vapor from a solution or other
@@ -2455,49 +2472,58 @@ within the City without a valid permit for each place of business. The permit
 shall, at all times, be publicly displayed at the place of business so as to be
 easily seen by the public and the persons authorized to inspect the place of
 business.
-(Code of Iowa, Sec. 453A.13)
+(Code of Iowa, Sec. 453A.13(1))
    2.   Retail Tobacco Permits. It is unlawful for any person to engage in the
 business of a retailer of tobacco, tobacco products, alternative nicotine
 products, or vapor products at any place of business without first having
 received a permit as a retailer for each place of business owned or operated by
 the retailer.
-(Code of Iowa, Sec. 453A.47A)
-   3.   A retailer who holds a retail cigarette permit is not required to also
-obtain a retail tobacco permit. However, if a retailer only holds a retail
-cigarette permit and that permit is suspended, revoked, or expired, the
-retailer shall not sell any tobacco, tobacco products, alternative nicotine
-products, or vapor products, during such time.
+(Code of Iowa, Sec. 453A.47A(1))
+A retailer who holds a retail cigarette permit is not required to also obtain a
+retail tobacco permit. However, if a retailer only holds a retail cigarette
+permit and that permit is suspended, revoked, or expired, the retailer shall
+not sell any tobacco, tobacco products, alternative nicotine products, or vapor
+products, during such time.
+(Code of Iowa, Sec. 453A.47A(4))
 4-2-3 APPLICATION.
-   A completed application on forms provided by the State Department of Revenue
-or on forms made available or approved by the Department and accompanied by the
-required fee shall be filed with the Clerk. Renewal applications shall be filed
-at least five days prior to the last regular meeting of the Council in June. If
-a renewal application is not timely filed, and a special Council meeting is
-called to act on the application, the costs of such special meeting shall be
-paid by the applicant.
-(Code of Iowa, Secs. 453A.13 and 453A.47A)
-4-2-4 FEES.
+   A retailer shall submit to the department an application on forms furnished
+by the department, accompanied by the required fees and adequate bond as
+provided in Section 453A.14, of the Code of Iowa. Applications, any supporting
+documentation, and the associated fees shall be submitted electronically to the
+department.
+(Code of Iowa, Sec. 453A.13(5))
+4-2-4 CITY APPROVAL.
+   The City may approve retail permit applications for applicants with a place
+of business within the City limits. The City shall use the electronic portal of
+the department to process retail permit applications. Upon approval of a retail
+permit application by the City the department shall issue the permit to the
+applicant on behalf of the City.
+(Code of Iowa, Sec. 453A.13(2))
+4-2-5 FEES.
    The fee for a retail cigarette or tobacco permit shall be as follows:
-(Code of Iowa, Secs. 453A.13 and 453A.47A)
+(Code of Iowa, Sec. 453A.13(3)(b) and 453A.47A(7))
  
 For Permits Granted During     Fee
-July, August, or September     $100.00 (the annual fee)
-October, November, or December 3/4 of the annual fee
-January, February, or March    1/2 of the annual fee
-April, May, or June            1/4 of the annual fee
+July, August, or September     $100.00
+October, November, or December $75.00
+January, February, or March    $50.00
+April, May, or June            $25.00
  
-4-2-5 ISSUANCE AND EXPIRATION.
-   Upon proper application and payment of the required fee, a permit shall be
-issued. Each permit issued shall describe clearly the place of business for
-which it is issued and shall be nonassignable. All permits expire on June 30 of
-each year. The Clerk shall submit a duplicate of any application for a permit
-to the Iowa Department of Revenue within 30 days of issuance of a permit.
-4-2-6 REFUNDS.
-   A retailer may surrender an unrevoked permit and receive a refund from the
+4-2-6 ISSUANCE.
+   Each permit issued shall describe clearly the place of business for which it
+is issued and shall be nonassignable.
+(Code of Iowa, Sec. 453A.13(9))
+4-2-7 EXPIRATION.
+   All permits shall expire on June 30 of each year. A permit shall not be
+granted or issued until the applicant has paid the fees to the department for
+the next period ending on June 30.
+(Code of Iowa, Sec. 453A.13(3)(a))
+4-2-8 REFUNDS.
+    A retailer may surrender an unrevoked permit and receive a refund from the
 City, except during April, May, or June, in accordance with the schedule of
 refunds as provided in Section 453A.13 or 453A.47A of the Code of Iowa.
-(Code of Iowa, Secs. 453A.13 and 453A.47A)
-4-2-7 PERSONS UNDER LEGAL AGE.
+(Code of Iowa, 453A.13(4) and 453A.47A(8))
+4-2-9 PERSONS UNDER LEGAL AGE.
    A person shall not sell, give, or otherwise supply any tobacco, tobacco
 products, alternative nicotine products, vapor products, or cigarettes to any
 person under 21 years of age. The provision of this section includes
@@ -2527,14 +2553,14 @@ The Clerk shall give 10 days’ written notice to the retailer by mailing a copy
 of the notice to the place of business as it appears on the application for a
 permit. The notice shall state the reason for the contemplated action and the
 time and place at which the retailer may appear and be heard.
-(Code of Iowa, Sec. 453A.2, 453A.22, and 453A.36[6])
-4-2-8 SELF-SERVICE SALES PROHIBITED.
+(Code of Iowa, Sec. 453A.2, 453A.22, and 453A.36(6))
+4-2-10 SELF-SERVICE SALES PROHIBITED.
    Except for the sale of cigarettes through a cigarette vending machine as
 provided in Section 453A.36(6) of the Code of Iowa, a retailer shall not sell
-or offer for sale cigarettes or tobacco products, in a quantity of less than a
-carton, through the use of a self-service display.
+or offer for sale tobacco, tobacco products, alternative nicotine products,
+vapor products, or cigarettes through the use of a self-service display.
 (Code of Iowa, Sec. 453A.36A)
-4-2-9 PERMIT REVOCATION.
+4-2-11 PERMIT REVOCATION.
    Following a written notice and an opportunity for a hearing, as provided by
 the Code of Iowa, the Council may also revoke a permit issued pursuant to this
 chapter for a violation of Division I of Chapter 453A of the Code of Iowa or
@@ -2543,15 +2569,15 @@ issued to the permit holder for any place of business, or to any other person
 for the place of business at which the violation occurred, until one year has
 expired from the date of revocation, unless good cause to the contrary is shown
 to the Council. The Clerk shall report the revocation or suspension of a retail
-permit to the Alcoholic Beverages Division of the Department of Commerce within
-30 days of the revocation or suspension.
+permit to the department within 30 days of the revocation or suspension.
 (Code of Iowa, Sec. 453A.22)
-4-2-10 PENALTY.
+4-2-12 PENALTY.
    Unless another penalty is expressly provided by this chapter for any
 particular provision or section, any person violating any provision of this
 chapter or any rule or regulation adopted herein by reference shall, upon
 conviction, be subject to the standard penalty as stated in Section
 1-4-1.
+(Title 4, Chapter 2 – Ord. 1168 – Oct. 25 Supp.)
 CHAPTER 3
 SOLICITORS AND MOBILE FOOD UNITS
  
@@ -5566,9 +5592,9 @@ ANIMAL PROTECTION AND CONTROL
 5-7-8 Annoyance or Disturbance         5-7-19 Tampering with an Electronic
                                        Handling Device
 5-7-9 Rabies Vaccination               5-7-20 Penalty
-5-7-10 Duty to Report Animal Biting or
-Attacking Person
-5-7-11 Confinement
+5-7-10 Duty to Report Animal Biting or 5-7-21 False Representation of Service
+Attacking Person                       Animal
+5-7-11 Confinement                      
  
 5-7-1 DEFINITIONS.
    For purposes of this chapter the following terms are defined:
@@ -5992,6 +6018,16 @@ particular provision or section, any person violating any provision of this
 chapter or any rule or regulation adopted herein by reference shall, upon
 conviction, be subject to the standard penalty as stated in Section
 1-4-1.
+5-7-21    FALSE REPRESENTATION OF SERVICE ANIMAL.
+   A person commits the offense of intentional misrepresentation of an animal
+as a service animal or a service-animal-in-training if, for the purpose of
+obtaining any of the rights or privileges set forth in State or federal law,
+the person intentionally misrepresents an animal in one’s possession as one’s
+service animal or service-animal-in-training or a person with a disability’s
+service animal or service-animal-in-training whom the person is assisting by
+controlling.
+(Code of Iowa, Section 216C.11(3)(B))
+(Section 5-7-21 – Ord. 1170 – Oct. 25 Supp.)
 CHAPTER 7A
 DANGEROUS DOGS AND OTHER DANGEROUS ANIMALS
  
@@ -22072,7 +22108,7 @@ within this 36-inch clear zone shall be trimmed or manicured as to not allow
 these items as an aid to climb the barrier. See
 Figure 10-10-13B.2d.
 Figure 10-10-13B.2d
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3003.png]
          (4)   The swimming pool side of the required barrier shall be not less
 than 24 inches from the water’s edge. Required setbacks from property lines
@@ -22092,7 +22128,7 @@ in width. Where there are decorative cutouts within vertical members, spacing
 within the cutouts shall not exceed one and three-quarters inches in width. See
 Figure 10-10-13B.3.a1
 Figure 10-10-13B.3.a1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3005.png]
          (2)   Where the barrier is composed of horizontal and vertical members
 and the distance between the tops of the horizontal member is 45 inches or
@@ -22101,7 +22137,7 @@ there are decorative cutouts within vertical members, spacing within the
 cutouts shall not exceed one and three-quarters inches in width. See
 Figure 10-10-13b.3.a2
 Figure 10-10-13b.3.a2
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3007.png]
          (3)   Solid Barriers. Solid barriers that do not have openings shall
 not contain indentations or protrusions that form handholds and footholds,
@@ -22139,7 +22175,7 @@ least 54 inches above grade, if it is located on the side of the gate away from
 the swimming pool. See
 Figure 10-10-13.4a
 Figure 10-10-13.4a
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3001.png]
             b.   The self-latching and release mechanism may be located below
 54 inches, if it is located on the swimming pool side of the gate and the gate
@@ -23267,7 +23303,7 @@ of a flat roof, or to the deck of a mansard roof, or to mean height level
 between eaves and ridge for gable, hip, and gambrel roofs. On a corner lot, the
 height is the mean vertical distance from the average natural grade at the
 building line from the higher of the two grades.
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3009.png]
  
       U.   “Building Mounted WES” means a wind turbine that is mounted to any
@@ -23844,7 +23880,7 @@ which is substantially a continuation of the front lot line of the first
 interior lot to its rear. See
 Figure 11-2-1.2 of this section.
 Figure 11-2-1.2
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3011.png]
  
       K.   “Lowest floor” means the floor of the lowest enclosed area in a
@@ -24489,7 +24525,7 @@ yard and measured between the side lot lines and the building or any
 projections thereof. See
 Figure 11-2-1.3 of this definition.
 Figure 11-2-1.3
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3013.png]
  
    26.   Words beginning with “Z.”
@@ -24617,14 +24653,50 @@ forecasting the student, staff, and facility needs over an approximately 10-
 year period shall be provided.
 (Parapgraph E – Ord. 1156 – Feb. 25 Supp.)
 11-3-7 VARIANCES.
-   1.   Application Requirements. Application for variance from the terms of
+   1.   Variance Related to Use.
+      A.   Application Requirements. Application for variance from the terms of
 this chapter will not be contrary to the public interest where, owing to
 special conditions, a literal enforcement of the provisions of this chapter
 would result in unnecessary hardship, and so that the spirit of this chapter
 shall be observed and substantial justice done. No nonconforming use of
 neighboring lands, structures, or buildings in other districts shall be
 considered grounds for the issuance of a variance.
-   2.   Resubmittal After Changes. In the event a variance is granted under the
+      B.   Conditions for Granting. Variances related to use shall only be
+granted upon:
+         (1)   A showing of good and sufficient cause; and
+         (2)   A determination that failure to grant the variance would result
+in a substantial hardship to the applicant; and
+         (3)   A determination that the substantial hardship is not self-
+imposed; and
+         (4)   A determination that the granting of the variance will not be
+contrary to the public interest or the neighborhood integrity; and
+         (5)   A determination that the granting of a variance is the minimum
+necessary to afford relief from this chapter while preserving the spirit of the
+zoning ordinance.
+   2.   Variance Related to Dimensional Requirements.
+      A.   Application Requirements. Application for variance from the terms of
+this chapter with respect to the area, dimensional, or other numerical
+limitations, will not be contrary to the public interest where, owing to
+special conditions, a literal enforcement of the provisions of this chapter
+would result in practical difficulties to the property owner in making a
+beneficial use of the property allowed by the zoning ordinance, and so that the
+spirit of this chapter shall be observed and substantial justice done. No
+nonconforming use of neighboring lands, structures, or buildings in other
+districts shall be considered grounds for the issuance of a variance.
+      B.   Conditions for Granting. Variances related to dimensional
+requirements shall only be granted upon:
+         (1)   A showing of good and sufficient cause; and
+         (2)   A determination that failure to grant the variance would result
+in practical difficulties to the applicant; and
+         (3)   A determination that the practical difficulties faced are unique
+to the property; and
+         (4)   A determination that the practical difficulties faced are not
+self-imposed; and
+         (5)   A determination that the practical difficulties cannot be
+alleviated by a feasible method other than a variance; and
+         (6)   A determination that the granting of a variance will not
+significantly alter the essential character of the surrounding neighborhood.
+   3.   Resubmittal After Changes. In the event a variance is granted under the
 terms of this chapter, any changes thereafter in the approved use or site plan
 shall be resubmitted and considered in the same manner as the original
 proposal. Before granting a variance, the Board of Adjustment shall make
@@ -24632,22 +24704,13 @@ findings that the applicant has met the requirements of this chapter, and the
 Board of Adjustment shall further find that the reasons set forth in the
 application justify the granting of variance. The burden shall be upon those
 seeking the variance to establish their entitlement to the requested variance.
-   3.   Conditions for Granting. Variances shall only be granted upon:
-      A.   A showing of good and sufficient cause; and
-      B.   A determination that failure to grant the variance would result in a
-substantial hardship to the applicant; and
-      C.   A determination that the hardship is not self-imposed; and
-      D.   A determination that the granting of the variance will not be
-contrary to the public interest or neighborhood integrity; and
-      E.   A determination that the granting of a variance is the minimum
-necessary to afford relief from this chapter while preserving the spirit of the
-zoning ordinance.
    4.   Conditions and Safeguards. In granting any variance, the Board of
 Adjustment may prescribe appropriate conditions and safeguards in conformity
 with this chapter. Violation of such conditions and safeguards, when made a
 part of the terms under which the variance is granted, shall be deemed a
-violation of this chapter and punishable underSection
+violation of this chapter and punishable under Section
 11-1-7 of this title.
+(Section 11-3-7 – Ord. 1165 – Oct. 25 Supp.)
 11-3-8 INTERPRETIVE REVIEW.
    The Board shall review appeals where it is alleged there is an error in any
 order, requirement, decision, or determination made by the Community
@@ -24830,7 +24893,7 @@ or lesser dimensions may be required based upon the current standards of the
 Institute of Transportation Engineers or the Association of American State
 Highway Officials.
 Figure 11-4-5.1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3015.png]
  
 11-4-6 STREET FRONTAGE.
@@ -24843,7 +24906,7 @@ street may be used to satisfy this requirement in unique circumstances.
    Accessory buildings require a permit and a fee in an amount determined, from
 time to time, by resolution of the Council.
 Figure 11-4-7.1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3017.png]
  
    1.   Accessory Building, Large. A building greater than 75 square feet
@@ -24964,7 +25027,7 @@ fences up to six feet in height may be permitted, provided a 20-foot setback is
 preserved in the secondary front yard, and no landscape buffer exists. See
 figure 11-4-8.3 of this section.
 Figure 11-4-8.3
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3019.png]
  
          (4)   Corner Lots. In the case of fences in corner lots, fences not
@@ -24975,7 +25038,7 @@ street forming the secondary front property line, fences may be permitted up to
 the property line in the secondary front yard, provided no landscaping buffer
 exists. Such fences may be up to six feet in height.
 Figure 11-4-8.4
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3021.png]
  
          (5)   Ornamental Fence Restrictions. In the following streets, as
@@ -25078,7 +25141,7 @@ in Section
 provide the required parking as outlined in Section
 11-13-8 of this title.
 Figure 11-4-9.1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3023.png]
  
    4.   Sound Systems. Commercial establishments using an outdoor sound system
@@ -25119,7 +25182,7 @@ This shall not prohibit the construction of a permitted driveway to support
 access to a garage, plus one additional parking stall or required sidewalks and
 walkways.
 Figure 11-4-10.1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3025.png]
  
 11-4-11 SPECIAL EVENTS.
@@ -26527,7 +26590,7 @@ Bakeries                                                 P   P      C    
 Banks                                                    P   P   P   P   P
 Building material sales yard, lumberyard                    P         P
 Childcare, including daycare                             P   P   A   A    
-Commercial entertainment                                 P   P         P
+Commercial entertainment                                 P   P      P   P
 Consumer fireworks sales                                 P   P   P   P   P
 Convenience stores/gas stations                          P   P      P   P
 Dance studio                                             P   P      P    
@@ -26574,7 +26637,7 @@ C = Conditional
 A = Auxiliary
 SP = Special Permitted Use
  
-(Section 11-7-4 – Ord. 1156 – Feb. 25 Supp.)
+(Section 11-7-4 – Ord. 1166 – Oct. 25 Supp.)
 11-7-5 BAKERIES.
    Bakeries, including, but not limited to, other organic food processing uses,
 shall be permitted, provided that the retail sales area shall be within 100
@@ -28032,7 +28095,7 @@ frontage and desires to place a sign on the elevation that faces a street
 frontage, the maximum allowable sign area allowed to be displayed by all
 tenants on the public street facing frontage shall be limited to the total
 building sign area allowed per this subsection.
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3037.png]
 Figure 11-12-6A
                         Figure 11-12-6B
@@ -28098,11 +28161,11 @@ frame the sign area. See
 Figure 11-12-7B1 and
 Figure 11-12-7B2 of this subsection for additional details.
 Figure 11-12-7B1
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3035.png]
  
 Figure 11-12-7B2
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3033.png]
  
    3.   Sign Area. No more than 75 square feet of ground-mounted sign area
@@ -28139,7 +28202,7 @@ change in vertical distance greater than five feet. In
 Figure 11-12-7(E) of this subsection, the sign height would be calculated at
 eight feet in height.
 Figure 11-12-7E
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3031.png]
  
    6.   Monolithic or Columnar Line. Ground-mounted signs shall have a
@@ -28182,14 +28245,14 @@ ROW, or be within 300 feet of the interstate ROW.
 Figure 11-12-8A of this subsection for a graphic representation of the
 properties granted an interstate ground-mounted sign.
 Figure 11-12-8A
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3029.png]
  
    4.   Height. The maximum height of an interstate sign shall be 30 feet above
 the interstate road grade. See
 Figure 11-12-8B of this subsection.
 Figure 11-12-8B
-[https://export.amlegal.com/media/a6354efc1aa037fd7a2fb8c96d7079e0ce7b94de/
+[https://export.amlegal.com/media/ee080a30af8d1feaab665e14a4586953783ef514/
 IMAGES/0-0-0-3027.png]
  
    5.   Location. An interstate ground mounted sign must be located within 50
