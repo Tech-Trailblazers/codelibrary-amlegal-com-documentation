@@ -83,6 +83,12 @@ Sep-24                             122 to 143          Not Used
           65.04                    148        2-7-24   Yield Required
           65.05                    149        2-7-24   School Stops
           15.02(1); 17.05; Ch. 25  150        8-7-24   City Administrator
+Sep-25    Ch. 93                   151        1-8-25   Well Protection
+          106.08                   152        1-8-25   Collection Fees
+          47.05                    153        4-16-25  Alcoholic Beverages in
+                                                       Parks
+          92.02                    154        7-16-25  Water Rates
+          99.02                    155        7-16-25  Sewer Service Charges
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -2822,7 +2828,19 @@ substance in any area or receptacle except those provided for that purpose.
 47.05   ALCOHOLIC BEVERAGES IN PARKS.
 No person shall display, possess, or consume beer (keg or bottled), wine
 (including wine coolers), hard liquor, or any other alcoholic beverages in
-Erickson Park, Jacobson Bear Creek Park, or the City softball facilities.
+Erickson Park, Jacobson Bear Creek Park, or the City softball facilities,
+except when:
+1.   Alcoholic beverages are served under a liquor license or a wine and beer
+permit approved by the Council and the Alcoholic Beverages Division;
+2.   All alcohol is dispensed by persons with the training required by the
+Alcoholic Beverages Division under State laws and regulation;
+3.   The area is identified or delineated as the area for consumption of
+alcoholic beverages in the permit and where all dispensed alcohol is sold and
+consumed in the delineated area covered by the permit; and
+4.   Where the entity holding the liquor license provides proof of dram shop
+insurance naming the City of Roland, Iowa as an additional insured on the
+policy.
+(Section 47.05 – Ord. 153 – Sep. 25 Supp.)
 47.06   PARK HOURS.
 All City parks are open to the public from 6:00 a.m. to 10:30 p.m. Only
 employees or emergency personnel, including fire, police and utility workers,
@@ -5568,40 +5586,34 @@ a separate and distinct customer whether owned or controlled by the same person
 or not.
 (Code of Iowa, Sec. 384.84)
 92.02   RATES AND SERVICE.
-Water service shall be furnished at the following monthly rates within the City
-beginning July 2020:
+Water service shall be furnished at the following monthly rates within the
+City:
 (Code of Iowa, Sec. 384.84)
-1.   Metered Service.
-   A.   First 100 cubic feet used per month @ $17.98 (minimum bill).
-   B.   All over 100 cubic feet used per month @ $4.61 per 100 cubic feet.
-2.   Unmetered Service. $22.97 per month plus $4.61 per month per person
-residing on the premises.
-3.   There will be an automatic 2% increase every fiscal year starting 7/2021
-to ensure the utility systems can meet their obligations.
+1.   Metered Service. Metered service usage shall be at the following rates:
+   A.   35.00% increase July 1, 2025 first 100 cubic feet used per month @
+$26.27 (minimum bill).
+   B.   All over 100 cubic feet used per month @ $6.74 per 100 cubic feet.
+   C.   25.00% increase July 1, 2026 frist 100 cubic feet used per month @
+$32.84 (minimum bill).
+   D.   All over 100 cubic feet used per month @ $8.42 per 100 cubic feet.
+2.   Unmetered Service. July 1, 2025 $33.57 per month plus $6.74 per month per
+person residing on the premises. July 1, 2026 $41.97 per month plus $8.43 per
+month per person residing on the premises.
+3.   There will be an automatic 4.00% increase every fiscal year starting 7/1/
+2027 to ensure the utility systems can meet their obligations.
  
-Year   Minimum (first 100 CF) 100 after Unmetered 100 after
-7/2021 $18.34                 $4.70     $23.43    $4.70
-7/2022 $18.71                 $4.79     $23.90    $4.79
-7/2023 $19.08                 $4.89     $24.38    $4.89
-7/2024 $19.46                 $4.99     $24.87    $4.99
-(Subsection 3 – Ord. 113 – Sep. 20 Supp.)
-(Section 92.02 – Ord. 110 – Sep. 20 Supp.)
+Year     Minimum (first 100 CF) 100 After Unmetered Per person at resident
+7/1/2027 $34.15                 $8.76     $43.65    $8.77
+7/1/2028 $35.52                 $9.12     $45.39    $9.12
+7/1/2029 $36.94                 $9.48     $47.21    $9.48
+7/1/2030 $38.42                 $9.86     $49.10    $9.86
+7/1/2031 $39.96                 $10.25    $51.06    $10.25
+ 
 4.   Surcharge for Deduct Meter. When a deduct meter has been installed in
 accordance with the requirements of Section
-90.20 of this Code of Ordinances, there shall be added to the water service
-charges described Section
+90.20, there shall be added to the water service charges described Section
 92.02(1)(B).
-(Subsection 4 – Ord. 112 – Sep. 20 Supp.)
-5.   There will be an automatic 2% increase every fiscal year starting 7/2021
-to ensure the utility systems can meet their obligations.
- 
-Year   Minimum (first 100 CF) 100 (after)
-7/2021 $4.70                  $4.70
-7/2022 $4.79                  $4.79
-7/2023 $4.89                  $4.89
-7/2024 $4.99                  $4.99
- 
-(Subsection 5 – Ord. 119 – Aug. 21 Supp.)
+(Section 92.02 – Ord. 154 – Sep. 25 Supp.)
 92.03   RATES OUTSIDE THE CITY.
 Water service shall be provided to any customer located outside the corporate
 limits of the City which the City has agreed to serve at the same rates
@@ -5743,6 +5755,184 @@ for the rental unit. In the event the property owner fails to notify City Hall
 of the “Change in Use” of the rental unit and the change is discovered by the
 City, all charges will be retroactively enforced and billed to the property
 owner.
+CHAPTER 93
+WELL PROTECTION
+ 
+93.01 Definitions 93.03 Exceptions
+93.02 Application 93.04 Nonconforming Uses
+ 
+93.01   DEFINITIONS.
+The following terms are defined as used in this chapter:
+1.   “Aquifer” means a rock formation, group of rock formations, or part of a
+rock formation that contains enough saturated permeable materials to yield
+significant quantities of water.
+2.   “Contamination” means the presence of any harmful or deleterious
+substances in the water supply.
+3.   “Deep public well” means a public well located and constructed in such a
+manner that there is a continuous layer of low permeability soil or rock at
+least five feet thick located at least 25 feet below the normal ground surface
+and above the aquifer from which the water is drawn.
+4.   “Shallow public well” means a public well located and constructed in such
+a manner that there is not a continuous layer of low permeability soil or rock
+at least five feet thick located at least 25 feet below the normal ground
+surface and above the aquifer from which the water is drawn.
+5.   “Well” means a pit or hole sunk into the earth to reach a resource supply
+such as water.
+93.02   APPLICATION.
+No structure or facility of the enumerated types set out in the following Table
+A shall be located within the distances set forth in said Table from public
+wells within the City.
+93.03   EXCEPTION.
+Proscriptions set forth in Table A apply to all public water wells existing
+within the City except public water wells formerly abandoned for use by
+resolution of the Council.
+93.04   NONCONFORMING USES.
+The use of structures or facilities existing as of the date of adoption of the
+ordinance codified in this chapter may be continued even though such use may
+not conform to the regulations in this chapter; in other words, such uses may
+be located within the distances set forth. However, such structure or facility
+that is not in conformance with the terms of this chapter may not be enlarged,
+extended, reconstructed, or substituted subsequent to the such date.
+TABLE A: SEPARATION DISTANCES
+SOURCE OF     REQUIRED MINIMUM LATERAL DISTANCE FROM WELL AS HORIZONTAL ON THE GROUND
+CONTAMINATION SURFACE, IN FEET
+              Deep Well 1                          Shallow Well 1
+WASTEWATER STRUCTURES:
+Point of Discharge to Ground Surface
+Sanitary and
+industrial    400                                  400
+discharges
+Water
+Treatment     50                                   50
+Plant Wastes
+Well house    5                                    5
+floor drains
+Sewers and Drains 2
+Sanitary and  0 – 25 feet: prohibited            0 – 25 feet: prohibited
+storm sewers, 25 – 75 feet if water main pipe    25 – 75 feet if water main pipe
+drains        75 – 200 feet if sanitary sewer pip75 – 200 feet if sanitary sewer main pipe
+              0 – 75 feet: prohibited            0 – 75 feet: prohibited
+Sewer force   75 – 400 feet if water main pipe   75 – 400 feet if water main pipe
+mains         400 – 1,000 feet if sanitary sewer 400 – 1,000 feet if sanitary sewer main
+              pipe                                 pipe
+Water plant
+treatment
+process       0 – 5 feet: prohibited             0 – 5 feet: prohibited
+wastes that   5 – 50 feet if sanitary sewer pipe 5 – 50 feet if sanitary sewer main pipe
+are treated
+onsite
+Water plant   0 – 25 feet: prohibited            0 – 25 feet: prohibited
+wastes to     25 – 75 feet if water main pipe    25 – 75 feet if water main pipe
+sanitary      75 – 200 feet if sanitary sewer pip75 – 200 feet if sanitary sewer main pipe
+sewer
+Well house    0 – 25 feet: prohibited            0 – 25 feet: prohibited
+floor drains  25 – 75 feet if water main pipe    25 – 75 feet if water main pipe
+to sewer      75 – 200 feet if sanitary sewer pip75 – 200 feet if sanitary sewer main pipe
+Well house    0 – 5 feet: prohibited             0 – 5 feet: prohibited
+floor drains  5 – 50 feet if sanitary sewer pipe 5 – 50 feet if sanitary sewer main pipe
+to surface
+Land Disposal of Treated Wastes
+Irrigation of 200                                  400
+wastewater
+Land
+application   200                                  400
+of solid
+wastes 3
+Other
+Cesspools and
+earth pit     200                                  400
+privies
+Concrete
+vaults and    100                                  200
+septic tanks
+Lagoons       400                                  1,000
+Mechanical
+wastewater    200                                  400
+treatment
+plants
+Soil
+absorption    200                                  400
+fields
+CHEMICALS:
+Chemical
+application   100                                  200
+to ground
+surface
+Chemical &
+mineral       100                                  200
+storage above
+ground
+Chemical &
+mineral       200                                  400
+storage on or
+under ground
+Transmission
+pipelines
+(such as
+fertilizer,   200                                  400
+liquid
+petroleum, or
+anhydrous
+ammonia)
+ANIMALS
+Animal        50                                   50
+pasturage
+Animal        200                                  400
+enclosure
+Earthen
+silage        100                                  200
+storage
+trench or pit
+Animal Wastes
+Land
+application   200                                  400
+of liquid or
+slurry
+Land
+application   200                                  400
+of solids
+Solids        200                                  400
+stockpile
+Storage basin 400                                  1,000
+or lagoon
+Storage tank  200                                  400
+MISCELLANEOUS
+Basements,    10                                   10
+pits, sumps
+Cemeteries    200                                  200
+Cisterns      50                                   100
+Flowing
+streams or    50                                   50
+other surface
+water bodies
+GHEX loop     200                                  200
+boreholes
+Railroads     100                                  200
+Private wells 200                                  400
+Solid waste
+landfills and 1,000                                1,000
+disposal
+sites 4
+ 
+1 Deep and shallow wells, as defined in IAC 567-40.2(455B): A deep well is a
+well located and constructed in such a manner that there is a continuous layer
+of low permeability soil or rock at least five feet thick located at least 25
+feet below the normal ground surface and above the aquifer from which water is
+to be drawn. A shallow well is a well located and constructed in such a manner
+that there is not a continuous layer of low permeability soil or rock (or
+equivalent retarding mechanism acceptable to the department) at least five feet
+thick, the top of which is located at least 25 feet below the normal ground
+surface and above the aquifer from which water is to be drawn.
+2 The separation distances are dependent upon two factors: the type of piping
+that is in the existing sewer or drain, as noted in the table, and that the
+piping was properly installed in accordance with the standards.
+3 Solid wastes are those derived from the treatment of water or wastewater.
+Certain types of solid wastes from water treatment processes may be land-
+applied within the separation distance on an individual, case-by-case basis.
+4 Solid waste means garbage, refuse, rubbish, and other similar discarded solid
+or semisolid materials, including but not limited to such materials resulting
+from industrial, commercial, agricultural, and domestic activities.
+(Chapter 93 – Ord 151 – Sep. 25 Supp.)
 CHAPTER 95
 SANITARY SEWER SYSTEM
  
@@ -6343,23 +6533,25 @@ City:
 (Code of Iowa, Sec. 384.84)
 1.   Metered Service.
    A.   First 100 cubic feet used per month beginning on:
-      December 1, 2018    $40.00 (Minimum Bill)
+      July 1, 2025,    $42.84 (minimum bill)
    B.   All over 100 cubic feet used per month beginning on:
-      December 1, 2018   $11.50 per 100 cubic feet
+      July 1, 2025,   $13.47 (minimum bill)
 2.   Unmetered Service beginning on:
-   A.   December 1, 2018   $41.00 per month plus $12.50 per month per person
+   A.   July 1, 2025, $43.89 per month plus $14.52 per month per person
 residing on the premises.
-(Sec. 99.02 – Ord. 107 – Jul. 19 Supp.)
-3.   There will be an automatic .5% increase every fiscal year starting 7/2021
-to ensure the utility systems can meet their obligations.
+3.   There will be an automatic 5.00% increase January 1, 2026, and then
+another automatic .5% increase every fiscal year starting 7/2026 to ensure the
+utility systems can meet their obligations.
+Year     Minimum (first 100 CF) 100 (after) Unmetered Per person at resident
+1/1/2026 $44.98                 $14.15      $46.08    $15.25
+7/1/2026 $47.23                 $14.85      $48.39    $16.01
+7/1/2027 $49.59                 $15.59      $50.81    $16.81
+7/1/2028 $52.07                 $16.37      $53.35    $17.65
+7/1/2029 $54.68                 $17.19      $56.02    $18.53
+7/1/2030 $57.41                 $18.05      $58.82    $19.46
+7/1/2031 $60.28                 $18.96      $61.76    $20.43
  
-Year   Minimum (first 100 CF) 100 (after) Unmetered Per person at resident
-7/2021 $40.20                 $11.56      $41.20    $12.56
-7/2022 $40.40                 $12.16      $41.40    $13.16
-7/2023 $40.60                 $12.77      $41.60    $13.77
-7/2024 $40.80                 $12.83      $41.80    $13.83
- 
-(Subsection 3 – Ord. 119 – Aug. 21 Supp.)
+(Section 99.02 – Ord. 155 – Sep. 25 Supp.)
 99.03   SPECIAL RATES.
 Where, in the judgment of the Superintendent and the Council, special
 conditions exist to the extent that the application of the sewer charges
@@ -6730,7 +6922,7 @@ there shall be levied and collected fees therefor in accordance with the
 following:
 (Goreham vs. Des Moines, 1970, 179 NW 2nd, 449)
 1.   Fee for Collection. The fee for solid waste collection and disposal
-service, used or available, is $14.25 per month per residential premises.
+service, used or available, is $13.85 per month per residential premises.
 2.   Landfill Assessment Fee. A landfill assessment fee of $3.75 per premises
 shall be charged to all accounts regardless of the volume of waste generated.
 3.   Payment of Bills. All fees are due and payable under the same terms and
@@ -6741,6 +6933,7 @@ discontinued in accordance with the provisions contained in Section
 92.05 if the combined service account becomes delinquent, and the provisions
 contained in Section
 92.08 relating to lien notices shall also apply in the event of a delinquent
+(Section 106.08 – Ord. 152 – Sep. 25 Supp.)
 106.09   LIEN FOR NONPAYMENT.
 The owner of the premises served and any lessee or tenant thereof are jointly
 and severally liable for fees for solid waste collection and disposal. Fees
