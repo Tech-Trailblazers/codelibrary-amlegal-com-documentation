@@ -1,7 +1,7 @@
 BROOKLYN PARK, MN
 CODE OF ORDINANCES
-2025 S-96 Supplement contains:
-Local legislation current through June 30, 2025
+2025 S-97 Supplement contains:
+Local legislation current through October 13, 2025
  
 Published by:
 American Legal Publishing
@@ -435,7 +435,8 @@ TITLE III: ADMINISTRATION
 40.   OPERATIONS AND MAINTENANCE DEPARTMENT
          
 41.   BACKGROUND CHECKS
-         42.   PREVAILING WAGE REQUIRED
+         
+42.   PREVAILING WAGE REQUIRED
 CHAPTER 30: CITY COUNCIL
 Section
 General Provisions
@@ -18853,12 +18854,13 @@ public interest and for the public good.
    The following words, terms and phrases, when used in this section, shall
 have the meanings ascribed to them in this section, except where the context
 clearly indicates a different meaning.
-   APPLICANT. An entity with a license issued by the OCM that is applying for
-an initial registration or for registration renewal.
+   APPLICANT. An entity with a preliminary license approval, license, or other
+applicable written approval issued by the OCM that is applying for an initial
+registration or for registration renewal.
    CANNABIS BUSINESS. As defined in M.S. § 342.01.
    CANNABIS RETAILER. A business with a cannabis retailer license or cannabis
 retail endorsement from the OCM.
-   LOWER-POTENCY HEMP EDIBLE RETAILER. A business with a lower- potency hemp
+   LOWER-POTENCY HEMP EDIBLE RETAILER. A business with a lower-potency hemp
 edible retailer license from the OCM.
    OCM. The Minnesota Office of Cannabis Management.
    POTENTIAL LICENSEE. An entity that has not received a license from the OCM
@@ -18867,24 +18869,19 @@ and is seeking a prelicense certification.
 register with the city under M.S. § 342.22. Including cannabis businesses and
 lower-potency hemp edible retailers.
    THE ACT. M.S. Chapter 342, as it may be amended from time to time.
-(Ord. 2024-1307, passed 12-9-24)
+(Ord. 2024-1307, passed 12-9-24; Am. Ord. 2025-1318, passed 10-13-25)
 § 127.03 PRE-LICENSE CERTIFICATION OF CANNABIS BUSINESSES.
    (A)   The City Manager, or their designee, is authorized to certify whether
 a proposed cannabis business complies with the city’s zoning ordinances, this
 chapter, and if applicable, with State Fire Code and Building Code pursuant to
 M.S. § 342.13.
-   (B)   Potential licensees are responsible for obtaining all necessary zoning
-approvals prior to the city receiving the request for certification from the
-OCM. If a potential licensee fails to obtain necessary zoning approvals prior
-to the city receiving a request for certification, the city will inform the OCM
-that the potential licensee does not meet zoning and land use laws. If, at the
-time the city receives a request for zoning certification, there are no further
-intended alterations to the building where the business is to be conducted, the
-city will also certify compliance with building and fire code regulations,
-provided that the potential licensee has obtained inspections prior the city’s
-receipt of a request for certification from the OCM. Building and fire code
-inspections will be valid for one year from completion.
-(Ord. 2024-1307, passed 12-9-24)
+   (B)   Potential licensees are responsible for obtaining all necessary
+zoning, land use, and State Fire and Building Code approvals prior to the city
+receiving the request for certification from the OCM. If a potential licensee
+fails to obtain necessary approvals prior to the city receiving a request for
+certification, the city will not certify that the potential licensee complies
+with the applicable law, regulation, ordinance, or other applicable standard.
+(Ord. 2024-1307, passed 12-9-24; Am. Ord. 2025-1318, passed 10-13-25)
 § 127.04 RETAILER REGISTRATION.
    (A)   Retail registration required. Before making retail sales to customers
 or patients, a retailer must register with the city. Making retail sales to
@@ -18894,16 +18891,39 @@ customers or patients without an active registration is prohibited.
 city’s fee schedule, for making a sale to a customer or patient without a valid
 registration from the city and a valid license from the OCM.
    (C)   Processing registrations.
-      (1)   Applications will be processed on a first-come, first- served basis
-based on the city receiving a complete application and payment of all fees.
+       (1)   Applications will be processed on a first-come, first- served
+basis based on the city receiving a complete application and payment of all
+fees.
       (2)   The date a certification under §
 127.03 of this code is issued will have no impact on the applicant’s
 registration processing.
       (3)   Once an application is considered complete, the city shall inform
-the applicant as such, process the application fees, and forward the
-application for approval or denial.
-   (D)   Cannabis retail registration limits. There is no limit to the total
-number of retail registrations issued by the city.
+the applicant as such and forward the application for approval or denial.
+   (D)   Cannabis retail registration limit.
+      (1)   The city will issue no more than one cannabis retailer registration
+per 12,500 residents of the city. City population will be determined based on
+the most recent population estimates from the state demographer.
+      (2)   Registrations issued to businesses with a cannabis retailer
+license, preliminary license approval, or other applicable written approval
+from the OCM will count toward the city’s registration limit. Businesses
+operating under a tribal compact entered into under M.S. §§ 3.9224 or 3.9228
+and tribally issued licenses and registrations are counted towards the
+registration limit.
+      (3)   (a)   If a registration becomes available due to population
+increases or the termination of a registration the city will conduct a lottery
+to select the order in which to process complete applications. The city will
+accept applications for at least 30 days from the date the registration becomes
+available after which the city will conduct a random lottery selected all
+completed applications and placing them in the order in which the applications
+will be processed. All sections of this chapter shall apply to processing
+complete applications after the lottery selection process, except the language
+in division (C)(1) of this section.
+         (b)   The date a registration becomes available will be as follows:
+            1.   A registered business’s license lapses or is revoked by the
+OCM.
+            2.   The calculations in division (D)(1) of this section are
+updated based on the most recent population estimates from the state
+demographer and the result is that a new registration is available.
    (E)   Application. The applicant must submit a registration application or
 renewal form provided by the city. The form may be amended from time to time by
 the City Manager, but must include or be accompanied by:
@@ -18912,47 +18932,71 @@ the City Manager, but must include or be accompanied by:
       (3)   Address and parcel ID for the property for which the registration
 is sought.
       (4)   Certification that the applicant complies with the requirements of
-this chapter and
-Chapter 152 of this code.
-      (5)   Any additional information the city deems necessary.
+this chapter and Chapter 152 of this code.
+       (5)   Any additional information the city deems necessary.
       (6)   Fee required. At the time of initial application, and prior to the
 city’s consideration of any renewal application, each retailer must pay, as
-established in the city’s fee schedule, the following fees:
-         (a)   At the time of initial registration:
-            1.   An initial registration fee. The initial registration fee will
-pay for the costs of registration and the cost of the first year of operation.
-            2.   The renewal fee for the second year of operation.
-         (b)   At the time of the first annual renewal (prior to the second
-year of operation), no fee will be due.
-         (c)   At the time of the second annual renewal, and each year
-thereafter, the renewal fee must be paid prior to the city issuing any renewal
-registration.
-         (d)   Initial registration fees and renewal registration fees are non-
-refundable.
+established in the city’s fee schedule.
       (7)   Proof of taxes, assessments, utility charges or other financial
 claims of the city of the state are current.
-      (8)   A copy of a valid state license or written notice of OCM license
-preapproval.
-      (9)   Any additional information required by this chapter or the OCM
-preliminary compliance check. Prior to issuing any retail registration, the
-city shall conduct a preliminary compliance check to ensure compliance with
-this chapter and any other regulations established pursuant to M.S. § 342.13.
-   (F)   Reasons for denial. The city shall not issue a registration or renewal
+      (8)   A copy of a valid state license or written notice of preliminary
+license approval from the OCM.
+      (9)   Any additional information required by the city.
+   (F)   Immediate denial; buffers. Buffers enacted pursuant to the city’s
+zoning code for cannabis retail businesses will be established on the earlier
+of the city receiving the request from the OCM for certification that is
+ultimately successful pursuant to §
+127.03 of this code or the city receiving a complete application for a
+registration. An applicant that does not comply with the buffer requirements of
+the city’s zoning code will be immediately denied.
+   (G)   Processing application. Once the city receives a complete application,
+and the maximum number of registrations defined in §
+127.04(D) have not been issued, the applicant will receive written confirmation
+confirming that the applicant has submitted a complete application and
+informing the applicant of the steps that must be complete before the city will
+issue the registration:
+      (1)   Fee required. At the time of initial application, and prior to the
+city’s consideration of any renewal application, each retailer must pay fees or
+initial registration and renewal as established in the city’s fee schedule.
+Initial registration fees and renewal registration fees are nonrefundable.
+      (2)   Preliminary compliance check. Prior to issuing any retail
+registration, the city shall conduct a preliminary compliance check to ensure
+compliance with this chapter and any other regulations established pursuant to
+M.S. § 342.13.
+      (3)   At the time of the preliminary compliance check, the applicant must
+also submit a form recertifying that the applicant complies with the
+requirements of this chapter and proof of taxes, assessments, utility charges
+or other financial claims of the city or the state are current for both the
+applicant and the proposed location.
+      (4)   Fee required. At the time of initial application, and prior to the
+city’s consideration of any renewal application, each retailer must pay fees or
+initial registration and renewal as established in the city’s fee schedule.
+Initial registration fees and renewal registration fees are nonrefundable.
+   (H)   Reasons for denial. The city shall not issue a registration or renewal
 if any of the following conditions are true:
       (1)   The applicant has not submitted a complete application.
       (2)   The applicant does not comply with the requirements of this
 chapter.
-      (3)   The applicant does not comply with applicable zoning and land use
-regulations.
+      (3)   The applicant does not comply with applicable zoning, building,
+fire, health and land use regulations.
       (4)   The applicant is found to not comply with the requirements of the
 act or this chapter at the preliminary compliance check.
-      (5)   The applicant does not have a valid license from the OCM.
-   (G)   Issuing the registration or renewal. The city shall issue the
+      (5)   The applicant does not have a valid license or other applicable
+written approval from the OCM.
+   (I)   Issuing the registration or renewal. The city shall issue the
 registration or renewal if the retailer meets the requirements of this chapter,
-including that none of the reasons for denial in division (F) are true.
-   (H)   Nontransferable. A registration is not transferable to another person
+including that none of the reasons for denial in division (H) are true.
+   (J)   Nontransferable. A registration is not transferable to another person
 or entity.
-(Ord. 2024-1307, passed 12-9-24)
+   (K)   Amending an application. An applicant that has submitted a complete
+application for a registration may not amend information on the application
+once it has been submitted and deemed complete.
+   (L)   Waitlist. During the time when applications for open registration
+slots are being processed, applicants that submitted complete applications will
+be placed on a waitlist based on the order in which they were received or the
+order selected in the lottery and processed should the city deny applications
+with a higher priority order based on the date received.
+(Ord. 2024-1307, passed 12-9-24; Am. Ord. 2025-1318, passed 10-13-25)
 § 127.05 REGISTRATION ENFORCEMENT.
    (A)   Generally. The city may impose a fine or suspend a registration under
 this chapter on a finding that the registered business has failed to comply
@@ -19013,22 +19057,17 @@ Saturday; and 2:00 a.m. to 10:00 a.m., Sunday.
 152.905 of this code.
 (Ord. 2024-1307, passed 12-9-24)
 § 127.09 REQUIREMENTS FOR LOWER-POTENCY HEMP EDIBLE RETAILERS.
-   (A)   The city will issue a maximum of 15 registrations to lower- potency
-hemp edible retailers in each City Council district as established in §
-10.20 of this code. No more than 45 lower-potency hemp edible retailer
-registrations will be allowed in the city.
-   (B)   The city will not issue a lower-potency hemp edible retailer a
+   (A)   The city will not issue a lower-potency hemp edible retailer a
 registration if the proposed location is within 300 feet of a school. The
 distance is measured from entry door to entry door.
-   (C)   Location must comply with Tables 152.609.1 and 152.707.1 of this code.
-   (D)   On-site consumption of lower-potency hemp edibles is permitted at all
-locations licensed for on-sale liquor pursuant to M.S. Chapter 340A. Lower-
-potency retailers do not count against the cap in division (A) above.
-   (E)   Except for lower-potency hemp edibles that are intended to be consumed
+   (B)   Location must comply with Tables 152.609.1 and 152.707.1 of this code.
+   (C)   On-site consumption of lower-potency hemp edibles is permitted at all
+locations licensed for on-sale liquor pursuant to M.S. Chapter 340A.
+   (D)   Except for lower-potency hemp edibles that are intended to be consumed
 as a beverage and are being sold at an exclusive liquor store, all lower-
 potency hemp edibles must be sold from behind a counter and stored in a locked
 case.
-(Ord. 2024-1307, passed 12-9-24)
+(Ord. 2024-1307, passed 12-9-24; Am. Ord. 2025-1318, passed 10-13-25)
 § 127.99 PENALTY.
    (A)   Any violation of the provisions of this chapter or failure to comply
 with any of its requirements constitutes a misdemeanor and is punishable as
@@ -19038,8 +19077,8 @@ not a permit is required for a regulated activity listed in this chapter.
 Violations of this chapter may also be addressed under
 Chapter 37 of this code.
    (B)   Violation of this chapter shall be grounds for enforcement against any
-business license issued by the city.
-(Ord. 2024-1307, passed 12-9-24)
+business license or retail registration issued by the city.
+(Ord. 2024-1307, passed 12-9-24; Am. Ord. 2025-1318, passed 10-13-25)
 TITLE XIII: GENERAL OFFENSES
       Chapter
          
@@ -19056,6 +19095,8 @@ TITLE XIII: GENERAL OFFENSES
 135.   DRUG OFFENSES
          
 136.   WEAPONS
+         137.   PREDATORY OFFENDERS RESIDENCY RESTRICTIONS
+ 
 CHAPTER 130: GENERAL OFFENSES
 Section
    
@@ -20106,6 +20147,120 @@ this task.
 ('72 Code, § 950:55) (Ord. 1990-645(A), passed 2-26-90; Am. Ord. 2008-1084,
 passed 2-4-08)
 Penalty, see § 10.99
+CHAPTER 137: PREDATORY OFFENDERS RESIDENCY RESTRICTIONS
+Section
+   
+137.01 Purpose and intent
+   
+137.02 Definitions
+   
+137.03 Prohibited location of residence
+   
+137.04 Exceptions
+   
+137.05 Renting property in violation of this chapter
+ 
+   
+137.99 Penalty
+§ 137.01 PURPOSE AND INTENT.
+   Pursuant to M.S. § 244.052, Subd. 4a, it is the intent of this chapter to
+serve the city’s compelling interest to promote, protect and improve the
+health, safety and welfare of its residents by establishing areas around
+locations where children regularly congregate in concentrated numbers, wherein
+certain predatory offenders are prohibited from establishing temporary or
+permanent residence.
+(Ord. 2025-1315, passed 7-14-25)
+§ 137.02 DEFINITIONS.
+   The following words, terms and phrases, when used in this chapter, shall
+have the meanings as follows, except where the context clearly indicates or
+requires a different meaning:
+   CHILD. Any person under the age of 18 years.
+   CHILDCARE FACILITY. A facility licensed by the State Department of Human
+Services or the county to provide childcare, including facilities having
+programs for children known as nursery schools, day nurseries, childcare
+centers, day care centers, cooperative day care centers and Head Start
+programs.
+   DESIGNATED OFFENDER. Any person who has been categorized as a level III
+predatory offender under M.S. § 244.052, a successor statute, or a similar
+statute from another state in which that person’s risk assessment indicates a
+high risk of re-offense.
+   PERMANENT RESIDENCE. A place where a person abides, lodges or resides for 14
+or more consecutive days.
+   PLACE OF WORSHIP. A building or portion thereof, together with its accessory
+buildings and use, where persons regularly assemble for religious purposes and
+related social events and which building, together with its accessory buildings
+and uses, is maintained and controlled by a religious body organized to sustain
+religious ceremonies and purposes.
+   PROTECTED PLACE. A public park or playground, childcare facility, school, or
+place of worship.
+   PUBLIC PARK. A public recreation center or area, created, established,
+designated, maintained, provided, or set aside by the city, county or state,
+for the purposes of public rest, recreation and enjoyment, and all buildings,
+facilities and structures located thereon.
+   SCHOOL. Any public or nonpublic early childhood, pre-school, elementary,
+middle or secondary school.
+   TEMPORARY RESIDENCE. A place where a person abides, lodges or resides for a
+period of 14 or more days in the aggregate during any calendar year and which
+is not the person’s permanent residence, or a place where the person routinely
+abides, lodges or resides for a period of four or more consecutive or
+nonconsecutive days in any month and which is not the person’s permanent
+residence.
+(Ord. 2025-1315, passed 7-14-25)
+§ 137.03 PROHIBITED LOCATION OF RESIDENCE.
+   (A)   Prohibited location of residence from certain protected places.
+      (1)   It is unlawful for any designated offender to establish a permanent
+or temporary residence within 500 feet of any public park or playground, or
+within 1,000 feet of any childcare facility, school, or places of worship.
+      (2)   It is unlawful for any designated offender to establish a permanent
+or temporary residence within 1,000 feet of the residence of another designated
+offender.
+   (B)   Measurement of distance. For purposes of determining the minimum
+distance separation required by this section, the distance shall be measured by
+following a straight horizontal line from any property line of the lot or
+parcel on which the subject residence is located to the nearest property line
+of the protected place.
+   (C)   Official map. The Chief of Police shall maintain an official map
+showing approximate prohibited locations as defined by this chapter. The Chief
+of Police shall update the map at least annually to reflect any changes in the
+location of prohibited locations. The map shall not be deemed conclusive or
+all-encompassing, or relieve any person subject to this chapter from their duty
+to comply with this chapter. The actual measurement of the minimum distance
+separation of 500 feet or 1,000 feet between the residence and the protected
+place shall govern.
+(Ord. 2025-1315, passed 7-14-25)
+§ 137.04 EXCEPTIONS.
+   A designated offender does not commit a violation of this chapter if any of
+the following apply:
+   (A)   The designated offender established a permanent residence and reported
+and registered the residence pursuant to M.S §§ 243.166 or 243.167 or a
+successor statute(s), prior to the effective date of this chapter;
+   (B)   The designated offender was a minor when the designated offender
+committed the offense and designated offender was not convicted as an adult;
+   (C)   The designated offender is a minor;
+   (D)   The protected place was opened after the designated offender
+established the permanent residence and reported and registered the residence
+pursuant to M.S. §§ 243.166 or 243.167 or a successor statute;
+   (E)   The designated offender’s permanent or temporary residence is also the
+primary residence of the designated offender’s parents, grandparents, siblings,
+spouse or children; or
+   (F)   The designated offender owned and resided at the residence at the time
+of committing the designated sexual offense and retains ownership of the
+residence at all times relevant to application of this chapter.
+(Ord. 2025-1315, passed 7-14-25)
+§ 137.05 RENTING PROPERTY IN VIOLATION OF THIS CHAPTER.
+   It is unlawful for any person to let or rent any place, building, trailer or
+structure, or part thereof, with the knowledge that it will be used as a
+residence by a designated offender if such place, building, trailer or
+structure, or part thereof, is located within a location prohibited by this
+chapter.
+(Ord. 2025-1315, passed 7-14-25)
+§ 137.99 PENALTY.
+   (A)   A violation of this chapter is a misdemeanor and subject to the
+penalties set forth in § 10.99 of this code.
+   (B)   The city may enforce this chapter by mandamus, injunction, or other
+appropriate civil remedy in any court of competent jurisdiction, or through any
+administrative penalties program established by this code.
+(Ord. 2025-1315, passed 7-14-25)
 TITLE XV: LAND USAGE
       Chapter
          
@@ -20301,7 +20456,7 @@ footage and height. A sign attached to a retaining wall is considered to be a
 monument sign provided the message or copy does not exceed the allowable sign
 area as specified for the applicable zoning district, and all other provisions
 for a monument sign are met.
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-5460_5748x4800.jpg]
  
    An example of a 100 square foot monument sign.
@@ -23139,7 +23294,7 @@ averages 1% or greater, measured over a horizontal distance of 25 feet, from
 the toe of the slope to the top of the slope. Where the slope begins below the
 ordinary high water level, the ordinary high water level is the top of the
 slope. See Figure 152.105.1; or
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9590.png]
  
    Figure 152.105.1 Bluff and Bluff Impact Zone
@@ -23147,7 +23302,7 @@ IMAGES/0-0-0-9590.png]
 feet above the ordinary high water level or toe of the slope, whichever is
 applicable, to the top of the slope, with a slope of 75 degrees or greater. See
 Figure 152.105.2.
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9592.png]
  
    Figure 152.105.2 Natural Escarpment and Bluff Impact Zone
@@ -25603,7 +25758,7 @@ way maintenance.
    (D)    Building width is measured at the front setback. The maximum building
 width does not apply to buildings with a forecourt frontage type where the
 forecourt is wider than 40 feet.
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9594.png]
  
    Figure 152.706.1 Minimum Frontage Buildout
@@ -25986,7 +26141,7 @@ kindergarten through grade 12 and any private or public day care or pre-school
 facility that enrolls more than 50 children.
          SLOPE. An incline from the horizontal expressed in an arithmetic ratio
 of horizontal magnitude to vertical magnitude.
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9608.png]
  
          STRUCTURE. Anything anchored, attached, built, constructed, erected,
@@ -26428,27 +26583,27 @@ section. This section may also be enforced through such proceedings for
 injunctive relief and other relief as may be proper under M.S. § 360.073, as it
 may be amended, and other applicable law.
 (Ord. 2024-1304, passed 7-29-24)
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9596.png]
  
 Figure 152.800.1 Airport Bound ary
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9598.png]
  
 Figure 152.800.2 JAZB Land Use Zone 1
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9600.png]
  
 Figure 152.800.3 JAZB Land Use Zone 2
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9602.png]
  
 Figure 152.800.4 Airport Boundary and Airspace Zoning Limits
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9604.png]
  
 Figure 152.800.5 Airport Boundary and Airspace Contours
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9606.png]
  
 Figure 152.800.6 Airport Boundary and Land Use Zoning Limits
@@ -27495,7 +27650,7 @@ zone or further into the required setback than the building line of the
 existing principal structure; and
             2.   The expanded structure's scale and bulk is consistent with
 that of the original structure and existing surrounding development.
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9622.png]
  
    Figure 152.802.1 Expansion of Non-conforming Structure
@@ -27720,7 +27875,7 @@ and bulk riverward or bluffward of the setbacks required under divisions (F)(3)
 (B) and(F)(3)(C) are consistent with adjoining development. See Figure
 152.802.2.
 152.802.2 Structure Setback Averaging
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9624.png]
  
          (e)    Subsurface sewage treatment systems, including the septic tank
@@ -27797,7 +27952,7 @@ area]
          (c)   The deck or patio does not extend into the bluff impact zone.
 See Figure 152.802.3 below.
 Figure 152.802.3 Deck and Patio Encroachment
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9626.png]
  
       (6)    Directional signs.
@@ -28024,7 +28179,7 @@ comply with Minn. Rules, Chapters 6115.0215, Subp. 4, Item E, and 6115.0216,
 Subp. 2. Work must not proceed until approved by the Commissioner. See Figure
 152.802.4.
 Figure 152.802.4 Riprap Guidelines
-[https://export.amlegal.com/media/c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+[https://export.amlegal.com/media/220685e97893578ebe74f4f5d1e94b992da5501b/
 IMAGES/0-0-0-9628.png]
  
          (b)    Construction or replacement of rock riprap, retaining walls,
@@ -28635,17 +28790,17 @@ than 50% of the entire square footage of the structure/or unit.
 ground floor, shall be completely located behind the commercial portion of the
 structure or unit such that the ground floor street façade is a commercial use
 and commercial façade.
-   (F)   Outdoor storage.
+   (F)   Outdoor storage and parking of commercial vehicles.
       (1)   Storage of agricultural equipment may be permitted only on land
 assessed, used, and zoned as agricultural and must comply with all other
 applicable sections of the city code.
-      (2)   Commercial vehicles. Outdoor storage of commercial vehicles is
-limited to one vehicle per dwelling unit. Additional parking of commercial
-vehicles is permitted in a garage. Parking of commercial vehicles must comply
-with §
-152.1019. Semi trucks, semi trailers, dump trucks, tow trucks, and commercial
-vehicles with a registered gross weight over 15,000 pounds or in excess of 30
-feet in length are not permitted.
+      (2)   Outdoor parking of commercial vehicles is limited to one vehicle
+per dwelling unit. Parking of commercial vehicles must comply with §
+152.1019. Outdoor parking of semi trucks, semi trailers, dump trucks, tow
+trucks, and commercial vehicles with a registered gross weight over 15,000
+pounds or in excess of 30 feet in length is not permitted except when the
+vehicle is being used for loading or unloading or for rendering a service on
+the property.
       (3)   Firewood storage.
          (a)   Firewood must be stacked on an impervious surface or be elevated
 at least three and a half inches off the ground and may not include more than
@@ -28677,7 +28832,7 @@ yard;
          (c)   Gravel parking areas is not permitted; and
          (d)   All front yard storage must not encroach on any sidewalk or
 obstruct visibility of vehicle or pedestrian traffic.
-(Ord 2024-1304, passed 7-29-2024)
+(Ord 2024-1304, passed 7-29-24; Am. Ord. 2025-1317, passed 9-8-25)
 § 152.902 TEMPORARY RESIDENTIAL PERFORMANCE STANDARDS.
    All temporary residential uses shall comply with the following supplemental
 regulations, which shall be in addition to all other regulations of this zoning
@@ -30039,7 +30194,7 @@ Movement           Two-way
 Parking lane width 8 ft.
 (BL) Bicycle       Buffered lane
 facility                              [https://export.amlegal.com/media/
-Bicycle facility   6 ft. + 3ft.       c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+Bicycle facility   6 ft. + 3ft.       220685e97893578ebe74f4f5d1e94b992da5501b/
 width              buffer             IMAGES/0-0-0-9636.png]
 (MD) Median        N/A
 Turning lanes      At arterial
@@ -30069,7 +30224,7 @@ Movement           Two-way
 (PK) Parking lanes 2
 Parking lane width 8 ft.
                    Lane (local        [https://export.amlegal.com/media/
-(BL) Bicycle       street), buffered  c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+(BL) Bicycle       street), buffered  220685e97893578ebe74f4f5d1e94b992da5501b/
 facility           lane (primary      IMAGES/0-0-0-9634.png]
                    local)
 Bicycle facility   6 ft. + 2 ft.
@@ -30102,7 +30257,7 @@ Vehicle lane width 10 ft. primary
 Movement           Two-way
 (PK) Parking lanes 2
 Parking lane width 8 ft.              [https://export.amlegal.com/media/
-(BL) Bicycle       Sharrow optional   c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+(BL) Bicycle       Sharrow optional   220685e97893578ebe74f4f5d1e94b992da5501b/
 facility                              IMAGES/0-0-0-9632.png]
 Bicycle facility   N/A
 width
@@ -30130,7 +30285,7 @@ Movement           Two-way
 (PK) Parking lanes 1
 Parking lane width 8 ft.
 (BL) Bicycle       Sharrow optional   [https://export.amlegal.com/media/
-facility                              c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+facility                              220685e97893578ebe74f4f5d1e94b992da5501b/
 Bicycle facility   N/A                IMAGES/0-0-0-9630.png]
 width
 (MD) Median        N/A
@@ -30252,7 +30407,7 @@ Movement           Two-way
 Parking lane width 8 ft.
 (BL) Bicycle       Buffered lane
 facility                              [https://export.amlegal.com/media/
-Bicycle facility   6 ft. + 3 ft.      c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+Bicycle facility   6 ft. + 3 ft.      220685e97893578ebe74f4f5d1e94b992da5501b/
 width              buffer             IMAGES/0-0-0-9644.png]
 (MD) Median        N/A
 Turning lanes      At arterial
@@ -30284,7 +30439,7 @@ Movement           Two-way
 (PK) Parking lanes 2
 Parking lane width 8 ft.
                    Lane (local        [https://export.amlegal.com/media/
-(BL) Bicycle       street), buffered  c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+(BL) Bicycle       street), buffered  220685e97893578ebe74f4f5d1e94b992da5501b/
 facility           lane (primary      IMAGES/0-0-0-9642.png]
                    local)
 Bicycle facility   6 ft. + 2 ft.
@@ -30317,7 +30472,7 @@ Vehicle lane width 10 ft. primary
 Movement           Two-way
 (PK) Parking lanes 2
 Parking lane width 8 ft.              [https://export.amlegal.com/media/
-(BL) Bicycle       Sharrow optional   c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+(BL) Bicycle       Sharrow optional   220685e97893578ebe74f4f5d1e94b992da5501b/
 facility                              IMAGES/0-0-0-9640.png]
 Bicycle facility   N/A
 width
@@ -30345,7 +30500,7 @@ Movement           Two-way
 (PK) Parking lanes 1
 Parking lane width 8 ft.
 (BL) Bicycle       Sharrow optional   [https://export.amlegal.com/media/
-facility                              c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+facility                              220685e97893578ebe74f4f5d1e94b992da5501b/
 Bicycle facility   N/A                IMAGES/0-0-0-9638.png]
 width
 (MD) Median        N/A
@@ -30499,7 +30654,7 @@ Proportion (a:b) 1:5 max
                  Thoroughfares on a
 Edge condition   minimum of two non-
                  adjacent sides       [https://export.amlegal.com/media/
-                 50% maximum paved;   c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+                 50% maximum paved;   220685e97893578ebe74f4f5d1e94b992da5501b/
 Surface          pervious paving      IMAGES/0-0-0-9652.png]
                  allowed
                  1 tree with mature
@@ -30512,7 +30667,7 @@ Proportion (a:b) 1:5 max.
 Edge condition   Thoroughfares on a
                  minimum of two sides
                  50% minimum paved;   [https://export.amlegal.com/media/
-Surface          pervious paving      c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+Surface          pervious paving      220685e97893578ebe74f4f5d1e94b992da5501b/
                  allowed; bituminous  IMAGES/0-0-0-9650.png]
                  pavement prohibited
                  1 tree with mature
@@ -30524,7 +30679,7 @@ Size in acres    1,000 - 5,000
 Proportion (a:b) 1:4 max
                  1 side minimum along
 Edge condition   a thoroughfare or    [https://export.amlegal.com/media/
-                 pedestrian passage   c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+                 pedestrian passage   220685e97893578ebe74f4f5d1e94b992da5501b/
 Surface          May be paved or      IMAGES/0-0-0-9648.png]
                  landscaped
                  1 tree with mature
@@ -30536,7 +30691,7 @@ Width            12 ft. min., 24 ft.
                  max.
                  Active frontages
 Edge condition   required in high     [https://export.amlegal.com/media/
-                 intensity blocks     c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+                 intensity blocks     220685e97893578ebe74f4f5d1e94b992da5501b/
 Walkway width    6 ft. min.           IMAGES/0-0-0-9646.png]
                  3 ft. minimum
 Landscape        landscape edge in
@@ -30556,9 +30711,9 @@ triangle.
 public right-of-way and an access driveway.
 (Ord. 2024-1304, passed 7-29-24)
 § 152.1008 COMMERCIAL VEHICLE PARKING STANDARDS.
-   (A)   Commercial vehicles in nonresidential districts. Parking of commercial
-vehicles is permitted as an accessory use in nonresidential zoning districts
-subject to the following:
+   (A)   Commercial vehicles in nonresidential districts. Outdoor parking of
+commercial vehicles is permitted as an accessory use in nonresidential zoning
+districts subject to the following:
       (1)   Commercial vehicles must either be related to the principal use or
 the owner/operator of the vehicle must have written permission of the property
 owner; and
@@ -30568,19 +30723,20 @@ following locations:
 152.1019 provided that no vehicle occupies more than one legal parking space;
          (b)   In a staging area in compliance with §
 152.1015; and
-         (5)   In the Business Park (BP), General Industrial (I), Transit-
+         (c)   In the Business Park (BP), General Industrial (I), Transit-
 Oriented Development Employment (TOD-E) Districts, commercial vehicles may be
 parked on a paved surface behind the front of the building provided that the
-vehicles do not block drive aisles or public right of way.
-   (B)   Commercial vehicles in residential districts. Outdoor storage of
-commercial vehicles is limited to one vehicle per dwelling unit. Additional
-parking of commercial vehicles is permitted in a garage. Parking of commercial
-vehicles must comply with §
-152.1019. Semi trucks, semi trailers, dump trucks, tow trucks, and commercial
-vehicles with a registered gross weight over 15,000 pounds or in excess of 30
-feet in length are not permitted.
-(Ord. 2024-1304, passed 7-29-24)
-§ 152.1019 DRIVEWAYS.
+vehicles do not block drive aisles or public right-of-way.
+   (B)   Commercial vehicles in residential districts. Outdoor parking of
+commercial vehicles is limited to one vehicle per dwelling unit. Parking of
+commercial vehicles must comply with §
+152.1019. Outdoor parking of semi trucks, semi trailers, dump trucks, tow
+trucks, and commercial vehicles with a registered gross weight over 15,000
+pounds or in excess of 30 feet in length is not permitted except when the
+vehicle is being used for loading or unloading or for rendering a service on
+the property.
+(Ord. 2024-1304, passed 7-29-24; Am. Ord. 2025-1317, passed 9-8-25)
+§ 152.1009 DRIVEWAYS.
    (A)   Except for properties where gravel driveways existed prior to the
 enactment of this chapter, all driveways shall be paved with a continuous
 impervious surface or an approved pervious surface, with the exception of farms
@@ -32264,7 +32420,7 @@ TABLE 152.1025.1 STREETSCAPE REQUIREMENTS
 Zoning       TOD-C, TOD-E, TOD-G                       LW, NMU, MU, TOD-C, TOD-E, TOD-G
 district
 Streetscape  [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-illustration c9870cff84dd5dace094a7cf2f7b8c3daea912e5/ c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+illustration 220685e97893578ebe74f4f5d1e94b992da5501b/ 220685e97893578ebe74f4f5d1e94b992da5501b/
              IMAGES/0-0-0-9672.png]                    IMAGES/0-0-0-9670.png]
 (1) Sidewalk 10 ft. min. including boulevard width and 6 ft. min. including boulevard width and
 width        furniture zone                            furniture zone
@@ -32281,7 +32437,7 @@ Effective
 return    Parking Lane on Both Streets              Parking Lane on One Street                No Parking Lanes
 radius
           [https://export.amlegal.com/media/        [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-         c9870cff84dd5dace094a7cf2f7b8c3daea912e5/ c9870cff84dd5dace094a7cf2f7b8c3daea912e5/ c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+         220685e97893578ebe74f4f5d1e94b992da5501b/ 220685e97893578ebe74f4f5d1e94b992da5501b/ 220685e97893578ebe74f4f5d1e94b992da5501b/
           IMAGES/0-0-0-9668.png]                    IMAGES/0-0-0-9666.png]                    IMAGES/0-0-0-9664.png]
 Minimum Required Curb Return Radius
 Local
@@ -32327,7 +32483,7 @@ Movement           One-way
 (PK) Parking lanes 1
 Parking lane width 8 ft.
 (BL) Bicycle       N/A                [https://export.amlegal.com/media/
-facility                              c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+facility                              220685e97893578ebe74f4f5d1e94b992da5501b/
 Bicycle facility   N/A                IMAGES/0-0-0-9662.png]
 width
 (MD) Median        6 ft. min.
@@ -32352,7 +32508,7 @@ Movement           Two-way
 (PK) Parking lanes 1
 Parking lane width 8 ft.
 (BL) Bicycle       N/A                [https://export.amlegal.com/media/
-facility                              c9870cff84dd5dace094a7cf2f7b8c3daea912e5/
+facility                              220685e97893578ebe74f4f5d1e94b992da5501b/
 Bicycle facility   N/A                IMAGES/0-0-0-9660.png]
 width                                  
 (MD) Median        6 ft. min.
@@ -33932,6 +34088,10 @@ Ord. No.    Date Passed Description
                         within the city.
 2015-1201   11-23-15    Requiring a gas franchise fee from Centerpoint Energy
                         for providing gas service within the city.
+                        Granting a franchise to CenterPoint Energy Resources
+2025-1308   2-10-25     Corp. for transportation, distribution, manufacture and
+                        sale of gas energy within the city.
+                       
  
 TABLE II: STREET NAME CHANGES
 Ord. No. Date Passed Description
@@ -35730,6 +35890,8 @@ References to Ordinances
 REFERENCES TO MINNESOTA STATUTES
 M.S. Section Code Section
 M.S. Section                   Code Section
+3.9224                         127.04
+3.9228                         127.04
 10A.14                         112.300
 Chapter 12                     36.01
 13.01 et seq.                  41.03
@@ -35881,6 +36043,9 @@ Chapter 216G                   152.802
 238.084                        102.43
 238.086                        102.20
 243.166                        117.49
+243.167                        137.04
+244.052                        137.02
+244.052, Subd. 4a              137.01
 Chapter 260B                   112.003
 260C. et seq.                  117.49
 260.185                        132.99
@@ -37617,6 +37782,7 @@ Ord. No.    Date Passed Code Section
                         152.707,
                         152.903,
                         152.905
+2025-1308   2-10-25     T.S.O. I
                         92.12,
 2025-1309   3-10-25     92.19,
                         92.21,
@@ -37633,5 +37799,14 @@ Ord. No.    Date Passed Code Section
                         103.12
 2025-1313   6-9-25      106.01,
                         106.02
+                        137.01 -
+2025-1315   7-14-25     137.05,
+                        137.99
+2025-1317   9-8-25      152.901,
+                        152.1008
+                        127.02 -
+2025-1318   10-13-25    127.04,
+                        127.09,
+                        127.99
                        
  
