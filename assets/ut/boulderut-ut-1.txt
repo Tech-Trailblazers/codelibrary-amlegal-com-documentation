@@ -38,6 +38,92 @@ publisher, and they may not affect the code of ordinances. Additionally,
 ordinances listed in this section may not show the original ordinances in their
 entirety. Please contact the office of the clerk if there are any questions
 concerning any listed ordinances.
+ 
+ 
+ORDINANCE NO. 2025-7
+BOULDER TOWN, STATE OF UTAH
+AN ORDINANCE OF THE TOWN OF BOULDER, UTAH, AMENDING A SECTION OF THE BOULDER
+TOWN ZONING CODE (§153.117) TO REMOVE "COMMERCIAL USE" FROM THE TABLE OF USES
+Whereas, the Boulder Town Council has acknowledged potential concerns with
+various types of commercial development in the community; and
+Whereas, the Boulder Town Zoning Code is silent on the meaning of “commercial
+use” as currently used in the Table of Uses; and
+Whereas, future work by the Boulder Town Planning Commission and Council will
+clarify definitions and zoning for commercial uses:
+NOW, THEREFORE, BE IT ORDAINED BY THE TOWN COUNCIL OF BOULDER, UTAH, THAT THE
+FOLLOWING CHANGE BE MADE:
+Repeal and replace section 153.117 in its entirety with the following:
+§ 153.117 TABLE OF USES.
+(A) The Table of Uses (Table 1) identifies the uses allowed within each Zoning
+District. The Table of Uses identifies uses allowed as a permitted use
+(identified as "P" in the table), for which only administrative permits are
+required; uses allowed upon approval of a conditional use permit (identified as
+"PC, Potentially Compatible"); and uses allowed as a temporary use (identified
+as "T"). Definitions for various uses may be found in § 153.011.
+(B) All uses not specifically identified as permitted, potentially compatible
+(permitted with a conditional use permit), or temporary within a zoning
+district are prohibited there, as are all uses that are not specifically
+identified or listed in Table 1. Cells that are left blank in the Table of Uses
+indicate the use is prohibited in the particular zoning district, though the
+use may be allowed in other zoning districts.
+ 
+Table of Uses
+Use                                    Zoning District
+                                       GM LDR MDR HDR C
+Accessory dwelling unit, commercial    PC             PC
+Accessory use or building              P  P   P   P
+Agriculture, agricultural buildings    P  P   P   P
+Bed and breakfast inn                  PC PC  PC  PC
+Borrow pits                            PC
+Cemetery                               PC PC
+Church                                 PC PC  PC  PC
+Commercial use existing before 2021                   P
+Community market (farmer's market)     T              T
+Concrete plant, in existing gravel pit PC
+Day care/preschool center              PC
+Duplex                                 P  P   P   P
+External accessory dwelling unit       PC PC  PC  PC
+Farmstand                              T              T
+Guest ranch                            PC
+Home child care                        P  P   P   P
+Home business                          PC PC  PC  PC
+Internal accessory dwelling unit       P  P   P   P
+Licensed family child care             P  P   P
+Long-term temporary use                T  T   T   T   T
+Mobile food business                   PC
+Public uses and utilities              PC PC  PC  PC
+Residential day care certificate       P  P   P   P
+Residential facility for elderly       P  P   P   P
+Residential short-term rental          PC PC  PC  PC
+Recreational Vehicle Occupancy         T  T   T   T   T
+School                                 PC PC  PC  PC  PC
+Single-family on a lot of record       P  P   P   P
+Special events                         T  T   T   T   T
+Wireless telecommunication facilities  PC PC  PC  PC  PC
+TABLE NOTES:
+A blank cell indicates that the use is prohibited in that zoning district.
+(Ord. 46, passed 8-28-2001; Ord. 48, passed 8-8-2002; Ord. 51, passed 11-5-
+2003; Ord. 46B, passed 12-3-2003; Ord. 21D, passed 1-7-2004; Ord. 59, passed 5-
+8-2008, § 603; Ord. 66, passed 9-1-2011; Ord. 72, passed 11-7-2013; Ord. 15-1,
+passed 2-5-2015; Ord. 2018-4, passed 1-3-2019; Ord. 2019-2, passed 5-2-2019;
+Ord. 2021-2, passed - -2021; Ord. 2021-5, passed 11-4-2021; Ord. 2021-7, passed
+12-2-2021; Ord. 2024-2, passed 9-5-2024; Ord. 2025-2, passed 5-1-2025; Ord.
+2025-7, passed 11-4-2025).
+
+Adopted and passed by the Boulder Town Council, Utah, at 8:43 PM on November 4,
+2025.
+Motion:
+Motion: Councilmember Ellis moved to accept draft ordinance 2025-G as amended.
+Councilmember Veranth seconded.
+The motion passed unanimously by roll call vote (Gladys LeFevre-aye, Josh
+Ellis-aye, John Veranth-aye, Ray Gardner-aye, Conrad Jepsen-aye).
+The ordinance will be recorded as Ordinance No. 2025-7 at 8:43 PM.
+Certification:
+/s/ A. Conrad Jepsen
+Boulder Town Mayor A. Conrad Jepsen (Presiding Officer)
+/s/ Elizabeth Julian
+Boulder Town Clerk (Attest)
+ 
 ADOPTING ORDINANCE
 ORDINANCE 2021-3
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR BOULDER TOWN, STATE OF UTAH, AND
@@ -7901,7 +7987,7 @@ mediation or arbitration of a constitutional taking issue is filed under UCA §
 63-34-13, as amended, the petitioner may seek an injunction staying the appeal
 authority’s decision.
 FIGURE 7: APPEAL AUTHORITIES
-[https://export.amlegal.com/media/d7d4316a5678d45b2245931963b038422125017a/
+[https://export.amlegal.com/media/73af914f6ee92736c0cacabb0b0dedc9938dc28b/
 IMAGES/0-0-0-46.png]
  
 (Ord. 46, passed 8-28-2001; Ord. 21D, passed 1-7-2004; Ord. 59, passed 5-8-
