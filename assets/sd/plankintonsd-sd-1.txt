@@ -1,8 +1,8 @@
 CITY OF PLANKINTON,
 SOUTH DAKOTA
 CODE OF ORDINANCES
-2025 S-3 Supplement contains:
-Local legislation current through Ordinance 2024-3-1, passed 2-3-2025
+2025 S-4 Supplement contains:
+Local legislation current through Ordinance 2025-10-6, passed 10-6-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -948,32 +948,33 @@ passed 2-4-2019; Res. 11-2-20, passed 11-2-2020; Res. 41723, passed - -2023)
 § 50.03 ELECTRIC UTILITY RATE SCHEDULE.
    (A)   Definitions and general rules applicable to all classes of service.
       (1)   Facility charge. The monthly fee to partially cover the cost of
-bringing electricity to the customer’s location. It is based on expenses the
+bringing electricity to the customer's location. It is based on expenses the
 city incurs regardless of how much electricity is used and is a fee for
 accessing the city electric grid whether any energy is used or not. The
 facility charge continues so long as a meter is installed at any location.
       (2)   Energy charge. The energy is what the city charges a customer for
 electricity usage based on the energy consumed in terms of kilowatt-hours (kWh)
-in a given billing cycle and consumed during a billing cycle by the rate for
-energy in terms of cents per kWh.
+in a given billing cycle and the rate for that energy. The charge is calculated
+by multiplying the number of kWh consumed during a billing cycle by the rate
+for energy in terms of cents per kWh.
       (3)   Energy cost adjustment. The city may, at its discretion, implement
 an energy cost adjustment to compensate the city for variations in the cost of
 purchased power. At the time the adjustment is implemented, the calculation
 used to arrive at the adjustment will be developed, and the adjustment will be
 applied to all kWh billed by the city to its electric customers.
       (4)   Prompt payment provisions. All charges are net. If the bill is not
-paid or mailed and postmarked by the 20th day of the month following the
+paid or mailed and postmarked by the twentieth day of the month following the
 billing date, a late payment charge of 10% of the balance due will apply. If
-the 20th of the month falls on a Saturday, Sunday, or a holiday the due date
-will be the next working day by 10:00 a.m.
+the twentieth of the month falls on a Saturday, Sunday, or holiday, the due
+date will be the next working day.
       (5)   Sales tax. Sales tax to be added to all electric bills so as to be
-in compliance with the provisions of the laws of the state.
+in compliance with the provisions of the laws of the State of South Dakota.
       (6)   Connection fee. A deposit made to the city to be held and retained
 by the city so long as the customer has a meter installed, whether energy is
 used or not. Upon either removal of the meter or transfer of the service at the
-customer’s specific location to another customer, and payment by the transferor
+customer's specific location to another customer, and payment by the transferor
 customer of all outstanding energy charges and payment by the transferee
-customer of an appropriate connection fee, the original customer’s connection
+customer of an appropriate connection fee, the original customer's connection
 fee will be refunded to the original customer, without interest.
       (7)   Additional rates and charges. Additional rate and charge
 definitions are applicable to large commercial service and are set forth
@@ -981,64 +982,66 @@ separately in the section relating to such customers.
    (B)   Residential service.
       (1)   Applicable to. Residential customers for all domestic uses in
 single-family dwellings and individually metered apartments within the service
-territory of the city electric utility, including use of motors of not more
-than five horsepower individual capacity.
+territory of the City of Plankinton electric utility, including use of motors
+of not more than five horsepower individual capacity.
       (2)   Service available. Single-phase, 60 hertz, 120/240 volt, 400 amp
 max., three-wire, single meter.
       (3)   Connection fee. 
  
 All electric service $250
-Regular service      $100
  
       (4)   Monthly rate.
  
-Facility charge (No kWh) $20 per meter
+Facility charge (No kWh) $21 per meter
 Plus
 Energy charge
-First 600 kWh            $0.12.5 per kWh
-Next 600 kWh             $0.09.5 per kWh
-Over 1,200 kWh           $0.07.9 per kWh
+First 600 kWh            $0.13.125 per kWh
+Next 600 kWh             $0.09.975 per kWh
+Over 1,200 kWh           $0.08.295 per kWh
  
    (C)   Small commercial service.
       (1)   Applicable to. Any commercial, industrial, city, or farm load
-within the service territory of the city electric utility, for all purposes,
-where the average monthly energy usage in a consecutive 12-month period does
-not exceed 5,000 kWh.
+within the service territory of the City of Plankinton electric utility, for
+all purposes, where the average monthly energy usage in a consecutive 12-month
+period does not exceed 5,000 kWh.
       (2)   Service available. Single-phase, 60 hertz, 120/240 volt, 400 amp
 max., three-wire, single meter; or three-phase, 60 hertz, 240/120 volt, 208Y/
 120V, or 480Y/277V, four-wire, single meter.
       (3)   Connection fee. 
-All electric service     $250
-Regular service          $100
-Facility charge (No kWh) $27.50 per meter
+ 
+All electric service $250
+ 
+      (4)   Monthly rate.
+ 
+Facility charge (No kWh) $28.88 per meter
 Plus
 Energy charge
-First 500 kWh            $0.13.5 per kWh
-Next 3,500 kWh           $0.09.9 per kWh
-Over 4,000 kWh           $0.09.4 per kWh
+First 500 kWh            $0.14.175 per kWh
+Next 3,500 kWh           $0.10.395 per kWh
+Over 4,000 kWh           $0.09.870 per kWh
  
    (D)   Large commercial service.
       (1)   Applicable to. Any commercial, industrial, city, or farm load
-within the city electric utility service territory, for all purposes, where the
-average monthly energy usage in a consecutive 12-month period exceeds 5,000
-kWh.
-      (2)   Service available. Sixty hertz three phase, 240/120V, 208Y/120V, or
-480Y/277V, four-wire, or standard primary voltage available at point of
+within the City of Plankinton electric utility service territory, for all
+purposes, where the average monthly energy usage in a consecutive 12-month
+period exceeds 5,000 kWh.
+      (2)   Service available. Sixty hertz, three-phase, 240/120V, 208Y/120V,
+or 480Y/277V, four-wire, or standard primary voltage available at point of
 delivery. Special voltages may be provided at the discretion of the utility.
 Utility furnishes only one transformer bank and/or one meter.
       (3)   Connection fee. 
  
 All electric service $250
-Regular service      $100
  
       (4)   Monthly rate.
  
-Facility charge $50 per meter
+Facility charge $52.50 per meter
 Plus
 Energy charge
-All kWh         $0.04.5 per kWh
+All kWh         $0.04.725 per kWh
 Plus
-Demand charge   $14
+Demand charge
+   All kW    $14.70
  
       (5)   Metered demand. The metered demand for any month shall be the
 maximum kilowatt demand established by the consumer for any 30-minute interval
@@ -1058,7 +1061,7 @@ Adjusted Demand = (739)*(1.2329) = 911 kW
 adjusted for power factor, if applicable.
       (8)   Billing demand. The billing demand shall be the maximum measured
 30-minute integrated demand in the billing month, but not less than 50% of the
-maximum 30-minutes demand established in any of the 12 preceding months.
+maximum 30-minute demand established in any of the 12 preceding months.
       (9)   Primary metering.
          (a)   The utility will furnish and install primary metering when
 service is taken by the consumer and metered at primary voltage. The consumer
@@ -1069,36 +1072,35 @@ losses and investment return.
 primary and transformers) and metered at secondary voltage, a 1% discount will
 apply to demand and energy charges to allow for investment return.
       (10)   Measurement of demand and energy. When there are two or more
-demand and energy metering installations on the customer’s premises, the
+demand and energy metering installations on the customer's premises, the
 metered quantities shall be determined by adding together the separate meter
 readings before application of the rate, unless special provisions are agreed
-to by the utility. At the customer’s request, and at the customer’s expense,
-and at the utility’s discretion, the utility may install special metering that
+to by the utility. At the customer's request, and at the customer's expense,
+and at the utility's discretion, the utility may install special metering that
 will allow coincident demand billing.
    (E)   Outside city limits service.
       (1)   Applicable to. Residential, commercial, or farm customers within
-the service territory of the city electric utility and outside of the city
-limits, including use of motors of not more than five horsepower individual
-capacity, where the average monthly energy usage in any 12-month period is less
-than 5,000 kWh.
+the service territory of the City of Plankinton electric utility and outside of
+the city limits of Plankinton, including use of motors of not more than five
+horsepower individual capacity, where the average monthly energy usage in any
+12-month period is less than 5,000 kWh.
       (2)   Service available. Single-phase, 60 hertz, 120/240 volt, 400 amp
 max., three-wire, single meter.
       (3)   Connection fee. 
  
 All electric service $250
-Regular service      $100
  
       (4)   Monthly rate.
  
-Facility charge (No kWh) $25 per meter
+Facility charge (No kWh) $26.25 per meter
 Plus
 Energy charge
-First 600 kWh            $0.15.5 per kWh
-Next 600 kWh             $0.11.3 per kWh
-Over 1,200 kWh           $0.09.3 per kWh
+First 600 kWh            $0.16.275 per kWh
+Next 600 kWh             $0.11.865 per kWh
+Over 1,200 kWh           $0.09.765 per kWh
  
-   (F)   Property owner’s (landlord’s or lessor’s) responsibility for renter’s
-( lessee’s or tenant’s) unpaid electrical charges. The owner of any real estate
+   (F)   Property owner's (landlord's or lessor's) responsibility for renter's
+( lessee's or tenant's) unpaid electrical charges. The owner of any real estate
 connected to the city electrical system is responsible for payment of all
 electrical service rates, charges, and energy cost adjustments upon read out
 and final billing to a tenant who is vacating such property. The owner will
@@ -1117,51 +1119,43 @@ remain responsible for continued electrical service rates, charges, and energy
 cost adjustments to the property.
 (Ord. 242, passed 3-19-2018; Res. 5-7-18-1, passed 5-7-2018; Res. 11-2-20-1,
 passed 11-2-2020; Res. 12-7-20, passed 12-7-2020; Res. 1-2-23, passed 12-5-
-2022)
+2022; Res. 4-7-2025, passed 4-7-2025)
 Cross-reference:
    Connection fees, see §
 53.25
 COLLECTION OF UTILITY BILLS
 § 50.15 DELINQUENT UTILITY BILLS.
-   (A)   Residential accounts. If a residential customer fails to pay his or
-her utility bill by the twentieth day of the month in which the bill is due,
-the city will mail a disconnect notice to the customer during the last week of
-the month. The disconnect notice shall inform the customer that the electric
-service shall be disconnected if full payment is not received by the time that
-the City Hall office closes on the seventh day of the following month. In the
-event that the seventh day of the month falls on a holiday, or weekend day, the
-electric shall be disconnected if full payment is not received by the time that
-the City Hall office closes on the next regular business day.
-   (B)   Commercial accounts. If a commercial customer fails to pay his or her
-utility bill by the twentieth of the month in which the bill is due, the city
-will mail a disconnect notice to the customer during the last week of the
-month. The disconnect notice shall inform the customer that the electric
-service shall be disconnected if full payment is not received by the time that
-City Hall office closes on the seventh day of the following month. In the event
-that the seventh day of the month falls on a holiday or weekend day, the
-electric service shall be disconnected if full payment is not received by the
-time that the City Hall office closes on the next regular business day.
-(Ord. 16-2-17, passed 2-4-2013)
+   If a customer fails to pay his or her utility bill by the twentieth day of
+the month in which the bill is due a late fee will be added on the twenty-first
+day of the month or next regular business day. The city will mail a disconnect
+notice to the customer that same day. The disconnect notice will inform the
+customer that the electric service may, at the city's sole discretion, be
+disconnected if full payment is not received by 9:00 a.m. on the seventh day of
+the following month. In the event that the seventh day of the month falls on a
+Friday, a holiday, or weekend day, the electric may, at the city's sole
+discretion, be disconnected if full payment is not received by 9:00 a.m. on the
+next regular business day.
+(Ord. 16-2-17, passed 2-4-2013; Ord. 2025-05-05-2, passed 6-2-2025)
 § 50.16 FEES REGARDING DISCONNECTION AND RECONNECTION.
    (A)   Whenever electrical service has been disconnected pursuant to this
-policy, the customer shall pay a $20 disconnect fee, in addition to the amount
+policy, the customer must pay a $25 disconnect fee, in addition to the amount
 owed to the city. Said disconnection fee shall be paid prior to reconnection of
 service.
    (B)   Whenever electrical service has been disconnected pursuant to this
-policy, the customer shall pay a $20 reconnection fee, in addition to the
+policy, the customer must pay a $25 reconnection fee, in addition to the
 initial amount owed to the city. Said reconnection fee shall be paid prior to
 reconnection of service.
    (C)   In the event that electrical service is reconnected after regular
-business hours, the reconnection fee shall be in the amount of $50, which
-amount shall be in addition to the disconnect fee and the initial amount owed
-to the city. Said after hours reconnection fee shall be paid prior to
-reconnection of service.
+business hours, the reconnection fee will be in the amount of $100, which
+amount is in addition to the disconnect fee and the initial amount owed to the
+city. Said after hours reconnection fee must be paid prior to reconnection of
+service.
    (D)   Payment for delinquent bills, including any disconnect fees or
-reconnection fees shall be made at the City Hall. In the even that such payment
-is mailed to the city, service shall not be reconnected until the payment is
-received by mail at the City Hall. Reconnection of electrical service shall not
-be made until payment in full is received.
-(Ord. 16-2-17, passed 2-4-2013)
+reconnection fees must be made at the City Hall or online. In the event that
+such payment is mailed to the city, service shall not be reconnected until the
+payment is received by mail at the City Hall. Reconnection of electrical
+service will not be made until payment in full is received.
+(Ord. 16-2-17, passed 2-4-2013; Ord. 2025-05-05-2, passed 6-2-2025)
 § 50.17 SPECIAL CIRCUMSTANCES.
    The city will postpone the disconnection of electrical service to a
 residential customer for 30 days from the date of a physician’s certificate or
@@ -2267,19 +2261,38 @@ monthly rate to be charged. Monthly payments must be made in advance, and the
 Finance Officer, by written notice, may terminate the permit at any time.
 (Prior Code, § 13-1-34)
 § 52.34 NON-PAYMENT OF BILLINGS.
-   (A)   All water bills shall be paid at the office of the Finance Officer,
-and if not paid on or before the fifteenth of the month after they become due,
-they shall become delinquent and the water may be shut off without notice, the
-water shall not be turned on again until all back billings and other charges
-have been paid, together with the charge of $40 for turning the water off and
-on.
-   (B)   No person shall turn on the water to any premises from which the water
-has been turned off as herein provided without written authority from the Water
-Department.
-   (C)   If it is necessary to dig up curb stop or corporation stop to shut off
-water for non-payment of water bill, said cost of work shall be added to water
-bill in addition to all other charges.
-(Prior Code, § 13-1-35)
+   (A)   All water bills must be paid at the office of the Finance Officer, and
+if not paid on or before the twentieth day of the month or next regular
+business day. The city will mail a disconnect notice to the customer that same
+day. The disconnect notice will inform the customer that the water service may,
+at the sole discretion of the city, be disconnected if full payment is not
+received by 9:00 a.m. on the seventh day of the following month. In the event
+that the seventh day of the month falls on a Friday, a holiday, or weekend day,
+the water may, at the city's sole discretion, be disconnected, if full payment
+is not received by 9:00 a.m. on the next regular business day.
+   (B)   Whenever water service has been disconnected pursuant to this policy,
+the customer must pay a $25 disconnect fee, in addition to the amount owed to
+the city. Said disconnection fee must be paid prior to reconnection of service.
+   (C)   Whenever water service has been disconnected pursuant to this policy,
+the customer must pay a $25 reconnection fee, in addition to the initial amount
+owed to the city. Said reconnection fee must be paid prior to reconnection of
+service.
+   (D)   In the event that water service is reconnected after regular business
+hours, the reconnection fee will be in the amount of $100, which amount will be
+in addition to the disconnect fee and the initial amount owed to the city. Said
+after hours reconnection fee must be paid prior to reconnection of service.
+   (E)   Payment for delinquent bills, including any disconnect fees or
+reconnection fees must be made at the City Hall or online. In the event that
+such payment is mailed to the city, service will not be reconnected until the
+payment is received by mail at the City Hall. Reconnection of water service
+will not be made until payment in full is received.
+   (F)   No person is allowed to turn on the water to any premises from which
+the water has been turned off as herein provided without written authority from
+the Water Department.
+   (G)   If it is necessary to dig up, curb stop or corporation stop to shut
+off water for non-payment of water billing, said cost of work will be added to
+water bill in addition to all other charges.
+(Prior Code, § 13-1-35) (Ord. 2025-05-05-2, passed 6-2-2025)
 § 52.35 INTERFERING WITH FIRE HYDRANTS.
    No person except as authorized by the Superintendent of the Water
 Department, except the Fire Department in the discharge of its duties, shall
@@ -2625,15 +2638,17 @@ be made in advance, and the Finance Officer, by written notice, may terminate
 the permit at any time.
 (Prior Code, § 16-2-16)
 § 53.35 NON-PAYMENT OF BILLINGS.
-   All electrical bills shall be paid at the office of the Finance Officer, and
-if not paid on or before the twentieth of the following month after they become
-due they shall become delinquent and the electricity may be shut off without
-notice. The electricity shall not be turned on again until all back billings
-and other charges have been paid, together with a charge of $40 for turning the
-electricity off and on. No person shall turn on the electricity to any premises
-from which the electricity has been turned off as herein provided without
-written authority from the electrical system.
-(Prior Code, § 16-2-17)
+   All electrical bills must be paid at the office of the Finance Officer or
+online. As also set forth in § 50.15 and § 50.16, supra, if not paid on or
+before the twentieth of the month they become due, they will become delinquent,
+a delinquent notice will be mailed, and the electricity may be disconnected.
+The electricity will not be turned on again until all back billings, current
+billing and other charges have been paid, together with a $25 disconnect fee
+and a $25 reconnect fee, or a $100 fee for services provided outside of normal
+business hours as applicable. No person is allowed to turn on the electricity
+to any premises from which the electricity has been turned off as herein
+provided without written authority from the Electrical Department.
+(Prior Code, § 16-2-17) (Ord. 2025-05-05-2, passed 6-2-2025)
 § 53.36 INTERFERING WITH TRANSMISSION LINES AND POLES.
    No person, except as authorized by the Superintendent of the Electrical
 System, except the Fire Department in the discharge of its duties, shall shut
@@ -4569,16 +4584,21 @@ REGULATION OF JUNK VEHICLES
 unless the context clearly indicates or requires a different meaning.
    JUNK MOTOR VEHICLE. Any motor vehicle as defined below in which is:
       (1)   Not mechanically sound to the extent of being driveable on its own
-power;
-      (2)   Not driveable by reason of flat or uninflated tires or the removal
-of any part necessary for the safe operation of the vehicle; or
+power or towable;
+      (2)   Not driveable or towable by reason of flat or uninflated tires or
+the removal of any part necessary for the safe operation of the vehicle; or
       (3)   Any motor vehicle required to be registered by state law as a
 condition of being operated on public highways that is not currently registered
 and displaying a current registration plate.
    MOTOR VEHICLES. Any automobile, snowmobile, motorcycle, tractor, farm
 vehicle, motor home or other vehicle designed or ever modified to be propelled
-by power other than muscle power.
-(Prior Code, § 4-9-1) (Ord. passed 11-4-2002)
+by power other than muscle power and any camper or camper trailer or travel
+trailer designed for camping and travel and offering facilities used, or
+intended, for sleeping, cooking, shelter, or other dwelling use and designed or
+modified to be towed behind, or carried upon, a vehicle designed to be
+propelled by power other than muscle power.
+(Prior Code, § 4-9-1) (Ord. passed 11-4-2002; Ord. 2025-05-05-1, passed 5-8-
+2025)
 § 92.36 PARKING OF JUNK MOTOR VEHICLES ON PUBLIC RIGHTS-OF-WAY PROHIBITED.
    No person shall park any junk motor vehicle or permit any junk motor vehicle
 owned by him or her to be parked on any street, alley or other public right-of-
@@ -4597,74 +4617,118 @@ repaired may be parked on private property for a period not to exceed 120
 consecutive days.
 (Prior Code, § 4-9-3) (Ord. passed 11-4-2002)
 § 92.38 REMOVAL PROCEDURE.
-   (A)   It shall be the duty of the City Utility Superintendent to report
-monthly to the City Council the description, location and the license number,
-if any, of all motor vehicles in the city:
-      (1)   Which are parked on any street, alley or public right-of-way which
-are subject to registration by state law and which do not display a current
-registration plate;
-      (2)   Which appear to have been parked in the same place on any street,
-alley or public right-of- way for more that 72 consecutive hours;
-      (3)   Which appear to have been parked on any private property (other
-than within a closed structure or junk enclosure as specified in §§
-92.50 through
-92.53) for more than 120 consecutive days; and
-      (4)   Which the Utility Superintendent reasonable suspects to be parked
-on a street or alley or other public right-of-way in violation of this
-subchapter.
-   (B)   The City Council shall cause notice to be given in connection with any
-vehicle which is identified to it pursuant to division (C) below as follows:
+   (A)   Responsibility. The City Council, under such rules of procedure as it
+may from time to time adopt regarding duties and assignments of individual
+Council members and with the assistance of the City Electrical Superintendent
+and City Maintenance Superintendent (water, waste water, streets, parks and
+cemetery), will identify and cause to be removed from the streets, alleys, and
+public rights-of-way and private property junk motor vehicles as defined under
+§ 92.32, hereof, which:
+      (1)   Are parked on any street, alley or public right-of-way and do not
+display a required, current motor vehicle license or other registration plate;
+and
+      (2)   Appear to have been parked in the same place on any street, alley
+or public right-of-way for more than 72 consecutive hours; or
+      (3)   Appear to have been parked on any private property (other than
+within a closed structure or junk enclosure as specified in §§ 92.50 through
+92.53, hereof) for more than 90 consecutive days.
+   (B)   Notice of violation. The City Council shall cause notice complying
+with the particulars of division (C), below, to be given in connection with any
+vehicle which is identified by it, pursuant to division (A), immediately above,
+and § 92.32, further above, as a junk motor vehicle as follows:
       (1)   By certified mail, return receipt requested to the last registered
 owner of the vehicle, if it is a vehicle subject to registration;
       (2)   By certified mail, return receipt requested to the person having
 charge of the vehicle or having charge of the property on which it is parked if
-known: and
-      (3)   By placing a notice on the vehicle, by taping it to a window or
-otherwise securing it in a conspicuous place, so long as such notice can be
-placed without committing trespass.
-   (C)   This notice shall inform the recipient substantially of the following:
-      (1)   A description of the vehicle and the vehicle may be illegally
-parked in violation of this subchapter;
-      (2)   The date, time and place of hearing to be held before the City
-Council to determine whether the vehicle is legally parked;
-      (3)   If the vehicle is determined by the City Council to be an illegally
-parked junk vehicle, it will be ordered to be removed;
-      (4)   The notice of an order to remove a vehicle will be made orally at
-the hearing and that no further notice will be given;
-      (5)   Any vehicle that is ordered to be removed by the City Council must
-be removed within 15 days of such order;
-      (6)   Any vehicle ordered to be removed by the City Council that is not
-moved within 15 days shall be towed and impounded on the order of the Mayor
-(who may delegate such authority to the Utility Superintendent, the Sheriff or
-any member of the City Council) and that a fine in the amount of $200 will be
-imposed as to any vehicle not removed as required;
-      (7)   Any vehicle towed and impounded on the order of the Mayor shall be
-towed, impounded and stored at the expense of the owner or other person
-claiming such vehicle; and
-      (8)   If the owner or person having control of the vehicle fails to
-appear at the hearing, a determination may be made that the vehicle is a junk
-motor vehicle and that it is parked in violation of this subchapter.
-   (D)   Upon determination by the City Council that a vehicle is illegally
-parked pursuant to this subchapter, notice shall be given thereof, orally to
-any person who is present at the hearing provided for in this subchapter, that
-such vehicle must be removed and legally parked within the municipal limits or
-otherwise removed from the limits of the city, not later than 12:00 a.m.
-midnight on the fifteenth day following the hearing. The penalty for violation
-of this division (D) is as set forth in §
+known; and
+      (3)   By securely attaching a notice on the vehicle, by taping it to a
+window or otherwise securing it in a conspicuous place, so long as such notice
+can be placed without committing trespass.
+   (C)   Contents of notice of violation. The notice as required by division
+(B), immediately above, must include the following:
+      (1)   A description of the vehicle;
+      (2)   A statement that the vehicle may be illegally parked in violation
+of this subchapter;
+      (3)   The date, time and place of hearing to be held before the City
+Council to determine if:
+         (a)   The vehicle is a junk motor vehicle as defined herein; and
+         (b)   If the junk motor vehicle is legally or illegally parked.
+      (4)   No member of the City Council who has been assigned under the
+Council's rules of procedure to identify and cause to be removed junk motor
+vehicles will sit as a finder of fact in the hearing to be held before the City
+Council;
+      (5)   If the vehicle is determined by the City Council to be an illegally
+parked junk motor vehicle, it will be ordered to be removed;
+      (6)   Any order to remove a junk motor vehicle will be made orally at the
+City Council hearing and that no further written notice will be given;
+      (7)   If the junk motor vehicle is ordered to be removed by the City
+Council such removal must be completed within 15 days of such order;
+      (8)   If the junk motor vehicle ordered to be removed by the City Council
+is not removed within 15 days it will be towed and impounded on the order of
+the Mayor or the Mayor's designee, the expenses of such towing, impoundment,
+and storage being the responsibility of the registered owner or any person
+claiming such junk motor vehicle;
+      (9)   A penalty in the amount of $200 will be imposed against the
+registered owner or any person claiming ownership of any junk motor vehicle
+ordered to be removed and not removed as required; and
+      (10)   If the owner or person having control of the alleged junk motor
+vehicle fails to appear at the hearing, a determination may still be made that
+the vehicle is a junk motor vehicle and that it is parked in violation of this
+subchapter.
+   (D)   Hearing.
+      (1)   A hearing, the notice of which must have been given pursuant to
+divisions (B) and (C), above, will be held before a quorum of the City Council.
+         (a)   Calculation of such quorum will exclude any Council members who
+have been assigned under the Council's rules of procedure to identify junk
+motor vehicles.
+         (b)   Such excluded Council members may be called as witnesses at the
+required hearing, but must not participate or deliberate as finders of fact.
+         (c)   Both the city and the owner, or any person claiming ownership,
+of the alleged illegally parked junk motor vehicle will be allowed to present
+all witnesses and other evidence relevant to the Council's decision.
+         (d)   Deliberation will occur immediately following the close of
+evidence, without adjournment or recess, and the Council's decision must be
+announced in open session immediately following the conclusion of such
+deliberation.
+      (2)   If at the required hearing the City Council determines a vehicle is
+a junk motor vehicle as defined herein and such junk motor vehicle is illegally
+parked pursuant to this subchapter, the Council will, as required by division
+(D)(1)(d), immediately above, announce such decision to the owner or any person
+claiming ownership of the vehicle who is present at the hearing. The
+announcement of the decision will include, as relevant, the facts and findings
+that:
+         (a)   Such vehicle is a junk motor vehicle as defined herein;
+         (b)   Is illegally parked;
+         (c)   Must be removed and legally parked within the municipal limits
+or otherwise removed from the limits of the city, not later than 12:00 a.m.
+midnight on the fifteenth day following the pronouncement of the City Council's
+decision at the hearing; and
+         (d)   The penalty for violation of division (D) is $200 as set forth
+in §
 92.99 of this chapter.
-   (E)   (1)   Any vehicle subject to removal under the terms of division (D)
-above that is not removed within the time set forth in division (D) above shall
-be removed by towing at the direction of the Mayor or his or her designee. All
-towed vehicles shall be impounded by the towing agency, under the authority of
-the City Council.
-      (2)   No such towed vehicle shall be released except upon payment of:
+      (3)   If the owner or person having control, or claiming ownership, of
+the alleged junk motor vehicle fails to appear at the hearing, the City Finance
+Officer will, the next business day following the hearing, mail written notice
+of the decision, including all particulars of division (D)(2), immediately
+above, to such individuals.
+   (E)   Removal by city.
+      (1)   Any junk motor vehicle subject to removal under the terms of
+division (D), immediately above, which is not removed within the time set forth
+in division (D), above, will be removed by towing at the direction of the Mayor
+or the Mayor's designee. All towed junk motor vehicles will be impounded by the
+towing agency, under the authority of the City Council and pursuant to any
+contract the towing agency may have with the city.
+      (2)   No such towed junk motor vehicle will be released except upon
+payment of:
          (a)   The fine imposed under division (D) above; and
-         (b)   The reasonable charges of the towing agency for towing and
-storage of the vehicle.
-   (F)   Any towed vehicle not claimed by the owner or other person within ten
-days of towing may be released by the Mayor or his or her designee to the
-towing agency for disposition as an abandoned vehicle.
-(Prior Code, § 4-9-4) (Ord. passed 11-4-2002) Penalty, see §
+         (b)   The towing agency's charges for towing and storage of the junk
+motor vehicle.
+   (F)   Unclaimed removed junk motor vehicles. Any towed, removed, and stored
+junk motor vehicle not claimed by the owner or other person within ten days of
+towing may be released by the Mayor or the Mayor's designee to the towing
+agency for disposition as an abandoned vehicle.
+(Prior Code, § 4-9-4) (Ord. passed 11-4-2002; Ord. 2025-10-6, passed 10-6-2025)
+Penalty, see §
 92.99
 § 92.39 NUISANCE.
    Junk vehicles shall constitute a nuisance as defined in §§
@@ -9345,83 +9409,90 @@ Ord. No.  Date Passed Description
 6-7-21    6-7-2021    TSO II
 1-2-23    12-5-2022   50.03
 41723     - -2023     50.02
+4-7-2025  4-7-2025    50.03
                      
  
 REFERENCES TO ORDINANCES
 Ord. No. Date Passed Description
-Ord. No.   Date Passed Description
-                       91.30—
--          - -         91.40,
-                       91.99
--          - -         95.28
-                       51.01—
-                       51.08,
-                       51.20—
-209        - -         51.28,
-                       51.99,
-                       Ch. 51, App. A,
-                       Ch. 51, App. B,
-                       Ch. 51, App. C
-                       153.01—
-                       153.04,
-                       153.15,
-                       153.30—
--          5-1-1989    153.35,
-                       153.50—
-                       153.52,
-                       153.65,
-                       153.66
--          9-5-1989    114.31,
-                       114.99
-6-27       10-2-1989   71.27
--          8- - 1993   110.09
--          9-7-1993    114.03
-                       33.20—
-1-5A       10-4-1993   33.24,
-                       33.99
-                       33.35—
-1-5B       10-3-1994   33.41,
-                       33.99
-                       154.01—
--          11-6-1995   154.03,
-                       154.99
-                       92.35—
--          11-4-2002   92.39,
-                       92.99
--          8-3-2009    92.20—
-                       92.24
-2-6-2012   2-20-2012   34.01
-7-2-12     7-2-2012    TSO II
--          8-27-2012   Ch. 51, App. B
-16-2-17    2-4-2013    50.15—
-                       50.18
--          5-8-2013    51.99
-18-1-2.1   5-8-2013    51.99
-5-4-7      10-7-2013   93.036
-240        6-5-2017    50.01
-242        3-19-2018   50.03
-249        11-4-2019   33.08
-16-2-28    2-4-2019    50.02,
-                       53.25
-2020-12-28 12-28-2020  113.01,
-                       113.99
-                       115.01—
-2021-3     10-11-2021  115.16,
-                       115.99
-2021-6     12-27-2021  34.01
-                       153.01—
-                       153.04,
-                       153.15,
-                       153.30—
-2022-4     3-21-2022   153.35,
-                       153.50—
-                       153.54,
-                       153.65—
-                       153.70,
-                       153.99
-                       114.50—
--          6-7-2022    114.53,
-                       114.99
-2024-3-1   2-3-2025    71.23
-                      
+Ord. No.     Date Passed Description
+                         91.30—
+-            - -         91.40,
+                         91.99
+-            - -         95.28
+                         51.01—
+                         51.08,
+                         51.20—
+209          - -         51.28,
+                         51.99,
+                         Ch. 51, App. A,
+                         Ch. 51, App. B,
+                         Ch. 51, App. C
+                         153.01—
+                         153.04,
+                         153.15,
+                         153.30—
+-            5-1-1989    153.35,
+                         153.50—
+                         153.52,
+                         153.65,
+                         153.66
+-            9-5-1989    114.31,
+                         114.99
+6-27         10-2-1989   71.27
+-            8- - 1993   110.09
+-            9-7-1993    114.03
+                         33.20—
+1-5A         10-4-1993   33.24,
+                         33.99
+                         33.35—
+1-5B         10-3-1994   33.41,
+                         33.99
+                         154.01—
+-            11-6-1995   154.03,
+                         154.99
+                         92.35—
+-            11-4-2002   92.39,
+                         92.99
+-            8-3-2009    92.20—
+                         92.24
+2-6-2012     2-20-2012   34.01
+7-2-12       7-2-2012    TSO II
+-            8-27-2012   Ch. 51, App. B
+16-2-17      2-4-2013    50.15—
+                         50.18
+-            5-8-2013    51.99
+18-1-2.1     5-8-2013    51.99
+5-4-7        10-7-2013   93.036
+240          6-5-2017    50.01
+242          3-19-2018   50.03
+249          11-4-2019   33.08
+16-2-28      2-4-2019    50.02,
+                         53.25
+2020-12-28   12-28-2020  113.01,
+                         113.99
+                         115.01—
+2021-3       10-11-2021  115.16,
+                         115.99
+2021-6       12-27-2021  34.01
+                         153.01—
+                         153.04,
+                         153.15,
+                         153.30—
+2022-4       3-21-2022   153.35,
+                         153.50—
+                         153.54,
+                         153.65—
+                         153.70,
+                         153.99
+                         114.50—
+-            6-7-2022    114.53,
+                         114.99
+2024-3-1     2-3-2025    71.23
+2025-05-05-1 5-8-2025    92.35
+                         50.15,
+2025-05-05-2 6-2-2025    50.16,
+                         52.34,
+                         53.35
+2025-10-6    10-6-2025   92.38
+                        
  
