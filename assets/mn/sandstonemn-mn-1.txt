@@ -1,7 +1,7 @@
 SANDSTONE, MINNESOTA
 CODE OF ORDINANCES
-2024 S-1 Supplement contains:
-Local legislation current through Ord. 20240612-01, passed 6-12-2024
+2025 S-2 Supplement contains:
+Local legislation current through Ord. 20250618-01, passed 6-18-2025
  
 Published by:
 American Legal Publishing
@@ -1669,6 +1669,7 @@ Meeting agenda copy - per year and mailing             $20
 Meeting minutes copy - per year and mailing            $25
 Non-sufficient fund check (NSF)                        Max allowed by state
 Plat map and the like                                  Engineer’s cost
+Property abatement (contracted out)                    Cost billed to city
 Repeat nuisance service calls                          $350 (first), $500
                                                        (second)
 Special assessment search                              $40
@@ -1762,7 +1763,6 @@ Building sewer permit                                  $25
 Business subsidy agreement application                 consultant time; plus
                                                        escrow - determined by
                                                        staff
-CED loan application                                   $100
                                                        $500, plus staff/legal
 Developer agreement processing                         time, plus escrow
                                                        determined by staff
@@ -1824,10 +1824,10 @@ Storm water management plan
                                                        project construction
                                                        items
 PERMITS/LICENSES - MISCELLANEOUS
+Cannabis retail registration                           Issued by Pine County
 Courtesy bench license (annual)                        No charge
 Flammable liquid storage permit                        $5
 Junk dealer’s license                                $250
-Lodging license (annual)                               $25
 Mobile food units and food carts license fee           $25/day (temporary),
                                                        $100 (annual)
 Peddlers/transient merchants/solicitors                $25
@@ -1889,11 +1889,11 @@ Late payment fee                                       10% of balance
 Lawn sprinkler/irrigation system permit                $50
 Private wastewater disposal system permit              $25
 Sewer (on-site systems) compliance inspections         Done by the county
-Sewer base fee (fixed rate)                            $16.58 each notice
+Sewer base fee (fixed rate)                            $16.82 each notice
                                                        Will increase 0.5%
 Sewer fixed rate                                       annually, effective 1-1-
                                                        2023
-Sewer rate per gallon (volume)                         $4.30/1,000 gallons
+Sewer rate per gallon (volume)                         $4.50/1,000 gallons
                                                        Will increase 1.5%
 Sewer volume rate                                      annually, effective 1-1-
                                                        2023
@@ -1905,16 +1905,14 @@ Storm water utility user fee                           158.05 of this code of
 Surcharge for non-compliance with clear water          $25/month
 discharge requirements
 Technology access                                      $0.07
-Water base fee (fixed rate)                            $15.44, effective 3-1-
-                                                       2022
+Water base fee (fixed rate)                            $15.68
 Water, continuation of service fee                     $50
 Water, disconnect/connect (seasonal)                   $15
 Water discontinuation of service notice                $10
                                                        Will increase 0.5%
 Water fixed rate                                       annually, effective 1-1-
                                                        2023
-Water rate per gallon (volume)                         $6.21/1,000 gallons,
-                                                       effective 3-1-2022
+Water rate per gallon (volume)                         $6.49/1,000 gallons
                                                        Double the current water
 Water use                                              volume rate/1,000
                                                        gallons ($20 minimum)
@@ -1934,7 +1932,7 @@ Floodplain permit                                      $100
 Home occupation                                        permit or conditional
                                                        use permit
 Interim use permit                                     $225
-Lot split review                                       $100
+Lot split application                                  $225
 Ordinance amendment                                    $250, plus staff/
                                                        consultant time
 Preliminary plat - deposit                             $2,000
@@ -1955,7 +1953,8 @@ Variance                                               $225
  
 (Scheduled passed 1-19-2022; Ord. 20220216-01, passed 2-24-2022; Schedule
 amended 6-15-2022; Ord. 20221228-01, passed 12-28-2022; Schedule amended - -
-2023; Ord. 20240117-02, passed 1-17-2024; Ord. 20240417-01, passed 4-17-2024)
+2023; Ord. 20240117-02, passed 1-17-2024; Ord. 20240417-01, passed 4-17-2024;
+Ord. 20241218-01, passed 12-18-2024)
 TITLE V: PUBLIC WORKS
    Chapter
       
@@ -20057,7 +20056,7 @@ sometimes the MN DOT ROW will extend excessively onto what would normally be
 considered a property owner’s yard).
  
    (G)   Traffic visibility diagram.
-[https://export.amlegal.com/media/1b1ae337e2d0bfacd5595932e3457a2f4fa33137/
+[https://export.amlegal.com/media/c4982d58f6c8f0b169be5b94d2c02e8c4d2cfd59/
 IMAGES/0-0-0-1922.png]
 (Ord. 20210421-03, passed 4-21-2021) Penalty, see §
 163.999
@@ -20239,17 +20238,15 @@ residential district where limited commercial uses such as small retail
 § 163.021 PERMITTED USES.
    (A)   Single-family residential;
    (B)   Two-family residential;
-   (C)   Home occupation, Type 1;
-   (D)   Home occupation, Type 2;
-   (E)   Essential services; and
-   (F)   State-licensed residential facilities, housing with services
+   (C)   Essential services; and
+   (D)   State-licensed residential facilities, housing with services
 establishments serving six or fewer persons, licensed day care facilities
 serving 12 or fewer persons, and group family day care facilities licensed to
 serve 14 or fewer children, all as defined and permitted by M.S. § 462.357,
 subd. 7, as it may be amended from time to time, are considered a single-family
 residential use.
 (Prior Code, § 515.11) (Ord. 02-03, passed 10-16-2002; Ord. 2011-01, passed 2-
-16-2011; Ord. 20210120, passed 1-20-2021)
+16-2011; Ord. 20210120, passed 1-20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.022 PERMITTED ACCESSORY USES.
    (A)   Private garages, parking spaces and carports for licensed and
 operating passenger cars and trucks, not to exceed a gross vehicle weight of
@@ -20290,14 +20287,16 @@ All garage sales shall end at 10:00 p.m.;
 § 163.023 INTERIM USES.
    The following uses may be permitted upon the issuance of an interim use
 permit:
-   (A)   Home occupation, Type 3;
-   (B)   Home occupation, Type 4;
-   (C)   Vacation rentals; and
-   (D)   Small engine and related equipment repair; non-motor fuel repair
+   (A)   Home occupation, Type 1;
+   (B)   Home occupation, Type 2;
+   (C)   Home occupation, Type 3;
+   (D)   Home occupation, Type 4;
+   (E)   Vacation rentals; and
+   (F)   Small engine and related equipment repair; non-motor fuel repair
 shops, including appliances, computers and the like as an accessory use
 (secondary to the residential use).
 (Prior Code, § 515.11) (Ord. 02-03, passed 10-16-2002; Ord. 2011-01, passed 2-
-16-2011; Ord. 20210120, passed 1-20-2021)
+16-2011; Ord. 20210120, passed 1-20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.024 CONDITIONAL USES.
    The following uses may be permitted upon the issuance of a conditional use
 permit:
@@ -20344,12 +20343,13 @@ impose during the conditional-permit-application process.
 20231115-01, passed 11-15-2023; Ord. 20231220-02, passed 12-20-2023)
 § 163.025 PERFORMANCE STANDARDS.
    (A)   Minimum parcel size:
-      (1)   Single-family dwellings: 8,000 square feet;
+      (1)   Single-family dwellings: 7,000 square feet;
       (2)   Two-family dwellings: 9,000 square feet; and
-      (3)   Three and four family dwellings: 11,000 square feet.
+      (3)   Three- and four-family dwellings: 11,000 square feet.
    (B)   Minimum lot width:
-      (1)   Single-family and two-family dwellings: 80 feet; and
-      (2)   All other uses: 100 feet.
+      (1)   Single-family dwellings: 50 feet;
+      (2)   Two-family dwellings: 80 feet; and
+      (3)   All other uses: 100 feet.
    (C)   Setbacks:
       (1)   Front yard setback: 30 feet or in line with adjacent neighboring
 residential structures, whichever is less;
@@ -20379,8 +20379,22 @@ building;
 corner lot; and
       (7)   Rear yard setback: five feet, or from a designated setback on a
 corner lot.
+   (J)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.11) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025; Ord. 20250618-01, passed 6-18-
+2025)
 § 163.026 OTHER REQUIREMENTS.
    No more than one temporary storage container may be stored in a side or rear
 yard; provided that, the side yard storage shall not be adjacent to a street
@@ -20404,17 +20418,15 @@ more intensive uses in closer proximity to major roadways.
 16-2002; Ord. 20210120, passed 1-20-2021; Ord. 20231115-03, passed 11-15-2023)
 § 163.041 PERMITTED USES.
    (A)   Single-family detached dwellings;
-   (B)   Home occupation, Type 1;
-   (C)   Home occupation, Type 2;
-   (D)   Parks or outdoor recreational areas, paths and trails; and
-   (E)   State-licensed residential facilities, housing with services
+   (B)   Parks or outdoor recreational areas, paths and trails; and
+   (C)   State-licensed residential facilities, housing with services
 establishments serving six or fewer persons, licensed day care facilities
 serving 12 or fewer persons, and group family day care facilities licensed to
 serve 14 or fewer children, all as defined and permitted by M.S. § 462.357,
 subd. 7, as it may be amended from time to time, are considered a single-family
 residential use.
 (Prior Code, § 515.13) (Ord. 97-01B, passed 4-16-1997; Ord. 02-03, passed 10-
-16-2002; Ord. 20210120, passed 1-20-2021)
+16-2002; Ord. 20210120, passed 1-20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.042 ACCESSORY USES.
    (A)   Private recreational facilities such as tennis courts or swimming
 pools used by the resident owners and guests;
@@ -20429,10 +20441,13 @@ sewer lift stations or water wells and storage tanks;
 § 163.043 INTERIM USES.
    The following uses may be permitted upon the issuance of an interim use
 permit:
-   (A)   Home occupation, Type 3; and
-   (B)   Home occupation, Type 4.
+   (A)   Home occupation, Type 1;
+   (B)   Home occupation, Type 2;
+   (C)   Home occupation, Type 3; and
+   (D)   Home occupation, Type 4.
 (Prior Code, § 515.13) (Ord. 97-01B, passed 4-16-1997; Ord. 02-03, passed 10-
-16-2002; Ord. 2011-01, passed 2-16-2011; Ord. 20210120, passed 1-20-2021)
+16-2002; Ord. 2011-01, passed 2-16-2011; Ord. 20210120, passed 1-20-2021; Ord.
+20250219-01, passed 2-19-2025)
 § 163.044 CONDITIONAL USES.
    The following uses may be permitted upon the issuance of a conditional use
 permit:
@@ -20470,8 +20485,8 @@ highway right-of-way must conform to the requirements for a front yard.
 16-2002; Ord. 20210120, passed 1-20-2021)
 § 163.046 PERFORMANCE STANDARDS.
    (A)   The minimum lot size is five acres for residential sites without
-public sewer. Non-residential sites except essential services, without a public
-sewer require a minimum lot size of ten acres.
+public sewer. Non- residential sites except essential services, without a
+public sewer require a minimum lot size of ten acres.
    (B)   (1)   Front yard setback is 40 feet.
       (2)   Rear yard setback is 30 feet.
       (3)   Side yard setback is 15 feet.
@@ -20499,16 +20514,29 @@ building;
 a corner lot; and
          (b)   Rear yard setback, or from a designated setback on a corner lot:
 five feet.
-      (7)   Sanitary sewage treatment systems (SSTS): all lots must have a
-minimum of two soil treatment and dispersal areas that can support trenches,
-seepage beds, mounds and at-grade systems as described in Minn. Rules parts
-7080.2200 through 7080.2230 or site conditions described in part 7081.0270,
-subparts 3 through 7, at the time the plat or subdivision is approved. A
-cluster sanitary sewage treatment system (SSTS) that has a common interest lot
-where a central system is located shall meet this requirement by having the
-minimum of two soil treatment and dispersal areas on the designated lot.
+   (K)   Sanitary sewage treatment systems (SSTS): all lots must have a minimum
+of two soil treatment and dispersal areas that can support trenches, seepage
+beds, mounds and at-grade systems as described in Minn. Rules parts 7080.2200
+through 7080.2230 or site conditions described in part 7081.0270, subparts 3
+through 7, at the time the plat or subdivision is approved. A cluster sanitary
+sewage treatment system (SSTS) that has a common interest lot where a central
+system is located shall meet this requirement by having the minimum of two soil
+treatment and dispersal areas on the designated lot.
+   (L)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.13) (Ord. 97-01B, passed 4-16-1997; Ord. 02-03, passed 10-
-16-2002; Ord. 20210120, passed 1-20-2021)
+16-2002; Ord. 20210120, passed 1-20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.047 OTHER REQUIREMENTS.
    (A)   Within the Suburban Residential District, the requirements hereof
 apply with the following additional minimum requirements for parking related to
@@ -20583,7 +20611,7 @@ permit: home occupation, Type 4.
 (Prior Code, § 515.15) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
 20-2021)
 § 163.064 CONDITIONAL USES.
-   (A)    Apartments as an accessory use; provided, they are located above the
+   (A)   Apartments as an accessory use; provided, they are located above the
 first floor, behind the storefront, in the basement, or other appropriate
 configuration that does not detract from the appearance of the permitted use of
 the property;
@@ -20591,10 +20619,10 @@ the property;
 Chapter 159 of this code of ordinances);
    (C)   Child care centers;
    (D)   Pawn shops;
-   (E)   Places of assembly; and
+   (E)   Places of assembly;
    (F)   Parks, playgrounds, public recreational, cultural or administrative
-facilities, such as park buildings or libraries.
-   (G)   Sacred settlements of micro units on religious property.
+facilities, such as park buildings or libraries;
+   (G)   Sacred settlements of micro units on religious property:
       (1)   For the purposes of this section, RELIGIOUS INSTITUTION includes a
 church, synagogue, mosque, or religious organization organized under M.S.
 Chapter 315, as may be amended from time to time.
@@ -20603,9 +20631,10 @@ Statutes as they relate to micro units and restrictions for faith communities
 that choose to establish a sacred settlement of micro units must be followed.
       (3)   The Planning Commission may consider additional conditions to
 impose during the conditional-permit-application process.
+   (H)   Cannabis retailer.
 (Prior Code, § 515.15) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
 20-2021; Ord. 20231115-01, passed 11-15-2023; Ord. 20240221-02, passed 2-21-
-2024)
+2024; Ord. 20250219-01, passed 2-19-2025)
 § 163.065 PERFORMANCE STANDARDS.
    (A)   Minimum lot size: no requirement.
    (B)   Front, side and rear yard requirements: a permitted or conditional use
@@ -20613,8 +20642,21 @@ including accessory uses in the Historic Downtown District must have a rear
 yard of not less than ten feet when the use is abutting any platted alley, or
 ten feet on any side facing a platted alley, which yard may be used only for
 access to the use or for landscaping purposes.
+   (C)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.15) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.066 OTHER REQUIREMENTS.
    No more than one temporary storage container may be stored in a side or rear
 yard; provided that, the side yard storage shall not be adjacent to a street
@@ -20691,16 +20733,18 @@ Chapter 115 of this code of ordinances;
    (D)   Public schools or equivalent private and parochial schools;
    (E)   Parks, playgrounds, public recreational, cultural or administrative
 facilities, such as park buildings or libraries;
-   (F)    Parking garages/ramps;
+   (F)   Parking garages/ramps;
    (G)   All other similar commercial and retail uses that are not listed as
-permitted or conditional uses; and
+permitted or conditional uses;
    (H)   Apartments as an accessory use; provided, they are located above the
 first floor, behind the storefront, in the basement, or other appropriate
 configuration that does not detract from the appearance of the permitted use of
-the property.
+the property; and
+   (I)   Cannabis retailer.
 (Prior Code, § 515.17) (Ord. 02-03, passed 10-16-2002; Ord. 2007-01, passed 2-
 7-2007; Ord. 2011-01, passed 2-16-2011; Ord. 20210120, passed 1-20-2021; Ord.
-20210616-01, passed 6-16-2021; Ord. 20240221-01, passed 2-21-2024)
+20210616-01, passed 6-16-2021; Ord. 20240221-01, passed 2-21-2024; Ord.
+20250219-01, passed 2-19-2025)
 § 163.084 ACCESSORY USES.
    (A)   Unheated buildings and structures for a use accessory to the principal
 use, but the use or structure may not exceed 30% of the gross floor space of
@@ -20750,8 +20794,22 @@ year, 24-hour storm event on the parcel; or
 bodies, including wetlands and adjacent parcels through the use of berms or
 other permanent means; or
          (c)   Where municipal storm water is available.
+   (F)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.17) (Ord. 02-03, passed 10-16-2002; Ord. 2007-01, passed 2-
-7-2007; Ord. 2011-04, passed 4-20-2011; Ord. 20210120, passed 1-20-2021)
+7-2007; Ord. 2011-04, passed 4-20-2011; Ord. 20210120, passed 1-20-2021; Ord.
+20250219-01, passed 2-19-2025)
 PROSPECTIVE INTERCHANGE DEVELOPMENT DISTRICT
 § 163.100 PURPOSE.
    (A)   This district is established to manage development of the I-35/Highway
@@ -20768,14 +20826,10 @@ roads and trails through this interchange.
    (C)   General retail space with a minimum square footage of 10,000 square
 feet;
    (D)   Professional office space with a minimum square footage of 10,000
-square feet;
-   (E)   Gas station and/or convenience stores;
-   (F)   Home occupation, Type 1;
-   (G)   Home occupation, Type 2;
-   (H)   Home occupation, Type 3; and
-   (I)   Home occupation, Type 4.
+square feet; and
+   (E)   Gas station and/or convenience stores.
 (Prior Code, § 515.19) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.102 ACCESSORY USES.
    (A)   Parking lots;
    (B)   Unheated buildings and structures (including temporary storage
@@ -20800,7 +20854,7 @@ Chapter 162 of this code of ordinances;
 § 163.103 INTERIM USES.
    The following uses may be permitted upon the issuance of an interim use
 permit:
-   (A)   Seasonal produce stands; and
+   (A)   Seasonal produce stands;
    (B)   (1)   Entertainment/recreational facilities including go-kart tracks,
 water parks, miniature golf courses, amusement parks and concert facilities.
       (2)   In addition to those conditions and submissions required by this
@@ -20818,8 +20872,12 @@ least 30 days prior to the special event);
 conjunction with the entertainment or recreational activity, including, but not
 limited to, special rules for on-site RV and tent camping, fireworks and the
 like.
+   (C)   Home occupation, Type 1;
+   (D)   Home occupation, Type 2;
+   (E)   Home occupation, Type 3; and
+   (F)   Home occupation, Type 4.
 (Prior Code, § 515.19) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.104 CONDITIONAL USES.
    The following uses may be permitted upon the issuance of a conditional use
 permit:
@@ -20837,11 +20895,13 @@ permit:
 163.250 of this chapter);
    (I)   Towers and antennas (see
 Chapter 159 of this code of ordinances);
-   (J)   Essential services; and
+   (J)   Essential services;
    (K)   Parks, playgrounds, public recreational, cultural or administrative
-facilities, such as park buildings or libraries.
+facilities, such as park buildings or libraries;
+   (L)   Cannabis retailer; and
+   (M)   Cannabis wholesaler.
 (Prior Code, § 515.19) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.105 PERFORMANCE STANDARDS.
    (A)   Minimum lot size. With the exception of a lot that is being
 exclusively used for essential services, a lot in the Prospective Interchange
@@ -20865,8 +20925,21 @@ by amount of structure that can be seen during leaf-on conditions.
 and approved in accordance with §§
 158.25 through
 158.35 of this code of ordinances.
+   (F)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.19) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.106 OTHER STANDARDS AND REQUIREMENTS.
    (A)   Preliminary building and site development plan. Prior to issuance of
 any building permit or other approvals for property in the Prospective
@@ -20967,14 +21040,15 @@ buildings and similar uses;
    (F)   Towers and antennas in accordance with
 Chapter 159 of this code of ordinances;
    (G)   Solar energy facilities;
-   (H)   Taxi/transit services, including loading or unloading facilities; and
-   (I)   Other manufacturing, production, processing, cleaning, storage,
-servicing and repair of materials, goods or products determined by the Planning
-Commission and confirmed by the City Council to be similar to the above
-conditional uses and which conform to the purpose and performance standards of
-the district.
+   (H)   Taxi/transit services, including loading or unloading facilities;
+   (I)   Other manufacturing, production, ing, cleaning, storage, servicing and
+repair of materials, goods or products determined by the Planning Commission
+and confirmed by the City Council to be similar to the above conditional uses
+and which conform to the purpose and performance standards of the district; and
+   (J)   Cannabis indoor cultivation, manufacturing, processing, wholesaling
+and testing facilities.
 (Prior Code, § 515.21) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.124 PERFORMANCE STANDARDS.
    (A)   Minimum lot size. With the exception of a lot that is being
 exclusively used for essential services, a lot in the Professional/Light
@@ -21027,8 +21101,21 @@ each tenant from the major access road will be permitted. Secondary signage
 shall be pedestrian scale and oriented toward the parking lots on the site and
 shall be subject to the requirements and restrictions set forth in Chapter 162
 of this code of ordinances.
+   (G)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.21) (Ord. 02-03, passed 10-16-2002; Ord. 20210120, passed 1-
-20-2021)
+20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.125 OTHER STANDARDS AND REQUIREMENTS.
    (A)   Landscaping requirements. Open areas of a site, lot, tract or parcel
 must be graded to provide proper drainage, and except for areas used for
@@ -21160,10 +21247,12 @@ Chapter 162 of this code of ordinances;
 and storage facilities;
    (F)   Towers and antennas (see
 Chapter 159 of this code of ordinances);
-   (G)   Taxi/transit services; and
-   (H)   Day care centers.
+   (G)   Taxi/transit services;
+   (H)   Day care centers; and
+   (I)   Cannabis wholesaling.
 (Prior Code, § 515.23) (Ord. 02-03, passed 10-16-2002; Ord. 2015-04, passed 8-
-19-2015; Ord. 20210120, passed 1-20-2021; Ord. 20220119-02, passed 1-19-2022)
+19-2015; Ord. 20210120, passed 1-20-2021; Ord. 20220119-02, passed 1-19-2022;
+Ord. 20250219-01, passed 2-19-2025)
 § 163.144 LOT AREA AND SETBACK REQUIREMENTS.
    (A)   Minimum lot width. A lot should not be less than 150 feet in width.
    (B)   Setback requirements. Principal uses must comply with the following
@@ -21243,8 +21332,21 @@ Required screening must be properly maintained so as not to become unsightly,
 hazardous, or less opaque than when originally constructed.
       (3)   Existing junkyards must comply with screening requirements within
 two years after the effective date of this section.
+   (I)   Where allowed, standards for cannabis businesses are:
+      (1)   A license or endorsement from the State of Minnesota Office of
+Cannabis Management is required.
+      (2)   Compliance with state license requirements shall be maintained at
+all times.
+      (3)   A cannabis business shall be located:
+         (a)   At least 500 feet from any day care or residential treatment
+facility as measured from property line to property line;
+         (b)   At least 500 feet from any attraction within a public park that
+is regularly used by minors, including a playground or athletic field, measured
+from the property line of the cannabis business to the attraction; and
+         (c)   At least 1,000 feet from any K-12 school as measured from the
+property line to the property line.
 (Prior Code, § 515.23) (Ord. 02-03, passed 10-16-2002; Ord. passed - -2008;
-Ord. 20210120, passed 1-20-2021)
+Ord. 20210120, passed 1-20-2021; Ord. 20250219-01, passed 2-19-2025)
 § 163.146 ADDITIONAL REQUIREMENTS.
    The Planning Commission or the City Council may require additional items
 from the applicant as they deem necessary in order to assess compatibility of
@@ -21590,13 +21692,13 @@ regulation shall govern and prevail.
 (Prior Code, § 515.33) (Ord. 20181107-02, passed 11-7-2018; Ord. 20210217-09,
 passed 2-17-2021)
 § 163.193 AIR SPACE ZONES.
-[https://export.amlegal.com/media/1b1ae337e2d0bfacd5595932e3457a2f4fa33137/
+[https://export.amlegal.com/media/c4982d58f6c8f0b169be5b94d2c02e8c4d2cfd59/
 IMAGES/0-0-0-1915.png]
  
 (Prior Code, § 515.33) (Ord. 20181107-02, passed 11-7-2018; Ord. 20210217-09,
 passed 2-17-2021)
 § 163.194 SAFETY ZONE BOUNDARIES.
-[https://export.amlegal.com/media/1b1ae337e2d0bfacd5595932e3457a2f4fa33137/
+[https://export.amlegal.com/media/c4982d58f6c8f0b169be5b94d2c02e8c4d2cfd59/
 IMAGES/0-0-0-1917.png]
  
 (Prior Code, § 515.33) (Ord. 20181107-02, passed - -2018; Ord. 20210217-09,
@@ -22597,27 +22699,25 @@ Adjustment and Appeals and has the powers and duties provided by law for the
 Board.
    (C)   Planning Commission.
       (1)   There is established as continued a Planning Commission. The
-Planning Commission consists of seven members appointed by the City Council.
+Planning Commission consists of five members appointed by the City Council.
 Members must be residents of the city. The Planning Commission is the planning
 agency of the city as provided in M.S. § 462.354, as it may be amended from
 time to time.
       (2)   The City Council must appoint one of its members to serve on the
-Planning Commission. The City Council representative serves as an ex-officio,
-non-voting member of the Planning Commission.
+Planning Commission.
       (3)   The Planning Commission must elect a chairman from among its
 members and appoint a secretary. The Administrator or the Administrator’s
 designee may serve as the Secretary. The Secretary must keep minutes of all
 meetings.
       (4)   The Planning Commission advises the City Council on conditional use
-permits, rezonings, planned unit development, changes to this section or any
-other matter deemed necessary by the City Council for the effective
-administration of this section.
-      (5)   The City Council and Planning Commission must hold an annual joint
-meeting as soon as possible after the annual meeting of the City Council. The
-joint meeting must set agenda, policies and goals for the upcoming years
-Planning Commission activities.
-      (6)   Each member of the Planning Commission may vote on all questions.
-      (7)   Members of the Planning Commission serve for terms of three years.
+permits, interim use permits, right-of-way vacations, rezonings, planned unit
+development, plat reviews, comprehensive plan amendments, variances, changes to
+this section or any other matter deemed necessary by the City Council for the
+effective administration of this section, as well as reviewing and commenting
+on all proposed public acquisitions or disposal of real property within the
+city and on all proposed public capital improvements within the city.
+      (5)   Each member of the Planning Commission may vote on all questions.
+      (6)   Members of the Planning Commission serve for terms of three years.
    (D)   Enforcement.
       (1)   The Zoning Administrator must enforce this section.
       (2)   If the Zoning Administrator finds that a provision of this section
@@ -22631,7 +22731,7 @@ of this section.
 of a building or structure located on a lot or plat sold in violation of the
 regulations of this section or in violation if the regulations of this section
 or in non-compliance with the provisions of this section.
-(Ord. 2008-11, passed - -2008)
+(Ord. 2008-11, passed - -2008; Ord. 20241016-01, passed 10-16-2024)
 § 163.326 ZONING COMPLIANCE.
    (A)   General rule. Buildings or structures erected, constructed, altered or
 moved must conform to the regulations specified for the district in which they
@@ -23150,7 +23250,7 @@ continues to exist shall constitute a separate offense.
 passed 2-17-2021)
 TABLE OF SPECIAL ORDINANCES
 [Reserved]
-PARALLEL REFERENCES
+ARALLEL REFERENCES
 References to Minnesota Statutes
 References to Prior Code
 References to Ordinances
@@ -24481,6 +24581,27 @@ Ord. No.    Date Passed Code Section
 20240417-01 4-17-2024   36.02;
                         90.17
 20240612-01 6-12-2024   154.010
+20241016-01 10-16-2024  163.325
+20241218-01 12-18-2024  36.02
+                        163.021;
+                        163.023;
+                        163.025;
+                        163.041;
+                        163.043;
+                        163.044;
+                        163.046;
+                        163.064;
+20250219-01 2-19-2025   163.065;
+                        163.083;
+                        163.085;
+                        163.101;
+                        163.103—
+                        163.105;
+                        163.123;
+                        163.124;
+                        163.143;
+                        163.145
+20250618-01 6-18-2025   163.025
                        
  
  
