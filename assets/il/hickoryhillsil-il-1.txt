@@ -4866,35 +4866,43 @@ on a monthly basis. All other users shall be billed on a quarterly basis.
    (c)   Rates. There is hereby established a rate which shall consist of a
 basic user charge, water rate, minimum billing amount and a minimum charge for
 the use of water supplied by the City of Hickory Hills as follows:
-      1.   The basic user charge shall be $5.50 per month regardless of whether
-any water is being used.
-      2.   The rate for water used shall be $8.41 per 1,000 gallons or fraction
-thereof, subject to the following minimums:
+      1.   The basic user charge shall be $6.00 per month, effective with
+billings after September 1, 2025, regardless of whether any water is being
+used.
+      2.   The rate for water used shall be $9.16 per 1,000 gallons effective
+with billings after September 1, 2025, and $9.91 per 1,000 gallons effective
+with billings after September 1, 2026, subject to the following minimums:
  
                   Minimum Billing Amount Minimum Charge
-Commercial Users  5,000 gallons          $42.05 per monthly billing
-Residential Users 12,000 gallons         $100.92 per quarterly billing
+                                         $45.80 per monthly billing (Effective
+Commercial Users  5,000 gallons          September 1, 2025)
+                                         $49.55 per monthly billing
+                                         (Effective September 1, 2026)
+                                         $100.92 per quarterly billing
+Residential Users 12,000 gallons         (Effective September 1, 2025)
+                                         $118.92 per quarterly billing
+                                         (Effective September 1, 2026)
  
-      Any single family residential user who shall qualify as a “senior
-citizen” shall not be subject to the minimum billing amount and minimum charge.
-For the purpose of this section, a “senior citizen” is defined as a taxpayer
-legally liable for the payment of water charges who is (i) the actual user of
-the water, and (ii) who is 65 years of age or older or whose spouse is 65 years
-of age or older and residing in the same household.
-      (d)   Liability for Payment. The owners of the premises, the occupant
+   Any single family residential user who shall qualify as a “senior citizen”
+shall not be subject to the minimum billing amount and minimum charge. For the
+purpose of this section, a “senior citizen” is defined as a taxpayer legally
+liable for the payment of water charges who is (i) the actual user of the
+water, and (ii) who is 65 years of age or older or whose spouse is 65 years of
+age or older and residing in the same household.
+   (d)   Liability for Payment. The owners of the premises, the occupant
 thereof, and the user of the service shall be jointly and severally liable to
 pay for the service on such premises and the service is furnished to the
 premises by the city only upon the condition that the owner of the premises,
 occupant and users of this service are jointly and severally liable therefor to
 the City.
-      (e)   Bills. All bills for utility service at a residential property
-shall be sent to the owner of the property and it shall be the primary
-responsibility of the owner to pay said bill. Bills for utility service will
-not be sent to tenants of residential property. The name on a utility account
-shall be the owner and shall not be changed unless proof of ownership is
-presented to the City. The City may change its records to reflect the ownership
-of property so that bills are sent to the owner.
-(Ord. 21-3, passed 6-10-2021)
+   (e)   Bills. All bills for utility service at a residential property shall
+be sent to the owner of the property and it shall be the primary responsibility
+of the owner to pay said bill. Bills for utility service will not be sent to
+tenants of residential property. The name on a utility account shall be the
+owner and shall not be changed unless proof of ownership is presented to the
+City. The City may change its records to reflect the ownership of property so
+that bills are sent to the owner.
+(Ord. 21-3, passed 6-10-2021; Ord. 25-12, passed 8-14-2025)
 § 6.11 REQUIRED USE OF WATER.
    (a)   All premises in the City are required to purchase all of their potable
 water supply from the City. No person may use a well or other source of water
@@ -20377,7 +20385,6 @@ ILCS Section                Code Section
 65 ILCS 5/1-101 et seq.     1.02
 65 ILCS 5/1-2.2-1 et seq.   3.38;
                             42.35
-65 ILCS 5/1-2.2-1           42.24
 65 ILCS 5/1-2.2-20          3.38
                             33.01;
 65 ILCS 5/8-11-1            33.17;
