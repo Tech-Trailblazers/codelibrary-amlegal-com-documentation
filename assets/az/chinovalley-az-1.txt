@@ -15462,7 +15462,7 @@ Ord. No. Date Passed Code Section
 TOWN OF CHINO VALLEY, ARIZONA
 UNIFIED DEVELOPMENT ORDINANCE
 2025 S-6 Supplement contains:
-Local legislation current through Ordinance No. 2025-953, passed 6-25-2025
+Local legislation current through Ordinance No. 2025-956, passed 9-23-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -15764,6 +15764,7 @@ Street
 Facilities
    
 4.32   Metal Storage Containers
+   4.33   Renewable Energy Facilities
 5   Subdivision Regulations
    
 5.1   Intent
@@ -16787,10 +16788,11 @@ AWNING. A sheet of canvas or other material stretched on a frame and used to
 keep the sun or rain off a storefront, window, doorway, or deck.
 BAR. An establishment whose primary business is the serving of alcoholic
 beverages to the public for consumption on the premises.
-BATTERY ENERGY STORAGE SYSTEM (BESS). An electrochemical device that charges or
-collects energy from the electrical grid or an electricity generating facility,
-such as a utility-scale photovoltaic facility, and then discharges that energy
-at a later time to provide electricity when needed.
+BATTERY ENERGY STORAGE SYSTEM (BESS). An electrochemical device, or multiple
+electrochemical devices assembled together, that stores energy to supply
+electrical energy at a future time. This term does not include a standalone 12-
+volt car battery or electric motor vehicles, or batteries for use in consumer
+products.
 BLOCK. An area of land that is entirely bound on all sides by streets or the
 exterior boundaries of a subdivision.
 BOARD OR BOARD OF ADJUSTMENT. The Town’s Board of Adjustment.
@@ -16850,6 +16852,9 @@ profit.
 COMMISSION or PLANNING AND ZONING COMMISSION. The Town’s Planning and Zoning
 Commission.
 COMMITTEE. The Town’s Site Plan Review Committee.
+CONCENTRATED SOLAR POWER (CSP). A power-generating system that uses focused
+light to generate heat, which is then converted into electricity through a
+mechanical or thermochemical process.
 CONCEPTUAL LAND USE PLAN. A generalized/conceptual plan often referred to as a
 bubble plan indicating the boundaries of a tract or tracts under common
 ownership, and identifying proposed land uses, land-use intensities, and
@@ -16864,10 +16869,6 @@ CUL-DE-SAC. A street having a traffic outlet on one end only and having at the
 other end facilities for the turning around of vehicular traffic.
 DAY CARE. (See School, Nursery)
 DEAD END STREET. A street having a traffic outlet on one end only.
-DECOMMISSIONING. A plan that specifies how a utility-scale solar photovoltaic
-facility will be dismantled, removed, and disposed of after the end of its
-useful life or upon deactivation and how its site will be restored to its pre-
-construction condition.
 DEDICATION. A process whereby private land is transferred for public use.
 DENSITY TRANSFER, ONSITE. A portion of the density for areas having natural
 resource lands that remain undeveloped may be transferred to other areas of the
@@ -16999,7 +17000,7 @@ runs.
 KNUCKLE. The outermost edge of a rounded or curved area of roadway or land that
 connects other sections of road, often used in subdivisions where roads bend.
 See frontage, cul-de-sac and knuckle.
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-486.png]
  
 LAND SPLIT. The division of improved or unimproved land whose area is 2 ½ acres
@@ -17415,15 +17416,8 @@ using photovoltaics or other sunlight conversion technology, along with the
 necessary equipment for generating electricity. A solar facility may also
 include electrical substations, transformers, transmission lines, and Battery
 Energy Storage Systems.
-SOLAR FACILITY USE PERMIT. A permit signifying that the developer has
-completed, or agreed to complete through a development agreement, all project
-conditions and requirements. A solar facility use permit is required before the
-Town can approve a project.
 SOLAR PANEL. Multiple photovoltaic cells interconnected in an electrical
 circuit, which may be connected to an exterior circuit at a single point.
-SOLAR PROJECT AREA. The total acreage encompassed by a solar facility,
-including buffers, wildlife corridors, and other areas that remain unfenced and
-undisturbed.
 SPECIFIC PLAN. A detailed element of the General Plan enacted under the
 provisions of Title 9, Chapter 4, Article 6, Arizona Revised Statutes.
 STABLE, COMMERCIAL. A structure including, but not limited to a corral or
@@ -17582,14 +17576,15 @@ ZONE. A district classification established by this Ordinance, which limits or
 permits various and specific uses.
 ZONING ADMINISTRATOR. The individual hired by the Town or appointed by the
 Town Council to enforce this Ordinance, and perform the functions described in
-Subsection 1.6.2 Powers and Duties.
+Subsection
+1.6.2 Powers and Duties.
 (Ord. 06-678, passed 11-9-2006; Ord. 07-683, passed 1-11-2007; Ord. 08-707,
 passed 10-23-2008; Ord. 10-729, passed 7-22-2010; Ord. 11-738, passed 1-11-
 2011; Ord. 13-779, passed 12-10-2013; Ord. 14-785, passed 7-8-2014; Ord. 15-
 798, passed 6-23-2015; Ord. 17-819, passed 3-14-2017; Ord. 2020-878, passed 1-
 28-2020; Ord. 2020-885, passed 9-8-2020; Ord. 2021-899, passed 3-23-2021; Ord.
 2022-923, passed 10-11-2022; Ord. 2024-943, passed 9-10-2024; Ord. 2024-941,
-passed 10-22-2024)
+passed 10-22-2024 ; Ord. 2025-956, passed 9-23-2025)
 3 ZONING DISTRICTS
 3.1 ESTABLISHMENT OF ZONING DISTRICTS
 In order to carry out the purpose of this Ordinance, the Town is hereby divided
@@ -18872,18 +18867,20 @@ lines and must conform to the front yard and street side yard setback.
 4 GENERAL REGULATIONS
 4.1 GENERAL PROVISIONS
 4.2 PERMITTED USES 
-1.   Those uses listed as “permitted uses” shall be allowed to establish within
-any zone district in which they are listed, subject to the specific
-requirements of this Ordinance. All other uses shall be prohibited except as
-otherwise provided in this Ordinance.
+1.   Those uses listed as “permitted uses” shall be allowed to establish within
+any zoning district in which they are listed, subject to the specific
+requirements of this Ordinance. There may be uses defined in this Ordinance
+that are not listed within any zoning district. Any use not specifically listed
+as a permitted use within a zoning district is not allowed except as otherwise
+provided in this Ordinance.
 2.   Conditional uses. Those uses listed as “conditional uses” shall require a
-“Conditional Use Permit” in order to establish within the zone district in
+“Conditional Use Permit” in order to establish within the zoning district in
 which they are listed, and shall be subject to all conditions and requirements
 imposed by the Commission or Council in connection with the “Conditional Use
 Permit.”
 3.   Accessory uses. A use defined in Section
 2.
-(Ord. 06-678, passed 11-9-2006)
+(Ord. 06-678, passed 11-9-2006; Ord. 2025-956, passed 9-23-2025)
 4.3   NON-CONFORMING LOTS OF RECORD 
 1.   Notwithstanding any other provisions of this Ordinance, a building may be
 constructed on any legal lot of record existing before the adoption of this
@@ -19653,9 +19650,9 @@ the two (2) faces.
 b.   Where a sign has three (3) or more faces: the area of the sign shall be
 calculated as fifty percent (50%) of the sum of the area of all faces.
          Multi-F ace Signs                            Non-Planar Signs
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-452.png]               [https://export.amlegal.com/media/
-b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/IMAGES/0-0-0-454.png]
+11151802237297987235e392661ba00989e4f31b/IMAGES/0-0-0-454.png]
 c.   Where a sign is a spherical, free form, sculptural, figurative or other
 non-planar sign, the sign area shall be fifty (50%) percent of the sum of the
 area of the sides of the smallest polyhedron that will encompass the
@@ -19797,7 +19794,7 @@ right         AR-5, AR-                             Minimum message display
              PL, and OS  Signs: 32    Signs: 14    bottom of sign panel.
                           sq. ft.      feet
  
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-456.png]
  
 D.   Awning Signs.
@@ -19893,7 +19890,7 @@ A-Frame              Institutional sq. ft.                       business.
                                                                  square footage
                                                                  allowed.
  
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-458.png]
  
 (Ord. 17- 819, passe d 3- 14- 2017 ; Ord. 2020-878, passed 1-28-2020)
@@ -20137,10 +20134,10 @@ least ninety-five (95) square feet in total area, should be located on the ends
 of parking rows, extending the full length of parking spaces. Additional
 landscape islands should be considered in the interior of the individual
 parking areas to provide shade and break up large expanses of parking area.
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-44.png]
 F.   Parking areas may be combined and share the required landscape buffers.
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-46.png]
 G.   Parking lots shall be separated from the sides of buildings by a raised
 walkway (with a minimum width of six (6) feet).
@@ -20170,7 +20167,7 @@ following:
  
 M.   Handicapped Parking Spaces shall use the “Universal Parkin g Space”
 dimensions for all new handicapped spaces within the Town.
-[https://export.amlegal.com/media/b6f5d098a7b871b095504dfa79f111b7d1d8fa7c/
+[https://export.amlegal.com/media/11151802237297987235e392661ba00989e4f31b/
 IMAGES/0-0-0-48.png]   DIMENSIONS: 11 X 20 WITH A 5-FOOT AISLE.
                THIS SIZE WILL ACCOMMODATE BOTH CARS AND VANS.
 Parking Space Allocation Requirements
@@ -22113,6 +22110,28 @@ No new Metal Storage Containers permitted in HMU-designated areas of the 2040
 General Plan.
  
 (Ord. 2024-943, passed 9-10-2024)
+4.33 RENEWABLE ENERGY FACILITIES
+A.   Roof-mounted solar panels are allowed on homes and parking structures,
+provided that making space for solar panels is not the primary purpose of the
+structure, and provided further that, on commercial properties, solar panels
+mounted on top of parking structures are limited to only the space over the
+minimum required parking stalls for the business. Installing additional parking
+stalls primarily to accommodate solar panels is not allowed.
+B.   Ground-mounted solar panels and arrays are allowed on individual
+residential properties if the power generated is used exclusively on-site, and
+the installation does not otherwise meet the definition of a utility-scale
+solar facility.
+C.   Ground-mounted, roof-mounted, and structure-mounted wind turbines are
+allowed on individual residential properties if the power generated is used
+exclusively on-site, and the installation does not otherwise meet the
+definition of a utility-scale wind farm. There can be up to one turbine per
+acre, with a maximum of three turbines per property. No wind turbine may exceed
+35 feet in height without a conditional use permit granted in accordance with
+Section
+1.9.3 , which the Council may grant in its sole and absolute discretion.
+D.   Battery energy storage systems are allowed in homes and businesses if the
+stored energy is used exclusively on-site.
+(Ord. 2025-956, passed 9-23-2025)
 5 SUBDIVISION REGULATIONS
 5.1 INTENT
 The intent of these regulations is to provide procedures consistent with State
@@ -23918,5 +23937,9 @@ Ord. No. Date Passed Code Section
 2024-941 10-22-2024  2.2
 2025-950 2-25-2025   1.9.2
 2025-953 6-25-2025   3.5
+                     2.2,
+2025-956 9-23-2025   4.2,
+                     4.33
                     
+ 
  
