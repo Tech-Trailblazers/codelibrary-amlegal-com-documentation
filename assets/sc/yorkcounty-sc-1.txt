@@ -1,7 +1,7 @@
 YORK COUNTY, SOUTH CAROLINA
 CODE OF ORDINANCES
-2025 S-47 Supplement contains:
-Local legislation current through Ord. 925, passed 2-3-25
+2025 S-48 Supplement contains:
+Local legislation current through Ord. 3925, passed 6-16-25
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -2843,12 +2843,12 @@ written exception provision shall not apply to §§
 33.026(B)(5);
 33.027;
 33.046(C)(2); and
-33.080.
+33.081.
    (C)   CHC Whistleblower Policy.
       (1)   This policy replaces §
 33.046(E) for employees of the CHC.
       (2)   The county is committed to maintaining a workplace where employees
-are free to raise good faith concerns regarding the county's business
+are free to raise good faith concerns regarding the county’s business
 practices. Employees are encouraged to report suspected violations of the law;
 to identify potential violations of policy; and to provide truthful information
 in connection with official inquires and investigations.
@@ -4501,25 +4501,27 @@ Benefits of Employment
    
 33.072   Sick leave
    
-33.073   Maternity leave
+33.073   Parental leave
    
-33.074   Civil leave
+33.074   Bereavement leave
    
-33.075   Military leave for encampment or emergency service
+33.075   Civil leave
    
-33.076   Military leave of absence
+33.076   Military leave for encampment or emergency service
    
-33.077   Professional development
+33.077   Military leave of absence
    
-33.078   Family and medical leave
+33.078   Professional development
    
-33.079   Physical disability and personal leave
+33.079   Family and medical leave
    
-33.080   Harassment prohibited
+33.080   Physical disability and personal leave
    
-33.081   Employee Assistance Program
+33.081   Harassment prohibited
    
-33.082   Miscellaneous accrued leave
+33.082   Employee Assistance Program
+   
+33.083   Miscellaneous accrued leave
 Use of Drugs by County Employees
    
 33.090   Findings
@@ -6184,30 +6186,27 @@ Am. Ord. 2823, passed 5-1-23)
 entitled to earn sick leave with pay. Temporary employees shall not accrue sick
 leave time. Sick leave may be accumulated or carried from one year to the next
 not to exceed 1,440 hours for employees who work eight hours or more per day.
-Upon termination of employment with the county an employee shall not be
+Upon termination of employment with the county, an employee shall not be
 reimbursed for unused sick leave.
    (B)   When a paid holiday occurs during the time an employee is on sick
 leave with pay, the day shall not be charged as sick leave.
    (C)   Use of sick leave:
       (1)   Sick leave may be used when an employee is unable to work due to
-personal illness, pregnancy or injury, or when the employee’s presence my
+personal illness, pregnancy or injury, or when the employee’s presence may
 endanger the health of other employees;
       (2)   Sick leave may be taken for medical or dental appointments;
       (3)   Sick leave may be taken in circumstances where illness in the
 employee’s immediate family makes it necessary for the employee to be absent.
-Immediate family shall include spouse, mother, father, son, daughter, sister,
-brother, mother-in-law, father-in-law, stepmother, stepfather, stepson,
-stepdaughter, daughter-in-law, son-in-law, grandson, granddaughter,
-grandmother, grandfather, aunt, uncle, brother-in-law, sister-in-law, guardian
-and ward;
-      (4)   Sick leave, not to exceed three days, may be taken when death
-occurs in the employee’s immediate family. The above definition for immediate
-family shall apply;
-      (5)   The use of sick leave is restricted to the foregoing and in no
+Immediate family for this purpose shall include spouse, mother, father, son,
+daughter, sister, brother, mother-in-law, father-in-law, stepmother,
+stepfather, stepson, stepdaughter, daughter-in-law, son-in-law, grandson,
+granddaughter, grandmother, grandfather, aunt, uncle, brother-in-law, sister-
+in-law, guardian and ward;
+      (4)   The use of sick leave is restricted to the foregoing and in no
 instance shall be considered as earned “time-off.” Using sick leave for reasons
 other than the foregoing shall be considered an abuse of policy and is subject
 to disciplinary action;
-      (6)   The employee’s supervisor is authorized to request and receive a
+      (5)   The employee’s supervisor is authorized to request and receive a
 doctor’s certificate or other appropriate certification from the employee for
 the purpose of verifying the appropriateness of the use of sick leave.
    (D)   (1)   Full-time employees shall earn paid sick leave at the following
@@ -6226,11 +6225,13 @@ reasons.
       (1)   Purpose. The purpose of the sick leave bank is to protect eligible
 employees from undue financial burdens which may result when extended absence
 from work is necessary due to a prolonged or catastrophic personal illness or
-accident. The sick leave bank will be established by the voluntary donation of
-current leave to the bank by county employees, thereby establishing their
-eligibility to participate in the bank. Leave hours contributed to the sick
-leave bank may not be reclaimed by the donor. Designated donations will not be
-allowed.
+accident that affects themselves or immediate family members. For purposes of
+this section, immediate family would include legal spouse, parent, grandparent
+or legal dependent child. The sick leave bank will be established by the
+voluntary donation of current leave to the bank by county employees, thereby
+establishing their eligibility to participate in the bank. Leave hours
+contributed to the sick leave bank may not be reclaimed by the donor.
+Designated donations will not be allowed.
       (2)   Eligibility for membership.
          (a)   All employees who are on full-time regular status with York
 County and who earn sick leave are eligible to participate, as long as they
@@ -6264,7 +6265,7 @@ from the bank.
 request during the open enrollment period, which runs from December 1 through
 January 1.
          (e)   The right to membership or to apply for membership ceases with
-cancellation of membership, refusal to comply with assessments, or inactive
+cancellation of membership, refusal to comply with assessments or inactive
 status as a county employee.
          (f)   Membership in the bank shall remain confidential and be divulged
 only as necessary to maintain and administer the bank.
@@ -6276,10 +6277,10 @@ bank, an employee must meet the following criteria:
 existing to the date of their sick leave bank membership, the employee will not
 be eligible for sick leave bank benefits until six months following the
 effective date of membership;
-            2.    The employee must be absent from work at least ten calendar
+            2.   The employee must be absent from work at least ten calendar
 days as the result of personal illness or accident before receiving payment for
 approved sick leave bank hours. Bank sick leave hours may not be granted for
-elective surgery, normal pregnancy, or during a period an individual is
+elective surgery, normal pregnancy or during a period an individual is
 receiving disability benefit payments from any source or during any period of
 time an individual is drawing or is eligible to receive worker’s compensation
 benefits. Any other absence due to illness or accident which does not meet the
@@ -6290,7 +6291,7 @@ disability insurance provisions.
          (b)   1.   An employee or family member of an incapacitated employee
 who meets criteria may apply to draw upon the sick leave bank by completing an
 “Application for Use of Sick Leave Bank” form. This application must have the
-“physician’s Confirmation” completed confirming the nature and expected
+“Physician’s Confirmation” completed confirming the nature and expected
 duration of the disabling condition. If possible, the application should be
 filed at least two weeks prior to use of the leave. This will help to ensure
 payment for all eligible sick bank days. If necessary, a department director
@@ -6320,22 +6321,33 @@ and all employment benefits will apply including the accrual of annual and sick
 leave.
          (f)   If any sick leave is granted but not used by the employee, the
 unused portion of the amount of sick leave transferred is returned to the sick
-leave bank. This would apply in the case of an employee’s death or recovery
-from the illness or injury. Employees may utilize any granted sick leave bank
-hours until released to full duty by their physician.
+leave bank. This would apply in the case of an the employee or immediate family
+member’s death or recovery from the illness or injury. Employees may utilize
+any granted sick leave bank hours until released to full duty by their
+physician.
          (g)   The employee’s department will assume the financial
 responsibility for sick leave bank hours paid and must continue to submit time
 cards for the employee.
 (‘77 Code, § 13-67) (Ord. 1584, passed 9-17-84; Am. Ord. 5288, passed 10-17-88;
 Am. Ord. 1393, passed 3-15-93; Am. Ord. 2601, passed 7-16-01; Am. Ord. 5308,
 passed 9-2-08; Am. Ord. 1214, passed 5-5-14; Am. Ord. 3217, passed 6-19-17; Am.
-Ord. 3918, passed 8-20-18; Am. Ord. 2019, passed 6-3-19)
-§ 33.073 MATERNITY LEAVE.
-   Maternity leave shall be treated in all respects as sick leave under the
-provisions of §
-33.072.
-(‘77 Code, § 13-68) (Ord. 1584, passed 9-17-84)
-§ 33.074 CIVIL LEAVE.
+Ord. 3918, passed 8-20-18; Am. Ord. 2019, passed 6-3-19; Am. Ord. 3425, passed
+6-2-25)
+§ 33.073 PARENTAL LEAVE.
+   Paid parental leave of up to 30 work days may be provided to any regular
+employee immediately following and due to the birth, placement or adoption of a
+legal dependent child. Employees would be eligible for parental leave following
+one year of York County employment and the leave would be used concurrently
+with family and medical leave and documented with human resources through the
+Time Clock Plus software.
+(‘77 Code, § 13-68) (Ord. 1584, passed 9-17-84; Am. Ord. 3425, passed 6-2-25)
+§ 33.074 BEREAVEMENT LEAVE.
+   Up to three work days may be provided to any regular employee due to the
+death of an immediate family member. For purposes of bereavement leave,
+immediate family member includes legal spouse, parent, grandparent or legal
+dependent child.
+(Ord. 3425, passed 6-2-25)
+§ 33.075 CIVIL LEAVE.
    (A)   Jury duty.
       (1)   All regular county employees selected for jury duty shall be
 entitled to civil leave with pay for the period of absence required. The leave
@@ -6360,12 +6372,12 @@ capacity in private litigation shall be charged to annual leave or leave
 without pay.
 (‘77 Code, § 13-69) (Ord. 1584, passed 9-17-84; Am. Ord. 5288, passed 10-17-88;
 Am. Ord. 1214, passed 5-5-14)
-§ 33.075 MILITARY LEAVE FOR ENCAMPMENT OR EMERGENCY SERVICE.
+§ 33.076 MILITARY LEAVE FOR ENCAMPMENT OR EMERGENCY SERVICE.
    (A)   (1)   In accordance with state law, all employees who are members of
 the South Carolina National Guard or any reserve unit of the United States
 Armed Forces shall be entitled to military leave without loss of pay,
 performance rating or other benefits for up to 15 work days in any one year
-(Military Year: October 1 -September 30) for the purpose of training or other
+(Military Year: October 1-September 30) for the purpose of training or other
 duties as required by the appropriate authority.
       (2)   In addition, if these employees are ordered by the appropriate
 authority to actively serve during an emergency or special circumstances, they
@@ -6381,7 +6393,7 @@ may not be used for military purposes.
 (‘77 Code, § 13-70) (Ord. 1584, passed 9-17-84; Am. Ord. 5288, passed 10-17-88;
 Am. Ord. 1214, passed 5-5-14; Am. Ord. 4015, passed 11-2-15; Am. Ord. 3918,
 passed 8-20-18)
-§ 33.076 MILITARY LEAVE OF ABSENCE.
+§ 33.077 MILITARY LEAVE OF ABSENCE.
    (A)   Any regular county employee that exhausts all applicable military
 leave (and annual leave if employee chooses to utilize annual leave for
 military purposes) should be placed on military leave of absence without pay
@@ -6392,7 +6404,7 @@ National Guard duty, as may be provided by applicable state and federal law at
 the time the leave of absence is taken.
 (‘77 Code, § 13-71) (Ord. 1584, passed 9-17-84; Am. Ord. 1393, passed 3-15-93;
 Am. Ord. 1214, passed 5-5-14)
-§ 33.077 PROFESSIONAL DEVELOPMENT.
+§ 33.078 PROFESSIONAL DEVELOPMENT.
    (A)   The county encourages all employees to strengthen their professional
 skills and may assist them in doing so by paying for approved professional
 development in their field of employment. Professional development may include
@@ -6430,7 +6442,7 @@ and travel expenses if approved by department director and subject to
 availability of funds.
 (‘77 Code, § 13-72) (Ord. 1584, passed 9-17-84; Am. Ord. 5288, passed 10-17-88;
 Am. Ord. 1214, passed 5-5-14; Am. Ord. 3918, passed 8-20-18)
-§ 33.078 FAMILY AND MEDICAL LEAVE.
+§ 33.079 FAMILY AND MEDICAL LEAVE.
    (A)   Employees who have been employed at least 12 months with the county
 and who have worked 1,250 hours or more in the preceding 12 months are entitled
 to Family and Medical Leave (FMLA). The FMLA permits employees to take a
@@ -6449,8 +6461,9 @@ or after the commencement of leave if proper medical documentation is provided
 to the York County Human Resources Department within 15 days of notice of such
 requirement. An employee who must be absent from work due to family and medical
 leave will be paid for time lost from work solely from accrued sick and annual
-leave balances, and any remaining portion of the 12-week period during which
-the employee is absent from work shall be without pay.
+leave balances or parental leave, if applicable, and any remaining portion of
+the 12-week period during which the employee is absent from work shall be
+without pay.
    (C)   At the conclusion of the leave of absence, the employee is entitled to
 reinstatement to his or her former position or to an equivalent position.
 Proper medical “return to work certifications” must be provided to Human
@@ -6473,8 +6486,8 @@ are met and by submitting appropriate documentation to substantiate the
 necessity of such leave. Eligible family members shall be those members of the
 family defined in applicable Department of Labor regulations.
 (‘77 Code, § 13-73) (Ord. 6896, passed 12-16-96; Am. Ord. 5308, passed 9-2-08;
-Am. Ord. 1214, passed 5-5-14)
-§ 33.079 PHYSICAL DISABILITY AND PERSONAL LEAVE.
+Am. Ord. 1214, passed 5-5-14; Am. Ord. 3425, passed 6-2-25)
+§ 33.080 PHYSICAL DISABILITY AND PERSONAL LEAVE.
    (A)   An employee who has completed his or her initial probationary period
 (and any extension thereof) may request a leave of absence without pay and
 benefits for up to six months (26 weeks) because of sickness, pregnancy, injury
@@ -6503,7 +6516,7 @@ be recalled to his/her former job if a vacancy exists which is to be filled.
 (‘77 Code, § 13-74) (Ord. 1584, passed 9-17-84; Am. Ord. 5288, passed 10-17-88;
 Am. Ord. 1393, passed 3-15-93; Am. Ord. 6896, passed 12-16-96; Am. Ord. 1214,
 passed 5-5-14; Am. Ord. 3918, passed 8-20-18)
-§ 33.080 HARASSMENT PROHIBITED.
+§ 33.081 HARASSMENT PROHIBITED.
    The county shall provide a working environment in which employees, vendors
 and other members of the general public shall be free from discomfort or
 pressure relating from jokes, ridicule, slurs on the basis of race, color, sex,
@@ -6518,7 +6531,7 @@ Sharepoint site.
 (‘77 Code, § 13-75) (Ord. 1393, passed 3-15-93; Am. Ord. 1214, passed 5-5-14;
 Am. Ord. 3918, passed 8-20-18) Penalty, see §
 10.99
-§ 33.081 EMPLOYEE ASSISTANCE PROGRAM.
+§ 33.082 EMPLOYEE ASSISTANCE PROGRAM.
    (A)   York County contracts with an Employee Assistance Program (EAP) to
 provide an added benefit to health care coverage, at no cost to the employees.
 The EAP has been established to provide easily obtainable, highly confidential
@@ -6529,7 +6542,7 @@ experiencing health problems.
 about the program, contact Human Resources . ALL CALLS ARE CONFIDENTIAL.
 (Ord. 2601, passed 7-16-01; Am. Ord. 1214, passed 5-5-14; Am. Ord. 3918, passed
 8-20-18)
-§ 33.082 MISCELLANEOUS ACCRUED LEAVE.
+§ 33.083 MISCELLANEOUS ACCRUED LEAVE.
    Time to be recorded at straight time for hourly (non-exempt) employees to
 ensure that if an hourly employee is required to work on a holiday or during a
 week in which a holiday occurs, the employee receives adequate compensation
@@ -9578,11 +9591,6 @@ Preservation Tax Incentive
 35.163   Eligible rehabilitation
    
 35.164   Process
-Recreation Tax District
-   
-35.170   Creation and establishment
-   
-35.171   Levy of ad valorem taxes
 Lake Wylie Parks and Recreation District
    
 35.180   Creation and establishment
@@ -13382,77 +13390,6 @@ forward the annual request to the county tax assessor.
 certified as historic before the first day of April of the year it intends to
 receive this treatment.
 (Ord. 5202, passed 12-9-02; Am. Ord. 1122, passed 2-21-22)
-RECREATION TAX DISTRICT
-§ 35.170 CREATION AND ESTABLISHMENT.
-   (A)   There is hereby created and established a special tax district
-consisting of the entire unincorporated area of York County which shall be
-known as the York County Recreation Tax District.
-   (B)   The Recreation Tax District shall include and be comprised of the area
-and territory in the county consisting of the entire unincorporated area of the
-county. For the purpose of this subchapter, the phrase UNINCORPORATED AREA OF
-YORK COUNTY means the area not included in the corporate boundaries of a
-municipal corporation created pursuant to state law or existing as an
-incorporated municipality, city or town in the county.
-   (C)   The Recreation Tax District is created and established for the purpose
-and function of providing recreation services in or for the residents of the
-unincorporated area of the county, and Council is hereby authorized to exercise
-all powers and to perform all functions and duties necessary or proper to the
-rendering of recreation services in the unincorporated area of the county.
-   (D)   In order to carry out the functions of the Recreation Tax District
-properly, the Recreation Tax District shall be operated as an administrative
-division of the county.
-   (E)   The County Council and the county manager are authorized to exercise
-such powers with respect to the functions of the Recreation Tax District as
-shall not be inconsistent with the general policies established by the Council,
-and pursuant to that authority shall be empowered to:
-      (1)   Purchase, lease or contract for such property and acquire such
-equipment as may be necessary for the purpose of providing recreation services
-to residents of the unincorporated area of York County;
-      (2)   Select sites or places within municipalities or within the
-unincorporated area of the county where recreation activities shall be
-conducted;
-      (3)   Employ all personnel necessary or appropriate to provide for the
-operation and maintenance of the Recreation Tax District and fix the
-compensation of such employees;
-      (4)   Be responsible for the upkeep, maintenance and repair of all
-equipment and property acquired by or for purposes of the special tax district;
-      (5)   Promulgate such rules and regulations as County Council may deem
-necessary to ensure that recreation services and activities are provided to or
-for residents of the unincorporated area of the county;
-      (6)   Purchase, lease, hold and dispose of real and personal property in
-the name of the county for the exclusive use of the Recreation Tax District;
-      (7)   Enter into contracts or agreements with any public or private
-agency, municipality, or state or political subdivision to provide or improve
-recreation services or receive financial aid or grants in carrying out the
-functions of the Recreation Tax District;
-      (8)   Annually submit to the County Council a budget for the ensuing
-fiscal year for the operation and maintenance of the Recreation Tax District.
-Such budget shall list all funds which will be available for the operation of
-the Recreation Tax District. All funds appropriated, earned, granted or donated
-to the Recreation Tax District, including, but not limited to, funds
-appropriated by the County Council, shall be deposited and expended as provided
-in this subchapter exclusively for providing recreation services to or for
-residents of the unincorporated area of the county. All financial procedures
-relating to the Recreation Tax District, including audits, shall conform to the
-practices and procedures established by the County Council; and
-      (9)   Annually file a detailed report of the operations and expenditures
-of the Recreation Tax District for the previous fiscal year with the County
-Council.
-(Ord. 3105, passed 8-15-05; Am. Ord. 1122, passed 2-21-22; Am. Ord. 6922,
-passed 8-15-22)
-§ 35.171 LEVY OF AD VALOREM TAXES.
-   (A)   In order to provide for the operation and maintenance of the function
-of the Recreation Tax District, there shall be levied annually by the county
-auditor and collected by the county treasurer an ad valorem tax of 1.5 mills,
-or such amount as the County Council may hereafter determine, not to exceed 1.5
-mills on all property located within the unincorporated area of the county.
-   (B)   All monies collected by the county treasurer pursuant to the
-authorization contained in division (A) hereof shall be deposited in a separate
-and distinct fund and used solely for the purpose of operating and maintaining
-the Recreation Tax District in order to provide recreation services to or for
-residents of the unincorporated area of the county.
-(Ord. 3105, passed 8-15-05; Am. Ord. 1122, passed 2-21-22; Am. Ord. 6922,
-passed 8-15-22)
 LAKE WYLIE PARKS AND RECREATION DISTRICT
 § 35.180 CREATION AND ESTABLISHMENT.
    (A)   There is hereby created and established a special tax district within
@@ -27959,7 +27896,7 @@ intent is to provide additional protections for people and property that exceed
 FEMA's minimum standards from risks associated with flooding in floodplain
 areas, minimize disruption of commerce and critical services, and minimize the
 need for costly repairs due to flooding.
-[https://export.amlegal.com/media/debb52bdf2f255a72c31e0e90cdc2c629e16e8dd/
+[https://export.amlegal.com/media/569857cf1191ca9b0193f3b759151592cab85302/
 IMAGES/0-0-0-8594.png]
 (Ord. 2924, passed 6-3-24)
 § 151.41 APPLICABILITY.
@@ -28114,7 +28051,7 @@ floodplain boundary limits to the point where the ground contour elevation
 intersects with the extended freeboard elevation as illustrated in Figure 2.
 All development within the extended horizontal flood boundary limits based on
 freeboard shall be subject to the freeboard requirements of this chapter.
-[https://export.amlegal.com/media/debb52bdf2f255a72c31e0e90cdc2c629e16e8dd/
+[https://export.amlegal.com/media/569857cf1191ca9b0193f3b759151592cab85302/
 IMAGES/0-0-0-8604.png]
    (B)   Compensatory storage.
       (1)   Compensatory storage, as illustrated in Figure 3, may be provided
@@ -28149,7 +28086,7 @@ test pits should be excavated to demonstrate that the proposed compensatory
 storage will not intercept the seasonal high groundwater table.
       (7)   A recorded deed and plat restriction are required to prohibit any
 modification to the compensatory storage areas.
-[https://export.amlegal.com/media/debb52bdf2f255a72c31e0e90cdc2c629e16e8dd/
+[https://export.amlegal.com/media/569857cf1191ca9b0193f3b759151592cab85302/
 IMAGES/0-0-0-8606.png]
    (C )    Residential construction. All provisions of §
 151.36(A) shall apply with the exception that freeboard shall be provided in
@@ -30775,6 +30712,7 @@ funds; and refunds
 School Facilities
    
 153.75   Adoption and imposition of public education facilities impact fees
+applicable to Fort Mill School District No. 4
    
 153.76   Definitions
    
@@ -30790,7 +30728,7 @@ and public education impact fee district
 153.81   Limitations on use and expenditure of public education facilities
 impact fee funds
    
-153.82   Sunset
+153.82   Termination
    
 153.83   Clover School District No. 2 impact fees
 Vested Property Rights
@@ -31769,44 +31707,41 @@ independent mediator, by mutual agreement. Participation in mediation does not
 preclude the fee payor from pursuing other remedies provided by law.
 (Ord. 2718, passed 7-16-18)
 SCHOOL FACILITIES
-§ 153.75 ADOPTION AND IMPOSITION.
-    Pursuant to Ordinance No. 2718 (impact fee procedures), its terms,
-procedures, and processes, as set out in §§
-153.75 through
-153.82, which are incorporated and adopted herein by reference, mutatis
+§ 153.75 ADOPTION AND IMPOSITION OF PUBLIC EDUCATION FACILITIES IMPACT FEES
+APPLICABLE TO FORT MILL SCHOOL DISTRICT NO. 4.
+   Pursuant to Ordinance No. 2718: impact fee procedures, its terms, procedures
+and processes, as set out in §§
+153.55 through
+153.62, which are incorporated and adopted herein by reference, mutatis
 mutandis, the intergovernmental agreement between the county and the Fort Mill
-School District, this subchapter, and other applicable provisions of this
-county, this public education facilities impact fee shall be adopted and
-imposed on all new residential development in the county located in the Fort
-Mill School District, in accordance with Attachment A: The Fort Mill School
-District Public Education Facilities Impact Fee Schedule, which is attached to
-Ordinance 2818 and Attachment A: The Fort Mill School District Public Education
-Facilities Impact Fee Schedule, which is attached to Ordinance No. 6822, both
-of which are incorporated herein by reference. Existing and future impact fees
-collected pursuant to Ordinance No. 2818 and Ordinance No. 6822 will be
-appropriated only for system improvements related to Elementary School No. 12,
-Elementary School No. 13, Middle School No. 7, and Future High School Capacity
-referenced in Figure B2 of the School Impact Fee Study and Amended Capital
-Improvement Plan prepared for the Fort Mill School District by TischlerBise
-(dated June 14, 2018 and revised September 7, 2022).
+District, this subchapter, the Act and other applicable provisions of the
+County and South Carolina Codes, this public education facilities impact fee
+shall be adopted and imposed on all new residential development in the county
+that is located in the Fort Mill District, in accordance with Attachment A:
+Fort Mill School District No. 4 Public Education Facilities Impact Fee
+Schedule, which is attached to Ordinance 2225.
 (‘77 Code, § 14-51) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
-Am. Ord. 6822, passed 12-22-22)
+Am. Ord. 6822, passed 12-22-22; Am. Ord. 2225, passed 4-7-25)
 § 153.76 DEFINITIONS.
-   (A)   Reference to impact fee procedures. Terms which are defined in this
-section, and which are used herein shall have the meanings given in the impact
+   (A)   Reference to impact fee procedures. Terms which are defined in §
+153.56, and which are used herein shall have the meanings given in the impact
 fee procedures, unless another meaning is plainly intended.
    (B)   Reference to York County code. Terms which are defined in this code
 and which are used herein shall have the meanings given in this code, unless
-another meaning is plainly intended.
-   (C)   This section. For purposes of this section, the following words and
-terms shall have the meanings set forth herein, unless another meaning is
+another meaning is plainly intended, or otherwise governed by the Act.
+   (C)   Fort Mill School District No. 4 impact fees. For purposes of the Fort
+Mill School District No. 4 impact fee contemplated herein, the following words
+and terms shall have the meanings set forth herein, unless another meaning is
 clearly indicated.
-      ADOPTED LEVEL OF SERVICE (LOS) STANDARD. Means and refers to the amount
-of public education facilities (buildings and land) needed to accommodate an
-elementary, middle, and high school student as established in School Impact Fee
-Study and Amended Capital Improvement Plan prepared for the Fort Mill School
-District by TischlerBise (dated June 14, 2018 and revised September 7, 2022),
-which is incorporated herein by reference.
+      ACT. Means and refers to the South Carolina Development Impact Fee Act,
+S.C. Code §§ 6-1-910 et seq.
+      ADOPTED LEVEL OF SERVICE (LOS) STANDARD. Means and refers to the amount
+of public education facilities (buildings, equipment and land) needed to
+accommodate an elementary, middle and high school student as established in the
+School Development Impact Fee Study and Capital Improvement Plan prepared for
+the Fort Mill District by TischlerBise, dated November 27, 2024, which is
+attached hereto Ordinance 2225 as Attachment B (“Fee Study and CIP”)
+incorporated herein by reference.
       COUNTY. Means and refers to York County, a political subdivision of the
 State of South Carolina, possessing all powers available generally to counties
 in South Carolina.
@@ -31814,108 +31749,101 @@ in South Carolina.
 County.
       DWELLING UNIT. Means and refers to either single-family detached or
 multi-family units.
-      INDIVIDUAL ASSESSMENT OF DEVELOPMENT IMPACT. A study prepared by a fee
+      FORT MILL SCHOOL BOARD. Means and refers to the elected governing body of
+the Fort Mill District.
+      FORT MILL DISTRICT. Means the Fort Mill School District No. 4.
+      INDIVIDUAL ASSESSMENT OF DEVELOPMENT IMPACT. A study prepared by a fee
 payor, calculating the cost of capital improvements for public education
 facilities required to serve the fee payor's proposed development, that is
 based on the established level of service standards, the service units and unit
-construction costs, and methodology identified in School Impact Fee Study and
-Amended Capital Improvement Plan prepared for the Fort Mill School District by
-TischlerBise (dated June 14, 2018 and revised September 7, 2022), which is
-incorporated herein by reference. The assessment shall be performed in
-compliance with any standards for such studies established by this section.
+construction costs and methodologywith respect to developments within the Fort
+Mill District, as identified in the Fee Study and CIP, which assessment shall
+be performed in compliance with any standards for such studies established by
+this subchapter.
       INTERGOVERNMENTAL AGREEMENT. Means and refers to an agreement executed by
-the county and the Fort Mill School District for the collection of public
-education facilities impact fees by the county, and the transfer of the fee
-revenues from the county and to the school district, and for the expenditure of
-said revenues by the school district for public education facilities, as herein
-defined, to accommodate new residential development.
+the county and the Fort Mill District for the collection of public education
+facilities impact fees by the county, and the transfer of the fee revenues from
+the county and to the respective district, and for the expenditure of said
+revenues by such district for public education facilities, as herein defined,
+to accommodate new residential development.
+      MULTI-FAMILY UNIT. Solely for determining the applicable fee in
+Attachment A, incorporated herein by reference, means and refers to all
+dwelling units other than single-family detached units, including single-family
+attached units, apartment units, condominium units and accessory dwelling
+units.
       NON-RESIDENTIAL DEVELOPMENT. Means and refers to all development other
 than a dwelling unit.
-      PUBLIC EDUCATION FACILITIES. Means and refers to the buildings and land
-for elementary, middle, and high schools (including the planning, design,
-engineering, and construction of the school buildings and associated
-playgrounds and recreation areas, parking, lighting, landscaping, sidewalks,
-internal streets, access roads and driveways; the costs associated with the
-acquisition of land; site preparation costs; and costs associated with the
-construction of new, or additions to or expansions of elementary, middle, and
-high school buildings; all of which constitute system improvements for public
-education facilities.)
+      PUBLIC EDUCATION FACILITIES. Means and refers to the buildings, including
+the necessary equipment and furnishings therein, and land for elementary,
+middle and high schools (including the planning, design, engineering and
+construction of the school buildings and associated playgrounds and recreation
+areas, parking, lighting, landscaping, sidewalks, internal streets, access
+roads and driveways; the costs associated with the acquisition of land; site
+preparation costs; and costs associated with the construction of new, or
+additions to or expansions of elementary, middle and high school buildings, all
+of which constitute system improvements for public education facilities).
       PUBLIC EDUCATION FACILITIES IMPACT FEE. Means and refers to the fees
 imposed on new residential development on a proportionate share basis as a
 condition of development approval, which has been calculated to defray the
 costs of system improvements for the needed public education facilities
 identified in a capital improvements plan which is needed to accommodate new
 residential development, based on the level of service standard for the Fort
-Mill School District.
+Mill District.
       RESIDENTIAL DEVELOPMENT. Means and refers to the development of one or
 more dwelling units.
-      SCHOOL BOARD. Means and refers to the elected governing body of the Fort
-Mill School District No. 4.
-      SCHOOL DISTRICT or FORT MILL SCHOOL DISTRICT. Means the Fort Mill School
-District No. 4.
       STUDENT GENERATION RATE (SGR). Means and refers to the number of
 elementary, middle and high school students generated by a typical dwelling
-unit in the Fort Mill School District. The student generation rate is used by
-the school district for planning, capital improvements programming, the
-development of a capital improvement plan, and the development of proportionate
-share public education impact fees.
+unit within the Fort Mill District used by the Fort Mill District for planning,
+capital improvements programming, the development of a capital improvement plan
+and the development of proportionate share public education impact fees.
 (‘77 Code, § 14-52) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
-Am. Ord. 6822, passed 12-22-22)
+Am. Ord. 6822, passed 12-22-22; Am. Ord. 2225, passed 4-7-25)
 § 153.77 ESTABLISHMENT PUBLIC EDUCATION FACILITIES IMPACT FEE SERVICE AREA AND
 PUBLIC EDUCATION IMPACT FEE DISTRICT.
    The public education facilities impact fee shall be imposed and calculated
-within the service area for the Fort Mill School District. The service area and
-Public Education Impact Fee District for the Fort Mill School District is
-coterminous with the school district boundaries. Impact fees collected within
-the district shall be spent within the district.
-(‘77 Code, § 14-53) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18)
+within the service area for the Fort Mill District. The service area and Public
+Education Impact Fee District for the Fort Mill District is coterminous with
+the Fort Mill District boundaries. Impact fees collected within the Fort Mill
+District shall be spent within the Fort Mill District.
+(‘77 Code, § 14-53) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
+Am. Ord. 2225, passed 4-7-25)
 § 153.78 IMPOSITION OF PUBLIC EDUCATION FACILITIES IMPACT FEE.
    (A)   The public education facilities impact fee shall be imposed on all new
-residential development in Fort Mill School District, unless the residential
-development is exempted or a waiver is granted by the county pursuant to
-Ordinance 2718. If an exemption or waiver is granted, the impact fees which
-otherwise would have been due shall be provided by the school district, using
-funds available from sources other than public education impact fees.
-   (B)   Residential development in the unincorporated county shall pay the
-fees at the time of issuance of a building permit. Residential development in
-the City of Tega Cay and the Town of Fort Mill shall pay the fees prior to
-issuance of a building permit but not before the building permit application
-has been submitted to the city or town and the city or town has reviewed and
-approved the application. Fees shall be paid to the customer service
-representative in the county's Development Services Division. A building permit
-for residential development shall not be issued in Fort Mill or Tega Cay
-without confirmation, in writing, from the customer service representative that
-the Fort Mill School District public education impact fees have been paid in
-accordance with this section.
+residential development in Fort Mill District, unless the residential
+development is exempted, or a waiver is granted by the county pursuant to §
+153.61.
+   (B)   Residential development in the Fort Mill District shall pay the fees
+at the time of issuance of a building permit. Residential development in the
+City of Tega Cay and the Town of Fort Mill shall not pay the fees before a
+building permit application has been submitted to the respective jurisdiction,
+and the jurisdiction has reviewed and approved the application. Fees shall be
+paid to York County, collected by the Permit Center of the Planning and
+Development Services Department. A building permit for residential development
+shall not be issued by any jurisdiction without confirmation, in writing, from
+the Permit Center Administrator that the Fort Mill District public education
+impact fees have been paid in accordance with this section.
 (‘77 Code, § 14-54) (Ord. 7396, passed 12-16-96; Am. Ord. 903, passed 2-3-03;
-Am. Ord. 605, passed 3-14-05; Am. Ord. 2818, passed 7-16-18)
+Am. Ord. 605, passed 3-14-05; Am. Ord. 2818, passed 7-16-18; Am. Ord. 2225,
+passed 4-7-25)
 § 153.79 CALCULATION OF PUBLIC EDUCATION FACILITIES IMPACT FEE.
-   (A)    The county shall calculate the applicable public education facilities
+   (A)   The county shall calculate the applicable public education facilities
 impact fees due from a proposed residential development in accordance with the
-procedure set forth in Ordinance 2718, the intergovernmental agreement, this
-section, and School Impact Fee Study and Amended Capital Improvement Plan
-prepared for the Fort Mill School District by TischlerBise (dated June 14, 2018
-and revised September 7, 2022, and any amendments thereafter). The maximum
-allowable school impact fee is stated in Attachment B: Fort Mill School
-District Fee Calculations (dated November 29, 2022), which is attached to
-Ordinance No. 6822 and incorporated herein by reference. The impact fee amount
-for the school district which will be charged is established in Attachment A:
-Fort Mill School District Public Education Facilities Impact Fee Schedule,
-which is attached to Ordinance 2818 and Attachment A: The Fort Mill School
-District Public Education Facilities Impact Fee Schedule, which is attached to
-Ordinance No. 6822, both of which are incorporated herein by reference.
-   (B)   The following general procedure shall be followed by the county upon
-receipt of an application for a building permit for new residential
+procedure set forth in § 153.58, the applicable intergovernmental agreement,
+this section and the Fee Study and CIP. The impact fee amount for the school
+district is established in Attachment A: Fort Mill District No. 4 Public
+Education Facilities Impact Fee Schedule, which is attached to Ordinance 2225
+and incorporated herein by reference.
+   (B)   The following general calculation procedure shall be followed by the
+county upon receipt of an application for a building permit for new residential
 development:
       (1)   Identify the number and type of dwelling units in the proposed new
 residential development; and
       (2)   Multiply the number of dwelling units by the impact fee per the
 type of dwelling unit.
    (C)   In lieu of calculating the amount(s) of impact fees by reference to
-Attachment A as attached to Ordinance No. 2818 and Ordinance No. 6822, a fee
-payor may request that the amount of the required impact fees be determined by
-reference to an Individual Assessment of Development Impact for the proposed
-development.
+Attachment A, a fee payor may request that the amount of the required impact
+fees be determined by reference to an Individual Assessment of Development
+Impact for the proposed development.
       (1)   If a fee payor requests the use of an Individual Assessment of
 Development Impact, the fee payor shall be responsible for retaining a
 qualified professional to prepare the Individual Assessment of Development
@@ -31923,57 +31851,60 @@ Impact that complies with the requirements of this section, at the fee payor's
 expense.
       (2)   Each Individual Assessment of Development Impact shall be based on
 the same level of service standards and system improvement costs for capital
-improvements for public education facilities used in School Impact Fee Study
-and Amended Capital improvement Plan prepared for the Fort Mill School District
-by TischlerBise (dated June 14, 2018 and revised September 7, 2022, and any
-amendments thereafter), and shall document the relevant methodologies and
-assumptions used.
+improvements for public education facilities used in the Fee Study and CIP and
+shall document the relevant methodologies and assumptions used.
       (3)   Each Individual Assessment of Development Impact shall be submitted
-to the director or a designee, and may be accepted, rejected, or accepted with
-modifications by the director or a designee as the basis for calculating public
+to the Director or a designee, and may be accepted, rejected or accepted with
+modifications by the Director or a designee as the basis for calculating public
 education facilities impact fees. If an Individual Assessment of Development
-Impact is accepted or accepted with modifications by the director or a designee
+Impact is accepted or accepted with modifications by the Director or a designee
 as a more accurate measure of the demand for capital improvements for public
 education facilities created by the proposed new development than the
-applicable fees in Attachment A of Ordinance No. 2818 and Ordinance No. 6822,
-then the impact fees due under this subchapter shall be calculated according to
-such assessment.
+applicable fees in Attachment A of Ordinance 2225, then the impact fees due
+under this subchapter shall be calculated according to such assessment.
       (4)   The decision of the Director regarding the Individual Assessment of
 Development Impact shall be final. A fee payor may appeal the Director's
-decision pursuant to the appeal procedures identified in Ordinance 2718 (impact
-fee procedures).
+decision pursuant to the appeal procedures identified in § 153.60.
 (‘77 Code, § 14-55) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
-Am. Ord. 6822, passed 12-22-22)
+Am. Ord. 6822, passed 12-22-22; Am. Ord. 2225, passed 4-7-25)
 § 153.80 TRUST FUND ESTABLISHED.
-   The county hereby establishes a segregated Public Education Facilities
-Impact Fee Trust Fund Account. All public education facilities impact fees
-collected by the county for the Fort Mill Public Education Facilities Impact
-Fees shall be placed in the Trust Fund Account, until transferred to the school
+   The county hereby establishes a separate account within its county financial
+accounting structure for the Fort Mill District. All public education
+facilities impact fees collected by the county pursuant to this subchapter
+shall be placed in the separate account until transferred to the school
 district for expenditure on public education facilities as herein defined. The
-trust fund shall be an interest-bearing account and all interest earned and
-accruing to the account shall become funds of the account, subject to the same
-limitations and restrictions on use and expenditure of funds that are
-applicable to public education facilities impact fee funds.
-(‘77 Code, § 14-56) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18)
+impact fees shall be placed in interest-bearing account(s) and all interest
+earned and accruing to the account(s) shall become funds of the account(s),
+subject to the same limitations and restrictions on use and expenditure of
+funds that are applicable to public education facilities impact fee funds.
+(‘77 Code, § 14-56) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
+Am. Ord. 2225, passed 4-7-25)
 § 153.81 LIMITATION ON USE AND EXPENDITURE OF PUBLIC EDUCATION FACILITIES
 IMPACT FEE FUNDS.
-   Public education facilities impact fee funds (and interest) shall be
-transferred by the county to the Fort Mill School District in accordance with
-the intergovernmental agreement, and then used by the school district solely
-and exclusively for public education facilities as defined herein.
-(‘77 Code, § 14-57) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18)
-§ 153.82 SUNSET.
-   This Impact Fee subchapter specifically adopted for public education-related
-public facilities in the Fort Mill School District shall be terminated upon
-enactment and operation of an alternative and equivalent revenue source. These
-sources may include, but not be limited to, a specified sales tax, gas tax,
-and/or a proportionally equitable mobile home property tax. Upon termination of
+   Public education facilities impact fee funds (including all accrued
+interest) shall be transferred by the county to the school district in
+accordance with the applicable intergovernmental agreement, and then used by
+the school district solely and exclusively for public education facilities as
+defined herein.
+(‘77 Code, § 14-57) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
+Am. Ord. 2225, passed 4-7-25)
+§ 153.82 TERMINATION.
+   The impact fee subchapter specifically adopted for public education-related
+public facilities in the Fort Mill District shall be terminated upon enactment
+and operation of an alternative and equivalent revenue source, a county
+ordinance terminating the ordinance or pursuant to the Act. These sources may
+include, but not be limited to, a specified sales tax, gas tax and/or a
+proportionally equitable mobile home property tax. This impact fee subchapter
+shall end when sufficient fees have been collected to fund all eligible
+projects that are identified in the Fort Mill District CIP. Upon termination of
 this subchapter, all revenue generated for specified improvements shall be
-retained by the county for two years or until the school district requests a
-distribution of funds, whichever occurs sooner. The county shall refund any
-funds remaining in the trust fund after two years to any fee payor requesting a
-refund.
-(‘77 Code, § 14-58) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18)
+retained by the county for two years or until the respective school district
+requests a distribution of funds, whichever occurs sooner. The county shall
+refund any funds remaining in the trust fund after two years to any fee payor
+requesting a refund consistent with the procedures and requirements set forth
+in the Act.
+(‘77 Code, § 14-58) (Ord. 7396, passed 12-16-96; Am. Ord. 2818, passed 7-16-18;
+Am. Ord. 2225, passed 4-7-25)
 § 153.83 CLOVER SCHOOL DISTRICT NO. 2 IMPACT FEES.
    (A)   Pursuant to Ordinance No. 2718: Impact Fee Procedures, its terms,
 procedures, and processes, as set out in §§
@@ -32408,7 +32339,8 @@ Department. The full code is available to the public on the county's website:
 https://www.yorkcountygov.com/DocumentCenter/View/6572/Land-Development-Codes.
 (Ord. passed 2-21-22; Am. Ord. 1122, passed 2-21-22; Am. Ord. 3122, passed 6-
 20-22; Am. Ord. 6422, passed 11-7-22; Am. Ord. 4523, passed 7-17-23; Am. Ord.
-5323, passed 10-2-23; Am. Ord. 824, passed 2-5-24)
+5323, passed 10-2-23; Am. Ord. 824, passed 2-5-24; Am. Ord. 1325, passed 2-17-
+25; Am. Ord. 3125, passed 5-5-25)
 CHAPTER 155: ZONING CODE
 Section
    
@@ -32423,7 +32355,9 @@ www.yorkcountygov.com/DocumentCenter/View/6573/-Zoning-Code.
 2123, passed 5-1-23; Am. Ord. 4523, passed 7-17-23; Am. Ord. 724, passed 2-5-
 24; Am. Ord. 3024, passed 5-20-24; Am. Ord. 3524, passed 6-17-24; Am. Ord.
 6024, passed 12-2-24; Am. Ord. 1025, passed 1-6-25; Am. Ord. 925, passed 2-3-
-25)
+25; Am. Ord. 1225, passed 2-17-25; Am. Ord. 2025, passed 3-17-25; Am. Ord.
+2525, passed 3-17-25; Am. Ord. 2425, passed 4-21-25; Am. Ord. 3825, passed 6-
+16-25; Am. Ord. 3925, passed 6-16-25)
 CHAPTER 156: TEMPORARY EMERGENCY DWELLING PERMITS
 Section
    
@@ -33158,6 +33092,23 @@ No.   Passed
       24     tax map numbers, company names, or property owners associated with the added and
              adjusted/removed parcels; providing for a public hearing and providing for other
              matters related thereto.
+             Authorizing the sale of property identified by tax map number #020-06-01-068 and
+             situated on Kanawha Street, Fort Mill; entertaining an existing offer to purchase
+2125  4-7-25 the parcel; authorizing the execution of the contract of sale and issuance of a
+             deed for the parcel; providing for a public hearing; and providing for other
+             matters relating thereto.
+             Authorizing the assignment of the existing agreement between York County and Fort
+             Mill Rescue regarding the provision of EMS services within the county to Atrium
+             Health Fort Mill EMS, Inc. (AHFM), conditioned upon AHFM meeting and maintaining
+             the requirements in S.C. Code § 61-7 regarding emergency medical services and
+             further conditioned upon AHFM reaching a new agreement with York County
+2325  4-7-25 addressing inter alia, the terms and conditions for AHFM’s participation as an
+             EMS provider operating within York County and as part of York County’s 9-1-
+             1 dispatch system; providing dispatch, response and drive time standards and
+             requirements for AHFM; establishing staffing minimum levels for AHFM rescue
+             units; setting insurance coverage requirements for AHFM; and providing for other
+             matters related thereto.
+              
             
  
 TABLE II: DEVELOPMENTS
@@ -33206,6 +33157,12 @@ Ord. No. Date Passed Description
                      Redevelopment Plan and other matters related thereto.
 2121     5-3-21      Amending, as a minor change, the Lazy Hawk Road Planned
                      Development District.
+                     Authorizing a fourth amendment to the intergovernmental
+                     agreement by and between the City of Rock Hill and York
+3225     5-5-25      County relating to the Textile Corridor Redevelopment
+                     Plan, the Amended Downtown Redevelopment Plan, the Red
+                     River Redevelopment Plan, the Manchester Village
+                     Redevelopment Plan and other matters related thereto.
                     
  
 TABLE III: EXPANSIONS
@@ -33304,7 +33261,8 @@ Title 6, Chapter 7             32.55,
                                35.130
 6-1-730(B)                     35.134
 6-1-740                        35.130
-6-1-910 et seq.                153.56
+6-1-910 et seq.                153.56;
+                               153.76
 6-1-920                        153.56
 6-1-920(2)                     153.56
 6-1-920(3)                     153.56
@@ -33458,6 +33416,7 @@ Title 53, Chapter 1            110.03
 58-12-30 et seq.               111.001
 61-4-10                        113.01
 Title 61, Chapter 6, Article 5 32.83
+61-7                           T.S.O. I
 1221—2710(A)(3)              112.01
 4-9-25                         56.64
 4-9-30                         56.64
@@ -33834,13 +33793,13 @@ REFERENCES TO 1977 CODE
 13-66             33.071
 13-67             33.072
 13-68             33.073
-13-69             33.074
-13-70             33.075
-13-71             33.076
-13-72             33.077
-13-73             33.078
-13-74             33.079
-13-75             33.080
+13-69             33.075
+13-70             33.076
+13-71             33.077
+13-72             33.078
+13-73             33.079
+13-74             33.080
+13-75             33.081
 13-81             33.090
 13-82             33.091
 13-83             33.092
@@ -33962,17 +33921,17 @@ Ord. No. Date Passed Code Section
                      51.01,
 484      5-7-84      51.02,
                      51.05
-                     33.002 
+                     33.002—
                      33.004,
-                     33.015 
+                     33.015—
                      33.031,
-                     33.045 
+                     33.045—
 1584     9-17-84     33.053,
-                     33.065 
+                     33.065—
                      33.067,
-                     33.069 
-                     33.077,
-                     33.079
+                     33.069—
+                     33.078,
+                     33.080
                      70.01 
 1784     10-15-84    70.09,
                      70.99
@@ -34092,9 +34051,9 @@ Ord. No. Date Passed Code Section
 1393     3-15-93     33.050,
                      33.071,
                      33.072,
-                     33.076,
-                     33.079,
-                     33.080
+                     33.077,
+                     33.080,
+                     33.081
 3993     9-20-93     93.01 
                      93.04
                      50.02 
@@ -34136,8 +34095,8 @@ Ord. No. Date Passed Code Section
                      33.021,
 6896     12-16-96    33.023,
                      33.054,
-                     33.078,
-                     33.079
+                     33.079,
+                     33.080
 7196     12-16-96    153.55 
                      153.61
 7396     12-16-96    153.75 
@@ -34254,8 +34213,6 @@ Ord. No. Date Passed Code Section
                      153.95
 2505     6-6-05      32.60
 2805     6-20-05     T.S.O. I
-3105     8-15-05     35.170,
-                     35.171
 3305     9-19-05     T.S.O. I
 3405     9-19-05     T.S.O. I
 3905     11-7-05     T.S.O. I
@@ -34325,7 +34282,7 @@ Ord. No. Date Passed Code Section
 5308     9-2-08      33.053,
                      33.066,
                      33.072,
-                     33.078
+                     33.079
 5408     9-2-08      T.S.O. I
 5908     9-15-08     35.145 
                      35.147
@@ -34466,22 +34423,22 @@ Ord. No. Date Passed Code Section
 1114     5-5-14      32.145  
                      32.149
                      33.004,
-                     33.016 
+                     33.016—
                      33.026,
                      33.046,
                      33.047,
                      33.053,
                      33.054,
-                     33.065 
+                     33.065—
                      33.067,
 1214     5-5-14      33.069,
                      33.071,
                      33.072,
-                     33.074 
-                     33.081,
+                     33.075—
+                     33.082,
                      33.093,
                      33.095,
-                     33.110 
+                     33.110—
                      33.114,
                      33.116,
                      33.117
@@ -34494,7 +34451,7 @@ Ord. No. Date Passed Code Section
 2114     6-2-14      T.S.O. I
                      33.066,
 2914     9-2-14      33.069,
-                     33.082,
+                     33.083,
                      33.114
 3514     10-6-14     T.S.O. I
 3614     10-6-14     T.S.O. I
@@ -34518,7 +34475,7 @@ Ord. No. Date Passed Code Section
                      33.018,
                      33.053,
 4015     11-2-15     33.067,
-                     33.075,
+                     33.076,
                      33.113,
                      33.118
 4115     11-16-15    153.21
@@ -34585,7 +34542,7 @@ Ord. No. Date Passed Code Section
                      33.069,
                      33.071,
                      33.072,
-                     33.082, Ch. 33 Exhibits D, E
+                     33.083, Ch. 33 Exhibits D, E
 3817     7-17-17     35.008 
                      35.010
 4317     9-5-17      T.S.O. I
@@ -34636,15 +34593,15 @@ Ord. No. Date Passed Code Section
 3918     8-20-18     33.068,
                      33.071,
                      33.072,
-                     33.075,
-                     33.077,
-                     33.079 
-                     33.081,
+                     33.076,
+                     33.078,
+                     33.080—
+                     33.082,
                      33.091,
                      33.092,
                      33.094,
                      33.095,
-                     33.110 
+                     33.110—
                      33.115, Chapter 33 Appendix, Exhibits
                      A,
                      B
@@ -34834,11 +34791,9 @@ Ord. No. Date Passed Code Section
 1022     2-21-22     33.020
                      35.160 
                      35.163,
-                     35.170,
-                     35.171,
                      35.200,
-1122     2-21-22     35.180,
-                     35.181,
+                     35.180,
+1122     2-21-22     35.181,
                      35.185,
                      35.186,
                      153.50,
@@ -34857,17 +34812,17 @@ Ord. No. Date Passed Code Section
                      155.001
 3322     8-15-22     33.069
 3722     9-19-22     33.018
-                     131.01 -
+                     131.01—
 3922     10-3-22     131.05,
                      131.99
 5322     12-5-22     T.S.O. I
 5422     12-5-22     90.03,
                      90.99
-                     92.28 -
+                     92.28—
                      92.30,
                      150.04,
 5522     12-5-22     150.05,
-                     150.07 -
+                     150.07—
                      150.09,
                      150.11
 6322     12-19-22    153.59
@@ -34878,8 +34833,6 @@ Ord. No. Date Passed Code Section
                      153.75,
 6822     12-22-22    153.76,
                      153.79
-6922     8-15-22     35.170,
-                     35.171
 223      2-6-23      51.05
 323      2-6-23      T.S.O. I
 723      2-20-23     131.03
@@ -34926,13 +34879,13 @@ Ord. No. Date Passed Code Section
 724      2-5-2       155.001
 824      2-5-24      154.001
 924      2-19-24     33.019
-                     151.01 -
+                     151.01—
                      151.12,
-                     151.20 -
+                     151.20—
                      151.25,
-2924     6-3-24      151.35 -
+2924     6-3-24      151.35—
                      151.44,
-                     151.50 -
+                     151.50—
                      151.58,
                      151.99
 3024     5-20-24     155.001
@@ -34950,6 +34903,21 @@ Ord. No. Date Passed Code Section
 1025     1-6-25      155.001
 425      2-3-25      33.111
 925      2-3-25      155.001
+1225     2-17-25     155.001
+1325     2-17-25     154.001
+2025     3-17-25     155.001
+2525     3-17-25     155.001
+2125     4-7-25      T.S.O. I
+2225     4-7-25      153.75 -
+                     153.82
+2325     4-7-25      T.S.O. I
+2425     4-21-25     155.001
+3125     5-5-25      154.001
+3225     5-5-25      T.S.O. II
+                     33.072—
+3425     6-2-25      33.074,
+                     33.079
+3825     6-16-25     155.001
+3925     6-16-25     155.001
                     
- 
  
