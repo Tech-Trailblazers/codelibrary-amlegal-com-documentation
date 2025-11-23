@@ -317,10 +317,7 @@ async function processSingleClientExport(
 
         const exportJobUuid = exportRequestResponse.uuid; // Extract the new job UUID
         console.log(
-            `[${clientSlug}] ✅ New export job submitted. Job ID (UUID): ${exportJobUuid.substring(
-                0,
-                8
-            )}...`
+            `[${clientSlug}] ✅ New export job submitted. Job ID (UUID): ${exportJobUuid}`
         ); // Log the new job ID
 
         // Step 6: Wait for Export Completion and Download (Phase 4)
@@ -348,11 +345,8 @@ async function processSingleClientExport(
             ); // Log final success
         } else {
             console.error(
-                `[${clientSlug}] ⚠️ Export failed or timed out for Job ID: ${exportJobUuid.substring(
-                    0,
-                    8
-                )}...`
-            ); // Log failure/timeout
+                `[${clientSlug}] ⚠️ Export failed or timed out for Job ID: ${exportJobUuid}`
+            );
         }
     } catch (clientError) {
         console.error(
@@ -605,11 +599,8 @@ async function submitNewExportJob(
         };
 
         console.log(
-            `[EXPORT] 📤 Sending Payload: Version=${versionUuid.substring(
-                0,
-                8
-            )}... | Scope Parts=${scopeArray.length}`
-        ); // Log payload summary
+            `[EXPORT] 📤 Sending Payload: Version=${versionUuid} | Scope Parts=${scopeArray.length}`
+        );
         console.log(`[EXPORT] 🌐 Sending POST request to: ${exportApiUrl}`); // Log POST request
 
         const response = await page.evaluate(
@@ -815,8 +806,8 @@ async function retrieveVersionAndTableOfContents(
     fingerprintCookie
 ) {
     console.log(
-        `[VERSION] 🌐 Fetching details for version ${versionId.substring(0, 8)}...`
-    ); // Log the action
+        `[VERSION] 🌐 Fetching details for version ${versionId}...`
+    );
     return executeApiGetRequest(page, apiUrl, fingerprintCookie); // Execute the GET request
 }
 
@@ -899,12 +890,8 @@ async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
         return true;
     } catch (err) {
         console.error(
-            `[DOWNLOAD] ❌ Error downloading job ID ${exportJobUuid.substring(
-                0,
-                8
-            )}...: ${err.message}`
-        ); // Log download error
-
+            `[DOWNLOAD] ❌ Error downloading job ID ${exportJobUuid}: ${err.message}`
+        );
         // Clean up any partially downloaded temp file
         if (tempFilePath && fs.existsSync(tempFilePath)) {
             console.log(
