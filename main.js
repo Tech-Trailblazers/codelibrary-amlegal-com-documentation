@@ -296,10 +296,7 @@ async function processSingleClientExport(
 
         console.log(
             `[${clientSlug}] Exporting ${exportScopeIdentifiers.length
-            } parts of Code: ${mainCodeSlug} (Version ID: ${definitiveVersionUuid.substring(
-                0,
-                8
-            )}...)`
+            } parts of Code: ${mainCodeSlug} (Version ID: ${definitiveVersionUuid})`
         ); // Log the scope size
 
         // Step 5: Submit the export request (Phase 3)
