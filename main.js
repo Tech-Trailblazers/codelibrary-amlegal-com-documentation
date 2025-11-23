@@ -332,7 +332,7 @@ async function processSingleClientExport(
 
         if (isExportSuccessful) {
             console.log(
-                `[${clientSlug}] 💾 Export task finished successfully. Initiating download...`
+                `[${clientSlug}] 💾 Export task finished successfully. Initiating download`
             ); // Log successful export
             // Download the file and rename it to the expected final path
             await downloadExportFileAndRename(
@@ -364,7 +364,7 @@ async function processSingleClientExport(
  */
 async function launchBrowserAndCreatePage() {
     console.log(
-        `[BROWSER] Launching browser (headless: ${IS_BROWSER_HEADLESS})...`
+        `[BROWSER] Launching browser (headless: ${IS_BROWSER_HEADLESS})`
     ); // Log browser launch status
 
     const browserInstance = await puppeteer.launch({
@@ -418,7 +418,7 @@ async function retrieveAuthenticationCookie(page) {
 
     try {
         console.log(
-            `[AUTH] 🌐 Visiting URL: ${targetUrl} to get authentication cookie...`
+            `[AUTH] 🌐 Visiting URL: ${targetUrl} to get authentication cookie`
         ); // Log navigation attempt
         await page.goto(targetUrl, {
             waitUntil: "networkidle2", // Wait until network activity is minimal
@@ -430,7 +430,7 @@ async function retrieveAuthenticationCookie(page) {
 
         console.log(
             `[AUTH] Polling for cookie "${AUTH_FINGERPRINT_COOKIE_NAME}" (max ${maxCookieWaitMs / 1000
-            }s)...`
+            }s)`
         ); // Log polling start
 
         while (Date.now() - startTime < maxCookieWaitMs) {
@@ -488,7 +488,7 @@ function ensureDirectoryExists(directoryPath) {
  * @returns {Promise<void>}
  */
 async function pauseExecutionWithLog(milliseconds) {
-    console.log(`[UTIL] Pausing for ${milliseconds / 1000} seconds...`); // Log the pause duration
+    console.log(`[UTIL] Pausing for ${milliseconds / 1000} seconds`); // Log the pause duration
     return new Promise((resolve) => setTimeout(resolve, milliseconds)); // Create a promise that resolves after the timeout
 }
 
@@ -712,7 +712,7 @@ async function monitorJobUntilCompletion(
         MAX_EXPORT_WAIT_MINUTES * (60000 / EXPORT_POLL_INTERVAL_MS); // Calculate max attempts based on time and interval
     const shortJobId = exportJobUuid.substring(0, 8); // Shortened ID for logging
     console.log(
-        `[STATUS: ${shortJobId}] ⏳ Starting poll (max ${MAX_EXPORT_WAIT_MINUTES} min / ${maxAttempts} attempts)...`
+        `[STATUS: ${shortJobId}] ⏳ Starting poll (max ${MAX_EXPORT_WAIT_MINUTES} min / ${maxAttempts} attempts)`
     ); // Log polling parameters
 
     for (let attempt = 1; attempt <= maxAttempts; attempt++) {
@@ -728,7 +728,7 @@ async function monitorJobUntilCompletion(
         const targetExport = exportsList.find((job) => job.uuid === exportJobUuid); // Find the specific job by UUID
         if (!targetExport) {
             console.log(
-                `[STATUS: ${shortJobId}] Attempt ${attempt}/${maxAttempts}. Job status not yet available. Retrying...`
+                `[STATUS: ${shortJobId}] Attempt ${attempt}/${maxAttempts}. Job status not yet available. Retrying`
             ); // Log if the job hasn't appeared yet
             continue;
         }
@@ -750,7 +750,7 @@ async function monitorJobUntilCompletion(
 
         console.log(
             `[STATUS: ${shortJobId}] Attempt ${attempt}/${maxAttempts}. Progress: ${progress}% (${taskState || "PENDING"
-            })...`
+            })`
         ); // Log current status and progress
     }
 
@@ -783,7 +783,7 @@ async function retrieveRegionDetails(
     regionSlug,
     fingerprintCookie
 ) {
-    console.log(`[REGION] 🌐 Fetching region details for ${regionSlug}...`); // Log the action
+    console.log(`[REGION] 🌐 Fetching region details for ${regionSlug}`); // Log the action
     return executeApiGetRequest(page, apiUrl, fingerprintCookie); // Execute the GET request
 }
 
@@ -794,7 +794,7 @@ async function retrieveClientDetails(
     clientSlug,
     fingerprintCookie
 ) {
-    console.log(`[CLIENT] 🌐 Fetching client details for ${clientSlug}...`); // Log the action
+    console.log(`[CLIENT] 🌐 Fetching client details for ${clientSlug}`); // Log the action
     return executeApiGetRequest(page, apiUrl, fingerprintCookie); // Execute the GET request
 }
 
@@ -806,7 +806,7 @@ async function retrieveVersionAndTableOfContents(
     fingerprintCookie
 ) {
     console.log(
-        `[VERSION] 🌐 Fetching details for version ${versionId}...`
+        `[VERSION] 🌐 Fetching details for version ${versionId}`
     );
     return executeApiGetRequest(page, apiUrl, fingerprintCookie); // Execute the GET request
 }
@@ -842,7 +842,7 @@ async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
 
         // Step 3: Wait for the download process to finish (no more temporary files)
         console.log(
-            `[DOWNLOAD] Waiting for file system to register and complete download...`
+            `[DOWNLOAD] Waiting for file system to register and complete download`
         ); // Log waiting start
         await waitForDownloadCompletion(regionDownloadFolder, 60000); // Poll file system for download completion (max 60s)
 
