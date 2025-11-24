@@ -12210,7 +12210,7 @@ the billings are made a part of the sewer and trash bill, the property owners
 will be subject to all the penalties and collection costs associated with sewer
 and trash bills.
 (Ord. 1099 (part), 1986: prior code § 11-4-3)
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-5862.jpg]
 Title 14
 (RESERVED)
@@ -19834,7 +19834,6 @@ Convenience food store with four or less pumps#               o  o  o  o      
 Costume dressmaking, furrier, millinery or tailor shop          o  o  o      
 employing five people or less
 Dancing or theatrical studio                                    o  o  o      
-Data Center                                                           o   o
 Deferred presentment company as defined in Section 17.12.415  o  o  o  o      
 Delicatessen and catering establishment                         o  o  o      
 Dry cleaning and laundry establishment                        o  o  o  o  o    
@@ -19941,7 +19940,15 @@ Permitted Accessory Uses. Refer to permitted accessory uses for the specific zon
 in question.
  
 (Ord. 3479 § 1, 2025: Ord. 1397.17.61 § 1 (part), 2024; Ord. 1397.17.62 § 1
-(part), 2024; Ord. 1397.17.60 § 6, 2023; Ord. 1397.17.53 §§
+(part), 2024; Ord. 1397.17.60 § 6, 2023; Ord. 1397.17.53 §§ 2-4, 2021; Ord.
+1397.17.50 § 1, 2019; Ord. 1397.17.45 § 2, 2014; Ord. 1397.17.37 §§ 2-4, 2011:
+Ord. 1397.17.36 § 3, 2009: Ord. 1397.17.35 § 2, 2009: Ord. 1397.17.34 § 2,
+2009: Ord. 1397.17.33 § 2, 2006: Ord. 1397.17.29 § 1 (part), 2001: Ord.
+1397.17.28 § 1, 2001: Ord. 1397.17.21 § 1, 1999: Ord. 1397.17.20 § I, 1998:
+Ord. 1397.17.16 § III, 1997: Ord. 1397.17.14 §§ II, III, IV, 1996: Ord.
+1397.17.12, 1994: Ord. 1397.17.11 § 3, 1994: Ord. 1397.16.2 §§ 1 (part), 2
+(part), 1994: Ord. 1397.17.8 § 1, 1993: Ord. 1178.44 § 2, 1991: Ord. 1178.32
+attachment A, 1990: Ord. 1178 § 4.3.2, 1987)
 Chapter 17.20
 RESIDENTIAL ZONES
 Sections:
@@ -21720,9 +21727,10 @@ subject to the development standards set forth in Section
 development standards set forth in Section
 17.68.120.D;
    F.   Convenience-food restaurants with no drive-thru facilities;
-   G.   Restaurant of greater than 3,500 sq. ft.;
-   H.   Restaurant of not more than 3,500 sq. ft.;
-   I.   Wireless telecommunication facilities with a height greater than
+   G.   Data Center;
+   H.   Restaurant of greater than 3,500 sq. ft.;
+   I.   Restaurant of not more than 3,500 sq. ft.;
+   J.   Wireless telecommunication facilities with a height greater than
 thirty-five feet, subject to the development standards set forth in Section
 17.68.120.D.
 (Ord. 3479 § 1, 2025: Ord. 1397.17.36 § 12 (part), 2009: Ord. 1397.17.17 § 4,
@@ -21849,23 +21857,24 @@ subject to the development standards set forth in Section
    H.   Day care center, subject to the development standards set forth in
 Section
 17.68.120.D;
-   I.   Excavation of sand, gravel, dirt, ore or minerals;
-   J.   Fiberglass manufacturing and processing;
-   K.   Heliports, subject to the regulations of the Federal Aviation
+   I.   Data Center;
+   J.   Excavation of sand, gravel, dirt, ore or minerals;
+   K.   Fiberglass manufacturing and processing;
+   L.   Heliports, subject to the regulations of the Federal Aviation
 Administration;
-   L.   Meat packing;
-   M.   Oil refineries;
-   N.   Racetracks;
-   O.   Railroad switching yards;
-   P.   Scrap metal or used materials processing, handling, and storage
+   M.   Meat packing;
+   N.   Oil refineries;
+   O.   Racetracks;
+   P.   Railroad switching yards;
+   Q.   Scrap metal or used materials processing, handling, and storage
 facilities, except recycling centers;
-   Q.   Sewage treatment plants;
-   R.   Those uses involving the storage, utilization or manufacture of
+   R.   Sewage treatment plants;
+   S.   Those uses involving the storage, utilization or manufacture of
 volatile or explosive materials or products;
-   S.   Wireless telecommunication facilities with a height greater than
+   T.   Wireless telecommunication facilities with a height greater than
 seventy-five feet, subject to the development standards set forth in Section
 17.68.120.D;
-   T.   Conditionally permitted uses as per Section 17.28.030 of this title.
+   U.   Conditionally permitted uses as per Section 17.28.030 of this title.
 (Ord. 3479 § 1, 2025: Ord. 1397.17.50 § 3, 2019; Ord. 1397.17.14 § VII, 1996;
 Ord. 1397.17.11 § 4 (part), 1994; Ord. 1397.16.2 §§ 1 (part), 2 (part), 1994;
 Ord. 1178 § 5.12.3, 1987)
@@ -24120,15 +24129,15 @@ Angle      Width    Width       Length   Length ADA Aisle Width Aisle Width 2-
 Note: In cases where a drive aisle is also functioning as a fire lane it shall
 have a minimum width of 20'.
 Figure A. Typical 90-degree parking space assemblies
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-6622.png]
  
 Figure B. Typical 30-45-60-75-degree parking space assemblies
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-6624.png]
  
 Figure C. Typical parallel parking assemblies
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-6626.png]
  
 (Ord. 1397.17.59, 2022)
@@ -24441,7 +24450,7 @@ property line.
    3.   Drive area for vehicle use exceeds no more than 50% of the front yard
 setback of the property.
    4.   Parking space requirements are met with the design of the drive.
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-6634.png]
  
 (Ord. 1397.17.59, 2022)
@@ -24526,7 +24535,7 @@ Oil change facility       2                            40'
  
 Figure D. Queueing Lane Design Requirements
  
-[https://export.amlegal.com/media/9d4d70fd429c756846d876ac63474fc693ee9695/
+[https://export.amlegal.com/media/dfb18dcf60dce35b4dafd8aa023d6b30d450df8d/
 IMAGES/0-0-0-6636.png]
 (Ord. 1397.17.59, 2022)
 17.56.220 Off-street loading berth requirements.
