@@ -2,7 +2,7 @@ CITY OF EL MIRAGE, ARIZONA
 CODE OF ORDINANCES
 VOLUME 1
 Supplement 2025 S-16 contains:
-Local legislation current through Ord. O25-07-07, passed 7-1-2025
+Local legislation current through Ord. O25-10-08, passed 10-7-2025
  
 Published by:
 American Legal Publishing
@@ -7115,7 +7115,7 @@ Thunderbird Rd.     A point 550 feet west El Mirage Ave.           35
 Thunderbird Rd.     El Mirage Rd.         Grand Ave.               30
  
 SCHEDULE IV. SPEED LIMIT MAP
-[https://export.amlegal.com/media/a27d55ab04ad0f756120738637bd0ec00ee21e2c/
+[https://export.amlegal.com/media/fee039a4cdfd38f035f243f8968e4a1da7e68e62/
 IMAGES/0-0-0-1730.jpg]
  
  
@@ -10818,6 +10818,7 @@ Ch. 2, Art. 3.1          53.02
 9-236                    32.041;
                          32.043
 9-240                    Adopting Ordinance
+9-243                    152.157
 9-271                    31.22–
                          31.24
 9-271 et seq.            32.001
@@ -11471,13 +11472,11 @@ Ch. 9      35.01
 19-5-2     152.047
 19-5-3     152.048
 19-6       152.060
-19-6-1     152.061
 19-6-2     152.062
 19-6-3     152.063
 19-7       152.075
 19-7-1     152.076
 19-7-2     152.077
-19-7-3     152.078
 19-8       152.090
 19-8-1     152.091
 19-8-2     152.092
@@ -12050,13 +12049,48 @@ O25-06-05  6-3-2025    32.020;
 O25-06-06  6-3-2025    T.S.O. III
 O25-07-07  7-1-2025    31.21,
                        50.002
+                       152.001,
+                       152.002,
+                       152.015–
+                       152.017,
+                       152.030,
+                       152.045–
+                       152.048,
+                       152.060,
+                       152.062,
+                       152.063,
+                       152.075–
+                       152.077,
+                       152.090–
+                       152.092,
+                       152.105–
+                       152.107,
+                       152.120,
+O25-10-08  10-7-2025   152.135–
+                       152.143,
+                       152.155–
+                       152.158,
+                       152.170–
+                       152.176,
+                       152.190–
+                       152.195,
+                       152.205,
+                       152.206,
+                       152.217,
+                       152.230–
+                       152.233,
+                       152.245,
+                       152.246,
+                       152.999,
+                       153.001,
+                       153.002
                       
  
 CITY OF EL MIRAGE, ARIZONA
 ZONING CODE; LAND USAGE
 VOLUME 2
 Supplement 2025 S-16 contains:
-Local legislation current through Ord. O25-07-07, passed 7-1-2025
+Local legislation current through Ord. O25-10-08, passed 10-7-2025
 TITLE XV: ZONING CODE; LAND USAGE
       Chapter
          
@@ -13922,8 +13956,8 @@ for each and every such violation and non-compliance, be punished as provided
 in City Code Ord. O87-07-004.
 (Prior Code, § 18-2-15) (Ord. O24-12-11, passed 12-3-2024; Res. R24-12-28,
 passed 12-3-2024)
-CHAPTER 152: PROPERTY DEVELOPMENT; OFF-SITE CONSTRUCTION
-IMPROVEMENT REQUIREMENTS
+CHAPTER 152: PROPERTY DEVELOPMENT; OFF-SITE CONSTRUCTION IMPROVEMENT
+REQUIREMENTS
 Section
 General Provisions
    
@@ -13953,7 +13987,7 @@ Fee for Review of Off-Site Improvement Plans and Specifications
    
 152.060   General provisions
    
-152.061   Previously developed land
+152.061   [Reserved]
    
 152.062   Double fee
    
@@ -13964,9 +13998,7 @@ Inspection and Testing of Off-Site Construction
    
 152.076   Time limit
    
-152.077   Fees for inspection and testing
-   
-152.078   Street cleanup fee
+152.077   Fees for inspection
 Approval, Acceptance, and Assurances of Construction
    
 152.090   General provisions
@@ -14001,6 +14033,8 @@ Deferral of Off-site Improvements
 152.141   City participation
    
 152.142   Reimbursement agreement
+   
+152.143   Reimbursement procedure
 Street Financing Policy
    
 152.155   General provisions
@@ -14045,9 +14079,9 @@ Private Streets
 152.206   Permits and inspection
 Traffic Signals and Streetlights
    
-152.215   Traffic signal system development fee
+152.215   [Reserved]
    
-152.216   Fees
+152.216   [Reserved]
    
 152.217   Traffic signal and streetlight reimbursement agreements
 Disposition of Unnecessary Rights-of-Way
@@ -14064,6 +14098,7 @@ Enforcement
 152.245   Cease and desist orders
    
 152.246   Appeal procedure
+ 
    
 152.999   Penalty
 GENERAL PROVISIONS
@@ -14075,8 +14110,6 @@ or other legal entity that files the application and initiates proceedings for
 the development of land, including but not limited to a subdivision, minor
 division of land, site development plan, and/or a zone change in accordance
 with this code. The DEVELOPER need not be the owner of record of the land.
-   MEDIAN. A raised or flush area designed to separate and control vehicular
-movement.
    OFF-SITE CONSTRUCTION. Construction, erection, or installation or any change
 or addition to lands, structures, equipment, facilities, or materials located
 above or below ground within any street, alley, easement, or rights-of-way in
@@ -14096,8 +14129,8 @@ regulated by this chapter of the code.
    OVERHEAD UTILITY LINES. Those historically conveyed by a series of
 conductors mounted on poles or other above ground structures. Included are
 electric service lines, electric distribution lines (under 69 kilovolt),
-telephone cables and lines, and lines for other communications systems such as
-cable-transmitted television.
+telephone cables and lines, and lines for other communications systems
+including but not limited to cable-transmitted television.
    PRIVATE STREET. A street not owned or maintained by the city.
    RIGHT-OF-WAY. Any land which by deed, conveyance, agreement, easement,
 dedication, usage, zoning condition, process of law, or other means is reserved
@@ -14106,16 +14139,18 @@ utility, or pedestrian walkway purposes and accepted by the city.
    UNDERGROUND or UNDERGROUNDING. The placement of utilities at or below ground
 with the attendant removal of aboveground poles, conductors, and appurtenances
 as applicable.
-(Prior Code, Art. 19-1)
+(Prior Code, Art. 19-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.002 DESIGN REQUIREMENTS.
    (A)   All off-site improvements shall be designed, engineered, constructed,
 and installed in accordance with the regulations adopted in §
 150.001 of the city code and with all other applicable regulations adopted by
 the city, state or federal government.
-   (B)   Right-of-way width and street cross section shall be as specified in
-the City Code and the Planning and Zoning Regulations.
-   (C)   The Public Works Director shall determine street classifications.
-(Prior Code, Art. 19-2)
+   (B)   All off-site improvements shall be designed and constructed according
+to the dimensions and standards set forth in the city’s Design and Development
+Standards Manual (DDSM).
+   (C)   The Development Services Director (Director) shall determine street
+classifications.
+(Prior Code, Art. 19-2) (Ord. O25-10-08, passed 10-7-2025)
 REQUIRED IMPROVEMENTS
 § 152.015 GENERAL PROVISIONS.
    As a condition of approval of any subdivision, minor division of land, or
@@ -14125,21 +14160,24 @@ be developed, in accordance with the requirements set forth in the city code
 and the zoning code and regulations, the encroachment permit code, and this
 chapter. This requirement applies to all land developed or redeveloped under
 the provisions of any of the above listed chapters.
-(Prior Code, Art. 19-3)
+(Prior Code, Art. 19-3) (Ord. O25-10-08, passed 10-7-2025)
 § 152.016 IMPROVEMENT EXTENSIONS.
    Improvements shall, as a minimum, extend to the center of abutting streets
 or rights-of-way and may extend beyond the center when median islands and two-
 way traffic requirements necessitate an extension. When the property to be
 redeveloped abuts a canal, drain, wash, irrigation ditch, or similar facility,
 the off-site construction shall include full improvements to the facility.
-(Prior Code, § 19-3-1)
+(Prior Code, § 19-3-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.017 IMPROVEMENT INCLUSIONS.
    Improvements shall also include tapers or transitional areas on either side
 of the project site necessary to provide a safe, smooth traffic flow between
-existing and newly constructed street sections. Any additional right-of-way
-necessary for the construction, including applicable legal fees, shall be the
+existing and newly constructed street sections. The taper and transitional
+areas shall extend beyond the limits of the project, if possible, to allow for
+the full improvements to be constructed along the project frontage. Any
+additional right-of-way necessary for the construction both within and beyond
+the limits of project site, including applicable legal fees, shall be the
 responsibility of the developer.
-(Prior Code, § 19-3-2)
+(Prior Code, § 19-3-2) (Ord. O25-10-08, passed 10-7-2025)
 UNDERGROUNDING OF OVERHEAD UTILITY LINES.
 § 152.030 GENERAL PROVISIONS.
    (A)   The developer shall place underground all existing overhead utility
@@ -14167,9 +14205,9 @@ lines other than the high-voltage lines shall be placed underground.
    (B)   Equipment appurtenant to the underground facilities, such as surface-
 mounted transformers, pull boxes, pedestal cabinets, service terminals,
 telephone splice closures, concealed ducts, or other similar on-the-ground
-facilities normally used with or as approved by the City Engineer, may be
-maintained above ground with the written permission of the City Engineer for
-the specific facility to be left above ground.
+facilities normally used with or as approved by the Director, may be maintained
+above ground with the written permission of the Director for the specific
+facility to be left above ground.
    (C)   The developer or owner of a development or redevelopment project shall
 be responsible to make necessary arrangements with the affected utility
 companies for the installation of required underground facilities, including
@@ -14180,27 +14218,22 @@ install the underground facilities without reimbursement.
 the street lights will be replaced with freestanding poles by the developer in
 accordance with current street light standards.
    (E)   Relief from undergrounding requirements may be considered, at the
-discretion of City Council, under the following conditions.
+discretion of City Council, under the following conditions:
       (1)   Deferment of undergrounding may be requested by a developer in
 cases where the utility frontage is small (generally less than 1,000 feet in
-length). When deferment is approved, the developer shall obtain an estimate of
-undergrounding costs from all affected utility companies. The developer shall
-then be required to provide a cash deposit, letter of credit, certificate of
-deposit, or other security acceptable to the City Attorney, in an amount equal
-to the estimated under-grounding costs, as provided by the utility company,
-associated with the utility frontage of the project. The developer shall also
-be required to install the ductwork (conduit) required by the utility companies
-for the future undergrounding prior to issuance of certificate of occupancy.
-Phasing of projects will be considered based on the particular situation. On
-projects for which plans are approved in phases, the developer may request
-delay in payment of estimated costs until approval of plans for the largest
-phase involving undergrounding, at which time payment for the entire project
-shall be required. The obligation to pay at the time of a subsequent phase
-shall be secured by an agreement which shall bind the owner and subsequent
-buyers for undergrounding costs along the entire applicable frontage. Monies
-received will be held in an account by the city to be used at whatever time the
-applicable area is converted by the city, utility companies, or other parties
-to underground utilities.
+length) or when project phasing or other extraordinary conditions beyond the
+control of the developer makes deferment of undergrounding economically or
+practically beneficial to the developer and city. When deferment is approved,
+the developer shall obtain an estimate of undergrounding costs from all
+affected utility companies. The developer shall then be required to provide a
+cash deposit, performance bond, or other security acceptable to the City
+Attorney, in an amount equal to 125% of the estimated under-grounding costs, as
+provided by the utility company, associated with the utility frontage of the
+project. The developer shall also be required to enter into a development
+agreement or other agreement acceptable to the City Attorney setting forth the
+terms and conditions imposed on developer in exchange for the deferment of
+undergrounding and ensuring completion of undergrounding of utilities by
+developer prior to completion of the development project.
       (2)   Exemption may be considered where the developer can show that
 undergrounding will be an unusual economic hardship and the costs of the
 undergrounding are disproportionate in terms of the utility frontage and the
@@ -14209,28 +14242,26 @@ where development occurs in an area where adjacent land on both sides is
 already developed (infill situation), and in cases involving additions or
 modifications to existing sites which represent a minor portion of the total
 site.
-      (3)   Exemption may be considered when high-voltage powerlines, above 13
-kV or similar, would remain on the poles after the undergrounding of the lower
-voltage lines.
-      (4)   All requests for relief must be presented in writing to the
-Planning and Development Director prior to plan approval. Consideration for
+      (3)   All requests for relief must be presented in writing to the
+Development Services Director prior to plan approval. Consideration for
 approval shall be in accordance with the purpose, intent, and objective of this
-section. The City Council shall approve or disapprove all formal requests for
-relief. Aesthetics is only one of many reasons for undergrounding of which
-public safety is paramount. Completion of undergrounding and/or payment of
-costs shall be required prior to granting of a certificate of occupancy. All
-new service lines installed shall be underground per §
+section. All formal requests for relief will be presented to City Council for
+approval or disapproval and the Council’s decision is final. Aesthetics is only
+one of many reasons for undergrounding of which public safety is paramount.
+Completion of undergrounding and/or payment of costs shall be required prior to
+granting of a certificate of occupancy. All new service lines installed shall
+be installed underground per §
 155.057 even though relief may be granted for adjacent existing lines.
    (F)   The requirements set forth above shall not apply to new utility poles
 and wires erected for purely temporary purposes such as providing temporary
 building construction power, emergency power, telephone service, or the
 furnishing of power to temporary outdoor activities. A permit for the temporary
-use shall be obtained from the Engineering Division. The length of the
-temporary use shall be specified in the permit and may not exceed six months.
-An additional six-month permit may be issued upon a finding of necessity by the
-City Engineer.
+use shall be obtained from the Director. The length of the temporary use shall
+be specified in the permit and may not exceed six months. An additional six-
+month permit extension may be issued upon a finding of necessity by the
+Development Services Director.
 (Prior Code, Art. 19-4) (Res. R22-09-20, passed 9-8-2022; Ord. O22-09-05,
-passed 9-8-2022)
+passed 9-8-2022; Ord. O25-10-08, passed 10-7-2025)
 OFF-SITE CONSTRUCTION; PERMITS, PLANS, AND SPECIFICATIONS
 § 152.045 GENERAL PROVISIONS.
    (A)   The developer must obtain an encroachment permit in accordance with
@@ -14239,17 +14270,17 @@ public property, or right-of-way. In addition, plans and specifications for and
 construction of all off-site construction must be reviewed and approval
 obtained pursuant to this chapter.
    (B)   Approval of off-site construction plans and specifications is required
-by the Public Works Department prior to issuance of an encroachment permit for
-off-site construction.
-(Prior Code, Art. 19-5)
+by the Development Services Department prior to issuance of an encroachment
+permit for offsite construction.
+(Prior Code, Art. 19-5) (Ord. O25-10-08, passed 10-7-2025)
 § 152.046 PLAN AND SPECIFICATION CONTENTS; PROCEDURE FOR APPROVAL.
    (A)   Plans and specifications shall be submitted indicating that off-site
 improvements are planned for the project in conformance with city code,
 standards, regulations, and requirements. These off-site improvement plans and
-specifications shall be submitted in triplicate with all other building plans
-and applications together with the plan review fee established by Council
-resolution. The developer must obtain written approval from the Public Works
-Director for all off-site improvement plans and specifications prior to
+specifications shall be submitted with all other building plans and
+applications together with the plan review fee established by Council
+resolution. The developer must obtain written approval from the Director or
+his/her designee for all off-site improvement plans and specifications prior to
 issuance of a building permit, encroachment permit, or other permit necessary
 to commence work.
    (B)   The off-site construction plans and specifications shall be prepared
@@ -14257,206 +14288,184 @@ and signed by a professional engineer who is qualified and registered by the
 State of Arizona to practice in the particular field of competency required by
 the type of improvements.
    (C)   Engineering plans and specifications shall be in conformance with
-accepted engineering practice and shall conform to the City Code, regulations,
-and requirements, and be prepared to the satisfaction of the Public Works
-Director. Vertical and horizontal control surveys shall be tied and referenced
-or two existing city-approved benchmarks and two section corners or quarter
-corners. Incomplete or partial submittals will not be accepted.
-(Prior Code, § 19-5-1)
+accepted engineering practice and shall conform to the city code, Maricopa
+Association of Governments (MAG) standards and details, city supplements to MAG
+requirements, the DDSM, and any other applicable regulations and requirements,
+and be prepared to the satisfaction of the Director or his/her designee.
+Vertical and horizontal control surveys shall be tied and referenced or two
+existing city-approved benchmarks and two section corners or quarter corners.
+Incomplete or partial submittals will not be accepted.
+(Prior Code, § 19-5-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.047 SUBSEQUENT PLAN REVIEW.
    Plans submitted more than three times to gain acceptance shall not be
 further reviewed until an additional plan review fee of one-third the amount of
 the first plan review fee is paid to the city for each subsequent review.
-(Prior Code, § 19-5-2)
+(Prior Code, § 19-5-2) (Ord. O25-10-08, passed 10-7-2025)
 § 152.048 APPROVAL.
    (A)   Approval of off-site construction plans and specifications shall be
-valid as basis to issue construction permits for a period not to exceed one
-year after date of approval. Approval of off-site plans and specifications
-shall continue to be valid provided construction has commenced and that no
-suspension or abandonment of the work has occurred. Plans for which
-construction is not started within one year shall be resubmitted and shall be
-deemed a new submittal and all fees and charges shall apply.
-   (B)   Approval of plans and specifications by the Public Works Director does
-not relieve the design professional of responsibility for errors or omissions
-and for the correction of them and liability caused by their occurrence unless
-they were required to be added or omitted by the Public Works Director.
-(Prior Code, § 19-5-3)
+valid as basis to issue construction permits for a period not to exceed nine
+months after the date of approval. Approval of off-site plans and
+specifications shall continue to be valid provided construction has commenced
+and that no suspension or abandonment of the work has occurred. Plans for which
+construction is not started within nine months shall be resubmitted and shall
+be deemed a new submittal and all fees and charges shall apply.
+   (B)   Approval of plans and specifications by the Director or his/her
+designee does not relieve the design professional of responsibility for errors
+or omissions and for the correction of them and liability caused by their
+occurrence unless they were required to be added or omitted by the Director.
+(Prior Code, § 19-5-3) (Ord. O25-10-08, passed 10-7-2025)
 FEE FOR REVIEW OF OFF-SITE IMPROVEMENT PLANS AND SPECIFICATIONS.
 § 152.060 GENERAL PROVISIONS.
-   (A)   Plan review fees in an amount established by Council resolution shall
-be paid at the time plans are submitted. The plan review process shall be
-deemed started at the time first submission of preliminary or final subdivision
-or site plans are accepted for review by the Public Works Director or his or
-her designee, and the plan review fee shall be paid before any review action is
-undertaken.
-   (B)   Fees shall be based on acreage being developed, and acreage shall be
-computed and certified by the developer’s engineer to include all lands being
-developed including adjacent rights-of-way improved and the computation shall
-be submitted together with the off-site improvement plans.
-(Prior Code, Art. 19-6)
-§ 152.061 PREVIOUSLY DEVELOPED LAND.
-   Fees for lands previously developed or included in a previously approved
-development shall be computed based on the net acreage of the site (not
-including previously dedicated and improved rights-of-way and easements).
-(Prior Code, § 19-6-1)
+   Plan review fees in an amount established by Council resolution shall be
+paid once the plans and specifications have been approved but before the permit
+has been released. Some plan reviews, however, may require a portion of the
+plan review fees to be paid before any review action is undertaken.
+(Prior Code, Art. 19-6) (Ord. O25-10-08, passed 10-7-2025)
+§ 152.061 [RESERVED.]
 § 152.062 DOUBLE FEE.
    Failure to secure a permit for off-site construction prior to commencing
-work will result in a charge of double the amount of the regular fee.
-(Prior Code, § 19-6-2)
+work will result in a charge of double the amount of the regular permit fee.
+(Prior Code, § 19-6-2) (Ord. O25-10-08, passed 10-7-2025)
 § 152.063 WAIVING OF FEE.
-   Fees associated with city projects may be waived by the Public Works
-Director if the project is required by the city and in the city’s best
-interest. In certain demonstrated hardship cases fees may be waived at the
-discretion of the Public Works Director.
-(Prior Code, § 19-6-3)
+   Fees associated with city projects may be waived by the Director if the
+project is required by the city and in the city’s best interest. In certain
+demonstrated hardship cases fees may be waived at the discretion of the
+Director.
+(Prior Code, § 19-6-3) (Ord. O25-10-08, passed 10-7-2025)
 INSPECTION AND TESTING OF OFF-SITE CONSTRUCTION
 § 152.075 GENERAL PROVISIONS.
-   During off-site construction the city shall provide construction review,
-including testing of materials, to assess conformity to current city standard
-specifications and drawings.
-   (A)   Inspection of the work by the Public Works Director or his or her
-designee shall not be considered as direct control of the individual worker and
-the work. The direct control shall be solely the responsibility of the
-contractor.
+   During off-site construction the developer shall provide construction
+review, including testing of materials, to assess conformity to current city
+standard specifications and drawings.
+   (A)   Inspection of the work by the Department shall not be considered as
+direct control of the individual worker and the work. The direct control shall
+be solely the responsibility of the contractor.
    (B)   Any work done or materials used without inspection and testing or test
 results approved by an authorized representative of the city may be ordered
 removed and replaced. Failure to reject any defective work or materials shall
 not in any way prevent later rejection when the defect is discovered nor
-obligate the Public Works Director to final acceptance.
-   (C)   The Public Works Director, for the purpose of expediting and
-facilitating the progress of the work, shall not inspect all materials, and
-each part or detail of the work. The Public Works Director shall be furnished
-at any time with such information and assistance by the contractor as is
-required to make a complete and detailed inspection.
+obligate the Department to final acceptance.
+   (C)   The Department, for the purpose of expediting and facilitating the
+progress of the work, shall not inspect all materials, and each part or detail
+of the work. The Department shall be furnished at any time with such
+information and assistance by the contractor as is required to make a complete
+and detailed inspection.
    (D)   No work will be accepted which is installed prior to dedication of
-rights-of-way.
-(Prior Code, Art. 19-7)
+rights-of-way unless approved by the Development Services Director in writing
+prior to construction.
+(Prior Code, Art. 19-7) (Ord. O25-10-08, passed 10-7-2025)
 § 152.076 TIME LIMIT.
    Completion of off-site construction within the public rights-of-way under
-permit shall be accomplished within one year after issuance of the permit
-unless otherwise specifically stated in the permit. This period may be extended
-if a hardship is acknowledged by the Public Works Director for economic
+permit shall be accomplished within nine months after issuance of the permit
+unless otherwise specifically stated in the permit. The permit for the off-site
+construction shall continue to be valid provided construction has commenced and
+that no suspension or abandonment of the work has occurred. This period may
+also be extended if a hardship is acknowledged by the Department for economic
 reasons, strikes, unavailability of materials, unseasonable weather, or other
 good and sufficient cause. If an extension of time is not granted, the plans
 shall be resubmitted for review and a new permit covering the remaining work to
 be completed shall be required. Fees required under the review and new permit
 shall be charged according to the fee schedule in effect at the time the new
 review is requested or new permit is issued.
-(Prior Code, § 19-7-1)
-§ 152.077 FEES FOR INSPECTION AND TESTING.
-   (A)   Fees for inspection and testing shall be paid to the city at the time
-a permit is issued for construction work. The fee shall be computed on the
-basis of costs per unit of the various construction items and shall be outlined
-in the current fee schedule adopted by Council resolution. Quantity estimates
-of the various items involved shall be calculated and certified by the engineer
-who prepared the plans and specifications for the improvements and shall be
-submitted to the Public Works Director or his or her designee on forms supplied
-by the city at the time application for a permit for the work is made.
-   (B)   Any repetition of tests or inspection required because of inferior
-materials or workmanship, as determined by the city-approved test, shall be
-performed at the developer’s expense and shall be paid to the city by the
-developer when notified by the Public Works Director or his or her designee.
-This service does not relieve the contractor for the discovery of errors, and
-the correction of them, nor of the responsibility of properly performing the
-work.
-(Prior Code, § 19-7-2)
-§ 152.078 STREET CLEANUP FEE.
-   A refundable street cleanup fee will be charged to the developer at the time
-of plan submittal review. The fee will be in an amount established by separate
-resolution. It shall be the developer’s to ensure that cit streets are
-maintained free of construction debris.
-   (A)   City Inspectors will provide the developer with written notice when
-violations are observed. The developer shall have four hours, from the time of
-written notice receipt, to remove the debris. Failure to respond shall result
-in the levying of an assessment against the fee in the amount of the city’s
-cost for street cleanup, including an initial administrative charge as set by
-resolution.
-   (B)   Upon subdivision/site build-out and the filing of a notice of
-termination with the environmental protection agency, the cleanup fee will be
-refunded less any charges, including the administrative charge. If the fee was
-depleted and additional cleanup was required, the outstanding balance will be
-collected prior to final inspection.
-(Prior Code, § 19-7-3)
+(Prior Code, § 19-7-1) (Ord. O25-10-08, passed 10-7-2025)
+§ 152.077 FEES FOR INSPECTION.
+   (A)   Fees for inspection shall be paid to the city at the time a permit is
+issued for construction work. The fee shall be determined as outlined in the
+current fee schedule adopted by Council resolution. Quantity estimates of the
+various items involved shall be calculated and certified by either the engineer
+who prepared the plans and specifications for the improvements or the
+contractor that will perform the work and shall be submitted to the Director or
+his or her designee during the plan review process.
+   (B)   All testing, including any repetition of tests required because of
+inferior materials or workmanship, shall be performed at the developer’s
+expense.
+   (C)   Any repetition of inspections required because of inferior materials
+or workmanship, shall be performed at the developer’s expense and shall be paid
+to the city by the developer when notified by the Department. This service does
+not relieve the contractor for the discovery of errors, and the correction of
+them, nor of the responsibility of properly performing the work.
+(Prior Code, § 19-7-2) (Ord. O25-10-08, passed 10-7-2025)
 APPROVAL, ACCEPTANCE, AND ASSURANCES OF CONSTRUCTION
 § 152.090 GENERAL PROVISIONS.
    Upon completion of all improvements in accordance with the city standards,
-the Public Works Director or his or her designee shall acknowledge in writing
-acceptance of the off-site improvements. Acceptance shall be conditioned upon a
-one-year warranty for workmanship, materials, and equipment by the developer.
-After the lapse of the one-year period dated from the letter of acceptance, the
-improvements shall be considered the maintenance responsibility of the city.
-If, during the one-year period, the developer is required to replace or repair
-any improvements, the developer shall secure a new encroachment permit without
-payment of fee to cover the necessary work. Plans and specifications together
-with the plan review fee for the replacement or repair shall be submitted for
-review and approval unless waived by the Public Works Director or his or her
-designee.
-(Prior Code, Art. 19-8)
+the city will prepare a punch list. Once all items on the punch list have been
+addressed and accepted by the Department, the Director or his/her designee
+shall acknowledge in writing acceptance of the off-site improvements.
+Acceptance shall be conditioned upon a one-year warranty for workmanship,
+materials, and equipment by the developer. After the lapse of the one-year
+period dated from the letter of acceptance, the city will prepare a one year
+warranty punch list. Once all items on the one year warranty punch list have
+been addressed and accepted by the Department, the improvements shall be
+considered the maintenance responsibility of the city.
+(Prior Code, Art. 19-8) (Ord. O25-10-08, passed 10-7-2025)
 § 152.091 PARTIAL ACCEPTANCE.
    If, at any time during the prosecution of the project, the contractor
 substantially completes a unit or portion of the project, such as a structure,
 utility service, or a section of the road pavement, the developer may request
-the Public Works Director or his or her designee to make final inspection of
-that work. If the Public Works Director or his or her designee finds, upon
-inspection, that the work has been satisfactorily completed in compliance with
-plans and specifications, he or she may conditionally accept the work as being
-completed. Acceptance in such cases is conditional on the remaining work being
-completed without damage and including any final grading adjustments or other
-minor work. The partial acceptance shall in no way void or alter any plans and
-specifications.
-(Prior Code, § 19-8-1)
+the Department to make a final inspection of that work. If the Department
+finds, upon inspection, that the work has been satisfactorily completed in
+compliance with plans and specifications, he or she may conditionally accept
+the work as being completed. Acceptance in such cases is conditional upon the
+remaining work being completed without damage and including any final grading
+adjustments or other minor work. The partial acceptance shall in no way void or
+alter any plans and specifications. The Department reserves the right to reject
+any request for a partial acceptance.
+(Prior Code, § 19-8-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.092 FINAL ACCEPTANCE.
    (A)   Upon due notice from the contractor of presumptive completion of the
-entire project, the Public Works Director or his or her designee will make an
-inspection. If all construction provided for and contemplated by the plans and
-specifications is found completed to the satisfaction of the Public Works
-Director or his or her designee, that inspection shall constitute the final
-inspection and the Public Works Director or his or her designee will make the
-final acceptance. The contractor will be notified in writing of this acceptance
-as of the day of the final inspection.
+entire project, the Director or his/her designee will make an inspection. If
+all construction provided for and contemplated by the plans and specifications
+is found completed to the satisfaction of the Director or his/her designee,
+that inspection shall constitute the final inspection and the Director or his/
+her designee will make the final acceptance. The contractor will be notified in
+writing of this acceptance as of the day of the final inspection.
    (B)   If, however, the inspection disclosed any work, in whole or in part,
-as being unsatisfactory, the Public Works Director or his or her designee will
-give the contractor the necessary instructions for correction of same, and the
+as being unsatisfactory, the Director or his/her designee will give the
+contractor the necessary instructions for correction of same, and the
 contractor shall immediately comply with and execute the instructions. Upon
 correction of the work, another inspection will be made which shall constitute
 the final inspection, provided the work has been satisfactorily completed. In
-that event, the Public Works Director or his or her designee will make the
-final acceptance and notify the contractor in writing of the final acceptance
-as of the date of the last and final inspection.
-(Prior Code, § 19-8-2)
+that event, the Director or his/her designee will make the final acceptance and
+notify the contractor in writing of the final acceptance as of the date of the
+last and final inspection.
+(Prior Code, § 19-8-2) (Ord. O25-10-08, passed 10-7-2025)
 PERFORMANCE BOND OR CASH DEPOSIT; OFF-SITE IMPROVEMENTS
 § 152.105 GENERAL PROVISIONS.
-   (A)   The Community Development Department, building inspection division,
-shall deny final approval and certificate of occupancy of any building until
-the required off-site improvements are completed and have been inspected and
-approved by the Public Works Director, unless performance of the off-site
-improvements is guaranteed by a performance bond, approved by the City Attorney
-and the Public Works Director, or a cash deposit is made with the city in an
-amount fixed by the city. Under such circumstances, the Public Works Director
-will grant a conditional acceptance. Warranty period will not begin until the
-date of final (unconditional) acceptance.
+   (A)   The Development Services Department, Building Safety Division, shall
+deny final approval and certificate of occupancy of any building until the
+required off-site improvements are completed and have been inspected and
+approved by the Director or his/her designee, unless (a) the performance of the
+off-site improvements is guaranteed by a cash deposit, performance bond or
+other security acceptable to the City Attorney in an amount equal to 125% of
+the estimated construction cost and (b) the Director agrees to the certificate
+of occupancy. Under such circumstances, the Director will grant a conditional
+acceptance. Warranty period will not begin until the date of final
+(unconditional) acceptance.
    (B)   The city may require an occupancy clearance agreement to document the
 requirements of this section. Model homes may be occupied for sales purposes
-only subject to the occupancy clearance agreement and satisfactory off-sites to
-service the models as approved by the city.
-(Prior Code, Art. 19-9)
+only subject to the occupancy clearance agreement and satisfactory off-site
+improvements to service the models as approved by the city.
+   (C)   The Engineering Division will provide the developer a stipulation
+letter or similar document that memorializes the requirements to finalize the
+project.
+(Prior Code, Art. 19-9) (Ord. O25-10-08, passed 10-7-2025)
 § 152.106 TIME TO COMPLETE WORK.
    The developer shall complete work required in the approved off-site
 improvement plans within 30 calendar days after issuance of the conditional
-acceptance by the Public Works Director.
-(Prior Code, § 19-9-1)
+acceptance by the Director or as determined by the Department.
+(Prior Code, § 19-9-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.107 BOND RETURN.
    (A)   The performance bond or cash deposit or a portion thereof shall be
 retained by the city to provide completion of the work should the developer
 fail or refuse to do so as in §
-152.091.
+152.106.
    (B)   The performance bond or cash deposit or unused portion thereof shall
-be returned to the depositor upon the approval of the Public Works Director
-after completion and acceptance of the off-site improvements. Acceptance in
-such cases is conditional upon the remaining work being completed without
-damage to the off-site improvement so accepted and including any final grade
-adjustments or other minor work.
-(Prior Code, § 19-9-2)
+be returned to the depositor upon the approval of the Director after completion
+and acceptance of the off-site improvements. Acceptance in such cases is
+conditional upon the remaining work being completed without damage to the off-
+site improvement so accepted and including any final grade adjustments or other
+minor work.
+(Prior Code, § 19-9-2) (Ord. O25-10-08, passed 10-7-2025)
 VALIDITY OF PERMIT
 § 152.120 GENERAL PROVISIONS.
    (A)   The issuance or granting of a permit or approval of plans and
@@ -14465,91 +14474,97 @@ any violation of any of the provisions of this code. No permit presuming to
 give authority to violate or cancel the provisions of this code shall be valid,
 except insofar as the work or use which is authorized is lawful.
    (B)   The issuance of a permit based upon plans and specifications shall not
-prevent the Public Works Director from requiring correction of errors in the
-plans and specifications or from preventing construction operations from being
-carried on there under when in violation of this code or of any other ordinance
-of the city.
-(Prior Code, Art. 19-10)
+prevent the Director from requiring correction of errors in the plans and
+specifications or from preventing construction operations from being carried on
+there under when in violation of this code or of any other ordinance of the
+city.
+(Prior Code, Art. 19-10) (Ord. O25-10-08, passed 10-7-2025)
 DEFERRAL OF OFF-SITE IMPROVEMENTS
 § 152.135 GENERAL PROVISIONS.
-   The Public Works Director may direct that construction of off-site
-improvements, or portions thereof, be deferred when the improvements are
-impractical or premature because of traffic conditions, unavailability of
-necessary right-of-way, the potential for creation of scalloped streets, or
-other conditions detrimental to orderly development, and/or because of the
-known and acknowledged formation or pending formation of an improvement
-district. Engineering plans for all off-site improvements shall be prepared,
-submitted, and approved in accordance with §
-152.030, whether or not construction is deferred. Common infrastructure plans
-will not be required unless determined by the Public Works Director to have a
-direct impact on the abutting off-sites, such as a bridge or railroad crossing
-on or adjacent to the parcel to be developed. Plans will include an analysis of
-drainage and establishment of grades on both sides of the roadway for a minimum
-of one-fourth mile beyond the project limits in each direction unless waived or
-reduced by the Public Works Director. The developer of the property for which a
-deferral has been issued shall enter into an agreement with the city which
-shall be recorded to run with the land, and shall post an assurance as set
-forth below to guarantee the required improvements will be constructed when
-directed by the Public Works Director.
-(Prior Code, Art. 19-11)
+   The Director may direct that construction of off-site improvements, or
+portions thereof, be deferred when the improvements are impractical or
+premature because of traffic conditions, unavailability of necessary right-of-
+way, the potential for creation of scalloped streets, or other conditions
+detrimental to orderly development, and/or because of the known and
+acknowledged formation or pending formation of an improvement district.
+Engineering plans for all off-site improvements shall be prepared, submitted,
+and approved in accordance with §
+152.046, at the same time the onsite plans are going through the permitting
+process, whether or not construction is deferred. Common infrastructure plans
+will not be required unless determined by the Director to have a direct impact
+on the abutting off-sites, such as a bridge or railroad crossing on or adjacent
+to the parcel to be developed. Plans will include an analysis of drainage and
+establishment of grades on both sides of the roadway for a minimum of one-
+fourth mile beyond the project limits in each direction unless waived or
+reduced by the Director. The developer of the property for which a deferral has
+been issued shall enter into a development agreement with the city which shall
+be recorded to run with the land, and shall post an assurance as set forth
+below to guarantee the required improvements will be constructed when directed
+by the Director.
+(Prior Code, Art. 19-11) (Ord. O25-10-08, passed 10-7-2025)
 § 152.136 NOTICE TO PROCEED.
-   The Public Works Director will give written notice to proceed with the
-construction of the improvements previously deferred when necessitated by road
-condition, current or projected traffic, adjacent construction, or other
-conditions which require additional access. The developer shall start
-construction of the improvements within 90 calendar days from the date of the
-notice and shall conclude the construction within a reasonable time, but in no
-event longer than 180 days from the beginning of construction, in accordance
-with plans approved by the city. If the developer fails to construct any of the
-off-site improvements when directed, or fails to timely complete construction
-of the off-site improvements, the city may construct the improvements, or may
-complete construction of the improvements, and obtain payment therefore from
-the surety issuing the assurance. The developer’s obligation will be satisfied
-when all required improvements have been constructed by the developer or
-another party, or when all required improvements have been constructed by an
-improvement district formed at the discretion of the city.
-(Prior Code, § 19-11-1)
+   The Director will give written notice to proceed with the construction of
+the improvements previously deferred when necessitated by road condition,
+current or projected traffic, adjacent construction, or other conditions which
+require additional access. The developer shall start construction of the
+improvements within 90 calendar days from the date of the notice and shall
+conclude the construction within a reasonable time, but in no event longer than
+180 days from the beginning of construction, in accordance with plans approved
+by the city unless different time frames were outlined in a separate agreement.
+If the developer fails to construct any of the off-site improvements when
+directed, or fails to timely complete construction of the off-site
+improvements, the city may construct the improvements, or may complete
+construction of the improvements, and obtain payment therefore from the surety
+issuing the assurance. The developer’s obligation will be satisfied when all
+required improvements have been constructed by the developer or another party,
+or when all required improvements have been constructed by an improvement
+district formed at the discretion of the city and accepted.
+(Prior Code, § 19-11-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.137 PERFORMANCE BOND.
-   The Public Works Director shall require the posting of performance bonds,
-letters of credit, assurances, or such other security as may be appropriate and
-necessary to assure the installation of all off-site improvements whenever a
-deferral of construction has been issued or project phasing will permit
-occupancy of any structure prior to final acceptance of all improvements. The
-security shall remain in full force and effect until such time as all required
-off-site improvements are constructed and accepted. In the case of projects
-which are divided into a number of large parcels subject to additional
-subdivision at a later time, only the major infrastructure necessary to serve
-all parcels and adjacent land shall be subject to these requirements. The form
-of the assurance must be acceptable to the City Attorney and will be in an
-amount fixed by the Public Works Director. Receipt of an acceptable assurance
-will be required at the time of approval of improvement plans.
-(Prior Code, § 19-11-2)
+   The Director shall require the posting of performance bonds, letters of
+credit, assurances, or such other security as may be appropriate and necessary
+to assure the installation of all off-site improvements whenever a deferral of
+construction has been issued or project phasing will permit occupancy of any
+structure prior to final acceptance of all improvements. The security shall
+remain in full force and effect until such time as all required off-site
+improvements are constructed and accepted. In the case of projects which are
+divided into a number of large parcels subject to additional subdivision at a
+later time, only the major infrastructure necessary to serve all parcels and
+adjacent land shall be subject to these requirements. The form of the assurance
+must be acceptable to the City Attorney and will be in an amount fixed by the
+Director, but in not less than 125% of the estimated cost to complete the
+improvements. Receipt of an acceptable assurance will be required at the time
+of approval of improvement plans.
+(Prior Code, § 19-11-2) (Ord. O25-10-08, passed 10-7-2025)
 § 152.138 PARTIAL CONSTRUCTION.
    When it is impractical for the city to accept a financial assurance because
 the schedule for city improvements is undetermined or unreasonably far into the
 future, or if for any other reason the improvements are constructed by the
-developer, the Public Works Director will order the construction of one or both
-sides of sufficient roadway necessary to ensure an orderly traffic flow. The
-cost of construction of improvements beyond the center of abutting streets or
-beyond the property limits (other than tapers and other transitional items)
-shall be applied toward the amount of the developer’s total obligation set
-forth in the benefit study, or the developer may enter into a reimbursement
-agreement with the city to recover costs from other developers as prescribed in
-§
+developer, the Director will order the construction of one or both sides of
+sufficient roadway necessary to ensure an orderly traffic flow. The cost of
+construction of improvements beyond the center of abutting streets or beyond
+the property limits (other than tapers and other transitional items) shall be
+applied toward the amount of the developer’s total obligation set forth in the
+benefit study, or the developer may enter into a reimbursement agreement with
+the city to recover costs from other developers as prescribed in §
 152.142 below.
-(Prior Code, § 19-11-3)
+(Prior Code, § 19-11-3) (Ord. O25-10-08, passed 10-7-2025)
 § 152.139 BENEFIT STUDY.
-   The benefit study shall be utilized as the basis of determining a
+   (A)   The benefit study shall be utilized as the basis of determining a
 developer’s full off-site improvement obligation. Use of the benefit study is
 required to ensure that the costs of the common infrastructure are equitably
 borne by all property owners in the subject study area. The amount and the
 purpose of the obligation for each property owner shall be stated in the
-benefit study subject to adjustment for inflation based on the ENR Construction
-Cost Index published by McGraw-Hill, Inc., and actual construction costs. When
-development occurs in areas which have not been included in benefit studies,
-the obligations will be estimated by the Public Works Director or, at the
-developer’s option, may be determined by a developer-funded benefit study.
-(Prior Code, § 19-11-4)
+benefit study subject to adjustment for inflation based on the CPI Inflation
+Calculator prepared by the U.S. Bureau of Labor Statistics (https://
+www.bls.gov/data/inflation_calculator.htm) and actual construction costs.
+   (B)   When development occurs in areas which have not been included in
+benefit studies, the obligations will be estimated by the Director or, at the
+developer’s option, may be determined by a developer-funded benefit study. The
+Director’s cost estimate or the developer’s benefit study must be in place and
+accepted by both the city and the developer prior to any off-site improvements
+being constructed.
+(Prior Code, § 19-11-4) (Ord. O25-10-08, passed 10-7-2025)
 § 152.140 CREDIT.
    (A)   When improvements are developer-constructed, the developer will be
 credited for the improvements he or she constructs against the developer’s
@@ -14573,9 +14588,13 @@ developer’s full obligation;
 use only for the designated improvements; or
       (3)   Provide an appropriate security, approved by the City Attorney, to
 guarantee construction of the remainder of the developer’s obligation when
-determined necessary by the Public Works Director as set forth in division (B)
-(2) above.
-(Prior Code, § 19-11-5)
+determined necessary by the Director as set forth in division (B)(2) above.
+   (C)   Any benefit study, estimate from the city, or reimbursement agreement
+must be in place and accepted by both the city and the developer prior to any
+off-site improvements being constructed. Any off-site improvements completed
+prior to a benefit study or other agreement will not be eligible for a credit
+for work.
+(Prior Code, § 19-11-5) (Ord. O25-10-08, passed 10-7-2025)
 § 152.141 CITY PARTICIPATION.
    When development occurs prior to initiation of city improvements, the city
 will not be obligated to participate in the developer’s off-site construction
@@ -14584,40 +14603,87 @@ off-site improvements are available, the City Council may authorize the use of
 the funds to defray the developer’s common infrastructure costs. The amount of
 the defrayal shall not exceed the amount of city participation set forth in the
 benefit study for the developer’s property.
-(Prior Code, § 19-11-6)
+(Prior Code, § 19-11-6) (Ord. O25-10-08, passed 10-7-2025)
 § 152.142 REIMBURSEMENT AGREEMENT.
    When the value of improvements constructed exceeds the developer’s
-obligation as determined by the benefit study, the developer may be entitled to
-enter into a reimbursement agreement with the city to provide for recovery of
-costs from others who develop later on land adjacent to the streets constructed
-by the developer. In those cases where existing development will preclude
-property owner reimbursement, the City Council may authorize reimbursement from
-city funds subject to availability of funds. The Public Works Director shall
-determine the amount of improvements eligible for reimbursement, and the
-determination shall be made a part of the agreement. Reimbursement shall be
-made on the basis of the benefit study. Procedures for establishing agreements
-and collection and payment of buy-ins shall be as set forth in §
-152.048.
-(Prior Code, § 19-11-7)
+obligation as determined by the benefit study, or the improvements are in
+excess of those normal and customary improvements necessary to develop and
+support the project for which they are being constructed, the developer may be
+entitled to enter into a reimbursement agreement with the city to provide for
+recovery of costs from others who develop later on land benefitted by the
+improvements constructed by the developer. The Director shall determine the
+amount of improvements eligible for reimbursement, and the determination shall
+be made a part of the agreement. Reimbursement shall be made on the basis of
+the benefit study.
+   (A)   The reimbursement agreement shall designate the parcels, the
+benefitted parties, the reimbursement amount and the reimbursement share. The
+agreement shall include a diagram of the benefitted parties' parcels and the
+method for calculating reimbursement shares. In the event bonds of the city,
+including improvement district or assessment bonds, have been issued to finance
+the construction of the public improvements and related facilities that benefit
+property per a benefit study, the city shall receive all reimbursement amounts
+and apply such amounts to the debt service funds of the applicable bond issue.
+   (B)   All reimbursement agreements must be requested by the developer and
+shall run for a period not to exceed 15 years from completion of the
+improvements on behalf of a benefited property, or when the reimbursement
+amount has been repaid, whichever is earlier.
+   (C)   The developer shall administer the reimbursement agreement and collect
+the reimbursement amount from the benefitted parties. Developer shall also
+promptly notify the city, in writing, each time a benefited party pays its
+reimbursement share.
+   (D)   Prior to allowing a benefitted party to connect to or to use a public
+improvement, or at an earlier time as identified in the reimbursement agreement
+(e.g., prior to approving a final plat), city shall verify that the benefited
+party has paid its reimbursement share to the developer.
+   (E)   When an improvement identified in a benefit study is constructed by
+the city or its contractors, the city may require the benefitted parcels to
+reimburse the city prior to the approval of a final plat.
+(Prior Code, § 19-11-7) (Ord. O25-10-08, passed 10-7-2025)
+§ 152.143 REIMBURSEMENT PROCEDURE.
+   (A)   The reimbursement agreement shall designate the parcels, the
+benefitted parties, the reimbursement amount and the reimbursement share. The
+agreement shall include a diagram of the benefitted parties' parcels and the
+method for calculating reimbursement shares. In the event bonds of the city,
+including improvement district or assessment bonds, have been issued to finance
+the construction of the public improvements and related facilities that benefit
+property per a benefit study, the city shall receive all reimbursement amounts
+and apply such amounts to the debt service funds of the applicable bond issue.
+   (B)   All reimbursement agreements must be requested by the developer and
+shall run for a period not to exceed 15 years from completion of the
+improvements on behalf of a benefitted property, or when the reimbursement
+amount has been repaid, whichever is earlier.
+   (C)   The developer shall administer the reimbursement agreement and collect
+the reimbursement amount from the benefitted parties. Developer shall also
+promptly notify the city, in writing, each time a benefitted party pays its
+reimbursement share.
+   (D)   Prior to allowing a benefitted party to connect to or to use a public
+improvement, or at an earlier time as identified in the reimbursement agreement
+(e.g., prior to approving a final plat), city shall verify that the benefitted
+party has paid its reimbursement share to the developer.
+   (E)   When an improvement identified in a benefit study is constructed by
+the city or its contractors, the city may require the benefitted parcels to
+reimburse the city prior to the approval of a final plat.
+(Ord. O25-10-08, passed 10-7-2025)
 STREET FINANCING POLICY
 § 152.155 GENERAL PROVISIONS.
    The cost of all improvements of streets located on or adjacent to new
 subdivision areas to be developed or redeveloped shall be the full
 responsibility of the developer, except that when improvements are constructed
 under improvement district financing.
-(Prior Code, Art. 19-12)
+(Prior Code, Art. 19-12) (Ord. O25-10-08, passed 10-7-2025)
 § 152.156 STREET IMPROVEMENT COSTS.
    The cost of street improvements adjacent to already developed areas and
 within or adjacent to new subdivisions or developing areas, whether platted or
 unplatted, shall be as set forth below.
-(Prior Code, § 19-12-1)
+(Prior Code, § 19-12-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.157 LOCAL.
-   The cost of improvements to local and minor collector streets shall be the
-responsibility of the abutting property owners.
-(Prior Code, § 19-12-2)
+   In accordance with A.R.S. § 9-243, the city may require an abutting property
+owner to construct an adjacent sidewalk and/or local street, as classified by
+the city, and assess the cost thereof against the abutting owners property.
+(Prior Code, § 19-12-2) (Ord. O25-10-08, passed 10-7-2025)
 § 152.158 COLLECTORS AND ARTERIALS.
-   The cost of improvements to major collector and minor and major arterial
-streets shall be as follows.
+   The cost of improvements to collector and arterial streets, as classified by
+the city, shall be as follows.
    (A)   Where street improvements have not been previously constructed in
 accordance with city standards, the abutting property owners shall be
 responsible for costs of all improvements to city standards to the street
@@ -14632,38 +14698,34 @@ developing shall install the full median, including curbing, street lighting,
 and landscaping. The developer required to install a full median may request
 the city to enter into an agreement providing for reimbursement of that portion
 of the costs which would have been the responsibility of subsequent developers.
-Reimbursement shall be made on the basis of front footage as determined by the
-Public Works Director at the rate of half the front foot current cost less the
-reimbursement transaction fee established by Council resolution which shall be
-retained by the city to cover administrative costs.
+Reimbursement shall be made in the same procedure as outlined in division (A)
+(2) less the reimbursement transaction fee established by Council resolution
+which shall be retained by the city to cover administrative costs.
       (2)   Reimbursement shall be made by the city upon receipt of payment
 from the adjacent or abutting property owners. The agreements shall be
 requested of the city by the developer within one year from the date of
-acceptance of the improvements and shall run for a period not to exceed 15
-years from the date of execution by the Public Works Director, who is hereby
-authorized to execute the agreements in accordance with the provisions of this
-section. The agreements shall automatically terminate at the end of the 15-year
-period. The Public Works Director shall establish in July, on an annual basis,
-the current cost of construction medians, streetlight, and landscaping
-installations to be used in determining reimbursement charges. Such current
-cost shall include engineering, construction, and inspection costs.
+acceptance of the improvements and shall run for a period not exceed 15 years.
+The agreements shall automatically terminate at the end of the 15-year period.
+The reimbursed fees will be based on the actual amount the first developer
+spent on the improvements which must be submitted to and accepted by the city
+prior to the agreement. The reimbursed costs may include engineering,
+construction, and inspection costs. Inflation will not be included in the
+reimbursed amount. Notice shall be given to the benefitted abutting property
+owners pursuant to §
+152.143(B).
       (3)   Buy-ins for medians shall be collected by the city only when a
-valid reimbursement agreement is in force. They shall be paid at the time of
-plan or plat approval.
-   (B)   Where the abutting property is an owner-occupied single-family
-residential use, the costs for the improvement shall be calculated on the basis
-of local street standards for that portion of the property frontage reasonably
-related to the single-family residential use, and the difference in cost
-assumed as a responsibility of the city. The abutting property owners shall be
-responsible for the cost of the 19 feet of pavement nearest the right-of-way
-property line based upon local street standards together with the necessary
-curbs, gutters, four-foot-wide sidewalks, and other miscellaneous work required
-to construct the street improvement.
-   (C)   Where the street improvements have been constructed in accordance with
+valid reimbursement agreement is in force. They shall be paid prior to the
+release of the certificate of occupancy or, if no building is proposed as part
+of the project, prior to the release of the engineering permit.
+   (B)   Where the street improvements have been constructed in accordance with
 city standards in effect at the time of the construction, the street
 reconstruction shall be at no cost to the property owner if the construction or
 reconstruction is initiated by the city or persons other than the property
 owner.
+   (C)   Where the street improvements do not meet the current city standards,
+the property owner is responsible to make the necessary upgrades to meet the
+current standards if the construction or reconstruction is initiated by the
+property owner.
    (D)   If the construction or reconstruction is undertaken by the abutting
 property owner as an improvement to his or her property, the costs shall be
 borne by the property owner in accordance with this subchapter.
@@ -14671,14 +14733,14 @@ borne by the property owner in accordance with this subchapter.
 part of an improvement to an adjacent or nearby property, the cost of
 construction or reconstruction shall be borne by the third party unless the
 property owner agrees to assume a share of the improvement costs.
-(Prior Code, § 19-12-3)
+(Prior Code, § 19-12-3) (Ord. O25-10-08, passed 10-7-2025)
 SCALLOPED STREET ASSESSMENTS
 § 152.170 RESOLUTION OF INTENTION TO ORDER IMPROVEMENTS.
-   (A)   Upon the determination of the City Engineer that the public health,
-safety, welfare, and convenience requires the construction of streets prior to
-the development of the adjacent property, a resolution of intention to order
-the improvement shall be submitted to the City Council for approval as set
-forth below.
+   (A)   Upon the determination of the Director that the public health, safety,
+welfare, and convenience requires the construction of streets prior to the
+development of the adjacent property, a resolution of intention to order the
+improvement shall be submitted to the City Council for approval as set forth
+below.
    (B)   Each property owner that may be subject to any assessments under this
 subchapter shall receive written notice of the City Council consideration of
 the resolution of intention described above at least ten calendar days prior to
@@ -14706,11 +14768,12 @@ property.
 construction shall be final and conclusive, and such decision shall result in
 the assessment of property under this subchapter, subject to appeal as set
 forth below.
-(Prior Code, § 19-13.1-1) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-1) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.171 NOTICE OF ASSESSMENTS.
    (A)   Not more than 20 calendar days after the City Council adopts the
-resolution of intention to order improvements, the City Engineer or designee
-shall serve a written notice of assessments, by any means permissible under the
+resolution of intention to order improvements, the Director or designee shall
+serve a written notice of assessments, by any means permissible under the
 Arizona Rules of Civil Procedure, upon each owner of real property adjacent to
 the improvement and subject to assessment.
    (B)   The notice of assessments shall contain:
@@ -14726,7 +14789,8 @@ of assessments. Upon receipt of an objection, a public hearing shall be
 scheduled before the City Council on the objections and confirming of
 assessments. The public hearing shall be at least 30 days after notice was
 served upon each property owner.
-(Prior Code, § 19-13.1-2) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-2) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.172 ADOPTION AND IMPOSITION OF ASSESSMENTS.
    (A)   The City Council shall hold a public hearing on all objections to the
 assessments.
@@ -14735,11 +14799,11 @@ may be continued, the City Council shall hear and rule upon all objections. The
 decision of the City Council shall be final and conclusive as to all errors,
 informalities and irregularities which the City Council might have remedied or
 avoided at any time during the progress of the proceedings. If the City Council
-determines that the objections should be granted, the City Engineer shall
-reissue the notice of assessment. If the City Council determines that the
-objections shall be overruled, the City Council shall adopt an order and
-resolution overruling all objections and confirming the assessments established
-by the City Engineer.
+determines that the objections should be granted, the Director shall reissue
+the notice of assessment. If the City Council determines that the objections
+shall be overruled, the City Council shall adopt an order and resolution
+overruling all objections and confirming the assessments established by the
+Director.
    (C)   The order and resolution confirming the assessments and describing the
 property against which the assessments are imposed shall be recorded in the
 office of the Maricopa County Recorder, together with a specific written notice
@@ -14757,9 +14821,10 @@ earlier to occur of:
 such recording shall be notice to all persons interested in the contents of the
 record.
    (E)   Assessments levied against property containing multiple leaseholds may
-be subdivided by the City Engineer to apply against each leasehold based on the
+be subdivided by the Director to apply against each leasehold based on the
 amount of the leasehold interest compared to the total interest.
-(Prior Code, § 19-13.1-3) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-3) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.173 RIGHT-OF-WAY.
    When sufficient right-of-way is not available to perform the improvements
 ordered pursuant to this subchapter, the City Manager is hereby authorized to
@@ -14767,7 +14832,8 @@ obtain the right-of-way upon terms just to the city. If the right-of-way is not
 dedicated in time before construction commences, the cost to the city to
 acquire the right-of-way shall be considered an expense attributable to the
 completion of the improvements.
-(Prior Code, § 19-13.1-4) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-4) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.174 LIMITATIONS ON ASSESSMENTS.
    (A)   The assessment of property, if adjacent arterial streets are involved,
 shall not exceed the cost of improving more than one-half of the width and more
@@ -14780,7 +14846,8 @@ residential property within the city.
 incurred by the city at the time of construction.
    (C)   Any assessment under this chapter shall abate if the property has not
 been developed within ten years of the assessment.
-(Prior Code, § 19-13.1-5) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-5) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.175 COLLECTION; PAYMENT AND SATISFACTION.
    (A)   The City Manager or designee shall collect any unpaid assessments:
       (1)   Prior to issuing a building permit for development of any assessed
@@ -14802,7 +14869,8 @@ to issuance of any grading permit required for any assessed property.
    (F)   Upon payment of the assessment in full or in part, a full or partial
 satisfaction evidencing payment shall be recorded in the office of the Maricopa
 County Recorder.
-(Prior Code, § 19-13.1-6) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-6) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.176 APPEALS; SEVERABILITY.
    The determination of necessity by the City Council resulting in the levying
 of assessments upon any property under this subchapter may be appealed by the
@@ -14811,43 +14879,49 @@ any part or portion of this subchapter is declared unenforceable by any court
 of competent jurisdiction, all other portions of this subchapter not declared
 unenforceable shall be deemed separate and apart and shall continue to be in
 full force and effect.
-(Prior Code, § 19-13.1-7) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.1-7) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 ACCELERATED PUBLIC IMPROVEMENTS
 § 152.190 POLICY.
    The purpose of this subchapter shall be to provide a mechanism by which the
 city or developers may be repaid the reimbursement amount of the cost of
 accelerated public improvements by each benefitted party who has received a
-special benefit from the accelerated pubic improvements, but who has not
+special benefit from the accelerated public improvements, but who has not
 contributed a pro rata share of the cost of constructing the accelerated public
-benefit.
-(Prior Code, § 19-13.2-1) (Ord. O08-07-13, passed 7-10-2008)
+benefit. An "accelerated public improvement" refers to any publicly dedicated
+right-of-way, any street, drainage, water or sewer improvements or facilities,
+asphaltic and concrete paving, curb, gutter and sidewalks, street lights,
+traffic signals and public landscaping or any other improvements completed
+prior to development on the property adjacent to the improvement.
+(Prior Code, § 19-13.2-1) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.191 CONSTRUCTION OF ACCELERATED PUBLIC IMPROVEMENTS.
    Prior to a permit being issued for construction of accelerated public
 improvements for which repayment of reimbursement amount is being requested,
 the following requirements shall be met:
-   (A)   A diagram describing all property which will be benefitted by any
-accelerated public improvements to be installed shall be provided to the City
-Engineer or designee.
+   (A)   A diagram describing all properties which will be benefitted by any
+accelerated public improvements to be installed shall be provided to the
+Director or designee.
    (B)   The field engineering plans and specifications required for the
 accelerated public improvement may be prepared by the owner or the city. If
-prepared by the owner they must be approved by the City Engineer or designee
-prior to construction. The engineering costs for preparation of plans and
-staking of the accelerated public improvements only, which are incurred by the
-person, may be included as determined by the City Engineer or designee in the
-agreed construction costs as provided in this section.
+prepared by the owner they must be approved by the Director or designee prior
+to construction. The engineering costs for preparation of plans and staking of
+the accelerated public improvements only, which are incurred by the person, may
+be included as determined by the Director or designee in the agreed
+construction costs as provided in this section.
    (C)   For any accelerated public improvements that are constructed, the
 owner shall furnish and install to city specifications all facilities within
 the boundary of the designated area of the development.
    (D)   Detailed plans and specifications for accelerated public improvements
-that are extensions to existing public facilities must be approved by the City
-Engineer prior to construction. The costs for the preparation of plans and
+that are extensions to existing public facilities must be approved by the
+Director prior to construction. The costs for the preparation of plans and
 specifications, diagrams and other information required by the owner to comply
 with §§
 152.190 through
 152.195 shall be assumed by the property owner.
    (E)   The project shall be bid in accordance with the provisions pertaining
 to public works projects contained in A.R.S. Title 34. The city shall open the
-bids on a pre-determined date agreeable to the property owner and the city. The
+bids on a predetermined date agreeable to the property owner and the city. The
 city and the property owner reserve the right to reject any or all bids. The
 construction costs shall be determined prior to the commencement of
 construction and shall be approved by the city. In the event that the agreed
@@ -14858,10 +14932,11 @@ charge the owner for the inspection of the accelerated public improvements. The
 costs of such inspections may be included in any repayment agreement.
    (G)   The ownership of all accelerated public improvements upon inspection
 and acceptance as meeting city standards shall be vested in the city.
-(Prior Code, § 19-13.2-2) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.2-2) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.192 AUTHORIZATION OF REPAYMENT AGREEMENTS.
    (A)   Upon development of any property within or outside of the city limits
-for which a accelerated public improvements project will be constructed, the
+for which an accelerated public improvement project will be constructed, the
 developer or owner paying the cost of the accelerated public improvements may
 request that the City Manager or designee, on behalf of the city, enter into a
 reimbursement agreement to collect reimbursement amounts from the developers
@@ -14877,7 +14952,8 @@ Recorder.
 chapter in addition to assessments levied pursuant to §§
 152.170 through
 152.176.
-(Prior Code, § 19-13.2-3) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.2-3) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.193 REPAYMENT AGREEMENTS; TERMS; COLLECTIONS; AND COSTS.
    (A)   The repayment agreement shall designate the parcels and persons who
 are entitled to reimbursement amounts and shall include a diagram of the
@@ -14924,7 +15000,8 @@ reimbursement agreement with the city. The assignments shall not relieve the
 property owner from its duties and obligations under the agreement. The
 assignment shall require prior, written approval of the city, which may be
 withheld for any reason.
-(Prior Code, § 19-13.2-4) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.2-4) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.194 REIMBURSEMENT AMOUNTS PAYABLE TO CITY.
    (A)   When an accelerated public improvement is constructed by the city or
 its contractors to provide service or benefit to a parcel of a property owner,
@@ -14943,15 +15020,16 @@ permit issued by the City Engineer or designee.
    (C)   The repayment obligation under this section shall terminate in ten
 years or when the total amount provided for by this subchapter is repaid,
 whichever is sooner.
-(Prior Code, § 19-13.2-5) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.2-5) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 § 152.195 NOTICE OF INTENTION TO APPROVE ACCELERATED PUBLIC IMPROVEMENTS.
-   (A)   Upon the determination of the City Engineer or designee that the
-public health, safety, welfare, and convenience requires the construction of
+   (A)   Upon the determination of the Director or designee that the public
+health, safety, welfare, and convenience requires the construction of
 accelerated public improvements prior to the development of the adjacent
 property, but for which the adjacent property will be specially benefitted, a
 map establishing the boundaries of the zone and indicating the amount of
 charges for accelerated public improvements on each parcel shall be prepared by
-the City Engineer and filed in the office of the City Clerk. The map for the
+the Director and filed in the office of the City Clerk. The map for the
 accelerated public improvement shall contain:
       (1)   A description of the accelerated public improvement;
       (2)   A general description of the estimated total cost and cost per
@@ -14969,138 +15047,108 @@ a notice of the reimbursement amount owed by a benefitted party together with a
 notice of the provisions of this subchapter relating to repayment of the
 reimbursement amount prior to any development on the property owned by the
 benefitted party.
-(Prior Code, § 19-13.2-6) (Ord. O08-07-13, passed 7-10-2008)
+(Prior Code, § 19-13.2-6) (Ord. O08-07-13, passed 7-10-2008; Ord. O25-10-08,
+passed 10-7-2025)
 PRIVATE STREETS
 § 152.205 GENERAL PROVISIONS.
    Private streets are subject to all requirements of public streets except for
 street and right-of-way width. They shall be reviewed, approved, inspected, and
 tested in the same manner as public streets and shall include drainage
 facilities, curbs, sidewalks, and streetlights built to city standards. The
-minimum allowable width of the private streets will be determined by the Public
-Works Director based on projected traffic volume and availability of off-street
-parking.
-(Prior Code, Art. 19-14)
+minimum allowable width of the private streets will be determined by the
+Development Services Director based on a variety of factors, including but not
+limited to, projected traffic volume and availability of off-street parking.
+(Prior Code, Art. 19-14) (Ord. O25-10-08, passed 10-7-2025)
 § 152.206 PERMITS AND INSPECTION.
    (A)   Any person constructing or installing private streets or any other
 privately-owned off-site improvement must comply with all of the requirements
 of this chapter including but not limited to complete inspection and testing
-for private streets for paving, curb, gutter, and drainage facilities. Parking
-lots and their associated access ways shall receive limited inspection to
-ensure plan requirements for drainage and thickness of asphalt and base course
-have been satisfied. Plan review fees and inspection fees for limited
-inspection will be issued at 25% of the normal paving fee. Other construction
-such as sidewalks, streetlights, and signs will not require plan review but
-will be visually checked by the off-site inspector for minimum requirements of
-approved plans; and these requirements must be satisfied prior to project
-acceptance. The distinction between private streets and parking lot access ways
-will be determined by the Public Works Director.
+for private streets including paving, curb, gutter, sidewalks and drainage
+facilities. Parking lots and their associated access ways shall receive limited
+inspection to ensure plan requirements for drainage and thickness of asphalt
+and base course have been satisfied.
    (B)   Street name signs and traffic-control devices shall be furnished and
 installed by the developer in accordance with approved plans prior to project
 acceptance.
-(Prior Code, § 19-14-1)
+(Prior Code, § 19-14-1) (Ord. O25-10-08, passed 10-7-2025)
 TRAFFIC SIGNALS AND STREETLIGHTS
-§ 152.215 TRAFFIC SIGNAL SYSTEM DEVELOPMENT FEE.
-   In accordance with apportioned cost of future traffic signal installations
-to new development, there is hereby established a traffic signal system
-development fee.
-(Prior Code, § 19-15-1)
-§ 152.216 FEES.
- 
-Type of Development               Fee ($)
-Traffic Signal System Development
-Single-family, per unit           $15
-Multi-family, per unit            $9
-Commercial, per 1,000 square feet $87
-Office, per 1,000 square feet     $21
-Industrial, per 1,000 square feet $12
- 
-   (A)   The traffic signal system development fee shall be paid prior to
-issuance of a building permit.
-   (B)   Developers of property which has been assessed for traffic signal
-installation through the improvement district process shall be exempt from the
-traffic signal system development fee. Payment by a developer of a traffic
-signal system development fee may be credited against subsequent improvement
-district assessments for traffic signals on the properties for which payment of
-the traffic signal fee was made should initial installation of a signal be made
-by the improvement district process.
-   (C)   Monies received from the traffic signal system development fee shall
-be deposited in a special account to offset costs to the city for capital
-expansion and enlargement of the city traffic signal system and/or retirement
-of debt service, both principal and interest, associated with providing
-necessary traffic-control services.
-(Prior Code, § 19-15-2)
+§ 152.215 [RESERVED.]
+§ 152.216 [RESERVED.]
 § 152.217 TRAFFIC SIGNAL AND STREETLIGHT REIMBURSEMENT AGREEMENTS.
    (A)   When a developer is required to install a traffic signal as part of
 the development plan, the developer shall be entitled to enter into a
 reimbursement agreement with the city to provide for recovery of costs from
 owners of other corners of the intersection which are undeveloped at the time
-the plans are approved. The reimbursement costs shall be computed by the Public
-Works Director based on actual construction cost of the signal plus engineering
-and construction inspection costs. The determination shall be made a part of
-the reimbursement agreement. The total of the reimbursement to the developer
-shall not exceed the total costs as determined by the Public Works Director
-less the proportion of the costs applicable to the developer’s project. The
-developer shall furnish the Public Works Director a certified copy of the
-actual costs when he or she requests the reimbursement agreement. No
-reimbursement shall be received from others on corners already developed or
-with valid engineering plans approved for development. The Public Works
-Director shall determine the applicability and the amount of buy-ins due when
-development occurs on the other corners of the intersection. As a general rule,
-one-fourth of the total cost will be assessed to each corner. Exceptions may
-apply when the size of a parcel or the amount of traffic generated warrants a
-different assessment.
+the plans are approved. The reimbursement costs shall be computed by the
+Director based on actual construction cost of the signal plus engineering and
+construction inspection costs. The determination shall be made a part of the
+reimbursement agreement. The total of the reimbursement to the developer shall
+not exceed the total costs as determined by the Director less the proportion of
+the costs applicable to the developer’s project. The developer shall furnish
+the Director a certified copy of the actual costs when he or she requests the
+reimbursement agreement. No reimbursement shall be received from others on
+corners already developed. No reimbursement shall be received from others on
+corners with valid engineering plans approved for development unless the city
+required a contribution towards the traffic signal during the plan review/
+permitting process. The Director shall determine the applicability and the
+amount of buy-ins due when development occurs on the other corners of the
+intersection. As a general rule, one-fourth of the total cost will be assessed
+to each corner. Exceptions may apply when the size of a parcel or the amount of
+traffic generated warrants a different assessment.
    (B)   When streetlights are installed by a developer on local or collector
 streets, he or she shall be entitled to enter into a reimbursement agreement
 with the city to provide for recovery of cost from others who develop later on
-land adjacent to the streetlights installed by the developer. The Public Works
-Director shall determine the amount of street frontage eligible for
-reimbursement, and the determination shall be made a part of the agreement.
-Reimbursement shall be made on the basis of street frontage at rates
-established by the Public Works Director. The rates shall include current costs
-for engineering, construction and inspection and shall be reevaluated annually
-in July.
+land adjacent to the streetlights installed by the developer. The Director
+shall determine the amount of street frontage eligible for reimbursement, and
+the determination shall be made a part of the agreement. Reimbursement shall be
+made on the basis of street frontage at rates established by the Director. The
+rates shall include current costs for engineering, construction and inspection.
    (C)   All reimbursement agreements must be requested by the developer and
 shall run for a period not to exceed 15 years from the date of execution by the
-Public Works Director, who is hereby authorized to execute the agreements in
-accordance with the provisions of this section. The agreements shall
-automatically terminate at the end of the 15-year period. No agreement shall be
-approved and executed more than one year after date of acceptance of the
-improvements, and no reimbursement shall be received from projects by others
-which have engineering plans approved prior to receipt of the developer’s
-request to enter into such an agreement.
+Director, who is hereby authorized to execute the agreements in accordance with
+the provisions of this section. The agreements shall automatically terminate at
+the end of the 15-year period. No agreement shall be approved and executed more
+than one year after date of acceptance of the improvements, and no
+reimbursement shall be received from projects by others which have engineering
+plans approved prior to receipt of the developer’s request to enter into such
+an agreement unless the city required a contribution towards the traffic signal
+during the plan review/permitting process.
    (D)   Reimbursement shall be made by the city upon receipt of payment from
 adjacent property owners, less the fee established by Council resolution per
 reimbursement transaction which shall be retained by the city to cover
 administrative costs. All agreements shall include the name and address of the
 recipient of reimbursement payments, and it shall be the developer’s
 responsibility to keep the information current. Agreements may be assigned by
-the developer upon written notification to the Public Works Director and
-subsequent written acknowledgment.
+the developer upon written notification to the Director and subsequent written
+acknowledgment.
    (E)   Buy-ins for traffic signals and streetlights shall be collected by the
 city only when a valid reimbursement agreement is in force. They shall be paid
-before the final plat or site development plan is approved.
-(Prior Code, § 19-15-3)
+prior to the release of the certificate of occupancy or, if no building is
+proposed as part of the project, prior to the release of the engineering
+permit.
+(Prior Code, § 19-15-3) (Ord. O25-10-08, passed 10-7-2025)
 DISPOSITION OF UNNECESSARY RIGHTS-OF-WAY
 § 152.230 GENERAL PROVISIONS.
    The City Council may dispose of unnecessary public roadway either by sale,
 vacation, or exchange of the roadway in accordance with the requirements of
 state law and pursuant to the adoption of an ordinance authorizing the
 disposition. The City Council may extinguish unneeded easements by resolution.
-(Prior Code, Art. 19-16)
+(Prior Code, Art. 19-16) (Ord. O25-10-08, passed 10-7-2025)
 § 152.231 RESERVATION OF EASEMENTS.
    In the event there are existing utility lines, pipes, canals, ditches, or
 appurtenances in any unneeded public roadway being sold, vacated, or exchanged,
 or if in the sole discretion of the city it is probable that there will be a
 need for a public utility easement in the roadway, the city shall reserve an
 easement or easements for such purposes and of such size as the city may
-determine.
-(Prior Code, § 19-16-1)
+determine. Any fees associated with the creation and recordation of the
+easement(s) must be included in the cost of the sale, if applicable.
+(Prior Code, § 19-16-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.232 APPLICATION FOR DISPOSITION OF ROADWAY OR EASEMENT.
    An applicant for disposition of unnecessary public roadway or for
 extinguishment of an easement shall submit an application in such form and with
 such information as may be required by administrative regulation and shall pay
 such fees as are established by resolution approved by the City Council.
-(Prior Code, § 19-16-2)
+(Prior Code, § 19-16-2) (Ord. O25-10-08, passed 10-7-2025)
 § 152.233 DECISION TO DISPOSE OF ROADWAY OR EASEMENT.
    (A)   The decision to dispose of an unnecessary public roadway or to
 extinguish an unneeded public easement lies solely with the City Council and
@@ -15111,33 +15159,32 @@ the City Council, in its sole discretion, to be commensurate with the value of
 the abandoned roadway, giving due consideration to its degree of fragmentation
 and marketability and any other public benefit received by the city in return
 for the abandoned roadway.
-(Prior Code, § 19-16-3)
+(Prior Code, § 19-16-3) (Ord. O25-10-08, passed 10-7-2025)
 ENFORCEMENT
 § 152.245 CEASE AND DESIST ORDERS.
    Whenever any work is being done contrary to the provisions of this code, the
-Public Works Director or his or her designee may order the unauthorized work
-stopped by notice in writing served on any person engaged in the doing or
-causing the unauthorized work to be done, and any such person shall forthwith
-stop the unauthorized work.
-(Prior Code, § 19-17-1)
+Director or his/her designee may order the unauthorized work stopped by notice
+in writing served on any person engaged in the doing or causing the
+unauthorized work to be done, and any such person shall forthwith stop the
+unauthorized work.
+(Prior Code, § 19-17-1) (Ord. O25-10-08, passed 10-7-2025)
 § 152.246 APPEAL PROCEDURE.
-   Any developer who has been aggrieved by a decision of the Public Works
-Director or the Public Works Department, pursuant to action taken in the
-enforcement of this chapter, to include benefit study standards, criteria,
-limits, cost assignments and the like, may appeal the decision for
-consideration by the City Council. Appeals shall be presented in writing to the
-Public Works Director, who shall prepare a report and recommendation to the
-Council and notify the appellant in writing of the time and place of the
-Council hearing. The Council may modify these provisions in such a manner and
-to such extent as it may deem appropriate to the public interest. The decision
-of the Council shall be final and conclusive.
-(Prior Code, § 19-17-3)
+   Any developer who has been aggrieved by a decision of the Director or the
+Department, pursuant to action taken in the enforcement of this chapter, to
+include benefit study standards, criteria, limits, cost assignments and the
+like, may appeal the decision for consideration by the City Council. Appeals
+shall be presented in writing to the Director, who shall prepare a report and
+recommendation to the Council and notify the appellant in writing of the time
+and place of the Council hearing. The Council may modify these provisions in
+such a manner and to such extent as it may deem appropriate to the public
+interest. The decision of the Council shall be final and conclusive.
+(Prior Code, § 19-17-3) (Ord. O25-10-08, passed 10-7-2025)
 § 152.999 PENALTY.
    Any person violating any of the provisions of this chapter shall severely,
 for each and every such violation and non-compliance, be punished as provided
 in §
 10.99(A) of this code of ordinances.
-(Prior Code, § 19-17-2)
+(Prior Code, § 19-17-2) (Ord. O25-10-08, passed 10-7-2025)
 CHAPTER 153: FLOODPLAIN MANAGEMENT
 Section
 Floodplain Responsibilities, Management and Administration
@@ -15157,23 +15204,25 @@ FLOODPLAIN RESPONSIBILITIES, MANAGEMENT AND ADMINISTRATION
 § 153.001 FLOODPLAIN MANAGER.
    The City of El Mirage elects not to assume the responsibility of floodplain
 management from the Flood Control District of Maricopa County as provided for
-in A.R.S. §§ 48-3609 and 48-3610. The Community Development Director/City
-Engineer is designated as the NFIP Floodplain Administrator for the City of El
-Mirage, is responsible for coordinating with the Flood Control District of
-Maricopa County, and will serve as the community point of contact on NFIP
-issues for county, state and federal officials.
-(Ord. O19-12-14, passed 12-3-2019)
+in A.R.S. §§ 48-3609 and 48-3610. The Development Services Director/City
+Engineer is designated as the National Flood Insurance Program (NFIP)
+Floodplain Administrator for the City of El Mirage, is responsible for
+coordinating with the Flood Control District of Maricopa County, and will serve
+as the community point of contact on NFIP issues for county, state and federal
+officials.
+(Ord. O19-12-14, passed 12-3-2019; Ord. O25-10-08, passed 10-7-2025)
 § 153.002 FLOOD INSURANCE.
-   Those public records entitled “'Flood Insurance Study for Maricopa County,
-Arizona and Incorporated Areas” dated September 30, 2019 with accompanying
-FIRMs dated September 30, 2019 and all subsequent amendments and/or revisions,
-copies of which shall be kept on file in the office of the City of El Mirage
-Clerk, are hereby adopted by reference as the basis for establishing the
-Special Flood Hazard Areas in the City of El Mirage. The Special Flood Hazard
-Areas documented in the FIS and FIRMs are the minimum area of applicability of
-the floodplain management regulations and may be supplemented by studies for
-other areas as allowed in the regulations.
-(Ord. O19-12-14, passed 12-3-2019)
+   Those public records entitled “Flood Insurance Study for Maricopa County,
+Arizona and Incorporated Areas” dated September 18, 2020 with accompanying
+FIRMs dated October 16, 2013 and all subsequent revisions, amendments and/or
+revalidations, copies of which shall be kept on file in the office of the City
+of El Mirage Clerk, are hereby adopted by reference as the basis for
+establishing the Special Flood Hazard Areas in the City of El Mirage. The
+Special Flood Hazard Areas documented in the Flood Insurance Study (FIS) and
+Flood Insurance Rate Maps (FIRMs) are the minimum area of applicability of the
+floodplain management regulations and may be supplemented by studies for other
+areas as allowed in the regulations.
+(Ord. O19-12-14, passed 12-3-2019; Ord. O25-10-08, passed 10-7-2025)
 § 153.003 FLOODPLAIN REGULATIONS FOR MARICOPA COUNTY.
    That public record designated as the “Floodplain Regulations for Maricopa
 County,” dated January 17, 2018, and all subsequent amendments and/or
@@ -18262,7 +18311,7 @@ regulations.
    (H)   Any residential use within the 65+ DB LDN noise zone is subject to
 review by Luke Air Force Base per A.R.S. § 28-8481(J).
 (Res. R22-05-08, passed 5-3-2022; Ord. O22-05-02, passed 5-3-2022)
-[https://export.amlegal.com/media/a27d55ab04ad0f756120738637bd0ec00ee21e2c/
+[https://export.amlegal.com/media/fee039a4cdfd38f035f243f8968e4a1da7e68e62/
 IMAGES/0-0-0-1647.jpg]
  
 SPECIFIC USE REQUIREMENTS
@@ -24804,11 +24853,11 @@ the City Council and recorded in the County Recorder’s office. The owner of th
 property to be subdivided must give his or her consent in writing before the
 City Council can approve the final plat.
 Preliminary Plat Process
-[https://export.amlegal.com/media/a27d55ab04ad0f756120738637bd0ec00ee21e2c/
+[https://export.amlegal.com/media/fee039a4cdfd38f035f243f8968e4a1da7e68e62/
 IMAGES/0-0-0-1572.jpg]
  
 Final Plat Process
-[https://export.amlegal.com/media/a27d55ab04ad0f756120738637bd0ec00ee21e2c/
+[https://export.amlegal.com/media/fee039a4cdfd38f035f243f8968e4a1da7e68e62/
 IMAGES/0-0-0-1575.jpg]
  
 *Final plat supporting information consists of final plat and required final
