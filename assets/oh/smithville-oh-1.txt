@@ -10157,112 +10157,115 @@ VILLAGE OF SMITHVILLE FEE SCHEDULE 2018
                    Other      Code Reference           Credit to Fund
 Description Amount Conditions                Authority
 VILLAGE OF SMITHVILLE FEE SCHEDULE 2018
-                           Other         Code Reference           Credit to
-Description   Amount       Conditions                   Authority Fund
+                           Other         Code                    Credit to Fund
+Description   Amount       Conditions    Reference     Authority
 Fees Established by Ordinance
-Zoning Permit $100                       §             Council   General
+Zoning Permit $100                      §            Council   General
 (Residential)                            153.094
 Zoning Permit                            §
-(Comm./       $150                       153.094        Council   General
+(Comm./       $150                      153.094       Council   General
 Indust.)
 Zoning Permit                            §
-(Residential  $50                        153.094        Council   General
+(Residential  $50                       153.094       Council   General
 Additions)
 Zoning Permit
-(Comm./       $100                       §             Council   General
+(Comm./       $100                      §            Council   General
 Indust.                                  153.094
 Additions)
-Zoning Permit $30                        §             Council   General
+Zoning Permit $30                       §            Council   General
 (Signs)                                  153.094
 Zoning
-Application   $50          plus $5 per   §             Council   General
+Application   $50          plus $5 per   §            Council   General
 Fee (District              lot           153.127
 Change)
 Zoning
-Application   $200                       §             Council   General
+Application   $200                      §            Council   General
 Fee (Appeals                             153.111
 Board)
 Subdivision
-Application   $50          plus $20 per  §             Council   General
+Application   $50          plus $20 per  §            Council   General
 Fee (Minor                 lot           153.115
 Dev.)
 Subdivision                plus $20 per  §
-Preliminary   $200         lot           153.115        Council   General
+Preliminary   $200         lot           153.115       Council   General
 Plat Fee
 Subdivision
-Preliminary   $1,000       plus T&M      §             Council   General
+Preliminary   $1,000       plus T&M      §            Council   General
 Plat                                     153.115
 Consulting
 Subdivision                plus $20 per  §
-Final Plat    $200         lot           153.115        Council   General
+Final Plat    $200         lot           153.115       Council   General
 Fee
 Subdivision                              §
-Final Plat    $1,000       plus T&M      153.115        Council   General
+Final Plat    $1,000       plus T&M      153.115       Council   General
 Consulting
 Subdivision
-Construction  3% of est.                 §             Council   General
+Construction  3% of est.                §            Council   General
 Inspection    construction               153.115
 Fee
 Driveway &                               §
-Sidewalk      $5                         94.05          Council   General
+Sidewalk      $5                        94.05         Council   General
 Permit
 Fees Established by Administrative Orders
 Park Diamond
-Use           $50          not SHS or    §             Council   Park
+Use           $50          not SHS or    §            Council   Park
 (Seasonal/                 youth BB      97.01
 Team)
 Park Diamond               per field per §
-Use           $75          day           97.01          Council   Park
+Use           $75          day           97.01         Council   Park
 (Tournament)
 Park Diamond               not SHS or    §
-Light Charge  $50          youth BB      97.01          Council   Park
+Light Charge  $50          youth BB      97.01         Council   Park
 (Per Night)
 Park
-Tournament    $25          per day       §             Council   Park
+Tournament    $25          per day       §            Council   Park
 (Diamond                                 97.01
 Director)
 Park
-Tournament    $15          per time      §             Council   Park
+Tournament    $15          per time      §            Council   Park
 (Diamond                                 97.01
 Preparation)
 Park
-Tournament    $35          per day       §             Council   Park
+Tournament    $35          per day       §            Council   Park
 (Concession                              97.01
 Stand)
 Park
 Tournament,                deposit
-Non Village   $250         (refundable)  Park Contract  Council   Park
+Non Village   $250         (refundable)  Park Contract Council   Park
 (Maint.
 Deposit)
-Park Pavilion $30          per unit      Ord. 97-10     Council   Park
+Park Pavilion $30          per unit      Ord. 97-10    Council   Park
 Fee
-Utility Water $1,600       per living    §             BPA       Water
-Tap Fee                    unit          50.16                    Improvement
-Utility Sewer $2,600       per living    §             BPA       Sewer
-Tap Fee                    unit          50.16                    Improvement
-Utility Water $25                        §             BPA       Water
+Utility Water $1,600       per living    §            BPA       Water
+Tap Fee                    unit          50.16                   Improvement
+Utility Water                            §                      Water
+Commercial    $3,600                    50.16         BPA       Improvement
+Tap Fee
+Utility Sewer $2,600       per living    §            BPA       Sewer
+Tap Fee                    unit          50.16                   Improvement
+Utility Water $25                       §            BPA       Water
 Turn On Fee                              50.32
 Utility Owner                            §
-Vacation Shut $25                        50.32          BPA       Water
+Vacation Shut $25                       50.32         BPA       Water
 Off Fee
 Utility                                  §
-Residential   $10          per time      50.32          BPA       Water
+Residential   $10          per time      50.32         BPA       Water
 Meter Testing
 Utility                    per meter,    §
-Multiple      $5           per month     50.32          BPA       Water
+Multiple      $35          per month     50.32         BPA       Water
 Dwelling Fee
-Return Check  $20          per time      §             BPA       Water,
-NSF Fee                                  50.32                    General Court
-Utility       $75          sign up       BPA Regs.      BPA       Water/Sewer
+Return Check  $30          per time      §            BPA       Water, General
+NSF Fee                                  50.32                   Court
+Utility       $150         sign up       BPA Regs.     BPA       Water/Sewer
 Deposit
 Income Tax
-Penalty,                   See income    § 40.10(A) -
-Interest,     Varies       tax ordinance (G)            Council   Income Tax
-Fees and
+Penalty,                   See income    §
+Interest,     Varies       tax ordinance 40.10(A) -    Council   Income Tax
+Fees and                                 (G)
 Charges
  
 (Res. 2015-03, passed 2-23-2015; Am. Res. 2016-4, passed 2-22-2016; Am. Res.
-2017-32, passed 12-27-2017)
+2017-32, passed 12-27-2017; Am. Ord. 2024-33, passed 12-17-2024)
 TITLE V: PUBLIC WORKS
    Chapter
       
@@ -10506,21 +10509,22 @@ Public Affairs which regulations have the same effect as village ordinances.
 16, passed 6-21-2022; Am. Ord. 2024-33, passed 12-17-2024)
 § 50.16 TAP CHARGES.
    It is hereby authorized that tap fees are as follows:
-   (A)   Water tap: $1,600.
-   (B)   Sewer tap: $2,600.(Ord. 2003-15, passed 9-22-2003; Am. Res. 2012-03,
-passed 2-13- 2012; Am. Ord. 2024-33, passed 12-17-2024)
+   (A)   Water (residential) tap: $1,600.
+   (B)   Water (commercial) tap: $3,600.
+   (C)   Sewer tap: $2,600.
+(Ord. 2003-15, passed 9-22-2003; Am. Res. 2012-03, passed 2-13- 2012; Am. Ord.
+2024-33, passed 12-17-2024)
 § 50.17 CAPITAL IMPROVEMENT FUNDS.
- 
-Rate Code Description              Monthly Deduction per Payment
-W         Water Residential Inside $12.00
-SR        Sewer Residential Inside 8.00
-HW        Homestead Water Inside   8.00
-HS        Homestead Sewer Inside   7.00
- 
-WR Water Residential Outside 12.00
-WC Water Commercial Inside   12.00
-WS Special Water Residential 8.00
-SS Special Sewer Residential 6.00
+Rate Code Description Monthly Deduction per Payment
+Rate Code Description               Monthly Deduction per Payment
+W         Water Residential Inside  $12.00
+SR        Sewer Residential Inside  8.00
+HW        Homestead Water Inside    8.00
+HS        Homestead Sewer Inside    7.00
+WR        Water Residential Outside 12.00
+WC        Water Commercial Inside   12.00
+WS        Special Water Residential 8.00
+SS        Special Sewer Residential 6.00
  
    The revenue is distributed in the capital improvement funds according to the
 rates below.
@@ -54021,14 +54025,15 @@ Ord. No. Date Passed Description
 2024-26  11-5-2024   Adopting Ordinance
 2024-29  11-19-2024  153.095
 2024-30  12-3-2024   38.07
+                     41.01,
                      50.01 -
                      50.03,
                      50.15 -
                      50.17,
                      50.30 -
                      50.40,
-                     50.55 -
-2024-33  12-17-2024  50.64,
+2024-33  12-17-2024  50.55 -
+                     50.64,
                      50.66 -
                      50.70,
                      50.99,
