@@ -710,7 +710,7 @@ async function monitorJobUntilCompletion(
 ) {
     const maxAttempts =
         MAX_EXPORT_WAIT_MINUTES * (60000 / EXPORT_POLL_INTERVAL_MS); // Calculate max attempts based on time and interval
-    const shortJobId = exportJobUuid.substring(0, 8); // Shortened ID for logging
+    const shortJobId = exportJobUuid; // full ID, no substring
     console.log(
         `[STATUS: ${shortJobId}] ⏳ Starting poll (max ${MAX_EXPORT_WAIT_MINUTES} min / ${maxAttempts} attempts)`
     ); // Log polling parameters
