@@ -1,7 +1,7 @@
 CARROLL COUNTY, MARYLAND
 CODE OF ORDINANCES
 2025 S-14 Supplement contains:
-Local legislation current through September 4, 2025
+Local legislation current through October 9, 2025
  
 Published by:
 American Legal Publishing
@@ -13808,7 +13808,7 @@ where specific conditions may require lesser amounts of water for exposure
 protection.
 For a printable PDF of Table 91.022, click_here.
    Table 91.022: Minimum Water Supply (Gallons)
-[https://export.amlegal.com/media/7198a3c0eaf7bf9bf5f0431f8338373a8ab27b3f/
+[https://export.amlegal.com/media/1ba88838676f9d6e61c399e91facf3395b1104ed/
 IMAGES/0-0-0-23.jpg]
  
       (2)   For special fire protection problems, such as bulk flammable liquid
@@ -25356,6 +25356,8 @@ Specific Uses
    
 158.153   Solar energy generating systems
    
+158.153.01   Energy storage devices, front of the meter
+   
 158.154   Adult entertainment business, massage establishment, or striptease
 business
    
@@ -25725,6 +25727,17 @@ facilities for one or more persons including permanent provisions for living,
 sleeping, cooking, eating, and sanitation.
    ELECTRONIC MESSAGE SIGN. A computerized programmable electronic visual
 communication device capable of storing and displaying messages and images.
+   ENERGY STORAGE DEVICE. A resource capable of absorbing electrical energy,
+storing it for a period of time, and delivering the energy for use at a later
+time as needed, regardless of where the resource is located on the electrical
+distribution system. Devices include all types of electric storage
+technologies, regardless of size, storage medium, or operational purpose,
+including thermal storage; electrochemical storage; virtual power plants; and
+hydrogen-based storage.
+      (1)   BEHIND THE METER. Term that describes energy generation or storage
+systems that are installed on the consumer's side of the utility meter.
+      (2)   FRONT OF THE METER. Term that describes large-scale energy
+generation and storage facilities that are connected to the utility grid.
    EXCAVATED MATERIAL. Material extracted or removed as a result of a mineral
 resource recovery operation, except for that material utilized in processing
 operations.
@@ -26296,7 +26309,7 @@ this chapter.
 passed 6-3-2021; Ord. 2022-03, passed 12-16-2021; Ord. 2022-20, passed 11-3-
 2022; Ord. 2022-17, passed 11-22-2022; Ord. 2023-10, passed 11-2-2023; Ord.
 2024-04, passed 5-16-2024; Ord. 2024-07, passed 6-27-2024; Ord. 2024-11, passed
-12-5-2024)
+12-5-2024; Ord. 2025-06, passed 10-9-2025)
 § 158.003 EFFECTIVE DATE; APPLICATION WITHIN COUNTY.
    This chapter took effect on August 17, 1965, and applies to all lands,
 buildings, properties, and their uses within the territorial limits of the
@@ -26885,11 +26898,12 @@ clubs;
       (12)   Slaughterhouse.
    (E)   The following uses shall be subject to five times the distance
 requirement in division (A) above:
-      (1)   Airports; and
-      (2)   Rubble fills.
+      (1)   Airports;
+      (2)   Rubble fills; and
+      (3)   Front of the meter energy storage devices.
 (Ord. 2019-06, passed 12-12-2019; Ord. 2022-03, passed 12-16-2021; Ord. 2022-
 20, passed 11-3-2022; Ord. 2023-07, passed 9-7-2023; Ord. 2024-04, passed 5-16-
-2024) Penalty, see §
+2024; Ord. 2025-06, passed 10-9-2025) Penalty, see §
 158.999
 § 158.041 LOCATING ANCILLARY FACILITIES.
    The following uses, when accessory to an authorized conditional or principal
@@ -27493,189 +27507,168 @@ Chapter 155.
 LAND USE CATEGORY
 SUBCATEGORY       AGRICULTURAL CONSERVATION ADDITIONAL REGULATIONS
 DESCRIPTION
-LAND USE CATEGORY
-SUBCATEGORY                AGRICULTURAL CONSERVATION ADDITIONAL REGULATIONS
+LAND USE CATEGORY                                                            ADDITIONAL
+SUBCATEGORY                                        AGRICULTURAL CONSERVATION REGULATIONS
 DESCRIPTION
 AGRICULTURAL
-                                                     158.002,
-                                                     158.035,
-                                                     158.040 for any greenhouse
-Agriculture                P            P            heating plant or any
-                                                     building or feeding pens
-                                                     in which farm animals are
-                                                     kept
-Agricultural research      C            X            158.167
-laboratory
-Agritourism                P            P            158.002
-Farm alcohol producer      C            C            158.002,
-                                                     158.168
-Farm for the raising of
-animals for experimental   C            X            158.040
+                                                                             158.002,
+                                                                             158.035,
+                                                                             158.040 for
+                                                                             any
+                                                                             greenhouse
+                                                                             heating
+Agriculture                                        P            P            plant or
+                                                                             any
+                                                                             building or
+                                                                             feeding
+                                                                             pens in
+                                                                             which farm
+                                                                             animals are
+                                                                             kept
+Agricultural research laboratory                   C            X            158.167
+Agritourism                                        P            P            158.002
+Farm alcohol producer                              C            C            158.002,
+                                                                             158.168
+Farm for the raising of animals for experimental   C            X            158.040
 purposes
-Feed or grain sales, may   C            X             
-include storage
-Flour or grain milling,    C            X             
-drying, storage
-Livestock sales yard and   C            X            158.040,
-building                                             158.162
-Outdoor growing of         P            X            158.002
-cannabis
-Shop for the service,
-repair, or sale            C            X            158.040
-exclusively of farm
-machinery and equipment
+Feed or grain sales, may include storage           C            X             
+Flour or grain milling, drying, storage            C            X             
+Livestock sales yard and building                  C            X            158.040,
+                                                                             158.162
+Outdoor growing of cannabis                        P            X            158.002
+Shop for the service, repair, or sale exclusively  C            X            158.040
+of farm machinery and equipment
 COMMUNICATIONS
-                                                     158.002,
-Communications tower       C            C            158.039,
-                                                     158.054
-Communications tower                                 158.002,
-complex                    X            X            158.039,
-                                                     158.054
+                                                                             158.002,
+Communications tower                               C            C            158.039,
+                                                                             158.054
+                                                                             158.002,
+Communications tower complex                       X            X            158.039,
+                                                                             158.054
 COMMERCIAL
-Vehicle Sales/Service (all X            X             
-uses)
-Eating and Drinking        X            X             
-Establishments (all uses)
+Vehicle Sales/Service (all uses)                   X            X             
+Eating and Drinking Establishments (all uses)      X            X             
 Retail/service
-Butcher shop               C            X            158.002,
-                                                     158.040
-Garden supply center       C            X            158.002
-Liquid or dry fertilizer   C            X             
-sales
-Retail/Service all others  X            X            158.002
+Butcher shop                                       C            X            158.002,
+                                                                             158.040
+Garden supply center                               C            X            158.002
+Liquid or dry fertilizer sales                     C            X             
+Retail/Service all others                          X            X            158.002
 Funeral and Interment
-Cemetery, mausoleum, or    C            C            158.002
-memorial garden
-Crematorium                X            X            158.002
-Funeral establishment      X            X            158.002
+Cemetery, mausoleum, or memorial garden            C            C            158.002
+Crematorium                                        X            X            158.002
+Funeral establishment                              X            X            158.002
 Lodging
-Bed and breakfast          C            C            158.002,
-                                                     158.163
-Lodging, all others        X            X             
+Bed and breakfast                                  C            C            158.002,
+                                                                             158.163
+Lodging, all others                                X            X             
 Office/Health Care
-Veterinary facility        P            C            158.002,
-                                                     158.040
-Office/health care, all    X            X             
-others
+Veterinary facility                                P            C            158.002,
+                                                                             158.040
+Office/health care, all others                     X            X             
 Recreational/Entertainment
-Commercial camping area    C            C            158.002,
-                                                     158.171
-Wildlife preserve          P            P             
-Indoor recreational        X            X            158.002
-facility
-Outdoor recreational area  C            C            158.002
-                                                     158.002,
-Golf course                C            C            158.040,
-                                                     158.169
-Food service, as part of a                           158.002,
-golf course and/or golf    C            C            158.040,
-driving range                                        158.169
-Outdoor trap, skeet,
-rifle, or archery ranges,  C            C            158.040
+Commercial camping area                            C            C            158.002,
+                                                                             158.171
+Wildlife preserve                                  P            P             
+Indoor recreational facility                       X            X            158.002
+Outdoor recreational area                          C            C            158.002
+                                                                             158.002,
+Golf course                                        C            C            158.040,
+                                                                             158.169
+Food service, as part of a golf course and/or golf                           158.002,
+driving range                                      C            C            158.040,
+                                                                             158.169
+Outdoor trap, skeet, rifle, or archery ranges,     C            C            158.040
 including gun clubs
-Stable, commercial         P            P            158.040
+Stable, commercial                                 P            P            158.040
 RESIDENTIAL
 Household Living
-Multifamily                X            X            158.002
-Retirement home            X            X            158.002
-Retirement village         X            X            158.002
-Single-family dwelling     P            P            158.002
-Townhouse                  X            X            158.002
-Two-family dwelling        P            X            158.002 
+Multifamily                                        X            X            158.002
+Retirement home                                    X            X            158.002
+Retirement village                                 X            X            158.002
+Single-family dwelling                             P            P            158.002
+Townhouse                                          X            X            158.002
+Two-family dwelling                                P            X            158.002 
 Group Living
-Assisted-living facility,< P            P            158.002
-8 residents
-Assisted-living facility,  C            C            158.002
->8 residents
-Drug treatment facility    C            C            158.002
-Nursing home               C            C            158.002
+Assisted-living facility,< 8 residents             P            P            158.002
+Assisted-living facility, >8 residents             C            C            158.002
+Drug treatment facility                            C            C            158.002
+Nursing home                                       C            C            158.002
 INSTITUTIONAL/COMMUNITY SERVICE
-Day care center/nursery    C            C            158.002
-school
-Private school             C            C             
-Religious establishment    C            C            158.002
+Day care center/nursery school                     C            C            158.002
+Private school                                     C            C             
+Religious establishment                            C            C            158.002
 INDUSTRIAL
 Manufacturing/Production
-Commercial sawmill         X            X            158.002
-Commercial wood processing C            X            158.002,
-                                                     158.166
-Food processing and
-packing of agricultural    P            X            158.002
+Commercial sawmill                                 X            X            158.002
+Commercial wood processing                         C            X            158.002,
+                                                                             158.166
+Food processing and packing of agricultural        P            X            158.002
 products
-Research laboratories
-conducting bioscience      C            X            158.172
+Research laboratories conducting bioscience        C            X            158.172
 research
-Slaughterhouse             C            X            158.002,
-                                                     158.040
-Winery                     C            C            158.040
-Manufacturing/production,  X            X             
-all others
-Indoor growing of cannabis X            X            158.002
-Trades (all uses)          X            X             
+Slaughterhouse                                     C            X            158.002,
+                                                                             158.040
+Winery                                             C            C            158.040
+Manufacturing/production, all others               X            X             
+Indoor growing of cannabis                         X            X            158.002
+Trades (all uses)                                  X            X             
 Warehouse/Storage/Distribution
-Contractors' equipment                               158.002,
-storage                    C            X            158.040,
-                                                     158.173
-Food processing residual   X            X            158.002
-storage
-Liquid or dry fertilizer   C            X             
-storage
-Storage lot for commercial
-vehicles, not to include   C            X            158.170
-truck or motor freight
-terminals
-Warehouse/storage/         X            X             
-distribution, all others
+                                                                             158.002,
+Contractors' equipment storage                     C            X            158.040,
+                                                                             158.173
+Food processing residual storage                   X            X            158.002
+Liquid or dry fertilizer storage                   C            X             
+Storage lot for commercial vehicles, not to        C            X            158.170
+include truck or motor freight terminals
+Warehouse/storage/distribution, all others         X            X             
 Waste-Related
-Rubble landfills           C            X            158.165
+Rubble landfills                                   C            X            158.165
 Transportation/Utilities
-Airfield                   C            X            158.002,
-                                                     158.040
-Airport                    C            X            158.002,
-                                                     158.040
-Community Solar Energy     X            X            158.002,
-Generating System                                    158.153
-Utility equipment
-building, yard, above-
-ground station or          C            C            158.039
-substation, or telephone
-exchange
-Utility equipment, all     P            P            158.039
-others
+Airfield                                           C            X            158.002,
+                                                                             158.040
+Airport                                            C            X            158.002,
+                                                                             158.040
+                                                                             158.002,
+Energy storage device, front of the meter          P            P            158.040,
+                                                                             158.153.01
+Solar energy generating system – 5 megawatts or  P            P            158.002,
+less                                                                         158.153
+Solar energy generating systems – greater than 5 P            X            158.002,
+megawatts                                                                    158.153
+Utility equipment building, yard, above-ground     C            C            158.039
+station or substation, or telephone exchange
+Utility equipment, all others                      P            P            158.039
 Miscellaneous
-Banquet/Event Facilities   C            X            158.002,
-                                                     158.040 
-Commercial kennel, more                              158.002,
-than ten dogs              C            C            158.040,
-                                                     158.174
-Commercial kennel, ten or                            158.002,
-fewer dogs                 C            C            158.040,
-                                                     158.174
-Conveyor system            P            C            158.002,
-                                                     158.039
-Extractive-type industries C            X            158.002,
-                                                     158.096
-Fairgrounds, racetracks or C            X            158.040,
-courses                                              158.160
-Mineral resource recovery                            158.002,
-operations, with a MRO     P            X            158.096
-designation
-Retreat facility           C            C            158.002,
-                                                     158.164
-Use-off-the premises signs X            X            158.115
-Water supply works, flood
-control or watershed       P            P             
-protection works, fish and
-game hatcheries
+Banquet/Event Facilities                           C            X            158.002,
+                                                                             158.040 
+                                                                             158.002,
+Commercial kennel, more than ten dogs              C            C            158.040,
+                                                                             158.174
+                                                                             158.002,
+Commercial kennel, ten or fewer dogs               C            C            158.040,
+                                                                             158.174
+Conveyor system                                    P            C            158.002,
+                                                                             158.039
+Extractive-type industries                         C            X            158.002,
+                                                                             158.096
+Fairgrounds, racetracks or courses                 C            X            158.040,
+                                                                             158.160
+Mineral resource recovery operations, with a MRO   P            X            158.002,
+designation                                                                  158.096
+Retreat facility                                   C            C            158.002,
+                                                                             158.164
+Use-off-the premises signs                         X            X            158.115
+Water supply works, flood control or watershed     P            P             
+protection works, fish and game hatcheries
 PUBLIC
-Cable television
-facilities when franchised X            P             
-by the BCC
-Public facility            P            P            158.049
+Cable television facilities when franchised by the X            P             
+BCC
+Public facility                                    P            P            158.049
  
 (Ord. 2022-20, passed 11-3-2022; Ord. 2023-07, passed 9-7-2023; Ord. 2023-10,
 passed 11-2-2023; Ord. 2024-04, passed 5-16-2024; Ord. 2024-07, passed 6-27-
-2024; Ord. 2024-10, passed 12-5-2024)
+2024; Ord. 2024-10, passed 12-5-2024; Ord. 2025-06, passed 10-9-2025)
 § 158.071.02 AGRICULTURAL AND CONSERVATION DISTRICTS: REGULATION OF ACCESSORY
 USES.
    (A)   Accessory uses in the Agricultural and Conservation Districts.
@@ -27977,254 +27970,176 @@ Chapter 155.
 Land Use Category
 Subcategory       R-40,000 R-20,000 R-10,000 R-7,500 Additional Regulations
 Description
-Land Use
-Category        R-     R-20,000 R-10,000 R-7,500 Additional Regulations
-Subcategory     40,000
+Land Use Category                                  R-     R-     R-     R-
+Subcategory                                        40,000 20,000 10,000 7,500 Additional Regulations
 Description
 AGRICULTURAL
-                                                 §
-                                                 158.002, §
-Agriculture     P      P        P        P       158.035, buildings or feeding
-                                                 pens in which farm animals are
-                                                 kept shall comply with §
-                                                 158.040
-Agricultural
-research
-laboratories,
-feed or grain
-sales, flour or X      X        X        X        
-grain milling,
-shop for the
-service, repair
-sale of farm
-equipment
-Outdoor growing X      X        X        X       §
-of cannabis                                      158.002
+                                                                              §
+                                                                              158.002, §
+Agriculture                                        P      P      P      P     158.035, buildings or feeding
+                                                                              pens in which farm animals are
+                                                                              kept shall comply with §
+                                                                              158.040
+Agricultural research laboratories, feed or grain
+sales, flour or grain milling, shop for the        X      X      X      X      
+service, repair sale of farm equipment
+Outdoor growing of cannabis                        X      X      X      X     §
+                                                                              158.002
 COMMUNICATIONS
-                                                 §§
-Communications/ X      X        X        X       158.002,
-tower complex                                    158.039,
-                                                 158.054
+                                                                              §§
+Communications/tower complex                       X      X      X      X     158.002,
+                                                                              158.039,
+                                                                              158.054
 COMMERCIAL
-Vehicle sales/                                   §
-service (all    X      X        X        X       158.002
-uses)
-Eating and
-drinking        X      X        X        X        
-establishments
-(all uses)
-Banquet/event   X      X        X        X       §
-facility                                         158.002
-Funeral and                                      §
-interment (all  X      X        X        X       158.002
-uses)
-Facility for                                     §
-dispensing      X      X        X        X       158.002
-cannabis
+Vehicle sales/service (all uses)                   X      X      X      X     §
+                                                                              158.002
+Eating and drinking establishments (all uses)      X      X      X      X      
+Banquet/event facility                             X      X      X      X     §
+                                                                              158.002
+Funeral and interment (all uses)                   X      X      X      X     §
+                                                                              158.002
+Facility for dispensing cannabis                   X      X      X      X     §
+                                                                              158.002
 Lodging
-Bed and                                          §§
-breakfast       C      C        C        C       158.002,
-                                                 158.071
-Country inn     X      X        X        X       §
-                                                 158.002
-Hotel/motel     X      X        X        X       §
-                                                 158.002
+                                                                              §§
+Bed and breakfast                                  C      C      C      C     158.002,
+                                                                              158.071
+Country inn                                        X      X      X      X     §
+                                                                              158.002
+Hotel/motel                                        X      X      X      X     §
+                                                                              158.002
 Office/Health Care
-Hospital        X      C        X        X       §
-                                                 158.002
-Medical or      X      X        X        X       §
-dental center                                    158.002
-Professional or X      X        X        X        
-business office
-Veterinary      X      X        X        X       §
-facility                                         158.002
+Hospital                                           X      C      X      X     §
+                                                                              158.002
+Medical or dental center                           X      X      X      X     §
+                                                                              158.002
+Professional or business office                    X      X      X      X      
+Veterinary facility                                X      X      X      X     §
+                                                                              158.002
 Recreational/Entertainment
-Adult
-entertainment
-business,                                        §
-massage         X      X        X        X       158.002
-establishment,
-striptease
-business
-Amusement park  X      X        X        X        
-Commercial      X      X        X        X       §
-stable                                           158.002
-Conference      X      X        X        X       §
-center                                           158.002
-Golf course     C      C        C        C       §
-                                                 158.002
-Indoor                                           §
-recreational    C      C        C        C       158.002
-facility
-Indoor theater  X      X        X        X        
-Outdoor drive-  X      X        X        X        
-in theater
-Outdoor                                          §
-recreational    C      C        C        C       158.002
-area
-Outdoor trap,
-skeet, rifle,
-or archery      X      X        X        X        
-ranges,
-including gun
-clubs
-Retreat         X      X        X        X       §
-facility                                         158.002
-Retail/service  X      X        X        X        
-(all uses)
+Adult entertainment business, massage              X      X      X      X     §
+establishment, striptease business                                            158.002
+Amusement park                                     X      X      X      X      
+Commercial stable                                  X      X      X      X     §
+                                                                              158.002
+Conference center                                  X      X      X      X     §
+                                                                              158.002
+Golf course                                        C      C      C      C     §
+                                                                              158.002
+Indoor recreational facility                       C      C      C      C     §
+                                                                              158.002
+Indoor theater                                     X      X      X      X      
+Outdoor drive-in theater                           X      X      X      X      
+Outdoor recreational area                          C      C      C      C     §
+                                                                              158.002
+Outdoor trap, skeet, rifle, or archery ranges,     X      X      X      X      
+including gun clubs
+Retreat facility                                   X      X      X      X     §
+                                                                              158.002
+Retail/service (all uses)                          X      X      X      X      
 RESIDENTIAL
 Household Living
-Multi-family
-dwelling, not                                    §
-in a planned    X      X        X        X       158.002
-unit
-development
-Multi-family                                     §§
-dwelling in a   NA     NA       P        P       158.002,
-planned unit                                     155.091
-development
-Retirement
-home/age-
-restricted
-multi-family    X      X        C        C       §
-housing                                          158.002
-constructed on
-or after
-January 1, 2021
-Retirement
-home/age-
-restricted
-multi-family    C      C        C        C       §
-housing                                          158.002
-constructed
-prior to
-January 1, 2021
-Retirement                                       §§
-village         X      C        C        C       158.002,
-                                                 158.161
-Single-family   P      P        P        P       §
-dwelling                                         158.002
-Solar energy                                     §
-generating      X      X        X        X       158.002,
-systems                                          158.153
-Townhouse, not
-in a planned
-unit            X      X        X        X       §
-development or                                   158.002
-retirement
-village
-Townhouse in a                                   §§
-planned unit    NA     NA       P        P       158.002,
-development                                      155.091
-Townhouse in a                                   §§
-retirement      NA     C        C        C       158.002,
-village                                          158.161
-Two-family
-dwelling, not
-in a planned                                     §
-unit            X      X        C        C       158.002
-development or
-retirement
-village
-Two-family                                       §§
-dwelling in a   NA     NA       P        P       158.002,
-planned unit                                     155.091
-development
-Two-family                                       §§
-dwelling in a   NA     C        C        C       158.002,
-retirement                                       158.161
-village
+                                                                              §§
+Energy storage device, front of the meter          P      P      P      P     158.002,
+                                                                              158.040,
+                                                                              158.153.01
+Multi-family dwelling, not in a planned unit       X      X      X      X     §
+development                                                                   158.002
+Multi-family dwelling in a planned unit                                       §§
+development                                        NA     NA     P      P     158.002,
+                                                                              155.091
+Retirement home/age- restricted multi-family       X      X      C      C     §
+housing constructed on or after January 1, 2021                               158.002
+Retirement home/age- restricted multi-family       C      C      C      C     §
+housing constructed prior to January 1, 2021                                  158.002
+                                                                              §§
+Retirement village                                 X      C      C      C     158.002,
+                                                                              158.161
+Single-family dwelling                             P      P      P      P     §
+                                                                              158.002
+Solar energy generating systems – 5 megawatts or                            §§
+less                                               P      P      P      P     158.002,
+                                                                              158.153
+Solar energy generating systems – greater than 5                            §§
+megawatts                                          X      X      X      X     158.002,
+                                                                              158.153
+Townhouse, not in a planned unit development or    X      X      X      X     §
+retirement village                                                            158.002
+                                                                              §§
+Townhouse in a planned unit development            NA     NA     P      P     158.002,
+                                                                              155.091
+                                                                              §§
+Townhouse in a retirement village                  NA     C      C      C     158.002,
+                                                                              158.161
+Two-family dwelling, not in a planned unit         X      X      C      C     §
+development or retirement village                                             158.002
+                                                                              §§
+Two-family dwelling in a planned unit development  NA     NA     P      P     158.002,
+                                                                              155.091
+                                                                              §§
+Two-family dwelling in a retirement village        NA     C      C      C     158.002,
+                                                                              158.161
 Group Living
-Assisted living                                  §
-facility, 8 or  P      P        P        P       158.002
-fewer residents
-Assisted living
-facility, more  C      C        C        C       §
-than 8                                           158.002
-residents
-Continuing care                                  §
-retirement      C      C        C        C       158.002
-community
-Drug treatment  X      X        X        X       §
-facility                                         158.002
-Nursing home    C      C        C        C       §
-                                                 158.002
+Assisted living facility, 8 or fewer residents     P      P      P      P     §
+                                                                              158.002
+Assisted living facility, more than 8 residents    C      C      C      C     §
+                                                                              158.002
+Continuing care retirement community               C      C      C      C     §
+                                                                              158.002
+Drug treatment facility                            X      X      X      X     §
+                                                                              158.002
+Nursing home                                       C      C      C      C     §
+                                                                              158.002
 INSTITUTIONAL/COMMUNITY SERVICE
-Art, trade,
-business,       X      X        X        X        
-dance, music or
-similar school
-Community
-center or       C      C        C        C        
-meeting hall
-Day care                                         §
-center/nursery  C      C        C        C       158.002
+Art, trade, business, dance, music or similar      X      X      X      X      
 school
-Museum          C      C        C        C        
-Private school  P      P        P        P        
-Religious       P      P        P        P       §
-establishment                                    158.002
-Social club or
-fraternal       C      C        C        C        
-organization
+Community center or meeting hall                   C      C      C      C      
+Day care center/nursery school                     C      C      C      C     §
+                                                                              158.002
+Museum                                             C      C      C      C      
+Private school                                     P      P      P      P      
+Religious establishment                            P      P      P      P     §
+                                                                              158.002
+Social club or fraternal organization              C      C      C      C      
 INDUSTRIAL
-Manufacturing/
-production (all X      X        X        X        
-uses)
-Trade (all      X      X        X        X        
-uses)
-Warehouse/
-storage/        X      X        X        X        
-distribution
-(all uses)
-Waste-related   X      X        X        X        
-(all uses)
-Food processing                                  §
-residual        X      X        X        X       158.002
-storage
-Indoor growing  X      X        X        X       §
-of cannabis                                      158.002
-Transportation/                               
-utilities
-Airfield/       X      X        X        X       §
-airport                                          158.002
-Heliport        X      X        X        X       §
-                                                 158.002
-Solar energy                                     §§
-conversion      X      X        X        X       158.002,
-facility                                         158.153
-Utility
-equipment
-building, yard,
-above-ground    C      C        C        C       §
-station or                                       158.039
-substation, or
-telephone
-exchange
-Utility                                          §
-equipment, all  P      P        P        P       158.039
-others
+Manufacturing/production (all uses)                X      X      X      X      
+Trade (all uses)                                   X      X      X      X      
+Warehouse/storage/distribution (all uses)          X      X      X      X      
+Waste-related (all uses)                           X      X      X      X      
+Food processing residual storage                   X      X      X      X     §
+                                                                              158.002
+Indoor growing of cannabis                         X      X      X      X     §
+                                                                              158.002
+Transportation/utilities                                                   
+Airfield/airport                                   X      X      X      X     §
+                                                                              158.002
+Heliport                                           X      X      X      X     §
+                                                                              158.002
+                                                                              §§
+Solar energy conversion facility                   X      X      X      X     158.002,
+                                                                              158.153
+Utility equipment building, yard, above-ground     C      C      C      C     §
+station or substation, or telephone exchange                                  158.039
+Utility equipment, all others                      P      P      P      P     §
+                                                                              158.039
 Miscellaneous
-Commercial      X      X        X        X       §
-kennel                                           158.002
-Conveyor system X      X        X        X       §
-                                                 158.002
-Extractive
-operation, with X      X        X        X       §
-an MRO                                           158.002
-designation
-Planned unit                                     §
-development     X      X        P        P       155.091
-(PUD)
-Use-off-the     X      X        X        X       §
-premises signs                                   158.115
+Commercial kennel                                  X      X      X      X     §
+                                                                              158.002
+Conveyor system                                    X      X      X      X     §
+                                                                              158.002
+Extractive operation, with an MRO designation      X      X      X      X     §
+                                                                              158.002
+Planned unit development (PUD)                     X      X      P      P     §
+                                                                              155.091
+Use-off-the premises signs                         X      X      X      X     §
+                                                                              158.115
 PUBLIC
-Public facility P      P        P        P       §
-                                                 158.049
+Public facility                                    P      P      P      P     §
+                                                                              158.049
  
 (Ord. 2022-03, passed 12-16-2021; Ord. 2022-20, passed 11-3-2022; Ord. 2023-10,
 passed 11-2-2023; Ord. 2024-04, passed 5-16-2024; Ord. 2024-07, passed 6-27-
-2024; Ord. 2024-10, passed 12-5-2024)
+2024; Ord. 2024-10, passed 12-5-2024; Ord. 2025-06, passed 10-9-2025)
 § 158.075.02 RESIDENTIAL DISTRICTS: REGULATION OF ACCESSORY USES.
    (A)   Accessory uses in the Residential Districts. Accessory uses in the
 residential districts shall be as follows:
@@ -28788,331 +28703,297 @@ requirement that a conditional use approval be granted for a use.
 include all additional regulations that apply to the use, such as the
 requirement for site plan review under
 Chapter 155.
-LAND USE CATEGORY            C-1 C-2 C-3 I-1 I-2 EC ADDITIONAL REGULATIONS
-DESCRIPTION
+LAND USE CATEGORY DESCRIPTION                      C- C- C- I- I- EC ADDITIONAL
+                                                   1  2  3  1  2     REGULATIONS
 Agricultural
-Agriculture                  P   P   P   P   P   P  158.002,
-                                                    158.035
-Agricultural research        X   X   C   C   P   P   
-laboratories and facilities
-Feed or grain sales, may     X   P   P   P   P   X   
-include storage
-Flour or grain milling,      X   X   X   P   P   X  158.040 
-drying, storage
-Outdoor growing of cannabis  X   X   X   X   X   X  158.002
-Shop for the service,
-repair, or sale of farm      C   P   P   P   X   X  158.040 
+Agriculture                                        P  P  P  P  P  P  158.002,
+                                                                     158.035
+Agricultural research laboratories and facilities  X  X  C  C  P  P   
+Feed or grain sales, may include storage           X  P  P  P  P  X   
+Flour or grain milling, drying, storage            X  X  X  P  P  X  158.040 
+Outdoor growing of cannabis                        X  X  X  X  X  X  158.002
+Shop for the service, repair, or sale of farm      C  P  P  P  X  X  158.040 
 equipment
 Communications
-                                                    158.002,
-Communications tower         C   P   P   P   P   C  158.039,
-                                                    158.054
-                                                    158.002,
-Communications tower complex C   P   P   P   P   C  158.039,
-                                                    158.054
-Radio or television studio   X   C   C   C   X   C   
+                                                                     158.002,
+Communications tower                               C  P  P  P  P  C  158.039,
+                                                                     158.054
+                                                                     158.002,
+Communications tower complex                       C  P  P  P  P  C  158.039,
+                                                                     158.054
+Radio or television studio                         X  C  C  C  X  C   
 Commercial
 Vehicle sales/service
-Automobile service center    C   P   P   C   C   X  158.002,
-                                                    158.083
-Car wash (self or full       X   P   P   X   X   X   
-service)
-Fuel station                 C   P   P   X   X   X  158.002
-Vehicle repair shop          X   P   P   P   X   X  158.002,
-                                                    158.083
-Vehicle sales lot (under                            158.002, on a lot of less
-10,000 lbs. gross vehicle    X   P   P   C   X   X  than 5 acres in the I-
-weight)1                                            1 District
-Vehicle sales lot (10,000                           158.002, on a lot of less
-lbs. or more gross vehicle   X   C   P   C   X   X  than 5 acres in the I-
-weight)2                                            1 District
+Automobile service center                          C  P  P  C  C  X  158.002,
+                                                                     158.083
+Car wash (self or full service)                    X  P  P  X  X  X   
+Fuel station                                       C  P  P  X  X  X  158.002
+Vehicle repair shop                                X  P  P  P  X  X  158.002,
+                                                                     158.083
+                                                                     158.002, on
+                                                                     a lot of
+Vehicle sales lot (under 10,000 lbs. gross vehicle X  P  P  C  X  X  less than 5
+weight)1                                                             acres in
+                                                                     the I-
+                                                                     1 District
+                                                                     158.002, on
+                                                                     a lot of
+Vehicle sales lot (10,000 lbs. or more gross       X  C  P  C  X  X  less than 5
+vehicle weight)2                                                     acres in
+                                                                     the I-
+                                                                     1 District
 1 A variance may not be granted to the weight or acreage requirements for this
 use.
 2 A variance may not be granted to the weight or acreage requirements for this
 use.
 Eating and Drinking Establishments
-Catering establishment       P   P   P   X   X   P  158.002
-Banquet/event facility       P   P   P   X   X   P  158.002
-Restaurant                   P   P   P   X   X   P  158.083
-Restaurant, with drive thru  X   P   P   X   X   X   
-Tavern/bar                   P   P   P   X   X   P  158.083
+Catering establishment                             P  P  P  X  X  P  158.002
+Banquet/event facility                             P  P  P  X  X  P  158.002
+Restaurant                                         P  P  P  X  X  P  158.083
+Restaurant, with drive thru                        X  P  P  X  X  X   
+Tavern/bar                                         P  P  P  X  X  P  158.083
 Funeral and Interment
-Cemetery, mausoleum, or      C   C   C   X   X   X  158.002
-memorial garden
-Crematorium                  X   P   P   X   P   X  158.002,
-                                                    158.040
-Funeral establishment        X   P   P   X   X   X  158.002
+Cemetery, mausoleum, or memorial garden            C  C  C  X  X  X  158.002
+Crematorium                                        X  P  P  X  P  X  158.002,
+                                                                     158.040
+Funeral establishment                              X  P  P  X  X  X  158.002
 Lodging
-Bed and breakfast            C   X   X   X   X   X  158.002,
-                                                    158.163
-Country inn                  C   X   X   X   X   X  158.002,
-                                                    158.071
-Hotel or motel               X   C   P   X   X   P   
-Hotel or motel, as part of                          158.002,
-an Industrial Park or a      NA  NA  NA  P   NA  NA 158.156,
-Business/Industrial Park                            158.079
+Bed and breakfast                                  C  X  X  X  X  X  158.002,
+                                                                     158.163
+Country inn                                        C  X  X  X  X  X  158.002,
+                                                                     158.071
+Hotel or motel                                     X  C  P  X  X  P   
+Hotel or motel, as part of an Industrial Park or a                   158.002,
+Business/Industrial Park                           NA NA NA P  NA NA 158.156,
+                                                                     158.079
 Office/Health Care
-Contractor's Office          P   P   P   P   X   P  158.002,
-                                                    158.083
-Medical or dental center     P   P   P   X   X   P  158.002
-Professional or business     P   P   P   P   X   P  158.083
-office
-Veterinary facility, without C   P   P   X   X   X  158.002,
-runways                                             158.040
-Veterinary facility, with    X   C   C   X   X   X  158.002,
-runways                                             158.040 
+Contractor's Office                                P  P  P  P  X  P  158.002,
+                                                                     158.083
+Medical or dental center                           P  P  P  X  X  P  158.002
+Professional or business office                    P  P  P  P  X  P  158.083
+Veterinary facility, without runways               C  P  P  X  X  X  158.002,
+                                                                     158.040
+Veterinary facility, with runways                  X  C  C  X  X  X  158.002,
+                                                                     158.040 
 Recreational/Entertainment
-Adult entertainment
-business, massage            X   X   X   X   P   X  158.002,
-establishment, striptease                           158.154
-business
-Amusement park               X   X   P   X   X   X   
-Conference center            X   C   P   X   X   P  158.002
-Conference center as part of                        158.002,
-an Industrial Park or a      NA  NA  NA  P   NA  NA 158.156,
-Business/Industrial Park                            158.079
-Golf course                  X   X   X   X   X   P  158.002
-Indoor recreational facility P   P   P   P   X   P  158.002
-Indoor theater               X   C   P   X   X   X   
-Indoor trap, skeet, rifle,
-or archery ranges, including X   P   P   P   X   X  158.040
-gun clubs
-Outdoor drive-in theater     X   X   C   X   X   X   
-Outdoor recreational area    P   P   P   C   X   P  158.002
-Outdoor trap, skeet, rifle,
-or archery ranges, including X   X   X   X   X   X  158.040 
-gun clubs
-Retreat facility             X   X   X   X   X   X  158.002
-Retail/Service                                 
-Building or landscaping
-supplies sales and storage   X   X   C   P   X   X  158.002
+Adult entertainment business, massage              X  X  X  X  P  X  158.002,
+establishment, striptease business                                   158.154
+Amusement park                                     X  X  P  X  X  X   
+Conference center                                  X  C  P  X  X  P  158.002
+Conference center as part of an Industrial Park or                   158.002,
+a Business/Industrial Park                         NA NA NA P  NA NA 158.156,
+                                                                     158.079
+Golf course                                        X  X  X  X  X  P  158.002
+Indoor recreational facility                       P  P  P  P  X  P  158.002
+Indoor theater                                     X  C  P  X  X  X   
+Indoor trap, skeet, rifle, or archery ranges,      X  P  P  P  X  X  158.040
+including gun clubs
+Outdoor drive-in theater                           X  X  C  X  X  X   
+Outdoor recreational area                          P  P  P  C  X  P  158.002
+Outdoor trap, skeet, rifle, or archery ranges,     X  X  X  X  X  X  158.040 
+including gun clubs
+Retreat facility                                   X  X  X  X  X  X  158.002
+Retail/Service                                                  
+Building or landscaping supplies sales and storage X  X  C  P  X  X  158.002
 yard
-Butcher shop                 P   P   P   X   X   X  158.002
-Cannabis dispensary, less                           158.002,
-than 10,000 square feet      P   P   P   X   X   P  158.048.01,
-                                                    158.059
-Cannabis dispensary, between                        158.002,
-10,000 and 60,000 square     X   P   P   X   X   C  158.048.01,
-feet                                                158.059
-Cannabis dispensary, more                           158.002,
-than 60,000 square feet      X   C   P   X   X   X  158.048.01,
-                                                    158.059
-Cannabis dispensary in                              158.002,
-conjunction with a cannabis  X   X   X   P   P   X  158.048.01,
-growing and/or processing                           158.059
-facility
-Cannabis dispensary in                              158.002,
-conjunction with an on-site  X   X   X   X   X   X  158.059
-consumption establishment
-Fertilizer (liquid or dry)   X   X   C   X   X   X   
-sales and storage
-General retail or general                           158.002,
-service, less than 10,000    P   P   P   X   X   P  158.083
-square feet
-General retail or general                           158.002,
-service, between 10,000 and  X   P   P   X   X   C  158.083
-60,000 square feet
-General retail or general                           158.002,
-service, more than 60,000    X   C   P   X   X   X  158.083
-square feet
-Rental of vehicles and goods
-with primarily outdoor       X   C   P   P   X   X   
-equipment storage
+Butcher shop                                       P  P  P  X  X  X  158.002
+                                                                     158.002,
+Cannabis dispensary, less than 10,000 square feet  P  P  P  X  X  P  158.048.01,
+                                                                     158.059
+Cannabis dispensary, between 10,000 and 60,000                       158.002,
+square feet                                        X  P  P  X  X  C  158.048.01,
+                                                                     158.059
+                                                                     158.002,
+Cannabis dispensary, more than 60,000 square feet  X  C  P  X  X  X  158.048.01,
+                                                                     158.059
+Cannabis dispensary in conjunction with a cannabis                   158.002,
+growing and/or processing facility                 X  X  X  P  P  X  158.048.01,
+                                                                     158.059
+Cannabis dispensary in conjunction with an on-site X  X  X  X  X  X  158.002,
+consumption establishment                                            158.059
+Fertilizer (liquid or dry) sales and storage       X  X  C  X  X  X   
+General retail or general service, less than       P  P  P  X  X  P  158.002,
+10,000 square feet                                                   158.083
+General retail or general service, between 10,000  X  P  P  X  X  C  158.002,
+and 60,000 square feet                                               158.083
+General retail or general service, more than       X  C  P  X  X  X  158.002,
+60,000 square feet                                                   158.083
+Rental of vehicles and goods with primarily        X  C  P  P  X  X   
+outdoor equipment storage
 Residential
-Household Living                               
-Dwelling in a Business Park, NA  NA  P   NA  NA  NA 158.002,
-all types                                           158.159
-Single-family or two-family  P   P   NA  P   NA  NA 158.002
-dwelling in a Rural Village
-Multi-family dwelling        X   X   X   X   X   P  158.002,
-                                                    158.081
-Retirement home              P   P   X   X   X   P  158.002
-Retirement village           P   P   X   X   X   P  158.002
-Single-family dwelling                              158.002,
-constructed after November   X   X   X   X   X   P  158.081
-1, 2019
-Single-family dwelling
-constructed prior to         P   P   P   X   X   X  158.002
+Household Living                                                
+Dwelling in a Business Park, all types             NA NA P  NA NA NA 158.002,
+                                                                     158.159
+Single-family or two-family dwelling in a Rural    P  P  NA P  NA NA 158.002
+Village
+Multi-family dwelling                              X  X  X  X  X  P  158.002,
+                                                                     158.081
+Retirement home                                    P  P  X  X  X  P  158.002
+Retirement village                                 P  P  X  X  X  P  158.002
+Single-family dwelling constructed after November  X  X  X  X  X  P  158.002,
+1, 2019                                                              158.081
+Single-family dwelling constructed prior to        P  P  P  X  X  X  158.002
 November 1, 2019
-Townhouse                    X   X   X   X   X   P  158.002,
-                                                    158.081
-Townhouse in a retirement    P   P   NA  NA  NA  P  158.002
-village
-Two-family dwelling          X   X   X   X   X   P  158.002,
-                                                    158.081
-Two-family dwelling in a     P   P   NA  NA  NA  P  158.002
-retirement village
-Group Living                                   
-Assisted-living facility     P   P   P   X   X   X  158.002
-Continuing care retirement   P   P   P   X   X   X  158.002
-community
-Drug treatment facility      C   P   P   X   X   X  158.002
-Nursing home                 P   P   P   X   X   X  158.002
+Townhouse                                          X  X  X  X  X  P  158.002,
+                                                                     158.081
+Townhouse in a retirement village                  P  P  NA NA NA P  158.002
+Two-family dwelling                                X  X  X  X  X  P  158.002,
+                                                                     158.081
+Two-family dwelling in a retirement village        P  P  NA NA NA P  158.002
+Group Living                                                    
+Assisted-living facility                           P  P  P  X  X  X  158.002
+Continuing care retirement community               P  P  P  X  X  X  158.002
+Drug treatment facility                            C  P  P  X  X  X  158.002
+Nursing home                                       P  P  P  X  X  X  158.002
 Institutional/Community Service
-Art, business, dance, music  P   P   P   X   X   P   
-or similar school
-Community meeting hall,
-social club, fraternal       P   P   P   X   X   X   
+Art, business, dance, music or similar school      P  P  P  X  X  P   
+Community meeting hall, social club, fraternal     P  P  P  X  X  X   
 organization
-Community recreational       P   P   P   X   X   X   
-facility
-Day care center              P   P   P   X   X   P  158.002
-Hospital                     X   X   P   X   X   X  158.002
-Nursery school               P   P   P   X   X   P   
-Museum                       P   P   P   X   X   P   
-Private school               P   P   P   X   X   P   
-Religious establishment      P   P   P   X   X   X  158.002
-Trade school or professional P   P   P   P   P   P   
-training center
+Community recreational facility                    P  P  P  X  X  X   
+Day care center                                    P  P  P  X  X  P  158.002
+Hospital                                           X  X  P  X  X  X  158.002
+Nursery school                                     P  P  P  X  X  P   
+Museum                                             P  P  P  X  X  P   
+Private school                                     P  P  P  X  X  P   
+Religious establishment                            P  P  P  X  X  X  158.002
+Trade school or professional training center       P  P  P  P  P  P   
 Industrial
-Manufacturing/Production                       
-Acid or heavy chemical
-manufacture, processing, or  X   X   X   X   C   X  158.040
+Manufacturing/Production                                        
+Acid or heavy chemical manufacture, processing, or X  X  X  X  C  X  158.040
 storage
-Artisan manufacturing        P   P   P   P   P   P  158.002
-Bituminous concrete mixing   X   X   X   C   P   X  158.040
-plant
-Blast furnace, boiler works, X   X   X   X   P   X  158.040
-foundry
-                                                    158.002,
-Brewery                      X   X   P   P   P   X  158.040,
-                                                    158.083
-Cement, lime, gypsum, or
-plaster of paris             X   X   X   X   C   X  158.040
+Artisan manufacturing                              P  P  P  P  P  P  158.002
+Bituminous concrete mixing plant                   X  X  X  C  P  X  158.040
+Blast furnace, boiler works, foundry               X  X  X  X  P  X  158.040
+                                                                     158.002,
+Brewery                                            X  X  P  P  P  X  158.040,
+                                                                     158.083
+Cement, lime, gypsum, or plaster of paris          X  X  X  X  C  X  158.040
 manufacturing
-Concrete and ceramic         X   X   X   C   P   X  158.040
-products manufacturing
-Concrete or asphalt          X   X   X   C   P   X  158.002,
-recycling                                           158.040
-Distillation of bones, fat
-rendering, grease, lard or   X   X   X   X   C   X  158.040
-tallow manufacturing or
-processing
-                                                    158.002,
-Distillery                   X   X   P   P   P   X  158.040,
-                                                    158.083
-Explosive manufacturing or   X   X   X   X   C   X  158.040
-storage
-Fertilizer, potash,
-insecticide, glue, size or   X   X   X   X   C   X  158.040
+Concrete and ceramic products manufacturing        X  X  X  C  P  X  158.040
+Concrete or asphalt recycling                      X  X  X  C  P  X  158.002,
+                                                                     158.040
+Distillation of bones, fat rendering, grease, lard X  X  X  X  C  X  158.040
+or tallow manufacturing or processing
+                                                                     158.002,
+Distillery                                         X  X  P  P  P  X  158.040,
+                                                                     158.083
+Explosive manufacturing or storage                 X  X  X  X  C  X  158.040
+Fertilizer, potash, insecticide, glue, size or     X  X  X  X  C  X  158.040
 gelatin manufacture
-Food processing and packing  X   X   X   P   P   X  158.002,
-plant                                               158.040
-Heavy manufacturing          X   X   X   X   P   X  158.002,
-                                                    158.040
-Indoor processing of         X   X   X   P   P   X  158.002,
-cannabis                                            158.059
-Light manufacturing          X   C   P   P   P   C  158.002
-Limited distillery           C   P   P   P   X   P  158.002,
-                                                    158.083
-Micro-brewery                C   P   P   P   X   P  158.002,
-                                                    158.083
-                                                    158.002,
-Petroleum products refining  X   X   X   X   C   X  158.040, 100' setback from
-                                                    all property lines, NFPA
-                                                    Code
-Sawmill, commercial          X   X   X   C   P   X  158.002,
-                                                    158.040
-Manufacturing/Production                       
-Steel mill                   X   X   X   X   P   X  158.002,
-                                                    158.040
-Winery                       X   P   P   P   P   X  158.083
-Trades                                         
-Bottling (may include
-distribution) of soft        X   X   X   P   P   X   
-drinks, alcoholic beverages,
-or milk
-Printing shop                C   P   P   P   P   P   
-Welding, sheet metal,
-machine, carpentry, or       X   P   P   P   P   X  158.040
+Food processing and packing plant                  X  X  X  P  P  X  158.002,
+                                                                     158.040
+Heavy manufacturing                                X  X  X  X  P  X  158.002,
+                                                                     158.040
+Indoor processing of cannabis                      X  X  X  P  P  X  158.002,
+                                                                     158.059
+Light manufacturing                                X  C  P  P  P  C  158.002
+Limited distillery                                 C  P  P  P  X  P  158.002,
+                                                                     158.083
+Micro-brewery                                      C  P  P  P  X  P  158.002,
+                                                                     158.083
+                                                                     158.002,
+                                                                     158.040,
+                                                                     100'
+Petroleum products refining                        X  X  X  X  C  X  setback
+                                                                     from all
+                                                                     property
+                                                                     lines, NFPA
+                                                                     Code
+Sawmill, commercial                                X  X  X  C  P  X  158.002,
+                                                                     158.040
+Manufacturing/Production                                        
+Steel mill                                         X  X  X  X  P  X  158.002,
+                                                                     158.040
+Winery                                             X  P  P  P  P  X  158.083
+Trades                                                          
+Bottling (may include distribution) of soft        X  X  X  P  P  X   
+drinks, alcoholic beverages, or milk
+Printing shop                                      C  P  P  P  P  P   
+Welding, sheet metal, machine, carpentry, or       X  P  P  P  P  X  158.040
 similar shop
-Transportation/Utilities                       
-Airfield                     X   X   X   X   X   X  158.002
-Airport                      X   X   X   C   P   X  158.002,
-                                                    158.040
-Coal yard                    X   X   X   X   P   X  158.040
-Commercial parking lot or    P   P   P   X   X   X  158.002
-garage
-Electric generating power    X   X   X   X   P   X  158.040
-plant
-Heliport                     X   X   X   C   P   X  158.002,
-                                                    158.040
-Solar energygenerating                              158.002,
-systems, ground-mounted      X   C   P   P   P   C  158.081,
-                                                    158.153
-Towing service               X   X   C   P   P   X  On a lot of 5 acres or less
-                                                    in Industrial Districts
-Truck or motor freight       X   X   X   C   P   X  158.040
-terminal
-Utility equipment building,
-yard, above-ground station   C   C   C   C   C   C  158.039
-or substation, or telephone
-exchange
-Utility equipment, all       P   P   P   P   P   P  158.039
-others
-Warehouse/Storage/                             
-Distribution
-Above ground petroleum                              158.002,
-products storage (2,000      X   C   X   C   C   X  158.040,
-gallons or greater)                                 158.157
-Contractor's equipment       C   P   P   P   P   X  158.002,
-storage facility                                    158.040
-Food processing residual     X   X   X   X   X   X  158.002
-storage
-Self-service storage                                158.002,
-facility                     X   P   P   X   X   X  158.158,
-                                                    158.083
-Self-service storage                                158.002,
-facility in a sustainable    X   P   P   C   X   X  158.083,
-community                                           158.158
-Storage of pelletized or     X   X   X   P   P   X  158.002,
-granular dried sewage sludge                        158.051
-Underground petroleum        X   X   X   P   P   X  158.002,
-products storage                                    158.040
-Warehouse or distribution    X   C   P   P   P   X  158.002
-facility
-Waste-Related                                  
-Garbage, offal, or dead      X   X   X   X   X   X   
-animal reduction
-                                                    158.002,
-Junkyard                     X   X   X   X   C   X  158.040,
-                                                    158.155
-Oil-contaminated soil        X   X   X   C   P   X  158.002,
-facility                                            158.040
-Solid waste acceptance
-facility, as defined in      X   X   X   C   P   X  50.01,
-Chapter 50 of the Carroll                           158.040
-County Code
-Miscellaneous                                  
-Business Park                X   X   P   X   X   X  158.002,
-                                                    158.159
-Business/Industrial Park     X   X   X   P   X   X  158.079
-Carpet and rug cleaning
-plant, industrial laundry or X   X   X   P   P   X  158.040
-dry cleaning
-Commercial kennel            X   C   C   X   X   X  158.002
-Conveyor system              C   C   C   P   P   X  158.002,
-                                                    158.039
-Extractive operation, with a X   X   X   P   P   X  158.002,
-MRO designation                                     158.096
-Indoor growing of cannabis   X   X   X   P   P   X  158.002,
-                                                    158.059
-Industrial Park              X   X   X   P   X   X  158.002,
-                                                    158.156
-Laboratory (chemical,
-physical, or biological),    X   P   P   P   P   P  158.040
+Transportation/Utilities                                        
+Airfield                                           X  X  X  X  X  X  158.002
+Airport                                            X  X  X  C  P  X  158.002,
+                                                                     158.040
+Coal yard                                          X  X  X  X  P  X  158.040
+Commercial parking lot or garage                   P  P  P  X  X  X  158.002
+Electric generating power plant                    X  X  X  X  P  X  158.040
+                                                                     158.002,
+Energy storage device, front of the meter          P  P  P  P  P  P  158.040,
+                                                                     158.153.01
+Heliport                                           X  X  X  C  P  X  158.002,
+                                                                     158.040
+Solar energy generating systems – 5 megawatts or                   158.002,
+less                                               P  P  P  P  P  P  158.081,
+                                                                     158.153
+Solar energy generating systems – greater than 5                   158.002,
+megawatts                                          X  X  X  P  P  X  158.081,
+                                                                     158.153
+                                                                     On a lot of
+                                                                     5 acres or
+Towing service                                     X  X  C  P  P  X  less in
+                                                                     Industrial
+                                                                     Districts
+Truck or motor freight terminal                    X  X  X  C  P  X  158.040
+Utility equipment building, yard, above-ground     C  C  C  C  C  C  158.039
+station or substation, or telephone exchange
+Utility equipment, all others                      P  P  P  P  P  P  158.039
+Warehouse/Storage/Distribution                                  
+Above ground petroleum products storage (2,000                       158.002,
+gallons or greater)                                X  C  X  C  C  X  158.040,
+                                                                     158.157
+Contractor's equipment storage facility            C  P  P  P  P  X  158.002,
+                                                                     158.040
+Food processing residual storage                   X  X  X  X  X  X  158.002
+                                                                     158.002,
+Self-service storage facility                      X  P  P  X  X  X  158.158,
+                                                                     158.083
+Self-service storage facility in a sustainable                       158.002,
+community                                          X  P  P  C  X  X  158.083,
+                                                                     158.158
+Storage of pelletized or granular dried sewage     X  X  X  P  P  X  158.002,
+sludge                                                               158.051
+Underground petroleum products storage             X  X  X  P  P  X  158.002,
+                                                                     158.040
+Warehouse or distribution facility                 X  C  P  P  P  X  158.002
+Waste-Related                                                   
+Garbage, offal, or dead animal reduction           X  X  X  X  X  X   
+                                                                     158.002,
+Junkyard                                           X  X  X  X  C  X  158.040,
+                                                                     158.155
+Oil-contaminated soil facility                     X  X  X  C  P  X  158.002,
+                                                                     158.040
+Solid waste acceptance facility, as defined in     X  X  X  C  P  X  50.01,
+Chapter 50 of the Carroll County Code                                158.040
+Miscellaneous                                                   
+Business Park                                      X  X  P  X  X  X  158.002,
+                                                                     158.159
+Business/Industrial Park                           X  X  X  P  X  X  158.079
+Carpet and rug cleaning plant, industrial laundry  X  X  X  P  P  X  158.040
+or dry cleaning
+Commercial kennel                                  X  C  C  X  X  X  158.002
+Conveyor system                                    C  C  C  P  P  X  158.002,
+                                                                     158.039
+Extractive operation, with a MRO designation       X  X  X  P  P  X  158.002,
+                                                                     158.096
+Indoor growing of cannabis                         X  X  X  P  P  X  158.002,
+                                                                     158.059
+Industrial Park                                    X  X  X  P  X  X  158.002,
+                                                                     158.156
+Laboratory (chemical, physical, or biological),    X  P  P  P  P  P  158.040
 not including agricultural
-Planned Commercial Center    P   P   P   X   X   X  158.002,
-                                                    155.092
-Slaughterhouse               X   X   X   X   C   X  158.040
-Use-off-the premises signs   P   P   P   P   P   X  158.115
+Planned Commercial Center                          P  P  P  X  X  X  158.002,
+                                                                     155.092
+Slaughterhouse                                     X  X  X  X  C  X  158.040
+Use-off-the premises signs                         P  P  P  P  P  X  158.115
 Public
-Public facility              P   P   P   P   P   P  158.049
+Public facility                                    P  P  P  P  P  P  158.049
  
 (Ord. 2019-06, passed 12-12-2019; Ord. 2021-07, passed 6-3-2021; Ord. 2022-03,
 passed 12-16-2021; Ord. 2022-20, passed 11-3-2022; Ord. 2022-18, passed 11-22-
 2022; Ord. 2023-10, passed 11-2-2023; Ord. 2024-04, passed 5-16-2024; Ord.
-2024-07, passed 6-27-2024; Ord. 2024-10, passed 12-5-2024)
+2024-07, passed 6-27-2024; Ord. 2024-10, passed 12-5-2024; Ord. 2025-06, passed
+10-9-2025)
 § 158.083 COMMERCIAL AND INDUSTRIAL DISTRICTS: REGULATION OF ACCESSORY USES.
    (A)   Accessory uses in the Commercial Districts. Accessory uses in the
 commercial districts shall be as follows:
@@ -31082,22 +30963,23 @@ distance requirement pursuant to §
 effective, and efficient utilization of solar energy generating systems while
 protecting the rights, health, safety and welfare of adjoining land uses and
 landowners through appropriate zoning and land use controls.
-   (B)   Roof-mounted systems.
-      (1)   Accessory use roof mounted systems are permitted in all zoning
-districts except the Historic District.
-      (2)   Physical size of the system shall be limited to the size of the
+   (B)   Roof-mounted accessory use systems. Solar energy generating systems
+shall be an accessory use when the facility generates electricity in an amount
+that does not exceed 200% of the electric consumption of the principal use.
+Facilities functioning as an accessory use shall be permitted in all zoning
+districts, except the Historic District subject to the following requirements:
+      (1)   Physical size of the system shall be limited to the size of the
 roof, or roofs of structures.
-      (3)   Canopies over parking areas are considered roof-mounted systems.
-      (4)   No portion of the system shall extend more than 25 feet from the
-highest portion of the principal structure to which it is attached. The total
-height of the structure, including all portions of the solar facility, shall
-comply with the height regulations as set forth in the bulk requirements for
-the underlying zoning district in which the use is proposed.
-   (C)   Ground mounted accessory use. Solar energy generating systems shall be
-an accessory use when the facility generates electricity in an amount that does
-not exceed 200% of the electric consumption of the principal use. Facilities
-functioning as an accessory use shall be permitted in all zoning districts,
-except the Historic District subject to the following requirements:
+      (2)   Canopies over parking areas are considered roof-mounted systems.
+      (3)   The total height of the structure, including all portions of the
+solar facility, shall comply with the height regulations as set forth in the
+bulk requirements for the principal use and district in which the use is
+situated.
+   (C)   Ground-mounted accessory use systems. Solar energy generating systems
+shall be an accessory use when the facility generates electricity in an amount
+that does not exceed 200% of the electric consumption of the principal use.
+Facilities functioning as an accessory use shall be permitted in all zoning
+districts, except the Historic District subject to the following requirements:
       (1)   Size limits.
          (a)   Residential and Conservation Districts. Ground-mounted systems
 shall be no larger than the square footage of solar panel surface area allowed
@@ -31111,9 +30993,11 @@ Districts. A variance may be requested under §
 District; documentation from a North American Board of Certified Energy
 Practitioners (NABCEP) certified professional solar panel installer must be
 included to demonstrate that the total size allowable is inadequate to power
-100% of the home and accessory structures based on the previous 12 months of
-usage and identify the additional size and number of panels needed to meet 100%
-of the expected energy use. Wall-mounted systems are not permitted.
+200% of the home and accessory structures based on the previous 12 months of
+usage and identify the additional size and number of panels needed to meet 200%
+of the expected energy use. Wall-mounted systems are not permitted. No variance
+to the size requirements of the ground-mounted system on the lots of three
+acres or less in the Conservation District is allowed.
  
 Lot Size                            Solar Panel Surface Area Maximum Square
                                     Footage for Ground-Mounted Systems
@@ -31146,25 +31030,20 @@ district in which the use is situated. There shall be no variance to the front
 yard setback.
       (3)   Height limits. Ground-mounted systems may not exceed a total height
 of ten feet above existing grade.
-   (D)   Ground mounted principal use. Solar energy generating systems shall be
-a permitted use "P" or conditional use "C" in accordance with the following
-table. The letter "X" indicates that the use is prohibited:
+   (D)   Principal use systems. Solar energy generating systems shall be a
+permitted use "P" or prohibited "X" in accordance with the following table:
  
-Solar                                      R-
-Energy     Agriculture Cons. R-     R-     10,00 R-    C- C- C -3 I- 1 I- 2 EC
-Generating                   40,000 20,000 0     7,500 1  2
+Solar
+Energy     Agriculture Cons. R-     R-     R-     R-    C-1 C- 2 C-3 I-1 I-2 EC
+Generating                   40,000 20,000 10,000 7,500
 Systems
-Ground-    X           X     X      X      X     X     X  C  P    P    P    C
-mounted
-*Solar energy generating facilities mounted on parking canopies are considered
-roof-mounted systems.
+5
+megawatts  P           P     P      P      P      P     P   P    P   P   P   P
+or less
+Greater
+than 5     P           X     X      X      X      X     X   X    X   P   P   X
+megawatts
  
-      (1)   Size limits.
-         (a)   C-2, C-3, I-1, and I-2 Districts. There shall be no size limits.
-         (b)   EC District. Ground-mounted systems shall be no more than 25
-acres or 50% of the site gross area, whichever is lesser.
-      (2)   Solar energy generating systems are prohibited in the Historic
-District.
    (E)   Solar energy generating systems, development process.
       (1)   Accessory use solar energy generating systems conforming to §
 158.153(B) or §
@@ -31179,28 +31058,37 @@ zoning district unless expressly permitted in the deed of easement.
 associated buildings and access roads, that cover more than 5,000 square feet
 of area shall be subject to
 Chapter 155, Development and Subdivision of Land, including §
-155.052 Site Plan Process.
+155.050 Site Plan Requirements.
       (4)   Any existing or proposed solar energy generating systems for which
 a development plan has been submitted and accepted for review prior to November
-1, 2024, shall not be subject to these provisions, but shall be subject to the
-requirements for solar energy generating systems regulations in effect at the
-time of the development plan submittal.
+1, 2024, and any future alterations or expansion shall not be subject to these
+provisions, but shall be subject to the requirements for solar energy
+generating systems regulations in effect at the time of the development plan
+submittal.
+      (5)   Projects proposed in overburdened or underserved communities as
+defined by § 1-701 of the State Environmental Article and identified by the
+Maryland Department of the Environment shall require the developer to hold at
+least two public meetings in the community where the solar energy generating
+system is to be constructed to collect community feedback and provide
+opportunities to address community feedback.
+      (6)   Solar energy generating systems greater than five megawatts are not
+permitted in Designated Growth Areas.
    (F)   Solar energy generating systems, site requirements for all zoning
-districts. Requirements do not apply to roof-mounted or accessory use, unless
-otherwise noted.
-      (1)   Setbacks.
-         (a)   Setbacks shall be a minimum of 400 feet from the proposed
-developments property boundaries including rights-of-way.
+districts. Requirements do not apply to roof-mounted unless otherwise noted.
+      (1)   Setbacks and distances.
+         (a)   Setbacks shall be a minimum of 100 feet from the proposed
+development’s property boundaries including rights-of-way.
          (b)   Setbacks are measured from property boundary to solar panels
 and/or structures associated with the solar facility. They do not apply to
 landscaping, fencing, wiring, or power lines.
-         (c)   The Planning Commission may reduce the required setback for any
-yard setback adjoining a non-residential use property boundary, provided that
-suitable supplemental landscaping is provided as determined by the Planning
-Commission. In no case is a setback permitted to be less than 100 feet.
+         (c)   Solar panels and/or structures associated with the solar
+facility shall not be located within 150 feet of the nearest wall of a
+residential building.
+         (d)   No variances to setback or distance requirements are permitted.
       (2)   Height Limits.
-         (a)   No portion of a ground mounted system shall exceed a total
-height of 15 feet above grade.
+         (a)   No portion of a ground-mounted system shall exceed a total
+height of 15 feet above grade. A variance may be approved by the Zoning
+Administrator when agricultural co-location or agrivoltaics are proposed.
       (3)   Location and appearance. Solar energy generating systems should
 minimize visual impact to adjoining properties and properties of historic and
 scenic significance.
@@ -31232,11 +31120,11 @@ generating systems.
          (a)   Glare must be mitigated away from adjoining properties and
 adjacent roads. All solar panels used shall utilize glare-mitigation
 technology.
-          (b)   A glare hazard analysis, certified by the installer prior to
+         (b)   A glare hazard analysis, certified by the installer prior to
 installation, is required to assess the impacts of glare, and if applicable, a
 plan to mitigate any glare hazard with additional screening shall be provided.
       (6)   Electrical Connections. Applies to all solar energy generating
-systems, including accessory uses and roof-mounted facilities.
+systems, including roof-mounted facilities.
          (a)   All electrical components and wiring must be Underwriter
 Laboratories certified, carry the UL trademark label, and meet current National
 Electrical Code requirements. All systems must meet all applicable construction
@@ -31250,74 +31138,108 @@ the conditional approval from the local utility must be provided to, or at the
 time of, permit application.
          (d)   A copy of the signed certificate of completion from the utility
 company shall be provided prior to occupancy permit issuance.
-         (e)   When batteries are included, they must be placed in a secure
-container or enclosure per manufacture's specifications and screened from view.
+         (e)   Energy storage devices associated with solar generating
+facilities are considered an accessory use to the solar generating facility and
+not subject to the energy storage device requirements in §
+158.153.01. Energy storage devices must be placed in a secure container or
+enclosure per manufacture's specifications and screened from view.
+         (f)   Developer shall provide notice to the Department of Fire and EMS
+of the proposed solar energy generating facility including a map of the
+generating station and the location of any solar collector or isolator switch.
       (7)   Vegetative Stabilization.
-         (a)   The removal of topsoil shall be minimized to the maximum extent
-practicable, and all topsoil shall remain on site unless otherwise addressed in
-the decommissioning plan.
+         (a)   Grading and the removal of topsoil shall be minimized to the
+maximum extent practicable, and all topsoil shall remain on site unless
+otherwise addressed in the decommissioning plan.
          (b)   Areas under and around the solar panels shall be planted in
 native grasses or in pollinator-friendly habitat or a combination thereof.
 Exceptions can be made if a plan is submitted for review and approval related
 to the agricultural co-use of the area.
          (c)   Ground cover, grass, and other non-buffer vegetation shall be
 maintained and not exceed a height of 36 inches at any time except as required
-for management of pollinator-friendly vegetation.
+for management of pollinator-friendly vegetation. Excessive mowing and other
+unnecessary landscaping shall be limited. The use of herbicide is not permitted
+except to control invasive species in compliance with the Department of
+Agriculture's weed control program.
          (d)   To the extent practicable, ground cover shall be established
 prior to installation of solar panels.
+         (e)   The operator or property owner shall enter into a surety
+agreement with the county to provide adequate guaranty to the county in the
+form of an irrevocable letter of credit, or other security approved by the
+county. The guaranty shall ensure the establishment of the plantings in an
+amount determined by the county.
+         (f)   Following inspection and verification of a 90% survival rate,
+50% of the planting surety may be released five years after installation. If a
+90% survival rate is not met, the operator or property owner shall address the
+affected areas, and no surety will be released at that time. Remaining surety
+will be held for an additional two years. Upon inspection and verification of a
+90% survival rate, the remaining surety may be released. If a 90% survival rate
+is not observed following seven years from installation, the county may
+continue to hold 50% of the original surety until reasonable mitigation is
+performed.
+         (g)   Vegetation shall be maintained with a 90% survival threshold for
+the life of the solar energy generating system through a maintenance agreement
+that includes a watering plan.
       (8)   Fencing.
          (a)   The solar energy generating system shall be enclosed by a
 security fence that is located between the landscaped buffer and the facility.
-         (b)   The fence shall be a minimum of six feet in height and suitable
-to prevent unauthorized access.
+Fence shall be no closer than 50 feet to any public road right-of-way.
+         (b)   The fence shall be a minimum of six feet and a maximum of 20
+feet in height and suitable to prevent unauthorized access.
          (c)   The fence shall be constructed to meet any applicable state and
 federal rule or standard addressing the physical security of the power system
 facilities.
          (d)   Fencing shall be constructed of quality materials and opaque in
-nature to assist in screening.
-         (e)   The use of barbed wire is prohibited.
+nature to assist in screening. If chain link fencing is proposed, it shall only
+be black or green vinyl mesh.
+         (e)   The use of barbed wire is prohibited, except surrounding
+substations or other critical infrastructure.
       (9)   Buffer.
-         (a)   A landscaped buffer shall be provided along all property lines
-or along the exterior of the solar array. The buffer must be designed to
-provide four-season visual screening of the solar facility and include multi-
-layered, staggered rows of major and minor trees and shrubs that are a mix of
-evergreen and deciduous vegetation, with an emphasis on species native to
-Carroll County.
+         (a)   A landscaped buffer specified in a landscape plan prepared by a
+qualified professional landscape architect or qualified landscape designer
+shall be provided along all property lines or along the exterior of the solar
+array. The buffer must be designed to provide four-season visual screening of
+the solar facility and include multi-layered, staggered rows of major and minor
+trees and shrubs that are a mix of evergreen and deciduous vegetation, with an
+emphasis on species native to Carroll County.
          (b)   Buffer shall conform with the plant quantity requirements of §
 157.20(C) of the Carroll County Maryland Code of Public Local Laws and
 Ordinances. Buffers shall be a minimum of 35 feet wide. Planting units (PU)
 shall be generated at one PU per ten linear feet of area to be screened.
-         (c)   Major trees shall be a minimum of six feet in height with a
-minimum caliper of two inches at the time of planting. Evergreen trees shall be
-a minimum of six feet in height at installation.
-         (d)   Minor trees shall be at least five feet in height and 1.5-inch
-caliper at installation. Shrubs shall be a minimum of three-gallon container
-stock and at least 24 inches in height at installation.
-         (e)   Buffer screening height shall be a minimum of 12 feet. Screening
-may be achieved with a berm, vegetation at the time of planting, or a
-combination of berm and vegetation.
-         (f)   If forest or hedgerows exists where screening or buffering is
+Existing buffers of wooded vegetation 50 feet or more in width located on the
+subject property may be determined to meet the required buffer.
+         (c)   Trees shall be a minimum of four feet in height at the time of
+planting.
+         (d)   Shrubs shall be a minimum of three-gallon container stock and at
+least 24 inches in height at installation.
+         (e)   If forest or hedgerows exists where screening or buffering is
 required, it must be preserved to the maximum extent practicable and
 supplemented with new plantings where necessary to provide the required
 screening or buffering.
-         (g)   Buffers shall be installed in accordance with best management
+         (f)   Buffers shall be installed in accordance with best management
 practices to ensure growth and plant materials survival.
-         (h)   All required buffers shall be preserved and maintained to
-effectively provide visual screening year-round. Dead or dying buffer materials
-shall be replaced with similar plant materials on an annual basis.
-         (i)   The operator or property owner shall enter into a surety
-agreement with the county to provide adequate guaranty to the county in the
-form of an irrevocable letter of credit, or other security approved by the
-county. The guaranty shall ensure the establishment of the plantings in an
-amount determined by the county. The surety shall remain in place for a period
-of five years following installation.
+         (g)   All required buffers shall be preserved and maintained to
+effectively provide visual screening year-round with full screening or
+buffering achieved within five years of planting. Dead or dying buffer
+materials shall be replaced with similar plant materials on an annual basis.
+         (h)   Following inspection and verification of a 90% survival rate,
+50% of the planting surety may be released five years after installation. If a
+90% survival rate is not met, the operator or property owner shall address the
+affected areas, and no surety will be released at that time. Remaining surety
+will be held for an additional two years. Upon inspection and verification of a
+90% survival rate, the remaining surety may be released. If a 90% survival rate
+is not observed following seven years from installation, the county may
+continue to hold 50% of the original surety until reasonable mitigation is
+performed.
+         (i)   Buffer landscape shall be maintained with a 90% survival
+threshold for the life of the solar energy generating system through a
+maintenance agreement that includes a watering plan.
       (10)   Lighting.
          (a)   Proposed exterior lighting shall be submitted on a lighting plan
 for review as part of the site plan process.
          (b)   Lighting of the solar energy generating system and associated
 structures shall be limited to the minimum necessary for safety and operational
 purposes and shall be reasonably shielded from abutting properties.
-          (c)   Lighting shall be activated by motion sensors and shall be
+         (c)   Lighting shall be activated by motion sensors and shall be
 shielded and downcast to prevent light from shining onto adjacent parcels,
 roads, or into the night sky.
       (11)   Access.
@@ -31348,19 +31270,20 @@ system and restore the site to its predeveloped condition at the expense of the
 property owner.
          (g)   Prior to issuance of a building permit, the operator or property
 owner shall provide a bond, surety, letter of credit, or other financial
-assurance in a form acceptable to the county to secure payment of 125% of the
-anticipated cost of removal of associated site improvements and restoration of
-the site to its predevelopment condition. The financial assurance will be
-reviewed and approved by the Zoning Administrator and shall remain in full
-force and effect while the solar energy generating system remains in place. The
-financial assurance shall be established with automatic renewals.
+assurance in a form acceptable to the county or the Public Service Commission
+to secure payment of 125% of the anticipated cost of removal of associated site
+improvements and restoration of the site to its predevelopment condition. The
+financial assurance will be reviewed and approved by the Zoning Administrator
+and shall remain in full force and effect while the solar energy generating
+system remains in place. The financial assurance shall be established with
+automatic renewals.
          (h)   The county may review the amount of security every five years
 and increase or decrease the amount required if the county determines, in its
 sole discretion, that the posted security no longer equals 125% of the
 decommissioning cost.
-          (i)   Notice must be provided to the County within 30 days of the
-sale or transfer of the lease or property, and a new financial guarantee must
-be provided by the new lease holder or property owner.
+         (i)   Notice must be provided to the County within 30 days of the sale
+or transfer of the lease or property, and a new financial guarantee must be
+provided by the new lease holder or property owner.
          (j)   Use of the surety may be used to repair unsafe or hazardous
 conditions or decommissioning.
          (k)   Restoration to predevelopment conditions shall be documented in
@@ -31385,11 +31308,193 @@ generating system during restoration of the site to predevelopment conditions
 is prohibited.
 (Ord. 2021-04, passed 5-15-2021; Ord. 2022-18, passed 11-22-2022; Ord. 2023-04,
 passed 7-13-2023; Ord. 2024-04, passed 5-16-2024; Ord. 2024-10, passed 12-5-
-2024) Penalty, see §
+2024; Ord. 2025-06, passed 10-9-2025) Penalty, see §
 158.999
-Editor’s note:
-   Temporary moratorium on solar energy generating systems, see §
-113.01.
+§ 158.153.01 ENERGY STORAGE DEVICES, FRONT OF THE METER.
+   (A)   Purpose. The intent of this section is to provide for the safe,
+effective, and efficient utilization of front of the meter energy storage
+devices while protecting the rights, health, safety and welfare of adjoining
+land uses and landowners through appropriate zoning and land use controls.
+   (B)   A front of the meter energy storage device may not be constructed
+without approval by the Maryland Public Service Commission in accordance with
+regulations adopted in the Maryland Public Utilities Article.
+   (C)   Fire protection.
+      (1)   Energy storage devices shall conform with most current version of
+National Fire Protection Association Standard 855.
+      (2)   Developer shall coordinate emergency response requirements with the
+Department of Fire and EMS. Any required specialized training or equipment
+shall be provided to the Department of Fire and EMS by the developer.
+   (D)   Front of the meter energy storage device site requirements for all
+zoning districts.
+      (1)   Setbacks and distances.
+         (a)   Setbacks shall be a minimum of 100 feet from the proposed
+development’s property boundaries including rights-of-way.
+         (b)   Setbacks are measured from property boundary to structures
+associated with the facility. They do not apply to landscaping, fencing,
+wiring, or power lines.
+         (c)   Distance requirements shall be as specified in §
+158.040.
+         (d)   No variances to setback or distance requirements are permitted.
+      (2)   Signs.
+         (a)   A sign, not to exceed four square feet, shall be clearly visible
+and posted at each entrance to the energy storage device site to identify the
+property owner, the system operator, and the 24-hour emergency contact phone
+number. Information on the sign shall be kept current.
+         (b)   All other signage required by the electrical, building, or fire
+code shall be posted as required.
+         (c)   No other signage shall be permitted without approval from the
+Zoning Administrator.
+         (d)   The site, fencing, or barriers shall not be used to display any
+advertisements.
+      (3)   Electrical connections.
+         (a)   All electrical components and wiring must be Underwriter
+Laboratories certified, carry the UL trademark label, and meet current National
+Electrical Code requirements. All systems must meet all applicable construction
+and electrical codes.
+         (b)   Reasonable efforts shall be made to place all utility
+connections from the energy storage devices underground. Electrical
+transformers for utility interconnections may be above ground if required by
+the utility provider.
+         (c)   Prior to interconnection with the local utility grid, a copy of
+the conditional approval from the local utility must be provided to, or at the
+time of, permit application.
+         (d)   A copy of the signed certificate of completion from the utility
+company shall be provided prior to occupancy permit issuance.
+      (4)   Vegetative stabilization.
+         (a)   Grading and the removal of topsoil shall be minimized to the
+maximum extent practicable, and all topsoil shall remain on site.
+         (b)   The use of herbicide is not permitted except to control invasive
+species in compliance with the Department of Agriculture's weed control
+program.
+      (5)   Fencing.
+         (a)   The energy storage device shall be enclosed by a security fence
+that is located between the landscaped buffer and the facility. Fence shall be
+no closer than 50 feet to any public road right-of-way.
+         (b)   The fence shall be a minimum of seven feet and a maximum of 20
+feet in height and suitable to prevent unauthorized access.
+         (c)   The fence shall be constructed to meet any applicable state and
+federal rule or standard addressing the physical security of the system
+facilities.
+         (d)   Fencing shall be constructed of quality materials and opaque in
+nature to assist in screening. If chain link fencing is proposed, it shall only
+be black or green vinyl mesh.
+         (e)   The use of barbed wire is prohibited, except surrounding
+substations or other critical infrastructure.
+      (6)   Buffer.
+         (a)   A landscaped buffer specified in a landscape plan prepared by a
+qualified professional landscape architect or qualified landscape designer
+shall be provided along all property lines or along the exterior of the energy
+storage device. The buffer must be designed to provide four-season visual
+screening of the facility and include multi-layered, staggered rows of major
+and minor trees and shrubs that are a mix of evergreen and deciduous
+vegetation, with an emphasis on species native to Carroll County.
+         (b)   Buffer shall conform with the plant quantity requirements of §
+157.20(C) of the Carroll County Maryland Code of Public Local Laws and
+Ordinances. Buffers shall be a minimum of 25 feet wide. Planting units (PU)
+shall be generated at one PU per ten linear feet of area to be screened.
+Existing buffers of wooded vegetation 50 feet or more in width located on the
+subject property may be determined to meet the required buffer.
+         (c)   Trees shall be a minimum of four feet in height at the time of
+planting.
+         (d)   Shrubs shall be a minimum of three-gallon container stock and at
+least 24 inches in height at installation.
+         (e)   If forest or hedgerows exists where screening or buffering is
+required, it must be preserved to the maximum extent practicable and
+supplemented with new plantings where necessary to provide the required
+screening or buffering.
+         (f)   Buffers shall be installed in accordance with best management
+practices to ensure growth and plant materials survival.
+         (g)   All required buffers shall be preserved and maintained to
+effectively provide visual screening year-round with full screening or
+buffering achieved within five years of planting. Dead or dying buffer
+materials shall be replaced with similar plant materials on an annual basis.
+         (h)   Following inspection and verification of a 90% survival rate,
+50% of the planting surety may be released five years after installation. If a
+90% survival rate is not met, the operator or property owner shall address the
+affected areas, and no surety will be released at that time. Remaining surety
+will be held for an additional two years. Upon inspection and verification of a
+90% survival rate, the remaining surety may be released. If a 90% survival rate
+is not observed following seven years from installation, the county may
+continue to hold 50% of the original surety until reasonable mitigation is
+performed.
+         (i)   Buffer landscape shall be maintained with a 90% survival
+threshold for the life of the solar energy generating system through a
+maintenance agreement that includes a watering plan.
+      (7)   Lighting.
+         (a)   Proposed exterior lighting shall be submitted on a lighting plan
+for review as part of the site plan process.
+         (b)   Lighting of the energy storage device and associated structures
+shall be limited to the minimum necessary for safety and operational purposes
+and shall be reasonably shielded from abutting properties.
+         (c)   Lighting shall be activated by motion sensors and shall be
+shielded and downcast to prevent light from shining onto adjacent parcels,
+roads, or into the night sky.
+      (8)   Access.
+         (a)   Fire apparatus access roads leading to all energy storage device
+sites shall have an improved surface with an unobstructed width of 18 feet.
+         (b)   No variances to the access road width are permitted.
+      (9)   Decommissioning.
+         (a)   A decommissioning plan shall be submitted for review and
+approval by the Zoning Administrator as part of the site plan approval process.
+         (b)   The operator or property owner shall provide written notice by
+certified mail to the Zoning Administrator whenever the energy storage device
+is out of active production for more than six months. Any facility that ceases
+to function for 12 months shall be considered abandoned.
+         (c)   The operator or property owner shall either recommence function
+and schedule a site inspection with the Zoning Administrator to verify that all
+use requirements are intact or shall initiate decommissioning of the site.
+         (d)   The operator or property owner shall notify the Zoning
+Administrator by certified mail of plans to decommission an energy storage
+device, including the proposed date of discontinued operation.
+         (e)   A decommissioned site shall be restored to its original
+predevelopment condition within 12 months of the proposed date of discontinued
+operation or abandonment.
+         (f)   Failure to comply with the requirements of this section shall
+authorize, but not require, the county to remove the energy storage device and
+restore the site to its predeveloped condition at the expense of the property
+owner.
+         (g)   Prior to issuance of a building permit, the operator or property
+owner shall provide a bond, surety, letter of credit, or other financial
+assurance in a form acceptable to the county or the Public Service Commission
+to secure payment of 125% of the anticipated cost of removal of associated site
+improvements and restoration of the site to its predevelopment condition. The
+financial assurance will be reviewed and approved by the Zoning Administrator
+and shall remain in full force and effect while the energy storage device
+remains in place. The financial assurance shall be established with automatic
+renewals.
+         (h)   The county may review the amount of security every five years
+and increase or decrease the amount required if the county determines, in its
+sole discretion, that the posted security no longer equals 125% of the
+decommissioning cost.
+         (i)   Notice must be provided to the county within 30 days of the sale
+or transfer of the lease or property, and a new financial guarantee must be
+provided by the new lease holder or property owner.
+         (j)   Use of the surety may be used to repair unsafe or hazardous
+conditions or decommissioning.
+         (k)   Restoration to predevelopment conditions shall be documented in
+the decommissioning plan and include:
+            1.   Removal of all above and below ground energy storage devices,
+buildings, cabling, electrical components, foundations, pilings, and any other
+associated facilities.
+            2.   Disposal of all solid and hazardous waste shall be in
+accordance with local, state, and federal waste disposal regulations.
+            3.   Removal of all concrete pads, graveled areas, fences, and
+access roads unless agreement is presented, in writing, in which the property
+owner agrees for these features to remain.
+            4.   Removal of substations, overhead poles, and/or aboveground
+electric lines located on-site or within a public right-of-way that are not
+usable by any other public or private utility.
+            5.   Replacement of topsoil removed or eroded.
+            6.   Stabilization of the site with approved vegetative cover
+unless the property owner requests in writing not to revegetate due to plans to
+produce agricultural crops.
+            7.   On-site burial of any material associated with the energy
+storage device during restoration of the site to predevelopment conditions is
+prohibited.
+      (10)   Material handling. All activities including the removal and
+disposal of materials shall be performed in accordance with local, state, and
+federal material handling and waste disposal regulations.
+(Ord. 2025-06, passed 10-9-2025)
 § 158.154 ADULT ENTERTAINMENT BUSINESS, MASSAGE ESTABLISHMENT, OR STRIPTEASE
 BUSINESS.
    (A)   An adult entertainment business, a massage establishment or a
@@ -37483,5 +37588,12 @@ Ord. No.  Date Passed Description
                       156.04
 2025-04   6-26-2025   35.60
 2025-05   9-4-2025    158.081
+                      158.002,
+                      158.040,
+                      158.071.01,
+2025-06   10-9-2025   158.075.01,
+                      158.082,
+                      158.153,
+                      158.153.01
                      
  
