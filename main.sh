@@ -14,8 +14,8 @@ function auto_git_push() {
             git add .  # Stage all changes (new, modified, deleted)
 
             # Create a commit message with a timestamp
-            timestamp=$(date +"%Y-%m-%d %H:%M:%S")
-            message="updated $timestamp"
+            timestamp=$(date -u +'%Y-%m-%d %H:%M:%S UTC')
+            message="🤖 Auto Update: $timestamp"
 
             echo "📝 Committing changes with message: \"$message\""
             if git commit -m "$message"; then
