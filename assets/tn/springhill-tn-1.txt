@@ -1,7 +1,7 @@
 SPRING HILL, TENNESSEE
 CODE OF ORDINANCES
-2024 S-5 supplement contains:
-Local legislation current through 23-21, passed 12-4-2023
+2025 S-6 supplement contains:
+Local legislation current through 25-14, passed 6-2-2025
  
 Published by:
 American Legal Publishing
@@ -222,6 +222,41 @@ LEGAL FORM APPROVED:                  Passed on First Reading:
 /s/ Patrick M. Carter         
 Patrick M. Carter, City Attorney                  Passed on Second Reading: 01-
 17-2023
+ORDINANCE 24-17
+AN ORDINANCE OF THE CITY OF SPRING HILL, TENNESSEE, ENACTING AND
+ADOPTING A SUPPLEMENT (S-5) TO THE CODE OF ORDINANCES
+   WHEREAS, the City of Spring Hill Board of Mayor and Aldermen adopted an
+updated Municipal Code completed by American Legal Publishing Corporation on
+September 18, 2017 and subsequently approved supplements 2018 S-1, 2019 S-2,
+2020 S-3, and 2022 S-4; and
+   WHEREAS, American Legal Publishing Corporation has completed the fifth
+supplement, 2024 S-5 Supplement to the Code of Ordinances of the City of Spring
+Hill, Tennessee, which supplement contains all Ordinances of a general and
+permanent nature enacted since the prior codification; and
+   WHEREAS, it is necessary to provide for the usual daily operation of the
+municipality and for the immediate preservation of the public peace, health,
+safety and general welfare of the municipality that this ordinance take effect
+upon approval.
+   NOW, THEREFORE, BE IT BE ORDAINED BY THE CITY OF SPRING HILL, TENNESSEE,
+BOARD OF MAYOR AND ALDERMEN:
+Section 1.   That 2024 S-5 Supplement to the Code of Ordinances of the City of
+Spring Hill, Tennessee as submitted by American Legal Publishing Corporation,
+and as attached hereto, be and the same is hereby adopted by reference as if
+set out in its entirety.
+Section 2.   Such Supplement shall be deemed published as of the day of its
+adoption and approval by the Board of Mayor and Aldermen and the City Recorder
+is hereby ordered to insert such supplement into the copy of the Code of
+Ordinances kept on file in the Office of the City Recorder.
+Passed and adopted by the Board of Mayor and Alderman of the City of Spring
+Hill on this 3rd day of September 2024.
+      /s/ Jim Hagaman
+         Jim Hagaman, Mayor
+ATTEST:
+ /s/ April Goad
+April Goad, City Recorder
+LEGAL FORM APPROVED:         Passed on First Reading: 08-19-2024
+/s/ Patrick M. Carter         
+Patrick M. Carter, City Attorney         Passed on Second Reading: 09-03-2024
 MAYOR-ALDERMANIC CHARTER
 Editor’s note:
    This compilation includes Tenn. Code Ann. Title 6, Ch. 1 through 17, which
@@ -3825,7 +3860,8 @@ of the fines and costs assessed against him or her.
 (2011 Code, § 6-203)
 Statutory reference:
    Related provisions, see Tenn. Code Ann. § 40-24-104
-TITLE 7: FIRE PROTECTION AND FIREWORKS
+TITLE 7: FIRE PROTECTION FIREWORKS, HAZARDOUS MATERIALS, LITHIUM BATTERIES
+AND FIRE WATCH
       Chapter
          
 1.   FIRE DISTRICT
@@ -3840,11 +3876,12 @@ TITLE 7: FIRE PROTECTION AND FIREWORKS
          
 6.   OPEN BURNING
          
-7.   FIREWORKS
+7.   EXPLOSIVES AND FIREWORKS
          
 8.   HAZARDOUS MATERIALS
          
-9.   LITHIUM-ION BATTERIES
+9.   LITHIUM-ION (Li-ion) BATTERY DISPOSAL, CLASSIFICATION, SALE, SECOND USE,
+STORAGE AND COMMERCIAL CHARGING
          
 10.   FIRE WATCH
 CHAPTER 1: FIRE DISTRICT
@@ -3858,7 +3895,7 @@ within the City of Spring Hill, Tennessee; and provides mutual aid and
 automatic aid to surrounding cities and counties through both pre-established
 and state-wide mutual aid agreements.
 (2011 Code, § 7-101) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 CHAPTER 2: FIRE CODE
 Section
    
@@ -3876,7 +3913,7 @@ Section
    
 7-207   Equal applicability
    
-7-208   Fire sprinklers
+7-208   Fire sprinkler systems/FDCs, fire alarms and monitoring
    
 7-209   Storage of explosives, flammable liquids and the like
    
@@ -3897,10 +3934,10 @@ the curtain before they reach the outside air.
    DEPARTMENT OF FIRE PREVENTION. In the International Fire Code, it refers to
 the Spring Hill Fire Department Fire Prevention Division.
    FIRE CODE OFFICIAL. In the International Fire Code adopted by the provisions
-of this Code, it shall be held to mean the Fire Chief, or duly authorized
+of this code, it shall be held to mean the Fire Chief, or duly authorized
 representative being Fire Marshal or Fire Inspector.
    JURISDICTION. In the International Fire Code adopted by the provisions of
-this Code, it shall be held to mean the City of Spring Hill, Tennessee.
+this code, it shall be held to mean the City of Spring Hill, Tennessee.
    OPEN BURNING. The burning of any matter under such conditions that products
 of combustion are emitted directly into the open atmosphere without passing
 directly through a stack.
@@ -3910,12 +3947,13 @@ agency, authority, commission, or department of the United States, or of the
 State of Tennessee; or any other legal entity, or their legal representative,
 agent, or assigns.
    RUBBISH. Any material thrown away as worthless trash.
-   WOOD WASTE. Any product which has not lost its basic character as wood, such
-as bark, sawdust, limbs, tree trunks, chips and chemically untreated lumber
-whose "disposition" by open burning is to solely get rid of or destroy.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+   WOOD WASTE. As any product which has not lost its basic character as wood,
+such as bark, sawdust, limbs, tree trunks, chips and chemically untreated
+lumber whose “disposition” by open burning is to solely get rid of or destroy.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-202 CODES ADOPTED.
-   (A)   (1)   Pursuant to authority granted by Tenn. Code Ann., §§ 6-54-501 et
+   (A)   (1)   Pursuant to authority granted by Tenn. Code Ann.,§§ 6-54-501 et
 seq., and for the purpose of regulating and governing the safe-guarding of life
 and property from fire or explosion, hazards arising from the storage, handling
 and use of hazardous substances, materials and devices, and from conditions
@@ -3923,27 +3961,27 @@ hazardous to life or property in the occupancy of buildings and premises, and
 providing for the issuance of permits in the City of Spring Hill, the 2018
 edition of the International Fire Code, including Appendix D, as prepared by
 the International Code Council, Inc., is hereby adopted by reference and
-included herein as part of this Code.
-      (2)   The International Fire Code is adopted and incorporated as fully as
-if set out at length herein and shall be controlling within the corporate
-limits.
-   (B)   Pursuant to authority granted by Tenn. Code Ann., § 6-54-502(c), the
-Fire Chief or his designee shall adopt administrative regulations to
+included herein as part of this code.
+      (2)   (a)   The International Fire Code is adopted and incorporated as
+fully as if set out at length herein and shall be controlling within the
+corporate limits.
+         (b)   Pursuant to authority granted by Tenn. Code Ann., § 6-54-502(c),
+the Fire Chief or his designee shall adopt administrative regulations to
 incorporate subsequent amendments to the International Fire Code, 2018 edition,
 as published by the International Code Council, including its referenced
-standards in chapter 80, incorporating National Fire Protection Association
+standards in Chapter 80, incorporating National Fire Protection Association
 amendments. These amendments shall be identified by the Fire Chief as to date
-and source and shall take effect as provided in Tennessee Code Annotated, § 6-
-54-502, unless disapproved by resolution of the board of mayor and alderman.
+and source and shall take effect as provided in Tenn. Code Ann., § 6-54-502,
+unless disapproved by resolution of the Board of Mayor and Alderman.
 Administrative regulations adopting amendments to the International Fire Code,
-2018 edition will be placed on file at the city recorder's office when they are
+2018 edition will be placed on file at the City Recorder's office when they are
 published by the Fire Chief, and at least 15 days before their effective date.
-   (C)   Pursuant to the requirement of Tenn. Code Ann. § 6-54-502, one copy of
+   (B)   Pursuant to the requirement of Tenn. Code Ann. § 6-54-502, one copy of
 these codes (and any amendments thereto) has been filed with the City Recorder
 and is available for public use and inspection.
 (2011 Code, § 7-201) (Ord. 09-14, passed 4- -2009; Ord. 09-25, passed 8- -2009;
 Ord. 13-19, passed 10-21-2013; Ord. 20-16, passed 9-21-2020; Ord. 23-02, passed
-3-6-2023; Ord. 23-18, passed 11-20-2023)
+3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 Editor’s note:
    Copies of the International Fire Code are available from the International
 Code Council, 900 Montclair Road, Birmingham, Alabama 35213-1206.
@@ -3957,12 +3995,12 @@ property within the city and any future area that shall be annexed to the city.
 If in the opinion of the Fire Chief or Fire Marshal or their designees, after
 appropriate inspection, any work inspected under the terms of this section
 fails to comply with the law, and notice is given, and any reinspection of the
-same work is required, then a fee as specified in appendix A, comprehensive
-fees and penalties, per reinspection may be assessed against and collected. No
-portion of the work shall continue without first paying the reinspection fee.
-Authority to enforce traffic and parking rules and regulations relating to fire
-safety shall be shared equally by the Fire Chief, Fire Marshal or their
-designees and the Police Chief.
+same work is required, then a fee as specified in
+Appendix A, comprehensive fees and penalties, per reinspection may be assessed
+against and collected. No portion of the work shall continue without first
+paying the reinspection fee. Authority to enforce traffic and parking rules and
+regulations relating to fire safety shall be shared equally by the Fire Chief,
+Fire Marshal or their designees and the Police Chief.
    (B)   The Fire Chief and the Fire Marshal shall be authorized to issue
 summons, citations, written notices and take any action required to remove or
 abate any situation that poses an immediate threat to life and/or property. The
@@ -3970,9 +4008,9 @@ Fire Inspector shall be authorized to issue written notices for code
 violations.
    (C)   The Fire Official shall be authorized to grant an extension of up to
 30 days' time limit to correct violations upon proof and receipt of written
-request not less than three days prior to expiration of notice.
+request not less than three days prior to expiration of notice
 (2011 Code, § 7-202) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-204 PENALTIES.
    (A)   Any person violating any of the provisions of this chapter, the
 International Fire Code or the conditions of any permit issued hereunder, shall
@@ -3986,7 +4024,8 @@ issued hereunder shall be void until such time as the violation is corrected.
 for in §
 7-209(A)(1), shall be served by the Fire Code Official with a summons stating
 the nature of the violation. Such violation shall be punishable by a civil
-penalty as specified in appendix A, comprehensive fees and penalties.
+penalty as specified in
+Appendix A, comprehensive fees and penalties.
    (D)   As to any violation deemed by the Fire Code Official to be emergency
 in nature, or which poses an immediate danger to life or property, involves
 fire, or necessitates removal or abatement by the Fire Department, the Fire
@@ -3994,57 +4033,63 @@ Code Official may issue a summons stating the nature of the violation and
 requiring the appearance of the violator in city court. In such cases, the Fire
 Code Official shall not be required to give any prior notice of violation or
 opportunity to correct the condition. Any such violation shall be punishable by
-a civil penalty as specified in appendix A, comprehensive fees, and penalties.
+a civil penalty as specified in
+Appendix A, comprehensive fees, and penalties.
    (E)   Any person violating any of the provisions of this chapter shall
 become liable to the city for expense, loss or damage occasioned by the city
 personnel or equipment by reason of such violation.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-205 MODIFICATIONS.
    (A)   When reference is made to the duties of certain officials named
 therein, including the Building Official, that the Building Inspector of the
 city shall be deemed the responsible official insofar as enforcing the
 provisions of said codes are concerned.
-   (B)   (1)   Wherever the fire prevention codes refer to the "Chief
-Appointing Authority" or the "Chief Administrator", it shall be deemed to be a
-reference to the "Board of Mayor and Aldermen" or the "City Administrator".
-      (2)   When the terms "Building Official" or "Director of Public Works"
+   (B)   (1)   Wherever the fire prevention codes refer to the “Chief
+Appointing Authority” or the “Chief Administrator”, it shall be deemed to be a
+reference to the “Board of Mayor and Aldermen” or the “City Administrator”.
+      (2)   When the terms “Building Official” or “Director of Public Works”
 are named, they shall, for the purposes of the Fire Prevention Code, mean the
-"Building Inspector" of the city or such person as the Board of Mayor and
+“Building Inspector” of the city or such person as the Board of Mayor and
 Aldermen has appointed and designated to administer and enforce the provisions
 of the Fire Prevention Code.
 (2011 Code, § 7-203) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-206 APPLICATION.
    The provisions of the codes adopted by reference in §
 7-202 shall govern the manner in which:
    (A)   The codes are applied to new construction and existing buildings;
    (B)   Occupancies and types of construction are classified for the purpose
-of determining minimum code requirements; and
+of determining minimum code requirements;
    (C)   The specific requirements of the codes may be modified to permit the
 use of alternate materials or methods of construction.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-207 EQUAL APPLICABILITY.
    The provisions of the Fire Code shall apply equally to both public and
 private property, and it shall apply to all structures and their occupancies,
 except as otherwise specified.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-208 FIRE SPRINKLERS.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-208 FIRE SPRINKLER SYSTEMS/FDCs, FIRE ALARMS AND MONITORING.
    (A)   An automatic fire sprinkler system shall be installed throughout all
 new or remodeled buildings under the following conditions:
-      (1)   All multi-family residential structures and all residential
-structures having a zero-foot building setback line; and
+      (1)   All multi-family residential structures (duplex and greater) and
+all residential structures having a zero-foot building setback line; and
       (2)   All commercial buildings of 10,000 gross square feet or larger.
    (B)   Automatic fire sprinkler systems required by this code shall be
-designed and installed in accordance with the scope and purpose of the latest
-edition of the following standards, as published by the National Fire
-Protection Association:
-      (1)   NFPA 13, Standard for the Installation of Sprinkler Systems; and
-      (2)   NFPA 13R, Standard for the Installation of Sprinkler Systems in
+designed, installed, tested, inspected, alarmed, and monitored in accordance
+with the scope and purpose of the latest edition of the following standards, as
+published by the National Fire Protection Association;
+      (1)   NFPA 13, Standard for the Installation of Sprinkler Systems;
+      (2)   NFPA 13D, Standard for the Installation of sprinkler Systems in
+One- and Two- Family Dwellings and Manufactured Homes; and
+      (3)   NFPA 13R, Standard for the Installation of Sprinkler Systems in
 Residential Occupancies up to and including four stories in height.
    (C)   In existing buildings which are substantially remodeled or
 rehabilitated, an automatic fire sprinkler system shall be required if the
 subsequent building meets any of the conditions for new buildings in subsection
-(A)(1) above of this structure. SUBSTANTIALLY REMODELED OR REHABILITATED means
+(B)(1) above of this structure. SUBSTANTIALLY REMODELED OR REHABILITATED means
 any structural alteration or restoration of a building for which cost, or value
 exceeds 50% of the current replacement cost of the particular building, or
 where more than 50% of the gross square footage has been structurally altered,
@@ -4057,10 +4102,10 @@ protectives in accordance with the International Building Code.
    (E)   Where automatic fire sprinkler systems are determined to increase the
 hazard to the property or occupants to be protected, other automatic fire
 extinguishing systems appropriate for the hazard shall be designed, installed,
-tested, inspected and maintained in accordance with the national fire
-protection standards.
+tested, inspected, alarmed, monitored, and maintained in accordance with the
+national fire protections standards.
    (F)   An automatic fire sprinkler system or automatic fire extinguishing
-system provided as a requirement of this Code, or otherwise installed shall be
+system provided as a requirement of this code, or otherwise installed shall be
 supervised in accordance with the Fire Code, Building Code and NFPA 101 Life
 Safety Code. Automatic fire sprinkler systems shall be equipped with an audible
 alarm located on the address side of the building exterior as approved by the
@@ -4085,7 +4130,8 @@ owner shall pay a meter and tap fee equivalent to the tap size and a
 corresponding system development charge based upon the tap size as provided in
 §
 18-108(A).
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-209 STORAGE OF EXPLOSIVES, FLAMMABLE LIQUIDS AND THE LIKE.
    (A)   Any limits referred to in the Fire Code, in which storage of explosive
 materials is prohibited, are hereby declared to be the fire limits as set out
@@ -4105,7 +4151,8 @@ as set out in §
 7-101 of this code of ordinances.
 (2011 Code, § 7-205) (Ord. 03-03, passed 2- -2003; Ord. 03-40, passed 1- -2004;
 Ord. 11-11, passed 10-17-2011; Ord. 19-32, passed 10-21-2019; Ord. 20-16,
-passed 9-21-2020; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+passed 9-21-2020; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023;
+Ord. 24-16, passed 9-3-2024)
 § 7-210 PETROLEUM DELIVERY VEHICLES.
    (A)   No person shall operate or park any petroleum delivery vehicle within
 any residential area at any time, except for the purpose of and while actually
@@ -4114,30 +4161,31 @@ engaged in the expeditious delivery of gasoline.
 over 200 gallons of gasoline, diesel fuel, kerosene, or any other combustible
 liquid fuels that can be offloaded for the purpose of retail sale.
 (2011 Code, § 7-206) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-211 VARIANCES.
    The Fire Chief and/or Fire Marshal may recommend to the Board of Mayor and
 Aldermen variances from the provisions of the Fire Code upon application in
 writing by any property owner or lessee, or the duly authorized agent of
 either, when there are practical difficulties in the way of carrying out the
-strict letter of the code; provided that, the spirit of the Code shall be
+strict letter of the code; provided that, the spirit of the code shall be
 observed, public safety secured and substantial justice done. The particulars
 of such variances when granted or allowed shall be contained in a resolution of
 the Board of Mayor and Aldermen.
 (2011 Code, § 7-207) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-212 VIOLATIONS.
    It shall be unlawful for any person to violate or fail to comply with any of
 the provisions of this chapter or the latest adopted version of the
 International Building Code, International Fire Code or NFPA Life Safety Code
 herein adopted by reference and modified.
 (2011 Code, § 7-208) (Ord. 04-05, passed 5- -2004; Ord. 23-02, passed 3-6-2023;
-Ord. 23-18, passed 11-20-2023)
+Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-213 FIRE INSPECTION REPORTING ONLINE.
    Fire protection system inspections and maintenance shall be submitted
 electronically and made accessible to the City of Spring Hill Fire Department
 Fire Marshal's Office via an online format.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 CHAPTER 3: FIRE DEPARTMENT
 Section
    
@@ -4173,7 +4221,7 @@ the City of Spring Hill. The Board of Mayor and Aldermen may reject any gift or
 contribution it deems not to be in the best interest of the City of Spring
 Hill.
 (2011 Code, § 7-301) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-302 OBJECTIVES.
    The Fire Department shall have as its objectives:
    (A)   To prevent uncontrolled fires from starting;
@@ -4190,12 +4238,12 @@ the city within adopted codes and ordinances;
    (I)   To protect the health and safety of the citizens from the
 transportation, storage, or manufacture of hazardous materials to the extent
 possible;
-   (J)   To work with the Water Department to ensure that adequate water
+   (J)   To work with the water department to insure that adequate water
 supplies for fire protection as available; and
    (K)   To provide public fire education materials and information to the
 citizens in order that they may protect themselves from harm.
 (2011 Code, § 7-302) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-303 ORGANIZATION, RULES AND REGULATIONS.
    The Chief of the Fire Department shall set up the organizational structure
 of the Department, make personnel assignments and promotions, and shall
@@ -4203,7 +4251,7 @@ formulate and enforce such standard operating guidelines, policies and/or
 procedures as shall be necessary for the orderly and efficient operation of the
 Fire Department.
 (2011 Code, § 7-303) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-304 RECORDS AND REPORTS.
    The Chief of the Fire Department shall keep adequate records of all fires,
 inspections, apparatus, equipment, personnel, and work of the Department. He or
@@ -4211,8 +4259,8 @@ she shall submit a written report on such matters to the Mayor and Board of
 Alderman once each month and, at the end of the year, a detailed annual report
 shall be made.
 (2011 Code, § 7-304) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
-§ 7-305 CHIEF RESPONSIBLE FOR TRAINING.
+2023; Ord. 24-16, passed 9-3-2024)
+§ 7-305 FIRE DEPARTMENT TRAINING.
    The Chief of the Fire Department shall be fully responsible for the training
 of the firefighters and for maintenance of all property and equipment of the
 Fire Department, under the direction and subject to the requirements of the
@@ -4221,7 +4269,7 @@ less than 40 hours of in-service firefighter training annually. Career
 firefighters shall be trained in accordance with the standards of the Tennessee
 Commission on Firefighter Standards and Education.
 (2011 Code, § 7-306) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-306 CHIEF TO BE ASSISTANT TO STATE OFFICER.
 Pursuant to requirements of Tenn. Code Ann. § 68-102-108, the Chief of the Fire
 Department is designated as an assistant to the state's Commissioner of
@@ -4229,7 +4277,7 @@ Commerce and Insurance and is subject to all the duties and obligations imposed
 by Tenn. Code Ann. Title 68, Ch. 102, and shall be subject to the directions of
 the Commissioner in the execution of the provisions thereof.
 (2011 Code, § 7-307) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-307 OFFICE OF THE FIRE MARSHAL.
    (A)   There is hereby established the office of Fire Marshal. The Fire
 Marshal shall be a classified employee within the personnel system of the city.
@@ -4257,12 +4305,12 @@ protection of life and property.
 stadiums, churches, theaters, bars, taverns, and restaurants.
       (8)   To enforce violations of the Fire Code.
       (9)   To make recommendation to the Fire Chief of the size of the
-subordinate workforce required to meet the needs of the office of Fire Marshal.
+subordinate workforce required to meet the needs of the Office of Fire Marshal.
       (10)   To have such other duties, not inconsistent herewith, as may be
 necessary to carrying out of the above duties and as may be assigned by the
 Board, the City Administrator, or the Fire Chief.
 (2011 Code, § 7-308) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 CHAPTER 4: FIRE SERVICE OUTSIDE CITY LIMITS
 Section
    
@@ -4276,11 +4324,11 @@ property;
    (B)   The Board of Mayor and Aldermen has developed policies for providing
 emergency services outside of the town limits or entered into a contract or
 mutual aid agreement pursuant to the authority of The Local Government
-Emergency Assistance Act of 1987, as amended, codified in (a) Tenn. Code Ann.,
-§§ 58-2-601 et seq.; (b) Tenn. Code Ann., §§ 12-9-101 et seq.; or (c) Tenn.
-Code Ann., § 6-54-601.
+Emergency Assistance Act of 1987, as amended, codified in Tenn. Code Ann., §§
+58-2-601 et seq., Tenn. Code Ann., §§ 12-9-101 et seq., or Tenn. Code Ann., §
+6-54-601.
 (2011 Code, § 7-401) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 CHAPTER 5: CONSTRUCTION FIRES
 Section
    
@@ -4299,13 +4347,13 @@ site of the building construction shall be responsible for the acts of all his
 or her employees, sub-contractors, vendors or others using his or her site to
 start fires.
 (2011 Code, § 7-502) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-502 PROHIBITION OF POLLUTANTS.
    No roofing, waste oil/fuel, plastics, oil-based products, paints,
 insulation, or any other construction material emitting airborne pollutants
 shall be burned within the city limits of Spring Hill.
 (2011 Code, § 7-503) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-503 ACTIONS BY THE CITY.
    (A)   Any fire on a construction site resulting in a fire response by the
 city's Fire Department, shall result in a service fee charged to the prime
@@ -4320,7 +4368,7 @@ withheld by the city's Building Inspector until the service fee is paid, and
 there will be no further building permits issued to the named contractor until
 the service fee is paid to the city.
 (2011 Code, § 7-504) (Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-
-2023)
+2023; Ord. 24-16, passed 9-3-2024)
 § 7-504 LAND CLEARING FIRES.
    The use of an air curtain destructor (also referred to as air curtain
 burner) to incinerate timber, stumps, and forest floor materials i.e., duff, is
@@ -4331,7 +4379,8 @@ the fire burning in the pit so that the products of combustion must be forced
 up through the curtain before they reach the outside air.
    (B)   Priming materials used to facilitate such burning as wood waste and
 vegetation are limited to #1 or #2 grade fuel oil.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 CHAPTER 6: OPEN BURNING
 Section
    
@@ -4362,7 +4411,7 @@ to demolish the structure.
 cold weather. Barrel must be at least 25 feet from a structure or combustible
 material.
 (Ord. 20-02, passed 5-18-2020; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed
-11-20-2023)
+11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-602 HOMEOWNERS.
    (A)   Homeowners are not allowed to burn combustible materials or
 residential waste or construction debris. Homeowners are permitted to have
@@ -4372,7 +4421,7 @@ food including BBQ and outdoor fireplaces.
    (B)   The burning of yard debris i.e., grass clippings and leaves is
 prohibited.
 (2011 Code, § 7-602) (Ord. 20-02, passed 5-18-2020; Ord. 23-02, passed 3-6-
-2023; Ord. 23-18, passed 11-20-2023)
+2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-603 SPECIAL CIRCUMSTANCES.
    (A)   Following a natural disaster, the Fire Marshal and/or Fire Chief may
 authorize open burning of class A wood materials, brush and yard debris in an
@@ -4380,30 +4429,32 @@ effort to mitigate materials in order to speed up recovery efforts.
    (B)   Property owners that own more than five acres of land that is zoned
 other than residential, may conduct property maintenance burns twice annually
 by permit; between October 1 and May 30 and during daylight hours of sunrise to
-sunset. Property owners will adhere to the following items.
-   (C)   The property owner will acknowledge in the burn permit application
+sunset. Property owners will adhere to the following items;
+      (1)   The property owner will acknowledge in the burn permit application
 that the property owner assumes full responsibility and liability for any
-damages incurred by their open burning.
-   (D)   Brush pile is a minimum of 500 feet from a residential neighborhood,
-unless approval is granted by the Fire Marshal or Fire Chief for a reduced
-distance.
-   (E)   The brush pile is a minimum of 200 feet from any forest, tree line, or
-combustible structure.
-   (F)   The brush pile contains only brush, limbs, or wood items that were
+damages incurred by their open burning;:
+      (2)   Brush pile is a minimum of 500 feet from a residential
+neighborhood, unless approval is granted by the Fire Marshal or Fire Chief for
+a reduced distance;
+      (3)   Brush pile is a minimum of 500 feet from a residential
+neighborhood, unless approval is granted by the Fire Marshal or Fire Chief for
+a reduced distance;
+      (4)   The brush pile contains only brush, limbs, or wood items that were
 collected on the identified property and not trucked in or transferred from
 another location.
-   (G)   There will be no property maintenance burns when winds exceed ten
+      (5)   There will be no property maintenance burns when winds exceed ten
 miles per hour.
-   (H)   Property owners will abide by any and all published State of
-Tennessee, county-wide or city declared burn bans.
-   (I)   Property owners (or designated person) must remain on site with
+      (6)   Property owners will abide by any and all published State of
+Tennessee, county- wide or city declared burn bans.
+      (7)   Property owners (or designated person) must remain on site with
 adequate fire extinguishing equipment until the fire is extinguished and no
 longer smoldering.
-   (J)   Property owners may request Fire Department stand-by assistance during
-a property maintenance burns at the designated rate as listed in the City of
-Spring Hill Fee Schedule.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-CHAPTER 7: FIREWORKS
+      (8)   Property owners may request fire department stand-by assistance
+during a property maintenance burns at the designated rate as listed in the
+City of Spring Hill fee schedule.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+CHAPTER 7: EXPLOSIVES AND FIREWORKS
 Section
    
 7-701   Definitions
@@ -4468,12 +4519,12 @@ barter, exchange, gift, or offer and each such transaction made by any person,
 whether as principal, proprietor, salesperson, agent, association, co-
 partnership, or one or more individuals.
       STATE FIRE MARSHAL PERMIT. The appropriate fireworks permit issued by the
-Tennessee Fire Marshal under the authority of Tenn. Code Ann. § 68-104-101 et
+Tennessee Fire Marshal under the authority of Tenn. Code Ann. §§ 68-104-101 et
 seq.
    (B)   Singular works and plural words used in the singular include the
 plural and the plural as singular.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-702 USE RESTRICTIONS AND PERMITS.
    (A)   (1)   The Fire Marshal of the city may adopt reasonable rules and
 regulations for the granting of permits for supervised displays of fireworks by
@@ -4486,7 +4537,7 @@ and so located, discharged or fired as, in the opinion of the Fire Marshal,
 shall not be hazardous to property or endanger any person or persons.
       (2)   It is unlawful for any person to sell or to offer for sale in the
 City of Spring Hill any item of fireworks without first having secured a State
-Fire Marshal Permit and a permit issued by the City of Spring Hill.
+Fire Marshal permit and a permit issued by the City of Spring Hill.
       (3)   A person applying for a retail fireworks sales site permit with the
 City of Spring Hill must disclose the location where the applicant will conduct
 the business of selling fireworks and the dates for which the right to do
@@ -4494,7 +4545,7 @@ business is desired.
       (4)   A permit (to sell fireworks to the general public) is valid only
 from June 25 through July 5 or December 23 through January 1.
       (5)   The permit fee for fireworks retail permit is listed in the City of
-Spring Hill Fee Schedule. In addition to the permit fee, the applicant must pay
+Spring Hill fee schedule. In addition to the permit fee, the applicant must pay
 cleanup deposit per location, which shall be refunded after the fireworks
 permit has expired or used by the city to clean up the retail fireworks site if
 needed.
@@ -4513,7 +4564,7 @@ persons under his/her supervision.
 property owner (or authorized agent of the property owner) that provides
 written permission by the property owner to the applicant to conduct retail
 fireworks sales on the property.
-      (7)   A copy of the State Fire Marshal Permit. (For a state permit to be
+      (7)   A copy of the State Fire Marshal permit. (For a state permit to be
 obtained by a retailer, the Mayor must sign on behalf of the retailer an
 application for fireworks permit that the state requires before a state permit
 is issued to a retailer for a specific location).
@@ -4536,7 +4587,7 @@ evidence that general liability insurance has been obtained by applicant naming
 the City of Spring Hill as additional insured for at least $2,000,000 for each
 occurrence, whether in respect to bodily injury liability or property damage
 liability or bodily injury liability and property damage liability combined.
-      (14)   After the application has been submitted and approved, a city
+      (14)   After the application has been submitted and approved, a City
 Codes Inspector and/or Fire Inspector shall inspect the site for compliance
 with applicable codes and ordinances.
       (15)   After such privilege shall have been granted, sales, possession,
@@ -4548,7 +4599,7 @@ limits of the City of Spring Hill.
       (18)   Religious ceremonial events must be requested in writing to the
 Fire Marshal at least seven days prior to the event. The Fire Marshal and/or
 Fire Chief will review the location of the requested display, the fireworks to
-be used, and duration of the event. A written acknowledgment will be provided
+be used, and duration of the event. A written acknowledgement will be provided
 to the requesting entity along with any changes, modifications, or
 recommendations for public safety.
    (B)   The discharge of fireworks within the city limits shall be limited to
@@ -4556,16 +4607,17 @@ the following days and times:
       (1)   July 4, beginning at 12:00 noon and ending at 11:00 p.m.;
       (2)   Christmas Eve, beginning at 12:00 noon and ending at 11:00 p.m.;
       (3)   New Year's Eve, beginning at 12:00 noon and ending at 12:30 a.m.;
-      (4)   Religious ceremonial events ending at 11:00 p.m., following review
+      (4)   Religious ceremonial events ending at 11:00 p.m.; following review
 and approval of location from the Fire Chief or Fire Marshal.
 (2011 Code, § 7-701) (Ord. 02-25, passed 10- -2002; Ord. 18-28A, passed 12-17-
-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16,
+passed 9-3-2024)
 § 7-703 PERMIT REVOCATION.
-   (A)   The city Codes Director and/or Fire Marshal may revoke any permit upon
+   (A)   The City Codes Director and/or Fire Marshal may revoke any permit upon
 failure of retailer to correct any of the following conditions within 24 hours
 after written notice is issued to the retailer.
       (1)   When the permit or the permittee's operator violates any lawful
-rule, regulation, or order of the city Codes Director and/or Fire Marshal.
+rule, regulation, or order of the City Codes Director and/or Fire Marshal.
       (2)   When the permittee's application contains any false or untrue
 statements.
       (3)   When the permittee fails to timely file any report or pay any tax,
@@ -4573,15 +4625,15 @@ fee, fine or charge.
       (4)   When the permittee or the permittee's operator violates any
 fireworks ordinance or statute.
    (B)   When any activities of the permittee constitute a distinct hazard to
-life or property, the city Codes Director or Fire Marshal, or both, may revoke
+life or property, the City Codes Director or Fire Marshal, or both, may revoke
 the permit immediately.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-704 PERMISSIBLE FIREWORKS.
    (A)   It is unlawful for any individual, firm, partnership or corporation to
 sell or use within the City of Spring Hill, except as provided in this chapter,
 any "fireworks" as defined in §
-7-701(A)(1), other than the following:
+7-701 (A)(1), other than the following:
       (1)   Those items classified by the U.S. Department of Transportation as
 1.4G Consumer Fireworks; or
       (2)   Those items that comply with the construction, chemical
@@ -4591,7 +4643,7 @@ regulations.
    (B)   Any display using 1.3G display fireworks must be under the control of
 a licensed pyrotechnics technician.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-705 STORING AND STRUCTURES.
    No person may smoke within a structure where fireworks are sold. No person
 selling fireworks may permit the presence of lighted cigars, cigarettes, or
@@ -4605,7 +4657,7 @@ structure. Fireworks must be stored at least ten feet away from windows and
 other areas where the sun may shine through. Fireworks are not permitted to be
 stored in residential districts, except for personal use.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-706 LIMITATIONS ON STRUCTURES.
    Tents meeting the current adopted International Building Code and the Life
 Safety Code (NFPA 101) may be used for the retail sale of fireworks. Ground
@@ -4618,7 +4670,7 @@ may not be stored in a permanent building unless the building has a sprinkler
 system and is constructed of non-flammable materials such as metal or concrete
 block.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-707 LOCATION OF FIREWORKS RETAIL SALES SITE.
    (A)   Fireworks retail sales site are not permitted in any residential
 district as defined in the City of Spring Hill Unified Development Code.
@@ -4655,7 +4707,8 @@ each period as described in §
 the first year (2019), priority shall be given to the retailer that obtains a
 retail sales permit for the previous summer season at the same location.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)18; Ord. 23-02, passed 3-6-2023;
+Ord. 23-18, passed 11-20-2023)
 § 7-708 PARKING REQUIREMENT FOR RETAIL FIREWORKS SALES SITE.
    The site for a fireworks retailer shall be improved to provide at least 12
 graveled or paved parking places for off street and right-of-way customer
@@ -4663,7 +4716,7 @@ parking compliant with ADA requirements. In addition, the retail fireworks site
 must provide for an on-site turnaround area so that backing of vehicles onto
 the street will not be necessary.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-709 UNLAWFUL SALE TO CERTAIN CHILDREN AND OTHER PERSONS; UNLAWFUL USE OF
 FIREWORKS.
    It is unlawful to offer for sale or to sell any fireworks to children under
@@ -4683,7 +4736,7 @@ is unlawful to ignite fireworks during a burning ban declared by either the
 State of Tennessee or the City of Spring Hill Fire Department, except for
 public (and/or group) displays for which permits have been granted.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-710 EXCLUSIONS.
    Nothing in this chapter prohibits:
    (A)   The transport of any kind of fireworks through the corporate limits of
@@ -4703,7 +4756,7 @@ enforcement or similar governmental agencies.
 approved by the City Fire Marshal.
    (G)   Displays of fireworks as provided for in this chapter.
 (Ord. 18-28A, passed 12-17-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18,
-passed 11-20-2023)
+passed 11-20-2023; Ord. 24-16, passed 9-3-2024)
 § 7-711 AUTHORIZATION TO SEIZE.
    The Fire Marshal, Fire Chief or their designee shall seize, take, remove or
 cause to be removed at the expense of the owner all stocks of fireworks or
@@ -4715,13 +4768,15 @@ remedies are exhausted. The confiscation and forfeiture of fireworks being an
 action "in rem", the city shall have the right to appeal an order restoring the
 seized fireworks to the person from whom seized.
 (2011 Code, § 7-702) (Ord. 02-25, passed 10- -2002; Ord. 18-28A, passed 12-17-
-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16,
+passed 9-3-2024)
 § 7-712 VIOLATION AND PENALTY.
    Any person, firm, partnership or corporation violating the provisions of
 this chapter shall be guilty of a misdemeanor and, upon conviction thereof,
 shall be punished by a fine not exceeding $150.
 (2011 Code, § 7-703) (Ord. 02-25, passed 10- -2002; Ord. 18-28A, passed 12-17-
-2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+2018; Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16,
+passed 9-3-2024)
 CHAPTER 8: HAZARDOUS MATERIALS
 Section
    
@@ -4756,14 +4811,15 @@ restricted
 ABOVE GROUND TANKS IS PERMITTED.
    (A)   Storage of flammable and combustible liquids above ground in
 commercial and industrial areas is limited to one tank of 1,000 gallons or less
-capacity per five acres or portion thereof. Usage is limited to onsite
-nonretail needs. In addition, each processor in the area may have one tank not
-to exceed 500 gallons for storage of fuel for equipment used to mow grass push
+capacity per five acres or portion thereof. Usage is limited to onsite non-
+retail needs. In addition, each processor in the area may have one tank not to
+exceed 500 gallons for storage of fuel for equipment used to mow grass push
 snow, etc., or one tank per product per five acres.
    (B)   Storage of flammable and combustible liquids in outside above ground
 tanks allowed under above provisions, shall meet requirements of the Fire Code
 and NFPA 30-1993.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-802 BULK STORAGE OF PETROLEUM PRODUCTS RESTRICTED; BUILDING, BUSINESSES
 RESTRICTED.
    (A)   It is unlawful for any person to establish, erect, construct, or
@@ -4772,7 +4828,8 @@ manufactured or physically distributed or handled, except in the commercial and
 industrial areas of the city.
    (B)   Bulk storage of petroleum products allowed under above provisions,
 shall meet requirements of the Fire Code and NFPA 30-1993.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-803 BULK STORAGE OF LIQUEFIED PETROLEUM GASES RESTRICTED; BUILDING,
 BUSINESSES RESTRICTED.
    (A)   It is unlawful for any person to establish, erect, construct, or
@@ -4781,7 +4838,8 @@ to be manufactured or physically distributed or handled, except in the
 commercial and industrial areas of the city.
    (B)   Bulk storage of liquefied petroleum gases allowed under above
 provisions, shall meet requirements of the Fire Code and NFPA 58 and 59-1992.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-804 BULK STORAGE OF LIQUEFIED NATURAL GAS RESTRICTED; BUILDING, BUSINESSES
 RESTRICTED.
    (A)   It is unlawful for any person to establish, erect, construct or
@@ -4790,7 +4848,8 @@ to be manufactured or physically distributed or handled, except in the
 commercial and industrial areas of the city.
    (B)   Bulk storage of liquefied petroleum gases allowed under above
 provisions, shall meet requirements of the Fire Code and NFPA 59A-1990.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-805 COMPRESSION, STORAGE AND DISPENSING OF COMPRESSED NATURAL GAS
 RESTRICTED; BUILDING, BUSINESSES RESTRICTED.
    (A)   It is unlawful for any person to establish, erect, construct or
@@ -4800,17 +4859,19 @@ distributed or handled, except in the commercial and industrial areas of the
 city.
    (B)   Compression, storage and dispensing of compressed natural gases
 allowed under above provisions, shall meet requirements of the Fire Code, NFPA
-52-1992 and regulations of the public service commission.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+52-1992 and regulations of the Public Service Commission.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-806 TRANSPORTATION OF EXPLOSIVES AND BLASTING AGENTS.
    No person shall operate or park any vehicle carrying explosives and blasting
 agents within the corporate limits of Spring Hill at any time except while
 traveling on an established hazardous material route and for the purpose of and
 while engaged in the expeditious delivery of explosives and blasting agents.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-807 MANUFACTURE AND STORAGE OF EXPLOSIVES AND BLASTING AGENTS.
    (A)   Nothing in this chapter shall be construed as applying to:
-      (1)   The armed forces of the United States or the state militia;
+      (1)   The armed forces of the United States or the State militia;
       (2)   Explosives in forms prescribed by the official United States
 Pharmacopoeia;
       (3)   The sale, possession or use of fireworks;
@@ -4828,7 +4889,7 @@ intended for blasting, not otherwise classified as an explosive, in which none
 of the ingredients is classified as explosives, provided that the finished
 product as mixed and packaged for use or shipment cannot be detonated by means
 of a No. 8 test blasting cap when unconfined. Materials or mixtures classified
-as nitrocarbonitrates by the department of transportation regulations shall be
+as nitrocarbonitrates by the Department of Transportation regulations shall be
 included in this definition.
       EXPLOSIVE. A chemical compound or mechanical mixture that is commonly
 used or intended for the purpose of producing an explosion, that contains any
@@ -4858,24 +4919,26 @@ Hill not authorized by a permit issued by the Fire Marshal.
       (3)   The manufacture and storage of explosives and blasting agents under
 the above provisions shall meet requirements of the Fire Code and NFPA 495-
 1992.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-808 ROUTES FOR VEHICLES TRANSPORTING HAZARDOUS MATERIALS.
    Routes for vehicles transporting hazardous materials shall be as established
-by the Fire Chief, Police Chief and the public works director. Hazardous
-Materials Routes will be the State Roads or City Arterial Roads as outlined on
-City GIS mapping.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+by the fire chief, police chief and the public works director. Hazardous
+materials routes will be the state roads or city arterial roads as outlined on
+city GIS mapping.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-809 TRANSPORTATION OF HAZARDOUS MATERIALS.
    No person shall operate or park any vehicle carrying hazardous materials
-within the corporate limits of Spring Hill at any time except while traveling
-on an established route and for the purpose of and while actual engaged in the
+within the corporate limits of the city at any time except while traveling on
+an established route and for the purpose of and while actual engaged in the
 expeditious delivery of hazardous materials. Vehicles transporting hazardous
 materials shall be prohibited within the limits of the Fire District, except to
 make expeditious deliveries within the Fire District. The date, time of day,
 quantity of materials, and method of delivery shall be subject to regulation
 and permitted by the Fire Marshal. Businesses located within the city may have
 vehicle parking sites designated, subject to review and approval by the Fire
-Marshal. This chapter shall apply to materials not otherwise covered in this
+Marshal. This article shall apply to materials not otherwise covered in this
 code which are highly flammable, or which may react to cause fires or
 explosives, or by their presence create or augment a fire or explosion hazard,
 or which because of toxicity, flammability or liability to explosion render
@@ -4888,16 +4951,17 @@ toxic, radioactive, oxidizing, unstable or reactive, hyperbolic or pyrophoric
 materials. Also, any substance or mixture of substance which is an irritant, a
 strong sensitizer, or which generates pressure through exposure to heat,
 decomposition or other means.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-810 HAZARDOUS SUBSTANCE; RECOVERY COSTS.
    (A)   As used in this section, the following terms shall be defined as
 follows:
-      COSTS. Those necessary and reasonable costs incurred by the city in
-connection with investigating, mitigating, minimizing, removing or abating
-discharges of hazardous substances including, but not limited to the following:
-actual labor cost of city personnel or its authorized agents; costs of
-equipment operation and rental; and cost of expendable items including, but not
-limited to, firefighting foam, chemical extinguishing agents, absorbent
+      COSTS. Costs means those necessary and reasonable costs incurred by the
+city in connection with investigating, mitigating, minimizing, removing or
+abating discharges of hazardous substances including, but not limited to the
+following: actual labor cost of city personnel or its authorized agents; costs
+of equipment operation and rental; and cost of expendable items including, but
+not limited to, firefighting foam, chemical extinguishing agents, absorbent
 material, sand, recovery drums, acid suits, acid gloves, goggles and protective
 clothing.
       DISCHARGE. Any intentional or unintentional action or omission resulting
@@ -4910,8 +4974,8 @@ an unreasonable and imminent risk to the life, health, safety or welfare of
 persons or property within the City of Spring Hill, and shall include, but not
 be limited to, those hazardous substances listed in the "N.F.P.A. Guide on
 Hazardous Materials", or the E.P.A.'s list of extremely hazardous substances.
-      (4)   Person means one or more individuals, partnerships, corporations,
-joint ventures, associations or any other entities or any combination thereof.
+      (4)   One or more individuals, partnerships, corporations, joint
+ventures, associations or any other entities or any combination thereof.
    (B)   (1)   The Fire Department is hereby authorized to take such steps as
 necessary to clean up, remove or abate the effects of any hazardous substances
 discharged upon or into public or private property or facilities located within
@@ -4944,7 +5008,8 @@ comprehensive fees and penalties, for each month that the bill for such costs
 remains unpaid.
       (3)   The remedy provided for in this section shall be supplemental to
 and in addition to all other available remedies at law and equity.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-811 STORAGE, DISPENSING, USE AND HANDLING OF HAZARDOUS MATERIALS,
 RESTRICTED.
    (A)   It is unlawful for any person to establish, erect, construct, or
@@ -4965,8 +5030,10 @@ governmental regulations.
    (E)   The Fire Department shall be immediately notified when an unauthorized
 discharge of hazardous materials is discovered. The Fire Department shall
 notify the other responsible agencies.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-CHAPTER 9: LITHIUM-ION BATTERIES
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+CHAPTER 9: LITHIUM-ION (Li-ion) BATTERY DISPOSAL, CLASSIFICATION, SALE, SECOND
+USE, STORAGE AND COMMERCIAL CHARGING
 Section
    
 7-901   Disposal, bulk storage, re-manufacturing, and resale of second-use
@@ -4976,16 +5043,18 @@ lithium ion batteries
    
 7-903   Sale of second-use lithium-ion batteries
    
-7-904   Commercial storage requirements for the storing or collecting of bulk
+7-904   Assembly or reconditioning
+   
+7-905   Commercial storage requirements for the storing or collecting of bulk
 lithium-ion batteries
    
-7-905   Limited indoor storage of lithium-ion batteries
+7-906   Limited indoor storage of lithium-ion batteries
    
-7-906   Indoor storage areas not meeting "limited" storage requirements
+7-907   Indoor storage areas not meeting "limited" storage requirements
    
-7-907   Outside storage areas
+7-908   Outside storage areas
    
-7-908   Powered micro mobility devices
+7-909   Powered micro mobility devices
 § 7-901 DISPOSAL, BULK STORAGE, RE-MANUFACTURING, AND RESALE OF SECOND-USE
 LITHIUM ION BATTERIES.
    For purposes of this chapter, the following terms have the following
@@ -4995,8 +5064,9 @@ generated by lithium ions embedded in a carbon graphite or nickel metal-oxide
 substrate placed in a high-viscosity carbonate mixture or gelled polymer
 electrolyte.
    SECOND-USE LITHIUM-ION BATTERY. A lithium-ion battery that has been
-assembled or reconditioned using cells removed from used batteries.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+assembled or  reconditioned using cells removed from used batteries.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-902 LITHIUM-ION BATTERIES, ARE CONSIDERED A HAZARDOUS MATERIAL.
    Per the EPA and are subject to DOT's Hazardous Materials Regulations (HMR;
 49 CFR Parts 171-180) and should not be disposed of in standard household
@@ -5005,21 +5075,27 @@ trash.
 household hazardous waste collection point.
    (B)   Consumers should tape terminal ends and place batteries in separate
 plastic bags prior to disposal.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-903 SALE OF SECOND-USE LITHIUM-ION BATTERIES.
-   (A)   No person shall distribute, sell or offer for sale a second-use
+   (A)   No person shall distribute, sell or offer for a sale a second-use
 lithium-ion battery.
    (B)   Penalty. A person who violates subsection (A) of this section or any
 rule promulgated thereunder is liable for a civil penalty as follows:
-      (1)   For the first violation, a civil penalty of $200;
+      (1)   For the first violation, a civil penalty of $200; and
       (2)   For each subsequent violation issued for the same offense within
 two years of the date of a first violation, a civil penalty of not more than
-$1,000; and
-      (3)   Each failure to comply with subsection (A) of this section with
+$1,000.
+      (3)   Each failure to comply with subdivision (A) of this section with
 respect to each separate second-use lithium-ion battery constitutes a separate
 violation.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-904 COMMERCIAL STORAGE REQUIREMENTS FOR THE STORING OR COLLECTING OF BULK
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-904 ASSEMBLY OR RECONDITIONING.
+   It shall be unlawful to assemble or recondition a lithium-ion battery using
+cells removed from used storage batteries.
+(Ord. 24-16, passed 9-3-2024)
+§ 7-905 COMMERCIAL STORAGE REQUIREMENTS FOR THE STORING OR COLLECTING OF BULK
 LITHIUM-ION BATTERIES.
    Exceptions:
    (A)   Batteries installed in the equipment, devices, or vehicles they are
@@ -5034,66 +5110,70 @@ battery manufacturing process prior to completion of final quality control
 checks.
    (E)   Temporary storage of batteries during the vehicle manufacturing or
 repair process.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-905 LIMITED INDOOR STORAGE OF LITHIUM-ION BATTERIES.
-   Shall not exceed 15 cubic feet (approximately two 55-gallon drums). A fire
-safety plan shall be created by the owner/operator of the storage facility,
-reviewed, and approved by the Fire Marshal's Office, and disseminated to staff
-working at the facility. Containers must be:
-   (A)   Open-top and noncombustible or approved for battery collection.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-906 LIMITED INDOOR STORAGE OF LITHIUM-ION BATTERIES.
+   Shall not exceed 15 cubic feet (approx. two 55-gallon drums). A fire safety
+plan shall be created by the owner/operator of the storage facility, reviewed,
+and approved by the Fire Marshal’s office, and disseminated to staff working at
+the facility. Containers must be:
+   (A)   Open-top and non-combustible or approved for battery collection.
    (B)   Each container and groups of containers may not exceed seven and one-
 half cubic feet.
-   (C)   Second container or groups of containers must be separated by not less
+   (C)   Second container or groups of containers must be seperated by not less
 than three feet of open space, or ten feet of space that contains combustible
 materials.
    (D)   Must be located not less than five feet from exits or exit access
 doors.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-906 INDOOR STORAGE AREAS NOT MEETING "LIMITED" STORAGE REQUIREMENTS.
-   (A)   Are identified as spaces with indoor storage with more than 15 cubic
-feet of lithium batteries:
-      (1)   Must secure a permit and have a fire safety plan created, reviewed,
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-907 INDOOR STORAGE AREAS NOT MEETING "LIMITED" STORAGE REQUIREMENTS.
+   Are identified as spaces with indoor storage with more than 15 cubic feet of
+lithium batteries:
+   (A)   must secure a permit and have a fire safety plan created, reviewed,
 and approved by the Fire Marshal's Office and disseminate plan to staff working
 at the facility; and
-      (2)   Must authorize and conduct a technical opinion report to evaluate
+   (B)   Must authorize and conduct a technical opinion report to evaluate
 level of hazard and protection measures.
-   (B)   Indoor storage areas not meeting "limited" storage requirements shall
+   (C)   Indoor storage areas not meeting "limited" storage requirements shall
 have a minimum two-hour fire rated barrier or horizontal assembly separating
 battery storage areas. Exceptions:
-      (1)   Prefabricated portable structure building with two-hour rated fire
+      (1)   Prefabricated portable structure building with 2 hour rated fire
 resistance rated enclosure.
       (2)   If battery storage is limited to new batteries in packaging that
 has been demonstrated to and approved by Fire Code Official as sufficient to
 isolate a fire in packaging.
-      (3)   Must be protected with an automatic sprinkler system or approved
+   (D)   Must be protected with an automatic sprinkler system or approved
 alternative suppression system.
-      (4)   Must be protected with fire detection system using air aspirating
+   (E)   Must be protected with fire detection system using air aspirating
 smoke detection, radiant energy-sensing fire detection or both.
-      (5)   Explosion control plan, if applicable, and in accordance with
+   (F)   Explosion control plan, if applicable, and in accordance with
 technical report.
-      (6)   If batteries are stored at no more than 30% state of charge,
-"reduced requirements" apply:
-         (a)   Technical report is not required;
-         (b)   Two-hour fire rated barriers not required;
-         (c)   Must have defined procedure to verify battery state of charge
+   (G)   If batteries are stored at no more than 30% state of charge, "reduced
+requirements" apply:
+      (1)   Technical report is not required;
+      (2)   Two-hour fire rated barriers not required;
+      (3)   Must have defined procedure to verify battery state of charge
 (SOC);
-         (d)   Fire sprinkler system is required; and
-         (e)   Fire detection system is required.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-907 OUTSIDE STORAGE AREAS.
+      (4)   Fire sprinkler system is required,;
+      (5)   Fire detection system is required.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-908 OUTSIDE STORAGE AREAS.
    (A)   Separated by not less than 20 feet to buildings, property lines and
-streets;
+streets.
    (B)   Separated by not less than three feet to buildings, property lines and
-streets if protected with free-standing two-hour fire-resistant rated assembly;
+streets if protected with free standing two hour fire-resistant rated assembly.
    (C)   Separated by not less than three feet to buildings, property lines and
-streets if in portable prefabricated building with two-hour fire-resistant
-rated enclosure;
-   (D)   fire detection system is required, including for portable
-prefabricated buildings; and
+streets if in portable prefabricted building with two hour fire-resistant rated
+enclosure.
+   (D)   Fire detection system is required, including for portable
+prefabricated buildings.
    (E)   Storage building shall not exceed ten feet in height, shall not exceed
 900 square feet, and shall be separated from other storage areas by ten feet.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
-§ 7-908 POWERED MICRO MOBILITY DEVICES.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
+§ 7-909 POWERED MICRO MOBILITY DEVICES.
    Include motorized bicycles, motorized scooters and other personal mobility
 powered devices using lithium batteries.
    (A)   This subsection prohibits use of residential dwellings as a business
@@ -5107,8 +5187,9 @@ is prohibited.
 charging unless separated by approved fire-resistant material.
       (3)   Fire alarm is required.
       (4)   Fire safety and evacuation plans are required to be reviewed and
-approved by the Fire Marshal's Office.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+approved by the Fire Marshal’s Office.
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 CHAPTER 10: FIRE WATCH
 Section
    
@@ -5140,37 +5221,39 @@ walk constantly.
    (J)   Must do daily reports consisting of person on duty, times of patrol,
 any occurring events, any deficiencies discovered and the corresponding
 resolution.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-1002 FIRE DEPARTMENT SPECIAL EVENT FIRE WATCH CONTRACT.
    Should the owner/agent wish to contract with Spring Hill Fire Department for
 special event fire watch coverage, notification must be made no sooner than
 seven days prior to the event. Owner/agent will be responsible for signing
 contract and issuing payment for services rendered as per the City of Spring
 Hill fee schedule.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 § 7-1003 FIRE WATCH FOR UNPROTECTED STRUCTURES.
-   If an occupied building's fire protection system is deemed to be out of
-service by the Fire Code Official, Fire Chief or designee the building owner/
-manager/responsible party will be required to perform a fire watch. Fire watch
-requires the following:
+   If an occupied building’s Fire Department protection system is deemed to be
+out of service by the Fire Code Official, Fire Chief or designee the building
+owner/manager/responsible party will be required to perform a fire watch. Fire
+watch requires the following:
    (A)   Must have at least one dedicated person dedicated to maintaining the
-fire watch until the system is placed back online Spring Hill, TN Code of
-Ordinances.
+fire watch until the system is placed back online.
    (B)   This person shall be familiar with the building and physically able to
 walk constantly.
    (C)   Be trained to identify the fire hazards.
    (D)   Know how to use a fire extinguisher.
    (E)   Know how to initiate the alarm system.
-   (F)   Know how to notify the Fire Department.
+   (F)   Know how to notify the Dire Department.
    (G)   Know the evacuation plan.
    (H)   Check all exits and ensure they are clear and assessable.
    (I)   Must document hourly checks with form provided by the Fire Department
 or available on the city website and submit the form via email, fax or hand
-deliver to the Fire Marshal's Office within eight hours of the end of the fire
+deliver to the Fire Marshal’s Office within eight hours of the end of the fire
 watch after the system is back in service.
    (J)   Failure to provide documentation of maintained fire watch shall result
 in issuance of a fine established in the City of Spring Hill fee schedule.
-(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023)
+(Ord. 23-02, passed 3-6-2023; Ord. 23-18, passed 11-20-2023; Ord. 24-16, passed
+9-3-2024)
 TITLE 8: ALCOHOLIC BEVERAGES
       Chapter
          
@@ -7208,30 +7291,92 @@ excessive noise in connection with loading or unloading any vehicle or dumpster
 or the opening and destruction of bales, boxes, crates and containers,
 particularly other than during the hours between 6:00 a.m. and 6:00 p.m.;
       (10)   Construction or repairing of buildings.
-         (a)   The erection (including excavation), construction, demolition,
-alteration or repair of any building other than between the hours of 7:00 a.m.
-to 6:00 p.m. on weekdays (7:00 a.m. to 8:00 p.m. June 1 - August 30), and from
-9:00 a.m. to 6:00 p.m. on Saturday. Work may also begin on Saturdays at 7:00
-a.m. if it would not result in any loud, disturbing or unnecessary noise that
-would otherwise violate this chapter. No work shall be performed on New Year’s,
-Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving and Christmas
-holidays that would result in any loud, disturbing or unnecessary noise that
-would otherwise violate this chapter, and shall be considered as a Sunday for
-purposes of this section. An exception to this section is work that is
-inherently creates no detectable noise from beyond the property boundary
-including loud voices or radios (for example, painting with brushes and rollers
-not attached to pumps, tile or carpet work where no use of hammers, saws or
-other noise producing equipment is utilized). This section shall not apply to
-homeowners and occupants performing exterior work at or on their principal
-place of residents after 7:00 a.m. and before 6:00 p.m.; and
-         (b)   If the City Administrator or his or her designee should
-determine that the interest of the public health and safety are served by the
-erection, demolition, alteration or repair of any building or the excavation of
-streets or highways, outside the hours stated above and, if he or she shall
-determine that any loss or inconvenience that might result is outweighed by the
-public’s interest in its safety and welfare, he or she may grant permission for
-a permit not to exceed 30 days for such work to be done outside the hours
-stated above, upon application being made.
+         (a)   Hours of construction regulated.
+            1.   Hours of construction restrictions apply to acts that
+constitute "construction activity," as defined in this section. These
+restrictions shall apply only to work that requires a permit issued by the city
+but shall apply to all work done on such projects.
+            2.   Construction activity is allowed Monday through Friday, 7:00
+a.m. to 6:00 p.m. (7:00 a.m. to 8:00 p.m., June 1 - August 30), and Saturday,
+9:00 a.m. to 6:00 p.m. No work shall be performed on New Year's Day, Memorial
+Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
+            3.   No construction activity that requires a permit shall occur on
+Sundays and city holidays.
+         (b)   Definition of construction activity. For purposes of determining
+the application of this section, construction activity includes, but is not
+limited to, the following:
+            1.   Grading and excavating.
+            2.   Pouring and placing concrete or the presence of concrete
+mixing trucks or pumping vehicles/equipment.
+            3.   Operating construction-related equipment and tools, including
+but not limited to, pile drivers, power shovels, pneumatic hammers, power
+hoists, compressors, and other construction-type devices.
+            4.   Continual use of portable generators where the electric
+utility will connect temporary power service.
+            5.   The presence of workers performing indoor or outdoor
+construction, site preparation, and landscaping work, including but not limited
+to, demolition, alteration, or repair of any building, structure, or property.
+This includes, but is not limited to, electrical, building, plumbing, HVAC,
+roofing, siding, painting, trimming, and landscaping work.
+            6.   The presence of construction workers more than 30 minutes
+before and after permitted hours of construction, providing radios, noisy
+equipment or loud conversations do not take place.
+         (c)   Exemptions. The following types of activities are exempt from
+the requirements of this section.
+            1.   Greenfield development and unoccupied buildings located
+greater than 1,000 feet from a residentially-occupied building, measured in the
+most direct means from a construction site and/or building to a residentially-
+occupied building.
+            2.   Activities occurring inside occupied buildings and structures
+if not audible at any immediately adjacent street.
+            3.   Construction commissioned or conducted by the city.
+            4.   Cleaning of streets (including street sweeping vehicles),
+trash, and maintaining/installing erosion control.
+            5.   Excavations or repairs of bridges, streets, or highways by or
+on behalf of the city, the county, or the state during the night, when the
+public welfare and convenience renders it impossible to perform such work
+during the day.
+            6.   Emptying and setting dumpsters and servicing portable toilets.
+            7.   Construction activity approved in advance by the City
+Administrator or designee. A contractor who needs to work outside normal
+construction hours must submit a request for approval in advance. If the City
+Administrator or designee should determine that the interest of the public
+health and safety are served, and if the City Administrator or designee should
+determine that any loss of inconvenience that might result is outweighed by the
+public's interest in its safety and welfare, he/she may grant permission for
+such construction activity to be done between the hours of 6:00 p.m. and 7:00
+a.m. upon application being made at the time the permit for the work is awarded
+or during the progress of the work with notification given to the Board of
+Mayor and Aldermen.
+            8.   Emergency activities of the city, the county, or the state and
+emergency activities of public utilities by private contractors, when they are
+seeking to provide electricity, water, or other public utility services, and
+the public health, safety, or welfare is involved.
+         (d)   Accountability for violations.
+            1.   In addition to those persons actively engaged in construction
+activity as defined above, when an infraction under this chapter occurs the
+owner, developer, and general contractor may any or all of them be deemed to be
+in violation of this chapter.
+            2.   Those causing work to be done may be issued citations for
+violations committed by their employees, subcontractors, or agents.
+            3.   In addition to property owners, developers, and general
+contractors, citations may be issued, where appropriate, to subcontractors,
+suppliers of concrete, suppliers of concrete pumper trucks/equipment, and
+supply and rental equipment delivery companies.
+         (e)   Violations.
+            1.   Any violation of this section shall be punishable by a fine
+and any applicable court costs.
+            2.   Violators may be cited to Spring Hill Municipal Court, or
+where necessary, to other courts of competent jurisdiction in Tennessee.
+            3.   In addition to all other remedies available, repeat violators
+may be issued stop work orders by the Building Official or designee until the
+violation or condition is abated, for a minimum of five business days.
+         (f)   Conflicts with other chapters and sections of the Municipal
+Code, including those sections of the Municipal Code which adopt the
+International Building Code, the International Property Maintenance Code, and
+all other similar code adoptions. If at any time these requirements conflict
+with other requirements elsewhere in the Spring Hill Municipal Code or the
+building codes adopted therein, the more restrictive requirements shall apply.
       (11)   Schools, courts, churches, hospitals. The creation of any
 excessive noise on any street adjacent to any school, institution of learning,
 church or court while the same are in use, or adjacent to any hospital, which
@@ -7494,7 +7639,8 @@ separate provision of this section shall be deemed independent of all other
 provisions herein, and it is further the intention of the Board of Mayor and
 Aldermen that any provisions thereof shall remain valid and enforceable.
 (2011 Code, § 11-402) (Ord. 08-16, passed 2- -2008; Ord. 13-10, passed 5-20-
-2013; Ord. 14-07, passed 4-21-2014; Ord. 16-13, passed 7-18-2016)
+2013; Ord. 14-07, passed 4-21-2014; Ord. 16-13, passed 7-18-2016; Ord. 24-05,
+passed 5-20-2024)
 CHAPTER 5: INTERFERENCE WITH PUBLIC OPERATIONS AND PERSONNEL
 Section
    
@@ -9431,7 +9577,8 @@ Section
    Land use within the city shall be governed by Ord. 18-21, titled “Unified
 Development Code”, and any amendments thereto.
 (Ord. 18-21, passed 8-20-2018; Ord. 19-09, passed 4-15-2019; Ord. 19-20, passed
-9-16-2019; Ord. 19-28, passed 9-16-2019)
+9-16-2019; Ord. 19-28, passed 9-16-2019; Ord. 24-01, passed 4-1-2024; Ord. 25-
+14, passed 6-2-2025)
 Editor’s note:
    Ord. 18-21, and any amendments thereto, are published as separate documents
 and are of record in the office of the City Recorder.
@@ -9737,9 +9884,10 @@ riders of such motor vehicles.
 under the age of 18 years who is riding a bicycle upon the public right-of-way.
 (2011 Code, § 15-122)
 § 15-123 TRUCK TRAFFIC BANNED ON CERTAIN STREETS.
-   Through truck traffic shall be prohibited on Old Kedron Road, McLemore
-Street and Hughes Street.
-(2011 Code, § 15-123)
+   Through truck traffic shall be prohibited on Doc Robertson Road, Maury Hill
+Street, Depot Street, Toone Prados Street, Spruce Street, Buckner Road,
+McLemore Street and Hughes Street.
+(2011 Code, § 15-123) (Ord. 24-06, passed 5-20-2024)
 § 15-124 VEHICLES TO BE COVERED.
    It shall be unlawful for any motor vehicle, and/or trailer, which transports
 litter, crushed stone, fill dirt and rock, soil, bulk sand, coal, phosphate,
@@ -11834,109 +11982,109 @@ based upon the size of water meter. Water meters installed to serve an
 irrigation system will be charged the same system development charge as
 provided for non-irrigation system meters.
 Water System Development Charges
-Average Investment/   $1,243
-ERU
-                      Proposed                           Tapping
-                      System    Phased       Phased      Fee       Meter Fees
-Meter Size Multiplier Developme Implementati Implementat (Adopted  (Adopted by
-                      nt Charge on - Jan. 1, ion - Jan.  by        Resolution
-                      Fee       2020         1, 2021     Resolutio 19-78)
-                                                         n 19-78)
+                 Proposed                                Tapping    Meter Fees
+                 System    Phased         Phased         Fee        (Adopted
+Meter Multiplier Developme Implementation Implementation (Adopted   by
+Size             nt Charge - July 1, 2025 - July 1, 2026 by         Resolution
+                 Fee                                     Resolution 19-78)
+                                                         19-78)
 Water System Development Charges
-Average Investment/   $1,243
+                      Proposed                                 Tapping    Meter Fees
+                      System     Phased         Phased         Fee        (Adopted
+Meter Size Multiplier Developme  Implementation Implementation (Adopted   by
+                      nt Charge  - July 1, 2025 - July 1, 2026 by         Resolution
+                      Fee                                      Resolution 19-78)
+                                                               19-78)
+Average Investment/   $1,554     $2,020         $2,230
 ERU
-                      Proposed                            Tapping    Meter Fees
-                      System     Phased       Phased      Fee        (Adopted
-Meter Size Multiplier Developme  Implementati Implementat (Adopted   by
-                      nt Charge  on - Jan. 1, ion - Jan.  by         Resolution
-                      Fee        2020         1, 2021     Resolutio  19-78)
-                                                          n 19-78)
-5/8" M25   1.00       $1,243     $710         $1,243      $1,300     $185.65
-3/4" M25   1.20       $1,491     $790         $1,491      $1,300     $185.65
-1" M170    1.60       $1,988     $1,021       $1,988      $1,600     $306.80
-1.5" M120  2.40       $2,982     $1,400       $2,982      $1,900     $489.32
-2" Turbo   3.20       $3,977     $1,782       $3,977      $2,100     $826.80
+5/8" M25   1.00       $1,554     $2,020         $2,230         $1,300     $185.65
+3/4" M25   1.20       $1,864.80  $2,424         $2,676         $1,300     $185.65
+1" M170    1.60       $2,486.40  $3,232         $3,568         $1,600     $306.80
+1.5" M120  2.40       $3,729.60  $4,848         $5,352         $1,900     $489.32
+2" Turbo   3.20       $4,972.80  $6,464         $7,136         $2,100     $826.80
 Series
-2"         3.20       $3,977     $1,782       $3,977      $2,100     $1,866.80
+2"         3.20       $4,972.80  $6,464         $7,136         $2,100     $1,866.80
 Compound
-3" Turbo   4.80       $5,965     $2,590       $5,965      $2,800     $962.00
+3" Turbo   4.80       $7,459.20  $9,696         $10,704        $2,800     $962.00
 Series
-3"         4.80       $5,965     $2,590       $5,965      $2,800     $2,210.00
+3"         4.80       $7,459.20  $9,696         $10,704        $2,800     $2,210.00
 Compound
-4" Turbo   6.40       $7,953     $3,446       $7,953      $3,700     $1,591.20
+4" Turbo   6.40       $9,945.60  $12,928        $14,272        $3,700     $1,591.20
 Series
-4"         6.40       $7,953     $3,446       $7,953      $3,700     $3,387.28
+4"         6.40       $9,945.60  $12,928        $14,272        $3,700     $3,387.28
 Compound
-6" Turbo   9.60       $11,930    $4,967       $11,930     $4,700     $3,744.00
+6" Turbo   9.60       $14,918.4  $19,392        $21,408        $4,700     $3,744.00
+Series                0
+6"         9.60       $14,918.4  $19,392        $21,408        $4,700     $4,758.00
+Compound              0
+8" Combo   12.80      $19,891.20 $25,856        $28,544        $8,700     $7,124.00
+10" Turbo  16.00      $24,864    $32,320        $35,680        $10,700    $7,500.00
 Series
-6"         9.60       $11,930    $4,967       $11,930     $4,700     $4,758.00
-Compound
-8" Combo   12.80      $15,907    $7,199       $15,907     $8,700     $7,124.00
-10" Turbo  16.00      $19,883    $9,900       $19,883     $10,700    $7,500.00
+12" Turbo  19.20      $29,836.80 $38,784        $42,816        $12,700    $8,200.00
 Series
-12" Turbo  19.20      $23,860    $11,900      $23,860     $12,700    $8,200.00
-Series
-                      Same as    Same as      Same as     Same as    Same as
-Irrigation            above      above based  above based above plus above
-System                based upon upon meter   upon meter  $25.00     based upon
-Connection            meter type type and     type and    Backflow   meter type
-                      and size   size         size        Permit     and size
-Note: For any development proposing to use a master meter to serve a private
-system, the water and sewer system development charges shall be assessed based
-on the number of units proposed and charged the average investment per
-equivalent residential unit amount noted in this section.
+                      Same as    Same as above  Same as above  Same as    Same as
+Irrigation            above      based upon     based upon     above plus above
+System                based upon meter type and meter type and $25.00     based upon
+Connection            meter type size           size           Backflow   meter type
+                      and size                                 Permit     and size
+Note: For any development proposing to use a master meter to serve a private system,
+the water and sewer system development charges shall be assessed based on the number
+of units proposed and charged the average investment per equivalent residential unit
+amount noted in this section.
+Note: The charges will increase annually starting on July 1, 2027 by the greater
+percentage of either 3% or the percent increase in the Consumer Price Index.
  
    (B)   These charges shall be in addition to any and all other fees and
 charges imposed by other ordinances or resolutions of the city.
 (2011 Code, § 18-108) (Ord. 07-29, passed 7- -2007; Ord. 07-48, passed 12- -
 2007; Ord. 12-20, passed 1-22-2013; Ord. 19-14, passed 5-20-2019; Ord. 19-32,
-passed 10-21-2019; Ord. 22-07, passed 5-2-2022)
+passed 10-21-2019; Ord. 22-07, passed 5-2-2022; Ord. 24-09, passed 6-3-2024)
 § 18-109 SEWER CONNECTION CHARGE.
    (A)   The following charges are hereby imposed for each connection made to
 the sanitary sewer system of the city:
 Sewer System Development Charges
-Average Investment/ERU $1,692
-                       Proposed    Phased         Phased
-Meter Size Multiplier  System      Implementation Implementation Sewer
-                       Development - Jan. 1, 2020 - Jan. 1, 2021 Connection Fee
-                       Charge Fee
+                      Proposed    Phased       Phased
+Meter Size Multiplier System      Implementati Implementati on Sewer
+                      Development on - July 1, - July 1, 2026  Connection Fee
+                      Charge Fee  2025
 Sewer System Development Charges
-Average Investment/ERU $1,692
-                       Proposed    Phased         Phased
-Meter Size Multiplier  System      Implementation Implementation Sewer
-                       Development - Jan. 1, 2020 - Jan. 1, 2021 Connection Fee
-                       Charge Fee
-5/8"       1.00        $1,692      $1,487         $1,692         4-inch Tap
-3/4"       1.20        $2,030      $1,487         $2,030         (Residential -
-1"         1.60        $2,707      $1,814         $2,707         Single-
-1.5"       2.40        $4,060      $2,720         $4,060         Family,
-2"         3.20        $5,413      $3,627         $5,413         Duplex,
-3"         4.80        $8,120      $5,440         $8,120         Townhome) =
-4"         6.40        $10,827     $7,254         $10,827        $1,100;
-6"         9.60        $16,240     $10,881        $16,240        Multifamily =
-8"         12.80       $21,653     $14,508        $21,653        $600/dwelling
-10"        16.00       $27,067     $18,135        $27,067        unit; 6-inch
-                                                                 Tap
-                                                                 (Residential
-                                                                 or Commercial)
-                                                                 = $1,300; 8-
-                                                                 inch Tap
-                                                                 (Residential
-12"        19.20       $32,480     $21,762        $32,480        or Commercial)
-                                                                 = $1,600; 10-
-                                                                 inch or larger
-                                                                 = To be
-                                                                 determined by
-                                                                 City Engineer
+                       Proposed    Phased       Phased
+Meter Size Multiplier  System      Implementati Implementati on Sewer
+                       Development on - July 1, - July 1, 2026  Connection Fee
+                       Charge Fee  2025
+Average Investment/ERU $2,115      $2,750       $3,035
+5/8"       1.00        $2,115      $2,750       $3,035          4-inch Tap
+3/4"       1.20        $2,538      $3,300       $3,642          (Residential -
+1"         1.60        $3,384      $4,400       $4,856          Single- Family,
+1.5"       2.40        $5,076      $6,600       $7,284          Duplex,
+2"         3.20        $6,768      $8,800       $9,712          Townhome) =
+3"         4.80        $10,152     $13,200      $14,568         $1,100;
+4"         6.40        $13,536     $17,600      $19,424         Multifamily =
+6"         9.60        $20,304     $26,400      $29,136         $600/dwelling
+8"         12.80       $27,072     $35,200      $38,848         unit; 6-inch
+10"        16.00       $33,840     $44,000      $48,560         Tap
+                                                                (Residential or
+                                                                Commercial) =
+                                                                $1,300; 8- inch
+                                                                Tap
+                                                                (Residential or
+12"        19.20       $40,608     $52,800      $58,272         Commercial) =
+                                                                $1,600; 10-inch
+                                                                or larger = To
+                                                                be determined
+                                                                by City
+                                                                Engineer
 
 Notes: (*) - Connection Charges as reflected in Title 18, Chapter 1, Sections
-18-108 and
-18-109 of Spring Hill Code of Ordinances; See also Resolution 02-17 (Reserve
-Fee increase from $0.28 to $0.35 times water tap fee)
-   - For any development proposing to use a master meter to serve a private
+18-108 and 18-109 of Spring Hill Code of Ordinances; See also Resolution 02-17
+(Reserve Fee increase from $0.28 to $0.35 times water tap fee)
+      - For any development proposing to use a master meter to serve a private
 system, the water and sewer system development charges shall be assessed based
 on the number of units proposed and charged the average investment per
 equivalent residential unit amount noted in this section.
+      - The charges will increase annually starting on July 1, 2027 by the
+greater percentage of either 3% or the percent increase in the Consumer Price
+Index.
  
    (B)   The fees imposed hereby shall be collected before the issuance of any
 permit for connection to the sewer system of the city. These fees shall be in
@@ -11952,7 +12100,8 @@ lines, rehabilitating existing lines, replacing existing lines with larger
 capacity lines or adding to the capacity of the wastewater treatment facilities
 of the city.
 (2011 Code, § 18-109) (Ord. 97-20, passed 12- -1997; Ord. 10-16, passed 6-21-
-2010; Ord. 19-33, passed 10-21-2019; Ord. 22-07, passed 5-2-2022)
+2010; Ord. 19-33, passed 10-21-2019; Ord. 22-07, passed 5-2-2022; Ord. 24-10,
+passed 6-3-2024)
 § 18-110 TERRITORIAL ASSESSMENT CHARGE.
    (A)   There is hereby imposed a territorial assessment charge of $750, for
 each connection to the water system maintained by the city when the property to
@@ -11987,7 +12136,7 @@ available for public inspection during regular office hours in the office of
 the Recorder.
 (2011 Code, § 18-111) (Ord. 10-02, passed 2-16-2010; Ord. 10-09, passed 4-19-
 2010; Ord. 11-07, passed 5-16-2011; Ord. 19-30, passed 9-16-2019; Ord. 19-31,
-passed 9-16-2019)
+passed 9-16-2019; Ord. 24-07, passed 6-3-2024; Ord. 24-08, passed 6-3-2024)
 Editor’s note:
    Water and sewer rates are available in the office of the Recorder. The
 current present or future reserve capacity fees are provided by Ord. 96-11
@@ -15047,10 +15196,16 @@ Editor’s note:
    The agreements are of record in the office of the City Recorder.
 TITLE 20: MISCELLANEOUS
       Chapter
-         1.   FAIR HOUSING REGULATIONS
-         2.   UNDERGROUND UTILITIES
-         3.   POLICE AND RATES FOR USE OF PUBLIC FACILITIES
-         4.   COMPLIANCE MANUAL
+         
+1.   FAIR HOUSING REGULATIONS
+         
+2.   UNDERGROUND UTILITIES
+         
+3.   POLICE AND RATES FOR USE OF PUBLIC FACILITIES
+         
+4.   COMPLIANCE MANUAL
+         
+5.   SHORT-TERM RENTALS
 CHAPTER 1: FAIR HOUSING REGULATIONS
 Section
    
@@ -15469,6 +15624,316 @@ Section
    The Compliance Manual, regarding Title VI of the Civil Rights Act of 1964,
 is hereby adopted by reference and incorporated herein as if set out in full.
 (Ord. 13-07, passed 3-18-2013)
+CHAPTER 5: SHORT-TERM RENTALS
+Section
+   
+20-501   Short-term rentals
+   
+20-502   Additional definitions
+   
+20-503   Permit required
+   
+20-504   Minimum standards for short-term rentals
+   
+20-505   Permit application; action on permit application; permit approval or
+appeals to City Commission
+   
+20-506   Permit approval, transferability, conditions, renewal, revocation
+   
+20-507   Short-term rental annual fee
+   
+20-508   Short-term rental agent
+   
+20-509   Failure to obtain permit; penalties
+   
+20-510   Invalidity of part; private agreements and covenants
+§ 20-501 SHORT-TERM RENTALS.
+   (A)   SHORT-TERM RENTAL. A residential dwelling unit that is rented wholly
+or partially for a fee for a period of less than 30 continuous days and does
+not include a hotel as defined in Tenn. Code Ann. § 68-14-302 or a bed and
+breakfast establishment or a bed and breakfast homestay as those terms are
+defined in Tenn. Code Ann. § 68-14-502.
+   (B)   As per the provisions of Tenn. Code Ann. §§ 13-7-601, et seq., certain
+limited provisions of this chapter may not be applicable or wholly applicable
+to "non-conforming short-term rental".
+(Ord. 25-02, passed 2-3-2025)
+§ 20-502 ADDITIONAL DEFINITIONS.
+      For the purpose of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   NON-CONFORMING. The use of a structure or land that at one time was an
+allowed use within a zoning district but because of subsequent amendments to
+the code is no longer allowed.
+   SHORT-TERM RENTAL AGENT. A natural person designated to be responsible for
+daily operations by the owner of a short-term residential rental or a short-
+term rental permit. Such person shall  be available for and responsive to
+contact at all times and someone who is customarily present at a location
+within Spring Hill, Tennessee, for purposes of transacting the short-term
+residential rental business. The short-term rental agent must meet all other
+requirements set forth by state law.
+   SHORT-TERM RENTAL OCCUPANTS. Guests, tourists, lessees, vacationers or any
+other person who, in exchange for compensation, occupy a short-term rental
+dwelling unit for lodging for a period of time not to exceed 30 consecutive
+days, but not in any event to be from any period of time less than overnight.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-503 PERMIT REQUIRED.
+   No person or entity shall operate a short-term rental, unless such use
+existed prior to the date of adoption of this chapter, unless a "short-term
+rental permit" or "permit" has been first obtained from the city. To obtain a
+permit, an otherwise eligible applicant must submit an application in
+compliance with the provisions of this chapter of the City Code on a form
+provided by the city. If approved, a legible copy of the permit shall be posted
+within the unit and shall include all the following information:
+   (A)   The name, address, telephone number and email address of the owner of
+the short-term rental unit and the short-term rental agent, if applicable;
+   (B)   The business license number;
+   (C)   Any applicable hotel-motel tax certifications and or numbers as are
+applicable pursuant to Tenn. Code Ann. § 67-4-1401, et seq.;
+   (D)   The maximum occupancy of the unit;
+   (E)   The maximum number of vehicles that may be parked at the unit; and
+   (F)   The short-term rental permit number; and
+   (G)   Emergency evacuation plan.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-504 MINIMUM STANDARDS FOR SHORT-TERM RENTALS.
+   Short-term rental shall meet the following minimum standards:
+   (A)   A short-term rental may include a primary dwelling unit and/or a
+secondary dwelling unit permitted for construction by the city, but cannot
+include uninhabitable structures such as garages, barns, or sheds.
+   (B)   A short-term rental must meet all applicable laws related to zoning,
+housing, building, health, electrical, gas, plumbing, and life safety.
+   (C)   There shall be no more than five bedrooms made available for rental.
+   (D)   A short-term rental must be inspected yearly through the application
+and renewal process and properly maintained in good operational condition.
+Inspections may increase in frequency if the property is the subject of one or
+more substantiated complaints.
+   (E)   Maximum occupancy. The maximum occupancy shall be determined by the
+total of:
+      (1)   Two persons per bedroom up to 140 square feet.
+      (2)   For bedrooms over 140 square feet, the occupant load will be
+determined by the area of the room divided by 70 square feet. For a fractional
+number, any fraction shall be rounded up to the nearest whole number.
+   (F)   The occupancy maximum shall be conspicuously posted at the primary
+entrance of the interior of the short-term residential rental.
+   (G)   The short-term rental owner shall not receive any compensation to
+allow occupancy for any agreed or contracted period of less than 24 hours.
+   (H)   The short-term rental permit holder shall be responsible for
+collecting and remitting all applicable hotel-motel and sales taxes and any
+other taxes required by state law and/or by the city.
+   (I)   Short-term rental units shall provide one off-street parking space per
+bedroom. Parking shall only be permitted in a garage, carport, driveway, or
+parking lot. On-street parking shall not apply to the required off-street
+parking.
+   (J)   All occupants shall abide by all generally applicable codes,
+ordinances and regulations, including without limitation, applicable noise
+restrictions and all applicable waste management provisions of the city.
+   (K)   The name and telephone number of the owner of the short-term rental or
+the short-term rental.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-505 PERMIT APPLICATION; ACTION ON PERMIT APPLICATION; PERMIT APPROVAL OR
+APPEALS TO CITY COMMISSION.
+   (A)   Permit applications. Applicants for a short-term rental permit shall
+submit a complete application to the City Development Services Department. The
+application shall be furnished under oath on a form specified by the city. This
+provision shall apply whether the application is for a short-term rental or a
+"non-conforming short-term rental", together with documenta1y evidence which
+supports classifying to (proposed) short-term rental as a "non-conforming
+short-term rental". Such application shall include:
+      (1)   The name, address, telephone number, email address, and consent of
+the owner of the short-term rental and the short-term rental agent, if
+applicable;
+      (2)   Documentation that applicant is the owner or the short-term rental
+agent;
+      (3)   Certification and/or registration number relating to the hotel-
+motel occupancy tax authorized by Tenn. Code Ann. §§ 67-4-1401, et seq.;
+      (4)   A detailed and dimensioned site plan, indicating the subject
+property, the building(s) on the site intended for the short-term rental(s),
+proposed parking, and guest access;
+      (5)   A floor plan indicating the building layout, dimensioning the
+bedrooms intended for the short-term rental(s), and an emergency evacuation
+plan;
+      (6)   A narrative with the following:
+         (a)   A description of the area available for short-term rental (i.e.,
+the entire property and house, a guest cottage, a portion of the house, etc.);
+         (b)   A description of the number of bedrooms proposed for rental,
+which shall not be more than five bedrooms under any circumstances;
+         (c)   The maximum number of guests to be accommodated at one time;
+         (d)   The days of operation (all year, just holidays, weekend/week
+nights, etc.);
+         (e)   How trash will be handled, and the method of informing occupants
+about method of disposal of trash;
+         (f)   A description of how cleaning and maintenance will be provided;
+and
+      (7)   Proof of insurance on the dwelling unit.
+   (B)   Application fee.
+      (1)   The permit application fee for owner-occupied short-term rental
+shall be $150.
+      (2)   The permit application fee for all other non-owner-occupied short-
+term rental shall be $300.
+   (C)   Application review.
+      (1)   The Development Director, or their designee, and Fire Marshal, or
+their designee, shall be notified to ensure compliance with state and local
+laws.
+      (2)   If the application meets all of the requirements set forth in this
+chapter, the city shall issue to the applicant a short-term rental permit
+within 30 days of receipt of the complete application.
+      (3)   The decision of the city as to whether to issue, deny or revoke any
+permit shall be final, reviewable only by application for Writ of Certiorari to
+the Chancery Court of Maury County, Tennessee, as provided in the Tennessee
+Code Annotated.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-506 PERMIT APPROVAL, TRANSFERABILITY, CONDITIONS, RENEWAL AND REVOCATION.
+   (A)   Permit approval. The permit application, if approved, shall be issued
+for a specific site location and/or address of the proposed short-term rental
+or non-conforming short-term rental provided in the application as set forth in
+this chapter of the city code. Upon receipt of a short-term rental permit
+number, the applicant must display said number on any materials or platforms
+used to advertise the short-term rental.
+   (B)   Grant or denial of application. Review of an application shall be
+conducted in accordance with due process principles and shall be granted unless
+the applicant fails to meet the conditions and requirements of this chapter, or
+otherwise fails to demonstrate compliance with generally applicable local
+ordinances, state or federal law. Any false statements or info1mation provided
+in the application are grounds for revocation, suspension and/or imposition of
+penalties, including denial of future applications. The decision of the city as
+to whether to issue, deny or revoke any permit shall be final, reviewable only
+by application for Writ of Certiorari to the Chancery Court of Maury County,
+Tennessee, as provided in the Tennessee Code Annotated.
+   (C)   Transferability. The permit is non-transferable to another site,
+property, location, agent, or owner. Non-conforming short-term rental permits
+are subject to additional transferability restrictions as provided in Tenn.
+Code Ann. § 13-7-603, as now enacted or hereafter amended.
+   (D)   Suspension of Permit. Prior to suspension of a previously issued
+permit, the Development Services Director, or their designee, shall issue a
+written warning to the property owner of record identifying the reasons for the
+written warning and terms or requirements for resolution. All issues listed in
+the written warning shall be addressed or resolved within 30 days of the
+issuance of the written warning. Following the issuance of at least one written
+warning or if the property has been deemed a public health and safety risk, the
+Development Services Director may suspend a previously issued permit in the
+event that a permittee is found to be non-compliant with any of the terms,
+conditions or requirements of this chapter, for a minimum period of 30 days and
+a maximum period of 90 days. Any permit which is suspended for administrative
+non-compliance with permitting requirements may be, upon payment of a $250
+reinstatement and inspection fee, be reinstated upon the permittee
+demonstrating, to the satisfaction of the city, that the non-compliance issue
+(s) which resulted in suspension of the permit have been resolved.
+   (E)   Revocation. The city reserves the right to revoke and/or modify any
+permit if any requirements and/or conditions of a permitted short-term rental
+are not met. The revocation process shall be as follows:
+      (1)   The Development Services Director shall revoke a permit once the
+property has three documented warnings, suspensions, and/or city code and/or
+other violations of any generally applicable state laws or breaches of the
+peace within any running 12-month period and/or based upon unreasonable
+interference with the use and enjoyment of adjoining or other nearby
+properties. Such violations shall be evidenced by a finding of guilt or fault
+or unreasonable interference with the use and enjoyment of nearby properties.
+      (2)   The owner or owner or agent may file an appeal of the revocation
+within ten business days and considered during a public hearing of the Board of
+Mayor and Aldermen.
+      (3)   A short-term rental permit, which is revoked, shall prevent its
+permit holder and/or any owner of or agent for the specific property from
+applying for a new permit for short-term rental permit for a period of one year
+from date of revocation.
+   (F)   No property shall be operated as a short-term rental with its permit
+suspended and/or revoked, until a valid short-term rental permit shall be
+subsequently issued by the city.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-507 SHORT-TERM RENTAL ANNUAL FEE.
+   (A)   There shall be a short-term rental permit renewal and inspection fee
+to be paid annually from the date of application approval in the amount of the
+application fee which, upon inspection by the city and satisfactory
+demonstration of compliance by the permit holder and property of the terms,
+provisions and conditions of the ordinance, shall entitle the permittee to
+renewal of the permit for the ensuing 12 months.
+   (B)   Failure to pay the annual renewal fee and to cooperate with permit
+inspection requirements shall result in suspension of the permit which, if not
+remedied within 60 days after suspension, shall automatically result in
+revocation of the permit for that particular location.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-508 SHORT-TERM RENTAL AGENT.
+   (A)   The owner of a short-term rental may designate a short-term rental
+agent on its application for a permit for a short-term rental. A property owner
+may serve as the short-term rental agent. Alternatively, the owner may
+designate a person as his or her agent who is over age 18 and meets all local
+and state regulatory requirements to fulfill the duties of a short-term rental
+agent. The owner of a short-term rental shall be the default short-term rental
+agent.
+   (B)   The duties of the short-term rental agent are to:
+      (1)   Be reasonably available to handle any problems arising from use of
+the short-term rental;
+      (2)   Appear on the premises of any short-term rental within four hours
+following notification from the city of issues related to the use or occupancy
+of the premises. This includes, but is not limited to, notification that
+occupants of the short-term rental have created unreasonable noise or
+disturbances, engaged in disorderly conduct or committed violations of the city
+code or other applicable law pertaining to noise, disorderly conduct,
+overcrowding, consumption of alcohol, or use of illegal drugs. Failure of the
+agent to timely appear to two or more formal written complaints regarding
+violations, may be grounds for penalties and/or permit revocations as set forth
+in this chapter.
+      (3)   Receive and accept service of any notice of violation or notice of
+hearing related to the short-term rental; and
+      (4)   Monitor the short-term rental for compliance with all laws,
+including without limitations, compliance with the provisions of the hotel-
+motel tax authorized by Tenn. Code Ann. §§ 67-4-1401, et seq.
+   (C)   An owner may change his or her designation of a short-term rental
+agent temporarily or permanently; however, there shall only be one such agent
+for a property at any given time. To change the designated agent, the owner
+shall notify the city Development Services Office in writing of the new agent's
+identity, together with all information regarding such person as required by
+the applicable provisions of this chapter.
+   (D)   As per the provisions of Tenn. Code Ann. § 13-7-603(a), certain
+limited provisions of this subsection may not be applicable or wholly
+applicable to "non-conforming short-term rental".
+(Ord. 25-02, passed 2-3-2025)
+§ 20-509 FAILURE TO OBTAIN PERMIT; PENALTIES.
+   (A)   Any violation of this chapter, including operating a short-term rental
+without first obtaining a permit, after failing to renew a permit, or after the
+revocation of a permit, shall be punishable by a civil penalty of $50 per
+violation. Each day that the violation continues shall be a separate offense.
+There shall be a rebuttable presumption that a person or entity is in violation
+of this chapter if they list or hold out a property as a short-term rental
+without first obtaining a short-term rental permit. This rebuttable presumption
+also applies to those dwellings featured on websites whose primary purpose is
+business related to short-term rental reservations.
+   (B)   The owner and/or agent of or with respect to a "non-conforming short-
+term rental", which may be otherwise exempt from compliance with some of the
+regulations, conditions and requirements of this chapter, shall nevertheless be
+required to apply for a permit within the 90 days following the effective date
+of this chapter. If the owner or agent shall fail to apply within said 90 day
+period or shall otherwise fail to meet the requirements of generally applicable
+laws, rules and ordinances as to said non- conforming short-term rental, shall,
+upon notice from the city, cease operations as a short-term rental and shall
+not resume such operations or advertisement as a short-term rental until such
+time as the owner and/or agent shall make a proper application for a permit and
+demonstrate compliance with all requirements of this chapter and generally
+applicable law. As provided in Tenn. Code Ann., § 13-7-603, a "non-conforming
+short-term rental" may lose non-conforming status by failure to adhere to and/
+or violation of all or any of the qualifying conditions and/or requirements of
+Tenn. Code Ann., § 13-7-603, including but not limited to:
+      (1)   The property used as a non-conforming short-term rental is sold or
+otherwise transferred by or from the owner(s) of the property when first
+qualified or established as a non- conforming short-term rental;
+      (2)   The property ceases to be used as a short-term rental for any
+period of 12 continuous months; or
+      (3)   The property has been found to be in violation of a generally
+applicable local ordinance or state law on three or more separate occasions and
+with no appeal opportunities remaining.
+(Ord. 25-02, passed 2-3-2025)
+§ 20-510 INVALIDITY OF PART; PRIVATE AGREEMENTS AND COVENANTS.
+   (A)   Should any court of competent jurisdiction declare any section, clause
+or provision unconstitutional, such decision shall affect only such section,
+clause, or provision so declared unconstitutional, and shall not affect any
+other section, clause or provision of this title. Additionally, this chapter
+shall in no way be used to supersede any privately created agreements or
+covenants by any homeowner associations or developers restricting certain uses.
+   (B)   Every section, clause, and provision of this chapter is separable and
+severable. Should any section, sentence, clause, or provision be declared
+unconstitutional or invalid by a court of competent jurisdiction, said
+unconstitutionality or invalidity shall not affect or impair any other section,
+sentence, clause, or phrase.
+   (C)   This chapter shall take effect from and after the date of its final
+passage, the health, safety and welfare of the citizens of the city.
+(Ord. 25-02, passed 2-3-2025)
 APPENDIX A: EMERGENCY RESPONSE AND RECOVERY PLAN
 CITY OF SPRING HILL BASIC RESPONSE AND RECOVERY PLAN
 I.   BASIC PLAN.
@@ -16360,6 +16825,10 @@ Title 9, Ch. 21           18-504
 12-9-101 et seq.          7-401
 Title 13                  14-102
 13-4-101                  14-101
+13-7-601 et seq.          20-501
+13-7-603                  20-506;
+                          20-509
+13-7-603(a)               20-508
 13-19-106                 12-601
 16-18-302                 15-101
 16-18-307                 3-402
@@ -16445,7 +16914,10 @@ Title 64, Ch. 2           20-204
 67-1-702                  5-201
 67-1-801                  5-201
 67-4-701 et seq.          5-301
-67-4-1401 et seq.         9-707
+                          9-707 ;
+67-4-1401 et seq.         20-503;
+                          20-505;
+                          20-508
 67-4-1402                 9-707
 67-5-2005                 5-202
 67-5-2010(b)              5-202
@@ -16453,6 +16925,8 @@ Title 68, Ch. 102         7-306
 68-8-101 through 68-8-114 10-201
 68-8-108                  10-203
 68-8-109                  10-203
+68-14-302                 20-501
+68-14-502                 20-501
 68-102-108                7-306
 68-104-101 et seq.        7-701
 68-211-903                2-101
@@ -17354,5 +17828,34 @@ Ord. No. Date Passed Code Section
                      7-1001—
                      7-1003
 23-21    12-4-2023   5-104
+24-01    4-1-2024    14-201
+24-05    5-20-2024   11-402
+24-06    5-20-2024   15-123
+24-07    6-3-2024    18-111
+24-08  6-3-2024    18-111
+24-09    6-3-2024    18-108
+24-10    6-3-2024    18-109
+                     7-101;
+                     7-201—
+                     7-213;
+                     7-301—
+                     7-307;
+                     7-401;
+                     7-501—
+                     7-504;
+24-16    9-3-2024    7-601—
+                     7-603;
+                     7-701—
+                     7-712;
+                     7-801—
+                     7-811;
+                     7-901—
+                     7-908;
+                     7-1001—
+                     7-1003
+24-17    9-3-2024    Adopting Ordinance
+25-02    2-3-2025    20-501—
+                     20-510
+25-14    6-2-2025    14-201
                     
  
