@@ -1,14 +1,14 @@
 TOWN OF COWLEY, WYOMING
 CODE OF ORDINANCES
-2024 S-1 Supplement contains:
-Local legislation current through 334, 2024, passed 10-8-2024
+2025 S-2 Supplement contains:
+Local legislation current through 335, passed 3-11-2025
  
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
 Cincinnati, Ohio 45202
-Tel: (800) 445-5588
-Internet: http://www.amlegal.com
+(800) 445-5588
+www.amlegal.com
 ADOPTING ORDINANCE
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE TOWN OF COWLEY, WYOMING,
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
@@ -1597,11 +1597,11 @@ subchapter.
 52.99
 § 52.17 DIAGRAMS.
    (A)   Sewer tap plan.
-[https://export.amlegal.com/media/43c0f9ef524950c15f513afdf9ed9d84c62c39ad/
+[https://export.amlegal.com/media/fb208a0a8c638e923b35d86bc83324741aaade44/
 IMAGES/0-0-0-836.png]
  
    (B)   Town zoning map.
-[https://export.amlegal.com/media/43c0f9ef524950c15f513afdf9ed9d84c62c39ad/
+[https://export.amlegal.com/media/fb208a0a8c638e923b35d86bc83324741aaade44/
 IMAGES/0-0-0-838.png]
  
 (Ord. 279, passed 8-10-2010 )
@@ -3219,7 +3219,7 @@ General Provisions
    
 152.003   Definitions
    
-152.004   Permit required
+152.004   Building permit required
    
 152.005   Falsification of information
    
@@ -3227,10 +3227,10 @@ General Provisions
    
 152.007   Relationship to other ordinances or regulations
    
-152.008   Construction
+152.008   Applicability
    
 152.009   Amendments
-Permits
+Compliance Permits
    
 152.020   Applicability
    
@@ -3238,7 +3238,7 @@ Permits
    
 152.022   Time of application
    
-152.023   Permit approval
+152.023   Permit approval including conditions
    
 152.024   Permit is for development as represented
    
@@ -3247,11 +3247,12 @@ Permit Review Process
    
 152.040   Permit review process generally
    
-152.041   Review of single-family dwelling and accessory building applications
+152.041   Review of single-family dwelling, duplex and accessory building
+applications
    
-152.042   Review of minor subdivisions
+152.042   Review of minor subdivision and applications
    
-152.043   Review of larger developments generally
+152.043   Review of major subdivisions and multi-family dwelling applications
    
 152.044   Review commencement
    
@@ -3265,25 +3266,23 @@ Permit Review Process
    
 152.049   Hearings
    
-152.050   Hearing notice
+152.050   Hearing action on application
    
-152.051   Planning Commission action on applications
+152.051   Council action on applications
    
-152.052   Town Council action on applications
+152.052   Plats of major subdivisions
    
-152.053   Plats of subdivisions
+152.053   Plans of manufactured home courts
+Annexation and Services Extension Policy
    
-152.054   Plans of manufactured home courts
-Annexation and Services Extension Policies
-   
-152.065   Annexation and services extension policies
+152.065   Annexation and extension of services
 Performance Standards
    
 152.080   Use of public facilities
    
-152.081   Single-family residences, duplexes and accessory buildings
+152.081   Single-family residences and accessory buildings
    
-152.082   Multiple-family dwellings and townhouses
+152.082   Multiple-family dwellings, duplexes and townhouses
    
 152.083   Commercial developments in the Downtown Commercial District
    
@@ -3305,7 +3304,7 @@ Performance Standards
    
 152.092   Mobile homes
    
-152.093   Manufactured homes
+152.093   Manufactured/modular homes
    
 152.094   Landscaping
    
@@ -3329,7 +3328,9 @@ Zoning District Regulations
 152.117   “P” Public Uses District
    
 152.118   “FP” Floodplain District
-Non-conforming Lots, Uses and Structures
+   152.119   Manufactured/mobile home courts
+   152.120   “MF” Multi-Family Dwelling District
+Non-conforming Uses, Lots and Structures
    
 152.130   Definitions
    
@@ -3345,9 +3346,10 @@ Non-conforming Lots, Uses and Structures
    
 152.136   Discontinuance
    
-152.137   Reduction of lot area
+152.137   Reduction of lot size
    
 152.138   New construction on non-conforming lot
+   152.139   Disclosure upon sale
 Planning Commission
    
 152.150   Appointment; composition; terms; removal; vacancies
@@ -3365,26 +3367,28 @@ Board of Appeals
    
 152.166   Meetings; procedure; records
    
-152.167   Appeals to Board; grounds; how constructed; stay of proceedings
+152.167   Appeals to Board; grounds; how conducted; stay of proceedings
    
 152.168   Powers and duties
    
 152.169   Vote required
 Enforcement
    
-152.180   “Violation” defined
+152.180   Authority to enforce and right of entry
    
-152.181   Discovery of violations
+152.181   Identification of Building Official
    
-152.182   Informal resolution
+152.182   “Violation” defined
    
-152.183   Notice of violation
+152.183   Discovery of violations
    
-152.184   Referral to Town Attorney
+152.184   Informal resolution
    
-152.185   Revocation of permits
+152.185   Notice of violation
    
-152.186   Other remedies
+152.186   Referral to Town Attorney
+   152.187   Revocation of permits
+   152.188   Other remedies
 Schedule
    
 152.200   Fee schedule
@@ -3393,386 +3397,381 @@ Schedule
 152.999   Penalty
 GENERAL PROVISIONS
 § 152.001 FINDINGS STATED.
-   (A)   We, the Town Council, do hereby find that the pressures of
-residential, commercial and industrial development within and around the town
+   (A)    We, the Town Council, do hereby find that the pressures of
+residential, commercial, and industrial development within and around the town
 necessitate land use and development regulations to protect and to promote the
-general health, safety and welfare.
+general health, safety and welfare of the community.
    (B)   We do further find that:
       (1)   A master plan has been prepared as a sufficient basis for this
-chapter; and
+chapter and shall be reviewed every ten years.
       (2)   The public has had numerous and sufficient opportunities to provide
-input to the preparation of the master plan for the town and the ordinance
-incorporated herein this chapter.
-(Ord. 294, passed 3-25-2014)
+input to the preparation of the master plan for the town and this chapter.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.002 RESOLUTION.
-   Now, in light of the above findings, be it ordained by the Town Council to
-adopt the ordinance incorporated herein this chapter pursuant to the authority
-contained in Wyo. Stat. §§ 15-1-510(b) and 15-1-601 through 15-1-611.
-(Ord. 294, passed 3-25-2014)
+    Now in light of the above findings, be it ordained by the Town Council to
+adopt this chapter pursuant to the authority contained in Wyo. Stat. §§ 15-1-
+601 through 15-1-611.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.003 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
+    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-   ACCESSORY BUILDING. A detached subordinate building, the use of which is
+   ACCESSORY BUILDING. A detached subordinate building; the use of which is
 customarily incidental to that of the main building or to the main use of the
-land and which is located on the same parcel with the main building or use.
-   ADJOINING MAJOR STRUCTURE. A major structure that is on a separate,
-adjoining lot or parcel from the referenced parcel.
-   APPLICANT. Refers to a person or entity making application for a compliance
-permit. Any person or entity named as an APPLICANT may designate a
-representative to appear before the Town Council and/or Planning Commission and
-to engage in necessary negotiations with the Council and/or Commission. This
-term also covers all operators of manufactured home courts and multiple-family
-dwellings on a continuing basis. SUBDIVIDER, DEVELOPER and the like are
-synonymous.
-   AVERAGE LOT SIZE. The sum of the land area of land within the lots in a
-subdivision divided by the number of lots in the subdivision, not counting any
-land or lots dedicated for parks or other public uses.
-   BOARD. Refers to the Board of Appeals of the town. May also be referred to
-as the “Board of Adjustment.”
+land and which is located on the same  parcel with the main building or use.
+   APPLICANT. A person or entity making an application for any town permit. Any
+person or entity named as an applicant may designate a representative to appear
+before the Council and/or Commission and to engage in necessary negotiations
+with the Council and/or Commission.
+   AVERAGE TOWN LOT SIZE. The average lot size is the sum of the land area
+within the lots in a subdivision divided by the number of lots in the
+subdivision, not counting any land or lots dedicated for parks or other public
+uses. The minimum lot size for new construction of a single-family residence
+shall be 7,000 square feet.
    BUILDING. Any structure built for the shelter or enclosure of persons,
-animals or property of any kind, and not including advertising signs or fences.
-   BUILDING PERMIT. A permit issued by the Town Building Official pursuant to
-Chapter 151, giving permission for the construction, repair, alteration,
-relocation or addition to a structure. A BUILDING PERMIT is not the same as a
+animals, or property of any  kind, and not including advertising signs or
+fences.
+   BUILDING OFFICIAL. An employee of the town responsible for enforcing the
+provisions of this chapter.
+   BUILDING PERMIT. A permit issued by the Building Official pursuant to
+Ordinance 271, Adoption of the International Residential Code, giving
+permission for the construction, repair alteration, relocation and/or
+demolition, or addition to a structure. A building permit is not the same as a
 compliance permit.
    COMMERCIAL. All development for the purposes of retailing, wholesaling,
-providing business services, personal services or professional services.
-   COMMISSION. Refers to the Planning Commission of the town.
-   COMPLIANCE PERMIT. A permit issued by the town granting approval for
-construction of a given proposal. The permit states any conditions imposed on
-the issuance of the permit and the period of time for which the permit is
-valid.
-   COUNCIL. Refers to the governing body of the town.
-   DEQ. This refers to the State Department of Environmental Quality, or its
-successors.
-   DEVELOPMENT. As used in this chapter, a comprehensive term including any and
-all building or construction and all changes in land use, except fences and
-accessory buildings less than 120 square feet in size.
+providing business  services, personal services, or professional services.
+   COMMISSION. The Planning and Zoning Commission of the town.
+   COMPLIANCE PERMIT. A compliance permit issued by the town granting approval
+of a given proposal. The compliance permit states any conditions imposed on any
+subsequent permits and the period of time for which the compliance permit is
+valid. Compliance permits are valid for one year from the date granted.
+   COUNCIL. The governing body of the town.
+   DEQ. The Wyoming Department of Environmental Quality.
+   DEVELOPMENT. As used in this chapter, a comprehensive term, including any
+and all building or construction and all changes in land use.
    DUPLEX. A building occupied by two families living independently of each
 other.
    FRONTAGE. The horizontal distance between the side lot lines measured at the
-point where the side lot lines intersect a public street right-of-way. For
-corner lots, the longest side along a public street right-of-way shall be
-considered as the FRONTAGE.
-   INDUSTRIAL. All development for the purposes of mining, manufacturing or
+point where the side lot lines intersect a public street right-of-way.
+   INDUSTRIAL. All development for the purposes of mining, manufacturing, or
 processing materials.
+   MAJOR ADJOINING STRUCTURE. A major structure that is on a separate,
+adjoining lot or parcel from the reference parcel.
    MAJOR STRUCTURE. A primary structure on a site representing the primary use
-of the site such as a business, residence, apartment building and the like;
-same as PRINCIPAL BUILDING.
+of the site such as a business, residence, apartment building, etc; same as
+PRINCIPAL BUILDING.
    MANUFACTURED HOME. A structure, transportable in one or more dependent
 sections, constructed in conformance with the National Manufactured Housing
-Construction and Safety Standards Act (42 U.S.C. §§ 5401 et seq., as amended),
-which is built on a permanent chassis and designed to be used as a single-
-family residential dwelling unit.
+Construction and Safety Standards Act (42 U.S.C. §§ 4501 et seq., as amended)
+and HUD Standards, which is built on a permanent chassis and designed to be
+used as a single-family residential dwelling unit or office/business unit.
    MANUFACTURED HOME COURT. An area under one ownership, occupied by two or
 more mobile or manufactured homes or manufactured home spaces.
-   MASTER PLAN. Refers to the plan adopted in accordance with the State Land
-Use Planning Act of 1975, being Wyo. Stat. §§ 9-8-301 et seq., and Wyo. Stat.
-§§ 15-1-503 through 15-1-506. The terms LAND USE PLAN and COMPREHENSIVE PLAN
-are synonymous.
+   MASTER PLAN. The plan adopted in accordance with the State Land Use Planning
+Act of 1975 and Wyo. Stat. §§ 15-1-503 through 15-1-506. The terms LAND USE
+PLAN and COMPREHENSIVE PLAN are synonymous.
    MOBILE HOME. A structure, transportable in one or more sections, designed
-for use as a single-family residential dwelling unit, built on a permanent
-chassis, that was constructed prior to June 15, 1976, or is lacking
-certification of compliance with the National Manufactured Housing Construction
-and Safety Standards Act, being 42 U.S.C. §§ 5401 et seq. Such a structure
-shall be considered to be a MOBILE HOME, whether or not the wheels originally
-mounted have been removed, and whether or not the structure has been placed
-upon a permanent foundation. A TRAILER HOUSE is the same as a MOBILE HOME.
-   MODULAR HOME. A structure, transportable in one or more dependent sections,
-designed for use as a single-family residential dwelling unit, not built on a
-permanent chassis, capable of being transported from the place of fabrication
-to the site on which it is to be erected, where it is placed on a permanent
-foundation and, when assembled, meets all of the provisions of the Uniform
-Building Code or International Building Code for residential dwelling units.
-   MULTIPLE-FAMILY DWELLING. A building occupied by two or more families living
-independently of each other.
-   PERFORMANCE STANDARDS. Specific requirements used as rules against which
-development proposals are judged for compliance.
+for use as a single  residential dwelling unit, built on a permanent chassis,
+that was constructed prior to June 15, 1976, or is lacking certification of
+compliance with the National Manufactured Housing Construction and Safety
+Standards Act. Such a structure shall be considered a mobile home, whether or
+not the wheels originally mounted have been removed, and whether or not the
+structure has been placed upon a permanent foundation. A TRAILER HOUSE is the
+same as a mobile home.
+   MODULAR HOME. A structure, transportable in one or more independent
+sections, designed for use as a single-family residential dwelling unit, not
+built on a permanent chassis, capable of being transported from the place of
+fabrication to the site on which it is to be erected, where it is placed on a
+permanent foundation and, when assembled, meets all of the provisions of the
+International Residential Code.
+   MULTIPLE-FAMILY DWELLING. A building occupied by two or more families,
+living independently of each other.
+   PERFORMANCE STANDARDS. Specific requirements are used as rules by which
+development  proposals are judged for compliance.
+   PERMANENT FOUNDATION. A foundation system comprised of concrete footings
+with stem walls consisting of six-inch-wide concrete, grouted block, or
+concrete-filled foam forms with a minimum depth of 42 inches to footings. The
+foundation must surround the entire perimeter of the structure.
    PLAT. A map illustrating a survey completed by a surveyor registered in the
-state and showing all details of the completed survey.
+State of Wyoming and showing all details of the completed survey.
    PRINCIPAL BUILDING. Same as MAJOR STRUCTURE.
-   PUBLIC USES AND FACILITIES. Public and quasi-public buildings, structures
-and land uses operated by a governmental agency or non-profit community
-organization, including non-residential schools, churches, meeting halls,
-parks, fairgrounds, animal shelters, governmental offices, fire, sheriff and
+   PUBLIC USES AND FACILITIES. Public and quasi-public buildings, structures,
+and land uses operated by a government agency or nonprofit community
+organization including non-residential schools,  churches, meeting halls,
+parks, fairgrounds, animal shelters, governmental offices, fire, sheriff, and
 ambulance stations.
       (1)   MAJOR PUBLIC USES AND FACILITIES. Public uses and facilities
-consisting of buildings of 5,000 square feet of floor area or larger or land
+consisting of buildings of 5,000 square feet of floor area or larger, or land
 uses without major structures that occupy one acre or more of land.
       (2)   MINOR PUBLIC USES AND FACILITIES. Public uses and facilities
 consisting of buildings of less than 5,000 square feet of floor area or land
 uses without major structures that occupy less than one acre of land.
-   SINGLE-FAMILY DWELLING. All manufactured, modular or conventional “stick-
-built” dwellings designed for occupancy by a single family.
-   SKETCH PLAN. The SKETCH PLAN is the basis for discussions between the
-applicant, the Town Building Official and the Planning Commission.
-      (1)   It is intended that the SKETCH PLAN be flexible and susceptible to
-modification in accordance with the recommendations of the Commission.
-      (2)   The complexity of the SKETCH PLAN will vary with the size and
-complexity of the development. As a minimum, the SKETCH PLAN includes:
-         (a)   A location map (to scale); and
-         (b)   A complete overhead view drawing of the proposed development
-showing all property lines, streets, alleys and other public or private rights-
-of-way. Also showing all setbacks and dimensions of all structures (including
-driveways, parking lots, patios and the like) to be erected. (All drawings must
-be to scale.)
+   SINGLE-FAMILY DWELLING. For the purpose of this chapter, includes all
+manufactured, modular, or conventional “stick-built” dwellings designed for
+occupancy by a single-family.
+   SKETCH PLAN. The basis for discussions between the applicant, the Building
+Official and/or the Commission. It is intended that the sketch plan be flexible
+and susceptible to modification in accordance with the recommendation of the
+Commission and/or Building Official. The complexity of the sketch plan will
+vary with the size and complexity of the development. At a minimum, the sketch
+plan shall include:
+      (1)   A location map (to scale).
+      (2)   A complete overhead view drawing of the proposed development
+showing all property lines, streets, alleys, and other public or private
+rights-of-way. The drawing shall also show all setbacks and dimensions of all
+structures (including driveways, parking lots, patios, etc.) to be erected. All
+drawings shall be to scale.
    SUBDIVISION. A division of a unit of land into two or more lots, plots,
-units, sites or other subdivisions of land for the immediate or future purpose
+unit, sites or other subdivisions of land for the immediate or future purpose
 of sale, building development or redevelopment, for residential, recreational,
 industrial, commercial or public uses. The word SUBDIVIDE, or any derivative
-thereof, shall have reference to the term SUBDIVISION. This term includes the
+thereof shall have reference to the term SUBDIVISION. This term includes the
 division of original town lots.
       (1)   MAJOR SUBDIVISION. A subdivision that creates five or more lots or
-a subdivision of any number of lots that requires the extension of town
-utilities, town streets or other town infrastructure to serve the proposed
+a subdivision of any number of lots that require the extension of town
+utilities, town streets, or other town infrastructure to serve the proposed
 lots.
       (2)   MINOR SUBDIVISION. A subdivision that creates four or fewer lots
 and does not require the extension of town utilities, town streets or other
 town infrastructure to serve the proposed lots.
-   TOWN BUILDING OFFICIAL. An employee of the town responsible for enforcing
-the provisions of this chapter.
    TOWNHOUSE. A single-family dwelling in a row of at least three such units in
-which each unit has its own front and rear access to the outside, no unit is
-located over another unit and each unit is separated from any other unit by one
-or more vertical fire-resistant walls and each unit is on its own lot.
-(Ord. 294, passed 3-25-2014)
-§ 152.004 PERMIT REQUIRED.
-   It is unlawful to erect, construct, reconstruct, move or change the use of
-any building, structure or land within the town without obtaining a building
+which each unit has its own front and rear access to the outside. No unit is
+located over another unit. Each unit is separated from each other by one or
+more vertical fire-resistant walls and each unit is on its own lot.
+   VARIANCE. A request by an applicant who has applied for a permit for new
+construction, renovation of an existing structure or change to a town lot,
+whereas the applicant wishes to vary from any regulations governed by this
+chapter. The request shall be in writing and submitted to the Commission or
+Council for approval. The Building Official cannot approve any requests for
+variance.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.004 BUILDING PERMIT REQUIRED.
+   It is unlawful to erect, construct, reconstruct, move, or change the use of
+any building, structure or land with the town without obtaining a building
 permit, and no permit shall be issued unless the plans for the proposed
-construction and/or change of use fully conform to this chapter.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+construction and/or change of use fully conform to this chapter. Accessory
+buildings under 200 square feet do not require a permit.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.005 FALSIFICATION OF INFORMATION.
-   Any person who falsifies or distorts information required by this chapter
+    Any person who falsifies or distorts information required by this chapter
 shall be subject to the penalties provided for in §
 152.999.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.006 BURDEN OF PROOF.
-   The applicant shall be responsible for the submission and accuracy of all
+    The applicant shall be responsible for the submission and accuracy of all
 information required or requested to meet the performance standards of this
 chapter.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.007 RELATIONSHIP TO OTHER ORDINANCES OR REGULATIONS.
-   Where other town and/or state regulations apply concurrently with this
-chapter, the more restrictive shall govern. Proposed construction and/or change
-of building usage may require a building permit pursuant to Chapter 151.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+   (A)   Where other town and/or state regulations apply concurrently with this
+chapter, the more restrictive shall govern.
+   (B)   Proposed construction and/or change of building usage may require a
+building permit pursuant to the most recent building code. No building permit
+shall be issued by the town for the excavation for or erection of a building,
+or part of a building, or for repairs to or alteration of, or moving of a
+building or part of a building, or for the change-of-use of any building until
+a compliance permit has been approved by the Building Official, Commission, or
+Council.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
-§ 152.008 CONSTRUCTION.
-   The provisions of this chapter shall be liberally construed in favor of the
-public interest.
-(Ord. 294, passed 3-25-2014)
+§ 152.008 APPLICABILITY.
+   The provisions of this chapter shall be generally applied in the favor of
+the public interest.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.009 AMENDMENTS.
-   This chapter may be amended by the process prescribed in Wyo. Stat. §§ 15-1-
-602 through 15-1-603. Prior to adopting of any amendment to this chapter, the
-Town Council shall refer the amendment to the Planning Commission for a
-recommendation on the amendment. The Planning Commission shall be allowed 40
-days to make its recommendation and the Commission may hold a public hearing on
-the amendment.
-(Ord. 294, passed 3-25-2014)
-PERMITS
+    This chapter may be amended by the process prescribed in Wyo. Stat. §§ 15-
+1-602 through 15-1-603. Prior to adopting any amendment to this chapter, the
+Council shall refer the amendment to the Commission for a recommendation on the
+amendment. The Commission shall be allowed 40 days to make its recommendation
+to the Council.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+COMPLIANCE PERMITS
 § 152.020 APPLICABILITY.
-   (A)   A permit shall be necessary for any development proposal, including
-multiple-family dwellings, major and minor sub-division or request for
-extension or expansion of town services.
-   (B)   A building permit shall be necessary for any construction, repair,
-alteration, relocation or addition to a structure. Some development or
-construction activities shall require both a compliance permit and a building
-permit.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+   A compliance permit and a building permit shall be required for any
+construction or development in the town. Any accessory building that is 200
+square feet or less does not require a permit, provided all provisions of this
+chapter are met.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.021 FORM OF APPLICATION.
-   Application for a compliance permit shall be made on forms provided by the
-town. A filing shall not be accepted until all information required is
-provided. Applications for multiple-family dwellings and minor subdivisions
-shall be made to the Planning and Zoning Commission.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    Application for a compliance permit shall be made on forms available at the
+town office. A filing shall not be accepted until all the information required
+is provided. Applications for multiple-family dwellings and minor subdivisions
+shall be made to the Commission.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.022 TIME OF APPLICATION.
-   (A)   Application for a compliance permit shall be made prior to the
-physical layout or construction of the proposed development.
-   (B)   Application shall be filed at least seven days before a regular
-meeting of the Planning Commission. Complete applications filed after this
-deadline shall not be considered until the following month’s regular meeting.
-   (C)   Applications for single-family dwellings, duplexes, accessory
-buildings and minor subdivisions may be submitted to the Town Building Official
-or Town Clerk/Treasurer during scheduled working hours from Monday through
-Friday at any time during the month.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    Applications for a compliance permit shall be made prior to the physical
+layout or construction of the proposed development. A completed application
+shall be filed at the town office with the Town Clerk for approval by the
+Building Official, Commission or Council. A building permit must be approved
+and signed by the Building Official before proceeding with the approved
+development.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
-§ 152.023 PERMIT APPROVAL.
-   The approval of a compliance permit may include conditions, provided the
-conditions are transferred, in writing, to the applicant by the Planning
-Commission and/or Council with the signed permit. The Council may retain a Town
-Building Official to ensure compliance with conditions imposed.
-(Ord. 294, passed 3-25-2014)
+§ 152.023 PERMIT APPROVAL INCLUDING CONDITIONS.
+   The approval of a compliance or building permit may include conditions
+provided the conditions are transferred in writing to the applicant by the
+Commission and/or Council or Building Official with the signed permit.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.024 PERMIT IS FOR DEVELOPMENT AS REPRESENTED.
-   The compliance permit is approved for the proposed development as
-represented to the Planning Commission. Modification or deviation of the
-development from its represented and approved form shall void the compliance
-permit and subject the applicant to the penalties provided for in §
-152.999.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    The compliance permit is approved for the proposed development as
+represented to the Building Official, Commission, or Council. Once construction
+commences, modification or deviation of the development from its represented
+and approved form shall void the compliance permit and subject the applicant to
+the penalties provided for in § 152.999.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.025 DURATION OF A PERMIT.
-   A compliance permit is valid for one year. If physical construction is not
-substantially underway within one year from the date granted, the permit is
-said to be expired. Application would again be necessary before proceeding.
-(Ord. 294, passed 3-25-2014)
+    A compliance permit is valid for one year from the date of approval. A
+building permit is valid for 180 days. If physical construction is not
+substantially underway within 180 days from the date granted, the building
+permit is said to be expired. Application would again be necessary before
+proceeding.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 PERMIT REVIEW PROCESS
 § 152.040 PERMIT REVIEW PROCESS GENERALLY.
-   (A)   All new developments and subdivisions require an approved compliance
-permit from the town. Different agencies within the town are responsible for
-granting the approval depending on the size and type of project.
-   (B)   Applications for single-family dwellings, duplexes, accessory
-buildings and minor subdivisions are approved directly by the Planning and
-Zoning Commission and reported to the Council. Approvals for all commercial
-development and major subdivisions undergo a two-part process wherein the
-Planning Commission reviews the project and makes a recommendation to the Town
-Council; the Council then makes the final decision on these larger projects.
-(Ord. 294, passed 3-25-2014) Penalty, see §
-152.999
-§ 152.041 REVIEW OF SINGLE-FAMILY DWELLING AND ACCESSORY BUILDING APPLICATIONS.
-   (A)   On applications for single-family dwellings and accessory buildings,
-the Town Building Official shall do the following within five days of receipt
-of a complete plan:
-      (1)   Verify that the plan as presented does or does not meet the
-requirements of the code, if required; and
-      (2)   Place the plan on the agenda for the next Planning and Zoning
-Commission meeting for advisement by the Commission.
-   (B)   Any certification of the Planning and Zoning Commission may be
-appealed to the Board of Appeals within 45 days of the action taken.
-(Ord. 294, passed 3-25-2014)
-§ 152.042 REVIEW OF MINOR SUBDIVISIONS.
-   An application for a minor subdivision shall be reviewed by the Planning
-Commission. The review of minor subdivisions shall be based on a sketch plan.
-The sketch plan need not be prepared by a professional engineer providing it is
-accurate as respects the parcel’s boundaries and is drawn to scale. A
-preliminary plat and final plat are not required for minor subdivisions.
-(Ord. 294, passed 3-25-2014)
-§ 152.043 REVIEW OF LARGER DEVELOPMENTS GENERALLY.
-   Compliance permits for larger developments, including major subdivisions and
-construction of principal buildings, shall be reviewed by the Planning
-Commission and Town Council. The Planning Commission shall provide to the Town
-Council a recommendation concerning the application. The Town Council shall
-make the final decision concerning the application. The following sections (§§
+    All new developments and subdivisions require an approved compliance permit
+and building permit issued from the town. Different entities within the town
+are responsible for granting approval depending on the size and type of project
+and are identified in §§
+152.041 through
+152.043. Sections
 152.044 through
-152.054) of this subchapter detail this review process.
-(Ord. 294, passed 3-25-2014)
+152.053 of this chapter detail the review process.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
+152.999
+§ 152.041 REVIEW OF SINGLE-FAMILY DWELLING, DUPLEX AND ACCESSORY BUILDING
+APPLICATIONS.
+   On applications for single-family dwellings and accessory buildings, the
+Building Official shall do the following within five days of receipt of a
+completed compliance permit application: Verify that the plan as presented does
+or does not meet the requirements of the code. If the Building Official is
+satisfied that all requirements have been met, a building permit may be issued.
+If he or she is not satisfied with the application content, he or she may
+request additional information or send the application to the Commission for
+further review and approval/disapproval at the next scheduled Commission
+meeting. If the Commission does not approve the application, the applicant can
+appeal the decision to the Council.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.042 REVIEW OF MINOR SUBDIVISION APPLICATIONS.
+   An application for a minor subdivision shall be reviewed by the Commission.
+The review of minor subdivisions shall be based on a sketch plan. The sketch
+plan need not be prepared by a professional engineer providing the parcel’s
+boundaries are accurate and drawn to scale. A preliminary plat and final plat
+are not required for minor subdivisions. The Commission has the authority to
+approve/disapprove minor subdivision applications and may also request
+verification of ownership of the parcel being subdivided.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.043 REVIEW OF MAJOR SUBDIVISIONS AND MULTI-FAMILY DWELLING APPLICATIONS.
+   Compliance permits for major subdivisions and construction of multi-family
+buildings shall be reviewed by the Commission and Council. The Commission shall
+provide the Council with a recommendation concerning the application. The
+Council shall make the final decision concerning the application.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.044 REVIEW COMMENCEMENT.
-   Review of the application shall begin at the first regular Planning
-Commission meeting following submission of a completed form, provided the
-filing deadline has been met. At the meeting, the Commission shall conduct a
-preliminary review of the application and set a hearing date.
-(Ord. 294, passed 3-25-2014)
+    Review of the application shall begin at the first regular Commission
+meeting following submission of a completed form, provided the filing deadline
+has been met. At the meeting, the Commission shall conduct a preliminary review
+of the application.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.045 APPLICANT’S PRESENCE REQUIRED.
-   The applicant or agent of the applicant must be present for consideration of
-the application for a compliance permit to proceed.
-(Ord. 294, passed 3-25-2014)
+    The applicant or agent of the applicant shall be present for consideration
+of the application for a compliance permit to proceed.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.046 ON-SITE INSPECTION.
-   The filing of an application for a compliance permit constitutes permission
+    The filing of an application for a compliance permit constitutes permission
 for the town’s officials or its advisors to inspect the site for its
 suitability for the proposed development.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.047 SUBSTANCE OF REVIEW.
-   Application for compliance permits shall be reviewed for their conformance
-to the performance standards, zoning district regulations and other standards
+    Application for compliance permits shall be reviewed for their conformance
+to the performance standards, zoning district regulations, and other standards
 contained in this chapter and to the general and specific intent of the master
 plan for the town.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.048 FURTHER INFORMATION REQUESTS.
-   Further information may be requested by the Planning Commission and the Town
-Council at the first meeting before each body where the application is
-reviewed. The request may cover any aspect of a proposed development which is
-dealt with in the performance standards, zoning district regulations and other
-standards contained in this chapter or the master plan for the town. Further
-information shall be submitted before review may continue.
-(Ord. 294, passed 3-25-2014)
+    Further information may be requested by the Commission or the Council at
+the first meeting before each body where the application is reviewed. The
+request may cover any aspect of a proposed development which is dealt with in
+the performance standards, zoning district regulations, and other standards
+contained in this chapter or the master plan for the town. Further information
+shall be submitted before the review may continue.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.049 HEARINGS.
-   (A)   A public hearing before the Planning Commission shall be required in
-the review of all compliance permit applications except those for single-family
-dwellings and accessory buildings and minor subdivisions.
-   (B)   Public hearings before the Town Council are not required; however, the
-Council may elect, at its option, to hold a public hearing on any application
-coming before the Council.
-(Ord. 294, passed 3-25-2014)
-§ 152.050 HEARING NOTICE.
-   (A)   When a hearing is required, the applicant shall post public notice of
-the hearing in the local newspaper and post at the Town Hall. In addition, the
-applicant shall provide written notice to all adjoining property owners,
-including those across a street or alley from the subject property. All
-required notices shall be posted and provided at least ten days prior to the
-hearing date.
-   (B)   The notice shall be prepared by the Town Clerk/Treasurer and shall
-contain the following information:
-      (1)   A brief description of the project;
-      (2)   The project’s location relative to landmarks or cross streets and
-the address if available;
-      (3)   An abbreviated legal description;
-      (4)   Applicant’s name;
-      (5)   Hearing date, time and place; and
-      (6)   How additional information can be obtained.
-(Ord. 294, passed 3-25-2014)
-§ 152.051 PLANNING COMMISSION ACTION ON APPLICATIONS.
-   Upon completion of the public hearing and its review, the Planning
-Commission shall recommend one of the following to the Town Council:
-   (A)   Approve the application with or without conditions;
-   (B)   Reject the application, filing its reasons for doing so, in writing,
-within five days after the decision is made;
-   (C)   Approve the application on the basis that a final plat, in the case of
-a subdivision, or final plan, in the case of a mobile home court, be submitted
-and approved; and
-   (D)   The Planning Commission shall act on the application not later than 30
-days after additional information has been received or a public hearing held.
-(Ord. 294, passed 3-25-2014)
-§ 152.052 TOWN COUNCIL ACTION ON APPLICATIONS.
-   (A)   After receiving the Planning Commission recommendation on an
-application for a compliance permit, the Council may:
-      (1)   Request the applicant to submit further information;
-      (2)   Set a hearing date at the next regular meeting of the Council; or
-      (3)   Make a final decision on the application.
-   (B)   The Council shall make its final decision after receipt of the
-Planning Commission recommendation, and after the public hearing if one has
-been held, and after any requested additional information has been submitted.
-In making a final decision, the Council shall:
-      (1)   Approve the application and issue a permit, with or without
-conditions; or
-      (2)   Reject the application, filing its reasons for doing so, in
-writing, within five days after the decision is made.
-   (C)   In no case shall a decision be delayed more than 30 days after receipt
-of the Planning Commission recommendation, after the public hearing or after
-the receipt of additional information requested, whichever is later.
-(Ord. 294, passed 3-25-2014)
-§ 152.053 PLATS OF SUBDIVISIONS.
+    The Council may elect at its option to hold a public hearing on any
+application coming before the Council. When a hearing is required, the Town
+Clerk shall post a public notice of the hearing in at least two public
+locations in the town. In addition, the applicant shall provide written notice
+of all adjoining property owners including those across a street or alley from
+the subject property. All required notices shall be posted and provided at
+least ten days prior to the hearing date. The notice shall be prepared by the
+Town Clerk and shall contain the following information:
+   (A)   A brief description of the project.
+   (B)   The project’s location relative to landmarks or cross streets and the
+address if available.
+   (C)   An abbreviated legal description.
+   (D)   Applicant’s name.
+   (E)   Hearing date, time, and place.
+   (F)   How additional information can be obtained.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.050 HEARING ACTION ON APPLICATION.
+   Upon completion of the public hearing and its review, the Council shall
+recommend one of the following:
+   (A)   Approve the application with or without conditions.
+   (B)   Reject the application, filing its reasons for doing so in writing
+within five days after the decision is made.
+   (C)   The Council shall act on the application no later than 30 days after
+additional information has been received or a public hearing is held.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.051 COUNCIL ACTION ON APPLICATIONS.
+   After receiving the Commission recommendation on an application for a
+compliance permit, the Council may:
+   (A)   Request the applicant to submit further information.
+   (B)   Set a hearing date at the next regular meeting of the Council.
+   (C)   Make a final decision on the application.
+   (D)   The Council shall make its final decision after receipt of the
+Commission recommendation, and after the public hearing, if one has been held,
+or after any requested additional information has been submitted. In making a
+final decision, the Council shall:
+      (1)   Approve the application and issue a building permit, with or
+without conditions; or
+      (2)   Reject the application, filing its reasons for doing so in writing
+within five days after the decision is made.
+   (E)   In no case shall a decision be delayed more than 30 days after receipt
+of the Commission recommendation, after the public hearing, or after the
+receipt of additional information requested, whichever is later.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.052 PLATS OF MAJOR SUBDIVISIONS.
    The initial review of major subdivisions shall be based on a preliminary
 plan. The preliminary plan need not be prepared by a professional engineer
-providing it is accurate as respects the parcel’s boundaries and dimensions.
-The final plat and attachments required by the performance standards of this
-chapter shall be submitted to the Town Clerk/Treasurer at least seven days
-prior to any regular Council meeting after the applicant receives approval. Any
-variances from the conditions of the approval shall be grounds for rejection of
-the final plat. The compliance permit shall not be signed until the final plat
-is approved. All plats shall be prepared and filed in accordance with state law
-and this chapter.
-(Ord. 294, passed 3-25-2014)
-§ 152.054 PLANS OF MANUFACTURED HOME COURTS.
-   (A)   The initial review of manufactured home courts shall be based on a
+providing it is accurate with respect to the parcel’s boundaries and
+dimensions. The final plat and attachments required by the performance
+standards of this chapter shall be submitted to the Town Clerk at least seven
+days prior to any regular Council meeting after the applicant receives
+approval. Any variances from the conditions of the approval shall be grounds
+for rejection of the final plat. The compliance permit and building permit
+shall not be signed until the final plat is approved. All plats shall be
+professionally prepared and filed in accordance with state law and this
+chapter.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.053 PLANS OF MANUFACTURED HOME COURTS.
+   The initial review of manufactured home courts shall be based on a
 preliminary plan. The preliminary plan need not be prepared by a professional
-engineer providing it is accurate as respects the parcel’s boundaries and is
-drawn to scale.
-   (B)   The final plan and attachments shall be submitted to the Town Clerk/
-Treasurer at least seven days prior to any regular Council meeting after the
+engineer providing it is accurate with respect to the parcel’s boundaries and
+is drawn to scale. The final plan and attachments shall be submitted to the
+Town Clerk at least seven days prior to any regular Council meeting after the
 applicant receives approval. Any variance from the approved plan shall be
-grounds for the rejection of the final plan. The compliance permit shall not be
-signed until the final plan is approved. The final plan shall be filed in the
-office of the County Clerk in accordance with this chapter.
-(Ord. 294, passed 3-25-2014)
-ANNEXATION AND SERVICES EXTENSION POLICIES
-§ 152.065 ANNEXATION AND SERVICES EXTENSION POLICIES.
-   For the purposes of maintaining adequate services within the existing town
+grounds for the rejection of the final plan. The compliance permit/building
+permit shall not be signed until the final professionally prepared plan is
+approved. The final plan shall be filed in the office of the County Clerk in
+accordance with this chapter.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) )
+ANNEXATION AND SERVICES EXTENSION POLICY
+§ 152.065 ANNEXATION AND EXTENSION OF SERVICES.
+   For the purpose of maintaining adequate services with the existing town
 limits, the following policies relating to annexations to the town and
 extension of municipal services are adopted.
    (A)   The town shall approve no annexations to the town, except those areas
@@ -3780,618 +3779,854 @@ presently utilizing town central sewage or water services, until land within
 the town limits is developed to the extent feasible and additional land is
 required for the growth of the town.
    (B)   The town shall provide no municipal services, including streets,
-outside of the town limits with the exception of providing water to Council-
-authorized users on the town’s main water line and the town’s secondary water
-line. Individual services lines shall not be tapped into to add on users.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+outside of the town limits except for providing water to Council authorized
+users on the town’s main water line and the town’s secondary water lines.
+Individual services lines shall not be tapped into to add additional users.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 PERFORMANCE STANDARDS
 § 152.080 USE OF PUBLIC FACILITIES.
-   These standards apply to all new developments within the town limits.
+    The following standards apply to all new developments within the town
+limits:
    (A)   All users of the town water and sewage systems shall have individual
 hookups to the town mains.
-   (B)   The town shall not extend or enlarge services, including streets,
-unless the full cost of the necessary extension can be borne by the users.
-   (C)   Extensions of sewer mains, water mains and electricity shall be placed
-within platted streets on their logical extensions.
-   (D)   (1)   All developments generating sewage effluent shall connect to the
-town sewage system, except those in the areas designated for individual septic
+   (B)   The town shall not extend or enlarge services including streets unless
+the full cost of the necessary extension can be borne by the users.
+   (C)   Extensions of sewer mains, water mains, electricity, and natural gas
+lines shall be placed within platted streets on their logical extensions.
+   (D)   All developments generating sewage effluent shall connect to the town
+sewage system except those in the areas designated for individual septic
 systems on the zoning map. Lots utilizing individual septic systems shall be
-adequately sized to accommodate the system.
-      (2)   Manufactured home courts and subdivisions shall not be located
-where they cannot be served by the town sewage system by gravity flow.
+adequately sized to accommodate the system. Manufactured home courts and
+subdivisions shall not be located where they cannot be served by the town
+sewage system.
    (E)   All additions to the town water and sewer mains, except service
-connections, shall be approved by the State Department of Environmental
+connections shall be approved by the Wyoming Department of Environmental
 Quality.
    (F)   No water lines, except individual service connections, shall be less
 than six inches in diameter.
    (G)   No sewage lines, except individual service connections, shall be less
 than eight inches in diameter.
    (H)   An application may be rejected if there is not sufficient capacity in
-the water or sewerage systems for the development.
+the water or sewage systems for the development.
    (I)   Pretreatment of sewage effluent may be required prior to its entering
 into the town sewage mains.
-   (J)   Any damage to the public infrastructure caused by the builder shall be
-repaired by the builder to the satisfaction of the Building Official.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+   (J)   Any damage to the public infrastructure caused by the builder/
+developer shall be repaired by the builder/developer to the satisfaction of the
+Building Official. All repair costs shall be borne by the builder/developer.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
-§ 152.081 SINGLE-FAMILY RESIDENCES, DUPLEXES AND ACCESSORY BUILDINGS.
-   These standards shall apply to all single-family residences, duplexes and
-accessory buildings constructed or placed after adoption of this chapter.
-   (A)   All residences shall have useable, legal access onto a public street.
-   (B)   All residences, outside manufactured home courts, shall have
-individual hookups to town services. Duplexes shall have a hookup for each
-unit.
-   (C)   Duplexes shall have at least four improved off-street parking spaces
-provided.
-   (D)   All residences shall be placed on permanent foundations, except
-manufactured homes inside manufactured home courts.
-   (E)   All residences shall have a minimum width of 16 feet and minimum
+§ 152.081 SINGLE-FAMILY RESIDENCES AND ACCESSORY BUILDINGS.
+   The following standards shall apply to all single-family residences, and
+accessory buildings constructed or placed after adoption of this chapter:
+   (A)   All residences shall have usable, legal access onto a public street.
+   (B)   All residences outside of mobile home courts shall have individual
+hookups to town services except in those areas of town where septic systems are
+specifically allowed.
+   (C)   All residences shall be placed on permanent foundations, except mobile
+homes inside mobile home courts.
+   (D)   All residences shall have a minimum width of 16 feet and minimum
 length of 32 feet.
-   (F)   All buildings shall be adequately painted or sided to provide all-
+   (E)   All buildings shall be adequately painted and sided to provide all
 weather protection. Accessory buildings with metal siding shall be factory
 painted.
-   (G)   On any lot or parcel of land used principally for residential usage,
-only one building intended for residential occupancy.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+   (F)   On any lot or parcel of land used principally for residential usage,
+only one building intended for residential occupancy shall be permitted.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
-§ 152.082 MULTIPLE-FAMILY DWELLINGS AND TOWNHOUSES.
-   These standards shall apply to all multiple-family dwellings and townhouses
-constructed or placed within the town limits after adoption of this chapter.
-   (A)   All multiple-family dwellings and townhouse developments shall be
-evaluated for their impacts on the town’s water supply and distribution system,
-sewage collection and treatment system, solid waste collection and disposal
-program, fire protection facilities, law enforcement program and streets.
-   (B)   All multiple-family dwellings and townhouses shall provide adequate
-off-street parking at a rate of two spaces per unit. Such parking shall be
-adequately lighted and drained and shall have safe access to public streets.
-Where an internal access street(s) is provided within the development, the
-width for such street(s) shall be not less than 20 feet. All roadways and
-parking spaces shall be of dust-free nature, surfaced with either concrete or
-asphalt-type substance with individual parking spaces clearly marked and
-identified.
-   (C)   All multiple-family dwellings and townhouses shall provide solid waste
-collection containers adequately sized to contain all refuse, and the
-containers shall be located within a storage structure that screens the
-containers from public view. Arrangements for garbage pickup shall be made with
-tenants responsibility, if any, clearly identified.
-   (D)   Multiple-family buildings shall not be located within 20 feet of other
-buildings on the same lot. See §§
+§ 152.082 MULTIPLE-FAMILY DWELLINGS, DUPLEXES AND TOWNHOUSES.
+   The following standards shall apply to all multiple-family dwellings,
+duplexes, and townhouses constructed or placed within the town limits after
+adoption of this chapter:
+   (A)   All multiple-family dwellings, duplexes, and townhouse developments
+shall be evaluated for their impact on the town’s water supply and distribution
+system, sewage collection and treatment system, solid waste collection and
+disposal program, fire protection facilities, law enforcement program and
+streets. Each multiple-family dwelling unit shall have its own hook up to water
+and sewer and individual trash receptacles.
+   (B)   All multiple-family dwellings, duplexes, and townhouses shall provide
+adequate off-street parking at a rate of two side-by-side spaces per unit.
+Garages are not considered “off-street parking” and shall not be added as off-
+street parking. Such parking shall be adequately lit and drained and shall have
+safe access to public streets. Where an internal access street(s) is provided
+within the development, the width for such street(s) shall be not less than 20
+feet. All roadways and parking spaces shall be dust-free, surfaced with either
+concrete or asphalt type materials with individual parking spaces clearly
+marked and identified.
+   (C)   All multiple-family dwellings, duplexes, and townhouses shall provide
+on-property solid waste collection containers adequately sized to contain all
+refuse, and the containers shall be located in an area easily accessible for
+pickup. Arrangements for garbage pickup shall be made, with tenants’
+responsibility, if any, clearly identified.
+   (D)   Multiple-family and duplex buildings shall not be located within 20
+feet of other buildings on the same lot. See §§
 152.110 through
-152.118 for other applicable building setback requirements.
-   (E)   No multiple-family dwelling structure or block of townhouses should
-occupy more than 60% of the parcel on which they are located. Not more than 60%
-of the open space so obtained should be devoted to parking.
-   (F)   Open space surrounding multiple-family dwellings and townhouses shall
-be landscaped and maintained in accordance with the requirements of §
+152.120 for other applicable building setback requirements.
+   (E)   No multiple-family, duplex dwelling structure or block of townhouses
+shall occupy more than 60% of the parcel on which they are located. No more
+than 60% of the open space obtained shall be devoted to parking. All applicable
+setbacks shall be considered when locating the structures.
+   (F)   Open space surrounding multiple-family dwellings, duplexes, and
+townhouses shall be landscaped and maintained in accordance with the
+requirements of §
 152.094.
    (G)   All buildings shall be adequately painted or sided to provide all-
 weather protection.
-   (H)   All multiple-family dwellings shall obtain a permit from the State
-Fire Marshal prior to final approval of a town compliance permit.
-   (I)   Not more than four housing units shall be contained within a multi-
-family housing building, and not more than four townhouse units shall be
+   (H)   All multiple-family dwellings and duplexes shall obtain the required
+permit from the State Fire Marshall prior to final approval of a compliance
+permit/and building permit.
+   (I)   No more than four housing units shall be contained within a multi-
+family housing building and no more than four townhouse units shall be
 contained within a single block of units.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.083 COMMERCIAL DEVELOPMENTS IN THE DOWNTOWN COMMERCIAL DISTRICT.
-   These standards shall apply to all commercial developments constructed or
-placed within the “C-1” Downtown Commercial District after adoption of this
-chapter.
+    The following standards shall apply to all commercial developments
+constructed or placed within the “C-1” Downtown Commercial District after
+adoption of this chapter:
    (A)   (1)   Where required by state statute, plan review by the State Fire
-Marshal’s office shall be completed prior to approval of a permit.
-      (2)   Plan review by State Fire Marshal’s office is required for the
-following:
+Marshall’s office shall be completed prior to approval of a permit.
+      (2)   Plan review by State Fire Marshall’s office is required for:
          (a)   Buildings frequented by the public which are greater than 5,000
 square feet or more than one story in height;
          (b)   Public bars, lounges, restaurants, night clubs, churches,
-lodges, theaters or public meeting places;
+lodges, theaters, or public meeting places;
          (c)   Child care centers for more than 11 children; and
          (d)   All government buildings.
    (B)   Off-street parking shall not be required.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.084 HOME BUSINESSES.
-   (A)   A home business is a business conducted in a dwelling unit or
-accessory building by the residents of the unit; provided the business activity
+   (A)    A home business is a business conducted in a dwelling unit or
+accessory building by the residents of the unit provided the business activity
 is incidental and secondary to the residential use of the property and does not
-change the residential character of the neighborhood.
-   (B)   Home businesses are permitted with the granting of a compliance permit
-and conformance with the following standards.
-      (1)   The business does not regularly require product delivery or pickup,
+change the residential character of the neighborhood. Home businesses are
+permitted with the approval of a compliance permit/building permit and
+conformance with the following standards:
+   (A)   The business does not regularly require product delivery or pickup
 except by parcel post and not freight or common carrier shipping.
-      (2)   The business does not require more parking for customers than can
-be provided along the front property line of the applicant. All employee
-parking shall be provided on-site.
-      (3)   The business shall not be located within a structure with metal
+   (B)   The business does not require more parking for customers than can be
+provided along the front property line of the applicant. All employee parking
+shall be provided on-site.
+   (C)   The business shall not be located within a structure with metal
 siding, unless the siding is factory painted.
-      (4)   No commercial structures shall be larger in size, in any dimension,
-than an average- sized house in the neighborhood. The site shall not have open
+   (D)   No commercial structures shall be larger in size, in any dimension
+than an average sized house in the neighborhood. The site shall not have open
 storage.
-      (5)   A single sign, not larger than 20 square feet, may be attached to
-the building. The sign shall state only the name of the business and shall not
-flash, blink, be lighted with colored light or have any movable parts. The top
-of the sign shall be located not higher than eight feet from ground level.
-Signs shall harmonize with the exterior of the building and be a material that
-can be maintained. Electronic reader boards are prohibited.
-      (6)   A plan for garbage disposal, including pickup, shall be presented.
-Garbage containers shall be provided which contain all refuse generated.
-      (7)   See §§
+   (E)   A single sign, no larger than 20 square feet, may be attached to the
+building. The sign shall state only the name of the business and shall not
+flash, blink, be lighted by colored light, or have any movable parts. The top
+of the sign shall be located no higher than eight feet from ground level. Signs
+shall harmonize with the exterior of the building and be of a material that can
+be maintained. Electronic reader boards are prohibited.
+   (F)   A plan for garbage disposal including pick-up shall be presented.
+Garbage containers shall be provided which shall contain all refuse generated.
+   (G)   See §§
 152.110 through
-152.118 for applicable setback requirements. A buffer may be required between
-the proposed structures and adjoining properties.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+152.120 for applicable setback requirements.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.085 RESIDENTIAL-SCALE BUSINESSES.
-   Residential-scale businesses are permitted with the granting of a compliance
-permit and conformance with the following standards.
+    Residential-scale businesses are permitted with the approval of a
+compliance permit and conforming with the following standards:
    (A)   In general, the residential-scale business shall be designed and
 operated such that the residential character of the area is retained, the
-business is highly compatible with residential uses and foreseeable negative
+business is highly compatible with residential uses, and foreseeable negative
 impacts to nearby residences are avoided.
    (B)   All outdoor lighting shall be planned and installed to be compatible
 with the residential character of the area. Area lighting shall utilize full
 cut-off shields and shall not be placed more than 18 feet above ground level.
-Excessive site lighting is prohibited and lighting of adjoining properties
+Excessive site lighting is prohibited, and lighting of adjoining properties
 shall be minimized.
    (C)   Signage is limited to a single sign, no larger than 20 square feet.
 The sign shall not flash, blink, be lighted with colored light, be internally
-illuminated or have any movable parts. The top of the sign shall be located no
+illuminated, or have any movable parts. The top of the sign shall be located no
 higher than five feet from ground level. The sign shall harmonize with the
-exterior of the building and be a material that can be maintained. Any
+exterior of the building and be of a material that can be maintained. Any
 freestanding sign shall be located at least ten feet back from any property
-lines. Electronic reader boards are prohibited. In addition, one neon sign not
-exceeding three square feet is allowed.
-   (D)   New buildings shall be designed using residential-style architectural
-features, as similar to features found among existing residential buildings in
-the town. Commercial architectural styles featuring metal-sided buildings, flat
-roofs, large expanses of windows and similar non-residential features are
+lines. Electronic reader boards are prohibited. One neon sign not exceeding
+three square feet is allowed.
+   (D)   New buildings shall be designed using residential style architectural
+features similar to those found among existing residential buildings in the
+town. Commercial architectural styles featuring metal sided buildings, flat
+roofs, large expanses of windows, and similar nonresidential features are
 prohibited.
    (E)   No commercial structures shall be larger in size, in any dimension,
-than an average-sized house in the neighborhood. The site shall not have open
+than an average sized house in the neighborhood. The site shall not have open
 storage.
    (F)   On-site parking areas shall be provided with a sufficient number of
 parking spaces to accommodate expected parking needs in excess of that which
 can be met on-street in front of the property. Such off-street parking areas
 shall be located to the side or rear of the building and not in front. Such
 off-street parking areas shall not be located within the required building
-setback area, as specified in §§
-152.110 through
-152.118. Solid fencing and/or landscaping may be required between parking areas
-and adjoining residences.
+setback area as specified in §§ 152.080 through 152.095. Solid fencing and/or
+landscaping may be required between parking areas and adjoining residences.
    (G)   To the fullest extent practical, lawns, trees and other landscaping
 shall be maintained around buildings and parking areas.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.086 COMMERCIAL DEVELOPMENTS.
-   These standards shall apply to all commercial developments constructed
-within the town limits after the adoption of this chapter, except that this
-section does not apply to downtown businesses, home businesses and residential-
-scale businesses.
+    The following standards shall apply to all commercial developments
+constructed with the town limits after the adoption of this chapter, except
+that this section does not apply to downtown businesses, home businesses and
+residential-scale businesses.
    (A)   Landscaping. Landscaping is required for all new buildings and
 additions. Landscaping shall meet the requirements of §
-152.094 as well as the following additional standards.
+152.094, as well as the following additional standards:
       (1)   The lot shall be completely landscaped, except for those areas
 occupied by utilities, access driveways, paved walks, walls and structures.
       (2)   All flanking street-side side yards shall be completely landscaped,
 except for those areas occupied by utilities, access driveways, paved walks,
 walls and structures.
    (B)   Parking. Commercial developments shall provide off-street parking
-adequate for employees and customers; such parking having adequate drainage and
-lighting, and safe access to public streets. Parking areas shall be located not
+adequate for employees and customers. Parking shall have adequate drainage and
+lighting and safe access to public streets. Parking areas shall be located no
 closer than five feet to any property line.
    (C)   Buffers. The Council shall require reasonable buffer areas around
-commercial developments where adjacent lands are developed or platted for
-residential use, such areas to be landscaped and, where necessary, fenced by
-the applicant.
+commercial developments, where adjacent lands are developed or platted for
+residential use, and such areas will be landscaped and where necessary, fenced
+by the applicant.
    (D)   Signs. Advertising signs utilized by commercial developments shall not
-include moving, flashing or blinking parts, or electronic reader boards. Off-
-site signs or billboards are prohibited, except for directional signs. No
+include moving, flashing, or blinking parts, or electronic reader boards. Off-
+site signs or billboards are prohibited except for directional signs. No
 directional sign shall exceed eight feet in height at its highest point or 32
-square feet in coverage, nor shall it display any promotional material.
+square feet in coverage nor shall it display any promotional material.
    (E)   Lighting. All outdoor lighting shall be planned and installed to be
 compatible with the area. Area lighting shall utilize full cut-off shields and
 shall not be placed more than 18 feet above ground level. Excessive site
-lighting is prohibited and lighting of adjoining properties shall be minimized.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+lighting is prohibited, and lighting of adjoining properties shall be
+minimized.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.087 INDUSTRIAL DEVELOPMENTS.
-   These standards shall apply to all industrial developments constructed
-within the town limits after the adoption of this chapter.
+    The following standards shall apply to all industrial developments
+constructed within the town limits after the adoption of this chapter:
    (A)   No industrial development shall be allowed without a thorough analysis
 of its impacts on the town’s water supply and distribution system, sewage
 collection and treatment system, solid waste collection and disposal program,
-fire protection facilities, law enforcement program and streets.
+fire protection facilities, law enforcement program, and streets.
    (B)   Industrial developments having emissions of odor, fly ash or other
-particulate matters or of toxic products of combustion or other industrial
+particulate matters of toxic products of combustion or other industrial
 processes may be excluded from the town on the basis of protecting local air
-quality, even though state air quality standards are met.
-   (C)   Developments generating heavy truck traffic on streets maintained by
-the town may be required to bear the cost of resurfacing, signing and traffic
-signals whenever it is necessary. They shall not be located where heavy traffic
-would flow through a residential, play area or by a school.
-   (D)   Industrial developments may be required to take safety measures, such
-as fencing of loose material stockpiles, trenches and the like; shielding of
-glaring surfaces, arc lights or welding areas and the like; and noise reducing
-or muffling measures. An industrial development may be rejected on the basis of
-unreasonable noise, glare or light or safety hazards.
+quality, even though Wyoming air quality standards are met.
+   (C)   Developments generating heavy vehicle/truck traffic on streets
+maintained by the town may be required to bear the cost of resurfacing or
+reconstruction and signing and traffic signals whenever it is necessary.
+   (D)   Industrial developments may be required to take safety measures such
+as fencing of loose material stockpiles, trenches, etc., shielding of glaring
+surfaces, arc lights or welding areas and noise reducing or muffling measures.
+An industrial development may be rejected based on unreasonable noise, glare or
+light, or safety hazards.
    (E)   The Council shall require reasonable buffer areas around industrial
-developments where adjacent lands are developed or platted for residential use,
-such areas to be landscaped and, where necessary, fenced by the applicant.
-Reasonable setbacks from public streets and/or alleys shall also be required.
-Industrial development buffer zones should amount to approximately 40% of the
-space covered by structures, roadways and materials handling areas. Not more
-than 60% of a buffer zone should be devoted to parking.
+developments, where adjacent lands are developed or platted for residential
+use. These buffer areas shall be landscaped and, where necessary, fenced by the
+applicant. Reasonable setbacks from public streets and/or alleys are also
+required. Industrial development buffer zones shall amount to approximately 40%
+of the space covered by structures, roadways, and materials handling areas. No
+more than 60% of a buffer zone shall be devoted to parking.
    (F)   Industrial developments shall provide off-street parking adequate for
-employees and customers, such parking having adequate drainage and lighting,
-and safe access to public streets.
+employees and customers. Parking shall have adequate drainage and lighting, and
+safe access to public streets.
    (G)   Advertising signs utilized by industrial developments shall not
-include moving, flashing or blinking parts. Off-site signs or billboards are
+include moving, flashing, or blinking parts. Off-site signs or billboards are
 prohibited except for directional signs. No directional sign shall exceed eight
 feet in height at its highest point or 32 square feet in coverage, nor shall it
 display any promotional material.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.088 MAJOR SUBDIVISIONS.
-   All major subdivisions within the town limits, or as proposed as additions
-to the town, shall conform to the following standards.
-   (A)   (1)   Subdivisions shall be evaluated for their impact on the town’s
-water supply and distribution system, sewage collection and treatment system,
-fire protection and streets. Subdivisions shall also be evaluated on their
-internal circulation and access system, storm water drainage and street
-maintenance costs, lot arrangement and layout and their relationship to natural
-conditions of soil type, drainage and hydrology, and other natural resource
-considerations.
-      (2)   To accomplish this, a subdivision will not be approved without
-submission of a preliminary plan containing the following information:
-         (a)   All existing and proposed roads, streets and alleys;
-         (b)   All existing waterways, drain courses and drainage ways;
-         (c)   All existing and proposed sewage lines, water lines, utility
-lines and easements;
-         (d)   All proposed lighting facilities;
-         (e)   Proposed lot lines, including dimensions;
-         (f)   All existing property lines and names of property owners of the
-tract and abutting parcels;
-         (g)   Proposed land use for each lot or parcel of land;
-         (h)   All proposed easements for drainage and pedestrian walkways;
-         (i)   Written assurances from utility companies that easements will
-meet the requirements of utility companies; and
-         (j)   North point, map scale and date of submission.
-   (B)   No subdivision will be approved until the following factors have been
-satisfactorily provided for:
-      (1)   Access to streets or roads and access for utilities and services;
-      (2)   Placement of structures to be erected;
-      (3)   Open space, pedestrian movement systems and recreational areas;
-      (4)   Storm runoff and minimization of soil erosion during and after
-construction;
-      (5)   Maintenance of streets and open space after construction;
-      (6)   Topographical features;
-      (7)   Minimum disruption of irrigation and drainage systems serving other
-lands; and
-      (8)   Solid waste disposal.
-   (C)   All lots shall have useable access onto a public street. Principal
+    All major subdivisions within the town limits, or as proposed as additions
+to the town, shall conform to the following standards:
+   (A)   Subdivisions shall be evaluated for their impact on the town’s water
+supply and distribution system, sewage collection and treatment system, fire
+protection and streets. Subdivisions shall also be evaluated on their internal
+circulation and access system, storm water drainage and street maintenance
+costs, lot arrangement and layout, their relationship to natural conditions of
+soil type, drainage and hydrology and other natural resource considerations. To
+accomplish this, a subdivision will not be approved without submission of a
+preliminary plan containing the following information:
+      (1)   All existing and proposed roads, streets and alleys.
+      (2)   All existing waterways, drain courses and drainage ways.
+      (3)   All existing and proposed sewage lines, water lines, utility lines
+and easements.
+      (4)   All proposed lighting facilities.
+      (5)   Proposed lot lines, including dimensions.
+      (6)   All existing property lines and names of property owners of the
+tract and abutting parcels.
+      (7)   Proposed land use for each lot or parcel of land.
+      (8)   All proposed easements for drainage and pedestrian walkways.
+      (9)   Written assurances from utility companies that easements will meet
+the requirements of utility companies.
+      (10)   North point, map scale and date of submission.
+      (11)   No subdivision will be approved until the following factors have
+been satisfactorily provided:
+         (a)   Access to streets or roads and access for utilities and
+services.
+         (b)   Placement of structures to be erected.
+         (c)   Open space, pedestrian movement systems, and recreational areas.
+         (d)   Storm runoff and minimization of soil erosion during and after
+construction.
+         (e)   Maintenance or streets and open space after construction.
+         (f)   Topographical features.
+         (g)   Minimum disruption of irrigation and drainage systems serving
+other lands.
+         (h)   Solid waste disposal.
+   (B)   All lots shall have usable access onto a public street. Principal
 access to a lot from an alley is prohibited.
-   (D)   Pavement and right-of-way width for streets shall be determined to be
+   (C)   Pavement and right-of-way width for streets shall be determined to be
 adequate to accommodate two-way traffic flow through the subdivision, the use
-of emergency and maintenance vehicles within the subdivision and right-of-way
+of emergency and maintenance vehicles within the subdivision, and right-of-way
 for all utilities and their maintenance. The right-of-way width shall not be
-less than 45 feet, however.
-   (E)   All streets will be paved and drained to the specifications of the
-Town Council.
-   (F)   All roads, streets and alleys shall be graded to the full width of
+less than 45 feet.
+   (D)   All streets will be paved and drained to the specifications of the
+Council.
+   (E)   All roads, streets, and alleys shall be graded to the full width of
 said roadway and all culverts, bridges and storm sewers shall be constructed
 for the full width of the roadway.
-   (G)   Cul-de-sacs and dead end streets shall have a turning circle of at
-least 75 feet in diameter at their end and shall be not longer than 600 feet.
-   (H)   Streets shall intersect at right angles whenever possible.
-   (I)   When provided, an alley right-of-way shall be not less than 20 feet in
+   (F)   Cul-de-sacs and dead-end streets shall have a turning radius of at
+least 75 feet in diameter at their end and shall be no longer than 600 feet.
+   (G)   Streets shall intersect at right angles whenever possible.
+   (H)   When provided, an alley right-of-way shall be not less than 20 feet in
 width.
-   (J)   No town utilities shall be provided on private rights-of-way.
-   (K)   All underground utilities shall be installed by the subdivider to the
+   (I)   No town utilities shall be provided within private rights-of-way.
+   (J)   All underground utilities shall be installed by the subdivider to the
 property line of each lot prior to street surfacing.
-   (L)   Drainage through natural or human-made drainage ways shall be
-certified as adequate by a registered engineer prior to approval.
-   (M)   All areas subject to erosion, or made subject to erosion during
-construction, shall be stabilized.
-   (N)   Street names shall be compatible with the existing street names and
+   (K)   Drainage through natural or man-made drainage ways shall be certified
+as adequate by a registered engineer prior to approval.
+   (L)   All areas subject to erosion or made subject to erosion during
+construction shall be stabilized.
+   (M)   Street names shall be compatible with the existing street names and
 shall be approved by the Council.
-   (O)   Street lighting shall be provided of at least equal intensity as
-existing in the town.
-   (P)   The final plat of the subdivision shall reflect all recommendations of
+   (N)   Street lighting shall be provided of at least equal intensity as
+existing lighting in the town.
+   (O)   The final plat of the subdivision shall reflect all recommendations of
 the Commission and approved by the Council. It shall conform to the drawing
-standards of the County Subdivision Regulations (Subdivision Regulations for
-Big Horn County, Chapter XIV, Section 1, Quality of Final Plat). The Town
-Clerk/Treasurer shall be provided with reproducible copies of as-built maps of
-all utilities installed by the applicant.
-   (Q)   The final plat shall be accompanied by:
-      (1)   Copies of all covenants attached to the subdivision;
+standards of the Big Horn County Subdivision Regulations (Subdivision
+Regulations for Big Horn County, Chapter XIV, Section 1, Quality of Final
+Plat). The Town Clerk shall be provided with ten copies of as-built maps of all
+utilities installed by the applicant.
+   (P)   The final plat shall be accompanied by:
+      (1)   Copies of all covenants attached to the subdivision.
       (2)   Evidence satisfactory to the Council that the applicant has
 adequate financial resources to develop and complete any facility proposed or
-represented to be the responsibility of the applicant, including, but not
-limited to, water systems, sewage systems, streets and roadways. The applicant
+represented to be the responsibility of the applicant, including but not
+limited to water systems, sewage systems, streets and roadways. The applicant
 shall provide a performance bond, escrow monies or other sufficient financial
 commitments to assure that any facilities proposed or represented to be part of
-the subdivision shall in fact be completed as proposed;
+the subdivision shall, in fact, be completed as proposed.
       (3)   Approval of the subdivision sewage collection and water
-distribution system by the Department of Environmental Quality; and
-      (4)   A contract between the town and applicant ready for signature,
+distribution system by the Department of Environmental Quality.
+      (4)   A contract between the town and applicant, ready for signature,
 approved by the Town Attorney, specifying the exact nature of public
-improvements to be completed by the applicant. The contract shall stipulate the
-kind and quality of materials to be used and provide for continuing inspection
-by a designated inspector as work progresses. The guarantee of adequacy of
-improvements shall be contained in the contract and shall be binding for one
-year after the completion date assigning liability to the applicant for failure
-due to poor workpersonship or materials. Failure to meet the terms of the
-contract shall cause the developer to forfeit the money set up as security to
-the town for the purpose of completing the terms of the contract. A penalty may
-also be assigned as provided in §
+improvements shall be completed by the applicant. The contract shall stipulate
+the kind and quality of materials to be used and provide for continuing
+inspections by a qualified and designated inspector as work progresses. The
+guarantee of adequacy of improvements shall be contained in the contract and
+shall be binding for one year after the completion date, assigning liability to
+the applicant for failure due to poor workmanship or materials. Failure to meet
+the terms of the contract shall cause the developer to forfeit the money set
+aside as security to the town for the purpose of completing the terms of the
+contract. A penalty may also be assigned as provided in §
 152.999.
-   (R)   Subdivisions may contain a variety of uses; provided that standards
-are adopted to ensure compatibility or adequate buffering between those uses.
-These standards shall include, but are not limited to, setbacks; special
-building arrangements, if necessary for proper solar alignment; and building
-standards for individual uses, such as commercial or manufactured home parks.
-These standards will be reviewed by the Council and, when approved, shall be
-incorporated into the town development code as special neighborhood standards.
-Individual covenants of the subdivision, such as minimum square footage of the
-structures, minimum price of home, style of architecture and the like shall not
-be incorporated into the code or enforced by the town, but must meet or exceed
-the standards established in this chapter.
-   (S)   Subdividers shall be responsible for providing or constructing all of
-the following improvements to the town’s standards:
-      (1)   Streets and alleys;
-      (2)   Street signs shall be installed at all intersections;
-      (3)   Street lighting;
-      (4)   Stormwater drainage facilities;
-      (5)   Sidewalks;
-      (6)   Sanitary sewers;
-      (7)   Potable water lines;
-      (8)   Fire hydrants shall be installed at necessary intervals and
-provided with standard hose connections, as specified by the fire district;
-      (9)   Irrigation lines; and
-      (10)   Other improvements, such as bridges, culverts and the like, not
+   (Q)   Subdivisions may contain a variety of uses, provided standards are
+adopted to ensure compatibility or adequate buffering between those uses. These
+standards shall include, but are not limited to setbacks, special building
+arrangements, if necessary for proper solar alignment, and building standards
+for individual uses, such as commercial or manufactured home parks. These
+standards will be reviewed by the Commission and when approved by the Council,
+shall be incorporated into this code as special neighborhood standards.
+Individual covenants or the subdivision, such as the minimum square footage of
+the structures, minimum price of home, style of architecture, etc. shall not be
+incorporated into this code or enforced by the town but must meet or exceed the
+standards established in this code.
+   (R)   Sub-dividers shall be responsible for providing or constructing the
+following improvements to the town’s standards:
+      (1)   Streets and alleys.
+      (2)   Street signs shall be installed at all intersections.
+      (3)   Street lighting.
+      (4)   Storm water drainage facilities.
+      (5)   Sidewalks.
+      (6)   Sanitary sewers.
+      (7)   Potable water lines.
+      (8)   Fire hydrants shall be installed at required intervals and provided
+with standard hose connections as specified by the Fire District.
+      (9)   Irrigation lines.
+      (10)   Other improvements, such as bridges, culverts, etc., not
 specifically mentioned herein but found necessary by the town due to conditions
 found on the site.
-   (T)   The subdivider shall dedicate to the town a park site equivalent in
-area to at least 6% of the total area being subdivided; provided such park land
+   (S)   The sub-divider shall dedicate to the town, a park site equivalent in
+area to at least 6% of the total area being subdivided, provided such park land
 is located within 1,200 feet of all lots in the proposed subdivision and is
-approved by the Council as to location; or, at the option of the town, the
-subdivider shall, in lieu of such dedication, pay to the town a cash amount
-equal to at least 6% of the raw land value of the total land area in the
+approved by the Council as to location or, at the option of the town, the sub-
+divider shall, in lieu of such dedication, pay to the town a cash amount equal
+to at least 6% percent of the raw land value of the total land area in the
 proposed subdivision. The price of such land shall be established and agreed
-upon by the town and the subdivider prior to accepting the final plat of such
-subdivision. If the town and subdivider fail to agree on the value of said
+upon by the town and the sub-divider prior to accepting the final plat of such
+subdivision. If the town and sub-divider fail to agree on the value of said
 land, the value shall be established by an independent appraiser mutually
-acceptable to the subdivider and the town. Such payment shall be used only for
+acceptable to the sub-divider and the town. Such payment shall be used only for
 the acquisition or development of parks, playgrounds or other similar public
 purposes.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.089 MINOR SUBDIVISIONS.
-   Minor subdivisions require a compliance permit approved by the Planning
-Commission and reported to the Town Council. All minor subdivisions shall be of
-sound layout, create usable building lots and meet applicable zoning
-requirements. To be considered a minor subdivision, all required utilities,
-streets and other infrastructure must already be in place and available to
-serve the subdivision. Subdivisions that require the extension of utilities,
-streets or other infrastructure shall be processed as major subdivisions.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    Minor subdivisions require a compliance permit approved by the Commission
+and reported to the Council. All minor subdivisions shall be of sound layout,
+create usable building lots, and meet applicable zoning requirements. To be
+considered a minor subdivision, all required utilities, streets and other
+infrastructure must already be in place and available to service the
+subdivision. Subdivisions that require the extension of utilities, streets or
+other infrastructure shall be processed as major subdivisions.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.090 MANUFACTURED HOME COURTS.
-   (A)   All manufactured home courts shall be evaluated for their impacts on
+   (A)    All manufactured home courts shall be evaluated for their impact on
 the town’s water supply and distribution system, sewage collection and
 treatment system, solid waste collection and disposal program, fire protection
 facilities and streets. Manufactured home courts shall also be evaluated for
-their internal circulation and access patterns; unit size, arrangement and
-layout; and their relationship to natural conditions of soil type, drainage and
+their internal circulation and access patterns, unit size, arrangement and
+layout and their relationship to natural conditions of soil type, drainage and
 hydrology, slopes, floodplains and other natural resources considerations.
-   (B)   All spaces shall be at least 4,000 square feet and at least 40 feet
+   (B)   All spaces shall be at least 4,000 square feet and at least 50 feet
 wide.
    (C)   Manufactured homes shall be at least ten feet from all property lines.
-Where spaces are located side by side, there shall not be less than 20 feet
-between manufactured homes. Where spaces are located end to end, there shall
-not be less than 20 feet between manufactured homes.
+Where spaces are located side-by-side, there shall not be less than 20 feet
+between homes. Where spaces are located end-to- end, there shall not be less
+than 20 feet between mobile homes.
    (D)   Manufactured homes shall be located at least 20 feet from all park
 roadways and at least 20 feet from all public rights-of-way.
-   (E)   All manufactured home courts shall have safe access onto a public
-roadway.
+   (E)   All mobile home courts shall have safe access onto a public roadway.
    (F)   Pavement and right-of-way width shall be determined to be adequate to
-accommodate two-way traffic flow through the court, the movement of
-manufactured homes, the use of emergency and maintenance vehicles and right-of-
+accommodate two- way traffic flow through the courts, the movement and
+manufactured home, the use of emergency and maintenance vehicles, and right of
 way for all utilities and their maintenance. The right-of-way width shall not
 be less than 45 feet.
-   (G)   All streets will be graveled and paved to the specifications of the
-town’s master plan.
-   (H)   Drainage through natural or human-made drainage shall be certified as
-adequate by a registered engineer prior to approval.
-   (I)   An extra vehicle parking area for recreational vehicles and the like
-shall be provided at a rate of one space per manufactured home lot.
-   (J)   All areas subject to erosion or made subject to erosion during
-construction shall be stabilized.
+   (G)   All streets will be engineered and paved to the specifications of the
+town master plan.
+   (H)   Drainage through natural or man-made drainage shall be certified as
+adequate by a registered engineer prior to approval of the permit.
+   (I)   An extra vehicle parking area for recreational vehicles, etc. shall be
+provided at the rate of one space per mobile home lot.
+   (J)   All areas subject to erosion, or made subject to erosion during
+construction, shall be stabilized.
    (K)   All spaces shall be provided with a concrete pad or permanent material
-with anchors provided to stabilize the manufactured home.
+with anchors provided to stabilize the mobile home.
    (L)   All spaces shall be provided with a paved parking space large enough
 for two automobiles.
    (M)   Garbage containers shall be provided which are adequately sized to
 contain all refuse generated. The containers shall be accessible by all-weather
-walkways. Arrangements for garbage pickup shall be made with occupants’
+walkways. Arrangements for garbage pickup shall be made with occupants,
 responsibility, if any, clearly identified.
-   (N)   All-weather walkways provided for pedestrian use must be a minimum of
-three feet in width.
-   (O)   All manufactured home courts shall meet the minimum standards for fire
-protection in manufactured home courts set forth by the State Department of
-Fire Protection and Electrical Safety.
-   (P)   Skirting of all manufactured homes shall be required within 60 days
-after occupancy in the manufactured home court. Skirting material shall consist
-of wood or wood products, stucco, brick, rock, lap steel, lap aluminum or lap
+   (N)   All-weather sidewalks provided for pedestrian use must be a minimum of
+three feet wide.
+   (O)   All mobile home courts shall meet the minimum standards for fire
+protection in mobile home courts set forth by the State Department of Fire
+Protection and Electrical Safety.
+   (P)   Skirting of all mobile homes shall be required within 60 days after
+occupancy in the manufactured home court. Skirting material shall consist of
+wood or wood products, stucco, brick, rock, lap steel, lap aluminum or lap
 vinyl. One or a combination of these materials shall be used to cover the
-exterior of the housing unit. The manufactured home court owner shall be
-responsible to enforce this standard.
-   (Q)   No attachments, additions, alterations or modification of the exterior
-walls of a manufactured home are allowed except those approved by the
-manufacturer for the specific unit. All other additions, porches, decks, garage
-or other add-on attachments must be free-standing and self-supporting with no
-structural reliance on the manufactured unit. The manufactured home court owner
-shall be responsible to enforce this standard.
+exterior of the housing unit. The mobile home court owner shall be responsible
+for enforcing this standard.
+   (Q)   No attachments, additions, alterations or modifications of the
+exterior walls of a mobile home are allowed except those approved by the
+manufacturer for the specific unit. All other additions, porches, decks,
+garage, or other add-on attachments must be free-standing and self-supporting
+with no structural reliance on the manufactured unit. The mobile home court
+owner shall be responsible for enforcing this standard.
    (R)   The final plan shall reflect all recommendations of the Council. The
-Town Clerk/Treasurer shall be provided with one reproducible and two paper
-copies of the final plan. The Town Clerk/Treasurer shall also be provided with
-reproducible copies of as-built maps of all utility lines installed by the
-applicant. The final plan shall be filed in the office of the County Clerk as a
-record of survey and shall meet requirements of a record of survey.
-   (S)   The final plan shall be accompanied by:
+Town Clerk shall be provided with one reproducible and ten paper copies of the
+final plan. The Town Clerk shall also be provided with reproducible copies of
+as-built maps of all utility lines installed by the applicant. The final plan
+shall be filed in the office of the County Clerk as a Record of Survey and
+shall meet the requirements of a Record of Survey.
+   (S)   Street names shall be compatible with existing street names in the
+town and will be approved by the Council.
+   (T)   Street lighting shall be provided of at least equal intensity as
+existing lighting in the town.
+   (U)   The final plan shall be accompanied by:
       (1)   Approval of the sewage collection and water distribution systems
-from the Department of Environmental Quality and approval by the State Health
-Department; and
+from the Department of Environmental Quality and approved by the State Health
+Department.
       (2)   A contract between the town and the applicant ready for signature,
 approved by the Town Attorney, specifying the exact nature of all improvements
 to be completed by the applicant. This contract, when fulfilled, shall be
-deemed a license to operate the manufactured home court. No units may be
-occupied or spaces rented or leased until all improvements are completed. The
-contract may include provisions for phasing improvements subject to a plan
-approved by the town.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+deemed a license to operate the mobile home court. No units may be occupied, or
+spaces rented or leased until all improvements are completed. The contract may
+include provisions for phased improvements subject to a plan approved by the
+town.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.091 LOCATION OF PUBLIC AND QUASI-PUBLIC USES.
-   Parks, schools, churches and other public or quasi-public uses may be
-permitted in any area of town if approved by the Town Council. Parking space,
-traffic flow and safe access shall be considered where applicable.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    Parks, schools, churches and other public or quasi-public uses may be
+permitted in any area of town if approved by the Council. Parking space,
+traffic flow, and safe access shall be required where applicable.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.092 MOBILE HOMES.
    MOBILE HOMES, as defined in §
-152.003, are not allowed within the town and shall not be installed, placed,
-set or stored anywhere within the town limits after the effective date of this
-chapter. Legally existing mobile homes, including those in legally existing
-mobile or manufacture home courts, are allowed to remain as non-conforming uses
-under the terms of §§
+152.003 are not allowed within the town, except in an approved mobile home
+court, and shall not be installed, placed, set, or stored anywhere with the
+town limits after the effective date of this chapter. Legally existing mobile
+homes, including those in legally existing mobile or manufactured home courts,
+are allowed to remain as non-conforming uses as defined in §§
 152.130 through
-152.138 and subject to the following additional requirements: an existing
-mobile home that becomes uninhabitable for any reason, that is destroyed or
-that is removed from its present location may not be replaced with another
-mobile home. The existing mobile home may be replaced with a manufactured home
-meeting the requirements of §
+152.139 and subject to the following additional requirements:
+   (A)   Any non-conforming mobile home that is vacant for a period of 180
+consecutive days shall be removed from within the town limits and the non-
+conforming status of the property becomes void.
+   (B)   An existing mobile home that becomes uninhabitable for any reason, is
+destroyed, or that is removed from its present location, may not be replaced
+with another mobile home. The existing mobile home may be replaced with a
+manufactured home meeting the requirements of §
 152.093.
-(Ord. 294, passed 3-25-2014)
-§ 152.093 MANUFACTURED HOMES.
-   (A)   Manufactured homes, as defined in §
-152.003, are allowed within the town, subject to the following requirements:
-structures shall be attached to a permanent foundation in accordance with the
-U.S. Department of Housing and Urban Development Handbook, Permanent
-Foundations Guide for Manufactured Housing, September 1996.
-      (1)   Manufactured homes shall have a minimum width of 16 feet and
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.093 MANUFACTURED/MODULAR HOMES.
+   (A)   MANUFACTURED HOMES, as defined in §
+152.003, are allowed within the town, subject to the following requirements:
+      (1)   Manufactured homes shall be attached to a permanent foundation as
+defined in this code. Any reenforcing required along the interior framework, as
+recommended by the manufacturer, shall be constructed of concrete suitable to
+withstand the intended load.
+      (2)   Manufactured homes shall have a minimum width of 16 feet and
 minimum length of 32 feet.
-      (2)   Siding material shall consist of wood or wood products, stucco,
+      (3)   Siding material shall consist of wood or wood products, stucco,
 brick, rock, lap steel, lap aluminum or lap vinyl. One or a combination of
 these materials shall be used to cover the exterior of the housing unit.
-      (3)   No attachments, additions, alterations or modifications to the
+      (4)   No attachments, additions, alterations or modifications to the
 exterior walls of a manufactured home are allowed, except those approved by the
 manufacturer for the specific unit. All other additions, porches, decks, garage
 or other add-on attachments must be freestanding and self-supporting with no
 structural reliance on the manufactured unit itself.
-      (4)   All towing devices, wheels, axles and undercarriage support used
+      (5)   All towing devices, wheels, axles, and undercarriage support used
 solely for initial transportation of the home will be removed from the property
 within 30 days of delivery to the site. This equipment may not be stored on
 town property.
-      (5)   Structures will contain under-floor areas that are ventilated by an
-approved mechanical means or by openings into the under-floor area walls.
-      (6)   The structure shall be oriented on the lot so that the front
+      (6)   The structure shall be oriented to the lot so that the front
 entrance door of the structure faces a side of the lot that abuts a public
 street.
       (7)   All manufactured homes shall be new units at the time of
 installation.
    (B)   Manufactured homes to be installed in legally existing manufactured
-home courts are not required to meet the requirements of divisions (A)(1), (A)
-(2) and (A)(7) above. Such units shall meet the requirements of divisions (A)
-(3) and (A)(6) above.
-   (C)   Manufactured homes to be installed as a replacements for non-
-conforming mobile or manufactured homes on town lots outside of manufactured
-home courts are not required to meet the requirements of divisions (A)(2), (A)
-(6) and (A)(7) above. Such replacement units shall meet the requirements of (A)
-(1), (A)(2), (A)(3), (A)(4) and (A)(5) above as well as the following
-additional requirements:
-      (1)   The replacement unit shall be not more than ten years old; and
+home courts are not required to meet the requirements of divisions (A)(1) and
+(A)(2). Such units shall meet the requirements of divisions (A)(3) and (A)(6).
+   (C)   Manufactured homes to be installed as a replacement for non-conforming
+mobile or manufactured homes on town lots outside of manufactured home courts
+are not required to meet the requirements of division (A)(7). Such replacement
+units shall meet the requirements of division (A)(1), through (A)(4) and (A)
+(6), as well as the following additional requirements:
+      (1)   The replacement unit shall be not more than ten years old.
       (2)   The original mobile home or manufactured home shall be removed from
-the property within 30 days following installation of the replacement unit.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+the property and outside the town limits within 30 days following installation
+of the replacement unit.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.094 LANDSCAPING.
-   (A)   When landscaping is required by this chapter, the applicant shall
-provide a landscaping plan for the Planning Commissions’s review and the Town
-Council’s approval as part of the compliance permit application.
-   (B)   Required landscaping shall consist of planting materials, including,
-but not limited to, sod, trees, shrubs, ground covers, grasses, flowers,
-decorative rock, bark, mulch and similar materials. Landscaping shall be
-completed within one year from the date of occupancy of the building. All live
-landscaping shall be properly maintained. All dead or dying landscaping shall
-be replaced immediately and all sodded areas mowed, fertilized and irrigated on
-a regular basis.
-(Ord. 294, passed 3-25-2014)
+    When landscaping is required by the chapter, the applicant shall provide a
+landscaping plan for the Commission’s review and the Council’s approval as part
+of the compliance permit application. Required landscaping shall consist of
+planting materials, including but not limited to sod, trees, shrubs, ground
+covers, grasses, flowers, decorative rock, bark, mulch, and similar materials.
+Landscaping shall be completed within one year from the date of occupancy of
+the building. All live landscaping shall be properly maintained. All dead or
+dying landscaping shall be replaced immediately and all sodded areas mowed,
+fertilized and irrigated on a regular basis.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.095 NEW CONSTRUCTION REQUIRED.
-   All buildings of any type and in any zoning district constructed or
-installed after adoption of this chapter shall be of new construction or
+    All buildings of any type and in any zoning district constructed or
+installed after adoption of this chapter, shall be of new construction or
 alteration of existing construction already at the site. Replacement
-manufactured homes are exempt from this requirement as provided in subsections
-b and c of Section 14.
-(Ord. 294, passed 3-25-2014)
+manufactured homes are exempt from this requirement as provided in §
+152.093(B) and (C).
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 ZONING DISTRICT REGULATIONS
 § 152.110 ZONING DISTRICTS ESTABLISHED.
-   In order to carry out the provisions of this chapter, the town is divided
-into the following zoning districts:
-   (A)   “R-1” Residential District;
-   (B)   “C-1” Downtown Commercial District;
-   (C)   “C-2” Business Park District;
-   (D)   “P” Public Uses District; and
-   (E)   “FP” Floodplain District.
-(Ord. 294, passed 3-25-2014)
+    To carry out the provisions of this chapter, the town is divided into the
+following zoning districts:
+   (A)   “R-1” - Residential District.
+   (B)   “C-1” - Downtown Commercial District.
+   (C)   “C-2” – Business Park District.
+   (D)   “P” – Public Uses District.
+   (E)   “FP” – Floodplain District.
+   (F)   “MH” - Mobile Home Court District.
+   (G)   “MF” – Multi-Family Dwelling District.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.111 ZONING MAP.
-   The official town zoning map shall be filed and available to the public at
-the Town Hall. The Town Clerk/Treasurer shall be responsible for revising the
-map whenever the Council amends the district boundaries.
-(Ord. 294, passed 3-25-2014)
+    The official town zoning map shall be filed and available to the public at
+the Town Hall. The Town Clerk shall be responsible for revising the map
+whenever the Council amends the district boundaries.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.112 DISTRICT BOUNDARIES.
-   The zoning district boundaries are shown on the zoning map. Unless otherwise
-defined on the zoning district map, district boundary lines are lot lines; the
-centerline of streets, alleys or such lines extended; public land survey lines;
-municipal corporate lines; or other lines drawn to scale on the zoning district
-map. Where a lot is divided at the time of enactment of this chapter, or by
-subsequent amendments, by a zoning district boundary line, the less restrictive
-zoning requirements may be extended not more than 25 feet into the more
-restrictive zoning district adjacent to the zoning district boundary line.
-(Ord. 294, passed 3-25-2014)
+    The zoning district boundaries are shown on the zoning map. Unless
+otherwise defined on the zoning district map, district boundary lines are lot
+lines; the centerline of streets, alleys, or such lines extended; public land
+survey lines; municipal corporate lines; or other lines drawn to scale on the
+zoning district map. Where a lot is divided at the time of enactment of this
+chapter, or by subsequent amendments, by a zoning district boundary line, the
+less restrictive zoning requirements may be extended not more than 25 feet into
+the more restrictive zoning district adjacent to the zoning district boundary
+line.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.113 PERMITTED USES.
-   In the following sections, permitted uses are listed for each zoning
+    In the following sections, permitted uses are listed for each zoning
 district. Uses not specifically listed are prohibited in that zoning district,
-unless the Planning Commission determines that the use is similar in nature to
-other uses within the same district. All permitted land uses must also conform
-to all applicable performance standards of §§
+unless the Commission determines that the use is similar in nature to other
+uses within the same district. All permitted land uses must also conform to all
+applicable performance standards of §§
+152.080 though
+152.095.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.114 “R-1” RESIDENTIAL DISTRICT.
+   (A)   Purpose. The Residential District is intended to promote peaceful,
+attractive residential neighborhoods with housing types that are protected from
+commercial and industrial uses. Limited commercial usage of properties fronting
+on U.S. Highway 310 will be considered. Commercial uses are intended to be
+highly compatible with, and not interfere with, residential uses.
+   (B)   Permitted uses.
+      (1)   Single-family residences.
+      (2)   Home businesses.
+      (3)   Residential-scale businesses.
+      (4)   Minor public uses and facilities.
+   (C)   Minimum lot size.
+      (1)   7,000 square feet for one- and two-family dwellings.
+      (2)   7,000 square feet for all other listed uses.
+   (D)   Average lot size minimum. In addition to meeting the minimum lot size
+requirements of division (C) above, the average lot size for major subdivisions
+in the “R-1” Residential District shall equal or exceed the following sizes:
+ 
+Number of Lots in Major Subdivision Average Lot Size Minimum
+1 to 4 lots                         7,000 square feet
+5 to 10 lots                        8,800 square feet
+11 to 20 lots                       10,700 square feet
+21 or more lots                     12,500 square feet
+ 
+   (E)   Minimum lot frontage.
+      (1)   For all uses the minimum lot frontage shall be 70 feet.
+   (F)   Minimum building setbacks. Buildings shall be setback from property
+lines and adjoining major structures as follows:
+ 
+                                         Corner Lot               Major
+Use           Front Setback Side Setback Side Street Rear Setback Adjoining
+                                         Setback                  Structure
+Single-family 20 feet       10 feet      20 feet     10 feet      10 feet
+dwellings
+Home          20 feet       10 feet      20 feet     10 feet      10 feet
+businesses
+Accessory     20 feet       10 feet      20 feet     10 feet      10 feet
+buildings
+ 
+   (G)   Maximum building height.
+      (1)   The maximum allowable building height as measured from the average
+ground level around the building shall be 35 feet.
+      (2)   The height limitations of this division shall not apply to church
+spires, belfries, cupolas, chimneys, ventilators, skylights, water tanks,
+parapet walls, cornices without windows, antennas or necessary mechanical
+appurtenances usually carried above the roof level, nor to buildings located
+more than one foot distant from the building setback lines for each two feet of
+building height.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
+152.999
+§ 152.115 “C-1” DOWNTOWN COMMERCIAL DISTRICT.
+   (A)   Purpose. The “C-1” Downtown Commercial District is the heart of the
+town and contains buildings of outstanding architectural value. A wide range of
+uses are anticipated here, primarily in existing buildings. These uses will
+include civic buildings, offices, retail and service businesses, church
+facilities and some residential use above storefronts.
+   (B)   Permitted uses.
+      (1)   Single-family residences.
+      (2)   Duplexes and townhouses.
+      (3)   Multi-family residences not exceeding four housing units per
+individual building.
+      (4)   Home businesses.
+      (5)   Minor public and quasi-public uses and facilities.
+      (6)   Major public uses and facilities.
+      (7)   Commercial uses.
+   (C)   Minimum lot size.
+      (1)   3,000 square feet for commercial uses.
+      (2)   Same as “R-1” for all other uses.
+   (D)   Minimum lot frontage.
+      (1)   24 feet for commercial uses.
+      (2)   Same as “R-1” for all other uses.
+   (E)   Minimum building setbacks.
+      (1)   There are no setback requirements for commercial uses in the “C-1”
+District.
+      (2)   Same as “R-1” for all other uses.
+   (F)   Maximum building height. Same as “R-1.”
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.116 “C-2” BUSINESS PARK COMMERCIAL DISTRICT.
+   (A)   Purpose. The “C-2” Business Park Commercial District is intended to
+facilitate the development of new commercial areas that can accommodate the
+relocation of existing businesses in the town, as well as new businesses that
+may be attracted to the town. Most available locations in town are small or are
+in primarily residential areas and therefore not ideal for most new or
+expanding businesses. The “C-2” district is intended to provide suitable sites
+for a wide range of commercial uses particularly those requiring new buildings
+on larger lots. The landscaping, site layout and architectural features of new
+uses in this district should be such that the overall appearance would be of a
+unified, spacious, and well-organized business district that creates a positive
+impression at the entrance of the community.
+   (B)   Permitted uses.
+      (1)   Minor public and quasi-public uses and facilities.
+      (2)   Major public uses and facilities.
+      (3)   Commercial uses.
+      (4)   Industrial uses.
+   (C)   Minimum lot size.
+      (1)   10,000 square feet for commercial and industrial uses.
+      (2)   Same as “R-1” for all other uses.
+   (D)   Minimum lot frontage.
+      (1)   80 feet for commercial and industrial uses.
+      (2)   Same as “R-1” for all other uses.
+   (E)   Minimum building setbacks.
+ 
+Use      Front Setback Side Setback Rear Setback Major Adjoining Structure
+All uses 40 feet       15 feet      15 feet      20 feet
+ 
+   (F)   Maximum building height. Same as “R-1” for all uses.
+   (G)   Floor area ratio. The floor area ratio for buildings in the “C-2”
+District shall be 0.2 or lower. The floor area ratio is gross floor area of all
+buildings on a lot divided by the total lot area.
+   (H)   Additional requirements. All uses and structures in the “C-2” District
+shall comply with the applicable performance standards of §§
 152.080 through
 152.095.
-(Ord. 294, passed 3-25-2014)
-§ 152.114 “R-1” RESIDENTIAL DISTRICT.
-   (A)   Purpose. The “R-1” Residential District is intended to promote
-peaceful, attractive residential neighborhoods with a variety of housing types
-that are protected from commercial and industrial uses. Limited commercial
-usage of properties fronting on Highway 310 will be considered. Commercial uses
-are intended to be highly compatible with, and not interfere with, residential
-uses.
-   (B)   Permitted uses. Permitted uses are as follows:
-      (1)   Single-family residences;
-      (2)   Duplexes and townhouses;
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.117 “P” PUBLIC USES DISTRICT.
+   (A)   Purpose. The “P” Public Uses District is intended to accommodate
+large-scale public uses and facilities including major parks, maintenance
+yards, schools and other similar uses.
+   (B)   Permitted uses.
+      (1)   Major public use and facilities.
+      (2)   Minor public uses and facilities.
+   (C)   Minimum lot size. The minimum lot size is 12,000 thousand square feet
+for all permitted uses.
+   (D)   Minimum lot frontage. The minimum lot frontage is 70 feet for all
+permitted uses.
+   (E)   Minimum building setbacks. The minimum building setback requirements
+are as follows:
+ 
+Use                Front Setback Side Setback Rear Setback Major Adjoining
+                                                           Structure
+All permitted uses 20 feet       10 feet      10 feet      10 feet
+ 
+   (F)   Maximum building height. Same as “R-1” for all uses.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.118 “FP” FLOODPLAIN DISTRICT.
+   (A)   The purpose of the Flood Management Overlay District is to minimize
+public and private losses due to flood conditions in specific areas along flood
+prone areas designed by the Federal Emergency Management Agency and the Federal
+Insurance Administration. The requirements of this chapter must be met in
+addition to those of the underlying zone district.
+   (B)   The areas of special flood hazard are identified on the flood
+insurance rate maps. The flood hazard area includes land within the 100-year
+floodplain.
+   (C)   The creation of this district does not imply that all areas outside of
+the overlay district will always be safe from flooding. Therefore, the
+establishment of this district shall not create liability on the part of the
+town, any officer or employee thereof, or the Federal Emergency Management
+Agency, for any flood damage that result from reliance on this chapter, or any
+administrative decisions lawfully made thereunder.
+   (D)   All uses permitted in the “FP” District are subject to special
+construction requirements and the applicant shall demonstrate that the proposed
+development will not increase the risk of flooding or flood damage for
+properties upstream or downstream of the site.
+   (E)   A compliance permit shall be obtained from the Council before
+construction or development begins within the “FP” District. The compliance
+permit application shall include information necessary to gauge the effect of
+the proposed development on floodplain management including a report by a
+Wyoming licensed professional engineer indicating the base flood height at the
+proposed location and conformance of the project with the standards of the “FP”
+District.
+   (F)   In all areas of special flood hazards, compliance with the following
+general standards is required:
+      (1)   Anchoring shall be required for all structures in accordance with
+the following:
+         (a)   All new construction and substantial improvements shall be
+anchored to prevent flotation, collapse or lateral movement of the structure.
+         (b)   All manufactured homes must be anchored to prevent flotation,
+collapse or lateral movement of the structure and shall be installed using
+methods and practices that minimize flood damage. Anchoring methods include,
+but are not limited to, use of over-the-top or frame ties to ground anchors.
+      (2)   Construction materials and methods shall conform to the following
+standards:
+         (a)   All new construction and substantial improvements shall be
+constructed with materials and utility equipment resistant to flood damage.
+         (b)   All new construction and substantial improvements shall be
+constructed using methods and practices that minimize flood damage.
+         (c)   Electrical, heating, ventilation, plumbing, and air-conditioning
+equipment and other service facilities shall be designed and/or otherwise
+elevated or located to prevent water from entering or accumulating within the
+components during conditions of flooding.
+      (3)   Utilities shall conform to the following standards:
+         (a)   All new and replacement water supply systems shall be designed
+to minimize or eliminate infiltration of flood waters into the system.
+         (b)   New and replacement sanitary sewage systems shall be designed to
+minimize or eliminate infiltration of flood waters into the systems and
+discharge from the systems into flood waters.
+         (c)   On-site waste disposal systems shall be located to avoid
+impairment to them or contamination from them during flooding.
+      (4)   Subdivision proposals shall conform to the following standards:
+         (a)   All subdivision proposals shall be designed and constructed
+consistent with the need to minimize flood damage.
+         (b)   All subdivision proposals shall have public utilities and
+facilities such as sewer, gas, electrical and water systems located and
+constructed to minimize flood damage.
+         (c)   All subdivision proposals shall have adequate drainage provided
+to reduce exposure to flood damage.
+   (G)   In all areas of the “FP” District, compliance with the following
+specific standards is required.
+      (1)   Residential construction shall conform to the following standards:
+         (a)   New construction and substantial improvement of any residential
+structure shall have the lowest floor, including basement elevated to a level
+equal to or greater than one foot above base flood elevation.
+         (b)   Fully enclosed areas below the lowest floor that are subject to
+flooding are prohibited or shall be designed to automatically equalize
+hydrostatic flood forces on exterior walls by allowing for the entry and exit
+of flood waters. Designs for meeting this requirement shall be certified by a
+Wyoming licensed professional engineer or architect.
+      (2)   Nonresidential construction. New construction and substantial
+improvement of any nonresidential structure shall either have the lowest floor,
+including basement, elevated to the level of the base flood elevation, or,
+together with attendant utility and sanitary facilities, shall:
+         (a)   Be flood-proofed so that below the base flood level the
+structure is watertight with walls substantially impermeable to the passage of
+water.
+         (b)   Have structural components capable of resisting hydrostatic and
+hydrodynamic loads and effects of buoyancy.
+         (c)   Be certified by a Wyoming licensed professional engineer or
+architect that the design and methods of construction are in accordance with
+accepted standards of practice for meeting provisions of this division based on
+their development and/or review of the structural design, specifications and
+plans.
+         (d)   Nonresidential structures that are elevated, but not flood-
+proofed, must meet the same standards for space below the lowest floor as
+described in division (G)(1)(a).
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
+152.999
+§ 152.119 MANUFACTURED/MOBILE HOME COURTS.
+   Shall meet all requirements defined in §
+152.090.
+(Ord. 335, passed 3-11-2025)
+§ 152.120 “MF” MULTI-FAMILY DWELLING DISTRICT.
+   (A)   Purpose. The Multi-Family Dwelling District is intended to promote
+peaceful, attractive residential neighborhoods with various housing types that
+are protected from commercial and industrial uses. Commercial uses are intended
+to be highly compatible with, and not interfere with, residential uses.
+   (B)   Permitted uses.
+      (1)   Single-family residences.
+      (2)   Duplexes and townhouses.
       (3)   Multi-family residences not exceeding four housing units per
-individual building;
-      (4)   Home businesses;
-      (5)   Residential-scale businesses; and
+individual building.
+      (4)   Home businesses.
+      (5)   Residential-scale businesses.
       (6)   Minor public uses and facilities.
-   (C)   Minimum lot size. The minimum lot sizes are as follows:
-      (1)   7,000 square feet for one- and two-family dwellings;
-      (2)   4,000 square feet per housing unit for multi-family dwellings;
-      (3)   4,000 square feet per housing unit for townhouses; and
+   (C)   Minimum lot size.
+      (1)   7,000 square feet for one- and two-family dwellings.
+      (2)   4,000 square feet per housing unit for multi-family dwellings.
+      (3)   4,000 square feet per housing unit for townhouses.
       (4)   7,000 square feet for all other listed uses.
    (D)   Average lot size minimum. In addition to meeting the minimum lot size
-requirements of division (C) above, the average lot size of major subdivisions
-in the “R-1” Residential District shall equal or exceed the following
-specifications:
+requirements of division (C) above, the average lot size for major subdivisions
+in the “MF” Multi-Family District shall equal or exceed the following sizes:
  
 Number of Lots in Major Subdivision Average Lot Size Minimum
 1 to 4 lots                         7,000 square feet
@@ -4404,399 +4639,218 @@ Number of Lots in Major Subdivision Average Lot Size Minimum
 70 feet.
       (2)   For townhouse dwellings, the minimum lot frontage shall be 20 feet
 for interior units and 35 feet for end units.
-   (F)   Minimum building setbacks. Buildings shall be set back from property
+   (F)   Minimum building setbacks. Buildings shall be setback from property
 lines and adjoining major structures as follows:
  
-                                           Corner Lot               Major
-Use           Front Setback Side Setback   Side Street Rear Setback Adjoining
-                                           Setback                  Structure
-Accessory     20 feet       10 feet        20 feet     10 feet      10 feet
-buildings
-                            10 feet for
-Duplexes and  20 feet       end units; no  20 feet     20 feet      20 feet
-townhouses                  setback for
-                            interior units
-Home          20 feet       10 feet        20 feet     10 feet      10 feet
-businesses
-Multi-family
-dwelling      20 feet       10 feet        20 feet     20 feet      20 feet
-buildings
-Single-family 20 feet       10 feet        20 feet     10 feet      10 feet
+                                         Corner Lot                  Major
+Use           Front Setback Side Setback Side Street    Rear Setback Adjoining
+                                         Setback                     Structure
+Single-family 20 feet       10 feet      20 feet        10 feet      10 feet
 dwellings
+                                         20 feet for
+Duplex and    20 feet       10 feet      end units. No  20 feet      20 feet
+townhouses                               setback for
+                                         interior units
+Multi-family  20 feet       10 feet      20 feet        20 feet      20 feet
+dwellings
+Home          20 feet       10 feet      20 feet        10 feet      10 feet
+businesses
+Accessory     20 feet       10 feet      20 feet        10 feet      10 feet
+buildings
  
    (G)   Maximum building height.
       (1)   The maximum allowable building height as measured from the average
-ground level about the building shall be 35 feet.
-      (2)   The height limitations of this division (G) shall not apply to
-church spires, belfries, cupolas, chimneys, ventilators, skylights, water
-tanks, parapet walls, cornices without windows, antennas or necessary
-mechanical appurtenances usually carried above the roof level; nor to buildings
-located more than one foot distant from the building setback lines for each two
-feet of building height.
-(Ord. 294, passed 3-25-2014) Penalty, see §
-152.999
-§ 152.115 “C-1” DOWNTOWN COMMERCIAL DISTRICT.
-   (A)   Purpose. The “C-1” Downtown Commercial District is the heart of the
-town and contains buildings of outstanding architectural value. A wide range of
-uses are anticipated here, primarily in existing buildings. These uses will
-include civic buildings, offices, retail and service businesses, church
-facilities and some residential use above storefronts.
-   (B)   Permitted uses. Permitted uses include the following:
-      (1)   Single-family residences;
-      (2)   Duplexes and townhouses;
-      (3)   Multi-family residences not exceeding four housing units per
-individual building;
-      (4)   Home businesses;
-      (5)   Minor public and quasi-public uses and facilities;
-      (6)   Major public uses and facilities; and
-      (7)   Commercial uses.
-   (C)   Minimum lot size. Minimum lot sizes include the following:
-      (1)   3,000 square feet for commercial uses; and
-      (2)   Same as “R-1” for all other uses.
-   (D)   Minimum lot frontage. Minimum lot frontage includes the following:
-      (1)   24 feet for commercial uses; and
-      (2)   Same as “R-1” for all other uses.
-   (E)   Minimum building setbacks. Minimum building setbacks include the
-following:
-      (1)   There are no setback requirements for commercial uses in the “C-1”
-District; and
-      (2)   Same as “R-1” for all other uses.
-   (F)   Maximum building height. Same as “R-1.”
-(Ord. 294, passed 3-25-2014)
-§ 152.116 “C-2” BUSINESS PARK COMMERCIAL DISTRICT.
-   (A)   Purpose. The “C-2” Business Park Commercial District is intended to
-facilitate the development of new commercial areas that can accommodate the
-relocation of existing businesses in the town as well as new businesses that
-may be attracted to the town. Most available locations in town are small or are
-in primarily residential areas and, therefore, not ideal for most new or
-expanding businesses. The “C-2” District is intended to provide suitable sites
-for a wide range of commercial uses particularly those requiring new buildings
-on larger lots. The landscaping, site layout and architectural features of new
-uses in this district should be such that the overall appearance would be of a
-unified, spacious and well-organized business district that creates a positive
-impression at the entrance to the community.
-   (B)   Permitted uses. Permitted uses include the following:
-      (1)   Minor public and quasi-public uses and facilities;
-      (2)   Major public uses and facilities;
-      (3)   Commercial uses; and
-      (4)   Industrial uses.
-   (C)   Minimum lot size. The minimum lot size includes the following:
-      (1)   10,000 square feet for commercial and industrial uses; and
-      (2)   Same as “R-1” for all other uses.
-   (D)   Minimum lot frontage. The minimum lot frontage includes the following:
-      (1)   80 feet for commercial and industrial uses; and
-      (2)   Same as “R-1” for all other uses.
-   (E)   Minimum building setbacks.
- 
-Use      Front Setback Side Setback Rear Setback Major Adjoining Structure
-All uses 40 feet       15 feet      15 feet      20 feet
- 
-   (F)   Maximum building height. Same as “R-1” for all uses.
-   (G)   Floor area ratio. The floor area ratio for buildings in the “C-2”
-District shall be 0.2 or lower. Floor area ratio is gross floor area of all
-buildings on a lot divided by the total lot area.
-   (H)   Additional requirements. All uses and structures in the “C-2” District
-shall comply with the applicable performance standards of §§
-152.080 through
-152.095.
-(Ord. 294, passed 3-25-2014)
-§ 152.117 “P” PUBLIC USES DISTRICT.
-   (A)   Purpose. The “P” Public Uses District is intended to accommodate
-large-scale public uses and facilities including major parks, maintenance
-yards, schools and other similar uses.
-   (B)   Permitted uses. Permitted uses include the following:
-      (1)   Major public use and facilities; and
-      (2)   Minor public uses and facilities.
-   (C)   Minimum lot size. The minimum lot size is 12,000 square feet for all
-permitted uses.
-   (D)   Minimum lot frontage. The minimum lot frontage is 70 feet for all
-permitted uses.
-   (E)   Minimum building setbacks. Minimum building setback requirements are
-as follows:
- 
-Use                Front Setback Side Setback Rear Setback Major Adjoining
-                                                           Structure
-All permitted uses 20 feet       10 feet      10 feet      10 feet
- 
-   (F)   Maximum building height. Same as “R-1” for all uses.
-(Ord. 294, passed 3-25-2014)
-§ 152.118 “FP” FLOODPLAIN DISTRICT.
-   (A)   (1)   The purpose of the Flood Management Overlay District is to
-minimize public and private losses due to flood conditions in specific areas
-along flood prone areas designated by the Federal Emergency Management Agency
-and the Federal Insurance Administration.
-      (2)   The requirements of this chapter must be met in addition to those
-of the underlying zone district.
-   (B)   The areas of special flood hazard are identified on the flood
-insurance rate maps. The flood hazard area includes land within the 100-year
-floodplain.
-   (C)   The creation of this district does not imply that all areas outside of
-the Overlay District will always be safe from flooding. Therefore, the
-establishment of this district shall not create liability on the part of the
-town, any officer or employee thereof, or the Federal Emergency Management
-Agency, for any flood damages that result from reliance on this chapter or any
-administrative decisions lawfully made thereunder.
-   (D)   All uses permitted in the “FP” District are subject to special
-construction requirements, and the applicant shall demonstrate that the
-proposed development will not increase the risk of flooding or flood damage for
-properties upstream or downstream of the site.
-   (E)   A compliance permit shall be obtained from the Council before
-construction or development begins within the “FP” District. The compliance
-permit application shall include information necessary to gauge the effect of
-the proposed development on floodplain management, including a report by a
-state-licensed professional engineer indicating the base flood height at the
-proposed location and conformance of the project with the standards of the “FP”
-District.
-   (F)   In all areas of special flood hazards, compliance with the following
-general standards is required.
-      (1)   Anchoring shall be required for all structures in accordance with
-the following.
-         (a)   All new construction and substantial improvements shall be
-anchored to prevent flotation, collapse or lateral movement of the structure.
-         (b)   All manufactured homes must be anchored to prevent flotation,
-collapse or lateral movement of the structure and shall be installed using
-methods and practices that minimize flood damage. Anchoring methods include,
-but are not limited to, use of over-the-top or frame ties to ground anchors.
-      (2)   Construction materials and methods shall conform to the following
-standards.
-         (a)   All new construction and substantial improvements shall be
-constructed with materials and utility equipment resistant to flood damage.
-         (b)   All new construction and substantial improvements shall be
-constructed using methods and practices that minimize flood damage.
-         (c)   Electrical, heating, ventilation, plumbing and air-conditioning
-equipment and other service facilities shall be designed and/or otherwise
-elevated or located so as to prevent water from entering or accumulating within
-the components during conditions of flooding.
-      (3)   Utilities shall conform to the following standards.
-         (a)   All new and replacement water supply systems shall be designed
-to minimize or eliminate infiltration of flood waters into the system.
-         (b)   New and replacement sanitary sewage systems shall be designed to
-minimize or eliminate infiltration of flood waters into the systems and
-discharge from the systems into flood waters.
-         (c)   On-site waste disposal systems shall be located to avoid
-impairment to them or contamination from them during flooding.
-      (4)   Subdivision proposals shall conform to the following standards.
-         (a)   All subdivision proposals shall be designed and constructed
-consistent with the need to minimize flood damage.
-         (b)   All subdivision proposals shall have public utilities and
-facilities such as sewer, gas, electrical and water systems located and
-constructed to minimize flood damage.
-         (c)   All subdivision proposals shall have adequate drainage provided
-to reduce exposure to flood damage.
-   (G)   In all areas of the “FP” District, compliance with the following
-specific standards is required.
-      (1)   Residential construction shall conform to the following standards.
-         (a)   New construction and substantial improvement of any residential
-structure shall have the lowest floor, including basement, elevated to a level
-equal to or greater than one foot above base flood elevation.
-         (b)   Fully enclosed areas below the lowest floor that are subject to
-flooding are prohibited, or shall be designed to automatically equalize
-hydrostatic flood forces on exterior walls by allowing for the entry and exit
-of flood waters. Designs for meeting this requirement shall be certified by a
-registered professional engineer or architect.
-      (2)   New construction and substantial improvement of any non-residential
-structure shall either have the lowest floor, including basement, elevated to
-the level of the base flood elevation or, together with attendant utility and
-sanitary facilities, shall:
-         (a)   Be flood proofed so that below the base flood level, the
-structure is watertight with walls substantially impermeable to the passage of
-water;
-         (b)   Have structural components capable of resisting hydrostatic and
-hydrodynamic loads and effects of buoyancy;
-         (c)   Be certified by a state-licensed professional engineer or
-architect that the design and methods of construction are in accordance with
-accepted standards of practice for meeting provisions of this division (G)
-based on their development and/or review of the structural design,
-specifications and plans; and
-         (d)   Non-residential structures that are elevated, not flood proofed,
-must meet the same standards for space below the lowest floor as described in
-subsection (H)(1)(b) of this section.
-   (H)   All manufactured homes to be placed or substantially improved in the
-“FP” District shall be elevated on a permanent foundation such that the lowest
-floor of the manufactured home is at least one foot above the base flood
-elevation and is securely anchored to an adequately anchored foundation system.
-(Ord. 294, passed 3-25-2014) Penalty, see §
-152.999
-NON-CONFORMING LOTS, USES AND STRUCTURES
+ground level around the building shall be 35 feet.
+      (2)   The height limitations of this division shall not apply to church
+spires, belfries, cupolas, chimneys, ventilators, skylights, water tanks,
+parapet walls, cornices without windows, antennas or necessary mechanical
+appurtenances usually carried above the roof level, nor to buildings located
+more than one foot distant from the building setback lines for each two feet of
+building height.
+(Ord. 335, passed 3-11-2025)
+NON-CONFORMING USES, LOTS AND STRUCTURES
 § 152.130 DEFINITIONS.
-   For the purpose of this subchapter, the following definitions shall apply
+    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-   NON-CONFORMING LOT. A lot of record that legally existed at the time this
-chapter was enacted and which is smaller than the present minimum lot area and/
-or frontage requirements of the zoning district where it is now located.
+   NON-CONFORMING LOT. A recorded lot that legally existed at the time this
+chapter was enacted, and which is smaller than the present minimum lot area
+and/or frontage requirements of the zoning district where it is located.
    NON-CONFORMING STRUCTURE. One that legally existed at the time of enactment
-of this chapter, and does not conform to the present requirements of the zoning
+of this chapter and does not conform to the present requirements of the zoning
 district for setbacks or other dimensional requirements.
-   NON-CONFORMING USE. Any use of land, premises, building or structure that
+   NON-CONFORMING USE. Any use of land, premises, building, or structure that
 legally existed prior to the enactment of this chapter, which has been
 continuously in use and is no longer a permitted use in the zoning district
-where it is now located.
-(Ord. 294, passed 3-25-2014)
+where it is located.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.131 CONTINUATION.
-   Non-conforming uses and non-conforming structures legally established, as
+    Non-conforming uses and non-conforming structures legally established as
 defined in §
-152.130, may continue, subject to the limitations set forth in this subchapter.
-(Ord. 294, passed 3-25-2014)
+152.130 may continue, subject to the limitations set forth in this subchapter.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.132 ENLARGEMENT, EXPANSION AND RELOCATION.
-   Non-conforming uses and structures shall not be enlarged or expanded and no
-non-conforming uses or structures shall be moved to another location where such
-use or structure would also be non-conforming, with the following exception:
-buildings that are non-conforming because of not meeting the side and/or rear
-setback requirements may be enlarged or expanded, provided the new sections of
-the building comply with all setback requirements.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    Non-conforming uses and structures shall not be enlarged or expanded, and
+no non-conforming uses or structures shall be moved to another location where
+such use or structure would also be non-conforming with the following
+exception: buildings that are non-conforming because of not meeting the side
+and/or rear setback requirements may be enlarged or expanded, provided the new
+sections of the building comply with all setback requirements.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.133 ALTERATION, MAINTENANCE AND REPAIR.
-   Non-conforming uses and structures may be maintained and repaired as
+    Non-conforming uses and structures may be maintained and repaired as
 necessary for their continued safe and convenient operation, although the use
 and structure shall not be enlarged.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.134 DESTRUCTION AND RECONSTRUCTION.
-   A non-conforming use or structure that is destroyed may be reconstructed as
-long as the reconstruction begins within six months of the date of destruction
-and the reconstruction does not increase the degree of non-conformity of the
-use or structure.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    A non-conforming use or structure that is destroyed may be reconstructed if
+it meets all the requirements of this code.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.135 CHANGE OF USE.
-   (A)   A non-conforming use may be changed to any use that is allowed in the
-zoning district in which the use is located.
-   (B)   No non-conforming use shall be changed to another use that is not
-authorized in that zoning district.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    A non-conforming use may be changed to any use that is allowed in the
+zoning district in which the use is located. No non-conforming use shall be
+changed to another use that is not authorized in that zoning district.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
 § 152.136 DISCONTINUANCE.
-   (A)   If a non-conforming use is discontinued for a period of one year, then
-the non-conforming use cannot be resumed.
-   (B)   Any future use of the site and structure must conform to the
-requirements of the zoning district.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+    If a non-conforming use is discontinued for a period of one year, the non-
+conforming use cannot be resumed. Any future use of the site and/or structure
+must conform to the requirements of the zoning district.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
-§ 152.137 REDUCTION OF LOT AREA.
+§ 152.137 REDUCTION OF LOT SIZE.
    The lot area of a non-conforming lot or parcel may not be reduced in size by
 division or subdivision of the lot.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025) Penalty, see §
 152.999
 § 152.138 NEW CONSTRUCTION ON NON-CONFORMING LOT.
-   Buildings and structures may be constructed or enlarged on any non-
-conforming lot; provided the proposed construction meets all other applicable
+    Buildings and structures may be constructed or enlarged on any non-
+conforming lot provided the proposed construction meets all other applicable
 requirements of this chapter, including setbacks.
-(Ord. 294, passed 3-25-2014) Penalty, see §
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)  Penalty, see §
 152.999
-PLANNING COMMISSION
+§ 152.139 DISCLOSURE UPON SALE.
+   Any non-compliant issues of lots or structures shall be disclosed to the
+buyer, upon which the new owner will have the option to correct the non-
+compliance issue or request a variance.
+(Ord. 335, passed 3-11-2025)
+COMMISSION
 § 152.150 APPOINTMENT; COMPOSITION; TERMS; REMOVAL; VACANCIES.
-   (A)   The Mayor, with the consent of the Council, shall appoint a Planning
-Commission consisting of five members. Each member shall be appointed for a
+   (A)    The Mayor, with the consent of the Council, shall appoint a
+Commission, consisting of five members. Each member shall be appointed for a
 term of three years.
-   (B)   The Council may remove any Commission member for cause upon written
-charges after public hearing. Vacancies shall be filled for the unexpired
-portion of a term.
-(Ord. 294, passed 3-25-2014)
+   (B)   The Council may remove any Commission member for cause. Upon a written
+request from the removed Commission member to the Council, a hearing before the
+Council shall be granted. Vacancies shall be filled for the unexpired portion
+of a term.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.151 ORGANIZATION AND MEETINGS.
-   (A)   The Planning Commission shall elect its own Chairperson, and may
-appoint a qualified secretary, who need not be a member of the Commission, and
-shall create and fill such other offices as it may determine it requires for
-the proper conduct of the affairs and business of the Commission. The
-Chairperson shall be elected yearly at the regular Planning and Zoning
+   (A)    The Commission shall elect its own Chairperson, and may appoint a
+qualified secretary, who need not be a member of the Commission, and shall
+create and fill such other offices as it may determine it requires for the
+proper conduct of the affairs and business of the Commission, such as a Vice-
+Chairperson to conduct the business of the Commission in the absence of the
+Chairperson. The Chairperson shall be elected annually at the regular
 Commission meeting held in January of each year and shall be eligible for
 reelection.
-   (B)   The Commission shall hold at least one regular meeting in each month,
-at such time and place as may be fixed by the Commission. Special meetings of
+   (B)   The Commission shall hold at least one regular meeting each month, at
+such a time and place as may be fixed by the Commission. Special meetings of
 the Commission may be called by the Chairperson, or in his or her absence, by
-any of the members of the Commission. A majority of the Commission shall
-constitute a quorum for the transaction of business.
-   (C)   Any member of the Planning Commission shall automatically disqualify
-himself or herself from voting on any decision on which he or she might have a
-personal interest by virtue of ownership of land to be affected by zoning, or
-other similar situation.
+the Vice-Chairperson. A majority of the Commission shall constitute a quorum
+for the transaction of business.
+   (C)   Any member of the Commission shall automatically disqualify themselves
+from voting on any decision which they might have a personal interest in by
+virtue of ownership of land to be affected by zoning, or other similar
+situations.
    (D)   All meetings shall be open to the public. The Commission shall adopt
 such other rules and regulations governing its organization and procedures as
 it may deem necessary, consistent with the laws of the town and state.
    (E)   All Commission resolutions, transactions, findings and determinations
 and minutes are public records and shall be filed in the Town Hall.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.152 COMPENSATION; STAFF; CONSULTANTS; EXPENDITURES.
-   (A)   The members shall serve without compensation, except for reasonable
-expenses. The Commission may appoint employees and staff necessary for its work
-and may contract with town planners and other consultants, including any
-appropriate agencies or departments of the state, for any service it requires.
+   (A)    The Commission members shall serve without compensation, except for
+reasonable expenses. The Commission, upon approval by the Council, may appoint
+employees and staff necessary for its work and may contract with city planners
+and other consultants, including any appropriate agencies or departments of the
+state, for any service it requires.
    (B)   Commission expenditures shall not exceed the amount of funds
-appropriated by the Council or obtained through gifts or otherwise.
-(Ord. 294, passed 3-25-2014)
+appropriated by the Council or obtained through gifts, donations, or otherwise.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.153 GENERAL POWERS OF COMMISSION.
-   The Commission has all powers necessary to perform its functions and promote
-municipal planning and may:
-   (A)   Make reports and recommendations relating to the plan and development
-of the town to public officials and agencies, other organizations and citizens;
-and
-   (B)   Recommend to the executive or legislative officials programs for
-public improvement and their financing.
-(Ord. 294, passed 3-25-2014)
+    The Commission has all necessary powers to perform its functions and
+promote municipal planning.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.154 SPECIFIC POWERS OF COMMISSION.
-   This chapter gives the Commission the following specific powers and duties
+    This chapter gives the Commission the following specific powers and duties
 in addition to any assigned to the Commission by statute:
-   (A)   Review and make the final decision on compliance permits for minor
-subdivisions; and
-   (B)   Review and make non-binding recommendations to the Council on all
+   (A)   Review and make decisions on compliance permits for minor
+subdivisions.
+   (B)   Review and make decisions on variances for single residences and minor
+subdivisions.
+   (C)   Review and make non-binding recommendations to the Council on all
 compliance permits that come before the Council.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 BOARD OF APPEALS
 § 152.165 COMPOSITION; TERMS; REMOVAL; VACANCIES.
-   (A)   The Town Planning and Zoning Commission shall serve as the Board of
-Appeals.
-   (B)   The Council may remove any Board member for cause upon written charges
-after public hearing. Vacancies shall be filled for the unexpired portion of a
-term.
-(Ord. 294, passed 3-25-2014)
+   (A)    The Commission of the town shall serve as the Board of Appeals.
+   (B)   The Council may remove any Commission member for cause. Upon a written
+request from the removed Commission member to the Council, a hearing before the
+Council shall be granted. Vacancies shall be filled for the unexpired portion
+of a term.
+   (C)   Upon the resignation of a Commission member, the Council shall fill
+the vacancy for the unexpired term.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.166 MEETINGS; PROCEDURE; RECORDS.
-   (A)   Board meetings shall be held at the call of the Chairperson and at
+   (A)    Board meetings shall be held at the call of the Chairperson and at
 such other times as the Board determines.
-   (B)   The Chairperson or, in his or her absence, the acting Chairperson may
+   (B)   The Chairperson, or in his or her absence, the acting Chairperson, may
 administer oaths and compel the attendance of witnesses.
    (C)   All Board meetings are open to the public.
    (D)   The Board shall keep minutes of its proceedings showing the vote of
 each member upon each question or if the member was absent or failed to vote.
 The Board shall also keep records of its examinations and other official
-actions. All minutes are public record and shall be filed in the Town Hall.
-(Ord. 294, passed 3-25-2014)
-§ 152.167 APPEALS TO BOARD; GROUNDS; HOW CONSTRUCTED; STAY OF PROCEEDINGS.
+actions. All minutes are public records and shall be filed in the Town Hall.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.167 APPEALS TO BOARD; GROUNDS; HOW CONDUCTED; STAY OF PROCEEDINGS.
    (A)   Any aggrieved person or any officer, department, board or bureau of
-the town affected by any decision of the Town Building Official may appeal to
-the Board. Appeals shall be taken within 14 days by filing with the Town Clerk/
-Treasurer and with the Board a notice of appeal specifying the grounds
-therefor. The Town Building Official shall immediately transmit to the Board
-the complete record of the action from which the appeal is taken.
+the town affected by any decision of the Building Official may appeal to the
+Board. Appeals shall be made within 14 days by filing with the Town Clerk and
+with the Board, a notice of appeal specifying the grounds, thereof. The
+Building Official shall immediately transmit to the Board the complete record
+of the action from which the appeal is taken.
    (B)   An appeal stays all proceedings in furtherance of the action appealed
-from, unless the Town Building Official certifies to the Board that, by reason
-of facts stated in the certificate, a stay, in his or her opinion, would cause
+from, unless the Building Official certifies to the Board that by reason of
+facts stated in the certificate, a stay, in his or her opinion, would cause
 imminent peril to life or property. In such cases, proceedings shall not be
-stayed other than by a restraining order granted by the district court for the
-district, or a judge thereof, on notice to the Town Building Official is taken,
-and on due cause shown.
-(Ord. 294, passed 3-25-2014)
+stayed, other than by a restraining order granted by the district court for the
+district, or a judge thereof, on notice to the Building Official is taken, and
+on due cause shown.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.168 POWERS AND DUTIES.
-   The Board makes final decisions for the items under its purview. Unlike
+    The Board makes final decisions for the items under its purview. Unlike
 compliance permits, Board decisions are not recommendations precedent to the
-Town Council’s final decision. The Board has the powers and duties as follows.
+Council’s final decision. The Board has the following powers and duties;
    (A)   The Board shall:
       (1)   Hear and decide appeals from and review any order, requirement,
-decision or determination made by the Town Building Official;
+decision or determination made by the Building Official.
       (2)   Fix a reasonable time for hearing an appeal, give public notice,
-adequate notice to the parties in interest and decide the appeal within a
+and adequate notice to the parties of interest and decide the appeal within a
 reasonable time. Any party may appear in person at a hearing or by agent or
-attorney; and
+attorney.
       (3)   Adopt rules in accordance with the provisions of this chapter.
    (B)   The Board has the power to:
       (1)   Vary or adjust the strict application of any of the requirements of
 this chapter in the case of any physical condition applying to a lot or
-building if the strict application would deprive the owner of the reasonable
+building, if the strict application would deprive the owner of the reasonable
 use of the land or building involved. No adjustment in the strict application
 of any provision of this chapter may be granted unless:
-         (a)   There are special circumstances or conditions, fully described
-in the Board’s findings, which are peculiar to the land or building for which
-the adjustment is sought and do not apply generally to land or buildings in the
-neighborhood, and have not resulted from any act of the applicant subsequent to
+         (a)   The are special circumstances or conditions fully described in
+the Board’s findings, which are peculiar to the land or building for which the
+adjustment is sought and do not apply generally to land or buildings in the
+neighborhood and have not resulted from any act of the applicant subsequent to
 the adoption of this chapter;
          (b)   For reasons fully set forth in the Board’s findings, the
 circumstances or conditions are such that the strict application of the
@@ -4807,126 +4861,143 @@ that will accomplish this purpose; and
          (c)   The granting of the adjustment is in harmony with the general
 purposes and intent of this chapter and will not be injurious to the
 neighborhood or otherwise detrimental to the public welfare.
-      (2)   Grant exceptions and variances upon request after a showing that an
+      (2)   Grant exceptions and variances upon request, after showing that an
 illegal construction or a non-conforming building or use existed for a period
 of at least five years in violation of this chapter and the town has not taken
-steps toward enforcement;
-      (3)   Reverse or affirm, wholly or partly, the order, requirement,
+steps toward enforcement.
+      (3)   Reverse or affirm wholly or partly, the order, requirement,
 decision or determination as necessary, but no power exercised under this
-division (B) shall exceed the power or authority vested in the Town Building
-Official; and
+paragraph shall exceed the power or authority vested in the Building Official.
       (4)   Hear and decide special exemptions to the setback provisions of
 this chapter which may, at the option of the Board, be granted with the
 approval of the adjoining landowner or landowners.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.169 VOTE REQUIRED.
-   The concurring vote of a majority of the Board is necessary to reverse any
+    The concurring vote of a majority of the Board is necessary to reverse any
 order, requirement, decision or determination of any administrative official,
 or to decide in favor of the application on any matter upon which it is
 required to pass under this chapter or to allow any variation from this
 chapter.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 ENFORCEMENT
-§ 152.180 “VIOLATION” DEFINED.
-   It shall be a violation of this chapter to make any use of property, or
+§ 152.180 AUTHORITY TO ENFORCE AND RIGHT OF ENTRY.
+   The Building Official shall have the authority to enforce the International
+Residential Code and this code. The Building Official or designee is authorized
+to enter a structure or property at reasonable times when they have probable
+cause to suspect that a condition contrary to, or in violation of, the
+International Building Code or this code exists. Contrary conditions shall be
+defined as those practices or uses deemed to be directly contrary to accepted
+building practices as set forth in the International Building Code or this
+code. If that structure or premises shall be occupied, the Building Official or
+designee shall present to the owner their credentials and request entry in the
+performance of their official duties. If such a structure or premises is
+unoccupied, the Building Official shall first make a reasonable effort to
+locate the owner, the owners authorized agent, or other person having charge or
+control of the structure or premises and request entry. If entry is refused,
+the Building Official shall have recourse to the remedies provided by law to
+secure entry.
+(Ord. 335, passed 3-11-2025)
+§ 152.181 IDENTIFICATION OF BUILDING OFFICIAL.
+   The Building Official shall be required to have official identification, and
+present such identification, as they perform the duties of inspections. This
+may include a name badge or official shield.
+(Ord. 335, passed 3-11-2025)
+§ 152.182 “VIOLATION” DEFINED.
+   It shall be a violation of this chapter to make any use of property or
 commence construction or other land development activities not expressly
-permitted by this chapter, without a compliance permit, or other approval
-granted pursuant to this chapter.
-(Ord. 294, passed 3-25-2014)
-§ 152.181 DISCOVERY OF VIOLATIONS.
-   The Town Building Official shall act upon violations discovered by any of
-the following means.
-   (A)   Complaints of zoning violations shall be made to the Town Building
-Official; any person, including any resident or landowner, and including any
-town officer or employee, may make a complaint. The Town Building Official
-shall investigate all complaints and shall take further action only if the Town
-Building Official verifies that a probable zoning violation exists.
-   (B)   The Town Building Official is authorized to review any public records
-to discover and investigate zoning violations.
-   (C)   The Town Building Official is authorized to discover and investigate
-zoning violations by:
-      (1)   Conducting on-site inspections of properties, provided the
-responsible party consents to the inspection;
+permitted by the chapter, without a compliance permit or a building permit, or
+other approval granted pursuant to this chapter.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.183 DISCOVERY OF VIOLATIONS.
+   The Building Official shall act upon violations discovered by any of the
+following means:
+   (A)   Complaints of violations shall be made to the Building Official. Any
+person, including any resident or landowner and including any town officer or
+employee, may make a complaint. The Building Official shall investigate all
+complaints and shall take further action only if the Building Official verifies
+that a probable zoning violation exists.
+   (B)   The Building Official is authorized to review any public records to
+discover and investigate zoning violations.
+   (C)   The Building Official is authorized to discover and investigate
+violations by:
+      (1)   Conducting on-site inspections of properties provided the party
+responsible consents to the inspection.
       (2)   Inspecting properties by viewing them from public areas including
 public streets, or from neighboring properties, provided the owner of such
-neighboring property consents;
-      (3)   Observing zoning violations in the course of conducting other town
-business for which the Town Building Official has permission to enter the
-property or which otherwise allows the Town Building Official to witness a
-violation;
+neighboring properties consents.
+      (3)   Observing violations in the course of conducting other town
+business for which the Building Official has permission to enter the property,
+or which otherwise allows the Building Official to witness a violation.
       (4)   Obtaining an inspection warrant from a court of competent
-jurisdiction if other means of inspecting a probable violation are ineffective;
-and
+jurisdiction if other means of inspecting a probable violation are ineffective.
       (5)   Other methods approved in advance by the Town Attorney.
-(Ord. 294, passed 3-25-2014)
-§ 152.182 INFORMAL RESOLUTION.
-   Upon finding that a zoning violation has probably occurred, the Town
-Building Official may attempt to resolve the matter informally by contacting
-the responsible party and discussing the violation. In the case of complaints,
-not more than 30 days shall be allowed for informal resolution. If informal
-resolution is not successful within the specified time, the Town Building
-Official shall issue a notice of violation.
-(Ord. 294, passed 3-25-2014)
-§ 152.183 NOTICE OF VIOLATION.
-   When the Town Building Official has determined that a zoning violation has
-probably occurred and informal resolution is unsuccessful or inappropriate due
-to the nature of the violation, the Town Building Official shall send a notice
-of violation to the responsible party by certified mail, return receipt
-requested. The notice shall state the location of the property, the nature of
-the violation, the section(s) of this chapter being violated, a time limit for
-compliance not exceeding ten days, the penalty for violations and suggested
-corrective actions. At the Town Building Official’s discretion, the time limit
-for compliance may be extended for an additional ten days if the landowner is
-making progress toward compliance. If substantial compliance is not achieved
-within the specified time, the Town Building Official shall refer the case to
-the Town Attorney for enforcement action pursuant to §
-152.184. A notice of violation may be appealed to the Board of Appeals,
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.184 INFORMAL RESOLUTION.
+   Upon finding that a violation has probably occurred, the Building Official
+may attempt to resolve the matter informally by contacting the responsible
+party and discussing the violation. In the case of complaints, no more than 30
+days shall be allowed for informal resolution. If informal resolution is not
+successful with the specified time, the Building Official shall issue a notice
+of violation.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.185 NOTICE OF VIOLATION.
+   When the Building Official has determined that a violation has probably
+occurred and informal resolution is unsuccessful or inappropriate due to the
+nature of the violation, the Building Official shall send a notice of violation
+to the responsible party by certified mail, return receipt requested. The
+notice shall state the location of the property, the nature of the violation,
+the section(s) of this chapter being violated, a time limit for compliance not
+exceeding ten days, the penalty for violations, and suggested corrective
+actions. At the Building Official’s discretion, the time limit for compliance
+may be extended for an additional ten days if the landowner is making progress
+toward compliance. If substantial compliance is not achieved with the specified
+time, the Building Official shall refer the case to the Town Attorney for
+enforcement action pursuant to §
+152.186. A notice of violation may be appealed to the Board of Adjustment
 pursuant to §§
 152.165 through
-152.169, and the notice of violation shall advise of this opportunity for
-appeal.
-(Ord. 294, passed 3-25-2014)
-§ 152.184 REFERRAL TO TOWN ATTORNEY.
+152.169 and the notice of violation shall advise of this opportunity to appeal.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.186 REFERRAL TO TOWN ATTORNEY.
    If a violation is not remedied within the time limit specified in a notice
-of violation, the Town Building Official shall refer the case to the Town
-Attorney for prosecution.
-(Ord. 294, passed 3-25-2014)
-§ 152.185 REVOCATION OF PERMITS.
-   If the Town Building Official finds that any construction is not in
-accordance with the information supplied on the permit application or is in
-violation of this or any other pertinent regulations, or should the Town
-Building Official find that there has been any misrepresentation in connection
-with the application for the permit, the Town Building Official shall notify
-the responsible party of such findings and notify him or her that the violation
-must be corrected. The responsible party shall have ten working days in which
-to reply to such notification. If such reply or correction is not made, the
-Town Building Official shall revoke the permit and shall provide to the
-responsible party a written notice of the revocation, including the reasons for
-the revocation and notice of the right of appeal to the Board of Appeals. No
-person shall proceed with any part of such construction after such notice is
-received.
-(Ord. 294, passed 3-25-2014)
-§ 152.186 OTHER REMEDIES.
+of violation, the Building Official shall refer the case to the Town Attorney
+for prosecution.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.187 REVOCATION OF PERMITS.
+   If the Building Official finds that any construction is not in accordance
+with the information supplied on the permit application or is in violation of
+this or any other pertinent regulations, or should the Building Official find
+that there has been any misrepresentation in connection with the application
+for the permit, the Building Official shall notify the responsible party of
+such findings and notify him or her that the violation must be corrected. The
+party responsible shall have ten working days in which to reply to such
+notification. If such a reply or correction is not made, the Building Official
+shall revoke the permit and shall provide the responsible party a written
+notice of the revocation, including the reasons for the revocation and notice
+of the right of appeal to the Board of Adjustment. No person shall proceed with
+any part of such constructions after such notice is received.
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
+§ 152.188 OTHER REMEDIES.
    In addition to any of the foregoing remedies, the Council may maintain an
 action for injunction to restrain any violation of this chapter.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 SCHEDULE
 § 152.200 FEE SCHEDULE.
-   The Council may, by resolution, establish and update a fee schedule for
-permits, determinations, applications and other services under this title,
-including, but not limited to, compliance permits, variances, appeals and
+    The Council may, by resolution, establish and update a fee schedule for
+permits, determinations, applications, and other services under this chapter,
+including but not limited to compliance permits, variances, appeals and
 amendments.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 § 152.999 PENALTY.
-   (A)   Any person who violates any provision of this chapter shall be subject
-to a penalty of up to $750. Each day in which the violation continues shall be
-deemed a separate offense.
+   (A)    Any person who knowingly violates any provision of this chapter shall
+be subject to a penalty of up to $750. Each day on which the violation
+continues shall be deemed a separate offense.
    (B)   Any person violating any provision of this chapter shall be guilty of
-a misdemeanor and, upon conviction thereof, shall be fined not more than $750
-for each offense. Each day during which the illegal erection, construction,
-reconstruction, alteration, maintenance or use continues shall be deemed a
+a misdemeanor and upon conviction thereof shall be fined not more than $750 for
+each offense. Each day during which the illegal erection, construction,
+reconstruction, alteration, maintenance, or use continues shall be deemed a
 separate offense.
-(Ord. 294, passed 3-25-2014)
+(Ord. 294, passed 3-25-2014; Ord. 335, passed 3-11-2025)
 CHAPTER 153: UNSAFE BUILDINGS
 Section
    
@@ -6499,11 +6570,9 @@ Wyo. Stat. Cite                        Code Section
 9-3-401 et seq.                        31.07
 9-3-412                                31.02
 9-3-412(b)                             31.03
-9-8-301 et seq.                        152.003
 15-1-103(a)(v)(xix and xxvi) and (xli) 153.02
 15-1-119                               70.01
 15-1-503 through 15-1-506              152.003
-15-1-510(b)                            152.002
 15-1-601 through 15-1-611              152.002
 15-1-602 through 15-1-603              152.009
 16-1-101                               32.01
@@ -6907,7 +6976,7 @@ Ord. No.  Date Passed Description
                       152.020-
                       152.025,
                       152.040-
-                      152.054,
+                      152.053,
                       152.065,
                       152.080-
                       152.095,
@@ -6919,8 +6988,8 @@ Ord. No.  Date Passed Description
                       152.154,
                       152.165-
                       152.169,
-                      152.180-
-                      152.186,
+                      152.182-
+                      152.188,
                       152.200,
                       152.999
 295       6-10-2014   TSO Table IX
@@ -6972,5 +7041,26 @@ Ord. No.  Date Passed Description
 333       6-11-2024   TSO Table IX
 334, 2024 10-8-2024   90.31,
                       90.41
+                      152.001-
+                      152.009,
+                      152.020-
+                      152.025,
+                      152.040-
+                      152.053,
+                      152.065,
+                      152.080-
+                      152.095,
+                      152.110-
+335       3-11-2025   152.120,
+                      152.130-
+                      152.139,
+                      152.150-
+                      152.154,
+                      152.165-
+                      152.169,
+                      152.180-
+                      152.188,
+                      152.200,
+                      152.999
                      
  
