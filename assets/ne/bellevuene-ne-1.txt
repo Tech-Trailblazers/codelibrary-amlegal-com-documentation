@@ -1,7 +1,7 @@
 BELLEVUE, NEBRASKA
 CODE OF ORDINANCES
-2025 S-9 Supplement contains:
-Local legislation through Ord. 4172, passed 1-21-2025
+2025 S-10 Supplement contains:
+Local legislation through Ord. 4190, passed 8-5-2025
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -8867,22 +8867,22 @@ Road to Lincoln Road, south along Lincoln Road to 24th Avenue, east along 24th
 Avenue to Calhoun Street, south along Calhoun Street to Modification Road,
 south and west along Modification Road to 29th Avenue, east along 29th Avenue
 to the east Bellevue city limit, south along the east Bellevue city limit to
-the south Bellevue city limit, west and north along the west Bellevue city
-limit to Modification Road, north and east along Modification Road to Calhoun
-Street, north along Calhoun Street to the south Bellevue city limit, west along
-the south Bellevue city limit to Fort Crook Road, south along Fort Crook Road
-to the east Bellevue city limit, south along the east Bellevue city limit to
-5th Street, south along 5th Street to the south Bellevue city limit, west along
-the south Bellevue city limit to US Highway 75, north along US Highway 75 to
-the east Bellevue city limit, south along the east Bellevue city limit to the
+the south Bellevue city limit, north along the west Bellevue city limit to the
 south Bellevue city limit, west along the south Bellevue city limit to
-Schneekloth Road, west along Schneekloth Road to 36th Street, north along 36th
-Street to Blackhawk Drive, east along Blackhawk Drive to Lone Tree Road, east
-along Lone Tree Road to Blackhawk Drive, east along Blackhawk Drive to 25th
-Street, north along 25th Street to Capehart Road, east along Capehart Road to
-the west Bellevue city limit, north along the west Bellevue city limit to Fort
-Crook Road, north along Fort Crook Road to Harlan Drive, east along Harlan
-Drive to the point of beginning; and
+Modification Road, north and east along Modification Road to Calhoun Street,
+north along Calhoun Street to the south Bellevue city limit, west along the
+south Bellevue city limit to Fort Crook Road, south along Fort Crook Road to
+the east Bellevue city limit, south along the east Bellevue city limit to 5th
+Street, south along 5th Street to the south Bellevue city limit, west along the
+south Bellevue city limit to the west Bellevue city limit, north along the west
+Bellevue city limit to the south Bellevue city limit, west along the south
+Bellevue city limit to Schneekloth Road, west along Schneekloth Road to 36th
+Street, north along 36th Street to Blackhawk Drive, east along Blackhawk Drive
+to Lone Tree Road, east along Lone Tree Road to Blackhawk Drive, east along
+Blackhawk Drive to 25th Street, north along 25th Street to Capehart Road, east
+along Capehart Road to the west Bellevue city limit, north along the west
+Bellevue city limit to Fort Crook Road, north along Fort Crook Road to Harlan
+Drive, east along Harlan Drive to the point of beginning; and
       (2)   The part of the City of Bellevue to the south of Offutt Air Force
 Base and east of Fort Crook Road.
    (B)   Ward Two.
@@ -8956,7 +8956,8 @@ north along 36th Street to the point of beginning.
 3087, § 1, passed 2-14-2000; Ord. 3187, §§ 1—6, passed 11-26-2001; Ord. 3461, §
 1, passed 4-14-2008; Ord. 3543, § 1, passed 11-23-2009; Ord. 3648, § 1, passed
 11-14-2011; Ord. 3756, § 1, passed 2-24-2014; Ord. 3981, § 1, passed 12-3-2019;
-Ord. 4066, § 1, passed 12-21-2021; Ord. 4111, § 1, passed 12-6-2022)
+Ord. 4066, § 1, passed 12-21-2021; Ord. 4111, § 1, passed 12-6-2022; Ord. 4175,
+§ 1, passed 2-18-2025; Ord. 4183, § 1, passed 5-6-2025)
 Editor’s note:
    An ordinance adopted to redistrict election wards must provide for districts
 substantially equal in population, and the most recent federal census must be
@@ -9352,14 +9353,16 @@ Statutory reference:
    State electrical standards, see Neb. RS 1943, § 81-2104(5)
 § 10-58 AMENDMENTS AND CHANGES TO CODES ADOPTED IN § 10-57.
    (A)   The 2023 National Electric Code is hereby amended, altered, modified
-and changed in the following respects:
-      (1)   Amend NEC 210-52(C), General Provisions, to add the following:
-         (4)   Countertop outlets shall be equally divided between all circuits
-provided.
+and changed in the following respects by adding:
+      (1)   Section 230.3 One Building or Other Structure Not to be Supplied
+Through Another. Service conductors supplying a building or other structure
+shall not pass through the interior of another building or other structure.
+      a. Feeders installed downstream of the service conductors shall not
+extend through any townhouse unit other than the unit served by such feeder.
       (2)   Amend NEC 210-52(C), Island and Peninsular Countertops and Work
 Surfaces, to add the following:
-         An island counter space shall be defined as a flat counter space with
-no elevation changes over the entire island surface. If a partial wall or back
+      An island counter space shall be defined as a flat counter space with no
+elevation changes over the entire island surface. If a partial wall or back
 splash is present, then that space shall be treated as kitchen countertop wall
 space and the rules and regulations of Article 210.52 (C) (1) shall apply.
 Receptable outlets, if installed to serve an island or peninsular countertop or
@@ -9368,24 +9371,24 @@ receptacle outlet is not provided to serve an island or peninsular countertop
 or work surface, provisions shall be provided at the island or peninsula for
 future addition of a receptacle outlet to serve the island or peninsular
 countertop or work surface.
-         (a)   Provisions is defined as a cable terminated in a junction box or
-a raceway to an accessible space in the island or peninsula.
+      (a) Provisions is defined as a cable terminated in a junction box or a
+raceway to an accessible space in the island or peninsula.
       (3)   Amend NEC 334.10(3), Uses Permitted, to provide as follows:
-         Delete this section in its entirety.
+      Delete this section in its entirety.
       (4)   Amend NEC 334.12, Uses Not Permitted, General Provisions, to add
 new #11 as follows:
-         (11) In commercial or industrial buildings. Where any part of a
-building or structure is commercial or industrial, the entire building or
-structure shall be wired as    commercial or industrial regardless of the type
-of occupancy.
-         Exception: Where dwelling units are separated from the commercial or
+      (11) In commercial or industrial buildings. Where any part of a building
+or structure is commercial or industrial, the entire building or structure
+shall be wired as commercial or industrial regardless of the type of occupancy.
+      Exception: Where dwelling units are separated from the commercial or
 industrial area by approved fire rated construction in accordance with the
 International Building Code.
 (Ord. 2868, § 1, passed 12-11-1995; Ord. 2902, § 2, passed 8-12-1996; Ord.
 2920, § 2, passed 11-12-1996; Ord. 3078, § 2, passed 1-24-2000; Ord. 3335, § 2,
 passed 9-27-2004; Ord. 3379, § 1, passed 10-24-2005; Ord. 3519, § 2, passed 5-
 11-2009; Ord. 3657, § 3, passed 11-28-2011; Ord. 3795, § 2, passed 12-8-2014;
-Ord. 3878, § 2, passed 8-14-2017; Ord. 4173, § 2, passed 12-17-2024)
+Ord. 3878, § 2, passed 8-14-2017; Ord. 4173, § 2, passed 12-17-2024; Ord. 4177,
+§ 1, passed 2-4-2025)
 CHAPTER 11: FINANCE
    Article
       
@@ -18449,14 +18452,14 @@ Section
    It is hereby declared unlawful for any person to conduct business as a
 peddler, solicitor, street vendor, mobile vendor, itinerant or transient
 merchant within the corporate boundaries of the city, unless the person so
-soliciting shall have first secured a license from the city clerk authorizing
+soliciting shall have first secured a license from the City Clerk authorizing
 him or her to conduct such operations within the corporate limits. A license
-shall not be required by any person under 16 years of age engaged in
+shall not be required by any person under 18 years of age engaged in
 solicitation associated with the delivery or distribution of newspapers or
-shopping news, or working on behalf of his or her own individual
-entrepreneurial endeavor.
+shopping news, or working on behalf of his or her school, scouts, or
+scholarship endeavor.
 (1964 Code, § 17-1) (Ord. 3504, § 1(23-1), passed 3-9-2009; Ord. 4122, § 1(23-
-1), passed 5-2-2023)
+1), passed 5-2-2023; Ord. 4189, § 1(23-1), passed 8-5-2025)
 § 23-2 PURPOSE.
    (A)   The purpose of this chapter is to prevent fraud and other crimes, to
 protect citizens of Bellevue from undue invasion of privacy, from undue
@@ -18510,61 +18513,56 @@ residential premises in the city.
 (Ord. 3504, § 1(23-3), passed 3-9-2009; Ord. 3564, § 1, passed 3-22-2010; Ord.
 4122, § 1(23-3), passed 5-2-2023)
 § 23-4 LICENSE APPLICATION CONTENTS.
-   Any person applying for a permit shall, in person at the office of the city
-clerk, present a valid, government-issued photo identification card of himself
-or herself, and file a written sworn application signed by the applicant
-showing:
-   (A)   The applicant’s name, the name of the person having the management or
-supervision of the applicant’s business during the time that is proposed that
-it will be carried on in the city; the applicant’s local address, the address
-of such person having the management or supervision of the applicant’s business
-during the time that it is proposed that it will be carried on in the city; the
-capacity in which such applicant will act (that is, whether as proprietor,
-agent or otherwise); and, if a corporation, has the management or supervision
-of the applicant, documentation under the law of the state the same is
-incorporated.
-   (B)   The place or places in the city where it is proposed to carry on
-applicant’s business and the length of time during which it is proposed that
-such business shall be conducted.
-   (C)   A statement of the nature of merchandise to be sold or offered for
-sale by the applicant.
-   (D)   A brief statement of the nature of the advertising done or proposed to
-be done in order to attract customers.
-   (E)   Documentation from the person for whom the applicant proposes to do
-business, authorizing the applicant to act as such representative.
-   (F)   Such other reasonable information as to the identity or character of
-the person having the management or supervision of the applicant’s business or
-the method or plan of doing such business as the city clerk may deem proper,
-including, but not limited to, telephone numbers, physical description,
-including height, weight, color of eyes, color of hair, and a valid,
-government-issued photo identification card.
-   (G)   If applicant is a minor, such applicant shall not be licensed unless
-the minor’s parent or guardian appears personally before the city clerk and
-provides the following:
-      (1)   Satisfactory evidence that the person is in fact the parent or
-guardian of the particular applicant.
-      (2)   A written statement signed by the parent or guardian, and witnessed
-by the city clerk, giving permission for the applicant to be licensed upon
-meeting the requirement of this article.
-   (H)   If applicant is applying for a permit to operate as a mobile vendor as
-defined by this article, such applicant shall provide documentation that he or
-she is the holder of a valid operator’s license.
-(1964 Code, § 17-3) (Ord. 3504, § 1(23-4), passed 3-9-2009; Ord. 4122, § 1(23-
-4), passed 5-2-2023)
+   Any person applying for a license shall, in person or electronically, via
+email, submit to the Office of the City Clerk, colored copy of a valid
+government issued photo of themselves, and the application completed in its
+entirety, signed by the applicant showing:
+   (A)   The applicant’s full legal name, date of birth, full mailing address,
+cell phone number, email address, driver’s license number or government issued
+ID number, state of issuance, expiration date of ID, vehicle make and model,
+year of vehicle, license plate number of said vehicle or rental vehicle, state
+of issuance, and expiration date, position with the company, company name, name
+doing business as (dba), manager/supervisor name, phone number, and company
+address.
+   (B)   The location within the city limits where product/service will be
+offered or sold.
+   (C)   A brief explanation of the nature of merchandise to be sold or offered
+for sale by the applicant.
+   (D)   A brief explanation of the nature of the advertising done or proposed
+to be done.
+   (E)   If applicant is a minor, over the age of 16 but under the age of 18,
+such applicant shall not be licensed unless the minor’s parent or guardian
+completes the City of Bellevue Parental Consent to Issue Peddlers License to
+Minor Child Form, in front of a Notary Public. If minor applicant’s parents are
+out of state, the parent may sign a consent form in front of a notary public
+and email a copy to the Office of the City Clerk. The original hard copy with
+the wet seal shall be mailed into the Office of the City Clerk.
+   (F)   If applicant is applying for a license to operate as a mobile vendor
+as defined by this article, such applicant shall provide documentation that he
+or she is the holder of a valid operator’s license.(1964 Code, § 17-3) (Ord.
+3504, § 1(23-4), passed 3-9-2009; Ord. 4122, § 1(23-4), passed 5-2-2023; Ord.
+4189, § 1(23-4), passed 8-5-2025)
 § 23-5 LICENSE APPROVAL, AUTHORITY AND APPEALS.
-   (A)   An application deemed by the city clerk to be incomplete shall be
-returned to the applicant with the clerk’s reason for the same.
+   (A)   An application deemed by the City Clerk to be incomplete shall be
+returned to the applicant in person or via email with the clerk’s reason for
+the same.
    (B)   Upon receipt of a completed application containing the information
-required by section 23-4, such application shall be referred to the chief of
-police, who shall within three working days after the receipt thereof cause
-such investigation of the applicant’s business and moral character to be made
-as he or she deems necessary for the protection of the public.
+required by section
+23-4, the non-refundable application fee, per the Master Fee Schedule, shall be
+paid to the Office of the City Clerk. After the application fee is received,
+the application shall be routed to a third-party company for the background
+check. Once the background check report is received, the application and the
+background report will be routed to the Chief of Police or his/her designee.
+The Chief of Police or his/her designee shall have ten working days, after
+receipt of the application and report, to review the information and thereof
+cause such investigation of the applicant’s business and moral character to be
+made as he or she deems necessary for the protection of the public.
    (C)   If as a result of such investigation, the applicant’s character or
-business responsibility is found to be unsatisfactory, the chief of police
-shall endorse on such application his or her disapproval and his or her reasons
-for the same, and return said application to the city clerk, who shall notify
-the applicant in writing that the application is disapproved and that no
-license will be issued.
+business responsibility is found to be unsatisfactory, the Chief of Police or
+his/her designee shall endorse on such application his or her disapproval and
+his or her reasons for the same, and return said application to the City Clerk,
+who shall notify the applicant and the company via email or phone call that the
+application is disapproved and that no license will be issued.
    (D)   No license shall be issued to any applicant where any of the following
 has been determined during the investigation and review of the application:
       (1)   If the applicant has been convicted of a crime, the nature of which
@@ -18573,29 +18571,38 @@ that future violations of the law could occur. An example of such crimes would
 be theft, burglary, robbery, fraud, deceit or any crime of violence.
       (2)   If the applicant has been convicted of a felony or a crime
 involving moral turpitude within ten years preceding the date of filing of such
-application, or any felony crime that, in the determination of the chief of
-police, may impact the safety of the citizens of Bellevue.
+application, or any felony crime that, in the determination of the Chief of
+Police or his/her designee, may impact the safety of the citizens of Bellevue.
       (3)   Any previous history relating to the manner in which the applicant
 made door-to-door sales which resulted in a violation of the law.
       (4)   Providing false information on the application form.
    (E)   If the character and business responsibility of the applicant are
-found to be satisfactory, the chief of police shall endorse on the application
-his or her approval and return said application to the city clerk, who shall
-notify the applicant that his or her application has been approved and shall
-issue such license. Such license shall contain the name and address of the
-applicant, and, if applicable, the name and phone number of the applicant’s
-manager or supervisor, the kind of goods to be sold thereunder, the date of
-issuance and the length of time the same shall be operative.
-   (F)   Any person aggrieved by the decision of the chief of police in regard
-to the denial of an application for a license shall have the right to appeal to
-the city council. Such appeal shall be taken by filing with the city council,
-within 14 days after notice of the decision has been mailed to such person’s
-last known address, a written statement setting forth the grounds for appeal.
-The city council shall set the time and place for a hearing on such appeal and
-notice shall be given to such person by registered mail, postage prepaid, at
-his last known address. The decision of the city council on such appeal shall
-be final.
-(1964 Code, § 17-8) (Ord. 3504, § 1(23-5), passed 3-9-2009)
+found to be satisfactory, the Chief of Police or his/her designee shall endorse
+on the application his or her approval and return said application to the City
+Clerk, who shall notify the applicant that his or her application has been
+approved and shall issue such license. Such license shall contain the name and
+address of the applicant, company name and, if applicable, the name and phone
+number of the applicant’s manager or supervisor, the kind of goods to be sold
+thereunder, the date of issuance and the length of time the same shall be
+operative.
+   (F)   Upon payment of the non-refundable license fee, per the Master Fee
+Schedule, an appointment shall be scheduled with the Office of the City Clerk.
+The appointment should be scheduled 48 hours prior to the appointment time. The
+applicant will be issued a photo ID badge, required to be worn at all times,
+while conducting business within the City of Bellevue. Appointment hours are
+from 9:00 a.m. to 11:00 a.m. and 2:00 p.m. to 3:30 p.m. in the Code Enforcement
+Office.
+   (G)   Any person in disagreement with the decision of the Chief of Police or
+his/her designee regarding the denial of an application for a license, shall
+have the right to appeal to the City Council. The appeal shall be filed with
+the City Clerk within 14 days, after notice of the denial has been emailed to
+the applicant and applicant’s company. The applicant must submit a written
+statement setting forth the grounds for appeal. The City Clerk shall set the
+time and place for City Council to hold a hearing on such appeal and notice
+shall be given to such person via email or phone. The decision of the City
+Council on such appeal shall be final.
+(1964 Code, § 17-8) (Ord. 3504, § 1(23-5), passed 3-9-2009; Ord. 4189, § 1(23-
+5), passed 8-5-2025)
 §§ 23-6—23-20 RESERVED.
 ARTICLE II: LICENSE
 Section
@@ -18604,7 +18611,7 @@ Section
    
 23-22   Bond
    
-23-23   Appointment of agent
+23-23   Reserved
    
 23-24   Hours and places of solicitation
    
@@ -18626,44 +18633,31 @@ Section
    The license fee for any itinerant vendor, peddler, solicitor, street vendor,
 mobile vendor or transient merchant shall be as described in the Master Fee
 Schedule. The annual fee shall cover a period of one year from date of issue.
-Any person representing organizations that qualify as non-profit, charitable
-and tax-exempt shall be exempt from all required fees when proof of status is
-attached to the permit application and status is verified through the Nebraska
-Secretary of State by the city clerk.
+Any person representing organizations that qualify as nonprofit, charitable and
+tax-exempt shall be exempt from all required fees when proof of status is
+attached to the license application.
 (Ord. 3504, § 1(23-21), passed 3-9-2009; Ord. 4122, § 2(23-21), passed 5-2-
-2023)
+2023; Ord. 4189, § 2(23-21), passed 8-5-2025)
 § 23-22 BOND.
    To secure the full and faithful performance of each and every term and
-condition of peddling and soliciting, a certificate of insurance from an
+condition of peddling and soliciting, a Certificate of Insurance from an
 insurance company licensed to do business in the State of Nebraska shall be
-furnished to the City Clerk, showing commercial general liability coverage of
+furnished to the City Clerk, showing Commercial General Liability coverage of
 $500,000 single occurrence/$1,000,000 aggregate limits, naming the City of
 Bellevue as an additional insured, prior to the issuance of any license.
-Applicants seeking a permit to operate as a mobile vendor must also provide a
-certificate of insurance covering the vehicle(s) for which the permit is
-granted from an insurance company licensed to do business in the State of
-Nebraska, showing vehicle insurance coverage in an amount not less than
-$300,000 for injury to all persons injured in any one occurrence, and $25,000
-for property damage in any one occurrence. Any seasonal merchant and any person
-or persons representing organizations that qualify as non-profit, charitable
-and tax-exempt shall be exempt from the insurance requirements when proof of
-status is attached to permit application and status is verified through the
-Nebraska Secretary of State by the city clerk.
+Applicants seeking a license to operate as a mobile vendor must also provide a
+Certificate General Insurance covering the vehicle(s) for which the license is
+granted. The certificate must be from an insurance company licensed to do
+business in the State of Nebraska showing vehicle insurance coverage in an
+amount not less than $300,000 for injury to all persons injured in any one
+occurrence, and $25,000 for property damage in any one occurrence. Any seasonal
+merchant and any person or persons representing organizations that qualify as
+non-profit, charitable and tax-exempt shall be exempt from the insurance
+requirements when proof of status is attached to permit application.
 (Ord. 3504, § 1(23-22), passed 3-9-2009; Ord. 3564, § 2, passed 3-22-2010; Ord.
-3760, § 1, 2, passed 3-24-2014; Ord. 4122, § 2(23-22), passed 5-2-2023)
-§ 23-23 APPOINTMENT OF AGENT.
-   (A)   Before any license shall be issued, such applicant shall file with the
-city clerk an instrument nominating and appointing the city clerk, or the
-person performing the duties of such position, his true and lawful agent with
-full power and authority to acknowledge service of notice or process in respect
-to any matters connected with or arising out of the business transacted under
-such license.
-   (B)   Immediately upon being served with process, the city clerk shall send
-to the licensee at his last known address, by registered mail, a copy of such
-process. Nothing herein shall be construed to apply to any applicant required
-to appoint a state official as an agent for the purpose of receiving service of
-process as a prerequisite for doing business within the State of Nebraska.
-(Ord. 3504, § 1(23-23), passed 3-9-2009)
+3760, § 1, 2, passed 3-24-2014; Ord. 4122, § 2(23-22), passed 5-2-2023; Ord.
+4189, § 2(23-22), passed 8-5-2025)
+§ 23-23 RESERVED.
 § 23-24 HOURS AND PLACES OF SOLICITATION.
    (A)   All solicitations to private residences, including, but not limited
 to, homes, duplexes, rooming houses and apartments, shall occur only between
@@ -18708,15 +18702,17 @@ street.
 (Ord. 3504, § 1(23-25), passed 3-9-2009; Ord. 4122, § 2(23-25), passed 5-2-
 2023)
 § 23-26 LICENSE TO BE POSTED.
-   The license issued by the city clerk shall be posted in a conspicuous place
-if the licensee is using a vehicle or a building in his business and otherwise
-must be kept upon the person so licensed and exhibited at any time upon
-request.
-(Ord. 3504, § 1(23-26), passed 3-9-2009)
+   The license issued by the City Clerk shall be posted in a conspicuous place
+if license is issued to an Itinerant Merchant, Mobile Vendor, or Seasonal
+Merchant, if the licensee is using a vehicle or a building in his business.
+Solicitors going door to door should wear the city issued ID Badge while
+conducting business in the City of Bellevue city limits.
+(Ord. 3504, § 1(23-26), passed 3-9-2009; Ord. 4189, § 2(23-26), passed 8-5-
+2025)
 § 23-27 LICENSE REVOCATION; HEARING.
-   (A)   Upon recommendation of the chief of police, permits issued may be
-revoked by the city council after notice and a hearing, for any of the
-following causes:
+   (A)   Upon recommendation of the Chief of Police or his/her designee,
+licenses issued may be revoked by the City Council after notice and a hearing,
+for any of the following causes:
       (1)   Any fraud, misrepresentation or false statement contained in the
 application for a license;
       (2)   Any fraud, misrepresentation, or false statement made in connection
@@ -18727,33 +18723,37 @@ involving moral turpitude; and/or
       (5)   Conducting the business licensed under this article in an unlawful
 manner or in such a manner as to threaten the health, safety or general welfare
 of the public.
-   (B)   Notice of a hearing before the city council for the revocation of a
+   (B)   Notice of a hearing before the City Council for the revocation of a
 license shall be given, in writing, setting forth specifically the grounds of
 the complaint and the time and place of the hearing. Such notice shall be sent
 by registered mail, postage prepaid, to the licensee at his last known address,
 at least five days prior to the date set for hearing.
-(Ord. 3504, § 1(23-27), passed 3-9-2009)
+(Ord. 3504, § 1(23-27), passed 3-9-2009; Ord. 4189, § 2(23-27), passed 8-5-
+2025)
 § 23-28 LICENSE SUSPENSION; HEARING.
    (A)   Any three violations of this chapter by any licensee during the
-license period shall result in suspension of such license by the chief of
-police for the remainder of the person’s license period, or until all
-violations are adjudicated in the appropriate court proceeding, whichever is
-earlier. The city clerk shall send notice of the suspension by registered mail,
-postage prepaid to the licensee, at his last known address.
+license period shall result in suspension of such license by the Chief of
+Police or his/her designee for the remainder of the person’s license period, or
+until all violations are adjudicated in the appropriate court proceeding,
+whichever is earlier. The City Clerk shall send notice of the suspension by
+email and mail, postage prepaid to the licensee, at his last known address.
    (B)   Any person aggrieved by the suspension of his or her license may
-appeal license suspension. Such appeal shall be taken by filing with the city
-council, within 14 days after notice of the suspension has been mailed to such
+appeal license suspension. Such appeal shall be taken by filing with the City
+Clerk, within 14 days after notice of the suspension has been mailed to such
 person’s last known address, a written statement setting forth the grounds for
-appeal. The city council shall set the time and place for a hearing on such
-appeal and notice shall be given to such person by registered mail, postage
-prepaid, at his last known address. The decision of the city council on such
-appeal shall be final.
-(Ord. 3504, § 1(23-28), passed 3-9-2009)
+appeal. The City Clerk shall set the time and place for a hearing on such
+appeal and notice shall be given to such person by email and mail, postage
+prepaid, at the applicant’s last known address. The decision of the City
+Council on such appeal shall be final.
+(Ord. 3504, § 1(23-28), passed 3-9-2009; Ord. 4189, § 2(23-28), passed 8-5-
+2025)
 § 23-29 POLICE ENFORCEMENT.
-   It shall be the duty of the city police to examine all places of business
-and persons subject to the provisions of this article and to enforce the
-provisions herein against any person found to be violating the same.
-(Ord. 3504, § 1(23-29), passed 3-9-2009)
+   It shall be the duty of the Chief of Police or his/her designee to examine
+all places of business and persons subject to the provisions of this article
+and to enforce the provisions herein against any person found to be violating
+the same.
+(Ord. 3504, § 1(23-29), passed 3-9-2009; Ord. 4189, § 2(23-29), passed 8-5-
+2025)
 § 23-30 LICENSE NONTRANSFERABLE.
    No license issued pursuant to this article shall be transferable.
 (Ord. 3504, § 1(23-30), passed 3-9-2009)
@@ -18808,45 +18808,42 @@ desserts are processed, prepared and sold.
 (1964 Code, § 17-11) (Ord. 4121, § 1(23-35), passed 5-2-2023)
 § 23-36 PERMIT FEE; VEHICLE PERMIT—REQUIRED.
    (A)   No person shall engage in retail mobile operations under this article
-unless and until such person has been granted a permit by the city clerk.
+unless and until such person has been granted a permit by the City Clerk.
    (B)   No vehicle shall be operated under any permit fee granted under this
 article unless and until an individual permit is issued for that vehicle by the
 city clerk.
-(1964 Code, § 17-12) (Ord. 4121, § 1(23-36), passed 5-2-2023)
+(1964 Code, § 17-12) (Ord. 4121, § 1(23-36), passed 5-2-2023; Ord. 4189, § 3
+(23-36), passed 8-5-2025)
 § 23-37 SAME—FEES; RENEWAL.
-   (A)   The annual permit fee and individual vehicle permit fee shall be as
-described in the Master Fee Schedule.
-   (B)   Permits for the mobile retail sale of ice cream and vehicle permits
-shall be renewable annually.
+   (A)   The license fee shall be as described in the Master Fee Schedule.
+   (B)   Licenses for the mobile retail sale of ice cream shall be renewable
+annually.
 (1964 Code, § 17-13) (Ord. 3504, § 2, passed 3-9-2009; Ord. 4121, § 1(23-37),
-passed 5-2-2023)
+passed 5-2-2023; Ord. 4189, § 3(23-37), passed 8-5-2025)
 § 23-38 SAME—CONDITIONS.
-   No permit for the mobile retail sale of ice cream nor any vehicle permit
-under this article shall be issued by the city clerk until the following
-conditions have been met:
-   (A)   Safety inspection. No vehicle shall be permitted to operate hereunder
-until a mechanical safety inspection has been made by the police department,
-and the results thereof certified by the city clerk.
-   (B)   Operator’s license. No person shall operate any vehicle hereunder
+   No license for the mobile retail sale of ice cream under this article shall
+be issued by the City Clerk until the following conditions have been met:
+   (A)   Operator’s license. No person shall operate any vehicle hereunder
 unless such person is the holder of a valid Nebraska operator’s license.
-   (C)   Liability insurance. There shall be filed with the city clerk a policy
-of insurance covering all vehicles operated hereunder in such form as the city
-clerk may deem proper, issued by an insurance company approved by the insurance
+   (B)   Liability insurance. There shall be filed with the City Clerk a policy
+of insurance covering all vehicles operated hereunder in such form as the City
+Clerk may deem proper, issued by an insurance company approved by the insurance
 commissioner of the state, and authorized to do business in the state, insuring
 the public against injury, loss or damage resulting to persons or property from
 the use, maintenance and operation of any vehicle operated hereunder for which
 such permit is granted in an amount of not less than $300,000.00 for injury to
 all persons injured in any one occurrence; and $25,000.00 for property damage
-in any one occurrence. In addition thereto, a separate policy of insurance
-shall be filed with the city clerk insuring the public against injuries or
+in any one occurrence. In addition, thereto, a separate policy of insurance
+shall be filed with the City Clerk insuring the public against injuries or
 damage resulting from the use or consumption of any product dispensed
-hereunder. Such policy shall be in such form as the city clerk may deem proper
+hereunder. Such policy shall be in such form as the City Clerk may deem proper
 and issued by an insurance company approved by the insurance commissioner of
 the state, insuring the public against injury, loss or damage resulting from
 the use or consumption of any product dispensed hereunder in an amount of not
 less than $50,000.00 for injury to any one person, and $100,000.00 for injury
 to all persons injured in any one occurrence.
-(1964 Code, § 17-14) (Ord. 4121, § 1(23-38), passed 5-2-2023)
+(1964 Code, § 17-14) (Ord. 4121, § 1(23-38), passed 5-2-2023; Ord. 4189, § 3
+(23-38), passed 8-5-2025)
 § 23-39 SAME—REVOCATION; SUSPENSION.
    The holder of any permit found to be in violation of this article shall be
 subject to immediate suspension or revocation of his or her permit.
@@ -18854,30 +18851,22 @@ subject to immediate suspension or revocation of his or her permit.
 § 23-40 OPERATING RULES.
    Vehicles operated under this article and persons operating such vehicles
 shall be governed by the following regulations:
-   (A)   No person other than the authorized driver of the vehicle shall be on
-or in the vehicle.
-   (B)   No vehicle shall be operated at a speed in excess of ten miles per
+   (A)   No vehicle shall be operated at a speed in excess of ten miles per
 hour while actually engaged in selling.
-   (C)   No sales shall be made to any person standing in the street.
-   (D)   No sales shall be made within one block of any school while in
+   (B)   No sales shall be made within one block of any school while in
 session, nor shall any sale be made for a period of 30 minutes before the
-beginning of such school, or for the 30 minutes after adjournment.
-   (E)   Except for the use of a horn for driving purposes, no vehicle shall
-use or have attached any sound device, flashing light other than brake or
-safety light, or any other device which has the effect of attracting attention
-of persons so as to announce the presence of the vehicle in the area for the
-purpose of sales.
-(1964 Code, § 17-16) (Ord. 4121, § 1(23-40), passed 5-2-2023)
+beginning of such school, or for the 30 minutes after adjournment.(1964 Code, §
+17-16) (Ord. 4121, § 1(23-40), passed 5-2-2023; Ord. 4189, § 3(23-40), passed
+8-5-2025)
 § 23-41 ENFORCEMENT; APPEALS.
-   The city clerk shall have the duty of enforcing this article with the
-exception of the safety check of vehicles, which shall be made by the police
-department. Any order of suspension or revocation made hereunder shall be
-reviewable by the city council and mayor at the next regular meeting following
-suspension or revocation. Any interested party can make written application for
-the review of a suspension or revocation, by serving notice upon the city clerk
-within ten days after such permit holder is notified in writing of the order of
-suspension or revocation.
-(1964 Code, § 17-17) (Ord. 4121, § 1(23-41), passed 5-2-2023)
+   The City Clerk shall have the duty of enforcing this article. Any order of
+suspension or revocation made hereunder shall be reviewable by the City Council
+and Mayor at the next regular meeting following suspension or revocation. Any
+interested party can make written application for the review of a suspension or
+revocation, by serving notice upon the City Clerk within ten days after such
+license holder is notified in writing of the order of suspension or revocation.
+(1964 Code, § 17-17) (Ord. 4121, § 1(23-41), passed 5-2-2023; Ord. 4189, § 3
+(23-41), passed 8-5-2025)
 §§ 23-42—23-51 RESERVED.
 ARTICLE IV: FARMERS’ MARKET
 Section
@@ -18896,7 +18885,7 @@ Section
    
 23-58   Use regulations
    
-23-59   Cleanup deposit
+23-59   Cleanup
    
 23-60   Privately operated farmers’ market held on city property
    23-61—23-76   Reserved
@@ -18926,45 +18915,52 @@ entertainment performance will be provided space at each market. Performers at
 each market may offer their own music CDs and other promotional items for sale.
 (Ord. 3572, § 1(23-52), passed 4-26-2010; Ord. 3574, § 1, passed 5-10-2010)
 § 23-53 MARKET MANAGER.
-   The city shall designate an individual to act as market manager, who shall
-review the application of any grower, producer or live music entertainment
-performance offering articles for sale under this article, issue permits and
-collect fees therefore, assign spaces to growers, producers and live music
-entertainment performances, establish a system of bookkeeping for the market,
-and be responsible for maintaining the market’s cleanliness and enforcing the
-market regulations.
-(Ord. 3572, § 1(23-53), passed 4-26-2010; Ord. 3574, § 2, passed 5-10-2010)
+   The Market Manager shall submit an Application for a Privately-Operated
+Farmers Market on City-Owned Property to the City Clerk for City Council
+approval. The Market Manager shall review the application of any grower,
+producer or live music entertainment performance offering articles for sale
+under this article, issue permits and collect fees therefor, assign spaces to
+growers, producers and live music entertainment performances, establish a
+system of bookkeeping for the market, and be responsible for maintaining the
+market’s cleanliness and enforcing the market regulations.
+(Ord. 3572, § 1(23-53), passed 4-26-2010; Ord. 3574, § 2, passed 5-10-2010;
+Ord. 4189, § 4(23-53), passed 8-5-2025)
 § 23-54 PERSONS ELIGIBLE TO RENT SPACE.
-   Permits for a space at the farmers’ market shall only be issued to a grower,
+   Permits for a space at the Farmers’ Market shall only be issued to a grower,
 producer or live music entertainment performance as defined in this article.
-(Ord. 3572, § 1(23-54), passed 4-26-2010; Ord. 3574, § 3, passed 5-10-2010)
+(Ord. 3572, § 1(23-54), passed 4-26-2010; Ord. 3574, § 3, passed 5-10-2010;
+Ord. 4189, § 4(23-54), passed 8-5-2025)
 § 23-55 APPLICATION FOR SPACE.
-   An applicant for a space to sell goods within the farmers’ market shall
-submit to the market manager or designee, together with the required fee, an
-application on a form prescribed and furnished by the market manager or
-designee. The market manager or designee may request additional information
-from the applicant.
-(Ord. 3572, § 1(23-55), passed 4-26-2010)
+   An applicant for a space to sell goods within the Farmers’ Market shall
+submit to the Market Manager or his/her designee, together with the required
+fee, an application on a form prescribed and furnished by the Market Manager or
+his/her designee. The Market Manager or his/her designee may request additional
+information from the applicant.
+(Ord. 3572, § 1(23-55), passed 4-26-2010; Ord. 4189, § 4(23-55), passed 8-5-
+2025)
 § 23-56 ASSIGNMENT OF SPACES.
-   Spaces in the farmers’ market shall be assigned in accordance with the order
-in which applications are filed with the Market Manager or designee.
-(Ord. 3572, § 1(23-56), passed 4-26-2010)
+   Spaces in the Farmers’ Market shall be assigned in accordance with the order
+in which applications are filed with the Market Manager or his/her designee.
+(Ord. 3572, § 1(23-56), passed 4-26-2010; Ord. 4189, § 4(23-56), passed 8-5-
+2025)
 § 23-57 RENTAL FEES.
-   Fees for farmers’ market spaces shall be as set forth in the Master Fee
+   Fees for Farmers’ Market spaces shall be as set forth in the Master Fee
 Schedule.
-(Ord. 3572, § 1(23-57), passed 4-26-2010)
+(Ord. 3572, § 1(23-57), passed 4-26-2010; Ord. 4189, § 4(23-57), passed 8-5-
+2025)
 § 23-58 USE REGULATIONS.
-   The city council may, by resolution, adopt rules and regulations it
-considers appropriate for the operation of the farmer’s market upon
-recommendation of the market manager or designee.
-(Ord. 3572, § 1(23-58), passed 4-26-2010)
+   The City Council shall adopt by resolution rules and regulations it
+considers appropriate for the operation of the Farmers’ Market upon
+recommendation of the Market Manager or his/her designee.
+(Ord. 3572, § 1(23-58), passed 4-26-2010; Ord. 4189, § 4(23-58), passed 8-5-
+2025)
 § 23-59 CLEANUP DEPOSIT.
-   All growers and producers shall pay the cleanup deposit provided for in the
-Master Fee Schedule upon arrival at the market. Growers and producers shall
-remove all waste and refuse from their spaces before leaving the market. Any
-refusal or failure by the grower or producer, or their employees or agents, to
-clean their respective space shall result in forfeiture of the deposit.
-(Ord. 3572, § 1(23-59), passed 4-26-2010)
+   Growers and producers shall remove all waste and refuse from their spaces
+before leaving the market. Any refusal or failure by the grower or producer, or
+their employees or agents, to clean their respective space shall result in
+forfeiture of their space.
+(Ord. 3572, § 1(23-59), passed 4-26-2010; Ord. 4189, § 4(23-59), passed 8-5-
+2025)
 § 23-60 PRIVATELY OPERATED FARMERS’ MARKET HELD ON CITY PROPERTY.
    A Farmers’ Market may be operated privately on City property by an
 individual or organization upon application, hearing and payment of the
@@ -18978,256 +18974,8 @@ a privately operated Farmers’ Market license issued under this section.
 ARTICLE V: SALES OF SECONDHAND GOODS
 Section
    
-23-77   Definitions
-   
-23-78   Permit required; application, contents; issuance; fees
-   
-23-79   Appeal of denial of permit
-   
-23-80   Permit; business location; unlawful transactions
-   
-23-81   Records required; inspection; stolen property; procedures
-   
-23-82   Required use of electronic reporting system
-   
-23-83   Retention of goods
-   
-23-84   Recovery of stolen property
-   
-23-85   Penalties
-   
-23-86   Suspension or revocation of permit; grounds; hearing; findings and
-actions
-§ 23-77 DEFINITIONS.
-   (A)   For the purpose of this Article, any person who shall engage in the
-business of buying, selling or dealing (whether for cash or store credit) in
-secondhand property is hereby declared and defined to be a DEALER IN SECONDHAND
-GOODS. The term DEALER OF SECONDHAND GOODS does not include persons conducting
-a yard sale or garage sale from their residence, nor does it apply to
-pawnbrokers, whose conduct is regulated by separate city ordinances.
-   (B)   For the purpose of this article, SECONDHAND PROPERTY means any
-previously owned audio-video equipment, audio-video recordings, video games,
-video game systems, video game accessories, cameras, computer hardware,
-jewelry, article made of precious metal, precious stone or gem, sporting or
-athletic gear or equipment, including a bicycle, watch or currency, furniture,
-wares or merchandise.
-(Ord. 3595, § 1(23-51), passed 11-22-2010; Ord. 3711, § 1(23-77), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-78 PERMIT REQUIRED; APPLICATION, CONTENTS; ISSUANCE; FEES.
-   (A)   Every person desiring to engage in the business of secondhand sales
-shall first obtain a permit from the City of Bellevue. The permit is valid for
-the year in which it was issued and will expire on December 31 of the same
-year.
-   (B)   Such permit shall be obtained by filing an application with, and
-having such application approved by, the Chief of Police, or someone under his
-or her direction.
-   (C)   The application shall contain the following information:
-      (1)   The name and address of the owner and the manager of the business
-and, if the applicant is an individual, the applicant’s social security number;
-      (2)   If the applicant is a corporation, a copy of the articles of
-incorporation and the names of its officers and shareholders;
-      (3)   The exact location where the business is to be conducted; and
-      (4)   The exact location where any goods, wares, and merchandise may be
-stored or kept if other than at the business location.
-   (D)   When reviewing applications for a permit required by this section, the
-Chief of Police, or his or her designee, shall take into consideration the
-criminal record, if any, of the applicant and, if the applicant is a
-corporation, of its officers and shareholders. No permit shall be issued to any
-applicant who has been convicted of a felony, and, if the applicant is a
-corporation, no permit shall be issued when any officer or shareholder has been
-convicted of a felony.
-   (E)   There is no fee for the issuance of a secondhand sales permit.
-(Ord. 3595, § 1(23-52), passed 11-22-2010; Ord. 3711, § 1(23-78), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-79 APPEAL OF DENIAL OF PERMIT.
-   When an application for a permit required by the provisions of this article
-has been denied by the Chief of Police, or his or her designee, the applicant
-shall have the right to appeal from such denial to the council in the same
-manner as provided for appeals from a suspension or revocation of a permit in
-Sec. 23-93.
-(Ord. 3595, § 1(23-53), passed 11-22-2010; Ord. 3711, § 1(23-79), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-80 PERMIT; BUSINESS LOCATION; UNLAWFUL TRANSACTIONS.
-   (A)   No person shall be allowed to sell secondhand goods in more than one
-location under one permit. Each permit shall state the place where such
-business is to be carried on, and shall not be transferable or assignable. The
-goods, wares, and merchandise involved shall be kept or stored only at those
-locations specifically listed in the permit application.
-   (B)   It shall be unlawful for any person not having a permit as required in
-section
-23-78 to display any sign or advertisement stating that money or store credit
-is given for goods, or that goods are purchased as described in section 23-77.
-   (C)   No secondhand dealer shall accept any article of property, or purchase
-any article of property:
-      (1)   From any person under the age of eighteen (18) years without the
-written consent of a parent or legal guardian. The consent must be signed in
-the presence of the permittee, who must include the consent in the daily record
-provided to the Chief of Police;
-      (2)   From any person who appears under the influence of alcohol, or any
-narcotic, drug, or stimulant, or depressant, or from any person that openly
-appears to be a person of diminished capacity; or
-      (3)   On which the serial numbers or other identifying insignia have been
-destroyed, removed, altered, covered, or defaced.
-(Ord. 3595, § 1(23-54), passed 11-22-2010; Ord. 3711, § 1(23-80), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-81 RECORDS REQUIRED; INSPECTION; STOLEN PROPERTY; PROCEDURES.
-   (A)   Every secondhand dealer shall keep a ledger, in which there shall be
-typed or printed in ink, at the time of the transaction, a legible and accurate
-description in the English language of every article of secondhand property
-received, purchased, sold or exchanged by him or her, the date of the
-transaction, and the purchaser or seller. A computer database can be used in
-lieu of a book. No entry made in such book shall be erased, obliterated, or
-defaced. For purposes of this section, the phrase “typed or printed in ink” may
-include a computer printout.
-   (B)   The description of articles of secondhand property shall include:
-      (1)   The brand name;
-      (2)   The model number, if available;
-      (3)   Any serial number or other identification number installed by the
-manufacturer; and
-      (4)   A description of every other identifying marking, such as an
-inscription, a social security number, a name, nickname, or address appearing
-on the item.
-   (C)   The description of each watch shall include:
-      (1)   The brand name; model number, if available;
-      (2)   A description of the metal or metals of its composition;
-      (3)   A description of the band;
-      (4)   A description of the face by number, color and cut, shape and type
-of stone or stones, if any; and
-      (5)   A description of any inscriptions appearing on the watch.
-   (D)   The description of each item of jewelry shall include:
-      (1)   The type; a description of the metal or metals of its composition;
-      (2)   The type, cut and shape of each stone; and
-      (3)   A description of all inscriptions. Each ring shall also be
-identified by ring size.
-   (E)   In addition, each watch and jewelry shall be photographed in color.
-The photograph shall be retained by the business for a period of at least three
-years.
-   (F)   The description of each person who sells an item of secondhand
-property to the licensee shall consist of the person’s name, residence address,
-birth date, weight, height, and gender. If the person has no social security
-number, the licensee shall record this fact.
-   (G)   Every permittee shall require two forms of identification to be shown
-to him or her by each person selling an article of secondhand property to the
-permittee. At least one of the two forms of identification must list the
-seller’s name and residence address. Except as provided, at least one of the
-two forms of identification must be a photographic identification issued by a
-federal, state or local governmental entity. Forms of identification may
-include, but are not limited to: a state driver’s license, a state
-identification card, a passport, a military identification card, a social
-security card, or a credit card, or utility bill. If the customer does not have
-a photographic identification card issued by a federal, state or local
-governmental entity, the permittee shall photograph the customer. The
-photograph shall be in color. On the reverse side of the photograph the
-permittee shall record the customer’s name, residence address, date of birth,
-gender, height and weight. If the customer has no social security number, the
-permittee shall record this fact.
-   (H)   All persons who shall be engaged in the business of dealing in
-secondhand goods shall, in addition to the requirements of this section, obtain
-and keep a single legible fingerprint of each person selling secondhand goods
-or articles. The fingerprint shall be taken from the right index finger or, if
-the right index finger is missing, from the left index finger.
-   (I)   It shall be the duty of every dealer in second hand goods every day,
-except Sunday before the hour of 12 noon, to deliver to the Chief of Police, or
-his or her designee, a legible and correct copy of each card or ledger entry
-required by this section for the transactions of the previous day. Transactions
-occurring on Saturday shall be reported on the following Monday.
-   (J)   The record of purchases required to be kept by the provisions of this
-article, and the goods purchased, shall be open and available for inspection by
-the Chief of Police, his or her designated agent, or any law enforcement
-officer at any reasonable time.
-   (K)   In the event the city enters into a contract for an electronic
-reporting system of transactions for dealers in second hand goods, the records
-required by this section, having all of the information required by this
-section, shall be created and delivered to the Chief of Police, or his or her
-designee, before the close of business that day. In the event that the
-electronic reporting system is unable to record a transaction for any reason,
-the dealer is required to make a complete written report of the transaction
-which written report shall be entered into the electronic system as soon as
-practicable.
-(Ord. 3595, § 1(23-55), passed 11-22-2010; Ord. 3711, § 1(23-81), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-82 REQUIRED USE OF ELECTRONIC REPORTING SYSTEM.
-   (A)   In the event the city enters into a contract for an electronic
-reporting system of transactions for dealers in second hand goods, it shall be
-the exclusive means by which such transaction are reported to the Chief of
-Police, or his or her designee. Every dealer in second hand goods shall operate
-and maintain a computer system with internet access and photographic capability
-sufficient for the electronic reporting requirements described in Sec. 23-80.
-Any failure or malfunction of such equipment on the part of the dealer shall
-not exempt the dealer from the record and reporting requirements of this
-article. The dealer shall immediately notify the police department of any such
-failure or malfunction, and shall have such resolved as soon as practicable.
-   (B)   In addition to the requirements of Sec. 23-80, at the time of
-purchase, the dealer shall use the required electronic reporting system to
-collect the following:
-      (1)   A digital photograph of the purchased item;
-      (2)   A digital photograph of the seller;
-      (3)   A digital signature of the seller;
-      (4)   A digital scan of the seller’s right index finger; if the index
-finger is missing, the fingerprint shall be taken from the left index finger.
-The print shall be clear and legible; and
-      (5)   A photographic or scanned image of the I.D. card of the seller,
-sufficiently clear to allow the information of the I.D. to be read.
-(Ord. 3595, § 1(23-56), passed 11-22-2010; Ord. 3711, § 1(23-82), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-83 RETENTION OF GOODS.
-   No personal property received on deposit or purchase by any dealer in
-secondhand goods shall be sold or permitted to be redeemed from the place of
-business of such person for the space often days after the copy of the record
-of purchase thereof shall have been delivered to the Chief of Police, or his or
-her designee, as required by this article.
-(Ord. 3595, § 1(23-57), passed 11-22-2010; Ord. 3711, § 1(23-83), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-84 RECOVERY OF STOLEN PROPERTY.
-   When any person is found to be the owner of stolen property that has been
-bought, such property shall be returned to the owner thereof upon the payment
-of the amount paid by the secondhand dealer for the stolen property.
-(Ord. 3595, § 1(23-58), passed 11-22-2010; Ord. 3711, § 1(23-84), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-85 PENALTIES.
-   Any broker, agent, or dealer, who shall violate any of the provisions of
-this section, or:
-   (A)   Makes a false statement in the application for a permit;
-   (B)   Fails to keep the record or fails to make required entries thereon;
-   (C)   Intentionally or knowingly makes any false or unintelligible entry, or
-any entry which he or she has reason to believe is untrue;
-   (D)   Fails to make the inquiries necessary to enable him or her to make
-such entries or any of them;
-   (E)   Fails to procure the permit or who fails to produce his or her permit
-or records when requested by an officer having authority to examine them; or,
-   (F)   Destroys or negligently permits such records to be destroyed, shall be
-guilty of a misdemeanor and upon conviction shall be punished as provided in
-Bellevue Municipal Code Sec. 1-11.
-(Ord. 3595, § 1(23-59), passed 11-22-2010; Ord. 3711, § 1(23-85), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
-§ 23-86 SUSPENSION OR REVOCATION OF PERMIT; GROUNDS; HEARING; FINDINGS AND
-ACTIONS.
-   (A)   Any permit issued under the provisions of this article may be
-suspended or revoked for the violation by the permittee of:
-      (1)   Any provision of this article or other applicable provision of this
-Code, state law or city ordinance, rule or regulation; or
-      (2)   Any other provision of this Code, state law or city ordinance
-classified as a misdemeanor or felony.
-   (B)   Before any permit issued under the provisions of this article is
-suspended or revoked, the permittee shall be given notice of the date and time
-for a hearing to show cause why such permit should not be revoked. Such hearing
-shall be within seven days of the date of the notice. At the time and place set
-for the show-cause hearing, the Chief of Police, shall hear all the testimony
-as to whether or not grounds for the revocation or suspension of the permit
-exist.
-   (C)   If, upon the conclusion of the hearing thereon, it shall appear that
-grounds for the suspension or revocation of a permit issued under the
-provisions of this article exist, the Chief of Police shall so find and impose
-such suspension or revocation as he may deem proper under the circumstances.
-   (D)   A finding, and the action taken thereon by the Chief of Police at the
-conclusion of the hearing on the suspension or revocation of a permit issued
-under the provisions of this article, may be appealed by the permittee to the
-City Council upon written application to the City Clerk within ten days of such
-decision. Upon hearing such appeal, the council may affirm, reverse, change or
-modify the finding or action of the Chief of Police. A permit shall remain in
-effect pending the outcome of such appeal.
-(Ord. 3595, § 1(23-60), passed 11-22-2010; Ord. 3711, § 1(23-86), passed 3-11-
-2013; Ord. 3851, § 1, passed 6-13-2016)
+23-77—23-86   Reserved
+§§ 23-77—23-86 RESERVED.
 CHAPTER 24: PENSIONS
    Article
       
@@ -20459,13 +20207,14 @@ in their entirety.
       Private Sewage Disposal Systems shall be: "Title 124 Rules and
 Regulations for the Design, Operation and Maintenance of on-site wastewater
 treatment system "(Nebraska Department of Environment and Energy)."
+      (6)   Amend Table 701.2 to delete PVC (Sewer and Drain) & PVC PSM.
    (B)   (1)   The International Fuel Gas Code, 2021 Edition, is amended and
 changed in the following respects:
       (2)   Delete Chapter 1, Administration, in its entirety.
 (Ord. 3080, § 3, passed 1-24-2000; Ord. 3336, § 4, passed 9-27-2004; Ord. 3380,
 § 4, passed 10-24-2005; Ord. 3520, § 4, passed 5-11-2009; Ord. 3612, § 1,
 passed 2-28-2011; Ord. 3660, § 4, passed 11-28-2011; Ord. 3794, § 4, passed 12-
-8-2014; Ord. 4035, § 4, passed 5-4-2021)
+8-2014; Ord. 4035, § 4, passed 5-4-2021; Ord. 4180, § 1, passed 3-4-2025)
 §§ 27-88—27-96 RESERVED.
 DIVISION 2: SEWER CONNECTIONS
 Editor’s note:
@@ -25589,981 +25338,1228 @@ Ch. 79                   20-42
  
 REFERENCES TO ORDINANCES
 Ord. No. Date Passed Code Section
-Ord. No. Date Passed Code Section
-2000     1-24-1977   12-64
-2006     2-28-1977   12-20;
-                     12-21
-                     16-1—
-2011     4-25-1977   16-6;
-                     16-21—
-                     16-28
-2024     7-25-1977   28-13
-2022     8-8-1977    2-157—
-                     2-169
-2040     10-24-1977  2-140;
-                     2-144
-2045     11-14-1977  13-47
-2050     2-27-1978   8-22
-2051     2-27-1978   18-106—
-                     18-113
-                     2-181—
-                     2-183;
-2080     10-9-1978   2-185;
-                     2-192—
-                     2-200
-2081     11-13-1978  30-142;
-                     30-144
-                     30-61—
-                     30-83;
-2043     11-14-1978  30-91—
-                     30-101;
-                     30-111—
-                     30-123
-2090     3-26-1979   30-136—
-                     30-144
-                     12-58—
-                     12-62;
-                     12-64;  
-                     12-76;
-2092     4-9-1979    12-77;
-                     12-79;
-                     12-80;
-                     12-83—
-                     12-86
-2102     7-9-1979    12-58—
-                     12-60
-2113     12-10-1979  30-136—
-                     30-144
-2122     1-28-1980   18-94
-                     15-191—
-                     15-193 ;
-                     15-195;
-2123     3-10-1980   15-196;
-                     15-211—
-                     15-216 ;
-                     15-218—
-                     15-220
-2125     3-24-1980   9-3
-2131     4-28-1980   13-47
-                     8-17;
-                     8-18;
-2135     6-9-1980    8-18.5;
-                     8-19;
-                     8-21
-2137     6-9-1980    12-36—
-                     12-42
-2146     9-22-1980   12-2
-2147     9-22-1980   12-166—
-                     12-171
-2153     12-8-1980   3-76—
-                     3-83
-2154     12-8-1980   3-56—
-                     3-61
-                     6-0;
-                     6-1;
-2162     3-23-1981   6-4—
-                     6-9;
-                     6-101—
-                     6-108
-2191     11-9-1981   8-2
-2192     12-7-1981   9-3
-2199     4-12-1982   20-7
-2200     4-26-1982   4-12
-                     11-41;
-2245     4-11-1983   11-43—
-                     11-45
-2295     10-24-1983  26-38—
-                     26-40
-2297     11-14-1983  4-32
-2299     12-12-1983  9-3
-2306     2-17-1984   5-51—
-                     5-53
-2356     6-10-1984   8-3
-2346     3-11-1985   12-80;
-                     12-81
-2353     4-22-1985   30-137
-2355     6-10-1985   B-1
-                     8-2;
-                     8-4;
-                     8-17;
-2356     6-10-1985   8-18;
-                     8-18.5;
-                     8-19;
-                     8-51;
-                     8-52
-                     28-76;
-2377     8-26-1985   28-77;
-                     28-77.1;
-                     28-79
-2386     10-14-1985  18-95;
-                     18-96
-                     2-222—
-                     2-229;
-2394     12-16-1985  2-241—
-                     2-250;
-                     2-261—
-                     2-266
-2401     1-27-1986   12-36—
-                     12-43
-                     8-17;
-2412     4-14-1986   8-20;
-                     8-28
-2424     6-9-1986    4-31
-2430     8-11-1986   2-26
-2442     11-24-1986  2-265
-2452     3-9-1987    30-137
-2466     6-8-1987    26-38—
-                     26-40
-2468     6-8-1987    28-77.1
-2483     10-13-1987  26-1
-2487     11-9-1987   4-40
-2488     11-9-1987   11-4
-2490     11-23-1987  30-137
-2495     2-8-1988    2-265
-                     12-77;
-                     12-79;
-2498     2-22-1988   12-80;
-                     12-82;
-                     12-84
-2507     5-9-1988    20-8
-2509     5-23-1988   30-136;
-                     30-138
-2514     8-22-1988   6-115;
-                     6-116
-2522     9-12-1988   21-21
-2524     11-14-1988  4-32
-2525     11-14-1988  4-39
-2527     11-18-1988  30-137
-2537     2-27-1989   12-77
-2535     4-10-1989   8-61—
-                     8-66
-2536     4-10-1989   8-71—
-                     8-78
-2539     4-10-1989   8-81—
-                     8-86
-                     8-17;
-2554     6-26-1989   8-18;
-                     8-18.5
-2566     9-11-1989   8-63
-2603     12-10-1990  30-137
-2610     3-11-1991   30-70
-2619     7-8-1991    8-29
-2626     8-12-1991   2-165
-                     6-16;
-                     6-17;
-                     6-19;
-                     6-20;
-2629     9-9-1991    6-31—
-                     6-46;
-                     6-51—
-                     6-55;
-                     6-66—
-                     6-75
-2636     10-15-1991  4-12
-2641     11-12-1991  30-137
-2642     11-12-1991  11-61—
-                     11-70
-2643     11-12-1991  11-31
-2644     11-12-1991  4-32
-                     8-17;
-2646     11-25-1991  8-18;
-                     8-18.5
-2648     12-9-1991   11-81—
-                     11-111
-2649     12-9-1991   9-3
-2677     5-4-1992    9-3
-2682     5-11-1992   11-81
-2684     5-11-1992   8-18;
-                     8-18.5
-2812     - -         B-1
-2864     5-11-1992   8-17
-2707     9-14-1992   8-18;
-                     8-18.5
-2708     9-14-1992   8-18;
-                     8-18.5
-2711     9-28-1992   8-18;
-                     8-18.5
-2717     11-9-1992   30-137
-                     28-134;
-2732     3-8-1993    28-136—
-                     28-138
-2733     3-8-1993    18-97—
-                     18-100
-2742     4-12-1993   12-36
-2746     4-12-1993   12-42
-                     8-17;
-2739     4-26-1993   8-18;
-                     8-18.5
-2744     4-26-1993   12-61;
-                     12-65
-                     6-0;
-2753     5-1-1993    6-31;
-                     6-38;
-                     6-39
-2763     8-23-1993   8-18;
-                     8-18.5
-                     28-26—
-2778     9-27-1993   28-31;
-                     28-33;
-                     28-34
-2787     11-8-1993   9-3
-2788     1-10-1994   8-23;
-                     28-32
-2791     1-10-1994   30-137
-2797     7-11-1994   8-88—
-                     8-96
-2845     5-8-1995    28-77.1
-                     27-26—
-                     27-29;
-                     27-31—
-                     27-37;
-                     27-47—
-                     27-60;
-                     27-70—
-                     27-74;
-                     27-97—
-                     27-122;
-                     27-133—
-                     27-137 ;
-                     27-139—
-2867     12-11-1995  27-141;
-                     27-152—
-                     27-154 ;
-                     27-165—
-                     27-185;
-                     27-196—
-                     27-200 ;
-                     27-202—
-                     27-208;
-                     27-219—
-                     27-234 ;
-                     27-245;
-                     27-246;
-                     27-257;
-                     27-258
-                     10-1—
-                     10-5;
-                     10-15—
-                     10-17;
-                     10-28—
-2868     12-11-1995  10-32;
-                     10-34;
-                     10-35;
-                     10-46;
-                     10-57;
-                     10-58
-2870     1-8-1996    20-9
-                     12-59;
-                     12-61;
-2874     3-11-1996   12-77;
-                     12-79;
-                     12-81
-2875     3-11-1996   27-170—
-                     27-172
-2884     4-8-1996    20-21—
-                     20-30
-2896     6-24-1996   28-77.1
-2901     8-12-1996   27-257;
-                     27-258
-2902     8-12-1996   10-57;
-                     10-58
-2904     8-12-1996   10-35
-                     8-17;
-2905     8-12-1996   8-18;
-                     8-18.5
-2914     9-23-1996   12-36;
-                     12-42
-2920     11-12-1996  10-57;
-                     10-58
-2921     11-12-1996  8-18
-                     27-27;
-                     27-135;
-2934     1-27-1997   27-166—
-                     27-168;
-                     27-198
-2953     5-27-1997   31-2
-2980     2-23-1998   27-49;
-                     27-221
-2981     2-23-1998   26-39;
-                     26-40
-2987     4-27-1998   29-6
-2981     5-27-1998   26-38
-3008     1-25-1999   28-29;
-                     28-31
-                     16-23;
-3016     4-26-1999   16-24;
-                     16-28
-                     6-9;
-3020     7-12-1999   6-19;
-                     6-20;
-                     6-52
-3038     12-13-1999  20-7
-                     8-17;
-3077     1-24-2000   8-18;
-                     8-18.5
-3078     1-24-2000   10-57;
-                     10-58
-3079     1-24-2000   12-36
-3080     1-24-2000   27-86;
-                     27-87
-3081     1-24-2000   27-257;
-                     27-258
-3087     2-14-2000   9-3
-3093     2-28-2000   8-18.5
-3102     3-27-2000   12-77
-                     12-172—
-3141     3-12-2001   12-175 ;
-                     12-179
-                     8-16—
-3148     3-26-2001   8-18;
-                     8-18.5
-3162     8-13-2001   1-20
-3163     8-13-2001   1-12
-3171     8-13-2001   20-10
-3172     8-13-2001   20-11
-3182     9-10-2001   18-12
-3187     11-26-2001  9-3
-                     19-1—
-                     19-26;
-3193     2-25-2002   19-40—
-                     19-43;
-                     19-50—
-                     19-54
-3194     2-25-2002   18-131;
-                     18-132
-3214     5-28-2002   19-42;
-                     19-52
-                     6-0;
-                     6-3;
-3199     6-10-2002   6-9;
-                     6-17;
-                     6-18;
-                     6-31
-3215     6-10-2002   8-18.5
-3238     12-9-2002   8-88—
-                     8-96
-                     6-34;
-3242     12-9-2002   6-38;
-                     6-39;
-                     6-39.1
-3256     3-10-2003   18-106—
-                     18-113
-3264     3-24-2003   27-199
-3271     4-14-2003   2-267—
-                     2-275
-3275     5-12-2003   18-12
-                     28-76;
-                     28-77;
-3279     7-14-2003   28-77.1;
-                     28-80;
-                     28-81
-                     12-60—
-                     12-62;
-                     12-64;
-3307     3-8-2004    12-65;
-                     12-76;
-                     12-77;
-                     12-79—
-                     12-86
-3319     6-14-2004   2-26
-                     8-17;
-                     8-18;
-3332     9-27-2004   8-18.5;
-                     8-63;
-                     8-64
-3335     9-27-2004   10-57;
-                     10-58
-                     27-85;
-3336     9-27-2004   27-85.1;
-                     27-86;
-                     27-87
-3337     9-27-2004   27-196
-3334     10-11-2004  8-18.6
-3359     4-11-2005   8-18
-3360     5-9-2005    12-60;
-                     12-77
-3333     5-23-2005   8-18.5
-3362     5-23-2005   20-12
-3376     10-24-2005  8-18.5
-3377     10-24-2005  8-18.6
-3379     10-24-2005  10-57;
-                     10-58
-                     27-85;
-3380     10-24-2005  27-85.1;
-                     27-86;
-                     27-87
-3381     10-24-2005  27-196;
-                     27-196.1
-                     19-1—
-                     19-4;
-                     19-40—
-3387     10-24-2005  19-43;
-                     19-50—
-                     19-54;
-                     19-90—
-                     19-97
-                     8-17;
-3378     11-14-2005  8-18;
-                     8-63;
-                     8-64
-3386     11-14-2005  18-76
-3388     11-14-2005  26-38—
-                     26-40
-3395     12-12-2005  2-26
-                     27.5-1—
-                     27.5-3;
-                     27.5-22;
-                     27.5-23;
-                     27.5-41—
-                     27.5-43;
-                     27.5-61—
-3409     7-24-2006   27.5-63;
-                     27.5-81—
-                     27.5-86;
-                     27.5-101—
-                     27.5-105;
-                     27.5-121—
-                     27.5-125;
-                     27.5-141—
-                     27.5-147
-3446     10-8-2007   1-20
-3458     3-24-2008   27-73
-3459     3-24-2008   30-137
-                     3-17—
-                     3-19;
-                     3-26;
-3456     4-14-2008   3-28—
-                     3-32;
-                     3-35;
-                     3-37
-3460     4-14-2008   12-22—
-                     12-24
-3461     4-14-2008   9-3;
-                     9-19
-                     12-2;
-                     12-36;
-                     12-36.1;
-3471     7-14-2008   12-37—
-                     12-43;
-                     12-166;
-                     12-167;
-                     12-170
-3472     7-28-2008   12-16;
-                     12-17
-3478     8-11-2008   11-121—
-                     11-127
-3487     11-10-2008  11-150
-3486     11-24-2008  20-31—
-                     20-33
-3494     3-9-2009    4-32;
-                     4-40
-                     6-39—
-                     6-42;
-                     6-52;
-3496     3-9-2009    6-55;
-                     6-105;
-                     6-106;
-                     6-116
-3497     3-9-2009    17-45;
-                     17-58
-3498     3-9-2009    27-29
-                     8-64;
-                     8-73;
-3499     3-9-2009    8-83;
-                     8-91;
-                     8-95
-                     11-1;
-                     11-3;
-3500     3-9-2009    11-4;
-                     11-41;
-                     11-63;
-                     11-93
-                     12-22;
-3501     3-9-2009    12-80;
-                     12-175
-3502     3-9-2009    13-64
-3503     3-9-2009    22-17
-                     23-1—
-                     23-5;
-3504     3-9-2009    23-21—
-                     23-31;
-                     23-37;
-                     23-52
-                     27-29;
-                     27-32;
-                     27-49;
-                     27-73;
-                     27-121;
-                     27-136;
-                     27-137;
-3505     3-9-2009    27-140;
-                     27-141;
-                     27-167;
-                     27-170—
-                     27-172 ;
-                     27-200;
-                     27-203;
-                     27-221;
-                     27-229
-3511     3-9-2009    2-26;
-                     2-29
-3512     3-9-2009    26-40
-3513     3-9-2009    12-77
-3515     5-11-2009   8-18.5
-                     8-17;
-                     8-18;
-                     8-131—
-3516     5-11-2009   8-135;
-                     8-137—
-                     8-144;
-                     8-151—
-                     8-163
-                     27-196;
-                     27-196.1;
-3517     5-11-2009   27-198;
-                     27-221;
-                     27-275—
-                     27-281
-3518     5-11-2009   8-18.6
-3519     5-11-2009   10-57;
-                     10-58
-                     27-85;
-                     27-85.1;
-3520     5-11-2009   27-86;
-                     27-87;
-                     27-265—
-                     27-271
-3521     6-6-2009    30-137
-3527     6-8-2009    8-137;
-                     27-198
-                     6-0;
-                     6-6.1;
-                     6-6.2;
-                     6-9;
-3524     7-27-2009   6-21;
-                     6-36;
-                     6-52;
-                     6-55;
-                     6-68
-3531     9-14-2009   20-7
-3537     10-26-2009  26-2
-3543     11-23-2009  9-3
-3549     11-23-2009  26-2
-                     12-172—
-3546     12-14-2009  12-175;
-                     12-179
-3548     12-14-2009  20-34
-3554     12-14-2009  30-137
-3550     1-11-2010   18-140;
-                     18-141
-3553     1-11-2010   2.5-1—
-                     2.5-21
-3562     3-8-2010    27.5-3;
-                     27.5-122
-3564     3-22-2010   23-3;
-                     23-22
-3567     3-22-2010   2-95
-3570     3-22-2010   2-68
-3572     4-26-2010   23-53—
-                     23-59
-3574     5-10-2010   23-52—
-                     23-54
-3577     6-28-2010   4-12
-3580     7-26-2010   21-22
-                     8-134;
-3585     9-13-2010   8-138;
-                     8-160
-                     23-77—
-3595     11-22-2010  23-86;
-                     19-100—
-                     19-107
-3604     1-24-2011   2-107
-3605     1-24-2011   20-41—
-                     20-45
-3612     2-28-2011   27-87
-                     2-222;
-                     2-248;
-3601     4-25-2011   2-250;
-                     2-261;
-                     2-263—
-                     2-265
-3616     5-23-2011   26-40
-3619     - -         A-1;
-                     20-11
-3620     6-27-2011   2-94
-3621     6-27-2011   12-38;
-                     12-173
-3622     6-27-2011   28-170—
-                     28-175
-3636     9-12-2011   28-1
-3634     9-26-2011   14-5
-3648     11-14-2011  9-3
-3649     11-14-2011  20-13
-3651     11-28-2011  8-46
-                     8-16—
-                     8-18;
-                     8-132;
-                     8-137;
-3652     11-28-2011  8-138;
-                     8-140—
-                     8-142;
-                     8-144;
-                     8-152;
-                     8-160
-3653     11-28-2011  8-18.5
-3654     11-28-2011  8-18.6
-                     8-63;
-3655     11-28-2011  8-81—
-                     8-83
-                     8-134.1;
-                     8-134.2;
-3656     11-28-2011  8-137;
-                     8-138;
-                     8-140;
-                     8-162
-3657     11-28-2011  10-57;
-                     10-58
-                     12-2;
-                     12-36;
-                     12-36.1;
-3658     11-28-2011  12-37—
-                     12-43;
-                     12-166;
-                     12-167;
-                     12-170
-                     27-27;
-                     27-29;
-                     27-31;
-                     27-32;
-                     27-36;
-                     27-49;
-3659     11-28-2011  27-57;
-                     27-135—
-                     27-137 ;
-                     27-139—
-                     27-141 ;
-                     27-167;
-                     27-171;
-                     27-172
-                     27-85;
-                     27-85.1;
-                     27-86;
-                     27-87;
-3660     11-28-2011  27-167;
-                     27-169—
-                     27-172 ;
-                     27-174;
-                     27-269;
-                     27-270
-                     27-196;
-                     27-196.1;
-                     27-198;
-                     27-202;
-3661     11-28-2011  27-203;
-                     27-205;
-                     27-221;
-                     27-229;
-                     27-280
-3661     11-28-2011  27-275—
-                     27-279
-3664     3-12-2012   2-202—
-                     2-207
-3666     3-12-2012   30-137
-                     6-0;
-3679     8-27-2012   6-4;
-                     6-17;
-                     6-18
-3680     8-27-2012   4-12
-3681     9-10-2012   2-29
-3686     9-24-2012   6-118—
-                     6-140
-3694     12-10-2012  18-133—
-                     18-136
-3696     1-11-2013   27-166
-3697     1-22-2013   20-7
-3703     2-11-2013   2-143
-3704     3-11-2013   B-1
-3708     3-11-2013   A-1
-3710     3-11-2013   2-144
-3711     3-11-2013   23-77—
-                     23-86
-3712     3-11-2013   28-170—
-                     28-175
-3706     3-25-2013   6-22
-3707     3-25-2013   30-137
-3714     4-8-2013    A-1
-3716     4-22-2013   A-1
-3715     5-13-2013   A-1
-                     8-132;
-3721     5-28-2013   8-144;
-                     8-160
-3723     6-10-2013   20-7;
-                     20-8
-3728     6-24-2013   8-46
-3729     7-8-2013    A-1
-3734     9-23-2013   8-161;
-                     8-163
-3736     9-23-2013   12-173
-                     15-192;
-3738     10-14-2013  15-195;
-                     15-196;
-                     15-220
-3739     10-14-2013  4-12
-                     13-32;
-3745     11-12-2013  13-35;
-                     13-48;
-                     13-64
-3750     1-13-2014   6-56—
-                     6-61
-3756     2-24-2014   9-3
-3759     3-24-2014   5-36—
-                     5-40
-3760     3-24-2014   23-22
-3763     3-24-2014   2-263
-3761     4-14-2014   A-1
-3762     4-14-2014   A-1
-3757     4-28-2014   A-1
-                     2-137;
-3766     6-9-2014    2-142;
-                     2-143
-3773     8-11-2014   A-1
-3774     8-11-2014   A-1
-3775     8-11-2014   A-1
-3776     8-11-2014   A-1
-3777     8-11-2014   B-1
-3781     10-13-2014  A-1
-3780     11-24-2014  B-1
-3786     11-24-2014  18-76
-3785     12-8-2014   2-95
-3790     12-8-2014   8-17;
-                     8-18
-3791     12-8-2014   8-18.6
-                     12-2;
-3792     12-8-2014   12-36;
-                     12-36.1;
-                     12-170
-3793     12-8-2014   27-196;
-                     27-196.1
-                     27-85;
-3794     12-8-2014   27-85.1;
-                     27-86;
-                     27-87
-3795     12-8-2014   10-57;
-                     10-58
-3800     12-8-2014   11-141—
-                     11-144
-3797     1-26-2015   30-137
-3802     3-9-2015    A-1
-3806     4-13-2015   A-1
-3807     4-13-2015   2-26;
-                     2-29
-3808     5-11-2015   12-60
-3809     5-11-2015   19-27
-3810     5-26-2015   20-7
-3811     6-8-2015    A-1
-3821     9-24-2015   28-171;
-                     28-172
-3822     11-9-2015   6-1
-3823     11-9-2015   12-59;
-                     12-60
-3824     11-9-2015   A-1
-3825     11-9-2015   A-1
-3826     11-9-2015   B-1
-3829     12-14-2015  11-121
-3840     2-8-2016    A-1
-3846     4-11-2016   A-1
-3848     6-13-2016   B-1
-3849     6-13-2016   A-1
-3850     6-13-2016   22-1—
-                     22-11
-3851     6-13-2016   23-77—
-                     23-86
-3853     7-11-2016   A-1
-3844     8-8-2016    28-176—
-                     28-183
-3858     10-10-2016  A-1
-3863     11-28-2016  23-60
-3862     12-12-2016  30-137
-3869     3-13-2017   26-40
-3873     4-24-2017   B-1
-3878     8-14-2017   10-57;
-                     10-58
-3882     9-11-2017   A-1
-3881     9-25-2017   24-1—
-                     24-5
-3884     10-9-2017   8-41
-3886     10-9-2017   A-1
-3888     12-11-2017  A-1
-                     6-0;
-3894     1-22-2018   6-23;
-                     6-47
-3899     2-12-2018   A-1
-3923     2-26-2018   A-1
-3889     3-26-2018   21-31—
-                     21-37
-3902     4-9-2018    A-1
-3911     9-10-2018   A-1
-3912     9-24-2018   26-52—
-                     26-55
-3914     9-24-2018   30-137
-3924     11-26-2018  A-1
-3921     1-14-2019   28-151—
-                     28-156
-3927     2-11-2019   2-26;
-                     2-29
-3943     5-7-2019    2-30
-3949     6-18-2019   19-42
-3952     7-16-2019   A-1
-3964     9-3-2019    6-18
-3977     12-3-2019   2-28
-3978     12-3-2019   2-208
-3981     12-3-2019   9-3
-3984     12-3-2019   A-1
-3988     2-18-2020   A-1
-3987     3-3-2020    A-1
-3989     3-3-2020    A-1
-3992     3-17-2020   14-11
-3990     4-21-2020   A-1
-3991     4-21-2020   A-1
-3995     6-2-2020    A-1
-3999     7-7-2020    2-96
-4002     3-11-2020   29.5-1—
-                     29.5-29
-4016     3-11-2020   18-106—
-                     18-113
-4000     7-21-2020   A-1
-4001     8-4-2020    A-1
-4004     9-1-2020    A-1
-                     2-187;
-                     2-221;
-                     4-31.1;
-                     7-6;
-                     9-2;
-                     11-42;
-                     12-57;
-4006     10-6-2020   18-18;
-                     18-19;
-                     18-33;
-                     18-75;
-                     18-86;
-                     18-87;
-                     26-51;
-                     27.5-21
-4011     10-6-2020   A-1
-4007     10-20-2020  6-117
-4008     10-20-2020  9-17;
-                     9-18
-4009     10-20-2020  15-194
-4012     11-3-2020   A-1
-4013     11-3-2020   A-1
-4014     11-3-2020   A-1
-4015     11-3-2020   A-1
-4019     11-17-2020  6-22
-4027     3-2-2021    A-1
-4029     4-20-2021   19-83
-                     12-57—
-                     12-62;
-                     12-64;
-4030     5-4-2021    12-65; 
-                     12-76;
-                     12-77;
-                     12-79—
-                     12-86
-                     12-2;
-4031     5-4-2021    12-36;
-                     12-36.1;
-                     12-170
-4032     5-4-2021    8-16—
-                     8-18
-4033     5-4-2021    8-18.6
-4034     5-4-2021    27-196;
-                     27-196.1
-4035     5-4-2021    27-85—
-                     27-87
-4039     7-6-2021    20-14
-4041     7-20-2021   20-15
-4042     7-20-2021   7-2
-4048     9-7-2021    28-7;
-                     28-15
-                     12-57—
-                     12-65;
-4050     9-21-2021   12-76—
-                     12-77;
-                     12-79—
-                     12-86
-4053     10-5-2021   A-1
-4054     10-5-2021   A-1
-4055     10-5-2021   A-1
-4058     10-19-2021  20-16—
-                     20-20.1
-                     27-27;
-4060     10-19-2021  27-28;
-                     27-34
-4066     12-21-2021  9-3
-4067     1-18-2022   20-9
-4069     2-1-2022    12-172;
-                     12-176
-4071     2-1-2022    2-29
-4075     2-15-2022   20-2
-4082     3-1-2022    6-1
-4083     3-1-2022    20-15—
-                     20.20.1
-                     18-31;
-                     18-34;
-                     18-35;
-                     18-37;
-                     18-51—
-                     18-53;
-4091     5-3-2022    18-65—
-                     18-70;
-                     18-74;
-                     18-90—
-                     18-93;
-                     18-100;
-                     18-136
-4092     5-3-2022    20-16;
-                     20-20.1
-4094     5-3-2022    28-77;
-                     28-77.1
-4095     5-3-2022    8-18
-4096     5-3-2022    12-36.1
-4098     6-7-2022    Repeals 14-6
-4104     8-16-2022   A-1
-4105     8-16-2022   B-1
-4108     10-4-2022   A-1
-4111     12-6-2022   9-3
-4113     12-20-2022  11-141—
-                     11-144
-4121     5-2-2023    23-35—
-                     23-41
-                     23-1,
-                     23-3,
-                     23-4,
-4122     5-2-2023    23-21,
-                     23-22,
-                     23-24,
-                     23-25
-                     19-8,
-                     19-14,
-4130     10-3-2023   19-23,
-                     19-42,
-                     19-52,
-                     19-95
-4131     10-3-2023   29.5-9
-4138     12-19-2023  30-137
-4147     3-5-2024    B-1
-4152     4-16-2024   18-95
-4154     5-21-2024   A-1
-4155     5-21-2024   A-1
-4156     5-21-2024   18-76
-4169     12-17-2024  19-108—
-                     19-118
-4173     12-17-2024  10-57,
-                     10-58
-4171     1-21-2025   19-23,
-                     19-42
-                     29.5-9,
-4172     1-21-2025   29.5-10,
-                     29.5-28
-                    
+Ord. Date   Code Section
+No.  Passed
+2000 1-24-  12-64
+     1977
+2006 2-28-  12-20;
+     1977   12-21
+            16-1—
+2011 4-25-  16-6;
+     1977   16-21—
+            16-28
+2024 7-25-  28-13
+     1977
+2022 8-8-   2-157—
+     1977   2-169
+2040 10-24- 2-140;
+     1977   2-144
+2045 11-14- 13-47
+     1977
+2050 2-27-  8-22
+     1978
+2051 2-27-  18-106—
+     1978   18-113
+            2-181—
+     10-9-  2-183;
+2080 1978   2-185;
+            2-192—
+            2-200
+2081 11-13- 30-142;
+     1978   30-144
+            30-61—
+            30-83;
+2043 11-14- 30-91—
+     1978   30-101;
+            30-111—
+            30-123
+2090 3-26-  30-136—
+     1979   30-144
+            12-58—
+            12-62;
+            12-64;  
+     4-9-   12-76;
+2092 1979   12-77;
+            12-79;
+            12-80;
+            12-83—
+            12-86
+2102 7-9-   12-58—
+     1979   12-60
+2113 12-10- 30-136—
+     1979   30-144
+2122 1-28-  18-94
+     1980
+            15-191—
+            15-193 ;
+            15-195;
+2123 3-10-  15-196;
+     1980   15-211—
+            15-216 ;
+            15-218—
+            15-220
+2125 3-24-  9-3
+     1980
+2131 4-28-  13-47
+     1980
+            8-17;
+     6-9-   8-18;
+2135 1980   8-18.5;
+            8-19;
+            8-21
+2137 6-9-   12-36—
+     1980   12-42
+2146 9-22-  12-2
+     1980
+2147 9-22-  12-166—
+     1980   12-171
+2153 12-8-  3-76—
+     1980   3-83
+2154 12-8-  3-56—
+     1980   3-61
+            6-0;
+            6-1;
+2162 3-23-  6-4—
+     1981   6-9;
+            6-101—
+            6-108
+2191 11-9-  8-2
+     1981
+2192 12-7-  9-3
+     1981
+2199 4-12-  20-7
+     1982
+2200 4-26-  4-12
+     1982
+     4-11-  11-41;
+2245 1983   11-43—
+            11-45
+2295 10-24- 26-38—
+     1983   26-40
+2297 11-14- 4-32
+     1983
+2299 12-12- 9-3
+     1983
+2306 2-17-  5-51—
+     1984   5-53
+2356 6-10-  8-3
+     1984
+2346 3-11-  12-80;
+     1985   12-81
+2353 4-22-  30-137
+     1985
+2355 6-10-  B-1
+     1985
+            8-2;
+            8-4;
+            8-17;
+2356 6-10-  8-18;
+     1985   8-18.5;
+            8-19;
+            8-51;
+            8-52
+            28-76;
+2377 8-26-  28-77;
+     1985   28-77.1;
+            28-79
+2386 10-14- 18-95;
+     1985   18-96
+            2-222—
+            2-229;
+2394 12-16- 2-241—
+     1985   2-250;
+            2-261—
+            2-266
+2401 1-27-  12-36—
+     1986   12-43
+     4-14-  8-17;
+2412 1986   8-20;
+            8-28
+2424 6-9-   4-31
+     1986
+2430 8-11-  2-26
+     1986
+2442 11-24- 2-265
+     1986
+2452 3-9-   30-137
+     1987
+2466 6-8-   26-38—
+     1987   26-40
+2468 6-8-   28-77.1
+     1987
+2483 10-13- 26-1
+     1987
+2487 11-9-  4-40
+     1987
+2488 11-9-  11-4
+     1987
+2490 11-23- 30-137
+     1987
+2495 2-8-   2-265
+     1988
+            12-77;
+     2-22-  12-79;
+2498 1988   12-80;
+            12-82;
+            12-84
+2507 5-9-   20-8
+     1988
+2509 5-23-  30-136;
+     1988   30-138
+2514 8-22-  6-115;
+     1988   6-116
+2522 9-12-  21-21
+     1988
+2524 11-14- 4-32
+     1988
+2525 11-14- 4-39
+     1988
+2527 11-18- 30-137
+     1988
+2537 2-27-  12-77
+     1989
+2535 4-10-  8-61—
+     1989   8-66
+2536 4-10-  8-71—
+     1989   8-78
+2539 4-10-  8-81—
+     1989   8-86
+     6-26-  8-17;
+2554 1989   8-18;
+            8-18.5
+2566 9-11-  8-63
+     1989
+2603 12-10- 30-137
+     1990
+2610 3-11-  30-70
+     1991
+2619 7-8-   8-29
+     1991
+2626 8-12-  2-165
+     1991
+            6-16;
+            6-17;
+            6-19;
+            6-20;
+2629 9-9-   6-31—
+     1991   6-46;
+            6-51—
+            6-55;
+            6-66—
+            6-75
+2636 10-15- 4-12
+     1991
+2641 11-12- 30-137
+     1991
+2642 11-12- 11-61—
+     1991   11-70
+2643 11-12- 11-31
+     1991
+2644 11-12- 4-32
+     1991
+     11-25- 8-17;
+2646 1991   8-18;
+            8-18.5
+2648 12-9-  11-81—
+     1991   11-111
+2649 12-9-  9-3
+     1991
+2677 5-4-   9-3
+     1992
+2682 5-11-  11-81
+     1992
+2684 5-11-  8-18;
+     1992   8-18.5
+2812 - -    B-1
+2864 5-11-  8-17
+     1992
+2707 9-14-  8-18;
+     1992   8-18.5
+2708 9-14-  8-18;
+     1992   8-18.5
+2711 9-28-  8-18;
+     1992   8-18.5
+2717 11-9-  30-137
+     1992
+     3-8-   28-134;
+2732 1993   28-136—
+            28-138
+2733 3-8-   18-97—
+     1993   18-100
+2742 4-12-  12-36
+     1993
+2746 4-12-  12-42
+     1993
+     4-26-  8-17;
+2739 1993   8-18;
+            8-18.5
+2744 4-26-  12-61;
+     1993   12-65
+            6-0;
+2753 5-1-   6-31;
+     1993   6-38;
+            6-39
+2763 8-23-  8-18;
+     1993   8-18.5
+            28-26—
+2778 9-27-  28-31;
+     1993   28-33;
+            28-34
+2787 11-8-  9-3
+     1993
+2788 1-10-  8-23;
+     1994   28-32
+2791 1-10-  30-137
+     1994
+2797 7-11-  8-88—
+     1994   8-96
+2845 5-8-   28-77.1
+     1995
+            27-26—
+            27-29;
+            27-31—
+            27-37;
+            27-47—
+            27-60;
+            27-70—
+            27-74;
+            27-97—
+            27-122;
+            27-133—
+            27-137 ;
+            27-139—
+2867 12-11- 27-141;
+     1995   27-152—
+            27-154 ;
+            27-165—
+            27-185;
+            27-196—
+            27-200 ;
+            27-202—
+            27-208;
+            27-219—
+            27-234 ;
+            27-245;
+            27-246;
+            27-257;
+            27-258
+            10-1—
+            10-5;
+            10-15—
+            10-17;
+     12-11- 10-28—
+2868 1995   10-32;
+            10-34;
+            10-35;
+            10-46;
+            10-57;
+            10-58
+2870 1-8-   20-9
+     1996
+            12-59;
+     3-11-  12-61;
+2874 1996   12-77;
+            12-79;
+            12-81
+2875 3-11-  27-170—
+     1996   27-172
+2884 4-8-   20-21—
+     1996   20-30
+2896 6-24-  28-77.1
+     1996
+2901 8-12-  27-257;
+     1996   27-258
+2902 8-12-  10-57;
+     1996   10-58
+2904 8-12-  10-35
+     1996
+     8-12-  8-17;
+2905 1996   8-18;
+            8-18.5
+2914 9-23-  12-36;
+     1996   12-42
+2920 11-12- 10-57;
+     1996   10-58
+2921 11-12- 8-18
+     1996
+            27-27;
+     1-27-  27-135;
+2934 1997   27-166—
+            27-168;
+            27-198
+2953 5-27-  31-2
+     1997
+2980 2-23-  27-49;
+     1998   27-221
+2981 2-23-  26-39;
+     1998   26-40
+2987 4-27-  29-6
+     1998
+2981 5-27-  26-38
+     1998
+3008 1-25-  28-29;
+     1999   28-31
+     4-26-  16-23;
+3016 1999   16-24;
+            16-28
+            6-9;
+3020 7-12-  6-19;
+     1999   6-20;
+            6-52
+3038 12-13- 20-7
+     1999
+     1-24-  8-17;
+3077 2000   8-18;
+            8-18.5
+3078 1-24-  10-57;
+     2000   10-58
+3079 1-24-  12-36
+     2000
+3080 1-24-  27-86;
+     2000   27-87
+3081 1-24-  27-257;
+     2000   27-258
+3087 2-14-  9-3
+     2000
+3093 2-28-  8-18.5
+     2000
+3102 3-27-  12-77
+     2000
+     3-12-  12-172—
+3141 2001   12-175 ;
+            12-179
+     3-26-  8-16—
+3148 2001   8-18;
+            8-18.5
+3162 8-13-  1-20
+     2001
+3163 8-13-  1-12
+     2001
+3171 8-13-  20-10
+     2001
+3172 8-13-  20-11
+     2001
+3182 9-10-  18-12
+     2001
+3187 11-26- 9-3
+     2001
+            19-1—
+            19-26;
+3193 2-25-  19-40—
+     2002   19-43;
+            19-50—
+            19-54
+3194 2-25-  18-131;
+     2002   18-132
+3214 5-28-  19-42;
+     2002   19-52
+            6-0;
+            6-3;
+3199 6-10-  6-9;
+     2002   6-17;
+            6-18;
+            6-31
+3215 6-10-  8-18.5
+     2002
+3238 12-9-  8-88—
+     2002   8-96
+            6-34;
+3242 12-9-  6-38;
+     2002   6-39;
+            6-39.1
+3256 3-10-  18-106—
+     2003   18-113
+3264 3-24-  27-199
+     2003
+3271 4-14-  2-267—
+     2003   2-275
+3275 5-12-  18-12
+     2003
+            28-76;
+     7-14-  28-77;
+3279 2003   28-77.1;
+            28-80;
+            28-81
+            12-60—
+            12-62;
+            12-64;
+3307 3-8-   12-65;
+     2004   12-76;
+            12-77;
+            12-79—
+            12-86
+3319 6-14-  2-26
+     2004
+            8-17;
+     9-27-  8-18;
+3332 2004   8-18.5;
+            8-63;
+            8-64
+3335 9-27-  10-57;
+     2004   10-58
+            27-85;
+3336 9-27-  27-85.1;
+     2004   27-86;
+            27-87
+3337 9-27-  27-196
+     2004
+3334 10-11- 8-18.6
+     2004
+3359 4-11-  8-18
+     2005
+3360 5-9-   12-60;
+     2005   12-77
+3333 5-23-  8-18.5
+     2005
+3362 5-23-  20-12
+     2005
+3376 10-24- 8-18.5
+     2005
+3377 10-24- 8-18.6
+     2005
+3379 10-24- 10-57;
+     2005   10-58
+            27-85;
+3380 10-24- 27-85.1;
+     2005   27-86;
+            27-87
+3381 10-24- 27-196;
+     2005   27-196.1
+            19-1—
+            19-4;
+            19-40—
+3387 10-24- 19-43;
+     2005   19-50—
+            19-54;
+            19-90—
+            19-97
+            8-17;
+3378 11-14- 8-18;
+     2005   8-63;
+            8-64
+3386 11-14- 18-76
+     2005
+3388 11-14- 26-38—
+     2005   26-40
+3395 12-12- 2-26
+     2005
+            27.5-1—
+            27.5-3;
+            27.5-22;
+            27.5-23;
+            27.5-41—
+            27.5-43;
+            27.5-61—
+3409 7-24-  27.5-63;
+     2006   27.5-81—
+            27.5-86;
+            27.5-101—
+            27.5-105;
+            27.5-121—
+            27.5-125;
+            27.5-141—
+            27.5-147
+3446 10-8-  1-20
+     2007
+3458 3-24-  27-73
+     2008
+3459 3-24-  30-137
+     2008
+            3-17—
+            3-19;
+     4-14-  3-26;
+3456 2008   3-28—
+            3-32;
+            3-35;
+            3-37
+3460 4-14-  12-22—
+     2008   12-24
+3461 4-14-  9-3;
+     2008   9-19
+            12-2;
+            12-36;
+            12-36.1;
+3471 7-14-  12-37—
+     2008   12-43;
+            12-166;
+            12-167;
+            12-170
+3472 7-28-  12-16;
+     2008   12-17
+3478 8-11-  11-121—
+     2008   11-127
+3487 11-10- 11-150
+     2008
+3486 11-24- 20-31—
+     2008   20-33
+3494 3-9-   4-32;
+     2009   4-40
+            6-39—
+            6-42;
+     3-9-   6-52;
+3496 2009   6-55;
+            6-105;
+            6-106;
+            6-116
+3497 3-9-   17-45;
+     2009   17-58
+3498 3-9-   27-29
+     2009
+            8-64;
+     3-9-   8-73;
+3499 2009   8-83;
+            8-91;
+            8-95
+            11-1;
+            11-3;
+3500 3-9-   11-4;
+     2009   11-41;
+            11-63;
+            11-93
+     3-9-   12-22;
+3501 2009   12-80;
+            12-175
+3502 3-9-   13-64
+     2009
+3503 3-9-   22-17
+     2009
+            23-1—
+            23-5;
+3504 3-9-   23-21—
+     2009   23-31;
+            23-37;
+            23-52
+            27-29;
+            27-32;
+            27-49;
+            27-73;
+            27-121;
+            27-136;
+            27-137;
+3505 3-9-   27-140;
+     2009   27-141;
+            27-167;
+            27-170—
+            27-172 ;
+            27-200;
+            27-203;
+            27-221;
+            27-229
+3511 3-9-   2-26;
+     2009   2-29
+3512 3-9-   26-40
+     2009
+3513 3-9-   12-77
+     2009
+3515 5-11-  8-18.5
+     2009
+            8-17;
+            8-18;
+            8-131—
+3516 5-11-  8-135;
+     2009   8-137—
+            8-144;
+            8-151—
+            8-163
+            27-196;
+            27-196.1;
+3517 5-11-  27-198;
+     2009   27-221;
+            27-275—
+            27-281
+3518 5-11-  8-18.6
+     2009
+3519 5-11-  10-57;
+     2009   10-58
+            27-85;
+            27-85.1;
+3520 5-11-  27-86;
+     2009   27-87;
+            27-265—
+            27-271
+3521 6-6-   30-137
+     2009
+3527 6-8-   8-137;
+     2009   27-198
+            6-0;
+            6-6.1;
+            6-6.2;
+     7-27-  6-9;
+3524 2009   6-21;
+            6-36;
+            6-52;
+            6-55;
+            6-68
+3531 9-14-  20-7
+     2009
+3537 10-26- 26-2
+     2009
+3543 11-23- 9-3
+     2009
+3549 11-23- 26-2
+     2009
+     12-14- 12-172—
+3546 2009   12-175;
+            12-179
+3548 12-14- 20-34
+     2009
+3554 12-14- 30-137
+     2009
+3550 1-11-  18-140;
+     2010   18-141
+3553 1-11-  2.5-1—
+     2010   2.5-21
+3562 3-8-   27.5-3;
+     2010   27.5-122
+3564 3-22-  23-3;
+     2010   23-22
+3567 3-22-  2-95
+     2010
+3570 3-22-  2-68
+     2010
+3572 4-26-  23-53—
+     2010   23-59
+3574 5-10-  23-52—
+     2010   23-54
+3577 6-28-  4-12
+     2010
+3580 7-26-  21-22
+     2010
+     9-13-  8-134;
+3585 2010   8-138;
+            8-160
+3595 11-22- 19-100—
+     2010   19-107
+3604 1-24-  2-107
+     2011
+3605 1-24-  20-41—
+     2011   20-45
+3612 2-28-  27-87
+     2011
+            2-222;
+            2-248;
+3601 4-25-  2-250;
+     2011   2-261;
+            2-263—
+            2-265
+3616 5-23-  26-40
+     2011
+3619 - -    A-1;
+            20-11
+3620 6-27-  2-94
+     2011
+3621 6-27-  12-38;
+     2011   12-173
+3622 6-27-  28-170—
+     2011   28-175
+3636 9-12-  28-1
+     2011
+3634 9-26-  14-5
+     2011
+3648 11-14- 9-3
+     2011
+3649 11-14- 20-13
+     2011
+3651 11-28- 8-46
+     2011
+            8-16—
+            8-18;
+            8-132;
+            8-137;
+3652 11-28- 8-138;
+     2011   8-140—
+            8-142;
+            8-144;
+            8-152;
+            8-160
+3653 11-28- 8-18.5
+     2011
+3654 11-28- 8-18.6
+     2011
+     11-28- 8-63;
+3655 2011   8-81—
+            8-83
+            8-134.1;
+            8-134.2;
+3656 11-28- 8-137;
+     2011   8-138;
+            8-140;
+            8-162
+3657 11-28- 10-57;
+     2011   10-58
+            12-2;
+            12-36;
+            12-36.1;
+3658 11-28- 12-37—
+     2011   12-43;
+            12-166;
+            12-167;
+            12-170
+            27-27;
+            27-29;
+            27-31;
+            27-32;
+            27-36;
+            27-49;
+3659 11-28- 27-57;
+     2011   27-135—
+            27-137 ;
+            27-139—
+            27-141 ;
+            27-167;
+            27-171;
+            27-172
+            27-85;
+            27-85.1;
+            27-86;
+            27-87;
+3660 11-28- 27-167;
+     2011   27-169—
+            27-172 ;
+            27-174;
+            27-269;
+            27-270
+            27-196;
+            27-196.1;
+            27-198;
+     11-28- 27-202;
+3661 2011   27-203;
+            27-205;
+            27-221;
+            27-229;
+            27-280
+3661 11-28- 27-275—
+     2011   27-279
+3664 3-12-  2-202—
+     2012   2-207
+3666 3-12-  30-137
+     2012
+            6-0;
+3679 8-27-  6-4;
+     2012   6-17;
+            6-18
+3680 8-27-  4-12
+     2012
+3681 9-10-  2-29
+     2012
+3686 9-24-  6-118—
+     2012   6-140
+3694 12-10- 18-133—
+     2012   18-136
+3696 1-11-  27-166
+     2013
+3697 1-22-  20-7
+     2013
+3703 2-11-  2-143
+     2013
+3704 3-11-  B-1
+     2013
+3708 3-11-  A-1
+     2013
+3710 3-11-  2-144
+     2013
+3712 3-11-  28-170—
+     2013   28-175
+3706 3-25-  6-22
+     2013
+3707 3-25-  30-137
+     2013
+3714 4-8-   A-1
+     2013
+3716 4-22-  A-1
+     2013
+3715 5-13-  A-1
+     2013
+     5-28-  8-132;
+3721 2013   8-144;
+            8-160
+3723 6-10-  20-7;
+     2013   20-8
+3728 6-24-  8-46
+     2013
+3729 7-8-   A-1
+     2013
+3734 9-23-  8-161;
+     2013   8-163
+3736 9-23-  12-173
+     2013
+            15-192;
+3738 10-14- 15-195;
+     2013   15-196;
+            15-220
+3739 10-14- 4-12
+     2013
+            13-32;
+3745 11-12- 13-35;
+     2013   13-48;
+            13-64
+3750 1-13-  6-56—
+     2014   6-61
+3756 2-24-  9-3
+     2014
+3759 3-24-  5-36—
+     2014   5-40
+3760 3-24-  23-22
+     2014
+3763 3-24-  2-263
+     2014
+3761 4-14-  A-1
+     2014
+3762 4-14-  A-1
+     2014
+3757 4-28-  A-1
+     2014
+     6-9-   2-137;
+3766 2014   2-142;
+            2-143
+3773 8-11-  A-1
+     2014
+3774 8-11-  A-1
+     2014
+3775 8-11-  A-1
+     2014
+3776 8-11-  A-1
+     2014
+3777 8-11-  B-1
+     2014
+3781 10-13- A-1
+     2014
+3780 11-24- B-1
+     2014
+3786 11-24- 18-76
+     2014
+3785 12-8-  2-95
+     2014
+3790 12-8-  8-17;
+     2014   8-18
+3791 12-8-  8-18.6
+     2014
+            12-2;
+3792 12-8-  12-36;
+     2014   12-36.1;
+            12-170
+3793 12-8-  27-196;
+     2014   27-196.1
+            27-85;
+3794 12-8-  27-85.1;
+     2014   27-86;
+            27-87
+3795 12-8-  10-57;
+     2014   10-58
+3800 12-8-  11-141—
+     2014   11-144
+3797 1-26-  30-137
+     2015
+3802 3-9-   A-1
+     2015
+3806 4-13-  A-1
+     2015
+3807 4-13-  2-26;
+     2015   2-29
+3808 5-11-  12-60
+     2015
+3809 5-11-  19-27
+     2015
+3810 5-26-  20-7
+     2015
+3811 6-8-   A-1
+     2015
+3821 9-24-  28-171;
+     2015   28-172
+3822 11-9-  6-1
+     2015
+3823 11-9-  12-59;
+     2015   12-60
+3824 11-9-  A-1
+     2015
+3825 11-9-  A-1
+     2015
+3826 11-9-  B-1
+     2015
+3829 12-14- 11-121
+     2015
+3840 2-8-   A-1
+     2016
+3846 4-11-  A-1
+     2016
+3848 6-13-  B-1
+     2016
+3849 6-13-  A-1
+     2016
+3850 6-13-  22-1—
+     2016   22-11
+3853 7-11-  A-1
+     2016
+3844 8-8-   28-176—
+     2016   28-183
+3858 10-10- A-1
+     2016
+3863 11-28- 23-60
+     2016
+3862 12-12- 30-137
+     2016
+3869 3-13-  26-40
+     2017
+3873 4-24-  B-1
+     2017
+3878 8-14-  10-57;
+     2017   10-58
+3882 9-11-  A-1
+     2017
+3881 9-25-  24-1—
+     2017   24-5
+3884 10-9-  8-41
+     2017
+3886 10-9-  A-1
+     2017
+3888 12-11- A-1
+     2017
+     1-22-  6-0;
+3894 2018   6-23;
+            6-47
+3899 2-12-  A-1
+     2018
+3923 2-26-  A-1
+     2018
+3889 3-26-  21-31—
+     2018   21-37
+3902 4-9-   A-1
+     2018
+3911 9-10-  A-1
+     2018
+3912 9-24-  26-52—
+     2018   26-55
+3914 9-24-  30-137
+     2018
+3924 11-26- A-1
+     2018
+3921 1-14-  28-151—
+     2019   28-156
+3927 2-11-  2-26;
+     2019   2-29
+3943 5-7-   2-30
+     2019
+3949 6-18-  19-42
+     2019
+3952 7-16-  A-1
+     2019
+3964 9-3-   6-18
+     2019
+3977 12-3-  2-28
+     2019
+3978 12-3-  2-208
+     2019
+3981 12-3-  9-3
+     2019
+3984 12-3-  A-1
+     2019
+3988 2-18-  A-1
+     2020
+3987 3-3-   A-1
+     2020
+3989 3-3-   A-1
+     2020
+3992 3-17-  14-11
+     2020
+3990 4-21-  A-1
+     2020
+3991 4-21-  A-1
+     2020
+3995 6-2-   A-1
+     2020
+3999 7-7-   2-96
+     2020
+4002 3-11-  29.5-1—
+     2020   29.5-29
+4016 3-11-  18-106—
+     2020   18-113
+4000 7-21-  A-1
+     2020
+4001 8-4-   A-1
+     2020
+4004 9-1-   A-1
+     2020
+            2-187;
+            2-221;
+            4-31.1;
+            7-6;
+            9-2;
+            11-42;
+     10-6-  12-57;
+4006 2020   18-18;
+            18-19;
+            18-33;
+            18-75;
+            18-86;
+            18-87;
+            26-51;
+            27.5-21
+4011 10-6-  A-1
+     2020
+4007 10-20- 6-117
+     2020
+4008 10-20- 9-17;
+     2020   9-18
+4009 10-20- 15-194
+     2020
+4012 11-3-  A-1
+     2020
+4013 11-3-  A-1
+     2020
+4014 11-3-  A-1
+     2020
+4015 11-3-  A-1
+     2020
+4019 11-17- 6-22
+     2020
+4027 3-2-   A-1
+     2021
+4029 4-20-  19-83
+     2021
+            12-57—
+            12-62;
+            12-64;
+4030 5-4-   12-65; 
+     2021   12-76;
+            12-77;
+            12-79—
+            12-86
+            12-2;
+4031 5-4-   12-36;
+     2021   12-36.1;
+            12-170
+4032 5-4-   8-16—
+     2021   8-18
+4033 5-4-   8-18.6
+     2021
+4034 5-4-   27-196;
+     2021   27-196.1
+4035 5-4-   27-85—
+     2021   27-87
+4039 7-6-   20-14
+     2021
+4041 7-20-  20-15
+     2021
+4042 7-20-  7-2
+     2021
+4048 9-7-   28-7;
+     2021   28-15
+            12-57—
+            12-65;
+4050 9-21-  12-76—
+     2021   12-77;
+            12-79—
+            12-86
+4053 10-5-  A-1
+     2021
+4054 10-5-  A-1
+     2021
+4055 10-5-  A-1
+     2021
+4058 10-19- 20-16—
+     2021   20-20.1
+     10-19- 27-27;
+4060 2021   27-28;
+            27-34
+4066 12-21- 9-3
+     2021
+4067 1-18-  20-9
+     2022
+4069 2-1-   12-172;
+     2022   12-176
+4071 2-1-   2-29
+     2022
+4075 2-15-  20-2
+     2022
+4082 3-1-   6-1
+     2022
+4083 3-1-   20-15—
+     2022   20.20.1
+            18-31;
+            18-34;
+            18-35;
+            18-37;
+            18-51—
+     5-3-   18-53;
+4091 2022   18-65—
+            18-70;
+            18-74;
+            18-90—
+            18-93;
+            18-100;
+            18-136
+4092 5-3-   20-16;
+     2022   20-20.1
+4094 5-3-   28-77;
+     2022   28-77.1
+4095 5-3-   8-18
+     2022
+4096 5-3-   12-36.1
+     2022
+4098 6-7-   Repeals 14-6
+     2022
+4104 8-16-  A-1
+     2022
+4105 8-16-  B-1
+     2022
+4108 10-4-  A-1
+     2022
+4111 12-6-  9-3
+     2022
+4113 12-20- 11-141—
+     2022   11-144
+4121 5-2-   23-35—
+     2023   23-41
+            23-1;
+            23-3; 
+     5-2-   23-4;
+4122 2023   23-21;
+            23-22;
+            23-24;
+            23-25
+            19-8;
+            19-14;
+4130 10-3-  19-23;
+     2023   19-42;
+            19-52;
+            19-95
+4131 10-3-  29.5-9
+     2023
+4138 12-19- 30-137
+     2023
+4147 3-5-   B-1
+     2024
+4152 4-16-  18-95
+     2024
+4154 5-21-  A-1
+     2024
+4155 5-21-  A-1
+     2024
+4156 5-21-  18-76
+     2024
+4169 12-17- 19-108—
+     2024   19-118
+4173 12-17- 10-57;
+     2024   10-58
+4171 1-21-  19-23;
+     2025   19-42
+     1-21-  29.5-9;
+4172 2025   29.5-10;
+            29.5-28
+4177 2-4-   10-58
+     2025
+4175 2-18-  9-3
+     2025
+4180 3-4-   27-87
+     2025
+4183 5-6-   9-3
+     2025
+            23-1;
+     8-5-   23-4;
+4189 2025   23-5;
+            23-21;
+            23-22; repeals 23-23; 23-26—23-29; 23-36—23- 38; 23-40; 23-41; 43-53—23-59
+4190 8-5-   Repeals 23-77—23-86
+     2025
+           
  
