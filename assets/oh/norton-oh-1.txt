@@ -1,7 +1,7 @@
 CODIFIED ORDINANCES
 OF
 NORTON, OHIO
-Local legislation current through November 3, 2025
+Local legislation current through November 17, 2025
 State legislation current through June 26, 2024
  
 Published by:
@@ -15,7 +15,7 @@ CERTIFICATION
 731.23 and 731.42, hereby certify that the general and permanent legislation of
 the City of Norton, Ohio, as revised, arranged, compiled, numbered, codified
 and printed herewith in component codes, is correctly set forth and constitutes
-the Codified Ordinances of the City of Norton, Ohio, complete to November 3,
+the Codified Ordinances of the City of Norton, Ohio, complete to November 17,
 2025.
                               /s/   Mike Zita
                                  Mayor
@@ -33,14 +33,14 @@ Judith Lynn Lee, At-Large
 William Mowery, At-Large
 Kerry Macomber, CMC, Clerk of Council
 OFFICIALS
-Mike Zita      Mayor
-Dennis Loughry Administrative Officer
-Justin Markey  Solicitor
-Pamela Keener  Director of Finance
-Brett McShane  Chief of Police
-Mike Copen     Acting Fire Chief
-Larry Hess     Public Service Manager
-Bill Braman    Zoning Administrator
+Mike Zita     Mayor
+Michael Rorar Administrative Officer
+Justin Markey Solicitor
+Pamela Keener Director of Finance
+Brett McShane Chief of Police
+Mike Copen    Acting Fire Chief
+Larry Hess    Public Service Manager
+Bill Braman   Zoning Administrator
  
 PRELIMINARY UNIT
 COMPARATIVE SECTION TABLE
@@ -2297,6 +2297,7 @@ Adopting Ordinance Repeals            636.25
                                        1474.99
 98-2025                    11-3-25     1476.01 to
                                        1476.09
+99-2025                    11-17-25    222.01
                                       
  
  
@@ -5108,7 +5109,7 @@ northerly along the western border of the municipally to the place of origin.
 (Ord. 1-1992. Passed 1-27-92; Ord. 62-2011. Passed 7-11-11; Ord. 5-2012. Passed
 3-12-12.)
 EXHIBIT I Ward Map of City
-[https://export.amlegal.com/media/455b459c5e5ad342b37ce32c51db9c2b0f74fc11/
+[https://export.amlegal.com/media/9cbbf0b0417322b1ad70a62d4becba329090f75b/
 IMAGES/0-0-0-4386.jpg]
 (Ord. 1-1992. Passed 1-27-92; Ord. 62-2011. Passed 7-11-11.)
 CHAPTER 208
@@ -5744,15 +5745,14 @@ Ch. 202
 222.01 PUBLIC NOTICE.
    In accordance with Section
 3.19 of the City Charter, public posting is selected as the medium of public
-notice for all matters requiring the same. The following five locations are
-hereby established for such public notice:
-   (a)   Ward One   Duke & Duchess Station
-   (b)   Ward Two   Gionino’s Pizzeria
-   (c)   Ward Three   Norton Branch of the Akron Summit County Public Library
-   (d)   Ward Four   Sherman Provision
-   (e)   Ward Four   Circle K-Eastern Road
+notice for all matters requiring the same and except as otherwise provided by
+law, all ordinances, resolutions, statements, orders, proclamations, notices
+and reports required by Ohio law or this Charter to be published or posted
+shall be posted at the City Administrative Building, the Norton Branch of the
+Akron-Summit County Public Library and the Municipality's website.
 (Ord. 91-1998. Passed 11-23-98; Ord. 2-2008. Passed 1-14-08; Ord. 8-2009.
-Passed 1-26-09; Ord. 75-2009. Passed 8-24-09; Ord. 93-2014. Passed 11-10-14.)
+Passed 1-26-09; Ord. 75-2009. Passed 8-24-09; Ord. 93-2014. Passed 11-10-14;
+Ord. 99-2025. Passed 11-17-25.)
 TITLE SIX - Administration
    Chap.
 230. Mayor.
@@ -47220,11 +47220,10 @@ Design Standards
 1236.12   Trees and landscaping.
 1236.13   Public use and service areas.
    CROSS REFERENCES
-   Construction site soil erosions, sediment and other wastes and storm water
-runoff - see B. & H. Ch.
+   Erosion and sediment control - see B. & H. Ch.
 Ch. 1474
    Riparian and wetland setbacks - see B. & H. Ch.
-Ch. 1470
+Ch. 1472
 1236.01 SUBDIVISION DESIGN GENERALLY; SUITABILITY OF LAND.
    (a)   General Principles of Subdivision Design.
       (1)   Subdivision design shall take into consideration the plans adopted
@@ -50971,7 +50970,7 @@ otherwise approved by the Planning Commission.
 1279.09 FACADE DESIGN.
    Facade Elements. All facades on multi-story buildings shall be designed with
 a base, body, and crown (See Figure 1279-2):
-[https://export.amlegal.com/media/455b459c5e5ad342b37ce32c51db9c2b0f74fc11/
+[https://export.amlegal.com/media/9cbbf0b0417322b1ad70a62d4becba329090f75b/
 IMAGES/0-0-0-4822.png]
  
    (a)   Base. The lowest portion of the facade, directly along the grade shall
@@ -51294,7 +51293,7 @@ for recording.
    The Town Center Overlay District is defined as Cleveland Massillon Road from
 Panther Way south to Trotter Road, and east to west, from Columbia Woods Drive
 to Long Drive. (See Figure 1279-5.)
-[https://export.amlegal.com/media/455b459c5e5ad342b37ce32c51db9c2b0f74fc11/
+[https://export.amlegal.com/media/9cbbf0b0417322b1ad70a62d4becba329090f75b/
 IMAGES/0-0-0-4824.png]
  
 (Ord. 61-2019. Passed 6-10-19.)
@@ -54054,7 +54053,7 @@ new construction of a residence not served by the outdoor wood furnace within
 conform to the stack height requirements in these regulations within 30 days of
 the date such adjacent construction is complete and upon written notice from
 the Building and Zoning Department.
-[https://export.amlegal.com/media/455b459c5e5ad342b37ce32c51db9c2b0f74fc11/
+[https://export.amlegal.com/media/9cbbf0b0417322b1ad70a62d4becba329090f75b/
 IMAGES/0-0-0-4466.jpg]
    Fig. 1 - Chimney Height of Outdoor Furnaces
    (l)   Outdoor furnaces that use corn, wood pellets or other palletized
@@ -64446,11 +64445,10 @@ Comprehensive Stormwater Management
 1470.19   Appeals.
 1470.99   Penalties.
    CROSS REFERENCES
+   Erosion and sediment control - see B.& H. Ch.
+Ch. 1474
    Riparian and wetland setbacks - see B.& H. Ch.
 Ch. 1472
-   Construction site soil erosions, sediment and other wastes and storm water
-runoff - see B.& H. Ch.
-Ch. 1474
 1470.01 ADOPTION OF REGULATIONS.
    (a)   Community. Throughout this regulation, the "Community" shall mean the
 City, State of Ohio, and its designated agents and representatives.
@@ -65902,13 +65900,12 @@ Riparian and Wetland Setbacks
 1472.19   Violations.
 1472.99   Penalties.
    CROSS REFERENCES
+   Comprehensive stormwater management - see B. & H.
+Ch. 1470
+   Erosion and sediment control - see B. & H.
+Ch. 1474
    Flood damage prevention - see B. & H. Ch.
 Ch. 1440
-   Post-construction water quality runoff - see B.& H. Ch.
-Ch. 1470
-   Construction site soil erosions, sediment and other wastes and storm water
-runoff - see B. & H. Ch.
-Ch. 1474
 1472.01 ADOPTION OF REGULATIONS.
    Comprehensive Storm Water Management Plan. The Riparian and Wetland Setback
 Plan developed to meet this regulation will be coordinated and combined with
@@ -66826,7 +66823,7 @@ Erosion and Sediment Control
 1474.20   Appeals.
 1474.99   Penalties.
    CROSS REFERENCES
-   Post-construction water quality runoff - see B.& H. Ch.
+   Comprehensive stormwater management - see B. & H.
 Ch. 1470
    Riparian and wetland setbacks - see B. & H. Ch.
 Ch. 1472
