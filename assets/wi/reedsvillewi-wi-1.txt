@@ -2,7 +2,7 @@ VILLAGE CODE
 OF
 REEDSVILLE, WISCONSIN
 Code current through:
-Ord. 2024-1, passed April 8, 2024
+Ord. 2025-04, passed October 13, 2025
  
 Published by:
 American Legal Publishing
@@ -10,9 +10,9 @@ American Legal Publishing
 1-800-445-5588 * www.amlegal.com
 PREFACE
    This code of the Village of Reedsville, as supplemented, contains ordinances
-up to and including ordinance 2024-1, passed April 8, 2024. Ordinances of the
-Village adopted after said ordinance supersede the provisions of this code to
-the extent that they are in conflict or inconsistent therewith. Consult the
+up to and including ordinance 2025-04, passed October 13, 2025. Ordinances of
+the Village adopted after said ordinance supersede the provisions of this code
+to the extent that they are in conflict or inconsistent therewith. Consult the
 Village office in order to ascertain whether any particular provision of the
 code has been amended, superseded or repealed.
 American Legal Publishing
@@ -7960,6 +7960,7 @@ SECTION:
 7-1-10: Severability
 7-1-11: Building Identification Numbers
 7-1-12: Fence Regulations
+7-1-13: Electrical And Commercial Building Code Adopted
 7-1-1: PURPOSE:
 The purpose of this chapter is to exercise jurisdiction over the construction
 and inspection of new one-family and two-family dwellings and additions to
@@ -7970,12 +7971,12 @@ is adopted to promote the public health, safety, and welfare, and to maintain
 local uniformity with the administrative and technical requirements of the
 Wisconsin Uniform Dwelling Code. (Ord. 4-00, 8-22-2000)
 7-1-2: WISCONSIN UNIFORM DWELLING CODE ADOPTED:
-The Wisconsin Uniform Dwelling Code, chapters comm. 20 - 26 of the Wisconsin
-Administrative Code, as amended from time to time, and including all future
-amendments, is adopted and incorporated by reference. This chapter applies to
-the construction and inspection of one- and two-family dwellings built since
-June 1, 1980, and additions and alterations to existing one-family and two-
-family dwellings. (Ord. 2009-1, 6-1-2009)
+The Wisconsin Uniform Dwelling Code, SPS chapters 320 - 325 and 327 of the
+Wisconsin Administrative Code, as amended from time to time, and including all
+future amendments, is adopted and incorporated by reference. This chapter
+applies to the construction and inspection of one- and two-family dwellings
+built since June 1, 1980, and additions and alterations to existing one-family
+and two-family dwellings. (Ord. 2009-1, 6-1-2009; amd. Ord. 2025-01, 9-8-2025)
 7-1-3: BUILDING INSPECTOR:
 The building inspector shall be certified pursuant to section 101.66(2),
 Wisconsin Statutes, in the category of the Uniform Dwelling Code construction
@@ -7996,12 +7997,13 @@ built, enlarged, altered, or repaired unless a building permit for that work
 shall first be obtained by the owner, or the owner's agent from the Village
 Clerk. Applications for a building permit shall be made in writing upon that
 form designated by the Village and the Wisconsin uniform dwelling permit
-application, furnished by the Wisconsin Department of Commerce, through the
-Village Clerk. There shall be submitted with the application, a complete set of
-plans and specifications, showing the location of the proposed building with
-respect to adjacent streets, alleys, lot lines and buildings. Plans for
-buildings required to comply with commercial or industrial Building Codes shall
-bear a stamp of approval from the State of Wisconsin.
+application, furnished by the Wisconsin Department of safety and professional
+services, through the Village Clerk. There shall be submitted with the
+application, a complete set of plans and specifications, showing the location
+of the proposed building with respect to adjacent streets, alleys, lot lines
+and buildings. Plans for buildings required to comply with commercial or
+industrial Building Codes shall bear a stamp of approval from the State of
+Wisconsin.
    B.   Additions And Alterations: No person shall, in excess of one thousand
 dollars ($1,000.00) in cost of material and labor, build, add onto and/or alter
 any building within the scope of this chapter without first obtaining a
@@ -8009,11 +8011,12 @@ building permit for such work from the Village Clerk. Any structural changes or
 major changes shall require permits.
    C.   Building Permit Fees: The building permit fees shall be determined by
 the Village Board. Before receiving building permits, the owner or his agent
-must pay the permit fees into the Village Treasury: In addition to the
-established schedule of fees, the building permit fee shall include all costs
-for inspections and other out of pocket costs and expenses incurred by the
-Village. The applicant shall deposit the fee, including inspection costs, with
-the Village Clerk prior to issuance of the building permit.
+must pay the permit fees into the Village Treasury:
+      In addition to the established schedule of fees, the building permit fee
+shall include all costs for inspections and other out of pocket costs and
+expenses incurred by the Village. The applicant shall deposit the fee,
+including inspection costs, with the Village Clerk prior to issuance of the
+building permit.
    D.   Issuance Of Permit: If the building inspector finds that the proposed
 building or addition, alteration or repair complies with all Village ordinances
 and the Uniform Dwelling Code, and all fees have been paid by the applicant,
@@ -8029,13 +8032,14 @@ owner or owner's contractor shall be responsible for notifying the building
 inspector when the dwelling is available for a final inspection.
    F.   Expiration: Every permit issued by the Village Clerk shall expire by
 limitation and become null and void, if the building or work authorized by such
-a permit is not commenced within one year from the date of such permit. Before
-such work can be continued, a new permit must first be obtained and the fee
-thereafter shall be one-half (1/2) the amount required for a new building
-permit, provided no changes have been made or will be made in the original
-plans and specifications for such work. (Ord. 04-00, 8-22-2000; amd. Ord. 2002-
-2, 4-1-2002; Ord. 2005-3, 12-19-2005, eff. 1-1-2006; Ord. 2018-1, 3-8-2018;
-Ord. 2023-04, 8-10-2023)
+a permit does not have the dwelling exterior completed within twenty-four (24)
+months from the date of such permit. Before such work can be continued, a new
+permit must first be obtained and the fee thereafter shall be one-half (1/2)
+the amount required for a new building permit, provided no changes have been
+made or will be made in the original plans and specifications for such work.
+(Ord. 04-00, 8-22-2000; amd. Ord. 2002-2, 4-1-2002; Ord. 2005-3, 12-19-2005,
+eff. 1-1-2006; Ord. 2018-1, 3-8-2018; Ord. 2023-04, 8-10-2023; Ord. 2025-02, 9-
+8-2025; Ord. 2025-03, 9-8-2025)
 7-1-5: VIOLATIONS AND PENALTIES:
    A.   The building inspector shall provide written notice of violation of
 this chapter or the Uniform Dwelling Code to the permit holder and property
@@ -8199,6 +8203,12 @@ three (3) strands of barbed wire.
 repair. It is the current property owner's responsibility to maintain the fence
 and area adjacent to the fence.
    H.   Permit is required. (Ord. 2022-2, 4-21-2022)
+7-1-13: ELECTRICAL AND COMMERCIAL BUILDING CODE ADOPTED:
+Wisconsin Administrative Code Chapter SPS 316, Electrical, and Wisconsin
+Administrative Code Chapters SPS 361 - 366, Electrical And Commercial Building
+Code, of said Wisconsin Administrative Code, as amended from time to time, and
+including all future amendments, is adopted and incorporated by reference.
+(Ord. 2025-04, 10-13-2025)
 TITLE 8
 ZONING REGULATIONS
 CHAPTER 1
