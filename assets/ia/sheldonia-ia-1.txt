@@ -57,6 +57,17 @@ Jun-25    41.14(3)                O25-3292   6-4-25  Fireworks
           99.04;                  O25-3294   6-18-25 Sewer Service Charges
           99.05
 Jul-25    Ch. 100                 O25-3295   7-2-25  Stormwater Utility
+Oct-25    63.04(2)                O25-3296   8-20-25 Speed Limits on Park
+                                                     Street
+          120.05(8)               O25-3297   9-17-25 Liquor Licenses and Wine
+                                                     and Beer Permits
+          7.05(4)(D)(1);          O25-3298   9-17-25 Public Hearing
+          7.05(6)                                    Requirements
+          17.06                   O25-3299   9-17-25 Council Compensation
+          15.04                   O25-3300   9-17-25 Mayor Compensation
+          55.20                   O25-3301   10-1-25 False Representation of
+                                                     Service Animal
+          5.07(1)                 O25-3302   10-1-25 Conflict of Interest
 CHAPTER 1
 CODE OF ORDINANCES
  
@@ -532,10 +543,15 @@ contract entered into in violation of this section is void. The provisions of
 this section do not apply to:
 (Code of Iowa, Sec. 362.5)
    1.   Compensation of Officers. The payment of lawful compensation of a City
-officer or employee holding more than one City office or position, the holding
-of which is not incompatible with another public office or is not prohibited by
-law.
-(Code of Iowa, Sec. 362.5[3a])
+officer, volunteer firefighter as defined in Section 85.61 of the Code of Iowa,
+emergency medical care provider as defined in Section 147A.1 of the Code of
+Iowa, or employee holding more than one City office or position, the holding of
+which is not incompatible with another public office or is not prohibited by
+law. This subsection shall not be construed to prohibit nominal stipends,
+compensation, incentives, or benefits for volunteer firefighters or emergency
+medical care providers.
+(Code of Iowa, Sec. 362.5(3)(a))
+(Subsection 1 – Ord._O25-3302 – Oct. 25 Supp.)
    2.   Investment of Funds. The designation of a bank or trust company as a
 depository, paying agent, or for investment of funds.
 (Code of Iowa, Sec. 362.5[3b])
@@ -788,11 +804,13 @@ not related to the proposed property tax amounts and the information in the
 statements shall not be conducted at the public hearing. After all testimony
 has been received and considered, the governing body may decrease, but not
 increase, the proposed property tax amount to be included in the City’s budget.
-         (1)   Notice of the public hearing shall be published not less than 10
-nor more than 20 days prior to the hearing, in a newspaper published at least
-once weekly and having general circulation in the City. However, if the City
-has a population of 200 or less, publication may be made by posting in three
-public places in the City.
+         (1)   Notice of the public hearing shall be published at least once,
+not less than four or more than 20 days prior to the hearing in a newspaper
+published at least once weekly and having general circulation in the City.
+However, if the City has a population of 200 or less, publication may be made
+by posting in three public places in the City.
+(Code of Iowa, Sec, 24.2A(4)(b)(2))
+(Subparagraph (1) – Ord._O25-3298 – Oct. 25 Supp.)
          (2)   Notice of the hearing shall also be posted and clearly
 identified on the City’s internet site for public viewing beginning on the date
 of the newspaper publication and shall be maintained on the City’s internet
@@ -808,23 +826,26 @@ are met:
             a.   Notice of the public hearing was provided to each property
 owner and each taxpayer within the political subdivision in statements required
 under Subsection 2, Paragraph B.
-            b.   The political subdivision can demonstrate to the county
-auditor that the political subdivision provided sufficient time for the
+            b.   The political subdivision can demonstrate to the County
+Auditor that the political subdivision provided sufficient time for the
 newspaper to publish the notice.
 (Subsection 4 – Ord._O24-3288.2 – Sep. 24 Supp.)
    5.   Council Review. The Council shall review the proposed budget and may
 make any adjustments it deems appropriate in the budget before accepting such
 proposal for publication, hearing, and final adoption.
-   6.   Notice of Hearing. Following, and not until the requirements, of
-Subsection 4 of this section, are completed, the Council shall set a time and
-place for public hearing on the budget to be held before April 30 and shall
-publish notice of the hearing not less than 10 nor more than 20 days before the
-hearing. A summary of the proposed budget and a description of the procedure
-for protesting the City budget under Section 384.19 of the Code of Iowa, in the
-form prescribed by the Director of the Department of Management, shall be
-included in the notice. Proof of publication of the notice under this
-subsection must be filed with the County Auditor.
-(Code of Iowa, Sec. 384.16[3])
+   6.   Notice of Hearing. Following, and not until, completion of requirements
+of Subsection 4 of this section, the Council shall set a time and place for
+public hearing on the budget to be held before April 30 and shall publish
+notice of the hearing at least once, not less than four or more than 20 days
+before the hearing. A summary of the proposed budget and a description of the
+procedure for protesting the City budget under Section 384.19 of the Code of
+Iowa, in the form prescribed by the Director of the Department of Management,
+shall be included in the notice. Proof of publication of the notice under this
+subsection must be filed with the County Auditor. However, if the City has a
+population of 200 or less, publication may be made by posting in three public
+places in the City.
+(Code of Iowa, Sec. 384.16(3))
+(Subsection 6 – Ord._O25-3298 – Oct. 25 Supp.)
    7.   Copies of Budget on File. Not less than 20 days before the date that
 the budget must be certified to the County Auditor and not less than 10 days
 before the public hearing, the Clerk shall make available a sufficient number
@@ -1261,10 +1282,11 @@ approval:
       H.   Police Chief
       I.   Ambulance Service Director and Assistant Director
 15.04   COMPENSATION.
-The salary of the Mayor is $4,800.00 per year, which shall be paid on an annual
-basis for services rendered in the preceding year. Effective January 1, 2026,
-the salary of the Mayor will be $6,000.00 per year.
-(Code of Iowa, Sec. 372.13[8])
+The salary of the Mayor is currently $4,800.00 per year, which shall be paid on
+an annual basis for services rendered in the preceding year. Effective January
+1, 2026, the salary of the Mayor will be $6,360.00 per year.
+(Code of Iowa, Sec. 372.13(8))
+(Section 15.04 – Ord._O25-3300 – Oct. 25 Supp.)
 15.05   VOTING.
 The Mayor is not a member of the Council and shall not vote as a member of the
 Council.
@@ -1427,13 +1449,11 @@ duties, compensation, and term of office:
    10.   Fire Chief
    11.   Community Development Director
 17.06   COMPENSATION.
-The salary of each Council member is $45.00 for each meeting, of the Council
-attended, payable annually for services rendered in the preceding year. This
-includes meetings in which the Council member has been formally appointed.
-While attendance in person is preferred, electronic attendance is acceptable,
-if it is available. Effective January 1, 2024, the salary shall be $2,600.00
-annually and no longer will the salary be a payment per meeting.
-(Code of Iowa, Sec. 372.13[8])
+The salary of each Council member is currently $2,600.00 annually, payable
+annually for services rendered in the preceding year. Effective January 1,
+2026, the salary shall be $2,756.00 annually.
+(Code of Iowa, Sec. 372.13(8))
+(Section 17.06 – Ord._O25-3299 – Oct. 25 Supp.)
 CHAPTER 18
 CITY CLERK
  
@@ -4308,7 +4328,7 @@ ANIMAL PROTECTION AND CONTROL
 55.08 Annoyance or Disturbance     55.18 Tampering With An Electronic Handling
                                    Device
 55.09 Sanitation                   55.19 Stray Cats
-55.10 Rabies Vaccination
+55.10 Rabies Vaccination           55.20 False Represenation of Service Animal
  
 55.01   DEFINITIONS.  
 The following terms are defined for use in this chapter.
@@ -4611,6 +4631,34 @@ does not harm the animal, for easy identification of previous enrollment in the
 program. All animals shall receive a rabies vaccination. Upon completion of the
 neutering, ear-tipping, and vaccination processes, animals shall be returned to
 the community or to vicinity of their original location.
+55.20   FALSE REPRESENTATION OF SERVICE ANIMAL.
+   1.   Definitions. The following terms are defined for use in this section.
+      A.   “Assistance animal” means an animal that qualifies as a reasonable
+accommodation under the federal Fair Housing Act, 42 U.S.C. §3601 et seq., or
+Section 504 of the federal Rehabilitation Act of 1973, 28 U.S.C. §794.
+(Code of Iowa, Sec. 216.8B(1)(a))
+      B.   “Service animal” means a dog or miniature horse as set forth in the
+implementing regulations of the federal Americans with Disabilities Act of
+1990.
+(Code of Iowa, Sec. 216C.1A(2))
+      C.   “Service animal in-training” means a dog or miniature horse that is
+undergoing a course of development and training to do work or perform tasks for
+the benefit of an individual that directly relates to the disability of the
+individual.
+(Code of Iowa, Sec. 216C.1A(3))
+   2.   A person commits the offense of intentional misrepresentation of an
+animal as a service animal or a service-animal-in-training if, for the purpose
+of obtaining any of the rights or privileges set forth in State or federal law,
+the person intentionally misrepresents an animal in one’s possession as one’s
+service animal or service-animal-in-training or a person with a disability’s
+service animal or service-animal-in-training whom the person is assisting by
+controlling.
+(Code of Iowa, Section 216C.11(3)(B))
+   3.   Penalty. A . A person who intentionally misrepresents an animal as a
+service animal or a service-animal-in-training shall, upon conviction, be
+subject to a fine as provided in Section 1.14 of this Code of Ordinances.
+(Code of Iowa, Section 216C.11(3)(a))
+(Section 55.20 – Ord._O25-3301 – Oct. 25 Supp.)
 CHAPTER 56
 DANGEROUS AND VICIOUS ANIMALS
  
@@ -5222,13 +5270,16 @@ approximately 981.4 feet south of the intersection of 2nd Avenue and 16th
 Street (approximately 104.1 feet south of the driveway of the property for
 Parcel #0048170000, also known as 1901 South 2nd Avenue, which is south of 1701
 South 2nd Avenue).
-   2.   Special 45 MPH Speed Zones. A speed in excess of 45 miles per hour is
-unlawful on any of the following designated streets or parts thereof.
-      A.   On 2nd Avenue, beginning at the southernmost corporate limit
+   2.   Special 45 MPH Speed Zones. A speed in excess of forty-five (45) miles
+per hour is unlawful on any of the following designated streets or parts
+thereof.
+      A.   On Second Avenue, beginning at the southernmost corporate limit
 boundary, which is currently located just north of the southernmost driveway
-for Parcel #004197500, also known as 3011 South 2nd Avenue.
-      B.   On Park Street (HWY 18), beginning at the easternmost corporate
-limit boundary to approximately 215 feet to the west of Wansink Avenue.
+for Parcel #004197500 (3011 S 2nd Ave).
+      B.   On Park Street (Highway 18) beginning 400 feet east of the
+easternmost corporate limit boundary to approximately 215 feet to the west of
+Wansink Avenue.
+(Subsection 2 – Ord._O25-3296 – Oct. 25 Supp.)
 63.05   MINIMUM SPEED.
 A person shall not drive a motor vehicle at such a slow speed as to impede or
 block the normal and reasonable movement of traffic, except when reduced speed
@@ -8948,11 +8999,13 @@ covered by the license.
    8.   Keep on premises covered by a retail alcohol license any alcoholic
 liquor in any container except the original package purchased from the Iowa
 Department of Revenue and except mixed drinks or cocktails mixed on the
-premises for immediate consumption. However, mixed drinks or cocktails that are
-mixed on the premises and are not for immediate consumption may be consumed on
-the licensed premises, subject to rules adopted by the Iowa Department of
-Revenue.
-(Code of Iowa, Sec. 123.49[2d])
+premises for immediate consumption on the licensed premises or as otherwise
+provided by this subsection. However, mixed drinks or cocktails that are mixed
+on the premises and are not for immediate consumption may be consumed on the
+licensed premises, subject to Section 123.49, Subsection 2, Paragraph D,
+Subparagraphs (2), (3), and (4) of the Code of Iowa.
+(Code of Iowa, Sec. 123.49(2)(d)(2), (3), and (4))
+(Subsection 8 – Ord._O25-3297 – Oct. 25 Supp.)
    9.   Reuse for packaging alcoholic liquor or wine any container or
 receptacle used originally for packaging alcoholic liquor or wine; or
 adulterate, by the addition of any substance, the contents or remaining
