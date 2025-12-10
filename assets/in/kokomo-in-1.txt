@@ -1,7 +1,7 @@
 KOKOMO, INDIANA
 CODE OF ORDINANCES
 2025 S-51 Supplement contains:
-Local legislation current through Ordinance 9216, passed 9-29-25; and
+Local legislation current through Ordinance 7226, passed 11-25-25; and
 State legislation current through Indiana Legislative Service,
 2024 Acts, Pamphlet No. 3
 Published by:
@@ -7786,41 +7786,41 @@ consideration and final approval. Upon approval, the user shall be billed only
 for that measured quantity of water entering the POTW.
 (Ord. 6619, passed 1-28-13; Am. Ord. 7183, passed 4-28-25)
 § 55.103 WASTEWATER PROCESSING FEES: SCHEDULE OF RATES AND CHARGES.
-   (A)   Pursuant to the provisions of § 55.102, the following schedule of
+   (A)   Pursuant to the provisions of this section, the following schedule of
 rates and charges is hereby imposed upon users:
       (1)   Flow processing fees.
 The city shall impose monthly fees for the processing of wastewater discharged
 to the POTW. These fees shall be calculated by determining the total quantity
 of flow discharged to the POTW during the monthly billing cycle and assessing a
-fee at the indicated rate per 1,00 gallons discharged. In cases where no meters
-are available to determine the quantity of flow discharged, the fee indicated
-in division (A)(1)(d) shall be assessed until an appropriate metered value can
-be obtained.
+fee at the indicated rate per 1,000 gallons discharged. In cases where no
+meters are available to determine the quantity of flow discharged, the fee
+indicated in division (A)(1)(e) shall be assessed until an appropriate metered
+value can be obtained.
          (a)   Class 1.
-            1.   Residential flow processing rate (per 100 gallons): $0.858.
-            2.   Commercial flow processing rate (per 100 gallons): $0.858.
+            1.   Residential flow processing rate (per 100 gallons):$1.076.
+            2.   Commercial flow processing rate (per 100 gallons):$1.076.
          (b)   Class 2. Industrial flow processing rate (per 100 gallons):
-$0.536.
+$0.672.
          (c)   Class 3. Government flow processing rate (per 100 gallons):
-$0.955.
+$1.198.
          (d)   Class 4. K-12 public schools flow processing rate (per 100
-gallons): $0.803.
+gallons):$1.007
          (e)   Minimum fees for metered facilities.
 METER SIZE FEE
 METER SIZE   FEE
-5/8" meter   $17.16
-3/4" meter   $17.16
-1" meter     $38.91
-1-1/2" meter $77.84
-2" meter     $137.88
-4" meter     $137.88
-6" meter     $137.88
+5/8" meter   $21.52
+3/4" meter   $21.52
+1" meter     $48.80
+1-1/2" meter $97.63
+2" meter     $172.93
+4" meter     $172.93
+6" meter     $172.93
  
-         (f)   Minimum fees for unmetered facilties.
+         (f)   Minimum fees for unmetered facilities.
  
 FACILITY TYPE                     FEE
-Wells, residential and commercial $51.72
-Other                             $72.93
+Wells, residential and commercial $64.87
+Other                             $91.47
  
       (2)   Surcharge for high strength wastewater. Any user that discharges
 high strength wastewater to the POTW shall be assessed surcharges in accordance
@@ -7841,12 +7841,8 @@ concentration of cBOD5, COD, TSS, Ammonia-N or Phosphorus which exceeds a
 discharge limitation established in accordance with this chapter; the user will
 be subject to an assessment of applicable surcharges for high strength
 wastewater as provided in this division, as well as an appropriate enforcement
-action as provided by §§
-55.240 through
-55.247, §§
-55.255 through 5.258, and §§
-55.270 through
-55.276 and the city’s enforcement response plan.
+action as provided by §§ 55.240 through 55.247, §§ 55.255 through 5.258, and §§
+55.270 through 55.276 and the city’s enforcement response plan.
          (e)   The city may require the user to conduct self-monitoring to
 measure and determine the strength and character of all wastewater, sewage and
 other wastes discharged to the POTW; in such manner and by such method as the
@@ -7910,7 +7906,7 @@ city’s pretreatment team or other POTW personnel.
 be set periodically, as required, by separate ordinance titled, "Sanitary
 Sewerage Service Rate Ordinance."
 (Ord. 6619, passed 1-28-13; Am. Ord. 6852, passed 12-19-16; Am. Ord. 7055,
-passed 9-26-22; Am. Ord. 7183, passed 4-28-25)
+passed 9-26-22; Am. Ord. 7183, passed 4-28-25; Am. Ord. 7221, passed 11-24- 25)
 § 55.104 WASTEWATER PROCESSING FEES: SPECIAL SITUATIONS.
    (A)   Single water consumption meter servicing multiple users. In the event
 two or more residential lots, parcels of real estate, or buildings discharge
@@ -7918,8 +7914,7 @@ wastewater to the POTW; and the quantity of water discharged to the POTW is
 determined from the total water consumption measured by a single water meter;
 then in each such case the user with whom the water company that owns the meter
 associates the total water consumption measured by the meter shall be the user
-which the city holds liable for applicable assessments provided in §
-55.103.
+which the city holds liable for applicable assessments provided in § 55.103.
    (B)   Billing of tenants; liability of property owner. Except for billings
 to multiple users such as apartment houses, trailer or mobile home parks, and
 housekeeping rooms, the wastewater processing fees may be billed to the tenant
@@ -34715,6 +34710,56 @@ NO.
      25   family Residential)
 7197 6-9- Rezoning 14 E. 400 N. from AG (Agricultural) to HI (High Intensity Industrial/
      25   Heavy Manufacturing)
+     6-   Rezoning Parcel # 34-03-34-176.011.000-002 from IS (Institutional Uses) to R1
+7199 23-  (Very Low Density Residential)
+     25
+     6-   Rezoning 1227 S 17 St. from R5 (Urban Residential) to NC (Neighborhood
+7200 23-  Commercial)
+     25
+     7-   Rezoning 1938 E Jefferson St. from C2 (Medium to Large Scale General Commercial)
+7203 28-  to LI (Low Intensity Industrial/ Business Park)
+     25
+7209 9-8- Rezoning 825 Plate St. from NC (Neighborhood Commercial) to C2 (Medium to Large
+     25   Commercial)
+     9-   Rezoning at 2418 N. Calumet St. from R4 (Urban Residential to IS (Institutional
+7213 29-  Uses)
+     25
+     9-   Rezoning 2110 W Alto Rd from OC (Office Commercial) to AR (Agricultural
+7214 29-  Residential)
+     25
+     9-   Rezoning 2600 W Sycamore from A/R (Agricultural/ Residential) to OC (Office
+7215 29-  Commercial)
+     25
+     9-   Rezoning 1105 E. Markland Ave. from C1 (Small to Medium Scale General Commercial)
+7216 29-  to R5 (Urban Residential)
+     25
+     10-  Rezoning H H Stewart et al addition Lot 5 from R4 (Med Density Urban Residential)
+7217 21-  to R5 (High Density Urban Residential)
+     25
+     10-  Rezoning 1240 and 1244 E. Jefferson St R4 (Med Density Urban Residential) to M2
+7218 21-  (General Multifamily Residential)
+     25
+     10-
+7219 21-  Rezoning 4410 S 150 E from R1 (Very Low Density Residential) to AG (Agricultural)
+     25
+     11-  Rezoning the adjoining lot to the west of 2718 Zartman Rd from AR (Agricultural
+7222 14-  Residential) to MI (Moderate Intensity Industrial/Light Manufacturing)
+     25
+     11-  Rezoning 901 E. Sycamore St from R3 (Medium Density Residential) to M1 (Low
+7223 14-  Density Multifamily Residential)
+     25
+          Rezoning 425, 509, 511, and 605 E. Boulevard, 2124, 2128, and 2130 Lafountain St,
+     11-  and parcels 34-10-07-100-012.000-002, 34-10-07- 100-010-000-002, 34-10-07-100-
+7224 14-  027.000-002 and 34-10-07-100-013 from R1 (Very Low Density Residential), R4
+     25   (Urban Residential) and NC (Neighborhood Commercial) to M2 (General Multifamily
+          Residential)
+     11-  Rezoning 425, 509, 511, and 605 E. Boulevard, 2124, 2128, and 2130 S. Lafountain
+7225 14-  St and parcels 34-10-07-100-012.000-002, 34-07- 100-010-000-002; 34-10-07-100-
+     25   027.000-02, and 34-10-07-000-013 from M2 (General Multifamily Residential) to PD-
+          M2 (Planned Development)
+     11-  Incorporating the Villages at University Park Planned Development District to the
+7226 24-  PD-M2 (Planned Development- Multifamily Residential)
+     25
          
  
 TABLE V. HISTORIC SITES
@@ -37631,5 +37676,14 @@ ORD. NO.         DATE PASSED CODE SECTION
 7214             9-29-25     T.S.O. IV
 7215             9-29-25     T.S.O. IV
 7216             9-29-25     T.S.O. IV
+7217             10-21-25    T.S.O. IV
+7218             10-21-25    T.S.O. IV
+7219             10-21-25    T.S.O. IV
+7221             11-24-25    55.103
+7222             11-14-25    T.S.O. IV
+7223             11-14-25    T.S.O. IV
+7224             11-14-25    T.S.O. IV
+7225             11-14-25    T.S.O. IV
+7226             11-24-25    T.S.O. IV
                             
  
