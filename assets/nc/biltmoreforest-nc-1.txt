@@ -7857,19 +7857,19 @@ services to the town.
 Editor’s note:
    This amendatory language was passed during a Board meeting, July 9, 2013
 § 153.004 INTERPRETATIONS AND DEFINITIONS.
-   (A)   Tense; singular and plural. Words used sed in the present tense
-include the future tense. Words used in the singular include the plural, and
-words used in the plural include the singular.
+   (A)   Tense; singular and plural. Words used in the present tense include
+the future tense. Words used in the singular include the plural, and words used
+in the plural include the singular.
    (B)   Definitions. For the purpose of this chapter, the following
 definitions shall apply unless the context clearly indicates or requires a
 different meaning.
       ACCESSORY STRUCTURE. A structure incidental and subordinate to the
 principal use or building on the lot and located on the same lot with such
 principal use or building. ACCESSORY STRUCTURES include, but are not limited
-to, fences, walls, curbs, pools, play sets, statues, water features,
-playhouses, decorative walls, sculptures, solar collectors, residential street
-lamps, rock and stone moved from its original location to any other location on
-the property, and the like.
+to, driveways and associated walls and curbs, fences, walls, curbs, pools, play
+sets, statues, water features, playhouses, decorative walls, sculptures, solar
+collectors, residential street lamps, rock and stone moved from its original
+location to any other location on the property, and the like.
       ALLEY. A public way which affords only a secondary means of access to
 abutting property and not intended for general traffic circulation.
       APARTMENT. A part of a building consisting of a room or rooms intended,
@@ -7897,10 +7897,10 @@ building and located on the same lot.
       BUILDING HEIGHT. The distance measured from the average ground level at
 the building foundation to the highest point of the roof, but in no event above
 40 feet from the highest point in the foundation. A chimney that complies with
-the minimum the State Building Code requirements for height of a chimney shall
-not be included in the calculations for height of the building; provided, that
-the chimney shall not extend more than five feet above the immediately
-adjoining ridge line of the roof.
+the minimum State Building Code requirements for height of a chimney shall not
+be included in the calculations for height of the building; provided, that the
+chimney shall not extend more than five feet above the immediately adjoining
+ridge line of the roof.
       BUILDING, PRINCIPAL. A building used for the same purpose as the
 principal use of the lot.
       BUILDING SETBACK LINE. A line delineating the minimum allowable distance
@@ -7908,14 +7908,14 @@ between the property line and a building on a lot, within which no building or
 other structure shall be placed except as otherwise provided. Front setback
 lines shall be measured from the street line.
       CARETAKER. A person that maintains grounds or structures on a lot or
-cares for the well-being of person(s) residing in the principal dwelling on a
+cares for the wellbeing of person(s) residing in the principal dwelling on a
 lot, and resides on the premises without being charged a rental fee.
       CLOTHING AND JEWELRY SALE. The sale to the public of clothes and jewelry
 that have been brought to the home for that purpose.
       CLUSTERED HOUSING DEVELOPMENT. Grouping or concentration of housing units
 on lots smaller than permitted by the existing zoning to preserve open space
 without increasing the allowable density of the development.
-      COMMERCIAL SERVICE or PROFESSIONAL SERVICE. Establishments or professions
+      COMMERCIAL SERVICE OR PROFESSIONAL SERVICE. Establishments or professions
 charging a fee for providing a service to the public.
       CONSUMER SERVICES. Businesses providing services to the public for
 profit, including dining and restaurant services (not to include fast food
@@ -7923,7 +7923,7 @@ service restaurants), lodging and motel services, financial, real estate and
 insurance services, and other personal services. In addition to the above,
 CONSUMER SERVICES shall not include filling and gasoline service stations or
 auto repair shops as defined by this chapter.
-      DAY NURSERY and PRIVATE KINDERGARTEN. A use of land and buildings to
+      DAY NURSERY AND PRIVATE KINDERGARTEN. A use of land and buildings to
 provide group care for children.
       DISTRICT. A section of the Town of Biltmore Forest in which zoning
 regulations are uniform.
@@ -7934,7 +7934,7 @@ enjoyed therewith. For the purposes of G.S. Ch. 160D, Art. 12, the term does
 not include any manufactured home, mobile home, or recreational vehicle, if
 used solely for a seasonal vacation purpose.
       DWELLING, MULTI-FAMILY. A building or portion thereof used or designed as
-a residence for two or more families living independently.
+a residence  for two or more families living independently.
       DWELLING, SINGLE-FAMILY. A building arranged or designed to be occupied
 by one family.
       DWELLING UNIT. A building, or portion thereof, providing complete and
@@ -7944,7 +7944,7 @@ purpose and use by the public, a corporation, or persons.
       ESTATE/AUCTION SALE. The one-time sale to the public of goods that is
 held at the home. The goods and items offered for sale at the auction must be
 personal property that has been owned by the resident(s) of the home. No goods
-or items to be sold shall be shipped or transported to the home  from any other
+or items to be sold shall be shipped or transported to the home from any other
 location. The sale shall be limited to no more than two consecutive days and
 the hours for the sale shall be between 10:00 a.m. and 8:00 p.m.
       FAMILY. One or more persons occupying a single-dwelling unit; provided,
@@ -7970,7 +7970,7 @@ flushing; washing and polishing, the sale of automotive washing and polishing
 materials; greasing and lubrication; providing and repairing fuel pumps, oil
 pumps, and lines; minor servicing and repair of carburetors; emergency wiring
 repairs; adjusting and repairing brakes, wheel balancing and alignment, minor
-motor adjustments not involving removal of the head or crankcase or racing the
+motor adjustments not involving removal of the bead or crankcase or racing the
 motor; sale of cold drinks, packaged foods, tobacco, and similar convenience
 goods for filling station customers, as accessory and incidental to principal
 operation; automobile body repair services; provision of road maps and other
@@ -7984,14 +7984,13 @@ where no one is employed that does not live in the home and no one comes to the
 home for a business transaction as part of the activity.
       HOME OCCUPATION. An occupation providing a service carried on by the
 occupants of a dwelling; provided, that certain conditions are met as listed in
-§
-153.008(C)(5).
+§ 153.008(C)(5).
       HOME STAY. Rental of a part of a dwelling unit or accessory structure for
 consideration, including in kind compensation, to a transient person or persons
 for a period of less than 90 days. Advertising and renting a room or rooms in a
 dwelling unit of accessory structure on Airbnb or similar internet web sites
 would be an example of a HOME STAY. HOME STAYS are not allowed in any zoning
-district in Biltmore Forest.
+district in the town.
       IMPERVIOUS SURFACE. Any paved, hardened, or structural surface,
 including, but not limited to, buildings, driveways, walkways, parking areas,
 patios, decks, streets, swimming pools, tennis courts, and other structures and
@@ -8028,14 +8027,14 @@ of Deeds Office of Buncombe County, or described by metes and bounds, the
 description of which has been so recorded.
       LOT WIDTH. The distance between side lot lines measured at the front
 building line.
-      MAY. The word MAY is permissive.
-      MOBILE HOME. A factory assembled, movable dwelling designed and
+      MAY. Permissive.
+      MOBILE HOME. A factory-assembled, movable dwelling designed and
 constructed to be towed on its own chassis, comprised of frame and wheels, to
 be used without permanent foundation and distinguishable from other types of
 dwellings in that the standards to which it is built include provisions for its
 mobility on that chassis as a vehicle.
       NONCONFORMING USE. Any parcel of land, use of land, building, or
-structure existing at the time of adoption of this chapter, or any amendment
+structure existing at  the time of adoption of this chapter, or any amendment
 thereto, that does not conform to the use or dimensional requirements of the
 district in which it is located.
       ORDINANCE. The Zoning Ordinance of the Town of Biltmore Forest.
@@ -8048,7 +8047,7 @@ to, walkways, benches, open fields, multi-use courts, swimming and wading
 pools, amphitheaters, and the like. The term PARK shall not include zoos,
 travel trailer parks, amusement parks, or vehicle, equestrian, or dog racing
 facilities.
-      PERSON or APPLICANT. Includes a firm, association, organization,
+      PERSON OR APPLICANT. Includes a firm, association, organization,
 partnership, corporation, company, trust, and an individual or governmental
 unit.
       PLANNED UNIT DEVELOPMENT. A development where more than one principal
@@ -8089,15 +8088,15 @@ operated on a nonprofit basis, according to the laws of North Carolina.
 on a profit basis.
       RESIDENTIAL DENSITY. The number of dwelling units per acre devoted to
 residential buildings, accessory uses, and open spaces within the site, but
-excluding land for streets and street right-of-ways. RESIDENTIAL DENSITY shall
-be calculated by first subtracting the land area required for streets and
+excluding land for streets and street rights-of-way. RESIDENTIAL DENSITY shall
+be calculated by first subtracting the land area requited for streets and
 rights-of-way from the total or gross land area of the tract to derive a net
 land area, and then dividing the number of dwelling units proposed to be built
 by the net land area.
       RETAIL BUSINESS. Establishments selling commodities directly to the
-consumer. Fast food service restaurants, gasoline service stations/auto repair,
-or the dispensation of gasoline as an ancillary service to a retail use shall
-be prohibited.
+consumer. Fast food  service restaurants, gasoline service stations/auto
+repair, or the dispensation of gasoline as an ancillary service to a retail use
+shall be prohibited.
       ROOF COVERAGE. For the purposes of building construction and the
 calculation of maximum roof coverage pursuant to §§
 153.029(B)(1)(b) and
@@ -8117,10 +8116,10 @@ tree or shrub that is the greater of the following two distances:
 caliper (diameter); or
          (b)   A measurement of the furthest or most outward branch or limb
 from the main trunk when that distance is then drawn as a circle around the
-remaining portion of the tree or shrub, commonly referred to as the ‘drip
-line’. The minimum ROOT PROTECTION ZONE in any case is a radius of eight feet
+remaining portion of the tree or shrub, commonly referred to as the “drip
+line.” The minimum ROOT PROTECTION ZONE in any case is a radius of eight feet
 measured from the tree trunk.
-      SHALL. The word SHALL is mandatory.
+      SHALL. Mandatory.
       SHORT TERM RENTAL. Rental of a dwelling unit or accessory structure for
 consideration, including in kind compensation, for a period of less than 90
 days. SHORT TERM RENTALS are not allowed in any zoning district in Biltmore
@@ -8140,7 +8139,7 @@ having permanent location on the land.
 completion of all exterior work on the building; the completion of all
 plumbing, electrical, and HVAC work; the completion of all window installation;
 the completion of all interior and exterior door installation, the completion
-of all wall construction, painting, and/or covering, the completion of all
+of all wall constiuction, painting, and/or covering, the completion of all
 floor installation and/or covering; and the completion of all other work
 necessary to receive a certificate of occupancy from the Buncombe County
 Inspections Department. Minor work typically noted on a punch list may be
@@ -8163,9 +8162,9 @@ lines of the lot. Driveways, to the extent possible, shall enter the property
 through the front yard. In the case of a lot with frontage on more than one
 street, the side of the lot with the most street frontage shall be considered
 the FRONT YARD; however, in the consideration and determination of applications
-for special use or variance on such a lot, the Board of Adjustment shall take
-into account and consider the visibility of both the FRONT and side yards to
-the street and adjoining properties in any determination.
+for variance on such a lot, the Board of Adjustment shall take into accouut and
+consider the visibility of both the FRONT and side yards to the street and
+adjoining properties in any determination.
       YARD, REAR. An open, unoccupied space on the same lot with a principal
 building, extending the full width of the lot and situated between the rear
 line of the lot and the rear line of the building projected to the side lines
@@ -8178,12 +8177,12 @@ for the purposes of determining compliance with minimum yard setback of §
 153.007, the SIDE YARD shall be the entire length of each side lot line
 extending from the front lot line to the rear lot line and shall equally apply
 to lots with a principal building, lots without a principal building and vacant
-lots. Driveways shall not be located in the side yard setback.
+lots, Driveways shall not be located in the side yard setback.
       ZONING ADMINISTRATOR. An official or designated person of the Town of
 Biltmore Forest charged with enforcing and administering the zoning ordinance.
-      ZONING MAP or BILTMORE FOREST ZONING MAP. The official zoning map of the
+      ZONING MAP OR BILTMORE FOREST ZONING MAP. The official zoning map of the
 Town of Biltmore Forest.
-(Ord. passed 10-19-1983; Ord. passed 6-8-2021)
+(Ord. passed 10-19-1983; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 § 153.005 ESTABLISHMENT OF ZONING DISTRICTS AND MAP.
    (A)   Use districts. For the purpose of this chapter, the town is hereby
 divided into the following use districts:
@@ -8325,62 +8324,61 @@ requirements.
 Zoning Districts
 USE R-1 R-2 R-3 R-4 R-5
 Zoning Districts
-USE                                                        R-1 R-2 R-3 R-4 R-5
-Accessory buildings, structures and uses (does not include S   S   S   S   S
-rental units by other than a family member)
-Banks                                                                  S   S
-Bone fide farms                                            S       S   S   P
-Business or special schools (art, craft, dance, and the                S   S
+USE                                                         R-1 R-2 R-3 R-4 R-5
+Accessory buildings                                         S   S   S   S   S
+Accessory structures                                        P   P   P   P   P
+Banks                                                                   S   S
+Bone fide farms                                             S       S   S   P
+Business or special schools (art, craft, dance, and the                 S   S
 like)
-Churches/religious assembly                                            S   S
-Clothing and jewelry sales*                                P   P   P   P   P
-Country, athletic and social clubs                         S   S   S   S   S
-Commercial business                                                        S
-Commercial services (excluding retail trade)                           S   S
-Day nurseries/day care                                                 S   S
-Estate auction sale**                                      P   P   P   P   P
-Fundraising events for nonprofits or political             P   P   P   P   P
-campaigns****
-Garage/yard sales***                                       P   P   P   P   P
-Home business activity*****                                P   P   P   P   P
-Home occupations                                                       S   S
-Libraries                                                              S   S
-Medical and dental services                                            S   S
-Planned unit development******                                     S   S   S
-Professional and business offices                                      S   S
-Public recreational facilities - nonprofit (parks,         P   P   P   P   P
+Churches/religious assembly                                             S   S
+Clothing and jewelry sales*                                 P   P   P   P   P
+Country, athletic and social clubs                          S   S   S   S   S
+Commercial business                                                         S
+Commercial services (excluding retail trade)                            S   S
+Day nurseries/day care                                                  S   S
+Estate auction sale**                                       P   P   P   P   P
+Fundraising events for nonprofits or political campaigns*** P   P   P   P   P
+Garage/yard sales****                                       P   P   P   P   P
+Home business activity*****                                 P   P   P   P   P
+Home occupations                                                        S   S
+Libraries                                                               S   S
+Medical and dental services                                             S   S
+Planned unit development******                                      S   S   S
+Professional and business offices                                       S   S
+Public recreational facilities - nonprofit (parks,          P   P   P   P   P
 playgrounds, scenic parkways and open space)
-Public utility station and substations                     S   S   S   S   S
-Retail businesses                                                          S
-Schools, public and private                                S   S   S   S   S
-Single-family residential dwelling unit                    P   P   P   P   P
+Public utility station and substations                      S   S   S   S   S
+Retail businesses                                                           S
+Schools, public and private                                 S   S   S   S   S
+Single-family residential dwelling unit                     P   P   P   P   P
 P = permitted
 S = allowed as a special use (approval required by Board of Adjustment)
 Blank space = not permitted
 Use not lisped = not permitted zoning districts
  
    (B)   General provisions. The following are general provisions applicable to
-the table in division (A).
-      (1)   Only two clothing or jewelry sales maybe held per year at each
+the table as noted by a superscript following a specific use.
+      (1)   Only two clothing or jewelry sales may be held per year at each
 dwelling, not to exceed five consecutive days for each sale. Property owners
 are required to contact the Zoning Administrator prior to holding the sale so
 that the date of the sale may be noted. See §
 153.004.
-      (2)   Only one estate auction sale may be held during a resident’s
+      (2)   Only one estate auction sale may be held during a resident's
 ownership of the property. Property owners are required to contact the Zoning
 Administrator prior to holding the estate/auction sale so that the date of the
 sale may be noted. See §
 153.004 for additional limitations.
-      (3)   Only one garage/yard sale may be held per year at each dwelling.
-Property owners are required to contact the Zoning Administrator prior to
-holding the sale so that the date of the sale may be noted. See §
-153.004.
-      (4)   Only four fundraising events may be held per year at each dwelling.
+      (3)   Only four fundraising events may be held per year at each dwelling.
 No such event shall last longer than five hours in a single day and any such
 event must end by 11:00 p.m. There shall be no sales of goods or services at
 any such event. Parking for such an event must not impede the normal flow of
 traffic and must not be upon any other property without permission from the
-other property owners
+other property owners.
+      (4)   Only one garage/yard sale may be held per year at each dwelling.
+Property owners are required to contact the Zoning Administrator prior to
+holding the sale so that the date of the sale may be noted. See §
+153.004.
       (5)   No home business activity shall employ any person who does not live
 in the home. No person shall come to the home for a business transaction of any
 nature as part of the home business activity, including, but not limited to,
@@ -8393,23 +8391,20 @@ feet or more, a planned unit development must be sought. See §
    (C)   Home stays and short term rentals are not allowed in any district.
 There may be only two rentals of a dwelling unit or accessory structure in any
 calendar year.
-(Ord. passed 10-19-1983; Ord. passed 6-8-2021)
+(Ord. passed 10-19-1983; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 § 153.007 DIMENSIONAL REQUIREMENTS.
    (A)   Table. The following table sets out dimensional requirements.
-                   PUD         Minimum Yard Setback Requirement in Feet
-          Minimum  Residential Minimum
-          Lot Area Density     Lot      Front                         Maximu m
-Districts In       Maximum     Width At Yard From Side Yard Rear Yard Height in
-          Square   Number of   Building Street                        Feet
-          Feet     Dwellings   Line in  Edge
-                   Per Acre    Feet
-                   PUD         Minimum Yard Setback Requirement in Feet
-          Minimum  Residential Minimum
-          Lot Area Density     Lot      Front                         Maximu m
-Districts In       Maximum     Width At Yard From Side Yard Rear Yard Height in
-          Square   Number of   Building Street                        Feet
-          Feet     Dwellings   Line in  Edge
-                   Per Acre    Feet
+          Minimu m Lot Area In PUD Residential Density     Minimum Yard Setback
+Districts Square Feet          Maximum Number of Dwellings Requirement in Feet
+                              Per Acre
+                   PUD         Minimum Yard Setback
+          Minimu m Residential Requirement in Feet
+          Lot Area Density     Minimum
+Districts In       Maximum     Lot      Front                         Maximu m
+          Square   Number of   Width At Yard From Side Yard Rear Yard Height in
+          Feet     Dwellings   Building Street                        Feet
+                  Per Acre    Line in  Edge
+                               Feet
 R-1       43,560   0           150      60        20        25        40
 R-2       20,000   0           100      50        15        20        40
 R-3       20,000   8           100      50        15        20        40
@@ -8425,40 +8420,30 @@ water and/or sewer shall be subject to approval by the County Health Department
 to ensure the proper operation of septic tanks and wells. In no case, however,
 shall minimum lot area be less than those specified in the table in division
 (A).
-      (2)   Footnote 2. The minimum lot width at the street line shall be 125
-feet in the R-1 District, and 80 feet in the R-2, R-3, and R-4 Districts.
-      (3)   Footnote 3. On all corner lots, a 30-foot side yard setback is
+      (2)   Footnote 2. On all corner lots, a 30-foot side yard setback is
 required.
-      (4)   Footnote 4. Accessory structures, including driveways, shall meet
-all setback requirements. Notwithstanding the foregoing, setback requirements
-for driveway entrance columns or driveway entrance walls may be waived or
-modified by the Board of Adjustment with the granting of a special use permit
-in accordance with §
-153.110(C), without the need for a variance pursuant to §
-153.110(D).
-      (5)   Footnote 5. Height requirements may be varied upon approval of the
-Board of Adjustment.
-      (6)   Footnote 6. Whichever is greater, 20,000 square feet, or twice the
+      (3)   Footnote 3. Accessory structures shall meet all setback
+requirements.
+      (4)   Footnote 4. Whichever is greater, 20,000 square feet, or twice the
 gross floor area of the building.
-      (7)   Footnote 7. An increase in the side and rear yard setbacks is
+      (5)   Footnote 5. An increase in the side and rear yard setbacks is
 required for homes (structures) that exceed 25 feet in height. Homes
 (structures) greater than 25 feet in height shall be setback from the side and
 rear property lines an additional one and one-half feet for each one foot, or
 portion thereof, that the home (structure) exceeds 25 feet in height.
-      (8)   Footnote 8. Structures exceeding a roof coverage area of 7,000
+      (6)   Footnote 6. Structures exceeding a roof coverage area of 7,000
 square feet shall be set back from side and rear property lines an additional
 20% of the required setback for each 500 square feet, or increment thereof,
 that the roof coverage areas exceeds 7,000 square feet.
          Example:   The rear setback for a single story 8,200 square foot house
 in the R-1 District would be calculated as follows:
-                  8,200 - 7,000 = 1,200
-                  1,200/500 = 2.4 (round to 3 to account for increment of
-change)
-                  3 x 20% = 60%
-                  60% x 20 = 12
-                  25 + 12 = 37
-                  Rear setback will be 37 feet
-(Ord. passed 10-19-1983; Ord. passed 6-8-2021)
+               8,200 - 7,000 = 1,200
+               1,200/500 = 2.4 (round to 3 to account for increment of change)
+               3 x 20% = 60%
+               60% x 20 = 12
+               25 + 12 = 37
+               Rear setback will be 37 feet
+(Ord. passed 10-19-1983; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 § 153.008 SPECIAL USES.
    (A)   Purpose. The following special uses might not be appropriate without
 specific standards and requirements to assure that such uses are compatible
@@ -8910,8 +8895,8 @@ building.
 § 153.029 ACCESSORY STRUCTURES AND BUILDINGS.
    (A)   Accessory structures and/or necessary buildings shall not detract from
 nor interfere with adjacent properties. No accessory structure or building
-shall be constructed, erected, or located within any front yard or within any
-side yard or rear yard setback.
+shall be constructed, erected, or located within any front yard, or within any
+side yard setback or rear yard setback.
    (B)   (1)   In addition, the following standards are established for
 accessory structures and accessory buildings:
          (a)   The maximum number of accessory buildings permitted on a lot
@@ -8933,13 +8918,9 @@ surface coverage on the lot pursuant to §§
 153.048; and
          (h)   Solar collectors shall be regulated in accordance with G.S. §
 160D-914.
-      (2)   For all satellite dishes less than 24 inches in diameter, an
-application for a zoning compliance certificate shall be made directly to the
-Zoning Administrator; the Zoning Administrator shall issue a zoning compliance
-certificate.
       (3)   Fences, gates, and walls shall be regulated in accordance with §
 153.049 of this Zoning Ordinance.
-(Ord. passed 10-19-1983; Ord. passed 6-8-2021)
+(Ord. passed 10-19-1983; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 Editor’s note:
    This amendatory language was passed during a Board meeting, July 9, 2013
 § 153.030 HOME OCCUPATIONS.
@@ -9105,21 +9086,21 @@ ordinance.
 (Ord. passed 10-19-1983; Ord. passed  6-8-2021)
 § 153.037 ACCESSORY STRUCTURES OR BUILDINGS UTILIZED AS DWELLINGS.
    (A)   Upon adoption of this chapter, accessory buildings used as dwelling
-units and occupied by a “family” (see definition in §
+units and occupied by a "family" (see definition in §
 153.004) member shall be a conforming use. Such units occupied by a non-family
 member shall be nonconforming uses.
    (B)   (1)   The definitions and provisions of this chapter provide for this
 situation.
       (2)   Therefore, the following shall apply:
-         (a)   An existing accessory structure occupied at the time of adoption
+         (a)   An existing accessory building occupied at the time of adoption
 of this chapter by a non-family member can continue to be used for such
-purpose. If the unit occupied by a non-family member becomes vacant for more
+purpose. If the unit occupied by a non- family member becomes vacant for more
 than 60 days (see §
 153.036(C)(2)(c)4.), then such unit could only be reoccupied by a family
 member.
-         (b)   New accessory structures intended for use as dwellings shall
-only be occupied by a family member.
-(Ord. passed 10-19-1983; Ord. passed 6-8-2021)
+         (b)   New accessory buildings intended for use as dwellings shall only
+be occupied by a family member.
+(Ord. passed 10-19-1983; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 § 153.038 OFF-STREET PARKING.
    (A)   Off-street automobile storage or parking space shall be provided on
 every lot on which any of the following uses are hereafter established in all
@@ -9381,7 +9362,7 @@ landscape features, neon. No flickering or flashing lights and all lighting
 shall be shielded such that light is not directed toward adjacent residential
 properties; and
          (b)   Examples of shielding should be as follows.
-[https://export.amlegal.com/media/151beccd4b4926efba74f8e2464a97bec552a777/
+[https://export.amlegal.com/media/f8be0998c2ce4c1338c18fd1d39740dfc592918c/
 IMAGES/0-0-0-847.jpg]
  
       (3)   Building forms and mass.
@@ -9568,23 +9549,24 @@ logarithm mathematical function. This may be calculated using Excel, if
 necessary.
 (Ord. 2023-04, passed 7-1-2023)
 § 153.049 FENCE, GATE AND WALL REGULATIONS.
-   The Board of Commissioners for the Town of Biltmore Forest that the
-following amendments to the Zoning Ordinance and subsequent regulations be
-placed on fence, gate, and wall construction and replacement as of the
+   The following amendments to the Zoning Ordinance and subsequent regulations
+shall be placed on fence, gate, and wall construction and replacement as of the
 effective date of this section.
-   (A)   New fences, gates or walls may be approved by the Board of Adjustment
-as a special use, so long as the gate, fence or wall meets the following
-requirements.
+   (A)   New fences, gates or walls may be approved administratively with the
+issuance of a zoning permit, so long as the gate, fence or wall meets the
+following requirements.
       (1)   The fence, gate, or wall is constructed entirely within the rear
-yard, is not located in any side or rear yard setbacks, and is constructed of
-materials deemed acceptable in § 153.049(D).
+yard, is not located in any side yard or rear yard setbacks, and is constructed
+of materials deemed acceptable in §
+153.049(D).
       (2)   Mature vegetation or other buffering sufficient to screen the
-fence, gate, or wall from neighboring properties shall be required to the
-extent necessary.
-   (B)   A driveway gate and supporting columns may be approved by the Board of
-Adjustment as a special use so long as it meets the following requirements:
-      (1)   The driveway gate and columns shall not be located in the front or
-side yard setback of a property.
+fence, gate, or wall from neighboring properties shall be required.
+   (B)   A driveway gate and supporting columns may be approved
+administratively with the issuance of a zoning permit so long as it meets the
+following requirements:
+      (1)   The driveway gate, including columns associated with the gate
+structure, shall not be located in the front yard setback or side yard setback
+of a property.
       (2)   The driveway gate shall not be more than eight feet in height.
       (3)   The driveway gate must provide access for emergency services and
 first responders. This may be done via a lockbox code, strobe or siren
@@ -9592,14 +9574,14 @@ activation switch, or other method with demonstrated reliability.
       (4)   The driveway gate must open wide enough to provide for ingress and
 egress of emergency vehicles. The minimum acceptable standard is for the gate
 access to be 14 feet wide with a 14 foot minimum height clearance.
-   (C)   Replacement of existing fences, gates , and walls shall be approved by
-the Board of Adjustment as a special use so long as the replacement fence is
-constructed of materials deemed acceptable in §
-153.049(D) and meets the requirements below. A special use permit application
-to replace an existing fence, gate, or wall shall include a photograph of the
+   (C)   Replacement of existing fences, gates, and walls shall be approved
+administratively with the issuance of a zoning permit so long as the
+replacement fence is constructed of materials deemed acceptable in §
+153.049(D) and meets the requirements below. A zoning permit application to
+replace an existing fence, gate, or wall shall include a photograph of the
 existing fence or wall, specify the type of fence, gate, or wall, include a map
 or sketch depicting the height and length of the fence, gate, or wall and state
-whether or not the fence, gate, or wall is located within any setbacks.
+whether the fence, gate, or wall is located within any setbacks.
       (1)   Existing chain link fences or gates shall not be replaced with new
 chain link fences or gates.
       (2)   Existing fences, gates, or walls in the front yard shall not be
@@ -9617,22 +9599,22 @@ and shall blend with surrounding trees or vegetation.
       (4)   Fences shall not exceed six feet in height except that fences
 designed to prevent deer or other wildlife from entering the property shall not
 exceed ten feet in height. Deer fences shall be constructed in accordance with
-North Carolina Wildlife Resources Commission standards for “Permanent Woven
-Wire Fencing” and “Permanent Solid-Wire Fencing.” Copies of these standards are
+North Carolina Wildlife Resources Commission standards for "Permanent Woven
+Wire Fencing" and "Permanent Solid-Wire Fencing." Copies of these standards are
 available at the Town Hall or at the following web address (https://
-www.nxwildlife.ord/Learning/Species/Mammals/Whitetail-Deer/Fencing-to-Exclude-
-Deer#42041180-permanent-fencing).
-      (5)   Wall s should be constructed of stone or similar material, and
-shall be compatible with the construction materials of the house located on the
-same property.
+www.ncwildlife.org/connect/have-_wildlife-problem/tips-coexisting-wildlife/
+fencing-exclude-deer).
+      (5)   Walls should be constructed of stone or similar material, and shall
+be compatible with the construction materials of the house located on the same
+property.
       (6)   When a fence, gate or wall is not properly maintained or fails to
-comply with condition(s) imposed by the Board of Adjustment, the town shall
-required the property owner to repair the fence, gate, or wall, or, remove the
-fence, gate, or wall at the property owner’s expense. If the property owner
-fails to repair or remove the fence, gate, or wall, the town may remove the
-fence, gate, or wall and recover the cost of removal, including the cost of
-disposal, if any, from the property owner.
-(Ord. passed 2-11-2020; Ord. passed 6-8-2021)
+comply with condition(s) imposed by the town, the town may require the property
+owner to repair the fence, gate, or wall, or, remove the fence, gate, or wall
+at the property owner's expense. If the property owner fails to repair or
+remove the fence, gate, or wall, the town may remove the fence, gate, or wall
+and recover the cost of removal, including the cost of disposal, if any, from
+the property owner.
+(Ord. passed 2-11-2020; Ord. passed 6-8-2021; Ord. 2025-01, passed 1-14-2025)
 TREE PRESERVATION
 § 153.050 PURPOSE.
    (A)   In order to maintain the unique characteristics of the town as a
@@ -9700,7 +9682,7 @@ R-1, R-2, and R-3 zoning districts.
 153.007. INSIDE SETBACK AREA is the length found from the street or property
 line, and OUTSIDE SETBACK AREA is the remainder of the property area. An
 example of setback locations are shown below.
-[https://export.amlegal.com/media/151beccd4b4926efba74f8e2464a97bec552a777/
+[https://export.amlegal.com/media/f8be0998c2ce4c1338c18fd1d39740dfc592918c/
 IMAGES/0-0-0-1017.jpg]
    TREES OF PREFERENCE (TOP ). Trees that warrant additional attention and
 regulation due to being a preferred native species or having distinctive height
@@ -12005,6 +11987,12 @@ Ord. No. Date Passed Code Section
                      153.070
 2023-08  11-14-2023  93.15—
                      93.23
+                     153.004,
+                     153.006,
+2025-01  1-14-2025   153.007,
+                     153.029,
+                     153.037,
+                     153.049
 2025-02  3-12-2025   130.04
 2025-04  9-9-2025    90.11
 2025-05  10-14-2025  153.005
