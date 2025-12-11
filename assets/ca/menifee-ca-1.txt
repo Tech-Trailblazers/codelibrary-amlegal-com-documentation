@@ -1,7 +1,7 @@
 MENIFEE, CALIFORNIA
 CODE OF ORDINANCES
 2025 S-14 Supplement contains:
-Local legislation current through Ordinance 2025-420, passed 9-17-2025
+Local legislation current through Ordinance 2025-425, passed 11-19-2025
  
 Published by:
 American Legal Publishing
@@ -14530,6 +14530,8 @@ TITLE 8: BUILDINGS AND CONSTRUCTION
    
 8.20.   FIRE CODE
    
+8.21.   WILDLAND-URBAN INTERFACE CODE
+   
 8.22.   DANGEROUS BUILDING CODE
    
 8.23.   RESIDENTIAL SOLAR PANEL PERMIT PROCEDURES
@@ -14963,7 +14965,7 @@ Section
    
 8.20.070   Violations
    
-8.20.080   Definitions
+8.20.080   Fire Chief
    
 8.20.090   Open Flames
    
@@ -14979,35 +14981,45 @@ Section
    
 8.20.150   Automatic Sprinkler Systems
    
-8.20.160   Designation of High-Piled Storage Areas
+8.20.160   Commercial Hood and Duct Systems
    
-8.20.170   Fire Hazard Severity Zones
+8.20.170   Mobile Food Preparation Vehicles—General
    
-8.20.180   Appendix B
+8.20.180   Fallout Area
    
-8.20.190   Appendix C
+8.20.190   Wildland-Urban Interface Area Subdivisions
+   
+8.20.200   General Fire Protection and Life Safety Features
+   
+8.20.210   Fire Hazard Severity Zones
+   
+8.20.220   Table B105.2
+   
+8.20.230   Fire Hydrant Location
+   
+8.20.240   Remoteness
 § 8.20.010 APPLICATION AND ADOPTION OF THE CALIFORNIA FIRE CODE.
    Except as stated in this section or as amended below in this chapter, all of
-the provisions and appendices of the 2022 California Fire Code, inclusive of
+the provisions and appendices of the 2025 California Fire Code, inclusive of
 all of the inclusions and exclusions set for in each chapter's matrix, are
 hereby adopted and shall apply to the City of Menifee. In addition, the
-following provisions that are excluded in the 2022 California Fire Code are
+following provisions that are excluded in the 2025 California Fire Code are
 hereby adopted, except that Section 103.2 and 111.3 are not adopted, and
 Chapters 3 and 25 and Sections 403.11, 503, 510.2, and 1103.2 are adopted.
 (Ord. 2016-205, passed 11-16-2016; Am. Ord. 2019-285, passed 11-20-2019; Am.
-Ord. 2022- 364, passed 11-16-2022)
+Ord. 2022- 364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.020 SCOPE AND GENERAL REQUIREMENTS.
-   Section 101.4 of the California Fire Code is deleted in its entirety and
-replaced with the following:
+   Section 101.4 of the California Fire Code is hereby deleted in its entirety
+and replaced with the following:
    101.4 Severability. If any provision, clause, sentence or paragraph of this
 ordinance or the application thereof to any person or circumstances shall be
 held invalid, such invalidity shall not affect the other provisions of this
 ordinance which can be given effect without the invalid provision or
 application, and to this end, the provisions of this ordinance are hereby
 declared to be severable.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.030 APPLICABILITY.
-   Section 102.5 of the California Fire Code is amended as follows:
+   (A)   Section 102.5 of the California Fire Code is amended as follows:
    102.5 Application of residential Code. Where structures are designed and
 constructed in accordance with the California Residential Code, the provisions
 of this Code shall apply as follows:
@@ -15021,19 +15033,28 @@ shall apply.
    3.   Automatic fire sprinkler system requirements of this Code shall apply
 to detached accessory buildings 3,600 square feet or greater in accordance with
 Section 903.2. The provisions contained in Section 903.2.18 of the California
-Fire Code or Section R309.6 of the California Residential Code may be used for
-the design of the automatic fire sprinkler system for detached private garages.
-(Ord. 2022-364, passed 11-16-2022)
+Fire Code or Section R317.5.1 of the California Residential Code may be used
+for the design of the automatic fire sprinkler system for detached private
+garages.
+   (B)   A new Section 102.13.1 is added to Section 102.13 of the California
+Fire Code to read as follow:
+   102.13.1 Application of the California Wildland-Urban Interface Code. Where
+a conflict exists between the provisions of the City of Menifee Fire Code and
+the California Wildland-Urban Interface Code, the more restrictive provisions
+shall apply.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.040 DUTIES AND POWERS OF THE FIRE CODE OFFICIAL.
    (A)   A new Section 104.1.1 is added to Section 104.1 of the California Fire
 Code to read as follows:
-   104.1.1 Authority of the Fire Chief and Fire Department.
-   1.   The Fire Chief is authorized and directed to enforce all applicable
-State fire laws and provisions of this ordinance and to perform such duties as
-directed by the City Council.
-   2.   The Fire Chief is authorized to administer, interpret and enforce this
-Chapter. Under the Fire Chiefs direction, the Riverside County Fire Department
-is authorized to enforce ordinances of the City of Menifee pertaining to the
+   104.1.1 Authority of the Fire Chief, Chief Deputy and Fire Department.
+   1.   The Fire Chief, Chief Deputy, or their designee, is authorized and
+directed to enforce all applicable State fire laws and provisions of this
+ordinance and to perform such duties as directed by the City Council of the
+City of Menifee.
+   2.   The Fire Chief, Chief Deputy, or their designee, is authorized to
+administer, interpret and enforce this chapter. Under the Fire Chief, Chief
+Deputy, or their designee's, direction, the Menifee Fire Department is
+authorized to enforce ordinances of the City of Menifee pertaining to the
 following:
       2.1.   The prevention of fires.
       2.2.   The suppression or extinguishment of dangerous or hazardous fires.
@@ -15048,156 +15069,182 @@ under construction.
       2.8.   The investigation of the cause, origin and circumstances of fire
 and unauthorized releases of hazardous materials.
    3.   The following persons are hereby authorized to interpret and enforce
-the provisions of this Chapter and to make arrests and issue citations as
+the provisions of this ordinance and to make arrests and issue citations as
 authorized by law:
       3.1.   The Unit Chief, Peace Officers and Public Officers of the
 California Department of Forestry and Fire Protection.
-      3.2.   The Fire Chief, Peace Officers and Public Officers of the
-Riverside County Fire Department.
-      3.3.   The Riverside County Sheriff and any deputy sheriff.
-      3.4.   The Police Chief and any police officer of any city served by the
-Riverside County Fire Department.
-      3.5.   Officers of the California Highway Patrol.
-      3.6.   Code Officers of the City of Menifee Code Enforcement Department.
-      3.7.   Peace Officers of the California Department of Parks and
+      3.2.   The Fire Chief, Peace Officers and Public Officers of the City of
+Menifee Fire Department and authorized agents and contractors.
+      3.3.   The Police Chief and any police officer of any city served by the
+City of Menifee Fire Department.
+      3.4.   Officers of the California Highway Patrol.
+      3.5.   Code Officers of the City of Menifee Code Enforcement Department.
+      3.6.   Peace Officers of the California Department of Parks and
 Recreation.
-      3.8.   The law enforcement officer of the Federal Bureau of Land
+      3.7.   The law enforcement office of the Federal Bureau of Land
 Management.
-   (B)   Section 104.7 and 104.7.1 of the California Fire Code are deleted in
-their entirety and replaced with the following:
-   104.7 Liability. Any liability against the City of Menifee or any office or
+   (B)   Section 104.2 of the California Fire Code is hereby deleted and
+replaced with the following:
+   104.2 Determination of compliance. The fire code official shall have the
+authority to determine compliance with this code, to render interpretations of
+this code and to develop policies, procedures, guidelines, standards and
+information bulletins in order to clarify the application of its provisions.
+Such interpretations, policies, procedures:
+   1.   Shall be in compliance with the intent and purpose of this code.
+   2.   Shall not have the effect of waiving requirements specifically provided
+for in this code.
+   3.   Shall be enforced as part of this code.
+   (C)   Sections 104.8 and 104.8.1 of the California Fire Code are hereby
+deleted in their entirety and replaced with the following:
+   104.8 Liability. Any liability against City of Menifee or any officer or
 employee for damages resulting from the discharge of their duties shall be as
 provided by law.
-   (C)   A new Section 104.13 is added to Section 104 of the California Fire
-Code to read as follows:
-   104.13 Authority of the Fire Chief to close hazardous fire areas. Except
+   (D)   Section 104.12 of the California Fire Code is hereby added with the
+following:
+   104.12 Authority of the Fire Chief to close hazardous fire areas. Except
 upon National Forest Land, the Fire Chief is authorized to determine and
 announce the closure of any hazardous fire area or portion thereof. Any closure
 by the Fire Chief for a period of more than fifteen (15) calendar days must be
-approved by the Riverside County Board of Supervisors and/or the City Council
-within fifteen (15) calendar days of the Fire Chiefs original order of closure.
-Upon such closure, no person shall go in or be upon any hazardous fire area,
-except upon the public roadways and inhabited areas. During such closure, the
-Fire Chief shall erect and maintain at all entrances to the closed area
-sufficient signs giving notice of closure. This section shall not prohibit
-residents or owners of private property within any closed area, or their
-invitees, from going in or being upon their lands. This section shall not apply
-to any entry, in the course of duty, by a peace officer, duly authorized public
-officer or fire department personnel. For the purpose of this section,
-"hazardous fire area" shall mean public or private land that is covered with
-grass, grain, brush or forest and situated in a location that makes suppression
-difficult resulting in great damage. Such areas are designated on Hazardous
-Fire Area maps filed with the office of the Fire Chief.
-(Ord. 2022-364, passed 11-16-2022)
+approved by the City of Menifee City Council within fifteen (15) calendar days
+of the Fire Chiefs original order of closure. Upon such closure, no person
+shall go in or be upon any hazardous fire area, except upon the public roadways
+and inhabited areas. During such closure, the Fire Chief shall erect and
+maintain at all entrances to the closed area sufficient signs giving notice of
+closure. This section shall not prohibit residents or owners of private
+property within any closed area, or their invitees, from going in or being upon
+their lands. This section shall not apply to any entry, in the course of duty,
+by a peace officer, duly authorized public officer or fire department
+personnel. For the purpose of this section, "hazardous fire area" shall mean
+public or private land that is covered with grass, grain, brush or forest and
+situated in a location that makes suppression difficult resulting in great
+damage. Such areas are designated on Hazardous Fire Area maps filed with the
+office of the Fire Chief.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.050 FEES.
-   (A)   Section 107.2 of the California Fire Code is deleted in its entirety
-and replaced with the following:
-   107.2 Schedule of permit fees. Fees for services and permits shall be as set
-forth in the City of Menifee fee schedule.
-   (B)   A new Section 107.7 is added to Section 106 of the California Fire
+   (A)   Section 108.2 of the California Fire Code is hereby deleted in its
+entirety and replaced with the following:
+   108.2 Schedule of permit fees. Fees for services and permits shall be as set
+forth in City of Menifee fee schedule.
+   (B)   A new Section 108.7 is added to Section 108 of the California Fire
 Code to read as follows:
-   107.7 Cost recovery. Fire suppression. investigation, rescue or emergency
-medical costs are recoverable in accordance with Health and Safety Code
-Sections 13009 and 13009.1, as may be amended from time to time. Additionally,
-any person who negligently, intentionally or in violation of law causes an
-emergency response, including, but not limited to, a traffic accident, spill of
-toxic or flammable fluids or chemicals is liable for the costs of securing such
-emergency, including those costs pursuant to Government Code Section 53150, et
-seq, as may be amended from time to time. Any expense incurred by the Riverside
-County Fire Department for securing such emergency shall constitute a debt of
-such person and shall be collectable by Riverside County in the same manner as
-in the case of an obligation under contract, express or implied.
-(Ord. 2022-364, passed 11-16-2022)
+   108.7 Cost recovery. Pursuant to California Health and Safety Code sections
+11374.5(b)(1), 13009 et seq., 25259.4, 25515(a), 25540(a), 25541(a), California
+Government Code sections 53150 et seq, and all other provisions of law, all
+costs incurred by the City of Menifee Fire Department for the inspection and
+enforcement of any provision of these Codes, the investigation of any fire,
+explosion or other hazardous condition, the suppression of fire, the response
+to a traffic collision or accident, the containment and/or mitigation of a
+hazardous materials release, and any rescue or rendering of medical or physical
+aid or assistance, may be charged to any responsible party, any person who
+violates these Codes or any person who, due to a negligent or unlawful act or
+omission, is responsible for or requires or causes the emergency response of
+the City of Menifee Fire Department. Any expense incurred by the City of
+Menifee Fire Department for such an emergency response shall constitute a debt
+of such person and shall be collectible by the City in the same manner as in
+the case of an obligation under contract, express or implied. These provisions
+shall be applied uniformly against all such persons in violation of a Penal
+Code, Vehicle Code, Health and Safety Code or other state law statutory
+violation; only a City official shall have authority to reduce or cancel the
+debt obligation arising from the incident.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.060 BOARD OF APPEALS.
-   Section 111.1 of the California Fire Code is deleted in its entirety and
-replaced with the following:
-   109.1 Board of appeals established. The Board of Appeals shall be the City
-Manager. If he or she determines an outside board is needed, he or she shall
-designate an outside hearing officer to hear the appeal. The Fire Chief shall
-be notified of any appeal and the Fire Chief or designee shall be in attendance
-at the appeal hearing. Depending on the subject of the appeal, specialized
-expertise may be solicited, at the expense of the applicant, for the purpose of
-providing input to the Appeals Board.
-(Ord. 2022-364, passed 11-16-2022)
+   Section 112.1 of the California Fire Code is hereby deleted in its entirety
+and replaced with the following:
+   112.1 Board of appeals established. The Board of Appeals shall be the City
+Manager of the City of Menifee. If he or she determines an outside board is
+needed, he or she shall designate an outside hearing officer to hear the
+appeal. The Fire Chief and Chief Deputy shall be notified of any appeal and the
+Fire Chief, Chief Deputy or their designees shall be in attendance at the
+appeal hearing. Depending on the subject of the appeal, specialized expertise
+may be solicited, at the expense of the applicant, for the purpose of providing
+input to the Appeals Board.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.070 VIOLATIONS.
-   Section 112.4 of the California Fire Code is deleted in its entirety and
-replaced with the following:
-   112.4 Violation and penalties. It shall be unlawful for any person, firm,
+   Section 113.4 of the California Fire Code is hereby deleted in its entirety
+and replaced with the following:
+   113.4 Violation and penalties. It shall be unlawful for any person, firm,
 corporation or association of persons to violate any provision of this
 ordinance, or to violate the provisions of any permit granted pursuant to this
-Code or ordinance. Punishments and penalties for violations shall be in
-accordance with City of Menifee ordinances, fee schedule and Health and Safety
-Code Sections 17995 through 17995.5.
-(Ord. 2022-364, passed 11-16-2022)
-§ 8.20.080 DEFINITIONS.
+Code. Punishments and penalties for violations shall be in accordance with
+Menifee Municipal Code Section and Health and Safety Code Sections 17995
+through 17995.5.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
+§ 8.20.080 FIRE CHIEF.
    Section 202, definition of "Fire Chief' in the California Fire Code is
-deleted in its entirety and replaced with the following:
-   FIRE CHIEF. The Fire Chief of Riverside County or the Fire Chief's designee.
-(Ord. 2022-364, passed 11-16-2022)
+hereby deleted in its entirety and replaced with the following:
+   Fire Chief. The Fire Chief of the City of Menifee or the Fire Chief’s
+designee.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.090 OPEN FLAMES.
-   Section 308.1.6.3 of the California Fire Code is deleted in its entirety and
-replaced with the following:
-   308.1.6.3 Sky lanterns or similar devices. A person shall not release or
-cause to be released a sky lantern or similar device.
-(Ord. 2022-364, passed 11-16-2022)
+   Section 308.1.7 of the California Fire Code is hereby deleted in its
+entirety and replaced with the following:
+   308.1.7 Sky lanterns or similar devices. A person shall not release or cause
+to be released a sky lantern or similar device.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.100 FIRE APPARATUS ACCESS ROADS.
-   (A)   Section 503.2.1 of the California Fire Code is deleted in its entirety
-and replaced with the following:
+   (A)   A new Section 503.1.2.1 is added to Section 503.1.2 of the California
+Fire Code to read as follows:
+   503.1.2.1 Remoteness. Unless otherwise approved, where two fire apparatus
+access roads are required, they shall be placed a distance apart equal to not
+less than one half of the length of the maximum overall diagonal dimension of
+the property or area to be served, measured in a straight line between
+accesses.
+   (B)   Section 503.2.1 of the California Fire Code is hereby deleted in its
+entirety and replaced with the following:
    503.2.1 Dimensions. Fire apparatus access roads shall have an unobstructed
 width of not less than 24 feet (7315 mm), exclusive of shoulders, except for
 approved security gates in accordance with Section 503.6, and an unobstructed
 vertical clearance of not less than 13 feet 6 inches (4115 mm). For additional
-requirements or alternatives see Riverside County Fire Department Standards and
-Policies, as may be amended from time to time.
-   (B)   Section 503.2.2 of the California Fire Code is deleted in its entirety
-and replaced with the following:
+requirements or alternatives see the City of Menifee Standards and Policies, as
+may be amended from time to time.
+   (C)   Section 503.2.2 of the California Fire Code is hereby deleted in its
+entirety and replaced with the following:
    503.2.2 Authority. The fire Code official shall be the only authority
 authorized to designate fire apparatus access roads and fire lanes and to
 modify the minimum fire lane access widths for fire or rescue operations.
-   (C)   A new Section 503.6.1 is added to Section 503.6 of the California Fire
+   (D)   A new Section 503.6.1 is added to Section 503.6 of the California Fire
 Code to read as follows:
    503.6.1 Automatic opener. New motorized gates shall be provided with means
-to be automatically opened remotely by emergency vehicle in accordance with
-Riverside County Fire Department standards and Policies, as may be amended from
+to be automatically opened remotely by emergency vehicle in accordance with the
+City of Menifee Fire Department Standards and Policies, as may be amended from
 time to time.
    Exception: Gates serving individual one- and two-family dwelling parcels.
-   (D)   A new Section 503.7 is added to Section 503 of the California Fire
+   (E)   A new Section 503.7 is added to Section 503 of the California Fire
 Code to read as follows:
    503.7 Loading areas and passenger drop-off areas. On private properties,
 where fire apparatus access roads are utilized for loading or unloading or
-utilized for passenger drop-off or pick-up, an additional eight (8) feet of
+utilized for passenger dropoff or pick-up, an additional eight (8) feet of
 width shall be added to the minimum required width for the fire apparatus
 access road.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.110 FIRE PROTECTION WATER SUPPLIES.
-   (A)   A new Section 507.5.7 is added to Section 507 of the California Fire
+   (A)   A new Section 507.5.7 is added to Section 507.5 of the California Fire
 Code to read as follows:
    507.5.7 Fire hydrant size and outlets. As determined by the fire Code
 official, fire hydrant sizes and outlets shall be based on the following:
    1.   Residential Standard - one (1) four (4) inch outlet and one (1) two and
-half (2 %) inch outlet.
+one half (2½) inch outlet.
    2.   Super Hydrant Standard - one (1) four (4) inch outlet and two (2) two
-and one half (2%) inch outlet.
+and one half (2½) inch outlet.
    3.   Super Hydrant Enhanced - two (2) four (4) inch outlet and one (1) two
-and one half (2%) inch outlet.
-   (B)   A new Section 507.5.8 is added to Section 507 of the California Fire
+and one half (2½) inch outlet.
+   (B)   A new Section 507.5.8 is added to Section 507.5 of the California Fire
 Code to read as follows:
    507.5.8 Fire hydrant street marker. Fire hydrant locations shall be visually
-indicated in accordance with Riverside County Fire Department Technical Policy
-06-11, as may be amended from time to time. Any hydrant marker damaged or
-removed during the course of street construction or repair shall be immediately
-replaced by the contractor, developer or person responsible for removal or
-damage.
-(Ord. 2022-364, passed 11-16-2022)
+indicated in accordance with the City of Menifee Fire Department Guidelines, as
+may be amended from time to time. Any hydrant marker damaged or removed during
+the course of street construction or repair shall be immediately replaced by
+the contractor, developer or person responsible for removal or damage.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.120 FIRE COMMAND CENTER.
-   (A)   Section 508.1 of the California Fire Code is deleted in its entirety
-and replaced with the following:
+   (A)   Section 508.1 of the California Fire Code is hereby deleted in its
+entirety and replaced with the following:
    508.1 General. Where required by other sections of this Code and in all
 buildings classified as high-rise buildings by the California Building Code, in
-all buildings greater than 300,000 square feet (27 870m2), and in Group 1-
+all buildings greater than 300,000 square feet (27 870 m2), and in Group 1-
 2 occupancies having occupied floors located more than 75 feet above the lowest
-level of fire department vehicle access, a fire command center for fire
-department operations shall be provided and comply with Sections 508.1.1
+level of fire department vehicle access a fire command center for fire
+department operations shall be provided and shall comply with Sections 508.1.1
 through 508.1.7.
    (B)   Section 508.1.1 of the California Fire Code is deleted in its entirety
 and replaced with the following:
@@ -15206,24 +15253,24 @@ adjacent to the main lobby and shall be accessible from fire department
 vehicular access or as approved by the fire Code official. The room shall have
 direct access from the building exterior at the lowest level of fire department
 access.
-   (C)   Section 508.1.3 of the California Fire Code is amended to add the
-following:
-   508.1.3 Size. The fire command center shall not be less than 0.015 percent
+   (C)   Section 508.1.3 of the California Fire Code is amended as follows:
+   508.1.3 Size. The fire command center shall be not less than 0.015 percent
 of the total building area of the facility served or 200 square feet (19 m2) in
 area, whichever is greater, with a minimum dimension of 0.7 times the square
-foot of the room area or 10 feet (3048 mm), whichever is greater.
+root of the room area or 10 feet (3048 mm), whichever is greater.
    Where a fire command center is solely required because a building is greater
-than 300,000 square feet (27 870m2), the fire command center shall have a
+than 300,000 square feet (27 870 m2), the fire command center shall have a
 minimum size of 96 square feet (9 m2) with a minimum dimension of 8 feet (2438
 mm) where approved by the fire Code official.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.130 FIRE PROTECTION AND UTILITY EQUIPMENT IDENTIFICATION AND LOCATION.
-   Section 509.2.1 of the California Fire Code is amended to add the following:
+   A new Section 509.2.1 is added to Section 509.2 of the California Fire Code
+to read as follows:
    509.2.1 Minimum clearances. A 3-foot (914 mm) clear space shall be
 maintained around the circumference of exterior fire protection system control
 valves, or any other exterior fire protection system component that may require
 immediate access, except as otherwise required or approved.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.140 MECHANICAL REFRIGERATION.
    Section 608.11.1.2 of the California Fire Code is deleted in its entirety
 and replaced with the following:
@@ -15232,106 +15279,866 @@ automatic crossover valves shall be capable of manual operation. The manual
 valves shall be located in an approved location immediately outside of the
 machinery room in a secure metal box or equivalent and marked as Emergency
 Controls.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
 § 8.20.150 AUTOMATIC SPRINKLER SYSTEMS.
    (A)   Section 903.2 of the California Fire Code is deleted in its entirety
 and replaced with the following:
-   903.2 Where required. In all new buildings and structures which are 3,600
-square feet or greater, an approved automatic sprinkler system shall be
-provided regardless of occupancy classification. Where the Sections 903.2.1 -
-903.2.21 of the California Fire Code require more restrictive requirements than
-those listed below, the more restrictive requirement shall take precedence.
-   Exception: Unless required elsewhere in this Code or the California Building
-Code, automatic fire sprinkler systems shall not be required for the following:
-   1.   Detached Group U occupancies used for agricultural purposes constructed
+   903.2 Where required.
+   1.   In all new buildings and structures which are 3,600 square feet or
+greater, an approved automatic sprinkler system shall be provided regardless of
+occupancy classification. Where Sections 903.2.1 - 903.2.21 of the California
+Fire Code require more restrictive requirements than those listed below, the
+more restrictive requirement shall take precedence.
+   2.   All existing buildings, except for one- and two-family dwellings, shall
+be retrofitted with automatic fire sprinklers when a structure exceeds 3,600
+square feet and changes are made to the building including any of the
+following: change of use/occupancy, removal of an existing fire wall as defined
+by the California Building Code, or additions of 50% or more are made to the
+original building area and the resulting square footage exceeds 5,000 square
+feet.
+   3.   One- and two-family dwellings shall have an automatic fire sprinkler
+system regardless of square footage in accordance with the California
+Residential Code. Fire sprinkler systems shall be installed in mobile homes,
+manufactured homes and multifamily manufactured homes with two dwelling units
+in accordance with Title 25 of the California Code of Regulations.
+   Exceptions: Unless required elsewhere in this Code or the California
+Building Code, automatic fire sprinkler systems shall not be required for the
+following:
+   1.   Spaces or areas in telecommunications buildings used exclusively for
+telecommunications equipment, associated electrical power distribution
+equipment, batteries not required to have an automatic sprinkler system by
+Section 1207 for energy storage systems and standby engines, provided that
+those spaces or areas are equipped throughout with an automatic smoke detection
+system in accordance with Section 907.2 and are separated from the remainder of
+the building by not less than 1-hour fire barriers constructed in accordance
+with Section 707 of the California Building Code or not less than 2-hour
+horizontal assemblies constructed in accordance with Section 711 of the
+California Building Code, or both.
+   2.   Detached Group U occupancies used for agricultural purposes constructed
 in accordance with the California Building Code.
-   2.   Detached non-combustible equestrian arena shade canopies that are open
+   3.   Detached non-combustible equestrian arena shade canopies that are open
 on all sides and used for riding only - no commercial, assembly or storage
 uses.
-   3.   Detached fabric or non-combustible shade structures that are open on
+   4.   Non-combustible fueling station canopies not exceeding 10,000 square
+feet when separated from other buildings by a distance of not less than 50
+feet.
+   5.   Detached fabric or non-combustible shade structures that are open on
 all sides and used to shade playground equipment, temporary storage of vehicles
 and dining areas with no cooking.
-   4.   Where determined by the Fire Chief that no major life safety hazard
+   6.   Where determined by the Fire Chief that no major life safety hazard
 exists, and the fuel load does not pose a significant threat to firefighter
 safety or to other structures or property, automatic fire sprinklers may be
 exempted.
-   One- and two-family dwellings shall have an automatic fire sprinkler system
-regardless of square footage in accordance with the California Residential
-Code. Fire sprinkler systems shall be installed in mobile homes, manufactured
-homes and multifamily manufactured homes with two dwelling units in accordance
-with Title 25 of the California Code of Regulations.
    The following exceptions in the California Fire Code shall not be allowed:
       a.   Exception in Section 903.2.3
-      b.   Exception 2 in Section 903.2.11.3
-   (B)   A new Section 903.3.5.3 is added to Section 903 of the California Fire
-Code to read as follows:
+      b.   Exception in Section 903.2.11.3
+   (B)   A new Section 903.3.5.3 is added to Section 903.3.5 of the California
+Fire Code to read as follows:
    903.3.5.3 Hydraulically calculated systems. The design of hydraulically
 calculated fire sprinkler systems shall not exceed 90% of the water supply
 capacity.
-(Ord. 2022-364, passed 11-16-2022)
-§ 8.20.160 DESIGNATION OF HIGH-PILED STORAGE AREAS.
-   A new Section is added to Section 3204.1 to Section 3204.2 of the California
-Fire Code to read as follows:
-   3204.2.1 Minimum requirements for client leased or occupant owned
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
+§ 8.20.160 COMMERCIAL HOOD AND DUCT SYSTEMS.
+   A new Section 904.2.2.1 is added to Section 904.2.2 of the California Fire
+Code to read as follows:
+   904.2.2.1 Activation of the Fire Alarm System. Where a fire alarm signaling
+system, or a Dedicated Function Fire Alarm System is serving the occupancy
+where the extinguishing system is located, the actuation of the automatic fire-
+extinguishing system shall actuate the fire alarm signaling system in
+accordance with the requirements of NFPA 72. If a fire alarm signaling system,
+or a Dedicated Function Fire Alarm System is not present, one will be required
+to be installed to provide monitoring for the automatic fire-extinguishing
+system.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.170 MOBILE FOOD PREPARATION VEHICLES—GENERAL.
+   (A)   A new Section 4107.1 is added to Chapter 41 of the California Fire
+Code to read as follows:
+   4107.1 General. Mobile food preparation vehicles that are equipped with
+appliances that produce smoke or grease-laden vapors shall comply with this
+section.
+   (B)   A new Section 4107.2 is added to Chapter 41 of the California Fire
+Code to read as follows:
+   4107.2 Maintenance. Maintenance of systems on mobile food preparation
+vehicles shall be in accordance with Section 4107.2.1 through 4107.2.3.
+   (C)   A new Section 4107.2.1 is added to Chapter 41 of the California Fire
+Code to read as follows:
+   4107.2.1 Exhaust system. The exhaust system, including hood, grease-removal
+devices, fans, ducts and other appurtenances, shall be inspected and cleaned in
+accordance with Section 606.3.
+   (D)   A new Section 4107.2.2 is added to Chapter 41 of the California Fire
+Code to read as follows:
+   4107.2.2 Fire protection systems and devices. Fire protection systems and
+devices shall be maintained in accordance with Section 901.6.
+   (E)   A new Section 4107.2.3 is added to Chapter 41 of the California Fire
+Code to read as follows:
+   4107.2.3 Fuel gas systems. LP-gas containers installed on the vehicle and
+fuel-gas piping systems shall be inspected annually by an approved inspection
+agency or a company that is registered with the U.S. Department of
+Transportation to requalify LP-gas cylinders, to ensure that system components
+are free from damage, suitable for the intended service and not subject to
+leaking. CNG containers shall be inspected every 3 years in a qualified service
+facility. CNG containers shall not be used past their expiration date as listed
+on the manufacturer's container label. Upon satisfactory inspection, the
+approved inspection agency shall affix a tag on the fuel gas system or within
+the vehicle indicating the name of the inspection agency and the date of
+satisfactory inspection.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.180 FALLOUT AREA.
+   A new Section 5608.2 is added to Section 5608 of the California Fire Code to
+read as follows:
+   5608.2 Fallout Area. For aerial shells, the minimum required radius of the
+fallout area shall be 100ft/in. (22 m/25 mm) of the internal mortar diameter of
+the largest aerial shell to be fired, unless otherwise approved.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.190 WILDLAND-URBAN INTERFACE AREA SUBDIVISIONS.
+   A new Section B.103.2.1 is added to Section B 103.2 of the California Fire
+Code to read as follows:
+   B103.2.1 Wildland-Urban Interface Area Subdivisions. The minimum fire flow
+for any new subdivision or tract constructed within a Wildland-Urban Interface
+Area shall be 1,500 gallons per minute.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.200 GENERAL FIRE PROTECTION AND LIFE SAFETY FEATURES.
+   A new Section 3206.4.2 is added to Section 3206.4 of the California Fire
+Code to read as follows:
+   3206.4.2 Minimum requirements for client leased or occupant owned
 warehouses. Designs of an automatic sprinkler system for client leased or
 occupant owned buildings containing high pile storage shall be based on the
-requirements of NFPA 13. The responsible fire protection engineer shall perform
-a survey of the building to determine commodity classification, storage
-configuration, building height and other information related to the development
-of an appropriate sprinkler system design. The fire protection engineer shall
-also make reasonable efforts to meet with the building owner or operator to
-understand seasonal or customer related fluctuations to the stored commodities,
-storage height, and configuration. The sprinkler design shall be based on the
-most demanding requirements determined through the onsite survey and
-discussions with the building owner or operator. The technical report shall
-describe the basis for determining the commodity and sprinkler design
-selection, how the commodities will be isolated or separated, and include
-references to the design document(s). If a specific fire test is used as the
-basis of design, a copy of the fire test report shall be provided at the time
-of plan review.
-(Ord. 2022-364, passed 11-16-2022)
-§ 8.20.170 FIRE HAZARD SEVERITY ZONES.
-   A new Section 4904.2.1 is added to Section 4904 of the California Fire Code
-to read as follows:
-   4904.2.1 High Fire Hazard Severity Zone Maps. In accordance with Government
-Code Sections 51175 through 51189, Very High Fire Hazard Severity Zones
-(VHFHSZ) located in the Local Responsibility Areas (LRA), are designated as
-shown on the most recently published VHFHSZ in LRA map, as recommended and
-published by the Director of the California Department of Forestry and Fire
-Protection (CAL FIRE), which may be revised from time to time. The most recent
-VHFHSZ in LRA map is on file at the office of the Fire Chief, which supersedes
-other maps previously adopted by Riverside County designating high fire hazard
-areas.
-(Ord. 2022-364, passed 11-16-2022)
-§ 8.20.180 APPENDIX B.
+requirements of NFPA 13. Unless otherwise approved a Professional Engineer,
+licensed in the State of California, shall perform a survey of the building to
+determine commodity classification, storage configuration, building height and
+other information related to the development of an appropriate sprinkler system
+design. The engineer shall also make reasonable efforts to meet with the
+building owner or operator to understand seasonal or customer related
+fluctuations to the stored commodities, storage height, and configuration. The
+sprinkler design shall be based on the most demanding requirements determined
+through the onsite survey and discussions with the building owner or operator.
+The technical report shall describe the basis for determining the commodity and
+sprinkler design selection, how the commodities will be isolated or separated,
+and include references to the design document(s). If a specific fire test is
+used as the basis of design, a copy of the fire test report shall be provided
+at the time of plan review.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.210 FIRE HAZARD SEVERITY ZONES.
+   The Fire Hazard Severity Zones are addressed in Menifee Municipal Code §
+8.21.070.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
+§ 8.20.220 TABLE B105.2.
    Table B105.2 of the California Fire Code is amended as follows:
-   TABLE B105.2 - REQUIRED FIRE-FLOW FOR BUILDINGS OTHER THAN ONE- AND TWO-
-FAMILY DWELLINGS, GROUP R-3 AND R-4 BUILDINGS AND TOWNHOUSES
+   REQUIRED FIRE-FLOW FOR BUILDINGS OTHER THAN ONE- AND TWO-FAMILY DWELLINGS,
+GROUP R-3 AND R-4 BUILDINGS AND TOWNHOUSES
  
-Automatic Sprinkler System Minimum Fire-Flow (gallons Flow Duration (hours)
-(Design Standard)          per minute)
-No automatic sprinkler     Value in Table B105.1(2)   Duration in Table B105.1
-                                                      (2) system
-Section 903.3.1.1 of the   50% of the value in Table  Duration in Table B105.1
-California Fire Code       B105.1(2)a                 (2) at the reduced flow
-                                                      rate
-Section 903.3.1.2 of the   50% of the value in Table  Duration in Table B105.1
-California Fire Code       B105.1(2)b                 (2) at the reduced flow
-                                                      rate
-For SI: 1 gallon per minute =3.785 L/m.
-a.   The reduced fire-flow shall be not less than 1,000 gallons per minute.
-b.   The reduced fire-flow shall be not less than 1,500 gallons per minute.
-(Ord. 2022-364, passed 11-16-2022)
-§ 8.20.190 APPENDIX C.
-   Section C103.1 of the California Fire Code is deleted in its entirety and
-replaced with the following:
+AUTOMAT IC SPRINKLE R    MINIMUM FIRE FLOW (gallons FLOW DURATION (hours)
+SYSTEM (Design Standard) per minute)
+No automatic sprinkler   Value in Table B105.1(2)   Duration in Table B105.1(2)
+system
+Section 903.3.1.1 of the 50% of the value in Table  Duration in Table B105.1(2)
+California Fire Code     B105.1(2)a                 at the reduced flow rate
+Section 903.3.1.2 of the 50% of the value in Table  Duration in Table B105.1(2)
+California Fire Code     B105.1(2)b                 at the reduced flow rate
+ 
+For SI: 1 gallon per minute= 3.785 L/m
+a.   The reduced fire-flow shall not be less than 1,000 gallons per minute.
+b.   The reduced fire-flow shall not be less than 1,5000 gallons per minute.
+(Ord. 2022-364, passed 11-16-2022; Am. Ord. 2025-425, passed 11-19-2025)
+§ 8.20.230 FIRE HYDRANT LOCATION.
+   Section C103.1 of the California Fire Code is hereby deleted in its entirety
+and replaced with the following:
    C103.1 Hydrant spacing. Fire apparatus access roads and public streets
 providing required access to buildings in accordance with Section 503 of the
 California Fire Code shall be provided with one or more fire hydrants, as
 determined by Section C102.1. Where more than one fire hydrant is required, the
 distance between required fire hydrants shall be in accordance with Sections
 C103.2 and C103.3. Fire hydrants shall be provided at street intersections.
-(Ord. 2022-364, passed 11-16-2022)
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.20.240 REMOTENESS.
+   A new Section 503.1.2.1 is added to Section 503.1.2 of the California Fire
+Code to read as follows:
+   503.1.2.1 Remoteness. Unless otherwise approved, where two fire apparatus
+access roads are required, they shall be placed a distance apart equal to not
+less than one-half of the length of the maximum overall diagonal dimension of
+the property or area to be served, measured in a straight line between
+accesses.
+(Ord. 2025-425, passed 11-19-2025)
+CHAPTER 8.21: WILDLAND-URBAN INTERFACE CODE
+Section
+   
+8.21.010   Applicability
+   
+8.21.020   Duties and powers of the Code Official
+   
+8.21.030   Permits
+   
+8.21.040   Fees
+   
+8.21.050   Inspection and enforcement
+   
+8.21.060   Definitions
+   
+8.21.070   Wildland-Urban Interface area designations
+   
+8.21.080   Special building construction regulations
+   
+8.21.090   Fire protection plans
+   
+8.21.100   Vegetation plan
+   
+8.21.110   Maintenance of defensible space
+   
+8.21.120   Storage of firewood and combustible materials
+   
+8.21.130   Building siting setbacks
+   
+8.21.140   Ridgelines, fuel breaks, and greenbelts
+   
+8.21.150   Appendix A
+§ 8.21.010 APPLICABILITY.
+   (A)   Section 102.4.1.1 of the California Wildland-Urban Interface Code
+shall be amended as follows:
+   102.4.1.1 Application of the California Wildland-Urban Interface Code. Where
+a conflict exists between the provisions of the City of Menifee Fire Code and
+the California Wildland-Urban Interface Code, the more restrictive provisions
+shall apply.
+   (B)   Except as stated in this section or as amended in this chapter, all of
+the provisions and appendices of the 2025 California Wildland-Urban Interface
+Code, inclusive of all of the inclusions and exclusions set for in each
+chapter's matrix, are hereby adopted and shall apply to the unincorporated
+areas of the City of Menifee. In addition, the following provisions that are
+excluded in the 2025 California Wildland-Urban Interface Code - Chapter 1,
+Division II of the California Wildland-Urban Interface Code are hereby adopted,
+except that Sections 103.2 and 112.3 are not adopted, and sections A101 through
+A102.2, A102.4, A104, A105.1, A105.4 through A105.4.2, A106 through A106.2 and
+A107 through A107.5 are adopted.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.020 DUTIES AND POWERS OF THE CODE OFFICIAL.
+   (A)   A new Section 104.1.1 is added to Section 104.1 of the California
+Wildland-Urban Interface Code to read as follows:
+   104.1.1 Authority of the Fire Chief, Chief Deputy, and Fire Department.
+   1.   The Fire Chief, Chief Deputy, or their designee is authorized and
+directed to enforce all applicable State fire laws and provisions of this
+ordinance and to perform such duties as directed by the City Council of the
+City of Menifee.
+   2.   The Fire Chief, Chief Deputy, or their designee is authorized to
+administer, interpret and enforce this ordinance. Under the Fire Chief, Chief
+Deputy, or their designee's direction, the City of Menifee Fire Department is
+authorized to enforce ordinances of City of Menifee pertaining to the
+following:
+      2.1.   The prevention of fires.
+      2.2.   The suppression or extinguishment of dangerous or hazardous fires.
+      2.3.   The storage, use and handling of hazardous materials.
+      2.4.   The installation and maintenance of automatic, manual and other
+private fire alarm systems and fire extinguishing equipment.
+      2.5.   The maintenance and regulation of fire escapes.
+      2.6.   The maintenance of fire protection and the elimination of fire
+hazards on land, in buildings, structures and other property, including those
+under construction.
+      2.7.   The maintenance of means of egress.
+      2.8.   The investigation of the cause, origin and circumstances of fire
+and unauthorized releases of hazardous materials.
+   3.   The following persons are hereby authorized to interpret and enforce
+the provisions of this ordinance and to make arrests and issue citations as
+authorized by law:
+      3.1.   The Unit Chief, Peace Officers and Public Officers of the
+California Department of Forestry and Fire Protection.
+      3.2.   The Fire Chief, Peace Officers and Public Officers of the City of
+Menifee Fire Department and authorized agents and contractors.
+      3.3.   The Police Chief and any police officer of any city served by the
+City of Menifee Fire Department.
+      3.4.   Officers of the California Highway Patrol.
+      3.5.   Code Officers of the City of Menifee Code Enforcement Department.
+      3.6.   Peace Officers of the California Department of Parks and
+Recreation.
+      3.7.   The law enforcement officer of the Federal Bureau of Land
+Management.
+   (B)   Section 104.2 of the California Wildland-Urban Interface Code is
+hereby deleted and replaced with the following:
+   104.2 Determination of compliance. The fire Code official shall have the
+authority to determine compliance with th is Code, to render interpretations of
+this Code and to develop policies, procedures, guidelines, standards, and
+information bulletins in order to clarify the application of its provisions.
+Such interpretations, policies, procedures:
+   1.   Shall be in compliance with the intent and purpose of this Code.
+   2.   Shall not have the effect of waiving requirements specifically provided
+for in this Code.
+   3.   Shall be enforceable as part of this Code.
+   (C)   Sections 104.8 and 104.8.1 of the California Wildland-Urban Interface
+Code are hereby deleted in their entirety and replaced with the following:
+   104.8 Liability. Any liability against The City of Menifee or any officer or
+employee for damages resulting from the discharge of their duties shall be as
+provided by law.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.030 PERMITS.
+   Section 105.2 of the California Wildland-Urban Interface Code is hereby
+deleted in its entirety and replaced with the following :
+   105.2 Permits Required. Unless otherwise exempted, buildings or structures
+regulated by this Code shall not be erected, constructed, altered, repaired,
+moved, removed, converted, demolished or changed in use or occupancy unless a
+separate permit for each building or structure has first been obtained from the
+Code official.
+   For buildings or structures erected for temporary uses, see Section A108.3.
+   Where required by the Code official, a permit shall be obtained for the
+following activities, operations, practices or functions within a wild land-
+urban interface area:
+      1.   Automobile wrecking yard.
+      2.   Candles and open flames in assembly areas.
+      3.   Explosives or blasting agents.
+      4.   Fireworks.
+      5.   Flammable or combustible liquids.
+      6.   Hazardous materials.
+      7.   Liquefied petroleum gases.
+      8.   Landscape and fuel modification zones.
+      9.   Lumberyards.
+      10.   Motor vehicle fuel-dispensing stations.
+      11.   Open burning.
+      12.   Pallet Yards.
+      13.   Pyrotechnical special effects material.
+      14.   Tents, canopies and temporary membrane structures.
+      15.   Tire storage.
+      16.   Welding and cutting operations.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.040 FEES.
+   (A)   Section 108.2 of the California Wildland-Urban Interface Code is
+hereby deleted in its entirety and replaced with the following:
+   108.2 Schedule of permit fees. Fees for services and permits shall be as set
+forth in Menifee Municipal Code Section City of Menifee Adoption of Fee
+Schedule
+   (B)   A new Section 108.7 is added to Section 108 of the California
+Wildland-Urban Interface Code to read as follows:
+   108.7 Cost recovery. Pursuant to California Health and Safety Code sections
+11374.5(b)(1), 13009 et seq., 25259.4, 25515(a), 25540(a), 25541(a), California
+Government Code sections 53150 et seq, and all other provisions of law, all
+costs incurred by the City of Menifee Fire Department for the inspection and
+enforcement of any provision of these Codes, the investigation of any fire,
+explosion or other hazardous condition, the suppression of fire, the response
+to a traffic collision or accident, the containment and/or mitigation of a
+hazardous materials release, and any rescue or rendering of medical or physical
+aid or assistance, may be charged to any responsible party, any person who
+violates these Codes or any person who, due to a negligent or unlawful act or
+omission, is responsible for or requires or causes the emergency response of
+the City of Menifee Fire Department. Any expense incurred by the City of
+Menifee Fire Department for such an emergency response shall constitute a debt
+of such person and shall be collectible by the City in the same manner as in
+the case of an obligation under contract, express or implied. These provisions
+shall be applied uniformly against all such persons in violation of a Penal
+Code, Vehicle Code, Health and Safety Code or other state law statutory
+violation; only a City official shall have authority to reduce or cancel the
+debt obligation arising from the incident.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.050 INSPECTION AND ENFORCEMENT.
+   Section 109.3.7 of the California Wildland-Urban Interface Code is hereby
+deleted in its entirety and replaced with the following:
+   109.3.7 Violation and penalties. It shall be unlawful for any person, firm,
+corporation or association of persons to violate any provision of this
+ordinance, or to violate the provisions of any permit granted pursuant to this
+Code. Punishments and penalties for violations shall be in accordance with the
+Menifee Municipal Code, Health and Safety Code Sections 17995 through 17995.5
+and Government Code Section 51185.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.060 DEFINITIONS.
+   Section 202, definition of "Fire Chief”, in the California Fire Code is
+hereby deleted in its entirety and replaced with the following:
+   Fire Chief. The Fire Chief of the City of Menifee or the Fire Chief’s
+designee.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.070 WILDLAND-URBAN INTERFACE AREA DESIGNATIONS.
+   Section 302.1.1 is added to Section 302.1 of the California Wildland-Urban
+Interface Code to read as follows:
+   302.1.1 Designation of Fire Hazard Severity Zones. The City of Menifee has
+adopted the recommendations of the State Fire Marshal made pursuant to
+Government Code section 51178 and designated those areas within the City as
+moderate, high, and very high fire hazard severity zones as shown on the Local
+Responsibility Area Fire Hazard Severity Zones Maps published by the Office of
+the State Fire Marshal. The Maps have been adopted under the City of Menifee
+Ordinance No. 2025-416.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.080 SPECIAL BUILDING CONSTRUCTION REGULATIONS.
+   Section 501.1 of the California Wildland-Urban Interface shall be amended as
+follows:
+   § 501.1 Scope. Buildings and structures in a wildland-urban interface area
+shall be constructed in accordance with the California Building Code and this
+Code. For the purpose of this Chapter, a wild land-urban interface area shall
+be defined as a geographical area identified by the state as a "Fire Hazard
+Severity Zone" in accordance with the Public Resources Code Sections 4201
+through 4204 and Government Code Sections 51175 through 51189, and other areas
+designated by the enforcing agency to be at a significant risk from wildfires,
+and shall include those areas designated by Ordinance as moderate, high, and
+very high fire hazard severity zones based on recommendations from the State
+Fire Marshal pursuant to Government Code Section 51178.
+   Exceptions:
+      1.   Group U accessory structures not exceeding 120 square feet (11 m2)
+in floor area where located not less than 50 feet (15 240 mm) from applicable
+buildings.
+      2.   Group U agricultural buildings not less than 50 feet (15 240 mm)
+from applicable buildings.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.090 FIRE PROTECTION PLANS.
+   (A)   Section 602.1 of the California Wildland-Urban Interface Code is
+amended as follows:
+   § 602.1 General. A fire protection plan shall be submitted to the Fire Code
+Official for any proposed subdivision of land or building project. The fire
+protection plan shall be prepared to determine the acceptability of fire
+protection and life safety measures designed to mitigate wildfire hazards
+presented for the property under consideration.
+   The fire protection plan shall be prepared by a registered design
+professional, qualified landscape architect, qualified fire safety specialist
+or similar specialist acceptable to the Code official and shall analyze the
+wildfire risk of the building, project, premises or region to recommend
+necessary changes.
+   Submittal of a preliminary fire protection plan shall be required prior to
+the submission of a final fire protection plan.
+   Exception: A single-family dwelling (Group R-3 Occupancy) when located on an
+existing legal parcel.
+   (B)   Section 602.3.2 of the California Wildland-Urban Interface Code is
+amended as follows:
+   602.3.2 Final Fire Protection Plan. Final fire protection plan shall include
+items listed in Section 602.3.1 and the following:
+   1.   A map identifying all proposed plants in the fuel modification zones
+with a legend that includes a symbol for each proposed plant species. The plan
+shall include specific information on each species proposed, including but not
+limited to:
+      1.1.   The plant life-form;
+      1.2.   The scientific and common name; and
+      1.3.   The expected height and width for mature growth.
+   2.   Identification of irrigated and non-irrigated zones.
+   3.   Requirements for vegetation reduction around emergency access and
+evacuation routes.
+   4.   Identification of existing vegetation proposed to remain.
+   5.   Identification of points of access for equipment and personnel to
+maintain vegetation in common areas.
+   6.   Methods and timetables for controlling, changing, or modifying areas on
+the property.
+   7.   Legally binding statements regarding community responsibility for
+maintenance of fuel modification zones.
+   8.   Legally binding statements to be included in covenants, conditions and
+restrictions regarding property owner responsibilities for vegetation
+maintenance.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.100 VEGETATION PLAN.
+   (A)   Section 603.1 of the California Wildland-Urban Interface Code is
+amended as follows:
+   603.1 General. Planting of vegetation for new and replacement landscaping
+shall be selected to reduce vegetation in proximity to a structure and to
+maintain vegetation as it matures.
+   (B)   Section 603.3 of the California Wildland-Urban Interface Code is
+amended as follows:
+   603.3 Landscape and Fuel Modification plans. Landscape and Fuel Modification
+plans shall be submitted for any project located in a WUI area. The landscape
+and Fuel Modification plan shall include development and maintenance
+requirements for the vegetation management zone adjacent to structures and
+roadways, and to provide significant fire hazard reduction benefits for public
+and firefighting safety.
+   (C)   Section 603.3.1 of the California Wildland-Urban Interface Code is
+amended as follows:
+   603.3.1 Contents. Landscape plans shall contain the following:
+   1.   Delineation of the 5-foot (1524 mm) (Zone 0), 30-foot (9144 mm) (Zone
+1) and 100-foot (30 480 mm) (Zone 2) fuel management zones from all structures.
+   2.   Identification of existing vegetation to remain and proposed new
+vegetation.
+   3.   Identification of irrigated areas.
+   4.   A plant legend with both botanical and common names, and identification
+of all plant material symbols.
+   5.   Identification of ground coverings within the 30-foot (9144 mm) zone.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.110 MAINTENANCE OF DEFENSIBLE SPACE.
+   (A)   Section 604.1 of the California Wildland-Urban Interface Code is
+amended as follows:
+   604.1 General. Vegetation and fuels shall be managed to reduce the severity
+of potential exterior wildfire exposure to buildings and to reduce the risk of
+fire spreading to buildings as required by applicable laws and regulations.
+   (B)   Section 604.3 of the California Wildland-Urban Interface Code is
+amended as follows:
+   604.3 Requirements. Vegetation and fuels around all buildings and structures
+shall be maintained in accordance with the following laws and regulations:
+   1.   Public Resources Code, Section 4291.
+   2.   California Code of Regulations, Title 14, Division 1.5, Chapter 7,
+Subchapter 3, Article 3, Section 1299.03.
+   3.   California Government Code, Section 51182.
+   4.   California Code of Regulations, Title 19, Division 1, Chapter 1
+Subchapter 1, Article 3, Section 3.07.
+   5.   The requirements of Section 7, Appendix A of this ordinance and the
+City of Menifee Fire Department Guidelines.
+   (C)   Section 604.3.1 is added to Section 604.3 of the California Wildland-
+Urban Interface Code to read as follows:
+   604.3.1 Retroactivity. When required by the Fire Code Official, or State
+Law, existing Defensible Space/Fuel Modification Zones (FMZ) shall require
+retrofitting, including thinning and/or removal of plants, trees, and
+vegetation, to meet this Code or State Law. Upon notification by the Fire Code
+Official, and when approved, work to bring an existing Defensible Space and FMZ
+into compliance with this Code, may be done over a two to four (2-4) year
+period as determined by the Fire Code Official. A compliance plan prepared by
+the property owner may be requested for review and approval by the Fire Code
+Official.
+   (D)   Section 604.6 is added to the California Wildland-Urban Interface Code
+to read as follows:
+   604.6 Clearance of brush, vegetative growth, and combustible material from
+improved parcels. All improved parcels declared a Public Nuisance shall be
+cleared entirely of combustible material. If the Fire Code Official determines
+this impractical, the provisions of Section 604.7 may be used.
+   (E)   Section 604.7 is added to the California Wildland-Urban Interface Code
+to read as follows:
+   604.7 Clearance of fuels or vegetative growth from structures. Clearance of
+fuels and vegetative growth from structures shall be per sections 604.7.1
+through 604.7.4 of this Code.
+   (F)   Section 604.7.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.7.1 Structures. Any person owning, leasing, controlling, operating, or
+maintaining any Building or structure in, upon, or adjoining any FHSZ, governed
+by this section, and any person owning, leasing, or controlling any land
+adjacent to such Buildings, shall at all times maintain around and adjacent to
+such Building, an effective firebreak made by removing and clearing away, all
+combustible material on their property for a distance not less than 100 feet
+from all portions of the Building.
+   Distances may be increased by the Fire Code Official due to a site-specific
+analysis based on local conditions and when required, based on a Fire
+Protection Plan. This section shall not apply to single specimens or stands of
+protected species of trees, Ornamental Landscape or similar plants used in
+landscaping and ground covers, that are well-pruned, maintained, and spaced,
+and do not form a means of rapidly transmitting fire from other nearby
+vegetation to a structure or from a structure to other nearby vegetation or to
+interrupt the advance of embers toward a structure.
+   (G)   Section 604.7.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.7.2 Timing for New Buildings and additions to Existing Buildings. The
+provisions of Section 604.7 shall be completed prior to vertical construction
+of any New Building or addition to an Existing Building.
+   (H)   Section 604.7.3 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.7.3 Photovoltaic Systems. The clearance requirements around freestanding
+photovoltaic systems and equipment shall comply with the following:
+   1.   A minimum 10-foot clearance for clusters of panels not exceeding 1,500
+square feet of combined panel area.
+   2.   A minimum of 30-foot clearance for clusters of panels greater than
+1,500 square feet of combined panel area.
+   3.   Clusters shall be separated by a minimum of 20 feet.
+   4.   Panels and clusters shall be not located within 30 feet of any Building
+subject to clearance requirements of Section 604 unless the clearance
+requirements of Section 604 are provided as measured from the perimeter of the
+panel or cluster.
+   (I)   Section 604.8 is added to the California Wildland-Urban Interface Code
+to read as follows:
+   604.8 Defensible Space clearance zones and requirements. The required 100-
+foot Defensible Space clearance is identified in three (3) distinct zones: Zone
+0, 1, and 2.
+   (J)   Section 604.8.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.1 Requirements. Defensible Space shall be in accordance with the
+requirements of Appendix A of this Code, The City of Menifee Fire Department
+Guidelines and the specific requirements for each zone listed in Sections
+604.8.2 through 604.8.5.
+   (K)   Section 604.8.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.2 Zone 0 purpose and location. Zone 0 reduces the likelihood of
+structure ignition by reducing the potential for direct ignition of the
+structure from flame contact, by embers that accumulate at the base of a wall,
+and/or indirect ignitions when embers ignite vegetation, vegetative debris, or
+other combustible materials located close to the structure that result in
+either a radiant heat and/or a direct flame contact exposure to the structure.
+   Zone 0 is the horizontal area within the first five (5) feet around the
+structure, including stairs, balconies, attached or adjacent decks, and
+outbuildings. Zone 0 is measured from the edge of a structure, attached or
+adjacent decks, patio covers, balconies, and floor projections above-grade.
+Zone 0 also includes the area on the roof of a building, and underneath and on
+top of attached decks, patio covers, balconies, and stair landings.
+   Advisory Notice: The City of Menifee Fire Department has local Zone 0
+requirements currently in effect for new Buildings and additions to existing
+Buildings. New State regulations for Zone 0 are currently under development by
+the State Board of Forestry and Fire Protection. Any State regulation more
+restrictive than this ordinance shall apply. This may require thinning and/or
+removal of plants, trees, and vegetation to meet State Law and regulations.
+   (L)   Section 604.8.2.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.2.1 Non-Combustible Zone 0 for New Buildings, additions to Existing
+Buildings, and new or replacement landscape. Fuels, including Combustible
+Materials and vegetation, are prohibited in Zone 0 for all New Buildings,
+additions to Existing Buildings, installation of new landscape, and
+refurbishment of existing landscape areas.
+   The application date of Section 604.8.2.1 shall be the later application
+date when any of the following occur:
+   1.   Fire Department Clearance for a New Building or addition to an Existing
+Building.
+   2.   Building permit for a New Building or addition to an Existing Building.
+   3.   Landscape plans submitted for The City of Menifee Fire Department
+review.
+   4.   Replacement of landscape when landscape plans are not required.
+   (M)   Section 604.8.2.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.2.2 Additional requirements in Zone 0.
+   1.   New and existing tree canopies are prohibited within 10 feet of New
+Buildings, including the addition portion to Existing Buildings.
+      Exception: Existing protected oak trees shall be trimmed to provide a
+minimum 5-foot clearance above the roof and 5 feet to the side of any New
+Building, or the addition portion to an Existing Building.
+   2.   Landscaped roofs are prohibited.
+   3.   Vegetation underneath decks is prohibited.
+   4.   Other Combustible Materials underneath any deck, not part of the deck
+structure itself, shall be removed.
+   5.   Artificial or synthetic grass is prohibited within Zone 0.
+   6.   Vines and climbing plants are not allowed on structures, including
+decks, patio/shade structures, and any fences within 5 feet of a Building.
+   7.   Combustible mulch and wood chips are prohibited.
+   8.   Firewood is prohibited.
+   9.   All fencing and gates shall be non-combustible. See Section 604.11.
+   (N)   Section 604.8.2.3 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.2.3 Zone 0 requirements for Existing Buildings.
+   (O)   Section 604.8.2.3.1 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   § 604.8.2.3.1 Zone 0 requirements for Existing Buildings. The following
+requirements apply within Zone 0 for all Existing Buildings with landscape
+installed prior to January 1, 2026:
+   1.   No combustible landscape mulch or wood chips.
+   2.   No firewood.
+   3.   No vegetation underneath decks.
+   4.   Other Combustible Materials underneath any deck, not part of the deck
+structure itself, shall be removed.
+   5.   Roofs and gutters on Buildings shall be maintained free of any leaves,
+needles, or other vegetative Combustible Materials.
+   6.   The vertical clearance distance for trees and vegetation above any roof
+shall be not less than 3 feet.
+   7.   A minimum 3-foot clearance of trees and vegetation shall be provided to
+the side and above any eave or roof projection from the exterior wall of a
+Building. A minimum 3-foot clearance of trees and vegetation shall be provided
+below any eave or roof projection. This requirement also applies to any patio
+cover or other Building projections.
+   8.   New trees are not allowed.
+   9.   New or replacement landscaping shall comply with Sections 604.8.1,
+604.8.2.1, and 604.8.2.2.
+   (P)   Section 604.8.3 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.3 Zone 1 purpose and location. Zone 1 reduces the likelihood of fire
+burning directly to the structure. This is accomplished by modifying Fuels and
+creating a discontinuity between planting groups that limits the pathways for
+fire to burn to the structure and reduces the potential for near-to-building
+ember generation and radiant heat exposures. An additional purpose of this zone
+is to provide a defendable area for fire personnel to stage and take direct
+action.
+   Zone 1 is the area within 5-30 feet of structures and decks, with slopes not
+greater than 20 percent; 5-50 feet from Buildings and decks, when slopes are
+greater than 20 percent.
+   (Q)   Section 604.8.3.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.3.1 Requirements and allowable items. This is a minimal planting zone
+which includes very limited trees of a fire-smart type with additional spacing
+provided. Plants and other vegetation shall be in accordance with Appendix A of
+this Code and the City of Menifee Fire Department Guidelines.
+   (R)   Section 604.8.4 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.4 Zone 2 purpose and location. Zone 2 is designed to reduce the
+potential behavior of an oncoming fire in such a way as to drop an approaching
+fire from the crown of trees to the ground, reducing the flame heights, and the
+potential for ember generation and radiant heat exposure to structures.
+Additional benefits of the Zone 2 include facilitating direct defense actions
+and improving the function of Zones 0 and 1.
+   Zone 2 is the area from the outer edge of Zone 1 to 100 feet from structures
+and decks.
+   (S)   Section 604.8.4.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.4.1 Requirements and allowable items. Plants and other vegetation
+shall be in accordance with Appendix A of this Code and the City of Menifee
+Fire Department Guidelines.
+   (T)   Section 604.8.4.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.4.2 Spacing. Spacing of vegetation and trees at the outer edge of Zone
+2 shall be based upon the height of the vegetation within Zone 2 or the
+adjacent area beyond the 100-foot zone, whichever provides for the greater
+spacing. This may require clearance outside the 100-foot zone or setting back
+vegetation and trees within Zone 2 away from the 100-foot line.
+   (U)   Section 604.8.5 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5 General requirements for Zone 0, 1, and 2.
+   (V)   Section 604.8.5.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.1 Dead and dying vegetation. All dead or dying grass, plants,
+shrubs, trees, branches, leaves, weeds, and tree needles shall be removed.
+   (W)   Section 604.8.5.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.2 Mulch and wood chips within Zones 1 and 2. Use of combustible
+Mulch and wood chips shall be in accordance with the requirements the City of
+Menifee Fire Department Guidelines.
+   (X)   Section 604.8.5.3 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.3 Firewood. See Section 607 of the California Wildland-Urban
+Interface Code.
+   (Y)   Section 604.8.5.4 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.4 Clearance from chimney, stovepipe. Any portion of a tree or shrub
+that extends within 10 feet horizontally or vertically of a chimney outlet or
+stovepipe outlet shall be removed.
+   (Z)   Section 604.8.5.5 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   § 604.8.5.5 Trees. New trees shall be planted and maintained so that the
+tree's drip line at maturity is a minimum of 10 feet from any combustible
+structure.
+   (AA)   Section 604.8.5.5.1 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   604.8.5.5.1 Tree spacing. The horizontal distance between crowns of new
+trees and crowns of adjacent trees shall not be less than 20 feet in Zone 1 and
+not less than 10 feet in Zone 2. Separation distance may be increased for
+slopes exceeding 20 percent. Required spacing is measured between trees at
+maturity.
+   (BB)   Section 604.8.5.5.2 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   604.8.5.5.2 Ground clearance of trees. Trees exceeding 6 feet in height
+shall be limbed up from the ground 6 feet or 1/3 the height of the tree,
+whichever is less.
+   Exception: Fruit trees when approved by the Fire Code Official.
+   (CC)   Section 604.8.5.5.3 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   604.8.5.5.3 Ground cover under tree canopy. When approved ground cover and
+shrubs are located underneath trees, the vertical clearance to the lowest
+branch of the tree canopy shall not be less than three times the height of the
+ground cover or shrub under or adjacent to the tree. The horizontal clearance
+shall be 3 feet from the trunk of the tree.
+   (DD)   Section 604.8.5.6 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.6 Continuous tree canopies.
+   (EE)   Section 604.8.5.6.1 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   604.8.5.6.1 New Structures. Continuous tree canopies are not allowed. Tree
+spacing shall be in accordance with the City of Menifee Fire Department.
+   (FF)   Section 604.8.5.6.2 is added to the California Wildland-Urban
+Interface Code to read as follows:
+   604.8.5.6.2 Existing Structures. Continuous tree canopies may be allowed as
+determined by the Fire Code Official but will require the complete removal of
+any understory and smaller trees to meet requirements for a shaded fuel zone.
+Any remaining trees shall be limbed up a minimum of 12 feet from the ground or
+1/3 the tree height, whichever is less. The intent is to not allow a crown
+(canopy) fire to spread unchecked to a structure and to bring any crown fire
+down to the ground level prior to Zone 1.
+   (GG)   Section 604.8.5.7 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.8.5.7 Grasses. Natural or annual grasses shall be mowed to a maximum
+height of 4-inch stubble with clippings removed.
+   (HH)   Section 604.9 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.9 Fire protection equipment and utilities. The clearance requirements of
+Sections 604.7 and 604.8 shall apply to communication site towers and their
+support Buildings; required fire protection water supplies, including water
+tanks, water supply pumps, and pump houses; and any other utility Structure as
+required by the Fire Code Official. The Fire Code Official may consider a
+reduced distance, not less than 30 feet, for communication site towers, water
+tanks, and Structures with no interior space, based upon a site risk
+assessment. Also see Appendix A.
+   (II)   Section 604.10 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.10 Planting vegetation under or adjacent to energized electrical lines.
+No vegetation shall be planted under or adjacent to energized power lines that,
+at maturity, will grow within 10 feet of the energized conductors.
+   (JJ)   Section 604.11 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.11 Fencing.
+   (KK)   Section 604.11.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.11.1 Scope. This section only applies to fences, including gates within
+the fencing, within 5 feet of Building(s), including Decks, (Zone 0) that are
+in an applicable Fire Hazard Severity Zone req. by Chapter 6 of the California
+Wildland Urban Interface Code.
+   (LL)   Section 604.11.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.11.2 New fencing. New fencing and gates shall be constructed of a
+noncombustible material.
+   (MM)   Section 604.11.3 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   604.11.3 Existing fencing. Fencing installed prior to January 1, 2026, may
+remain.
+   Exception: The entire fencing not parallel and within 5 feet of the
+Building, including gates within the fencing, shall be constructed of a non-
+combustible material when any portion of the existing fencing within 5 feet is
+being replaced. Fencing beyond 5 feet from the Building is not required to be
+replaced with non-combustible material.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.120 STORAGE OF FIREWOOD AND COMBUSTIBLE MATERIALS.
+   (A)   Section 607.1 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   607.1 General. Firewood and combustible materials shall not be stored in
+unenclosed spaces beneath Buildings or Structures, or on Decks or under eaves,
+canopies, or other projections or overhangs. Firewood piles shall be located 30
+feet (9144 mm) or more from structures unless completely covered by a fire-
+resistant material. Exposed wood piles located within the defensible space
+shall have a minimum clearance of 10 feet (3048 mm) down to bare mineral soil
+in all directions. Firewood shall not be stored within Zone 0.
+   (B)   Section 607.1.1 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   607.1.1 Combustible Materials. Combustible Materials, other than vegetation,
+stored within Zones 1 and 2 shall not be stored so as to pose a hazard to any
+Building. Piles shall not exceed 100 square feet of area and a maximum height
+of 10 feet. Piles shall be separated by a minimum of 20-foot clear area.
+   (C)   Section 607.2 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   § 607.2 Storage for off-site use. Firewood and Combustible Materials not for
+consumption on the premises shall not be stored within Zones 0, 1, and 2. See
+Appendix A for storage requirements.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.130 BUILDING SITING SETBACKS.
+   (A)   Section 608.1.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   608.1.1 Restricted development setbacks. New Structures and additions to
+existing Structures shall not be constructed less than 100 feet from any
+protected habitat, whether on the same or adjacent Parcels, where the 100-foot
+Defensible Space required under Section 604.7 cannot be provided, unless an
+alternate method of construction and protection is provided that can ensure the
+safety of the Structure and emergency responders as approved by the Fire Code
+Official. Protected habitat includes lands restricted from brush clearance or
+modification due to Federal or State listed endangered species. Protected
+habitat does not include sensitive habitat areas.
+   (B)   Section 608.2 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   608.2 General. All parcels shall provide a minimum 30-foot (9144 mm) setback
+for all buildings from property lines and the center of a road, except as
+provrded for in Section 608.2.1. [CCR T14 § 1276.00(a)] This section applies to
+new Tract and Parcel maps, new Buildings, and additions to Existing Buildings.
+   (C)   Section 608.2.1 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   608.2.1 Setback reduction. A reduction in the minimum setback shall be based
+upon practical reasons, which may include but are not limited to, parcel
+dimensions or size; topographic limitations; Development density requirements
+or other Development patterns that promote low-carbon emission outcomes;
+sensitive habitat or other site constraints, and shall provide for an
+alternative method to reduce structure-to-structure ignition by incorporating a
+combination of features such as, but not limited to:
+   1.   Non-combustible block walls or fences; or
+   2.   Non-combustible material extending 5 feet (1524 mm) horizontally from
+the furthest extent of the building; or
+   3.   Hardscape landscaping; or
+   4.   A reduction of exposed windows on the side of the structure with
+setback less than 30 feet (9144 mm). [CCR T14 §1276.01]
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.140 RIDGELINES, FUEL BREAKS, AND GREENBELTS.
+   (A)   Section 609.2.7.1 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   609.2.7.1 Greenbelts. Subdivisions and other developments, which propose
+Greenbelts as a part of the development plan, shall locate the Greenbelts
+strategically, as a separation between wildland fuels and Structures. The
+locations shall be approved by the inspection authority.
+   (B)   Section 609.2.7.2 is added to the California Wildland-Urban Interface
+Code to read as follows:
+   609.2.7.2 Access to Greenbelts. A minimum of one (1) access point shall be
+provided to new Greenbelts at an approved location to allow for on-going
+maintenance and firefighter access. Additional access points shall be provided
+when required by the Fire Code Official.
+(Ord. 2025-425, passed 11-19-2025)
+§ 8.21.150 APPENDIX A.
+   (A)   Section A102.1 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   A102.1 General. Vegetation control shall comply with Sections A102.2 through
+A102.4 and with Chapter 6. In addition to the requirements of the California
+Fire Code, Menifee Municipal Code Chapter 8.20, and Chapter 6 of the California
+Wildland-Urban Interface Code, storage and use of the materials shall be in
+accordance with Sections A105.2 through A105.4.2.
+   (B)   Section A 105.1 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   A105.1 General. In addition to the requirements of the California Fire Code,
+Ordinance 787 and Chapter 6, storage and use of the materials shall be in
+accordance with Sections A105.2 through A105.4.2.
+   (C)   Section A 105.4 of the California Wildland-Urban Interface Code is
+amended to read as follows:
+   § A105.4 Combustible Materials. Outside storage of Combustible Materials
+such as, but not limited to, wood, rubber tires, building materials, or paper
+products shall comply with the other applicable sections of this Ordinance and
+this section. Storage of pallets shall be in accordance with Section 5, Section
+2810. Storage and processing of wood chips, hogged materials, fines, Compost,
+Compostable Material, Mulch, solid biomass, raw product, and combustible yard
+waste and recycle material shall be in accordance with Section 5, Section 2808.
+(Ord. 2025-425, passed 11-19-2025)
 CHAPTER 8.22: DANGEROUS BUILDING CODE
 Section
    
@@ -22052,13 +22859,12 @@ Vehicle Code § 5007 or §§ 22511.55 or 22511.59.
 (Ord. 2009-51, passed 7-21-2009)
 § 12.20.140 COMMERCIAL VEHICLES.
    (A)   No person shall park or leave standing a commercial vehicle having a
-manufacturer’s gross vehicle weight rating of more than 10,000 pounds, or any
-commercial trailer or semi-trailer regardless of weight, on any street or
-highway within a residential district or on any undeveloped private property.
-   (B)   As used in this section, “residential district, street, highway, or
-right-of-way” means the full width of a public street, highway, or right-of-way
-which is located within, or adjacent to a residential zone as defined in County
-of Riverside Ordinance No. 348.
+manufacturer’s gross vehicle weight rating of more than 10,000 pounds and more
+than two axles, or any commercial trailer or semi-trailer regardless of weight,
+on any street or highway or on any undeveloped property or any designated non-
+privately owned open space in the city.
+   (B)   As used in this section, “street, highway, or right-of-way” means the
+full width of a public street, highway, or right-of-way.
    (C)   The City Engineer or his or her designee shall post signs to give
 notice of the parking restrictions contained in this section at major entry
 points into the city.
@@ -22079,7 +22885,8 @@ licensed contractor engaged in the installation, maintenance, or repair of any
 public property, utility or highway;
       (5)   Any authorized emergency vehicle as defined by the California
 Vehicle Code.
-(Ord. 2009-51, passed 7-21-2009; Am. Ord. 2018-255, passed 12-5-2018)
+(Ord. 2009-51, passed 7-21-2009; Am. Ord. 2018-255, passed 12-5-2018; Am. Ord.
+2025-423, passed 11-19-2025)
 § 12.20.150 RECREATIONAL VEHICLE PARKING PROHIBITED ON CITY HIGHWAY WITHIN
 RESIDENTIAL DISTRICTS; EXCEPTIONS.
    (A)   Except as provided in division (B) of this section, no person shall
@@ -25623,6 +26430,7 @@ County 848 - -         Spectators at illegal motor vehicle speed contests
 County 852 - -         Scott Road CFD
 County 853 - -         Roadside vending
 County 856 - -         Quail Valley septic tank prohibition
+                      
  
 TABLE II: LAND USE AMENDMENTS
 Ord. No. Date Passed Description
@@ -25811,6 +26619,9 @@ No.   Passed
 355   2022   between the city and Scott Road Partners LLC.
 2025- 3-5-   Approving the third amendment to Cimarron Ridge Development Agreement
 407   2025   between the city and Cimarron Ridge, LLC.
+2025- 11-19- Approving the first amendment to Development Agreement No. 2018-277 for
+424   2025   the Legado Specific Plan between the city and Lennar Homes of
+             California, LLC and BLC Fleming LLC.
             
  
 PARALLEL REFERENCES
@@ -25915,18 +26726,21 @@ Article 3 (commencing with § 415.10) of Chapter 4 of Title 5 of part 11.20.170
 CODE OF REGULATIONS
 Cal. Code Cite Code Section
 Cal. Code Cite                                                     Code Section
+Title 14, Division 1.5, Chapter 7, Subchapter 3, Article 3, §     8.21.110
+1299.03
 Title 14, Division 7, Chapter 12                                   6.30.060,
                                                                    6.30.120
 Title 14, Division 7, Chapter 12, § 18982                         6.30.010
 Title 14, Division 7, Chapter 12, § 18988.3                       6.30.100
 Title 14, Division 7, Chapter 12, § 18995.4                       6.30.120
+Title 19, Division 1, Chapter 1, Subchapter 1, Article 3, § 3.07  8.21.110
 Title 22, Division 4.5, Chapter 51, Article 2, § 69021, Appendix I7.90.070,
                                                                    7.90.140
                                                                    7.65.060;
 Title 24                                                           7.90.020;
                                                                    8.04.030;
                                                                    8.05.030
-Title 25                                                           8.20.010
+Title 25                                                           8.20.150
 Title 25, Division 1                                               8.18.010
 Title 25, Subsections 54—70                                      11.10.030
                                                                    
@@ -26011,7 +26825,11 @@ Title 9, Chapter 4 (commencing with § 84100)                    2.06.020
 40602                                                            2.08.060
 40802—40805                                                    2.10.030
 41001—41007                                                    2.15.030
-51175—51189                                                    8.20.010
+51175—51189                                                    8.21.080
+51178                                                            8.21.070;
+                                                                 8.21.080
+51182                                                            8.21.110
+51185                                                            8.21.050
 51501                                                            3.18.010
 53069.3                                                          11.40.030
                                                                  1.03.140;
@@ -26019,7 +26837,8 @@ Title 9, Chapter 4 (commencing with § 84100)                    2.06.020
                                                                  10.07.140;
                                                                  11.20.120
 53090—53095                                                    7.90.030
-53150 et seq.                                                    8.20.010
+53150 et seq.                                                    8.20.050;
+                                                                 8.21.040
 53232 et seq.                                                    2.04.040
 53607                                                            3.08.010
 53608                                                            3.08.010
@@ -26141,6 +26960,8 @@ Cal. Code Cite   Code Section
 11362.7—11362.89.10.010;
                  9.70.020
 11362.777        9.70.010
+11374.5(b)(1)    8.20.050;
+                 8.21.040
 11834.20 et seq. 11.26.040
 1250 et seq.     11.26.040
 12505 et seq.    11.19.010
@@ -26153,18 +26974,28 @@ Cal. Code Cite   Code Section
 1568.01 et seq.  11.26.040
 1569 et seq.     11.26.040
 1760 et seq.     11.26.040
-13009         8.20.010
-13009.1          8.20.010
+13009            8.20.050
+13009 et seq.    8.20.050 ;
+                 8.21.040
 17920.3          11.20.020
 17951            11.20.010
 17958.1          9.43.020
 17980 et seq.    11.20.190
-17995—17995.5  8.20.010
+17995—17995.5  8.20.070;
+                 8.21.050
 18007            9.43.020
 18214            5.01.020
 25110.02         6.30.010
 25115            6.30.010
 25117            6.30.010
+25259.4          8.20.050;
+                 8.21.040
+25515(a)         8.20.050;
+                 8.21.040
+25540(a)         8.20.050;
+                 8.21.040
+25541(a)         8.20.050;
+                 8.21.040
 33007.5          7.35.010
 109900           5.50.010
 109925           5.50.010
@@ -26230,8 +27061,10 @@ Cal. Code Cite Code Section
  
  
 PUBLIC RESOURCES CODE
- 
 Cal. Code Cite Code Section
+Cal. Code Cite Code Section
+4201—4204    8.21.080
+4291           8.21.110
 21060.2        6.40.040
 40000 et seq.  6.40.010
 41821          6.35.070
@@ -27590,10 +28423,10 @@ No.   Passed
              8.05.070;
              8.05.080;
              8.06.010;
-             8.08.010;
-             8.08.020;
-2022- 11-16- 8.12.010;
-364   2022   8.16.010;
+2022- 11-16- 8.08.010;
+364   2022   8.08.020;
+             8.12.010;
+             8.16.010;
              8.20.010;
              8.20.020;
              8.20.030;
@@ -27609,10 +28442,7 @@ No.   Passed
              8.20.130;
              8.20.140;
              8.20.150;
-             8.20.160;
-             8.20.170;
-             8.20.180;
-             8.20.190;
+             8.20.210;
              17.01.010;
              17.01.020;
              17.01.030;
@@ -27793,8 +28623,49 @@ No.   Passed
              8.12.010;
              8.16.010;
              8.17.010
+2025- 11-19- 12.20.140
+423   2025
+2025- 11-19- TSO IV
+424   2025
+             8.20.010;
+             8.20.020;
+             8.20.030;
+             8.20.040;
+             8.20.050;
+             8.20.060;
+             8.20.070;
+             8.20.080;
+             8.20.090;
+             8.20.100;
+             8.20.110;
+             8.20.120;
+             8.20.130;
+             8.20.140;
+             8.20.150;
+             8.20.160;
+             8.20.170;
+             8.20.180;
+2025- 11-19- 8.20.190;
+425   2025   8.20.200;
+             8.20.210;
+             8.20.220;
+             8.20.230;
+             8.20.240;
+             8.21.010;
+             8.21.020;
+             8.21.030;
+             8.21.040;
+             8.21.050;
+             8.21.060;
+             8.21.070;
+             8.21.080;
+             8.21.090;
+             8.21.100;
+             8.21.110;
+             8.21.120;
+             8.21.130;
+             8.21.140;
+             8.21.150
             
- 
- 
  
  
