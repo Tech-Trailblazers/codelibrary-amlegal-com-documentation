@@ -4906,7 +4906,7 @@ Adopting Ordinance                        335.19,
 187-2020                       1-19-21     1171.03 ,
                                            1171.07 ,
                                            1177.03
-196-2020                       3-15-21     1121.485 ,
+196-2020                       3-15-21     1121.485 (Repealed),
                                            1170.03
                                            1519.02 (Repealed), 1519.03
                                            (Repealed), 1519.06 (Repealed),
@@ -5076,8 +5076,9 @@ Adopting Ordinance                        612.07,
                                            636.015,
                                            672.20,
                                            698.05
-                                           734.01 to
-2-25                           4-7-25      734.07,
+                                           185.04,
+2-25                           4-7-25      734.01 to
+                                           734.07,
                                            734.99
 9-25                           2-18-25     698.07,
                                            698.08
@@ -10058,7 +10059,7 @@ prepared by City officials.
 (Ord. 95-88. Passed 4-18-88.)
 103.03   OFFICIAL MUNICIPAL LOGO.
    Council hereby adopts as the official logo of the City the following:
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7282.jpg]
  
    The entire Council heartily recommends the fullest practicable employment of
@@ -64794,7 +64795,7 @@ Illicit Discharge or Connection to City Storm Water System
 938.02   Definitions.
 938.03   Applicability.
 938.04   Responsibility for administration.
-938.05   Severability.
+938.05   Conflicts; severability.
 938.06   Ultimate responsibility.
 938.07   Discharge prohibitions.
 938.08   Suspension of MS4 access.
@@ -64816,98 +64817,99 @@ the use of Best Management Practices.
 938.01   PURPOSE; INTENT.
    The purpose of this chapter is to provide for the health, safety and general
 welfare of the citizens of the City of Parma, Ohio, through the regulation of
-non-storm water discharges to the storm drainage system to the maximum extent
-practicable as required by Federal and State law. This chapter establishes
-methods for controlling the introduction of pollutants into the municipal
-separate storm sewer system (MS4) in order to comply with requirements of the
-National Pollutant Discharge Elimination System (NPDES) permit process. The
-objectives of this chapter are:
-   (a)   To regulate the contribution of pollutants to the municipal separate
-storm sewer system (MS4) by storm water discharges by any user.
-   (b)   To prohibit illicit connections and discharges to the municipal
-separate storm sewer system.
+illicit discharges to the municipal separate storm sewer system (MS4) to the
+maximum extent practicable as required by Federal and State law. This chapter
+establishes methods for controlling the introduction of pollutants into the MS4
+in order to comply with requirements of the National Pollutant Discharge
+Elimination System (NPDES) permit process as required by the Ohio Environmental
+Protection Agency (Ohio EPA). The objectives of this chapter are:
+   (a)   To regulate the contribution of pollutants to the MS4 by storm water
+discharges by any user.
+   (b)   To prohibit illicit connections and discharges to the MS4.
    (c)   To establish legal authority to carry out all inspection, surveillance
 and monitoring procedures necessary to ensure compliance with this chapter.
-(Ord. 116-05. Passed 6-6-05.)
+(Ord. 116-05. Passed 6-6-05; Ord. 136-25. Passed 7-7-25.)
 938.02   DEFINITIONS.
    For the purposes of this chapter, the following shall mean:
-   (a)   "The City Service Director". Employees or designees of the Director of
+   “The City Service Director”. Employees or designees of the Director of
 Public Service of the City of Parma.
-   (b)   "Best Management Practices (BMP's)". Schedules of activities,
-prohibitions of practices, general good housekeeping practices, pollution
-prevention and educational practices, maintenance procedures and other
-management practices to prevent or reduce the discharge of pollutants directly
-or indirectly to storm water, receiving waters, or storm water conveyance
-systems. BMP's also include treatment practices, operating procedures, and
-practices to control site runoff, spillage or leaks, sludge or water disposal,
-or drainage from raw materials storage.
-   (c)   "Clean Water Act". The Federal Water Pollution Control Act (33 U.S.C.
-§ 1251 et seq.), and any subsequent amendments thereto.
-   (d)   "Construction activity". Activities subject to NPDES construction
-permits. These include construction projects resulting in land disturbance of
-one acre or more. Such activities include but are not limited to clearing and
-grubbing, grading, excavating, and demolition.
-   (e)   "Hazardous materials". Any material, including any substance, waste,
-or combination thereof which, because of its quantity, concentration, or
-physical, chemical, or infectious characteristics may cause, or significantly
-contribute to, a substantial present or potential hazard to human health,
-safety, property, or the environment when improperly treated, stored,
-transported, disposed of, or otherwise managed.
-   (f)   "Illegal discharge". Any direct or indirect non-storm water discharge
-to the storm drain system, except as exempted in other sections of this
-ordinance.
-   (g)   "Illicit connections". An illicit connection is defined as either of
-the following: Any drain or conveyance, whether on the surface or subsurface,
-which allows an illegal discharge to enter the storm drain system, including,
-but not limited to, any conveyances which allow any non-storm water discharge
-including sewage, process wastewater and wash water to enter the storm drain
-system, and any connections to the storm drain system from indoor drains and
-sinks, regardless of whether said drain or connection had been previously
-allowed, permitted, or approved by the Building Commissioner or the City
-Engineer, or, any drain or conveyance connected from a commercial or industrial
-land use to a storm drain system which has not been documented in plans, maps,
-or equivalent records and/or approved by an authorized enforcement agency.
-   (h)   "Industrial activity". Activities subject to NPDES industrial permits
-as defined in 40 CFR, Section 122.26 (b)(14).
-   (i)   "National Pollutant Discharge Elimination System (NPDES) Storm Water
-Discharge Permit". A permit issued by EPA (or by a State under authority
+   “Best Management Practices (BMP's)”. Schedules of activities, prohibitions
+of practices, general good housekeeping practices, pollution prevention and
+educational practices, maintenance procedures and other management practices to
+prevent or reduce the discharge of pollutants directly or indirectly to storm
+water, receiving waters, or storm water conveyance systems. BMP's also include
+treatment practices, operating procedures, and practices to control site
+runoff, spillage or leaks, sludge or water disposal, or drainage from raw
+materials storage.
+   “Clean Water Act”. The Federal Water Pollution Control Act (33 U.S.C. § 1251
+et seq.), and any subsequent amendments thereto.
+   “Construction activity”. Activities subject to NPDES construction permits.
+These include construction projects resulting in land disturbance of one acre
+or more. Such activities include but are not limited to clearing and grubbing,
+grading, excavating, and demolition.
+   “Hazardous materials”. Any material, including any substance, waste, or
+combination thereof which, because of its quantity, concentration, or physical,
+chemical, or infectious characteristics may cause, or significantly contribute
+to, a substantial present or potential hazard to human health, safety,
+property, or the environment when improperly treated, stored, transported,
+disposed of, or otherwise managed.
+   “Illegal discharge”. Any direct or indirect non-storm water discharge to the
+storm drain system, except as exempted in other sections of this ordinance.
+   “Illicit connections”. An illicit connection is defined as either of the
+following: Any drain or conveyance, whether on the surface or subsurface, which
+allows an illegal discharge to enter the storm drain system, including, but not
+limited to, any conveyances which allow any non-storm water discharge including
+sewage, process wastewater and wash water to enter the storm drain system, and
+any connections to the storm drain system from indoor drains and sinks,
+regardless of whether said drain or connection had been previously allowed,
+permitted, or approved by the Building Commissioner or the City Engineer, or,
+any drain or conveyance connected from a commercial or industrial land use to a
+storm drain system which has not been documented in plans, maps, or equivalent
+records and/or approved by an authorized enforcement agency.
+   “Industrial activity”. Activities subject to NPDES industrial permits as
+defined in 40 CFR, Section 122.26 (b)(14).
+   “Infiltration.” Any water other than wastewater that enters a sewer system,
+including sewer service connections and foundation drains, from the ground
+through such means as defective pipes, pipe joints, connections, or manholes.
+Infiltration does not include, and is distinguished from, inflow.
+   “National Pollutant Discharge Elimination System (NPDES) Storm Water
+Discharge Permit”. A permit issued by EPA (or by a State under authority
 delegated pursuant to 33 U.S.C. § 1342 {'{'}b)) that authorizes the discharge
 of pollutants to waters of the United States, whether the permit is applicable
 on an individual, group, or general area-wide basis.
-   (j)   "Non-storm water discharge". Any discharge to the storm drain system
-that is not composed entirely of storm water.
-   (k)   "Person". Any individual, association, organization, partnership,
-firm, corporation or other entity recognized by law and acting as either the
-owner or the owner's agent.
-   (l)   "Pollutant". Anything which causes or contributes to pollution.
-Pollutants may include, but are not limited to the following: paints,
-varnishes, and solvents; oil and other automotive fluids; non-hazardous liquid
-and solid wastes and yard wastes; refuse, concrete truck wash-out, rubbish,
-garbage, litter, or other discarded or abandoned objects, so that same may
-cause or contribute to pollution; floatables; pesticides, herbicides, and
-fertilizers; hazardous substances and wastes; sewage, fecal coliform and
-pathogens; dissolved and particulate metals; animal wastes; wastes and residues
-that result from constructing a building or structure; and noxious or offensive
+   “Non-storm water discharge”. Any discharge to the storm drain system that is
+not composed entirely of storm water.
+   “Person”. Any individual, association, organization, partnership, firm,
+corporation or other entity recognized by law and acting as either the owner or
+the owner's agent.
+   “Pollutant”. Anything which causes or contributes to pollution. Pollutants
+may include, but are not limited to the following: paints, varnishes, and
+solvents; oil and other automotive fluids; non-hazardous liquid and solid
+wastes and yard wastes; refuse, concrete truck wash-out, rubbish, garbage,
+litter, or other discarded or abandoned objects, so that same may cause or
+contribute to pollution; floatables; pesticides, herbicides, and fertilizers;
+hazardous substances and wastes; sewage, fecal coliform and pathogens;
+dissolved and particulate metals; animal wastes; wastes and residues that
+result from constructing a building or structure; and noxious or offensive
 matter of any kind.
-   (m)   "Premises". Any building, lot parcel of land, or portion of land,
-whether improved or unimproved, including adjacent sidewalks and parking
-strips.
-   (n)   "Storm drainage system". Publicly-owned facilities by which storm
-water is collected and/or conveyed, including but not limited to any roads with
-drainage systems, municipal streets, gutters, curbs, inlets, piped storm
-drains, pumping facilities, retention and detention basins, natural and human-
-made or altered drainage channels, reservoirs, and other drainage structures.
-   (o)   "Storm water". Any surface flow, runoff, and drainage consisting
-entirely of water from any form of natural precipitation and resulting from
-such precipitation.
-   (p)   "Storm water pollution prevention plan. A document which describes the
-Best Management Practices and activities to be implemented by a person or
-business to identify sources of pollution or contamination at a site, and the
-actions to eliminate or reduce pollutant discharges to storm water, storm water
-conveyance systems, and/or receiving waters to the maximum extent practicable.
-   (q)   "Wastewater". Any water or other liquid, other than uncontaminated
-storm water, discharged from a facility.
-(Ord. 116-05. Passed 6-6-05.)
+   “Premises”. Any building, lot parcel of land, or portion of land, whether
+improved or unimproved, including adjacent sidewalks and parking strips.
+   “Storm drainage system”. Publicly-owned facilities by which storm water is
+collected and/or conveyed, including but not limited to any roads with drainage
+systems, municipal streets, gutters, curbs, inlets, piped storm drains, pumping
+facilities, retention and detention basins, natural and human- made or altered
+drainage channels, reservoirs, and other drainage structures.
+   “Storm water”. Any surface flow, runoff, and drainage consisting entirely of
+water from any form of natural precipitation and resulting from such
+precipitation.
+   “Storm water pollution prevention plan. A document which describes the Best
+Management Practices and activities to be implemented by a person or business
+to identify sources of pollution or contamination at a site, and the actions to
+eliminate or reduce pollutant discharges to storm water, storm water conveyance
+systems, and/or receiving waters to the maximum extent practicable.
+   “Wastewater”. Any water or other liquid, other than uncontaminated storm
+water, discharged from a facility.
+(Ord. 116-05. Passed 6-6-05; Ord. 136-25. Passed 7-7-25.)
 938.03   APPLICABILITY.
    This chapter shall apply to all water entering the storm drain system
 generated on any developed and undeveloped lands unless explicitly exempted by
@@ -64920,13 +64922,15 @@ be delegated in writing by the Service Director of the City of Parma to persons
 or entities acting in the beneficial interest of or in the employ of the City
 of Parma.
 (Ord. 116-05. Passed 6-6-05.)
-938.05   SEVERABILITY.
-   The provisions of this chapter are hereby declared to be severable. If any
-provision, clause, sentence, or paragraph of this chapter, or the application
-thereof to any person, establishment, or circumstances shall be held invalid,
-such invalidity shall not affect the other provisions or application of this
-chapter.
-(Ord. 116-05. Passed 6-6-05.)
+938.05   CONFLICTS; SEVERABILITY.
+   The provisions of this chapter are hereby declared to be severable. Where
+this chapter is in conflict with other provisions of law or ordinances, the
+most restrictive provision(s), as determined by the City Service Director,
+shall prevail. If any provision, clause, sentence, or paragraph of this
+chapter, or the application thereof to any person, establishment, or
+circumstances is held invalid, such invalidity shall not affect the other
+provisions or application of this chapter.
+(Ord. 116-05. Passed 6-6-05; Ord. 136-25. Passed 7-7-25.)
 938.06   ULTIMATE RESPONSIBILITY.
    The standards set forth herein and promulgated pursuant to this chapter are
 minimum standards; therefore, this chapter does not intend or imply that
@@ -64941,15 +64945,17 @@ pollutants, that cause or contribute to a violation of applicable water quality
 standards, other than storm water.
    The commencement, conduct or continuance of any illegal discharge to the
 storm drain system is prohibited, except as described as follows:
-      (1)   The following discharges are exempt from the discharge prohibitions
-established by this chapter: water line flushing or other potable water
-sources, landscape irrigation or lawn watering, diverted stream flows, rising
-ground water, ground water infiltration to storm drains, uncontaminated pumped
-ground water, foundation or footing drains (not including active groundwater
-dewatering systems), crawl space pumps, air conditioning condensation, springs,
-non-commercial washing of vehicles, natural riparian habitat or wetland flows,
-swimming pools (if dechlorinated-typically less than one PPM chlorine), fire
-fighting activities, and any other water source not containing pollutants.
+      (1)   Water line flushing; discharges from potable water sources;
+irrigation waters; lawn watering; diverted stream flows; rising ground water;
+uncontaminated ground water infiltration; uncontaminated pumped ground water;
+foundational drains; footing drains; water from crawl space pumps; air
+conditioning condensation; springs; individual residential washing of vehicles;
+flows from riparian habitats and wetlands; dechlorinated/ dibrominated/
+desalinated swimming pool discharges; street washing water with dry cleanup
+method and no detergents to minimize pollutants; discharges or flows from
+firefighting activities (not planned exercises); dye tests. These discharges
+are exempt until such time as they are determined by the City or the Ohio EPA
+to be significant contributors of pollutants to the MS4.
       (2)   Discharges specified in writing by the City Engineer as being
 necessary to protect public health and safety.
       (3)   Dye testing. However, a verbal notification is required to be given
@@ -64971,7 +64977,7 @@ connection.
       (3)   A person is considered to be in violation of this chapter if the
 person connects a line conveying sewage to the MS4, or allows such a connection
 to continue.
-(Ord. 116-05. Passed 6-6-05.)
+(Ord. 116-05. Passed 6-6-05; Ord. 136-25. Passed 7-7-25.)
 938.08   SUSPENSION OF MS4 ACCESS.
    (a)   Suspension Due to Illicit Discharges in Emergency Situations. The City
 Engineer may, without prior notice, suspend MS4 discharge access to a person
@@ -65170,7 +65176,15 @@ this chapter are considered a threat to the public health, safety, and welfare,
 and are declared and deemed a nuisance, and may be summarily abated or restored
 at the violator's expense, and/or a civil action to abate, enjoin, or otherwise
 compel the cessation of such nuisance may be taken.
-(Ord. 116-05. Passed 6-6-05.)
+   No provision of this chapter shall be construed as authorizing any person to
+maintain a nuisance on their property, and compliance with the provisions of
+this chapter shall not be a defense in any action to abate such a nuisance.
+Failure of the City to observe or recognize hazardous or unsightly conditions
+or to recommend corrective measures shall not relieve the site owner from the
+responsibility for the condition or damage resulting therefrom, and shall not
+result in the City, its officers, employees, or agents being responsible for
+any condition or damage resulting therefrom.
+(Ord. 116-05. Passed 6-6-05; Ord. 136-25. Passed 7-7-25.)
 938.21   REMEDIES NOT EXCLUSIVE.
    The remedies listed in this chapter are not exclusive of any other remedies
 available under any applicable Federal, State or local laws, and it is within
@@ -68741,10 +68755,11 @@ Definitions
 1121.43   Right-of-way.
 1121.44   Setback.
 1121.45   Shopping center.
+1121.455      Smoke shop.
 1121.46   Street line and alley line.
 1121.47   Structure.
 1121.48   Townhouse.
-1121.485      Vape shop.
+1121.485      Vape shop. (Repealed)
 1121.49   Variance.
 1121.50   Yard.
 1121.51   Yard, front.
@@ -69064,6 +69079,36 @@ constructed and managed as a total entity with customer and employee parking
 provided on-site, provision for goods delivery separated from customer access,
 aesthetic considerations and protection from the elements.
 (Ord. 2-94. Passed 5-2-94.)
+1121.455   SMOKE SHOP.
+   “Smoke shop” means any retail establishment at which twenty percent or more
+of floor, shelf, and/or display area(s), individually or in the aggregate, is
+used for the sale of the following type of products:
+      (1)   Any product containing, made of, derived from, or containing any
+form of CBD, Kratom, and/or hemp-derived or synthetic cannabinoid, including
+but not limited to Delta-8 THC, that is intended for human consumption or is
+likely to be consumed, whether smoked, heated, chewed, dissolved, inhaled,
+absorbed, or ingested by any other means;
+      (2)   Any product containing, made of, or derived from tobacco or
+containing any form of nicotine that is intended for human consumption or is
+likely to be consumed, whether smoked, heated, chewed, dissolved, inhaled,
+absorbed, or ingested by any other means, including, but not limited to, a
+cigarette, a cigar, pipe tobacco, chewing tobacco, snuff, or snus;
+      (3)   Any electronic smoking device as defined in R.C. § 2927.02 and any
+substance intended to be aerosolized or vaporized during the use of the device,
+whether the substance contains any form of tobacco, nicotine, CBD, Kratom, and/
+or hemp-derived or synthetic cannabinoids; or
+      (4)   Any component, part, or accessory of divisions (1), (2), or (3)
+above, whether any of these contains tobacco, nicotine, CBD, Kratom, and/or
+hemp-derived or synthetic cannabinoids, including, but not limited to, filters,
+rolling papers, blunt or hemp wraps, or pipes.
+   No state-licensed medical or adult-use marijuana operator, cultivator,
+processor, dispensary, laboratory, or entity as defined in and regulated under
+R.C. Chapters 3780 and 3796 shall constitute a smoke shop for purposes of this
+section. Additionally, the type of products set forth in this section do not
+include any product that is a drug, device, or combination product authorized
+for sale by the U.S. Food and Drug Administration, as those terms are defined
+in the Federal Food, Drug and Cosmetic Act.
+(Ord. 96-25. Passed 7-7-25.)
 1121.46   STREET LINE AND ALLEY LINE.
    "Street line" and "alley line" mean the lot line dividing the lot from,
 respectively, a street or an alley.
@@ -69075,23 +69120,9 @@ the ground. Among other things, structures include buildings, mobile homes,
 walls, fences, pools, tents, signs and billboards.
 (Ord. 2-94. Passed 5-2-94.)
 1121.48   TOWNHOUSE. (SEE MULTI-FAMILY DWELLING)
-1121.485 VAPE SHOP.
-   "Vape shop" means any business whose principal product line for retail sale
-is alternative nicotine products or vape juice, or both. For the purposes of
-this section, alternative nicotine products refer to any products or devises
-that employ an electronic heating element, power source, electronic circuit,
-battery, or other electronic, chemical, or mechanical means to produce a vapor
-that delivers nicotine to the person inhaling from the device, including
-electronic cigarettes, electronic cigars, electronic hookahs, electronic bongs
-and electronic pipes, whether manufactured, distributed, marketed, or sold as
-an electronic cigarette, electronic cigar, or electronic pipe. For the purposes
-of this section, vape juice refers to any liquid that contains compounds
-containing pharmaceutical grade vegetable glycerin, propylene glycol, nicotine,
-food grade flavoring, water, and can be used for vaping by means of an
-alternative nicotine product. For purposes of this code section, principal
-shall mean that alternative nicotine products, vape juice, or both constitute
-at least twenty-five percent of the businesses' aggregate retail sales.
-(Ord. 196-2020. Passed 3-15-21.)
+1121.485 VAPE SHOP. (REPEALED)
+   (EDITOR’S NOTE: Section 1121.485 was repealed by Ordinance 96-25, passed
+July 7, 2025.)
 1121.49   VARIANCE.
    "Variance" means a modification of the regulations of this Zoning Code where
 such modification will not be contrary to the public interest and where, owing
@@ -69148,10 +69179,10 @@ this Zoning Code and it may not coincide with a lot of record.
 adopted map that indicates the boundaries of zoning districts.
 (Ord. 2-94. Passed 5-2-94.)
 ILLUSTRATION A - TYPES OF LOTS MOUNTED HERE
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7179.jpg]
 ILLUSTRATION B - LOT TERMS MOUNTED HERE
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7182.jpg]
  
 CHAPTER 1123
@@ -71507,8 +71538,7 @@ Photographic Supplies         P        P        P             P
 and Equipment
 7. Drugs;
 Periodicals; Books;           P        P        P             P
-Stationary; and
-Tobacco
+Stationary
 8. Hobbies and Pets           P        P        P             P
 9. Flowers; Gifts;
 Jewelry; Cards;               P        P        P             P
@@ -71664,7 +71694,7 @@ on motor vehicle                              P             P
 title business, or
 other similar
 business7
-14. Vape Shop10                               P             P
+14. Smoke Shop10                              P             P
 I. ACCESSORY BUILDING AND USES
 1. Off-Street Parking P        P        P        P             P
 and Loading
@@ -71755,7 +71785,7 @@ Passed 6-7-04; Ord. 63-03. Passed 6-7-04; Ord. 279-04. Passed 11-15-04; Ord.
 139-06. Passed 11-6-06; Ord. 15-08. Passed 4-21-08; Ord. 106-11. Passed 11-7-
 11; Ord. 287-13. Passed 4-21-14; Ord. 34-18. Passed 5-7-18; Ord. 187-2020.
 Passed 1-19-21; Ord. 196-2020. Passed 3-15-21; Ord. 10-22. Passed 4-18-22; Ord.
-178-24. Passed 12-16-24.)
+178-24. Passed 12-16-24; Ord. 96-25. Passed 7-7-25.
 1170.04   DETERMINATION OF SIMILAR USES.
    The determination as to whether a use is similar to uses permitted by right
 shall be considered as an expansion of the use regulations of the district and
@@ -74535,9 +74565,9 @@ of a lot may be considered as part of the yard required on that side.
 15, 1985.)
 FIGURE 1
 (Class "E" Area District)
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7188.jpg]
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7185.jpg]
 CHAPTER 1195
 Yard Exceptions
@@ -74997,10 +75027,10 @@ attention-attracting devices forming an integral part of a sign's composition.
 identified on the drawings, such as one-inch equals one foot. Number the
 drawings accordingly from one to eight. Use charts to convey exact dimensions
 and show all mathematical calculations.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8102.png]
  
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8106.png]
  
    (b)   Wall Sign Area. Wall signs having no visible boundary, border or
@@ -75010,7 +75040,7 @@ draw attention to the sign included in the computation of overall sign area.
 Such uncontained or undefined sign spaces may be excluded from the calculation
 of sign area if the width of the building façade on which the wall sign is
 located is greater than three times the sign's width.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8104.png]
  
    (c)    Window Sign Area. Window sign area is measured using the eight-line
@@ -75018,7 +75048,7 @@ method described in division (a) of this section for each individual sign, or
 by multiplying the full width of the overall sign copy (lettering, logo,
 graphics) by the overall height of the sign copy in a rectangular manner (A = W
 x L), regardless of the arrangement of the copy.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8100.png]
  
          Window area shall be measured to include all windows and the glass
@@ -75029,7 +75059,7 @@ material or by structural materials. Windowpanes separated by muntins or
 mullions are not to be counted separately but included in the calculation of
 the cumulative window area.
  
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8098.png]
  
    (d)   Multifaced Sign Area. Only one side of a double-sided sign arranged
@@ -75037,7 +75067,7 @@ back-to-back or V-shaped sign is calculated provided the distance between the
 two faces is less than two feet apart. Where two sides are not of equal size,
 the larger of the two sides is measured. Where the sign faces are more than two
 feet apart all sides are calculated to determine sign area.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8096.png]
  
    (e)   Spherical and Three-Dimensional Sign Area. Signs that are spherical or
@@ -75046,7 +75076,7 @@ sign support structure shall be measured as a flat sign. Signs that project
 more than eight inches from the sign support structure shall be measured using
 the smallest two-dimensional geometrical shape or shapes which will best
 approximate the greatest actual sign area visible from any one direction.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8094.png]
    (f)   Awning and Canopy Sign Area. The sign area on awnings and canopies
 attached to a building shall include all sign elements (copy, striped graphics,
@@ -75054,11 +75084,11 @@ patterns, etc.) and all areas that are translucent when illuminated. When the
 ends of awnings are parallel and contain a sign or are translucent, only one
 side is counted in addition to the front.
  
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8092.png]
  
       Signs on all sides of a free-standing canopy structure are calculated.
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8090.png]
  
    (g)    Free-standing Sign Area. Sign area does not include sign support
@@ -75071,7 +75101,7 @@ element. The first twelve inches in vertical height above grade is not included
 when calculating the sign area of a free-standing sign provided it does not
 contain sign copy; the first twelve inches is considered necessary to elevate
 the sign above grade or to provide a sign base for a monument type sign
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-8088.png]
          Support structures or bases that exceed the allowed number, width or
 height, or that serve a purpose unrelated to supporting a sign, shall be
@@ -76127,7 +76157,7 @@ parking area included with an application to construct a building or parking
 area, or for a change in use, shall be designed and dimensioned in accordance
 with the drawing provided below:
 Parking Area Design Standards
-[https://export.amlegal.com/media/202c685f945ef7f3f2c2d99eda86b928fb2308e6/
+[https://export.amlegal.com/media/4ce4ba98b3d6ee0fc0ffc78b6e0c5f87f6cb2894/
 IMAGES/0-0-0-7191.jpg]
  
  
@@ -87771,79 +87801,81 @@ compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.
    (f)   This regulation does not require a Comprehensive Storm Water
 Management Plan for linear construction projects, such as pipeline or utility
 line installation, that do not result in the installation of impervious surface
-as determined by the City Engineer. Such projects must be designed to minimize
-the number of stream crossings and the width of disturbance. Linear
-construction projects must comply with the requirements of
+as determined by the City Engineer or the Ohio EPA. Such projects must be
+designed to minimize the number of stream crossings and the width of
+disturbance. Linear construction projects must comply with the requirements of
 Chapter 2303 Erosion and Sediment Control.
-(Ord. 160-11. Passed 6-20-11.)
+(Ord. 160-11. Passed 6-20-11; Ord. 135-25. Passed 7-7-25.)
 2301.02   DEFINITIONS.
    For the purpose of this regulation, the following terms shall have the
 meaning herein indicated:
-   (a)   “Acre.” A measurement of area equaling 43,560 square feet.
-   (b)   “As-built survey.” A survey shown on a plan or drawing prepared by a
+      “Acre.” A measurement of area equaling 43,560 square feet.
+      “As-built survey.” A survey shown on a plan or drawing prepared by a
 registered surveyor indicating the actual dimensions, elevations, and locations
 of any structures, underground utilities, swales, detention facilities, and
 sewage treatment facilities after construction has been completed.
-   (c)   “Best management practices (BMPs).” Schedule of activities,
-prohibitions of practices, operation and maintenance procedures, treatment
-requirements, and other practices to reduce the pollution of water resources
-and to control storm water volume and rate.
-   (d)   “Certified Professional in Erosion and Sediment Control (CPESC).” A
+      “Best management practices (BMPs).” Schedule of activities, prohibitions
+of practices, operation and maintenance procedures, treatment requirements, and
+other practices to reduce the pollution of water resources and to control storm
+water volume and rate.
+      “Certified Professional in Erosion and Sediment Control (CPESC).” A
 person that has subscribed to the code of ethics and have met the requirements
 established by the CPESC Council of Certified Professional in Erosion and
 Sediment Control, Inc. to be a Certified Professional in Erosion and Sediment
 Control.
-   (e)   “City Engineer.” Refers to the City Engineer or his or her designee.
-The City Engineer or his or her designate shall be the Storm Water
-Administrator for the City of Parma.
-   (f)   “Clean Water Act.” Pub. L. 92-500, as amended, Pub. L. 95-217, Pub. L.
+      “City Engineer.” Refers to the City Engineer or his or her designee. The
+City Engineer or his or her designate shall be the Storm Water Administrator
+for the City of Parma.
+      “Clean Water Act.” Pub. L. 92-500, as amended, Pub. L. 95-217, Pub. L.
 95-576, Pub. L. 96-483, Pub. L. 97-117, and Pub. L. 100-4,33 U.S.C. 1251 et.
 seq. Referred to as the Federal Water Pollution Control Act or the Federal
 Water Pollution Control Act Amendments of 1972.
-   (g)   “Community.” The City of Parma, its designated representatives,
-boards, or commissions.
-   (h)   “Comprehensive Storm Water Management Plan.” The written document and
+      “Community.” The City of Parma, its designated representatives, boards,
+or commissions.
+      “Comprehensive Storm Water Management Plan.” The written document and
 plans meeting the requirements of this regulation that sets forth the plans and
 practices to minimize storm water runoff from a development area, to safely
-convey or temporarily store and release post-development runoff at an allowable
-rate to minimize flooding and stream bank erosion, and to protect or improve
-storm water quality and stream channels.
-   (i)   “Construction limits.” The delineation of the limits of all
-construction activities, including all disturbed areas, and any area
-encompassing the field yard, stockpile, and staging areas of a project site.
-   (j)   “Critical storm.” A storm that is calculated by means of the
-percentage increase in volume of runoff by a proposed development area. The
-critical storm is used to calculate the maximum allowable storm water discharge
-rate from a developed site.
-   (k)   “Detention facility.” A basin, pond, oversized pipe, or other
-structure that reduces the peak flow rate of storm water leaving the facility
-by temporarily storing a portion of the storm water entering the facility.
-   (l)   “Development area.” A parcel or contiguous parcels owned by one person
-or persons, or operated as one development unit, and used or being developed
-for commercial, industrial, residential, institutional, or other construction
-or alteration that changes runoff characteristics.
-   (m)   “Development drainage area.” A combination of each hydraulically
-unique watershed with individual outlet points on the development area.
-   (n)   “Disturbed area.” An area of land subject to erosion due to the
-removal of vegetative cover and/or soil-disturbing activities.
-   (o)   “Drainage.” The removal of excess surface water or ground water from
-land by surface or subsurface drains.
-   (p)   “Erosion.” The process by which the land surface is worn away by the
+convey or temporarily store and release post- development runoff at an
+allowable rate to minimize flooding and stream bank erosion, and to protect or
+improve storm water quality and stream channels.
+      “Construction general permit.” The Ohio EPA NPDES General Storm Water
+Permit for Construction Activities (OHC000005).
+      “Construction limits.” The delineation of the limits of all construction
+activities, including all disturbed areas, and any area encompassing the field
+yard, stockpile, and staging areas of a project site.
+      “Critical storm.” A storm that is calculated by means of the percentage
+increase in volume of runoff by a proposed development area. The critical storm
+is used to calculate the maximum allowable storm water discharge rate from a
+developed site.
+      “Detention facility.” A basin, pond, oversized pipe, or other structure
+that reduces the peak flow rate of storm water leaving the facility by
+temporarily storing a portion of the storm water entering the facility.
+      “Development area.” A parcel or contiguous parcels owned by one person or
+persons, or operated as one development unit, and used or being developed for
+commercial, industrial, residential, institutional, or other construction or
+alteration that changes runoff characteristics.
+      “Development drainage area.” A combination of each hydraulically unique
+watershed with individual outlet points on the development area.
+      “Disturbed area.” An area of land subject to erosion due to the removal
+of vegetative cover and/or soil-disturbing activities.
+      “Drainage.” The removal of excess surface water or ground water from land
+by surface or subsurface drains.
+      “Erosion.” The process by which the land surface is worn away by the
 action of wind, water, ice, gravity, or any combination of those forces.
-   (q)   “Extended conveyance.” A storm water management practice that replaces
+      “Extended conveyance.” A storm water management practice that replaces
 and/or enhances traditional open or closed storm drainage conduits by retarding
 flow, promoting percolation of runoff into the soil, and filtering pollutants
 during the storm water quality event.
-   (r)   “Extended detention.” A storm water management practice that replaces
+      “Extended detention.” A storm water management practice that replaces
 and/or enhances traditional detention facilities by releasing the runoff
 collected during the storm water quality event over at least 24 to 48 hours,
 retarding flow and allowing pollutants to settle within the facility.
-   (s)   “Final stabilization.” All soil-disturbing activities at the site have
+      “Final stabilization.” All soil-disturbing activities at the site have
 been completed and a uniform perennial vegetative cover with a density of at
 least 80% coverage for the area has been established or equivalent
 stabilization practices, such as the use of mulches or geotextiles, have been
 employed.
-   (t)   “Freeboard.”
+      “Freeboard.”
       (1)   The vertical distance between the level of the water surface
 usually corresponding to the design flow and a point of interest such as a
 bridge beam, levee top or specific location on the roadway grade.
@@ -87851,115 +87883,113 @@ bridge beam, levee top or specific location on the roadway grade.
 sides of an open conduit; the crest of a dam, etc., designed to allow for wave
 action, floating debris, or any other condition or emergency, without
 overtopping the structure.
-   (u)   “Grading.” The process in which the topography of the land is altered
-to a new slope.
-   (v)   “Hydrologic Unit Code.” A cataloging system developed by the United
+      “Grading.” The process in which the topography of the land is altered to
+a new slope.
+      “Hydrologic Unit Code.” A cataloging system developed by the United
 States Geological Survey and the Natural Resource Conservation Service to
 identify watersheds in the United States.
-   (w)   “Impervious cover.” Any surface that cannot effectively absorb or
+      “Impervious cover.” Any surface that cannot effectively absorb or
 infiltrate water. This may include roads, streets, parking lots, rooftops,
 sidewalks, and other areas not covered by vegetation.
-   (x)   “Infiltration.” A storm water management practice that does not
-discharge to a water resource during the storm water quality event, requiring
-collected runoff to either infiltrate into the ground water and/or be consumed
-by evapotranspiration, thereby retaining storm water pollutants in the
-facility.
-   (y)   “Larger common plan of development.” A contiguous area where multiple
+      “Infiltration.” A storm water management practice that does not discharge
+to a water resource during the storm water quality event, requiring collected
+runoff to either infiltrate into the ground water and/or be consumed by
+evapotranspiration, thereby retaining storm water pollutants in the facility.
+      “Larger common plan of development.” A contiguous area where multiple
 separate and distinct construction activities may be taking place at different
 times on different schedules under one plan.
-   (z)   “Maximum extent practicable.” The level of pollutant reduction that
+      “Maximum extent practicable.” The level of pollutant reduction that
 operators of small municipal separate storm sewer systems regulated under 40
 C.F.R. Parts 9, 122, 123, and 124, referred to as NPDES Storm Water Phase II,
 must meet.
-   (aa)   “NPDES.” National Pollutant Discharge Elimination System. A
-regulatory program in the Federal Clean Water Act that prohibits the discharge
-of pollutants into surface waters of the United States without a permit.
-   (bb)   “Nonstructural storm water management practice.” Storm water runoff
+      “NPDES.” National Pollutant Discharge Elimination System. A regulatory
+program in the Federal Clean Water Act that prohibits the discharge of
+pollutants into surface waters of the United States without a permit.
+      “Nonstructural storm water management practice.” Storm water runoff
 control and treatment techniques that use natural practices to control runoff
 and/or reduce pollution levels.
-   (cc)   “Post-development.” The conditions that exist following the
-completion of soil-disturbing activity in terms of topography, vegetation, land
-use, and the rate, volume, quality, or direction of storm water runoff.
-   (dd)   “Pre-construction meeting.” Meeting prior to construction between all
+      “Post-development.” The conditions that exist following the completion of
+soil- disturbing activity in terms of topography, vegetation, land use, and the
+rate, volume, quality, or direction of storm water runoff.
+      “Pre-construction meeting.” Meeting prior to construction between all
 parties associated with the construction of the project, including government
 agencies, contractors and owners to review agency requirements and plans as
 approved and submitted.
-   (ee)   “Pre-development.” The conditions that exist prior to the initiation
-of soil-disturbing activity in terms of topography, vegetation, land use, and
-the rate, volume, quality, or direction of storm water runoff.
-   (ff)   “Professional engineer.” A professional engineer registered in the
-State of Ohio with specific education and experience in water resources
-engineering, acting in conformance with the Code of Ethics of the Ohio State
-Board of Registration for Engineers and Surveyors.
-   (gg)   “Redevelopment.” A construction project on land where impervious
-cover has previously been developed and where the new land use will not
-increase the runoff coefficient. If the new land use will increase the runoff
-coefficient, then the project is considered to be a new development project
-rather than a redevelopment project. (Refer to Table 1 in Section
+      “Pre-development.” The conditions that exist prior to the initiation of
+soil-disturbing activity in terms of topography, vegetation, land use, and the
+rate, volume, quality, or direction of storm water runoff.
+      “Professional engineer.” A professional engineer registered in the State
+of Ohio with specific education and experience in water resources engineering,
+acting in conformance with the Code of Ethics of the Ohio State Board of
+Registration for Engineers and Surveyors.
+      “Redevelopment.” A construction project on land where impervious cover
+has previously been developed and where the new land use will not increase the
+runoff coefficient. If the new land use will increase the runoff coefficient,
+then the project is considered to be a new development project rather than a
+redevelopment project. (Refer to Table 1 in Section
 2301.09)
-   (hh)   “Riparian and wetland setback.” The real property adjacent to a water
-resource on which soil- disturbing activities are limited, all as defined by
+      “Riparian and wetland setback.” The real property adjacent to a water
+resource on which soil-disturbing activities are limited, all as defined by
 Chapter 2305, Riparian and Wetland Regulations.
-   (ii)   “Riparian area.” Land adjacent to any brook, creek, river, or stream
+      “Riparian area.” Land adjacent to any brook, creek, river, or stream
 having a defined bed and bank that, if appropriately sized, helps to stabilize
 streambanks, limit erosion, reduce flood size flows, and/or filter and settle
 out runoff pollutants, or performs other functions consistent with the purposes
 of this regulation.
-   (jj)   “Runoff.” The portion of rainfall, melted snow, or irrigation water
-that flows across the ground surface and is eventually returned to water
-resources.
-   (kk)   “Sediment.” The soils or other surface materials that can be
-transported or deposited by the action of wind, water, ice, or gravity as a
-product of erosion.
-   (ll)   “Sedimentation.” The deposition of sediment in water resources.
-   (mm)   “Site owner/operator.” Any individual, corporation, firm, trust,
+      “Runoff.” The portion of rainfall, melted snow, or irrigation water that
+flows across the ground surface and is eventually returned to water resources.
+      “Sediment.” The soils or other surface materials that can be transported
+or deposited by the action of wind, water, ice, or gravity as a product of
+erosion.
+      “Sedimentation.” The deposition of sediment in water resources.
+      “Site owner/operator.” Any individual, corporation, firm, trust,
 commission, board, public or private partnership, joint venture, agency,
 unincorporated association, municipal corporation, County or State agency, the
 Federal government, other legal entity, or an agent thereof that is responsible
 for the overall construction site.
-   (nn)   “Soil-disturbing activity.” Clearing, grading, excavating, filling,
-or other alteration of the earth's surface where natural or human-made ground
+      “Soil-disturbing activity.” Clearing, grading, excavating, filling, or
+other alteration of the earth's surface where natural or human-made ground
 cover is destroyed and that may result in, or contribute to, increased storm
 water quantity and/or decreased storm water quality.
-   (oo)   “Stabilization.” The use of best management practices that reduce or
+      “Stabilization.” The use of best management practices that reduce or
 prevent soil erosion by storm water runoff, trench dewatering, wind, ice,
 gravity, or a combination thereof.
-   (pp)   “Structural storm water management practice.” Any constructed
-facility, structure, or device that provides storage, conveyance, and/or
-treatment of storm water runoff.
-   (qq)   “Surface waters of the State.” All streams, lakes, reservoirs,
-marshes, wetlands, or other waterways situated wholly or partly within the
-boundaries of the State, except those private waters which do not combine or
-affect a junction with surface water. Waters defined as sewerage systems,
-treatment works or disposal systems in Ohio R.C. 6111.01 are not included.
-   (rr)   “Total maximum daily load (TMDL).” The sum of the existing and/or
+      “Structural storm water management practice.” Any constructed facility,
+structure, or device that provides storage, conveyance, and/or treatment of
+storm water runoff.
+      “Surface waters of the State.” All streams, lakes, reservoirs, marshes,
+wetlands, or other waterways situated wholly or partly within the boundaries of
+the State, except those private waters which do not combine or affect a
+junction with surface water. Waters defined as sewerage systems, treatment
+works or disposal systems in Ohio R.C. 6111.01 are not included.
+      “Total maximum daily load (TMDL).” The sum of the existing and/or
 projected point source, non-point source, and background loads for a pollutant
 to a specified watershed, water body, or water body segment. A TMDL sets and
 allocates the maximum amount of a pollutant that may be introduced into the
 water and still ensures attainment and maintenance of water quality standards.
-   (ss)   “Water quality volume.” The volume of runoff from a contributing
+      “Water quality volume.” The volume of runoff from a contributing
 watershed that must be captured and treated, equivalent to the maximized
 capture volume as defined in the American Society of Civil Engineers (ASCE)
 Manual and Report on Engineering Practice No. 87 and Water Environment
 Federation Manual of Practice No. 23 titled Urban Runoff Quality Management.
-   (tt)   “Water resource.” Any public or private body of water; including
+      “Water resource.” Any public or private body of water; including
 wetlands; the area within the ordinary high water level of lakes and ponds; as
 well as the area within the ordinary high water level of any brook, creek,
 river, or stream having a defined bed and bank (either natural or artificial)
 which confines and conducts continuous or intermittent flow.
-   (uu)   “Water resource crossing.” Any bridge, box, arch, culvert, truss, or
+      “Water resource crossing.” Any bridge, box, arch, culvert, truss, or
 other type of structure intended to convey people, animals, vehicles, or
 materials from one side of a watercourse to another. This does not include
 private, noncommercial footbridges or pole-mounted aerial electric or
 telecommunication lines, nor does it include below-grade utility lines.
-   (vv)   “Watershed.” The total drainage area contributing storm water runoff
-to a single point.
-   (ww)   “Wetland.” Those areas that are inundated or saturated by surface or
+      “Watershed.” The total drainage area contributing storm water runoff to a
+single point.
+      “Wetland.” Those areas that are inundated or saturated by surface or
 ground water at a frequency and duration sufficient to support, and that under
 normal circumstances do support, a prevalence of vegetation typically adapted
 for life in saturated soil conditions, including swamps, marshes, bogs, and
 similar areas (40 C.F.R. 232, as amended).
-(Ord. 160-11. Passed 6-20-11.)
+(Ord. 160-11. Passed 6-20-11; Ord. 135-25. Passed 7-7-25.)
 2301.03   DISCLAIMER OF LIABILITY.
    (a)   Compliance with the provisions of this regulation shall not relieve
 any person from responsibility for damage to any person otherwise imposed by
@@ -87973,8 +88003,8 @@ practices.
 (Ord. 160-11. Passed 6-20-11.)
 2301.04   CONFLICTS, SEVERABILITY, NUISANCES AND RESPONSIBILITY.
    (a)   Where this regulation is in conflict with other provisions of law or
-ordinance, the most restrictive provisions, as determined by the City Engineer,
-shall prevail.
+ordinance or requirements in the Construction General Permit, the most
+restrictive provisions, as determined by the City Engineer, shall prevail.
    (b)   If any clause, section, or provision of this regulation is declared
 invalid or unconstitutional by a court of competent jurisdiction, the validity
 of the remainder shall not be affected thereby.
@@ -87986,7 +88016,7 @@ conditions or to recommend corrective measures shall not relieve the site owner
 from the responsibility for the condition or damage resulting therefrom, and
 shall not result in the City, its officers, employees, or agents being
 responsible for any condition or damage resulting therefrom.
-(Ord. 160-11. Passed 6-20-11.)
+(Ord. 160-11. Passed 6-20-11; Ord. 135-25. Passed 7-7-25.)
 2301.05   DEVELOPMENT OF COMPREHENSIVE STORM WATER MANAGEMENT PLANS.
    (a)   This regulation requires that a Comprehensive Storm Water Management
 Plan be developed and implemented for soil-disturbing activities disturbing one
@@ -89050,73 +89080,75 @@ compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.
 2303.02   DEFINITIONS.
    For purpose of this regulation, the following terms shall have the meaning
 herein indicated:
-   (a)   “Abbreviated Storm Water Pollution Prevention Plan (Abbreviated
-SWP3).” The written document that sets forth the plans and practices to be used
-to meet the requirements of this regulation.
-   (b)   “Acre.” A measurement of area equaling 43,560 square feet.
-   (c)   “Best management practices (BMPs).” Schedule of activities,
-prohibitions of practices, maintenance procedures, and other management
-practices (both structural and non-structural) to prevent or reduce the
-pollution of water resources and wetlands. “BMPs” also include treatment
-requirements, operating procedures, and practices to control facility and/or
-construction site runoff, spillage, or leaks; sludge or waste disposal; or
-drainage from raw material storage.
-   (d)   “City Engineer.” Refers to the City Engineer or his or her designee.
-   (e)   “Community.” Throughout this regulation, this shall refer to City of
+      “Abbreviated Storm Water Pollution Prevention Plan (Abbreviated SWP3).”
+The written document that sets forth the plans and practices to be used to meet
+the requirements of this regulation.
+      “Acre.” A measurement of area equaling 43,560 square feet.
+      “Best management practices (BMPs).” Schedule of activities, prohibitions
+of practices, maintenance procedures, and other management practices (both
+structural and non-structural) to prevent or reduce the pollution of water
+resources and wetlands. “BMPs” also include treatment requirements, operating
+procedures, and practices to control facility and/or construction site runoff,
+spillage, or leaks; sludge or waste disposal; or drainage from raw material
+storage.
+      “City Engineer.” Refers to the City Engineer or his or her designee.
+      “Community.” Throughout this regulation, this shall refer to City of
 Parma, its designated representatives, boards, or commissions.
-   (f)   “Construction entrance.” The permitted points of ingress and egress to
+      “Construction entrance.” The permitted points of ingress and egress to
 development areas regulated under this regulation.
-   (g)   “Construction limits.” The delineation of the limits of all
-construction activities, including all disturbed areas, and any area
-encompassing the field, yard, stockpile, and staging areas of a project site.
-   (h)   “Development area.” A parcel or contiguous parcels owned by one person
-or persons, or operated as one development unit, and used or being developed
-for commercial, industrial, residential, institutional, or other construction
-or alteration that changes runoff characteristics.
-   (i)   “Disturbed area.” An area of land subject to erosion due to the
-removal of vegetative cover and/or soil-disturbing activities.
-   (j)   “Drainage.”
+      “Construction general permit.” The Ohio EPA NPDES General Storm Water
+Permit for Construction Activities (OHC000005).
+      “Construction limits.” The delineation of the limits of all construction
+activities, including all disturbed areas, and any area encompassing the field,
+yard, stockpile, and staging areas of a project site.
+      “Development area.” A parcel or contiguous parcels owned by one person or
+persons, or operated as one development unit, and used or being developed for
+commercial, industrial, residential, institutional, or other construction or
+alteration that changes runoff characteristics.
+      “Disturbed area.” An area of land subject to erosion due to the removal
+of vegetative cover and/or soil-disturbing activities.
+      “Drainage.”
       (1)   The area of land contributing surface water to a specific point.
       (2)   The removal of excess surface water or ground water from land by
 surface or subsurface drains.
-   (k)   “Erosion.” The process by which the land surface is worn away by the
+      “Erosion.” The process by which the land surface is worn away by the
 action of wind, water, ice, gravity, or any combination of those forces.
-   (l)   “Erosion and sediment control.” The control of soil, both mineral and
+      “Erosion and sediment control.” The control of soil, both mineral and
 organic, to minimize the removal of soil from the land surface and to prevent
 its transport from a disturbed area by means of wind, water, ice, gravity, or
 any combination of those forces.
-   (m)   “Final stabilization.” All soil-disturbing activities at the site have
+      “Final stabilization.” All soil-disturbing activities at the site have
 been completed and a uniform perennial vegetative cover with a density of at
 least 80% coverage for the area has been established or equivalent
 stabilization measures, such as the use of mulches or geotextiles, have been
 employed.
-   (n)   “Landscape architect.” A professional landscape architect registered
-in the State of Ohio.
-   (o)   “Larger common plan of development or sale.” A contiguous area where
+      “Landscape architect.” A professional landscape architect registered in
+the State of Ohio.
+      “Larger common plan of development or sale.” A contiguous area where
 multiple separate and distinct construction activities may be taking place at
 different times on different schedules under one plan.
-   (p)   “Maximum extent practicable.” The level of pollutant reduction that
-site owners of small municipal separate storm sewer systems regulated under 40
+      “Maximum extent practicable.” The level of pollutant reduction that site
+owners of small municipal separate storm sewer systems regulated under 40
 C.F.R. Parts 9, 122, 123, and 124, referred to as NPDES Storm Water Phase II,
 must meet.
-   (q)   “NPDES.” National Pollutant Discharge Elimination System. A regulatory
+      “NPDES.” National Pollutant Discharge Elimination System. A regulatory
 program in the Federal Clean Water Act that prohibits the discharge of
 pollutants into surface waters of the United States without a permit.
-   (r)   “Parcel.” A tract of land occupied or intended to be occupied by a
-use, building or group of buildings and their accessory uses and buildings as a
+      “Parcel.” A tract of land occupied or intended to be occupied by a use,
+building or group of buildings and their accessory uses and buildings as a
 unit, together with such open spaces and driveways as are provided and
 required. A parcel may contain more than one contiguous lot individually
 identified by a “Permanent Parcel Number” assigned by the Cuyahoga County
 Fiscal Officer’s Office.
-   (s)   “Person.” Any individual, corporation, firm, trust, commission, board,
+      “Person.” Any individual, corporation, firm, trust, commission, board,
 public or private partnership, joint venture, agency, unincorporated
 association, municipal corporation, County or State agency, the Federal
 government, other legal entity, or an agent thereof.
-   (t)   “Phasing.” Clearing a parcel of land in distinct sections, with the
+      “Phasing.” Clearing a parcel of land in distinct sections, with the
 stabilization of each section before the clearing of the next.
-   (u)   “Professional engineer.” A professional engineer registered in the
-State of Ohio.
-   (v)   “Qualified inspection personnel.” A person knowledgeable in the
+      “Professional engineer.” A professional engineer registered in the State
+of Ohio.
+      “Qualified inspection personnel.” A person knowledgeable in the
 principles and practice of erosion and sediment controls, who possess the
 skills to assess all conditions at the construction site that could impact
 storm water quality and to assess the effectiveness of any sediment and erosion
@@ -89126,53 +89158,52 @@ certifications: Certified Erosion Sediment and Storm Water Inspector (CESSWI),
 Certified Professional in Erosion and Sediment Control (CPESC), Certified
 Professional in Storm Water Quality (CPSWQ), Landscape Architect (LA) or a
 Professional Engineer (PE).
-   (w)   “Rainwater and Land Development.” Ohio's standards for storm water
+      “Rainwater and Land Development.” Ohio's standards for storm water
 management, land development, and urban stream protection. The most current
 edition of these standards shall be used with this regulation.
-   (x)   “Runoff.” The portion of rainfall, melted snow, or irrigation water
-that flows across the ground surface and is eventually conveyed to water
-resources or wetlands.
-   (y)   “Sediment.” The soils or other surface materials that are transported
-or deposited by the action of wind, water, ice, gravity, or any combination of
+      “Runoff.” The portion of rainfall, melted snow, or irrigation water that
+flows across the ground surface and is eventually conveyed to water resources
+or wetlands.
+      “Sediment.” The soils or other surface materials that are transported or
+deposited by the action of wind, water, ice, gravity, or any combination of
 those forces, as a product of erosion.
-   (z)   “Sedimentation.” The deposition or settling of sediment.
-   (aa)   “Setback.” A designated transition area around water resources or
+      “Sedimentation.” The deposition or settling of sediment.
+      “Setback.” A designated transition area around water resources or
 wetlands that is left in a natural, usually vegetated, state so as to protect
 the water resources or wetlands from runoff pollution. Soil-disturbing
 activities in this area are restricted by this regulation.
-   (bb)   “Soil and Water Conservation District.” An entity organized under
-Ohio R.C. Chapter 1515 referring to either the Soil and Water Conservation
-District Board or its designated employee(s). Hereafter referred to as Cuyahoga
-SWCD.
-   (cc)   “Soil-disturbing activity.” Clearing, grading, excavating, filling,
-or other alteration of the earth’s surface where natural or human-made ground
+      “Soil and Water Conservation District.” An entity organized under Ohio
+R.C. Chapter 1515 referring to either the Soil and Water Conservation District
+Board or its designated employee(s). Hereafter referred to as Cuyahoga SWCD.
+      “Soil-disturbing activity.” Clearing, grading, excavating, filling, or
+other alteration of the earth’s surface where natural or human-made ground
 cover is destroyed and that may result in, or contribute to, erosion and
 sediment pollution.
-   (dd)   “Stabilization.” The use of BMPs, such as seeding and mulching, that
+      “Stabilization.” The use of BMPs, such as seeding and mulching, that
 reduce or prevent soil erosion by water, wind, ice, gravity, or a combination
 of those forces.
-   (ee)   “Storm Water Pollution Prevention Plan (SWP3).” The written document
-that sets forth the plans and practices to be used to meet the requirements of
-this regulation.
-   (ff)   “Surface waters of the State.” All streams, lakes, reservoirs,
-marshes, wetlands, or other waterways situated wholly or partly within the
-boundaries of the State, except those private waters which do not combine or
-affect a junction with surface water. Waters defined as sewerage systems,
-treatment works or disposal systems in Ohio R.C. 6111.01 are not included.
-   (gg)   “Unstable soils.” A portion of land that is identified by the City
+      “Storm Water Pollution Prevention Plan (SWP3).” The written document that
+sets forth the plans and practices to be used to meet the requirements of this
+regulation.
+      “Surface waters of the State.” All streams, lakes, reservoirs, marshes,
+wetlands, or other waterways situated wholly or partly within the boundaries of
+the State, except those private waters which do not combine or affect a
+junction with surface water. Waters defined as sewerage systems, treatment
+works or disposal systems in Ohio R.C. 6111.01 are not included.
+      “Unstable soils.” A portion of land that is identified by the City
 Engineer as prone to slipping, sloughing, or landslides, or is identified by
 the U.S. Department of Agriculture Natural Resource Conservation Service
 methodology as having a low soil strength.
-   (hh)   “Water resource.” Any public or private body of water including lakes
-and ponds, as well as any brook, creek, river, or stream having banks, a
-defined bed, and a definite direction of flow, either continuously or
-intermittently flowing.
-   (ii)   “Wetland.” Those areas that are inundated or saturated by surface or
+      “Water resource.” Any public or private body of water including lakes and
+ponds, as well as any brook, creek, river, or stream having banks, a defined
+bed, and a definite direction of flow, either continuously or intermittently
+flowing.
+      “Wetland.” Those areas that are inundated or saturated by surface or
 ground water at a frequency and duration sufficient to support, and that under
 normal circumstances do support, a prevalence of vegetation typically adapted
 for life in saturated soil conditions, including swamps, marshes, bogs, and
 similar areas (40 C.F.R. 232, as amended).
-(Ord. 158-11. Passed 6-20-11.)
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.03   DISCLAIMER OF LIABILITY.
    Compliance with the provisions of this regulation shall not relieve any
 person from responsibility for damage to any person otherwise imposed by law.
@@ -89182,7 +89213,8 @@ individual or for the benefit of any particular parcel of property.
 (Ord. 158-11. Passed 6-20-11.)
 2303.04   CONFLICTS, SEVERABILITY, NUISANCES AND RESPONSIBILITY.
    (a)   Where this regulation is in conflict with other provisions of law or
-ordinance, the most restrictive provisions shall prevail.
+ordinance or requirements in the Construction General Permit, the most
+restrictive provisions shall prevail.
    (b)   If any clause, section, or provision of this regulation is declared
 invalid or unconstitutional by a court of competent jurisdiction, the validity
 of the remainder shall not be affected thereby.
@@ -89195,12 +89227,13 @@ conditions or to recommend corrective measures shall not relieve the site owner
 from the responsibility for the condition or damage resulting therefrom, and
 shall not result in the City, its officers, employees, or agents being
 responsible for any condition or damage resulting therefrom.
-(Ord. 158-11. Passed 6-20-11.)
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.05   DEVELOPMENT OF STORM WATER POLLUTION PREVENTION PLANS.
    (a)   This regulation requires that a Storm Water Pollution Prevention Plan
-be developed and implemented for all parcels disturbing one acre or more and on
-which any regulated activity of Section
-2303.01(c) is proposed.
+be developed and implemented for all soil disturbing activities disturbing one
+or more acres of total land, or less than one acre if part of a larger common
+plan of development or sale disturbing one or more acres of total land. The
+City Engineer may require a SWP3 for sites disturbing less than one acre.
    (b)   The following activities shall submit an Abbreviated Storm Water
 Pollution Prevention Plan:
       (1)   New single-family residential construction regardless of parcel
@@ -89223,7 +89256,7 @@ Prevention Plan shall be required.
 submit a Storm Water Pollution Prevention Plan or an Abbreviated Storm Water
 Pollution Prevention Plan, unless required by the City Engineer. These
 activities must comply with all other provisions of this regulation.
-(Ord. 158-11. Passed 6-20-11.)
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.06   APPLICATION PROCEDURES.
    (a)   Soil-Disturbing Activities Submitting a Storm Water Pollution
 Prevention Plan. The applicant shall submit three sets of the SWP3 and the
@@ -89249,15 +89282,22 @@ under Section
 for revisions with comments and recommendations for revisions. A plan rejected
 because of deficiencies shall receive a correction letter stating specific
 problems and the procedures for filing a revised plan.
-   (d)   Soil-disturbing activities shall not begin and building and/or
-stormwater management permits shall not be issued without an approved SWP3 or
-Abbreviated SWP3.
+   (d)   Soil-disturbing activities, including mechanized clearing, shall not
+begin and zoning, building and/or grading permits shall not be issued without:
+      (1)   An approved SWP3 or abbreviated SWP3;
+      (2)   Submission of Notice of Intent to the Ohio EPA;
+      (3)   An NPDES permit covering the activities;
+      (4)   Physical marking in the field of protected areas, including
+wetlands and riparian areas; and
+      (5)   Installation of construction entrances, perimeter sediment barriers
+and other erosion and sediment controls that must be in place to address
+initial site conditions.
    (e)   SWP3 for individual sublots in a subdivision will not be approved
 unless the larger common plan of development or sale containing the sublot is
 in compliance with this regulation.
    (f)   Approvals issued in accordance with this regulation shall remain valid
 for one year from the date of approval.
-(Ord. 158-11. Passed 6-20-11.)
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.07   COMPLIANCE WITH STATE AND FEDERAL REGULATIONS.
    Approvals issued in accordance with this regulation do not relieve the
 applicant of responsibility for obtaining all other necessary permits and/or
@@ -89273,7 +89313,9 @@ with Construction Activity or the Most Current Version Thereof. Proof of
 compliance with these requirements shall be the applicant's Notice of Intent
 (NOI) number from Ohio EPA, a copy of the Ohio EPA Director’s Authorization
 Letter for the NPDES Permit, or a letter from the site owner certifying and
-explaining why the NPDES Permit is not applicable.
+explaining why the NPDES Permit is not applicable. A separate NOI or NPDES
+Facility Permit number must be provided whenever an SWP3 is prepared for a
+separate phase or stage of development.
    (b)   Section 401 of the Clean Water Act. Proof of compliance shall be a
 copy of the Ohio EPA Water Quality Certification application tracking number,
 public notice, project approval, or a letter from the site owner certifying
@@ -89306,11 +89348,11 @@ at the time an application is made under this regulation.
 Division of Water permit application tracking number, a copy of the project
 approval letter from the ODNR Division of Water, or a letter from the site
 owner certifying and explaining why the Ohio Dam Safety Law is not applicable.
-(Ord. 158-11. Passed 6-20-11.)
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.08   STORM WATER POLLUTION PREVENTION PLAN.
-   (a)   In order to control sediment pollution of water resources and
-wetlands, the applicant shall submit an SWP3 in accordance with the
-requirements of this regulation.
+   (a)   The applicant shall submit an SWP3 that meets the requirements of the
+Construction General Permit as wel1 as the additional requirements or this
+regulation.
    (b)   The SWP3 shall be certified by a professional engineer, a registered
 surveyor, certified professional erosion and sediment control specialist, or a
 registered landscape architect.
@@ -89391,7 +89433,9 @@ stabilization devices and measures, and for permanent soil stabilization after
 construction is completed.
          E.   Design criteria for corrective measures when necessary.
          F.   Opinions and recommendations covering the stability of the site.
-(Ord. 158-11. Passed 6-20-11.)
+         G.   Delineations of surface waters of the state located on the site.
+Affirmation by the U.S. Army Corps of Engineers may be required.
+(Ord. 158-11. Passed 6-20-11; Ord. 137-25. Passed 7-7-25.)
 2303.09   PERFORMANCE STANDARDS.
    The SWP3 must contain a description of the controls appropriate for each
 construction operation and the applicant must implement such controls. The SWP3
