@@ -1,7 +1,7 @@
 JAMES ISLAND, SOUTH CAROLINA
 CODE OF ORDINANCES
 2025 S-15 Supplement contains:
-Local legislation current through Ord. 2025-05, passed 6-19-2025
+Local legislation current through Ord. 2025-10, passed 11-20-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -343,7 +343,7 @@ Section
    
 11.01   Certificate of incorporation
 § 11.01 Certificate of incorporation
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-868.png]
  
 TITLE III: ADMINISTRATION
@@ -7221,6 +7221,8 @@ Nonconformities
 153.360   Nonconforming lots
    
 153.361   Nonconforming signs
+   
+153.362   Nonconforming registered accessory dwelling units (ADUs)
 Violations and Enforcement
    
 153.375   Compliance required
@@ -7589,6 +7591,10 @@ unless the context clearly indicates or requires a different meaning. If not
 specifically defined herein, words and terms shall be defined in Merriam-
 Webster’s Collegiate Dictionary, 11th edition.
    ABANDONED SIGN. See SIGN, ABANDONED for definition.
+   ACCESSORY DWELLING UNIT (ADU). A dwelling unit providing complete
+independent living facilities for one or more persons that is separate from and
+subordinate to the principal dwelling unit, while both units are serviced by
+one electrical meter. This definition includes garage apartments.
    ACCESSORY STRUCTURE. A structure that is detached from a principal structure
 and customarily incidental and subordinate to the principal structure.
    ACCESSORY USE. A use, structure, or part of a structure customarily
@@ -7604,9 +7610,8 @@ bicycle trails, baseball or softball fields, football or soccer fields,
 basketball courts, swimming pools, clubhouses, equestrian facilities, and
 tennis courts.
    ADDITION. A structure added to the original structure at some time after the
-completion of the
-original or an extension, alterations, or increase in floor area or height of a
-building or structure.
+completion of the  original or an extension, alterations, or increase in floor
+area or height of a building or structure.
    ADMINISTRATIVE AND BUSINESS OFFICE. The use of a building or a portion of a
 building for the provision of executive, management, or administrative
 services.
@@ -7635,10 +7640,8 @@ no more than 30% of the annual household income for a household earning no more
 than 80% of the area median income, by household size, for the metropolitan
 statistical area as published from time to time by HUD.
    AGRICULTURAL PROCESSING. The preliminary processing and packaging of
-agricultural
-   Zoning and Land Development Regulations   59
-products, such as a packing shed. AGRICULTURAL PROCESSING shall not include
-slaughterhouses, butcheries, tanneries, or rendering plants.
+agricultural products, such as a packing shed. AGRICULTURAL PROCESSING shall
+not include slaughterhouses, butcheries, tanneries, or rendering plants.
    AGRICULTURAL SALES AND SERVICE. An establishment engaged in the retail or
 wholesale sale from the premises of feed, grain, fertilizers, pesticides, and
 similar goods.
@@ -8211,9 +8214,9 @@ basis, for occupancy by groups of more than six persons not defined as family,
 such as fraternity or sorority houses, dormitories, or residence halls. This
 term does not include rooming or boarding houses.
    HEALTH CARE LABORATORY. A facility primarily involved in the testing,
-diagnosis, or observation of medical or dental samples collected at
-health care facilities. The samples are generally sent to the laboratory from
-off-premises facilities.
+diagnosis, or observation of medical or dental samples collected at  health
+care facilities. The samples are generally sent to the laboratory from off-
+premises facilities.
    HEAVY COMMERCIAL TRAILER. A trailer vehicle used for any commercial purpose
 and having more than four tires and which is greater than 15 feet in overall
 length. Examples of HEAVY TRAILERS include, but shall not be limited to
@@ -8466,6 +8469,11 @@ complied with the lot area, lot width, and lot depth standards of the zoning
 district in which it was located at the time of its creation, but which does
 not comply with the minimum lot area, lot width, or lot depth requirements of
 the zoning district in which it is now located.
+   NONCONFORMING REGISTERED ACCESSORY DWELLING UNIT (ADU). An ADU that existed
+on or before October 18, 2012, but which no longer complies with the density,
+intensity, and dimensional standards of the underlying zoning district, yet has
+met the applicable requirements in §
+153.362  to be considered a registered and allowed (legal) ADU.
    NONCONFORMING SIGN. A sign that was legally established but which no longer
 complies with the sign regulations of §
 153.341.
@@ -8795,8 +8803,8 @@ branches of learning and study required to be taught in the public schools of
 the state.
    SCRAP AND SALVAGE SERVICE (or JUNK YARD). An establishment primarily engaged
 in the storage, retail or wholesale, assembling, dismantling, sorting,
-distributing, or other processing of scrap,
-used equipment, mechanical components, or waste materials.
+distributing, or other processing of scrap,  used equipment, mechanical
+components, or waste materials.
    SCREENING (ELEMENTS). Various combinations of walls, fences, earthen berms,
 trees, shrubbery, and landscape materials which comprise a screening plan
 approved by the Zoning Administrator to fulfill the requirements and serve the
@@ -8848,15 +8856,15 @@ rotation, oscillation, or other movement of the sign or of any of its visible
 parts.
    SIGN, AREA OF. The entire area within a continuous perimeter, enclosing the
 extreme limits of sign display, including any frame or border. Curved,
-spherical, or any other shaped sign face shall be
-computed on the basis of actual surface area. The AREA OF SIGNS composed of
-individual letters, numerals, or other devices shall be the sum of the area of
-the smallest rectangle or other geometric figure encompassing each of said
-letters or devices. Area devoted to required house numbers shall not be
-included in the calculation of maximum sign area. The calculation for a double-
-faced sign shall be the area of one face only. Double-faced signs shall be
-constructed so that both faces are either parallel or have an interior angle of
-less than 90 degrees and the two faces shall not be more than 12 inches apart.
+spherical, or any other shaped sign face shall be computed on the basis of
+actual surface area. The AREA OF SIGNS composed of individual letters,
+numerals, or other devices shall be the sum of the area of the smallest
+rectangle or other geometric figure encompassing each of said letters or
+devices. Area devoted to required house numbers shall not be included in the
+calculation of maximum sign area. The calculation for a double-faced sign shall
+be the area of one face only. Double-faced signs shall be constructed so that
+both faces are either parallel or have an interior angle of less than 90
+degrees and the two faces shall not be more than 12 inches apart.
    SIGN, BONA FIDE AGRICULTURAL USE. A sign specifically used for the
 advertisement of products from bona fide agricultural uses, related activities,
 and farm identification that meets the requirements of this chapter.
@@ -9211,7 +9219,7 @@ activities described in §
 (Ord. 2012-06, §§ 12.1 and 12.2, passed 10-18-2012; Ord. 2013-11, passed 8-15-
 2013; Ord. 2018-14, passed 12-20-2018; Ord. 2019-01, passed 5-16-2019; Ord.
 2023-04, passed 5-18-2023; Ord. 2024-04, passed 6-20-2024; Ord. 2025-02, passed
-3-20-2025)
+3-20-2025; Ord. 2025-10, passed 11-20-2025)
 § 153.014 PLANNING AND ZONING FEE SCHEDULE.
    The planning and zoning fee schedule shall be set and amended by resolution
 of the Town Council.
@@ -10674,7 +10682,7 @@ parallel line away from the point of intersection along the roadway (see Figure
 collector or higher may be subject to a greater distance of measurement.
 Figure 153.066.1
 Vision Clearance Triangle
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1013.jpg]
  
          (c)   Driveways may be located in front and side setbacks.
@@ -10732,7 +10740,7 @@ gable, hip, or gambrel roof;
          (c)   The highest point of the coping of a flat roof.
 Figure 153.066.2
 Building Height
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1011.jpg]
  
       (2)   Fences or walls. Height shall be measured from ground level on the
@@ -16825,7 +16833,7 @@ X          Stall Width A Stall Depth B Aisle Width C    Skew Width D
                                        Two way
 Note: Two-way drive aisles shall always require a minimum width of 23 feet.
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1015.jpg]
  
       (3)   Parking lot landscaping. See §
@@ -18464,7 +18472,9 @@ with all regulations of this chapter.
 § 153.359 NONCONFORMING STRUCTURES.
    (A)   Definition. A NONCONFORMING STRUCTURE is any building or structure
 that was legally established but which no longer complies with the density,
-intensity, and dimensional standards of the underlying zoning district.
+intensity, and dimensional standards of the underlying zoning district. For
+NONCONFORMING REGISTERED ADU regulations, see §
+153.362.
    (B)   Use. A nonconforming structure may be used for any use allowed in the
 underlying zoning district.
    (C)   Expansion. A nonconforming residential structure may be enlarged or
@@ -18499,7 +18509,8 @@ that such repairs, restoration, and reconstruction begin within 12 months of
 the date of such damage.
       (3)   Nothing in this section shall conflict with the requirements of the
 Federal Emergency Management Agency’s Flood Plain Management Regulations.
-(Ord. 2012-06, § 10.3, passed 10-18-2012; Ord. 2013-09, passed 8-15-2013)
+(Ord. 2012-06, § 10.3, passed 10-18-2012; Ord. 2013-09, passed 8-15-2013; Ord.
+2025-10, passed 11-20-2025)
 § 153.360 NONCONFORMING LOTS.
    (A)   Definition. A NONCONFORMING LOT is a tract of land, designated on a
 duly recorded subdivision plat, by a duly recorded deed or by other lawful
@@ -18541,6 +18552,47 @@ chapter.
       (2)   All other off-premises signs shall be removed, altered, or brought
 into compliance with the provisions of this chapter.
 (Ord. 2012-06, § 10.5, passed 10-18-2012; Ord. 2013-09, passed 8-15-2013)
+§ 153.362 NONCONFORMING REGISTERED ACCESSORY DWELLING UNITS (ADUs).
+   (A)   Definition. A NONCONFORMING REGISTERED ADU is an ADU that existed on
+or before October 18, 2012, but which no longer complies with the density,
+intensity, and dimensional standards of the underlying zoning district, yet has
+met the following requirements to be considered a registered and allowed
+(legal) ADU.
+   (B)   Determination. The burden of establishing that a nonconforming ADU
+existed before October 18, 2012, and that all requirements contained in this
+section are satisfied, in all cases, rests solely upon the owner of such
+nonconformity. Acceptable documentation for proving that a nonconforming ADU
+existed on or before October 18, 2012 may consist of sworn affidavits from
+adjacent property owners and others who have personal knowledge, and/or other
+evidence deemed necessary and/or sufficient by the Zoning Administrator.
+   (C)   Requirements.
+      (1)   Must apply for nonconforming registered ADU approval through the
+application, and receive approval from the Zoning Administrator in order to
+continue occupancy.
+      (2)   Only one nonconforming registered ADU shall be permitted per lot.
+      (3)   Full-time property owner must reside on property. Proof of full-
+time residency must be provided at the time of application with owner- occupied
+legal residence tax bill, driver’s license, voter registration, vehicle
+registration, and any other documentation requested by the Zoning Administrator
+and listed on the application.
+      (4)   Separate electrical meters shall not be allowed for nonconforming
+registered ADUs.
+      (5)   Nothing in this section shall conflict with the requirements of the
+Federal Emergency Management Agency’s Flood Plain Management Regulations or the
+current adopted flood ordinance.
+      (6)   There shall be no adding to the existing footprint (expansion) of
+the nonconforming registered ADU.
+      (7)   If structure does not have a certificate of occupancy for
+habitation, retroactive building permits from Charleston County Building
+Services and applicable zoning permits must be obtained. This may include
+updating the structure to comply with current building code, inspections, flood
+regulations, and any other applicable federal and state regulations including
+all requirements of the applicable code of ordinances.
+      (8)   Applicant must notify all appropriate government, utility and
+emergency service providers (including but not limited to JIPSD, CWS, 911, and
+Charleston County Addressing), and provide letters of coordination from each
+entity, per application.
+(Ord. 2025-10, passed 11-20-2025)
 VIOLATIONS AND ENFORCEMENT
 § 153.375 COMPLIANCE REQUIRED.
    (A)   No activity regulated by this chapter shall be undertaken except in
@@ -20697,85 +20749,85 @@ ditches);
    (Y)   Typical street name sign installation;
    (Z)   Horizontal sight distance detail;
    (AA)   Standard street name sign specifications.
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1259.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1261.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1263.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1265.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1267.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1269.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1271.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1273.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1275.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1277.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1279.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1281.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1283.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1285.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1287.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1289.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1291.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1293.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1295.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1297.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1299.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1301.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1303.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1305.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1307.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1309.png]
  
-[https://export.amlegal.com/media/47dfcee9d170383088e0e2b36bc2de80bc33f6df/
+[https://export.amlegal.com/media/cbb4cb52629993459358aebd28fe6c3dee2bdafa/
 IMAGES/0-0-0-1311.png]
  
 TABLE OF SPECIAL ORDINANCES
@@ -21411,5 +21463,8 @@ E-3-2020                     7-16-2020   30.21
 2025-02                      3-20-2025   153.066,
                                          153.341
 2025-05                      6-19-2025   153.014
+                                         153.013,
+2025-10                      11-20-2025  153.359,
+                                         153.362
                                         
  
