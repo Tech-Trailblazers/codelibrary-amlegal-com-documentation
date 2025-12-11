@@ -1,8 +1,8 @@
 YUMA CITY CODE
 YUMA, ARIZONA
 Contains 2025 S-73,
-current through September 30, 2025
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+current through November 30, 2025
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7884.png]
 Published by:
 American Legal Publishing
@@ -19367,6 +19367,10 @@ Planning and Zoning Commission in conjunction with the granting of a
 conditional use permit.
       EXTERIOR TRADE AND STORAGE. Goods being stored or services being
 conducted other than within an enclosed building.
+      EXTRACTION. The process of removing natural resources, such as minerals,
+oil, gas, or groundwater, from the earth through mining, drilling, or other
+methods.
+(Ord. O2025-038, passed 11-5-2025)
       FAMILY.
          (a)   An individual or two or more persons related by blood, marriage
 or adoption, living together within a single dwelling unit; or
@@ -19432,6 +19436,13 @@ garage.
 other convenience and household goods. Also known as a SUPERMARKET.
       GUY WIRE TOWER. Any tower that uses guy wire to stabilize a tower
 structure.
+      HEAVY MANUFACTURING. A type of industrial activity involving large-scale
+production, processing, or assembly of goods, often requiring significant
+infrastructure, outdoor storage, and more intensive machinery or processes.
+These operations may generate higher levels of noise, traffic, and
+environmental impact and are generally located in more industrially designated
+zones.
+(Ord. O2025-038, passed 11-5-2025)
       HEIGHT. When referring to a freestanding monopole or lattice tower, the
 vertical distance measured from the lowest grade level adjacent to the
 structure to the highest point of the structure directly above the grade. For
@@ -19587,6 +19598,12 @@ paving permeability, and low-water-using and drought tolerant vegetation.
 1992; Ord. O96-77, passed 8-7-1996; Ord. O2017-024, passed 8-2-2017)
       LATTICE TOWER. Any tower that uses three or more poles to form the base
 and lattice bracing to connect the poles and increase structural support.
+      LIGHT MANUFACTURING. A type of industrial activity that involves the
+production or assembly of goods with minimal environmental impact. These
+operations typically use less intensive processes and are compatible with
+surrounding commercial and residential areas, with limited outdoor storage and
+noise.
+(Ord. O2025-038, passed 11-5-2025)
       LINE, REAR. A dividing line between two lots or between a lot and an
 alley or easement, provided it runs parallel to the shorter dimension of said
 lot. Any bounding line of a lot, which is not herein defined as a rear line or
@@ -24783,9 +24800,8 @@ for new residential development.
    (B)   Permitted principal uses.
       (1)   Business, industrial or scientific research centers; product
 development and testing laboratories;
-      (2)   Assembling or fabrication of products or articles; provided,
-however, that such production does not involve transforming any material from a
-raw or natural state to a form suitable for fabrication;
+      (2)   Light manufacturing and assembling or fabrication of products or
+articles;
       (3)   Warehousing, storage or collection of products or materials;
       (4)   Wholesaling;
       (5)   New freestanding monopoles or lattice towers and replacements (see
@@ -24811,42 +24827,45 @@ services will be allowed. Supporting services may consist of the following:
          (d)   Exercise facilities; and
          (e)   Uses which meet the intent of this subsection as determined by
 the Director of the Department of Community Development; and
-      (9)   Automotive repair;
-      (10)   Community garden;
-      (11)   Air and water purification;
-      (12)   Armored car service (NAICS 561613);
-      (13)   Carpet and upholstery cleaning (NAICS 561740);
-      (14)   Janitorial/cleaning services, commercial and residential (NAICS
+      (9)   Processing or packing of raw materials, including agriculture
+products, where the property is located within one mile of a designated truck
+route.
+      (10)   Automotive repair;
+      (11)   Community garden;
+      (12)   Air and water purification;
+      (13)   Armored car service (NAICS 561613);
+      (14)   Carpet and upholstery cleaning (NAICS 561740);
+      (15)   Janitorial/cleaning services, commercial and residential (NAICS
 561720);
-      (15)   Equipment repair, home and garden equipment (NAICS 811411);
-      (16)   Equipment repair, commercial and industrial machinery and
+      (16)   Equipment repair, home and garden equipment (NAICS 811411);
+      (17)   Equipment repair, commercial and industrial machinery and
 equipment (NAICS 811310);
-      (17)   Equipment repair, stereo and computer equipment (NAICS 811211 and
+      (18)   Equipment repair, stereo and computer equipment (NAICS 811211 and
 811212);
-      (18)   Equipment repair, medical equipment (NAlCS 811219);
-      (19)   Clothing accessories applicator and screen printing (NAICS
+      (19)   Equipment repair, medical equipment (NAlCS 811219);
+      (20)   Clothing accessories applicator and screen printing (NAICS
 313311);
-      (20)   Farm supplies and services, repair and maintenance (NAICS 811310);
-      (21)   Glass repair services, window tinting and coating services (NAICS
+      (21)   Farm supplies and services, repair and maintenance (NAICS 811310);
+      (22)   Glass repair services, window tinting and coating services (NAICS
 811122);
-      (22)   Inspection services, food (NAICS 923120);
-      (23)   Inspection services, homes and buildings (NAICS 541350);
-      (24)   Inspection services, automotive safety (NAICS 811198);
-      (25)   Inspection services, aircraft (NAICS 488190);
-      (26)   Internet sales and services, warehousing and distribution (NAICS
+      (23)   Inspection services, food (NAICS 923120);
+      (24)   Inspection services, homes and buildings (NAICS 541350);
+      (25)   Inspection services, automotive safety (NAICS 811198);
+      (26)   Inspection services, aircraft (NAICS 488190);
+      (27)   Internet sales and services, warehousing and distribution (NAICS
 454111);
-      (27)   Landscape planning, irrigation, lawn and garden services (NAICS
+      (28)   Landscape planning, irrigation, lawn and garden services (NAICS
 561730);
-      (28)   Packaging services (NAICS 561910);
-      (29)   Pest control services (NAICS 561710);
-      (30)   Restorations, commercial and residential (NAICS 236118 and
+      (29)   Packaging services (NAICS 561910);
+      (30)   Pest control services (NAICS 561710);
+      (31)   Restorations, commercial and residential (NAICS 236118 and
 236220);
-      (31)   Restorations, automotive (NAICS 811121);
-      (32)   Restorations, furniture and antiques (NAICS 811121);
-      (33)   Printing services; and
-      (34)   Document shredding.
+      (32)   Restorations, automotive (NAICS 811121);
+      (33)   Restorations, furniture and antiques (NAICS 811121);
+      (34)   Printing services; and
+      (35)   Document shredding.
 (Ord. O2010-11, passed 2-16-2010; Ord. O2014-19, passed 7-16-2014; Ord. O2015-
-021, passed 4-15-2015)
+021, passed 4-15-2015; Ord. O2025-038, passed 11-5-2025)
    (C)   Permitted accessory uses.
       (1)   Living quarters for a caretaker, watchperson or operator employed
 on the premises and may include the immediate family;
@@ -24888,10 +24907,10 @@ passed 4-15-2015)
 operated as a conditional use upon application and approval by the Planning and
 Zoning Commission:
       (1)   Dog kennels;
-      (2)   Any use which requires a state or federal agency permit, license or
-other type of certification for the use or handling of dangerous materials;
-      (3)   Any use allowed in the General Commercial (B-2) District, except
-any type of medical facility;
+      (2)   Any use which involves the use or handling of dangerous materials,
+and requires a state or federal agency permit, license or other type of
+certification;
+      (3)   Any use allowed in the General Commercial (B-2) District;
       (4)   Other uses that meet the purpose and development standards as
 specified herein;
       (5)   Religious institutions including related buildings and activities;
@@ -24903,11 +24922,12 @@ historic or gateway route, as identified in the transportation element of the
 City of Yuma General Plan, or a future or existing park area as identified in
 the parks and recreation element of the City of Yuma General Plan shall require
 a conditional use permit; and
-      (7)   Large composting site.
+      (7)   Large composting site; and
+      (8)   Non-hazardous recycling center located within an enclosed building.
 ('80 Code, App. A, § 121) (Ord. 583, passed 9-16-1952; Ord. 1979, passed 1-7-
 1981; Ord. 2235, passed 11-20-1984; Ord. 2523, passed 6-5-1991; Ord. O2000-35,
 passed 6-21-2000; Ord. 2014-20, passed 8-27-2014; Ord. O2019-001, passed 1-16-
-2019)
+2019; Ord. O2025-038, passed 11-5-2025)
    (F)   Property development standards. To meet the purpose of this district,
 all uses shall comply with the following minimum development standards, and
 further provided, that no use or activity shall create noise, odor, dust,
@@ -24971,7 +24991,9 @@ odor, dust or other objectionable influences in appropriate areas.
 ('80 Code, App. A, § 121.5) (Ord. 583, passed 9-16-1952; Ord. 1979, passed 1-7-
 1981; Ord. 2235, passed 11-20-1984)
    (B)   Permitted principal uses.
-      (1)   Any use allowed in the Light Industrial District;
+      (1)   Any use allowed in the Light Industrial District as either a
+principal use or conditional use, unless otherwise specified within this
+section;
       (2)   Military installations and support facilities;
       (3)   Airports and related activities, including heliports;
       (4)   Aircraft-related uses including air transport of goods, materials
@@ -24998,10 +25020,12 @@ network capacity testing and siting;
 conjunction with legal nonconforming uses;
       (9)   The use of lattice tower structures for personal wireless
 communication facilities is permitted; and
-      (10)   Community garden.
+      (10)   Community garden.; and
+      (11)   Heavy manufacturing.
 ('80 Code, App. A, § 121.5) (Ord. 583, passed 9-16-1952; Ord. 1979, passed 1-7-
 1981; Ord. 2235, passed 11-20-1984; Ord. O2000-35, passed 6-21-2000; Ord.
-O2002-09, passed 2-20-2002; Ord. O2015-021, passed 4-15-2015)
+O2002-09, passed 2-20-2002; Ord. O2015-021, passed 4-15-2015; Ord. O2025-038,
+passed 11-5-2025)
    (C)   Permitted accessory uses.
       (1)   Food truck.
 (Ord. 2014-20, passed 8-27-2014)
@@ -25014,10 +25038,10 @@ Zoning Commission:
       (1)   Utility plants;
       (2)   Any use allowed in the General Commercial (B-2) District, except
 medical care facilities;
-      (3)   Extraction, processing or packing of raw materials, including
-agricultural products;
-      (4)   Any use which requires a state or federal agency permit, license or
-other type of certification for the use or handling of dangerous materials;
+      (3)   Extraction;
+      (4)   Any use which involves the use or handling or dangerous materials,
+and requires a state or federal agency permit, license or other type of
+certification;
       (5)   Other uses that meet the purpose and development standards as
 specified herein;
       (6)   Religious institutions including related buildings and activities;
@@ -25029,11 +25053,12 @@ historic or gateway route, as identified in the transportation element of the
 City of Yuma General Plan, or a future or existing park area as identified in
 the parks and recreation element of the City of Yuma General Plan shall require
 a conditional use permit; and
-      (8)   Large composting site.
+      (8)   Large composting site; and
+      (9)   Hazardous recycling center, fully screened.
 ('80 Code, App. A, § 121.5) (Ord. 583, passed 9-16-1952; Ord. 1979, passed 1-7-
 1981; Ord. 2235, passed 11-20-1984; Ord. 2523, passed 6-5-1991; Ord. O2000-35,
 passed 6-21-2000; Ord. 2014-20, passed 8-27-2014; Ord. O2019-001, passed 1-16-
-2019)
+2019; Ord. O2025-038, passed 11-5-2025)
    (F)   Property development standards. To meet the purpose of this district,
 all uses shall comply with the following minimum development standards.
       (1)   Area and location.
@@ -25463,27 +25488,27 @@ may be placed on the building wall near the top of the building.
    (E)   Sign examples.
 Illustrative Example 1 - Types of Signs
 Examples of Monument Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7204.jpg]
 Examples of Pedestal Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7206.jpg]
 Examples of Pole Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7208.jpg]
 Example of Other Types of Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7210.jpg]                     [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/IMAGES/0-0-0-7212.jpg]
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7212.jpg]
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7214.jpg]                     [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/IMAGES/0-0-0-7216.jpg]
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7216.jpg]
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7218.jpg]               [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/IMAGES/0-0-0-
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-
 7220.jpg]                     [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/IMAGES/0-0-0-7222.jpg]
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7222.jpg]
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7224.jpg]
 ('80 Code, App. A, § 95) (Ord. 583, passed 9-16-1952; Ord. O95-073, passed 10-
 18-1995; Ord. O96-56, passed 6-5-1996; Ord. O2001-94, passed 11-20-2001; Ord.
@@ -28651,7 +28676,7 @@ or the height of the principal building, whichever is less. On lots with
 elevation changes, accessory structures shall not be permitted on lot areas
 where the accessory structure will be higher than the principal structure
 roofline. See Illustration 15-1.
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7642.jpg]
          (d)   Area. Accessory buildings or structures shall comply with lot
 coverage regulations for the applicable zoning district.
@@ -29988,13 +30013,13 @@ Penalty, see §
 154-999
    (F)   Signage examples. The following are illustrative examples.
 Examples Of Monument Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7228.jpg]
 Examples Of Pedestal Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7230.jpg]
 Examples Of Pole Signs
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7232.jpg]
 ('80 Code, App. A, § 161) (Ord. 583, passed 9-16-1952; Ord. 2193, passed 3-21-
 1984; Ord. 2243, passed 12-19-1984; Ord. O2010-09, passed 2-3-2010; Ord. O2010-
@@ -31153,23 +31178,23 @@ communications services pursuant to the United States Telecommunications Act of
    Illustrative Example 4 - Types of Antennas
  
 [https://export.amlegal.com/media/        [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/ a146579aae9dc0ee2beaa7274862dede52becf81/ a146579aae9dc0ee2beaa7274862dede52becf81/
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7234.jpg]                    IMAGES/0-0-0-7236.jpg]                    IMAGES/0-0-0-7238.jpg]
 Panel Antenna                             Whip Antenna                              Parabolic Antenna
 Illustrative Example 5 - Use of Existing Vertical Elements Is Encouraged
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7240.jpg]
 Illustrative Example 6 - Use of Existing Building Height and Wall Mounting
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7242.jpg]
 Illustrative Example 7 - Types of Towers
  
 [https://export.amlegal.com/media/        [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-a146579aae9dc0ee2beaa7274862dede52becf81/ a146579aae9dc0ee2beaa7274862dede52becf81/ a146579aae9dc0ee2beaa7274862dede52becf81/
+0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7244.jpg]                    IMAGES/0-0-0-7246.jpg]                    IMAGES/0-0-0-7248.jpg]
 Lattice                                   Guy Wire Not Permitted                    Monopole
 Illustrative Example 8 - Typical Required Screening for Facilities
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7250.jpg]
  
 Table No. 10 - Personal Wireless Communication Facilities Permitted Uses by
@@ -31477,7 +31502,7 @@ overhead utility lines. Accent trees can be used to substitute required street
 or shade trees at a rate of two accent trees for each required street or shade
 tree.
    FIGURE 1: Types of Trees
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7696.png]
          (c)    Distribution and placement.
             1.    Street trees shall be placed at a maximum interval of 35 feet
@@ -31486,14 +31511,14 @@ along all street rights-of-way.
 sidewalk or curb, and when space allows they shall be located in the tree belt
 between the street and the sidewalk.
    FIGURE 2: Street Tree Placement
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7698.png]
             3.   No tree shall be planted closer than four feet from the
 sidewalk or curb or closer than eight feet from any vertical structure or
 subdivision wall to avoid upheaval damage caused by the roots, unless other
 structural soil or stabilization methods are implemented.
    FIGURE 3: Tree Placement to Avoid Upheaval
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7700.png]
             4.   Trees may be clustered; however no tree shall be located
 within 20 feet of another tree.
@@ -31614,7 +31639,7 @@ be calculated regardless of public rights-of-way or setback delineations. In
 residential districts, the streetscape zone is required for all streets
 surrounding a subdivision and any non-residential uses within the subdivision.
    FIGURE 4: Streetscape Zone Examples
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7702.png]
             1.   Trees. Street trees are required to be planted every 35 linear
 feet along the street right-of-way, as measured from the center of the trunk.
@@ -31689,7 +31714,7 @@ count towards the requirements for off-street parking areas shall be clearly
 identified as such on the plan. Required trees may be eliminated for spaces
 located directly under a covered parking canopy.
    FIGURE 5: Parking Lot Design Options
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7704.png]
          (b)    Screening for off- street parking. On the exterior edge of an
 off-street parking lot containing 15 or more spaces, a planting strip not less
@@ -31808,7 +31833,7 @@ Solutions planters
           not apply)
  
    FIGURE 7: Sample Design of Accessible Basin in Residential Zone
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7706.png]
       (5)   Exceptions.
          (a)   Industrial lots larger than two acres. Industrial lots which
@@ -32723,7 +32748,7 @@ Article 20). Spacing of the plants will be based upon natural groupings and the
 growth characteristics of each plant.
 (Ord. O2010-32, passed 7-7-2010; Ord.O2014-16, passed 8-27-2014)
 Cielo Verde Specific Plan
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7638.jpg]
  
 (Ord.O2014-16, passed 8-27-2014)
@@ -34307,6 +34332,8 @@ Title 19: Public Works
 194.   Illicit Discharge Detection and Elimination
       
 195.   Post-Construction Stormwater Runoff
+      
+196.   Cross-Connection Control
 Chapter 190: Garbage and Refuse
 Section
 General Provisions
@@ -36972,7 +36999,7 @@ and trees), an irrigation system of the flood and/or sprinkler type, and
 lighting as specified in approved city standards.
    (K)   Retention basin volume.
  
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7593.jpg]
  
    (L)   A retention basin, to become dedicated to the city, shall be located
@@ -38443,6 +38470,519 @@ thereof, during which any violation of said sections occurs or continues shall
 be deemed to constitute a separate offense, and upon conviction thereof shall
 be punishable as herein provided.
 (Ord. O2007-78, passed 12-19-07)
+Chapter 196: Cross-Connection Control
+Section
+   
+196-01   Definitions
+   
+196-02   Purpose and application
+   
+196-03   Backflow prevention required
+   
+196-04   Hazard potential
+   
+196-05   Backflow prevention methods; approved list
+   
+196-06   Backflow prevention method required for specified activities
+   
+196-07   Backflow assembly installation requirements
+   
+196-08   Installation of backflow prevention assemblies for fire sprinkler
+systems
+   
+196-09   Inspections, testing, maintenance, and records
+   
+196-10   Retroactive application; system retrofit
+   
+196-11   Plan review
+   
+196-12   Fees
+   
+196-13   Enforcement
+§ 196-01 Definitions.
+   (A)   For the purposes of this chapter, the following definitions shall
+apply unless the context clearly indicates or requires a different meaning.
+   APPROVED. Accepted by the Department as either meeting an applicable
+specification stated or cited in this chapter, or suitable for the proposed
+use.
+   AUXILIARY WATER SUPPLY. Any water supply on, or available to, premises other
+than the potable water supplied by the City of Yuma. These auxiliary waters may
+include, but shall not be limited to, water from another purveyor's public
+potable water supply or any natural sources such as a well, spring, river,
+stream, canal, harbor, or treated effluent, waste waters, or industrial fluids.
+These waters may be polluted or contaminated or may be objectionable and
+constitute an unacceptable water source, over which  the Department does not
+have sanitary control.
+   BACKFLOW. The undesirable reversal of flow into the public potable water
+supply system caused by either backpressure or backsiphonage.
+   BACKPRESSURE. Any elevation of pressure in a customer's water supply system,
+above the pressure of the public potable water supply system, which could cause
+water or other liquids, mixtures, or substances from a customer's water supply
+system to flow into the distribution system of the public potable water supply.
+   BACKSIPHONAGE. A reversal of the normal flow of water caused by a reduction
+of pressure in the public potable water supply system, which could cause water
+or other liquids, mixtures, or substances from a customer's water supply system
+to flow into the distribution system of the public potable water supply.
+   BACKFLOW PREVENTER. An approved assembly or means designed to prevent the
+reversal of the normal flow of water caused by either backpressure or
+backsiphonage.
+   CERTIFIED TESTER. An individual certified and approved by an agency
+recognized by the Arizona Department of Environmental Quality (ADEQ) and the
+Department to conduct testing on backflow prevention assemblies.
+   CITY. The City of Yuma, Arizona.
+   CONTAMINATION. An impairment in the quality of potable water, either by
+sewage, industrial fluids, waste liquids, compounds, or other materials or
+fluids, to a degree which creates an actual hazard to the public health by
+poisoning or through the spread of disease.
+   CROSS-CONNECTION. Any actual or potential connection or other arrangement of
+piping or fixtures, between a piping system containing potable water and a
+piping system containing non-potable water, waste fluids, industrial fluids, or
+other fluids of questionable safety for human consumption, through which or
+because of which, backflow may occur into the public potable water supply
+system. Cross-connections include any temporary connections, such as swing
+connections, removable sections, four-way plug valves, spools, dummy sections
+of pipe, swivel or changeover devices or sliding multi-port tubes, hose
+connections, or any other temporary or permanent devices, through which, or
+because of which,  backflow can or may occur.
+   CUSTOMER WATER SUPPLY SYSTEM. The water distribution facilities within a
+customer's premises commencing at the discharge point of the service
+connection.
+   DEPARTMENT. The City of Yuma, Utilities Department.
+   DISTRIBUTION SYSTEM. The network of conduits used to deliver potable water
+from the source facilities to the customer's water supply system.
+   HAZARD POTENTIAL. Evaluation of the potential risks to public health and the
+adverse effects of a hazard upon the public potable water supply system by a
+customer's water supply system. Hazards are categorized as either high or low.
+When determining the hazard potential, water system hydraulics are always
+considered. Such considerations include whether indirect or direct cross-
+connections are present, as well as potential cross-connections.
+   HIGH HAZARD. An impairment of a potable water supply by the introduction or
+admission of any foreign substance(s) that, if exposed or introduced into the
+potable water supply, could constitute a serious health hazard to include
+illness, the spread of disease, death, or have a high probability of causing
+such effects.
+   INDUSTRIAL FLUID SYSTEM. Any system containing a fluid or solution which is
+chemically, biologically, or otherwise contaminated or polluted in a form or
+concentration, such that would constitute a health, system, pollution, or
+plumbing hazard if introduced into the public potable water supply system. This
+may include, but shall not be limited to: polluted or contaminated waters; all
+types of process waters, waste waters and used waters originating from the
+public potable water supply system which may have deteriorated in sanitary
+quality; chemicals in fluid form; plating acids and alkalis; circulating
+cooling waters connected to an open cooling tower and/or cooling towers that
+are chemically or biologically treated or stabilized with toxic substances;
+contaminated natural waters such as from wells, springs, streams, rivers, bays,
+harbors, seas, irrigation canals or systems; or oils, gases, glycerin,
+paraffins, caustic or acidic solutions, or other liquid and gaseous fluids used
+in industrial or other purposes; or for fire-fighting purposes.
+   LOW HAZARD. An impairment of a potable water supply by the introduction or
+admission of any foreign substance or substances that tends to degrade water
+quality, so as to constitute a nuisance or be otherwise objectionable (i.e.
+affecting the taste, color, or odor of the water) without presenting a health
+hazard.
+   NON-POTABLE WATER. Water which is not safe for human consumption, or which
+is of questionable quality for human consumption.
+   POLLUTION. The presence of any foreign substance (organic, inorganic, or
+biological) in water which tends to degrade its quality or impair its
+usefulness to a degree which does not create an actual hazard to the public
+health, but which does adversely and umeasonably affect such water for domestic
+use.
+   POTABLE WATER. Any water which is safe for human consumption pursuant to the
+standards set by the Arizona Department of Environmental Quality.
+   PUBLIC POTABLE WATER SUPPLY SYSTEM. The source facilities and the
+distribution system under control of the City of Yuma to the point where a
+customer's water supply system commences. A customer's water supply system
+commences at the discharge point of the service connection.
+   SERVICE CONNECTION. The terminal end of a service line from the public
+potable water supply system at its point of delivery to the customer's water
+supply system where the Department loses jurisdiction and sanitary control over
+the water. If a meter is installed between the customer's water supply  system
+and the public potable water supply system, the service connection shall be the
+discharge-end of the meter. For a non-metered supply line, such as a fire line,
+the service connection shall be the user's property line. Service connections
+shall also include a water connection from a fire hydrant and any other
+temporary or emergency water connections to the public potable water supply
+system.
+   SOURCE FACILITIES. All components and facilities utilized in the production,
+treatment, storage, and delivery of potable water to the distribution system of
+the public potable water supply system.
+   USED WATER. Any water supplied by the Department, from the public potable
+water supply system to a customer's water supply system, after it has passed
+through the service connection and is no longer under the sanitary control of
+the Department.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-02 Purpose and Application.
+   (A)   The purpose of this chapter is:
+      (1)   To protect the public potable water supply of the City of Yuma from
+the possibility of contamination or pollution by preventing the backflow of
+contaminants and pollutants into the public potable water supply system;
+      (2)   To promote the elimination or control of existing cross-
+connections, actual or potential, within a customer's internal potable water
+supply system, plumbing fixtures, or industrial piping systems;
+      (3)   To provide for a continuing program of cross-connection control
+which will prevent the contamination or pollution of the public potable water
+supply system.
+      (4)   To implement the requirements of AAC R18-4-215 requiring public
+water systems to protect against backflow, and to this end, this chapter shall
+be construed, and applied, consistent with the requirements of AAC R18-4-215.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-03 Backflow Prevention Required.
+   (A)   The minimum level of backflow protection which shall be provided to
+protect the public potable water supply system shall be that which is
+recommended by the Manual of Cross-Connection Control, Tenth Edition, USC-
+FCCCHR, October 2009 (and no future editions), which is incorporated herein by
+reference and on file in the office of the City Clerk.
+   (B)   An approved backflow prevention method shall be utilized or installed
+at every service connection to a customer's water supply system when the
+Department determines the potable water supplied by the public potable water
+supply system may be subject to contamination, pollution, or other
+deterioration in sanitary quality, by conditions within the customer's water
+supply system.
+   (C)   The backflow prevention method to be utilized or installed shall be
+determined by the Department. The method required by the Department shall be
+sufficient to protect against the potential degree of hazard, as determined by
+the Department, to the public potable water supply system from the customer's
+water supply system.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-04 Hazard Potential.
+   (A)   The degree of hazard potential to the public potable water supply
+system from a customer's water supply system shall be determined using the
+following hazard factors:
+      (1)   Health. Any condition, device, or practice which, in the judgement
+of the Department, may create a danger to the health and well-being of the
+potable water consumers.
+      (2)   Plumbing. A plumbing type of cross-connection that is not properly
+protected by an approved backflow prevention method.
+      (3)   Pollution. An actual or potential threat to the physical facilities
+of the public potable water supply system or to the potable water supply which,
+although not dangerous to health, would constitute a nuisance or be
+aesthetically objectionable, or could cause damage to the system or its
+appurtenances.
+      (4)   System. An actual or potential threat which may cause severe damage
+to the physical facilities of the public potable water supply system, or which
+may cause a protracted effect on the quality of the potable water in the
+system.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-05 Backflow Prevention Methods; Approved List.
+   (A)   A backflow prevention method shall be any assembly or other means
+designed to prevent backflow. The following are the recognized backflow
+prevention methods which the Department may require under §
+196-03 or §
+196-04 of these regulations.
+      (1)   Air gap: The unobstructed vertical distance through the free
+atmosphere between the lowest opening of any pipe or faucet supplying potable
+water to a tank, plumbing fixture, or other device and the flood level rim of
+said tank, plumbing fixture, or other device. An approved air gap shall be at
+least double the diameter of the supply pipe or faucet and in no case, be less
+than one inch.
+      (2)   Reduced pressure principle assembly (hereinafter "RP"): An assembly
+containing two independently acting, approved check valves together with a
+hydraulically operating, mechanically independent, pressure differential relief
+valve located between the check valves, and at the same time below the first
+check valve. The assembly shall include properly located test cocks and tightly
+closing shut-off valves at each end of the assembly.
+      (3)   Double check valve assembly (hereinafter "DC"): An assembly
+composed of two independently acting approved check valves, including tightly
+closing shut-off valves located at each end of the assembly and properly
+located test cocks.
+      (4)   Pressure vacuum breaker assembly (hereinafter "PVB"): An assembly
+containing an independently operating, internally loaded check valve and an
+independently operating, loaded air-inlet valve located on the discharge side
+of the check valve. The assembly shall be equipped with properly located test
+cocks and tightly closing shut-off valves located at each end of the assembly.
+      (5)   Spill resistant vacuum breaker assembly (hereinafter "SVB"): An
+assembly containing an independently operating, internally loaded check valve
+and an independently operating, loaded air-inlet valve located on the intake
+side of the check valve. The assembly shall be equipped with properly located
+test cocks and tightly closing shut-off valves located at each end of the
+assembly.
+   (B)   A backflow prevention method may be approved by the Department if it
+has received the approval of the Foundation for Cross-Connection Control and
+Hydraulic Research of the University of Southern California.
+   (C)   The Department shall maintain a list of approved backflow prevention
+assemblies, by type and manufacturer. The list shall be furnished to any
+customer required to install a backflow prevention assembly.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-06 Backflow Prevention Method Required for Specified Activities.
+   (A)   When any of the following activities are conducted on premises served
+by the public potable water supply system, a potential hazard to the public
+potable water supply shall be presumed and a backflow prevention method, of the
+type specified for that activity herein, must be utilized or installed at the
+service connection for that premise:
+      (1)   Aircraft and missile plant: RP
+      (2)   Animal clinics and animal grooming shops: RP
+      (3)   Any premises where a cross-connection is maintained: RP
+      (4)   Automotive repair with a steam cleaner, acid cleaning equipment, or
+solvent facilities: RP
+      (5)   Auxiliary water systems: RP
+      (6)   Bottling plants, beverage or chemical: RP
+      (7)   Breweries: RP
+      (8)   Buildings with house pumps and/or potable water storage tanks: DC
+      (9)   Buildings with landscape fountains, ponds, or baptismal tanks: RP
+or Air Gap
+      (10)   Buildings with sewage ejectors: RP or Air Gap
+      (11)   Buildings with commercial dishwashers, food processing and/or
+preparation equipment, carbonation equipment, or other food service processes:
+RP
+      (12)   Canneries, packing houses, and reduction plants: RP
+      (13)   Car-wash facilities: RP
+      (14)   Cooling towers, boilers, chillers, and other heating and cooling
+systems utilizing potable water: RP
+      (15)   Chemical plants: RP
+      (16)   Chemically treated potable or non-potable water systems: RP
+      (17)   Civil works (government owned or operated facilities not open for
+inspection by the Department): RP
+      (18)   Commercial laundries: RP
+      (19)   Dairies and cold storage plants: RP
+      (20)   Dye works: RP
+      (21)   Film processing laboratories, facilities, or equipment: RP
+      (22)   Fire systems - as classified by the AWWA:
+         (a)   Class 1, Class 2: DC
+         (b)   Class 3, all systems: DC
+         (c)   Classes 4, 5, and 6, all systems: RP
+      (23)   Fire systems - where backflow protection is required on the
+industrial/domestic service connection that is located on the same premises,
+both service connections will have adequate backflow protection for the highest
+degree of hazard affecting either system.
+      (24)   Food processing plants: RP
+      (25)   High schools and colleges: RP
+      (26)   Holding tank disposal stations: RP
+      (27)   Hospitals and mortuaries (major complexes): RP
+      (28)   Medical and dental buildings, sanitariums, rest and convalescent
+homes engaged in the diagnosis, care, or treatment of human illness: RP
+      (29)   Irrigation systems (not to include single family residences used
+solely for residential purposes unless otherwise identified as having a cross-
+connection or backflow issue): PVB or SVB
+         (a)   Premises where non-potable water is used for irrigation: RP
+         (b)   Premises using potable water with non-potable water piping: RP
+         (c)   Premises having a system served by more than one service
+connection (looped system): RP
+         (d)   Premises where chemigation is practiced: RP
+      (30)   Laboratories using toxic materials: RP
+      (31)   Manufacturing, processing, and fabricating plants: RP
+      (32)   Mobile home parks (served by master meter): RP
+      (33)   Motion picture studios: RP
+      (34)   Multiple services - interconnected: RP
+      (35)   Multi-storied buildings (low hazard): DC
+      (36)   Multi-storied buildings (high hazard): RP
+      (37)   Multi-family - Three dwelling units or more per service connection
+(low hazard): DC
+      (38)   Multi-family - Three dwelling units or more per service connection
+(high hazard): RP
+      (39)   Office buildings (low hazard): DC
+      (40)   Office buildings (high hazard): RP
+      (41)   Oil and gas production facilities: RP
+      (42)   Paper and paper production facilities: RP
+      (43)   Plating plants: RP
+      (44)   Portable insecticide and herbicide spray tanks: RP or Air Gap
+      (45)   Power plants: RP
+      (46)   Radioactive materials processing facilities: RP
+      (47)   Restricted, classified, or other closed facilities: RP
+      (48)   Rubber plants: RP
+      (49)   Sand and gravel plants: RP
+      (50)   Sewage and storm drainage facilities: RP
+      (51)   Shopping centers and strip malls; retail and industrial shell
+buildings (served by master meter): RP
+      (52)   Public swimming pools with self-levelers or automatic fillers: PVB
+or SVB
+      (53)   Street sweepers, steel wheeled rollers: RP or Air Gap
+      (54)   Water trucks, water tanks, or hydraulic sewer cleaning equipment:
+RP or Air Gap
+      (55)   Hydrant meters connected to system to be used for irrigation, or
+any use not included in No. 54: RP
+      (56)   Buildings used for commercial mini-warehouses or industrial uses
+where one service connection supplies more than one tenant or occupant of the
+buildings: RP
+   (B)   When two or more of the activities listed above are conducted on the
+same premises and served by the same service connection, the most restrictive
+backflow prevention method required for any of the activities conducted on the
+premises shall be required to be utilized or installed at the service
+connection. The order of most restrictive to least restrictive backflow
+prevention method shall be as follows:
+      (1)   Air Gap (most restrictive)
+      (2)   Reduced Pressure Principle Assembly (RP)
+      (3)   Double Check Valve Assembly (DC)
+      (4)   Pressure Vacuum Breaker Assembly (PVB) (least restrictive)
+      (5)   Spill Resistant Vacuum Breaker Assembly (SVB) (variation of a PVB)
+   (C)   If the Department determines, after performing a cross-connection
+control survey of the customer's water supply system, that a backflow
+prevention method less restrictive than that required in §
+196-03 will provide adequate protection of the public potable water supply
+system, the Department may, at its sole discretion, modify the requirements of
+§
+196-06 for that customer.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-07 Backflow Assembly Installation Requirements.
+   (A)   Backflow prevention assemblies shall be installed and maintained by
+the customer, at the customer's expense, and in compliance with the
+construction standards and specifications adopted by the City of Yuma, at each
+service connection. Assemblies shall also be installed according to the
+manufacturer's specifications. The customer is responsible for notifying the
+Department of any installation, repair, relocation, or replacement.
+   (B)   Assemblies shall have a diameter at least equal to the diameter of the
+service connection or service line piping at the point of installation.
+   (C)   Assemblies shall be installed as close as practicable to the service
+connection.
+   (D)   Assemblies shall be in an easily accessible location, approved by the
+Department. No assembly shall be installed below ground in a meter box, pit, or
+vault.
+   (E)   When a customer desires a continuous water supply, also known as a
+critical service, two or more backflow prevention assemblies, of the same type,
+size, and manufacturer, shall be installed parallel to one another at the
+service connection. When backflow prevention assemblies are installed parallel
+to one another, the sum of the cross-sectional areas of the assemblies shall be
+at least equal to the cross-sectional areas of the service connection or
+service line piping at the point of installation. This allows for a continuous
+water supply while one of the assemblies is shut off for testing. At no other
+time shall an assembly be out of service.
+   (F)   Section
+196-07(C) of these regulations shall not apply to fire sprinkler systems. Fire
+system assemblies are addressed in §
+196-08.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-08 Installation of Backflow Prevention Assemblies for Fire Sprinkler
+Systems.
+   (A)   All control valves on the backflow device shall be locked in the open
+position or be tamper switch protected in accordance with the National Fire
+Protection Association.
+   (B)   When a backflow prevention assembly is required for a water service
+connection supplying water only to a fire sprinkler system, the assembly shall
+be installed on the service line in compliance with the standards and
+specifications adopted by the City of Yuma.
+   (C)   If the authority enforcing the International Fire Code determines that
+a fire system shall have a continuous water supply which may not be interrupted
+during testing of the backflow prevention assembly, the customer shall install,
+at their expense, two backflow prevention assemblies parallel to one another at
+the service connection. The cross-sectional area of each assembly shall be at
+least equal to the cross-sectional area of the service connection.
+   (D)   When a backflow prevention assembly is required for a building which
+already contains a fire sprinkler system, the sprinkler system shall be tested
+and certified by a licensed registrant in the State of Arizona that it will
+perform within the specification of the National Fire Protection Association
+and City of Yuma Fire Codes, after installation of the required assembly.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-09 Inspections, Testing, Maintenance, and Records.
+   (A)   A customer's water supply system shall be available at all times
+during business hours for inspection by authorized personnel of the Department.
+The inspection shall be conducted to determine whether any cross-connections or
+other hazard potentials exist and to determine compliance with this chapter.
+   (B)   The Department shall inspect all new sites, assembly installations,
+assembly relocations, and assemblies that have been repaired for compliance.
+   (C)   The customer shall test and service backflow prevention assemblies at
+least once per year. If the testing reveals the assembly to be defective or in
+an unsatisfactory operating condition, the customer shall perform necessary
+repairs, including replacement or overhaul of the assembly, if necessary, which
+will return the assembly to a satisfactory operating condition.
+   (D)   If the Department or customer learns or discovers, during the interim
+period between tests, that an assembly is defective or in an unsatisfactory
+operating condition, the customer shall perform any necessary repairs,
+including replacement or overhaul of the assembly, if necessary, which will
+return the assembly to satisfactory operating condition.
+   (E)   The annual testing shall be performed by an individual certified and
+approved to conduct such testing by an agency recognized by the Department. A
+list of certified, approved, and recognized individuals will be maintained by
+the Department and will be available upon request to all persons required to
+install or maintain a backflow prevention assembly. A tester may be suspended
+or removed from the list for improper testing, maintenance, reporting, or other
+improper practices, as determined by the Department.
+   (F)   The customer shall maintain records, on forms approved by the
+Department, of the results of all testing, servicing, repairs, overhauls, or
+replacements of the backflow prevention assembly. A copy of the records shall
+be submitted to the Department within 14 days after completion of the activity
+for which the record is made.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-10 Retroactive Application; System Retrofit.
+   (A)   The provisions of these regulations shall apply to all new water
+customers and all water customers existing prior to the enactment date of these
+regulations.
+   (B)   Backflow prevention assemblies installed prior to enactment of these
+regulations, and which do not comply with the requirements set forth herein,
+shall be replaced with assemblies which comply with the standards set forth
+herein.
+   (C)   All water customers existing prior to the enactment of these
+regulations shall comply with the standards set forth herein within a period of
+time as determined by the Department. The maximum time allowed for compliance
+shall be July 1, 2027.
+   (D)   A change of ownership, name change, or type of use change shall
+require a new survey of use. If the survey determines that a backflow
+prevention assembly is required, installation needs to be completed before
+granting the change of use.
+   (E)   Fire sprinkler system which will require retrofit prior to July 1,
+2027:
+      (1)   A fire sprinkler system designed by a pipe schedule which is
+modified, expanded, or augmented under issuance of a building permit.
+      (2)   A fire sprinkler system designed by hydraulic calculation which is
+modified in an area equal to the size of the design area or affecting ten
+sprinkler heads.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-11 Plan Review.
+   (A)   All backflow prevention assemblies, which will be installed, shall be
+shown and specified on all required building and engineering plans. City
+approval of the intended assembly installation is required prior to issuance of
+any building or engineering permit.
+   (B)   Plumbing permits for the installation of all backflow prevention
+assemblies, required by the City, shall be obtained from the City prior to
+installation.
+   (C)   Replacement of existing backflow prevention assemblies shall require a
+plumbing permit.
+   (D)   Backflow prevention assemblies shall be installed to meet the
+construction standard specifications of the City of Yuma, tested by a certified
+tester, and shown to be operating correctly. A copy of all testing records
+shall be submitted to the Department within 14 days of installation.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-12 Fees.
+   (A)   A monthly service fee may be established by City Council resolution to
+cover the costs of implementing and enforcing these regulations and, if
+established, shall be charged to every customer who is required to install a
+backflow prevention assembly. The fee shall be included in the customer's
+monthly water bill.
+   (B)   A fee may be established by the City for any permits issued or testing
+records submitted to the Department pursuant to the terms of this chapter.
+(Ord. O2025-046, passed 11-19-25)
+§ 196-13 Enforcement.
+   (A)   It shall be unlawful for any person, company, or organization to
+bypass or remove a backflow prevention method without the approval of the
+Department. Any person, company, or organization violating the provisions of
+this paragraph shall be guilty of a Class 1 misdemeanor and, upon conviction
+thereof, shall be punished by a fine not to exceed $1,000.00 or by imprisonment
+for not more than ten days, or by both fine and imprisonment. Each separate day
+or part thereof, during which any violation of this paragraph occurs or
+continues, shall be deemed to constitute a separate offense and, upon
+conviction thereof, shall be punishable as herein provided.
+   (B)   If the Department discovers that a customer has not installed a
+required backflow prevention method or that a backflow prevention method has
+been improperly tested, maintained, bypassed or removed, or that an unprotected
+cross-connection exists in the customer's water supply system, the water
+service to that service connection shall be disconnected if the situation is
+not remedied within the time specified in the notice sent to the customer as
+required by this section. The service shall not be restored until the condition
+is remedied.
+   (C)   Water service to a fire sprinkler shall not be subject to
+disconnection under this section. If a situation, which could otherwise result
+in discontinuance of water service in subsection B. above, is not remedied
+within the time provided in the notice sent to the customer, the customer shall
+be guilty of a Class 1 misdemeanor and, upon conviction thereof, shall be
+punished by a fine not to exceed $1,000.00 or by imprisonment for not more than
+ten days, or by both fine and imprisonment. Each separate day or part thereof,
+during which any violation of this paragraph occurs or continues, shall be
+deemed to constitute a separate offense and, upon conviction thereof, shall be
+punishable as herein provided.
+   (D)   Prior to disconnecting any water services because of a condition set
+forth in §
+196-13(B) above, the Department shall first notify the customer of the
+noncompliant condition with a courtesy letter describing the condition and the
+steps needed to address it. The customer shall have 45 days to remedy the
+condition to remain in compliance. If the non-compliant condition has not been
+remedied after 45 days, the customer will be sent a notice of non-compliance
+stating that they have 15 days to remedy the condition. If the condition is
+still not remedied within the 15 days, the customer will be sent a notice of
+violation, through certified mail, or delivered in-person using an
+acknowledgment receipt, stating that water services will be disconnected within
+seven days if the condition is not remedied within such time period.
+   (E)   The Department may disconnect, without notice, water service to any
+customer when the Department discovers that the customer's water supply system
+is contaminating the public potable water supply.
+(Ord. O2025-046, passed 11-19-25)
 Title 21: Streets and Traffic Code
    Chapter
       
@@ -39637,7 +40177,7 @@ a tractor, semitrailer, trailer, bus, motor home or recreational vehicle for
 more than five consecutive minutes on a local or collector street in a
 residential zone. Residential deliveries are exempt from the parking time
 limitation if the delivery vehicle is being loaded or unloaded.
-[https://export.amlegal.com/media/a146579aae9dc0ee2beaa7274862dede52becf81/
+[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
 IMAGES/0-0-0-7724.jpg]
  
    (B)    Moving vans, motor homes and recreational vehicles shall be exempt
@@ -43155,6 +43695,11 @@ O2025-035 9-17-25     150-170,
                       150-171
 O2025-036 9-17-25     150-090,
                       150-091
+O2025-036 9-17-25     150-090,
+                      150-091
+                      154-01.07,
+O2025-038 11-5-25     154-09.02,
+                      154-09.03
                      
  
  
