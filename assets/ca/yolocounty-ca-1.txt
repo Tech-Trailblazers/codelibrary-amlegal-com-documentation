@@ -1,8 +1,8 @@
 YOLO COUNTY, CA
 CODE OF ORDINANCES
 Supplement 2025 S-20 includes:
-Local legislation current through Ord. 1574,
-effective July 3, 2025
+Local legislation current through Ord. 1579,
+effective December 4, 2025
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -11995,7 +11995,7 @@ observe the approved traffic pattern for the Yolo County Airport, emergency
 landings excepted; provided, however, the Board, by rule, may approve alternate
 traffic patterns for commercial crop dusting aircraft. (Ord. 773, eff. April
 14, 1977, as amended by 8 1, Ord. 812, eff. July 27, 1978)
-[https://export.amlegal.com/media/9f3594854fc2a3e8fea6ed23d545e57ca75a0ffb/
+[https://export.amlegal.com/media/22afa2fc7bb3b27a935a989b27befbb51352483b/
 IMAGES/0-0-0-19.jpg]
    PATTERN ALTITUDE 900 ft. MSL
    YOLO COUNTY AIRPORT
@@ -19791,9 +19791,11 @@ Article 8. Permits
    
 6-8.802.1   Permits: Inspections.
    
+6-8.802.2   Permits; Reports.
+   
 6-8.803   Permits: Form.
    
-6-8.804   Permits: Term.
+6-8.804   Application and Permits: Term; Expiration.
    
 6-8.805   Permits: Fees.
    
@@ -19847,6 +19849,8 @@ standards.
 6-8.1011   Water supply wells: Abandonment.
    
 6-8.1012   Wells: Exceptions from standards.
+   
+6-8.1013   Wells: Verification by Applicable Groundwater Sustainable Agency.
 Article 11. Water Conservation
    
 6-8.1101   Application.
@@ -20075,12 +20079,17 @@ Sec. 6-8.422.   Well.
    “Well” shall mean any artificial excavation constructed by any method for
 the purpose of extracting liquid from, or injecting liquid into, the
 underground. “Well” shall include the following:
-   (a)   Water supply well. “Water supply well” shall mean a well constructed
+   (a)   Water supply well. "Water supply well" shall mean a well constructed
 for the extraction of ground water and shall include:
    (1)   Individual domestic wells which supply an individual residence or
-duplex;
+duplex that produce less than two acre-feet per year for use on the same parcel
+as the domestic well and are intended for such domestic, non-commercial uses
+associated with a residential dwelling and related yard, garden and barnyard
+uses, and small personal crops within the same parcel as the residential
+dwelling; and
    (2)   Public wells which serve three (3) or more residences or a school,
-employee housing facility, or commercial establishment;
+employee housing facility, or commercial establishment and public supply system
+wells as defined in Health & Safety Code section 116275;
    (3)   Community domestic wells which supply domestic water supply systems;
    (4)   Industrial wells which supply industry on an individual basis; and
    (5)   Irrigation wells which supply water for agricultural and landscape
@@ -20095,7 +20104,7 @@ ground water or otherwise contribute to ground water quantity or quality.
 mean a well constructed at least twenty-five (25') feet deep for the purposes
 of installing facilities to electrically protect metal in contact with the
 ground. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord. 1470,
-eff. July 14, 2016)
+eff. July 14, 2016; as amended by § 2, Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.423.   Public water supply system.
    "Public water supply system" shall mean the utility serving five (5) or more
 connections through an integrated piping system; five (5) or more residences or
@@ -20280,31 +20289,57 @@ for the inspections at the appropriate times.
 6-8.805 of this article. (§ 10, Ord. 811, eff. July 27, 1978, as amended by §
 1, Ord. 814, eff. September 28, 1978, and § 6, Ord. 1015, eff. August 15, 1985;
 as amended by § 3, Ord. 1470, eff. July 14, 2016)
+Sec. 6-8.802.2.   Permits; Reports.
+   (a)   Well completion reports; verification of pumping capacity for
+irrigation wells. As required by section 13751 of the California Water Code,
+which may be amended from time to time, every person who digs, bores, or drills
+a well, abandons or destroys such a well, or deepens or reperforates such a
+well; shall file a Well Completion Report of that well with the Department of
+Water Resources and the Enforcement Officer within 60 days of the date of
+completion.
+   (b)   Well Pumping Capacity report. In addition to the well completion
+report, reports submitted to the Enforcement Officer for new irrigation wells
+must also include Aa well pumping report verifying the pumping capacity of the
+irrigation/agricultural well after the pump is installed and prior to
+production must be submitted to the Enforcement Officer.
+(§ 2, Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.803.   Permits: Form.
    All permits issued pursuant to this chapter shall be in a form prescribed by
 the Board. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord. 1470,
 eff. July 14, 2016)
-Sec. 6-8.804.   Permits: Term.
+Sec. 6-8.804.   Application and Permits: Term; Expiration.
    (a)   Permits to supply water for domestic uses shall be void immediately
 upon the occurrence of a material change in the operation of the supply system.
-   (b)   Permits for the construction, reconstruction, repair, abandonment, or
+   (b)   Each application submitted for a permit for the construction,
+reconstruction, repair, abandonment, or change in use of a well shall expire
+and become null and void within one (1) year of the date of submittal unless a
+permit is issued as set forth in
+6-8.804(c).
+   (c)   Prior to the expiration of the application as provided under
+6-8.804(b), the applicant holding an unexpired well application may apply for
+an extension of time for a period not exceeding one hundred eighty (180) days.
+No application shall be extended more than once.
+   (d)   Permits for the construction, reconstruction, repair, abandonment, or
 change in use of a well shall expire and become null and void if the work
-authorized by such permit is not commenced within 120 days after the date of
-such permit or if the building or work authorized by such permit is suspended
-or abandoned at any time after the work is commenced for a period of 120 days.
-Before such work may be resumed, a new permit shall be first obtained to do so,
-and a fee therefor shall be charged of one-half (1/2) the amount required for a
-new permit for such work provided no changes have been made or will be made in
-the original plans and specifications for such work and provided, further, the
-period of suspension or abandonment does not exceed one year.
-   (c)   Permits for the construction, reconstruction, repair, abandonment, or
+authorized by such permit is not completed within two years after the issuance
+date of such permit.
+   (e)   Permits may be extended for up to two additional years provided that
+no changes have been made or will be made to the original approved plans and
+specifications. The extension request must be made prior to the permit
+expiration date and the permit may only be extended one time.
+   (f)   All well permit application and permit extensions authorized in this
+Section
+6-8.804 are subject to compliance with the well permitting procedures in effect
+at the time the new permit is approved.
+   (g)   Permits for the construction, reconstruction, repair, abandonment, or
 change in use of a well shall be secured prior to the start of any work.
 Failure to secure the permit prior to the start of the work shall result in the
 permittee being assessed a penalty equal in cost to the permit fee (double fees
 for permits). The only exception made shall be for emergency repairs, as set
-forth in subsection ((f) of Section 6-8.606 of Article 6 of this chapter. (§ 1,
-Ord. 765, eff. October 7, 1976, as amended by § 11, Ord. 811, eff. July 27,
-1978; as amended by § 3, Ord. 1470, eff. July 14, 2016)
+forth in subsection (f) of Section
+6-8.606 of Article 6 of this chapter. (§ 1, Ord. 765, eff. October 7, 1976, as
+amended by § 11, Ord. 811, eff. July 27, 1978; as amended by § 3, Ord. 1470,
+eff. July 14, 2016; as amended by § 2, Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.805.   Permits: Fees.
    If the Board of Supervisors shall establish a schedule of fees by
 resolution, permits or entitlements issued under the provisions of this chapter
@@ -20320,44 +20355,42 @@ Ord. 814, eff. September 28, 1978; as amended by § 3, Ord. 1470, eff. July 14,
 2016)
 Sec. 6-8.806.   Permits: Decision by Enforcement Officer: Appeals.
    All decisions, determinations, and actions of the Enforcement Officer as to
-applications for permits may be appealed to the Board by any aggrieved person.
-(§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord. 1470, eff. July
-14, 2016)
+applications for permits may be appealed to the Planning Commission by any
+aggrieved person pursuant to Section
+8-2.225 of the Yolo County Code of Ordinances. A decision of an appeal to the
+Planning Commission may be appealed to the Board of Supervisors in the same
+manner. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord. 1470,
+eff. July 14, 2016; as amended by § 2, Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.807.   Decisions of Enforcement Officer: Finality and validity.
    The decision of the Enforcement Officer rendered pursuant to the provisions
-of this chapter shall be final, unless appealed to the Board within thirty (30)
-days after such decision is rendered in writing, and notice of the same is
-given to the applicant by certified mail. (§ 1, Ord. 765, eff. October 7, 1976;
-as amended by § 3, Ord. 1470, eff. July 14, 2016)
+of this chapter shall be final, unless appealed to the Planning Commission
+within the time period established in Section
+8-2.225 of the Yolo County Code of Ordinances. (§ 1, Ord. 765, eff. October 7,
+1976; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord.
+1579, eff. December 4, 2025)
 Sec. 6-8.808.   Appeals: Procedure.
    Appeals from all orders, decisions, and determinations of the Enforcement
 Officer shall be made in writing, and shall specify and set forth the grounds
 for the appeal; and shall be filed by the appellant with the Clerk of the
-Board. The Board shall set the matter for a hearing no later than thirty (30)
-days after such filing and shall give the appellant and all concerned persons
-no less than fifteen (15) days' written notice of such date of hearing by
-certified mail. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord.
-1470, eff. July 14, 2016)
+Board. The Planning Commission shall set the matter for a hearing and give
+notice of such hearing as provided in Section
+8-2.225 of the Yolo County Code of Ordinances. (§ 1, Ord. 765, eff. October 7,
+1976; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord.
+1579, eff. December 4, 2025)
 Sec. 6-8.809.   Appeals: Hearings and determinations.
-   Upon hearing the appeal, the Board shall grant the permit, or grant the
-permit upon conditions, if it is found that the project or activity applied for
-meets the standards contained in or determined as set forth and described in
-this chapter.
-   In the event the applied-for project or activity fails to meet and comply
-with the standards contained in or determined as set forth in this chapter, the
-Board shall deny the application.
-   The Board, for good cause shown, may impose other conditions or requirements
-for such permit. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord.
-1470, eff. July 14, 2016)
+   Permit appeals shall be heard and determined in accordance with Section 8-
+2.225 of the Yolo County Code of Ordinances. (§ 1, Ord. 765, eff. October 7,
+1976; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord.
+1579, eff. December 4, 2025)
 Sec. 6-8.810.   Decisions of Board: Finality and validity.
    Any action or proceeding to attack, review, set aside, void, or annul the
-decision of the Board, or of any of the proceedings, acts, or determinations
-taken, done or made prior to such decision, or to determine the reasonableness,
-legality, or validity of any condition attached thereto, shall not be
-maintained by any person, unless such action or proceeding is commenced and the
-service of the summons effected within thirty (30) days after the date of the
-rendition in writing of such decision. (§ 1, Ord. 765, eff. October 7, 1976; as
-amended by § 3, Ord. 1470, eff. July 14, 2016)
+decision of the Planning Commission or the Board of Supervisors, if applicable,
+of an appeal filed pursuant to this article, shall not be maintained by any
+person, unless such action or proceeding is commenced and the service of the
+summons effected within thirty (30) days after the date of the rendition in
+writing of such decision. (§ 1, Ord. 765, eff. October 7, 1976; as amended by §
+3, Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord. 1579, eff. December
+4, 2025)
 Sec. 6-8.811.   Permits: Nontransferable.
    Permits issued under the provisions of this chapter may not be transferred,
 assigned, or set over by the permittee to any other person.
@@ -20367,8 +20400,11 @@ designated in such permit, and such activity may not be undertaken at any other
 location. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord. 1470,
 eff. July 14, 2016)
 Sec. 6-8.812.   Permits: Revocation.
-   Any permit issued pursuant to this chapter may be revoked by the Board upon
-a petition by the Enforcement Officer if the Board finds that:
+   Any permit issued pursuant to this chapter may be revoked by the Planning
+Commission
+consistent with the procedures in Section
+8-2.225 of the Yolo County Code of Ordinances upon a petition by the
+Enforcement Officer if it finds that:
    (a)   The activity or project has caused or become a public nuisance; or
    (b)   The permittee has violated a condition of the permit; or
    (c)   Due to a change of circumstances and conditions at the site of the
@@ -20376,7 +20412,8 @@ activity or project, the continuance of the project is hazardous to the public
 health, welfare, or safety; or
    (d)   The applicant for the permit made a material misrepresentation of fact
 in his application. (§ 1, Ord 765, eff. October 7, 1976; as amended by § 3,
-Ord. 1470, eff. July 14, 2016)
+Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord. 1579, eff. December 4,
+2025)
 Sec. 6-8.813.   Permits: Revocation: Petitions.
    A petition to revoke a permit shall be filed with the Clerk of the Board by
 the Enforcement Officer, accompanied by a statement of the grounds or reasons
@@ -20468,14 +20505,27 @@ Sec. 6-8.1004.   Water supply wells: Locations.
    (a)   All water supply wells shall be located a safe distance from potential
 sources of contamination and pollution.
    (b)   No water supply well shall be located within the minimum distances
-from the features specified in Table No. 3 set forth in Section 6-8.1005 of
-this article.
-   (c)   The location of each water supply well for which an application is
+from the features specified in Table No. 3 set forth in Section
+6-8.1005  of this article.
+   (c)   No irrigation well shall be located within the minimum distances from
+other wells specified in Table No. 4 set forth in Section
+6-8.1005 of this article unless exempt from Table No. 4 as provided in Section
+6-8.1005 of this article. The County requires minimum well separation distances
+for ensuring proposed new irrigation wells or irrigation well alterations are
+unlikely to interfere with the function and operation of nearby wells. Table
+No. 4, below, presents these minimum required distances from nearby active
+wells, excluding wells to be abandoned upon completion of the new replacement
+well if applicable, according to the proposed well pumping capacity and
+proposed well location in relation to Valley Floor or Upland areas. The minimum
+well separation distances in Table No. 4 were developed with consideration of
+the hydrogeologic and well characteristics within the County.
+   (d)   The location of each water supply well for which an application is
 made shall be approved by the Enforcement Officer. (§ 1, Ord. 765, eff. October
-7, 1976; as amended by § 3, Ord. 1470, eff. July 14, 2016)
+7, 1976; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2,
+Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.1005.   Water supply wells: Spacing.
-   Table No. 3, referred to in Section 6-8.1004 of this article, is set forth
-as follows:
+   (a)   Table No. 3, referred to in Section
+6-8.1004(b) of this article, is set forth as follows:
 TABLE NO. 3
 Water Supply Well Spacing (Feet)
  
@@ -20495,8 +20545,71 @@ Hazardous
 substance      100            100                100              100
 operations
  
+   (b)   Table No. 4, referred to in Section
+6-8.1004(c) of this article, is set forth as follows:
+   TABLE NO. 4
+   Irrigation Well Spacing (Feet) from Other Wells
+Pumping Capacity (gallons per minute) Minimum Well Separation Distance (feet)
+Irrigation Wells Within the Valley Floor Areas of the County
+Pumping Capacity (gallons per minute) Minimum Well Separation Distance (feet)
+Irrigation Wells Within the Valley Floor Areas of the County
+<500                                  250
+500-999                               500
+1,000-1,499                           1,000
+1,500-1,999                           2,000
+<2,000                                Report Required
+Irrigation Wells in the Upland Areas of the County
+<15                                   500
+15-99                                 1,000
+<100                                  Report Required
+ 
+   Note: For Delineation of Valley Floor Areas and Upland Areas, refer to Graph
+1.
+   Graph 1: Map of Groundwater Subbasins Overlapping Yolo County with
+Delineation of Valley
+[https://export.amlegal.com/media/22afa2fc7bb3b27a935a989b27befbb51352483b/
+IMAGES/0-0-0-10947.png]
+ 
+For all irrigation wells, as defined in Section
+6-8.422(a)(5) of this chapter, but excluding minor modifications to existing
+irrigation wells, the applicant must submit a map and list of known active
+wells within a radial distance equal to the minimum separation distance set
+forth in
+Table No. 4, plus 500 feet. The map should include the proposed well site with
+known nearby active domestic, public supply, agricultural/irrigation,
+industrial, or other groundwater production wells. Active wells include wells
+recently operated (within last five years) as production wells and equipped
+with an operational pumping and discharge assembly, or wells in the process of
+being prepared to be operated. The table listing known nearby wells must
+include the well type, latitude/longitude coordinates, distance from the
+proposed well site (in feet), and Assessor’s Parcel Number (APN). Any wells
+owned by the applicant should be indicated on the map and list of nearby wells.
+The Enforcement Oficer will review the information on nearby wells provided by
+the applicant in conjunction with additional review of available well location
+information from the Division of Environmental Health’s database to confirm the
+minimum well separation is satisfied. However, it is the responsibility of the
+permit applicant to investigate and confirm the accuracy and completeness of
+the list of nearby wells.
+   (c)   Exceptions to Table No. 4 separation distance requirements. For
+purposes of
+Table No. 4 , an irrigation well does not include:
+      (1)   Minor modifications. Minor modifications to existing irrigation
+wells that do not increase the discharge rate for the well or significantly
+alter the depth interval from which groundwater is extracted with the well.
+Minor modifications may include activities such as installing casing liners,
+patches, or other work although such work must not modify the well in a manner
+that increases the total groundwater pumping capacity.
+      (2)   Common ownership exception. Existing wells owned by the applicant
+that are located on the same parcel as the proposed well or on a parcel
+adjacent to the parcel with the proposed irrigation well are exempt from the
+minimum well separation distance requirements set forth in
+Table No. 4 .
+      (3)   Irrigation wells supported by a hydrogeologist report as set forth
+in Section
+6-8.1012 of this article.
 (§ 1, Ord. 765, eff. October 7, 1976, as amended by § 7, Ord. 1015, eff. August
-15, 1985; as amended by § 3, Ord. 1470, eff. July 14, 2016)
+15, 1985; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2,
+Ord. 1579, eff. December 4, 2025)
 Sec. 6-8.1006.   Water supply wells: Casings.
    (a)   Except as otherwise provided in this section, all wells shall be cased
 using casing materials and installation methods in accordance with Sections 12A
@@ -20522,7 +20635,7 @@ Section 6-8.1007 of this article. (§ 1, Ord. 765, eff. October 7, 1976, as
 amended by § 15, Ord. 811, eff. July 27, 1978; as amended by § 3, Ord. 1470,
 eff. July 14, 2016)
 Sec. 6-8.1007.   Water supply wells: Annular seals.
-[https://export.amlegal.com/media/9f3594854fc2a3e8fea6ed23d545e57ca75a0ffb/
+[https://export.amlegal.com/media/22afa2fc7bb3b27a935a989b27befbb51352483b/
 IMAGES/0-0-0-21.jpg]
  
    The annular space between the drilled hole and the outermost casing shall be
@@ -20642,8 +20755,46 @@ days after notification by the Enforcement Officer that it has been established
 that the well has failed and directing that the well be abandoned.
    (d)   Drainage, dewatering, and slope stability wells. Licensed drillers
 shall not be required for the construction of drainage, dewatering, and slope
-stability wells. (§ 1, Ord. 765, eff. October 7, 1976; as amended by § 3, Ord.
-1470, eff. July 14, 2016)
+stability wells.
+   (e)   Irrigation wells supported by hydrogeologist report. Irrigation wells
+are not required to comply with the well spacing requirements in
+Table No. 4  set forth in Section
+6-8.1005 of this article if the application is supported by a report prepared
+by a licensed professional geologist or hydrogeologist approved by the
+Enforcement Officer. Such a report must include a map and list of known wells
+within the appropriate separation distance demonstrated in the report, plus an
+additional 500 feet. The report must also include technical analyses and
+justification for why the proposed separation distance is unlikely to impact
+the function and operation of nearby wells. (§ 1, Ord. 765, eff. October 7,
+1976; as amended by § 3, Ord. 1470, eff. July 14, 2016; as amended by § 2, Ord.
+1579, eff. December 4, 2025)
+Sec. 6-8.1013.   Wells: Verification by Applicable Groundwater Sustainability
+Agency.
+   (a)   The Groundwater Sustainability Agencies (GSA) within each of the three
+subbasins in Yolo County are responsible for implementing the groundwater
+sustainability plans (GSP) covering their jurisdiction and managing groundwater
+in a manner that is consistent with the GSP. The GSPs have defined sustainable
+management criteria including minimum thresholds, measurable objectives, and
+undesirable results for all applicable sustainability indicators. The GSAs in
+the three subbasins have the authority and responsibility to ensure groundwater
+management is sustainable in the subbasins and undesirable results are avoided.
+Accordingly, the Enforcement Officer will submit all irrigation well permit
+applications to the applicable GSA for review and verification in accordance
+with the review procedures of the pertinent GSA to determine whether the
+proposed well is consistent with the adopted GSP. Applicants must comply with
+all applicable verification requirements of the applicable GSA. Most of the
+County is within the Yolo Subbasin and well permits in the Yolo Subbasin will
+be referred to the YSGA for evaluation. If the applicable GSA includes best
+management or other proposed or recommended conditions for the well as part of
+its written verification, the Enforcement Office shall include those items as
+required conditions of the irrigation well permit. No irrigation well shall be
+approved without written verification from the applicable GSA.
+   (b)   Exceptions. The GSA verification requirements shall only apply to new
+irrigation wells as defined in Section
+6-8.422(a)(5) of this chapter and shall exclude other water supply wells and
+minor modifications of irrigation wells exempt from the well separation
+distances set forth in Table No. 4 of Section
+6-8.1005 of this article. (§ 2, Ord. 1579, eff. December 4, 2025)
 Article 11.
 Water Conservation
 Sec. 6-8.1101.   Application.
@@ -42431,7 +42582,7 @@ Parallel (0°)   9 ft            18 ft          9 ft            12 ft (one-way)
  
 Figure 8-2.1311
 Off-Street Parking Dimensions
-[https://export.amlegal.com/media/9f3594854fc2a3e8fea6ed23d545e57ca75a0ffb/
+[https://export.amlegal.com/media/22afa2fc7bb3b27a935a989b27befbb51352483b/
 IMAGES/0-0-0-9766.jpg]
    (1)   Enclosed parking spaces. Enclosed parking spaces (i.e. residential
 garages) shall be at least ten feet in width and twenty feet in length (10’ x
@@ -69700,5 +69851,7 @@ Number    Date
 1573      5-8-2025  2-2.1301 - 2-2.1308, 2-5.2103, 2-5.2104, 4-1.03
 1574      7-3-2025  4-2.101, 4-2.102, 4-2.104, 4-2.105, 4-2.201, 4-2.401, 4-2.402, 4- 2.405, 4-2.406,
                     4-2.409 - 4-2.411, 4-2.413, 4-2.414, 4-2.501 - 4-2.504, 4-2.601, 4-2.603
+1579      12-4-2025 6-8.422, 6-8.802.2, 6-8.804, 6-8.806 - 6-8.810, 6-8.812, 6-8.1004, 6-8.1005, 6-
+                    8.1012, 6-8.1013
                    
  
