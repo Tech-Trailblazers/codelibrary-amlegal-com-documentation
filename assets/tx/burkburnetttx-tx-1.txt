@@ -5464,11 +5464,11 @@ shall be reduced to sufficient size and shape to permit handling by one man.
 Trimmings with diameter of five inches or less may be up to 12 feet in length.
 Trimmings with diameter over five inches must not weigh over 50 pounds. This
 work will be picked up at the discretion of the city, with rates established by
-the Board of Commissioners at $25 for the first hour. Each half hour thereafter
-will be $10. This service will not be provided when the work is performed by
+the Board of Commissioners at $85 for the first hour. Each half hour thereafter
+will be $55. This service will not be provided when the work is performed by
 professional tree service.
 (Ord. 356, passed 5-22-78; Am. Ord. 495, passed 8-17-92; Am. Ord. 515, passed
-9-20-93; Am. Ord. 522, passed 3-21-94)   
+9-20-93; Am. Ord. 522, passed 3-21-94; Am. Ord. 1083, passed 4-21-25)
 § 50.08 DISPOSAL OF DEAD ANIMALS, MANURE, AND THE LIKE.
    (A)   No rocks, dirt, glass, dead fowl, manure, chicken or rabbit droppings,
 human excretion or dead animals shall be placed in garbage containers provided
@@ -8193,7 +8193,7 @@ Section
 Service  Fee
 Service                                              Fee
                           Payable on all permits
-Issuance fee              issued by the Public Works $25.00
+Issuance fee              issued by the Public Works $50.00
                           Department in addition to
                           other fees set out below
                                                     
@@ -8247,12 +8247,12 @@ Culvert sets                                        $75.00
 Technology fee for
 infrastructure updates to                           $35.00
 new services
-                                                     $25.00 for 30 minutes +
-Brush truck fee                                     $10 per each additional
-                                                     hour
+                                                     $85 for the first hour +
+Brush truck fee                                     $55 per each additional
+                                                     half hour
  
-(Ord. 989, passed 12-21-20; Am. Ord. 1092, passed 8-18-25; Am. Ord. 1103,
-passed - -25)
+(Ord. 989, passed 12-21-20; Am. Ord. 1083, passed 4-21-25; ; Am. Ord. 1092,
+passed 8-18-25; Am. Ord. 1102, passed 10-20-25; Am. Ord. 1103, passed - -25)
 TITLE VII: TRAFFIC CODE
    Chapter
       
@@ -13636,7 +13636,7 @@ pylon signs.
 area.
          (e)   The lowest point of the sign face shall not exceed two feet
 above normal grade.
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2237.png]
  
          (f)   Finish materials for pylon signs shall be stone, brick, split
@@ -28882,25 +28882,25 @@ Cross-reference:
 156.02
 APPENDIX A-4. ILLUSTRATIONS
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2723.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2725.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2727.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2729.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2731.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2733.png]
  
-[https://export.amlegal.com/media/e8555c1c9726977599e2f71c87bbe29c89dba86b/
+[https://export.amlegal.com/media/32677931aab6572706fc1c741a3cb25ad51e58c9/
 IMAGES/0-0-0-2735.png]
  
  
@@ -30025,6 +30025,8 @@ ORD. NO. DATE PASSED CODE SECTION
                      50.10,
 1077     12-16-24    53.30,
                      53.51
+1083     4-21-25     50.07,
+                     55.01
 1088     7-21-25     36.23
                      36.22,
 1089     8-18-25     36.25,
@@ -30038,7 +30040,8 @@ ORD. NO. DATE PASSED CODE SECTION
 1094     8-18-25     50.10
 1096     8-18-25     31.16
 1097     9-15-25     T.S.O. II
-1102     10-20-25    156.01
+1102     10-20-25    55.01,
+                     156.01
 1103     -25         53.28,
                      55.01
                     
