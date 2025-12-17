@@ -1,7 +1,7 @@
 CANBY, OREGON
 CODE OF ORDINANCES
-2023 S-16 Supplement contains:
-Local legislation current through Ord. 1594, passed 4-19-23
+2025 S-17 Supplement contains:
+Local legislation current through Ord. 1655, passed 9-3-25
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -18266,7 +18266,8 @@ Chapter 16 was updated by the City of Canby City Council on 7/16/2008 with Ord.
 1286, 9/3/2008 with Ord. 1294, 10/1/2008 with Ord. 1296, 2/20/2013 with Ord.
 1369, 9/17/2014 with Ord. 1398, 10/21/2015 with Ord. 14, 9/4/2019 with Ord
 1514, 12/2/2020 with Ord 1539, 5/4/2022 with Ord. 1570, 9/7/2022 with Ord.
-1584, and 5/3/2023 with Ord. 1597.
+1584, 5/3/2023 with Ord. 1597, with Ord 1634, 9/20/2024, with Ord. 1655, 9/3/
+2025.
 Division I. – GENERAL PROVISIONS
 Chapter 16.02
 TITLE
@@ -18383,6 +18384,8 @@ Sections:
    
 16.04.220   Family.
    
+16.04.220.1   Fence.
+   
 16.04.221   Floor area ratio.
    
 16.04.221.1   Food Cart Pod.
@@ -18396,6 +18399,8 @@ Sections:
 16.04.228   Grade plane.
    
 16.04.230   Height of building.
+   
+16.04.230.1   Height of fence.
    
 16.04.240   Home occupation.
    
@@ -18807,6 +18812,13 @@ legal guardianship living together in a dwelling unit. Five or fewer
 handicapped persons, along with those individuals charged with caring for such
 persons and sharing a common dwelling unit, shall be considered to be a family
 for purposes of this title. (Ord. 740 section 10.1.20(B) [part], 1984)
+16.04.220.1 Fence.
+A fence is a structure composed of wood, metal, plastic, masonry, or other
+permanent non-vegetated material erected in such a manner as to enclose or
+partially enclose all or any part of an outdoor space. Trellises, arbors, and
+similar structures supporting or for the purpose of supporting vegetation when
+erected in such position as to enclose all or any part of any premises shall be
+included within this definition. (Ord. 1655, 2025)
 16.04.221   Floor area ratio.
 Floor area ratio means a method of calculating structural massing on a lot.
 Floor Area Ratio is expressed as a ratio of x divided by y, where x is equal to
@@ -18846,6 +18858,12 @@ Height of building means the vertical distance from the grade to the highest
 point of the coping of a flat roof or to the deck line of a mansard roof or to
 the height of the highest gable of a pitch or hip roof. (Ord. 740 section
 10.1.20(B) [part], 1984; Ord. 1514, 2019)
+16.04.230.1 Height of fence.
+The height of a fence is the vertical distance from the finished grade at the
+base of the fence to the top of the boards or panels, not including decorative
+elements such as post caps or finials. If the adjacent finished grade is
+different on opposite sides of the fence, the height is measured from the side
+with the highest finished grade. (Ord. 1655, 2025)
 16.04.240   Home occupation.
 Home occupation means a lawful activity commonly carried on within a dwelling
 by members of the family occupying the dwelling with not more than one non-
@@ -19574,8 +19592,6 @@ Sections:
    
 16.08.110   Fences.
    
-16.08.115   Arbors
-   
 16.08.130   Standard transportation improvements.
    
 16.08.140   Temporary vendor.
@@ -19676,69 +19692,58 @@ utility poles and other similar projections. The height of wireless
 telecommunications systems facilities shall be in accordance with section
 16.08.120. (Ord. 740 section 10.3.05(J), 1984; Ord. 981 section 18, 1997)
 16.08.110   Fences.
-   A.   Fences not more than three and one-half feet in height may be
-constructed within the street setbacks of any R-1, R-1.5, R-2 or C-1 zone.
-Fences not more than six feet in height may be constructed in any interior
-yard, rear yard, or street yard along an alley; provided, however, that in no
-case shall a fence be constructed in violation of the requirements of a vision
-clearance area.
-   B.   On corner lots, the 3.5-foot height limit will apply within the
-required setback along both street-facing yards.
-   C.   No more than one row of fencing is allowed within a required street
-yard setback.
-   D.   The Planning Commission may require sight-blocking or noise mitigating
-fences for any development it reviews.
-   E.   Fences of up to eight feet in height are permitted for any development
-in C-2, C-M, M-1 or M-2, or Planned Unit Development zones.
-   F.   No fence/wall shall be constructed throughout a subdivision, planned
+The City's fence code is intended to balance privacy with safety and aesthetic
+considerations.
+   A.    In no case shall a fence be constructed in the vision clearance
+triangle of a street, alley, or pedestrian/bicycle pathway. This applies in all
+zones and in all lot configurations and supersedes all permitted fence heights
+identified in the subsections below. As defined in
+Chapter 16.04, vision clearance triangles must be free of obstructions between
+two and one-half feet and ten feet in height.
+   B.    Fences not more than three and one-half feet in height may be
+constructed within the front street setbacks of any R-1, R-1.5, R-2, C-R, or C-
+1 zone. Fences not more than six feet in height may be constructed in any
+interior yard, rear yard, or along an alley.
+   C.    On corner lots, fences may be constructed up to six feet in height
+along the secondary street frontage in the side yard setback (i.e., in the
+street-adjacent side yard), except where the side setback overlaps the lot's
+front setback. As with all fences within the front setback, fences that
+continue into the front setback must then step down to a maximum of three and a
+half feet.
+   D.    On lots where a rear yard abuts a public street or alley (such as
+"through lots" as defined in
+Chapter 16.04), rear yard fences may be constructed up to six feet in height.
+   E.    The Planning Commission may require sight-blocking or noise mitigating
+fences for any development it reviews. Any such requirement shall be tied to a
+specific adverse impact caused by the project (including impacts related to
+land use compatibility) and not required purely for aesthetic reasons.
+   Fences of up to eight feet in height are permitted for any development in C-
+2, C-M, M-1 or M-2 zones, including property lines where residential uses abut
+these zones.
+   F.    No fence/wall shall be constructed throughout a subdivision, planned
 unit development or be part of a project that is/was subject to site and design
 review approval where the effect or purpose is to wall said project off from
-the rest of the community unless reviewed and approved by the Planning
-Commission. (Ord. 890 section 8, 1993; Ord. 740 section 10.3.05(K), 1984; Ord.
-955 section 2, 1996; Ord. 981 section 43, 1997)
-   G.   In all zones, private fences along a public pedestrian/bicycle pathway
-shall comply with the following in order to provide security and visibility for
-pathway users while maintaining privacy for the residence.
-      1.   Fencing installed as part of a new subdivision shall comply with
-either (a) or (b) below.
-      2.   Fencing installed by a property owner on an individual lot shall
-comply with either (a), (b), or (c) below.
-         a.   Solid fencing shall be no greater than four (4) feet in height;
-or
-         b.   Fencing shall be constructed with black open wire material,
-wooden slats, or some other material that allows visual access between he
-pathway and adjacent uses; or
-         c.   Solid fencing shall be set back at least three (3) feet from the
-property line that abuts the pathway.
-   H.   Use of hazardous materials.
-      Fences and walls shall not be constructed of or contain any material
-which will do bodily harm, such as electric or barbed wire, razor wire, broken
-glass, spikes, or any other hazardous or dangerous material, except as follows:
-         a.   Barbed wire or electrified fences enclosing livestock are
-permitted in any zone permitting farm use. Electrified fences shall be posted
-or flagged at not less than 25-foot intervals with clearly visible warnings of
-the hazard when adjacent to developed areas.
-         b.   In commercial and industrial zones barbed wire is permitted
-attached to the top of a fence that is at least six foot in height above grade;
+the rest of the community unless reviewed and approved bythe Planning
+Commission.
+   G.    In R-1, R-1.5, R-2, C-R, and C-1 zones, private fences along a public
+pedestrian/bicycle pathway may be constructed up to six feet in height, except
+within a 20-foot setback along the street where they must step down to no more
+than three and one-half feet, as with other fences in those zones. In the C-2,
+C-M, M-1, and M-2 zones, private fences along public pedestrian pathways may be
+constructed up to eight feet but may not conflict with vision clearance
+requirements.
+   H.    Use of hazardous materials. Fences and walls shall not be constructed
+of or contain any material which will do bodily harm, such as electric or
+barbed wire, razor wire, broken glass, spikes, or any other hazardous or
+dangerous material, except as follows:
+      1.   Electrical fences categorically permitted by Oregon House Bill 4027.
+      2.   In commercial and industrial zones barbed wire is permitted attached
+to the top of a fence that is at least six foot in height above grade;
 provided, that barbed wire shall not extend over a street, sidewalk, alley or
 roadway. The attached barbed wire shall be placed at least six inches above the
-top of the fence.(Ord. 890 section 8, 1993; Ord. 740 section 10.3.05(K), 1984;
+top of the fence. (Ord. 890 section 8, 1993; Ord. 740 section 10.3.05(K), 1984;
 Ord. 955 section 2, 1996; Ord. 981 section 43, 1997; Ord. 1338, 2010; Ord.
-1514, 2019)
-16.08.115   Arbors
-   A.   Arbors that are constructed of proper design (height and setbacks) and
-in accordance with, the design standards of the particular zone where it is
-located are allowed with the following limitations:
-      1.   Arbors shall be stand-alone structures and shall not be attached to
-a fence.
-      2.   The arbor shall not exceed eight feet in height and shall maintain a
-five foot setback from the property line.
-      3.   If the vegetation becomes too full or too high, the owner is
-financially responsible to rectify the situation, and to maintain the
-vegetation, and arbor;
-      4.   The primary purpose of the arbor is to support and sustain foliage/
-vegetation, provide shade, recreational space, and ascetic amenity. (Ord. 1514,
-2019)
+1514, 2019; Ord. 1655, 2025)
 16.08.130   Standard transportation improvements.
    A.   Pursuant to the Transportation Planning Rule, projects that are
 specifically identified in the Canby Transportation System Plan, for which the
@@ -20465,7 +20470,7 @@ A            B    C      D     E     F
 60           8'6" 19'10" 18'0" 9'10" 37'10"
 90           8'6" 18'0"  24'0" 8'6"  42'0"
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6832.png]
    B.   Access.
       1.   The provision and maintenance of vehicular and pedestrian ingress
@@ -20873,65 +20878,79 @@ Sections:
    
 16.16.030   Development standards.
 16.16.010   Uses permitted outright.
-Uses permitted outright in the R-1 zone shall be as follows:
    A.   Single-family dwelling; one single-family dwelling per lot;
-   B.   Vegetable gardens, orchards and crop cultivation for personal use only,
-including greenhouses. No large-scale commercial sale of produce is permitted
-unless continued as a non-conforming use that was in place prior to the
-existing zoning designation. Keeping of animals other than domestic pets
+   B.   Duplex, subject to the standards in Chapter 16.81;
+   C.   Cottage cluster development, subject to the cottage cluster development
+and design standards of Chapter
+16.21.080;
+   D.    Vegetable gardens, orchards and crop cultivation for personal use
+only, including greenhouses. No large-scale commercial sale of produce is
+permitted unless continued as a non-conforming use that was in place prior to
+the existing zoning designation. Keeping of animals other than domestic pets
 requires a special permit from the City Administrator unless a continuation of
 a non-conforming agriculture use.
-   C.   Accessory uses and/or accessory structures;
-   D.   Accessory dwelling, subject to review and approval through a Type 1
-procedure (pursuant to Chapter 16.89.030) and must conform to the following
-standards:
-      1.   Compliance with the Oregon Structural Specialty Code;
-      2.   A maximum of one accessory dwelling is allowed per legal single-
+   E.    Accessory uses and/or accessory structures;
+   F.    Accessory dwelling, subject to review and approval through a Type 1
+procedure (pursuant to Chapter
+16.89.030) and must conform to the following standards:
+      1.    Compliance with the Oregon Structural Specialty Code;
+      2.    A maximum of one accessory dwelling is allowed per legal single-
 family dwelling. The unit may be a detached building, in a portion of a
 detached accessory building (e.g. above a garage or workshop), or a unit
 attached or interior to a primary dwelling (e.g. an addition or the conversion
 of an existing floor).
-      3.   A detached accessory dwelling may not exceed 800 square feet of
+      3.    A detached accessory dwelling may not exceed 800 square feet of
 floor area or 75% of the primary dwelling’s floor area, whichever is smaller.
-      4.   Accessory dwellings that result from the conversion of a level or
+      4. Accessory dwellings that result from the conversion of a level or
 floor (e.g. basement, attic, or second floor) of the primary dwelling may
 occupy the entire level or floor, even if the floor area of the accessory
 dwelling would be more than 800 square feet.
-      5.   Accessory dwellings must meet all other development standards (e.g.
+      5.    Accessory dwellings must meet all other development standards (e.g.
 height, setbacks, lot coverage, etc.) for buildings in the zoning district,
 except that:
-         a.   Conversion of an existing legal non-conforming structure to an
+         a.    Conversion of an existing legal non-conforming structure to an
 accessory dwelling is allowed, provided the conversion does not increase the
 non-conformity; and
-         b.   Chapter 16.21, Residential Design Standards do not apply; and
-         c.   An additional on-site parking space shall not be required but may
-be provided.
-   E.   Day care facility in a residential home, with twelve (12) or fewer
+         b.    
+Chapter 16.21, Residential Design Standards do not apply; and
+         c.    An additional on-site parking space shall not be required but
+may be provided.
+   G.    Day care facility in a residential home, with twelve (12) or fewer
 children;
-   F.   Manufactured and mobile home subdivisions, where developed as planned
+   H.    Manufactured and mobile home subdivisions, where developed as planned
 unit developments, subject to the requirements of Divisions IV and V;
-   G.   Minor public facilities;
-   H.   Manufactured home - with the following additional approval criteria:
-      1.   Must be double-wide or wider and must enclose at least 1,000 square
+   I.    Minor public facilities;
+   J.    Manufactured home - with the following additional approval criteria:
+      1.    Must be double-wide or wider and must enclose at least 1,000 square
 feet.
-      2.   Must be located not more than twelve (12) inches above grade on an
+      2.    Must be located not more than twelve (12) inches above grade on an
 excavated and back-filled masonry foundation which is enclosed at the
 perimeter.
-      3.   Must have a pitched roof with a minimum slope of at least a nominal
+      3.    Must have a pitched roof with a minimum slope of at least a nominal
 three (3) feet in height for each twelve (12) feet in width.
-      4.   Exterior siding and roofing must be similar in color, material and
+      4.    Exterior siding and roofing must be similar in color, material and
 appearance to that used on surrounding dwellings within three hundred (300)
 feet of the lot.
-      5.   The exterior thermal envelope must meet performance standards
+      5.    The exterior thermal envelope must meet performance standards
 equivalent to those required for single family dwellings under the State
 Building Code.
-      6.   Must not have bare metal siding or roofing.
-   I.   Home occupations which meet the strict definition of section 16.04.240.
-   J.   Residential Home/Adult Foster Home - for five or fewer individuals.
+      6.    Must not have bare metal siding or roofing.
+   K.    Home occupations which meet the strict definition of section
+16.04.240.
+   L.    Residential Home/Adult Foster Home - for five or fewer individuals.
 (Per ORS 197.665).
-   K.   Foster Care Home; as defined in Section 16.04 (Ord. 890 section 15,
+   M.    Foster Care Home; as defined in Section
+16.04
+   N.    Uses permitted outright with a planned unit development. The following
+uses are permitted outright if approved as a part of a planned unit development
+in accordance with section
+16.76.
+      1.    Single-family townhouse dwellings having common wall construction.
+The townhouse construction is limited to a maximum grouping of six dwellings.
+If more than one group of dwellings is developed than a ten foot distance shall
+be maintained between an adjacent group of dwellings. (Ord. 890 section 15,
 1993; Ord. 859 section 1, 1991; Ord. 740 section 10.3.18(A), 1984; Ord. 1080,
-2001; Ord 1237, 2007; Ord 1514, 2019)
+2001; Ord 1237, 2007; Ord 1514, 2019; Ord 1634, 2024)
 16.16.020   Conditional uses.
 Conditional uses in the R-1 zone shall be as follows:
    A.   Cemetery;
@@ -20950,18 +20969,12 @@ storage of goods, or any activity which is likely to increase traffic;
    J.   Accessory use or structure (not a dwelling) located on a lot or lots
 abutting the lot which houses the principal use of the property;
    K.   Manufactured and mobile home park or trailer park, subject to the
-criteria of Chapter 16.44;
-   L.   One two-family dwelling (duplex) where the lot contains a minimum of
-twelve thousand square feet. Through the conditional use process, the Planning
-Commission may require the two dwellings in a duplex to share a common driveway
-to minimize curb cuts and paving;
-   M.   One duplex on a corner lot that contains a minimum of ten thousand
-square feet, provided that the building is designed such that vehicle access to
-the different units is taken from different streets;
-   N.   Bed and Breakfast;
-   O.   Residential Facility - for six to fifteen individuals (Per ORS 197.667
+criteria of
+Chapter 16.44;
+   L.   Bed and Breakfast;
+   M.   Residential Facility - for six to fifteen individuals (Per ORS 197.667
 (4) and 443.400 (8))
-   P.   Zero-lot line development for uses otherwise allowed, provided that the
+   N.   Zero-lot line development for uses otherwise allowed, provided that the
 minimum side yard setback shall be 7 feet when adjacent to housing with
 standard setbacks. Prior to building permit approval, the applicant shall
 submit a copy of a recorded easement for every zero-lot line housing that
@@ -20970,18 +20983,22 @@ and yards. The easement shall stipulate that no fence or other obstruction
 shall be placed in a manner that would prevent maintenance of structures on the
 subject lot; and the building placement, landscaping, and/or design of windows
 shall provide a buffer for the occupants of abutting lots.
-   Q.   Other developments customarily found within a residential zone, as
+   O.   Other developments customarily found within a residential zone, as
 determined by the Planning Commission.
-   R.   Detached accessory structure (not dwelling) up to twenty-two feet high
+   P.   Detached accessory structure (not dwelling) up to twenty-two feet high
 which is located outside the allowed building footprint area for the principal
 structure and which does not meet the step-up height standard described in
 16.16.030(E)(2)(b). (Ord. 890 section 16, 1993; Ord. 740 section 10.3.18(B),
 1984; Ord. 1080, 2001; Ord. 1111 section 7, 2003; Ord 1237, 2007; Ord. 1514,
-2019)
+2019; Ord 1634, 2024)
 16.16.030   Development standards.
 The following subsections indicate the required development standards of the R-
-l zone:
-   A.   Minimum and maximum lot area: seven thousand (7,000) square feet
+l zone. Cottage cluster developments are exempt from these standards and are
+instead subject to the cottage cluster development and design standards
+outlined in section
+16.21.080.
+   A.   Minimum and maximum lot area:
+      1.    For single family dwellings: seven thousand (7,000) square feet
 minimum, and ten thousand (10,000) square feet maximum, per single-family
 dwelling. The maximum lot area standard does not apply to single family
 dwellings existing at the time of subdivision or partition plan approval; and
@@ -20990,6 +21007,11 @@ subsection B, below. Preexisting, legally created lots of record shall be
 considered to be legally buildable and separately saleable, provided they
 contain at least five thousand (5,000) square feet; and further provided, that
 any new structures on such lots meet the required setbacks.
+      2.    For townhouse dwelling units having common wall construction and
+developed as a part of a planned unit development:
+         a.    1,800 square foot minimum lot size.
+      3.    Density. There is no minimum density. The maximum density for all
+residential uses is 6 units per acre.
    B.   Lot area exceptions:
       1.   The Planning Commission may approve an exception to the minimum and
 maximum lot area standards in subsection
@@ -21012,7 +21034,9 @@ average lot size shall not be less than 5,000 square feet.
 square feet, unless the alternative lot layout option provided in Section
 16.64.040 is used;
          c.   The lot area standards for two-family dwellings, as provided in
-Sections 16.16.010 and 16.16.020, shall be met; and
+Sections
+16.16.010 and
+16.16.020, shall be met; and
          d.   As a condition of granting the exception, the city will require
 the owner to record a deed restriction with the final plat that prevents the
 re-division of over-sized lots (e.g., ten thousand square feet and larger),
@@ -21025,11 +21049,14 @@ ten percent of the lots to be outside of the minimum and maximum lot areas in
 subsection
 16.16.030.A.
       3.   The Planning Commission may modify the maximum lot area requirements
-in 16.16.030.A if these cannot be met due to existing lot dimensions, road
+in
+16.16.030.A if these cannot be met due to existing lot dimensions, road
 patterns, or other site characteristics.
    C.   Minimum width and frontage: sixty feet, except that the Planning
 Commission may approve lots having less frontage subject to special conditions
 to assure adequate access.
+      1.   Exception. The minimum width and frontage for single family attached
+(common wall) townhouse lots is twenty feet.
    D.   Minimum yard requirements:
       1.   Street yard: twenty feet on side with driveway; fifteen feet for all
 other street sides; except that street yards may be reduced to ten feet for
@@ -21104,10 +21131,15 @@ foot projection.
 may be reduced by not more than five feet for eaves, canopies, and covered
 patios if patio posts still comply with required five foot setbacks.
       4.   Accessory buildings shall not have a larger footprint than the
-primary building, unless lot area exceeds twelve thousand square feet. (Ord.
-890 section 17, 1993; Ord. 740 section 10.3.18(C), 1984; Ord. 955 section 5,
-1996; Ord. 981 section 45, 1997; Ord. 1080, 2001; Ord. 1111 section 7, 2003;
-Ord 1237, 2007; Ord. 1338, 2010; Ord. 1514, 2019)
+primary building, unless lot area exceeds twelve thousand square feet.
+      5.   Townhouse (common wall) development shall not exceed six attached
+dwellings if developed as a part of a planned unit development. If more than
+one group of six dwellings are constructed, then the groups shall be separated
+by not less than ten (10) feet. Townhouse units are encouraged to be alley
+loaded when possible. (Ord. 890 section 17, 1993; Ord. 740 section 10.3.18(C),
+1984; Ord. 955 section 5, 1996; Ord. 981 section 45, 1997; Ord. 1080, 2001;
+Ord. 1111 section 7, 2003; Ord 1237, 2007; Ord. 1338, 2010; Ord. 1514, 2019;
+Ord 1634, 2024)
 Chapter 16.18
 R-1.5 MEDIUM DENSITY RESIDENTIAL ZONE
 Sections:
@@ -21123,25 +21155,31 @@ Uses permitted outright in the R-1.5 zone shall be as follows:
    B.   Two-family or three-family dwellings. One duplex or triplex on each
 lot. (Ord. 740 sect. 10.3.20 (A), 1984)
    C.   Single-family townhouse dwellings having common wall construction. The
-townhouse construction is limited to a maximum grouping of three dwelling
-units. If more than one group of dwellings is developed then a ten foot
-distance shall be maintained between an adjacent group of dwelling units. (Ord.
-740 sect. 10.3.20(B), 1984; Ord. 1080, 2001; Ord. 1514, 2019)
+townhouse construction is limited to a maximum grouping of six dwelling units.
+If more than one group of dwellings is developed then a ten foot distance shall
+be maintained between an adjacent group of dwelling units.
+   D.   Four-family dwellings, one fourplex on each lot. (Ord. 740 sect.
+10.3.20(B), 1984; Ord. 1080, 2001; Ord. 1514, 2019; Ord 1634, 2024)
 16.18.020   Conditional uses.
 Conditional uses in the R-1.5 zone shall be as follows:
    A.   Uses listed as conditional in the R-1 zone; except as modified by
 Section
-16.18.010, above;
-   B.   Four-family dwellings. (Ord. 740 sect. 10.3.20(B), 1984; Ord. 1080,
-2001; Ord. 1514, 2019)
+16.18.010, above. (Ord. 740 sect. 10.3.20(B), 1984; Ord. 1080, 2001; Ord. 1514,
+2019; Ord 1634, 2024)
 16.18.030   Development standards.
 The following subsections indicate the required development standards of the R-
-1.5 zone:
+1.5 zone. Cottage cluster developments are exempt from these standards and are
+instead subject to the cottage cluster development and design standards
+outlined in Section
+16.21.080:
    A.   Minimum and maximum lot area:
       1.   For single family dwellings: five thousand (5,000) square feet
 minimum and six thousand five hundred (6,500) square feet maximum.
-      2.   For townhome dwelling units having common wall construction: three
-thousand (3000) square foot minimum lot size.
+      2.   For townhouse dwelling units having common wall construction:
+         a.    3,000 square foot minimum lot size.
+         b.    1,800 square foot minimum lot size if approved as part of a
+planned unit development in accordance with section
+16.76.
       3.   Minimum residential density: For two, three, and four family
 dwellings: new development shall achieve a minimum density of 6 units per acre
 and a maximum of 13 units per acre. Minimum density for a property is
@@ -21197,7 +21235,7 @@ space.
    C.   Minimum width and frontage: forty feet, except that the Planning
 Commission may approve lots having less frontage subject to special conditions
 to assure adequate access. Twenty feet is permitted for single family attached
-(common wall) housing on interior lots.
+(common wall) housing.
    D.   Minimum yard requirements:
       1.   Street yard: twenty feet on side with driveway; fifteen feet for all
 other street sides; except that street yards may be reduced to ten feet for
@@ -21271,9 +21309,15 @@ foot projection.
 may be reduced by not more than five feet for eaves, canopies, and patio
 covers, if the patio posts still comply with required setbacks.
       4.   Accessory buildings shall not have a larger footprint than the
-primary building. (Ord. 890 sect. 19, 1993; Ord. 740 sect. 10.3.20(C), 1984;
-Ord. 955 sect. 6, 1996; Ord. 981 sect. 46, 1997; Ord. 1019 sect. 8, 1999; Ord.
-1080, 2001; Ord 1237, 2007; Ord. 1338, 2010; Ord. 1514, 2019)
+primary building.
+      5.   Townhouse (common wall) development shall not exceed six attached
+dwellings in a group as defined in Chapter
+16.04.195. If more than one group of six dwellings is constructed, then the
+groups shall be separated by no less than ten feet. Townhouse units are
+encouraged to be alley loaded when possible. (Ord. 890 sect. 19, 1993; Ord. 740
+sect. 10.3.20(C), 1984; Ord. 955 sect. 6, 1996; Ord. 981 sect. 46, 1997; Ord.
+1019 sect. 8, 1999; Ord. 1080, 2001; Ord 1237, 2007; Ord. 1338, 2010; Ord.
+1514, 2019; Ord 1634, 2024)
 Chapter 16.20
 R-2 HIGH DENSITY RESIDENTIAL ZONE
 (Ord 890 section 20, 1993)
@@ -21435,7 +21479,7 @@ more than one group of six dwelling units is constructed, then the groups shall
 be separated by ten feet of open space. (Ord. 890 sect. 23, 1993; Ord. 740
 sect. 10.3.21 (C),1984; Ord. 955 sect. 7, 1996; Ord. 981 sect. 47, 1997; Ord.
 1080, 2001; Ord. 1107, 2002; Ord. 1237, 2007; Ord. 1338, 2010; Ord. 1514, 2019)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6834.png]
 Chapter 16.21
 RESIDENTIAL DESIGN STANDARDS
@@ -21455,6 +21499,8 @@ dwellings.
 16.21.060   Applicability and review procedure for multi-family dwellings.
    
 16.21.070   Multi-family design standards.
+   
+16.21.080   Cottage Cluster Development and Design Standards.
 16.21.010   Purpose.
    The purpose of the residential design objectives are to promote:
    A.   Community livability through thecreation of attractive design housing
@@ -21727,18 +21773,226 @@ of total landscaped area)
                                                                         10%=7 points (rounding up)
  
 (Ord. 1338, 2010)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6836.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6838.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6840.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6842.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6844.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6846.png]
+ 
+16.21.080 Cottage Cluster Development and Design Standards.
+   A.   Purpose. The purpose of these standards is to promote more affordable
+fee incommon or fee ownership housing options within Canby. Additionally, they
+are designed to promote quality development, a sense of openness and
+community,and enhance livability and walkability. These standards are also
+intended toencourage cottage cluster developments that are compatible with
+existing andfuture residential development within the R-1 and R-1.5 zones.
+   B.   Applicability. These standards apply to all new cottage cluster
+developments as defined by section
+16.04.
+   C.   Permitted Use. Cottage Cluster developments are permitted outright
+within theR1 and R1.5 zones. Cottage Cluster developments may be permitted as a
+standalone development or as part of a Planned Unit Development in accordance
+with
+16.72, PUD applications.
+   D.   Approval Process. Cottage cluster developments are a Type 3 Site and
+Design Review application, approved in accordance with
+Chapter 16.49, Site and Design Review. Cottage cluster developments within a
+PUD are subject to
+Chapter 16.72,PUD Applications. Cottage cluster developments proposed to be
+subdivided maybe approved in accordance with
+Chapter 16.62, Subdivisions as a Type 3 process.
+      1.   Cottage cluster developments are exempt from the following sections
+of
+Chapter 16.49, Site and Design Review:
+         a.   Section
+16.49.040.B.5, Site Design Review Menu;
+         b.   Section
+16.49.080.C, minimum landscaping standards; and
+         c.   Section
+16.49.120, parking lot landscaping standards.
+      2.   Covenants, easements or other recorded documents shall be provided
+tothe City prior to certificate of occupancy of the first unit, or prior to the
+final plat if the cottage cluster is proposed to be subdivided, addressing
+access and maintenance of all shared common areas or common facilities
+including, but not limited to, storm sewers and stormwater facilities, drainage
+ways, open space, landscaping, and shared parking facilities.
+   E.   Development Standards. The following development standards apply to all
+cottage cluster developments and supersede the development standards of the
+underlying zone unless stated otherwise.
+      1.   Density. The minimum density of any cottage cluster development is 6
+units per acre. There is no maximum density standard, provided the cottage
+cluster development is designed to conform with the requirements of this
+section.
+      2.   Lot Area. There is no minimum or maximum lot area standard, provided
+thecottage cluster development is designed to conform with the requirements of
+this section.
+      3.   Minimum Perimeter Yard Setback Requirements for Structures.
+         a.   Street yard: The minimum setback requirement of the underlying
+zone applies.
+         b.   Rear yard: 10 feet
+         c.   Side yard 5 feet
+      4.   Number of Cottages. Cottage housing units shall be developed in
+clusters of a minimum of four (4) units per cluster. There is no maximum,
+provided one (1) common courtyard, consistent with the standards of section
+16.21.080(F)(3), is provided for every 12 cottages.
+      5.   Building Separation. Cottages shall be separated by a minimum
+distance of six (6) feet. The minimum distance between all other structures,
+including accessory structures, shall be three (3) feet.
+      6.   Building Height. The maximum building height for all structures is
+28 feet.
+      7.   Unit Size. Each cottage’s total floor area shall be a minimum of 600
+square feet and shall not exceed a maximum of 1,200 square feet. Per section
+16.21.080(F)(6)(e)(ii) of this chapter, individual attached garages up to 200
+square feet shall be exempted from the calculation of a cottage’s maximum total
+floor area.
+      8.   Maximum Impervious Surface. The maximum impervious surface standard
+of the underlying zone applies.
+      9.   Off-Street Parking. At least two (2) off-street parking space shall
+be provided per cottage dwelling unit. Off-street parking shall be designed in
+accordance with section
+16.10.070, Parking Lots and Access, and section
+16.21.080(F)(5).
+         a.   If a cottage cluster development fronts on a street that does not
+allow on-street parking, at least two (2) guest parking spaces shall be
+provided on site for every four (4) cottage dwelling units.
+         b.   If a cottage cluster development fronts on a street that allows
+on-street parking, there is no guest parking requirement.
+      10.    Access Requirements. Cottage cluster developments are permitted to
+have more than one driveway access provided applicable access spacing standards
+are met.
+   F.   Design Standards. The following design standards apply to all cottage
+cluster developments. No other design standards shall apply to cottage clusters
+unless noted in this section. Where there is a conflict between these standards
+and the standards of other sections of this code, the standards of this section
+shall control.
+      1.   Cottage Design Standards. All cottages and community buildings shall
+incorporate four (4) of the following design features:
+         a.   Dormers.
+         b.   Gables, hip roof, or gambrel roof form.
+         c.   Recessed entries (minimum 2 foot recess).
+         d.   Covered porch entries (minimum 48 square feet, minimum 4 foot
+depth).
+         e.   Bay windows.
+         f.   Any eaves of 12-inches or greater.
+         g.   Off-set of 16-inches or greater on building face or roof.
+         h.   Windows and main entrance doors occupy a minimum of 15 percent of
+the façade, not including the roof.
+         i.   Window trim (minimum 4-inch) or shutters (minimum 8-inch)
+         j.   Balconies or porch rail.
+         k.   Shakes, shingles, brick or other similar decorative materials
+occupying at least 60 square feet of the street-facing and courtyard-facing
+façade.
+      2.   Cottage Orientation. Cottages must be clustered around a common
+courtyard and must meet the following standards (see Figure 1 and Figure 2):
+         a.   A minimum of 50 percent of cottages within a cluster must
+beoriented to the common courtyard and meet the followingstandards:
+            i.   Have a main entrance facing the common courtyard;
+            ii.   Be within 10 feet of the common courtyard measured from the
+façade of the cottage to the nearest edge of the common courtyard; and
+            iii.   Be connected to the common courtyard by a pedestrian path.
+         b.   Cottages within 20 feet of a street property line may have their
+entrances facing the street, provided 50 percent of all cottage units within
+the cluster face the common courtyard.
+         c.   Cottages not facing the common courtyard or the street must have
+their main entrances facing a pedestrian path that provides a continuous and
+reasonably direct connection to the common courtyard.
+      3.   Common Courtyard Design Standards. Each cottage cluster development
+must share a common courtyard in order to provide a minimum open space area for
+the cottage cluster development. One (1) common courtyard shallbe provided for
+every 12 cottage units (see Figure 1 and Figure 2).
+         a.   The common courtyard must be a single, contiguous area.
+         b.   Cottages must abut the common courtyard on at least two sides of
+the courtyard.
+         c.   The common courtyard must contain a minimum of 150 square feet
+per cottage within the associated cluster.
+         d.   The common courtyard must be a minimum of 15 feet wide at its
+narrowest dimension.
+         e.   The common courtyard shall be developed with a mix of landscaping
+and lawn area, recreational amenities, hard-surfaced pedestrian paths, and/or
+paved courtyard area. Impervious elements of the common courtyard shall not
+exceed 75 percent of the total common courtyard.
+         f.   Pedestrian paths, parking areas, required setbacks, and driveways
+do not qualify as part of a common courtyard.
+      4.   Community Buildings. Cottage cluster developments may include
+community buildings for the shared use of residents that provide space for
+accessory uses such as community meeting rooms, guest housing,exercise rooms,
+day care, or community eating areas. Community buildings must meet the
+following standards and may not be used as dwelling units:
+         a.   Each cottage cluster is permitted one community building.
+         b.   A community building shall not exceed 1,400 square feet of total
+floor area.
+         c.   Community buildings may count towards a cottage cluster’s common
+courtyard requirement provided the standards of section
+16.21.080(F)(1) are met. Only the footprint area of the community building may
+count towards the common courtyard minimum area requirement.
+         d.   A community building cannot count for more than 75% of the common
+courtyard.
+      5.   Pedestrian Access.
+         a.   An accessible pedestrian path must be provided that connects the
+main entrance of each cottage to the following (see Figure 1 and Figure 2):
+            i.   The common courtyard;
+            ii.   Shared parking areas;
+            iii.   Community buildings, if provided; and
+            iv.   Abutting sidewalks within the public right-of-way, or to the
+edge of the roadway if sidewalks along the roadway are not provided.
+         b.   The pedestrian path must be hard-surfaced and a minimum of five
+(5)feet in width.
+      6.   Parking Area Location and Design (see Figure 1 and Figure 2).
+         a.   Clustered parking. Off-street parking may be arranged in clusters
+of not more than five (5) contiguous spaces separated from other clusters by at
+least four (4) feet of landscaping. Clustered parking areas may be covered.
+         b.   Off-street parking spaces and vehicle maneuvering areas shall not
+be located:
+            i.   Within 20 feet from any street property line, excluding
+alleys.
+            ii.   Between a street property line, excluding alleys, and
+cottages abutting the street property line.
+         c.   Off-street parking spaces shall not be located within 10 feet of
+any property line, except alley property lines. Driveways and drive aisles are
+permitted within 10 feet of all property lines.
+         d.   Screening. Landscaping, fencing, or walls shall separate
+clustered parking areas and parking structures from public streets and
+residentially zoned properties.
+            i.   When adjacent to residentially zoned properties, the
+landscaping, fencing, or walls must be 6 feet tall.
+            ii.   When adjacent to public streets, the landscaping, fencing, or
+walls must be at least 3 feet tall.
+            iii.   All fencing and walls must be consistent with city fencing
+standards in CMC 16.08.110.
+            iv.   All screening must comply with vision clearance.
+         e.   Garages and carports shall meet the following standards:
+            i.   Garages and carports (whether shared or individual) must not
+abut common courtyards.
+            ii.   Individual attached garages up to 200 square feet shall be
+exempted from the calculation of a cottage’s maximum total floor area per
+section
+16.21.080(E)(7) of this chapter.
+            iii.   Individual detached garages must not exceed 400 square feet
+in floor area.
+            iv.   Garage doors for individual garages must not exceed 12 feet
+in width.
+      7.   Existing Structures. On a lot or parcel to be used for a cottage
+cluster development, a pre-existing detached single-family dwelling may remain
+within the cottage cluster development area and does not need to comply with
+the requirements of this section except for minimum separation distance
+requirements per section
+16.21.080(E)(4) above.
+Figure 1. Cottage Cluster & Common Courtyard Design Standards
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
+IMAGES/0-0-0-7120.jpg]
+ 
+Figure 2. Cottage Cluster Development Concept
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
+IMAGES/0-0-0-7115.jpg]
+ 
+(Ord 1634, 2024)
 Chapter 16.22
 C-1 DOWNTOWN COMMERCIAL ZONE
 Sections:
@@ -23059,11 +23313,11 @@ Sections
 16.41.070   DCO site and design review standards.
 16.41.010   Purpose.
 The purpose of the Downtown Canby Overlay (DCO) zone is to:
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6848.png]
 Figure 1
 Commercial development example concept
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6850.png]
 Figure 2
 Cohesive architectural elements create a human-scale environment
@@ -23084,7 +23338,7 @@ of development should be closer to the road to provide visual connection and
 signal that drivers are entering an urban area. Larger setbacks in the Outer
 Highway Commercial area also allows for more landscaping, access and other
 improvements between buildings and street.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6852.png]
 Figure 3
 A high degree of transparency (windows) helps create a sense of interaction
@@ -23097,7 +23351,7 @@ creation of a high end grocery store (e.g., New Seasons, Whole Foods or
 Zupans). The proposed maximum differentiates developments in this area from
 those in the Outer Highway Commercial area. Maximum building footprints are
 much larger in the Outer Highway Commercial area.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6854.png]
 Figure 4
 More auto-oriented uses in the Outer Highway Commercial area
@@ -23105,7 +23359,7 @@ More auto-oriented uses in the Outer Highway Commercial area
 Commercial area as it changes over time. Requirements for massing and form will
 help ensure compatibility if uses in this area increase over time, while
 allowing for a broader range of building sizes than currently exists.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6856.png]
 Figure 5
 Smaller-scale commercial use in the Transitional Commercial area
@@ -23128,7 +23382,7 @@ lands located within the boundaries illustrated on the Downtown Canby Framework
 Diagram; the boundaries of the overlay district, and boundaries of the three
 sub-areas, are as shown in this chapter, Figure 11. The three sub-areas are
 established as follows:
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6858.png]
 Figure 6
 Example of high-quality screening design
@@ -23141,7 +23395,7 @@ lies between the more intense Downtown Core Commercial area and the established
 single-family neighborhoods to the north and northeast. The two Transitional
 Commercial nodes are tucked between 3rd and 4th and Fir and Douglas on the west
 side of Downtown, and 3rd and 4th and Holly and Knott on the east side.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6860.png]
 Figure 7
 Example of well-planned landscaping
@@ -23157,7 +23411,7 @@ this ordinance:
       1.   Permits land uses which are permitted by the underlying zone
 districts, with some exceptions, as set forth in Sections 16.41.030 and
 16.41.040.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6862.png]
 Figure 8
 These buildings in the commercial core illustrate desired design features in
@@ -23191,11 +23445,11 @@ standard setbacks;
       8.   Accessory uses.
       9.   Foster Care Home; as defined in Section 16.04 (Ord 1296, 2008; Ord.
 1514, 2019)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6864.png]
 Figure 9
 Examples of less intensive development in the Transitional Commercial area
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6866.png]
 Figure 10
 Examples of development in the Outer Highway Commercial area
@@ -23206,7 +23460,7 @@ the respective zone district boundaries.
    A.   Uses conditionally permitted in the C-1 zone are conditionally
 permitted in the DCO zone, except in the Transitional Commercial (TC) sub-area,
 any use listed above in 16.41.030 is permitted outright. (Ord. 1296, 2008)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6868.png]
 Figure 11
 Downtown Canby Overlay Zone
@@ -23245,7 +23499,7 @@ Standards              CC subarea TC subarea OHC subarea
 Minimum percentage (x) 60%        60%        40%
 Figure 12
 Illustration of Building Façade Requirements
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6870.png]
       2.   Floor area ratio, building footprint, and building height. Minimum
 floor area ratio, maximum building footprint, and maximum building height
@@ -23265,15 +23519,15 @@ Maximum building height 60 feet            45 feet      45 feet
 (see Figure 14)
 Figure 13
 Building Footprint for Multi-Use Structure
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6872.png]
 Figure 14
 Building Height Limitations
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6874.png]
 Figure 15
 Building Height Limitations (continued)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6876.png]
       3.   Screening. All exterior garbage collection areas, recycling
 collection areas and mechanical equipment shall be screened with a site
@@ -23305,7 +23559,7 @@ the equipment;
 setback of at least 3 feet for every 1 foot of building height.
    4.   Parking. Parking areas shall meet the following standards in addition
 to all other applicable requirements.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6878.png]
 Figure 16
 Screening examples
@@ -23353,7 +23607,7 @@ help spur investment in the city; enhance use and value of land and
 improvements; improve the stability and value of property; and generally
 improve the experience of residents and visitors who use these commercial
 areas.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6880.png]
 Figure 17
 A high degree of transparency (windows) helps create a sense of interaction
@@ -23385,7 +23639,7 @@ lasting physical memory. Cohesive and repetitive architectural “bays” along 
 street-facing ground floor of a building create a pleasing sense of rhythm for
 the pedestrian, and help to scale and order the built environment as it is
 experienced from the sidewalk and street (see Figure 18).
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6882.png]
 Figure 18
 Cohesive visual elements like columns and lighting improve the pedestrian
@@ -23400,7 +23654,7 @@ massing and form to differentiate these breaks. The base of the building
 typically extends from the sidewalk to the bottom of the second story or the
 belt course / string course that separates the ground floor from the middle of
 the building (see Figure 19).
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6884.png]
 Figure 19
 Design details such as a recessed entry, columns and decorative transom windows
@@ -23412,7 +23666,7 @@ in use (see Figure 20). The middle of the building often contains smaller,
 vertically-oriented windows to reflect changes in use on upper floors. Finally,
 the top of the building contains a “capping” element which visually terminates
 the façade and creates visual interest at the top of the building.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6886.png]
 Figure 20
 Upper stories on these uses allow for non-retail uses which are reflected in
@@ -23439,11 +23693,11 @@ different types of standards apply.
 developments; (2) remodels which represent 60 percent tax assessed or more of
 the value of the existing building; (3) façade improvements that would alter
 the exterior structure of the building.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6888.png]
 Figure 21
 The chamfered entry on this building reinforces the corner
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6890.png]
 Figure 22
 Use of materials such as stone and stucco add to a feeling of permanence
@@ -23473,12 +23727,12 @@ be found elsewhere in the City. Future development in this area should continue
 this trend, designing commercial and mixed-use buildings that adequately
 address the sidewalk and create an engaging experience for pedestrians (see
 Figures 23 and 24).
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6892.png]
 Figure 23
 These buildings in the commercial core illustrate desired design features in
 that area
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6894.png]
 Figure 24
 The Canby Herald Building in the commercial core incorporates many good design
@@ -23492,11 +23746,11 @@ same purposes and types of uses, buildings here should be appropriately scaled,
 inviting to pedestrians, and demonstrate high-quality architectural design. As
 a result, architectural standards for this area and the downtown are identical,
 although some development standards differ as described in section 16.41.050.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6896.png]
 Figure 25
 Example of “cottage commercial” design in the Transitional Commercial sub-area
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6898.png]
 Figure 26
 Example of commercial development in the Transitional Commercial sub-area
@@ -23515,7 +23769,7 @@ zones may shift somewhat. Requirements within the Transitional Commercial zone
 allow for this flexibility, while ensuring appropriate transitions between this
 area and the Core Commercial sub-area, as well as between buildings within the
 Transitional Commercial sub-area (see Figures 25 and 26).
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6900.png]
 Figure 27
 Examples of development in the Outer Highway Commercial sub-area
@@ -23540,7 +23794,7 @@ wall.
       4.   Bay – (a) Within a structure, a regularly repeated spatial element
 defined by beams or ribs and their supports (see Figure 29). (b) A protruded
 structure with a bay window.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6902.png]
 Figure 28
 Arcade example
@@ -23550,7 +23804,7 @@ building as a design element (also called a string course).
 story window sill.
       7.   Canopy – A covered area which extends from the wall of a building,
 protecting an entrance or loading dock.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6904.png]
 Figure 29
 Repeating bays with a continuous awning
@@ -23560,7 +23814,7 @@ member of a column, pilaster, cornice, molding, or the like.
       9.   Chamfer – To cut off the edge or corner of (see Figure 30).
       10.   Clerestory – The upper level of a room that extends beyond the
 single-story height; often penetrated by windows.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6906.png]
 Figure 30
 Chamfered corner entry
@@ -23574,7 +23828,7 @@ roof (see Figure 31).
 building which projects beyond the wall.
       14.   Entry – The space comprising a door and any flanking or transom
 windows associated with a building.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6908.png]
 Figure 31
 Cornice details near the top of building
@@ -23587,7 +23841,7 @@ building.
 building façade periodically, typically aligning with columns or pilaster.
       18.   Mullion – A vertical post or upright element dividing a window or
 other opening into two or more sections.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6910.png]
 Figure 32
 Top of building features a parapet
@@ -23597,7 +23851,7 @@ Figure 32).
       20.   Primary Street Facing Façade – The façade of the building facing
 the primary (east-west) adjacent street. These streets include Highway 99E, and
 North and South 1 st , 2 nd , 3 rd , and 4 th Avenues.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6912.png]
 Figure 33
 Building entry features a transom window above the door
@@ -23685,10 +23939,10 @@ along x% of the length of the alley-facing façade and along y% of the overall  
 wall area of the alley-facing façade. Wall area shall be measured to a height ofOHC:
 10’-0” above the finished grade.                                             x=30%;
                                                                                  y=20%
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6914.png]
 Figure 34 Primary and secondary street façade definition
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6916.png]
 Figure 35 Illustration of percent transparency requirement
  
@@ -23728,28 +23982,28 @@ comply with at least x of the following:
  highlight entries (see Figure 43).
  (6)Use of blade signs.
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6918.png]
 Figure 36 Example of principal entry with direct sidewalk connection
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6920.png]
 Figure 37 Example of entry that meets transparency standards
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6922.png]
 Figure 38 Example of entry with transom and flanking glass
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6924.png]
 Figure 39 Recessed entry
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6926.png]
 Figure 40 Awning or canopy
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6928.png]
 Figure 41 Entry with awning and increased mass/decorative features
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6930.png]
 Figure 42 Recessed entry with lighting and accent material
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6932.png]
 Figure 43 Entry flanked by engaged columns and lighting
  
@@ -23777,14 +24031,14 @@ b. Courtyards or plazas that meet all of the following standards (see Figure    
  (4) Courtyards/plazas shall provide seating, including but not limited to
  benches, tables, planter boxes, and other design elements.
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6934.png]
 Figure 44 Arcades create a semi-public transition from the sidewalk to the
 building
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6936.png]
 Figure 45 Courtyards or plazas
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6938.png]
 Figure 46 Entry with special paving
  
@@ -23809,7 +24063,7 @@ the length of the ground-level primary and secondary street-facing façades, and
 along 50% of the overall street-facing wall area. Ground level walls include
 all exterior wall areas up to 10 feet above the finished grade.
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6940.png]
 Figure 47 Residential development that conforms to design standards
    B.   Cohesive architectural elements standards.
@@ -23856,13 +24110,13 @@ following elements (See Figure 50):
  (5) Projecting or blade signs (8 to 12 foot clearance from
  bottom of sidewalk).
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6942.png]
 Figure 48 Illustration of replicating bays
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6944.png]
 Figure 49 Design elements for bays
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6946.png]
 Figure 50 Decorative accents in bays
    C.   Integrated building façade standards.
@@ -23954,37 +24208,37 @@ run-off that would otherwise go into storm sewers, and eventually rivers and str
 Roof gardens with plant materials that are visible from the sidewalk and the street
 are particularly encouraged. (See Figure 61).
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6948.png]
 Figure 51 Example of distinct bottom, middle & top of building
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6950.png]
 Figure 52 Example of change in height of roofline or top of building
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6952.png]
 Figure 53 Elements of the bottom of the building
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6954.png]
 Figure 54 Building base elements
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6956.png]
 Figure 55 Middle and top of ground floor elements
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6958.png]
 Figure 56 Top of building elements and treatments
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6960.png]
 Figure 57 Middle of building elements
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6962.png]
 Figure 58 Cornice used on flat roof
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6964.png]
 Figure 59 Parapet used on flat roof
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6966.png]
 Figure 60 Varying sloped rooflines are used on this building
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6968.png]
 Figure 61 Examples of rooftop gardens
    D.   Corner intersection standards.
@@ -24009,10 +24263,10 @@ address the corner by employing one of the following:
  increased building height or massing, turrets, cupolas, a
  pitched roof, or other prominent features (see Figure 63).
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6970.png]
 Figure 62 Corner options
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6972.png]
 Figure 63 Corner of building elements
    E.   Materials standards.
@@ -24092,9 +24346,9 @@ Roof materials (sloped roofs only)                                           Woo
                                                                              Tile     Asphalt  Tile
                                                                                       shingles
  
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6974.png]
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6976.png]
    F.   Color palette
       1.   Intent. Use colors on buildings that are generally compatible with
@@ -24328,7 +24582,7 @@ material object, device, or surface whatsoever; and
 whatsoever. points of a sign, but excluding essential sign structure,
 foundations, or supports.
    OO.   Sign Copy. The message or image conveyed by a sign:
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6978.png]
    PP.   Sign Face. The sum of the surfaces of a sign face as seen from one
 plane or elevation included within the outer dimensions of the sign board,
@@ -24816,7 +25070,7 @@ TABLE 16.42.050
 Table 1. Residential Zones and (R-1, R-1.5, R-2, C-R)
 Table 1. Residential Zones and (R-1, R-1.5, R-2, C-R)
                                       [https://export.amlegal.com/media/
-Monument Sign                         af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Monument Sign                         cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6412.jpg]
 A. Use on site: Property has been subdivided into more than 20 lots.
 Size: maximum 16                      Location/Number: Maximum two signs; One
@@ -24840,7 +25094,7 @@ D. Use on site: all other uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Pole Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6414.jpg]
 A.  Use on site: church, school, public/semi-public facility, or privately-
 owned community center.
@@ -24851,7 +25105,7 @@ B.  Use on site: all other uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Wall Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6416.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size: maximum 8
@@ -24878,7 +25132,7 @@ C.  Use on site: all other uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Blade/Overhang Sign                   af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign                   cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6418.jpg]
 A.  Use on site: home occupation or permitted commercial use.
                    Maximum Height:
@@ -24892,7 +25146,7 @@ B.  Use on site: all other uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Bulletin Board                        af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board                        cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6420.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size: bulletin
@@ -24907,7 +25161,7 @@ encompass up to 50 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Electronic Message Board              af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message Board              cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6422.jpg]
 A. Use on site: all uses.
 Size: electronic
@@ -24916,15 +25170,15 @@ encompass up to 25 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Awning Sign or Canopy Sign            af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy Sign            cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6424.jpg]
 A. Use on site: not permitted for any use.
                                       [https://export.amlegal.com/media/
-Marquee Sign                          af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign                          cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6426.jpg]
 A. Use on site: not permitted for any use.
                                       [https://export.amlegal.com/media/
-Window Sign                           af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign                           cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6428.jpg]
 A. Use on site: all uses.
 Size: maximum 15   Maximum Height:    Location/Number: Only allowed in ground
@@ -24935,7 +25189,7 @@ C-M)
 Table 2. Industrial Zones and Heavy Commercial Manufacturing Zone (M-1, M-2, C-
 M)
                                       [https://export.amlegal.com/media/
-Monument Sign                         af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Monument Sign                         cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6430.jpg]
 A. Use on site: Church, school, or public facility.
 Size: maximum 48
@@ -24970,7 +25224,7 @@ sign face (up to   feet.              each collector/arterial street frontage;
 two faces).                           except on a site larger than 10 acres a
                                       total of two signs are allowed.
                                       [https://export.amlegal.com/media/
-Pole Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6432.jpg]
 A.  Use on site: church, school, or public facility.
 Size: maximum 48
@@ -25009,7 +25263,7 @@ sign face (up to   feet.              except if the use is a church, school, or
 two faces).                           public facility one sign may be located
                                       adjacent each street frontage.
                                       [https://export.amlegal.com/media/
-Wall Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6434.jpg]
 A. Use on site: All uses.
 Size: The maximum
@@ -25058,7 +25312,7 @@ sign allowed on
 that frontage is
 190 square feet.
                                       [https://export.amlegal.com/media/
-Blade/Overhang Sign                   af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign                   cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6436.jpg]
 A. Use on site: All uses.
                    Maximum Height:
@@ -25069,7 +25323,7 @@ area of 48 square  parapet wall,      file with the City at that location.
 feet.              whichever is
                    higher.
                                       [https://export.amlegal.com/media/
-Bulletin Board                        af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board                        cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6438.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size: bulletin
@@ -25084,7 +25338,7 @@ encompass up to 50 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Electronic Message Board              af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message Board              cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6440.jpg]
 A. Use on site: all uses.
 Size: electronic
@@ -25093,7 +25347,7 @@ encompass up to 25 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Awning Sign or Canopy Sign            af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy Sign            cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6442.jpg]
 A. Use on site: all uses.
 Size: Signs on                        Location/Number: One sign per awning or
@@ -25106,11 +25360,11 @@ awning or exceed   line.              of 2 feet from a curb. A minimum 8 foot
 size, whichever is                    and bottom of sign.
 smaller.
                                       [https://export.amlegal.com/media/
-Marquee Sign                          af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign                          cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6444.jpg]
 A. Use on site: not permitted for any use.
                                       [https://export.amlegal.com/media/
-Window Sign                           af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign                           cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6446.jpg]
 A. Use on site: all uses.
 Size: maximum 15   Maximum Height:    Location/Number: Only allowed in ground
@@ -25121,7 +25375,7 @@ the Downtown Canby Overlay Zone (DCO OHC)
 Table 3. Highway Commercial Zone (C-2) and Outer Highway Commercial Area in the Downtown Canby
 Overlay Zone (DCO OHC)
 Monument Sign          [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6448.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6448.jpg]
 A. Use on site: Church, school, or public facility.
 Size:
 maximum 48
@@ -25155,7 +25409,7 @@ sign face  feet.       street frontage.
 (up to two
 faces).
 Pole Sign              [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6450.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6450.jpg]
 A.  Use on site: church, school, or public facility.
 Size:
 maximum 48
@@ -25189,7 +25443,7 @@ sign face  feet.
 (up to two
 faces).
 Wall Sign              [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6452.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6452.jpg]
 A. Use on site: All uses.
 Size: The
 maximum
@@ -25273,7 +25527,7 @@ is 190
 square
 feet.
 Blade/Overhang Sign    [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6454.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6454.jpg]
 A. Use on site: All uses.
            Maximum
 Size: Each Height:
@@ -25287,7 +25541,7 @@ feet.      wall,
            whichever
            is higher.
 Bulletin Board         [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6456.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6456.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size:
 bulletin   Maximum
@@ -25307,7 +25561,7 @@ percent of of sign.
 sign face
 area.
 Electronic Message     [https://export.amlegal.com/media/
-Board                  af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6458.jpg]
+Board                  cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6458.jpg]
 A. Use on site: all uses.
 Size:
 electronic
@@ -25319,7 +25573,7 @@ percent of of sign.
 sign face
 area.
 Awning Sign or Canopy  [https://export.amlegal.com/media/
-Sign                   af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6460.jpg]
+Sign                   cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6460.jpg]
 A. Use on site: all uses.
 Size:
 Signs on
@@ -25340,7 +25594,7 @@ whichever
 is
 smaller.
 Marquee Sign           [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6462.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6462.jpg]
 A. Use on site: all uses.
            Maximum
            Height:
@@ -25363,7 +25617,7 @@ feet.      portion of
            or parapet
            wall.
 Window Sign            [https://export.amlegal.com/media/
-                       af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6464.jpg]
+                       cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6464.jpg]
 A. Use on site: all uses.
 Size:      Maximum
 maximum 15 Height:
@@ -25375,7 +25629,7 @@ Table 4. Downtown Commercial Zone (C-1) and Core Commercial Area in the
 Downtown Canby Overlay Zone (DCOCC)
 Table 4. Downtown Commercial Zone (C-1) and Core Commercial Area in the Downtown Canby Overlay Zone
 (DCOCC)
-Monument Sign         [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Monument Sign         [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6466.jpg]
 A.  Use on site: Church, school, or public facility.
 Size:
@@ -25409,7 +25663,7 @@ feet per   Height: 9  street one sign may be located adjacent each collector/art
 sign face  feet.      frontage.
 (up to two
 faces).
-Pole Sign             [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign             [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6468.jpg]
 A.  Use on site: church, school, or public facility.
 Size:
@@ -25443,7 +25697,7 @@ feet per   Height: 12 collector or arterial street frontage.
 sign face  feet.
 (up to two
 faces).
-Wall Sign             [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign             [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6470.jpg]
 A. Use on site: All uses.
 Size: The
@@ -25500,7 +25754,7 @@ to a
 maximum of
 30 square
 feet.
-Blade/Overhang Sign   [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign   [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6472.jpg]
 A. Use on site: All uses.
            Maximum
@@ -25515,7 +25769,7 @@ square     parapet
 feet.      wall,
            whichever
            is higher.
-Bulletin Board        [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board        [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6474.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size:
@@ -25535,7 +25789,7 @@ up to 50   by height  16.42.040.C.2.
 percent of of sign.
 sign face
 area.
-Electronic Message    [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message    [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 Board                 IMAGES/0-0-0-6476.jpg]
 A. Use on site: all uses.
 Size:
@@ -25547,7 +25801,7 @@ up to 25   by height
 percent of of sign.
 sign face
 area.
-Awning Sign or Canopy [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 Sign                  IMAGES/0-0-0-6478.jpg]
 A. Use on site: all uses.
 Size:
@@ -25568,7 +25822,7 @@ size,
 whichever
 is
 smaller.
-Marquee Sign          [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign          [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6480.jpg]
 A. Use on site: all uses.
            Maximum
@@ -25592,7 +25846,7 @@ feet.      overhang
            roof line
            or parapet
            wall.
-Window Sign           [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign           [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6482.jpg]
 A. Use on site: all uses.
 Size:      Maximum
@@ -25609,8 +25863,8 @@ particularly applicable to properties in the Core Commercial sub-area of the Dow
 Zone that are located in close proximity to Hwy 99 E.
 B. A Core Highway Frontage Sign Overlay Zone is established as illustrated by the striped pattern on
 the following map, and encompasses the following area:
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/IMAGES/0-0-0-6484.jpg]
-Monument Sign         [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/IMAGES/0-0-0-6484.jpg]
+Monument Sign         [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6486.jpg]
 A.  Use on site: Church, school, or public facility.
 Size:
@@ -25644,7 +25898,7 @@ feet per   Height: 9  street one sign may be located adjacent each collector/art
 sign face  feet.      frontage.
 (up to two
 faces).
-Pole Sign             [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign             [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6488.jpg]
 A.  Use on site: church, school, or public facility.
 Size:
@@ -25678,7 +25932,7 @@ feet per   Height: 18 collector or arterial street frontage.
 sign face  feet.
 (up to two
 faces).
-Wall Sign             [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign             [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6490.jpg]
 A. Use on site: All uses.
 Size: The
@@ -25735,7 +25989,7 @@ to a
 maximum of
 30 square
 feet.
-Blade/Overhang Sign   [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign   [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6492.jpg]
 A. Use on site: All uses.
            Maximum
@@ -25750,7 +26004,7 @@ square     parapet
 feet.      wall,
            whichever
            is higher.
-Bulletin Board        [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board        [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6494.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size:
@@ -25770,7 +26024,7 @@ up to 50   by height  16.42.040.C.2.
 percent of of sign.
 sign face
 area.
-Electronic Message    [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message    [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 Board                 IMAGES/0-0-0-6496.jpg]
 A. Use on site: all uses.
 Size:
@@ -25782,7 +26036,7 @@ up to 25   by height
 percent of of sign.
 sign face
 area.
-Awning Sign or Canopy [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 Sign                  IMAGES/0-0-0-6498.jpg]
 A. Use on site: all uses.
 Size:
@@ -25803,7 +26057,7 @@ size,
 whichever
 is
 smaller.
-Marquee Sign          [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign          [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6500.jpg]
 A. Use on site: all uses.
            Maximum
@@ -25825,7 +26079,7 @@ feet.      portion of
            roof line
            or parapet
            wall.
-Window Sign           [https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign           [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
                       IMAGES/0-0-0-6502.jpg]
 A. Use on site: all uses.
 Size:      Maximum
@@ -25839,7 +26093,7 @@ in the Downtown Canby Overlay Zone (DCO TC)
 Table 6. Residential/Commercial Zone (C-R), and Transitional Commercial Area in
 the Downtown Canby Overlay Zone (DCO TC)
                                       [https://export.amlegal.com/media/
-Monument Sign                         af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Monument Sign                         cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6504.jpg]
 A. Use on site: Church, school, or public facility.
 Size: maximum 32
@@ -25852,7 +26106,7 @@ square feet per    Maximum Height: 7  site abutting a collector or arterial
 sign face (up to   feet.              street one sign may be located adjacent
 two faces).                           each collector/arterial street frontage.
                                       [https://export.amlegal.com/media/
-Pole Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6506.jpg]
 A.  Use on site: church, school, or public/semi-public facility.
 Size: maximum 32
@@ -25865,7 +26119,7 @@ square feet per    Maximum Height: 8  site with more than one street frontage
 sign face (up to   feet.              one sign may be located adjacent each
 two faces).                           collector or arterial street frontage.
                                       [https://export.amlegal.com/media/
-Wall Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6508.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size: The maximum
@@ -25910,7 +26164,7 @@ sign is limited to
 a maximum of 8
 square feet.
                                       [https://export.amlegal.com/media/
-Blade/Overhang Sign                   af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign                   cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6510.jpg]
 A. Use on site: All uses.
                    Maximum Height:
@@ -25921,7 +26175,7 @@ area of 6 square   parapet wall,      file with the City at that location.
 feet.              whichever is
                    higher.
                                       [https://export.amlegal.com/media/
-Bulletin Board                        af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board                        cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6512.jpg]
 A. Use on site: church, school, or public/semi-public facility.
 Size: bulletin
@@ -25936,7 +26190,7 @@ encompass up to 50 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Electronic Message Board              af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message Board              cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6514.jpg]
 A.  Use on site: all uses.
 Size: electronic
@@ -25945,7 +26199,7 @@ encompass up to 25 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Awning Sign or Canopy Sign            af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy Sign            cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6516.jpg]
 A. Use on site: commercial use, church, school, or public/semi-public facility.
 Size: Signs on
@@ -25961,13 +26215,13 @@ B. Use on site: all other uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Marquee Sign                          af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign                          cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6518.jpg]
 A. Use on site: all uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Window Sign                           af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign                           cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6520.jpg]
 A. Use on site: all uses.
 Size: maximum 15   Maximum Height:    Location/Number: Only allowed in ground
@@ -25976,7 +26230,7 @@ window area.       height of window.
 Table 7. Canby Industrial Area Overlay Zone (I-O)
 Table 7. Canby Industrial Area Overlay Zone (I-O)
                                       [https://export.amlegal.com/media/
-Monument Sign                         af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Monument Sign                         cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6522.jpg]
 A. Use on site: all uses in the M-1 zone or M-2 zone.
 Size: may not
@@ -25992,13 +26246,13 @@ face, or 300       feet.              permitted a maximum of 2 signs, provided
 square feet total.                    that only one sign per street frontage is
                                       allowed.
                                       [https://export.amlegal.com/media/
-Pole Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Pole Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6524.jpg]
 A.  Use on site: all uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Wall Sign                             af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Wall Sign                             cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6526.jpg]
 A. Use on site: all uses.
 Size: The maximum
@@ -26031,7 +26285,7 @@ sign is limited to
 a maximum of 190
 square feet.
                                       [https://export.amlegal.com/media/
-Blade/Overhang Sign                   af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Blade/Overhang Sign                   cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6528.jpg]
 A. Use on site: All uses.
                    Maximum Height:
@@ -26042,7 +26296,7 @@ area of 48 square  parapet wall,      file with the City at that location.
 feet.              whichever is
                    higher.
                                       [https://export.amlegal.com/media/
-Bulletin Board                        af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Bulletin Board                        cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6530.jpg]
 A. Use on site: All uses.
 Size: bulletin
@@ -26051,7 +26305,7 @@ encompass up to 50 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Electronic Message Board              af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Electronic Message Board              cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6532.jpg]
 A. Use on site: all uses.
 Size: electronic
@@ -26060,7 +26314,7 @@ encompass up to 25 determined by      a permitted sign, as set forth in
 percent of sign    height of sign.    16.42.040.C.2.
 face area.
                                       [https://export.amlegal.com/media/
-Awning Sign or Canopy Sign            af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Awning Sign or Canopy Sign            cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6534.jpg]
 A. Use on site: all uses.
 Size: Signs on
@@ -26086,13 +26340,13 @@ frontage, up to a
 maximum of 60
 square feet.
                                       [https://export.amlegal.com/media/
-Marquee Sign                          af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Marquee Sign                          cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6536.jpg]
 A. Use on site: all uses.
 Size: not allowed. Maximum Height: n/ Location/Number: n/a.
                    a.
                                       [https://export.amlegal.com/media/
-Window Sign                           af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+Window Sign                           cd458fd172c985d17c0e1e32c0d17d2dae159393/
                                       IMAGES/0-0-0-6538.jpg]
 A. Use on site: all uses.
 Size: maximum 15   Maximum Height:    Location/Number: Only allowed in ground
@@ -26159,28 +26413,28 @@ to the lowermost point of the sign.
 shall be measured parallel to the centerline of the adjacent street or highway.
 (Ord 1299, 2008)
 Figure 1
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6980.png]
 Figure 2
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6982.png]
 Figure 3
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6984.png]
 Figure 4
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6986.png]
 Figure 5
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6988.png]
 Figure 6
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6990.png]
 Figure 7
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6992.png]
 Figure 8
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6994.png]
 (Ord. 913 section 1[part], 1994; Ord. 830 section 13[part], 1989; Ord. 802
 section 5, 1987; Ord. 840 section 10.3.40(J), 1984; Ord. 1299, 2008)
@@ -26270,7 +26524,7 @@ luminous flux above the horizontal plane;
 of the boundaries of the property on which the installation is sited.
    O.   Temporary Lighting. Lighting installed with temporary wiring and
 operated for less than 60 days in any calendar year.
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6996.png]
 Figure 16.43.1: Light Trespass
 16.43.030   Applicability.
@@ -26424,7 +26678,7 @@ LZ 1          35.0                    18.0                   8.0
 LZ 2          37.5                    18.0                   15.0
  
 Figure 16.43.2: Mounting Height
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-6998.png]
 16.43.090   Lighting Controls
 The city strongly recommends the use of timers and/or motion detectors on
@@ -30500,7 +30754,7 @@ adjacent to an existing lot in a residential zone (R-1, R-1.5 or R-2).
       6.   Additional park land provided to utilize the height bonus shall be
 consistent with all applicable standards and regulations of Chapter 16.120.
 Figure 16.64.1: Height Bonus Diagram
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-7000.png]
    C.   Standards for mitigation of tree removal. Proposals that mitigate tree
 removal in order to utilize the height bonus shall comply with the following:
@@ -30776,18 +31030,28 @@ permitted. (Ord. 740 section 10.5.30[part], 1984)
 16.74.020   Uses permitted in residential zone.
 In a planned unit development in a residential zone only the following uses are
 permitted:
-   A.   Residential units, either detached or in multiple type dwellings, but
-at no greater density than is allowed for the zoning district as set forth in
-Division III, except as may be modified for a density bonus as provided in
-section 16.76.010 or Chapter 16.80.
+   A.   All uses permitted outright or conditionally permitted in the
+underlying zone. If conditionally permitted uses are proposed within a planned
+unit development, the standards of
+Chapter 16.50 shall be met. Residential units, either detached, attachedor in
+multiple type dwellings, but at no greater density than is allowed for the
+zoning district as set forth in Division III, except as may be modified for a
+density bonus as provided in section
+16.76.010 or
+Chapter 16.80.
    B.   Accessory and incidental retail and other nonresidential uses may be
 specifically and selectively authorized as to exact type and size to be
 integrated into the project by design. Accessory retail uses shall serve
 primarily as a convenience to the inhabitants of the project.
    C.   Mobile home subdivisions, subject to the standards and criteria of
-Division IV and Chapter 16.80.
+Division IV and
+Chapter 16.80.
    D.   Recreational facilities, including but not limited to tennis courts,
-swimming pools, and playgrounds. (Ord. 740 section 10.5.30 (A), 1984)
+swimming pools, andplaygrounds.
+   E.   All permitted and conditional residential uses allowed in any base zone
+in which the planned unit development is located are allowed uses throughout
+the planned unit development. (Ord. 740 section 10.5.30 (A), 1984; Ord 1634,
+2024)
 16.74.030   Uses permitted in other than residential zone.
 In planned unit developments in areas zoned for other than residential uses,
 uses shall be limited to those permitted by the zoning districts in which the
@@ -30806,22 +31070,82 @@ Sections:
 16.76.010   Minimum requirements.
 The minimum requirements for a residential planned unit development shall
 include the following two items:
-   A.   A minimum of fifteen percent of the gross area of the development shall
-be devoted to open space, and shall be located in a common area or dedicated to
-the public, except in the case of conversions of existing rentals to unit
-ownership, where the Planning Commission may permit a lesser requirement if it
-is found that adequate recreation facilities exist for the units.
-   B.   The average area per dwelling unit shall not be less than that allowed
-within the zoning district in which the subdivision is located, unless
-alternative lot layout is used pursuant to 16.64.040(B). The average area shall
-be calculated by dividing the number of dwelling units into the gross area of
-the total land development, minus that area occupied by streets. The commission
-may grant a density bonus of not more than fifteen percent to planned unit
-developments where it is found that unique, beneficial design features (such as
-solar efficiency, recreation facilities, or other community assets) warrant
-such a bonus. The commission shall clearly state its findings in support of
-granting or denying a requested density bonus.
-   C.   To achieve the goals of low impact development, buildings are
+   A.   Open Space. A minimum of fifteen (15) percent of the gross area of the
+development shall be devoted to open space and shall be located in a common
+area or dedicated to the public, except in the case of conversions of existing
+rentals to unit ownership, where the Planning Commission may permit a lesser
+requirement if it is found that adequate recreation facilities exist for the
+units.
+      1.   Usable Open Space. Open space areas shall be planned and improved to
+provide opportunities for active recreation, passive relaxation, or community
+interaction, and which are accessible to the general public or to residents,
+employees or customers in common. Examples include plazas, courtyards, private
+parks, sport fields and courts, and viewpoints overlooking natural resource
+areas.
+         a.   The following shall not be counted towards a planned unit
+development’s usable open space:
+            i.   Areas of land where the average slope exceeds 20 percent where
+there is no associated usable amenity provided;
+            ii.   Areas subject to the Wetland Overlay Zone (WO) per section
+16.39 or the Hazard Overlay Zone (H) per section
+16.40 unless the area can be improved to include usable amenities in
+conformance with the provisions of these overlay zones;
+            iii.   Fenced surface stormwater facilities. Stormwater facilities
+may only be counted as usable open space if they are not fenced, include
+associated passive recreational amenities such as benches, viewpoints, or
+walking paths and are effectively incorporated into the development’s overall
+open space design; and
+            iv.   Other areas determined by the review authority to be unusable
+for the purpose of meeting this standard.
+      2.   Exemption. Portions of the planned unit development site used for
+cottage clusters do not count toward the development site’s gross area for the
+purpose of calculating the minimum usable open space requirement for PUDs per
+this standard. However, common courtyards provided with cottage cluster
+developments per section
+16.21.080(F)(2) as a part of aPUD may count towards a PUD’s usable space
+requirement.
+   B.   Density. The planned unit development site shall adhere to the minimum
+and maximum density provisions of the base zone, except where a density bonus
+is approved as provided in subsection B(1) below. The average area per dwelling
+unit shall not be less than that allowed within the zoning district in which
+the subdivision is located, unless alternative lot layout is used pursuant to
+16.64.040(B). The average area shall be calculated by dividing the number of
+dwelling units into the gross area of the total land development, minus that
+area occupied by streets. The commission may grant a density bonus of not more
+than fifteen percent to planned unit developments where it is found that
+unique, beneficial design features (such as solar efficiency, recreation
+facilities, or other community assets) warrant such abonus. The commission
+shall clearly state its findings in support of granting or denying a requested
+density bonus.
+      1.   Density Bonus. The planning commission may grant an increase of up
+to 20% beyond the maximum density of the underlying base zone if all of the
+following criteria are met:
+         a.   Existing and proposed streets within and connecting to the
+development site will support the proposed density;
+         b.   Existing and proposed water, sanitary sewer and storm drainage
+systems within and connecting to the development will support the proposed
+density;
+         c.   The development demonstrates innovative site design, outstanding
+architectural variety, and quality construction which will mitigate the
+increased density;
+         d.   The increased density will be mitigated by providing exceptional
+CITY OF CANBY quality and increased quantity of usable open space beyond the
+minimum amount required by section
+16.76.010(A), and other amenities, especially active recreational areas.
+         e.   A minimum of five (5) percent of the planned unit development’s
+dwelling units must be single-story units that have at least one (1) entrance
+accessible via a route that does not have any stairs between it and the street
+lot line or an on-site parking space.
+      2.   Exceptions.
+         a.   Cottage cluster units provided within a planned unit development
+do not count toward the maximum density standard of the underlying base zone.
+Cottage cluster developments proposed within a planned unit development must
+meet the applicable development and design standards for cottage cluster
+developments per section
+16.21.080.
+   C.   The density allowed in each base zone may be spread throughout the
+planned unit development site.
+   D.   To achieve the goals of low impact development, buildings are
 encouraged to be clustered within the designated development area of the site.
 Clustering is intended to preserve open space, reduce total impervious surface
 area, and minimize development impacts on critical areas and associated
@@ -30830,11 +31154,12 @@ associated impacts and provides area for dispersion, filtration and
 infiltration of stormwater. The arrangement of clustered buildings shall be
 designed to avoid development forms commonly known as linear, straight-line or
 highway strip patterns.
-   D.   The use of LID best management practices in site design and development
+   E.   The use of LID best management practices in site design and development
 is required where site and soil conditions make it feasible option. LID
 practices shall meet the standards set forth in the Canby Public Works design
-Standards. (Ord. 740 section 10.5.50, 1984; Ord. 890 section 57, 1993; Ord.
-1338, 2010; Ord. 1514, 2019)
+Standards.
+Ord. 740 section 10.5.50, 1984; Ord. 890 section 57, 1993; Ord. 1338, 2010;
+Ord. 1514, 2019; Ord 1634, 2024)
 16.76.020   General requirements.
 Prior to development, application shall be made to the commission for site
 approval for all or any portion of the proposed development. Where only a
@@ -30883,8 +31208,10 @@ allowing for special treatment of PUD's.
 organized arrangement of buildings and service facilities.
    E.   The development must be designed so that the land areas and buildings
 around the perimeter of the project do not conflict with the adjoining
-properties. The commission may establish special conditions for the perimeter
-of the development to minimize or mitigate potential conflicts.
+properties. Where the development is adjacent to lower intensity uses, higher
+intensity uses should be placed within the interior of the project. The
+commission may establish special conditions for the perimeter of the
+development to minimize or mitigate potential conflicts.
    F.   Each planned unit development shall be a complete development
 considering all previous requirements. The commission may, in addition, require
 the inclusion of facilities such as special curbs, sidewalks, streetlights,
@@ -30917,7 +31244,7 @@ condominium ownership.
    L.   No fence/wall shall be constructed throughout a planned unit
 development where the effect or purpose is to wall said project off from the
 rest of the community unless reviewed and approved by the Planning Commission.
-(Ord. 740 section 10.5.60(B), 1984; Ord. 955 section 30, 1996)
+(Ord. 740 section 10.5.60(B), 1984; Ord. 955 section 30, 1996; Ord 1634, 2024)
 16.76.040   Exceptions.
    A.   In considering a proposed planned unit development project, the
 approval thereof may involve modifications in the regulations, requirements and
@@ -31344,7 +31671,7 @@ not limited to: identified health hazards, limited development potential, or
 administrative error. An exception to referring an annexation application that
 meets the approval criteria to an election cannot be granted except as provided
 in the Oregon Revised Statutes. (Ord. 981 section 42, 1997)
-[https://export.amlegal.com/media/af229da35a12e2e1f9ba6eee116c5a323e5cb18a/
+[https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-7002.png]
 Figure 16.84.040
 Division VII. – STREET ALIGNMENTS
@@ -34616,6 +34943,9 @@ Ord. No.     Date Passed Code Section
 1268         8-6-2008    16.40.014
 1279         6-18-2008   15.12.010 -
                          15.12.190
+1286         7-16-2008   Title 16
+1294         9-3-2008    Title 16
+1296         10-1-2008   Title 16
 1296         10-15-2008  12.12.010 -
                          12.12.040
 1299         12-17-2008  16.04.561-16.04.563, 16.35.050, 16.42.010-16.42.140,
@@ -34664,6 +34994,7 @@ Ord. No.     Date Passed Code Section
 1349         10-19-2011  T.S.O. I
 1355         5-2-2012    2.10.020
 1356         5-16-2012   13.12.065
+1369         2-20-2013   Title 16
 1370         3-6-2013    T.S.O. I
 1372         3-20-2013   2.64.050
 1373         5-1-2013    9.48.050
@@ -34695,6 +35026,7 @@ Ord. No.     Date Passed Code Section
                          12.28.070 ,
                          12.28.090
 1396         3-5-2014    5.04.190
+1398         9-17-2014   Title 16
                          5.04.150 ,
 1399         6-4-2014    5.04.230 ,
                          8.04.100 , Repeals Ch. 3.16
@@ -34789,6 +35121,7 @@ Ord. No.     Date Passed Code Section
 1413 § 14.6 4-1-2015    13.16.235
 1419         6-17-2015   9.32.040 ,
                          9.32.060
+14           10-21-2015  Title 16
 1425         11-4-2015   T.S.O. I
 1426         11-4-2015   2.64.020
 1428         11-4-2015   3.60.010 -
@@ -34810,6 +35143,7 @@ Ord. No.     Date Passed Code Section
 1466         9-6-2017    3.35.010  -
                          3.35.140
 1467         9-20-2017   Repeals Ch. 2.90
+1469         1-17-2018   Title 16
 1471         3-21-2018   2.56.030 ,
                          2.56.050
 1474         4-4-2018    2.04.010
@@ -34828,17 +35162,24 @@ Ord. No.     Date Passed Code Section
 1503         2-20-2019   T.S.O. I
 1505         4-3-2019    3.35.050,
                          3.35.090
+1514         9-4-2019    Title 16
 1523         5-6-2020    8.16.010,
                          8.16.080
+1539         12-2-2020   Title 16
 1541         12-2-2020   2.20.040
 1543         2-17-2021   2.04.010
 1558         7-21-2021   9.48.050
 1561         10-20-2021  2.20.030,
                          2.20.050
+1570         5-4-2022    Title 16
 1582         9-7-2022    3.35.090
+1584         9-7-2022    Title 16
                          9.24.080 ,
 1594         4-19-2023   9.25.010  -
                          9.25.030 ,
                          12.24.040
+1597         5-3-2023    Title 16
+1634         11-20-2024  Title 16
+1655         9-3-2025    Title 16
                         
  
