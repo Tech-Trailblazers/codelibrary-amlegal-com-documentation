@@ -2215,57 +2215,59 @@ Definitions set out in Idaho Code section 39-4105 shall apply to the same words
 used in this title, except as otherwise expressly defined in this title. As
 used in this title, the terms defined in this section shall have the following
 meanings, unless the context clearly indicates another meaning:
-AGRICULTURAL Any structure (see definition of “structure”) that is related to or used in the
-STRUCTURE:   science, business or art of cultivating soil, producing crops, and/or raising
-             livestock.
-             Any structure used or intended for supporting or sheltering any use or
-             occupancy. "Building" does not include a commercial coach, recreational vehicle,
-             camping trailer, motor home, travel trailer, fifth wheel camper or truck camper.
-BUILDING:    Nothing in this definition shall be taken to imply authorization of a use other
-             than of the temporary nature intended for a unit of that kind, of a commercial
-             coach, recreational vehicle, camping trailer, motor home, travel trailer, fifth
-             wheel camper or truck camper.
-BUILDING     The footings, foundations, exterior walls, roof and any other part of the
-ENVELOPE:    building, such as, but not limited to, eaves and decks, projecting beyond any of
-             the foregoing.
-BUILDING     The person designated with authority to administer the McCall area building
-OFFICIAL:    regulations and as the person identified as “building inspector” in Idaho Code.
-BUILDING     Any lot, tract, parcel or subdivision of land, either public or private, upon
-SITE:        which a building is placed or is to be placed.
-             Facilities or installations, including, but not limited to, heating,
-EQUIPMENT:   ventilating, air conditioning and refrigeration facilities or installations, and
-             elevators, dumbwaiters, escalators, boilers and pressure vessels and ski lifts,
-             but not including telecommunications facilities.
-HUMAN        When used in respect to temporary facilities, means a space in a structure for
-HABITATION:  living, sleeping, eating or cooking. Bathrooms, toilet compartments, storage or
-             utility space and similar areas are not considered space for human habitation.
-             Anything constructed or erected, the use of which requires location on the
-             ground or attachment to something having a fixed location on the ground. Among
-             other things, structures include buildings, mobile homes with a permanent
-             foundation, manufactured homes, modular buildings, walls, fences, decks, patios,
-             satellite dishes, billboards, fuel tanks, refuse enclosures, and piers or any
-             other construction erected to connect docks to the shore; “structure” does not,
-             for purposes of setbacks from lot lines, include:
-             (A)   Paths, steps, and sidewalks of less than forty-nine inch (49") width; and
-STRUCTURE:   driveways from access streets to automotive vehicle storage areas;
-             (B)   In-ground patios;
-             (C)   Detached planter boxes, walls not more than thirty inches (30") in height,
-             or other landscaping features, which landscaping features are not more than
-             thirty inches (30") above the natural terrain, or lot line fences except as
-             otherwise provided in section
-             3.7.023 of this title; and
-             (D)   Docks and retaining walls otherwise permitted by title 3 Planning and
-             Zoning.
-             The square footage of all floors, conditioned and unconditioned, and habitable
-STRUCTURE    attics, and including covered porches, decks, and other useable areas under
-SIZE:        roofs as measured to the outside of the exterior walls; excluding eaves unless
-             intended to cover useable space.
-             A structure designed and constructed to service actual construction projects and
-TEMPORARY    which is completely removed upon completion of the project. A temporary facility
-FACILITY:    does not include a residential occupancy or temporary structures used for the
-             protection of the public around and in conjunction with construction work. (Ord.
-             773, 12-12-2002, eff. 1-1-2003; amd. Ord. 988, 4-23-2020)
- 
+   AGRICULTURAL STRUCTURE: Any structure (see definition of “structure”) that
+is related to or used in the science, business or art of cultivating soil,
+producing crops, and/or raising livestock.
+   BUILDING: Any structure used or intended for supporting or sheltering any
+use or occupancy. "Building" does not include a commercial coach, recreational
+vehicle, camping trailer, motor home, travel trailer, fifth wheel camper or
+truck camper. Nothing in this definition shall be taken to imply authorization
+of a use other than of the temporary nature intended for a unit of that kind,
+of a commercial coach, recreational vehicle, camping trailer, motor home,
+travel trailer, fifth wheel camper or truck camper.
+   BUILDING ENVELOPE: The footings, foundations, exterior walls, roof and any
+other part of the building, such as, but not limited to, eaves and decks,
+projecting beyond any of the foregoing.
+   BUILDING OFFICIAL: The person designated with authority to administer the
+McCall area building regulations and as the person identified as “building
+inspector” in Idaho Code.
+   BUILDING SITE: Any lot, tract, parcel or subdivision of land, either public
+or private, upon which a building is placed or is to be placed.
+   EQUIPMENT: Facilities or installations, including, but not limited to,
+heating, ventilating, air conditioning and refrigeration facilities or
+installations, and elevators, dumbwaiters, escalators, boilers and pressure
+vessels and ski lifts, but not including telecommunications facilities.
+   HUMAN HABITATION: When used in respect to temporary facilities, means a
+space in a structure for living, sleeping, eating or cooking. Bathrooms, toilet
+compartments, storage or utility space and similar areas are not considered
+space for human habitation.
+   STRUCTURE: Anything constructed or erected, the use of which requires
+location on the ground or attachment to something having a fixed location on
+the ground. Among other things, structures include buildings, mobile homes with
+a permanent foundation, manufactured homes, modular buildings, walls, fences,
+decks, patios, satellite dishes, billboards, fuel tanks, refuse enclosures, and
+piers or any other construction erected to connect docks to the shore;
+“structure” does not, for purposes of setbacks from lot lines, include:
+      (A)   Paths, steps, and sidewalks of less than forty-nine inch (49")
+width; and driveways from access streets to automotive vehicle storage areas;
+      (B)   In-ground patios;
+      (C)   Detached planter boxes, walls not more than thirty inches (30") in
+height, or other landscaping features, which landscaping features are not more
+than thirty inches (30") above the natural terrain, or lot line fences except
+as otherwise provided in section
+3.7.023 of this title; and
+      (D)   Docks and retaining walls otherwise permitted by title 3 Planning
+and Zoning.
+   STRUCTURE SIZE: The square footage of all floors, conditioned and
+unconditioned, and habitable attics, and including covered porches, decks, and
+other useable areas under roofs as measured to the outside of the exterior
+walls; excluding eaves unless intended to cover useable space.
+   TEMPORARY FACILITY: A structure designed and constructed to service actual
+construction projects and which is completely removed upon completion of the
+project. A temporary facility does not include a residential occupancy or
+temporary structures used for the protection of the public around and in
+conjunction with construction work. (Ord. 773, 12-12-2002, eff. 1-1-2003; amd.
+Ord. 988, 4-23-2020)
 2-1-070: ADOPTION OF CODES:
 As adopted, amended and excluded by the State of Idaho Division of Building
 Safety, the following codes shall apply to the McCall area. These codes may be
@@ -3281,7 +3283,7 @@ GARAGE, RESIDENTIAL: A building designed and used for the storage and care of
 motor vehicles owned by the property owner or guests.
 GARAGE, SIDE-LOADED: A garage that does not face the street or is less than
 ninety (90) degrees from the street.
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2216.png]
  
 GASOLINE OR DIESEL FUELING ISLANDS: Facilities generally intended for the
@@ -3307,7 +3309,7 @@ construction or finished floor elevation after construction, whichever is more
 restrictive, directly below said point on a proposed or existing building
 element. (The highest to lowest measurement at any given vertical structure
 line.)
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2279.png]
 Excluded from the height measurement are: antennas (approved), roof stair
 access enclosures/projections, cupolas, chimneys (up to 10 feet above the
@@ -4201,7 +4203,7 @@ Over 125                                          s = 15
 where s is the side yard setback in feet for one side and w is the lot width,
 in feet.
 Figure 3.3.04
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2357.png]
  
 However, for lots up to one hundred feet (100') wide, the sum of both side yard
@@ -4280,7 +4282,7 @@ B + C = 27%, or 4,050.
    So in this example, something will have to be reduced to bring the total to
 4,050.
 Figure 3.3.06
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2359.png]
 (Ord. 821, 2-23-2006, eff. 3-16-2006; amd. Ord. 1009, 10-6-2022)
 3.3.07: RESIDENTIAL ZONE REQUIRED DETERMINATION:
@@ -5094,13 +5096,13 @@ circulation.
       7.   Adequate utility and pathway easements separate from road rights of
 way as required.
 Figure 3.5.07A
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1968.png]
 Figure 3.5.07B
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1970.png]
 Figure 3.5.07C
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1972.png]
 (Ord. 885, 3-24-2011)
 3.5.08: HOURS OF OPERATION AND NOISE RESTRICTIONS:
@@ -5167,7 +5169,7 @@ may be provided and are encouraged to allow pedestrian accesses from the
 pathway to pedestrian building entrances adjacent to the buffer. The following
 illustration shows a typical landscape buffer on perimeter streets:
 Figure 3.5.12
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1974.png]
    (F)   Street Trees: Street trees and native grasses shall be provided in the
 swales between the edge of pavement and the sidewalk along all interior public
@@ -7243,11 +7245,11 @@ the entire area covered with a trellis or other open material if no more than
 seventy percent (70%) of the area of the material is open.
 FIGURE 3.8.19(A)
 MAIN ENTRANCE FACING STREET
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1976.png]
 FIGURE 3.8.19(B)
 MAIN ENTRANCE OPENING ONTO PORCH
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1978.png]
 (Ord. 821, 2-23-2006, eff. 3-16-2006)
 3.8.20: SPECIAL STANDARDS FOR GARAGES:
@@ -7312,19 +7314,19 @@ figure 3.8.20(D) of this section. The porch may not be more than twelve feet
 (12') above the floor of the porch.
 FIGURE 3.8.20(A)
 LENGTH OF STREET FACING GARAGE WALL
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1980.png]
 FIGURE 3.8.20(B)
 LENGTH OF STREET FACING GARAGE WALL EXCEPTION
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1982.png]
 FIGURE 3.8.20(C)
 STREET LOT LINE SETBACK
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1984.png]
 FIGURE 3.8.20(D)
 GARAGE FRONT SETBACK EXCEPTION
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1986.png]
 (Ord. 939, 1-14-2016)
 3.8.21: LOCAL HOUSING DENSITY BONUS PROGRAM:
@@ -7773,7 +7775,7 @@ intended to be visible to and readable from the public way or from adjacent
 property.
 FIGURE 3.9.02
 ROOF AND FASCIA SIGNS
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1988.png]
 (Ord. 922, 5-22-2014)
 3.9.03: SIGN STANDARDS BY ZONE:
@@ -10265,39 +10267,39 @@ to section
 reviewed in this manner. (Ord. 821, 2-23-2006, eff. 3-16-2006)
 3.14.09: FIGURES AND TABLES:
 Figure 1: Cutoff Outdoor Lighting Fixture
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1990.png]
 What is a true full cutoff outdoor lighting fixture?
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1992.png]
 Flat glass lens, eliminates or minimizes direct glare, no upward throw of
 light. The housings for these fixtures are available in many styles.
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1994.png]
 Same fixture as above mounted incorrectly - defeating the horizontal mounting
 design. The fixture now produces direct glare, and can also produce up light at
 steeper mounting angles.
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1996.png]
 Known as just "cutoff" center "drop" or "sag" lens with or without exposed
 bulb, produces direct glare.
 Figure 2: 85° Full Cut-off Fixture
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-1998.png]
 Figure 3: Partially Shielded (Translucent Siding, Bulb Not Visible)
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2000.png]
 Figure 4: Shielded
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2002.png]
 Figure 5: Unshielded With Opaque Top
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2004.png]
 Figure 6: Angle Of Floodlight
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2006.png]
 Figure 7: Directional Floodlight With External Shielding
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2008.png]
 TABLE 1
 INITIAL RATED LIGHT OUTPUT OR VARIOUS LAMPS
@@ -10884,7 +10886,7 @@ project, or other improvement requiring design review before the requirements
 specified by this chapter are met and approval is granted. (Ord. 821, 2-23-
 2006, eff. 3-16-2006; amd. Ord. 998, 1-14-2021)
 3.16.05: DESIGN REVIEW PROCESS:
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2226.png]
 Step 1. A preapplication conference with the city is recommended. At this
 meeting, the representative from the city will familiarize the potential
@@ -16326,27 +16328,26 @@ restrictions applicable to any property within the City of McCall that may
 prohibit or restrict such property’s use for Short-Term Rental purposes. (Ord.
 1011, 9-8-2022)
 4.13.02: DEFINITIONS:
- 
-          A Dwelling Unit, including single-family or a multi-family unit, which is
-DWELLING, rented for the purpose of overnight lodging for compensation, money, rent or
-SHORT-    other bargained for consideration for a period of one or more days and not
-TERM      more than thirty (30) consecutive days. Short term rentals are also commonly
-RENTAL:   referred to as tourist or vacation rentals. Short term rentals with
-          occupancy of eleven (11) persons or more shall require a conditional use
-          permit.
-          The person designated by the Owner, or the Owner’s local contact person or
-LOCAL     representative, who shall be available twenty four (24) hours per day, seven
-CONTACT   (7) days per week while the Short-Term Rental is rented, for the purpose of:
-PERSON:   a) responding within sixty (60) minutes to complaints regarding the
-          condition, operation, or conduct of occupants of the Short-Term Rental; and
-          b) taking remedial action to resolve any such complaints.
-OWNER:    The person(s) or entity(ies) which hold the fee interest to the real
-          property underlying any Dwelling Unit.
-SHORT-    A permit that allows the use of a residential Dwelling Unit as a Short-Term
-TERM      Rental pursuant to the provisions of this chapter, and that incorporates by
-RENTAL    consolidation a municipal non-property tax permit and any other potential
-PERMIT:   licensing required by this code. (Ord. 1011, 9-8-2022)
- 
+DWELLING, SHORT-TERM RENTAL: A Dwelling Unit, including single-family or a
+multi-family unit, which is rented for the purpose of overnight lodging for
+compensation, money, rent or other bargained for consideration for a period of
+one or more days and not more than thirty (30) consecutive days. Short term
+rentals are also commonly referred to as tourist or vacation rentals. Short
+term rentals with occupancy of eleven (11) persons or more shall require a
+conditional use permit.
+LOCAL CONTACT PERSON: The person designated by the Owner, or the Owner’s local
+contact person or representative, who shall be available twenty four (24) hours
+per day, seven (7) days per week while the Short-Term Rental is rented, for the
+purpose of: a) responding within sixty (60) minutes to complaints regarding the
+condition, operation, or conduct of occupants of the Short-Term Rental; and b)
+taking remedial action to resolve any such complaints.
+OWNER: The person(s) or entity(ies) which hold the fee interest to the real
+property underlying any Dwelling Unit.
+SHORT-TERM RENTAL PERMIT: A permit that allows the use of a residential
+Dwelling Unit as a Short-Term Rental pursuant to the provisions of this
+chapter, and that incorporates by consolidation a municipal non-property tax
+permit and any other potential licensing required by this code. (Ord. 1011, 9-
+8-2022)
 4.13.03: PERMIT REQUIRED:
 Permits Required And Issuance Of Permits:
    A.   Prior to advertising and offering for rent a dwelling as a Short-Term
@@ -16485,7 +16486,7 @@ SECTION:
 5-1-010: Definitions
 5-1-020: Duties of the Department
 5-1-030: Enforcement Respecting Other Titles of this Code
-5-1-010:   DEFINITIONS:
+5-1-010: DEFINITIONS:
 In this Title:
 CHIEF: The Police Chief, an officer of the City as provided in Title I of this
 Code.
@@ -16493,7 +16494,7 @@ CODE and THIS CODE: The McCall City Code.
 DEPARTMENT: The Chief, those sworn peace officers employed by the City, reserve
 peace officers on active duty with the City, and other City employees assigned
 to be supervised by the Chief.
-5-1-020:   DUTIES OF THE DEPARTMENT:
+5-1-020: DUTIES OF THE DEPARTMENT:
 The Chief and, through him and as directed by him, the Department, has the duty
 within the limits imposed by the resources of the Department to preserve the
 public peace and to see that all laws and regulations of this Title and of the
@@ -16502,7 +16503,7 @@ violation of such laws or regulations shall come to its knowledge or be
 reported to it, it shall cause the requisite investigation and report to be
 made; and shall when in the judgment of the Chief it is merited, seek
 prosecution by the City or County Prosecutor as may be appropriate.
-5-1-030:   ENFORCEMENT RESPECTING OTHER TITLES OF THIS CODE:
+5-1-030: ENFORCEMENT RESPECTING OTHER TITLES OF THIS CODE:
    (A)   The Chief and, through him and as directed by him, the Department, is
 vested with the authority of the Mayor to enforce this Code. Such authority is
 subordinate to the authority of other Departments to determine the presence or
@@ -18959,27 +18960,19 @@ include the plural number. The word "shall" is always mandatory and not merely
 directory. Words used throughout this chapter, but not defined herein, shall
 have their plain, ordinary, and common meaning. Words in any gender shall apply
 to the feminine, masculine, and neuter genders.
- 
-                               The foreseeable, imminent, or present threat of
-PUBLIC HEALTH EMERGENCY:       any pathogen, agent, vector, or environmental
-                               condition, including hazardous materials, which
-                               does or may cause illness or injury to humans.
-                               An advisory, social distancing, isolation, or
-PUBLIC HEALTH EMERGENCY ORDER: quarantine order enacted by the City Manager, or
-                               Mayor and City Council.
-                               The separation of infected persons, or of
-                               persons suspected to be infected, from other
-ISOLATION:                     persons to such places, under such conditions,
-                               and for such time as will prevent transmission
-                               of the infectious agent.
-                               The restriction placed on the entrance to and
-QUARANTINE:                    exit from the place of premises where an
-                               infectious agent or hazardous material exists.
-                               Actions taken to maintain distance from other
-SOCIAL DISTANCING:             people, including avoiding or canceling
-                               congregate settings and mass gatherings. (Ord.
-                               995, 11-5-2020)
- 
+PUBLIC HEALTH EMERGENCY: The foreseeable, imminent, or present threat of any
+pathogen, agent, vector, or environmental condition, including hazardous
+materials, which does or may cause illness or injury to humans.
+PUBLIC HEALTH EMERGENCY ORDER: An advisory, social distancing, isolation, or
+quarantine order enacted by the City Manager, or Mayor and City Council.
+ISOLATION: The separation of infected persons, or of persons suspected to be
+infected, from other persons to such places, under such conditions, and for
+such time as will prevent transmission of the infectious agent.
+QUARANTINE: The restriction placed on the entrance to and exit from the place
+of premises where an infectious agent or hazardous material exists.
+SOCIAL DISTANCING: Actions taken to maintain distance from other people,
+including avoiding or canceling congregate settings and mass gatherings. (Ord.
+995, 11-5-2020)
 5-9-06: PUBLIC HEALTH EMERGENCY ORDERS:
 The City Manager, Mayor and City Council, being duly authorized by Idaho Code
 sections 50-811, 50-304 and 50-606, may issue the following orders, as deemed
@@ -25748,7 +25741,7 @@ feet of proposed impervious surface     24 hour storm
 Note: Emergency spillways must be designed for the 100-year design storm.
 Figure 9.6.04
 RAINFALL INTENSITIES
-[https://export.amlegal.com/media/da309f2534fb351bbed1003b3bd0777eedff815e/
+[https://export.amlegal.com/media/c193380c442404eb47adf76dc3d0c7ce19190cf7/
 IMAGES/0-0-0-2010.png]
       1.   Drainage Control And Treatment Facilities:
          (a)   The plan shall include drainage and treatment plan showing all
