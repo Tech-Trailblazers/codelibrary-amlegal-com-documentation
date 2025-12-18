@@ -29898,7 +29898,7 @@ every week such sidewalk remains in violation of this chapter.
 EXHIBIT A
 VILLAGE OF HEBRON, OHIO
  
-[https://export.amlegal.com/media/163baf48414a2c4f453321bd44f97050ba7d43f1/
+[https://export.amlegal.com/media/53480f78a2e56fb8e6b0fe8ca227604bb4a5612f/
 IMAGES/0-0-0-1255.gif]
 CHAPTER 909
 Curbs
@@ -32085,19 +32085,45 @@ water lines without a connection permit first being issued by the Village.
 a payment schedule for the foregoing capacity charge.
    (c)   Capacity Charges:
       (1)   Capacity charges for normal water service shall be as follows:
-    FY 2025
-Tap Size Inside Domestic Inside Fire   Outside Domestic Outside Fire
-0.75     $3,125          N/A           $6,300           N/A
-1        $5,597          N/A           $11,194          N/A
-1.5      $11,925         N/A           $23,904          N/A
-2        $22,399         N/A           $44,798          N/A
-3        $25,186         11,763.50     $50,371          17,645.50
-4        $44,774         20,913.00     $89,549          31,369.50
-6        $100,744        47,054.50     $201,487         70,586.00
-8        $179,100        83,652.50     $358,200         125,479.00
-10       $279,844        130,707.00    $559,687         196,060.50
-12       $403,181        188,314.00  $806,362         282,471.00
-16       $584,612        273,055.50    $1,169,225       409,583.50
+FY 2025
+Tap Size Inside   Outside
+0.75     $3,125   $6,300
+1        $5,597   $11,194
+1.5      $11,925  $23,904
+2        $22,399  $44,798
+3        $25,186  $50,371
+4        $44,774  $89,549
+6        $100,744 $201,487
+8        $179,100 $358,200
+10       $279,844 $559,687
+12       $403,181 $806,362
+16       $584,612 $1,169,225
+FY 2026
+Tap Size Inside   Outside
+0.75     $3,188   $6,426
+1        $5,709   $11,417
+1.5      $12,164  $24,382
+2        $22,847  $45,694
+3        $25,690  $51,379
+4        $45,669  $91,340
+6        $102,759 $205,517
+8        $182,682 $365,364
+10       $285,441 $570,881
+12       $411,245 $822,489
+16       $596,304 $1,192,609
+FY 2027
+Tap Size Inside   Outside
+0.75     $3,251   $6,555
+1        $5,823   $11,646
+1.5      $12,407  $24,870
+2        $23,304  $46,608
+3        $26,204  $52,406
+4        $46,583  $93,167
+6        $104,814 $209,627
+8        $186,336 $372,671
+10       $291,150 $582,299
+12       $419,470 $838,939
+16       $608,230 $1,216,461
       (2)    Any water service tap larger than those set forth herein shall be
 the subject of a special action by Council prior to issuance of a connection
 permit.
@@ -32148,8 +32174,7 @@ water main tap that supplies water to the structure or units.
    (c)    Capacity Charges.
       (1)   Wastewater system capacity charges for wastewater service shall be
 as follows:
-   Nominal Water Tap
-      FY 2025
+ FY 2025
 Diameter Inside     Outside
 0.75     $3,256     $6,511
 1        $5,798     $11,578
@@ -32162,7 +32187,32 @@ Diameter Inside     Outside
 10       $578,772   $1,157,544
 12       $833,032   $1,666,063
 16       $1,194,766 $2,389,531
-      
+FY 2026
+Diameter Inside     Outside
+0.75     $3,321     $6,641
+1        $5,914     $11,810
+1.5      $13,287    $26,573
+2        $23,598    $47,195
+3        $53,331    $106,661
+4        $92,337    $184,672
+6        $212,530   $425,061
+8        $429,262   $858,524
+10       $590,347   $1,180,695
+12       $849,693   $1,699,384
+16       $1,218,661 $2,437,322
+FY 2027
+Diameter Inside     Outside
+0.75     $3,388     $6,774
+1        $6,032     $12,046
+1.5      $13,552    $27,105
+2        $24,070    $48,139
+3        $54,397    $108,795
+4        $94,183    $188,365
+6        $216,781   $433,562
+8        $437,847   $875,694
+10       $602,154   $1,204,309
+12       $866,686   $1,733,372
+16       $1,243,035 $2,486,068
       (2)   Where all or a determined portion of a water service tap is
 installed for fire protection, no normal use of wastewater is anticipated and
 therefore, no wastewater system capacity charge shall be levied on that portion
@@ -43462,7 +43512,7 @@ regulations, or the orders of the Village of Hebron.
 APPENDIX A
 ZONING MAP
  
-[https://export.amlegal.com/media/163baf48414a2c4f453321bd44f97050ba7d43f1/
+[https://export.amlegal.com/media/53480f78a2e56fb8e6b0fe8ca227604bb4a5612f/
 IMAGES/0-0-0-2745_8256x11880.jpg]
 (Ord. 19-20. Passed 11-4-20.)
 APPENDIX B 
@@ -43643,7 +43693,7 @@ Silver Maple                   Acer Saccharinum
 (Ord. 19-20. Passed 11-4-20.)
 APPENDIX D
 VILLAGE OF HEBRON ORDINANCE 02-03
-[https://export.amlegal.com/media/163baf48414a2c4f453321bd44f97050ba7d43f1/
+[https://export.amlegal.com/media/53480f78a2e56fb8e6b0fe8ca227604bb4a5612f/
 IMAGES/0-0-0-2748_7363x11481.jpg]
 (Ord. 19-20. Passed 11-4-20.)
 APPENDIX E
