@@ -26,7 +26,7 @@ Ord. No. Adopt. Date Short Title and Code Sections Affected
                      53.019, 54.004
                      Amending Ch. 150 re: Swimming pools
 25-08    8-18-2025    
-                     150.075
+                     150.075; Repealing 150.076
                      Repealing owner occupied mobile housing
 25-09    10-20-2025   
                      151.020
@@ -36,7 +36,7 @@ Ord. No. Adopt. Date Short Title and Code Sections Affected
 VILLAGE OF MARISSA, ILLINOIS
 CODE OF ORDINANCES
 2025 S-1 Supplement contains:
-Local legislation current through Ord. 25-04, passed 6-2-2025
+Local legislation current through Ord. 25-08, passed 8-18-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -9871,7 +9871,10 @@ with the service line to any other water source. The service line shall meet
 all requirements of the State Environmental Protection Agency’s rules and
 regulations, the State Plumbing Code, being Ill. Admin. Code tit. 77, pt. 890,
 and the regulations in this chapter.
-(Prior Code, § 38-3-5)
+   (C)   All new or replacement service lines that are non-metallic/non-
+conductive shall have a tracer wire installed at the time of service line
+installation/replacement.
+(Prior Code, § 38-3-5) (Ord. 25-06, passed 7-21-2025)
 § 53.020 INSPECTION.
    (A)   Access to premises.
       (1)   The village shall have access to all portions of the premises of
@@ -11200,7 +11203,8 @@ village. Service lines must not be covered until they are inspected and
 approved by a duly authorized village representative. The user will not connect
 any service line or any plumbing connected with the service line until approved
 by the village. The service line must meet any requirements of the State
-Environmental Protection Agency.
+Environmental Protection Agency, and all connections to either the manhole or
+sewer main shall be done by an Illinois licensed plumber at the user’s expense.
    (B)   Easements. The user shall give such easements and rights-of-way as
 necessary to the village and allow access for the purpose of construction,
 repair, maintenance, and relocation or expansion of the sewer system. The
@@ -11221,7 +11225,7 @@ hereby established for each unit; and
       (3)   Uses other than ordinary domestic and farm use may be approved by
 the Board of Trustees upon such specific terms and conditions as may be set
 forth by the Board of Trustees in each case.
-(Prior Code, § 38-5-57)
+(Prior Code, § 38-5-57) (Ord. 25-06, passed 7-21-2025)
 § 54.005 EXTENSION OF MAINS.
    (A)   (1)   The Board of Trustee shall first determine if an extension of a
 sewer main is economically feasible based on the estimated cost of the
@@ -12593,9 +12597,9 @@ COUNTY OF ST. CLAIR
                                     SIGNED:_______________________________
 (Prior Code, Ch. 38, App. H)
 APPENDIX I: INTERCEPTORS
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3383.jpg]
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3385.jpg]
 (Prior Code, Ch. 38, App. A and B)
 TITLE VII: TRAFFIC CODE
@@ -24548,8 +24552,6 @@ Exterior Property Areas
 Swimming Pools, Spas, and Hot Tubs
    
 150.075   Swimming pools
-   
-150.076   Enclosures
 Exterior Structures
    
 150.090   Generally
@@ -25704,33 +25706,43 @@ maintenance and repair.
 150.999
 SWIMMING POOLS, SPAS, AND HOT TUBS
 § 150.075 SWIMMING POOLS.
-   (A)   The term SWIMMING POOL is hereby defined as a receptacle for water, or
-an artificial pool of water having a depth at any point of more than three
-feet, intended for the purpose of immersion or partial immersion therein of
-human beings, and including all appurtenant equipment.
-   (B)   All outdoor swimming pools shall be completely enclosed by a fence.
-All fence openings or points of entry into pool area enclosure shall be
-equipped with gates. The fence and gates shall be at least six feet in height
-above ground level and shall be constructed of a minimum No. 9 gauge woven wire
-mesh corrosion-resistant material, wood, vinyl, or similar material. All gates
-shall be equipped with self-closing and self-latching devices placed at the top
-of the gate. Fence posts shall be decay or corrosion-resistant and shall be set
-in concrete bases.
-(Prior Code, § 29-3-15) (Ord. 05-08, passed 10-17-2005)
-§ 150.076 ENCLOSURES.
-   Private swimming pools, hot tubs, and spas containing water more than 24
-inches (610 millimeters) in depth shall be completely surrounded by a fence or
-barrier at least 48 inches (1,219 millimeters) in height above the finished
-ground level measured on the side of the barrier away from the pool. Gates and
-doors in such barriers shall be self-closing and self-latching. Where the self-
-latching device is less than 54 inches (1,372 millimeters) above the bottom of
-the gate, the release mechanism shall be located on the pool side of the gate.
-Self-closing and self-latching gates shall be maintained such that the gate
-will positively close and latch when released from an open position of six
-inches (152 millimeters) from the gatepost. No existing pool enclosure shall be
-removed, replaced, or changed in a manner that reduces its effectiveness as a
-safety barrier.
-(303.2) (Prior Code, § 29-3-16)
+   (A)   The term SWIMMING POOL is hereby defined as any structure or
+receptacle and appurtenant equipment intended for swimming, recreational
+bathing or wading that contains water over 24 inches (610 mm) deep at any
+point. This includes in-ground, above ground and on-ground pools, hot tubs,
+spas and fix-in-place wading pools.
+   (B)   All outdoor swimming pools shall be completely enclosed by a fence,
+excepting therefrom the following:
+      (1)   Any above ground pool, on-ground pool, hot tub or spa that has a
+barrier or sidewall that is at least 48 inches (1,219 mm) above grade measured
+on the side of the barrier or sidewall that faces away from the swimming pool
+and where the means of access is a ladder or steps that such ladder and/or
+steps shall be capable of being secured, locked or removed to prevent access;
+or
+      (2)   Any swimming pool with a power safety cover or a hot tub or spa
+with a safety cover complying with ASTM F1346.
+   (C)   When a fence or barrier is required pursuant to division (B) above,
+said fence or barrier shall be at least 48 inches (1,219 mm) in height above
+the finished ground level measured on the side of the barrier away from the
+pool, and if the fence or barrier contains openings or gaps between the slats/
+pickets, said openings or gaps shall not be more than two inches (51 mm) wide
+from the bottom to grade and not more than four inches (102 mm) wide within the
+fence or barrier. All fence openings or points of entry into pool area
+enclosure shall be equipped with gates. Gates and doors in such barriers shall
+be self-closing and self-latching. Where the self-latching device is less than
+54 inches (1,372 mm) above the bottom of the gate, the release mechanism shall
+be located on the pool side of the gate. Self-closing and self-latching gates
+shall be maintained such that the gate will positively close and latch when
+released from an open position of six inches (152 mm) from the gatepost. The
+fence and gates shall be constructed of a minimum No. 9 gauge woven wire mesh
+corrosion-resistant material, aluminum, wood, vinyl, or similar material. Fence
+posts shall be decay or corrosion-resistant and shall be set in concrete bases.
+No existing pool enclosure shall be removed, replaced, or changed in a manner
+that reduces its effectiveness as a safety barrier.
+   (D)   No swimming pool, whether public or private, shall be located in any
+front yard of a parcel/lot.
+(Prior Code, § 29-3-15) (Ord. 05-08, passed 10-17-2005; Ord. 25-08, passed 8-
+18-2025)
 EXTERIOR STRUCTURES
 § 150.090 GENERALLY.
    The exterior of a structure shall be maintained in good repair, structurally
@@ -26638,7 +26650,7 @@ General Provisions
 151.005   National safety standards
 Living Requirements
    
-151.020   Owner occupied
+151.020   Reserved
    
 151.021   Skirting
    
@@ -26805,13 +26817,7 @@ unless the unit has the National Manufactured Housing Construction and Safety
 Standards metal seal affixed thereto.
 (Prior Code, § 23-1-5)
 LIVING REQUIREMENTS
-§ 151.020 OWNER OCCUPIED.
-   (A)   All mobile housing units, including, but not limited to, immobilized
-mobile homes, and mobile homes shall be used and occupied by the owner or his
-or her immediate family as a residence.
-   (B)   If the unit is not located in a licensed mobile home park, then the
-lot should be owned by the owner-occupant of the mobile home.
-(Prior Code, § 23-1-6)
+§ 151.020 RESERVED.
 § 151.021 SKIRTING.
    Skirting shall be used to conceal all underpinning, plumbing, and support
 piers, whether on permanent foundation or otherwise. All skirting shall be
@@ -29858,7 +29864,7 @@ assigns.
 (Prior Code, § 34-5-47)
 (Ord. 96-5, passed 1-15-1996)
 APPENDIX A: STREET DIAGRAMS
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3425.jpg]
 (Prior Code, Ch. 34 diagram)
 CHAPTER 154: ZONING
@@ -34534,19 +34540,19 @@ I-                    20,000  125 feet 150     50 feet 50 feet  50              
  
 (Prior Code, Ch. 40)
 APPENDIX B: CORNERS; RESTRICTED AREA
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3437.jpg]
 (Prior Code, Ch. 40)
 APPENDIX C: LOT TERMS
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3431.jpg]
 (Prior Code, Ch. 40)
 APPENDIX D: SIGN AREA
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3439.jpg]
 Prior Code, Ch. 40)
 APPENDIX E: LOTS CORNER TYPES
-[https://export.amlegal.com/media/be2939e5e46c3130eaf1aa6748ed6c60c07480cc/
+[https://export.amlegal.com/media/55b2dcabe38ed28988c7fe1d84ccd8df76d568b7/
 IMAGES/0-0-0-3435.jpg]
 (Prior Code, Ch. 40)
 CHAPTER 155: GENERAL BUILDING REGULATIONS
@@ -40753,7 +40759,6 @@ Ch. 22               Ch. 33, App. A
 23-1-3               151.003
 23-1-4               151.004
 23-1-5               151.005
-23-1-6               151.020
 23-1-7               151.021
 23-1-8               151.022
 23-1-9               151.023
@@ -41080,7 +41085,6 @@ Ch. 28               Ch. 92, App. A; Ch. 94, App. B
 29-3-12              150.062
 29-3-13              150.063
 29-3-15              150.075
-29-3-16              150.076
 29-3-18              150.090
 29-3-19              150.091
 29-3-20              150.092
@@ -41759,6 +41763,9 @@ Ord. No. Date Passed Code Section
 2024-18  11-20-2024  32.116
 2024-19  12-2-2024   151.075
 25-04    6-2-2025    30.046
+25-06    7-21-2025   53.019;
+                     54.004
+25-08    8-18-2025   150.075
                     
  
  
