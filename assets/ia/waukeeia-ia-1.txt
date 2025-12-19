@@ -362,6 +362,35 @@ Oct-25    Ch. 169                   3154     10-6-25  Rezoning From C-1 and C-
                                                       Rezoning From R-2 and R-
           Ch. 169                   3157     10-20-25 2/PD-1 to R-2/PD-1 and R-
                                                       2
+Nov-25    Ch. 110                   3158     11-3-25  Natural Gas Rates and
+                                                      Charges
+          Ch. 150                   3159     11-3-25  Trees
+                                                      Amended Waukee Unified
+          Ch. 9                     3160     11-17-25 Urban Renewal Area
+                                                      (Removal of Amendment No.
+                                                      16 Area)
+                                                      Waukee Consolidated Urban
+          Ch. 9                     3161     11-17-25 Renewal Area (2025
+                                                      Ordinance Parcels)
+                                                      Kettlestone Lakes
+          Ch. 9                     3162     11-17-25 District One Urban
+                                                      Renewal Area
+                                                      Amended Kettlestone Phase
+          Ch. 9                     3163     11-17-25 1 Commercial Urban
+                                                      Renewal Area (Amendment
+                                                      No. 1)
+                                                      Amended Kettlestone Phase
+          Ch. 9                     3164     11-17-25 2 Commercial Urban
+                                                      Renewal Area (Amendment
+                                                      No. 1)
+                                                      Kettlestone Phase 5
+          Ch. 9                     3165     11-17-25 Commercial Urban Renewal
+                                                      Area
+                                                      Kettlestone Residential
+          Ch. 9                     3166     11-17-25 Urban Renewal Area
+                                                      (Projects 2 and 3
+                                                      Property)
+          Ch. 52                    3167     11-11-25 Noise Control
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -1979,10 +2008,22 @@ Resolution #13-257 10/21/2013 Gateway Economic Development Urban Renewal Plan
 3126               10/7/24    Amendment No. 1 to the Quareter Commercial Urban
                               Renewal Area
                               Amended Waukee Unified Urban Renewal Area
-3128               11/4/2024  (Removal of Amendment No. 14 Area and Additional
+3128               11/4/224   (Removal of Amendment No. 14 Area and Additional
                               2024 Parcel)
-3129               11/4/2024  Waukee Consolidated Urban Renwal Area (2024
+3129               11/4/24    Waukee Consolidated Urban Renwal Area (2024
                               Ordinace Parcels)
+3160               11/17/25   Amended Waukee Unified Urban Renewal Area
+                              (Removal of Amendment No. 16 Area)
+3161               11/17/25   Waukee Consolidated Urban Renewal Area (2025
+                              Ordinance Parcels)
+3162               11/17/25   Kettlestone Lakes District One Urban Renewal Area
+3163               11/17/25   Amended Kettlestone Phase 1 Commercial Urban
+                              Renewal Area (Amendment No. 1)
+3164               11/17/25   Amended Kettlestone Phase 2 Commercial Urban
+                              Renewal Area (Amendment No. 1)
+3165               11/17/25   Kettlestone Phase 5 Commercial Urban Renewal Area
+3166               11/17/25   Kettlestone Residential Urban Renewal Area
+                              (Projects 2 and 3 Property)
  
 CHAPTER 15
 MAYOR
@@ -4426,36 +4467,43 @@ NOISE CONTROL
 The purpose of this chapter is to establish standards for the control of noise
 pollution in the City, thereby protecting the public’s health, safety, and
 general welfare. This chapter applies to the control of all noise originating
-within the limits of the City, except in the following cases:
-1.   A State or federal agency has adopted a different standard or rule than
-prescribed within this chapter, which preempts the regulation of noise from a
-particular source so as to render this chapter inapplicable; or
-2.   The Council has determined that, by reason of public acceptance of the
-activity producing a particular noise or noises, such noise is deemed
-acceptable to the residents of the City.
+within the limits of the City, except if a State or federal agency has adopted
+a different standard or rule than prescribed within this chapter, which
+preempts the regulation of noise from a particular source so as to render this
+chapter inapplicable.
 52.02   DEFINITIONS.
 Unless otherwise expressly stated or the context clearly indicates a different
 intention, the following terms have the following meanings. Definitions of
 technical terms used in this chapter and which are not herein defined shall be
 obtained from publications of acoustical terminology issued by the American
 National Standards Institute (ANSI).
-1.   “Application” means the application submitted to the City requesting a
-noise permit.
+1.   “Decibel (dB)” means a unit for measuring the amplitude of a sound, equal
+to twenty (20) times the logarithm to the base 10 of the ration of the pressure
+of the sound measured to the reference pressure, which is twenty (20)
+micropascals.
 2.   “Emergency” means any occurrence of sets of circumstances involving actual
 or imminent physical or psychological trauma or property damage and which
 demands immediate action.
 3.   “Emergency work” means any work performed for the purpose of alleviating
-or resolving an emergency.
+or resolving an emergency or serious situation needing immediate attention on
+public property, streets, alleys, public infrastructure or utilities serving
+the public.
 4.   “Grain elevator” means the grain elevator existing in the City on January
 1, 2006.
-5.   “Motor vehicle” means any motor-powered vehicle designed to carry at least
-one passenger or driver and of the type typically licensed for use on the
-public highways. “Motor vehicle” includes most motorcycles.
-6.   “Motorcycle” means any two- or three-wheeled motor vehicle.
-7.   “Noise” means any sound that disturbs humans or which causes or tends to
-cause an adverse psychological or physiological effect on humans.
-8.   “Noise disturbance” means those sounds defined as sounds not allowed in
-Section 52.04 of this chapter.
+5.   “Motor truck” means every motor vehicle designed primarily for carrying
+livestock, merchandise, freight of any kind, or over nine persons as
+passengers.
+6.   “Motor vehicle” means a vehicle which is self-propelled and not operated
+upon rails, or as defined in Code of Iowa Section 321.1.
+7.   “Motorcycle” means every motor vehicle having a saddle or seat for the use
+of the rider and designed to travel on not more than three wheels in contact
+with the ground including a motor scooter, but excluding a tractor, an
+autocycle, a low-speed electric bicycle, and a motorized bicycle, or as defined
+in Code of Iowa Section 321.1.
+8.   “Noise disturbance” means any sound that disturbs humans or which causes
+or tends to cause an adverse psychological or physiological effect on humans,
+as well as those sounds prohibited by Section
+52.04 of this chapter.
 9.   “Person,” unless used in such a manner as to denote only a human being,
 means any firm, partnership, domestic or foreign corporation, association,
 joint stock company, trust or other association or entity, city, county or
@@ -4465,23 +4513,27 @@ government and subdivisions and agencies thereof.
 or land borne model plane, vessel, or vehicle that is not designed to carry
 persons, including, but not limited to, any model airplane, boat, car or
 rocket.
-11.   “Public right-of-way” means the traveled portion of any street or alley
-or similar place which is owned or controlled by the City or other governmental
-entity.
+11.   “Public right-of-way” means the total area of land, whether reserved by
+public ownership or easement, that is reserved for the operation and
+maintenance of a legally established public roadway. This area shall be deemed
+to consist of two portions, a central traveled way including the shoulders and
+that remainder of both sides of the road, between the outside shoulder edges
+and the outer boundaries of the right-of-way, or as defined in Code of Iowa
+Section 318.1.
 12.   “Real property boundary” means an imaginary line along the ground
 surface, and its vertical extension, which separates the real property owned by
 one person from that owned by another person, but not including intra-building
 real property division.
-13.   “Recreational vehicle” means any motor-powered vehicle designed to carry
-at least one passenger or driver and equipped for use in racing or other
+13.   “Sport vehicle” means any motor-powered vehicle designed to carry at
+least one passenger or driver and equipped for use in racing or other
 recreational events or uses off of public right-of-way on public or private
 property; except, however, for the purposes of this chapter, any such vehicle
 that is licensed for use on the public highways is deemed a motor vehicle (or
 motorcycle if two- or three-wheeled) and not a recreational vehicle. Examples
-of recreational vehicles are: snowmobiles, minibikes, stock cars and
-motorboats.
-14.   “Residential property” means any property on which is located a building
-or structure used wholly or partially for living or sleeping purposes.
+of recreational vehicles are snowmobiles, minibikes, stock cars and motorboats.
+14.   “Residential property” means any property on which is located a building,
+structure, unit or room used wholly or partially for living or sleeping
+purposes.
 15.   “Semi-tractor” means any vehicle weighing in excess of one and one-half
 tons having the capability of towing a semitrailer.
 16.   “Sound” means an oscillation in pressure, particle displacement, particle
@@ -4489,91 +4541,82 @@ velocity or other physical parameter, in a medium with internal forces that
 cause compression and rarefaction of that medium. The description of sound may
 include any characteristic of such sound, including duration, intensity, and
 frequency.
-17.   “Sound equipment” means any radio, record player, tape deck, or compact
-disc player, loudspeaker, amplifier, sound track, or other device for
+17.   “Sound equipment” means any device, loudspeaker, amplifier, used for
 producing, reproducing, or amplifying sound; however, sound equipment does not
 include sirens and other equipment used to alert persons to the existence of an
 emergency; equipment used by law enforcement and other public safety officials
 in the performance of their official duties; church carillons, bells or chimes;
 mobile radio or telephone signaling devices; public announcement systems used
-by the City or at the Waukee football stadium in conjunction with sporting
-events; or automobile and truck radios or players of recorded music such as
-compact discs or tapes or other such standard equipment used and intended for
-the use and enjoyment of the occupants of the vehicle, provided that the sound
-emitted from the vehicle does not exceed 75 dB(A) when measured at a distance
-of 25 feet.
-18.   “Sound level meter” means an instrument, including a microphone,
+by the City or at the Waukee football stadiums in conjunction with sporting
+events; or vehicle standard equipment used and intended for the use and
+enjoyment of the occupants of the vehicle, provided that the sound emitted from
+the vehicle does not exceed 75 dB(A) when measured at a distance of 25 feet.
+18.   “Sound measurement device” means an instrument, including a microphone,
 amplifier, output meter, and weighting networks, which is sensitive to pressure
-fluctuations. The output meter reads sound pressure levels in decibels when
-properly calibrated and the instrument is of Type 2 or better as specified in
-American National Standards Institute, USA Standard Specification for General
-Purpose Sound Level Meters (S1.4-1971), and Preferred Center Frequencies for
-Acoustical Measurements (S1.6-1960), or any subsequent nationally adopted
-standard superseding such standards. A “weighted sound level” or “sound level”
-means the sound pressure level in decibels as measured on a sound level meter
-using the “A” weighting network. The level so read shall be designated as dB(A)
-or dBA. “Decibel” means a logarithmic and dimensionless unit of measure often
-used in describing the amplitude of sound and is denoted as dB.
+fluctuations. The meter reads sound pressure levels in decibels when properly
+calibrated and the instrument is of Type 2 or better as specified in American
+National Standards Institute, USA Standard Specification for General Purpose
+Sound Level Meters (S1.4-1971), and Preferred Center Frequencies for Acoustical
+Measurements (S1.6-1960), or any subsequent nationally adopted standard
+superseding such standards. The level read shall be designated as dB(A) or dBA.
+“Decibel” means a logarithmic and dimensionless unit of measure often used in
+describing the amplitude of sound and is denoted as dB.
+19.   “Vehicle” means a motor vehicle, motorcycle, sport vehicle, motor truck
+or other means of conveyance on, along or adjacent to the public right of way.
 52.03   NOISE DISTURBANCE PROHIBITED.
 It is unlawful for any person to willfully make, continue, cause, or allow any
-noise disturbance, as listed in Section 52.04 of this chapter, within the City.
+noise disturbance, as listed in Section
+52.04 of this chapter, within the City.
 52.04   SOUNDS NOT ALLOWED.
 A noise disturbance is any of the following sounds:
 1.   Alarm Testing. The sound emitted by the intentional sounding outdoors of
 any privately owned fire alarm, burglar alarm, siren, whistle, or similar
 stationary emergency signaling device for the essential testing of such device,
 when conducted between the hours of 5:00 p.m. and 8:00 a.m.
-2.   Automobile Radios. The sound emitted by an automobile or truck radio, tape
-deck, or compact disc player, or other such standard equipment used and
-intended for the use and enjoyment of such vehicle’s occupants while such
-vehicle is on the public right-of-way, if the sound emitted from the vehicle
-exceeds 75 dB(A) when measured at a distance of 25 feet.
-3.   Chain Saws. The sound emitted by motor powered tree trimming equipment
-operated between the hours of 9:00 p.m. and 7:00 a.m.
-4.   Construction Noise. The sound made by privately owned and operated tools
-or equipment in the erection, demolition, excavation, drilling, or other such
-construction work between the hours of 9:00 p.m. and 7:00 a.m. when received at
-the real property boundary of residential property.
-5.   Engine Brake Noise. The sound made by an engine brake device of a diesel
-engine truck.
-6.   Engine Repairs and Testing. The sound made by repairing, rebuilding,
-modifying, or testing a motor vehicle or recreational vehicle when received
-between the hours of 9:00 p.m. and 7:00 a.m. at the real property boundary of
+2.   Vehicle Sound Devices. The sound emitted by any device within or on a
+vehicle, or other such standard equipment used and intended for the use and
+enjoyment of such vehicle’s occupants while such vehicle is on the public
+right-of-way, if the sound emitted from the vehicle exceeds 75 dB(A) when
+measured at a distance of 25 feet.
+3.   Chain Saws. The sound emitted by powered tree trimming equipment operated
+between the hours of 9:00 p.m. and 7:00 a.m.
+4.   Construction Noise. The sound made by tools or equipment in the erection,
+demolition, excavation, drilling, or other such construction work between the
+hours of 9:00 p.m. and 7:00 a.m. when received at the real property boundary of
 residential property.
-7.   Injurious or Disturbing Sounds Generally. Any sound that endangers or
-injures the health, safety, or welfare of a human being, disturbs a reasonable
-human being of normal sensitivities, or causes or tends to cause an adverse
-physiological or physical effect on human beings, or devalues or injures
-property.
-8.   Lawn and Garden Equipment. The sound emitted by motor powered, muffler-
-equipped lawn and garden equipment operated between the hours of 9:00 p.m. and
-7:00 a.m.
+5.   Engine Brake Noise. The sound made by an engine brake device of a vehicle.
+6.   Engine Repairs and Testing. The sound made by repairing, rebuilding,
+modifying, or testing any vehicle or when received between the hours of 9:00
+p.m. and 7:00 a.m.
+7.   Injurious or Disturbing Sounds. Any sound that endangers or injures the
+health, safety, or welfare of a human being, disturbs a reasonable human being
+of normal sensitivities, or causes or tends to cause an adverse physiological
+or physical effect on human beings, or devalues or injures property.
+8.   Lawn and Garden Equipment. The sound emitted by powered lawn and garden
+equipment operated between the hours of 9:00 p.m. and 7:00 a.m.
 9.   Loading and Unloading. The sound made by outdoor loading, unloading,
 opening, closing, or handling of boxes, crates, containers, building materials,
 trash cans, containers, receptacles, and/or dumpsters when the sound is
-received between the hours of 10:00 p.m. and 7:00 a.m. at the real property
-boundary of residential property.
+received between the hours of 10:00 p.m. and 7:00 a.m.
 10.   Musical Instruments. The sound made by a drum, horn, reed, and/or string
 instrument, or other musical instrument or device when the sound is received
-between the hours of 9:00 p.m. and 7:00 a.m. at the real property boundary of
-residential property.
-11.   Noisy Exhaust System. The sound made by a motor vehicle or a recreational
-vehicle whose exhaust system is defective or has been modified by the
-installation of a muffler cutout or bypass.
-12.   Off-Road Motorcycle and Recreational Vehicle Noise. The sound made on
-private or City-owned property other than a public right-of-way by a motorcycle
-or recreational vehicle when received between the hours of 9:00 p.m. and 7:00
-a.m. at the real property boundary of residential property; provided, however,
-the sound made by a motorcycle when traveling from private property to a public
-right-of-way, or vice versa, in pursuance of normal ingress and egress for
-purposeful transportation is not a noise disturbance unless made so by some
+between the hours of 9:00 p.m. and 7:00 a.m.
+11.   Noisy Exhaust System. The sound made by any vehicle whose exhaust system
+is defective or has been modified to increase the noise coming from the muffler
+or exhaust equipment beyond that originally installed by the manufacturer of
+the vehicle when the vehicle was originally placed in service.
+12.   Off-Road Vehicle Noise. The sound made on private or City-owned property
+other than a public right-of-way by any off-road vehicle when received between
+the hours of 9:00 p.m. and 7:00 a.m.; provided, however, the sound made by a
+motorcycle when traveling from private property to a public right-of-way, or
+vice versa, in pursuance of normal ingress and egress for purposeful
+transportation is not a noise disturbance unless made so by some other
 provision of this chapter.
 13.   Powered Model Vehicles. The sound made by the operation of a powered
-model vehicle when received between the hours of 9:00 p.m. and 7:00 a.m. at the
-real property boundary of residential property.
-14.   Racing. The sound made by a motor vehicle or recreational vehicle on
-private property or public right-of-way during any racing event or time trial,
-whether organized or unorganized.
+model vehicle when received between the hours of 9:00 p.m. and 7:00 a.m.
+14.   Racing. The sound made by any vehicle on private property or public
+right-of-way during any racing event or time trial, whether organized or
+unorganized.
 15.   Screeching Tires. The sound made by the intentional screeching or
 squealing of the tires of a motor vehicle.
 16.   Selling By Hawking or Barking. The sound of selling by shout or outcry
@@ -4582,12 +4625,12 @@ when made within the area of the City zoned residential or commercial.
 public right-of-way, in any building, or upon any public or private premises
 shall be classified as a noise disturbance if: (i) the sound is in excess of
 the maximum permitted levels shown in the chart below when measured at the
-property boundary (or anywhere within the property) of a receiving land use, or
-if in a park, approximately 200 feet from the source of the sound, or when a
-complaint is received, at the nearest boundary of the property where the
-complaining party was disturbed; or (ii) the sound is of a nature that cannot
-accurately be measured by a sound level meter, and such sound is disturbing to
-a reasonable human being of normal sensitivities.
+property boundary (or anywhere within the property, or if in a park,
+approximately 200 feet from the source of the sound, or when a complaint is
+received at the nearest boundary of the property where the complaining party
+was disturbed; or (ii) the sound is of a nature that cannot accurately be
+measured by a sound level meter, and such sound is disturbing to a reasonable
+human being of normal sensitivities.
 MAXIMUM PERMITTED LEVELS
  
 Receiving Land Use Maximum Db Permitted
@@ -4597,10 +4640,11 @@ Commercial         70
 Industrial         75
 Park               65
  
-Any person who operates any sound equipment in violation of the maximum
-permitted levels listed above shall be subject to have the event stopped or the
-sound equipment turned off or reduced to a legal level. Such remedy shall be in
-addition to any other rights and remedies of the City.
+Any person who operates or allows the operation of any sound equipment in
+violation of the maximum permitted levels listed above shall be subject to have
+the event stopped or the sound equipment turned off or reduced to a legal
+level. Such remedy shall be in addition to any other rights and remedies of the
+City.
 18.   Semi-Tractor Noise. The sound made on private or City-owned property by a
 semi-tractor and received at the real property boundary of residential
 property; provided, however, the sound made by a semi-tractor pulling a
@@ -4610,59 +4654,61 @@ transport by a semi-tractor trailer between the hours of 7:00 a.m. and 9:00
 p.m., provided the driver possesses a legitimate bill of lading, is not a noise
 disturbance. In addition, the lawful operation of a semi-tractor in motion past
 a residential property, subject to the laws governing operation of a motor
-vehicle, for the present purpose of travel or transport is not a noise
-disturbance, provided the semi-tractor does not park or stop at residential
-property and the driver/operator continuously stays in the driver’s seat of the
-vehicle.
+vehicle, for the purpose of travel or transport is not a noise disturbance,
+provided the semi-tractor does not park or stop at residential property and the
+driver/operator continuously stays in the driver’s seat of the vehicle.
 52.05   MEASUREMENT OF NOISE OR SOUND.
-The measurement of noise or sound shall be made with a sound level meter
+The measurement of noise or sound shall be made with a sound measurement device
 meeting the standards prescribed by the American National Standards Institute.
-The instruments shall be maintained in calibration and good working order. A
-calibration check shall be made of the system at the time of any noise
-measurement. Measurements recorded shall be taken so as to provide a proper
-representation of the noise source. The microphone shall be positioned so as
-not to create an unnatural enhancement or diminution of the measured noise. A
-windscreen for the microphone shall be used when required. The measurement
-shall be an “A” weighted, slow response sound level.
+The instruments shall be maintained in calibration and good working order.
+Measurements recorded shall be taken so as to provide a proper representation
+of the noise source. The microphone shall be positioned so as not to create an
+unnatural enhancement or diminution of the measured noise. A windscreen for the
+microphone shall be used when required.
 52.06   NOISE PERMIT FOR SOUND EQUIPMENT.
 (Repealed by Ordinance No. 2994 - Jul. 21 Supp.)
 52.07   EXCEPTIONS.
 The provisions of this chapter do not apply to:
-1.   Musical Instruments; Fireworks. The emission of sound, including (but not
-limited to) sounds originating from musical instruments, sound equipment, or
-fireworks display, incidental to any City-sanctioned and/or sponsored event.
+1.   City Sanctioned or Sponsored Events. The emission of sound, including (but
+not limited to) sounds originating from musical instruments, sound equipment,
+or fireworks displays as defined in Code of Iowa Section 727.2(1)(b),
+incidental to any City-sanctioned and/or sponsored event.
 2.   Agricultural Equipment and Machinery. The emission of sound originating
 from agricultural equipment and machinery directly associated with agricultural
 operations, with the exception of mowers, on any parcel of land that is zoned
 A-1 (Agricultural District).
 3.   Alerting Persons of Emergency. The emission of sound for the purpose of
 alerting persons to the existence of an emergency.
-4.   Emergency Work by Governmental Agencies. The emission of sound in the
-performance of emergency work by City, State or federal agencies or utilities
-operating under a franchise agreement with the City.
+4.   Emergency or Critical Work by Governmental Agencies. The emission of sound
+in the performance of emergency or critical work by City, State or federal
+agencies or utilities operating under a franchise agreement with the City.
 5.   Rail and Air Transportation. Rail and air transportation and public mass
 transportation vehicles.
-6.   Discharge of Weapons; Fireworks Displays. The emission of sound in the
-legal discharge of weapons or in fireworks displays licensed by the City.
-7.   The emission of sound in the operation of snow removal equipment.
-8.   Concrete Cutting During Construction or Paving. The emission of sound for
+6.   Discharge of Weapons. The emission of sound in the legal discharge of
+weapons by law enforcement.
+7.   Consumer Fireworks. The emission of sound in the legal discharge of
+consumer fireworks defined as set forth under Code of Iowa Chapter 100 at days
+and times prescribed by State or local laws.
+8.   The emission of sound in the operation of snow removal equipment.
+9.   Concrete Cutting During Construction or Paving. The emission of sound for
 the purpose of concrete cutting during the construction of paving, flatwork,
 sidewalks, driveways, and roadways.
-9.   Grain Elevator Operations. The emission of sound in conjunction with the
+10.   Grain Elevator Operations. The emission of sound in conjunction with the
 operations directly associated with grain elevator operations.
-10.   School Events. The emission of sound by participants in events sanctioned
+11.   School Events. The emission of sound by participants in events sanctioned
 by the Waukee Community School District, including (but not limited to) school
 band activities and sporting events.
-11.   The emission of sound from the operation of electrical generation
+12.   The emission of sound from the operation of electrical generation
 equipment on governmental, commercial, and industrial properties during periods
 of an electrical utility outage.
-12.   The emission of sound in connection with the repair and/or testing of
+13.   The emission of sound in connection with the repair and/or testing of
 electrical generation equipment permanently situated on governmental,
 commercial, and industrial property interests for operation in the event of an
 electrical power failure.
-13.   The emission of sound from the operation of mowers, golf carts, and other
+14.   The emission of sound from the operation of mowers, golf carts, and other
 equipment utilized for operational and maintenance activities on the real
 property known as Sugar Creek Golf Course.
+(Chapter 52 – Ord. 3167 – Nov. 25 Supp.)
 CHAPTER 55
 ANIMAL PROTECTION AND CONTROL
 55.01 Definitions                    55.13 Leashing Dogs
@@ -14285,120 +14331,8 @@ nuisance or protect the marketing quality of the designated recyclable
 materials.
 CHAPTER 110
 NATURAL GAS SERVICE RATES AND CHARGES
+(Repealed by Ordinance No. 3158 – Nov. 25 Supp.)
  
-110.01 Payment Responsibility; Deposit 110.05 Lien for Nonpayment
-110.02 Monthly Rates                   110.06 City Revision of Rates and
-                                       Charges
-110.03 Charges for Gas Service         110.07 Gas Meters
-Installation or Extension
-110.04 Payment of Bills
- 
-110.01   PAYMENT RESPONSIBILITY; DEPOSIT.
-By obtaining gas service from the gas utility, the customer agrees to be bound
-by the ordinances, resolutions, and policies governing the City Gas Utility.
-All customers having service shall be responsible for the payment of gas
-payments on or before the due date. A legal entity that does not own the
-property for which gas service is to be provided and who seeks to obtain gas
-service shall provide a personal guarantor who guarantees the payment of any
-and all obligations due to the gas utility relating to the service provided to
-said entity, and a deposit in an amount as established by resolution of the
-Council.
-110.02   MONTHLY RATES.
-The following monthly gas rates and charges to be charged for gas furnished the
-users thereof within the corporate limits of the City are established as
-follows:
-1.   Rate Schedule No. 1 Small Volume (Firm).
-   A.   Rate Imposed. This rate is applicable to all firm natural gas service
-normally supplied through one meter as a single point of delivery for all
-residential, commercial, and industrial customers that consume 1,000 Ccf (100
-cubic feet) or less per month.
- 
-Service Charge per Meter         $   15.00
-Non-Gas Commodity Charge per Ccf $   0.1745
- 
-   B.   Purchased Gas Calculation. Purchased gas calculation (PGC) shall be
-calculated each month by dividing the total quantity of Ccf (100 cubic feet)
-delivered to the City into the total dollars spent to have natural gas
-delivered to the City’s town border stations (TBS).
-   C.   Monthly Sales Volume Adjustment. The above rate and debt service charge
-shall be subject to the monthly sales volume adjustment (SVA).
-   .   Meter Installation. Minimum fees for installation of gas meters on new
-construction shall be set by resolution of the Council.
-2.   Rate Schedule No. 2 Large Volume (Firm).
-   A.   Rate Imposed. This rate is applicable to all firm natural gas service
-normally supplied by one meter as a single point of delivery for all
-residential, commercial, and industrial customers that consume 1,000 Ccf (100
-cubic feet) or more per month.
- 
-Service Charge per Meter         $    31.75
-Non-Gas Commodity Charge per Ccf $    0.2884
- 
-   B.   Purchased Gas Calculation. Purchased gas calculation (PGC) shall be
-calculated each month by dividing the total quantity of Ccf (100 cubic feet)
-delivered to the City into the total dollars spent to have natural gas
-delivered to the City’s town border stations (TBS).
-   C.   Monthly Sales Volume Adjustment. The above rate and debt service charge
-shall be subject to the monthly sales volume adjustment (SVA).
-   D.   Meter Installation. Minimum fees for the installation of meters on new
-construction shall be the cost of materials plus 15 percent and labor costs.
-3.   Rate Schedule No. 3 – Interruptible Commercial and Industrial Volume.
-   A.   Rate Imposed. This rate is applicable to any customer for non-domestic
-purposes where all service is taken by a single meter at one location, and
-where the average daily consumption is equal to or greater than 1,000 Ccf (100
-cubic feet) per day. The customer must have the ability to curtail the use of
-natural gas within four hours of notification.
- 
-Service Charge per Meter         $    50.00
-Non-Gas Commodity Charge per Ccf $    0.090
- 
-   B.   Failure To Curtail Penalty. The City shall assess the following penalty
-charges, in addition to the priced, for failure to curtail natural gas
-consumption within four hours of notifications:
-      (1)   Non-Critical Day. $2.20 per Ccf (100 cubic feet) consumed after the
-notification period.
-      (2)   Critical Day. $11.30 per Ccf (100 cubic feet) consumed after the
-notification period.
-   C.   Late Payment Charge. A late payment charge of 1.5 percent shall be
-added to the past due amount if the bill is not paid by the due date. Meter
-Installation.
-   D.   Minimum Charge. The minimum charge is the service charge plus the
-commodity charge for all the Ccf (100 cubic feet) used.
-   E.   Meter Installation. Minimum fees for the installation of meters on new
-construction shall be the cost of materials plus 15 percent and labor costs.
-(Subsections 1-3 – Ord. 3146 – May 25 Supp.)
-110.03   CHARGES FOR GAS SERVICE INSTALLATION OR EXTENSION.
-The Council shall, by resolution, establish a schedule of fees, charges and
-expenses for the extension or installation of gas service lines by the City.
-The schedule of fees, charges and expenses shall be posted in City Hall, and
-may be altered or amended only by a resolution of the Council.
-110.04   PAYMENT OF BILLS.
-All fees are due and payable under the same terms and conditions provided for
-payment of a combined service account as contained in Section 92.06 of this
-Code of Ordinances. Gas service may be discontinued only as provided by Section
-476.20 of the Code of Iowa if the service account becomes delinquent, and the
-discontinuance is subject to the rules adopted by the Iowa Utilities Board.
-110.05   LIEN FOR NONPAYMENT.
-Except as provided for in Section 92.08 of this Code of Ordinances, the owner
-of the premises served and any lessee or tenant thereof are jointly and
-severally liable for fees for gas service. Fees remaining unpaid and delinquent
-shall constitute a lien upon the premises served and shall be certified by the
-Clerk to the County Treasurer for collection in the same manner as property
-taxes.
-(Code of Iowa, Sec. 384.84)
-110.06   CITY REVISION OF RATES AND CHARGES.
-The City may from time to time, by ordinance, change and readjust the foregoing
-rates to be charged for gas where it is deemed advisable in the judgment of the
-Council, with approval of outstanding bondholders of record.
-110.07   GAS METERS.
-1.   Installation of Gas Meter Extensions. When, in the opinion of the Public
-Works Director, a meter is inaccessible to the reader because of location,
-prohibited entry due to animals or barriers, or any other reason, the Clerk may
-cause to be installed a gas meter extension and shall charge the cost of said
-gas meter extension and the installation thereof to the user.
-2.   Meter Check. Every meter may be removed from service at least once every
-20 years, at the discretion of the City, and tested or replaced with a new
-meter. Any meter found inaccurate beyond a tolerance of two percent shall not
-be returned to service until properly adjusted.
 CHAPTER 111
 ELECTRIC ENERGY FRANCHISE
 111.01 Grant of Franchise; Term          111.11 Indemnification
@@ -16771,9 +16705,11 @@ accordance with the requirements of the State Building Code.
 CHAPTER 150
 TREES
  
-150.01 Definition            150.04 Trimming Trees to Be Supervised
-150.02 Planting Restrictions 150.05 Disease Control
-150.03 Duty to Trim Trees    150.06 Inspection and Removal
+150.01 Definition                      150.06 Disease Control
+150.02 Planting Restrictions           150.07 Inspection and Removal
+150.03 Planting Requirements           150.08 Tree Inventory
+150.04 Duty to Trim Trees              150.09 Tree Board
+150.05 Trimming Trees to be Supervised
  
 150.01   DEFINITION.
 For use in this chapter, “parking” means that part of the street, avenue, or
@@ -16782,8 +16718,14 @@ the curb line or, on unpaved streets, that part of the street, avenue, or
 highway lying between the lot line and that portion of the street usually
 traveled by vehicular traffic.
 150.02   PLANTING RESTRICTIONS.
-No tree shall be planted in any parking or street.
-150.03   DUTY TO TRIM TREES.
+No tree shall be planted in any parking or street. Refer to Section
+161.02 of the Code of Ordinances of the City of Waukee, Iowa, for additional
+landscaping regulations.
+150.03   PLANTING REQUIREMENTS.
+Refer to Section
+161.04 of the Code of Ordinances of the City of Waukee, Iowa, for minimum
+planting requirements.
+150.04   DUTY TO TRIM TREES.
 The owner or agent of the abutting property shall keep the trees on, or
 overhanging the street, trimmed so that all branches will be at least 12 feet
 above the surface of the street and eight feet above the sidewalks. If the
@@ -16793,15 +16735,15 @@ days. If such action is not taken within that time, the City may perform the
 required action and assess the costs against the abutting property for
 collection in the same manner as a property tax.
 (Code of Iowa, Sec. 364.12[2c and e])
-150.04   TRIMMING TREES TO BE SUPERVISED.
-Except as allowed in Section 150.03, it is unlawful for any person to trim or
-cut any tree in a street or public place unless the work is done under the
-supervision of the City.
-150.05   DISEASE CONTROL.
+150.05   TRIMMING TREES TO BE SUPERVISED.
+Except as allowed in Section
+150.03, it is unlawful for any person to trim or cut any tree in a street or
+public place unless the work is done under the supervision of the City.
+150.06   DISEASE CONTROL.
 Any dead, diseased, or damaged tree or shrub that may harbor serious insect or
 disease pests or disease injurious to other trees is hereby declared to be a
 nuisance.
-150.06   INSPECTION AND REMOVAL.
+150.07   INSPECTION AND REMOVAL.
 The Council shall inspect or cause to be inspected any trees or shrubs in the
 City reported or suspected to be dead, diseased or damaged, and such trees and
 shrubs shall be subject to the following:
@@ -16819,7 +16761,19 @@ property to correct such condition by treatment or removal within 14 days of
 said notification. If such owner, occupant, or person in charge of said
 property fails to comply within 14 days of receipt of notice, the Council may
 cause the condition to be corrected and the cost assessed against the property.
+150.08   TREE INVENTORY.
+The City shall maintain an updated tree inventory on all City owned public
+property. The tree inventory shall be housed through a digital asset management
+system.
+150.09   TREE BOARD.
+The Tree Board operates as a sub-committee of the Parks and Recreation Board as
+established by
+Chapter 24 of the Code of Ordinances of the City of Waukee, Iowa. The Tree
+Board shall consist of three members of the Parks and Recreation Board who are
+appointed annually by the members of the Board. A majority of the Tree Board
+members shall be a quorum for the transaction of business.
 (Code of Iowa, Sec. 364.12[3b and h])
+(Chapter 150 – Ord. 3159 – Nov. 25 Supp.)
 CHAPTER 151
 TELECOMMUNICATION TOWERS
  
@@ -22071,27 +22025,27 @@ Health.
 See the following pages for various illustrations, which are applicable to the
 provisions of these zoning regulations:
 CELLAR, BASEMENT, HALF STORY, STORY
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2145.png]
 BUILDING HEIGHTS
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2147.png]
 LOT AND YARD DEFINITIONS
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2149.png]
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2151.png]
 SIGN TYPES
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2153.png]
 SIGN AREAS
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2155.png]
 MINIMUM SETBACK
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2157.png]
 AVERAGE SETBACK
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2159.png]
 PARKING STALL REQUIREMENTS
  
@@ -22103,10 +22057,10 @@ Degree of Angle Stall to Curb Aisle Width Curb Length
 90              19 feet       24 feet     9 feet
  
 TYPICAL PARKING LOT LAYOUT
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2161.png]
 MOBILE HOME PARK SETBACK LINES
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2163.png]
 (Section 165.21 - Ord. 3019 - Mar. 22 Supp.)
 CHAPTER 166
@@ -23014,7 +22968,7 @@ per linear foot of building frontage.
 wall (see Figure 167A).
       (6)   Buildings greater than 50,000 square feet are not subject to the
 square footage maximums listed above.
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2165.png]
 Figure 167A
 Horizontal Multiple Tenant Building Oriented Toward Street Frontage
@@ -23024,7 +22978,7 @@ or tenant signs shall be one square foot of sign area for every linear foot of
 building or tenant frontage. In the event that a tenant occupies more than one
 story, they shall not be permitted to count the frontage on both stories (see
 Figure 167B).
-[https://export.amlegal.com/media/9b36cff33e1db8f4e60ed9f31d9a0ee60f3e349e/
+[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
 IMAGES/0-0-0-2167.png]
 Figure 167B
 Vertical Multiple Tenant Building Signage
