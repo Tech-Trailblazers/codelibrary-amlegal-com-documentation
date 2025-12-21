@@ -1,7 +1,7 @@
 BRUCE, SD
 CODE OF ORDINANCES
-THE SOUTH DAKOTA BASIC CODE, 2024 EDITION
-Contains state legislation through September 23, 2024
+THE SOUTH DAKOTA BASIC CODE, 2025 EDITION
+Contains state legislation through September 30, 2025
  
 Published by:
 American Legal Publishing
@@ -9,90 +9,6 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE AND USER’S GUIDE
-   The South Dakota Basic Code has been designed specifically for South Dakota
-municipalities. This edition is current with state legislation passed through
-the present. The South Dakota Basic Code reflects American Legal Publishing’s
-continued efforts to provide a modern and comprehensive code of ordinances for
-South Dakota towns without the expense of a customized code of ordinances.
-      Effect of Local Legislation on The South Dakota Basic Code
-   The South Dakota Basic Code is intended to be adopted by municipalities as a
-model code of ordinances. The Code contains pertinent regulations concerning
-government administration, traffic offenses, general regulations, business
-regulations, general offenses, and land usage; however, municipalities are free
-to adopt and enforce separate ordinances and resolutions. Thus, although the
-scope of the South Dakota Basic Code in certain areas is nearly comprehensive,
-each municipality may have additional legislation which has not been covered by
-the provisions of the South Dakota Basic Code. For example, the municipality is
-likely to have legislation concerning public works (sewer use, water
-regulations and the like) and land usage (building regulations, flood damage
-prevention regulations, subdivision regulations, zoning regulations and the
-like). Such additional legislation should be available for public inspection at
-the office of the Municipal Clerk, and may be codified as part of this Code in
-Title XVII.
-   Additionally, pursuant to the terms of §
-10.09 of the South Dakota Basic Code, the town is free to amend, add or repeal
-sections of the South Dakota Basic Code. Such direct legislation would
-supersede the provisions of the South Dakota Basic Code, and should be
-available for public inspection at the office of the Town Clerk or codified as
-part of this Code in Title XVII.
-      Arrangement and Numbering
-   The South Dakota Basic Code is divided into eight odd-numbered titles, each
-devoted to a particular topic of municipal law. The titles include the
-following topics: Title I - General Provisions; Title III - Administration;
-Title V - Public Works; Title VII - Traffic Code; Title IX - General
-Regulations; Title XI - Business Regulations; Title XIII - General Offenses;
-Title XV - Land Usage; and Title XVII - Local Legislation.
-   Titles are divided into chapters, and all chapters are subdivided into
-sections. A citation to a specific section identifies the title, chapter and
-section number of the Code provision being cited. For example, “72.01” refers
-to section 1 of Chapter 72 in Title VII. Title and chapter number appear to
-the left of the decimal: the title number precedes the first digit to the left
-of the decimal, and the chapter number constitutes all numerals to the left of
-the decimal. The section number appears to the right of the decimal. Penalty
-provisions have been given a section number of .99.
-   Title XVII, which contains any local legislation, is organized as a micro
-version of the Basic Code. Each chapter corresponds to a title in the Basic
-Code, making it easy for a code user to determine if local legislation
-supersedes any provision of the Basic Code.
-      Cross-references and Statutory References
-   “Cross-references” direct the user to subject matter related to certain
-Basic Code provisions contained within another section or chapter of the Basic
-Code, while “Statutory references” direct the user to subject matter related to
-certain Basic Code provisions contained within the South Dakota Code (“SDCL”).
-      Title and Chapter Analysis
-   A Table of Contents, giving the name of each chapter within the title and
-the respective chapter numbers, can be located on the first page of each title.
-A Chapter Analysis, giving section headings and the respective section numbers,
-can be located on the first page of each Chapter. Thus, if a user wants to
-search for a specific provision regarding animals, the user could bypass the
-general index and go directly to the Table of Contents at the beginning of
-Title IX. A quick scan down this Table of Contents would identify Chapter 93 as
-“Animals”. The user could then go directly to Chapter 93 and scan the Chapter
-Analysis for the appropriate section heading.
-      Parallel Reference Tables
-   Two sets of Parallel Reference Tables may be included near the end of the
-code: one for the Basic Code, and one for Title XVII legislation (if any).
-These tables provide the following information:
-   The tables entitled “References to South Dakota Code” enable a user to trace
-the origin of the law contained within the South Dakota Basic Code or Title
-XVII. The tables provide a comprehensive list of citations to the Basic Code or
-Title XVII, and the corresponding state law provision upon which the Code
-section is based. The tables enable a user to quickly and accurately determine
-if a particular South Dakota Code section is the source for a Basic Code or
-Title XVII provision.
-   If a town includes local legislation in Title XVII, a table entitled
-“References to Ordinances” will be located near the end of Title XVII. The
-table provides a listing of ordinances codified in Title XVII, and the
-corresponding section in Title XVII, thus enabling a code user to quickly
-locate the disposition of a local ordinance.
-      Indexes
-   An Index to the Basic Code, and a separate Index to Title XVII (if any) are
-located near the end of the Code. The Basic Code Index contains references to
-all Basic Code provisions currently in effect. Index entries do not cite page
-numbers; rather, index entries cite section numbers. If a municipality includes
-legislation in Title XVII, a separate Index for the legislation will be located
-near the end of Title XVII.
 TITLE I: GENERAL PROVISIONS
    Chapter
       
@@ -323,19 +239,25 @@ Organization; Aldermanic Form
    
 30.035   Mayor; qualifications, term, powers
    
-30.036   Vacancy in office of mayor; temporary absence or disability
+30.036   Vacancy in office of mayor; temporary absence or disability; bribery
    
 30.037   Common council; membership; terms of office
    
-30.038   President and vice president; election; powers
+30.038   President and vice president; term; election; vacancy
    
-30.039   Power of council to judge members and govern proceedings; bribery
+30.039   Power of council to judge members and govern proceedings; bribery;
+attendance requirements
    
-30.040   Meetings; quorum; journal of proceedings
+30.040   Meetings; quorum; meeting minutes
    
 30.041   Votes required
    
 30.042   Reconsideration or recision
+   
+30.043   Mayor; temporary absence or incapacity; mayor pro tempore
+   
+30.044   Mayor; temporary absence or incapacity; mayor pro tempore; duties and
+authority
 Organization; Commissioner Form
    
 30.055   Composition
@@ -367,9 +289,9 @@ Organization; City Manager Form
    
 30.081   Powers of mayor
    
-30.082   Powers of city manager
+30.082   Duties and authority of city manager
    
-30.083   Appointments
+30.083   Appointments and removal
    
 30.084   Bond required
    
@@ -386,6 +308,8 @@ on appointment of former member of governing body
 and employees
    
 30.090   Inconsistent statutes inapplicable
+   
+30.091   City manager; authority to contract; delegation
 Ordinances and Resolutions
    
 30.105   Style of ordinances; subject
@@ -414,7 +338,8 @@ GENERAL
    (A)   Each first or second class municipality must be governed by a mayor
 and common council, a mayor and a common council with a city manager, a board
 of commissioners, or a board of commissioners with a city manager. Each third
-class municipality must be governed by a board of trustees.
+class municipality must be governed by a board of trustees, with or without a
+city manager.
    (B)   The present form of government of existing municipalities must
 continue until changed as provided by SDCL Title 9.
 (SDCL § 9-11-11)
@@ -519,23 +444,22 @@ required by law.
 § 30.017 TERM OF OFFICE.
    (A)   The members of the board of trustees shall hold office for three years
 and until their successors are elected and qualified. A vacancy on the board
-shall be filled as provided in SDCL § 9-13-14.1 or 9-13-14.2.
-   (B)   Whenever any third class municipality is organized, the trustees shall
-be elected for terms of one, two, and three years respectively at the first
-annual election. At subsequent elections each trustee shall be elected for a
-term of three years.
+must be filled as provided in SDCL § 9-13-14.1 or 9-13-14.2.
+   (B)   For the purposes of staggering terms, whenever any third class
+municipality is organized, the trustees must be elected for terms of one, two,
+and three years respectively at the first annual election. At subsequent
+elections, each trustee must be elected for a term of three years.
 (SDCL § 9-7-3)
 § 30.018 PRESIDENT.
-   At the first regular meeting after their election the members of the board
+   At the first regular meeting after their election, the members of the board
 of trustees shall elect one of their number as president to serve for one year
-and until his or her successor is elected and qualified.
+and until a successor is elected and qualified.
 (SDCL § 9-7-5)
 § 30.019 MEETINGS.
-   (A)   The board shall hold regular meetings at such times as may be provided
-by ordinance.
+   (A)   The board of trustees shall hold regular meetings at the times as may
+be provided by ordinance.
    (B)   Special meetings of the board may be held at any time upon call of the
-president or clerk by oral or written notice to the members present within the
-municipality.
+president or finance officer by oral or written notice to the members.
 (SDCL § 9-7-6)
    (C)   If a quorum of trustees for a municipality of the third class meets
 solely for purposes of implementing previously publicly-adopted policy,
@@ -546,9 +470,12 @@ Statutory reference:
    Recording of public meeting, see SDCL § 1-25-11
    Similar provisions, see SDCL §§ 1-25-1 et seq.
 § 30.020 QUORUM; MAJORITY REQUIRED FOR ACTION.
-   A majority of the members of the board shall constitute a quorum, but no act
-of the board shall be effective unless assented to by a majority of the
-members.
+   A majority of the members of the board of trustees constitutes a quorum, but
+an act of the board is not effective unless assented to by a majority of the
+members. Unless a vacancy exists due to removal, resignation, death, or by
+operation of law, the quorum consists of the majority of all the trustees
+qualified to serve as trustees by election or appointment pursuant to SDCL
+Chapter 9-13.
 (SDCL § 9-7-7)
 ORGANIZATION; ALDERMANIC FORM
 § 30.035 MAYOR; QUALIFICATIONS, TERM, POWERS.
@@ -557,40 +484,49 @@ aldermanic form shall be a mayor.
 (SDCL § 9-8-1)
    (B)   Qualifications. No person is eligible to be nominated, elected, or
 appointed as a mayor unless such person is a citizen of the United States, a
-voter of and resident of the municipality, and, if an alderman, a voter of and
-resident of the ward for which the person is to hold office.
+voter of the municipality, and a resident of the municipality, in accordance
+with SDCL § 9-14-2. An alderman representing a ward must be a voter of and
+resident of the ward for which the person is to hold office. If the mayor or an
+alderman at large moves to a permanent residence outside the corporate limits
+of the municipality, the office is immediately vacated. If an alderman
+representing a ward moves to a permanent residence outside the boundaries of
+his or her ward, the office is immediately vacated.
 (SDCL § 9-8-1.1)
    (C)   Term. The mayor shall hold office for a term of not less than two nor
 more than five years as determined by ordinance. A person may hold office for
 more than one term.
 (SDCL § 9-8-1)
    (D)   Powers.
-      (1)   The mayor shall preside at all meetings of the council but shall
-have no vote except in case of a tie.
+      (1)   The mayor shall preside at all meetings of the council. The mayor
+votes only in the case of a tie, except pursuant to § 30.041.
       (2)   He or she shall perform such other duties as may be prescribed by
 the laws and ordinances, and take care that such laws and ordinances are
 faithfully executed.
       (3)   He or she shall annually and or as may be necessary, give the
 council information relative to the affairs of the municipality, and shall
 recommend for council’s consideration such measures as he or she may deem
-expedient.
+prudent.
       (4)   He or she shall have the power to sign or veto any ordinance or
 resolution passed by the common council, and the power to veto any part or item
 of an ordinance or resolution appropriating money. Pursuant to SDCL § 9-19-10,
 the veto, with written objections must be filed with the finance officer within
 ten days after final passage.
 (SDCL § 9-8-3)
-§ 30.036 VACANCY IN OFFICE OF MAYOR; TEMPORARY ABSENCE OR DISABILITY.
-   If there is a vacancy from any cause in the office of the mayor, the vacancy
-shall be filled by appointment by a majority vote of the members-elect of the
-aldermen, as soon as practicable after the vacancy occurs, to serve until the
-office is filled by election for the unexpired term at the next annual
-municipal election or by special election as provided in SDCL § 9-13-14.2.
-Until the vacancy is filled or during the time of temporary absence or
-disability of the mayor, the powers and duties of mayor shall be executed by
-the president of the council as provided in §
-30.038.
+§ 30.036 VACANCY IN OFFICE OF MAYOR; TEMPORARY ABSENCE OR DISABILITY; BRIBERY.
+   (A)   If there is a vacancy from any cause in the office of the mayor, the
+vacancy must be filled by appointment by a majority vote of all the aldermen,
+as soon as practicable after the vacancy occurs, to serve until the office is
+filled by election for the unexpired term at the next annual municipal election
+or by special election as provided in SDCL § 9-13-14.2. Until the vacancy is
+filled, the powers and duties of mayor shall be executed by the mayor pro
+tempore, as provided in § 30.044.
+   (B)   A resignation by the mayor must be in writing and must specify the
+effective date of the resignation. A temporary absence or temporary
+incapacitation of the mayor is not a vacancy in the office of the mayor.
 (SDCL § 9-8-2)
+   (C)   The office of a mayor convicted of a crime that involves bribery is
+deemed vacated upon entry of a judgement of conviction.
+(SDCL § 9-8-5)
 Cross-reference:
    Special elections, see §
 30.003
@@ -600,62 +536,74 @@ large and two aldermen elected from and by the voters of each ward of the
 municipality.
    (B)   Term. The term of office shall be for two years, unless a municipality
 adopts an ordinance establishing the term of office to be three, four, or five
-years. The mayor and aldermen shall hold office until successors are elected
-and qualified. At the first election of aldermen, the council shall stagger the
-initial terms of the alderman in each ward to provide that the two aldermen are
-not up for reelection in the same year. A person may hold office for more than
-one term. A vacancy on the common council shall be filled as provided in SDCL
-§§ 9-13-14.1 or 9-13-14.2
+years. Except as otherwise provided in § 30.036, the mayor and aldermen shall
+hold office until successors are elected and qualified. At the first election
+of aldermen, the council shall stagger the initial terms of the alderman in
+each ward to provide that two aldermen from the same ward are not up for
+reelection in the same year. A person may hold office for more than one term. A
+vacancy on the common council shall be filled as provided in SDCL §§ 9-13-14.1
+or 9-13-14.2. A resignation by an alderman must be in writing and must specify
+the effective date of the resignation.
 (SDCL § 9-8-4)
    (C)   Eligibility. No person is eligible to be nominated, elected, or
 appointed as a mayor or as an alderman unless such person is a citizen of the
 United States, a voter of and resident of the municipality, and, if an
 alderman, a voter of and resident of the ward for which such person is to hold
 office.
-§ 30.038 PRESIDENT AND VICE PRESIDENT; ELECTION; POWERS.
+§ 30.038 PRESIDENT AND VICE PRESIDENT; TERM; ELECTION; VACANCY.
    (A)   At the first regular meeting after the annual election in each year
 and after the qualification of the newly elected aldermen, the council shall
 elect from among its own members a president and vice president, who shall hold
-their respective offices for the municipal year.
-   (B)   The president of the council in the absence of the mayor shall be the
-presiding officer of the council, and during the absence of the mayor from the
-first or second class municipality or his or her temporary disability shall be
-acting mayor and possess all the powers of the mayor. In the absence or
-disability of the mayor and president of the council, the vice president shall
-perform the duties of the mayor and president of the council.
-   (C)   However, the president of the council or vice president of the council
-acting as the mayor shall only vote as an alderman. No alderman acting as mayor
-may vote as the mayor to break a tie vote.
+their respective offices until a president and vice president are elected the
+following year. In a year when there is no annual election, the council shall
+elect from among its members a president and vice president at the first
+regular meeting that occurs no more than one year after the president and vice
+president were last elected from among the council’s members.
+   (B)   If an emergency prevents the first regular meeting from occurring, the
+election must take place at either the next regular meeting or a special
+meeting. If there is a vacancy in the office of the president, the council must
+elect a president from among its members at the first regular or special
+meeting that occurs after the vacancy occurred.
+   (C)   If there is a vacancy in the office of the vice president, the council
+must elect a vice president from among its members at the first regular or
+special meeting that occurs after the vacancy occurred. If the vacancy in the
+office of the vice president occurs during a meeting, the council may choose to
+elect a vice president from among its members during the same meeting.
 (SDCL § 9-8-7)
-§ 30.039 POWER OF COUNCIL TO JUDGE MEMBERS AND GOVERN PROCEEDINGS; BRIBERY.
+§ 30.039 POWER OF COUNCIL TO JUDGE MEMBERS AND GOVERN PROCEEDINGS; BRIBERY;
+ATTENDANCE REQUIREMENTS.
    (A)   The council shall be the judge of the election and qualification of
-its own members. It shall determine its own rules of procedure, punish its
-members for disorderly conduct, and, with the concurrence of two-thirds of the
-aldermen elected thereto, may expel a member.
-   (B)   Any alderman who shall have been convicted of bribery shall thereby
-vacate his or her office.
+its own members. It may, by ordinance, determine its own rules of procedure and
+code of conduct, punish its members for disorderly conduct while performing the
+duties of office, and, with the concurrence of two-thirds of the aldermen
+elected thereto, may expel a member.
+   (B)   The office of any alderman convicted of a crime that involves bribery
+is deemed vacated upon entry of a judgement of conviction.
+   (C)   The council may, by ordinance, establish requirements for attendance
+at regular meetings and provide for the expulsion of a member in violation of
+the attendance requirements.
 (SDCL § 9-8-5)
-§ 30.040 MEETINGS; QUORUM; JOURNAL OF MEETINGS.
+§ 30.040 MEETINGS; QUORUM; MEETING MINUTES.
    (A)   Meetings. The council shall hold its regular meetings on the first
 Monday of each month. It may prescribe by ordinance the manner in which special
 meetings may be called and may so change the day of its regular monthly
 meetings.
    (B)   Quorum. When a seat on a council is vacant due to removal,
 resignation, death, or by operation of law, the quorum consists of the majority
-of the remaining aldermen who are qualified to serve as aldermen by election or
+of all the aldermen who are qualified to serve as aldermen by election or
 appointment pursuant to SDCL Chapter 9-13. The council may compel the
-attendance of absentees under such penalties as may be prescribed by ordinance.
-   (C)   Journal of meetings. The meetings of the council are open to the
-public and it shall keep a journal of its proceedings.
+attendance of absentees under the penalties as may be prescribed by ordinance.
+   (C)   Meeting minutes. The meetings of the council are open to the public.
+The council shall keep minutes of its meetings.
 (SDCL § 9-8-8)
 § 30.041 VOTES REQUIRED.
-   (A)   A roll call vote shall be taken upon the passage of all ordinances and
-upon any proposal to expend or appropriate money, and in all other cases at the
-request of any member. All votes shall be entered in the minutes of its
-proceedings.
-   (B)   The majority vote of the aldermen shall be necessary to pass an
-ordinance or proposal which expends or appropriates money, and the mayor may
-not break a tie on an ordinance or proposal to expend or appropriate money. The
+   (A)   All votes must be taken orally or by roll call. A vote may not be
+taken by secret ballot. If any member of the council requests a roll call vote,
+a roll call vote must be taken. All votes must be entered in the minutes of the
+council’s proceedings.
+   (B)   The majority vote of all the aldermen is necessary to pass an
+ordinance or proposal that expends or appropriates money. The mayor may not
+break a tie on an ordinance or proposal to expend or appropriate money. The
 mayor may break a tie on all other ordinances or proposals.
    (C)   A two-thirds vote of the aldermen is required to sell any city
 property.
@@ -665,6 +613,26 @@ property.
 special meeting if a quorum is present and a majority vote to reconsider or
 rescind the action.
 (SDCL § 9-8-11)
+§ 30.043 MAYOR; TEMPORARY ABSENCE OR INCAPACITY; MAYOR PRO TEMPORE.
+   (A)   In the temporary absence or temporary incapacitation of the mayor, the
+president of the council shall serve as the mayor pro tempore, as provided in §
+30.044, until the temporary absence or temporary incapacitation ends.
+   (B)   In the temporary absence or disability of the mayor and president of
+the council, the vice president of the council shall serve as the mayor pro
+tempore until the temporary absence or temporary incapacitation ends.
+(SDCL § 9-8-12)
+§ 30.044 MAYOR; TEMPORARY ABSENCE OR INCAPACITY; MAYOR PRO TEMPORE; DUTIES AND
+AUTHORITY.
+   (A)   The mayor pro tempore shall perform the mayor’s duties, except that
+the mayor pro tempore may not appoint, employ, or remove appointive officers
+without approval of the council.
+   (B)   The mayor pro tempore acts as the presiding officer of the council,
+but the mayor pro tempore may only vote as an alderman. No alderman acting as
+mayor may vote as the mayor to break a tie vote.
+   (C)   For purposes of this section, “appointive officers” are municipal
+employees or members of a board, commission, or similar body that the mayor has
+the authority to appoint, with or without the approval of the council.
+(SDCL § 9-8-13)
 ORGANIZATION; COMMISSIONER FORM
 § 30.055 COMPOSITION.
    Under the commission form, where a city manager is not employed, the board
@@ -672,39 +640,41 @@ of commissioners shall consist of the mayor and two or four commissioners
 elected at large.
 (SDCL § 9-9-1)
 § 30.056 QUALIFICATIONS AND TERMS OF OFFICE.
-   (A)   Qualifications. A person may be nominated, elected, or appointed as a
-mayor or as a commissioner if the person is a citizen of the United States and
-voter and resident of the municipality.
+   (A)   Qualifications. In accordance with SDCL § 9-14-2, a person may be
+nominated, elected, or appointed as a mayor or as a commissioner if the person
+is a citizen of the United States and voter and resident of the municipality.
 (SDCL § 9-9-2)
    (B)   Terms of office.
-      (1)   The term of office of the mayor and commissioners shall be not less
-than two or more than five years as determined by ordinance, except that at the
+      (1)   The term of office of the mayor and commissioners is not less than
+two or more than five years as determined by ordinance, except that at the
 first election after the adoption of the commission form of government, the
-mayor’s term shall be for five years and the commissioners shall be elected for
+mayor’s term must be for five years and the commissioners must be elected for
 staggered terms.
-      (2)   If the number of commissioners is four, one shall be elected for
-one year, one for two years, one for three years, and one for four years.
-      (3)   If the number of commissioners is two, one shall be elected for two
+      (2)   If the number of commissioners is four, one must be elected for one
+year, one for two years, one for three years, and one for four years.
+      (3)   If the number of commissioners is two, one must be elected for two
 years and one for four years.
       (4)    At the annual election preceding the expiration of the term of
-office of the mayor or any commissioner, a successor shall be elected for a
-term not to exceed five years as determined by ordinance.
+office of the mayor or any commissioner, a successor must be elected for a term
+of not less than two or more than five years, as determined by ordinance.
 (SDCL § 9-9-3)
 § 30.057 MAYOR AS PRESIDENT OF BOARD.
    The mayor shall be president of the board and shall have a vote upon all
 questions but shall not have the right of veto.
 (SDCL § 9-9-7)
 § 30.058 RESIGNATIONS AND VACANCIES.
-   (A)   If the mayor or a commissioner resigns, the resignation shall be
-submitted in writing to the board.
-   (B)   If the mayor or a commissioner moves his or her permanent residence
-outside the corporate limits of the municipality, the office is immediately
-vacated.
-   (C)   If there is a vacancy in the office of mayor, the vacancy shall be
-filled by appointment pursuant to SDCL § 9-9-8 until the position is filled by
-election at the next annual municipal election or by special election as
-provided in SDCL § 9-13-14.2. A vacancy on the board shall be filled as
-provided in SDCL §§ 9-13-14.1 or 9-13-14.2.
+   (A)   If the mayor or a commissioner resigns, the resignation must be
+submitted in writing to the board of commissioners and must specify the
+effective date of the resignation.
+   (B)   If the mayor or a commissioner moves to a permanent residence outside
+the corporate limits of the municipality, the office is immediately vacated.
+   (C)   If there is a vacancy in the office of mayor, the vacancy must be
+filled by appointment pursuant to §
+30.060 until the position is filled by election at the next annual municipal
+election or by special election as provided in SDCL § 9-13-14.2. A vacancy on
+the board must be filled as provided in SDCL §§ 9-13-14.1 or 9-13-14.2.
+   (D)   A temporary absence or temporary incapacitation of the mayor is not
+considered a vacancy in the office of the mayor.
 (SDCL § 9-9-6)
 Cross-reference:
    Special elections, see §
@@ -716,16 +686,21 @@ as acting mayor, who shall be invested with all the powers and shall perform
 all the duties of the mayor, until the election of a mayor.
 § 30.060 ACTING MAYOR DURING VACANCY IN OFFICE.
    (A)   If the mayor is unable to perform the duties of office by reason of
-absence or sickness, the board shall appoint by a majority vote one of its
-members to act as mayor. The appointed commissioner’s official designation
-shall be acting president of the board of commissioners. The acting president
+temporary absence or temporary incapacitation, the board must, by a majority
+vote of all the commissioners, appoint one of its members to act as mayor until
+the temporary absence or temporary incapacitation ends. The appointed
+commissioner’s official designation is mayor pro tempore. The mayor pro tempore
 is invested with all the powers and shall perform all the duties of the mayor
-during the mayor’s absence or sickness. The acting president has only one vote
-as a commissioner and is not entitled to vote as acting president.
-   (B)   If the office of mayor is vacated, the board of commissioners shall
-appoint by a majority vote one of its commissioners as acting mayor. The acting
-mayor is invested with all the powers and shall perform all the duties of the
-mayor, until the election of a mayor.
+during the mayor’s temporary absence or temporary incapacitation. The mayor pro
+tempore has only one vote as a commissioner and is not entitled to vote as
+mayor pro tempore. The temporary absence or temporary incapacitation of the
+mayor is not a vacancy in the office of the mayor.
+   (B)   If the office of mayor is vacated, the board of commissioners must, by
+a majority vote of all commissioners, appoint one of its commissioners as
+acting mayor. The acting mayor is invested with all the powers and shall
+perform all the duties of the mayor until the vacancy is filled by election for
+the unexpired term at the next annual election or by special election as
+provided in SDCL § 9-13-14.2.
    (C)   The acting mayor has only one vote as a commissioner and is not
 entitled to vote as acting mayor.
 (SDCL § 9-9-8)
@@ -740,25 +715,23 @@ commissioners at any time to only consider the matter mentioned in the call for
 the meeting. A notice of a special meeting shall be given pursuant to SDCL § 1-
 25-1.1 and shall be provided to each commissioner.
 (SDCL § 9-9-12)
-   (C)   Each meeting of the board is open to the public and the board shall
-keep a journal of its proceedings.
-(SDCL § 9-9-13)
 § 30.062 QUORUM; VOTING.
    (A)   Quorum.
-      (1)   A majority of the board constitutes a quorum to do business. If a
-seat on the board is vacant due to removal, resignation, death, or by operation
-of law, the quorum consists of the majority of the remaining commissioners who
-are qualified to serve by election or appointment pursuant to SDCL Chapter 9-
-13. The board may compel the attendance of any absentee under penalties as
-prescribed by ordinance.
+      (1)   A majority of all the commissioners on the board of commissioners
+constitutes a quorum to do business. If a seat on the board is vacant due to
+removal, resignation, death, or by operation of law, the quorum consists of the
+majority of all the remaining commissioners who are qualified to serve by
+election or appointment pursuant to SDCL Chapter 9-13. The board may compel the
+attendance of any absentee under penalties as prescribed by ordinance.
       (2)   No action of the board is effective unless upon a vote of a
-majority of the board.
+majority of all the members of the board.
 (SDCL § 9-9-14)
-   (B)   Recording of votes; entry in journal.
-      (1)   The yeas and nays shall be taken upon the passage of each ordinance
-and for any proposal to expend or appropriate money and in any other case at
-the request of any commissioner.
-      (2)   Each vote shall be entered on the journal of the board’s
+   (B)   Meetings open to public; recording of votes; minutes.
+      (1)   Each meeting of the board of commissioners is open to the public.
+      (2)   All votes must be taken orally or by roll call. No votes may be
+taken by secret ballot. If any member of the board requests a roll call vote, a
+roll call vote must be taken.
+      (3)   All votes must be entered in the minutes of the council’s
 proceedings.
 (SDCL § 9-9-16)
    (C)   Majority vote required. The concurrence of a majority of all the
@@ -768,9 +741,12 @@ such ordinance or proposal.
 sell any municipal real property.
 (SDCL § 9-9-16)
 § 30.063 RULES OF PROCEDURE; ATTENDANCE REQUIREMENTS.
-   (A)   The board shall determine the board’s rules of procedure, and may
-punish the board’s members for disorderly conduct.
-   (B)   The board may, by resolution, establish requirements for attendance at
+   (A)   The board of commissioners is the judge of the election and
+qualification of its members. The board may, by ordinance, determine its rules
+of procedure and code of conduct, punish its members for disorderly conduct
+while performing the duties of office, and, with the concurrence of two-thirds
+of the members, expel a member.
+   (B)   The board may, by ordinance, establish requirements for attendance at
 regular meetings and provide for the expulsion of a member in violation of the
 attendance requirements.
 (SDCL § 9-9-14.1)
@@ -788,8 +764,9 @@ conflict with the laws of the state.
       (2)   The mayor is the chief executive officer of the municipality,
 presides at all meetings of the board, and has general supervision over all
 departments and officers.
-      (3)   In the absence or inability of a commissioner, the mayor shall
-temporarily take charge of the department of that commissioner.
+      (3)   In the temporary absence or temporary incapacitation of a
+commissioner, the mayor shall temporarily take charge of the department of that
+commissioner.
       (4)   The mayor shall enforce all the laws of the municipality and
 require that the conditions of the grant of any franchise or privilege are
 faithfully complied with and performed.
@@ -801,7 +778,7 @@ and each city park except in any municipality that has a park board, and the
 lighting of the streets, alleys, and public buildings of the municipality.
       (7)   The mayor shall annually and from time to time give the board
 information relative to the affairs of the municipality and shall recommend for
-the board’s consideration any measure the mayor deems expedient.
+the board’s consideration any measure the mayor deems prudent.
 (SDCL § 9-9-20)
    (B)   Commissioner’s responsibility. In a municipality governed by a board
 of five commissioners, the commissioners shall designate by a majority vote one
@@ -814,10 +791,10 @@ governed by a board consisting of five commissioners, the mayor and the
 commissioners have the powers and duties described in SDCL §§ 9-9-20 to 9-9-24,
 inclusive, as set forth in divisions (A) and (D) of this section. In addition,
 each commissioner shall supervise any other department assigned or apportioned
-by resolution of the governing board, adopted by a majority vote at the first
-meeting of the board in the month following the election year. Each
-commissioner is in charge of the apparatus, personnel, and personal property
-used by departments under that commissioner’s supervision.
+by resolution of the governing board, adopted by a majority vote of all the
+commissioners at the first meeting of the board in the month following the
+election year. Each commissioner is in charge of the apparatus, personnel, and
+personal property used by departments under that commissioner’s supervision.
 (SDCL § 9-9-19)
    (D)   Specific powers and duties.
       (1)   Commissioner of public safety. The commissioner of public safety
@@ -846,22 +823,24 @@ assets and property.
 (SDCL § 9-9-24)
 § 30.066 THREE-COMMISSIONER CITY.
    The mayor and commissioners shall have the following responsibilities.
-   (A)   Mayor’s responsibilities. The mayor shall exercise all the powers and
+   (A)   Mayor’s responsibilities. The mayor must exercise all the powers and
 perform all the duties provided by the laws of this state or the ordinances of
-the municipality not in conflict with state law. The mayor shall be the chief
+the municipality not in conflict with state law. The mayor is the chief
 executive officer of the municipality, shall preside at all meetings of the
 board, and has general supervision over all departments and officers. In the
-absence or inability of a commissioner, the mayor shall temporarily take charge
-of the department of the commissioner. The mayor shall see that all the laws of
-the municipality are enforced and that the conditions of the grant of any
-franchise or privilege are faithfully complied with and performed. The mayor
-shall grant all licenses or permits, except as required by ordinance to be
-granted by the board or by some other department or officer.
+temporary absence or temporary incapacitation of a commissioner, the mayor
+shall temporarily take charge of the department of the commissioner. The mayor
+shall see that all the laws of the municipality are enforced and that the
+conditions of the grant of any franchise or privilege are faithfully complied
+with and performed. The mayor shall grant all licenses or permits, except as
+required by ordinance to be granted by the board or by some other department or
+officer.
 (SDCL § 9-9-26)
    (B)   Commissioner’s responsibilities. All matters not designated to the
-mayor shall be assigned or apportioned as equally as may be between the
-commissioners by resolution of the board adopted by a majority vote at the
-first meeting of the board in the month following the election each year.
+mayor must be assigned or apportioned as equally as may be between the
+commissioners by resolution of the board adopted by a majority vote of all the
+commissioners at the first meeting of the board in the month following the
+election each year.
 (SDCL § 9-9-27)
 Statutory reference:
    Three-Commissioner municipality, division of responsibilities, see SDCL § 9-
@@ -879,72 +858,71 @@ must elect one of their members to serve as mayor for a term of one year
 pursuant to SDCL § 9-10-6.
 § 30.081 POWERS OF MAYOR.
    The duties and powers of the mayor shall be as follows.
-   (A)   He or she shall sit as presiding officer over local council or
-commission.
-   (B)   He or she shall be the recognized head of the municipality for the
-service of civil process and for military and ceremonial purposes.
+   (A)   He or she is the presiding officer over local council or commission.
+   (B)   He or she is the recognized head of the municipality for the service
+of civil process and for military and ceremonial purposes.
    (C)   He or she may take command of the police of the municipality, appoint
 special police, and govern the municipality by proclamation during times of
-public danger or emergency, and during such times he or she shall have such
-powers and authority to call for assistance, as are given to the mayor by SDCL
-§ 9-29-17.
-   (D)   He or she shall have such further authority and perform such further
-duties prescribed by ordinance or resolution not inconsistent with the
-provisions of this chapter, but in no case shall he or she have the right of
-veto.
+public danger or emergency, during which times he or she has the powers and
+authority to call for assistance as provided in SDCL § 9-29-17.
+   (D)   He or she shall have other authority and perform other duties
+prescribed by ordinance or resolution not inconsistent with the provisions of
+this chapter, but in no case may he or she have the right of veto.
 (SDCL § 9-10-7)
-§ 30.082 POWERS OF CITY MANAGER.
-   (A)   The manager shall have the following powers:
-      (1)   Power to enforce laws and ordinances;
-      (2)   Power to supervise the administration of affairs for the
-municipality;
-      (3)   Power to make recommendations to the governing body concerning the
-affairs of the municipality;
-      (4)   Power to keep the governing body advised of the financial condition
-and future needs of the municipality;
-      (5)   Power to prepare and submit an annual budget to the governing body
-no later than August 1 of each year;
-      (6)   Power to ensure that all terms and conditions imposed in favor of
-the municipality or its inhabitants in any contract or franchise to which the
-municipality is a party are kept and performed;
-      (7)   Power to be present and take part in discussions at all meetings of
-the governing body and its committees except when the governing body may be
-considering the manager’s removal;
-      (8)   Power to sign warrants for the payment of money, which shall be
-countersigned by the auditor. No warrant shall be issued until the claim that
-been approved by the governing body, except as may be provided by ordinance or
-resolution;
-      (9)   Power to prepare and introduce ordinances and resolutions to take
-part in the discussions on all matters before the governing body; however, the
-manager shall have no vote; and
-      (10)   Powers as may be prescribed by ordinance or resolution.
-   (B)   No contract of the manager for the payment of money in excess of $200,
-except for current necessities, shall be binding upon the municipality unless
-the payment shall be approved by the governing body.
+§ 30.082 DUTIES AND AUTHORITY OF CITY MANAGER.
+   The city manager shall:
+   (A)   See that municipal laws, ordinances, and resolutions are enforced;
+   (B)   Supervise the administration of the affairs of the municipality;
+   (C)   Make recommendations to the governing body concerning the affairs of
+the municipality as may seem prudent;
+   (D)   Keep the governing body advised of the financial condition and future
+needs of the municipality;
+   (E)   Prepare and submit to the governing body an annual budget on a date
+determined by the governing body pursuant to SDCL §§ 9-21-34 and 9-21-34.1;
+   (F)   See that all terms and conditions imposed in favor of the municipality
+or its inhabitants in any contract or franchise to which the municipality is a
+party are kept and performed;
+   (G)   Be entitled to be present and take part in discussions at all meetings
+of the governing body and its committees, except when the governing body is
+considering removal of the manager;
+   (H)   Sign all warrants for the payment of money, which warrants:
+      (1)   Must be countersigned by the finance officer; and
+      (2)   May not be issued until the claim has been approved by the
+governing body, except as otherwise provided by ordinance or resolution.
+   (I)   Have the right to prepare and introduce ordinances and resolutions to
+take part in the discussions on all matters coming before the governing body,
+but the manager may not vote; and
+   (J)   Have other powers and duties as may be prescribed by ordinance or
+resolution.
 (SDCL § 9-10-15)
-§ 30.083 APPOINTMENTS.
-   (A)   The governing body may appoint the auditor, attorney, library board or
-trustees, and the treasurer.
-   (B)   The auditor and treasurer shall appoint their deputies and employees.
-   (C)   All other officers and employees are appointed by the manager and may
-be removed by him or her.
+§ 30.083 APPOINTMENTS AND REMOVAL.
+   (A)   The finance officer, attorney, and library board of trustees must be
+appointed by the governing body and may be removed at any time by the governing
+body.
+   (B)   The finance officer shall appoint all deputies and employees in the
+finance office.
+   (C)   All other officers and employees, including all members of boards and
+commissions, except as otherwise provided by law, must be appointed, and may be
+removed, by the city manager.
 (SDCL § 9-10-9)
 § 30.084 BOND REQUIRED.
-   The manager and every officer of the municipality, whether appointed by the
-manager or the governing body, shall furnish a bond to the municipality in such
-form and in such amount as may be required by the governing body. Such bond
-shall be approved by the governing body and be filed with the auditor.
+   Except as otherwise provided in this section, the city manager and every
+officer of the municipality, whether appointed by the manager or the governing
+body, shall furnish a bond to the municipality in the form and amount as may be
+required by the governing body. The bond must be approved by the governing body
+and filed with the finance officer. An individual bond is not required,
+provided the municipality has blanket coverage pursuant to SDCL § 3-5-14.
 (SDCL § 9-10-14)
 § 30.085 REMOVAL OF CITY MANAGER.
    (A)   The governing body shall appoint the city manager for an indefinite
-term but may suspend the manager by resolution of intent to remove the manager
-approved by a majority vote of the members of the governing body. The
+term, but may suspend the manager by resolution of intent to remove the manager
+approved by a majority vote of all the members of the governing body. The
 resolution of intent to remove the manager must set forth the reasons for the
 suspension and proposed removal, and a copy of the resolution must be served
 immediately upon the manager. The manager may reply in writing to the
 resolution and may request a public hearing within 15 days of being served the
 resolution. If a public hearing is requested by the manager, the governing body
-must set a time for the public hearing upon the question of the manager’s
+must, within 15 days, hold a public hearing upon the question of the manager’s
 removal, and the final resolution removing the manager may not be adopted until
 the public hearing has occurred.
    (B)   The manager’s pay must continue until the manager’s removal is
@@ -952,50 +930,65 @@ effective as provided by this section. The action of the governing body in
 removing the manager is final.
 (SDCL § 9-10-11)
 § 30.086 REGULAR AND SPECIAL MEETINGS.
-   The governing body of any first or second class municipality employing a
-manager shall hold its regular meetings on the first Monday of each month at
-such hour as may be fixed by it. It may prescribe by ordinance the manner in
-which special meetings may be called and may also so change the date of its
-regular monthly meetings and so provide for regular meetings oftener than once
-a month.
+   (A)   The governing body of any municipality employing a manager shall hold
+regular meetings on the day and time adopted by ordinance, with at east one
+regular meeting per calendar month. The governing body may, by ordinance,
+determine the manner in which special meetings may be called.
+   (B)   Unless a seat on the governing body is vacant due to removal,
+resignation, death, or by operation of law, a quorum consists of the majority
+of all the members of the governing body who are qualified to serve by election
+or appointment pursuant to SDCL Chapter 9-13. The governing body may compel the
+attendance of absentees under such penalties as may be prescribed by ordinance.
+   (C)   The meetings of the governing body are open to the public. The
+governing body shall keep minutes of its meetings.
 (SDCL § 9-10-8)
 § 30.087 QUALIFICATIONS AND APPOINTMENT OF CITY MANAGER; RESIDENCE; RESTRICTION
 ON APPOINTMENT OF FORMER MEMBER OF GOVERNING BODY.
-   (A)   The manager shall be chosen by the governing body on the basis of his
-or her executive and administrative qualifications with special reference to
-his or her actual experience in, or his or her knowledge, of accepted practices
-in respect to the duties of his or her office. At the time of his or her
-appointment he or she need not be a resident of the city or state, but during
-his or her tenure of office he or she shall reside within the city.
-   (B)   No person elected to membership on the governing body shall be
-eligible for appointment as manager until one year has elapsed following the
-expiration of the term for which he or she was elected.
+   (A)   The city manager must be chosen by the governing body on the basis of
+his or her executive and administrative qualifications, with special reference
+to actual experience in, or knowledge of, accepted practices in respect to the
+duties of office. The governing body may establish residency requirements for
+the manager.
+   (B)   A person elected to membership on the governing body may not be
+eligible for appointment as manager until one year has elapsed following
+expiration of the term for which the member was elected.
 (SDCL § 9-10-10)
 § 30.088 ABSENCE, DISABILITY, OR SUSPENSION OF CITY MANAGER.
-   In case of the absence or disability of the manager or in case of his or her
-suspension as provided in SDCL § 9-10-11, the governing body may designate a
-qualified administrative officer of the first or second class municipality to
-perform the duties of the manager during such absence, disability, or
-suspension.
+   In case of the absence or disability of the manager or in case of suspension
+as provided in SDCL § 9-10-11, the governing body may designate a qualified
+administrative officer of the municipality to perform the duties of the manager
+during the absence, disability, or suspension.
 (SDCL § 9-10-12)
 § 30.089 RESPONSIBILITY OF CITY MANAGER; POWER TO APPOINT AND REMOVE OFFICERS
 AND EMPLOYEES.
-   The manager shall be responsible to the governing body for the proper
-administration of all affairs of the first or second class municipality placed
-in his or her charge. To that end, except as otherwise provided by law, he or
-she shall have power to appoint and remove all officers and employees in the
-administrative service of the municipality and may authorize the head of any
-department or office responsible to him or her to appoint and remove
-subordinates in the department or office. Appointments made by or under the
-authority of the manager shall be made without definite term on the basis of
-executive and administrative ability and of the training and experience of such
-appointees in the work which they are to perform.
+   (A)   The city manager is responsible to the governing body for the proper
+administration of all affairs of the municipality. To that end, except as
+otherwise provided by law, the manager has power to appoint and remove all
+officers and employees in the administrative service of the municipality and
+may authorize the head of any department or office responsible to the manager
+to appoint and remove subordinates in the department or office.
+   (B)   Appointments made by or under the authority of the manager must be
+made without definite term, on the basis of executive and administrative
+ability, and on the basis of the training and experience of the appointees in
+the assigned work.
 (SDCL § 9-10-13)
 § 30.090 INCONSISTENT STATUTES INAPPLICABLE.
-   Provisions of the statutes governing first or second class municipalities
-inconsistent with this chapter shall be inapplicable to municipalities
-employing a City Manager.
+   Provisions of the statutes governing municipalities inconsistent with this
+chapter are inapplicable to municipalities employing a City Manager.
 (SDCL § 9-10-18)
+§ 30.091 CITY MANAGER; AUTHORITY TO CONTRACT; DELEGATION.
+   (A)   Except as otherwise provided in this section, a contract of the
+municipality is not valid unless the contract has been authorized by a vote of
+the governing body at an official meeting, is executed in the name of the
+municipality by the mayor, is countersigned by the finance officer, and has the
+corporate seal attached.
+   (B)   Pursuant to §
+34.30, the governing body of a municipality may, by ordinance or resolution,
+delegate to the manager the authority to enter into a contract on behalf of the
+municipality and to execute the contract and any other instrument necessary or
+convenient for the performance of the contract, subject to the limitations
+established by the governing body.
+(SDCL § 9-10-19)
 ORDINANCES AND RESOLUTIONS
 § 30.105 STYLE OF ORDINANCES; SUBJECT.
    (A)   Ordinances must be in the following style:
@@ -1260,9 +1253,9 @@ the amount of salaries and compensation of all municipal officers and the times
 at which the same shall be paid.
 (SDCL § 9-14-28)
    (B)   (1)   The municipality may appropriate funds to pay the necessary
-expenses of its officers or employees in conducting such business or attending
-such meetings within or without the state as the governing body shall determine
-necessary to carry out its authorized municipal activities.
+expenses of its officers or employees in conducting business or attending
+meetings within or without the state as the governing body determines necessary
+to carry out authorized municipal activities.
 (SDCL § 9-12-3)
       (2)   The municipality is authorized to provide the following:
          (a)   Appropriation of funds to compensate the members of municipal
@@ -4139,15 +4132,14 @@ bicycle shall comply with the provisions of SDCL §§ 32-26-22 and 32-26-22.1.
 (SDCL § 32-20B-6) Penalty, see §
 70.99
 § 74.05 RACING.
-   (A)   Racing in approved event authorized. Notwithstanding the provisions of
-SDCL § 32-25-23, a person may race a bicycle on a highway when competing in a
-racing event which has been approved by the transportation commission or local
-authorities on a highway under their jurisdictions. Approval of a bicycle
-highway racing event shall be granted only under conditions which assure
-reasonable safety for all race participants, spectators, and other highway
-users, and which prevent unreasonable interference with traffic flow which
-would seriously inconvenience other highway users. Tests of endurance are not
-considered bicycle racing.
+   (A)   Racing in approved event authorized. A person may race a bicycle on a
+highway when competing in a racing event that has been approved by the
+transportation commission or local authorities on a highway under their
+jurisdictions. Approval of a bicycle highway racing event may be granted only
+under conditions that assure reasonable safety for all race participants,
+spectators, and other highway users, and prevent unreasonable interference with
+traffic flow, which would seriously inconvenience other highway users. Tests of
+endurance are not considered bicycle racing.
 (SDCL § 32-20B-7)
    (B)   Exemption from traffic laws. The municipality may exempt participants
 in an approved bicycle highway racing event on a highway under their
@@ -6560,21 +6552,21 @@ exempt organization under the U.S. Internal Revenue Code, and the licensee
 holds a malt beverage retailer license within the municipality. The license may
 be issued for a period of time not to exceed two consecutive days.
 § 113.17 OFF-SALE LICENSES TO OPERATE WITHIN MUNICIPALITY.
-   (A)   No more than two off-sale licenses issued pursuant to SDCL § 35-4-2(3)
-and (5) may be issued under SDCL Chapter 35 to operate in a municipality
-of1,000 or less and not exceeding one license for every additional 1,500 of
-population or fraction thereof.
+   (A)   No more than three off-sale licenses issued pursuant to SDCL § 35-4-2
+(3) and (5) may be issued under SDCL Chapter 35 to operate in a municipality of
+1,000 or less. Above this population limit, no more than one license may be
+issued for every additional 1,500 of population or fraction thereof.
    (B)   The number of off-sale licenses may not be less than the total number
-of licenses allowable as of July 1, 1981, and that have never been revoked or
-not reissued.
-   (C)   For the purposes of this section, population is equal to the
+of licenses allowable as of July 1, 1981, which have never been revoked or not
+reissued.
+   (C)   For purposes of this section, POPULATION means an amount equal to the
 population estimates published by the United States Census Bureau for each
 even-numbered year, except for the decennial year. For a decennial year,
 population is equal to the amount determined by the decennial federal census.
-No license issued pursuant to this section that exceeds the number of licenses
-that would have been issued upon the decennial federal census may be denied or
-revoked solely by reason that the license issued exceeds the number of licenses
-authorized by the decennial federal census.
+   (D)   If a license issued pursuant to this section exceeds the number of
+licenses permissible in accordance with the decennial federal census, the
+license may not be revoked or denied renewal solely because issuance of the
+license exceeded the permissible number.
 (SDCL § 35-4-10)
 § 113.18 ON-SALE LICENSES.
    (A)   Pursuant to SDCL § 35-4-11, if not fixed by ordinance, the governing
@@ -6590,7 +6582,7 @@ of licenses allowable or issued as of July 1, 1981. The municipal governing
 board shall at such meeting establish the fee for on-sale licenses pursuant to
 state law. The fee applies to all the on-sale licenses issued in the ensuing
 calendar year. The quotas established in this section do not apply to licenses
-issued pursuant to SDCL § 35-4-2(12), (16), (17), and (17A).
+issued pursuant to SDCL § 35-4-2(12) and (16).
    (D)   For the purposes of this section, population is equal to the
 population estimates published by the United States Census Bureau for each
 even-numbered year, except for the decennial year. For a decennial year,
@@ -6630,10 +6622,9 @@ a.m., or at any time on Christmas Day. However, this municipality may, by
 ordinance, allow the sale, service, and consumption of alcoholic beverages on
 Sundays, Christmas Day and/or Memorial Day.
 (SDCL § 35-4-81)
-   (B)   No on-sale or off-sale licensee licensed under SDCL § 35-4-2(12), (16)
-(17) and (17A) may sell, serve, or allow to be consumed on the premises covered
-by the license, any alcoholic beverages between the hours of 2:00 a.m. and 7:00
-a.m.
+   (B)   No on-sale or off-sale licensee licensed under SDCL § 35-4-2(12) and
+(16) may sell, serve, or allow to be consumed on the premises covered by the
+license, any alcoholic beverages between the hours of 2:00 a.m. and 7:00 a.m.
 (SDCL § 35-4-81.2) Penalty, see §
 10.99
 § 113.22 APPLICATION FOR LICENSE.
@@ -6798,9 +6789,9 @@ verified vouchers.
    (C)   The municipality shall keep a separate accounting of all transactions
 involving purchases, sales, and inventories conducted under each license.
    (D)   A municipality that holds an off-sale license pursuant to SDCL § 35-4-
-2(5) is eligible for a license under SDCL § 35-4-2(16) or (17) and any
-municipality holding a license under SDCL Chapter 35-4 is eligible for a
-retailer’s license under SDCL § 35-4-2(17).
+2(5) is eligible for a license under SDCL § 35-4-2(16) and any municipality
+holding a license under SDCL Chapter 35-4 is eligible for a retailer’s license
+under SDCL § 35-4-2.
    (E)   Upon termination of the license, the governing board shall liquidate
 the business operated and the assets of the business in such a manner as may be
 determined by resolution, and is consistent with law.
@@ -7781,9 +7772,9 @@ necessary for him or her to carry out his or her official duties.
 Penalty, see §
 134.99
 Statutory reference:
-   Carrying concealed pistol in malt or alcoholic beverage establishment
-prohibited, see SDCL § 23-7-70
    Concealment of weapon with intent to commit felony, see SDCL § 22-14-8
+   Lawful possession of concealed firearm, see SDCL § 9-14-44
+   Lawful possession of dangerous weapon, see SDCL § 9-14-15
    Permit to carry concealed pistol, see SDCL § 23-7-7
 § 134.02 RECKLESS DISCHARGE OF FIREARM OR SHOOTING OF BOW AND ARROW.
    It shall be unlawful to:
@@ -8130,6 +8121,7 @@ Chapter 1-26                53.09
 1-27-19                     31.03
 3-4-8                       31.19
 3-4-9                       31.17
+3-5-14                      30.084
 3-17-6                      31.15
 3-19-2                      30.005
 Chapter 5-12                34.43
@@ -8207,7 +8199,7 @@ Chapter 6-13                35.01
 Chapter 7-8                 90.37
 Chapter 7-25A               113.17
                             10.04;
-itle 9                      30.001;
+Title 9                     30.001;
                             50.01;
                             51.01
 9-1-1                       10.02;
@@ -8227,21 +8219,22 @@ itle 9                      30.001;
 9-8-3                       30.035;
                             34.03
 9-8-4                       30.037
-9-8-5                       30.039
+9-8-5                       30.036;
+                            30.039
 9-8-7                       30.038
 9-8-8                       30.040
 9-8-10                      30.041
 9-8-11                      30.042
+9-8-12                      30.043
+9-8-13                      30.044
 9-9-1                       30.055
 9-9-2                       30.056
 9-9-3                       30.056
 9-9-6                       30.058
 9-9-7                       30.057
-9-9-8                       30.060
 9-9-9                       30.064
 9-9-11                      30.061
 9-9-12                      30.061
-9-9-13                      30.061
 9-9-14                      30.062
 9-9-14.1                    30.063
 9-9-16                      30.062
@@ -8270,6 +8263,7 @@ itle 9                      30.001;
 9-10-14                     30.084
 9-10-15                     30.082
 9-10-18                     30.090
+9-10-19                     30.091
 Chapter 9-11                30.015
 9-11-10                     30.109
 9-11-11                     30.001
@@ -8283,8 +8277,10 @@ Chapter 9-12                Ch. 30
 9-12-6                      10.04;
                             32.02
 9-12-20                     113.48
+                            30.020;
                             30.040;
 Chapter 9-13                30.062;
+                            30.086;
                             32.05
 9-13-6                      30.003;
                             32.02
@@ -8301,14 +8297,17 @@ Chapter 9-13                30.062;
                             30.058
                             30.003;
                             30.017;
-9-13-14.2                   30.036;
-                            30.037;
-                            30.058,
+                            30.036;
+9-13-14.2                   30.037;
+                            30.058; 
+                            30.060;
                             32.03
 9-13-14.3                   30.003
 9-13-21                     32.01
 9-13-24                     32.06
 9-13-28                     32.06
+9-14-2                      30.035;
+                            30.056
 9-14-3                      31.01
 9-14-4                      31.02
 9-14-5                      31.10;
@@ -8331,6 +8330,8 @@ Chapter 9-13                30.062;
 9-14-34                     31.09
 9-14-35                     31.09
 9-14-42                     31.35
+9-14-44                     134.01
+9-14-45                     134.01
 Chapter 9-18                Ch. 31
 Chapter 9-19                50.01;
                             51.01
@@ -8363,6 +8364,8 @@ Chapter 9-21                51.53
 9-21-16                     50.03
 9-21-19                     34.20
 9-21-32                     34.56
+9-21-34                     30.082
+9-21-34.1   30.082       30.082
 9-22-1 et seq.              31.04
 9-22-2                      31.04
 9-22-23                     34.01
@@ -8537,7 +8540,6 @@ itle 22                     130.01
 23-7-7                      134.01
 23-7-44                     134.05
 23-7-45                     134.05
-23-7-70                     134.01
 23-7-71                     134.06
 Chapter 23A-35              70.12
 26-1-1                      134.05
@@ -8586,7 +8588,6 @@ Chapter 32-7A               150.03;
 32-20B-15                   74.06
 32-21-3.1                   71.058
 32-24-1 et seq.             71.012
-32-25-23                    74.05
 32-26-1                     71.025
 32-26-2                     71.026
 32-26-3                     71.027
@@ -8735,11 +8736,6 @@ Chapter 35-4                113.46
                             113.26;
                             113.46;
                             113.47
-                            113.18;
-35-4-2(17)                  113.21;
-                            113.46
-35-4-2(17A)                 113.18;
-                            113.21
 35-4-2(21)                  113.15
 35-4-2(23)                  113.28
 35-4-2.11                   113.26
@@ -8800,4 +8796,62 @@ Chapter 49-7A               150.20
 49-34A-45                   34.57
 Chapter 50-7                113.16
  
+ 
+TITLE XVII: LOCAL LEGISLATION
+   Chapter
+      
+170.   GENERAL PROVISIONS
+      
+171.   ADMINISTRATION
+      
+172.   PUBLIC WORKS
+      
+173.   TRAFFIC CODE
+      
+174.   GENERAL REGULATIONS
+      
+175.   BUSINESS REGULATIONS
+      
+176.   GENERAL OFFENSES
+      
+177.   LAND USAGE
+CHAPTER 170: GENERAL PROVISIONS
+   [Reserved for local legislation]
+Editor’s note:
+   See Title I of this code of ordinances
+CHAPTER 171: ADMINISTRATION
+Section
+   [Reserved for local legislation]
+Editor’s note:
+   See Title III of this code of ordinances
+CHAPTER 172: PUBLIC WORKS
+Section
+   [Reserved for local legislation]
+Editor’s note:
+   See Title V of this code of ordinances
+CHAPTER 173: TRAFFIC CODE
+Section
+[Reserved for local legislation]
+Editor’s note:
+   See Title VII of this code of ordinances
+CHAPTER 174: GENERAL REGULATIONS
+Section
+[Reserved for local legislation]
+Editor’s note:
+   See Title IX of this code of ordinances
+CHAPTER 175: BUSINESS REGULATIONS
+Section
+[Reserved for local legislation]
+Editor’s note:
+   See Title XI of this code of ordinances
+CHAPTER 176: GENERAL OFFENSES
+Section
+[Reserved for local legislation]
+Editor’s note:
+   See Title XIII of this code of ordinances
+CHAPTER 177: LAND USAGE
+Section
+[Reserved for local legislation]
+Editor’s note:
+   See Title XV of this code of ordinances
  
