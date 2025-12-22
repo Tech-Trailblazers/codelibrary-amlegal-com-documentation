@@ -2,7 +2,7 @@ YUMA CITY CODE
 YUMA, ARIZONA
 Contains 2025 S-73,
 current through November 30, 2025
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7884.png]
 Published by:
 American Legal Publishing
@@ -9375,7 +9375,7 @@ General Provisions
 131-01   Fire fighting outside city
 Fire Prevention Code
    
-131-15   Adoption of a model Fire Code, International Fire Code, 2018 Edition
+131-15   Adoption of a model Fire Code, International Fire Code, 2024 Edition
    
 131-16   Amendments
    
@@ -9411,20 +9411,19 @@ the Fire Department, in his discretion, shall deem it necessary to protect
 lives and property.
 ('80 Code, § 13-1) (Ord. 2657, passed 7-6-94)
 Fire Prevention Code
-§ 131-15 Adoption of a model Fire Code, International Fire Code, 2018 Edition.
+§ 131-15 Adoption of a model Fire Code, International Fire Code, 2024 Edition.
    That certain document, three copies of which are on file as public record in
 the office of the City Clerk of the City of Yuma, known as the International
-Fire Code, 2018 Edition, including Appendices B, C, D, E, F, G, H, and I,
+Fire Code, 2024 Edition, including Appendices B, C, D, E, F, G, H, and I,
 published by the International Code Council, with certain amendments listed
-herein, which document was made a public record by Resolution No. R2023-003 of
-the City, is hereby adopted by reference and made a part of the Yuma City Code
-as if fully set out in this article.
+herein, is hereby adopted by reference and made a part of the Yuma City Code as
+if fully set out in this article.
 ('80 Code, § 13-17) (Ord. 2657, passed 7-6-94; Ord. O98-17, passed 3- 4-98;
 Ord. O2003-52, passed 10-15-03; Ord. O2014-36, passed 12-17-14; Ord. O2018-055,
-passed 12-19-18; Ord. O2023-030, passed 9-6-23)
+passed 12-19-18; Ord. O2023-030, passed 9-6-23; Ord. O2025-039, passed 10-1-25)
 § 131-16 Amendments.
    NOTE: The section numbers that follow are the reference sections found in
-the International Fire Code 2018.
+the International Fire Code 2024.
    (A)   Section [A] 101.1 Title. Amend to read, "These regulations shall be
 known as the Fire Code of the City of Yuma, herein after referred to as 'this
 code.'"
@@ -9441,33 +9440,20 @@ code currently adopted by the City of Yuma, and any alterations, additions,
 changes in use or changes in structures required by this code, which are within
 the scope of the building code currently adopted by the City of Yuma, shall be
 made in accordance therewith."
-   (D)   Section [A] 103.1 General. Amend to read, "The division of Community
-Risk Reduction, within the Fire Department is established within the
+   (D)   Section [A] 103.1 Creation of agency. Amend to read, "The division of
+Community Risk Reduction, within the Fire Department is established within the
 jurisdiction under the direction of the fire code official. The function of the
 division shall be the implementation, administration, and enforcement of the
 provisions of this code."
-   (E)   Section [A] 105.4.2.1 Fire protection system shop drawings. Amend to
-read, "Plan submittal documents shall include either a statement of the design
-criteria for the fire protection system(s) to also include a current fire flow
-test within the past 12 months or the complete design, plans, calculations and
-data for the fire protection system(s). If only the statement of design
-criteria and fire flow test is initially submitted, the complete design, plans,
-calculations and data for the fire protection system(s) shall be submitted to
-indicate conformance to this code and the construction documents and shall be
-approved in writing by the Fire Department prior to the start of system
-installation. In addition, where applicable, shop drawings, calculations and
-data shall be submitted and shall contain all information as required by the
-referenced installation standards in Chapter 9."
-   (F)   Amend Section [A] 105.6 Required operational permits, to add the
-following section, "Section [A] 105.6.51 Permissible Consumer Fireworks. For
+   (E)   Amend Section [A] 105.5 Required operational permits, to add the
+following section, "Section [A] 105.6.58 Permissible Consumer Fireworks. For
 the sale, on-site handling, storage, and/or manufacture of permissible consumer
 fireworks (1.4G)."
-   (G)   Amend Section [A] 105.6 Required operational permits, to add the
-following section, "Section [A] 105.6.52 Flame Effects. For the use of flame
+   (F)   Amend Section [A] 105.5 Required operational permits, to add the
+following section, "Section [A] 105.5.59 Flame Effects. For the use of flame
 effects before a proximate audience."
-   (H)   Section [A] 106.2 Schedule of permit fees. Amend by adding Fire
+   (G)   Section [A] 108.2 Schedule of permit fees. Amend by adding Fire
 Activity Permit Fee Table 1-A:
-TABLE 1-A: FIRE ACTIVITY PERMIT FEES
 Schedule of Fire Activity Permit Fees
 Type                                 Fee
 Carnivals and Fairs                  $75.00
@@ -9486,6 +9472,8 @@ Fire Sprinkler Alterations           $75.00 over the counter permit plus $75.00
                                      an hour inspection fee
 Fire Alarm Alterations               $75.00 over the counter permit plus $75.00
                                      an hour inspection fee
+Carbon Dioxide System Installations/ $75.00 over the counter permit plus
+Alterations                          $75.00 an hour inspection fee
 Sale or Storage of Permissible       $75.00
 Consumer Fireworks
 Permissible Consumer Fireworks Sales $200.00
@@ -9495,6 +9483,7 @@ tires)
 Fire inspections needed for other    $75.00
 state or local programs
 Fuel Tank Removal                    $150.00
+Bonfire                              $75.00
 Other Inspections and Fees:
    1.   Inspections outside of normal business hours, $75 per hour* (minimum
 charge - 2 hours)
@@ -9519,51 +9508,90 @@ involved. Staffing may not always be available to accommodate these inspection
 requests.
 ** Actual costs include administrative and overhead costs.
  
-   (I)   Section [A] 109.1 Board of appeals established. Amend to add the
+   (H)   Section [A] 106.2.2 Fire protection system shop drawings. Amend to
+read, “Plan submittal documents shall include either a statement fo the design
+criteria for the fire protection systems(s) to also include a current fire flow
+test within the past 12 months or the complete design, plans, calculations, and
+data for the fire protection system(s). If only the statement of design
+criteria and fire flow test is initially submitted, the complete design, plans,
+calculations, and data for the fire protection system(s) shall be submitted to
+indicate conformance to this code and the construction documents and shall be
+approved in writing by the Fire Department prior to the start of system
+installation. In addition, where application, shop drawings, calculations and
+data shall be submitted and shall contain all information as required by the
+referenced installation standards in Chapter 9.”
+   (I)   Section [A] 112.5 Board of appeals established. Amend to add the
 following sentence at the end of the section. "Whenever reference is made to
 the "Board of Appeals" in the City Fire Code, it shall mean the City of Yuma
 "Building Advisory Board.""
-   (J)   Section [A] 110.4 Violation penalties. Amend to read, "Any person who
+   (J)   Section [A] 113.3.3 Prosecution of violations. Amend to add the
+following sentence at the end of the section, “Any action taken by the
+authority having jurisdiction on such premises shall be charged against the
+real estate upon which the premises is located and shall be a lien upon such
+real estate.”
+   (K)   Section [A] 113.4 Violation penalties. Amend to read, "Any person who
 violates a provision of this code or fails to comply with any of the
 requirements thereof or who erects, constructs, alters or repairs a building or
 structure in violation of the approved construction documents or directive of
 the fire code official, or of a permit or certificate issued under the
 provisions of this code, shall be subject to the penalty and fine described in
 this ordinance."
-   (K)   Section [A] 112.4 Failure to comply. Amend to read, "Any person who
+   (L)   Section [A] 114.4 Failure to comply. Amend to read, "Any person who
 shall continue any work after having been served with a stop work order, except
 such work as that person is directed to perform to remove a violation or unsafe
 condition, shall be subject to the penalty and fine described in this
 ordinance."
-   (L)   Section 307.4 Location. Amend to read. “The location for open burning
+   (M)   Section 307.4 Location. Amend to read. “The location for open burning
 shall be at the approval of the Authority Having Jurisdiction, as outlined in
-the required operational permit from section 105.6.32.”
-   (M)   Amend Section 311.5 Placards to add "Section 311.5.6 Authority to
+the required operational permit from section 105.5.36.”
+   (N)   Section 311.5 Placards. Amend to read “Any vacant or abandoned
+buildings or structures determined to be unsafe pursuant to Section 115
+relating to structural or interior hazards may be marked as required by
+Sections 311.5.1-311.5.6.”
+   (O)   Amend Section 311.5 Placards to add "Section 311.5.6 Authority to
 Placard. The Authority Having Jurisdiction is authorized to placard, post
 signs, erect barriers or take similar measures as necessary to secure public
 safety on any vacant, abandoned, or unoccupied building, structure, premises or
 portions thereof."
-   (N)   Section 503.2.3 Surface. Amend to read, "Fire department access roads
+   (P)   Section 503.2.3 Surface. Amend to read, "Fire department access roads
 shall be designed and maintained to support the imposed loads of fire apparatus
 and shall be provided with a paved surface, in accordance with the COY
 engineering standard for a local road, or another method acceptable to the
 Authority Having Jurisdiction."
-   (O)   Section 507.3 Fire flow. Amend to read, "Fire-flow requirements for
-buildings or portions of buildings and facilities, and exterior storage of
-hazardous materials, shall be in accordance with Appendix B."
-   (P)   Amend Section 507.3 Fire flow to add "Section 507.3.1 Exterior storage
+   (Q)   Section 507.3 Fire flow. Amend to read, "Fire-flow requirements for
+buildings or portions of buildings and facilities, exterior storage of
+hazardous materials, and stand-alone commercial parking lots where transfer
+and/or storage of hazardous materials inside of vehicles/trailers is present as
+a new use, shall be in accordance with Appendix B, or another approved method
+determined by the Authority Having Jurisdiction."
+   (R)   Amend Section 507.3 Fire flow to add "Section 507.3.1 Exterior storage
 of hazardous materials. Fire-flow requirements for exterior storage of
 hazardous materials shall be in accordance with Appendix B, Table B105.1(2) for
-Type V-B based on square footage of the entire storage area."
-   (Q)   Amend Section 507.5.1 Where Required to add Exception "3. For detached
+Type V-B based on square footage of the entire storage area, or another
+approved method determined by the Authority Having Jurisdiction."
+   (S)   Amend Section 507.3 Fire flow to add “Section 507.3.2 Commercial
+parking lots. Fire-flow requirements for stand-alone commercial parking lots
+where transfer and/or storage of hazardous materials inside of vehicles/
+trailers is present as a new use shall be in accordance with Appendix B, Table
+B105.1(2) for Type V-B based on square footage of the entire storage area, or
+another approved method determined by the Authority Having Jurisdiction.”
+   (T)   Amend Section 507.5.1 Where Required to add Exception "3. For detached
 one and two-family dwellings that are protected with a minimum NFPA 13D
 automatic sprinkler system, the distance shall not exceed 1,000 feet, as
 approved by the Authority Having Jurisdiction."
-   (R)   Amend Section 507.5 Fire hydrant systems to add, "Section 507.5.1.2
+   (U)   Amend Section 507.5 Fire hydrant systems to add, "Section 507.5.1.2
 Hydrants for exterior storage of hazardous materials. Facilities with exterior
 storage of hazardous materials shall provide hydrant spacing in accordance with
 Appendix C."
-   (S)   Amend Section 901.6.3 Records to add, "Section 901.6.3.2 Systems and
+   (V)   Amend Section 507.5 Fire hydrant systems to add, “Section 507.5.1.3
+Hydrants for commercial parking lots. Stand-alone commercial parking lots where
+transfer and/or storage of hazardous materials inside of vehicles/trailers is
+present as a new use shall provide hydrant spacing not to exceed 1,000 feet to
+provide for transportation hazards.
+   (W)   Amend Section 510.1 Emergency responder communications enhancement
+systems in new buildings, Exception #4 to read “One-story buildings not
+exceeding 50,000 square feet with no below ground area(s).
+   (X)   Amend Section 901.6.3 Records to add, "Section 901.6.3.2 Systems and
 Equipment Service Records. Systems and Equipment Service Records. All persons
 who perform inspection, testing, and/or maintenance services on fire and life
 safety systems and equipment on commercial properties within the City of Yuma
@@ -9575,7 +9603,7 @@ systems, commercial kitchen hood suppression systems, commercial kitchen hood
 cleaning, active smoke control systems, private fire hydrant systems, fire
 pumps, spray booths, special suppression systems, foam systems, and
 standpipes."
-   (T)   Amend Section 901 General to add the following sections:
+   (Y)   Amend Section 901 General to add the following sections:
    "Section 901.11 Impaired and Nuisance Alarm Prone Systems. Impaired fire
 alarm systems shall include, but shall not be limited to, required systems that
 are not fully operational, are no longer monitored as required by the Authority
@@ -9609,27 +9637,30 @@ systems that cannot be serviced or repaired to eliminate system impairments or
 chronic nuisance alarms.
    901.11.7 Penalties. Penalties for excessive false or nuisance alarms shall
 be in accordance with Yuma City Code Section 111-02.
-   (U)   Section 903.2.1 - 903.2.10 Where Required. Amend to read.
+   (Z)   Section 903.2.1 - 903.2.10 Where Required. Amend to read.
       "A.   An automatic sprinkler system shall be installed throughout all
 levels of all buildings here after constructed, EXCEPT for Group U occupancies
 and one/two family dwellings.
          1.   Exception 1: Buildings housing a group A-1, A-2, A-3, A-4, A-5,
-B, E, F-1, F-2, M, S-1, or S-2 occupancy having square footage less than five
-hundred (500) square feet.
+E, M, occupancy having five hundred (500) square feet or less.
          (Note: For the purposes of this article, fire resistive firewalls will
 not be considered a barrier creating a separate building.)
          2.   Exception 2: Buildings housing a Group B occupancy, without
-cooking equipment or hazardous materials, having square footage less than two
-thousand (2,000) square feet. (Note: For the purposes of this article, fire
+cooking equipment, ambulatory care, or hazardous materials, having two thousand
+(2,000) square feet or less. (Note: For the purposes of this article, fire
 resistive firewalls will not be considered a barrier creating a separate
 building.) If this exception is utilized, then any future expansions of the
 footprint will trigger an automatic fire sprinkler retrofit requirement.
          3.   Exception 3: Buildings housing a Group S or F occupancy, without
-high piled storage or hazardous materials, having square footage less than two
-thousand (2,000) square feet. (Note: For the purposes of this article, fire
-resistive firewalls will not be considered a barrier creating a separate
-building.) If this exception is utilized, then any future expansions of the
-footprint will trigger an automatic fire sprinkler retrofit requirement.
+high piled storage, woodworking, manufacture or storage of lithium-ion lithium
+metal batteries or energy storage systems, manufacture or storage of distilled
+spirits, storage or manufacture of upholstered furniture or mattresses, storage
+of commercial motor vehicles, storage of lithium ion or lithium metal powered
+vehicles, bulk storage of tires, or storage or use of hazardous materials,
+havingtwo thousand (2,000) square feet or less. (Note: For the purposes of this
+article, fire resistive firewalls will not be considered a barrier creating a
+separate building.) If this exception is utilized, then any future expansions
+of the footprint will trigger an automatic fire sprinkler retrofit requirement.
          4.   Exception 4: Temporary use of modular or factory-built structures
 shall not be required to provide an automatic fire sprinkler system, provided
 that the use of the structure and the "Certificate of Occupancy" is limited to
@@ -9653,9 +9684,15 @@ the structure.
             g.   An approved water supply capable of supplying the required
 fire flow shall be provided.
             h.   No cooking equipment or operations are present
+            i.   It is not being used to cover another building, pod, or space
+with an type of wall present; (Exception: 500 square feet or less kiosk
+underneath fuel island canopy).
             Note: Any changes to the freestanding open canopy structure or its
 use may result in the loss of this exception and may require a retrofit of an
 automatic fire sprinkler system.
+         6.   Exception 6: 24 hour assisted living care homes within a one- or
+two-family dwelling with 10 or fewer persons receiving care, unless required by
+Arizona Revised Statutes and/or Arizona Administrative Code.
       B.   Retrofit of fire sprinklers to existing structures. An existing
 building that undergoes a "change of occupancy" as outlined in section 102.3,
 whereby the new occupancy is deemed a greater hazard than the previous
@@ -9666,12 +9703,15 @@ currently adopted by the City of Yuma shall be referenced to determine
 occupancy hazard level.
       C.   Any building except Group U occupancies and one/two family
 dwellings, which undergoes one or more renovations, that total an excess of 50%
-of value as assessed by the building code, shall meet the requirements of this
-section.
+of value as assessed by the August 2024 publishing of the International Code
+Council Building Valuation Data Chart, that doesn’t meet another exception in
+this section, shall meet the requirements of this section.
       D.   Any building that increases in size by a total summation of 50% as a
-result of one or more expansions will require a retrofit of an automatic fire
-sprinkler."
-   (V)   Section 904.12.1 Manual system operation. Amend to read, "A manual
+result of one or more expansions, that doesn’t meet another exception in this
+section, will require a retrofit of an automatic fire sprinkler."
+      E.   RV Storage sprinkler system design criteria shall be Extra Hazard 2
+(EH2) or greater.
+   (AA)   Section 904.14.1 Manual system operation. Amend to read, "A manual
 actuation device shall be located at or near a means of egress from the cooking
 area, as approved by the Authority Having Jurisdiction. The manual actuation
 device shall be installed not more than 48 inches (1200 mm) nor less than 42
@@ -9681,27 +9721,39 @@ N) and a maximum movement of 14 inches (356 mm) to actuate the fire suppression
 system.
    Exception: Automatic sprinkler systems shall not be required to be equipped
 with manual actuation means."
-   (W)   Amend Section 904.12 Commercial cooking systems to add. "Section
-904.12.6 Visual notification. Automatic fire extinguishing systems for
+   (BB)   Amend Section 904.14 Commercial cooking systems to add. "Section
+904.14.6 Visual notification. Automatic fire extinguishing systems for
 commercial cooking systems shall be equipped with an audible/visual device that
 activates upon system actuation, as approved by the Authority Having
 Jurisdiction."
-   (X)   Amend Section 912.2 Location to add "Section 912.2.3 Remote Location.
+   (CC)   Amend Section 912.2 Location to add "Section 912.2.3 Remote Location.
 The fire department connection shall be remotely located from the building, or
 in a location approved by the Authority Having Jurisdiction."
-   (Y)   Section 1201.2 Electrical wiring and equipment. Amend to read.
+   (DD)   Section 1103.7.5 Group R-1. Amend to read, “A fire alarm and smoke
+alarms shall be installed in existing Group R-1 occupancies in accordance with
+Sections 1103.7.5.1 through 1103.7.5.2.1 when the building undergoes a Level 1
+(or higher) alteration, as defined in the International Existing Building Code
+adopted by the City of Yuma.”
+   (EE)   Section 1103.7.6 Group R-2. Amend to read, “A manual fire alarm that
+activates the occupant notification system in accordance with Section 907.5
+shall be installed in existing Group R-2 occupancies more than three stories in
+height or with more than 16 dwelling or sleeping units when the building
+undergoes a Level 1 (or higher) alteration, as defined in the International
+Existing Building Code adopted by the City of Yuma.”
+   (FF)   Section 1201.2 Electrical wiring and equipment. Amend to read.
 "Electrical wiring and equipment used in connection with energy systems shall
-be installed and maintained in accordance with Chapter 12, NFPA 70, and NFPA
-855, Standard for the Installation of Stationary Energy Storage Systems."
-   (Z)   Section 2301.1 Scope. Amend to read. "Automotive motor fuel-dispensing
-facilities, marine motor fuel-dispensing facilities, fleet vehicle motor fuel-
-dispensing facilities, aircraft motor vehicle fuel-dispensing facilities and
-repair garages shall be in accordance with this chapter and the International
-Building Code, International Fuel Gas Code, International Mechanical Code, and
-NFPA 30A, Code for Motor Fuel-dispensing Facilities and Repair Garages. Such
-operations shall include both those that are open to the public and private
-operations."
-   (AA)   Section 2806.2 Cold decks. Amend to read, "Cold decks shall not
+be installed and maintained in accordance with Chapter 12, Section 603, NFPA
+70, and NFPA 855, Standard for the Installation of Stationary Energy Storage
+Systems."
+   (GG)   Section 2301.1 Scope. Amend to read. "Automotive motor fuel-
+dispensing facilities, marine motor fuel-dispensing facilities, fleet vehicle
+motor fuel-dispensing facilities, aircraft motor vehicle fuel-dispensing
+facilities and repair garages shall be in accordance with this chapter and the
+International Building Code, International Fuel Gas Code, International
+Mechanical Code, and NFPA 30A, Code for Motor Fuel-dispensing Facilities and
+Repair Garages. Such operations shall include both those that are open to the
+public and private operations."
+   (HH)   Section 2806.2 Cold decks. Amend to read, "Cold decks shall not
 exceed 125 feet in length, 75 feet in width and 12.5 feet in height. Cold decks
 shall be separated from adjacent cold decks or other exposures by not less than
 100 feet.
@@ -9710,7 +9762,7 @@ official where the decks are protected by special fire protection including,
 but not limited to, additional fire flow, portable turrets and deluge sets, and
 hydrant hose houses equipped with approved fire-fighting equipment capable of
 reaching the entire storage area in accordance with Chapter 9."
-   (BB)   Section 2807.2 Size of piles. Amend to read, "Piles shall not exceed
+   (II)   Section 2807.2 Size of piles. Amend to read, "Piles shall not exceed
 12.5 feet in height, 75 feet in width and 125 feet in length. Piles shall be
 separated from adjacent piles or other exposures by approved fire apparatus
 access roads.
@@ -9718,39 +9770,23 @@ access roads.
 increased where additional fire protection is provided in accordance with
 Chapter 9. The increase shall be based on the capabilities of the system
 installed."
-   (CC)   Amend Section 2807 Storage of Wood Chips and Hogged Material
+   (JJ)   Amend Section 2807 Storage of Wood Chips and Hogged Material
 Associated with Timber and Lumber Production Facilities to add, "Section 2807.6
 Pile separation. A clear space of not less than 30 ft. (4.6 m) shall be
 maintained between piles and exposing structures, yard equipment, or stock,
 depending on the degree of exposure hazard."
-   (DD)   Section 2808.3 Size of piles. Amend to read, "Piles shall not exceed
-12.5 feet in height, 75 feet in width and 125 feet in length.
-   Exception: The fire code official is authorized to allow the pile size to be
-increased where a fire protection plan is provided for approval that includes,
-but is not limited to, the following:
-      1.   Storage yard areas and materials-handling equipment selection,
-design and arrangement shall be based on sound fire prevention and protection
-principles.
-      2.   Factors that lead to spontaneous heating shall be identified in the
-plan, and control of the various factors shall be identified and implemented,
-including provisions for monitoring the internal condition of the pile.
-      3.   The plan shall include means for early fire detection and reporting
-to the public fire department; and facilities needed by the fire department for
-fire extinguishment including a water supply and fire hydrants.
-      4.   Fire apparatus access roads around the piles and access roads to the
-top of the piles shall be established, identified and maintained.
-      5.   Regular yard inspections by trained personnel shall be included as
-part of an effective fire prevention maintenance program.
-   Additional fire protection called for in the plan shall be provided and
-shall be installed in accordance with this code. The increase of the pile size
-shall be based on the capabilities of the installed fire protection systems and
-features."
-   (EE)   Section 2808.4 Pile separation. Amend to read, "A clear space of not
-less than 30 ft. shall be maintained between piles and exposing structures,
-yard equipment, or stock, depending on the degree of exposure hazard."
-   (FF)   Amend Section 2810 Outdoor Storage of Pallets at Pallet Manufacturing
-and Recycling Facilities to add “Section 2811 Air Curtain Destructor and
-Firebox Procedures.”
+   (KK)   Section 2808.3 Size of piles. Amend to read, "Piles shall not exceed
+12.5 feet in height, 75 feet in width and 125 feet in length. Stackable
+products shall not be stacked in excess of 12.5 feet in height, 40 feet in
+width, and 125 feet in length.”
+   (LL)   Section 2808.4 Pile separation. Amend to read, "A clear space of not
+less than 30 ft. shall be maintained between piles and property lines, exposing
+structures, yard equipment, or stock, depending on the degree of exposure
+hazard. Approved fire apparatus access roads shall be provided within the
+separation space in accordance with Section 503."
+   (MM)   Amend Chapter 28 Lumber Yards and Agro-Industrial, Solid Biomass, and
+Woodworking Facilities to add “Section 2811 Air Curtain Destructor and Firebox
+Procedures.”
    2811.1. Outdoor fires in an air curtain destructor/firebox. Prior to
 conducting an outdoor fire in an air curtain destructor or firebox, the owner
 or operator of the air curtain destructor shall obtain an applicable permit
@@ -9849,7 +9885,14 @@ such as paints, pesticides, cleaners and solvents, stains and varnishes, and
 other flammable liquids: plastic pesticide bags and containers; and hazardous
 material containers including those that contained lead, cadmium, mercury and
 arsenic compounds.
-   (GG)   Amend Section 3405 Outdoor Storage to add "Section 3405.8 Outdoor
+   (NN)   Amend Section 3303.1 Program development and maintenance. Amend first
+sentence to read, “When required by the Fire Code Official or the Building
+Official, the owner or owner’s authorized agent shall be responsible for the
+development, implementation and maintenance of an approved, written site safety
+plan establishing a fire prevention program at the project site applicable
+throughout all phases of the construction, repair, alteration, or demolition
+work.”
+   (OO)   Amend Section 3405 Outdoor Storage to add "Section 3405.8 Outdoor
 Storage of Altered Tire Material. Outdoor storage of altered tire material in
 the form of chunks, chips, or crumbs shall be protected in accordance with
 3405.8.1 through 3405.8.5.
@@ -9864,7 +9907,7 @@ pile.
 site in excess of 90 days.
       3405.8.5 Individual altered tire material piles shall be kept sheltered
 from precipitation."
-   (HH)   Section 5001.1 Scope. Amend to read, "Prevention, control and
+   (PP)   Section 5001.1 Scope. Amend to read, "Prevention, control and
 mitigation of dangerous conditions related to storage, dispensing, use and
 handling of hazardous materials shall be in accordance with this chapter, and
 NFPA 400, Hazardous Materials Code.
@@ -9901,36 +9944,41 @@ casks.
       11.   The use of wall-mounted dispensers containing alcohol-based hand
 rubs classified as Class I or II liquids where in accordance with Section
 5705.5.”
-   (II)   CHAPTER 80 REFERENCED STANDARDS. Amend to add the following
+   (QQ)   Section 5601.1.3 Fireworks. Amend to read: “The possession,
+manufacture, storage, sale, handling, and use of fireworks are prohibited, with
+exception as allowed in Arizona Revised Statutes, and Yuma City Code.”
+   (RR)   CHAPTER 80 REFERENCED STANDARDS. Amend to add the following
 referenced standards:
-      - NFPA 30A-18: Code for Motor Fuel-dispensing Facilities and Repair
+      - NFPA 30A-24: Code for Motor Fuel-dispensing Facilities and Repair
 Garages, Section 2301.1
       - NFPA 855-23: Standard for the Installation of Stationary Energy Storage
 Systems, Section 1201.2
-      - NFPA 400-16: Hazardous Materials Code, Section 5001.1
-   (JJ)   APPENDIX A BOARD OF APPEALS. Not adopted.
-   (KK)   APPENDIX B FIRE FLOW REQUIREMENTS FOR BUILDINGS. Adopted.
-   (LL)   APPENDIX C FIRE HYDRANT LOCATIONS AND DISTRIBUTION. Adopted.
-   (MM)   APPENDIX D FIRE APPARATUS ACCESS ROADS. Adopted.
-   (NN)   APPENDIX E HAZARD CATEGORIES. Adopted.
-   (OO)   APPENDIX F HAZARD RANKING. Adopted.
-   (PP)   APPENDIX G CRYOGENIC FLUIDS - WEIGHT AND VOLUME EQUIVALENTS. Adopted.
-   (QQ)   APPENDIX H HAZARDOUS MATERIALS MANAGEMENT PLAN (HMIP) AND HAZARDOUS
+      - NFPA 400-25: Hazardous Materials Code, Section 5001.1
+   (SS)   APPENDIX A BOARD OF APPEALS. Not adopted.
+   (TT)   APPENDIX B FIRE FLOW REQUIREMENTS FOR BUILDINGS. Adopted.
+   (UU)   APPENDIX C FIRE HYDRANT LOCATIONS AND DISTRIBUTION. Adopted.
+   (VV)   APPENDIX D FIRE APPARATUS ACCESS ROADS. Adopted.
+   (WW)   APPENDIX E HAZARD CATEGORIES. Adopted.
+   (XX)   APPENDIX F HAZARD RANKING. Adopted.
+   (YY)   APPENDIX G CRYOGENIC FLUIDS - WEIGHT AND VOLUME EQUIVALENTS. Adopted.
+   (ZZ)   APPENDIX H HAZARDOUS MATERIALS MANAGEMENT PLAN (HMIP) AND HAZARDOUS
 MATERIALS INVENTORY STATEMENT (HMIS) INSTRUCTIONS. Adopted.
-   (RR)   APPENDIX I FIRE PROTECTION SYSTEMS - NONCOMPLIANT CONDITIONS.
+   (AAA)   APPENDIX I FIRE PROTECTION SYSTEMS - NONCOMPLIANT CONDITIONS.
 Adopted.
-   (SS)   APPENDIX J BUILDING INFORMATION SIGN. Not adopted.
-   (TT)   APPENDIX K CONSTRUCTION REQUIREMENTS FOR EXISTING AMBULATORY CARE
+   (BBB)   APPENDIX J BUILDING INFORMATION SIGN. Not adopted.
+   (CCC)   APPENDIX K CONSTRUCTION REQUIREMENTS FOR EXISTING AMBULATORY CARE
 FACILITIES. Not adopted.
-   (UU)   APPENDIX L REQUIREMENTS FOR FIRE FIGHTER AIR REPLENISHMENT SYSTEMS.
+   (DDD)   APPENDIX L REQUIREMENTS FOR FIRE FIGHTER AIR REPLENISHMENT SYSTEMS.
 Not adopted.
-   (VV)   APPENDIX M HIGH-RISE BUILDINGS - RETROACTIVE AUTOMATIC SPRINKLER
+   (EEE)   APPENDIX M HIGH-RISE BUILDINGS - RETROACTIVE AUTOMATIC SPRINKLER
 REQUIREMENT. Not adopted.
-   (WW)   APPENDIX N INDOOR TRADE SHOWS AND EXHIBITIONS. Not adopted.
+   (FFF)   APPENDIX N INDOOR TRADE SHOWS AND EXHIBITIONS. Not adopted.
+   (GGG)   APPENDIX O VALET TRASH AND RECYCLING COLLECTION IN GROUP R-
+2 OCCUPANCIES. Not adopted.
 ('80 Code, § 13-18) (Ord. 2657, passed 7-6-94; Ord. O98-17, passed 3- 4-98;
 Ord. O2003-52, passed 10-15-03; Ord. O2014-36, passed 12-17-14; Ord. O2016-020,
 passed 7-20-16; Ord. O2018-055, passed 12-19-18; Ord. O2022-016, passed 5-18-
-22; Ord. O2023-030, passed 9-6-23)
+22; Ord. O2023-030, passed 9-6-23; Ord. O2025- 039, passed 10-1-25)
 § 131-17 Areas Where Certain Materials Are Prohibited.
    (A)   Establishment of limits of districts in which storage of explosives
 and blasting agents is to be prohibited. For volumes exceeding the maximum
@@ -12174,7 +12222,7 @@ Building Advisory Board
 150-008   Building Advisory Board
 Building Code
    
-150-015   Adoption of the 2018 International Building Code
+150-015   Adoption of the 2024 International Building Code
    
 150-016   Amendments
 International Swimming Pool and Spa Code
@@ -12449,53 +12497,47 @@ or designee may require and direct.
 by a court of competent jurisdiction.
 (Ord. O2015-033, passed 7-1-15)
 Building Code
-§ 150-015 Adoption of the 2018 International Building Code.
-   (A)   That certain documents, three copies of which are on file as public
-record in the office of the City Clerk of the City of Yuma, being marked and
-titled as the 2018 International Building Code which was made public record by
-Resolution R2018-029, including Appendices C, I, and J of said building code,
-as amended herein, are hereby adopted by reference and made a part hereof as if
-fully set out herein.
+§ 150-015 Adoption of the 2024 International Building Code.
+   (A)   Certain documents, three copies of which are on file as public record
+in the office of the City Clerk of the City of Yuma,titled the 2024
+International Building Code, including Appendices C, I, J, K, and O, as amended
+herein, are hereby adopted by reference and made a part hereof as if fully set
+out herein.
    (B)   Arizona Revised Statutes, Title 41, Chapter 9, Article 8 (A.R.S. § 41-
 1492 et seq.) is hereby adopted by reference as if set out in full in this
 section.
 (Ord. O98-24, passed 4-15-98; Ord. O2003-49, passed 10-15-03; Ord. O2013-14,
-passed 4-3-13; Ord. O2013-49, passed 9-18-13; Ord. O2018-050, passed 12-5-18)
+passed 4-3-13; Ord. O2013-49, passed 9-18-13; Ord. O2018-050, passed 12-5-18;
+Ord. O2025-033, passed 10-1-25)
 § 150-016 Amendments.
    The following amendments, additions, and deletions are hereby made to the
-2018 International Building Code, as adopted by this subchapter. Paragraph,
-section numbers refer to the International Building Code, 2018 edition
+2024 International Building Code, as adopted by this subchapter. Paragraph,
+section numbers refer to the International Building Code, 2024 edition
 numbering system. Code references not amended in this section shall be enforced
 as published in the reference document.
-   (A)   Section [A] 101.1 Title. "These regulations shall be known as the
-Building Code of the City of Yuma, hereinafter referred to as 'this code.'"
-   (B)   Section [A] 101.4.5 Fire prevention.  "The provisions of the current
-adopted fire code shall apply to matters affecting or relating to structures,
-processes and premises from the hazard of fire and explosion arising from the
-storage, handling, or use of structures, materials or devices; from conditions
-hazardous to life, property or public welfare in the occupancy of structures or
-premises; and from the construction, extension, repair, alteration or removal
-of fire suppression, automatic sprinkler systems and alarm systems or fire
-hazards in the structure or on the premises from occupancy or operation."
-   (C)   Section [A] 103.1 Creation of enforcement agency. "The Department of
+   (A)   Section [A] 101.1 Title.  These regulations shall be known as the
+Building Code of the City of Yuma, hereinafter referred to as 'this code.'
+   (B)   Section [A] 103.1 Creation of enforcement agency. The Department of
 Community Development, Building Safety Division is hereby created and the
-official in charge thereof shall be known as the building official."
-   (D)   Section [A] 104.10.1 Flood hazard areas. Delete section in its
+official in charge thereof shall be known as the building official. The
+function of the agency shall be the implementation, administration and
+enforcement of the provisions of this code.
+   (C)   Section [A] 104.10.1 Flood hazard areas. Delete section in its
 entirety in favor of adopted City floodplain ordinances.
-   (E)   Section [A] 105.2 Work exempt from permit. Add the following
+   (D)   Section [A] 105.2 Work exempt from permit. Add the following
 additional item under the heading, "Building:"
-      14.   "Window replacements of like size where framing is not altered and
+      14.   Window replacements of like size where framing is not altered and
 any required emergency egress dimensions are not diminished from existing, in
 Group R-3 one-and two-family dwellings and installed by either a licensed
-contractor or owner-occupant of the residence."
-   (F)   Section [A] 105.3.2 Time limitation of application. "An application
-for a permit for any proposed work shall be deemed to have been abandoned 180
-days after the date of filing, unless such application has been pursued in good
+contractor or owner-occupant of the residence.
+   (E)   Section [A] 105.3.2 Time limitation of application. An application for
+a permit for any proposed work shall be deemed to have been abandoned 180 days
+after the date of filing, unless such application has been pursued in good
 faith or a permit has been issued; except that the building official is
 authorized to grant one or more extensions of time for additional periods not
 exceeding 180 days each. The extension shall be requested in writing and
-justifiable cause shall be demonstrated."
-   (G)   Section 105.8 Construction Debris. Construction sites shall be kept
+justifiable cause shall be demonstrated.
+   (F)   Section 105.8 Construction Debris. Construction sites shall be kept
 reasonably clean of construction debris during the course of construction.
 Construction debris shall be removed or retained on the lot and not be at risk
 to be displaced from the lot by wind. Debris shall not be allowed to transfer
@@ -12504,20 +12546,21 @@ If the Building Official determines that the construction site is not in
 compliance with this section or the debris presents a safety hazard for
 inspection personnel, inspections shall not be performed until the construction
 site is cleaned.
-   (H)   Section [A] 107.2.2 Fire protection system shop drawings. "Plan
+   (G)   Section [A] 107.2.2 Fire protection system shop drawings. Plan
 submittal documents shall include either a statement of the design criteria for
 the fire protection system(s) to also include a current fire flow test within
 the past 12 months, or the complete design, plans, calculations and data for
-the fire protection system(s). If only the design criteria is initially
-submitted, the complete design, plans, calculations and data for the fire
-protection system(s) shall be submitted to indicate conformance to this code
-and the construction documents and shall be approved prior to the start of
-system installation. In addition, where applicable, shop drawings, calculations
-and data shall be submitted and shall contain all information as required by
-the referenced installation standards in Chapter 9."
-   (I)   Section [A] 107.2.6.1 Design flood elevations. Delete section in its
+the fire protection system(s). If only the statement of design criteria and
+fire flow test is initially submitted, the complete design, plans, calculations
+and data for the fire protection system(s) shall be submitted to indicate
+conformance to this code and the construction documents and shall be approved
+in writing by the Fire Department prior to the start of system installation. In
+addition, where applicable, shop drawings, calculations and data shall be
+submitted and shall contain all information as required by the referenced
+installation standards in Chapter 9.
+   (H)   Section [A] 107.2.6.1 Design flood elevations. Delete section in its
 entirety in favor of adopted City floodplain ordinances.
-   (J)   Section [A] 109.2 Schedule of permit fees.
+   (I)   Section [A] 109.2 Schedule of permit fees. 
 Table 1-A: BUILDING PERMIT FEES
 Schedule of Building Permit Fees
 Total Valuation Fee
@@ -12546,41 +12589,41 @@ $1,000,001 and up      $6,580.00 for the first $1,000,000 plus $4 for each
 Other Inspections and Fees: 
 1. Permit fees for mechanical, plumbing and electrical shall be as indicated
 per applicable fee tables of the respective ordinances.
-2. Inspections outside of normal business hours, $50 per hour* (minimum charge
+2. Inspections outside of normal business hours, $75 per hour* (minimum charge
 - 2 hours)
-3. Reinspection fees of $50 per hour*, for work not ready for inspection.
-4. Inspections on weekends and holidays, $100 per hour* (minimum charge - 2
+3. Reinspection fees of $75 per hour*, for work not ready for inspection.
+4. Inspections on weekends and holidays, $150 per hour* (minimum charge - 2
 hours).
-5. Inspection fees for which no fee is specifically indicated, $50 per hour*
+5. Inspection fees for which no fee is specifically indicated, $75 per hour*
 (minimum charge - one-half hour)
 6. Additional plan review required by changes, additions or revisions to plans,
-$50 per hour*
+$75 per hour*
 (minimum charge - one-half hour)
 7. For use of outside consultant. For plan checking and inspections, or both
 Actual Costs**
 * Or the total hourly cost to the jurisdiction, whichever is the greatest. This
-shall include supervision, hourly wages and fringe benefits of the employee
+shall include supervision, hourly wages and fringe benefits of the employees
 involved.
 ** Actual costs include administrative and overhead costs.
  
-   (K)   "Section [A] 109.2.1 Plan review fees. When submittal documents are
-required by Section [A] 107.1, a plan review fee shall be paid at the time of
-submitting the submittal documents for plan review. Said plan review fee shall
-be 65 percent of the building permit fee as shown in Table 1-A.
+   (J)   [A] 109.2.1 Plan review fees. When submittal documents are required by
+Section [A] 107.1, a plan review fee shall be paid at the time of submitting
+the submittal documents for plan review. Said plan review fee shall be 65
+percent of the building permit fee as shown in Table 1-A.
 The plan review fees specified in this section are separate fees from the
 permit fees specified in Section [A] 109.2 and are in addition to the permit
 fees.
 When submittal documents are incomplete or changed so as to require additional
 plan review, an additional plan review fee shall be charged at the rate shown
-in Table 1-A."
-   (L)   Section [A] 109.4 Work commencing before permit issuance. Add to end
+in Table 1-A.
+   (K)   Section [A] 109.4 Work commencing before permit issuance. Add to end
 of section, "An investigation fee, in addition to the permit fee, shall be
 collected whether or not a permit is then or subsequently issued. The
 investigation fee shall be determined by the building official, based on the
 circumstances, nature, and severity of the infraction. The minimum
 investigation fee shall be $50.00 and the maximum shall be an amount up to the
 same as the fee set forth in Table 1-A."
-   (M)   Section [A] 109.6 Refunds."The building official shall authorize the
+   (L)   Section [A] 109.6 Refunds. The building official shall authorize the
 refunding of fees as follows:
       1.   The full amount of any fee paid hereunder that was erroneously paid
 or collected.
@@ -12591,71 +12634,74 @@ application for a permit for which a plan review fee has been paid is withdrawn
 or canceled before any plan review effort has been expended.
 The building official shall not authorize the refunding of any fee paid except
 upon written application filed by the original permittee not later than 180
-days after the date of fee payment."
-   (N)   Section [A] 110.3.5 Lath and gypsum board inspection. Delete exception
-to section.
-   (O)   Section [A] 110.3.10.1 Flood hazard documentation. "If located in a
+days after the date of fee payment.
+   (M)   Section [A] 110.3.6 Lath and gypsum panel product inspection. Delete
+exception to section.
+   (N)   Section [A] 110.3.12.1 Flood hazard documentation.  If located in a
 flood hazard area, documentation of the elevation of the lowest floor as
 required in adopted City floodplain ordinances shall be submitted to the
 building official and the City floodplain administrator prior to the final
-inspection."
-   (P)   Section [A] 113.1 General. Add to end of section, "The membership of
+inspection.
+   (O)   Section [A] 113.1 General. Add to end of section, "The membership of
 the Building Advisory Board, as prescribed in Section 150-008 of the Yuma City
 Code, will be the Board of Appeals."
-   (Q)   Section [A] 113.3 Qualifications.  Delete section in its entirety.
-   (R)   Section [A] 114.4 Violation penalties."Any person who violates a
+   (P)   Section [A] 113.3 Qualifications.  Delete section in its entirety.
+   (Q)   Section [A] 114.4 Violation penalties. Any person who violates a
 provision of this code or fails to comply with any of the requirements thereof
 or who erects, constructs, alters or repairs a building or structure in
 violation of the approved construction documents or directive of the building
 official, or of a permit or certificate issued under the provisions of this
-code, shall be subject to the penalty and fine described iri this ordinance."
-   (S)   Section [A] 115.3 Unlawful continuance. Amend to read, "Any person who
+code, shall be subject to the penalty and fine described iri this ordinance.
+   (R)   Section [A] 115.4 Failure to comply. Amend to read, Any person who
 shall continue any work after having been served with a stop work order, except
 such work as that person is directed to perform to remove a violation or unsafe
 condition, shall be subject to the penalty and fine described in this
-ordinance."
-   (T)   CHAPTER 11 ACCESSIBILITY. Delete entire text of Chapter 11 and amend
-to read, "Buildings and facilities shall be designed and constructed to be
-accessible in accordance with Arizona Revised Statutes, Title 41, Chapter 9,
-Article 8, Public Accommodations and Services, The Arizonans with Disabilities
-Act, R10-3-401 through R10-3-404, which includes - 28 CFR 35 and 28 CFR 36 and
-Americans with Disabilities Act Accessibility Guidelines for Buildings and
-Facilities (ADAAG)."
-   (U)   Section 1609.3 Basic design wind speed. Add to end of Section, "The
-basic design wind speed, V for all locations in City of Yuma shall be as
-follows:
-      Risk Category I:   93 mph
-      Risk Category II:   99 mph
-      Risk Category III:   106 mph
-      Risk Category IV:   110 mph
-   (V)   SECTION 1612 FLOOD LOADS. Delete section in its entirety in favor of
-adopted City floodplain ordinances."
-   (W)   Section 1613.2.5 Determination of seismic design category. Add to end
-of section, "Regardless of design methodology utilized, all locations in City
-of Yuma shall be classified as Seismic Design Category D."
-   (X)   Section 1611.1 Design rain loads. Add to end of section, "Design
-hourly rainfall for all locations in City of Yuma shall be taken as 2.25 inches
-(56 mm)."
-   (Y)   Section 1705.6 Soils. Amend exception to read:
-      "Exception: Where Section 1803 does not require reporting of materials
-and procedures for fill placement, the special inspector shall verify that the
-in-place dry density of the compacted fill is not less than 90 percent of the
+ordinance.
+   (S)   Section [F] 903.2 Where required. Add to end of section, “Requirements
+in Sections [F] 903.2.1 through [F] 903.2.10 are superseded by the current
+adopted fire code.”
+   (T)   Section 1102.1 Design. Amend to read, “Buildings and facilities shall
+be designed and constructed to be accessible in accordance with Arizona Revised
+Statutes, Title 41, Chapter 9, Article 8, Public Accommodations and Services,
+The Arizonans with Disabilities Act, R10-3-401 through R10-3-404, which
+includes - 28 CFR 35 and 28 CFR 36 and Americans with Disabilities Act
+Accessibility Guidelines for Buildings and Facilities (ADAAG), and this code
+and ICC A117.1.”
+   (U)   Section 1110.10 Elevators. Add to end of section, “Passenger elevators
+shall be utilized as part of an accessible route in new construction to connect
+three or more stories (or levels), other than structures with four or more
+dwelling units.”
+   (V)   Create a new subsection, “1110.10.1 Lula Elevators. Lula (Limited-Use/
+Limited Application) elevators are permitted to be a part of a required
+accessible route in new construction to connect up to two stories (or levels)
+in buildings other than offices of health care providers, governmental
+buildings and multiple tenant facilities containing five or more tenant spaces
+used for the sales or rental of goods and where at least one such tenant space
+is located on a floor level above or below the accessible levels.”
+   (W)   SECTION 1612 FLOOD LOADS. Delete section in its entirety in favor of
+adopted City floodplain ordinances.
+   (X)   Section 1705.6 Soils. Exception: Where Section 1803 does not require
+reporting of materials and procedures for fill placement, the special inspector
+shall verify that the in-place dry density of the compacted fill is not less
+than 90 percent of the maximum dry density at optimum moisture content
+determined in accordance with ASTM D 1557, or not less than 95 percent of the
+maximum dry density at optimum moisture content determined in accordance with
+ASTM D 698 where approved by the building official.
+   (Y)   Section 1804.6 Compacted fill material.  Exception:  Compacted fill
+material 12 inches (305 mm) in depth or less need not comply with an approved
+report, provided the in-place dry density is not less than 90 percent of the
 maximum dry density at optimum moisture content determined in accordance with
 ASTM D 1557, or not less than 95 percent of the maximum dry density at optimum
 moisture content determined in accordance with ASTM D 698 where approved by the
-building official."
-   (Z)   Section 1804.6 Compacted fill material. Amend exception to read:
-      "Exception:  Compacted fill material 12 inches (305 mm) in depth or less
-need not comply with an approved report, provided the in-place dry density is
-not less than 90 percent of the maximum dry density at optimum moisture content
-determined in accordance with ASTM D 1557, or not less than 95 percent of the
-maximum dry density at optimum moisture content determined in accordance with
-ASTM D 698 where approved by the building official. The compaction shall be
-verified by special inspection in accordance with Section 1705.6"
-   (AA)   Section 2304.10.5.1 Fasteners and connectors for preservative-treated
+building official. The compaction shall be verified by special inspection in
+accordance with Section 1705.6.
+   (Z)   Section 1807.2.5.1 Where required. Add to end of section, “Guards may
+be required at other fall hazard conditions where deemed necessary by the
+Building Official.”
+   (AA)   Section 2304.10.6.1 Fasteners and connectors for preservative-treated
 wood. Add second exception to section and renumber accordingly:
-      "2.   Fasteners for preservative-treated wood sill plates to studs in
-areas not normally subjected to high moisture."
+      2.   Fasteners for preservative-treated wood sill plates to studs in
+areas not normally subjected to high moisture.
    (BB)   Section 2512.1.2 Weep screeds. Amend second sentence to read, "The
 weep screed shall be placed a minimum of 4 inches above the earth (102 mm) or
 ¾" (19 mm) above paved areas and be of a type that will allow trapped water to
@@ -12663,20 +12709,23 @@ drain to the exterior of the building."
    (CC)   Section 2902.6 Small Occupancies. Add to end of section, "In other
 than Assembly uses and Educational facilities, drinking fountains are not
 required for an occupant load of 25 or fewer."
-   (DD)   [P] Table 2902.1 Minimum Number of Required Plumbing Fixtures. Add
-second sentence to footnote "f" of table, "In other than Group A and E
-Occupancies, drinking fountains are not required for an occupant load of 25 or
-fewer."
+   (DD)   Section 3302.1 Site safety plan. Amend first sentence to read, “When
+required by the Fire Code Official or the Building Official, the owner or
+owner’s authorized agent shall be responsible for the development,
+implementation and maintenance of an approved, written site safety plan
+establishing a fire prevention program at the project site applicable
+throughout all phases of the construction, repair, alteration or demolition
+work.”
    (EE)   Section 3304.2 Dust Control. Prior to construction, a plan shall be
 submitted to the building official outlining the steps that will be taken
 throughout construction to minimize and control dust associated with the
-project."
+project.
    (FF)   Section J101.1 Scope.  Add to end of section, "The provisions of this
 chapter are intended to be used in conjunction with the provisions set forth in
 City Ordinance No. 1670; and 1836; and O2004-72; and O2005-15; and O2006-38;
 and O2007-78."
    (GG)   Section J103.1 Permits required. Amend by adding Grading Permit Fee
-Table J-l, in accordance with fee provisions of Section [A] 109 Fees:
+Table J-1, in accordance with fee provisions of Section [A] 109 Fees:
 TABLE J-1 - GRADING PERMIT FEES
 Schedule of Grading Permit Fees
 Cubic Yards Fee
@@ -12686,8 +12735,9 @@ Cubic Yards       Fee
 51 to 100         $37.00
 101 to 1,000      $37.00 for the first 100 plus $17.50 for each additional 100
                   cubic yards, over 100 cubic yards, or fraction thereof
-1,001 to 10,000   $194.50 for the first 1,000 plus $14.50 for each additional
-                  1,000 cubic yards, over 1,00 cubic yards, or fraction thereof
+                  $194.50 for the first 1,000 plus $14.50 for each additional
+1,001 to 10,000   1,000 cubic yards, over 1,000 cubic yards, or fraction
+                  thereof
                   $325.00 for the first 10,000 plus $66.00 for each additional
 10,001 to 100,000 10,000 cubic yards, over 10,000 cubic yards, or fraction
                   thereof
@@ -12695,12 +12745,12 @@ Cubic Yards       Fee
 100,001 or more   100,000 cubic yards, over 100,000 cubic yards, or fraction
                   thereof
 Other Inspections and Fees:
-1. Inspections outside of normal business hours, $50 per hour* (minimum charge
+1. Inspections outside of normal business hours, $75 per hour* (minimum charge
 - 2 hours)
-2. Reinspection fees of $50 per hour*, for work not ready for inspection.
-3. Inspection fees for which no fee is specifically indicated, $50 per hour*
+2. Reinspection fees of $75 per hour*, for work not ready for inspection.
+3. Inspection fees for which no fee is specifically indicated, $75 per hour*
 (minimum charge - one-half hour)
-4. Inspections on weekends and holidays, $100 per hour* (minimum charge - 2
+4. Inspections on weekends and holidays, $150 per hour* (minimum charge - 2
 hours).
 5. For use of outside consultant. For inspections, Actual Costs**
 * Or the total hourly cost to the jurisdiction, whichever is the greatest. This
@@ -12708,9 +12758,9 @@ shall include supervision, hourly wages and fringe benefits of the employee
 involved.
 ** Actual costs include administrative and overhead costs.
  
-   (HH)   "Section J104.5 Plan review fees. When submittal documents are
+   (HH)   Section J104.5 Plan review fees. When submittal documents are
 required by Section J104.1, a plan review fee shall be paid at the time of
-submitting the submittal documents for plan review. Said plan review fee shall
+submitting the submittal documents for plan review. The plan review fee shall
 be in accordance with Table J-2 Grading Plan Review Fees.
 The plan review fees specified in this section are separate fees from the
 permit fees specified in Section J103.1 and are in addition to the permit fees.
@@ -12722,7 +12772,7 @@ Schedule of Grading Permit Fees
 Cubic Yards Fee
 Schedule of Grading Permit Fees
 Cubic Yards        Fee
-1 to 50            No fee
+0 to 50            No fee
 51 to 100          $23.50
 101 to 1,000       $37.00
 1,001 to 10,000    $49.25
@@ -12735,24 +12785,26 @@ Cubic Yards        Fee
                    $402.25 for the first 200,000 plus $7.25 for each additional
 200,001 or more    100,000 cubic yards, over 200,000 cubic yards, or fraction
                    thereof
-Schedule of Grading Permit Fees
+ 
+ 
 Other Fees: 
 1. Additional plan review required by changes, additions or revisions to plans,
-$50 per hour* (minimum charge - one-half hour)
+$75 per hour* (minimum charge- one-half hour)
 2. For use of outside consultant. For plan checking, Actual Costs**
 * Or the total hourly cost to the jurisdiction, whichever is the greatest. This
-shall include supervision, hourly wages and fringe benefits of the employee
-involved.
+shall include supervision, hourly wages and
+fringe benefits of the employee involved.
 ** Actual costs include administrative and overhead costs.
  
-   (II)   Section J107.5 Compaction."All fill material shall be compacted to 90
+   (II)   Section J107.5 Compaction. All fill material shall be compacted to 90
 percent of maximum density as determined by ASTM D 1557, Modified Proctor, or
 95 percent of maximum density as determined by ASTM D 698, Standard Proctor
 where approved by the building official, in lifts not exceeding 12 inches (305
-mm) in depth, or as recommended in the certified geotechnical report."
+mm) in depth, or as recommended in the certified geotechnical report.
 (Ord. O98-24, passed 4-15-98; Ord. O2003-49, passed 10-15-03; Ord. O2004-35,
 passed 6-16-04; Ord. O2006-22, passed 3-22-06; Ord. O2010-66, passed 1-5-11;
-Ord. O2013-14, passed 4-3-13; Ord. O2018-050, passed 12- 5-18)
+Ord. O2013-14, passed 4-3-13; Ord. O2018-050, passed 12- 5-18; Ord. O2025-033,
+passed 10-1-25)
 International Swimming Pool and Spa Code
 § 150-018 Adoption of the 2018 International Swimming Pool and Spa Code.
    That certain documents, three copies of which are on file as public record
@@ -22199,11 +22251,11 @@ O2017-026, passed 8-16-2017; Ord. O2023-036, passed 11-15-2023; Ord. O2025-018,
 passed 6-4-2025)
    (D)   Permitted accessory uses.
       (1)   Accessory uses of buildings or structures customarily incident to
-any use permitted by this subchapter such as swimming pools, servant and guest
-quarters without kitchen facilities, private garages, as hereinafter provided,
-or private work shops, provided that none shall be conducted for gain or that
-no accessory buildings shall be inhabited by anyone other than those employed
-by the owner or tenant of the premises, and further provided, that in the event
+any use permitted by this subchapter such as swimming pools, inhabitable
+buildings such as servant and guest quarters without kitchen facilities, and
+pool houses, provided that none shall be conducted for gain or that no
+accessory buildings shall be inhabited by anyone other than those employed by
+the owner or tenant of the premises, and further provided, that in the event
 such accessory structure or building is used in whole or in part for living
 quarters, same shall be set back at least ten feet from the rear lot line of
 any lot;
@@ -22224,7 +22276,7 @@ uses and structures are subject to the criteria specified in §
 ('80 Code, App. A, § 71) (Ord. 583, passed 9-16-1952; Ord. O95-040, passed 9-5-
 1995; Ord. O2000-35, passed 6-21-2000; Ord. O2002-08, passed 2-6-2002; Ord.
 O2002-09, passed 2-20-2002; Ord. O2014-29, passed 10-1-2014; Ord. O2017-013,
-passed 5-3-2017)
+passed 5-3-2017; Ord. O2025-037, passed 10- 1-2025)
    (E)   Conditional uses.
       (1)   Child day care service, large: Day care for six or more children is
 permitted upon compliance with the following:
@@ -25488,27 +25540,27 @@ may be placed on the building wall near the top of the building.
    (E)   Sign examples.
 Illustrative Example 1 - Types of Signs
 Examples of Monument Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7204.jpg]
 Examples of Pedestal Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7206.jpg]
 Examples of Pole Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7208.jpg]
 Example of Other Types of Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7210.jpg]                     [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7212.jpg]
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+ac2f755217b63e89922467e8c0217807df2e08de/IMAGES/0-0-0-7212.jpg]
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7214.jpg]                     [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7216.jpg]
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+ac2f755217b63e89922467e8c0217807df2e08de/IMAGES/0-0-0-7216.jpg]
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7218.jpg]               [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-
+ac2f755217b63e89922467e8c0217807df2e08de/IMAGES/0-0-0-
 7220.jpg]                     [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/IMAGES/0-0-0-7222.jpg]
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+ac2f755217b63e89922467e8c0217807df2e08de/IMAGES/0-0-0-7222.jpg]
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7224.jpg]
 ('80 Code, App. A, § 95) (Ord. 583, passed 9-16-1952; Ord. O95-073, passed 10-
 18-1995; Ord. O96-56, passed 6-5-1996; Ord. O2001-94, passed 11-20-2001; Ord.
@@ -28635,50 +28687,57 @@ Districts.
 incidental to the principal residential use. They must be detached from the
 principal building, occupy less floor area, cover less lot area, and have a use
 that is secondary to the primary structure(s) and use(s) on the property.
-Accessory buildings or structures include storage sheds, workshops, outdoor
-barbeques, outdoor fireplaces, background composting site subject to the
-performance standards noted in §
+Accessory buildings or structures are non-inhabitable structures that include
+garages, storage sheds, workshops, outdoor barbeques, outdoor fireplaces,
+unenclosed (fully open on all sides) shade structures for parking or yard
+shade, background composting site subject to the performance standards noted in
+§
 154-15.18(A) and any other structures as determined by the Zoning
 Administrator. Buildings, structures, and uses may all function as "accessory,"
 subject to the provisions below.
    (B)   Accessory uses. Accessory buildings or structures may be used for home
 occupations in compliance with §
 154-15.08.
-   (C)   Accessory buildings or structures.
-      (1)   Accessory buildings or structures that exceed 200 square feet in
-area or eight feet in height are permitted in residential districts, subject to
-the following standards:
+   (C)   Accessory buildings or structures shall comply with all applicable
+building and fire codes. Utility connections may be permitted.
+   (D)   A three (3) foot clearance on two adjacent sides of the structure
+shall be provided in order to maintain fire and emergency access through the
+property, The three (3) foot separation does not apply to unenclosed (fully
+open on all sides) shade structures.
+   (E)   Accessory buildings or structures may not be located within an
+established easement without written permission from the authorizing agencies.
+   (F)   Accessory buildings or structures. Large, small and unenclosed shade
+structures for parking.
+      (1)   Large accessory buildings or structures that exceed 200 square feet
+in area or exceed nine (9) feet in height are subject to the following
+standards:
          (a)   Use. Accessory buildings or structures shall not be used as a
-dwelling, except where permitted by Zoning District. Plumbing is permitted in
-accessory buildings for a washing machine only.
+dwelling, except where permitted by Zoning District.
          (b)   Setback.
-            1.   Accessory buildings or structures shall be located behind the
-midpoint of the principal building. The leading edge of such buildings,
-including overhangs, shall be setback at least three feet from side and rear
-property lines. An additional one foot setback is required for every additional
-foot in height above eight feet. This provision is applicable within certain
-identified zoning districts regardless of setback illustrations on plats if the
-setbacks illustrated on the plat are the same as the standard setbacks for that
-zoning district. If the setbacks illustrated on the plat are larger than the
-standard setbacks for that zoning district, then the platted setbacks take
-precedence.
-            2.   Accessory buildings in the Agriculture (AG) district shall
-comply with the setback standards required in the district.
-            3.   Accessory buildings or structures shall comply with the street
+            1.   Accessory buildings or structures shall be located at least
+ten (10) feet behind the principal building as measured from the nearest front
+facing corner. The leading edge of such buildings, including overhangs, shall
+be setback at least five (5) feet from side and rear property lines. If the
+structure is unenclosed (fully open on all sides) the side and rear property
+line setback may be reduced to three (3) feet. This provision is applicable
+within certain identified zoning districts regardless of setback illustrations
+on plats if the setbacks illustrated on the plat are the same as the standard
+setbacks for that zoning district. If the setbacks illustrated on the plat are
+larger than the standard setbacks for that zoning district, then the platted
+setbacks take precedence.
+            2.   Accessory buildings or structures constructed using similar
+construction materials to the principal residence may be constructed in line
+with the principal residence.
+            3.   Accessory buildings or structures in the Agriculture (AG)
+district shall comply with the setback standards required in the district.
+            4.   Accessory buildings or structures shall comply with the street
 setback standards required in the applicable zoning district.
-            4.   On a through lot, accessory buildings or structures shall not
-be located closer to the rear property line than the distance required for the
-front yard building setback.
-            5.   Accessory buildings or structures shall comply with all
-applicable building and fire codes.
          (c)   Height. The maximum allowable building height shall be 25 feet
 or the height of the principal building, whichever is less. On lots with
 elevation changes, accessory structures shall not be permitted on lot areas
 where the accessory structure will be higher than the principal structure
-roofline. See Illustration 15-1.
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
-IMAGES/0-0-0-7642.jpg]
-         (d)   Area. Accessory buildings or structures shall comply with lot
+roofline.
+         (d )   Area. Accessory buildings or structures shall comply with lot
 coverage regulations for the applicable zoning district.
          (e)   Compatibility. Accessory buildings or structures shall be
 designed with a logical hierarchy of masses with regard to height, size, and
@@ -28686,72 +28745,61 @@ volume; and use construction materials and colors that are contextually
 appropriate and compatible with the principal building and surrounding
 neighborhood. An accessory building or structure shall not exceed 50% of the
 total square footage of the primary residence.
-      (2)   Accessory buildings or structures that are between 121 square feet
-and 200 square feet in area, and less than eight feet in height are permitted
-in residential districts, subject to the following standards:
+      (2)   Small accessory buildings or structures that are up to 200 square
+feet in area and up tp nine (9) feet in height are subject to the following
+standards:
          (a)   Use. Accessory buildings or structures shall not be used as a
-dwelling, except where permitted by Zoning District. Plumbing is permitted for
-a washing machine only.
+dwelling, except where permitted by Zoning District.
          (b)   Setback.
             1.   Accessory buildings or structures shall not be located in the
 required front yard building setback. The leading edge of such buildings,
-including overhangs, shall be setback at least three feet from side and rear
-property lines. This provision is applicable within certain identified zoning
-districts regardless of setback illustrations on plats.
-            2.   Accessory buildings or structures shall comply with the street
+including overhangs, shall be setback at least one (1) foot from side and rear
+property lines. The one (1) foot setback to the side and rear property lines
+may be reduced to zero feet if all drainage from the building or structure is
+directed tot he subject property. This provision is applicable within certain
+identified zoning districts regardless of setback illustrations on plats.
+            2.   An accessory structure used as a carport shall be setback
+three (3) feet from the side and rear property lines.
+            3.   Accessory buildings or structures shall comply with the street
 setback standards required in the applicable zoning district.
-            3.   On a through lot, accessory buildings or structures shall not
-be located closer to the rear property line than the distance required for the
-front yard building setback.
+            4.   Accessory buildings or structures that are no taller than the
+adjacent fence line may have the street setback standard reduced to one (1)
+foot.
          (c)   Height. The maximum allowable building height shall be less than
-eight (8) feet or the height of the principal building, whichever is less. On
+nine (9) feet or the height of the principal building, whichever is less. On
 lots with elevation changes, accessory structures shall not be permitted on lot
 areas where the structure will be higher than the principal structure roofline.
-         (d)   Area. Accessory buildings or structures shall comply with lot
+         (d)   Area. Accessory buildings or structures shall comply with lot
 coverage regulations for the applicable zoning district.
-      (3)   Accessory buildings or structures that are 120 square feet or less
-in area and less than eight feet in height are permitted in residential
-districts, subject to the following standards:
-         (a)   Use. Accessory buildings or structures shall not be used as a
-dwelling, except where permitted by Zoning District. Plumbing is permitted for
-a washing machine only.
-         (b)   Setback.
-            1.   Accessory buildings or structures shall not be located in the
-required front yard building setback. The leading edge of such buildings,
-including overhangs, can be set along the side and rear property lines. This
-provision is applicable within certain identified zoning districts regardless
-of setback illustrations on plats. A four foot separation between the accessory
-structure and any other structures shall be provided in order to maintain fire
-and emergency access.
-            2.   Accessory buildings or structures shall comply with the street
-setback standards required in the applicable zoning district.
-            3.   On a through lot, accessory buildings or structures shall not
-be located closer to the rear property line than the distance required for the
-front yard building setback.
-         (c)   Height. The maximum allowable building height shall be less than
-eight feet or the height of the principal building, whichever is less. On lots
-with elevation changes, accessory structures shall not be permitted on lot
-areas where the structure will be higher than the principal structure roofline.
-         (d)   Area. Accessory buildings or structures shall comply with lot
-coverage regulations for the applicable zoning district.
-   (D)   Appeals. An applicant may appeal a decision of the Zoning
+      (3)   Unenclosed shade structures for parking located within the front
+yard setback are subject to the following development standards:
+         (a)   The structure shall be permanently affixed to the ground by
+anchoring or slab attachment and supported by piers, columns or support
+elements and shall not be attached to the principal residence;
+         (b)   The structure shall not be enclosed and no wall taller than
+three (3) feet may be constructed between piers, columns or support elements of
+the structure;
+         (c)   The structure shall maintain setback of eight (8) feet from any
+right-of- way line and a minimum setback of three (3) feet from any side or
+rear property line;
+         (d)   The structure shall not exceed twelve (12) feet in height, or
+the maximum height of the primary residential building, whichever is less;
+         (e)   The maximum area for all shade structures within the front yard
+setback shall not exceed 240 square feet;
+         (f)   A paved surface shall be provided under the structure;
+         (g)   The structure may not be used for a home occupation;
+         (h)   The structure may not be used for outdoor storage. All outdoor
+storage shall be located outside the front yard area and screened from the view
+of public rights-of-way by a solid wall or fence; and,
+         (i)   The structure shall remain open on all four sides and never be
+enclosed as a garage or as a living space.
+   (G)   Appeals. An applicant may appeal a decision of the Zoning
 Administrator regarding the compatibility requirement to the Hearing Officer in
 accordance with §
 154-03.02(C).
- 
-Table 15-1- Basic Guidelines for Accessory Buildings and Structures
-Height               Area                      Accessory Structure Setback
-More than 8 feet OR  More than 200 square feet 3 feet + 1 foot for each foot
-                                               over 8 feet in height
-8 feet or less   AND 121 - 200 square feet     3 feet
-8 feet or less   AND 0 - 120 square feet       0 feet
-Structures larger than 200 square feet or 10 feet in wall height require a
-building permit.
-Electrical requires separate permits.
-Additional building requirements may apply.
- 
 (Ord. O2014-29, passed 10-1-2014; Ord. O2017-035, passed 9-20-2017; Ord. O2019-
-001, passed 1-16-2019; Ord. O2020-024, passed 11-4-2020)
+001, passed 1-16-2019; Ord. O2020-024, passed 11-4-2020; Ord. O2025-037, passed
+10-1-2025)
 § 154-15.16 Accessory Dwellings, Carriage Houses and Garage Apartments in
 Residential Districts.
    (A)   Applicability. An accessory dwelling is permitted as a subordinate to
@@ -30013,13 +30061,13 @@ Penalty, see §
 154-999
    (F)   Signage examples. The following are illustrative examples.
 Examples Of Monument Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7228.jpg]
 Examples Of Pedestal Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7230.jpg]
 Examples Of Pole Signs
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7232.jpg]
 ('80 Code, App. A, § 161) (Ord. 583, passed 9-16-1952; Ord. 2193, passed 3-21-
 1984; Ord. 2243, passed 12-19-1984; Ord. O2010-09, passed 2-3-2010; Ord. O2010-
@@ -31178,23 +31226,23 @@ communications services pursuant to the United States Telecommunications Act of
    Illustrative Example 4 - Types of Antennas
  
 [https://export.amlegal.com/media/        [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+ac2f755217b63e89922467e8c0217807df2e08de/ ac2f755217b63e89922467e8c0217807df2e08de/ ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7234.jpg]                    IMAGES/0-0-0-7236.jpg]                    IMAGES/0-0-0-7238.jpg]
 Panel Antenna                             Whip Antenna                              Parabolic Antenna
 Illustrative Example 5 - Use of Existing Vertical Elements Is Encouraged
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7240.jpg]
 Illustrative Example 6 - Use of Existing Building Height and Wall Mounting
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7242.jpg]
 Illustrative Example 7 - Types of Towers
  
 [https://export.amlegal.com/media/        [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/ 0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+ac2f755217b63e89922467e8c0217807df2e08de/ ac2f755217b63e89922467e8c0217807df2e08de/ ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7244.jpg]                    IMAGES/0-0-0-7246.jpg]                    IMAGES/0-0-0-7248.jpg]
 Lattice                                   Guy Wire Not Permitted                    Monopole
 Illustrative Example 8 - Typical Required Screening for Facilities
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7250.jpg]
  
 Table No. 10 - Personal Wireless Communication Facilities Permitted Uses by
@@ -31502,7 +31550,7 @@ overhead utility lines. Accent trees can be used to substitute required street
 or shade trees at a rate of two accent trees for each required street or shade
 tree.
    FIGURE 1: Types of Trees
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7696.png]
          (c)    Distribution and placement.
             1.    Street trees shall be placed at a maximum interval of 35 feet
@@ -31511,14 +31559,14 @@ along all street rights-of-way.
 sidewalk or curb, and when space allows they shall be located in the tree belt
 between the street and the sidewalk.
    FIGURE 2: Street Tree Placement
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7698.png]
             3.   No tree shall be planted closer than four feet from the
 sidewalk or curb or closer than eight feet from any vertical structure or
 subdivision wall to avoid upheaval damage caused by the roots, unless other
 structural soil or stabilization methods are implemented.
    FIGURE 3: Tree Placement to Avoid Upheaval
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7700.png]
             4.   Trees may be clustered; however no tree shall be located
 within 20 feet of another tree.
@@ -31639,7 +31687,7 @@ be calculated regardless of public rights-of-way or setback delineations. In
 residential districts, the streetscape zone is required for all streets
 surrounding a subdivision and any non-residential uses within the subdivision.
    FIGURE 4: Streetscape Zone Examples
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7702.png]
             1.   Trees. Street trees are required to be planted every 35 linear
 feet along the street right-of-way, as measured from the center of the trunk.
@@ -31714,7 +31762,7 @@ count towards the requirements for off-street parking areas shall be clearly
 identified as such on the plan. Required trees may be eliminated for spaces
 located directly under a covered parking canopy.
    FIGURE 5: Parking Lot Design Options
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7704.png]
          (b)    Screening for off- street parking. On the exterior edge of an
 off-street parking lot containing 15 or more spaces, a planting strip not less
@@ -31833,7 +31881,7 @@ Solutions planters
           not apply)
  
    FIGURE 7: Sample Design of Accessible Basin in Residential Zone
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7706.png]
       (5)   Exceptions.
          (a)   Industrial lots larger than two acres. Industrial lots which
@@ -32748,7 +32796,7 @@ Article 20). Spacing of the plants will be based upon natural groupings and the
 growth characteristics of each plant.
 (Ord. O2010-32, passed 7-7-2010; Ord.O2014-16, passed 8-27-2014)
 Cielo Verde Specific Plan
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7638.jpg]
  
 (Ord.O2014-16, passed 8-27-2014)
@@ -36999,7 +37047,7 @@ and trees), an irrigation system of the flood and/or sprinkler type, and
 lighting as specified in approved city standards.
    (K)   Retention basin volume.
  
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7593.jpg]
  
    (L)   A retention basin, to become dedicated to the city, shall be located
@@ -40177,7 +40225,7 @@ a tractor, semitrailer, trailer, bus, motor home or recreational vehicle for
 more than five consecutive minutes on a local or collector street in a
 residential zone. Residential deliveries are exempt from the parking time
 limitation if the delivery vehicle is being loaded or unloaded.
-[https://export.amlegal.com/media/0ca3a3784f537e01b0938c3e4c63d1f0c2929f76/
+[https://export.amlegal.com/media/ac2f755217b63e89922467e8c0217807df2e08de/
 IMAGES/0-0-0-7724.jpg]
  
    (B)    Moving vans, motor homes and recreational vehicles shall be exempt
@@ -43689,17 +43737,23 @@ O2025-020 6-4-25      154-01.07,
                       154-14.07
 O2025-022 7-2-25      31-01
 O2025-028 8-6-25      134-05
+O2025-033 10-1-25     150-015,
+                      150-016
 O2025-034 9-17-25     150-180,
                       150-181
 O2025-035 9-17-25     150-170,
                       150-171
 O2025-036 9-17-25     150-090,
                       150-091
-O2025-036 9-17-25     150-090,
-                      150-091
+O2025-037 10-1-25     154-05.04,
+                      154-15.15
                       154-01.07,
 O2025-038 11-5-25     154-09.02,
                       154-09.03
+O2025-039 10-1-25     131-15,
+                      131-16
+O2025-046 11-19-25    196-01 -
+                      196-13
                      
  
  
