@@ -2344,6 +2344,10 @@ Adopting Ordinance                    606.165, 606.24, 612.21, 612.24, 624.01,
 Adopting Ordinance Repeals            624.02
 17-25                      9-8-25      1480.02
 18-25                      9-8-25      218.08
+20-25                      10-20-25    Ch. 1216, Appendix A, Art. 9, 9.05, Art.
+                                       11, 11.02
+21-25                      10-20-25    850.01
+22-25                      10-20-25    232.07
                                       
  
  
@@ -7322,9 +7326,9 @@ duties as may be required.
 (Ord. 41-76. Passed 8-16-76; Ord. 26-24. Passed 11-18-24.)
 232.07   DESIGNATION OF SMOKING AREAS.
    The Manager is hereby designated as the administrative person charged with
-the duty of designating the no-smoking areas in the public' buildings of the
-City.
-(Res. 36-76. Passed 9-13-76.)
+the duty of designating the no-smoking areas in the public buildings, public
+open space, and public areas of the City.
+(Res. 36-76. Passed 9-13-76; Ord. 22-25. Passed 10-20-25.)
 CHAPTER 234
 Department of Finance
 234.01   General responsibilities of Finance Director and Manager; composition
@@ -35265,6 +35269,8 @@ Chap. 844.   Mobile Food Vehicle Vendors.
 Chap. 846.   Short-term Rentals.
          
 Chap. 848.   Adult Use Cannabis.
+         
+Chap. 850.   Medical Marijuana.
       TITLE FOUR - Taxation
          
 Chap. 870.   Hotel-Motel Tax.
@@ -35295,6 +35301,8 @@ Chap. 842.   Competitive Video Service Authorizations.
 Chap. 844.   Mobile Food Vehicle Vendors.
          
 Chap. 846.   Short-term Rentals.
+         
+Chap. 850.   Medical Marijuana.
 CHAPTER 808
 Circuses and Carnivals
 808.01   Definitions.
@@ -36897,6 +36905,14 @@ shall be construed in a manner that gives maximum effect to that intent.
    (c)   All terms used in this section shall be defined in the same manner as
 R.C. Chapter 3780 as it pertains to adult use cannabis.
 (Ord. 08-25. Passed 3-17-25.)
+CHAPTER 850
+Medical Marijuana
+850.01   Medical marijuana cultivators and processors prohibited.
+850.01   MEDICAL MARIJUANA CULTIVATORS AND PROCESSORS PROHIBITED.
+   Medical marijuana cultivators and processors are hereby prohibited from
+operating within the City of Centerville. No provision of the Municipal Code
+shall be construed to permit such operations.
+(Ord. 21-25. Passed 10-20-25.)
 TITLE FOUR - Taxation
          
 Chap. 870.   Hotel-Motel Tax.
@@ -49655,10 +49671,10 @@ nuts shall comply with the International Building Code.
       (3)   Section A103 Installation.
 A103.1 Boarding installation. The boarding installation shall be in accordance
 with Figures A103.1(1) and A103.1(2) and Sections A103.2 through A103.5.
-[https://export.amlegal.com/media/6a5d313f37aa2814ff37e1acf0249e791701e689/
+[https://export.amlegal.com/media/d9439bf460acee123b50c335bc0d5d6b44d72785/
 IMAGES/0-0-0-3052.png]
  
-[https://export.amlegal.com/media/6a5d313f37aa2814ff37e1acf0249e791701e689/
+[https://export.amlegal.com/media/d9439bf460acee123b50c335bc0d5d6b44d72785/
 IMAGES/0-0-0-3054.png]
  
 A103.2 Boarding sheet material. The boarding sheet material shall be cut to fit
@@ -51171,7 +51187,7 @@ approval or disapproval of any equipment authorized herein.
 provided.)
 CENTERVILLE, OHIO
 UNIFIED DEVELOPMENT ORDINANCE
-Current through Ord. 15-25, passed August 18, 2025
+Current through Ord. 20-25, passed October 20, 2025
  
 Published by:
 American Legal Publishing
@@ -51196,6 +51212,7 @@ September 13, 2021 (Ord. 09-21)                 January 24, 2022 (Ord. 03-22)
 October 17, 2022 (Ord. 20-22)                   September 11, 2023 (Ord. 09-23)
 April 15, 2024 (Ord. 08-24)                     August 12, 2024 (Ord. 16-24)
 November 18, 2024 (Ord. 26-24)                  August 18, 2025 (Ord. 15-25)
+October 20, 2025 (Ord. 20-25)                    
                                                 
  
 Mayor and City Council
@@ -53892,7 +53909,7 @@ each side of such street, alley or public way shall be automatically extended
 to the center of such vacation, and all area included in the vacation shall
 then and henceforth be subject to all appropriate regulations of the extended
 district or districts.
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-221.png]
  
 7.05   Agricultural District
@@ -54770,6 +54787,8 @@ Commercial Use
                                                                                                                                               (Maj) (Maj)
    Driving Range                                               -     -     -      -     -     -     -     -     -     -     -     -        P     P     -      -     -
                                                                                                                                               (Maj) (Maj)
+   Medical Marijuana Dispensary                                -     -     -      -     -     -     -     -     -     -     -     -        C     C     -      -     -
+                                                                                                                                              (Maj) (Maj)
    Music Stores                                                -     -     -      -     -     -     -     -     -     -     -     P (Maj)  P     P     -      -     P (Maj)
                                                                                                                                               (Maj) (Maj)
    Night Clubs                                                 -     -     -      -     -     -     -     -     -     -     -     -        P     P     -      -     -
@@ -54991,7 +55010,7 @@ of 2 pumps that are located in the side or rear yard only.
 district in which it is located.
    11   A Heliport shall be set back a minimum of 100 feet from any property
 line.
-(Ord. 09-23)
+(Ord. 09-23; 20-25)
 9.07   Overlay Zoning District Standards
    A.   Mixed Use
       1.   Purpose
@@ -56213,63 +56232,63 @@ Conservation; NR, Neighborhood Residential; NC, Neighborhood Center; CC,
 Community Center; CB, Corporate Business; and DT, Downtown Districts. (Ord. 07-
 18; 09-21)
 Table 9.3
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-414.png]
  
 Exhibit 9.0
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-376.png]
  
 Exhibit 9.1
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-378.png]
  
 Exhibit 9.2
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-380.png]
  
 Exhibit 9.3
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-382.png]
  
 Exhibit 9.4
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-384.png]
  
 Exhibit 9.5
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-386.png]
  
 Exhibit 9.6
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-388.png]
  
 Exhibit 9.7
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-390.png]
  
 Exhibit 9.8
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-392.png]
  
 Exhibit 9.9
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-394.png]
  
 Exhibit 9.10
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-418.png]
  
 Exhibit 9.11
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-396.png]
  
 Exhibit 9.12
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-398.png]
  
 Exhibit 9.13
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-400.png]
  
    G.   Street Standards
@@ -56287,31 +56306,31 @@ District classification. These standards apply to development in the RC,
 Residential Conservation, NR, Neighborhood Residential; NC, Neighborhood
 Center; CC, Community Center; and CB, Corporate Business Districts.
 Table 9.4
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-416.png]
  
 Exhibit 9.14
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-402.png]
  
 Exhibit 9.15
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-404.png]
  
 Exhibit 9.16
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-406.png]
  
 Exhibit 9.17
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-408.png]
  
 Exhibit 9.18
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-410.png]
  
 Exhibit 9.19
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-412.png]
  
 Part 2: Subdivision
@@ -56855,30 +56874,30 @@ or aggregates are placed in base courses.
       10.   No work shall be accepted or bonds released unless these
 inspections have been made and the work is found to be satisfactory.
 Appendix A
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-420.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-422.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-424.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-426.png]
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-428.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-430.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-432.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-434.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-436.png]
 Part 3: Site Design and Improvement Standards
 9.19   Purpose
@@ -57075,7 +57094,7 @@ area would otherwise be paved are considered to be within the parking lot and
 may be included as a part of the required landscaping. See
 Figure 9.1.
 Figure 9.1: Calculation of Interior Parking Lot Landscaping
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-438.png]
  
          d.    Required parking or paving setbacks, screening, bufferyard, or
@@ -57386,7 +57405,7 @@ aisle may be reduced for a vehicle inventory lot, as defined by this ordinance.
             ii.   The City Planner or his designee shall approve the design of
 a vehicle inventory lot.
 Figure 9.2: Parking Stall and Aisle Width Requirem ents
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-440.png]
 Legend
    A-Parking Angle               TW2-Total Width of Two Stalls with a One-Way
@@ -57442,7 +57461,7 @@ embankment, wall, fence or other structure.
             iv.   A sidewalk may be used as a curb or wheel stop providing said
 sidewalk is a minimum of 6.5 feet in width. (Ord. 18-13)
 Figure 9.3: Wheel Stops and Sidewalk Illustration
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-442.png]
  
       4.    Drainage
@@ -57592,19 +57611,19 @@ accommodate a bicycle with a three (3)-foot handlebar width, a height of four
 of six (6) feet from the front of the front wheel to the back of the rear
 wheel.
 Table 9-8: Minimum Number of Parking Spaces Required
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-452.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-450.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-448.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-446.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-444.png]
    1   One (1) additional guest parking space shall be required within 150 feet
 of a dwelling unit where a street in front of the dwelling unit is less than 24
@@ -57657,10 +57676,10 @@ satisfy any requirement of this ordinance for off-street parking spaces.
       The minimum number of loading spaces required per use is shown in Table
 9.9.
 TABLE 9-9: Minimum Number of Loading Spaces Required
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-456.png]
  
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-454.png]
  
 9.31   Access Control for Streets and Highways
@@ -57702,14 +57721,14 @@ in Table 9.10. This distance shall be measured from the point formed by the
 intersection of extended curb lines of each driveway or street.
 Table 9.10   Minimum Driveway Spacing
 Driveway Spacing                    [https://export.amlegal.com/media/
-Posted Speed (MPH) Minimum Distance 384b9417cf36a997b02e8a7bf04a51495447f9a1/
+Posted Speed (MPH) Minimum Distance 8241ea820574b699af47216099aaefc135266bdf/
                    Feet Meters      IMAGES/0-0-0-458.png]
 Driveway Spacing
 Posted Speed (MPH) Minimum Distance
                    Feet Meters
 25                 155  50
 30                 200  65          [https://export.amlegal.com/media/
-35                 250  80          384b9417cf36a997b02e8a7bf04a51495447f9a1/
+35                 250  80          8241ea820574b699af47216099aaefc135266bdf/
 40                 305  95          IMAGES/0-0-0-458.png]
 45                 360  110
 50                 425  130
@@ -57760,7 +57779,7 @@ grade of 2 percent, for a distance of 70 feet, for each leg of the
 intersection. This distance shall be measured from the edge of pavement of the
 cross-street back a distance 70 feet as shown in Figure 9.4.
 Figure 9.4: Grade at Intersection
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-466.png]
  
          b.    Single-family and two-family residential uses shall have a
@@ -57784,11 +57803,11 @@ valleys that can obstruct the visibility of a motorist. Reference A Policy on
 Geometric Design of Highways and Streets (American Association of State Highway
 and Transportation Officials).
 Figure 9.5     Horizontal Intersection Sight Distance
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-464.png]
  
 Figure 9.6     Vertical Intersection Sight Distance
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-462.png]
       10.   Median Openings
       Openings to non-mountable medians with a width of 4 feet or greater shall
@@ -57804,7 +57823,7 @@ corner property.
 corner properties where access can be gained by way of the cross-street, except
 as noted below (See Figure 9.7).
 Figure 9.7    Median Openings
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-460.png]
  
             iii.   A median opening may be permitted to a corner property only
@@ -58273,7 +58292,7 @@ seasons and favorable weather and with suitable soil conditions.
          g.   Lawns and ground cover shall be watered, replanted and maintained
 as necessary until possession is taken by the owner.
 Figure 9.8   Lot Grading Plan
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-470.png]
  
    F.   Storm Water Runoff Control Standards (Ord. 7-18)
@@ -58424,7 +58443,7 @@ traps in all inlets. Sediment traps shall be designed to permit periodic
 cleaning and maintenance. A basin maintenance plan shall be developed to insure
 that the design depths of the basin will remain over time.
 Figure 9.9    Lot Stormwater Drainage Plan
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-468.png]
  
          h.    Building regulations.
@@ -61437,11 +61456,11 @@ be landscaped.
 may be constructed. Plans for all signs including location, fences, walls or
 earth mounds and landscaping shall be submitted for approval.
 Figure 9.10: Example Neighborhood Ground Sign
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-474.png]
  
 Figure 9.11: Example Site Plan for a Neighborhood Ground Sign
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-472.png]
  
          c.    Wall Signs: Only 1 wall sign shall be permitted on each dwelling
@@ -61546,7 +61565,7 @@ message for a single-color EMC. All measurements shall be taken as close as
 practical to a perpendicular plane with the sign at a distance in accordance
 with the following formula:
                      Measurement Distance = [https://export.amlegal.com/media/
-384b9417cf36a997b02e8a7bf04a51495447f9a1/IMAGES/0-0-0-344.png]
+8241ea820574b699af47216099aaefc135266bdf/IMAGES/0-0-0-344.png]
  
                   The difference between the off and solid-measurements shall
 not exceed 0.3 Footcandles at night.
@@ -62043,7 +62062,7 @@ include recesses, arcades, courtyards, vertical offsets, and horizontal
 offsets. See Figure 9.12.
 Figure 9.12: Articulation of Building Mass and Bulk by the Use of Offsets and
 Recesses
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-478.png]
  
                2)   Spaces that are carved out of a mass, and/or multiple
@@ -62063,7 +62082,7 @@ divided into bays through the use of columns, projecting ribs, offsets or
 reveals. See
 Figure 9.13.
 Figure 9.13: Treatment of Wall Greater than 50 Feet in Length
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-476.png]
  
             iv .    Wall Openings (Doors and Windows)
@@ -63321,7 +63340,7 @@ installed within the bufferyard.
 Buildable Area - The portion of a lot remaining after required yards have been
 provided. See Figure 11.0.
 Figure 11.0 Buildable Area
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-482.png]
  
 Building - A structure designed for the support, enclosure, shelter, or
@@ -63348,7 +63367,7 @@ for signage calculation purposes. (Ord. 18-13)
 Building Height - The vertical distance measured from the grade plane to the
 average height of the highest roof surface.
 Figure 11.1 Building Height
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-480.png]
  
 Building Mass - The aggregate size of a building measured by calculating the
@@ -64065,7 +64084,7 @@ Figure 11.2.
 Lot, Interior - An interior lot is defined as a lot other than a corner lot
 with only 1 frontage on a See Figure 11.2.
 Figure 11.2 Lot
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-484.png]
  
 Lot, Reversed Frontage - A lot which is not accessible from 1 of the parallel
@@ -64144,6 +64163,13 @@ Media Production - A facility or establishment whose primary function is the
 production and creation of media of various forms.
 Median - A strip of land, centered in a roadway that is used to separate
 vehicular traffic traveling in opposite directions.
+Medical marijuana - Marijuana that is cultivated, processed, dispensed, tested,
+possessed, or used for medical purpose as set forth in R.C. Chapter 3796. (Ord.
+20-25)
+Medical Marijuana Dispensary - Any entity that has been issued a license by the
+Ohio Department of Commerce for the dispensing of medical marijuana for retail
+sale to qualifying patients and caregivers as authorized by R.C. Chapter 3796.
+(Ord. 20-25)
 Miniature Golf - An area for the purpose of putting golf balls through a
 miniature course usually containing obstacles. A miniature golf course may be
 illuminated after dark.
@@ -64664,7 +64690,7 @@ which account for five percent or less of the total sign area as measured
 herein shall not be included in the calculated sign area. See Figure 11.3
 below. (Ord.18- 16)
 Figure 11.3: Measuring Sign Area
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-486.png]
  
 Sign Face - The largest portion, in square feet, of a sign's area that is
@@ -65115,7 +65141,7 @@ area of a lot that is farthest from the street intersection whose limits are
 established by the extension of building line of the principal building to the
 side lot lines. See Figure 11.4.
 Figure 11.4: Yard
-[https://export.amlegal.com/media/384b9417cf36a997b02e8a7bf04a51495447f9a1/
+[https://export.amlegal.com/media/8241ea820574b699af47216099aaefc135266bdf/
 IMAGES/0-0-0-488.png]
  
 Yard, Required - The open space betwee n a lot line and the buildab le area
