@@ -6450,7 +6450,7 @@ SECTION:
 8-6K-11: Fees
 8-6K-12: Enforcement, Prohibitions, and Penalties
 8-6K-13: Severability
-8-6H-1:   PURPOSE:
+8-6K-1: PURPOSE:
 The purpose of this chapter is to provide for a voluntary process through which
 agricultural and timber producers of Twin Falls County may make application to
 commit lands actively devoted to agriculture for future agricultural use. An
@@ -6458,7 +6458,7 @@ Agricultural Protection Area (“APA”) designation aims to protect productive
 farmland, rangeland, and forest land; encourage best farming practices; support
 the local agricultural economy; and provide for long-term planning stability.
 (Ord. 290, 8-13-2025)
-8-6K-2:   DEFINITIONS:
+8-6K-2: DEFINITIONS:
 AGRICULTURE PRODUCTION: Activities or conditions conducted on land actively
 devoted to agriculture as defined in section 63-604, Idaho Code, or on forest
 land as defined in section 63-1701, Idaho Code.
@@ -6497,7 +6497,7 @@ protection area commission from a landowner regarding his property.
 SUBDIVISION: The result of an act of dividing an original lot, tract or parcel
 of land into more than three (3) parts for the purpose of transfer of ownership
 or development. (Ord. 290, 8-13-2025)
-8-6K-3:   CREATION AND DESIGNATION OF APA:
+8-6K-3: CREATION AND DESIGNATION OF APA:
 An Agriculture Protection Area shall be designated as an “APA.” An APA
 designation is a voluntary land use designation available to landowners who
 wish to protect their agricultural land from future nonagricultural
@@ -6511,7 +6511,7 @@ forestland;
    E.   Without any CAFOs sited on the parcel(s);
    F.   Not part of any commercial or residential subdivision. (Ord. 290, 8-13-
 2025)
-8-6K-4:   CREATION OF AGRICULTURAL PROTECTION AREA COMMISSION:
+8-6K-4: CREATION OF AGRICULTURAL PROTECTION AREA COMMISSION:
 Pursuant to Idaho Code § 67-9705 and the provisions of this Chapter, the Twin
 Falls Board of County Commissioners (Board) hereby establishes the APA
 commission subject to the following requirements:
@@ -6530,7 +6530,7 @@ expiration of terms, by reason of death, resignation, disqualification,
 removal, or inability to act by any APAC member, shall be filled for the
 unexpired portion of the term by a new member appointment by the Board. (Ord.
 290, 8-13-2025)
-8-6K-5:   DUTIES OF THE AGRICULTURAL PROTECTION AREA COMMISSION:
+8-6K-5: DUTIES OF THE AGRICULTURAL PROTECTION AREA COMMISSION:
 The APA commission duties shall include the following:
    A.   The APAC shall provide for meetings and hearing to obtain advice on the
 agricultural needs of the county. The APAC may also conduct informal meetings
@@ -6559,7 +6559,7 @@ will be made to the Board, staff shall submit the following: minutes of the
 meeting, a written report citing the criteria considered relevant, state the
 facts relied upon, and the justification for the recommendation of the APAC.
 (Ord. 290, 8-13-2025)
-8-6K-6:   APPLICATION:
+8-6K-6: APPLICATION:
 Landowners wishing to establish an APA must submit an application with the
 required fees to the Twin Falls County Community Development Services
 Department. At a minimum, the application shall include the following:
@@ -6590,7 +6590,7 @@ of the land within the proposed APA,
    J.   Provide information regarding proximity to the following: planned
 airport expansion or development, planned transportation corridors or future
 public right of ways. (Ord. 290, 8-13-2025)
-8-6K-7:   REVIEW PROCESS:
+8-6K-7: REVIEW PROCESS:
    A.   Upon receipt of a completed application, the APAC shall review the
 proposal and make a recommendation to the Board within sixty (60) days of
 receiving the completed application. The application shall be evaluated on the
@@ -6632,7 +6632,7 @@ written decision or findings of fact by the APAC and Board. Such document shall
 be recorded with the county recorder within ten (10) days;
       2.   Amend the county map to reflect the boundaries of the APA. (Ord.
 290, 8-13-2025)
-8-6K-8:   RENEWAL OF APA:
+8-6K-8: RENEWAL OF APA:
 Lands designated as an APA will remain so designated for a period of twenty
 (20) years. If the landowner wishes to continue with the agricultural
 protection area, no action on the part of the landowner is necessary. The Board
@@ -6643,12 +6643,12 @@ APA, and the written decision of the Board for renewal within ten (10) days.
 Failure of the landowner to notify the county, or failure of the county to
 review the APA terms, will result in the APA designation continuing for another
 twenty (20) years. (Ord. 290, 8-13-2025)
-8-6K-9:   EXPANSION OR MODIFICATION OF APA:
+8-6K-9: EXPANSION OR MODIFICATION OF APA:
 Any expansion or modification of an existing APA shall follow the same
 application, review, and hearing procedures outlined in this chapter. Any
 expansion of an APA shall be contiguous to the existing APA. (Ord. 290, 8-13-
 2025)
-8-6K-10:   REMOVAL OR TERMINATION OF AN APA:
+8-6K-10: REMOVAL OR TERMINATION OF AN APA:
 Lands designated as an APA will remain so designated for a period of twenty
 (20) years. A land owner wishing to terminate an APA designation must notify
 the Board in writing of their desire to terminate the APA designation at least
@@ -6658,11 +6658,11 @@ defined in this code. The landowner seeking to terminate an APA bears the
 burden of proof in demonstrating the hardship. Early termination of an APA is
 not taken lightly, and will be carefully considered by the Board. (Ord. 290, 8-
 13-2025)
-8-6K-11:   FEES:
+8-6K-11: FEES:
 The applicant shall upon filing the application with the Zoning Administrator
 pay an application fee as determined by the Board of County Commissioners, and
 posted in the office of the Zoning Administrator. (Ord. 290, 8-13-2025)
-8-6K-12:   ENFORCEMENT, PROHIBITIONS, AND PENALTIES:
+8-6K-12: ENFORCEMENT, PROHIBITIONS, AND PENALTIES:
 Unless otherwise approved by the Board, the following land uses are not allowed
 within an APA:
    A.   Small or large confined animal feeing operation (CAFO);
@@ -6672,7 +6672,7 @@ Industrial zoning districts.
    C.   Agri-solar, battery storage structures, wind energy, solar energy, or
 any Small and Large Energy Projects
    D.   Any other nonagricultural land uses. (Ord. 290, 8-13-2025)
-8-6K-13:   SEVERABILITY:
+8-6K-13: SEVERABILITY:
 If any section, subsection, sentence, clause, or phrase of this title is held
 to be invalid by any court of competent jurisdiction, such decision shall not
 affect the validity of the remaining portions of this title and they shall
