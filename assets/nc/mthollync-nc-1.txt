@@ -18556,9 +18556,8 @@ TA-25-12  10-13-2025  153.088
  
 MOUNT HOLLY, NORTH CAROLINA
 ZONING CODE
-2025 S-1 Supplement contains:
-Local legislation current through Ord. -, passed 9-8-2025, and
-State legislation current through
+2025 S-2 Supplement contains:
+Local legislation current through Ord. -, passed 10-13-2025
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -18842,7 +18841,7 @@ property, located within the city limits, first requires the application and
 issuance of a zoning compliance permit through the City of Mount Holly Planning
 Department and possibly the application and issuance of a building permit
 through the Gaston County Building Inspections Department
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-496.png]
  
    (C)   Accessory buildings and structures shall not be erected in either
@@ -23473,7 +23472,7 @@ Dwelling, townhome                                           5,                 
                                                              39
 Family care home (6 or less)                                 2    X  X  X  X  X  X   X  X    X
 Family day-care home (5 or less)                             2    S  S  S  S  S  S   S  S    X
-Home occupation                                              3    S  S  S  S  S  S   S  S    X
+Home occupation                                              3    X  X  X  X  X  X   X  X    X
 Mobile home, Class “A”                                   4                X  X
 Mobile home, Class “B” (#, see Manufactured Home Overlay         #     #  #  #   #  #
 District)
@@ -23486,7 +23485,8 @@ Swimming pools, accessory                                    7    X  X  X  X  X 
 Yard sales (no more than 1 per every three months; 4 per     23   X  X  X  X  X  X   X  X    X   X
 year)
  
-(Ord. passed 5-13-1996; Ord. passed - -2024; Ord. passed 4-14-2025)
+(Ord. passed 5-13-1996; Ord. passed - -2024; Ord. passed 4-14-2025; Ord. passed
+9-8-2025)
 § 6.2 RECREATIONAL USES.
  
 Use Types      Note R-A R-20 R-12 R-10 R-   R-  RD MHMU O&I B-1 B-2 B-3 L-I H-I
@@ -24327,12 +24327,13 @@ Oriented Business Overlay District, §                                          
 5.16)
 Agricultural production (crops)              X  X  X  X  X   X   X                 X  X  X
 Agricultural production (livestock)          X  X                                     X  X
-Coexisting                                                               S   S  S  S
+Coexisting                              25                               X/S X/ X/ X/
+                                                                             S  S  S
 Forestry                                     X  X  X  X  X   X                     X  X  X
 Horticultural specialties                    X  X                                  X  X  X
 Private greenhouses                          X  X  X  X  X   X   X  X    X   X  X  X  X
  
-(Ord. passed 5-13-1996)
+(Ord. passed 5-13-1996; Ord. passed 10-13-2025)
 CHAPTER 7: SPECIAL REQUIREMENT NOTES TO THE TABLE OF PERMITTED AND SPECIAL USES
 Section
    
@@ -24367,30 +24368,75 @@ of Health and Human Services Division of Facility Services before operating.
 Additionally, a family day care home must be licensed with the proper state
 authorities, if applicable, before operating.
    Note 3, Home Occupation.
-   A home occupation shall be operated in conformance with the following
-standards.
-   (A)   No person other than members of the immediate family occupying such
-dwelling shall be employed.
-   (B)   No stock in trade (except articles produced by the members of the
+   (A)   General. A home occupation is an accessory use that allows the
+operation of selected businesses within a residence, which requires the
+issuance of a home occupations permit. Home occupations are permitted in
+residential zoning districts after applications are processed, deemed complete,
+and are approved by staff, after all inspections are completed. The application
+process will be administered by the Mount Holly Planning Department which
+requires the applicant to submit a home occupation permit for consideration to
+staff, with the fee of payment of $50. Along with the application, and the fee,
+a simple site plan would also be required. The site plan would highlight all
+plan elements, including parking that are associated with the proposed home
+occupation. Once the application is deemed complete and the fee received, staff
+will review the application packet. When the application packet meets the
+standards that the City has outlined below in division (B) of this note, then
+the permit will be issued. Staff may conduct inspections to verify the veracity
+of the information presented on the application.
+   (B)   Requirements. Home occupations must meet the standards listed below
+before a permit is issued, and follow these requirements during the entirety of
+the operation of the home-based business. Again, staff may do in-person
+inspections during the application process to determine whether all
+requirements are met. Once all standards met, and the fee is paid the permit
+shall be issued.
+      (1)   No person other than members of the immediate family occupying such
+dwelling shall be employed, and no one who does not reside in the home full
+time shall be employed by the home occupation, or report to the home occupation
+for work.
+      (2)   No stock in trade (except articles produced by the members of the
 immediate family residing on the premises) shall be displayed or sold upon the
 premises.
-   (C)   No alteration of the principal building shall be made which changes
+      (3)   No alteration of the principal building shall be made which changes
 the character thereof as a dwelling.
-   (D)   No more than 25% of the area of the dwelling shall be devoted to any
-home occupation.
-   (E)   The home occupation shall be conducted entirely within the principal
-building that is used as the residential dwelling.
-   (F)   No chemical, mechanical or electrical equipment that creates odors,
+      (4)   No more than 25% of the area of the dwelling shall be devoted to
+any home occupation.
+      (5)   The home occupation shall be conducted entirely within the
+principal building that is used as the residential dwelling. Home occupation
+shall not be operated out of an accessory building, ADU, or commercial vehicle.
+Commercial vehicles cannot be associated with the home occupation or stored on
+the property.
+      (6)   No chemical, mechanical or electrical equipment that creates odors,
 light emissions, noises or interference in radio or television reception
 detectable outside the dwelling shall be permitted.
-   (G)   Only vehicles used primarily as passenger vehicles (e.g., automobiles,
-vans, pick-up trucks) shall be permitted in connection with the conduct of the
-home occupation.
-   (H)   Only one visitor or patron shall be permitted at one time with no on-
-street parking.
-   (I)   No outdoor storage shall be permitted.
-   (J)   No home occupation shall be operated in such a manner as to cause a
-visual, audible, sensory or physical nuisance.
+      (7)   Only vehicles used primarily as passenger vehicles (e.g.,
+automobiles, vans, pick-up trucks) shall be permitted in connection with the
+conduct of the home occupation.
+      (8)   Only one visitor or patron shall be permitted at one time with no
+on-street parking. All parking shall be provided entirely by the lot of the
+principal building that is used as the residential dwelling. Home occupations
+cannot use neighbor or public parking for their business.
+      (9)   No outdoor storage shall be permitted.
+      (10)   No home occupation shall be operated in such a manner as to cause
+a visual, audible, sensory or physical nuisance.
+   (C)   Violations and revocation of permit. A violation of the approved home
+occupation permit could occur by not following all requirements found in
+division (B) of this note. If a violation is reported or suspected, it will be
+investigated, if the violation is confirmed, then a violation letter will be
+sent through regular mail, and/or posted on the property to the registered
+owner(s) that is listed on the Gaston County GIS website. If three violations
+are substantiated by the staff against a permit holder, then the permit will be
+revoked and the business will have to cease operations. If the home occupation
+does not cease operation as ordered to, then the city may issue fines up to $50
+per day until the home occupation ceases. Staff also has the right to revoke an
+issued home occupation permit, if the structure or property associated with the
+home occupation is determined to be a public nuisance, as outlined in the
+city’s Code of Ordinances. In both cases, city staff will send a letter to the
+owner(s) of record if a permit has been revoked. Once a permit has been
+revoked, regardless of the reason, no new home occupation shall be established
+until such time as the property is sold to a new owner. As a note, a change in
+ownership, type of business, etc. would require the new property owner or/and
+business to reach out to staff, and a new permit application would need to be
+applied for, paid for, reviewed, and issued by city staff.
    Note 4, Class A and Class B Mobile Homes.
    (A)   Class B mobile homes shall comply with the following minimum
 standards:
@@ -24878,7 +24924,7 @@ architectural designs, scale, color and texture.
          (b)   If the concealed (stealth) tower is designed as a faux tree, all
 antennas arrays and at least a third of the pole must be completely covered by
 faux limbs and foliage.
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-463.png]
  
       (2)   Review and decision authority. The decision authority and review
@@ -25080,13 +25126,38 @@ other; an adult use or any other establishment with amplified music.
    (D)   See §
 3.26(A) for definitions related to a dance hall and nightclub.
    Note 25, Coexisting, Mobile and Temporary Uses.
-   (A)   Intent. To provide greater flexibility in the review and regulation of
+   (A)   Intent.
+      (1)   To provide greater flexibility in the review and regulation of
 coexisting uses that seek to operate in the Zoning Jurisdiction of the City of
-Mount Holly. Each person seeking a special use permit to operate a coexisting
-use, defined as a mobile or temporary business operation that exists together,
-in the same place, on the same commercially zoned property, as an existing
-business operation, shall be subject to the rules and procedures outlined in §
-12.6, Special Use Permits, of the Zoning Ordinance.
+Mount Holly. Each person seeking to operate a coexisting use, defined as a
+mobile or temporary business operation that exists together, in the same place,
+on the same commercially zoned property, as an existing business operation,
+shall be subject to the rules and procedures outlined in §
+12.6, Special Use Permits, of the Zoning Ordinance, which requires the approval
+of a one0time zoning compliance and business registration permit.
+      (2)   Each person seeking to operate five or more mobile or temporary
+businesses as a coexisting use, as defined above, shall follow the rules and
+procedures outlined in §
+12.6, Special Use Permits, of the Zoning Ordinance, in addition to the
+requirements found herein.
+      (3)   Each person seeking to operate a mobile use, within a public
+parallel parking space in the B-1 Central Business District, located along
+South Main Street, North Main Street, West Central Avenue and East Central
+Avenue, shall be subject to the rules and procedures outlined in §
+15.2, Zoning Permits, of the Zoning Ordinance, which requires the approval of a
+one-time zoning compliance and business registration permit. The mobile vendor
+may reserve up to two public parallel parking spaces in the B-1 Central
+Business District no more than two hours ahead of the respective mobile
+vendor’s scheduled start of business each day.
+      (4)   Properly-weighted and secured canvas tents, to provide shelter and
+relief from the elements for customers, may be utilized in conjunction with
+permitted mobile uses in public parallel parking spaces only.
+      (5)   Outside of city-sponsored events, no temporary uses, defined
+herein, shall be allowed within any public parallel parking space within the B-
+1 Central Business District.
+      (6)   Mobile and temporary uses for city-sponsored events, and/or one-
+time special events located on private property, shall not be subject to the
+requirements of this Zoning Code.
    (B)   Requirements. Each person wishing to seek a special use permit for a
 coexisting use shall be subject to the following requirements.
       (1)   The applicant shall provide the City of Mount Holly Planning and
@@ -25111,16 +25182,19 @@ provide off-street parking;
 proposed, on said lot;
          (g)   Any other information which the Zoning Enforcement Officer may
 deem necessary for consideration in enforcing the provisions of this ordinance.
-      (2)   It is important to note that the applicant must provide the
-required information to the City of Mount Holly Planning and Zoning Department
-no later than 20 days before the next scheduled Board of Adjustment meeting.
-      (3)   The applicant is required to appear before the Board of Adjustment
-for approval or denial of a special use permit for the coexisting use, with the
-owner of the property, on which the proposed coexisting use is to be located.
-If the property owner is for some reason unable to attend the Board of
-Adjustment meeting, he or she may submit a written letter, stating his or her
-consent for the coexisting use, to the applicant, which shall be made available
-to the Board.
+      (2)   If the proposal involves operating five or more mobile or temporary
+uses on a commercial property as a coexisting use, it is important to note that
+the applicant must provide the required information to the City of Mount Holly
+Planning and Zoning Department no later than 20 days before the next scheduled
+Board of Adjustment meeting.
+      (3)   For proposals involving the operation of five or more mobile or
+temporary uses on a commercial property as a coexisting use, the applicant is
+required to appear before the Board of Adjustment for approval or denial of a
+special use permit for the coexisting use, with the owner of the property, on
+which the proposed coexisting use is to be located. If the property owner is
+for some reason unable to attend the Board of Adjustment meeting, he or she may
+submit a written letter, stating his or her consent for the coexisting use, to
+the applicant, which shall be made available to the Board.
    (C)   Definitions. The following words, terms and phrases, when used in this
 chapter, shall have the meanings ascribed to them in this section, except where
 the context clearly indicates a different meaning.
@@ -25187,11 +25261,12 @@ Jurisdiction;
          (b)   Fail to permit any lawfully requested inspection by health
 officials or fail to comply with any lawful request of a police officer or any
 other city enforcement official;
-         (c)   Fail to carry and display at all times the permit issued under
-this article;
+         (c)    Fail to carry and display at all times the permit issued under
+this article or any required Gaston County Health Department permit, if
+applicable;
          (d)   Have a coexisting use that is not in compliance with the review
 regulations or any additional special restrictions or conditions stated in the
-special use permit;
+special use permit, if applicable;
          (e)   Vend in any area other than that space designated by the permit;
          (f)   Leave any stand overnight on any street or sidewalk, park other
 than in a lawful parking place or in violation of any section of this code or
@@ -25948,7 +26023,7 @@ passed 5-10-2004; Ord. passed 5-8-2006; Ord. passed 6-11-2007; Ord. passed 7-
 Ord. passed - -; Ord. passed 9-12-2022; Ord. passed 7-10-2023; Ord. passed 10-
 9-2023; Ord. passed 11-13-2023; Ord. passed 12-11-2023; Ord. passed 3-11-2024;
 Ord. passed 6-24-2024; Ord. passed - -2024; Ord. passed 4-14-2025; Ord. passed
-7-14-2025)
+7-14-2025; Ord. passed 9-8-2025; Ord. passed 10-13-2025)
 CHAPTER 8: OFF-STREET PARKING AND LOADING
 Section
    
@@ -26227,7 +26302,7 @@ Parking Spaces Provided Minimum Handicapped Spaces Required
 501-1,000               2% of spaces provided
 >1,001                  20 spaces, plus one for every 100 spaces
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-494.png]
  
 (Ord. passed 5-13-1996; Ord. passed - -)
@@ -26286,7 +26361,7 @@ NOTES TO TABLE:
 * 8.5 ft. required
 9.0 ft. recommended
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-492.png]
 (Ord. passed 5-13-1996)
 CHAPTER 9: SIGNS
@@ -27037,7 +27112,7 @@ Option Width (FT) Fence of Berm Canopy Trees   Understory    Per 100 Linear
 1      10         No            2              2             15
 2      8          No            3              3             20
 3      5          Yes           2              2             15
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-465.png]
  
 Table 10.5.2-2: Type B Buffer Yard
@@ -27049,7 +27124,7 @@ Option Width Fence of Berm Trees Per 100    ll Mat urin g   Minimum # Shrubs
 2      10    No            4                4               35
 3      5     Yes           3                3               25
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-467.png]
  
  
@@ -27062,7 +27137,7 @@ Option Width Fence of Berm Trees Per 100    Maturing Trees  Minimum # Shrubs
 2      15    Yes           5                4               30
 3      10    Yes           4                3               30
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-469.png]
  
 Table 10.5.2-4: Type D Buffer Yard
@@ -27074,7 +27149,7 @@ Option Width Fence of Berm Trees Per 100    Maturing Trees  Minimum # Shrubs
 2      20    Yes           6                5               40
 3      15    Yes           5                4               40
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-471.png]
  
 Table 10.5.2-5: Type E Buffer Yard
@@ -27086,7 +27161,7 @@ Option Width Fence of Berm Trees Per 100    all Mat urin g Minimum # Shrubs
 2      30    Yes           6                5              45
 3      20    Yes           5                4              45
  
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-473.png]
    (C)    Other buffer yard standards.
       (1)    Prohibited uses. The construction of any building or the placement
@@ -30025,35 +30100,35 @@ A-9   Industrial L-I and H-I signs
    
 A-10   Screening requirements for Non-Residential
 A-1: FENCES AND WALLS IN RESIDENTIAL DISTRICTS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-440.png]
  
 • Fences and Walls in Other Districts Shall Not Exceed a Height of 8 Feet Above
 Grade
 A-2: ACCESSORY BUILDINGS AND STRUCTURES
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-442.png]
  
 • No Encroachments In Shaded Area
 • The Height of All Accessory Structures and Buildings Shall Conform to the
 Height Limitations of the District in Which Located.
 A-3: MEASUREMENT OF BUILDING HEIGHT
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-444.png]
  
 The Vertical Distance Measured at the Front of the Building, From the Lowest
 Ground Level Finished Elevation, Excluding Basements, to the Highest Point of
 the Building
 A-4: MINIMUM LOT WIDTH/LOTS WITH RADIAL SIDES
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-446.png]
  
 A-5: OFFICE/INSTITUTIONAL (O&I) SIGNS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-458.png]
  
 A-6: DOWNTOWN (B-1) SIGNS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-456.png]
  
 • 2 Sq. Ft. Per Linear Foot of Lot Frontage
@@ -30061,20 +30136,20 @@ IMAGES/0-0-0-456.png]
 Projecting Signs Cannot Be Combined With a Wall Sign.
 A-7: NEIGHBORHOOD BUSINESS (B-2) SIGNS
 MOUNT HOLLY MIXED-USE (MHMU) SIGNS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-454.png]
  
 A-8: GENERAL BUSINESS SIGNS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-452.png]
  
 A-9: INDUSTRIAL L-I AND H-I SIGNS
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-486.png]
  
 X + Y + Z = 100+
 A-10: SCREENING REQUIREMENTS FOR NON-RESIDENTIAL
-[https://export.amlegal.com/media/4afdec2622dd1bd60c2e927f1d57e4507e615916/
+[https://export.amlegal.com/media/6e991a13b15a0c3f8fba133779833328fb125bc3/
 IMAGES/0-0-0-482.png]
  
 • Along Full Depth of Common Property Line.
@@ -30150,7 +30225,7 @@ Ch. 160D, Art. 10        3.26
  
 REFERENCES TO ORDINANCES
  
-Ord. No. Date Passed Description
+Ord. No. Date Passed Code Section
                      1.1—
                      1.3;
                      2.1;
@@ -30250,8 +30325,13 @@ Ord. No. Date Passed Description
                      7.1
 -        7-14-2025   7.1
 -        9-8-2025    3.11
+-        9-8-2025    6.1;
+                     7.1
+-        10-13-2025  6.8;
+                     7.1
                     
-   
+ 
+ 
 Comprehensive Ordinance List
 Publisher's Note: The following table lists all ordinances passed by the Town
 beginning in 2022. The table includes links to the ordinances (as maintained in
