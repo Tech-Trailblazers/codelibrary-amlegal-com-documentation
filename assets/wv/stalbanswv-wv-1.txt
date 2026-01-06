@@ -2,8 +2,8 @@ CODIFIED ORDINANCES
 OF THE CITY OF
 ST. ALBANS,
 WEST VIRGINIA
-Local legislation current through December 16, 2024
-State - 2024 A.L.S.
+Local legislation current through December 1, 2025
+State - 2025 A.L.S.
  
  
 DISCLAIMER
@@ -24,8 +24,7 @@ Virginia Code 8-11-4(b), hereby certify that the general and permanent
 ordinances of the City of St. Albans, West Virginia, as revised, rearranged,
 compiled, renumbered as to sections, recodified and printed herewith in
 component codes are correctly set forth and constitute the Codified Ordinances
-of the City of St. Albans, West Virginia, 1981, as amended to December 16,
-2024.
+of the City of St. Albans, West Virginia, 1981, as amended to December 1, 2025.
 /s/   Scott James     
    Mayor
  
@@ -37,12 +36,12 @@ Copyright, 1981, by
 The Walter H. Drane Company
 CITY OF ST. ALBANS
 ROSTER OF OFFICIALS
-(2024)
+(2025)
 COUNCIL
 Jared Page         At-Large & Vice-Mayor
 David C. Rucker    At-Large
 John D. Caudill IV At-Large
-Terry McKinney     Ward 1
+Earl Whittington   Ward 1
 Mike Rowe          Ward 2
 Bill Knight        Ward 3
 Brian Kloosterman  Ward 4
@@ -58,7 +57,7 @@ Veronica Westfall City Clerk/Recorder
 Molly Quentrill   City Treasurer
 Tim LaFon &       City Attorney
 Mike Del Guidice
-Marc Gilbert      Police Chief
+Philip Bass       Police Chief
 Lance Carney      Fire Chief
 Marshall Chaney   Building Official and Zoning Official
 Kevin Pennington  Municipal Judge
@@ -857,6 +856,13 @@ Ord. No.   Date   C.O. Section
 2024-05      9-16-24   181.02
 2024-06      10-7-24   521.12
 2024-10      12-16-24   171.01 to 171.06
+2025-01      3-3-25      107.03, 107.04
+2025-03      5-5-25      753.371
+2025-04      5-5-25      1705.02(d), 1705.03; Repeals 1705.05
+2025-06      7-21-25   Repeals 1333.16(b)(1)D.
+2025-07      7-21-25   954.02
+2025-08      10-20-25   953.04
+2025-09      10-20-25   545.01
 CHARTER
 OF THE CITY OF
 ST. ALBANS, WEST VIRGINIA
@@ -2408,26 +2414,28 @@ be based, whenever possible, on competitive bids.
 (Ord. 79-5A. Passed 3-19-79.)
 107.03 SOLICITATIONS FOR SEALED BIDS; PRODUCTS OF NONPROFIT WORKSHOPS.
    The Clerk shall solicit sealed bids for the purchase of commodities and
-printing that is estimated to exceed twenty-five thousand dollars ($25,000). No
-department shall issue a purchase order which would circumvent this twenty-five
-thousand dollar ($25,000) maximum. Bids shall be obtained by public notice
-published as a Class I legal advertisement in compliance with West Virginia
-Code 59-3-1 et seq. and the area for publication shall be the City. Such notice
-shall be so published not less than ten days next preceding the final date of
-submitting bids. The notice may also be published by any other advertising
-medium the Clerk may deem desirable. The Clerk may also solicit sealed bids by
-sending requests by mail to prospective suppliers and by posting notice on a
-bulletin board in the Clerk's Office; provided, that the Clerk may, without
-competitive bidding, purchase commodities and printing produced and offered for
-sale by nonprofit workshops, as hereinbefore defined, which are located in the
-State; however, that such commodities and printing shall be of a price and
-quality comparable to other commodities and printing otherwise available.
-(Ord. 2021-03. Passed 5-17-21.)
+printing that is estimated to exceed twenty thousand dollars and one cent
+($20,000.01). No department shall issue a purchase order which would circumvent
+this twenty thousand and one cent ($20,000.01) maximum. Bids shall be obtained
+by public notice published as a Class I legal advertisement in compliance with
+West Virginia Code 59-3-1 et seq. and the area for publication shall be the
+City. Such notice shall be so published not less than ten days next preceding
+the final date of submitting bids. The notice may also be published by any
+other advertising medium the Clerk may deem desirable. The Clerk may also
+solicit sealed bids by sending requests by mail to prospective suppliers and by
+posting notice on a bulletin board in the Clerk's Office; provided, that the
+Clerk may, without competitive bidding, purchase commodities and printing
+produced and offered for sale by nonprofit workshops, as hereinbefore defined,
+which are located in the State; however, that such commodities and printing
+shall be of a price and quality comparable to other commodities and printing
+otherwise available.
+(Ord. 2025-01. Passed 3-3-25.)
 107.04 PURCHASING IN OPEN MARKET.
    The Mayor may make a purchase of commodities and printing of less than
-twenty-five thousand dollars ($25,000) in amount in open market, but such
-purchase shall, whenever possible, be based on at least two competitive bids.
-(Ord. 2021-03. Passed 5-17-21.)
+twenty thousand dollars and one cent ($20,000.01) in amount in open market, but
+such purchase shall, whenever possible, be based on at least two competitive
+bids.
+(Ord. 2025-01. Passed 3-3-25.)
 107.05 BIDS TO BE BASED ON SPECIFICATIONS.
    Bids shall be based on standard specifications to be set forth in or
 referred to in the public notice soliciting sealed bids. If the specifications
@@ -12801,12 +12809,12 @@ Firing range - see BUS. & TAX. Art.
  
 545.01 LICENSE REQUIRED FOR CARRYING WEAPONS.
    No person without a State license, or as may otherwise be lawfully
-authorized, shall carry about his person any revolver or pistol, dirk, bowie
-knife, slung shot, razor, billy, metallic or other false knuckles or other
-dangerous or deadly weapon of like kind or character.
+authorized, shall carry about his person any dirk, bowie knife, slung shot,
+razor, billy, metallic or other false knuckles or other dangerous or deadly
+weapon of like kind or character.
    Whoever violates this section shall, for a first offense, be guilty of a
 misdemeanor.
-(WVaC 61-7-1; Ord. 77-22. Passed 11-7-77.)
+(WVaC 61-7-1; Ord. 2025-09. Passed 10-20-25.)
 545.02 BREACH OF PEACE.
    No person armed with a pistol, gun or other dangerous or deadly weapon,
 whether licensed to carry the same or not, shall carry, expose, brandish or use
@@ -14144,6 +14152,7 @@ City licenses.
 753.35   Electric power and telephone companies.
 753.36   Telegraph companies.
 753.37   Contractors; license fees. (Repealed)
+753.371    Contractors; handyman license fees.
 753.38   Solicitors and salesman’s license fee; exceptions.
 753.39   Businesses not mentioned herein; services.
 753.99    Penalty.
@@ -14656,6 +14665,29 @@ twenty-five dollars ($25.00). (Ord. 86-7. Passed 6-30-86.)
 753.37 CONTRACTORS; LICENSE FEES.
    (EDITOR’S NOTE: Former Section
 753.37 was repealed by Ordinance 2004-15, passed August 2, 2004.)
+753.371 CONTRACTORS; HANDYMAN LICENSE FEES.
+   (a)    Business Fee. The annual business fee to act as a contractor in the
+City shall be ninety dollars ($90.00) and a handyman fifty dollars ($50.00).
+   (b)    Definition. For the purpose of this section, a "Building Contractor"
+is defined in
+Section
+1705.01; "Contractors", "Subcontractors" or "Specialty Contractors" are defined
+in Section
+1705.02(a); "Handyman" is defined in Section
+1705.02(b); and "General Contractor" is defined in Section
+1705.02(d).
+   (c)    Business and Occupation Taxes. Any and all contractors and
+subcontractors and
+handyman as defined in Sections
+1705.01,
+1705.02(a),
+1705.02(b) and
+1705.02(d) shall be current on their business and occupation taxes before a
+business license shall be issued.
+   (d)    Penalty. For the purpose of this section, the penalty shall be
+enforced under Section
+1703.99.
+(Ord. 2025-03. Passed 5-5-25.)
 753.38 SOLICITORS AND SALESMAN’S LICENSE FEE; EXCEPTIONS.
    (a)   An annual license fee is hereby imposed upon each person who solicits,
 sells, offers, exposes for sale or accepts orders for future delivery on the
@@ -18578,20 +18610,17 @@ hereby prohibited.
    The trash containers and garbage containers referred to in this article
 shall meet the following specifications:
    (a)    Trash Containers. Standard containers for the storage of trash shall
-be substantially made of metal or durable plastic and shall have a capacity of
-not less than ten nor more than forty gallons, and shall be equipped with at
+be substantially made of metal or durable plastic and shall be equipped with at
 least two carrying handles, with a tight fitting cover. Otherwise, trash shall
-be contained in plastic bags or boxes, provided that the total weight does not
-exceed fifty pounds or the capacity of the container, whichever is less.
-Corrugated paper boxes are acceptable temporary containers for trash provided
-they are protected from the weather and damage by dogs, cats, or other animals
-until such time as the collection of the trash is made.
+be contained in plastic bags or boxes. Corrugated paper boxes are acceptable
+temporary containers for trash provided they are protected from the weather and
+damage by dogs, cats, or other animals until such time as the collection of the
+trash is made.
    (b)    Garbage Containers. Standard containers for the storage of garbage
 shall be substantially made of metal or durable plastic, leakproof, and
-watertight and shall have a capacity of not more than thirty gallons, and shall
-be equipped with at least two carrying handles and a tight fitting cover. No
-single-family residence shall be allowed more than three garbage containers as
-hereinbefore described.
+watertight and shall be equipped with at least two carrying handles and a tight
+fitting cover. No single-family residence shall be allowed more than three
+garbage containers as hereinbefore described.
    (c)    Business, Schools and Related Containerized Users. All businesses,
 schools and other organizations as designated by the Sanitation Commissioner or
 his designated representative, whose garbage requirements exceed the need for
@@ -18610,12 +18639,12 @@ notice that such container is unfit and from the date of the placement of such
 tag upon the container the City or its independent contractor, as the case may
 be, shall no longer be obligated to remove any material placed in such
 container.
-Further, such red tag shall give notice that the failure to properly provide
+   Further, such red tag shall give notice that the failure to properly provide
 for refuse and garbage containers and the removal of refuse and garbage will be
 subject to possible penalties of a fine not more than one hundred dollars
-($100.00) or imprisonment of not more than thirty days in accordance with the
-applicable provisions of the Codified Ordinances.
-      (Ord. 98-03. Passed 2-2-98.)
+($100.00) in accordance with the applicable provisions of the Codified
+Ordinances.
+(Ord. 2025-08. Passed 10-20-25.)
  
 953.05  REFUSE, GARBAGE AND WEEDS UPON PRIVATE PROPERTY; NOTICE; LIEN.
    (EDITOR’S NOTE: Former Section
@@ -18953,69 +18982,67 @@ multifamily dwellings, and shall be charged to, and collected from, any person,
 owner, occupant, tenant, or domestic establishment located at any residence
 address in the City to which, or for which, City services, as defined in
 Section
-954.01, are provided by the City, in the amount of seventy-five dollars
-($75.00) quarterly, subject to any applicable credit provided in subsection (c)
-(2) hereof.
-   (b)   Business Establishments. For each and every business establishment,
+954.01, are provided by the City, in the amount of ninety dollars ($90.00)
+quarterly, subject to any applicable credit provided in subsection (c)(2)
+hereof.
+   (b)    Business Establishments. For each and every business establishment,
 the basic unified City services fee to be collected by the City Clerk and
 charged to, and collected from any person, owner, occupant, or tenant of any
 business establishment located in the City to which, or for which, City
-services are provided by the City are assessed and collectible taking into
+services are provided by the City are assessed and collectible talcing into
 consideration the refuse, garbage, trash, and similar matter removal and
 disposal services provided by the City to the business establishment, with
 credits available for businesses contracting with independent commercial solid
 waste disposal contractors, as follows:
-      (1)   Minimum business. All business establishments requiring once a week
-service and the collection, removal and disposal of refuse or solid wastes
+      (1)    Minimum business. All business establishments requiring once a
+week service and the collection, removal and disposal of refuse or solid wastes
 placed in not more than three thirty-gallon containers shall pay the sum of
-seventy-five dollars ($75.00) per quarter or twenty-five dollars ($25.00) per
-month, subject to any applicable credits provided in subsection (c) hereof.
-      (2)   Intermediate business. All business establishments requiring once a
-week service and collection, removal and disposal of refuse or solid wastes
+ninety dollars ($90.00) per quarter or thirty dollars ($30.00) per month,
+subject to any applicable credits provided in subsection (c) hereof.
+      (2)    Intermediate business. All business establishments requiring once
+a week service and collection, removal and disposal of refuse or solid wastes
 placed in not more than six thirty-gallon containers shall pay the sum of one
-hundred five dollars ($105.00) per quarter or thirty-five dollars ($35.00) per
-month, subject to any applicable credits provided in subsection (c) hereof.
-      (3)   Container business. All businesses requiring the collection,
+hundred twenty-six dollars ($126.00) per quarter or forty-two dollars ($42.00)
+per month, subject to any applicable credits provided in subsection (c) hereof.
+      (3)    Container business. All businesses requiring the collection,
 removal and disposal of refuse or solid wastes in a volume in excess of six
 thirty-gallon garbage containers shall be deemed to be container business. The
 City services fee to be paid to the City for container business shall be as
 follows:
 Cubic Yards of Refuse or Times Removed Each Week City Service Fee per Month
 Solid Waste
-2                        Once                    $80.00
-2                        Twice                   $154.00
-2                        Three                   $216.00
-2                        Four                    $281.00
-2                        Five                    $345.00
-3                        Once                    $104.00
-3                        Twice                   $191.00
-3                        Three                   $263.00
-3                        Four                    $337.00
-3                        Five                    $426.00
-4                        Once                    $118.00
-4                        Twice                   $205.00
-4                        Three                   $294.00
-4                        Four                    $383.00
-4                        Five                    $469.00
-6                        Once                    $149.00
-6                        Twice                   $235.00
-6                        Three                   $323.00
-6                        Four                    $425.00
- 
+2                        Once                    $96.00
+2                        Twice                   $185.00
+2                        Three                   $260.00
+2                        Four                    $338.00
+2                        Five                    $414.00
+3                        Once                    $125.00
+3                        Twice                   $230.00
+3                        Three                   $316.00
+3                        Four                    $405.00
+3                        Five                    $512.00
+4                        Once                    $142.00
+4                        Twice                   $246.00
+4                        Three                   $353.00
+4                        Four                    $460.00
+4                        Five                    $563.00
+6                        Once                    $179.00
+6                        Twice                   $282.00
+6                        Three                   $388.00
+6                        Four                    $510.00
 Cubic Yards of Refuse or Times Removed Each Week City Service Fee per Month
 Solid Waste
-6                        Five                    $543.00
-8                        Once                    $191.00
-8                        Twice                   $294.00
-8                        Three                   $406.00
-8                        Four                    $530.00
-8                        Five                    $645.00
- 
+6                        Five                    $652.00
+8                        Once                    $230.00
+8                        Twice                   $353.00
+8                        Three                   $488.00
+8                        Four                    $636.00
+8                        Five                    $774.00
    If a business establishment requires and requests Saturday or Sunday service
-there shall be an additional charge of one hundred dollars ($100.00) per month
-for Saturday service and one hundred dollars ($100.00) per month for Sunday
+there shall be an additional charge of one hundred twenty dollars ($120.00) per
+month for Saturday service and one hundred twenty dollars per month for Sunday
 service regardless of the number of cubic yards which the business
-establishment’s container holds.
+establishment's container holds.
    The charges hereinabove specified shall be paid by each business
 establishment in consideration of the size of the container provided by the
 business establishment and shall not be calculated in consideration of the
@@ -19028,9 +19055,8 @@ will be paid by each participating business establishment. In such event the
 City shall issue a separate bill to each business establishment participating
 in a shared container. Nothing in this paragraph, however, shall be deemed to
 require the Director of Public Works to enter into such agreement.
- 
-   (c)   Credits.
-      (1)   Any business, or business establishment contracting with an
+   (c)    Credits.
+      (1)    Any business, or business establishment contracting with an
 independent commercial solid waste disposal contractor approved, licensed and
 permitted to operate within City boundaries, for collection, removal and
 disposal of all its garbage, refuse, waste, ashes, trash, and any other similar
@@ -19052,10 +19078,8 @@ public health and safety of the citizens of the City, the Director of Public
 Works shall cause City sanitation workers to collect, remove and dispose of the
 garbage, refuse, waste, ashes, trash, and any other similar matter, of said
 business, or business establishment, and said business shall not receive, or be
-entitled to claim this credit against the basic unified City services fee
-charged to business and business establishments in subsection (b)(1), (2) and
-(3) hereof.
-   If, upon application to the City Clerk, the credit is disallowed, the
+entitled to claim this credit against the basic unified City services.
+         If, upon application to the City Clerk, the credit is disallowed, the
 business, or business establishment, may request a hearing before the Municipal
 Judge of the City, whose decision shall govern the parties, subject to the
 right of the business, or business establishment, to appeal the decision of the
@@ -19063,29 +19087,31 @@ City Municipal Court to the Circuit Court of Kanawha County, West Virginia
 within twenty days of the decision rendered by the Municipal Court, and posting
 such bond as the Municipal Judge of the City shall, in his, or her discretion,
 impose.
-      (2)   When the aggregate gross income of any person, or persons residing
+      (2)    When the aggregate gross income of any person, or persons residing
 in a domestic establishment maintained and occupied by a resident of the City
 who is sixty-five years of age, or older, during the fiscal year of the City is
-less than $10,000.00, and his or her personal property and real property (other
-than the personal residence maintained and occupied by the applicant have a
-reasonable fair market value of less than $16,000.00, the charge for basic
-unified City services of $75.00 per quarter to such person, or persons shall be
-reduced by a credit of $70.00 per quarter, provided that the resident who
-maintains and occupies such domestic establishment shall make application for
-this credit stating, under oath, or affirmation, before a Notary Public, on a
-form to be provided by the Clerk, relevant facts and qualifications for such
-credit. The home owned and occupied by the applicant, and other property exempt
-from Medicaid eligibility determination, as established by the State office
-administering Medicaid benefits, shall not be considered, or included in the
-determination by the Clerk of eligibility for this credit against City
-services. The Clerk may ask to see, subpoena records, and/or take action to
-verify appraisals, bank statements, or such other documentation as the Clerk
-may otherwise deem necessary to carry out implementation of this credit, and
-the proper assessment of the basic City services fee. The rate, charge and
-credit shall become effective retroactively to the first day of the calendar
-quarter in which such application is made and filed.
-   In the event any persons making application for reduced charges, or the
-credit referred to in Section
+less than fifteen thousand dollars ($15,000.00), and his or her personal
+property and real property other than the personal residence maintained and
+occupied by the applicant have a reasonable fair market value of less than
+sixteen thousand dollars ($16,000.00), the charge for basic unified City
+services of ninety dollars ($90.00) per quarter to such person, or persons
+shall be reduced by a credit of eighty-five dollars ($85.00) per quarter,
+provided that the resident who maintains and occupies such domestic
+establishment shall make application for this credit stating, under oath, or
+affirmation, before a Notary Public, on a form to be provided by the Clerk,
+relevant facts and qualifications for such credit. The home owned and occupied
+by the applicant, and other property exempt from Medicaid eligibility
+determination, as established by the State office administering Medicaid
+benefits, shall not be considered, or included in the determination by the
+Clerk of eligibility for this credit against City services. The Clerk may ask
+to see, subpoena records, and/or take action to verify appraisals, bank
+statements, or such other documentation as the Clerk may otherwise deem
+necessary to carry out implementation of this credit, and the proper assessment
+of the basic City services fee. The rate, charge and credit shall become
+effective retroactively to the first day of the calendar quarter in which such
+application is made and filed.
+         In the event any persons making application for reduced charges, or
+the credit referred to in Section
 954.02(c)(2) shall submit any false, erroneous, or untrue information relative
 to the eligibility or qualifications of the applicant for such reduced charge
 and/or credit as set forth herein, any such person submitting the same on the
@@ -19095,7 +19121,7 @@ the year for which a reduced charge and/or credit was claimed on the basis of
 information submitted which was false, erroneous, or untrue relative to the
 eligibility or qualifications of the applicant for such reduced charge and/or
 credit.
-   If, upon application to the City Clerk, the credit is disallowed, the
+         If, upon application to the City Clerk, the credit is disallowed, the
 person, or domestic establishment, may request a hearing before the Municipal
 Judge of the City, whose decision shall govern the parties, subject to the
 right of said person, or domestic establishment, to appeal the decision of the
@@ -19103,7 +19129,7 @@ City Municipal Court to the Circuit Court of Kanawha County, West Virginia
 within twenty days of the decision rendered by the Municipal Court upon such
 bond as the Municipal Judge of the City shall, in his, or her discretion,
 impose.
-         (Ord. 2009-15. Passed 9-21-09.)
+         (Ord. 2025-07. Passed 7-21-25.)
 954.03 BILLING AND COLLECTIONS; DELINQUENT ACCOUNTS; DISCONTINUANCE OR
 SUSPENSION OF SERVICE.
    The City Clerk shall be charged with the duty of mailing a statement of
@@ -25500,7 +25526,8 @@ provided the following conditions are met:
 than twelve (12) feet above ground level.
          C.   Shall not exceed thirty (36) inches in width and twenty four (24)
 inches in height, excluding the structural bracket.
-         D.   Shall not be internally illuminated.
+         D.   (EDITOR’S NOTE: Former subsection (b)(1)D., was deleted by
+Ordinance 2025-06, passed July 21, 2025.).
          E.   No banner signs shall be located inside public rights-of-way.
    (c)    Supplemental Regulations for Freestanding Signs in Commercial
 Districts.
@@ -26862,127 +26889,127 @@ ILLUSTRATION B-1
 [Image]
 ILLUSTRATION B-2
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3588.jpg]
 ILLUSTRATION B-3
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3584.jpg]
 ILLUSTRATION B-4
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3593.jpg]
 ILLUSTRATION B-5
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3599.jpg]
 ILLUSTRATION B-6
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3606.jpg]
 ILLUSTRATION B-7
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3614.jpg]
 ILLUSTRATION B-8
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3623.jpg]
 ILLUSTRATION B-9
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3633.jpg]
 ILLUSTRATION B-10
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3644.jpg]
 ILLUSTRATION B-11
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3656.jpg]
 (Ord. 2023-02. Passed 4-17-23.)
 APPENDIX C - SIGN DESIGN ORDINANCE
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3728_7980x6585.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3741_9825x7260.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3749_10995x9270.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3768_11130x7875.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3791_10440x8445.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3804_10695x8130.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3818_10620x7530.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3833_10500x6405.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3849_10545x7845.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3866_10560x7065.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3940.jpg]
  
 Signs Requiring a Permit
 C-2 & C-3 Commercial District
 Individual Business and Combined Developments: One wall, projecting/suspended,
 OR canopy/awning sign per road frontage.
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-3960_10740x7500.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4163.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4194.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4215.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4237.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4260.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4284.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4309.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4335.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4362.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4390.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4419.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4449.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4480.jpg]
  
-[https://export.amlegal.com/media/94fcc3a778566a8a8157e177e59b380e865b0634/
+[https://export.amlegal.com/media/bc802581babdeeb3f2f40d234934c40d1c10480c/
 IMAGES/0-0-0-4512.jpg]
 (Ord. 2023-02. Passed 4-17-23.)
 APPENDIX D - ZONING MAP
@@ -30023,7 +30050,7 @@ Registration of Contractors
 1705.02   Definitions.
 1705.03   License required; application; fee.
 1705.04   Building permit required.
-1705.05   Registration numbers issued.
+1705.05   Registration numbers issued. (Repealed)
 1705.99   Penalty.
  
 CROSS REFERENCES
@@ -30071,51 +30098,49 @@ of all or a specific part of the project. If the general contractor contracts
 with another person or legal entity to perform part of the work, this person or
 legal entity shall be deemed to be a “subcontractor”. All general contractors
 and all subcontractors working, or performing on a job or project must obtain
-City building permits, contractor’s licenses, and present their state
-contractor’s license, and proof of liability insurance and Workmen’s
-Compensation coverage (or waiver of same).
-      (Ord. 2006-18. Passed 10-16-06.)
+City building permits, business licenses, and present their state contractor’s
+license, and proof of liability insurance and Workmen’s Compensation coverage
+(or waiver of same).
+      (Ord. 2025-04. Passed 5-5-25.)
 1705.03 LICENSE REQUIRED; APPLICATION; FEE.
-   (a)   On or after October 16, 2006, no person shall engage in the City in
-any act as a contractor, subcontractor or handyman, as defined in this article,
-unless such person holds a license issued under the provisions of this article.
-No firm, partnership, corporation, association or other entity shall engage in
-contracting in the City unless an officer thereof holds a license issued
-pursuant to this article. (Ord. 2006-18. Passed 10-16-06.)
-      (1)   Application. Application for a contractor’s or handyman’s license
-shall be made to the Building Official and shall state in which building trade
-specialty or specialties the applicant seeks a license. Where the applicant is
-a firm or corporation, such applicant shall state in writing the name of the
-person who will submit qualifications. In case such person thereafter severs
-his connection with the firm or corporation and no other member of such firm or
-corporation has qualified as required by this section, the license granted to
-such firm or corporation shall no longer be in force, and such firm or
-corporation shall be required to make application for a license in the same
-manner as before.      
-      (2)   Forms. Every applicant for a contractor or handyman’s license shall
-complete application forms supplied by the Building Official.
-      (3)   Registration fee. Effective July 1, 2005:
-         A.   Registration fee for a building contractor shall be $90.00 each
-year and shall expire June 30 of each year.
-         B.   Registration fee for handyman shall be $50.00 each year and shall
-expire June 30 of each year.
-            (Ord. 2004-14. Passed 8-2-04.)
-      (4)   Validity; Transferability. A building contractor's license and
-handyman's license shall be valid, and have force for a period of one year
-beginning July 1 of each year. A contractor or handyman may not be issued a
-building permit unless his license has been duly renewed, and he has paid the
-registration fee. A contractor or handyman shall re-register if he allows his
-license to lapse for one full year. No license issued hereunder shall be
-transferable.
-         (Ord. 91-04. Passed 3-18-91; Ord. 2004-14. Passed 8-2-04.)
-   (b)   Any person to whom a license has been issued under this article or
+   (a)    No person shall engage in the City in any act as a contractor,
+subcontractor or handyman, as defined in this article, unless such person holds
+a license issued under the provisions of this article or Section
+753.371. No firm, partnership, corporation, association or other entity shall
+engage in contracting in the City unless an officer thereof holds a license
+issued pursuant to this article or Section
+753.371.
+      (1)    Application. Application for a contractor's or handyman's business
+license shall be made to the Building Official and shall state in which
+building trade specialty or specialties the applicant seeks a business license.
+Where the applicant is a firm or corporation, such applicant shall state in
+writing the name of the person who will submit qualifications. In case such
+person thereafter severs his connection with the firm or corporation and no
+other member of such firm or corporation has qualified as required by this
+section, the license granted to such firm or corporation shall no longer be in
+force, and such firm or corporation shall be required to make application for a
+license in the same manner as before.
+      (2)    Forms. Every applicant for a contractor or handyman's business
+license shall complete application forms supplied by the Building Official.
+      (3)    Business fee. Annual business license fee for a contractor shall
+be ninety dollars ($90.00) and a handyman shall be fifty dollars ($50.00) and
+shall expire June 30 of each year.
+      (4)    Validity; Transferability. A contractor's business license and
+handyman's business license shall be valid, and have force for a period of one
+year beginning July 1 of each year. A contractor or handyman may not be issued
+a building permit unless his license has been duly renewed, and he has paid the
+business license fee. No license issued hereunder shall be transferable.
+   (b)    Any person to whom a license has been issued under this article,
 Section
+753.371 or Section
 753.39 shall keep the license or a copy thereof posted in a conspicuous
 position at every site where work is being done or posted in the window of the
-vehicle used in support of said activity. The license number shall be included
-in all advertisements and all fully executed and binding contracts. Any person
+vehicle
+used in support of said activity. The license number shall be included in all
+advertisements and all fully executed and binding contracts. Any person
 violating the provisions of this subsection shall be subject to a warning or a
 fine of not more than two hundred dollars ($200.00).
+(Ord. 2025-04. Passed 5-5-25.)
    (c)   Except as otherwise provided in this article, the following are exempt
 from licensure:
       (1)   Work done exclusively by employees of the United States Government,
@@ -30132,6 +30157,10 @@ Virginia Public Service Commission and its employees;
 employees are paid regular wages and not a contract price, on business property
 owned or leased by the employer.
          (Ord. 2004-14. Passed 8-2-04.)
+   (d)   Any and all contractors and subcontractors shall be current on their
+business and occupation taxes before a contractor's business license shall be
+issued.
+(Ord. 2025-04. Passed 5-5-25.)
 1705.04 BUILDING PERMIT REQUIRED.
    The building contractor, subcontractor or handyman, or property owner or
 authorized agent who intends to construct, enlarge, alter, repair, move,
@@ -30141,11 +30170,9 @@ gas, mechanical or plumbing system, the installation of which is regulated by
 this code, or to cause any such work to be done, shall first make application
 to the building official and obtain the required permit.
 (Ord. 2009-21. Passed 12-7-09.)
-1705.05 REGISTRATION NUMBERS ISSUED.
-   The Building Inspector shall be charged with the enforcement of the
-provisions of this section and issue registration numbers to each contractor or
-handyman who obtains a license.
-(Ord. 91-04. Passed 3-18-91.)
+1705.05 REGISTRATION NUMBERS ISSUED. (REPEALED)
+   (EDITOR’S NOTE: Former Section
+1705.05 was repealed by Ordinance 2025-04, passed May 5, 2025.)
 1705.99 PENALTY.
    Violations of any provision of this article shall be subject to penalties as
 defined in Section
