@@ -1,7 +1,7 @@
 CODIFIED ORDINANCES
 OF THE
 CITY OF GREENVILLE, OHIO
-Local legislation current through October 7, 2025
+Local legislation current through December 2, 2025
 State legislation current through June 26, 2024
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -13,7 +13,7 @@ Ohio, pursuant to Ohio R.C. 731.23 and 731.42, hereby certify that the general
 and permanent legislation of the City of Greenville, Ohio, as revised,
 arranged, compiled, numbered, codified and printed herewith in component codes,
 is correctly set forth and constitutes the Codified Ordinances of the City of
-Greenville, Ohio, complete to October 7, 2025.
+Greenville, Ohio, complete to December 2, 2025.
                            /s/   Jeff Whitaker
                               Mayor
                            /s/   Jessica Swan
@@ -2630,6 +2630,7 @@ Adopting Ordinance                  436.14,
 25-110                     10-7-25   1042.01 ,
                                      1045.07
 25-111                     10-7-25   252.15
+Res. 25-124                12-2-25   252.36
                                      
  
 EXPLANATION OF TABLES OF SPECIAL ORDINANCES
@@ -7956,6 +7957,7 @@ from the City Auditor.
 252.33   Additional City employees.
 252.34   Conversion of vacation and compensatory time.
 252.35   Mandatory time-off.
+252.36   Cybersecurity policy.
    CROSS REFERENCES
    Welfare - see Ohio Const., Art. II, Sec. 34
    Worker's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch.
@@ -9115,6 +9117,83 @@ responsibility to monitor the status of emergency level declarations and
 amendments thereto, so as to ascertain his or her duly to report to his or her
 workstation.
 (Ord. 08-03. Passed 1-15-08; Ord. 11-05. Passed 1-18-11.)
+252.36   CYBERSECURITY POLICY.
+   (a)   Purpose. The purpose of this policy is to establish a framework for
+protecting the confidentiality, integrity, and availability of City of
+Greenville's information systems, data, and technology resources in compliance
+with Ohio R.C. 9.64 cybersecurity requirements.
+   (b)   Scope. This policy applies to all elected officials, employees,
+contractors, vendors, and third parties who access or manage the City of
+Greenville's technology resources, including but not limited to: Computers,
+servers, and mobile devices cloud services and hosted applications networks and
+telecommunications systems sensitive or confidential data (e.g., PII,
+financial, law enforcement, health-related, or other protected records).
+   (c)   Policy Statement.
+      (1)   The City of Greenville is committed to safeguarding its information
+systems against cybersecurity threats and ensuring compliance with Ohio R.C.
+9.64 by: Establishing baseline cybersecurity practices. Providing ongoing
+cybersecurity awareness training. Preparing for detection, response, and
+recovery from incidents.
+      (2)   Reviewing and updating cybersecurity policies annually.
+   (d)   Roles and Responsibilities.
+      (1)   City Council. Approves cybersecurity policy and ensures resources
+are allocated.
+      (2)   Auditor. Oversees policy implementation, coordinates with IT
+providers and legal counsel.
+      (3)   IT Provider (Internal or Vendor). Implements technical safeguards,
+monitors for threats, and reports incidents.
+      (4)   Employees/Users. Follow cybersecurity protocols, complete training,
+and report suspicious activity.
+   (e)   Cybersecurity Controls.
+      (1)   Access Control. Require unique user IDs and strong passwords.
+Enforce multi-factor authentication (MFA) for remote or administrative access.
+Limit access to sensitive data on a "least privilege" basis.
+      (2)   Network and System Security. Maintain up-to-date firewalls,
+antivirus, and intrusion detection/prevention. Apply software patches and
+updates within 30 days of release. Segregate critical systems from public
+networks when possible.
+      (3)   Data Protection. Encrypt sensitive data at rest and in transit.
+Regularly back up critical data and test restoration procedures. Retain records
+according to Ohio records retention schedules.
+      (4)   Incident Response. Designate an incident response lead. Establish
+procedures for detecting, reporting, and escalating incidents. In the event of
+a cybersecurity incident, notify the following parties in the manner listed:
+         A.   The executive director of the division of homeland security
+within the department of public safety, in a manner prescribed by the executive
+director, as soon as possible but not later than seven days after the political
+subdivision discovers the incident;
+         B.   The auditor of state, in a manner prescribed by the auditor of
+state, as soon as possible but not later than 30 days after the political
+subdivision discovers the incident.
+         C.   Any other parties as required by law. Conduct a post-incident
+review and update policies as needed. Establish procedures for the repair and
+subsequent maintenance of infrastructure after a cybersecurity incident.
+      (5)   Training and Awareness.
+         A.   Require all employees to complete cybersecurity awareness
+training annually. Provide role-specific training for IT administrators and
+staff handling sensitive data.
+         B.   A separate cybersecurity breach policy will be established to
+establish specific roles in the event of a cybersecurity incident.
+      (6)   Vendor and Third-Party Management. Require vendors to comply with
+the City of Greenville's cybersecurity standards. Maintain contracts with
+cybersecurity clauses and breach notification requirements.
+   (f)   Compliance and Review. This policy will be reviewed annually and
+updated to reflect changes in technology, law, and organizational needs.
+Departments and third-party IT providers must submit evidence of compliance to
+the Auditor annually.
+   (g)   Enforcement. Violations of this policy may result in disciplinary
+action up to and including termination of employment or contract, as well as
+potential civil and criminal penalties in accordance with applicable law.
+   (h)   Ransomware Payments. There shall be no ransomware payments made on
+behalf of the City of Greenville without first getting approval of said
+payments through the public vote of the Council of the City of Greenville.
+   (i)   Public Records. Records, documents, or reports related to the
+cybersecurity program and framework, and reports of a cybersecurity incident or
+ransomware incident are not public records under Ohio R.C. 9.64.
+   (j)   Effective Date. This policy takes effect immediately, to meet Ohio
+R.C. 9.64 requirements. Implementation of technical and training requirements
+must be completed no later than June 30, 2026.
+(Res. 25-124. Passed 12-2-25.)
 CHAPTER 254
 Employer-Employee Relations
 EDITOR'S NOTE: City employees, by and through their recognized bargaining
@@ -33466,7 +33545,7 @@ with Walnut Street; and
 Street.
    (b)   The Community Reinvestment Area is approximately depicted as the
 cross-hatched area on the map set forth below:
-[https://export.amlegal.com/media/49fc90497d4008d1adef97359c5e375e0cfdecbd/
+[https://export.amlegal.com/media/3b916f10cf95f9fd69fa91f12fb40ef0e731455f/
 IMAGES/0-0-0-29.jpg]
  
 CITY OF GREENVILLE
