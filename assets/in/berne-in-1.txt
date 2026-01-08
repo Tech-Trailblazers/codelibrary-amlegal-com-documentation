@@ -1,8 +1,8 @@
 BERNE, IN
 CODE OF ORDINANCES
-2023 S-21 Supplement Contains:
-Local legislation current through Ord. 763, passed 8-14-23; and
-State legislation current through Indiana Legislative Service, 2023 Acts,
+2025 S-22 Supplement Contains:
+Local legislation current through Ord. 792, passed 10-14-25; and
+State legislation current through Indiana Legislative Service, 2025 Acts,
 Pamphlet No. 3
 Published by:
 American Legal Publishing
@@ -32,7 +32,7 @@ MUNICIPAL ADDRESS: City of Berne
                   Berne, IN 46711
 PHONE NUMBER:      (260) 589-8526
 FAX NUMBER:        (260) 589-3983
-WEBSITE:           www.cityofberne.com
+WEBSITE:           cityofberne.in.gov
 E-MAIL:            kcaffee@cityofberne.com
  
 ADOPTING ORDINANCE
@@ -973,64 +973,72 @@ enacted.
 sections of this code, shall, upon conviction, be subject to penalties and
 fines as set out herein.
 Code Section Offense Fine
-Code Section     Offense                                              Fine
-§               Disregarding police officer directing traffic        $50
+Code Section      Offense                                              Fine
+§                Disregarding police officer directing traffic        $50
 70.01(A)
-§               Disregarding silent police officer directing traffic $50
+§                Disregarding silent police officer directing traffic $50
 70.01(B)
-§               Bicycles - must obey all traffic laws                $10
+§                Bicycles - must obey all traffic laws                $10
 70.41
-§               Bicycles - disregarding traffic control devices      $10
+§                Bicycles - disregarding traffic control devices      $10
 70.42
-§               Truck weighing 16,000 pounds parked at Lehman Park   $25
+§                Truck weighing 16,000 pounds parked at Lehman Park   $25
 70.55
-§               Disregarding stop sign                               $25
+§                Disregarding stop sign                               $25
 71.01
-§               Disregarding yield sign                              $25
+§                Disregarding yield sign                              $25
 71.02
-§               Illegal use of jake/engine compression brake         $25
+§                Illegal use of jake/engine compression brake         $25
 71.03
-Ch. 73, Sched. I Speeding - designated speed zone(s):                 $35
-                 1 - 10 mph
-Ch. 73, Sched. I Speeding - designated speed zone(s):                 $40
-                 11 - 15 mph
-Ch. 73, Sched. I Speeding - designated speed zone(s):                 $65
-                 16 - 24 mph
-Ch. 73, Sched. I Speeding - designated speed zone(s):                 $80
-                 25 - 35 mph
-§               Graffiti                                             $2,500
+Ch. 73, Sched. I  Speeding - designated speed zone(s):                 $35
+                  1 - 10 mph
+Ch. 73, Sched. I  Speeding - designated speed zone(s):                 $40
+                  11 - 15 mph
+Ch. 73, Sched. I  Speeding - designated speed zone(s):                 $65
+                  16 - 24 mph
+Ch. 73, Sched. I  Speeding - designated speed zone(s):                 $80
+                  25 - 35 mph
+Ch. 74, Sched. I  Parking in no parking area                           $25
+Ch. 74, Sched. II Parking in limited parking area                      $50
+Ch. 74, Sched. IV Loading zones                                        $50
+§                Public health nuisance                               $100
+91.03
+§                Public nuisances offending morals and decency        $200
+91.04
+§                Public nuisances affecting peace                     $100
+91.05
+§                Graffiti                                             $2,500
 91.08
-§               Abandoned vehicle                                    $50
-91.31
-§               Outdoor burning                                      $200
-91.43
-§               Smoking in Berne city facilities                     $100
+§§
+91.30 -           Junk, junk vehicles and abandoned vehicles           $100
+91.33
+§                Open burning - city street or alley                  $200
+91.40
+§                Outdoor burning                                      $200
+91.50
+§                Smoking in Berne city facilities                     $100
 91.51
-§               Noise violation :                                    $25
-91.52            First offense
-§               Noise violation :                                    $50
-91.52            Second offense
-§               Noise violation :                                    $100
-91.52            Third offense
-§               Noise violation :                                    $250
-91.52            Fourth and subsequent offenses
-§               Unsafe building regulations violation                $2,500
+§                Noise violation                                      $100
+91.52
+§                Unsafe building regulations violation                $2,500
 91.53
-§               Failure to register for solicitation                 $50
+§                Failure to register for solicitation                 $50
 113.02
-§               Curfew violation for a child ages 15, 16, 17         $10
+§                Curfew violation for a child ages 15, 16, 17         $10
 130.01(A)
-§               Curfew violation for a child ages 14 and under       $10
+§                Curfew violation for a child ages 14 and under       $10
 130.01(B)
-§               Discharging a firearm in city limits                 $150
+§                Discharging a firearm in city limits                 $150
 130.02
-§               Open burning - city street or alley                  $200
+§                Open burning - city street or alley                  $200
 130.03
  
    (B)   A separate offense shall be deemed committed upon each day during
 which any violation occurs or continues.
 (Ord. 648, passed 10-15-13; Am. Ord. 700, passed 1-22-18; Am. Ord. 706, passed
-6-25-18)
+6-25-18; Am. Ord. 769, passed 1-22-24; Am. Ord. 772, passed 4-8-25; Am. Ord.
+774, passed 6-24-24; Am. Ord. 781, passed 5-12-25; Am. Ord. 792, passed 10-14-
+25)
 CHAPTER 11: CITY STANDARDS
 Section
    
@@ -1046,7 +1054,7 @@ of the circular device. “Indiana” across the bottom of the circular device.
    The Berne City Flag is officially adopted and shall be depicted as shown on
 the following page.
 (`84 Code, §1-11)
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1570.jpg]
  
 TITLE III: ADMINISTRATION
@@ -4787,7 +4795,7 @@ the system of user charges, shall be based upon the expected useful life of the
 sewage works equipment.
    (B)   The various classes of users of the treatment works, for the purpose
 of this chapter, shall be as follows:
-      Class I      Residential
+      Class I   Residential
             Commercial
             Governmental
             Institutional
@@ -4801,10 +4809,10 @@ discharges sanitary sewage, industrial wastes, water or other liquids, either
 directly or indirectly, into the sanitary sewage system. Rates and charges
 include user charges, debt service costs, excessive strength surcharges and
 other service charges, which rates and charges shall be payable as hereinafter
-provided and shall be in an amount determined as follows.
+provided and shall be in an amount determined as follows:
    (A)   The sewage rates and charges shall be based on the quantity of water
 used on or in the property or premises subject to the rates and charges as the
-sameis measured by the water meter there in use, plus a base charge based on
+same is measured by the water meter there in use, plus a base charge based on
 the size of water meter installed, except as herein otherwise provided. For the
 purpose of billing and collecting the charges for sewage service, the water
 meters shall be read monthly and the users shall be billed each month (or
@@ -4814,30 +4822,38 @@ rates and charges shall be determined is as follows for all class I users:
  
 Monthly Charge
 Gallons     User Charge
-First 2,000 $5.26
-Over 2,000  $9.05
+First 2,000 $8.95
+Over 2,000  $15.38
+ 
 plus:
-      (2)   Base rate per month.
+   (2)   Base rate per month.
 Water Meter User Charge
 Water Meter User Charge
-5/8 inch    $12.65
-3/4 inch    $15.55
-1 inch      $24.15
-1-1/4 inch  $33.80
-1-1/2 inch  $47.30
-2 inch      $77.20
-3 inch      $169.75
-4 inch      $297.10
-6 inch      $655.65
+5/8 inch    $21.50
+3/4 inch    $26.44
+1 inch      $41.06
+1-1/4 inch  $57.46
+1-1/2 inch  $80.42
+2 inch      $131.24
+3 inch      $288.58
+4 inch      $505.08
+6 inch      $1,114.60
  
       (3)   Town of Monroe.
  
 Monthly Charge
 Gallons           User Charge
-Per 1,000 gallons $1.08*
-Debt Service Charge: $5,193.52
+Per 1,000 gallons $1.4443*
+Debt Service Charge: $5,121
 * Rate is subject to recalculation each May 1 per agreement with Town of
 Monroe.
+ 
+      (4)   Linn Grove Service Area.
+ 
+Monthly Charge
+Gallons           User Charge
+Per 1,000 gallons $1.4443*
+*Rate if subject to recalculation each May 1 per agreement with Adams County
  
    (B)   For residential users of the sewage works that are unmetered water
 users, or if accurate meter readings are not available, the monthly charge
@@ -4847,9 +4863,8 @@ period equaling a month). The schedule on which the rates and charges will be
 determined is as follows:
  
 Monthly Rate
-                            User Charge Debt Service Total
-Residential:                $47.75      $10.80       $36.65
-Single-family dwelling unit
+                                         User Charge Debt Service Total
+Residential: Single-family dwelling unit $81.18      $18.36       $99.54
  
    (C)   For the service rendered to the city, the city shall be subject to the
 same rates and charges established in harmony therewith.
@@ -4861,7 +4876,7 @@ for collecting and analyzing the sample(s) as determined by the city or by an
 independent laboratory. This charge will be reviewed on the same basis as all
 other rates and charges in this chapter.
 (Ord. 579, passed 5-27-08; Am. Ord. 643, passed 7-22-13; Am. Ord. 653, passed
-6-23-14)
+6-23-14; Am. Ord. 771, passed 3-25-24; Am. Ord. 785, passed 6-9-25)
 § 52.04 BASIS UPON WATER USE.
    The quantity of water discharged into the sanitary sewage system and
 obtained from sources other than the utility that serves the city shall be
@@ -4906,13 +4921,13 @@ apartments or housekeeping rooms discharging sanitary sewage, water, or other
 liquids into the city's sanitary sewage system, either directly or indirectly,
 are users of water and the quantity of water is measured by a single water
 meter, then in such case, billing shall be for a single service in the manner
-set out elsewhere herein, except that an additional units charge shall be added
-thereto, in the amount of $11.25 per month per dwelling unit over one served
-through the single water meter. In the case of mobile home courts, the number
-of dwelling units shall be computed and interpreted as the total number of
-mobile home spaces available for rent plus any other dwelling units served
+set out elsewhere herein, except that an additional unit’s charge shall be
+added thereto, in the amount of $19.12 per month per dwelling unit over one
+served through the single water meter. In the case of mobile home courts, the
+number of dwelling units shall be computed and interpreted as the total number
+of mobile home spaces available for rent plus any other dwelling units served
 through a meter. A dwelling unit shall be interpreted as a room or rooms or any
-other space or spaces in which cooking facilities' are provided.
+other space or spaces in which cooking facilities are provided.
    (E)   In the event a lot, parcel of real estate or building discharging
 sanitary sewage, industrial wastes, water or other liquids into the city's
 sanitary sewage system, either directly or indirectly, and uses water in excess
@@ -4942,7 +4957,7 @@ separate meter and in such case the water usage as registered by the water
 meter serving that portion of the premises used for residential purposes would
 qualify under the sprinkling rate.
 (Ord. 579, passed 5-27-08; Am. Ord. 643, passed 7-22-13; Am. Ord. 653, passed
-6-23-14)
+6-23-14; Am. Ord. 771, passed 3-25-24; Am. Ord. 785, passed 6-9-25)
 § 52.05 BASIS UPON WASTEWATER CONSUMPTION.
    In order that the rates and charges may be justly and equitably adjusted to
 the service rendered to users, the city shall base its charges not only on the
@@ -4960,13 +4975,13 @@ fluid, or phosphorus in excess of 15 mg/l of fluid. Additional charges for
 treating stronger-than-normal domestic waste shall be made on the following
 basis.
       (1)   Rate surcharge based upon suspended solids. There shall be an
-additional charge of $0.22 per pound of suspended solids for suspended solids
+additional charge of $0.38 per pound of suspended solids for suspended solids
 received in excess of 200 mg/l of fluid.
-      (2)   Rate surcharge based upon BOD.  There shall be an additional charge
-of $0.17 per pound of biochemical oxygen demand for BOD received in excess of
+      (2)   Rate surcharge based upon BOD. There shall be an additional charge
+of $0.29 per pound of biochemical oxygen demand for BOD received in excess of
 200 mg/l of fluid.
       (3)   Rate surcharge based upon phosphorus. There shall be an additional
-charge of $3.02 per pound of phosphorus received in excess of 15 mg/l of fluid.
+charge of $5.14 per pound of phosphorus received in excess of 15 mg/l of fluid.
    (B)   The determination of suspended solids, biochemical oxygen demand and
 phosphorus contained in the waste shall be in accordance with the latest copy
 of Standard Methods for the Elimination of Water, Sewage and Industrial Wastes,
@@ -4974,7 +4989,8 @@ as written by the American Public Health Association, the American Water Works
 Association and the Water Pollution Control Federation, and in accordance with
 “Guidelines Establishing Test Procedures for Analysis of Pollutants,” 40 CFR
 part 136.
-(Ord. 579, passed 5-27-08; Am. Ord. 653, passed 6-23-14)
+(Ord. 579, passed 5-27-08; Am. Ord. 653, passed 6-23-14; Am. Ord. 771, passed
+3-25-24; Am. Ord. 785, passed 6-9-25)
 § 52.06 BILLING.
    Rates and charges shall be prepared, billed and collected by the city in the
 manner provided by law and ordinance.
@@ -5164,7 +5180,7 @@ Section
    
 53.11   Deposit
    
-53.12   Reserved
+53.12   Obstructions to public utilities
    
 53.13   Non-sufficient funds charges and procedure
    
@@ -5178,7 +5194,7 @@ Section
    
 53.18   Procedures for removal of lead lines
    
-53.19   Cross connection control
+53.19   Cross connection control and backflow prevention
 Statutory reference:
    Authority to establish, maintain, and operate waterworks, see I.C. 36-9-2-14
 § 53.01 MONTHLY BILLING PERIODS.
@@ -5189,38 +5205,37 @@ based upon the amount of water supplied during each monthly billing period.
 § 53.02 METERED RATES.
  
 Rate per 1,000 Gallons
-Monthly Usage        Phase I            Phase II
-                     Effective 1/1/2023 Effective 1/1/2024
-First 10,000 gallons $5.95              $6.13
-Next 30,000 gallons  4.90               5.05
-Next 60,000 gallons  3.30               3.40
-Over 100,000 gallons 3.29               3.39
+Monthly Usage        Phase I Effective 1/1/2023 Phase II Effective 1/1/2024
+First 10,000 gallons $5.95                      $6.13
+Next 30,000 gallons  4.90                       5.05
+Next 60,000 gallons  3.30                       3.40
+Over 100,000 gallons 3.29                       3.39
  
 (Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
 § 53.03 MINIMUM MONTHLY CHARGE.
 Rate per month
-Meter Size Gallons Allowed Phase I            Phase II
-                           Effective 1/1/2023 Effective 1/1/2024
+Meter Size Gallons Allowed Phase I Effective 1/1/2023 Phase II Effective 1/1/
+                                                      2024
 Rate per month
-Meter Size Gallons Allowed Phase I            Phase II
-                           Effective 1/1/2023 Effective 1/1/2024
-5/8"       2,000           $11.90             $12.26
-3/4"       3,000           17.85              18.39
-1"         5,000           29.75              30.65
-1-1/4"     8,000           47.60              49.04
-1-1/2"     10,000          59.50              61.30
-2"         16,000          88.90              91.60
-3"         30,000          157.50             162.30
-4"         50,000          239.50             246.80
-6"         100,000         404.50             416.80
+Meter Size Gallons Allowed Phase I Effective 1/1/2023 Phase II Effective 1/1/
+                                                      2024
+5/8"       2,000           $11.90                     $12.26
+3/4"       3,000           17.85                      18.39
+1"         5,000           29.75                      30.65
+1-1/4"     8,000           47.60                      49.04
+1-1/2"     10,000          59.50                      61.30
+2"         16,000          88.90                      91.60
+3"         30,000          157.50                     162.30
+4"         50,000          239.50                     246.80
+6"         100,000         404.50                     416.80
  
 (Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
 § 53.04 MULTIPLE USERS.
  
-                                       Phase I            Phase II
-                                       Effective 1/1/2023 Effective 1/1/2024
-For each customer over one on a single $5.95              $6.13
-meter
+                           Phase I Effective 1/1/2023 Phase II Effective 1/1/
+                                                      2024
+For each customer over one $5.95                      $6.13
+on a single meter
  
 (Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
 § 53.05 COLLECTION AND DEFERRED PAYMENT CHARGES.
@@ -5232,45 +5247,43 @@ excess over $3.
 § 53.06 FIRE HYDRANTS.
  
 Rates per Annum
-Per Hydrant        Phase I            Phase II
-                   Effective 1/1/2023 Effective 1/1/2024
-Municipal hydrants $578.81            $596.17
-Private hydrants   578.81             596.17
+Per Hydrant        Phase I Effective 1/1/2023 Phase II Effective 1/1/2024
+Municipal hydrants $578.81                    $596.17
+Private hydrants   578.81                     596.17
  
 (Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
 § 53.07 AUTOMATIC SPRINKLERS.
 Rate per Annum
-Fire Line Phase I            Phase II
-          Effective 1/1/2023 Effective 1/1/2024
+Fire Line Phase I Effective 1/1/2023 Phase II Effective 1/1/2024
 Rate per Annum
-Fire Line      Phase I            Phase II
-               Effective 1/1/2023 Effective 1/1/2024
-2" connection  $32.19             $33.16
-3" connection  93.50              96.31
-4" connection  199.26             205.24
-6" connection  578.81             596.17
-8" connection  1,233.49           1,270.49
-10" connection 2,218.22           2,284.77
-12" connection 3,583.01           3,690.50
+Fire Line      Phase I Effective 1/1/2023 Phase II Effective 1/1/2024
+2" connection  $32.19                     $33.16
+3" connection  93.50                      96.31
+4" connection  199.26                     205.24
+6" connection  578.81                     596.17
+8" connection  1,233.49                   1,270.49
+10" connection 2,218.22                   2,284.77
+12" connection 3,583.01                   3,690.50
  
 (Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
 § 53.08 CONNECTION CHARGE.
  
-Tap Size           Phase I                     Phase II
-                   Effective 1/1/2023          Effective 1/1/2024
-3/4" tap           $850.00                     $850.00
-1" tap             850.00                      850.00
-                   Actual cost of labor,       Actual cost of labor, material
-Larger than 1" tap material and equipment, but and equipment, but not less
-                   not less than $850.00       than $850.00
- 
-(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
+Tap Size           Connection Charge
+3/4" tap           Cost of labor, plus 105% of the cost of material, equipment
+                   (leased or contracted) and contracted services
+1" tap             Cost of labor, plus 105% of the cost of material, equipment
+                   (leased or contracted) and contracted services
+Larger than 1" tap Cost of labor, plus 105% of the cost of material, equipment
+                   (leased or contracted) and contracted services
+(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22; Am. Ord. 773, passed
+7-8-24)
 § 53.09 RECONNECTION CHARGE.
    Any person, firm, corporation, partnership or association who shall
 hereafter request a reconnection into the waterworks system of the city shall
-pay a reconnection charge in the amount of $15 prior to reconnection into the
+pay a reconnection charge in the amount of $50 prior to reconnection into the
 waterworks system.
-(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
+(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22; Am. Ord. 773, passed
+7-8-24)
 § 53.10 REVIEW OF CONNECTION AND RECONNECTION CHARGES.
    Due to increase of costs pertaining to tap and reconnection fees, a review
 of §§
@@ -5278,7 +5291,8 @@ of §§
 53.09 shall be made every three years from the date of passage to determine
 whether said fees remain appropriate or are insufficient and in need of
 amendment due to increased costs.
-(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22)
+(Ord. 745, passed 11-8-21; Am. Ord. 758, passed 11-28-22; Am. Ord. 773, passed
+7-8-24)
 § 53.11 DEPOSIT.
    (A)   Upon applying for water utility service from the city for a residence,
 an applicant, whether an owner, tenant or contract purchaser, shall pay to the
@@ -5332,7 +5346,7 @@ utility customer. The use of all or part of said deposit toward said unpaid
 rates, charges and fees shall not prohibit the city from taking further actions
 under §§
 53.13 through
-53.15 herein.
+53.15.
       (3)   Any portion of the deposit remaining after the credit set forth in
 division (E)(2) above shall be forwarded to the customer. Water utility
 deposits shall only be released to a third party upon written agreement between
@@ -5345,12 +5359,68 @@ said written request.
    (G)   Unclaimed deposits. Any deposit made by the applicant, customer or any
 other person to the city for the water utility (less any lawful deductions
 therefrom), or any sum the city is ordered to refund for utility service that
-has remained unclaimed for seven years after the utility has made diligent
-effort to locate the person who made such deposit, shall be presumed abandoned
-and shall be transferred to the office of the Indiana Attorney General pursuant
-to I.C. 32-34-1.
-(Ord. 762, passed 8-14-23)
-§ 53.12 RESERVED.
+has remained unclaimed for two years after the utility has made diligent effort
+to locate the person who made such deposit, shall be presumed abandoned and
+shall be transferred to the office of the Indiana Attorney General pursuant to
+I.C. 32-34-1.
+(Ord. 762, passed 8-14-23; Am. Ord. 782, passed 3-24-25)
+§ 53.12 OBSTRUCTIONS TO PUBLIC UTILITIES.
+   Unless in the case of an emergency, if it is deemed necessary by the Mayor
+or the head of a department or utility of the city that action may be required
+to clear an obstacle on a platted street or alley, or on other public lands, in
+order to have access to maintain or otherwise manage its public utilities, the
+following procedures shall be followed by city personnel:
+   (A)   If representatives of the city have reason to believe that an obstacle
+of a property owner is within the city's platted street or alley, or on other
+public lands, the city shall contact the property owner by certified mail, by
+posting notice at the property of the property owner, or by delivering such
+notice in person by the Police Department. Such notice shall set forth the
+nature and location of the obstacle, that the property owner shall have ten
+days from receipt or posting of such notice to voluntarily remove the obstacle,
+and that if the property fails to remove such obstacle within such ten-day
+period, that the property owner may be responsible for the costs incurred by
+the city in securing a survey and removing the obstacle pursuant to division
+(E) below.
+   (B)   If the city has provided the notice set forth in division (A) above,
+and the property fails to voluntarily remove the obstacle, then the city shall
+secure a minimum detail survey showing that the obstacle in question is located
+upon city property. The Adams County Geographic Information Systems (GIS) has
+not been determined to be completely reliable, and therefore, the GIS should
+only be used in lieu of a survey if it cannot be reasonably concluded that such
+obstacle can be on any property other than the city's platted street or alley,
+or on other public lands.
+   (C)   Upon verification from the survey that the obstacle is within the
+city's platted street or alley, or on other public lands, the city shall give
+written notice to the owner of the property that such owner has a period of ten
+days from receipt of such notice to remove the obstacle. Such notice shall
+include a copy of the survey or GIS map showing the location of the obstacle.
+Such notice may be sent by certified mail, posted at the property of the
+property owner, or delivered in person by the Police Department.
+   (D)   If the obstacle is not removed within the ten-day period from the
+property owner's receipt or the posting of the notice, then the city may take
+such action as the city determines to be necessary in order to remove the
+obstacle. Such removal may either be undertaken by a department of the city or
+by a contract with an independent contractor. Under certain circumstances, it
+may be appropriate for a member of the Police Department to be on site at the
+time of the removal of the obstacle.
+   (E)   If it is ascertained that an obstacle is located in the city's platted
+street or alley, or on other public lands, and if the city is required to
+proceed pursuant to divisions (B) through (D) above, then the cost of the
+abatement of the obstacle, including, but not limited to securing a survey and
+removing the obstacle by the city, court costs, and attorney's fees, shall be
+collected as a debt from the property owner causing, permitting or maintaining
+the obstacle. If the city uses municipal employees to remove the obstacle, it
+shall set and assign an appropriate per hour rate for employees, equipment, and
+supplies that may be used. The Clerk-Treasurer shall send a notice to the owner
+of the cost of the abatement of the obstacle, and the owner shall then have 30
+days from the mailing of said notice to reimburse the city. If said cost of
+abatement is not reimbursed within 60 days of the mailing of said notice, the
+Clerk-Treasurer shall file a certified copy of the statement of costs in the
+Auditor's office of Adams County, and the Auditor shall place the amount so
+claimed on the tax duplicate against the lands of the property owner affected
+by the lien, and the same shall be collected as taxes disbursed to the General
+Fund of the city.
+(Ord. 768, passed 11-27-23)
 § 53.13 NON-SUFFICIENT FUNDS CHARGES AND PROCEDURES.
    If a check for payment on an account is returned for non-sufficient funds or
 an automated clearing house (ACH) payment on an account is reversed for non-
@@ -5484,57 +5554,77 @@ then the user shall replace the user's side, and then upon the city's
 satisfactory inspection of the user's replacement of the line, the city shall
 then replace its line between the shut off and the main.
 (Ord. 726, passed 6-22-20)
-§ 53.19 CROSS CONNECTION CONTROL.
-   (A)   A CROSS CONNECTION shall be defined as any physical connection or
+§ 53.19 CROSS CONNECTION CONTROL AND BACKFLOW PREVENTION.
+   (A)   A CROSS-CONNECTION shall be defined as any physical connection or
 arrangement between two otherwise separate systems, one of which contains
 potable water from the city water system, and the other, water from a private
 source, water of unknown  or questionable safety, or steam, gases, or
 chemicals, whereby there may be a flow from one system to the other, the
 direction of flow depending on the pressure differential between the two
 systems.
-   (B)   No person, firm, or corporation shall establish or permit to he
-established or maintain or permit to be maintained any cross connection. No
+   (B)   No person, firm, or corporation shall establish or permit to be
+established or maintain or permit to be maintained any cross-connection. No
 interconnection shall be established whereby potable water from a private,
 auxiliary, or emergency water supply other than the regular public water supply
 of the city may enter the supply or distribution system of said municipality,
 unless such private, auxiliary, or emergency water supply and the method of
 connection and use of such supply shall have been approved by the city
 utilities and by the Indiana Department of Environmental Management in
-accordance with 327 IAC 8-10.
-   (C)   It shall be the duty of the city water utility to cause inspections to
-be made of all properties served by the public water system where cross
-connections with the public water system is deemed possible. The frequency of
-inspections and reinspections based on potential health hazards involved shall
-be as established by the city water utility.
-   (D)   Upon presentation of credentials, the representative of the city water
+accordance with 327 IAC 8-10. All existing buildings in which a business
+activity takes place will be required to comply with this section upon the
+occurrence of any one of the following events:
+      (1)   New ownership of building;
+      (2)   Remodeling;
+      (3)   Change of occupancy;
+      (4)   Installation of a new service line or upgrade of service;
+      (5)   Addition of machinery or chemicals;
+      (6)   If backflow occurs.
+   (C)   Backflow prevention devices shall be subject to the specifications set
+forth in Exhibit A attached to Ord. 787.
+   (D)   It shall be the duty of the city water utility to cause inspections to
+be made of all properties served by the public water system where cross-
+connections with the public water system is deemed possible. All cross-
+connection backflow prevention devices shall be inspected and tested by a
+certified IDEM inspection contractor, at the owner's expense, at a frequency of
+at least every calendar year. Within 30 days of said inspection/testing, the
+report thereof shall be submitted to City of Berne Utilities, 158 W. Franklin
+Street, Berne, IN 46711.
+   (E)   Upon presentation of credentials, the representative of the city water
 utility shall have the right to request entry at any reasonable time to examine
 any property served by a connection to the public water system of the city for
-cross connections. On request, the owner, lessee, or occupant of any property
+cross-connections. On request, the owner, lessee, or occupant of any property
 so served shall furnish to the inspection agency any pertinent information
 regarding the piping system or systems on such property. The refusal of access
 or refusal of requested pertinent information shall be deemed evidence of the
-presence of cross connections.
-   (E)   The city water utility is hereby authorized and directed to
+presence of cross-connections.
+   (F)   The city water utility is hereby authorized and directed to
 discontinue water service to any property wherein any connection in violation
 of this section exists, and to take such other precautionary measures deemed
 necessary to eliminate any danger of contamination of the public water system.
 Water service shall be discontinued only after reasonable notice is served on
 the owner, lessee, or occupants of the property or premises where a violation
 is found or suspected to exist. Water service to such property shall not be
-restored until the cross connection(s) has been eliminated in compliance with
+restored until the cross-connection(s) has been eliminated in compliance with
 the provisions of this section.
-   (F)   If it is deemed by the city water utility that a cross connection or
+   (G)   If it is deemed by the city water utility that a cross-connection or
 an emergency endangers public health, safety, or welfare and requires immediate
 action, and a written finding to that effect is filed with the City Clerk and
 delivered to the consumer's premises, service may be immediately discontinued.
 The consumer shall have an opportunity for hearing within ten days of such
 emergency discontinuance.
-   (G)   Pursuant to 327 IAC 8-4, the following consumers shall be designated
-as cross connection hazards, and shall install and maintain a reduced-pressure-
-principle backflow preventer in the main water line serving each building on
-the premises. The backflow preventer must be installed in an easily accessible
-location not subject to flooding or freezing. Said presumed cross connection
-hazards are as follows:
+   (H)   All consumers using toxic or hazardous liquids, all hospitals,
+mortuaries, wastewater treatment plants, laboratories, and all other hazardous
+users install and maintain a reduced pressure principal backflow preventer in
+the main water line serving each building on the premises. The backflow
+preventer must be installed in an easily accessible location not subject to
+flooding or freezing.
+   (I)   The reduced pressure principal backflow preventers shall not be
+installed below ground level.
+   (J)   This section does not supersede the Indiana Plumbing Code, the IDEM
+Rule 327 IAC 8- 10 or the city Plumbing Ordinance or Building Code, but is
+supplementary to them.
+   (K)   The following customer facilities require a backflow prevention
+device:
       (1)   Aircraft and missile manufacturing plants;
       (2)   Automotive plants, including those plants that manufacture
 motorcycles, automobiles, trucks, recreational vehicles, and construction and
@@ -5545,31 +5635,52 @@ agricultural equipment;
       (6)   Chemical, biological, and radiological laboratories, including
 those in high schools, trade schools, colleges, universities, and research
 institutions;
-      (7)   Hospitals, clinics, medical buildings, autopsy facilities, morgues,
-other medical facilities, and mortuaries;
-      (8)   Metal and plastic manufacturing, fabricating, cleaning, plating,
+      (7)   Commercial facilities that use herbicides, pesticides, fertilizers,
+or any chemical that could be a contaminant to the public water supply;
+      (8)   Commercial, industrial or residential facilities that contain fire
+sprinkler systems apparatus;
+      (9)   Commercial laundries and dye works, excluding coin-operated
+laundromats;
+      (10)   Hospitals, clinics, medical buildings, autopsy facilities,
+morgues, other medical facilities, and mortuaries;
+      (11)   Industrial facilities that recycle water;
+      (12)   Land irrigation facility, whether industrial, commercial or
+residential, where such irrigation facility is buried below ground and contains
+a sprinkling outlet located less than six inches above grade;
+      (13)   Metal and plastic manufacturing, fabricating, cleaning, plating,
 and processing facilities;
-      (9)   Plants manufacturing paper and paper products;
-      (10)   Plants manufacturing, refining, compounding, or processing
+      (14)   Plants manufacturing paper and paper products;
+      (15)   Plants manufacturing, refining, compounding, or processing
 fertilizer, film, herbicides, natural or synthetic rubber, pesticides,
 petroleum or petroleum products, pharmaceuticals, radiological materials, or
 any chemical that could be a contaminant to the public water supply;
-      (11)   Commercial facilities that use herbicides, pesticides,
-fertilizers, or any chemical that could be a contaminant to the public water
-supply;
-      (12)   Plants processing, blending, or refining animal, vegetable, or
+      (16)   Plants processing, blending, or refining animal, vegetable, or
 mineral oils;
-      (13)   Commercial laund1ies and dye works, excluding coin-operated
-laundromats;
-      (14)   Sewage, storm water, and industrial waste treatment plants and
-pumping stations;
-      (15)   Waterfront facilities, including piers, docks, marinas, and
-shipyards;
-      (16)   Industrial facilities that recycle water; and
       (17)   Restricted or classified facilities (federal government defense or
 military installations), or other facilities closed to the supplier of water or
-to the Commissioner.
-(Ord. 726, passed 6-22-20)
+to the Commissioner;
+      (18)   Sewage, storm water, and industrial waste treatment plants and
+pumping stations; and
+      (19)   Waterfront facilities, including piers, docks, marinas, and
+shipyards.
+   (L)   In addition to IDEM Rule 327 IAC 8-10-4(c), all commercial customers,
+residential customers or other facilities that contain fire sprinkler systems
+or irrigation systems are required to have a backflow prevention device.
+   (M)   That if, in the judgment of the Superintendent of water, an approved
+backflow prevention device is necessary for the safety of the public water
+system, the Superintendent of water will give notice to the water consumer to
+install such an approved device immediately. The water consumer shall at the
+consumer's own expense, install such an approved device at a location and in a
+manner approved by the Superintendent of water and shall have inspections and
+tests made of such approved devices as required by the Superintendent of water
+and in accordance with the IDEM Rule 327 IAC 8-10.
+   (N)   A violation of this section shall be subject to a fine in the sum of
+$100, and said fine shall be assessed by the Superintendent of water. A
+separate offense shall be deemed committed upon each day during or on which the
+violation occurs or continues beyond the date fixed for abatement of such
+violation. Such fine shall be paid at the Clerk-Treasurer's Office, 158 W.
+Franklin Street, Indiana 46711.
+(Ord. 726, passed 6-22-20; Am. Ord. 787, passed 10-14-25)
 CHAPTER 54: STORMWATER MANAGEMENT
 Section
 General Provisions
@@ -7060,6 +7171,8 @@ Oakwood Trail
 Franklin Street and Linn     Both directions on both       354      9-12-88
 Grove Avenue: 4-way stop     streets
 Franklin and South Harrison  South Harrison                192      6-11-73
+Harrison Street at Clark     Harrison Street stops at      776      8-26-24
+Street                       Clark Street
 Haupstrasse and              West on Haupstrasse           391      1-6-92
 Westlickstrasse
 Haupstrausse Street and      Haupstrausse Street           254      10-23-79
@@ -7175,8 +7288,6 @@ Buckeye Street         North Harrison Street               141      1-23-67
 Buckeye Street         Baltimore Street                    409      6-14-93
 Center Street          Lane Street                         141      1-23-67
 Center Street          Nussbaum Street                     141      1-23-67
-Clark Street           Linn Grove Street                   72       4-28-58
-Clark Street           Harrison Street                     141      1-23-67
 Clark Street           Alumni Street                       151      9-25-67
 Clark Street           All streets west of U.S. Highway in 139      8-22-66
                        the city
@@ -7360,6 +7471,15 @@ SCHEDULE I. PARKING PROHIBITED.
    The following streets shall have no parking allowed as indicated.
 Street Location Times Ord. No. Date Passed
 Street            Location          Times             Ord. No. Date Passed
+                  East and west
+                  sides between
+                  Main Street and
+                  Water Street
+Behring Street    (subject to the                    772      4-8-24
+                  permitted loading
+                  zone set forth in
+                  Chapter 74, Sch.
+                  IV)
                   North side
 Clark Street      between Lane      All               481      2-28-00
                   Street and County
@@ -7425,6 +7545,22 @@ Jefferson Street  Water Street to   All               17       6-11-51
                   the intersection
                   of Jefferson with
                   Parr Road
+                  North side
+                  commencing at a
+                  point 285 feet
+Key Way           east of the       All               769      1-22-24
+                  center line of
+                  Liechty Road to a
+                  point 240 feet
+                  east
+                  South side
+                  commencing at a
+                  point 285 feet
+Key Way           east of the       All               769      1-22-24
+                  center line of
+                  Liechty Road to a
+                  point 240 feet
+                  east
                   West side between
                   SR 218 to north
 Linn Grove Avenue line of alley     All               511      11-12-01
@@ -7525,8 +7661,6 @@ property is or may be transported or drawn upon a highway, except devices
 moving by human power.
 Street Location Time Limit Ord. No. Date Passed
 Street           Location             Time Limit           Ord. No. Date Passed
-Behring Street   From Main Street to  2 hours              123      11-9-64
-                 Water Street
                  From Jefferson to    2 hours from 6:00
 Franklin Street  Hendricks; parallel  a.m. to 6:00 p.m.    151      9-25-67
                  parking only on both except holidays and
@@ -7546,6 +7680,12 @@ Franklin Street  terminating 212 feet Friday, and from 8:  459      8-11-97
                  addition to the city
 Fulton Street    Between Main Street  2 hours              458      7-28-97
                  and Franklin Street
+                 West side between    15 minutes, from 10:
+                 Main Street and      00 a.m. to 5:00
+Fulton Street    Franklin Street a    p.m., Monday through 792      10-14-25
+                 distance of 46 feet  Friday, and from 10:
+                 north of the alley   00 a.m. to 1:00 p.m.
+                                      on Saturday
 Hendricks Street Between Main Street  2 hours              458      7-28-97
                  and Franklin Street
 Jefferson Street Between Water Street 2 hours              458      7-28-97
@@ -7613,11 +7753,13 @@ may be transported or drawn upon a highway, except devices moving by human
 power.
    (B)   Loading zones.
  
-Street         Location                                    Ord. No. Date Passed
+Street         Location                                   Ord. No. Date Pass ed
                Between Water Street and Main Street; no
-Behring Street parking on either side, with the exception  172      - - 70
-               that a loading zone shall be permissible on
-               and in front of Farm and Home Center
+Behring Street parking on either side, with the exception 172      - - 70
+               that a loading zone shall be permissible
+               on and in front of Farm and Home Center
+Behring Street West side between Main Street and the      772      4-8-24
+               first alley
  
 Penalty, see §10.99
 TITLE IX: GENERAL REGULATIONS
@@ -8399,7 +8541,7 @@ Public Nuisances
    
 91.08   Graffiti
 Grass, Weeds, Debris and
-Other Such Rank Vegetation
+Other Rank Vegetation
    
 91.20   Removal of grass, weeds, debris and other such rank vegetation
    
@@ -8408,13 +8550,13 @@ Junk, Junk Cars and Abandoned Vehicles
    
 91.30   Definitions
    
-91.31   Junk, junk cars and abandoned vehicles declared nuisances
+91.31   Junk, junk vehicles and abandoned vehicles declared nuisances
    
 91.32   Storage prohibited
    
 91.33   Enforcement for junk
    
-91.34   Enforcement for junk cars and abandoned vehicles
+91.34   Enforcement for junk vehicles and abandoned vehicles
 Outdoor Burning Regulations
    
 91.40   Application of outdoor burning regulations
@@ -8433,28 +8575,33 @@ Miscellaneous Regulations
 91.52   Noise regulations
    
 91.53   Unsafe building regulations
+ 
+   
+91.99   Penalty
 PUBLIC NUISANCES
 § 91.01 PUBLIC NUISANCES PROHIBITED.
-   No person shall erect, contrive, cause, continue, maintain or permit to
+    No person shall erect, contrive, cause, continue, maintain or permit to
 exist any public nuisance within the city.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.02 PUBLIC NUISANCE DEFINED.
    A PUBLIC NUISANCE is a thing, act, occupation, condition or use of property
 which shall continue for such length of time as to:
-   (A)    Substantially injure or endanger the comfort, health, repose or
-safety of the public; or
+   (A)   Substantially injure or endanger the comfort, health, repose or safety
+of the public; or
    (B)   In any way render the public insecure in life or in the use of
 property; or
    (C)   Greatly offend the public morals or decency; or
    (D)   Unlawfully and substantially interfere with, obstruct or tend to
-obstruct, or render dangerous for passage any street, alley, highway, navigable
+obstruct or render dangerous for passage any street, alley, highway, navigable
 body of water or other public way; or
-   (E)   Be injurious to health, indecent, offensive to the senses, or an
+   (E)   Be injurious to health, indecent or offensive to the senses, or an
 obstruction to the full use of property, so as essentially to interfere with
 the comfortable enjoyment of life or property.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.03 PUBLIC HEALTH NUISANCES.
-   The following acts, omissions, places, conditions and things are
+    The following acts, omissions, places, conditions and things are
 specifically declared to be public health nuisances, but shall not be construed
 to exclude other health nuisances coming within the definition of §
 91.02:
@@ -8467,39 +8614,49 @@ approved compost methods), trash, rubbish, rotting lumber, bedding, packing
 material, junk vehicles, scrap metal or any material in which flies,
 mosquitoes, disease-carrying insects, rats or other vermin may breed, or may be
 a fire hazard;
-   (D)    All stagnant water in which mosquitoes, flies or other insects can
+   (D)   Piles of any wood or wood product usually used or intended to be used
+as firewood in a residence or any accessory structure which is not contained
+within a covered enclosure impervious to the elements or not stored or kept in
+neat and secure stacks no more than four feet in height as measured from the
+ground surface, or that has been stacked in a manner in which disease-carrying
+insects, rats or other vermin may breed, or which becomes a fire hazard, or
+which has been open to the elements for a duration which causes the wood to rot
+or decay;
+   (E)   All stagnant water in which mosquitoes, flies or other insects can
 multiply;
-   (E)   The escape of smoke, soot, cinders, noxious acids, fumes, gases, fly
+   (F)   The escape of smoke, soot, cinders, noxious acids, fumes, gases, fly
 ash or industrial dust within the city limits in such quantities as to endanger
 the health of persons of ordinary sensibilities or to threaten or cause
 substantial injury to property;
-   (F)    The pollution of any public well or cistern, stream, river, lake,
-canal or body of water by sewage, creamery or industrial wastes, or other
+   (G)   The pollution of any public well or cistern, stream, river, lake,
+canal or body of water by sewage, creamery or industrial wastes or other
 substances;
-   (G)   Any use of property, substances or things within the city emitting or
+   (H)   Any use of property, substances or things within the city emitting or
 causing foul, offensive, noisome, nauseous, noxious, or disagreeable odors,
 effluvia or stenches extremely repulsive to the physical senses of ordinary
-persons, which annoy, discomfort, injure or inconvenience the health or any
+persons which annoy, discomfort, injure or inconvenience the health of any
 appreciable number of persons within the city; or any slaughter house;
-   (H)   All abandoned wells not securely covered or secured from public use;
-   (I)   All noxious weeds;
-   (J)   Any accumulation of junk, rubbish, scrap metal, scrap plastic, paper,
+   (I)   All abandoned wells not securely covered or secured from public use;
+   (J)   All noxious weeds;
+   (K)   Any accumulation of junk, rubbish, scrap metal, scrap plastic, paper,
 cardboard, automotive parts, building materials, machinery, equipment, dead
-trees, or parts thereof, upon any premises in a residential area;
-   (K)   Any structure used for the collection or deposit of trash or garbage
-that has an open door allowing access into the structure, except when the door
+trees, or parts thereof, upon any premises in a residential area, or any junk,
+junk vehicles, or abandoned vehicles, as set forth in §
+91.31;
+   (L)   Any structure used for the collection or deposit of trash or garbage
+that has an open door allowing access into said structure, except when the door
 is open to allow the structure to be used for the deposit or removal of trash
-or garbage, or to allow the structure to be cleaned or repaired.
-   (L)   Crop residue, including, but not limited to, corn cobs, bean stalks
+or garbage, or to allow the structure to be cleaned or repaired; and
+   (M)   Crop residue, including, but not limited to, corn cobs, bean stalks
 and corn stalks that exits the property upon which it was harvested and
 accumulates on neighboring property.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.04 PUBLIC NUISANCES OFFENDING MORALS AND DECENCY.
-   (A)   The following acts, omissions, places, conditions and things are
+   (A)    The following acts, omissions, places, conditions and things are
 specifically declared to be public nuisances offending public morals and
 decency, but such enumeration shall not be construed to exclude other nuisances
-offending public morals and decency coming within the definition of §
-91.02:
+offending public morals and decency coming within the definition in § 93.02:
       (1)   All disorderly houses, bawdy houses, houses of ill fame, gambling
 houses and buildings or structures kept or resorted to for the purpose of
 prostitution, promiscuous sexual intercourse or gambling;
@@ -8519,40 +8676,39 @@ State of Indiana or the ordinances of the city.
 45-4);
       (2)   Any public place in or upon which sexual conduct (as defined in
 I.C. 35-49-1-9); or
-      (3)    Any public place in or upon which the fondling of the genitals of
-a person; is conducted, permitted, continued, or exists, and the personal
-property and contents used in conducting and maintaining the place for such a
-purpose.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+      (3)   Any public place in or upon which the fondling of the genitals of a
+person is conducted, permitted, continued, or exists, and the personal property
+and contents used in conducting and maintaining the place for such a purpose.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.05 PUBLIC NUISANCES AFFECTING PEACE AND SAFETY.
-   The following acts, omissions, places, conditions and things are declared to
-be public nuisances affecting peace and safety, but such enumeration shall not
-be construed to exclude other nuisances affecting public peace or safety coming
-within the provisions of §
+    The following acts, omissions, places, conditions and things are declared
+to be public nuisances affecting peace and safety, but such enumeration shall
+not be construed to exclude other nuisances affecting public peace or safety
+coming within the provisions of §
 91.02:
-   (A)    All buildings erected, repaired or altered within the city in
-violation of the provisions of the ordinances of the city relating to the
-materials and the manner of construction of buildings and structures;
+   (A)   All buildings erected, repaired or altered within the city in
+violation of the provisions of the ordinances of the city relating to materials
+and manner of construction of buildings and structures;
    (B)   All unauthorized signs, signals, markings or devices which purport to
-be, or may be mistaken as, official traffic control devices placed or
-maintained upon or in view of any public highway;
+be or may be mistaken as official traffic control devices placed or maintained
+upon or in view of any public highway;
    (C)   All trees, hedges, billboards or other obstructions which prevent
 persons driving vehicles on public streets, alleys or highways from obtaining a
-clear view of traffic when approaching an intersection or a pedestrian
-crosswalk;
+clear view of traffic when approaching an intersection or pedestrian crosswalk;
    (D)   All limbs of trees which project over a public sidewalk less than
-eight feet above the surface thereof, or less than ten feet above the surface
-of a public street;
-   (E)   All use or display of fireworks except as provided by the laws of the
-State of Indiana and the ordinances of the city;
+eight feet above the surface thereof or less than ten feet above the surface of
+a public street;
+   (E)   All use of display of fireworks except as provided by the laws of the
+State of Indiana and ordinances of the city;
    (F)   All buildings or structures so old, dilapidated or out of repair as to
 be dangerous, unsafe, unsanitary or otherwise unfit for human use; or shall be
 an invitation to children and endanger the lives of such children, or which,
-because of their condition have become a fire hazard;
+because of its condition has become a fire hazard;
    (G)   All wires over streets, alleys or public grounds;
    (H)   All loud and discordant noises or vibrations of any kind, except as
 may be permitted under a zoning ordinance;
-   (I)   All obstructions of streets, alleys, sidewalks or crosswalks, and all
+   (I)   All obstructions of streets, alleys, sidewalks or crosswalks and all
 excavations in or under the same, except as permitted by the ordinances of the
 city of which, although made in accordance with such ordinances, are kept or
 maintained for an unreasonable length of time after the purpose thereof has
@@ -8565,122 +8721,104 @@ one-month period;
    (K)   All open and unguarded pits, wells, excavations or unused basements
 freely accessible from any public street, alley or sidewalks;
    (L)   All abandoned refrigerators, iceboxes or similar containers from which
-the doors and other covers have not been removed, or which are not equipped
-with a device for opening from the inside by pushing only with the strength of
-a small child;
+the doors and other covers have not been removed or which are not equipped with
+a device for opening from the inside by pushing only with the strength of a
+small child;
    (M)   Any unauthorized or unlawful use of property abutting on a public
 street, alley or sidewalk or of a public street, alley or sidewalk which causes
 large crowds of people to gather, obstructing traffic and free use of the
 streets or sidewalks;
    (N)   Any sign, marquee, or awning which is in an unsafe condition, or which
-overhangs any roadway, or which overhangs any sidewalk less than eight feet
+overhangs any roadway, or which overhangs any sidewalks less than eight feet
 above the sidewalk surface;
    (O)   Any nuisance so defined by the Indiana Code.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.06 ABATEMENT OF PUBLIC NUISANCES.
    (A)   Complaint. Unless a violation under this chapter is determined
 unilaterally by the city, a citizen who believes that there is a violation
-under this chapter shall file with the Clerk-Treasurer a formal complaint of a
-violation. The complaint shall be in writing, upon a complaint form approved by
-the city, and signed by the complainant. The complaint shall include the name
-and contact information of the complainant, the property upon which there is
-believed to be a violation, a detailed description of the condition of the
-property believed to be in violation, a detailed proposed remedy of the
-situation, and any additional information and exhibits (such as pictures and
-the like) that may assist in a determination.
-   (B)   Inspection of premises. When a complaint is made to the Clerk-
-Treasurer that a public nuisance exists or has existed within the city, the
-Clerk-Treasurer shall promptly notify the Building and Planning Director, who,
-along with the Chief of Police and the Workforce Manager, shall forthwith
-inspect or cause to be inspected the premises, and shall make a written report
-of their findings. Whenever practicable, the inspection officers shall cause
-photographs to be made of the premises and shall file the same in the office of
-the Clerk-Treasurer.
-   (C)   Nuisance Review Board. A Nuisance Review Board, composed of the Mayor,
-Building and Planning Director, Chief of Police, Workforce Manager, and City
-Attorney, shall examine the report of the inspection officers. If the Nuisance
-Review Board determines that there is no violation, a letter of that
-determination shall be sent to the complainant. If the Nuisance Review Board
-determines that there may be a violation, a copy of the complaint shall then be
-sent by the Clerk-Treasurer to the property owner. The Committee may attempt to
-meet with the property owner in order to discuss the situation and attempt to
-arrive at a resolution thereof. If the Nuisance Review Board shall determine
-that a public nuisance exists on private property, and that there is a great
-and immediate danger to the public health, safety, peace, morals or decency,
-the Nuisance Review Board may direct the Chief of Police, or a police deputy,
-to serve a notice on the owner, or, if the owner cannot be found, on the
-occupant or person causing, permitting or maintaining such nuisance, and to
-post a copy of the notice on the premises. The notice shall direct the owner,
-occupant or person causing, permitting or maintaining the nuisance to abate or
-remove it within 48 hours, and shall state that unless the nuisance is so
-abated, the city will cause the same to be abated and will charge the cost
-thereof to the owner, occupant or person causing, permitting or maintaining the
-same, as the case may be. If the Nuisance Review Board shall determine that a
-public nuisance may exist on private property, and that there is not a great
-and immediate danger to the public health, safety, peace, morals or decency,
-then the Nuisance Review Board shall refer the issue to the Board of Public
-Works and Safety with a recommendation of proper action to be taken by the
-City.
-   (D)   Board of Public Works and Safety. If the Nuisance Review Board has
-referred a matter to the Board of Public Works and Safety, the Board shall meet
-at either a regular or special meeting in order to discuss the matter and to
-take action thereon. The Board may invite the property owner and/or the
-complainant to the meeting in which the Board deliberates thereon. If the Board
-shall determine that a public nuisance exists on private property, and that
-there is a great and immediate danger to the public health, safety, peace,
-morals or decency that a public nuisance exists on private property, then the
-Board shall give notice of the violation to be served the owner or the occupant
-or person causing, permitting or maintaining the nuisance by certified mail,
-return receipt requested, or by posting a copy of the notice on the premises.
-The notice shall direct the owner, occupant or person causing, permitting or
-maintaining the nuisance to abate or remove it within a period of time
-designated by the Board, and shall state that unless the nuisance is so abated,
-the city will cause the same to be abated and will charge the cost thereof to
-the owner, occupant or person causing, permitting or maintaining the same, as
-the case may be.
-   (E)   Abatement by city. If the nuisance is not abated within the time
-provided or if the owner, occupant or person causing the nuisance cannot be
-found, the Building and Planning Director and the Workforce Manager shall cause
-the abatement or removal of such public nuisance.
-   (F)   Abatement by court action. If the Board of Public Works and Safety
-shall determine that a public nuisance exists on private premises, but that the
-nature of the nuisance is not such as to threaten great and immediate danger to
-the public health, safety, peace, morals or decency, and if the Board is unable
-to arrive at an agreement with the violating party in order to voluntarily
-abate the violation, then the Board shall cause an action to abate the nuisance
-to be commenced in the name of the city. The City Attorney may initiate an
-action to abate or enjoin such nuisances.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+under this chapter shall file with the City Clerk-Treasurer a formal complaint
+of a violation. Said complaint shall be in writing upon a complaint form
+approved by the city and signed by the complainant. Said complaint shall
+include the name and contact information of the complainant, the property upon
+which there is believed to be a violation, a detailed description of the
+condition of the property believed to be in violation, a detailed proposed
+remedy of the situation, and any additional information and exhibits (such as
+pictures, etc.) that may assist in a determination.
+   (B)   Inspection of premises. Whenever a written complaint is made to the
+Clerk-Treasurer or the Clerk-Treasurer's designee that a public nuisance exists
+or has existed within the city, or upon the observance and reporting to the
+Clerk-Treasurer by the Police Department, a city employee, Council Member, or
+the Nuisance Review Board, that a public nuisance exists or has existed within
+the city, the designated enforcement officer, who shall be an employee of the
+city as so appointed by the Common Council of the city, shall promptly inspect
+or cause to be inspected the premises and shall make a written report of the
+enforcement officer's findings to the Nuisance Review Board, which shall be
+composed of an official Nuisance Review Board as set forth in division (C)
+below. Whenever practicable, the enforcement officer shall cause photographs to
+be made of the premises and shall file the same with the Nuisance Review Board.
+   (C)   Nuisance Review Board. A Nuisance Review Board composed of the Mayor,
+Building and Planning Director, Chief of Police, Clerk-Treasurer, a Common
+Council Member appointed by the Mayor, and two citizens appointed by the Mayor,
+shall examine the report of the enforcement officer. If the Nuisance Review
+Board determines that there is no violation, a letter of said determination
+shall be sent to the complainant. If the Nuisance Review Board determines that
+there may be a violation, a copy of the Board's finding shall then be sent by
+the City Clerk-Treasurer to the property owner. The Board may attempt to meet
+with the property owner in order to discuss the situation and attempt to arrive
+at a resolution thereof. If the Nuisance Review Board shall determine that a
+public nuisance exists on private property that affects the public health,
+peace, safety, morals or decency, the Nuisance Review Board may direct the
+Chief of Police, or a police deputy, to serve a notice on the owner, or, if the
+owner cannot be found, on the occupant or person causing, permitting or
+maintaining such nuisance and to post a copy of the notice on the premises.
+Such notice shall direct the owner, occupant or person causing, permitting or
+maintaining such nuisance to abate or remove such nuisance within 48 hours, and
+shall state that unless such nuisance is so abated, the city will cause the
+same to be abated and will charge the cost thereof to the owner, occupant or
+person causing, permitting or maintaining the same, as the case may be.
+   (D)   Abatement by city. If the nuisance is not abated within the time
+provided in the notice set forth in division (C) above, or if the owner,
+occupant or person causing the nuisance cannot be found, the enforcement
+officer and Clerk-Treasurer shall have the authority to cause the abatement or
+removal of such public nuisance.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.07 COST OF ABATEMENT.
-    In addition to any other penalty imposed by this chapter for the erection,
+    In addition to any other penalty imposed by this section for the erection,
 contrivance, creation, continuance or maintenance of a public nuisance, the
 cost of abating a public nuisance by the city shall be collected as a debt from
 the owner, occupant or person causing, permitting or maintaining the nuisance.
-The cost of the abatement shall include, but not be limited to, court costs,
-attorney's fees and interest on any amounts incurred by the city. If the city
-uses municipal employees, it shall set and assign an appropriate per-hour rate
-for employees, equipment, supplies and chemicals that may be used. The Clerk-
-Treasurer shall send a notice to the owner of the cost of abatement, and the
-owner shall then have 30 days from the mailing of the notice to reimburse the
-city. If the cost of abatement is not reimbursed within 60 days of the mailing
-of the notice, the Clerk-Treasurer shall file a certified copy of the statement
-of costs in the Auditor's office of Adams County, and the Auditor shall place
-the amount so claimed on the tax duplicate against the lands of the landowner
-affected by the lien, and the same shall be collected as taxes disbursed to the
-General Fund of the city.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+Said cost of the abatement shall include, but not be limited to, court costs,
+attorney's fees, administrative costs, and interest on any amounts incurred by
+the city. If the city uses municipal employees, it shall set and assign an
+appropriate per hour rate for employees, equipment, supplies and chemicals that
+may be used. The Clerk-Treasurer shall send a notice to the owner of the cost
+of abatement, and the owner shall then have 30 days from the mailing of said
+notice to reimburse the city. If said cost of abatement is not reimbursed
+within 60 days of the mailing of said notice, the Clerk-Treasurer shall file a
+certified copy of the statement of costs in the Auditor's office of Adams
+County, and the County Auditor shall cause such costs, together with interest
+at the rate of 8% per annum, to be added to the property's tax duplicate to be
+collected as delinquent real estate taxes, pursuant to I.C. 36-7-10.1-1 et
+seq., which upon collection shall be deposited into the General Fund of the
+city. The Clerk-Treasurer is further authorized to utilize the Indiana Local
+Government Debt Setoff Clearinghouse for the collection of the aforementioned
+cost of abatement, as well as any penalties and fines under this
+Chapter 91.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.08 GRAFFITI.
    (A)   Definitions. For the purpose of this section the following definitions
 shall apply unless the context clearly indicates or requires a different
 meaning.
-      GRAFFITI. Includes markings which deface, deform, or mar, or which cause
-the defacing, deforming, or marring of, any public or private property,
-including by way of illustration and not limitation, buildings, trees,
-lampposts, poles, hydrants, bridges, piers, sidewalks, streets, and alleyways,
-or the surface of any public or private property located upon any public
-thoroughfare or right-of-way, or upon any public place within the city.
-However, this section shall not prohibit the posting of notices required by law
-to be posted.
+      GRAFFITI. Includes markings which deface, deform, mar or which cause the
+defacing, deforming, or marring of any public or private property including by
+way of illustration and not limitation, buildings, trees, lampposts, poles,
+hydrants, bridges, piers, sidewalks, streets, and alleyways, or the surface of
+any public or private property located upon any public thoroughfare or right-
+of-way, or upon any public place within the city. However, this section shall
+not prohibit the posting of notices required by law to be posted.
       OWNER. All public and private property owners in the city.
    (B)   Violations, penalties.
       (1)   It shall be unlawful for any person to cause the appearance of
@@ -8688,10 +8826,11 @@ graffiti on public or private property within the corporate city limits.
       (2)   Any person who violates this section shall, upon conviction, be
 fined in an amount not to exceed $2,500.
       (3)   All fines collected pursuant to the immediately preceding divisions
-(A) and (B) shall be deposited in a special fund (the "Fund") for reimbursement
-to qualified owners of expenses incurred pursuant to this section.
+(A) and (B) herein shall be deposited in a special fund (the "fund") for
+reimbursement to qualified owners of expenses incurred pursuant to this
+section.
    (C)   Owners.
-      (1)   Any owner or tenant shall notify the city Police Department (the
+      (1)   Any owner or tenant shall notify the Police Department (the
 "Department") within 48 hours of the appearance of graffiti on their property.
       (2)   Upon notification, the Department shall cause an inspection of the
 graffiti to be made, a police report to be filed, and shall begin an
@@ -8699,15 +8838,15 @@ investigation as the Department deems necessary and prudent.
       (3)   Once an inspection has been made, the owner shall have ten business
 days in which to remove or cover the graffiti.
       (4)   Noncompliance with the removal provision of this section shall
-occur at the expiration of the ten-business-day period if the graffiti has not
+occur at the expiration of the ten business-day period if the graffiti has not
 been either removed or covered.
       (5)   In the event of such noncompliance, the Building and Planning
 Director or his or her designee shall issue a written notice to the violating
-owner. The notice shall order the owner to correct the noncompliance by removal
-and/or covering of the graffiti within five days of receipt of the notice. The
-notice may be served either personally on the owner or sent by certified mail
-with a return receipt requested. If the owner is a nonresident of the city, the
-notice shall be sent to owner's last known address.
+owner. Said notice shall order the owner to correct the noncompliance by
+removal and/or covering of the graffiti within five days of receipt of notice.
+Such notice may be served either personally on the owner or sent by certified
+mail with a return receipt requested. If the owner is a nonresident of the
+city, notice shall be sent to the owner's last known address.
       (6)   If the owner fails to abate the violation within the time
 prescribed by the notice, the owner shall be deemed to have granted permission
 to the respective city official to cause a designee of the city to enter the
@@ -8719,12 +8858,12 @@ be delivered to the owner either by hand or by certified mail, return receipt
 requested. The owner shall, within ten days of receipt or refusal of such
 notice, pay the amount due at the Clerk-Treasurer's office.
       (8)   Any notice of violation or bill issued under this section may be
-appealed to the Board of Public Works and Safety, if notice of appeal is given
+appealed to the Board of Public Works and Safety if notice of appeal is given
 to the Clerk-Treasurer within seven days of the owner's receipt or refusal of
 the notice of violation. The Board of Public Works and Safety shall hear any
 properly requested appeal at a regularly scheduled meeting within 15 business
-days following receipt of such appeal request, and shall make a determination
-at the meeting at which it hears the appeal or at its subsequent regularly
+days following receipt of such appeal request and shall make a determination at
+the meeting at which it hears the appeal or at its subsequent regularly
 scheduled meeting.
       (9)   If the owner fails to pay a bill issued under this section within
 the time specified, the Clerk-Treasurer shall certify to the County Auditor the
@@ -8735,18 +8874,19 @@ accrued interest, shall be collected as delinquent taxes are collected and
 shall be disbursed to the General Fund of the city.
    (D)   Nothing contained herein shall be construed to preclude any criminal
 investigation by the Department or any other law enforcement agency.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)  Penalty, see §
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25) Penalty, see §
 10.99
 GRASS, WEEDS, DEBRIS AND OTHER
-SUCH RANK VEGETATION
+RANK VEGETATION
 § 91.20 REMOVAL OF GRASS, WEEDS, DEBRIS AND OTHER SUCH RANK VEGETATION.
-   (A)   Definitions. For purposes of this subchapter, the following
-definitions shall apply unless the context clearly indicates or requires a
-different meaning.
+   (A)   Definitions. For the purpose of this section the following definitions
+shall apply unless the context clearly indicates or requires a different
+meaning.
       DEBRIS. Includes the remains of something broken-down or destroyed.
       GRASS. Includes vegetation consisting of typically short plants with long
 narrow leaves, growing wild or cultivated on lawns.
-      RANK VEGETATION. Includes those weeds and growing vegetation that are
+      RANK VEGETATION. Includes those weeds and growing vegetation which are
 excessively vigorous in growth, shockingly conspicuous, malodorous and/or
 flagrant.
       WEEDS. Includes any plant that is not valued where it is growing, and is
@@ -8754,31 +8894,36 @@ of rank growth, tends to overgrow or choke out more desirable plants and/or is
 listed as a weed in the U.S. Department of Agriculture publication entitled
 Common Weeds of the United States, or in any similar government publication.
    (B)   Violation. It is a violation of this section to have weeds, rank
-vegetation and/or debris on any real property (“property”) located within the
+vegetation and/or debris on any real property ("property") located within the
 city's corporate limits.
-   (C)   Requirement to cut. All owners of real property located within the
-city shall cut and remove weeds and other rank vegetation growing thereon that
-exceeds an average height of eight inches, and shall keep their property clear
-of debris. Grass shall at all times be cut to an average height of no more than
-eight inches.
+   (C)   Requirement to cut. All owners of real property ("property") located
+within the city shall cut and remove weeds and other rank vegetation growing
+thereon that exceeds an average height of eight inches, and shall keep their
+property clear of debris. Grass shall at all times be cut to an average height
+of no more than eight inches.
    (D)   Discharge of cut grass. No property owner shall cause or allow to
 cause the discharge of cut grass debris onto any public street, alley or right-
 of-way unless such cut grass debris is immediately removed, in its entirety,
-from the public street, alley or right-of-way.
-   (E)   Violation notice. In the event of a violation of this section, the
-Building and Planning Director (“Director”), or his or her designee, or an
-officer of the Police Department shall issue a written notice (“violation
-notice”) to the violating landowner. The violation notice shall identify the
-violation and order the landowner to correct the same within five calendar days
-from the date on which the violation notice is served on the landowner
-(“abatement period”). Personal service, service by U.S. certified mail or any
-other manner service recognized in the Indiana Rules of Trial Procedure shall
-constitute proper service upon the landowner for purposes of this section.
+from said public street, alley or right-of-way. No violation notice under
+division (E) below is required under this division (D) prior to the issuance of
+a warning and/or fine under division (I). This division (D) shall not prevent a
+property owner from depositing grass clippings on leaf piles along the curb in
+the fall during the weeks in which the city provides leaf pickup.
+   (E)   Violation notice. Except for a violation set forth in division (D)
+herein, in the event of a violation of this section, the Building and Planning
+Director ("Director") or his or her designee, or an officer of the Police
+Department shall issue a written notice ("violation notice") to the violating
+landowner. The violation notice shall identify the violation and order the
+landowner to correct the same within five calendar days from the date on which
+the violation notice is served on the landowner ("abatement period"). Personal
+service, service by U.S. certified mail or any other manner service recognized
+in the Indiana Rules of Trial Procedure shall constitute proper service upon
+the landowner for purposes of this section.
    (F)   Appeal. Any violation notice issued pursuant to this section may be
-appealed to the Board of Public Works and Safety (“Board”) if written notice of
-appeal is served on the landowner. The timely appeal of a violation notice
-shall toll the abatement period pending the issuance of a decision thereon by
-the Board.
+appealed to the Board of Public Works and Safety ("Board") if written notice of
+appeal is served on the city. The timely appeal of a violation notice shall
+toll the abatement period pending the issuance of a decision thereon by the
+Board.
    (G)   City to abate. If the landowner fails to timely abate each violation
 set forth in a violation notice, the landowner shall be deemed to have granted
 permission to the city to enter the landowner's property for the limited
@@ -8786,7 +8931,7 @@ purpose of cutting and/or removing such debris, grass, weeds or rank vegetation
 located thereon and identified in the violation notice. In such case, the
 Clerk-Treasurer, or his or her designee, shall prepare a certified statement as
 to the actual administrative and other costs incurred by the city in taking
-such action, and serve a copy of the invoice on the landowner. The invoice
+such action, and serve a copy of the invoice on the landowner. Said invoice
 shall be for a minimum of $100 due to the administrative costs incurred by the
 city. The landowner shall, within seven calendar days from the date on which
 the landowner is served with such invoice (“payment period”), pay in full the
@@ -8807,114 +8952,155 @@ General Fund of the city.
    (J)   Time of appeals. The Board shall hear any timely requested appeal of a
 notice of violation or invoice within 30 calendar days following receipt of the
 same, and shall thereafter promptly issue a written decision granting or
-denying, in whole or in part, the appeal. The date on which the Board’s
+denying, in whole or in part, the appeal. The date on which the Board's
 decision is served on the landowner shall thereafter become the first calendar
 day of the abatement period or payment period, as applicable.
    (K)   This section supplements and does not limit any other remedy or action
 available in law or in equity regarding the subject matter hereof.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+   (L)   A landowner who violates division (D), or a landowner who violates
+divisions (A) through (C) and fails to timely abate a violation set forth in a
+violation notice, shall receive a warning of a possible future fine from the
+Police Department of the city. Upon a second violation of this section, the
+landowner shall be fined the sum of $100, with said fine to be assessed by the
+Police Department of the city. Upon a third or any additional violation of this
+section, the landowner shall be fined the sum of $200, with said fine to be
+assessed by the Police Department of the city. The action against any person to
+enforce a penalty by the city shall constitute a separate and additional legal
+remedy, and the fact that any proceedings by way of an injunction or for the
+abatement of any such violation has been or may be instituted by the city and
+may be pending or concluded, shall not affect this section or be considered in
+any way as a defense to such action for the penalty herein prescribed.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.21 COLLECTION OF MONIES FROM PROPERTY OWNERS.
-    If the owner fails to pay the sum assessed for the removal and/or cutting
+    If the owner fails to pay said sum assessed for the removal and/or cutting
 of the debris, weeds, or rank vegetation within the time prescribed, the Clerk-
 Treasurer shall file a certified copy of the statement of costs and fine in the
 Auditor's office of Adams County, and the Auditor shall place the amount so
 claimed on the tax duplicate against the lands of the landowner affected by the
 lien, and the same shall be collected as taxes disbursed to the General Fund of
 the city.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 JUNK, JUNK CARS AND
 ABANDONED VEHICLES
 § 91.30 DEFINITIONS.
-   (A)   Definitions. For purposes of this subchapter the following definitions
-shall apply unless the context clearly indicates or requires a different
-meaning.
+   (A)   Definitions. For the purpose of this subchapter the following
+definitions shall apply unless the context clearly indicates or requires a
+different meaning.
       ABANDONED VEHICLE. Any motor vehicle, car, boat, and other means of
 motorized transportation that is left on private premises without the consent
 of the owner or person in control of such premises, or on a public street,
-alley or right-of-way for a continuous period of time exceeding 30 days.
+alley or right of way for a continuous period of time exceeding 30 days.
 ABANDONED VEHICLE shall also include any vehicle located on public premises
 illegally or in such manner as to constitute a hazard or unreasonable
 obstruction to the movement of pedestrian or other vehicle traffic on a public
 right-of-way, street or highway.
-      JUNK. Any articles in any form composed of or consisting of any of the
+      JUNK. Any articles in any form, composed of or consisting of any of the
 following enumerated secondhand, discarded, abandoned or cast-off metals or
 materials, namely, iron, brass, bronze, copper, tin, zinc, lead or any other
-metals or compounds thereof, broken glass, rags, clothing, rubber, plastics,
-and synthetic substances and fabrics, bottles, papers, feathers or any other
-waste material or any compound or by-product of the foregoing enumerated
-materials. JUNK shall also include and mean a wrecked, abandoned or dismantled
-automobile, or parts thereof.
-      JUNK CAR. Any motor vehicle which does not bear a currently valid license
-plate, and is not kept in a garage or building. JUNK CAR shall also include any
-vehicle from which there has been removed the engine, transmission or
-differential, or which is otherwise partially dismantled or inoperable and left
-on public premises, or which has been left unattended for more than 30 days on
-private premises in a location visible from public premises and/or private
-premises at ground level.
+metals or compounds thereof,
+ 
+2025 S-22
+   Nuisances   12C
+broken glass, rags, clothing, rubber, plastics, and synthetic substances and
+fabrics, bottles, papers, feathers or any other waste material or any compound
+or by-product of the foregoing enumerated materials; junk shall also include
+and mean wrecked, abandoned or dismantled automobile or parts thereof.
+      JUNK VEHICLE. Any motor vehicle, trailer, truck commercial vehicle,
+storage trailer, motor home, recreational vehicle (RV), camper shell, camper or
+camping trailer, located on any public street, alley or right-of-way for a
+period of more than 24 hours over a one-month period which does not bear a
+currently valid license plate, and is not kept in a garage or building. JUNK
+VEHICLE shall also include any vehicle from which there has been removed the
+engine, transmission or differential or which is otherwise partially dismantled
+or inoperable and left on public premises or which has been left unattended for
+more than 30 days on private premises in a location visible from public
+premises and/or private premises at ground level. Junk vehicle shall also
+include any trailer, truck commercial vehicle, storage trailer, motor home,
+recreational vehicle (RV), camper shell, camper or camping trailer which has
+been left unattended for more than 30 days on private premises in a location
+visible from public premises and/or private premises at ground level.
    (B)   Exemptions. The provisions of this chapter shall not apply to any
 vehicle located on a properly zoned vehicle sale lot, at a properly zoned
 commercial vehicle servicing facility, at a properly zoned automobile scrap
 yard, and any motor vehicle eligible for registration and licensing under I.C.
-9-18-12-1, 9-18-12-2, 9-18-12-4 through 9-18-12-6 as an antique vehicle.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
-§ 91.31 JUNK, JUNK CARS AND ABANDONED VEHICLES DECLARED NUISANCES.
-    Because of the danger to health posed by vermin and insects therein, and
-because of the danger to the safety of children attracted thereto, junk, junk
-cars and abandoned vehicles are declared to be nuisances, except in lawfully
-zoned and operated junk yards.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)  Penalty, see §
+9-18-12-1, I.C. 9-18-12-2, and I.C. 9-18-12-4 through 9-18-12-6 as an antique
+vehicle.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
+§ 91.31 JUNK, JUNK VEHICLES AND ABANDONED VEHICLES DECLARED NUISANCES.
+   Because of the danger of health by vermin and insects and because of the
+danger of the safety of children attracted by junk, junk vehicles, abandoned
+vehicles and junked motor vehicles are declared to be nuisances except in
+lawfully zoned and operated junk yards.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)  Penalty, see §
 10.99
 § 91.32 STORAGE PROHIBITED.
     It shall be unlawful for any person to store or to allow to remain in the
 open upon public or private property within the city, any disassembled and/or
 non-operative or unlicensed, or junked, wrecked or abandoned motor vehicle for
 a period of 30 days or more on public property, or a period of 45 days or more
-on private property, unless it is in connection with an automobile sale or
+on private property unless it is in connection with an automobile sale or
 repair business in a properly zoned area.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.33 ENFORCEMENT FOR JUNK.
-   Any enforcement under this section for junk shall take place pursuant to §§
-91.06 and
-91.07.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
-§ 91.34 ENFORCEMENT FOR JUNK CARS AND ABANDONED VEHICLES.
+    Any enforcement under this section for junk shall take place pursuant to §§
+91.06 and §
+91.07. Whoever creates or maintains any nuisance regarding junk, junk vehicles
+or abandoned vehicles, as defined in this section and who fails or refuses to
+abate such nuisance when so ordered, shall be fined the sum of $100, and said
+fine shall be assessed by the Police Department of the city. A separate offense
+shall be deemed committed upon each day during or on which the violation occurs
+or continues beyond the date fixed for abatement of such nuisance. The action
+against any person to enforce a penalty by the city shall constitute a separate
+and additional legal remedy, and the fact that any proceedings by way of an
+injunction or for the abatement of any such nuisance has been or may be
+instituted by the city and may be pending or concluded, shall not affect this
+section or be considered in any way as a defense to such action for the penalty
+herein prescribed.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
+§ 91.34 ENFORCEMENT FOR JUNK VEHICLES AND ABANDONED VEHICLES.
    (A)   Discovery, notice and declaration of abandonment. In addition to the
 enforcement procedures as set forth in §
-91.33, when a city police officer (“officer”) discovers a vehicle in the
-possession of a person other than the owner of the vehicle, and the person
-cannot establish the right to possession of the vehicle, the vehicle shall be
-taken to and stored in a suitable place determined by the officer. The Indiana
-Bureau of Motor Vehicles shall be notified within 72 hours of the location and
-description of a vehicle described herein. Upon receipt of notification, the
-Bureau shall cause a search to be made to determine and notify the person who
-owns the vehicle under this subchapter. Pursuant to I.C. 9-22-17, the Bureau
-shall declare a vehicle abandoned and provide for disposal under this
-subchapter if:
+91.33, when a city police officer (hereinafter "officer") discovers a vehicle
+in the possession of a person other than the owner of the vehicle and the
+person cannot establish the right to possession of the vehicle, the vehicle
+shall be taken to and stored in a suitable place determined by the officer. The
+Indiana Bureau of Motor Vehicles shall be notified within 72 hours of the
+location and description of a vehicle described herein. Upon receipt of
+notification, the Bureau shall cause a search to be made to determine and
+notify the person who owns the vehicle under this chapter. Pursuant to I.C. 9-
+22-17, the Bureau shall declare a vehicle abandoned and provide for disposal
+under this chapter if:
       (1)   The owner or lienholder under division (C) below does not appear
 and pay all costs; or
       (2)   The owner of a vehicle cannot be determined by a search under
 division (K) below.
    (B)   Release to owner or lienholder of stored vehicle. If the properly
 identified person who owns or holds a lien on a vehicle appears at the site of
-storage before disposal of the vehicle or parts, and pays all costs incurred
+storage before disposal of the vehicle or parts and pays all costs incurred
 against the vehicle or parts at that time, the vehicle or parts shall be
 released. The city shall notify the appropriate public agency of all releases
 under this section. The notification must include the name, signature and
 address of the person that owns or holds a lien on the vehicle, a description
 of the vehicle or parts, costs, and the date of release.
-   (C)   Tagging abandoned or junk vehicle or parts. An officer who finds or is
-notified of a vehicle or parts believed to be abandoned shall attach in a
+   (C)   Tagging abandoned or junked vehicle or parts. An officer who finds or
+is notified of a vehicle or parts believed to be abandoned shall attach in a
 prominent place a notice tag containing the following information:
-      (1)   The date, time, officer’s name, public agency, and address and
-telephone number to contact for information;
-      (2)   That the vehicle or parts are considered abandoned;
+      (1)   The date, time, officer's name, public agency, and address and
+telephone number to contact for information.
+      (2)   That the vehicle or parts are considered abandoned.
       (3)   That the vehicle or parts will be removed after:
          (a)   Twenty-four hours, if the vehicle is located on or within the
 right-of-way of an interstate highway or any highway that is designated as part
 of the state highway system under I.C. 8-23-4; or
-         (b)   Seventy-two hours, for any other vehicle;
+         (b)   Seventy-two hours, for any other vehicle.
       (4)   That the person who owns the vehicle will be held responsible for
-all costs incidental to the removal, storage, and disposal of the vehicle;
+all costs incidental to the removal, storage, and disposal of the vehicle.
       (5)   That the person who owns the vehicle may avoid costs by removal of
 the vehicle or parts within:
          (a)   Twenty-four hours, if the vehicle is located on or within the
@@ -8927,7 +9113,7 @@ officer shall prepare a written abandoned vehicle report of the vehicle or
 parts, including information on the condition and missing parts. Photographs
 may be taken to describe the condition of the vehicle or parts.
    (E)   Vehicle or parts valued at less than $1,000. If the vehicle is an
-abandoned vehicle and the market value of the vehicle or parts is less than
+abandoned vehicle and the market value of said vehicle or parts is less than
 $1,000, the towing service shall immediately transfer the vehicle to a storage
 yard. A copy of the abandoned vehicle report and photographs, if applicable,
 relating to the abandoned vehicle shall be provided to the storage yard. A
@@ -8941,26 +9127,26 @@ demolished.
    (F)   Vehicle or parts valued at $1,000 or more. If in the opinion of the
 officer the market value of the abandoned vehicle or parts is at least $1,000,
 the officer, before placing a notice tag on the vehicle or parts, shall make a
-reasonable effort to ascertain the person who owns the vehicle or parts, or who
+reasonable effort to ascertain the person who owns the vehicle or parts or who
 may be in control of the vehicle or parts. After 72 hours, the officer shall
 require the vehicle or parts to be towed to a storage yard or towing service.
-   (G)   Discovery of vehicle abandoned on rental property.
+   (G)   Discovery or vehicle abandoned on rental property.
       (1)   A person who finds a vehicle believed to be abandoned on private
 property that the person owns or controls, including rental property may:
-         (a)   Obtain the assistance of an officer under division (J) below to
-have the vehicle removed; or
+         (a)   Obtain the assistance of an officer under division (J) to have
+the vehicle removed; or
          (b)   Personally arrange for the removal of the vehicle by complying
-with division (B) above and division (H) below.
+with divisions (B) and (H).
       (2)   If the person wishes to personally arrange for the removal of the
 vehicle, the person shall attach in a prominent place a notice tag containing
 the following information:
          (a)   The date, time, name and address of the person who owns or
-controls the private property, and a telephone number to contact for
-information;
-         (b)   That the vehicle is considered abandoned;
-         (c)   That the vehicle will be removed after 24 hours;
+controls the private property and a telephone number to contact for
+information.
+         (b)   That the vehicle is considered abandoned.
+         (c)   That the vehicle will be removed after 24 hours.
          (d)   That the person who owns the vehicle will be held responsible
-for all costs incidental to its removal, storage, and disposal;
+for all costs incidental to the removal, storage, and disposal of the vehicle.
          (e)   That the person who owns the vehicle may avoid costs by removal
 of the vehicle or parts within 24 hours.
    (H)   Towing vehicle from rental property.
@@ -8971,48 +9157,50 @@ vehicle is believed to be abandoned may have the vehicle towed from the private
 property.
       (2)   Notwithstanding division (H)(1) above, in an emergency situation a
 vehicle believed to be abandoned on private property may be removed
-immediately. As used in this division, EMERGENCY SITUATION means that the
+immediately. As used in this division, emergency situation means that the
 presence of the vehicle believed to be abandoned interferes physically with the
 conduct of normal business operations of the person who owns or controls the
 private property or poses a threat to the safety or security of persons or
 property, or both.
    (I)   Notice to public agency of vehicle abandoned on rental property. A
-towing service that tows a vehicle under division (H) above shall give notice
-to the public agency that the abandoned vehicle is in the possession of the
-towing service.
+towing service that tows a vehicle under division (H) shall give notice to the
+public agency that the abandoned vehicle is in the possession of the towing
+service.
    (J)   Complaint by person owning or controlling private property. Under
 complaint of a person who owns or controls private property that a vehicle has
 been left on the property for at least 48 hours without the consent of the
 person who owns or controls the property, an officer shall follow the
-procedures set forth in divisions (C) through (F) above.
+procedures set forth in divisions (C) through (F).
    (K)   Abandoned vehicle report.
       (1)   Within 72 hours after removal of an abandoned vehicle to a storage
-yard or towing service under divisions (E), (F) or (H) above, the public agency
-or towing service shall conduct a search of national databases, including a
-database of vehicle identification numbers, to attempt to obtain the last state
-of record of the vehicle in order to attempt to ascertain the name and address
-of the person who owns or holds a lien on the vehicle.
+yard or towing service under divisions (E), (F) or (H), the public agency or
+towing service shall conduct a search of national data bases, including a data
+base of vehicle identification numbers, to attempt to obtain the last state of
+record of the vehicle in order to attempt to ascertain the name and address of
+the person who owns or holds a lien on the vehicle.
       (2)   (a)   A public agency or towing service that obtains the name and
 address of the owner of or lienholder on the vehicle shall, not later than 72
 hours after obtaining the name and address, notify the person who owns or holds
-a lien on the vehicle of the name, address, and telephone number of the public
-agency or towing service.
+a lien on the vehicle of the:
+            1.   Name;
+            2.   Address; and
+            3.   Telephone number of the public agency or towing service.
          (b)   The notice must be made by certified mail or a certificate of
 mailing or by means of an electronic service approved by the Bureau.
       (3)   Notwithstanding I.C. 9-22-1-4, a public agency or towing service
 that fails to notify the owner of or the lienholder on the vehicle, as set
 forth in this division, may not collect additional storage costs incurred after
 the date of receipt of the name and address obtained.
-   (L)   Means of vehicle identification not available; disposal without
-notice. If a vehicle or parts are in such a condition that vehicle
-identification numbers or other means of identification are not available to
-determine the person who owns or holds a lien on the vehicle, the vehicle may
-be disposed of without notice.
+   (L)   Means of vehicle identification available; disposal without notice. If
+a vehicle or parts are in such a condition that vehicle identification numbers
+or other means of identification are not available to determine the person who
+owns or holds a lien on the vehicle, the vehicle may be disposed of without
+notice.
    (M)   Purchasers at public sales. A person that purchases a vehicle under
-this subchapter shall be furnished a bill of sale for each abandoned vehicle
-sold by the public agency, upon paying the fee for a bill of sale imposed by
-the public agency. The fee may not exceed $6 for each bill of sale. A person
-that purchases a vehicle under this subchapter must:
+this chapter shall be furnished a bill of sale for each abandoned vehicle sold
+by the public agency upon paying the fee for a bill of sale imposed by the
+public agency. The fee may not exceed $6 for each bill of sale. A person that
+purchases a vehicle under this chapter must:
       (1)   Present evidence from a law enforcement agency that the vehicle
 purchased is roadworthy, if applicable; and
       (2)   Comply with the applicable requirements under I.C. 9-17 to obtain a
@@ -9020,136 +9208,148 @@ certificate of title for the vehicle.
    (N)   Payment of removal, storage and disposition costs. The costs for
 removal and storage of an abandoned vehicle or parts not claimed by the person
 who owns or holds a lien on a vehicle shall be paid from the abandoned vehicle
-account established under division (Q) below. The charge payable by the person
-who owns or holds a lien on a vehicle for towing, storing, or removing an
-abandoned vehicle or parts may not exceed the limits established by ordinance
-adopted under division (Q) below.
+account established under division (Q). The charge payable by the person who
+owns or holds a lien on a vehicle for towing, storing, or removing an abandoned
+vehicle or parts may not exceed the limits established by ordinance adopted
+under division (Q).
    (O)   Sale proceeds credited against removal, storage and disposition costs.
-The proceeds of sale of an abandoned vehicle or parts under this subchapter
-shall be credited against the costs of the removal, storage, and disposal of
-the vehicle.
+The proceeds of sale of an abandoned vehicle or parts under this chapter shall
+be credited against the costs of the removal, storage, and disposal of the
+vehicle.
    (P)   Sales; deposit of proceeds; payment of public agency costs;
 appropriations.
-      (1)   This division applies to sales of abandoned vehicles or parts by
+      (1)   This section applies to sales of abandoned vehicles or parts by
 local units.
       (2)   The proceeds from the sale of abandoned vehicles or parts,
 including:
          (a)   Charges for bills of sale; and
          (b)   Money received from persons who own or hold liens on vehicles
 for the cost of removal or storage of vehicles; shall be deposited with the
-Clerk-Treasurer and placed by the Clerk-Treasurer in the city’s Abandoned
+City Clerk-Treasurer and placed by the Clerk-Treasurer in the city's Abandoned
 Vehicle Fund.
-      (3)   The costs incurred by the city in administering this subchapter
-shall be paid from the Abandoned Vehicle Fund.
+      (3)   The costs incurred by the city in administering this chapter shall
+be paid from the Abandoned Vehicle Fund.
       (4)   The fiscal body shall annually appropriate sufficient money to the
-Fund to carry out this subchapter. Money remaining in the Fund at the end of a
-year remains in the Fund and does not revert to the General Fund.
+fund to carry out this chapter. Money remaining in the fund at the end of a
+year remains in the fund and does not revert to the General Fund.
       (5)   Notwithstanding division (P)(4) above, the City Council may
-transfer money from the Fund.
-   (Q)   Abandoned Vehicle Fund. There is hereby created the City of Berne
-Abandoned Vehicle Fund, which shall be a revolving fund, and all moneys paid to
-the city for the cost of removal, storage and disposal of abandoned vehicles
-shall be placed in the Fund and in no other place. The Fund shall also have
-added to it such moneys as may be appropriated by the Common Council, and such
-moneys also shall not revert but shall remain in the Abandoned Vehicle Fund.
+transfer money from the fund.
+   (Q)   Abandoned Vehicle Fund. There is hereby created the city Abandoned
+Vehicle Fund which shall be a revolving fund, and all moneys paid to the city
+for the cost of removal, storage and disposal of abandoned vehicles shall be
+placed in such fund and in no other place. Such fund shall also have added to
+it such moneys as may be appropriated by the Common Council and such moneys
+also shall not revert but shall remain in the Abandoned Vehicle Fund.
    (R)   Liability for loss or damage to vehicle or vehicle parts. The
 following are not liable for loss or damage to a vehicle or parts occurring
-during the removal or storage of a vehicle or parts under this subchapter:
+during the removal or storage of a vehicle or parts under this chapter:
       (1)   A person who owns, leases, or occupies property from which an
-abandoned vehicle or its contents or parts are removed;
-      (2)   A public agency;
-      (3)   A towing service;
-      (4)   An automobile scrap yard or storage yard;
+abandoned vehicle or its contents or parts are removed.
+      (2)   A public agency.
+      (3)   A towing service.
+      (4)   An automobile scrap yard or storage yard.
       (5)   An agent of a person or entity listed in divisions (R)(1) through
-(R)(4) above.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(4) above.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 OUTDOOR BURNING REGULATIONS
 § 91.40 APPLICATION OF OUTDOOR BURNING REGULATIONS.
-   All outdoor burning of any material is banned within the municipal city
+    All outdoor burning of any material is banned within the municipal city
 limits except as provided by §
 91.41 and I.C. 13-17-9.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.41 EXCEPTIONS.
-   (A)    The following types of fires are permitted, subject to the
-limitations found in division (B) below:
-      (1)   Fires used for celebrating school pep rallies;
-      (2)   Fires used for celebrating scouting activities;
-      (3)   Fires used for recreational and cooking purposes, i.e., camp fires;
-      (4)   Residential burning where a residence contains four or fewer units.
-Burning shall be in a noncombustible container, sufficiently vented to induce
+   (A)    The following types of fires are permitted subject to the limitations
+found in division (B):
+      (1)   Fires used for celebrating school pep rallies.
+      (2)   Fires used for celebrating scouting activities.
+      (3)   Fires used for recreational and cooking purposes, i.e., camp fires.
+      (4)   Residential burning where residence contains four or fewer units.
+Burning shall be in a non-combustible container sufficiently vented to induce
 adequate primary combustion air with enclosed sides, a bottom, and a mesh
-covering with opening no larger than one quarter-inch square. Burning is
-prohibited in apartment complexes and mobile home parks;
+covering with opening no larger than one-quarter-inch square. Burning is
+prohibited in apartment complexes and mobile home parks.
       (5)   Farm burning and burning by the Department of Natural Resources as
-allowed by I.C. 13-17-9;
+allowed by I.C. 13-17-9.
       (6)   Burning with prior receipt of a variance application and approval
 of the Indiana Air Pollution Control Board or its designated agent as allowed
-by 326 IAC 4-1-1;
+by 326 IAC 4-1-1.
    (B)   All permitted types of fires shall be subject to the following:
       (1)   Only untreated wood products shall be burned unless otherwise
-stated;
-      (2)   Fires shall be attended at all times until completely extinguished;
+stated.
+      (2)   Fires shall be attended at all times until completely extinguished.
       (3)   If fires create an air pollution problem, a nuisance, a health
 hazard, or a fire hazard, they shall be extinguished. A NUISANCE shall be
 defined so as to include a complaint regarding the burning from any downwind
-property owner or occupant;
+property owner or occupant.
       (4)   All residential burning shall occur between sunrise and sunset,
 during which the fires may be replenished, but only in such a manner that all
-of the burning material is consumed by sunset;
-      (5)   No burning shall be conducted unless the wind is at least five
-m.p.h. and no more than 15 m.p.h.;
+of the burning material is consumed by sunset.
+      (5)   No burning shall be conducted unless the wind is at least five mph
+and no more than 15 mph.
       (6)   No burning shall be conducted on property owned by another party,
-including publicly-owned streets, roads, and highways;
+including publicly owned streets, roads, and highways.
       (7)   No burning shall be conducted on any paved street or alley within
-the city;
+the city.
       (8)   No burning shall be conducted within 100 feet of a structure owned
-by another party;
+by another party.
       (9)   No burning shall be conducted within 100 feet of a power line.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.42 ENFORCEMENT.
-   The city Fire Department and the city Police Department shall have authority
-for issuing citations for violations of this subchapter.
+    The city Fire Department and the city Police Department shall have
+authority for issuing citations for violations of this subchapter.
 (Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
 § 91.43 FINES.
-   (A)   Any person found to be in violation of this subchapter shall be
-subject to a fine of $200 for each violation, to be paid to the Clerk-
-Treasurer.
-   (B)   The Adams County Superior Court shall be the court of jurisdiction for
-determining all violations cited, pursuant to this subchapter.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+   Any person found to be in violation of §
+91.40 shall be fined the sum of $ 100, and said fine shall be assessed by the
+Police Department of the city. A separate offense shall be deemed committed
+upon each occurrence of such nuisance. Such fine shall be paid at the Police
+Department, Berne Public Safety Building, 1160 W. Main Street, Berne, Indiana
+46711. The action against any person to enforce a penalty by the city shall
+constitute a separate and additional legal remedy, and the fact that any
+proceedings by way of an injunction has been or may be instituted by the city
+and may be pending or concluded, shall not affect § 91.40 or be considered in
+any way as a defense to such action for the penalty herein prescribed.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 MISCELLANEOUS REGULATIONS
 § 91.50 NONDISPOSAL OF DANGEROUS AND TOXIC MATERIALS.
-   Any and all collected trash, garbage and/or refuse containing potentially
+    Any and all collected trash, garbage and/or refuse containing potentially
 dangerous and toxic materials must be otherwise legally disposed of, and will
 not be subject to city trash pickup.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.51 SMOKING PROHIBITED IN CITY FACILITIES.
-   (A)   Definitions. For purposes of this section, the following definitions
+   (A)   Definitions. For the purpose of this section the following definitions
 shall apply unless the context clearly indicates or requires a different
 meaning.
-      CITY FACILITIES. Includes the buildings and the grounds surrounding the
-Berne City Hall, Lehman Park, South Adams Senior Center, Berne Fire Station,
-Berne Public Safety Building, Berne City Garage and Water Works, and Berne
-Waste Treatment Plant, but shall exclude all public streets, alleys and rights-
-of-ways.
+      BERNE CITY FACILITIES. Refers to and includes the buildings and the
+grounds surrounding the Berne City Hall, Lehman Park, South Adams Senior
+Center, Berne Fire Station, Berne Public Safety Building, Berne City Garage and
+Water Works, and Berne Waste Treatment Plant, but shall exclude all public
+streets, alleys and rights-of-way.
       PERSON. Any man, woman, or child, regardless of age.
-      SMOKE or SMOKING. To ignite or cause to be ignited tobacco or a tobacco
-product or derivative, which includes, but is not limited to, tobacco,
-marijuana or a derivative thereof, such that the product or derivative emits a
-gas or cloud which is commonly understood to be smoke, which may be or is
-intended to be inhaled by any person.
+      SMOKE OR SMOKING. To ignite or cause to be ignited tobacco or a tobacco
+product or derivative, which includes but is not limited to tobacco, marijuana
+or a derivative thereof, such that the product or derivative emits a gas or
+cloud which is commonly understood to be smoke, which may be or is intended to
+be inhaled by any person.
    (B)   Prohibition. No person shall have in his or her possession any lighted
-tobacco product, tobacco derivative, including, but not limited to, pipes,
+tobacco product, tobacco derivative, including but not limited to pipes,
 cigars, cigarettes, or other devices used for smoking of tobacco or tobacco-
-like products, which includes, but is not limited to, tobacco, marijuana or a
+like products, which includes but is not limited to tobacco, marijuana or a
 derivative thereof, within or upon the grounds of city facilities.
    (C)   Fine. Any person who violates the provisions of this section shall be
-guilty of an infraction, punishable by a fine of $100.
-   (D)   Venue. The Adams County Superior Court shall be the court of proper
-venue and jurisdiction for the enforcement of this section.
-   (E)   Citations. Citations for violation of this section may be issued by
-any member of the city Police Department.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+guilty of an infraction, punishable by a fine of $100, to be paid to the City
+Clerk-Treasurer.
+   (D)   Citations. Citations for violation of this section may be issued by
+any member of the Police Department. Such fine shall be paid at the Police
+Department, Berne Public Safety Building, 1160 W. Main Street, Berne, Indiana
+46711.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.52 NOISE REGULATIONS.
    (A)    No person shall play, use or operate any machine, motor vehicle,
 device, or thing that produces or reproduces sound if the sound therefrom
@@ -9157,125 +9357,125 @@ generated, made, caused or otherwise emitted is audible 50 feet or more from
 its source:
       (1)   At a level of more than 55 decibels for a period of five minutes or
 more within any 30-minute period of time between the hours of 8:00 a.m. and 10:
-00 p.m., when measured on a dB(A) scale; or
+00 p.m., when measured on a dB(A) scale;
       (2)   At a level of more than 50 decibels for a period of five minutes or
 more within any 30-minute period of time between the hours of 10:00 p.m. and 8:
 00 a.m., when measured on a dB(A) scale; or
       (3)   At a level of more than 70 decibels for any period of time, when
 measured on a dB(A) scale.
    (B)   The following are exempted from the provisions of this section:
-      (1)   Sounds emitted from authorized emergency vehicles;
+      (1)   Sounds emitted from authorized emergency vehicles.
       (2)   Lawn mowers, weed blowers, garden tractors, construction and repair
 equipment, and similar home power tools, when properly muffled, between the
-hours of 6:00 a.m. and 10:00 p.m. only;
+hours of 6:00 a.m. and 10:00 p.m. only.
       (3)   Burglar alarms and other warning devices when properly installed,
 providing the cause for such alarm or warning device sound is investigated and
-turned off within a reasonable period of time;
+turned off within a reasonable period of time.
       (4)   Parades, festivals, carnivals, fairs, celebrations, concert
 performances, band and drum corps performances, and artistic performances, as
 well as any rehearsals for same, and all other events authorized by the Board
-of Public Works and Safety or other appropriate governmental entity;
+of Public Works and Safety or other appropriate governmental entity.
       (5)   Attendant noise connected with the actual performance of athletic
-or sporting events, and practices related thereto;
+or sporting events and practices related thereto.
       (6)   The emission of sound for the purposes of alerting persons to the
 existence of an emergency, or for the performance of emergency construction,
-repair or other work;
+repair or other work.
       (7)   Sounds associated with the use of legal consumer fireworks during
 the following days and times:
          (a)   Between the hours of 5:00 p.m. and two hours after sunset on
-June 29, June 30, July 1, July 2, July 3, July 5, July 6, July 7, July 8 and
-July 9;
+June 29, June 30, July 1, July 2, July 3, and July 5 through and July 9;
          (b)   Between the hours of 10:00 a.m. and 12:00 midnight on July 4;
          (c)   Between the hours of 10:00 a.m. on December 31 and 1:00 a.m. on
-January 1;
-      (8)   Sounds associated with the use of the city Police Department firing
-range;
+January 1.
+      (8)   Sounds associated with the use of the Police Department firing
+range.
       (9)   Sounds associated with the normal conduct of legally established
 non-transient businesses, organizations and governmental entities, when such
 sounds are customary, incidental and within the normal range appropriate for
-such use;
-      (10)   Rubbish collection utilizing any mechanical equipment, between the
-hours of 6:00 a.m. and 9:00 p.m. only;
+such use.
+      (10)   Rubbish collection utilizing any mechanical equipment between the
+hours of 6:00 a.m. and 9:00 p.m. only.
       (11)   Subject to the other provisions of this section, and any other
 applicable law, rule or regulation, those sounds associated with motor vehicles
-lawfully operating on city streets;
+lawfully operating on city streets.
       (12)   Sounds associated with equipment or animals lawfully utilized by
-handicapped persons to accommodate their handicap;
+handicapped persons to accommodate their handicap.
       (13)   Sounds associated with the operation of aircraft or snow removal
-equipment;
-      (14)   Sounds associated with church and temple bells and chimes;
-      (15)   Sounds associated with building construction, between the hours of
+equipment.
+      (14)   Sounds associated with church and temple bells and chimes.
+      (15)   Sounds associated with building construction between the hours of
 7:00 a.m. and 9:00 p.m. only, as well as, and to the extent that, such
 construction is necessitated at other times due to a bona fide EMERGENCY, as
 that term is defined in I.C. 36-1-2-4.5, as the same may be amended from time
 to time.
    (C)   No person shall keep any animal which, by causing frequent or long-
 continuing noise that is audible 50 feet or more from its source when the
-animal is on public property, or 50 feet or more outside of a private property
+animal is on public property or 50 feet or more outside of a private property
 line when the animal is on private property, does disturb the comfort or repose
-of any other person.
-   (D)   Any person who violates the provisions of this section shall be guilty
-of an infraction, punishable by a fine as follows:
-      (1)   First offense: $25;
-      (2)   Second offense: $50;
-      (3)   Third offense: $100;
-      (4)   Fourth and subsequent offenses: $250.
-   (E)   The Adams County Superior Court shall be the court of proper venue and
-jurisdiction for the enforcement of this section.
-   (F)   Citations for violation of this section may be issued by any sworn
-member of the city Police Department.
-(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18)
+of any other person. Specifically, and not in limitation, this prohibition
+shall include the keeping of roosters, peacocks, guineafowl, turkeys, or other
+such animals generally considered to have the propensity of causing offensive
+vocal sounds.
+   (D)   Penalty. Citations for violation of this section may be issued by any
+member of the Police Department, and any person found to be in violation of
+this section shall be subject to a fine of $100 for each violation, to be paid
+to the City Clerk-Treasurer. A separate offense shall be deemed committed upon
+each occurrence of such nuisance.
+   (E)   Citations for violation of this section may be issued by any sworn
+member of the Police Department. Such fine shall be paid at the Police
+Department, Berne Public Safety Building, 1160 W. Main Street, Berne, Indiana
+46711.
+(Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 774, passed
+6-24-24; Am. Ord. 781, passed 5-12-25)
 § 91.53 UNSAFE BUILDING REGULATIONS.
    (A)   Adoption by reference. I.C. 36-7-9-1 through 36-7-9-28, as amended
-from time to time, which address unsafe buildings and the enforcement of
-building standards, are hereby adopted and incorporated in full by this
-reference, and are supplemented by the additional terms and conditions of this
+from time to time, which addresses unsafe buildings and the enforcement of
+building standards, is hereby adopted and incorporated in full by this
+reference, and is supplemented by the additional terms and conditions of this
 section. Two copies of the same are on file in the office of the Clerk-
 Treasurer. All proceedings within the city for the inspection, repair, and
 removal of unsafe buildings shall be governed by this law and the provisions of
-this section. In the event the provisions of this section conflict with the
-provisions of I.C. 36-7-9-1 through 36-7-9-28, then the provisions of the state
-statute shall control.
-   (B)   Definitions. For purposes of this section the following definitions
-shall apply unless the context clearly indicates or requires a different
-meaning.
+this subchapter. In the event the provisions of this subchapter conflict with
+the provisions of I.C. 36-7-9-1 through 36-7-9-28, then the provisions of the
+state statute shall control.
+   (B)   General definitions. For the purpose of this section the following
+definitions shall apply unless the context clearly indicates or requires a
+different meaning.
       CITY. The City of Berne, Indiana.
       DIRECTOR. The Building and Planning Director of the city.
       ENFORCEMENT AUTHORITY. The Building and Planning Director of the city.
-      HEARING AUTHORITY. The members of the Board of Public Works and Safety
-and the Clerk- Treasurer.
+      HEARING. Any hearing required pursuant to such order shall comply with
+I.C. 36-7-9-7.
+      HEARING AUTHORITY. The Board of Public Works and Safety and the Clerk-
+Treasurer.
       MAYOR. The city executive and the head of the executive branch of the
-city’s government.
+city's government.
       SUBSTANTIAL PROPERTY INTEREST. Any right in real property that may be
 affected in a substantial way by actions authorized hereunder, including a fee
 interest, a life estate interest, a future interest, a present possessory
 interest and/or the equitable interest of a contract purchaser.
-      UNSAFE PREMISES. An UNSAFE BUILDING, as defined in division (H) below,
-and the tract of real property on which the unsafe building is located.
-   (C)   Nuisance. All buildings, or portions thereof, within the city which
-are determined, after inspection by the Director, to be UNSAFE, as defined in
-division (H) below, are hereby declared to be public nuisances and shall be
-abated by repair, rehabilitation, demolition, or removal in accordance with the
-terms and conditions of this section.
-   (D)   Authorized official. The Director shall be authorized to administer
+      UNSAFE PREMISES. An UNSAFE BUILDING, as defined hereinbelow, and the
+tract of real property on which the unsafe building is located.
+   (C)   Declaration of public nuisance. All buildings or portions thereof
+within the city which are determined after inspection by the Director to be
+UNSAFE as defined in division (E) hereinbelow, are hereby declared to be public
+nuisances and shall be abated by repair, rehabilitation, demolition, or removal
+in accordance with the terms and conditions of this section.
+   (D)   Administration.
+      (1)   Authorized official. The Director shall be authorized to administer
 and enforce this section and to proceed under the provisions hereof in ordering
 the repair, removal or other disposition of any building or structure found to
-be unsafe.
-   (E)   Hearing. Any hearing required pursuant to such order shall comply with
-I.C. 36-7-9-7.
-   (F)   Action performed by contractor. Pursuant to I.C. 36-7-9-10 and 36-7-9-
-11, the Mayor may cause any action required by an order of the Director
-hereunder to be performed by a contractor.
-   (G)   Authority to determine compliance. Any provision hereof which provides
-for the approval or direction of the Director, or any other officer of the
-city, shall be construed as giving such person only the discretion to determine
-whether compliance with the rules and standards established by this section
-have occurred, and not as giving such person any discretionary powers as to the
-substance of such rules and standards, nor any power to require conditions not
-prescribed by this section, nor any power to enforce these section provisions
-in an arbitrary or discriminatory manner.
-   (H)   Unsafe building defined. An UNSAFE BUILDING under this section shall
-be any building or structure, or any part of a building or structure, that:
+be "unsafe."
+      (2)   Authority to determine compliance. Any provision hereof which
+provides for the approval or direction of the Director, or any other officer of
+the city, shall be construed as giving such person only the discretion to
+determine whether compliance with the rules and standards established by this
+section have occurred, and not as giving such person any discretionary powers
+as to the substance of such rules and standards, nor any power to require
+conditions not prescribed by this section, nor any power to enforce these
+section provisions in an arbitrary or discriminatory manner.
+   (E)   An UNSAFE BUILDING under this section shall be any building or
+structure, or any part of a building or structure, that:
       (1)   Is in an impaired structural condition that makes it unsafe to a
 person or property;
       (2)   Is a fire hazard;
@@ -9287,7 +9487,7 @@ statute or ordinance concerning building condition or maintenance;
 habitation, occupancy or use under the requirements of any statute or
 ordinance;
       (7)   Has any door, aisle, passageway or other means of exit that is not
-of sufficient width or size, or is not arranged so as to provide safe and
+of sufficient width or size or is not arranged so as to provide safe and
 adequate means of exit in case of fire or panic;
       (8)   Has the walking surface of any aisle, passageway, stairway or other
 means of exit so warped, worn, loose or otherwise unsafe so as not to provide
@@ -9297,17 +9497,17 @@ and/or live loads, that is more than one and one-half times the working stress
 allowed for new buildings of similar structure, purpose or location;
       (10)   Has any portion thereof that has been damaged by fire, earthquake,
 wind, flood or other cause to such an extent that the structural strength or
-stability thereof is materially less than it was before such event, and is less
+stability thereof is materially less than it was before such event and is less
 than the minimum requirements for new buildings of similar structure, purpose,
 or location;
       (11)   Has any portion, member or appurtenance thereof that is reasonably
-likely to fail, to become detached or dislodged, or to collapse, and thereby
+likely to fail, to become detached or dislodged or to collapse and thereby
 injure persons or damage property;
       (12)   Has any exterior portion, member, appurtenance or ornamentation
 thereon that is not of sufficient strength or stability, or is not anchored,
 attached or fastened, so as to be capable of resisting a wind pressure of one-
 half of that specified for new buildings of similar structure, purpose, or
-location, without exceeding the working stresses permitted for such buildings;
+location without exceeding the working stresses permitted for such buildings;
       (13)   Has any portion thereof that was warped, buckled or settled to
 such an extent that walls or other structural portions have materially less
 resistance to winds or earthquakes than is required in the case of new
@@ -9318,8 +9518,8 @@ buildings of similar structure, purpose or location;
          (c)   The removal, movement, or instability of any portion of the
 ground necessary for the support of such building;
          (d)   The deterioration, decay, or inadequacy of its foundation; or
-         (e)   Any other cause;
-is reasonably likely to partially or completely collapse.
+         (e)   Any other cause, is reasonably likely to partially or completely
+collapse;
       (15)   Is, or has any portion thereof that is, manifestly unsafe for the
 purpose for which it is being used;
       (16)   Has exterior walls or other vertical structural members that list,
@@ -9328,38 +9528,38 @@ of gravity does not fall inside the middle one-third of the base;
       (17)   Shows, exclusive of its foundation, 33% or more damage or
 deterioration of any supporting member, or 50% or more damage or deterioration
 of any non-supporting member, enclosure or outside wall or covering;
-      (18)   Has been so damaged by fire, wind, earthquake or flood, or has
-become so dilapidated or deteriorated so as to become:
-         (a)   An attractive nuisance to children; or
-         (b)   Freely accessible to persons for the purpose of committing
+      (18)   Has been so damaged by fire, wind, earthquake or flood or has
+become so dilapidated or deteriorated so as to become an attractive nuisance to
+children, or freely accessible to persons for the purpose of committing
 unlawful acts;
       (19)   Has been constructed, exists or is maintained in violation of any
 specific requirement or prohibition applicable to such building or structure
-provided by any law of the State of Indiana, or any city ordinance or building
+provided by any law of the State of Indiana or any city ordinance or building
 regulation relating to the condition, location or structure of buildings;
       (20)   Has, whether or not it was erected in accordance with all
 applicable laws and ordinances, in any non-supporting part, member or portion,
 less than 50%, or in any supporting part, member, or portion, less than 66%, of
-the:
-         (a)   Strength;
-         (b)   Fire-resisting qualities or characteristics; and/or
-         (c)   Weather-resisting qualities or characteristics;
-that would be required by law in the case of a newly constructed building
-thereat of like area, height and occupancy;
+the strength, fire-resisting qualities or characteristics, and/or weather-
+resisting qualities or characteristics that would be required by law in the
+case of a newly constructed building thereat of like area, height and
+occupancy;
       (21)   Is used or intended to be used for dwelling purposes and, because
 of inadequate maintenance, dilapidation, decay, damage, faulty construction or
 arrangement, inadequate light, air or sanitation facilities, or otherwise, is
 determined by the Adams County Health Department to be unsanitary, unfit for
-human habitation, or in such a condition that it is likely to cause, sickness
-or disease;
+human habitation or in such a condition that it is likely to cause sickness or
+disease;
       (22)   Is, because of obsolescence, dilapidated condition, deterioration,
 damage, inadequate exits or lack of sufficient fire-resistive construction,
-determined by the city Fire Department to be a fire hazard;
+determined by the City of Geneva Fire Department to be a fire hazard;
       (23)   Is the remnant of a building or structure that remains on site
 after the attempted demolition or destruction of such building or structure; or
       (24)   Is abandoned for a period in excess of six months, so as to
 constitute an attractive nuisance or hazard to the public.
-   (I)   Work performed in workmanlike manner. All work for the reconstruction,
+   (F)   Action performed by contractor. Pursuant to I.C. 36-7-9-10 and 36-7-9-
+11, the Clerk-Treasurer may cause any action required by an order of the
+Director hereunder to be performed by a contractor.
+   (G)   Work performed in workmanlike manner. All work for the reconstruction,
 repair, or demolition of buildings and other structures performed pursuant
 hereto shall be performed in a good and workmanlike manner according to
 accepted standards and practices in the trade. The provisions of all building
@@ -9367,30 +9567,49 @@ laws referenced in I.C. 22-12-1-3, as adopted as rules of the Fire Prevention
 and Building Safety Commission described in I.C. 22-12-1-6, shall be considered
 standard and acceptable practices for all matters covered hereby and/or all
 orders issued by the Director pursuant hereto.
-   (J)   Unsafe Building Fund. An Unsafe Building Fund is hereby established in
+   (H)   Unsafe Building Fund. An Unsafe Building Fund is hereby established in
 the operating budget of the city in accordance with the provisions of I.C. 36-
 7-9-14.
-   (K)   Construction and the like forbidden. No person, firm, corporation or
+   (I)   Construction and the like forbidden. No person, firm, corporation or
 other entity, whether as owner, lessee, sublessee, or occupant, shall erect,
 construct, enlarge, alter, repair, move, improve, remove, demolish, equip, use,
 occupy or maintain any building or premises, or cause or permit the same to be
 done, contrary to or in violation of any of the provisions of this section and/
 or any order issued by the Director hereunder.
-   (L)   Violation.
-      (1)   Any person violating any provision of this section may be subject
+   (J)   Violation.
+      (1)   Any person violating any provision of this chapter may be subject
 to a fine in any sum not exceeding $2,500. The assessment of a monetary penalty
 shall in no way limit the operation of the penalties provided elsewhere in this
-section.
+chapter.
       (2)   Any violation of the provisions of this section shall constitute a
 Class C Infraction for each day such violation continues, except where another
 penalty is expressly set forth in I.C. 36-7-9 et seq.
    (M)   Performance bond. The Board of Public Works and Safety shall, after
 proper notice and hearing, adopt a schedule setting forth the maximum amount of
 performance bonds applicable to various types of actions ordered by the
-Director hereunder, and the amount of the average processing expense incurred
-in taking the actions necessary hereunder concerning a typical unsafe premises.
+Director hereunder and the amount of the average processing expense incurred in
+taking the actions necessary hereunder concerning a typical unsafe premises.
 (Ord. 700, passed 1-22-18; Am. Ord. 706, passed 6-25-18; Am. Ord. 720, passed
-10-28-19; Am. Ord. 738, passed 4-26-21)
+10-28-19; Am. Ord. 738, passed 4-26-21; Am. Ord. 774, passed 6-24-24; Am. Ord.
+781, passed 5-12-25)
+§ 91.99 PENALTY.
+   Whoever creates or maintains any nuisance defined in §§
+91.01 through
+91.05 and who fails or refuses to abate such nuisance when so ordered, shall be
+fined the sum of $100, and said fine shall be assessed by the Police Department
+of the city. A separate offense shall be deemed committed upon each day during
+or on which the violation occurs or continues beyond the date fixed for
+abatement of such nuisance. Such fine shall be paid at the Berne Police
+Department, Berne Public Safety Building, 1160 W. Main Street, Berne, Indiana
+46711. The action against any person to enforce a penalty by the city shall
+constitute a separate and additional legal remedy, and the fact that any
+proceedings by way of an injunction or for the abatement of any such nuisance
+has been or may be instituted by the city and may be pending or concluded,
+shall not affect §§
+91.01 through
+91.05 or be considered in any way as a defense to such action for the penalty
+herein prescribed.
+(Ord. 774, passed 6-24-24; Am. Ord. 781, passed 5-12-25)
 CHAPTER 92: STREETS AND SIDEWALKS
 Section
 Regulation of Driveways, Curbs and Sidewalks
@@ -9910,334 +10129,651 @@ requesting that information.
 CHAPTER 94: (RESERVED)
 CHAPTER 95: PARKS AND RECREATION
 Section
-Lehman Park Rules and Regulations
+Department and Board Established
    
-95.01   Disorderly conduct
+95.01   Parks and Recreation Board
+Parks Rules and Regulations
    
-95.02   Dumping and litter and rubbish
+95.10   Hours open to the public
    
-95.03   Prohibition on use of tobacco- related products
+95.11   Removal of benches and picnic tables
    
-95.04   Alcoholic beverages, dangerous drugs
+95.12   Litter, garbage, and trash
    
-95.05   Vandalism, misuse, or destruction of property, flora, and turf
+95.13   Damaging or defacing park property
    
-95.06   Animals
+95.14   Fastening objects to trees
    
-95.07   Firearms, fireworks, and dangerous objects
+95.15   Signs in parks
    
-95.08   Vehicles
+95.16   Alcoholic beverages, tobacco products, illegal drugs
    
-95.09   Fires
+95.17   Vendor permits
    
-95.10   Dangerous activities, skateboarding, ball playing, golf, inflatable
-play equipment
+95.18   Gambling
    
-95.11   Sales and solicitations
+95.19   Reserving park facilities
    
-95.12   Violation of laws
+95.20   Disturbing or intruding upon persons
    
-95.13   Postponement and cancellation of events; park closure
+95.21   Disorderly conduct
+   
+95.22   Fires
+   
+95.23   Owners responsible for personal property
+Restricted Recreational Activities
+   
+95.40   Swimming
+   
+95.41   Lakes and ponds
+   
+95.42   Outdoor ice skating
+   
+95.43   Playgrounds and play apparatus
+   
+95.44   Ball playing or games
+   
+95.45   Tennis courts, pickleball courts and basketball courts
+   
+95.46   Golf
+   
+95.47   Reckless or hazardous operation of skateboards and in-line skates,
+other wheeling or similar devices prohibited in certain areas
+Animals
+   
+95.60   Dogs allowed only on leash
+   
+95.61   Fishing
+   
+95.62   Hunting, fireworks, and weapons
+Operation of Motor Vehicles
+   
+95.80   Types of vehicles allowed or prohibited
+   
+95.81   Riding or driving regulations
+   
+95.82   Parking
  
    
 95.99   Penalties
-Cross-reference: 
+Cross-reference:
    Park and Recreation Board; Department of Parks and Recreation, see
 32.03
-LEHMAN PARK RULES AND REGULATIONS
-§ 95.01 DISORDERLY CONDUCT.
-   No person shall, in Lehman Park, (including any boundary road thereof):
-   (A)   Enter, or remain in, the park between the hours of 10:00 p.m. and 6:00
-a.m. on any day except for the purpose of going through such park on the walks
-thereof on any day unless specific request is made for a particular facility,
-written to the Park Custodian, and brought before the Berne Park Board and
-approved or for the purpose of attendance at any athletic or recreational
-contest at the ball fields of the park being conducted after the hour of 10:00
-p.m.;
-   (B)   Engage in boisterous, threatening, abusive, insulting, or indecent
-language, or engage in any disorderly conduct or behavior tending to a breach
-of the peace and interfering with the enjoyment of other persons on the
-premises;
-   (C)   Beg, panhandle or canvass for alms; or
-   (D)   Make any public speech or distribute free or for a price any printed
-matter in any portions of Lehman Park as are from time to time specially set
-apart for the playing of games and athletic contests.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.02 DUMPING AND LITTER AND RUBBISH.
-   No person shall, in Lehman Park, (including any boundary road thereof):
-   (A)   Deposit garbage, trash, or other refuse on park property other than in
-a receptacle provided, break, throw or leave bottles, glass, or sharp pointed
-articles or throw or dispose of wastepaper or combustible refuse in any place
-in the park other than in a receptacle maintained for that purpose;
-   (B)   Deposit garbage, trash, or other refuse not generated and/or used
-within the park boundaries; or
-   (C)   Place any materials, organic or inorganic, removed from private
-property upon any sidewalk or roadway of any boundary road in the park.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.03 PROHIBITION ON USE OF TOBACCO-RELATED PRODUCTS.
-   No person shall:
-   (A)   Smoke or use tobacco-related products in the Lehman Park pavilion.
-   (B)   Smoke a cigarette, cigar, or other tobacco-related product within 50
-feet of the front of a playground and 20 feet of the Lehman Park pavilion main
-entrance, exits, or operable windows.
-   (C)   Dispose cigarette butts, cigar butts, or other tobacco-related waste
-within the park or facilities, including a playground or sandbox, other than in
-designated receptacles for such use.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.04 ALCOHOLIC BEVERAGES, DANGEROUS DRUGS.
-   No person shall, in Lehman Park, (including any boundary road thereof):
-   (A)   Have in his or her possession any alcoholic beverage, intoxicating
-liquor, illegal drugs or synthetic drugs.
-   (B)   Sell or provide for the sale or distribution of any alcoholic beverage
-or intoxicating liquor, any illegal drugs or any synthetic drugs.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.05 VANDALISM, MISUSE, OR DESTRUCTION OF PROPERTY, FLORA, AND TURF.
-   No person shall, in Lehman Park (including any boundary road thereof), or
-other public place (including any interior driveway) under the control of the
-Berne Park Board, except under the auspices of public authority:
-   (A)   Sit, stand or lie upon, or climb upon or over, any handrail, railing,
-fence, wall, roof, statue, monument, fountain, bush or tree;
-   (B)   Go under any handrail, railing or fence;
-   (C)   Go upon any flower bed or cultivated area;
-   (D)   Damage, deface, cut, spray, paint, mark, scratch, write on, or
-otherwise deface or alter any natural feature, fence, wall, building, sign,
-monument, or other park property; or
-   (E)   Dig up, cut, break, remove, deface, defile, injure or take any form of
-plant life, including the removal of wood, turf, grass, soil, rock, sand and
-gravel, tree, bush, plant, turf, rock, gravel.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.06 ANIMALS.
-   No person shall, in Lehman Park (including any boundary road thereof), or
-other public place (including any interior driveway) under the control of the
-Berne Park Board, except under the auspices of public authority:
-   (A)   Have or allow any animal, except a dog on a leash no longer than eight
-feet, or cat under proper control. The removal of feces of animals that
-defecate on park property shall be the responsibility of the owner or custodian
-of said animal;
-   (B)   Hitch a horse to any tree, fence or other structure. Horses shall be
-permitted only in areas where hitching racks are located. The removal of feces
-of horses that defecate on park property shall be the responsibility of the
-owner or custodian of said animal;
-   (C)   Disturb any bird's nest or eggs;
-   (D)   Injure or have possession of any wild animal or bird; or
-   (E)   Hunt, shoot, wound, trap, capture, or kill animals on park property.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.07 FIREARMS, FIREWORKS, AND DANGEROUS OBJECTS.
-   No person shall, in Lehman Park (including any boundary road thereof), or
-other public place (including any parkway) under the control of the Berne Park
-Board, except under the auspices of public authority:
-   (A)   Throw any missile, stone, rock, mud, sand, or any other non-toy or
-game equipment that may cause bodily harm to others. Objects used in
-recreational activities and on the ball diamonds and basketball courts are
-exempt from this section provided they are not used in an irresponsible and
-hazardous manner;
-   (B)   Possess, discharge, set off, or cause to be discharged, in or into any
-park land any firecrackers, torpedoes, rockets, fireworks, explosives, or
-substances harmful to the life and safety of persons or property; or
-   (C)   Cause to be fired, across, in, on, or into any portion of park land
-any weapon, gun or firearm, spear, missile, bow and arrow, crossbow, slingshot,
-trap or hunting device, air or gas weapon, paintball gun, ammunition, throwing
-knife or axe, martial arts throwing device, or any other weapon or device
-capable of injuring or killing any person or animal, or damaging property or
-natural resource.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.08 VEHICLES.
-   No person shall, in Lehman Park (excluding any boundary roads or internal
-driveways thereof), under the control of the Berne Park Board, except under the
-auspices of public authority:
-   (A)   Drive any vehicle upon any sidewalk of Lehman Park except in
-accordance with a written permit from the Berne Park Board.
-   (B)   Drive in excess of 15 miles per hour on any interior driveways of the
-park, except where specifically designated.
-   (C)   Drive any vehicle or horse-drawn carriage into the interior portion of
-the park except on designated driveways.
-   (D)   Wheelchairs, or other ADA compliant vehicles, baby carriages or other
-like vehicles are exempted from this section.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.09 FIRES.
-   No person shall, in Lehman Park (including any boundary road thereof), or
-other public place (including any parkway) under the control of the Berne Park
-Board, except under the auspices of public authority:
-   (A)   Drop or place and suffer to remain a lighted match, cigarette, cigar
-or other burning substance other than in receptacles and designated grilling
-stations for such use.
-   (B)   Make a fire in the park except in designated receptacles, briquettes
-are the only combustible material authorized for barbecue or brazier use. Wood
-fires are not permissible. It shall be the responsibility of every person
-igniting a fire in the park installed grilling stations to completely
-extinguish it before leaving the park.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.10 DANGEROUS ACTIVITIES, SKATEBOARDING, BALL PLAYING, GOLF, INFLATABLE
-PLAY EQUIPMENT.
-   No person shall, in Lehman Park (including any boundary road thereof), or
-other public place (including any parkway) under the control of the Berne Park
-Board,
-   (A)   Skateboard on any sidewalks or interior drives in the park.
-   (B)   Play ball or any other game or sport except in designated recreational
-areas;
-   (C)   Play golf or hit golf balls; or
-   (D)   Unless under a lease or concession granted by the Berne Park Board,
-and unless a written permit be on their person or prominently displayed and
-proof of liability insurance is provided, use inflatable play equipment.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.11 SALES AND SOLICITATIONS.
-   (A)   Permission must be obtained from the Berne Park Board, or its
-designee, before permits shall be issued authorizing use of the park or the
-Lehman Park pavilion when the activity proposed is to be held for the sole
-purpose of:
-      (1)   Advertising for sale any product, goods, wares, merchandise,
-services, or event.
-      (2)   Distributing handbills or circulars, or posting, placing, or
-erecting any signs, bills, notices, paper, or advertising matter of any kind.
-      (3)   Conducting or soliciting for any trade, occupation, business,
-service, or profession.
-   (B)   The Park Board or designee may issue such permits when the conduct of
-such trade, occupation, business, service, or profession is compatible with
-usual park activities and uses, is of convenience or benefit to park patrons,
-and does not conflict with the business of established concessions. Fees may be
-charged to cover administrative costs of the issuance of such permit and/or
-costs associated with the use of park facilities.
-   (C)   No person shall (including any boundary road thereof), unless under a
-lease or concession is granted, and unless a written permit be on their person
-or prominently displayed, engage in any commercial enterprise or solicit
-business or display or distribute any commercial advertising matter, except in
-accordance with a written permit from the Berne Park Board or its designee.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.12 VIOLATION OF LAWS.
-   (A)   No person shall, in Lehman Park (including any boundary road thereof),
-or other public place (including any parkway) under the control of the Berne
-Park Board, except under the auspices of public authority:
-      (1)   Violate any existing city, county, state or national ordinance and/
-or laws; or
-      (2)   Fail to comply with any reasonable direction given by any police
-officer, any city employee, any authorized designee of the Berne Park Board or
-contained in any notice posted by the Berne Park Board or its designee.
-   (B)   Failure to leave Lehman Park when requested to do so by an authorized
-employee or designee of the park board for violation of any of this chapter,
-and any park rules or regulations, will represent a further and separate
-violation of this chapter. Additionally, no person shall violate any order or
-provision thereof posted at Lehman Park by the Berne Park Board or its
-designee.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
-§ 95.13 POSTPONEMENT AND CANCELLATION OF EVENTS; PARK CLOSURE.
-   (A)   The Berne Park Board, or its designee, may postpone or cancel events
-due to inclement weather or public safety.
-   (B)   The Berne Park Board, or its designee, may close the park at any time
-when there is an apparent danger to the persons using the park, the park
-itself, or for any cause which could affect the safety and welfare of the
-public.
-   (C)   This section may be enforced without the concurrence of those persons
-or organizations then using the park or facilities in the park.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13) Penalty, see §
-95.99
+DEPARTMENT AND BOARD ESTABLISHED
+§ 95.01 PARKS AND RECREATION BOARD.
+   The Parks and Recreation Board (Board) shall consist of four members to be
+appointed by the Mayor of the city. The members shall be appointed on the basis
+of their interest in and knowledge of parks and recreation. The Mayor, Park
+Superintendent, Workforce Manager, and assistant to the Mayor shall be
+considered ex-officio members of the Board in an advisory role, but shall have
+no voting rights therein.
+   (A)   Board terms. Appointments to the Parks and Recreation Board shall be
+for a four-year term. All terms expire on the first Monday in January, but a
+member continues in office until the member's successor is appointed.
+   (B)   Regular and special meetings of the Parks and Recreation Board;
+election of officers; quorum.
+      (1)   All meetings of the Board are open to the public. The Board shall
+fix the time and place of its regular meetings, but it shall meet at least
+quarterly.
+      (2)   Special meetings of the Board may be called by the president or by
+any two members by written request to the secretary. The secretary shall send
+to each member, at least two days before a special meeting, a written notice
+fixing the time, place, and purpose of the meeting. Written notice of a special
+meeting is not required if the time of the special meeting is fixed at a
+regular meeting or if all members are present at the special meeting.
+      (3)   At its first regular meeting each year the Board shall elect a
+president and a vice president. The vice-president may act as president during
+the absence or disability of the president. The Board may select a secretary
+either from within or outside its membership.
+      (4)   A majority of the members constitutes a quorum. Action of the Board
+is not official unless it is authorized by at least three members present and
+acting.
+   (C)   Parks and Recreation Board; duties. The Parks and Recreation Board of
+the city shall:
+      (1)   Exercise general supervision of and make rules for the Department;
+      (2)   Establish rules governing the use of the park and recreation
+facilities by the public;
+      (3)   Provide police protection for its property and activities, either
+by requesting assistance from state, municipal, or county police authorities,
+or by having specified employees deputized as police officers; the deputized
+employees, however, are not eligible for police pension benefits or other
+emoluments of police officers;
+      (4)   Appoint the necessary administrative officers of the Department and
+fix their duties and compensation;
+      (5)   Establish standards and qualifications for the appointment of all
+personnel and approve their appointments and compensation without regard to
+politics;
+      (6)   Make recommendations and an annual report to the executive and
+fiscal body of the unit concerning the operation of the Board and the status of
+park and recreation programs in the city;
+      (7)   Prepare and submit an annual budget in the same manner as other
+executive departments of the unit; and
+      (8)   Appoint a member of the Board to serve on another kind of board or
+commission, whenever a statute allows a Parks or Recreation Board to do this.
+   (D)   Parks and Recreation Board; powers. The Parks and Recreation Board of
+the city shall:
+      (1)   Have the discretion to postpone or cancel events due to inclement
+weather or public safety, and may close the park at any time when there is an
+apparent danger to the persons using the park, the park itself, or for any
+cause which could affect the safety and welfare of the public;
+      (2)   Enter into contracts and leases for facilities and services;
+      (3)   Contract with persons for joint use of facilities for the operation
+of parks and recreation programs and related services;
+      (4)   Contract with another board, a unit, or a school corporation for
+the use of parks and recreation facilities or services, and a township or
+school corporation may contract with the Board for the use of parks and
+recreation facilities or services;
+      (5)   Acquire and dispose of real and personal property, either within or
+outside Indiana;
+      (6)   Exercise the power of eminent domain under statutes available to
+municipalities;
+      (7)   Sell, lease, or enter into a royalty contract for the natural or
+mineral resources of land that it owns, the money received to be deposited in a
+non-reverting capital fund of the Board;
+      (8)   Contract for special and temporary services and for professional
+assistance;
+      (9)   Delegate authority to perform ministerial acts in all cases except
+where final action of the Board is necessary;
+      (10)   Prepare, publish, and distribute reports and other materials
+relating to activities of the Board.
+   (E)   Superintendent of Parks and Recreation; duties. Under the direction of
+the Parks and Recreation Board, the Superintendent shall:
+      (1)   Propose annually a plan for the operation of the Department;
+      (2)   Administer the plan as approved by the Board;
+      (3)   Supervise the general administration of the Department;
+      (4)   Keep the records of the Department and preserve all papers and
+documents of the Department;
+      (5)   Recommend persons for appointment as assistants if the Board
+determines there is a need;
+      (6)   Appoint the employees of the Department, subject to the approval of
+the Board, according to the standards and qualifications fixed by the Board and
+without regard to political affiliation;
+      (7)   Prepare and present to the Board an annual report; and
+      (8)   Perform other duties that the Board directs.
+   (F)   Reference to Indiana Code. The Common Council hereby adopts by
+reference I.C. 36-10-3, as amended from time to time, as it relates to third
+class cities in the State of Indiana and the establishment and operation of the
+Department of Parks and Recreation and Parks and Recreation Board, and said
+I.C. 36-10-3 is incorporated in full by reference herein.
+(Ord. 770, passed 4-8-24)
+PARKS RULES AND REGULATIONS
+§ 95.10 HOURS OPEN TO THE PUBLIC.
+   The parks and playgrounds shall be open to the public from 6:00 a.m. until
+11:00 p.m. No person, other than employees of the Board or enforcement
+officers, shall be permitted to remain in public parks except when open as
+herein specified and for activities as authorized by the Board or its
+representatives. No person(s) shall enter any park when the park has been
+closed by order of the Department or the Mayor.
+(Ord. 770, passed 4-8-24)
+§ 95.11 REMOVAL OF BENCHES AND PICNIC TABLES.
+   No benches, picnic tables or any park property shall at any time be removed
+from the parks without prior written permission having been obtained from the
+Board.
+(Ord. 770, passed 4-8-24)
+§ 95.12 LITTER, GARBAGE, AND TRASH.
+   (A)   No person shall deposit garbage, trash, or other litter or refuse onto
+any park grounds or into any lake, pond or stream or upon the ice of such lake,
+pond or stream or into any fountain or on any roadway or any public park or
+into any park area.
+   (B)   No home or business waste, or any other waste not generated and/or
+used within the park boundaries, shall be disposed of in any park trash can or
+onto any park area.
+   (C)   No person shall dump or dispose of any harmful wastes, chemicals,
+contaminants, brush, appliances, and/or tires on park grounds or into ponds,
+lakes or streams.
+   (D)   Ice or ice water containing salt shall not be emptied on the grounds.
+   (E)   The grounds must be cleaned after use and put in their original
+condition or better before leaving.
+(Ord. 770, passed 4-8-24)
+§ 95.13 DAMAGING OR DEFACING PARK PROPERTY.
+   (A)   No person shall in any way damage or deface any of the buildings,
+fences, benches, structures or statuary within any park, or on park drives,
+sidewalks or the street right-of-way.
+   (B)   No person shall sit, stand or lie upon, or climb upon or over, any
+handrail, railing, fence, wall, roof, statue, monument, fountain, bush or tree.
+   (C)   No person shall damage, deface, cut, spray, paint, mark, scratch,
+write on, or otherwise deface or alter any natural feature, fence, wall,
+building, sign, monument, or other park property.
+   (D)   No person shall dig up, cut, break, remove, deface, defile, injure or
+take any form of plant life, including the removal of flowers, wood, turf,
+grass, soil, rock, sand and gravel, tree, bush, and plant.
+   (E)   No person shall erect stands, tents or other temporary structures
+without prior permission from the Department.
+(Ord. 770, passed 4-8-24)
+§ 95.14 FASTENING OBJECTS TO TREES.
+   No person shall mechanically fasten or attach a swing, tree house, zip line
+or any other object to any tree on park grounds, parkways, driveways or street
+trees. No horses shall be tied to any trees, but shall only be located in
+designated areas specifically for horses.
+(Ord. 770, passed 4-8-24)
+§ 95.15 SIGNS IN PARKS.
+   No signage and/or advertising shall be erected on park property and/or
+structures, parkways or driveways without prior written permission being
+obtained from the Board.
+(Ord. 770, passed 4-8-24)
+§ 95.16 ALCOHOLIC BEVERAGES, TOBACCO PRODUCTS, ILLEGAL DRUGS.
+   (A)   No intoxicants of any kind, including wine, beer, ale, or other
+alcoholic beverages, shall be transported into a park area, consumed, sold or
+given away on the premise of any public park or driveway, except for specific
+parks as determined by resolution of the Board, and then only with a prior
+written permit to do so having been received from the Board and the Indiana
+Alcohol and Tobacco Commission.
+   (B)   Fees for such a permit shall be pursuant to a schedule, as established
+by the Board. Fee schedules may be obtained at the office of the Clerk-
+Treasurer. Any fees imposed shall be in addition to any facility rental charge
+imposed by the Board.
+   (C)   The Board shall have the authority to develop and implement policies
+controlling the possession and use of alcoholic beverages in the locations
+enumerated in the aforementioned resolution(s).
+   (D)   All permits, including those granted by the Alcohol and Tobacco
+Commission, shall be prominently displayed and produced for inspection when
+requested by a police officer or a park employee or representative and shall
+not be transferable.
+   (E)   No permit granted under this section shall be construed to entitle any
+person to possess, serve, sell, consume or give away alcoholic beverages in any
+place other than the area specifically designated in said permit. Furthermore,
+no permit granted under this section shall be construed to allow any individual
+to act in any fashion that would violate any other law, statute, ordinance,
+rule or regulation.
+   (F)   The permit of any person who shall violate or fail to comply with any
+provision of this section may be immediately revoked by the Board or its
+designees.
+   (G)   All fees from issuance of such permits shall accrue to the
+Department's General Fund.
+   (H)   No person shall smoke or otherwise use tobacco-related products or
+smoke or vape other products and substances at any time in or upon any public
+park or park facility.
+   (I)   No person shall possess, use, consume, sell or distribute any illegal
+drugs or synthetic drugs at any time in or upon any public park or park
+facility.
+(Ord. 770, passed 4-8-24)
+§ 95.17 VENDOR PERMITS.
+   (A)   Every person who vends, sells or offers for sale from a vehicle, tent
+or table, food, refreshments or goods and services in or upon any public park
+or park facility shall, before engaging in such business, obtain from the Board
+a permit to do so.
+   (B)   The Board may limit the number of any type of permit issued to a
+quantity sufficient to adequately serve the patrons of parks and park
+facilities.
+   (C)   The fees for a yearly vending permit for each motorized vending
+vehicle, trailer or stand, (defined as a temporary structure, tent, table or
+group of tables at a single location), for each non-motorized vending vehicle,
+and for a one-day vending license, to cover a special event, shall be
+established by the Board. Said fees may provide exemptions for not-for-profit,
+charitable or religious organizations.
+   (D)   All permits issued under this section shall be prominently displayed
+and produced for inspection when requested by a police officer or park employee
+or representative, are not transferable, and yearly permits expire on December
+31 of the year in which issued.
+   (E)   The Board shall designate, in writing, to each permit holder, the
+specific times and areas in parks where vending may take place.
+   (F)   No permit granted under this section shall be construed to entitle any
+person to vend or sell in any place but in the areas specifically designated,
+nor to sell items other than those designated in the permit.
+   (G)   The Board may negotiate and contract with a concessionaire for
+exclusive rights to vend food and refreshments in certain park facilities where
+special vending times, quality or style of food and refreshments are required.
+   (H)   The permit of any person who violates or fails to comply with any
+provision(s) of this section may be revoked by the Board.
+(Ord. 770, passed 4-8-24)
+§ 95.18 GAMBLING.
+   (A)   No person or entity shall be allowed to beg, tell fortunes, gamble or
+play any game of chance except in an enclosed park pavilion and as permitted by
+I.C. 4-32-1-1 et seq., unless such person or entity is registered with the
+Indiana Gaming Commission and such activity is approved by the Board.
+   (B)   I.C. 4-32-1-1, Games of Chance, applies to organizations qualified to
+operate bingo events, charity game nights, door prize events, raffle events,
+and festivals and the sale of pull tabs, punchboards and tip boards at bingo
+events, door prize events, raffle events, charity game nights and festivals, or
+on the premises owned or leased by the qualified organization and regularly
+used for the activities of the qualified organization at any time.
+(Ord. 770, passed 4-8-24)
+§ 95.19 RESERVING PARK FACILITIES.
+   (A)   Permits are issued for the exclusive use of park facilities at the
+Clerk-Treasurer's office.
+   (B)   Permits are not transferable.
+   (C)   The permittee or a permittee's designated representative shall be in
+attendance at all times and have physical possession of the permit.
+   (D)   Any permit granted pursuant to this chapter may be revoked upon the
+violation of the permittee, or associated individual(s), of any provision of
+the permit.
+   (E)   It shall be unlawful for any person to occupy the area designated as
+reserved by a permit. In all cases of disagreement, the city police shall make
+the final decision.
+   (F)   Reservations may be made for all pavilions and gardens by phone or in
+person up to 12 months in advance.
+   (G)   Reservations are not required for the use of fireplaces, outdoor
+grills, and other picnic facilities.
+   (H)   Baseball and softball diamonds, athletic fields, batting cages, tennis
+courts, pickleball courts, basketball courts, and horseshoe courts may be
+reserved for exclusive use by leagues and/or individuals by obtaining a permit
+issued at the Clerk-Treasurer's office and approved by the Board.
+   (I)   The person or organization to whom a permit or reservation is issued
+is responsible for any damage to the building, equipment or grounds. The permit
+holder is also responsible for maintenance, outside of routine cleaning,
+necessary to restore the premises to the condition in which they were received.
+   (J)   No person or organization, without the prior written authorization of
+the Board, shall charge a fee for admission to or participation in an event.
+(Ord. 770, passed 4-8-24)
+§ 95.20 DISTURBING OR INTRUDING UPON PERSONS.
+   No person or group of persons shall disturb or intrude upon the privacy and/
+or quiet enjoyment of any other park visitor.
+(Ord. 770, passed 4-8-24)
+§ 95.21 DISORDERLY CONDUCT.
+   Any individual using vulgar or profane language or engaging in disorderly
+conduct as defined in I.C. 35-45-1-3 shall be removed from any park owned,
+operated or maintained by the city.
+(Ord. 770, passed 4-8-24)
+§ 95.22 FIRES.
+   (A)   Open fires, except in fireplaces, charcoal grills and ovens or when
+supervised and/or authorized by Board, shall not be permitted in any park.
+   (B)   Portable charcoal, gas, or wood grills, stoves and ovens are not
+permitted to be used inside pavilions or under roofs of any structure. All such
+devices shall be operated in a safe and proper manner, and must be a minimum of
+six feet away from any building, facility or combustible vegetation and
+continuously monitored and cared for from kindling to complete extinguishment
+by a responsible person.
+   (C)   It is unlawful to leave a fire unattended or fail to fully extinguish
+a fire. Proper ash/coal disposal is required.
+(Ord. 770, passed 4-8-24)
+§ 95.23 OWNERS RESPONSIBLE FOR PERSONAL PROPERTY.
+   Personal property or equipment brought into the parks shall be at the
+owner's risk.
+(Ord. 770, passed 4-8-24)
+RESTRICTED RECREATIONAL ACTIVITIES
+§ 95.40 SWIMMING.
+   (A)   No person shall bathe, wade or swim in any pond, fountain, stream or
+river within any park with the exception of designated, interactive water
+features (i.e., spray parks).
+   (B)   No person is permitted to swim and/or enter the pool enclosure of the
+city-operated swimming pool when closed.
+(Ord. 770, passed 4-8-24)
+§ 95.41 LAKES AND PONDS.
+   Boating on any parks and recreation lake or pond is prohibited except for
+boats or canoes operated under the direction and supervision of the Board.
+(Ord. 770, passed 4-8-24)
+§ 95.42 OUTDOOR ICE SKATING.
+   (A)   No person shall be permitted to use designated outdoor ice skating
+areas when a red flag is displayed and/or a red light is burning. The ruling
+established by the Department shall be final in all cases in reference to the
+condition of the ice.
+   (B)   The use of ponds, rivers, creeks, or other ice areas for skating,
+sledding or any other purpose, shall be prohibited at all such areas which are
+not designated for such activities by the Board.
+   (C)   There must be at least four inches of hard ice before ice skating is
+permitted on any designated pond.
+(Ord. 770, passed 4-8-24)
+§ 95.43 PLAYGROUNDS AND PLAY APPARATUS.
+   (A)   For personal safety and the protection of others, all persons using
+swings, slides, climbing devices, and other play apparatus on park owned or
+controlled property must do so in a safe and appropriate manner and in
+accordance with any rules and regulations which may be adopted and/or posted by
+the Board.
+   (B)   Children ages five and under on playgrounds, or anywhere else within
+park grounds, must be accompanied by an older responsible person.
+(Ord. 770, passed 4-8-24)
+§ 95.44 BALL PLAYING OR GAMES.
+   No ball playing or other games are permitted in parking areas, driveways or
+among playground apparatus areas. Batting of baseballs and softballs is
+restricted to designated areas with appropriate backstops.
+(Ord. 770, passed 4-8-24)
+§ 95.45 TENNIS COURTS, PICKLEBALL COURTS AND BASKETBALL COURTS.
+   In-line skates, roller skates, skateboards and other similar devices are
+prohibited from use on tennis court, pickleball court and basketball court
+surfaces.
+(Ord. 770, passed 4-8-24)
+§ 95.46 GOLF.
+   (A)   Practicing golf is not allowed in parks and playgrounds, except in
+areas designated by the Board.
+   (B)   Frisbee Golf is allowed only at designated areas at Lehman Park, or
+other park areas by permit only.
+(Ord. 770, passed 4-8-24)
+§ 95.47 RECKLESS OR HAZARDOUS OPERATION OF SKATEBOARDS AND IN-LINE SKATES,
+OTHER WHEELING OR SIMILAR DEVICES PROHIBITED IN CERTAIN AREAS.
+   (A)   Definitions. For the purpose of this section, the following
+definitions shall apply unless the context clearly indicates or requires a
+different meaning.
+      RECKLESS OR HAZARDOUS OPERATION. Operation of a skateboard, wheeling or
+sliding device in a manner such that the wheels of a wheeling device leave the
+ground or that the skateboard or sliding device is separated from the ground at
+the same time (i.e., airborne). It is further defined to mean the use of
+disability ramps, steps, walls, retention walls, doors, handrails, planters,
+curb or gutter edges, barriers and barricades, benches, picnic tables,
+sculptures, stages, platforms, playground equipment or other device or
+structure which is not intended for pedestrian or vehicular traffic, jumping or
+stepping on or off such devices or structures using wheeled equipment, or in a
+manner that is likely to cause damage to property or to cause personal injury
+or failing to yield the right-of-way to or otherwise interfere with pedestrian
+traffic.
+      SKATEBOARD. A foot board mounted upon four or five wheels and usually
+propelled by the user who sometimes stands, sits, kneels or lies upon the
+device while it is in motion.
+      WHEELING OR SLIDING DEVICES. Include, but are not limited to,
+skateboards, roller skates, in line skates or bicycles or any other device
+containing wheels which can be ridden on or otherwise utilized by an individual
+or individuals in order to move about other than walking.
+   (B)   Operating skateboard, wheeling or sliding device prohibited. Operating
+a skateboard, wheeling or sliding device shall be prohibited as follows:
+      (1)   Operating a skateboard, wheeling or sliding device on any property
+where a sign or signs are posted by property owners or the Board prohibiting
+such operation shall be prohibited. (This provision shall be interpreted to
+mean that if a sign is posted prohibiting skateboarding it shall be deemed to
+apply to the prohibition of all skateboard, wheeling or sliding devices).
+      (2)   When an individual operates a skateboard, wheeling or sliding
+device on park property where such operation is not prohibited, such individual
+shall not operate such skateboard, wheeling or sliding device in a reckless or
+hazardous manner as defined in this section.
+      (3)   Wheelchair exclusion. Notwithstanding the definition of skateboard,
+wheeling or sliding device, nothing in this section shall prohibit the use of a
+wheelchair, a stroller, or similar devices, for the purpose of helping an
+elderly, disabled individual, infant, or other individual needing assistance in
+moving from place to place.
+   (C)   Penalties and enforcement.
+      (1)   Penalty. Any person found in violation of any provision of this
+section may have such skateboard or wheeling or sliding device confiscated
+immediately by the Police Department or by any officer of the Police Department
+acting in his or her official capacity. Said skateboard or wheeling or sliding
+device confiscated shall be held for a maximum of 60 days after which it may be
+sold or destroyed. The individual who owns any confiscated skateboard or
+wheeling or sliding device shall have the right to repossess the skateboard or
+wheeling or sliding device upon proof of payment of any fine and other cost for
+which the individual is responsible as a result of having violated the
+provisions set forth in this section. An individual operating a skateboard or
+wheeling or sliding device in violation of any of the provisions contained
+herein shall be subject to a fine of $100 per violation. Payment of said fine
+shall be due within 30 days from the date the fine is assessed; however, such
+individual shall be entitled to a notice of the assessment date specifying when
+payment of the fine is due. In the event a violator fails to pay a fine when
+due, such failure to pay shall result in a $50 late fee being assessed to said
+individual. Any individual violator of this section who is under the 18 years
+of age must disclose to the police officer or other enforcing authority the
+names, addresses, and phone numbers of their parents or legal guardian.
+      (2)   Enforcing authority. The authority for enforcing this section shall
+be with the city Police Department.
+(Ord. 770, passed 4-8-24)
+ANIMALS
+§ 95.60 DOGS ALLOWED ONLY ON LEASH.
+   (A)   No person owning, having a proprietary interest in, harboring or
+having the care, charge, control, custody or possession of a dog, shall permit
+such dog to be in any public park unless such dog is upon a secure leash not
+more than six feet long held continuously in the hands of a responsible person
+capable of controlling the dog, or unless the dog is securely confined within
+an automobile.
+   (B)   The person owning, harboring or having the care, charge, control,
+custody or possession of a dog within the park must use a suitable container or
+instrument to remove all dog feces from the dog and dispose of it in provided
+waste containers.
+   (C)   Aggressive dogs are not permitted in any city park. Specifically, dogs
+with a biting history or those for whom an Indiana Animal Bite Form has been
+completed (as the biting dog) are not permitted in any city park. Owners are
+legally responsible for any injury caused by their dog.
+   (D)   This section shall not apply to dogs under the control of a competent
+person in a designated fenced dog exercise area in a city park or portion of a
+city park approved and designated for that purpose by the Board.
+   (E)   The following regulations and limitations shall apply to all
+designated dog exercise areas:
+      (1)   Designated off-leash exercise areas will be open from 6:00 a.m. to
+10:00 p.m.
+      (2)   All dogs must be under visual and voice control by owners at all
+times.
+      (3)   Dogs shall not be left unattended in the exercise area.
+      (4)   Dogs under four months old are not permitted in the exercise areas.
+      (5)   All dogs shall have been vaccinated (as required by law) and
+legally licensed prior to using the facility. Current rabies and license tags
+must be worn on the collar of any dog in the exercise area.
+      (6)   Female dogs in heat are not permitted to use the facilities.
+      (7)   Professional dog trainers may not use the facilities in the conduct
+of their business.
+      (8)   An adult shall accompany children under the age of 14 years while
+in the exercise areas. Children will not be permitted to run, shout, scream,
+wave their arms or otherwise excite or antagonize dogs in the exercise area.
+      (9)   Bicycles, roller blades, roller skates, skateboards, strollers, and
+the like, are not permitted in the exercise areas. Wheelchairs are permitted.
+      (10)   Spiked collars on dogs are not permitted in the exercise area(s).
+      (11)   The owner of any dog using the designated exercise areas must have
+a leash in their possession at all times. Any dog in the exercise area must be
+wearing their collar and current tags at all times.
+      (12)   Owners shall otherwise comply with all rules governing the parks
+and relevant parking regulations.
+      (13)   Use of dog exercise areas by any dog shall constitute implied
+consent of the dog's owner to all of the conditions stated in this section and
+shall constitute a waiver of liability to the city and an agreement and
+undertaking to protect, indemnify, defend and hold the city harmless for any
+injury or damage caused by such dog during any time the dog is not on its
+leash.
+(Ord. 770, passed 4-8-24)
+§ 95.61 FISHING.
+   (A)   Fishing is permitted at all Department ponds and lakes with a valid
+Indiana fishing license. State fishing rules apply.
+   (B)   It shall be unlawful to take fish or other water inhabitant by
+spearing or by any other means prohibited in I.C. 14-22-9-1.
+   (C)   Through the ice fishing is prohibited on all park property.
+(Ord. 770, passed 4-8-24)
+§ 95.62 HUNTING, FIREWORKS, AND WEAPONS.
+   (A)   No person shall be allowed to molest, hunt, harm, frighten, kill,
+trap, pursue, chase, tease, shoot or throw objects at or to set snares for any
+wildlife, animals, birds, reptiles and fish within the limits of any park or
+within 500 feet outside of any park except with written permission of the
+Department.
+   (B)   No person shall possess, discharge, set off, or cause to be
+discharged, in or on any park property any firecrackers, torpedoes, rockets,
+fireworks, explosives, or substances harmful to the life and safety of persons
+or property.
+   (C)   No person shall cause to be fired, across, in, on, or into any portion
+of park property any weapon, gun or firearm, spear, missile, bow and arrow,
+crossbow, slingshot, trap or hunting device, air or gas weapon, paintball gun,
+"BB" gun, slingshot, pea shooter, blow gun, ammunition, throwing knife or axe,
+martial arts throwing device, or any other weapon or device capable of injuring
+or killing any person or animal, or damaging property or natural resource.
+(Ord. 770, passed 4-8-24)
+OPERATION OF MOTOR VEHICLES
+§ 95.80 TYPES OF VEHICLES ALLOWED OR PROHIBITED.
+   (A)   It shall be unlawful for any person to use any vehicle or other mode
+of transportation contrary to the provisions of this chapter or the posted
+regulations of the Board.
+   (B)   The following vehicles or other modes of transportation are allowed on
+all designated sidewalks, paths, trails and greenways: public safety vehicles,
+service or maintenance vehicles including public utilities, wheelchairs
+(standard or motorized), electric personal assistive mobility devices (A single
+passenger, self-balancing mode of transport with a maximum speed of 15 mph),
+non-motorized bicycles and skating devices (where designated).
+   (C)   The following vehicles or other modes of transportation are prohibited
+on all sidewalks, paths, trails and greenways (unless otherwise specifically
+designated and posted by the Board): any standard motorized vehicle powered by
+gas, diesel, electric or hybrid motors, including, but not limited to, golf
+carts enclosed or open, motorized bikes, motorcycles, mopeds, scooters, ATVs
+(all terrain vehicles), ORVs (off-road vehicles), go carts, swamp buggy,
+snowmobiles or any other off-road or air-cushioned type vehicle.
+(Ord. 770, passed 4-8-24)
+§ 95.81 RIDING OR DRIVING REGULATIONS.
+   (A)   No person shall operate any vehicle or other mode of transportation
+within any park except on the streets and paved drives at a speed not to exceed
+15 miles per hour, or as otherwise posted.
+   (B)   Vehicle parking is permitted only in the designated areas and not on
+the grass. Parking of vehicles in any park area between the hours of 11:00 p.m.
+and 6:00 a.m. shall be prohibited except for activities sponsored and notice
+issued by the Board.
+   (C)   Bicycles must be walked through a playground area.
+   (D)   Horseback riders are not permitted anywhere within city parks. Horses
+with buggies or carriages are permitted while drawing such buggies or carriages
+on driveways, streets and roadways within the parks, and such horses may be
+tied only in designated areas within the parks so designated by the Board, but
+are not permitted anywhere else within the parks.
+(Ord. 770, passed 4-8-24)
+§ 95.82 PARKING.
+   It is strictly prohibited for any person within any park to park a vehicle
+in an area other than a designated parking area. No person shall park a vehicle
+in an area designated as "Unloading Only" and leave the same unattended for a
+period exceeding ten minutes. No person shall leave a vehicle overnight in a
+parking area, except in accord with a specific permit issued by the Department.
+No one shall park in a parking space designated for the physically challenged
+without a handicapped permit from the Indiana Bureau of Motor Vehicles.
+(Ord. 770, passed 4-8-24)
 § 95.99 PENALTIES.
    (A)   Any person, firm, or corporation who violates the following provisions
-of this code, shall, upon conviction, be subject to a penalty and fine as set
-out herein.
+of this code shall be subject to the following penalties and fines:
 Code Section Offense Fine
-Code Section Offense                                            Fine
-§           Being in Lehman Park between the hours of 10:00    $25
-95.01(A)     p.m. to 6:00 a.m.
-§           Breach of peace in Lehman Park                     $25
-95.01(B)
-§           Beg, panhandle, or canvass for alms in Lehman Park $50
-95.01(C)
-§           Illegal distribution of printed material in Lehman $50
-95.01(D)     Park
-§           Littering in Lehman Park                           $50
-95.02(A)
-§           Illegal dumping of trash in Lehman Park            $50
-95.02(B)
-§           Illegal dumping of materials on sidewalk or        $50
-95.02(C)     roadway of Lehman Park
-§           Use of tobacco-related products in Lehman Park     $10
-95.03(A)     pavilion
-§           Use of tobacco-related products within 50 feet of  $10
-95.03(B)     playground or 20 feet of pavilion
-§           Disposal of tobacco-related products somewhere     $25
-95.03(C)     other than designated receptacle
-§           Possession of: alcoholic beverage, intoxicating    $50
-95.04(A)     liquor, illegal or synthetic drug in Lehman Park
-§           Sell, provide or distribute: alcoholic beverage,
-95.04(B)     intoxicating liquor, illegal or synthetic drug in  $50
-             Lehman Park
-§           Sit on or stand on a prohibited object in Lehman   $25
-95.05(A)     Park
-§           Go under a prohibited object in Lehman Park        $25
-95.05(B)
-§           Go upon a flower bed or cultivated area in Lehman  $50
-95.05(C)     Park
-§           Damage/vandalize park property                     $50
-95.05(D)
-§           Damage/vandalize plant life in Lehman Park         $50
-95.05(E)
-§           Failure to control animal in Lehman Park           $25
-95.06(A)
-§           Improper hitching of horse to: tree, fence or
-95.06(B)     other structure; failure to remove feces from park $50
-             property
-§           Disturbing bird’s nest or eggs in Lehman Park    $50
-95.06(C)
-§           Injure or have in possession a wild animal or bird $50
-95.06(D)     in Lehman Park
-§           Hunt, shoot, wound, trap, capture or kill animals  $50
-95.06(E)     on park property
-§           Throwing of object that may cause bodily harm in   $50
-95.07(A)     Lehman Park
-§           Possess, discharge, set off, or cause to be
-95.07(B)     discharged any firework or substance harmful to    $50
-             person or property
-§           Discharging any weapon (firearm, bow, slingshot,   $50
-95.07(C)     paintball gun, and the like) in Lehman Park
-§           Operation of vehicle on a sidewalk of Lehman Park  $25
-95.08(A)
-§           Drive in excess of 15 mph on any interior driveway Use speed fines
-95.08(B)     of Lehman Park
-§           Operation of vehicle or horse-drawn carriage into  $25
-95.08(C)     the interior portion of Lehman Park
-§           Drop or place a lighted object in an area other
-95.09(A)     than designated receptacle or designated grill     $25
-             station
-§           Use of wood in grill station; failure to
-95.09(B)     extinguish grill station before leaving Lehman     $25
-             Park
-§           Use of skateboard on sidewalk or interior drive in $10
-95.10(A)     Lehman Park
-§           Play ball or any other game or sport in an         $10
-95.10(B)     undesignated area of Lehman Park
-§           Play golf or hit golf balls in Lehman Park         $10
-95.10(C)
-§           Operation of inflatable play equipment without a   $10
-95.10(D)     permit in Lehman Park
-§           Failure to obtain permit by Park Board for sales   $50
-95.11(A)     and/or solicitation in Lehman Park
-§           No person shall engage in commercial enterprise,
-95.11(B)     solicit business, display or distribute commercial $50
-             advertising matter in Lehman Park
-§           Violate any existing city, county, state or        $50
-95.12(A)(1)  national ordinance and/or laws in Lehman Park
-§           Failure to comply with reasonable direction by
-95.12(A)(2)  Police Officer, City of Berne Employee or          $50
-             authorized person in Lehman Park
-§           Failure to leave Lehman Park when requested to do  $50
-95.12(A)(3)  so by an authorized person
+Code Section Offense                                                       Fine
+§           Violation of park hours                                       $100
+95.10
+§           Removal of benches or picnic tables                           $200
+95.11
+§           Depositing garbage, trash, or litter                          $200
+95.12
+§           Damaging or defacing park property                            $200
+95.13
+§           Fastening objects to trees                                    $150
+95.14
+§           Signs in park                                                 $100
+95.15
+§           Alcoholic beverages without permit, tobacco products, illegal $200
+95.16        drugs
+§           Selling property without vending permit                       $150
+95.17
+Code Section Offense Fine
+Code Section Offense                                                      Fine
+§           Gambling violations                                          $200
+95.18
+§           Using certain park property without a permit                 $100
+95.19
+§           Disturbing or intruding upon persons                         $100
+95.20
+§           Disorderly conduct violations                                $200
+95.21
+§           Fire violations                                              $200
+95.22
+§           Swimming violations                                          $100
+95.40
+§           Boating violations                                           $100
+95.41
+§           Ice skating violations                                       $100
+95.42
+§           Unsafe use of play equipment                                 $100
+95.43
+§           Ballplaying in non-designated areas                          $50
+95.44
+§           Violations of skating on tennis, pickleball, and basketball  $100
+95.45        courts
+§           Golf in park or frisbee golf in non-designated areas         $100
+95.46
+§           Reckless, hazardous, or unauthorized skateboard use or skate $100
+95.47        use
+§           Animal violations                                            $100
+95.60
+§           Fishing violations                                           $100
+95.61
+§           Hunting, fireworks, and weapons violations                   $200
+95.62
+§           General vehicle violations                                   $100
+95.80
+§           Riding and driving violations                                $100
+95.81
+§           Parking violations                                           $50
+95.82
  
    (B)   A separate offense shall be deemed committed upon each day during
 which any violation occurs or continues.
-(Ord. 628, passed 5-29-12; Am. Ord. 646, passed 9-9-13; Am. Ord. 648, passed
-10-15-13)
+(Ord. 770, passed 4-8-24)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -12799,7 +13335,7 @@ each to back of curb.
 lesser radius is acceptable; however, an enlargement of the right-of-way and
    pavement is required on the outside edge of the street as indicated in the
 sketch.
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1490.jpg]
 1/In the event boulevard-type streets are constructed, provision shall be made
 in the deed restrictions for the continuous maintenance of the median strip,
@@ -12876,7 +13412,7 @@ obtained from on-site engineering studies.
 secondary street design characteristics.
 (Ord. 466, Appendix: Minimum Street Design Standards, passed 5-11-98)
 EXHIBIT 5: STREET CROSS-SECTION STANDARDS
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1501.jpg]
  
 Cross-Section Right-of-Way   1      2      3      Full Width 4   Parking Data
@@ -12903,15 +13439,15 @@ Note:Street trees to be planted 50 feet on center in grass area (3) if space is
 6 feet wide or wider.
 (Ord. 466, Appendix: Minimum Street Design Standards, passed 5-11-98)
 EXHIBIT 6: TYPICAL STREET CROSS-SECTIONS (CONCRETE)
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1506.jpg]
 (Ord. 466, Appendix: Minimum Street Design Standards, passed 5-11-98)
 EXHIBIT 7: TYPICAL STREET CROSS-SECTIONS (ASPHALTIC AND CONCRETE   )
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1511.jpg]
 (Ord. 466, Appendix: Minimum Street Design Standards, passed 5-11-98)
 EXHIBIT 8: INTEGRAL CURB DETAIL
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1516.jpg]
 (Ord. 466, Appendix: Minimum Street Design Standards, passed 5-11-98)
 CHAPTER 152: ZONING
@@ -18760,7 +19296,7 @@ of one acre or less, all of which abut or are contiguous. Contiguous shall
 include tracts separated only by street or road right-of-way.
 (Ord. 466, § 2-16.5-3, passed 5-11-98)
 APPENDIX D: ARCHITECTURAL REVIEW COMMITTEE MATRIX
-[https://export.amlegal.com/media/47997e1f3ec58f159a64decc2f7ac0c27e9ede4b/
+[https://export.amlegal.com/media/b0c67a47b8f782496849cf47f801ca93bc946d2d/
 IMAGES/0-0-0-1976.jpg]
 (Ord. 649, passed 2-10-14)
 TABLE OF SPECIAL ORDINANCES
@@ -18843,6 +19379,10 @@ Ord. No. Date Passed Description
                      Changing public thoroughfare formerly known as County Road
 753      8-22-22     150 West, from SR 218 to the Wittwer #1 Ditch to a city
                      street named Eiger Way.
+                     Rezoning a 1.09 acre and a 1.10 acre tract in the
+777      10-14-24    Northwest Quarter of Section 5, Township 25 North, Range
+                     14 East from R-1 Single Family Residential to C-
+                     1 Neighborhood Business.
                     
  
 TABLE V: STREET VACATIONS
@@ -18995,6 +19535,7 @@ Title 3                30.10
 4-13-17-4              35.25
 4-21.5-3               35.09
 4-21.5-3-7             150.16
+4-32-1-1 et seq.       95.18
 5-1-5                  54.12
 5-1-11                 54.12
 5-2-5-3                35.03
@@ -19070,9 +19611,10 @@ Title 3                30.10
 12-17.4                35.07
 13-17-9                91.40,
                        91.41
-14-28-1                152.189
 14-16-1 et seq.        70.74,
                        70.77
+14-22-9-1              95.61
+14-28-1                152.189
 16-27-1                35.07
 22-9-1-4 et seq.       93.02
 22-9-5-1 et seq.       93.01
@@ -19125,6 +19667,7 @@ Title 3                30.10
 35-43-4                72.31
 35-43-5-5              53.11
 35-44.1-1-4            35.37
+35-45-1-3              95.21
 35-45-4                91.04
 35-47-2-3              33.06
 35-49-1-9              91.04
@@ -19201,6 +19744,7 @@ Title 3                30.10
 36-7-9-11              91.53
 36-7-9-14              91.53
 36-7-9-28              150.99
+36-7-10.1-1 et seq.    91.07
 36-7-12-1 - 36-7-12-37 32.01
 36-7-12-2              31.08
 36-7-14                31.09
@@ -19221,7 +19765,8 @@ Title 3                30.10
 36-9-27                151.082,
                        152.129
 36-9-30-1 et seq.      50.05
-36-10-3                32.03
+36-10-3                32.03 ,
+                       95.01
 36-10-3-4              32.03
 36-10-3-5              32.03
 36-10-3-21             33.01
@@ -19476,7 +20021,9 @@ Ord. No. Date Passed Code Section
                      151.105,
                      151.115 -
                      151.120,
-                     151.999, Ch. 151, Apps. A, B;
+                     151.999,
+                     Ch. 151, Apps. A,
+                     B;
                      152.001 -
                      152.011,
                      152.025 -
@@ -19501,7 +20048,9 @@ Ord. No. Date Passed Code Section
                      152.190,
                      152.210 -
                      152.215,
-                     152.999; Ch. 152, Apps. A - C
+                     152.999;
+                     Ch. 152, Apps. A -
+                     C
 129      8-9-98      33.01
 469      3-22-99     152.109
 470      4- - 99     T.S.O. I
@@ -19651,9 +20200,6 @@ A-96     5-24-10     T.S.O. VII
 626      5-12-12     T.S.O. V
 627      5-14-12     35.20 -
                      35.26
-                     95.01 -
-628      5-29-12     95.13,
-                     95.99
 629      6-11-12     35.30 -
                      35.37
 632      7-23-12     Adopting Ordinance
@@ -19667,9 +20213,6 @@ A-96     5-24-10     T.S.O. VII
 643      7-22-13     52.04,
                      52.13
 644      7-22-13     Adopting Ordinance
-                     95.01 -
-646      9-9-13      95.13,
-                     95.99
                      50.01,
 647      10-15-13    50.02,
                      50.04,
@@ -19807,6 +20350,58 @@ A-96     5-24-10     T.S.O. VII
 762      8-14-23     53.11
 763      8-14-23     152.185 -
                      152.189
+768      11-27-23    53.12
+769      1-22-24     10.99,
+                     Ch. 74, Sch. I
+                     95.01,
+                     95.10 -
+                     95.23,
+                     95.40 -
+770      4-8-24      95.47,
+                     95.60 -
+                     95.62,
+                     95.80 -
+                     95.82,
+                     95.99
+771      3-25-24     53.03 -
+                     53.05
+                     10.99,
+772      4-8-24      Ch. 74, Schs. I and
+                     IV
+773      7-8-24      53.08-
+                     53.10
+                     10.99,
+                     91.01 -
+                     91.08,
+                     91.20,
+                     91.21,
+774      6-24-24     91.30 -
+                     91.34,
+                     91.40 -
+                     91.43,
+                     91.50 -
+                     91.53,
+                     91.99
+776      8-26-24     Ch. 73, Sch. II
+777      10-14-24    T.S.O. VI
+                     10.99,
+                     91.01 -
+                     91.08,
+                     91.20,
+                     91.21,
+781      5-12-25     91.30 -
+                     91.34,
+                     91.40 -
+                     91.43,
+                     91.50 -
+                     91.53,
+                     91.99
+782      3-24-25     53.11
+785      6-9-25      53.03 -
+                     53.05
+787      10-14-25    53.19
+792      10-14-25    10.99,
+                     Ch. 74, Sch. II
                     
  
  
