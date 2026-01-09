@@ -16899,7 +16899,7 @@ District    area in     dwelling    building                        in feet
             square feet unit in     line in  Front Side  Rear
                         square feet feet
 R-1 Medium
-Density     10,000      10,000      70       25    10 1  30         50
+Density     10,000      10,000      70       25    101   30         50
 Residential
                         8,000 for
 R-2 High                first unit,
