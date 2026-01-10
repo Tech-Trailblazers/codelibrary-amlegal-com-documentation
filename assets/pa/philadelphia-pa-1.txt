@@ -1,7 +1,7 @@
 PHILADELPHIA HOME RULE CHARTER
 [
 Click here to go to the Philadelphia Code]
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-9277.jpg]
 ANNOTATED
 Electronic version of The Philadelphia Code and Home Rule Charter is current
@@ -27,7 +27,7 @@ Herbert E. Millen
 Thomas B. K. Ringe
 William A. Schnader
 Robert C. White
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-9271.jpg]
  
                   STAFF
@@ -14104,7 +14104,7 @@ Notes
 THE PHILADELPHIA CODE
 [
 Click here to go to the Philadelphia Home Rule Charter]
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-9277.jpg]
 13th Edition
 2024
@@ -27466,10 +27466,10 @@ APPENDICES
 Add Appendix O as follows. Appendices A through N have not been adopted.
 APPENDIX O
 ELEVATOR CALL STATION PICTOGRAPH   335
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-30395.jpg]
 ELEVATOR CALL STATION PICTOGRAPH
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-30397.jpg]
 HIGH-RISE BUILDING ELEVATOR CALL STATION FLOOR DIAGRAM
  
@@ -34215,7 +34215,7 @@ inside of the turn. The 12-inch (305 mm) dimension shall be measured from the
 widest point of the clear stair width at the walking surface. Where winders are
 adjacent within a flight, the point of the widest clear stair width of the
 adjacent winders shall be used.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36208.jpg]
 Figure R311.7.4
 Winder Tread and Landing Detail
@@ -35308,11 +35308,11 @@ than the height of the name of the food item or combination of food items next
 to or under which the icon appears when its display is required by Section
 6-310. The icon may be displayed using a different font if the font is legible
 and each letter and the triangle remain of uniform height.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-22091.jpg]
    (49.2)   Sodium Warning Statement.  17  The following statement:
       [https://export.amlegal.com/media/
-450c95bfa0eda45b3135035683d60d1e10764836/IMAGES/0-0-0-22091.jpg]: Sodium
+2d3aee162e361505c56225c60494ce7709e3debd/IMAGES/0-0-0-22091.jpg]: Sodium
 content higher than daily recommended limit (2,300 mg). High sodium intake can
 increase blood pressure and risk of heart disease and stroke.
    (50)   Swimming Place. Any body of water, natural or artificial, used
@@ -41605,6 +41605,10 @@ Convicted of One or More Criminal Offenses.
 9-3509.   Posting Requirement.
    §
 9-3510.   Prohibition on Consideration of Juvenile Records.
+   §
+9-3511.   Retaliation Prohibited
+   §
+9-3512.   Severability
 Chapter 9-3600. Agents and Sheriff's Sales
    §
 9-3601.   Definitions.
@@ -63428,15 +63432,10 @@ Notes
      in place."
 1279    Enrolled bill read "Chapter 9-3403"; reference corrected by Code editor.
 CHAPTER 9-3500. FAIR CRIMINAL RECORD SCREENING STANDARDS  1280
-{'{'} Chapter_9-3500_-_Delayed_Amendment {'}'}
  
 Notes
-1280         Added, Bill No. 110111-A (approved April 13, 2011), effective July 12,
-          2011.
-Chapter   Section 9-3511, entitled "Retaliation Prohibited", and Section 9-3512,
-9-3500_-  entitled "Severability", have been added to this chapter by Bill No. 250373-
-Delayed   A (approved October 8, 2025), effective January 6, 2026.
-Amendment
+1280    Added, Bill No. 110111-A (approved April 13, 2011), effective July 12,
+     2011.
 § 9-3501. Legislative Findings and Purpose.
    (1)   The City Council of the City of Philadelphia finds that:
       (a)   Persons with juvenile and criminal records suffer from pervasive
@@ -63496,7 +63495,6 @@ Notes
 1284    Amended, Bill No. 180368 (approved June 20, 2018).
 1285    Added, Bill No. 180368 (approved June 20, 2018).
 § 9-3502. Definitions.  1286
-{'{'} Section_9-3502_-_Delayed_Amendment {'}'}
    As used in this Chapter the following terms have the following meanings:
    (1)   Applicant. Any person considered or who requests to be considered for
 employment by an employer.
@@ -63510,9 +63508,10 @@ subsection
 9-3504(3), would reasonably lead an employer to conclude that the applicant
 would pose an unacceptable risk in the position applied for; or (ii) does not
 meet other legal or physical requirements of the job.  1287
-   (4)   Conviction shall mean any sentence arising from a verdict or plea of
-guilty or nolo contendere, including a sentence of incarceration, a suspended
-sentence, a sentence of probation or a sentence of unconditional discharge.
+   (4)   Conviction shall mean any disposition arising from a verdict or plea
+of guilty or nolo contendere, including a sentence of incarceration, a
+suspended sentence, a sentence of probation or a sentence of unconditional
+discharge.
    (4.1)   Employee means any person employed or permitted to work at or for a
 Private Employer within the geographic boundaries of the City, including as an
 independent contractor, transportation network company driver, rideshare
@@ -63532,8 +63531,19 @@ promotion, raise or termination.  1289
    (5.2)   Exoneration means the reversal or vacation of a conviction by
 pardon, acquittal, dismissal or other post-conviction re-examination of the
 case by a court or other authorized government official.  1290
+   (5.3)   Felony shall mean any offense designated as such by 18 Pa. C.S. §
+106(b)(1)-(5) or other applicable statute.
+   (5.4)   Misdemeanor shall mean any offense designated as such by 18 Pa. C.S.
+§ 106(b)(6)-(9) or other applicable statute.
+   (5.5)   Summary offense shall mean any offense designated as such by 18 Pa.
+C.S. § 106(c) or other applicable statute.
+   (5.6)   Incarceration shall mean lawful confinement in a jail or prison, and
+not parole, home confinement, or residence at a treatment facility or
+residential program.
    (6)   Inquiry means any direct or indirect conduct intended to gather
-information, using any mode of communication.
+information, using any mode of communication, including investigations into the
+applicant’s criminal history using public or government records or the
+internet, whether conducted by an employer or for an employer by a third party.
    (7)   Criminal Justice Agency means any court, including the minor
 judiciary, with criminal jurisdiction or any other governmental agency, or
 subunit thereof, created by statute or by the State or Federal constitutions,
@@ -63565,25 +63575,35 @@ time employees or as independent contractors.  1292
 system, including records of arrests, petitions alleging delinquency,
 adjudications of delinquency, diversions, consent decrees, deferred
 adjudications, and records of decertified cases.  1293
+   (11)   Job advertisement shall mean any solicitation, advertisement, or
+publication made, orally or in writing, to communicate with prospective
+Applicants about potential employment opportunities.
+   (12)   Adverse action shall mean any action that negatively affects an
+Applicant or Employee’s compensation, terms, or condition of current or future
+work or is intended to harass an Applicant or Employee in connection with work,
+including excessive and unreasonable levels of supervision, refusal to hire or
+promote, blacklisting, interferences with current employment or employment
+prospects, contacting law enforcement or a government agency to file a report,
+including reporting suspected or actual immigration status.
+   (12.1)   Excessive and unreasonable levels of supervision shall mean
+supervision of an Employee that is different from other similarly situated
+employees that is not justified by a reasonable, individualized assessment of
+the specific risks posed by an Employee’s criminal history or conduct.
  
 Notes
-1286         Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
-          2016.
-Section
-9-3502_-  This section has been amended by Bill No. 250373-A (approved October 8, 2025),
-Delayed   effective January 6, 2026.
-Amendment
-1287         Amended, Bill No. 230571 (approved December 20, 2023).
-1288         Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
-1289         Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
-1290         Added, Bill No. 230571 (approved December 20, 2023).
-1291         Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
-1292         Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
-          2021.
-1293         Added, Bill No. 180368 (approved June 20, 2018).
+        Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
+1286 2016; amended, Bill No. 250373-A (approved October 8, 2025), effective January
+     6, 2026.
+1287    Amended, Bill No. 230571 (approved December 20, 2023).
+1288    Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
+1289    Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
+1290    Added, Bill No. 230571 (approved December 20, 2023).
+1291    Added, Bill No. 200479 (approved January 20, 2021), effective April 1, 2021.
+1292    Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
+     2021.
+1293    Added, Bill No. 180368 (approved June 20, 2018).
 § 9-3503. Prohibition Against Unfair Discrimination Against Persons Previously
 Arrested for One or More Criminal Offenses.
-{'{'} Section_9-3503_-_Delayed_Amendment {'}'}
    (1)   In connection with the licensing or employment of any person, it shall
 be an unlawful discriminatory practice for a City agency or private employer to
 knowingly and intentionally make any inquiry about or to take any adverse
@@ -63609,15 +63629,10 @@ customers, and that exclusion of the Employee is compelled by business
 necessity.  1294
  
 Notes
-Section
-9-3503_-  This section has been amended by Bill No. 250373-A (approved October 6,
-Delayed   2025), effective January 6, 2026.
-Amendment
-1294         Added, Bill No. 200479 (approved January 20, 2021), effective April 1,
-          2021.
+1294    Added, Bill No. 200479 (approved January 20, 2021), effective April 1,
+     2021.
 § 9-3504. Prohibition Against Unfair Discrimination Against Persons Previously
 Convicted of One or More Criminal Offenses.  1295
-{'{'} Section_9-3504_-_Delayed_Amendment {'}'}
    (1)   In connection with the licensing or employment of any person, it shall
 be an unlawful discriminatory practice for a City agency or private employer to
 make any inquiry regarding or to require any person to disclose or reveal any
@@ -63625,7 +63640,7 @@ criminal convictions during the Employment Process, except as required by
 federal or state law. The inclusion of such inquiry on an employment
 application shall be unlawful, whether or not certain Applicants or Employees
 are told they need not answer the question. The inquiry prohibited by this
-Section shall include any question regarding the Applicant's or Employee's
+Section shall include any question regarding the Applicant’s or Employee’s
 willingness to submit to a background check. When such inquiry is required by
 federal or state law, such inquiry shall be conducted only after a Conditional
 Offer of Employment has been extended to the Applicant or Employee.
@@ -63634,27 +63649,34 @@ regarding his or her criminal convictions during the Employment Process, the
 employer may discuss the criminal conviction disclosed by the Applicant or
 Employee at that time.
       (b)   An employer may give notice, to prospective Applicants or during
-the Employment Process, of its intent to conduct a criminal background check
-after any Conditional offer of employment, promotion or re-employment is made,
-provided that such notice shall be concise, accurate, made in good faith, and
-shall state that any consideration of the background check will be tailored to
-the requirements of the job.
+the Employment Process, including in job advertisements, of its intent to
+conduct a criminal background check after any Conditional offer of employment,
+promotion or re-employment is made, provided that such notice shall be concise,
+accurate, made in good faith, and shall state that any consideration of the
+background check will be an individualized assessment based on the Applicant’s
+or Employee’s specific record and the duties and requirements of the specific
+job.
    (2)    It shall be an unlawful discriminatory practice for a City agency or
 private employer to reject an Applicant or Employee based on a conviction that
 resulted in exoneration.  1296
    (3)   No employer shall maintain a policy of automatically excluding any
 Applicant or Employee with a criminal conviction from a job or class of jobs. A
-prospective employer shall not reject an Applicant or Employee based on his or
-her criminal record, unless: such record includes conviction for an offense
-that did not later result in exoneration; the conviction bears such
+prospective employer shall not reject an Applicant or Employee based on the
+person’s criminal record, unless: such record includes conviction for an
+offense that did not later result in exoneration; the conviction bears such
 relationship to the Employment sought that the employer may reasonably conclude
 that the Applicant or Employee would present an unacceptable risk to the
 operation of the business or to co-workers or customers; and that exclusion of
 the Applicant or Employee is compelled by business necessity. An employer shall
 make a determination regarding such risk only after reviewing the Applicant’s
-or Employee’s specific record and the particular job being sought, and
-conducting an individualized assessment of the risk presented. Such assessment
-shall include:  1297
+or Employee’s specific criminal record and the particular job being sought, and
+conducting an individualized assessment of the risk presented. The Employer
+shall not exclude an Applicant or Employee unless, based on the available
+information and consideration of all of the assessment factors listed below, a
+reasonable person would conclude that employing the Applicant or Employee would
+pose a specific unacceptable risk to the operation of the business or to co-
+workers or customers, as independently determined by the factfinder. The
+individualized assessment shall include consideration of the following:  1297
       (a)   The nature of the offense;
       (b)   The time that has passed since the offense;
       (c)   The Applicant's or Employee's employment history before and after
@@ -63662,43 +63684,83 @@ the offense and any period of incarceration;
       (d)   The particular duties of the job being sought;
       (e)   Any character or employment references provided by the Applicant or
 Employee; and
-      (f)   Any evidence of the Applicant's or Employee's rehabilitation since
-the conviction.
-   (4)   A City agency or private employer may consider, for employment
-purposes, an Applicant's or Employee's conviction record only to the extent
-that the conviction did not result in exoneration and occurred fewer than seven
-(7) years from the date of the inquiry. Any period of incarceration shall not
-be included in the calculation of the seven (7) year period.  1298
+      (f)   Any evidence of the Applicant’s or Employee’s rehabilitation since
+the conviction, which may include, but shall not be limited, to credible
+information showing:
+         (.1)   Completion of a mental health or substance use disorder
+treatment program;
+         (.2)   Completion of a job training program;
+         (.3)   Completion of a GED or post-secondary education program;
+         (.4)   Service to the community;
+         (.5)   Work history in a related field since the time of conviction or
+incarceration;
+         (.6)   Active occupational licensure, commercial driver licensure, or
+other licensure necessary to perform the specific duties of the job.
+   (4)   Unless otherwise required by state or federal law, a City agency or
+private employer may consider, for employment purposes:  1298
+      (a)   an Applicant’s or Employee’s felony conviction record only to the
+extent that the conviction did not result in exoneration and the underlying
+arrest or the release from incarceration for such conviction, whichever is
+later, occurred fewer than seven (7) years from the date of the inquiry.
+      (b)   an Applicant’s or Employee’s misdemeanor conviction record only to
+the extent that the conviction did not result in exoneration and the underlying
+arrest or the release from incarceration for such conviction, whichever is
+later, occurred fewer than four (4) years from the date of the inquiry.
+   (5)   Unless otherwise required by state or federal law, a City agency or
+private employer shall not consider, for employment purposes, an Applicant’s or
+Employee’s summary offense conviction record.
+   (6)   A City agency or private employer shall not consider, for employment
+purposes, an Applicant’s or Employee’s conviction record that has been
+expunged, sealed, or otherwise cannot be used pursuant to this Chapter, whether
+such record appears on a criminal background check, a Driver Record issued by
+the Pennsylvania Department of Transportation, or any other source.
+      (a)   If an expunged or sealed criminal record appears on a Driver
+Record, the Employer shall allow the Applicant or Employee to provide evidence
+of expungement or sealing.
  
 Notes
-             Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
-1295      2016; amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
-          2021.
-Section
-9-3504_-  This section has been amended by Bill No. 250373-A (approved October 6, 2025),
-Delayed   effective January 6, 2026.
-Amendment
-1296         Added, Bill No. 230571 (approved December 20, 2023).
-1297         Amended, Bill No. 230571 (approved December 20, 2023).
-1298         Amended, Bill No. 230571 (approved December 20, 2023).
+        Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
+1295 2016; amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
+     2021; amended, Bill No. 250373-A (approved October 8, 2025), effective January
+     6, 2026.
+1296    Added, Bill No. 230571 (approved December 20, 2023).
+1297    Amended, Bill No. 230571 (approved December 20, 2023).
+1298    Amended, Bill No. 230571 (approved December 20, 2023).
 § 9-3504.1. Notice.  1299
-{'{'} Section_9-3504.1_-_Delayed_Amendment {'}'}
-   If an employer rejects an Applicant or Employee for a job opening based in
-whole or in part on criminal record information, the employer shall notify the
-applicant in writing of such decision and its basis, and shall provide the
-Applicant or Employee with a copy of the criminal history report. The employer
-shall allow the Applicant or Employee ten (10) business days to provide
-evidence of the inaccuracy of the information or to provide an explanation.
+   (1)   If an employer intends to reject an Applicant or Employee for a job
+opening based in whole or in part on criminal record information, the employer
+shall notify the applicant in writing of such provisional decision and its
+basis, including the specific convictions considered, and shall provide the
+Applicant or Employee with a copy of the criminal record used. The employer
+shall also provide the Applicant or Employee with a notice in plain language
+that shall include:
+      (a)   A summary of the Applicant’s or Employee’s rights under the Fair
+Criminal Record Screening Standards Ordinance.
+      (b)   A statement that the employer will consider evidence of any error
+in the criminal history records and evidence of rehabilitation and mitigation
+if provided by the Applicant or Employee, including a list of the types of
+evidence that may be offered, consistent with subsection
+9-304(3)(f).
+      (c)   Instruction as to how the Applicant or Employee can exercise their
+right to provide evidence or explanation directly to the employer.
+   (2)   The Philadelphia Commission on Human Relations (the “Commission”), or
+such other City department or office as the Mayor may designate, is authorized
+to issue regulations implementing and interpreting this Section
+9-3504.1 and to create forms to be used by employers under this Section
+9-3504.1, including, but not limited to, a form of required notice, summary of
+rights under the Ordinance, and statement concerning evidence of error or
+rehabilitation.
+   (3)   The employer shall allow the Applicant or Employee ten (10) business
+days to provide evidence of the inaccuracy of the information or to provide an
+explanation before it may make a final determination concerning the Applicant’s
+or Employee’s employment.
  
 Notes
-             Added, Bill No. 150815 (approved December 15, 2015), effective March 14,
-1299      2016. Enrolled bill numbered this as Section 9-3504a; renumbered by Code
-          editor. Amended, Bill No. 200479 (approved January 20, 2021), effective April
-          1, 2021.
-Section
-9-3504.1  This section has been amended by Bill No. 250373-A (approved October 6, 2025),
--_Delayed effective January 6, 2026.
-Amendment
+        Added, Bill No. 150815 (approved December 15, 2015), effective March 14,
+     2016. Enrolled bill numbered this as Section 9-3504a; renumbered by Code
+1299 editor. Amended, Bill No. 200479 (approved January 20, 2021), effective April
+     1, 2021; amended, Bill No. 250373-A (approved October 8, 2025), effective
+     January 6, 2026.
 § 9-3505. Exemptions.
    (1)   The prohibitions of this Chapter shall not apply if the inquiries or
 adverse actions prohibited herein are specifically authorized or mandated by
@@ -63715,7 +63777,6 @@ Notes
      2016.
 1301    Amended, Bill No. 180368 (approved June 20, 2018).
 § 9-3506. Enforcement.  1302
-{'{'} Section_9-3506_-_Delayed_Amendment {'}'}
    (1)   The Philadelphia Commission on Human Relations (the "Commission")
 shall administer and enforce this Chapter. The Commission is authorized to
 issue regulations in furtherance of its administration and enforcement
@@ -63728,27 +63789,44 @@ forth in subsection
 violation to the Commission. In order to exercise the private right of action
 provided under Section
 9-3508 of this Chapter, a person must first report the violation to the
-Commission within 300 calendar days of the unlawful act. In addition to the
-penalties authorized by subsection
+Commission within 300 calendar days of the unlawful act.
+   (4)   When a complaint has been filed with the Commission reporting a
+violation of this Chapter by an Employer, that Employer must file with the
+Commission in its response to the complaint a statement containing the
+following information:
+      (a)   The specific criminal record on which the Employer based its
+decision to reject the Applicant or Employee;
+      (b)   The specific duties and requirements of the job being sought, which
+the Employer considered in its individualized assessment, that resulted in a
+decision to reject the Applicant or Employee due to their criminal record;
+      (c)   The time passed since arrest or incarceration relating to the
+specific conviction considered; and
+      (d)   The evidence of rehabilitation and mitigation that the Employer
+considered.
+   (5)   Where the Commission determines that a violation of this Chapter has
+occurred, in addition to the penalties authorized by subsection
 9-3506(2), the Commission may issue an order directing an employer who has
 engaged in practices made unlawful by this Chapter to take affirmative action
-to redress the harms suffered by the complainant. The Commission may order
+to redress the harms suffered by the complainant. The Commission may also order
 remedies, including, but not limited to:
       (a)   An order requiring the respondent to cease and desist such unlawful
 practice;
       (b)   Any injunctive or other equitable relief;
       (c)   Payment of compensatory damages;
-      (d)   Payment of punitive damages, not to exceed two thousand dollars
-($2,000) per violation;
-      (e)   Payment of reasonable attorneys' fees.
+      (d)   Payment of civil penalties, not to exceed two thousand dollars
+($2,000) per violation, payable to the City;
+      (e)   Payment of reasonable attorneys’ fees; and
+      (f)   Liquidated damages in a separate amount equal to the other monetary
+damages determined to be owed to the Applicant or Employee by the Commission.
+Liquidated damages under this subsection are intended to make the Applicant or
+Employee whole and to compensate them for collateral harms suffered because of
+the violation and for the Applicant’s or Employee’s time and effort enforcing
+the rights afforded to the Applicant or Employee under this Chapter.
  
 Notes
-1302         Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
-          2016.
-Section
-9-3506_-  This section has been amended by Bill No. 250373-A (approved October 6, 2025),
-Delayed   effective January 6, 2026.
-Amendment
+        Amended, Bill No. 150815 (approved December 15, 2015), effective March 14,
+1302 2016; amended, Bill No. 250373-A (approved October 8, 2025), effective January
+     6, 2026.
 § 9-3507. Fair Criminal Record Screening Advisory Committee.
    (1)   Establishment. The City Council hereby calls upon the Mayor to
 establish a nine (9) person committee entitled the "Fair Criminal Record
@@ -63769,7 +63847,6 @@ conduct relating to this Chapter.
 Notes
 1303    Amended, Bill No. 130769 (approved December 4, 2013).
 § 9-3508. Private Right of Action.  1304
-{'{'} Section_9-3508_-_Delayed_Amendment {'}'}
    (1)   If within one (1) year after the filing of a complaint with the
 Commission, the Commission concludes that it has not found sufficient evidence
 of a violation to proceed further with an investigation, or has not entered
@@ -63797,17 +63874,13 @@ deem appropriate.
 recover damages under any other applicable law or legal theory.
  
 Notes
-1304         Added, Bill No. 150815 (approved December 15, 2015), effective March 14,
-          2016.
-Section
-9-3508_-  This section has been amended by Bill No. 250373-A (approved October 6, 2025),
-Delayed   effective January 6, 2026.
-Amendment
-1305         Amended, Bill No. 180368 (approved June 20, 2018).
-1306         Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
-          2021.
-1307         Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
-          2021.
+1304    Added, Bill No. 150815 (approved December 15, 2015), effective March 14,
+     2016.
+1305    Amended, Bill No. 180368 (approved June 20, 2018).
+1306    Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
+     2021.
+1307    Amended, Bill No. 200479 (approved January 20, 2021), effective April 1,
+     2021.
 § 9-3509. Posting Requirement.  1308
    Any employer subject to the terms of this Chapter shall post a summary of
 the Chapter requirements, in a form to be supplied by the Commission, in a
@@ -63840,6 +63913,53 @@ person's juvenile record.
 Notes
 1309    Added, Bill No. 180368 (approved June 20, 2018); amended, Bill No. 200479
      (approved January 20, 2021), effective April 1, 2021.
+§ 9-3511. Retaliation Prohibited.  1309.1
+   (1)   It shall be unlawful for an employer or any other person to interfere
+with, restrain, deny the exercise of, or the attempt to exercise, any right set
+forth in this Chapter, or to retaliate against an employee for exercising any
+rights protected by this Chapter.
+      (a)   There shall be a rebuttable presumption of unlawful retaliation
+under this Section whenever an employer discharges, suspends, demotes, or takes
+other adverse action against a person within 90 days of when that person
+engaged in the exercise of rights under this Chapter, including having utilized
+the provisions of this Chapter to provide information pertinent to an
+employer’s individualized assessment of the person’s criminal record, except
+that it shall not be deemed retaliation where an employer has acted in good
+faith to comply with this Chapter and:
+         (.1)   After receiving and considering additional information provided
+by the Applicant or Employee pursuant to Section
+9-3504.1 of this Chapter, elects to move forward with the rejection of a job
+application;
+         (.2)   Terminates or otherwise takes adverse action against multiple
+Employees or Applicants based on legitimate business concerns that are not
+related to such person’s criminal record or conduct; or
+         (.3)   Exercises their rights under Section
+9-3503(2) of this Chapter.
+   (b)   The employer or any person associated with the employer may overcome
+the presumption by showing by a preponderance of evidence that they took the
+adverse action for just cause and would have taken the adverse action
+notwithstanding the protected activity.
+   (c)   Unlawful retaliation shall include adverse actions taken prior,
+during, or after the termination of the worker’s relationship with the
+employer.
+   (d)   A causal connection between the protected activity and the adverse
+action may be established by indirect or direct evidence.
+   (e)   Unlawful retaliation can exist when the protected activity is one of
+several motivating factors for the adverse action.
+ 
+Notes
+1309.1    Added, Bill No. 250373-A (approved October 6, 2025), effective January 6,
+       2026.
+§ 9-3512. Severability.  1309.2
+   If any provision of this Chapter or application thereof to any person or
+circumstance is judged invalid, the invalidity shall not affect other
+provisions or applications of the Chapter which can be given effect without the
+invalid provision or application, and to this end the provisions of this
+Chapter are declared severable.
+ 
+Notes
+1309.2    Added, Bill No. 250373-A (approved October 6, 2025), effective January 6,
+       2026.
 CHAPTER 9-3600. AGENTS AND SHERIFF'S SALES  1310
  
 Notes
@@ -90656,7 +90776,7 @@ Notes
   Title 14.
 PREFACE: BILL NO. 110845
 City of Philadelphia
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18370.jpg]
 (Bill No. 110845)
 AN ORDINANCE
@@ -91276,7 +91396,7 @@ distance from the average ground level at the base of the structure to the top
 of the structure, provided, that if height is measured on a gable wall of a
 building, the top of the building shall be considered to be the midpoint height
 between the eaves and the ridge.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18372.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (7)   Lot Area.
@@ -91289,7 +91409,7 @@ opposite front lot line of a lot. In the case of flag lots the width of the
 "pole" or portion of the lot only used for access to the remainder of the lot
 shall be ignored in determining the midpoint of both the front and rear lot
 lines.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18374.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -91342,7 +91462,7 @@ rear lot line, along the setback line of the shortest frontage. (See §
 the front lot line of the "pole" or portion of the lot forward of the front
 setback line with the least width, generally used for access to the remainder
 of the lot.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20133.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -91459,7 +91579,7 @@ intersection along the edges of the street right-of-way and the alley or shared
 driveway; or
 (b)   A triangle formed by the intersection of two streets, measured 30 ft.
 from the intersection along the edges of the two streets.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18376.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -91493,7 +91613,7 @@ and parallel to the plane of view.
 The area of an embellishment is computed as the area of the minimum imaginary
 rectangle parallel to the plane of view that completely encloses the
 embellishment.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18378.jpg]
 Parallel and Perpendicular Planes of View
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -92660,7 +92780,7 @@ See §
 As used in the context of surface parking areas or parking structures, any area
 of a parking lot abutting a parking space that is used to provide vehicular
 ingress and egress between a parking space and a driveway.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18380.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (212)   Parking, Mechanical Access.
@@ -92977,7 +93097,7 @@ Notes
 (280.1)   Sign, Cabinet.  108
 A sign that has a face which is enclosed, bordered, or contained within a box-
 like structure, frame, or other device.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18382.jpg]
 Cabinet Sign
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93001,7 +93121,7 @@ Notes
 A sign that is not erected by a government entity containing copy primarily
 limited to a message that directs pedestrian or vehicular traffic to a point of
 destination on the same property, development, or campus.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18384.jpg]
 Directional Sign
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93013,10 +93133,10 @@ Any sign that is supported by a structure of one or more frames, poles or other
 support structures permanently erected in or upon the ground. Freestanding
 signs include monument signs, pylon signs, pole signs, and other permanently
 affixed signs.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18386.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18388.jpg]
 Freestanding sign types include monument and pylon
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93031,7 +93151,7 @@ building, whether or not supported by the ground or sidewalk, that projects
 more than 18 in. over a sidewalk, walkway, or right-of-way, but not including
 balconies or bay windows. The sign may be located on any face, top, or
 underside of the marquee.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18390.jpg]
 Marquee Sign
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93046,10 +93166,10 @@ to move or merely having changing displays, as might be found in a digital or
 animated illumination sign. The physical movement may be activated
 electronically or from another power source, but shall not include wind-
 activated movement such as used for banners or flags.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18392.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18394.jpg]
 Mechanical Movement Signs
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93093,7 +93213,7 @@ building or structure such that the sign extends more than 12 in. from the face
 of the building or structure to which it is attached. This includes signs on
 the side of an awning. A sign that is attached to or integrated into the side
 panel of an awning or canopy shall be considered a projecting sign.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18396.jpg]
 Projecting Sign
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93119,7 +93239,7 @@ Notes
 (293)   Sign, Roof.  124
 A sign erected upon and constructed wholly on and over the roof of a building,
 supported by the roof structure, and extending vertically above the roof.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18398.jpg]
 Roof Sign
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93140,10 +93260,10 @@ the sign extends forward of that wall by 12 in. or less. A sign attached to or
 integrated into the front or sloped panel of an awning or canopy shall be
 considered a wall sign. Wall signs include a sign that extends by 12 in. or
 less from the wall of a bay window parallel to the building facade.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18400.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18402.jpg]
 Wall Signs
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -93189,7 +93309,7 @@ A horizontal sign band that uses light emitting diodes (LEDs), charge coupled
 devices (CCDs), plasma, or functionally equivalent technologies to display a
 scrolling stream of messages, including but not limited to stock prices, sports
 scores, headline news, and entertainment news.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18404.jpg]
 Animated Illumination
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -94165,7 +94285,7 @@ Notes
 180 2012; deleted, Bill No. 120774-A (approved January 14, 2013); added, Bill No.
     200417 (became law November 12, 2020), effective January 1, 2022.
 (6)   Zoning Permits.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18406.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -94385,7 +94505,7 @@ Notes
 190.1    Amended, Bill No. 250293 (approved June 26, 2025).
 191      Amended, Bill No. 180295-AAA (became law October 18, 2018).
 (7)   Special Exception Approval.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18408.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -94465,7 +94585,7 @@ Notes
 192    Amended, Bill No. 120774-A (approved January 14, 2013); amended, Bill No.
     170335-A (approved June 6, 2017), effective December 6, 2017.
 (8)   Zoning Variances.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18410.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -95564,7 +95684,7 @@ may submit a proposed amendment to the Comprehensive Plan for approval pursuant
 to §
 14-304(2) (Comprehensive and Other Plan Adoption).
 (2)   Comprehensive and Other Plan Adoption.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18414.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -95600,7 +95720,7 @@ and decision on the plan.
 Notes
 246    Amended, Bill No. 120774-A (approved January 14, 2013).
 (3)   Zoning Map and Text Amendments.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18416.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -95796,7 +95916,7 @@ Notes
 253    Amended, Bill No. 120431 (approved June 27, 2012), effective August 22,
     2012.
 (4)   Amendments to Master Plans.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18418.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -95940,10 +96060,10 @@ Case 2: The applicant's property:                                       AND the 
 14-304(5)(b)(.2) (Affected Properties).                                 units within an existing structure.
  
  
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18420.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18422.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.3)   Optional Review.
@@ -96060,7 +96180,7 @@ Notes
 269    Added and subsequent subsection renumbered, Bill No. 160966 (approved December
     20, 2016), effective January 1, 2017.
 (6)   Lot Adjustments.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18424.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (a)   Applicability.
@@ -96360,7 +96480,7 @@ limit and gross floor area ratio limit in
 Tables 14-701-1 through
 14-701-3 is not an increase of that specific nonconformity, and is permitted.
 (See figure "Vertical Extension of a Nonconforming Side Wall".)
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18426.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (d)   Where a rear wall does not meet a rear yard minimum depth requirement, a
@@ -96370,7 +96490,7 @@ comply with minimum required rear yard minimum depth or yard areas must meet
 the requirements in
 Tables 14-701-1 through
 14-701-3. (See figure "Vertical Extension of a Nonconforming Rear Wall".)
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18428.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (e)   Where a side wall does not meet a required side yard requirement: 1) a
@@ -96379,7 +96499,7 @@ an increase of that specific nonconformity, and is not permitted, and 2) a
 horizontal extension of a side wall into a rear yard is permitted, provided the
 extension complies with applicable rear setback and open space requirements.
 (See figure "Horizontal Extension of a Nonconforming Side Wall".)  282
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18430.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (f)   Elevator shafts or fire towers that existed at the time a structure
@@ -97921,7 +98041,7 @@ Frankford Avenue, North Delaware Avenue, Beach Street, East Columbia Avenue,
 the Delaware River, Reed Street, Front Street, Washington Avenue, Grays Ferry
 Avenue, Ellsworth Street, and the Schuylkill River, as shown on the /CTR
 Overlay district map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18432.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Area Boundaries.
@@ -98003,7 +98123,7 @@ The Independence Hall Area consists of Independence Mall and Independence
 National Historic Park, as defined by the U.S. National Park Service and shown
 on the following map for illustrative purposes only, and lots adjacent to the
 boundaries of the Independence Mall and Independence National Historic Park.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18434.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.12)   John F. Kennedy Boulevard Area.
@@ -98081,7 +98201,7 @@ depicted on the South Street/Head House Square Area map and is further
 subdelineated as follows:
 (.a)   Central: The portion of South Street/Head House Square Area that fronts
 on South Street.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18436.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.23)   Southwark National Historic District.
@@ -98393,13 +98513,13 @@ N240740, E2719920 on the Pennsylvania State Plane Coordinates South Zone Map,
 to the point of the building closest to such point on the steps.
 (.1)   Southeast 1: (d x 0.05705) + 90 ft.
 (.2)   Southeast 2: (d x 0.02586) + 90 ft.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18438.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18440.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18442.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (d)   Benjamin Franklin Parkway Area.  351
@@ -98462,7 +98582,7 @@ the following:
 (.a)   Properties between Fairmount Park and the Crescent: 100 ft.
 (.b)   Properties between the Crescent and 18th Street: 160 ft.
 (.c)   Properties between 20th Street and Fairmount Park: 180 ft.  357
- [https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+ [https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18444.jpg]  358
 {'{'}For printable PDF version of image, click HERE{'}'}
 (f)   Parkway Buffer Area, Southeast.
@@ -98525,10 +98645,10 @@ less than 25 ft. above the sidewalk level (See Height Control Area Map 4 for
 illustrative purposes only).
 (.1)   Chestnut and Walnut Street Area.
 (.2)   Commercially-zoned lots located in the Mid-North Broad Street Area.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37656.jpg]  364.1
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18448.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (l)   Center City Commercial District Control Area.  365
@@ -98620,7 +98740,7 @@ No building or portion of the exterior of a building in the Independence Hall
 Area shall be constructed, reconstructed, erected, or altered if the proposed
 construction, reconstruction, erection, or alteration will extend beyond any
 building line established as of July 29, 1954 or thereafter.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18450.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Center City Residential District Control Area.  369
@@ -98834,7 +98954,7 @@ All Uses                                                              [11]
 Urban Agriculture Use Category
 All Uses                                                              [11]
  
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37670.jpg]  380
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Prohibited Accessory Uses and Structures.
@@ -98951,7 +99071,7 @@ and  385
 (.b)   Broad Street within the Broad Street Area, South, except for lots
 designated "CMX-5" on the east side of Broad Street, between Spruce Street and
 Pine Street.  386
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18454.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Broad Street Area, Mid-North.  387
@@ -98980,7 +99100,7 @@ in §
 14-603(13) (Regulated Uses), shall be prohibited. This requirement applies only
 along these designated street frontages and does not apply to areas occupied by
 entrances, exits, or waiting areas.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18456.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (e)   Loading and Trash Storage Area Restrictions.
@@ -99001,14 +99121,14 @@ Parking and Loading Regulations Area Map 3 for illustrative purposes only):
 a special exception permit is obtained pursuant to §
 14-303(7) (Special Exception Approval). (See Parking and Loading Regulations
 Area Map 3 for illustrative purposes only).
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37682.jpg]  389
 {'{'}For printable PDF version of image, click HERE{'}'}
 (g)   Parking Regulations for Certain Commercial Uses.  390
 In the Center City Commercial Area (see Parking and Loading Regulations Area
 Map 4 for illustrative purposes only), movie theaters shall be exempt from
 minimum parking requirements.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18460.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (h)   South Street West Area.  391
@@ -99185,7 +99305,7 @@ its approval will be presumed.
 (.5)   Temporary Signs.
 Temporary non-commercial signs and real estate signs are permitted, so long as
 such signs do not exceed a total gross area of 25 sq. ft.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18462.jpg]  405
 {'{'}For printable PDF version of image, click HERE{'}'}
 (f)   Washington Square Area.
@@ -99234,7 +99354,7 @@ illustrative purposes only).
 No person shall erect or maintain any sign extending beyond the building line
 within the Logan Square Area (See Sign Regulations Area Map 2 for illustrative
 purposes only).
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37692.jpg]  407.1
 {'{'}For printable PDF version of image, click HERE{'}'}
 (m)   Market Street East Retail Area, North.  408
@@ -99403,7 +99523,7 @@ the style and spirit of this national shrine with respect to appearance, color,
 and materials and the architectural style and design of the exterior of the
 proposed building. The Art Commission has 60 days to approve or disapprove the
 application, after which its approval will be presumed.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18466.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -99545,7 +99665,7 @@ Weightman Street, Ridge Avenue, School House Lane, SEPTA Railroad, Calumet
 Street, Warden Drive, Midvale Avenue, Cresson Street, Indian Queen Lane, SEPTA
 Railroad, the Roosevelt Boulevard Extension, and the Schuylkill River, as shown
 on the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-19628.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Use Regulations.
@@ -99644,7 +99764,7 @@ on Germantown Avenue between Chestnut Hill Avenue and Cresheim Valley Drive.
 (.2)   Mount Airy and Germantown North Subarea.  425
 All properties fronting on Germantown Avenue between Cresheim Valley Drive and
 Chelten Avenue.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36672.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Chestnut Hill Subarea.
@@ -99763,7 +99883,7 @@ Manayunk Canal, on the southeast by Green Lane, on the southwest by the
 Schuylkill River, and on the northwest by Leverington Avenue with a straight
 line extending from Leverington Avenue to the Schuylkill River, which Master
 Plan is on file with the Chief Clerk's Office.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20753.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Height.
@@ -99868,7 +99988,7 @@ Street, 11th Street, and Courtland Street.
 (.2)   Subarea B.
 All lots located in the area bounded by Roosevelt Boulevard, 9th Street,
 Wyoming Street, and 7th Street.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-19736.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Use Regulations.
@@ -99905,7 +100025,7 @@ apply to the area bounded by Old Stenton Avenue, Logan Street, Belfield Avenue,
 Baynton Street, Walnut Lane, Wayne Avenue, Rittenhouse Street, Morris Street,
 and Berkley Street, as shown on the following Lower and Central Germantown map
 for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18479.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Prohibited Uses.
@@ -99933,7 +100053,7 @@ commercially zoned properties within the area bounded by Spring Garden Street,
 the Delaware River, Lehigh Avenue, Frankford Avenue, Girard Avenue, and 5th
 Street, as shown on the following North Delaware Avenue map for illustrative
 purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20425.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Use Regulations.
@@ -100118,7 +100238,7 @@ except for any property within the South Street/Head House Square area set
 forth in §
 14-502(2)(b)(.22), as shown on the following map for illustrative purposes
 only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18481.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Zoning Regulations for Residential and Residentially-Zoned Structures..
@@ -100234,7 +100354,7 @@ character.
 (b)   Applicability.
 The requirements of this Overbrook Farms /NCO district apply to all lots within
 the boundaries shown on the following map.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18483.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Zoning Regulations.  456
@@ -100282,7 +100402,7 @@ Avenue, Dupont Street (both sides), Lawnton Street, Green Lane, Jannette
 Street, Monastery Avenue, and Henry Avenue, except for the parcels located in
 the /RAN Ridge Avenue Neighborhoods Overlay district, as shown on the following
 map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18485.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Zoning Regulations for Residential and Residentially-Zoned Structures.
@@ -100368,7 +100488,7 @@ The East Mermaid Lane/NCO applies to RSA-3-zoned properties in the area bounded
 by the SEPTA Chestnut Hill East Line, Cresheim Valley Drive, Germantown Avenue,
 Winston Road, Moreland Avenue, Devon Street, Ardleigh Street, and Springfield
 Avenue, as shown on the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37480.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Zoning Regulations for Residential Structures.
@@ -100499,7 +100619,7 @@ Wilde Street, Leverington Street, Silverwood Street, Hermitage Street, Manayunk
 Avenue (extended), Gates Street, Pechin Street, and Fountain Street, except for
 the parcels with frontage upon Ridge Avenue, as shown on the following map for
 illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18331.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Zoning Regulations for Residential and Residentially-Zoned Structures.
@@ -100576,10 +100696,10 @@ properties bounded by 39th Street, Spring Garden Street, 35th Street, Lancaster
 Avenue, 36th Street, Warren Street, 37th Street, Lancaster Avenue, Powelton
 Avenue, 38th Street, and Lancaster Avenue, as shown on the following map ("Zone
 2") for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20417.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20419.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Zoning Regulations for Residential and Residentially-Zoned Structures.
@@ -100706,7 +100826,7 @@ The Wissahickon /NCO applies to properties in the area bounded by Henry Avenue,
 Hermit Street, Ridge Avenue, and the Wissahickon Creek, except for the parcels
 located in the /RAN Ridge Avenue Neighborhoods Overlay district, as shown on
 the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-21349.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Zoning Regulations for Residential and Residentially-Zoned Structures.
@@ -100816,7 +100936,7 @@ map ("Zone 3") for illustrative purposes only; to all lots in the area bounded
 by 29th Street, York Street, and Sedgley Avenue ("Zone 4"); and to all lots
 bounded by Lehigh Avenue, Sedgley Avenue, York Street and 29th Street ("Zone
 5").
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36368.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Zoning Regulations for Residential and Residentially-Zoned Structures.
@@ -100975,7 +101095,7 @@ depicted for illustrative purposes only on the following map.
 (.2)   Any increase in size of non-commercial urban agriculture uses beyond the
 boundaries of community gardens existing on November 10, 2010, depicted for
 illustrative purposes only on the following map, shall be prohibited.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18487.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (3)   Fox Chase.
@@ -100988,7 +101108,7 @@ illustrative purposes only.
 The uses permitted in the Fox Chase /ENV overlay district shall be restricted
 to uses in the parks and open space use category, educational facilities and
 non-commercial urban agriculture uses.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18489.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 § 14-506. /NCP, North Central Philadelphia Overlay District.
@@ -101016,7 +101136,7 @@ Jefferson Street and Oxford Street.
 Diamond Street.
 (.4)   The area bounded by Girard Avenue, Watts Street, Parish Street, Park
 Street, Brown Street and 12th Street.  475
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18491.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Use Regulations.  476
@@ -101042,7 +101162,7 @@ Street, Cumberland Street, 20th Street, Master Street, Ridge Avenue, College
 Avenue, 20th Street, Girard Avenue, 9th Street, and Lehigh Avenue, as shown on
 the following map for illustrative purposes only.
 /NCP, Subarea B (Applies to RM-1 lots only)
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-34718.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Permitted Number of Dwelling Units.
@@ -101086,7 +101206,7 @@ except for lots zoned I-P, located in the area bounded by Allegheny Avenue; the
 pierhead line of the Delaware River, as established by the Secretary of War on
 September 10, 1940; Oregon Avenue; and the east side of Interstate 95, as shown
 on the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18497.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (3)   River Access Streets.  481
@@ -101540,11 +101660,11 @@ The City Avenue Overlay district applies to all lots within the boundaries
 shown on the following two maps in §
 14-509(2) (Boundaries).
 (a)   Village Center Area.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18510.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Regional Center Area.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18512.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (3)   Regulations.
@@ -101640,7 +101760,7 @@ be included in measuring the height of a building containing both commercial
 and either residential or hotel uses if the enclosed area occupies less than
 fifty percent (50%) of the floor area of the story below and is set back a
 minimum of 20 ft. from the exterior walls of the building.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18514.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (h)   Building Bulk and Spacing.
@@ -101842,7 +101962,7 @@ Overlay Map of §
 The Commission shall maintain the official Wissahickon Watershed Overlay map
 and make the map available to the public for inspection during normal business
 hours. The following map is provided for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18516.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (5)   Setbacks from Watercourses.  505
@@ -102175,7 +102295,7 @@ The Far Northeast Overlay District applies to the 56th Ward, 58th Ward, 63rd
 Ward, and 66th Ward, as shown on the following map for illustrative purposes
 only
 FNE Far Northeast Overlay District
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18518.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (2)   Use Regulations.
@@ -102261,11 +102381,11 @@ shown for illustrative purposes only on the following Map A;
 (b)   All divisions of the 56th Ward, 58th Ward, 63rd Ward, and 66th Ward, as
 shown for illustrative purposes only on the following Map B.
 Map A
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18520.jpg]
 Map B
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18522.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (2)   Use Regulations.  535
@@ -102733,7 +102853,7 @@ metering device with two decimal place capability, hereinafter referred to as
 distance depending on the area of the UED. The distance away from the UED,
 hereinafter defined as the (Illuminance Measurement Distance), shall be
 calculated as follows:
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18524.jpg]
 Directional UED Area is defined as the surface area of a UED that is primarily
 visible from one direction. When a measurement from the required distance is
@@ -102758,7 +102878,7 @@ Inspector. The material should be a distance of 10 ft. away from the Lighting
 Inspector in between the UED and the Lighting Inspector. Please see Diagram A
 below.
 Diagram A: Measuring Ambient Light Level
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18526.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.4)   In order to determine the UED Illuminance level the Lighting Inspector
@@ -102795,7 +102915,7 @@ finder. The Lighting Inspector shall position the target area circle so it
 falls entirely within the brightest copy area of the UED that is being
 measured, as outlined in Diagram B below. The Lighting Inspector shall take the
 measurement by pulling the Luminance Meter trigger.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18528.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.5)   In the event that the Light Inspector cannot physically position
@@ -102985,7 +103105,7 @@ environmentally sustainable practices.
 The East Callowhill Overlay District shall consist of all lots in the area
 bounded by 2nd Street, Spring Garden Street, 9th Street, and Callowhill Street
 as shown on the following map for illustrative purposes only:
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-19726.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -103225,7 +103345,7 @@ Street, Ontario Street, the Delaware Expressway, Westmorland Street, Bath
 Street, Allegheny Avenue (extended), the Delaware River, the Tacony Palmyra
 Bridge, and Levick Street as shown on the following map for illustrative
 purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-22227.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.2)   Subarea B.
@@ -103233,14 +103353,14 @@ The area bounded by Tulip Street, Decatur Street, Edmund Street, Cottman Avenue
 (extended), the Delaware River, Pennypack Path (extended), the Delaware
 Expressway, and Rhawn Street as shown on the following map for illustrative
 purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-22229.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.3)   Subarea C.
 The area bounded by Torresdale Avenue, Pennypack Street, Hegerman Street
 (extended), Ashburner Street, the Delaware Expressway, and Delaware Expressway
 Ramp F as shown on the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-22231.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Reserved.
@@ -103805,7 +103925,7 @@ The Thomas Jefferson University Hospital Heliport Area shall be associated with
 Thomas Jefferson University Hospital Heliport (FAA location identifier 9PA8)
 and shall consist of the area bounded by Sansom Street, 10th Street, Walnut
 Street, 9th Street, Spruce Street, and 13th Street.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36148.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -103933,7 +104053,7 @@ Pentridge Avenue, 50th Street, Willows Avenue, 51st Street, Hadfield Street,
 52nd Street, Whitby Avenue, 53rd Street, Chestnut Street, Cobbs Creek Parkway,
 63rd Street, Arch Street, 54th Street, Race Street, and 50th Street, as shown
 on the following map, for illustrative purposes only;  584
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-38172.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Any lot that is located both within the /TOD overlay district and the 7th
@@ -103944,20 +104064,20 @@ Street, Emerald Street, Boston Street, Coral Street, Front Street, Norris
 Street, Frankford Avenue, Oxford Street, 6th Street, Dauphin Street (extended),
 4th Street (extended), Lehigh Avenue, 5th Street, Allegheny Avenue, and B
 Street, as shown on the following map, for illustrative purposes only;  585
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-37762.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (d)   The area bounded by Cheltenham Avenue, Charles Street, Pratt Street,
 Valley Street, Harrison Street, Tackawanna Street, Orthodox Street, Griscom
 Street, Wakeling Street, Castor Avenue, and Oxford Circle, as shown on the
 following map, for illustrative purposes only; and  586
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36164.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (e)   The area bounded by Roosevelt Boulevard, a former Conrail Right-of-Way,
 Annsbury Street, 6th Street, and Wingohocking Street, as shown on the following
 map, for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-34932.png]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -105043,7 +105163,7 @@ or delivered and site conditions.
 (c)   Specific Use Types.
 Some use subcategories are further broken down to identify specific use types
 that are regulated differently than the subcategory.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18530.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (d)   Use Tables.
@@ -107015,11 +107135,11 @@ facility, hospital, library and cultural exhibit, religious assembly, or
 recreation building, provided that within "Area 1" and "Area 2", as defined in
 §
 14-603(5)(a)(.2), above, the building must be publicly-owned or operated.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18535.jpg]
 Family Child Care Area 1 (Applies to all lots)  677
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18537.jpg]
 Family Child Care Area 2 (Applies to all lots)  678
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -107559,7 +107679,7 @@ Table 14-701-1) or §
 14-701(2)(c) (Notes for
 Table 14-701-2) for stories above the second story in RSA-5, RSA-6, and RM-
 1 districts.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18539.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Height.
@@ -107586,19 +107706,19 @@ structure located more than 42 in. above the surface of the roof deck must be
 set back an additional 5 ft. from the required setback of the associated roof
 deck. The roof deck access structure must be set back 5 ft. from the extreme
 rear building line.  699
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18541.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.5)   For illustrative purposes only, the following diagrams show the
 permissible area for a roof deck access structure:  700
 Permitted Roof Deck Access Structure Area, Attached Dwelling:
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-33762.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 Note: Height limitation applies everywhere. Square footage limitation does not
 apply in RM-2, RM-3, RM-4, RMX-3, CMX-3, CMX-4, CMX-5, and IRMX.
 Permitted Roof Deck Access Structure Area, Corner Lot:
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-33764.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 Note: Height limitation applies everywhere. Square footage limitation does not
@@ -108032,7 +108152,7 @@ apply to those street frontages and the following side yard, rear yard, and
 primary frontage requirements shall apply. In all circumstances, the
 requirements for minimum open area and maximum occupied area remain the same.
 (See figure below for illustrative purposes only).
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18237.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.1)   Properties Bounded by Two Streets.
@@ -108171,7 +108291,7 @@ the following:  732
 (.a)   For lots bounded on only one side by the side or rear yard of a semi-
 detached or detached structure, any structure must be constructed with a side
 yard that adjoins that side and that meets this minimum size.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20898.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.b)   For lots bounded on both sides by the side or rear yards of semi-
@@ -108181,7 +108301,7 @@ Any detached structure must be constructed as stated in §
 (.c)   For lots that are not bounded on any side by the side or rear yard of a
 semi-detached or detached structure, any structure must be constructed with a
 side yard that fully meets this minimum size on either side.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20900.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 [9]   In the RSA-1, RSA-2, and RSA-3 districts, for lots bounded on both sides
@@ -108189,7 +108309,7 @@ by the side yard of a semi-detached structure, any detached structure must be
 constructed with a side yard on both sides, each with at least fifty percent
 (50%) of the minimum semi-detached side yard width required for permitted
 residential uses.  734
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-20902.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 [10]   In the RSA-6 district, parapet walls on the front and rear facades may
@@ -108338,7 +108458,7 @@ from each lot line shall be equal to 3/4 of the height of the structure. For
 lot lines that are street lines, the minimum setback for structures, for the
 purposes of this subsection, shall be measured from the centerline of that
 street and shall be equal to 3/4 of the height of the structure.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18543.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 [8]   Number of required yards/required width (ft). "Each" identifies that each
@@ -108508,7 +108628,7 @@ district shall apply.  747
 [2]   The maximum floor area ratio for lots zoned CMX-5 located within the
 boundaries of the Center City/University City Floor Area Ratio Map is increased
 to one thousand six hundred percent (1,600%) of lot area.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-38096.jpg]  748
 {'{'}For printable PDF version of image, click HERE{'}'}
 [3]   In the CMX-1 district, front yard depths shall comply with the following:
@@ -110649,13 +110769,13 @@ These steep slope protection requirements shall apply to development, earth
 moving activity, and site clearing within the “Steep Slope Protection Area”, as
 shown on the City of Philadelphia Steep Slopes Map maintained by the
 Commission. The steep slopes map shown below is for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18550.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18552.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18554.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Exceptions.
@@ -110809,7 +110929,7 @@ For these spaces, a minimum of two openings having a total area of not less
 than one square inch for every square foot of enclosed space shall be included
 and shall be no higher than one foot above grade to provide that they permit
 the automatic entry and exit of flood waters.  843
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18556.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.d)   If fill is used to raise the elevation of the site for residential
@@ -110944,7 +111064,7 @@ measured perpendicular to and horizontally from the top-of-bank for all
 watercourses identified on the Hydrology Maps established by the Water
 Department and approved by ordinance pursuant to §
 14-704(5)(a).
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18558.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.2)   The following activities and uses are prohibited within the waterfront
@@ -111437,7 +111557,7 @@ Any fence located nearer to the lot line than the required building setback or
 the actual distance of the building from the lot line (whichever is greater),
 shall be no more than four ft. in height and no more than fifty percent (50%)
 opaque.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18564.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.2)   Side and Rear.  869
@@ -111445,7 +111565,7 @@ Fences in the rear or at the side that are located at a distance equal to or
 further from the front lot line than the required building setback or the
 actual distance to the building from the front lot line (whichever is greater)
 may be no more than six ft. in height.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18566.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Corner Lots.
@@ -111455,7 +111575,7 @@ the front setback rules set forth by §
 lot building not facing a street shall comply with the side and rear setback
 rules set forth by §
 14-706(3)(a)(.2) above of a non-corner lot.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18568.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (c)   Architectural Fence Features.
@@ -112370,13 +112490,13 @@ Avenue, and Columbia Avenue as shown on the following maps for illustrative
 purposes only, shall meet the following standards, notwithstanding any other
 parking requirements set forth in this
 Chapter 14-800 or elsewhere in this Zoning Code.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36842.jpg]
 Delaware River Waterfront Parking for “Sit-Down Restaurants” and “Nightclubs
 and Public Entertainment Venues”
 (Only applies to commercially-zoned lots)
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-36844.jpg]
 Delaware River Waterfront Parking for “Sit-Down Restaurants” and “Nightclubs
 and Public Entertainment Venues”
@@ -112559,7 +112679,7 @@ be governed by the same setback and yard provisions as the building itself.
 in required front, side, and rear yards.
 (iii)   Driveways that provide vehicular access to accessory parking spaces may
 be located in required front, side, or rear yards.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18578.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.b)   Exceptions.
@@ -112581,7 +112701,7 @@ use categories is located on a lot whose side or rear lot line is abutting a
 Residential district, no more than one driving aisle with parking spaces on
 both sides of the aisle may be located between the primary structure and any
 lot line boundary abutting the Residential district.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18580.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (.2)   Industrial Districts.
@@ -112987,7 +113107,7 @@ Philadelphia Stormwater Management Guidance Manual; or
 areas to protect the plants, with planted areas installed at a lower grade than
 the parking lot pavement, and curbing shall have openings allowing drainage
 from the pavement to enter and percolate through the landscaped areas.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18586.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -113190,7 +113310,7 @@ wash                                                                  Washing
 Vehicle Fueling Stations                                     2        Pump
                                                                       Island
  
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18588.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
  
@@ -113468,7 +113588,7 @@ describe whether a sign is permitted, and if so, what type of sign is allowed.
 Approval and variance processes are located in
 Chapter 14-300 (Administration and Procedures).
 Figure 14-902-A is provided for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18590.jpg]
 Figure 14-902-A: Sign Regulation Applicability Decision Tree
 {'{'}For printable PDF version of image, click HERE{'}'}
@@ -114186,10 +114306,10 @@ shown on the following maps for illustrative purposes only;  971
 (.2), if the sign is visible from within any area set forth in subsection (.1)
 or (.2); or
 (.4)   Within land under the jurisdiction of DPR.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18592.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18594.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (b)   Special Sign Review.
@@ -114659,7 +114779,7 @@ The Market Street East Advertising District contains the area bounded by 13th
 Street, Filbert Street, 7th Street, Ranstead Street, 9th Street, Ludlow Street
 (extended), 10th Street, Ludlow Street, Girard Street, and Ludlow Street
 (extended), as shown in the following map for illustrative purposes only.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-18596.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (2)   Applicability.
@@ -114935,7 +115055,7 @@ to Market Street, the south side of Market Street between 19th Street and 20th
 Street, and the east side of 20th Street from Market Street to a point 65 feet
 south of the south side Market Street, as shown in the following map for
 illustrative purposes.
-[https://export.amlegal.com/media/450c95bfa0eda45b3135035683d60d1e10764836/
+[https://export.amlegal.com/media/2d3aee162e361505c56225c60494ce7709e3debd/
 IMAGES/0-0-0-34709.jpg]
 {'{'}For printable PDF version of image, click HERE{'}'}
 (2)   Exempt Provisions.

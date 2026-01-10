@@ -11700,12 +11700,12 @@ not set by resolution shall be $250 per violation.
 (Ord. 1266, passed 4-16-2012; Ord. 1303, passed 9-8-2015; Ord. 1315, passed 6-
 6-2016)
 APPENDIX A: PLANTING INSTRUCTIONS
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1037.jpg]
  
 (Ord. 1266, passed 4-16-2012; Ord. 1303, passed 9-8-2015)
 APPENDIX B: LOCATING TREES ON PROPERTY
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1039.jpg]
  
 (Ord. 1303, passed 9-8-2015)
@@ -17430,7 +17430,7 @@ foliage of one planting physically contact adjacent plantings.
 the natural grade at the lowest exposed portion of the foundation to the
 uppermost point of the roof edge or peak, wall, parapet, mansard or other
 feature perpendicular to that grade.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1513.jpg]
  
    HERITAGE TREE. A tree listed on the Official City of Tillamook Heritage Tree
@@ -18156,8 +18156,6 @@ premises upon which such a stand is located.
 traffic.
    ROOT ZONE. Any area within the drip line of any tree and any area within 20
 feet of any resource tree trunk, whichever is further from the tree trunk.
-   ROW HOUSES. A series of individual houses having architectural unity and a
-common wall between each unit.
    SCALE. The relationship of a particular project or development, in terms of
 size, height, bulk, intensity and aesthetics, to its surroundings.
    SCHOOL. Any institution for learning, whether public or private, meeting
@@ -19298,9 +19296,10 @@ DEVELOPMENT STANDARDS
 Standard   Requirement Notes
 Maximum    35 feet     See exceptions in §
 height                 152.050(C).
-Minimum    7,500       See exception in § 152.061(E) below. The minimum lot area standard shall
-lot area;  square feet not apply to lots of record, as defined by § 152.003.
-all except
+Minimum                See exception in §
+lot area;  7,500       152.016(E) below. The minimum lot area standard shall not apply to lots
+all except square feet of record, as defined by §
+                       152.003.
                        Provided, the
                        maximum density for a
 Townhouses 1,500       townhouse project
@@ -19315,16 +19314,20 @@ Townhouses 20 feet      
 Minimum                May be reduced to 10 feet for a covered porch or enclosed patio. See §
 front yard 15 feet     152.053(E) for garage setbacks.
 setback
+Minimum
+street     15 feet      
+side yard
+setback
            5 feet for
            portions of
            buildings
            or
            structures
 Minimum    that are 18
-street     feet high
-yard       or less 10   
-setback;   ft for
-all except portions of
+side yard  feet high
+setback;   or less 10   
+all except ft for
+           portions of
            buildings
            or
            structures
@@ -19419,7 +19422,8 @@ to be taken through the review process as described in §
 § 152.017 RESIDENTIAL MEDIUM DISTRICT (R-5.0 DISTRICT).
    (A)   Purpose. To encourage, accommodate, maintain and protect a suitable
 environment for residential living at urban standards in areas with community
-services.
+services incorporating single-family dwellings, duplexes, triplexes,
+quadplexes, townhouses and cottage clusters.
    (B)   Uses permitted outright. The following uses are permitted in the R-5.0
 District:
       (1)   Any use permitted outright in a Residential Low District, R-7.5
@@ -19439,63 +19443,63 @@ development.
 DEVELOPMENT STANDARDS
 Standard Requirement Notes
 DEVELOPMENT STANDARDS
-Standard      Requirement   Notes
-Maximum       35 feet       See exceptions in §
-height                      152.050(C)
-                            See exception in §
-Minimum lot   5,000 square  152.017(E) below.
-area; all     feet          The minimum lot area standard shall not apply to
-except                      lots of record, as defined by §
-                            152.003.
-Quadplexes,   7,000 square
-cottage       feet           
+Standard       Requirement   Notes
+Maximum height 35 feet       See exceptions in §
+                             152.050(C)
+                             See exception in §
+Minimum lot    5,000 square  152.017(E) below.
+area; all      feet          The minimum lot area standard shall not apply to
+except                       lots of record, as defined by §
+                             152.003.
+Quadplexes,    7,000 square
+cottage        feet           
 clusters
-              1,500 square  Provided, the maximum density for a townhouse
-Townhouses    feet          project shall not exceed 4 dwelling units per 7,000
-                            square feet.
-Minimum lot                 Lot width may be reduced further for rear lot
-width; all    50 feet       developments, in accordance with §§ 152.07(C)(16)
+               1,500 square  Provided, the maximum density for a townhouse
+Townhouses     feet          project shall not exceed 4 dwelling units per
+                             7,000 square feet.
+Minimum lot                  Lot width may be reduced further for rear lot
+width; all     50 feet       developments, in accordance with § 152.07(C)(16)
 except
-Townhouses    20 feet        
-                            May be reduced to 10 feet for a covered porch or
-Minimum front 15 feet       enclosed patio.
-yard setback                See §
-                            152.053(E) for garage setbacks.
-Minimum
-street side   15 feet        
-yard setback
-              5 feet for
-              portions of
-              buildings or
-              structures
-              that are 18
-Minimum side  feet high or
-yard setback; less.          
-all except    10 feet for
-              portions of
-              buildings or
-              structures
-              over 18 feet
-              high.
-              5 feet
-              exterior wall
-Townhouses    0 feet common  
-              wall lot line
-              where units
-              are attached
-              5 feet for
-              portions of
-              buildings or
-              structures
-              that are 18
-Minimum rear  feet high or
-yard setback  less.          
-              10 feet for
-              portions of
-              building or
-              structures
-              over 18 feet
-              high.
+Townhouses     20 feet        
+                             May be reduced to 10 feet for a covered porch or
+Minimum front  15 feet       enclosed patio.
+yard setback                 See §
+                             152.053(E) for garage setbacks.
+Minimum street
+side yard      15 feet        
+setback
+               5 feet for
+               portions of
+               buildings or
+               structures
+               that are 18
+Minimum side   feet high or
+yard setback;  less.          
+all except     10 feet for
+               portions of
+               buildings or
+               structures
+               over 18 feet
+               high.
+               5 feet
+               exterior wall
+Townhouses     0 feet common  
+               wall lot line
+               where units
+               are attached
+               5 feet for
+               portions of
+               buildings or
+               structures
+               that are 18
+Minimum rear   feet high or
+yard setback   less.          
+               10 feet for
+               portions of
+               building or
+               structures
+               over 18 feet
+               high.
  
    (E)   Minimum lot area exceptions. An exception to the minimum lot area
 standard in the table above may be approved as part of a subdivision or
@@ -19515,11 +19519,8 @@ violate the average lot size provision in division (E)(1) above.
 152.053 and the following.
             1.   Address numbers on buildings are oriented towards the street
 for clear identification of the building.
-            2.   Buildings and their entrances shall be oriented towards the
-street for pedestrian circulation, safety and crime prevention except if
-conditions such as lot size, shape, topography or other circumstances over
-which the applicant has no control apply to the property. Each building shall
-have at least one entry meeting the entry orientation standards in §
+            2.   Each building shall have at least one entry meeting the entry
+orientation standards in §
 152.053(N)(1).
             1.   Size and shape. The size, shape, width and orientation of
 building sites shall be appropriate for the type of development and use
@@ -20108,7 +20109,7 @@ or an equivalent as accepted by the Planning Commission shall be provided as
 required in §
 152.054. Exception: the parking and loading requirements shall be exempted from
 the area contained by the C-4 District, as shown on the map below.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1517.png]
  
    (H)   Other required conditions.
@@ -21138,7 +21139,7 @@ into the right-of-way (ROW) but are attached to the building and signs on the
 property require a sign permit for approval. Other signs not attached to
 buildings on property but located in the ROW require a ROW use permit for
 approval.)
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1519.png]
  
          (b)   Signs in the Town Center Overlay shall be allowed subject to the
@@ -21183,7 +21184,7 @@ ensure public safety.
 style of the era from the 1940s to 1950s.
                h.   Signs at the rear side of the buildings should be modestly
 scaled to fit the casual visual character of the alley or rear parking area.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1521.png]
  
             5.   Signs in the Town Center exempt to these requirements and are
@@ -21242,19 +21243,19 @@ adjacent businesses and/or developments are strongly encouraged.
    (H)   Graphics. The following graphics shall be used as a guide to comply
 with the standards in this section:
       (1)   Right-of-way location:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1523.png]
  
       (2)   Site design:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1525.png]
  
       (3)   Building design and signage:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1527.png]
  
  
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1529.png]
    (I)   Special provisions.
       (1)   Outdoor entertainment or dancing unless approved by the City
@@ -21730,7 +21731,7 @@ forms may include towers, dormers, turrets or other features with rounded
 Gambrel, dual-pitched (e.g., hipped “mansard”), deck (flat-topped, hipped), A-
 frame and similar roof forms are prohibited. Where roofs are pitched, a minimum
 pitch of at least 30 degrees should be maintained.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1531.png]
  
          (b)   The width of any continuous flat roofline should not extend more
@@ -21748,7 +21749,7 @@ provide a minimum of 40% facade modulation unless the applicant demonstrates
 that an alternate design solution provides an equal or greater level of
 achieving the intent of the section. The minimum depth of modulation shall be
 one foot and the minimum width shall be five feet.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1533.png]
  
       (6)   Pedestrian entry. Each individual unit such as a townhouse or
@@ -22039,7 +22040,7 @@ not requiring future land use review and approval;
          (e)   Emergency measures; and
          (f)   Street or road construction as part of an approved subdivision
 or partition;
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1535.png]
  
    (E)   Conditional uses.
@@ -23208,7 +23209,7 @@ required side or rear yards, and not exceeding six feet into any required front
 yard. This is not to be construed as prohibiting open porches or stoops not
 exceeding 18 inches in height and not approaching closer than 18 inches to any
 lot line.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1537.png]
  
       (2)   Residential use in commercial or industrial zoning districts. Any
@@ -23270,19 +23271,19 @@ ordinances, rules, regulations or by easements, covenants or agreements, the
 provisions of this chapter shall govern.
    (K)   The following illustrations are provided for further description.
       (1)   Clear vision area:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1539.png]
  
       (2)   Yards:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1541.png]
  
       (3)   Lots:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1543.png]
  
       (4)   Block:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1545.png]
  
 (Ord. 1283, passed 12-2- 2013; Ord. 1352, passed 11-4- 2019; Ord. 050525A,
@@ -24764,7 +24765,7 @@ through and local traffic.
       (15)   Alleys. Alleys are encouraged where feasible.
       (16)    Cross- secti ons. The follow ing cross- secti on draw ings show
 the stand ards for each type of road way in the city
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1573.png]
  
    (L)    Appro val of streets and ways.
@@ -24951,7 +24952,7 @@ wide and shall conform to ADA requirements. (See also City of Tillamook Public
 Works Design Standards § 2.14, “Ancillary Facilities”.) No matter which surface
 is utilized, grading and compaction shall be sufficient to allow the unimpeded
 passage of wheeled vehicles such as bicycles, wheelchairs and perambulators.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1575.png]
  
             3.   Unless the pathway is shared between adjacent property owners,
@@ -25274,7 +25275,7 @@ vehicles such as bicycles, wheelchairs and perambulators.
       (1)   Detached garages shall be encouraged to be located to the rear of
 the residence. If an alley is available, paved and improved to a minimum width
 of five feet, it shall service the garage. Attached garages are required to be
-located at least ten feet behind the front wall of the house.
+located at least five feet behind the front wall of the house.
       (2)   Driveways shall be placed alongside of a residence leading to a
 detached garage, unless an alley paved and improved to a minimum width of ten
 feet is available, then the alley shall be utilized. Exceptions to the location
@@ -25652,593 +25653,37 @@ property line by a dwelling is exempt from meeting these standards.
          (a)   The entrance must be within eight feet of the longest street-
 facing wall of the dwelling unit; and
          (b)   The entrance must either:
-            1.   Face the street (see Figure
-152.053(O)-1);
-            2.   Be at an angle of up to 45 degrees from the street (see Figure
-152.053(O)-2);
+            1.   Face the street (see
+Figure 152.053(O)-1);
+            2.   Be at an angle of up to 45 degrees from the street (see
+Figure 152.053(O)-2);
             3.   Face a common open space that is adjacent to the street and is
-abutted by dwellings on at least two sides (see Figure
-152.053(O)-3); or
-            4.   Open onto a porch that is at least 25 square feet in area, and
-that must have at least one entrance facing the street or have a roof (see
-Figure
-152.053(O)-4).
-   (A)   Purpose. The purpose of this section is to encourage originality,
-flexibility and innovation in site planning and development, including the
-architecture, landscaping and design of private properties; to discourage
-monotonous, drab, unsightly, dreary and inharmonious design; to conserve the
-city’s natural beauty and visual character and charm by ensuring structures,
-signs and other improvements are properly related to their sites, and to
-surrounding sites and structures, with due regard to the aesthetic qualities of
-the natural terrain and landscaping, and that proper attention is given to
-exterior appearances of structures, signs and other improvements; to prevent
-physical harm to the citizens of the city; to promote harmony between adjacent
-property owners; and to protect each property’s right of access to sunlight,
-air and open spaces.
-   (B)   Fence and wall standards.
-      (1)   Front yard. A front yard fence or wall must not be more than:
-         (a)   Three feet in height if the fence is within ten feet of the
-front lot line;
-         (b)   Six feet in height if the fence is set back more than ten feet
-from the front lot line; or
-         (c)   Vision clearance area as per §
-152.050(E) shall be required for corner lots.
-      (2)   Rear yard. A rear yard fence or wall must not be more than six feet
-in height.
-      (3)   Interior side yard. A side yard fence or wall, on a side not
-abutting a street, must not be more than six feet tall.
-      (4)   Street side yard. A side yard fence or wall, on a side abutting a
-street, must not be more than:
-         (a)   Three feet in height if the fence is within ten feet of the lot
-line;
-         (b)   Six feet in height if the fence is set back more than ten feet
-from the lot line; or
-         (c)   Vision clearance area as per §
-152.050(E) shall be required for comer lots.
-      (5)   Height measurement. Fence or wall height is measured from the
-ground to the top of the fence. If the ground on which the fence is located has
-been bermed or raised above the level of the surrounding land, the fence is
-measured from the level of the unraised ground.
-      (6)   Materials. Wood, brick, rockwork, split-face block, vinyl or low
-post and wire and hedgerows are encouraged. Concrete block walls are
-prohibited. Cyclone or chain-link fencing is prohibited within any front yard
-or street side yard setback area unless coated with a non-metallic material,
-but is allowed in side and rear yards.
-      (7)   Retaining wall. The above standards do not apply to a device used
-to buttress earth, such as a retaining wall or riprap.
-      (8)   Corner lots. For purposes of this section only, if a lot abuts more
-than one street, only the frontage on one of the streets shall be deemed a
-front lot line, and the height restrictions shall apply only to one front yard.
-The person in possession and control of the premises may elect which is the
-front yard and restrict the height of the fence or wall accordingly. Such
-person may change his or her election to any of the other streets abutting his
-or her premises by first abating any non-conforming fence or wall in the front
-yard to be thus defined.
-      (9)   Screening. In a zone district other than residential,
-notwithstanding the yard requirements, a fence, wall, hedge or other like
-screening device may be required by the Planning Commission as a condition to
-the approval of a proposed commercial or industrial improvement on a lot
-abutting, or across the street or alley from, an adjacent property in a
-residential district, if the Planning Commission finds that such screening is
-necessary to prevent an unreasonable interference with the use and enjoyment of
-the residential lot.
-      (10)   Interference and hazard to the public.
-         (a)   No owner or person in charge of property shall construct or
-maintain a barbed-wire fence thereon, or permit barbed wire to remain as part
-of a fence along a sidewalk or public way or along the adjoining property line
-of another person unless placed at least three feet behind an initial fence.
-         (b)   No owner or person in charge of property shall construct,
-maintain or operate an electric fence along a sidewalk or public way or along
-the adjoining property line of another person unless placed at least three feet
-behind an initial fence.
-      (11)   Relation to adjoining property. Fences shall not be installed on
-or across a property line unless jointly owned by adjoining property owners; in
-which case they may be on the property line. Determination of where the
-property line is located shall not be the responsibility of the city or its
-officials.
-      (12)   Building permit and setback requirements for fences. Any fence
-greater than six feet in height shall require a building permit and, hence,
-shall be required to abide by the front yard setback and height requirements of
-the applicable zoning district.
-      (13)   Fences in industrial zones. A fence six feet in height shall be
-required to separate any new or substantially improved industrial operation
-from abutting property which is located in any residential or commercial zoning
-district. Such fence shall be subject to the requirements of division (B)(5)
-above.
-   (C)   Exterior lighting (including LED) requirements. All exterior outdoor
-lighting installed in any and all zones in the city shall conform to the
-following requirements unless otherwise exempted.
-      (1)   Area lights. All area lights, including street lights and parking
-area lighting, shall be full cutoff fixtures and are encouraged to be 85 degree
-full cut-off type fixtures. Street lights shall be high pressure sodium, low-
-pressure sodium or metal halide, unless otherwise determined by the city that
-another type is more efficient. Street lights along residential streets shall
-be limited to 70-watt high-pressure sodium (hps) light. If the city permits a
-light type other than high-pressure sodium, the equivalent output shall be the
-limit for the other light type. Outdoor mercury vapor and quartz lights are
-prohibited; preference should be given to low impact lighting.
-      (2)   Canopy lights. All lighting shall be recessed sufficiently so as to
-ensure that no light source is visible from or causes glare on public rights-
-of-way or adjacent property.
-      (3)   Illumination levels. Illumination levels and uniformity shall
-consider current recommended practices of the Illuminating Engineering Society.
-Recommended standards for the Illuminating Engineering Society shall not be
-exceeded. Lighting shall be compatible with the character of the neighborhood
-within which it is located, and light trespass impacts on surrounding
-properties shall be minimized. Fixture mounting height and light intensity
-shall be considered in determining the extent of light trespass impacts. Up
-lighting shields shall be required except in the Town Center.
-      (4)   Temporary lighting. Temporary lighting that conforms to the
-requirements of this chapter shall be allowed. Non-conforming temporary
-exterior lighting may be permitted by the Public Works Director only after
-considering:
-         (a)   The public and private benefits which will result from the
-temporary lighting;
-         (b)   Any annoyance or safety problems that may result from the use of
-the temporary lighting; and
-         (c)   The duration of the temporary non-conforming lighting. The
-applicant shall submit a detailed description of the proposed temporary non-
-conforming lighting to the Public Works Director.
-      (5)   Towers. All radio, communication and navigation towers that require
-lights shall have dual lighting capabilities. Lights may only be used in
-accordance with FAA requirements.
-      (6)   Wattage ratings. For the purpose of this section, wattage ratings
-for lamp types will be for either a single lamp source or multiple lamp sources
-when installed in a cluster.
-      (7)   Streetlight design standards. The streetlight illustrations in the
-city’s most current design standards shall be used by property owners in a
-subdivision or other development. Lamp types not listed in the table may be
-approved for use by the Planner, provided installation of these lamps conforms
-to the lumen limits established in this section.
-      (8)   Shielding. Glass tubes filled with argon, neon or krypton do not
-require shielding.
-      (9)   Exterior lighting exemptions and exceptions. Exterior lighting
-exemptions and exceptions include the following:
-         (a)   Residential fixtures consisting of lamp types with 2,050 lumens
-or less. Examples include:
-            1.   One hundred watt standard incandescent and less;
-            2.   One hundred watt mid break tungsten-halogen (quartz) and less;
-            3.   Twenty-five watt T-12 cool white fluorescent and less; and
-            4.   Eighteen watt low pressure sodium and less.
-         (b)   Federally funded and state funded roadway construction projects
-to the extent necessary to comply with federal and state requirements;
-         (c)   Fossil fuel light produced directly or indirectly by the
-combustion of natural gas or other utility-type fossil fuels;
-         (d)   Full cutoff street lighting, which is part of a federal, state
-or municipal installation;
-         (e)   Holiday lighting;
-         (f)   Lighting of sports facilities or stadiums;
-         (g)   Specialized lighting necessary for the safety, such as
-navigation or runway lighting of airports, or temporary lighting associated
-with emergency operations, road hazard warnings and the like; and
-         (h)   Traffic control signals and devices.
-      (10)   Prohibited lighting. Prohibited lighting includes the following:
-         (a)   Newly installed fixtures, which are not full cutoff fixtures;
-         (b)   Lighting which presents a clear hazard to motorists, cyclists or
-pedestrians; and
-         (c)   The use of laser source light or any similar high intensity
-light for outdoor advertising or entertainment is prohibited.
-   (D)   Sidewalk and pathway standards. The placement of a sidewalk or pathway
-along the frontage(s) of a subject property is required and shall be
-constructed in accordance with the city’s most current design standards.
-Reconstruction or maintenance of an existing sidewalk or pathway may replicate
-its original design. No matter which surface is utilized, grading and
-compaction shall be sufficient to allow the unimpeded passage of wheeled
-vehicles such as bicycles, wheelchairs and perambulators.
-   (E)   Driveway and garage standards.
-      (1)   Detached garages shall be encouraged to be located to the rear of
-the residence. If an alley is available, paved and improved to a minimum width
-of five feet, it shall service the garage. Attached garages are required to be
-located at least ten feet behind the front wall of the house.
-      (2)   Driveways shall be placed alongside of a residence leading to a
-detached garage, unless an alley paved and improved to a minimum width of ten
-feet is available, then the alley shall be utilized. Exceptions to the location
-of the driveway include conditions such as lot size, shape, topography or other
-circumstances over which the applicant has no control apply to the property
-which force the driveway to be located elsewhere. Shared driveways are
-encouraged to reduce the impact of the automobile on the appearance of small
-lot residential neighborhoods. Separated driveway wheel tracks of concrete,
-gravel or pavers are encouraged, except in circumstances where an extended
-driveway is a critical component of fire protection access. Impermeable
-surfacing shall be minimized.
-   (F)   Other outbuilding and accessory standards.
-      (1)   Front yard. No barn, deck, shed, outbuilding (except garages) or
-hot tub is allowed in a front yard. Porches, patios and gazebos are permitted
-in front yards, but not within the required setback area.
-      (2)   Rear yard. Barns, decks, gazebos, sheds, outbuildings and hot tubs
-are allowed in a rear yard, but must meet setback requirements. They shall not
-overhang or drain onto an adjoining property, obstruct fire access or be placed
-on a right-of-way or recorded easement.
-      (3)   Materials. Wood or brickwork is encouraged. Wrought metalwork and
-sheet metal are discouraged. All exterior lighting (including LED) must
-minimize light trespass impacts.
-   (G)   Swimming pool standards.
-      (1)   Front yard. No swimming pool is allowed in a front yard.
-      (2)   Rear yard additional setbacks. A swimming pool is allowed in a rear
-yard. The minimum setback for a swimming pool is:
-         (a)   Fifteen feet from rear lot line;
-         (b)   Fifteen feet from a side lot line, on a side not abutting a
-street;
-         (c)   Twenty feet from a side lot line, on a side abutting a street;
-and
-         (d)   Ten feet from any dwelling on the lot.
-      (3)   Fencing. If appropriate, a solid noise dampening fence or wall, six
-feet tall, should enclose the rear yard, including the swimming pool, to
-protect neighboring lots from excessive noise. A vinyl coated chain link fence
-not less than four feet tall, nor more than five feet tall, may also be
-installed in close proximity to the pool as a safety precaution.
-      (4)   Materials. Materials exposed to neighbors or public way shall be
-those allowed by “Fence and Wall Standards”.
-      (5)   Child proofing. Any gate leading to the pool must be self-closing
-and self-latching. The latch must be openable only by key or combination lock.
-The pool enclosing fence must have no openings larger than four inches in any
-dimension.
-      (6)   Overhead utility lines. Overhead electric, telephone, cable TV or
-other utility lines must not cross over a swimming pool. For safety reasons, a
-minimum ten foot horizontal clearance must be maintained between the pool and
-any overhead lines. (A pool cleaning tool, attached to a metal pole, can cause
-electrocution if it contacts a live wire.)
-      (7)   Measurements. Setbacks are measured from the edge of the water at
-the design water line.
-   (H)   Satellite dish and telecommunication equipment standards.
-      (1)   Ground dishes or piece of equipment under 24 inches:
-         (a)   Shall be located based on technical need with the rear yard
-given first priority, side yard second priority and front yard third priority.
-Written verification of technical need may be requested from a qualified dealer
-prior to siting in a front yard;
-         (b)   A ground dish shall abide by the setback requirements of the
-zone district in which it is located. Zone districts without an established
-setback area shall, at a minimum, provide a five foot side and rear yard
-setback and a minimum of ten feet shall be required for a front yard setback;
-         (c)   Any portion of a ground dish which is above a height of ten feet
-must be inset and additional one-half foot for each foot of height exceeding
-ten feet; and
-         (d)   All ground dishes located in a front or side yard shall be
-screened by sight-obscuring fences and/or dense landscape buffers. Such buffers
-shall, at a minimum, screen 50% of a ground dish based on the total vertical
-height with a maximum buffer height of six feet. Dishes may be painted to blend
-with the existing surroundings.
-      (2)   Roof dishes or piece of equipment under 24 inches may be mounted on
-roofs, porches or project from a wall of the dwelling.
-      (3)   Any satellite dish or piece of equipment larger than 24 inches
-shall be confined to rear or side yards, and shall be screened from any
-viewpoint four feet above and along the centerline of a city street.
-   (I)   Drop box and newsrack standards. Drop boxes and newsracks are not
-permitted in any R-7.5 or R-5.0 Residential Zones. In zones where permitted,
-they shall be screened or placed in such a way as to not obstruct pedestrian or
-vehicular traffic.
-   (J)   Dumpster standards. All proposed dumpsters shall be screened and
-located in the rear or side access areas but not in the front of the subject
-property. Design of the dumpster screen shall be constructed in accordance with
-the guidelines provided to the city by the affected waste disposal provider.
-   (K)   Temporary structure standards.
-      (1)   Tents, tarps and other temporary structures lacking foundations
-which are left in place longer than seven consecutive days shall not be visible
-from any viewpoint four feet above and along the centerline of a city street.
-      (2)   In all residential zones, all off-street parking of automobiles,
-trucks, trailers and recreational vehicles in the front yard shall be limited
-to a contiguous area which is no more than 25% of the area of the front yard.
-      (3)   Such structures, vehicles or devices shall not be used as a
-dwelling, either permanently or for more than seven days temporarily.
-   (L)   Development standards for multi-family, multiple use, commercial and
-industrial projects and projects which will create or alter a street or
-roadway, and development for multi-family, multiple use, commercial and
-industrial projects.
-      (1)   Landscape planning requirements.
-         (a)   Prior to site alterations, a thorough inventory and mapping of
-the location, type and quality of trees on the property will be prepared. The
-map must be to the same scale as the site plan for the development proposal. In
-the instances where the property contains large volumes of woodlands, the
-inventory can take the form of a description of type, location and general
-volumes of tree groupings.
-         (b)   During site alterations, the retention of resource trees is
-strongly encouraged. Construction of natural buffers using native vegetation
-between sensitive natural environments and transportation systems is
-encouraged. Methods and details for protecting existing vegetation during
-construction must be submitted for City Planner approval.
-         (c)   A project wide landscape plan (with installation timelines and
-maintenance requirements) prepared by a qualified landscape professional must
-be submitted for City Planner approval prior to the issuance of a certificate
-of occupancy by the building official, unless otherwise specified by the City
-Planner or conditioned in a final order for approval. All street and common
-areas must be landscaped within a reasonable amount of time after the
-completion of the improvements in those areas; however, a secured agreement to
-provide individualized landscape plans and timelines for the front yard (at a
-minimum) of each lot of a subdivision within one and one-half years from final
-platting of the affected phase may be permitted.
-         (d)   The predominant use of ground covers, such as bark, mulch and
-rock, as a permanent landscape feature is discouraged. The location and
-description of landscape improvements, such as earth berms, walls, fences,
-screens, sculptures, fountains, street furniture, lights and courts or paved
-areas must be graphically indicated on the landscape plan.
-      (2)   Landscape standards for multi-family, multiple use, commercial and
-industrial projects.
-         (a)   Preservation of landscape. The existing landscape shall be
-preserved in natural state, in so far as practicable, by minimizing tree and
-soil removal, and any other grade changes shall be in keeping with the
-appearance of developed areas. Preservation includes the preservation of any
-woody plant having a trunk six-caliper inches or larger in diameter at breast
-height (DBH), a bush at least four feet in height, an area on-site designated
-as wetlands and a drainage ditch located on-site. For all landscaping, live
-material shall be predominantly used.
-         (b)   Landscaping requirement.
-            1.   New construction.
-               a.   Commercial and industrial development shall provide an
-amount of landscaping which equals 10% of buildable area in landscaping. Public
-and semi-public developments shall provide an amount of landscaping which
-equals 15% of buildable area. Development within the
-C-C Zone and TC and HW overlays have the option of employing a two square foot
-per one linear foot of street frontage providing the landscaping is adjacent to
-the frontage. Placement of required landscaping shall not be restricted to
-within the buildable area, but may be located within the required setback
-areas.
-               b.   Multi-family and mobile park development shall provide an
-amount of landscaping which equals 10% of buildable area in landscaping in
-addition to open space requirements. Placement of required landscaping shall
-not be restricted to within the buildable area, but may be located within the
-required setback area.
-            2.   Existing buildings and structures. Existing buildings which
-expand into an undeveloped area, including the building upwards of a structure,
-shall devote the same percentage of landscaping as is listed for new
-construction above. Exceptions may be made in the case where a structure covers
-the entire lot area, or when expansion of a structure does not exceed 10% of
-the square footage of the existing building’s ground floor area.
-            3.   Height and size.
-               a.   Height and screening may be emphasized through the planting
-of deciduous trees. If deciduous trees are used, they should have straight
-trunks, be fully branched, have a minimum caliper of one and one-fourth inches
-and a minimum height of eight feet at the time of planting. Deciduous trees can
-be supplied bare root provided the roots are protected against damage.
-               b.   Evergreen trees and shrubs must be balled and burlapped or
-in suitable containers in which the tree or shrub has grown for one year. If
-balled and burlapped, the ball of each tree or shrub shall be firm and the
-burlap sound; no loose ball or made ball will be acceptable. Each tree shall be
-a minimum of six feet in height, fully branched and adequately staked at the
-time of planting.
-               c.   Ground cover shall be supplied in a minimum four-inch size
-container. Ground cover plantings shall be planted on a maximum of 30 inches on
-center and 30 inches between rows. Rows of plants are to be staggered for a
-more effective covering. If a two and one-fourth inch container is used,
-planting 18 inches on center may apply within the above guidelines.
-               d.   Shrubs shall be supplied in one-gallon containers or nine
-to ten inch burlap balls with a minimum spread of 12 inches to 15 inches.
-            4.   Off-street parking areas. Landscaping shall be used to define,
-soften and screen, reducing the visual intrusions of vehicles using less
-offensive or more harmonious elements, such as plants, berms, fences, walls or
-any appropriate combination thereof, the appearance of off-street parking areas
-from public rights-of-ways. Landscaping requirements are identified in division
-(M) below.
-               a.   Evergreen and/or deciduous plant material shall have a
-minimum height at the time of planting of 18 inches to 24 inches.
-               b.   Parking lot plants and/or berms shall be designed to allow
-surveillance of the lot from the street at several points.
-               c.   In all zones, except the R-7.5 or R-5.0 Residential Zones,
-all parking facilities shall include landscaping to cover not less than 12% of
-the area devoted to outdoor parking facilities, including any landscaping
-required in division (M) below. Said landscaping shall be uniformly distributed
-throughout the parking area, be provided with irrigation facilities and be
-protective curbs or raised wood headers. It may consist of trees, plus shrubs,
-groundcover or related plant material.
-            5.   Special features. Exposed storage areas, trash receptacles,
-service areas, truck loading areas, utility buildings and similar accessory
-areas and structures shall be subject to a minimum ten foot setback from the
-public ROW and pedestrian pathways, to reduce the impact of unsightly visual
-intrusions. Screen plantings and other screening methods such as fences, walls
-or any appropriate combination thereof shall be used to be congruent with
-existing surrounding properties.
-            6.   Live material, compatibility and maintenance. All live
-material used for landscaping must be compatible with climate and soil
-conditions prevalent to the coastal areas; thus reducing the risk of costly
-replacement. All landscaping required and approved through site review shall be
-continually maintained, including necessary watering, weeding, pruning and
-replacement.
-            7.   Alternatives. Occasionally strict adherence to the above
-landscaping specifications may be unduly harsh or found to be in conflict with
-a particular development plan. A developer may therefore propose alternatives
-for Planning Commission consideration. Deviations from specified requirements
-must be shown to the Panning Commission’s satisfaction that they are not in
-conflict with the overall intent of this section, which is to promote adequate
-and pleasing landscaping for development.
-            8.   Landscaping credit for street tree planting.
-               a.   The retention of trees shall be considered in the design of
-partitions, site plans, subdivisions or planned developments and the placement
-of roads and utilities shall preserve trees wherever possible. The need to
-remove trees shall be considered in the review process for partitions, site
-plans, subdivisions or planned developments.
-               b.   The preservation of trees, as mentioned in division (L)(2)
-(a) below, shall provide a basis for consideration of a landscaping credit,
-which can reduce the landscaping requirements on the subject property by 10%
-(10% of 10% landscaping = 1%).
-               c.   The planting and maintenance of street trees in the public
-right-of-way shall provide a basis for consideration of a landscaping credit,
-which can reduce the landscaping requirements on the subject property by 10%
-per street tree (10% of 10% landscaping = 1%).
-            9.   Street tree species. The list of street tree species to be
-planted and minimum tree planting dimensions are listed in detail in Chapter
-93.
-      (3)   Special tree protection standards.
-         (a)   Preservation. A tree that has been singled out for preservation
-in the conditions of approval must not be removed or damaged during
-construction.
-         (b)   Root protection. When construction encroaches into the drip line
-area of a protected tree, special construction techniques must be used to
-protect the roots. The existing ground surface within four feet of the base of
-a protected tree must not be cut, filled, compacted or paved. No more than 12
-inches of fill or cut can occur within the remainder of the drip line of a
-protected tree. A tree well may be used if approved by the City Planner.
-         (c)   Excavation. Prohibited excavation adjacent to a protected tree
-is not allowed if it will damage the root system. In questionable situations,
-the applicant must provide substantiating documentation prepared by a certified
-arborist showing that the trees will be protected.
-      (4)   Street tree standards.
-         (a)   Shade trees are required along all streets, except in the
-downtown Town Center. The city approved street tree list governs street tree
-selection and replacement on each street. Species designated in the list should
-be consistent with the character, height, canopy and spacing of a
-neighborhood’s original plantings, and the scale and function of the street
-within the city. The approved street tree list shall be used in order to
-determine whether a small, medium or large tree is selected. A limited number
-of the same species should be planted along any single street.
-         (b)   Street trees shall be sized, spaced and planted in accordance
-with the standards provided below and shall be located in the center of five
-foot wide planter strips between streets and pathways (minimum ten foot in
-length) or between two and one-half to four feet from street edge pathways or
-impervious surfaces. Plant the largest tree that space allows for each planting
-location.
-         (c)   1.   If utilities exist in the planting strip, large trees shall
-be planted on the side of the road without utilities and medium and small trees
-on the utility side of the road. It is recommended that in these situations,
-rather than having equal sized planting areas, that the planting areas on the
-side opposite the utilities be larger than the utility side planting areas.
-            2.   In general, the side of the street without overhead electric
-lines should be planted with trees with potential to attain a large size, if
-there are no obvious constraints to trees attaining mature size, such as small
-planting areas. On the sides of streets with overhead electrical lines directly
-above the planting areas, only trees from the recommended street tree list
-designated “small” may be planted, unless there is a minimum of ten feet of
-horizontal clearance between the bases of the street trees and electrical
-facilities.
-            3.   Columnar shaped trees should only be used where there are
-obstructions like buildings, signs and overhead electrical lines that preclude
-broader canopied trees. Medium sized trees may be planted if the horizontal
-clearance is ten feet or greater, and large trees may be planted if the
-horizontal clearance is 20 feet or greater.
-         (d)   At street corners, no tree shall be planted which branches below
-eight feet to ensure vision clearance.
-         (e)   Appropriate pruning, watering, nutrient feeding and tree
-protection devices are required after planting, staking only when necessary. No
-metal stakes may be used for tree stakes. Tree protection devices shall remain
-in place until the trees reach four inch DBH or until the trees have been in
-place for two years, whichever is longer.
-         (f)   A secured agreement shall be provided that ensures that if
-planted trees are not alive and viable two years after planting, replacements
-will be required.
-      (5)   Standards for plant measurements, installation and maintenance.
-         (a)   Developers shall install and/or dig, ball, burlap and transplant
-all plant materials listed on landscape plan. Bareroot is typically not
-permitted for any tree.
-         (b)   Plant materials shall conform to the requirements described in
-the latest edition of American Standard for Nursery Stock, which is published
-by the American Association of Nurserymen. Plants shall be nursery grown.
-Neither heeled-in plants nor plants from cold storage shall be acceptable.
-         (c)   Plants shall conform to the measurements specified in the
-landscape plan.
-            1.   Diameter at breast height (DBH) shall be measured by taking
-the circumference of the tree’s trunk(s) at four feet above grade/ground level
-and dividing by 3.14.
-            2.   Minimum branching height for all shade trees shall be six
-feet.
-            3.   Minimum size for shade trees shall be two inches at DBH; seven
-to nine feet in height.
-            4.   Minimum size for evergreen trees shall be six to eight feet in
-height.
-            5.   The minimum planting area by tree size shall be:
-               a.   Small trees (under 25 feet in height at maturity): 40
-square feet;
-               b.   Medium trees (between 25 to 50 feet in height at maturity)
-60 square feet; and
-               c.   Large trees (over 50 feet in height at maturity) 96 square
-feet.
-            6.   The maximum spacing between trees shall be:
-               a.   Small trees: 20 feet;
-               b.   Medium and large trees: 30 feet; and
-         (d)   A professional horticulturist/nurseryman shall be consulted to
-determine the proper time to move and install plant material so that stress to
-the plant is minimized.
-         (e)   1.   Planting areas for trees must be in an uncompacted state to
-a depth of at least two feet. Areas to be ripped or excavated to that depth,
-unless within the drip line of a resource tree or if roots from other trees
-larger than one inch diameter are encountered. If these occur, obtain and
-follow the recommendation of a certified arborist.
-            2.   Use existing soil for tree planting. Avoid adding topsoil.
-Soil amendments like aged sawdust (minimum of ten years of aging) may be used.
-Avoid working the soil when it is saturated with water, frozen or dry. Use two
-to three inches of bark mulch around all newly planted trees.
-   (M)   Landscaping standards. All landscaping in any zone district in the
-city shall conform to the following requirements unless otherwise exempted.
-      (1)   General height limitation for hedges and other landscaping used for
-screening. Hedges and other landscaping used for screening and privacy shall
-not be permitted to grow higher than eight feet.
-      (2)   Relation to adjoining property.
-         (a)   Hedges, shrubs and other landscaping used for screening and
-privacy shall not be installed or planted on or across a property line unless
-jointly owned by adjoining property owners, in which case they may be on the
-property line. Hedges and shrubs shall not extend beyond the property line
-unless jointly agreed to by adjoining landowners.
-         (b)   All landscaping or portions thereof shall be located in such a
-way as to not be detrimental to abutting property. No landscaping shall
-obstruct or threaten to obstruct the access of neighboring property to adequate
-and sufficient sunlight.
-      (3)   Interference and hazard to the public.
-         (a)   No owner or person in charge of property that abuts upon a
-street or public sidewalk shall permit trees, bushes, hedges or shrubs on the
-property to interfere with street or sidewalk traffic. It shall be the duty of
-an owner or person in charge of the property that abuts upon a street or public
-sidewalk to keep all trees on the premises, including the adjoining parking
-strip, trimmed at a height of not less than ten feet above the sidewalk and not
-less than 14 feet above the roadway.
-         (b)   No owner or person in charge of property shall allow a dead or
-decaying tree to stand that is a hazard to the public or to persons or property
-on or near the property.
-      (4)   Enforcement. The city shall be empowered to perform any necessary
-work in order to bring such hedges into conformance and, after so doing, may
-assess to the property the cost of any such work, plus an additional fee for
-administration.
-   (N)   Planting in the city rights-of-way. Abutting property owners may be
-granted permission to plant in the city right-of-way by the city according to
-Chapter 93 if the following information is provided:
-      (1)   A request in writing is provided in the form of a letter to the
-City Council and a city public works permit application for street trees
-proposed in a new subdivision or newly created road right-of-ways, or a city
-public works permit application for administrative permission for street tree
-(s) proposed on an existing tree lawn and an established road right-of-way with
-curb;
-      (2)   A plot plan of area referencing water and sewer lines, power lines,
-driveways and intersecting streets is provided; and
-      (3)   Approval, if granted by the city, shall be required in the form of
-an approved city public works permit prior to planting of the tree or trees.
-Fees for such permit shall be paid prior to approval by the abutting property
-owner.
-   (O)   Triplex and quadplex design standards.
-      (1)   Entry orientation. At least one main entrance for each triplex or
-quadplex structure must meet the standards below. Any detached structure for
-which more than 50% of its street-facing facade is separated from the street
-property line by a dwelling is exempt from meeting these standards.
-         (a)   The entrance must be within eight feet of the longest street-
-facing wall of the dwelling unit; and
-         (b)   The entrance must either:
-            1.   Face the street (see Figure
-152.053(O)-1);
-            2.   Be at an angle of up to 45 degrees from the street (see Figure
-152.053(O)-2);
-            3.   Face a common open space that is adjacent to the street and is
-abutted by dwellings on at least two sides (see Figure
-152.053(O)-3); or
+abutted by dwellings on at least two sides (see
+Figure 152.053(O)-3); or
             4.   Open onto a porch that is at least 25 square feet in area, and
 that must have at least one entrance facing the street or have a roof (see
 Figure 152.053(O)-4).
-   Figure 152.053(O)-1
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-1
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1922.jpg]
  
-   Figure 152.053(O)-2
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-2
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1924.jpg]
  
-   Figure 152.0563(O)-3
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-3
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1926.jpg]
  
-   Figure 152.053(O)-4
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-4
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1928.jpg]
- 
-      (2)    Windows. A minimum of 15% of the area of all street- facing
-facades must include windows or entrance doors. Facades separated from the
-street property line by a dwelling are exempt from meeting this standard. See
+      (2)    Windows. A minimum of 15% of the area of all street-facing facades
+must include windows or entrance doors. Facades separated from the street
+property line by a dwelling are exempt from meeting this standard. See
 Figure 152.053(O)-5.
-   Figure 152.053(O)-5
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-5
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1930.jpg]
  
       (3)   Garages and off-street parking areas. Garages and off-street
@@ -26248,11 +25693,11 @@ parking areas shall not be located between a building and a public street
 street property line by a dwelling; or
          (b)   The combined width of all garages and outdoor on-site parking
 and maneuvering areas does not exceed a total of 50% of the street frontage
-(see Figure 152.053(O)-6), and driveways must meet the access spacing standards
-in §
+(see
+Figure 152.053(O)-6), and driveways must meet the access spacing standards in §
 152.052(I)(5).
-   Figure 152.053(O)-6
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(O)-6
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1932.jpg]
  
       (4)   Conversions. Internal conversion of an existing detached single-
@@ -26268,20 +25713,19 @@ standards:
          (a)   The entrance must be within eight feet of the longest street-
 facing wall of the dwelling unit; and
          (b)   The entrance must either:
-            1.   Face the street (see Figure
-152.053(P)-1);
-            2.   Be at an angle of up to 45 degrees from the street (see Figure
-152.053(P)-2);
+            1.   Face the street (see
+Figure 152.053(P)-1);
+            2.   Be at an angle of up to 45 degrees from the street (see
+Figure 152.053(P)-2);
             3.   Face a common open space that is adjacent to the street and is
-abutted by dwellings on at least two sides (see Figure
-152.053(P)-3); or
+abutted by dwellings on at least two sides (see
+Figure 152.053(P)-3); or
             4.   Open onto a porch that is at least 25 square feet in area, and
 that must have at least one entrance facing the street or have a roof (see
-Figure
-152.053(P)-4).
+Figure 152.053(P)-4).
       (2)   Unit definition. Each townhouse must include at least one of the
-following on at least one street-facing facade (see Figure
-152.053(P)-1)
+following on at least one street-facing facade (see
+Figure 152.053(P)-1)
          (a)   A roof dormer a minimum of four feet in width;
          (b)   A balcony a minimum of two feet in depth or four feet in width
 and accessible from an interior room;
@@ -26291,23 +25735,23 @@ either from the neighboring townhouse or within the facade of a single
 townhouse;
          (e)   An entryway that is recessed a minimum of three feet;
          (f)   A covered entryway with a minimum depth of four feet; or
-         (g)      A porch with at least 25 square feet in area, and at least
-one entrance facing the street or have a roof.
+         (g)   A porch with at least 25 square feet in area, and at least one
+entrance facing the street or have a roof.
          (i)   Balconies and bay windows may encroach into a required setback
 area.
 Figure 152.053(P)-1
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1934.jpg]
       (3)    Windows. A minimum of 15% of the area of all street-facing facades
 on each individual unit must include windows or entrance doors. Half of the
 window area in the door of an attached garage may count toward meeting this
-standard.
+standard. See Figure 152.053(P)-5.
       (4)   Driveway access and parking. Townhouses with frontage on a public
 street shall meet the following standards:
          (a)   Garages on the front facade of a townhouse, off-street parking
 areas in the front yard, and driveways in front of a townhouse are allowed if
-they meet the following standards (see Figure
-152.053(P)-2);
+they meet the following standards (see
+Figure 152.053(P)-2);
             1.   Each townhouse lot has a street frontage of at least 20 feet
 on a local street.
             2.   A maximum of one driveway per lot is allowed that does not
@@ -26316,8 +25760,8 @@ driveways are encouraged to be paired and abut along the lot line to create one
 shared driveway approach.
             3.   The garage width does not exceed 12 feet wide, as measured
 from the inside of the garage door frame.
-   Figure 152.053(P)- 2
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(P)-2
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1936.jpg]
  
          (b)   The following standards apply to driveways and parking areas for
@@ -26327,27 +25771,22 @@ or located in the rear yard. No off-street parking shall be allowed in the
 front yard or side yard of a townhouse.
             2.   A townhouse project that includes a corner lot shall take
 access from a single driveway approach on the side of the corner lot. See
-Figure
-152.053(P)-3.
-   Figure 152.053(P)-3
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(P)-3.
+Figure 152.053(P)-3
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1938.jpg]
             3.    Townhouse projects that do not include a corner lot shall
 consolidate access for all lots into a single driveway. The driveway and
 approach are not allowed in the areas directly between the front facade and the
-front lot line of any of the townhouses. See Figure
-152.053(P)-4.
-   Figure 152.053(P)-4
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+front lot line of any of the townhouses. See
+Figure 152.053(P)-4.
+Figure 152.053(P)-4
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1940.jpg]
  
- 
- 
- 
- 
-      4.   A townhouse project that includes consolidated access or shared
-driveways shall grant access easements to allow normal vehicular access and
-emergency access.
+            4.   A townhouse project that includes consolidated access or
+shared driveways shall grant access easements to allow normal vehicular access
+and emergency access.
          (c)    Townhouse projects in which all units take exclusive access
 from a rear alley are exempt from compliance with division (P)(4)(b).
    (Q)    Cottage cluster design standards.
@@ -26368,7 +25807,8 @@ shall be permitted per common courtyard, per legal lot.
       (2)   Cottage orientation. Cottages must be clustered around a common
 courtyard, meaning they abut the associated common courtyard or are directly
 connected to it by a pedestrian path, and must meet the following standards
-(see Figure 152.053(Q)-1):
+(see
+Figure 152.053(Q)-1):
          (a)   Each cottage within a cluster must either abut the common
 courtyard or must be directly connected to it by a pedestrian path.
          (b)   A minimum of 50% of cottages within a cluster must be oriented
@@ -26385,8 +25825,8 @@ common courtyard.
       (3)   Common courtyard design standards. Each cottage cluster must share
 a common courtyard in order to provide a sense of openness and community of
 residents. Common courtyards must meet the following standards (see Figure
-52.052(Q)-1);
-         (a)   The common courtyard must be a single, contagious piece.
+152.052(Q)-1);
+         (a)   The common courtyard must be a single, contiguous piece.
          (b)   Cottages must abut the common courtyard on at least two sides of
 the courtyard.
          (c)   The common courtyard must contain a minimum of 150 square feet
@@ -26401,14 +25841,14 @@ courtyard shall not exceed 75% of the total common courtyard area.
 that are contigious to a courtyard shall count toward the courtyard’s minimum
 dimension and area. Parking areas, required setbacks and driveways do not
 qualify as part of a common courtyard.
-   Figure 152.053(Q)-1
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(Q)-1
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1942.gif]
  
       (4)   Community buildings. Cottage cluster projects may include community
 buildings for the shared use of residents that provide space for accessory uses
 such as community meeting rooms, guest housing, exercise rooms, day care, or
-community eating areas. Community buildings may be no loarger than 900 square
+community eating areas. Community buildings may be no larger than 900 square
 feet.
       (5)   Pedestrian access.
          (a)   An accessible pedestrian path must be provided that connects the
@@ -26445,24 +25885,24 @@ aisles are permitted within ten feet of other property lines.
 tall shall separate clustered parking areas and parking structures from common
 courtyards and public streets.
          (d)   Garages and carports.
-            1.   Garages and carports (whether shared or individual{'}'} must
-not abut common courtyards.
+            1.   Garages and carports (whether shared or individual) must not
+abut common courtyards.
             2.   Individual attached garages up to 200 square feet shall be
 exempted from the calculation of maximum building footprint for cottages.
             3.   Individual detached garages must not exceed 400 square feet in
 floor area.
             4.   Garage doors for attached and detached individual garages must
 not exceed 20 feet in width.
-   Figure 152.053(Q)-2
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+Figure 152.053(Q)-2
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1944.jpg]
  
-      (7)    Existi ng dwelli ngs. On a lot or parcel to be used for a cottage
-cluster project. an existing single -family dwelling on the same lot at the
-time of proposed development of the cottage cluster may be incorporated into
-the cottage cluster under the following conditions:
-         (a)    The existin g dwelli ng may be nonconforming with respect to
-the requirements of this code.
+      (7)    Existing dwellings. On a lot or parcel to be used for a cottage
+cluster project, an existing single-family dwelling on the same lot at the time
+of proposed development of the cottage cluster may be incorporated into the
+cottage cluster under the following conditions:
+         (a)    The existing dwelli ng may be nonconforming with respect to the
+requirements of this code.
          (b)   The existing dwelling may be expanded up to the maximum height
 and building footprint allowed in division (Q)(l). Existing dwellings that
 exceed the maximum height and/or footprint of this code may not be expanded.
@@ -27022,17 +26462,32 @@ requirements and standard dimensions. All off-street parking stalls shall be
 improved to conform to city standards for surfacing, storm water management and
 striping. Standard parking spaces shall conform to the dimensions in the
 following figure.
-   (1)   Standard dimensions:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1577.png]
+      (1)   Standard dimensions:
  
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+ 
+Minimum Standard Parking Spaces and Aisle Dimensions
+Angle (A)  Width (B) Curb Length (C) 1 Way Aisle 2 Way Aisle Stall Depth (E)
+                                     Width (D)   Width (D)
+0 degrees  8 feet    22 feet - 6     12 feet     24 feet     20 feet
+(parallel)           inches
+30 degrees 9 feet    18 feet         12 feet     24 feet     17 feet
+45 degrees 9 feet    12 feet - 6     12 feet     24 feet     19 feet
+                     inches
+60 degrees 9 feet    10 feet - 6     18 feet     24 feet     20 feet
+                     inches
+90 degrees 9 feet    9 feet          24 feet     24 feet     19 feet
+ 
+      (2)   Disabled person parking spaces shall conform to the following
+standards and dimensions:
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1581.png]
  
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1583.png]
  
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1585.png]
  
    (N)   Bicycle parking requirements. The following new developments shall be
@@ -27124,7 +26579,7 @@ application, and shall follow separate requirements for placement in the ROW
 identified in Resolution 1706.
       (2)   Signs attached to walls but extending over the ROW with proper
 clearance shall comply with this section.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1587.png]
  
    (D)   Signs allowed in zone districts. The city is divided into specific
@@ -27193,7 +26648,7 @@ shape of the letter “A” and is not attached to a structure or the ground,
 collapsible, movable steeply angled sign, hinged at the top and open at the
 bottom for self-support; also known as a “tent sign”, sign with two sides that
 meets at the top.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1589.png]
 Illustration of an A-Frame Sign
       (2)   Ancillary sign. Any sign allowed by this code, with or without
@@ -27205,33 +26660,33 @@ flags) and banners.
 flag”. A pole-supported sign made of fabric, vinyl or other similar non-rigid
 material, where one side of the sign is more than three times as long as any
 other side projecting or suspended from a building.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1602.png]
 Illustration of a Blade Sign
       (4)   Banner. A sign made of fabric, vinyl or other similar non-rigid
 material.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1593.png]
 Illustration of a Banner
       (5)   Banner on street light pole. A sign made of fabric, vinyl or other
 similar non-rigid material intended to be displayed in the right-of-way for a
 limited period of time which complies with Chapter 15.28 of the Oregon City
 Municipal Code and the signs in the right-of-way policy.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1604.png]
 Illustration of a Banner on Street Light Pole
       (6)   Billboard. A sign with a display area of 300 square feet or more,
 including, but not limited to, outdoor advertising signs, as defined in O.R.S.
 377.710(21), advertises a business, commodity or activity, which is sold,
 offered or conducted on premises other than those where such a sign is located.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1598.png]
 Illustration of a Billboard
       (7)   Bulletin board, changeable copy sign or reader board. A sign of a
 permanent nature, but which accommodates changes in wording, indicating
 persons, events, products or services offered on the premises of the sign
 location.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1600.png]
 Illustration of a Bulletin Board/Reader Board Sign
       (8)   Blinking sign. A sign which shines with intermittent or momentary
@@ -27241,7 +26696,7 @@ businesses contained within a single building, structure or complex.
       (10)   Awning sign/canopy sign. A sign that is a part of or attached to
 an awning, canopy or other fabric, plastic or structural protective cover
 (excluding a marquee) over a door, entrance, window or outdoor service area.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1606.png]
 Illustration of Awning and Canopy Sign
       (11)   Electronic readerboard. A sign on which display can be altered
@@ -27264,7 +26719,7 @@ irregular motions, with irregular spasms or trembling motions.
       (14)   Freestanding sign/ground sign/pole sign. A sign erected on a free-
 standing frame, mast or pole, wholly supported from the ground by its own
 integral structure not attached to any building.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1608.png]
 Illustrations of a Freestanding Sign
       (15)   Incidental sign. A sign intended primarily for the convenience and
@@ -27277,14 +26732,14 @@ ground by its own integral structure, excluding A-frame signs. The maximum size
 allowed is less than that of a freestanding sign and greater than an ancillary
 sign.
       (17)   Lit sign. A sign that is a neon and/or bulbed sign.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1610.png]
 Illustration of a Lit Sign
       (18)   Marquee sign. A sign which is painted on, attached to or supported
 by a projecting marquee. Marquee signs must be located within one inch of the
 top and bottom of the marquee with no more than three businesses indicated per
 marquee.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1612.png]
 Illustration of a Marquee Sign
       (19)   Neighborhood identification. A sign located on a wall or fence at
@@ -27297,7 +26752,7 @@ code.
       (21)   Political sign. Any temporary sign which supports the candidacy of
 any candidate for public office or urges action on any other matter on the
 ballot of primary, general or special elections.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1614.png]
 Illustration of a Political Sign
       (22)   Portable sign. Used to temporarily identify a new business until
@@ -27310,26 +26765,26 @@ on the same premises.
 wall of a building. Signs, other than wall signs, which are attached to and
 project from a structure or building face, usually perpendicular to the
 building face, including blade signs and marquee signs.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1616.png]
 Illustration of a Projecting Sign
       (24)   Real estate sign. A sign indicating that the premises on which the
 sign is located, or any portion thereof, is for sale, lease or rent.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1618.png]
 Illustration of a Real Estate Sign
       (25)   Roof sign. A sign constructed or maintained wholly upon or over
 the roof of any building with the principal support on the roof structure. Any
 sign, other than painted signs, erected upon, against or directly above a roof
 or top of or above the parapet of a building.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1620.png]
 Illustration of a Roof Sign
       (26)   Rotating sign. A sign which turns/revolves around as on an axis or
 center point.
       (27)   Suspended sign. A sign that is hanging or suspended from an
 awning, a canopy or a marquee, not supported from the ground.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1622.png]
 Illustration of a Suspended Sign
       (28)   Temporary sign.
@@ -27343,7 +26798,7 @@ lease agent or builder; or advertising a legally recorded subdivision.
       (29)   Time and temperature sign. A message display providing only time,
 date and/or temperature information to the public. This information can be
 updated at intervals of no less than one second.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1624.png]
 Illustration of a Time and Temperature Sign
       (30)   Wall graphics. Any mosaic, mural or painting, or graphic art
@@ -27352,13 +26807,13 @@ graphic art techniques applied, implanted or placed directly onto a wall or
 fence and containing no copy, advertising symbols, lettering, trademarks or
 other references to any product, service, goods or advertising anything sold on
 or off the premises.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1626.png]
 Illustration of Wall Graphics
       (31)   Wall sign. A sign attached to, or erected against, or painted upon
 the wall of a building with the face in a parallel plane of the building wall
 and extends no more than 12 inches from a wall.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1628.png]
 Illustrations of a Wall Sign
       (32)   Wind sign or device. Any sign or device in the nature of a series
@@ -27370,7 +26825,7 @@ intended for viewing from the exterior of the building. Windows signs include:
 posters and other signs which advertise or inform the public of current prices
 or events may be displayed on the inside of a window or door of a business
 located in a commercial or industrial district.
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1630.png]
 Illustration of a Window Sign
    (F)   Zone districts.
@@ -27610,12 +27065,12 @@ setback requirements of the zone district in which it is located.
 affect safety, corner vision or other similar conditions.
       (8)   Sign measurements. The following diagrams shall be used to
 determine sign measurements:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1632.png]
  
       (9)   Height measurements. The following diagrams shall be used to
 determine sign height measurements:
-[https://export.amlegal.com/media/f0e7ac5b704efbda79a55b9f01bf0defe7cbcc5b/
+[https://export.amlegal.com/media/cc475cf2a7b1a6d4ce689ea5eed3f22034a919e9/
 IMAGES/0-0-0-1634.png]
  
    (J)   Wind pressure, seismic and dead load requirements. All signs shall be
@@ -30764,10 +30219,14 @@ structures may be continued, subject to the following regulations.
       (1)   Routine maintenance and repairs, including elevation changes for
 flood requirement compliance, may be performed on sites, the structure or use
 of which is non-conforming.
-      (2)   No non-conforming structure or use shall be moved, altered or
+      (2)   (a)   No non-conforming structure or use shall be moved, altered or
 enlarged without permission of the Planning Commission, unless required by law
 or unless the moving, alteration or enlargement will be performed in the
 elimination of the non-conformity.
+         (b)   However, a nonconforming single-family dwelling in the R-7.5, R-
+5.0 or R-O Zone District may be converted to a duplex or other middle housing
+provided the conversion does not increase nonconformance with applicable zoning
+district standards.
       (3)   No structure partially occupied by a non-conforming use shall be
 moved, altered or enlarged in such a way as to permit the enlargement of the
 space occupied by the non-conforming use, without permission of the Planning
