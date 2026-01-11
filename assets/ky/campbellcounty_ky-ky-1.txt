@@ -1,7 +1,7 @@
 CAMPBELL COUNTY, KENTUCKY
 CODE OF ORDINANCES
 2025 S-49 Supplement contains:
-Local legislation current through Ord. O-09-25, passed 10-15-25; and Res. R-74-
+Local legislation current through Ord. O-11-25, passed 12-17-25; and Res. R-74-
 25, passed 11-19-25; and
 State legislation current through KRS Pamphlet 2024
  
@@ -5100,7 +5100,7 @@ General Provisions
    
 90.02   Dogs running at large
    
-90.03   Animals and livestock to be under control; vicious animals
+90.03   Vicious animals
    
 90.04   Nuisances
    
@@ -5125,6 +5125,10 @@ General Provisions
 90.14   Heartworm testing of dogs
    
 90.15   Feline leukemia/FIV testing for cats
+   
+90.16   Animals and livestock to be under control
+   
+90.17   Cost of care
 Commercial Animal Establishments
    
 90.25   Definition
@@ -5138,7 +5142,8 @@ Commercial Breeding Establishments
    
 90.29   Additional requirements for commercial breeding establishments
 Pet Sales
-   90.30   Dog and cat sales prohibited
+   
+90.30   Dog and cat sales prohibited
 Dangerous Animals
    
 90.40   Keeping restricted
@@ -5149,17 +5154,14 @@ Dangerous Animals
 90.99   Penalty
 GENERAL PROVISIONS
 § 90.01 DEFINITIONS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
-   For the purpose of this chapter, the following meanings shall be given to
-the below mentioned terms:
-   ABANDON. Any animal  left more than 48 hours without a person  checking on
-the condition of the animal(s) and providing food and potable water or not
-providing timed feeder/waterer. Any animal left on private property without the
-owner ’s consent or deserted or dumped on public property or roadways.
-   ADEQUATE FOOD. Wholesome foodstuffs suitable for the species provided at
+   For the purpose of this chapter, the following meanings shall apply unless
+the context clearly indicates or requires a different meaning:
+   ABANDON or ABANDONMENT. Any animal . left more than 24 hours without a
+person checking on the condition of the animal(s) and providing adequate food
+and adequate water or not providing timed feeder/waterer. Any animal . left on
+private property without the owner’s consent or deserted or dumped on any
+public property or roadways.
+   ADEQUATE FOOD. Wholesome foodstuffs suitable for the species  provided  at
 suitable intervals in a sanitary manner in quantities sufficient to maintain
 good health in an animal , considering its age and condition.
    ADEQUATE SHELTER. A structurally sound, properly ventilated, sanitary and
@@ -5171,7 +5173,7 @@ conditions.
 intervals or on a continual basis in a sanitary manner suitable for the
 species, condition, and age of the animal , in sufficient amounts to maintain
 good health in the animal .
-   ANIMAL. Any dog , cat , puppy , or kitten .
+   ANIMAL. Any live vertebrate creature.
    ANIMAL CONTROL OFFICER (ACO). An Animal Services employee who is qualified
 and appointed to perform duties under the laws and ordinances of the
 Commonwealth of Kentucky and Campbell County. An Animal Control Officer shall
@@ -5186,26 +5188,32 @@ located on the same premises as; (2) has any personnel in common with; (3)
 obtains, in exchange for payment or any other form of compensation, dogs or
 cats from; or (4) facilitates the sale of dogs or cats obtained from a person
 that breeds animals.
-   ANIMAL SERVICES DIRECTOR. The person appointed by the Judge/Executive and
-approved by the Fiscal Court to serve as the Animal Services Director and as an
-Animal Control Officer .
+   ANIMAL SERVICES. The department of the county which is designated by the
+Fiscal Court to enforce the provisions of this chapter and to operate the
+animal shelter.
+   ANIMAL SERVICES DIRECTOR. The person  appointed  by the Judge/Executive and
+approved by the Fiscal Court to serve as the Director of the Animal Shelter and
+as an Animal Control Officer.
    ANIMAL SHELTER. Any premises operated or approved for operation by the
 Fiscal Court for the purpose of impounding and caring for animals  held under
 the authority of this chapter.
-   CAT. Any member of the feline family six months  of age or older.
    COMMERCIAL ANIMAL ESTABLISHMENT. Any pet  shop, boarding or breeding kennel
 , grooming facility, auction, petting zoo, zoological park , circus, performing
 animal  exhibit, or any person  engaged in the business of breeding, buying, or
 selling at retail or wholesale, any species of animal  for profit.
    COMMERCIAL BREEDING ESTABLISHMENT. Any breeding establishment that houses
-and maintains three or more intact dogs  for the purpose of breeding and
+and maintains three or more intact  dogs  for the purpose of breeding and
 selling their offspring.
-   COMMUNITY CAT. Any free roaming cat  that may  be cared for by one or more
+   COMMUNITY CAT. Any free roaming  cat  that may  be cared for by one or more
 residents of the immediate area who is/are known or unknown; a community cat
- may  or may  not be feral. Community cats  shall be distinguished from other
-cats  by being sterilized and ear tipped; qualified community cats  are exempt
+ may  or may  not be feral. Community  cats  shall be distinguished from other
+cats  by being sterilized and ear tipped; qualified community  cats  are exempt
 from licensing, stray  and at-large provisions of this chapter and may  be
 exempt from other provisions directed toward owned animals .
+   COST OF CARE. Any reasonable expense incurred in the seizure or treatment of
+any animal, including, but not limited to, transportation, food, medicine,
+boarding, shelter, and veterinary costs, which includes but is not limited to
+rabies vaccinations under KRS 258.015.
    DANGEROUS ANIMAL. Any animal  potentially threatening to humans and not
 ordinarily a companion animal  of humans that may  or may  not be considered
 non-indigenous to the United States, including, but not limited to, all animals
@@ -5254,8 +5262,8 @@ porcupines).
                q.   Order Macroscelididae (examples include elephant-shrews).
          (b)   Exemptions. Animals belonging to the orders listed in division
 (1)(a) of this definition that are not considered dangerous for purposes of
-this chapter include cattle, swine, sheep, goats, domestic cats , domestic dogs
-, ferrets, sugar gliders, horses, donkeys, mules, guinea pigs, domestic rats,
+this chapter include cattle, swine, sheep, goats, domestic cats, domestic dogs,
+ferrets, sugar gliders, horses, donkeys, mules, guinea pigs, domestic rats,
 mice, gerbils, hamsters, skunks, and raccoons.
       (2)   Class Reptilla.
          (a)   Designated orders. Animals from the Reptilla class identified as
@@ -5295,7 +5303,6 @@ day.
    DIRECTOR OF THE ANIMAL SHELTER. The person  appointed by the Judge/Executive
 and approved by the Fiscal Court to serve as the Director of the Animal Shelter
 and as an Animal Control Officer .
-   DOG. Any member of the canine family six months  of age or older.
    DOMESTIC ANIMAL.  Animals  as are habituated to live in or about the
 habitation of human beings, and which are kept, cared for, sheltered, fed, and
 harbored for use as a pet  or as a source of food, raw materials, or income.
@@ -5304,10 +5311,14 @@ harbored for use as a pet  or as a source of food, raw materials, or income.
 reinforcement that is used to humanely trap wild and scared animals .
    IMPOUNDED. Having been received into the custody of Animal Control or any
 authorized representative thereof.
-   KENNEL. A place for breeding, selling, showing and sporting dogs .
-   KITTEN. Any member of the feline family under six months  of age.
-   LIVESTOCK. Cattle, sheep, swine, goats, horses, or any other animals  of the
-bovine, ovine, porcine, caprine, or equine species.
+   KENNEL. A place for breeding, selling, showing and sporting  dogs .
+   LIVESTOCK. Cattle, sheep, swine, goats, emus, ostriches, horses, fowl, or
+any other animals  of the bovine, ovine, porcine, caprine, ratite, or equine
+species.
+   MENACE or MENACING. Any action by a domestic animal that would cause a
+person being chased or approached so as to create a reasonable apprehension of
+imminent physical injury to that person, a person in their custody or another
+domestic animal.
    OWNER. Any person  owning, keeping, harboring, or sheltering one or more
 animals  for three or more days .
    PERSON. All natural persons, corporations, partnerships, firms,
@@ -5322,11 +5333,23 @@ or business has bred and raised.
       (2)   Attacks people or other animals ;
       (3)   Damages public or private property;
       (4)   Is repeatedly at large;
-      (5)   Creates unsanitary conditions;
+      (5)   Creates unsanitary conditions, including, but not limited to,
+permitting an animal to discharge the animal’s excrement upon any public or
+private property within any incorporated or unincorporated area of the county
+(other than the property of the owner of the animal), absent the consent of the
+owner of the property, if the owner, keeper, or walker does not immediately
+thereafter remove and clean up the animal’s excrement from the public or
+private property;
       (6)   Makes noise in an excessive, continuous or untimely manner; or
       (7)   Disturbs the peace, comfort or health of persons in any other
 manner.
-   PUPPY. Any member of the canine family under six months  of age.
+   QUARANTINE. Confinement to a secure enclosure, accessible by the Health
+Department and/or Animal Services at any time, which shall not permit the
+animal to come in contact with another animal or person, except the owner or
+caregiver, for a period of ten days.
+   REASONABLE GROOMING. To maintain an animal’s coat to prevent conditions
+which inhibit normal walking or eliminating body waste, or which are medically
+harmful to the animal.
    RESTRAINT. Enclosed in an area by a form of fencing designed to control the
 movement of the animal  or secured by a leash or chain. An animal  shall be
 deemed to be restrained if it remains on the premises of its owner  or if it is
@@ -5334,7 +5357,7 @@ accompanied by a responsible person  and is under that person's  immediate
 control.
    RUNNING AT LARGE. Any animal  that is off the property of the owner ,
 custodian, possessor or harborer and is not restrained; except that a hound or
-hunting dog  which has been released from restraint  for legal hunting or
+hunting  dog  which has been released from restraint  for legal hunting or
 hunting related purposes and meets the provisions of KRS 258.265 shall be
 deemed to be under reasonable control of its owner  or handler. Community cats
 are also exempt.
@@ -5342,20 +5365,21 @@ are also exempt.
 Association, Cat Fancier’s Association, or similar nationally recognized
 organization depending on the type of animal . Also those animals  deemed to be
 of show/pet  quality by one who specializes in the breeding of said animal .
-   STRAY. Any animal , other than a hunting dog  released for the purpose of
+   STRAY. Any animal , other than a hunting  dog  released for the purpose of
 hunting or a community cat , that is running at large .
    VETERINARIAN. One licensed and qualified to treat diseases and injuries of
 animals .
    VETERINARY HOSPITAL CLINIC. Any establishment maintained and operated by a
 licensed veterinarian  for surgery, diagnosis, and treatment of diseases and
 injuries of animals .
-   VICIOUS ANIMAL.
+   VICIOUS ANIMAL. Any animal deemed or determined by an Animal Control Officer
+or an Animal Services employee for meeting one or more of the criteria below:
       (1)   Any animal which constitutes a physical threat to human beings or
 domestic animals which, due to a known propensity to endanger life, by an
 unprovoked assault or bite which has resulted in serious bodily harm; or,
-      (2)   Any animal which, when unprovoked, approaches in a terrorizing
-manner, any person in an attitude of attack upon streets, sidewalks, or any
-public grounds or places; or,
+      (2)   Any animal which, when unprovoked, approaches in a menacing manner,
+any person in an attitude of attack upon streets, sidewalks, or any public
+grounds or places; or,
       (3)   Any animal with a known propensity, tendency or disposition to
 unprovoked attacks which causes injury or endangers the safety of human beings
 or domestic animals ; or,
@@ -5383,9 +5407,9 @@ Aquarium Association.
 11-2002, passed 6-19-02; Am. Ord. O-02-04, passed 1-21-04; Am. Ord. O-27-2004,
 passed 12-1-04; Am. Ord. O-05-12, passed 4-18-12; Am. Ord. O-09-13, passed 8-
 21-13; Am. Ord. O-11-16, passed 9-7-16; Am. Ord. O-04-22, passed 5-4-22; Am.
-Ord. O-12-24, passed 12-18-24)
+Ord. O-12-24, passed 12-18-24; Am. Ord. O-11-25, passed 12-17-25)
 § 90.02 DOGS RUNNING AT LARGE.
-   (A)   It shall be unlawful for any owner or keeper of any dog , licensed or
+   (A)   It shall be unlawful for any owner or keeper of any dog, licensed or
 unlicensed, to permit any such dogs to leave or be beyond the premises upon
 which the dog is kept except when accompanied and controlled by the owner or
 custodian or by some responsible person acting for or on behalf of the owner or
@@ -5398,23 +5422,14 @@ dog was a hunting dog engaged in legal hunting or hunting-related activities
 and meets the provisions of KRS Chapter 258.265.
 (Ord. O-9-95, passed 5-17-95; Am. Ord. O-05-12, passed 4-18-12) Penalty, see §
 90.99
-§ 90.03 ANIMALS AND LIVESTOCK TO BE UNDER CONTROL; VICIOUS ANIMALS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
-   (A)   When livestock are running at large , the Animal Services Director /
-Animal Control Officer or the police shall make reasonable efforts to notify
-the owner as soon as possible. If reasonably possible and feasible, the owner
-of the livestock shall be notified prior to any capture, impoundment, and/or
-return of the livestock to its owner .
-   (B)   It shall be unlawful to own or possess a vicious animal , unless the
+§ 90.03 VICIOUS ANIMALS.
+   (A)   It shall be unlawful to own or possess a vicious animal , unless the
 following regulations are followed as a condition of the owner retaining the
 animal :
-      (1)   The vicious animal shall be registered with the Animal Shelter .
+      (1)   The vicious animal shall be registered with Animal Services.
       (2)   The vicious animal shall be confined in an enclosure constructed to
-the satisfaction of the Animal Shelter . All such enclosures shall be designed
-to prevent the entry of small children and shall be suitable to confine the
+the satisfaction of Animal Services. All such enclosures shall be designed to
+prevent the entry of small children and shall be suitable to confine the
 vicious animal . Such enclosures shall be securely closed and locked, and shall
 be designed to prevent the animal from digging out or otherwise escaping from
 the enclosure.
@@ -5422,19 +5437,19 @@ the enclosure.
 and shall be visible from the public roadway or public access if applicable.
       (4)   The vicious animal shall not be permitted outside of the dwelling
 of its owner or outside of the enclosure unless it is necessary to obtain
-veterinary care or under the direction of the Animal Shelter . If the vicious
+veterinary care or under the direction of Animal Services. If the vicious
 animal must be allowed outside the permitted areas, it shall be under the
 direct control and supervision of its owner or keeper and shall be muzzled and
 restrained with a lead or leash not to exceed three feet in length, or placed
 in a secure animal carrier.
       (5)   The owner or keeper of the vicious animal shall immediately notify
-the Animal Shelter if the animal is loose, unconfined, has attacked an animal
-or human being, or is deceased.
-   (C)   It shall be unlawful to own or possess an animal that conducts itself
+Animal Services if the animal is loose, unconfined, has attacked an animal or
+human being, or is deceased.
+   (B)   It shall be unlawful to own or possess an animal that conducts itself
 in such a manner as to constitute a public nuisance .
 (Ord. O-02-04, passed 1-21-04; Am. Ord. O-05-12, passed 4-18-12; Am. Ord. O-09-
 13, passed 8-21-13; Am. Ord. O-04-22, passed 5-4-22; Am. Ord. O-12- 24, passed
-12-18-24) Penalty, see §
+12-18-24; Am. Ord. O-11-25, passed 12-17-25) Penalty, see §
 90.99
 § 90.04 NUISANCES.
    (A)   No person shall harbor or keep any animal which by loud or frequent or
@@ -5532,12 +5547,12 @@ rabid or mad and the judge, in his discretion, may either have the dog
 impounded for observation or order the dog killed. However, if the owner or
 keeper of the dog makes requests in writing to the district judge that the dog
 be held by some reliable veterinarian for a proper period of observation and
-agrees in writing to pay the charges therefore, the dog  may , at the
-discretion of the court, be delivered to the veterinarian who shall be approved
-by the court for observation. The veterinarian shall make a report of his
-findings to the district judge and the judge may then declare whether or not
-the dog is rabid or mad. Any dog adjudged to be rabid or mad by the district
-judge shall immediately be destroyed.
+agrees in writing to pay the charges therefore, the dog may , at the discretion
+of the court, be delivered to the veterinarian who shall be approved by the
+court for observation. The veterinarian shall make a report of his findings to
+the district judge and the judge may then declare whether or not the dog is
+rabid or mad. Any dog adjudged to be rabid or mad by the district judge shall
+immediately be destroyed.
    (B)   No person shall conceal a dogdog in Campbell County believing that
 same is rabid or mad or has been bitten by other rabid or mad animals or to
 conceal a dog ordered impounded or killed or in any manner prevent or attempt
@@ -5552,19 +5567,16 @@ in the line of duty.
 (Ord. O-9-95, passed 5-17-95) Penalty, see §
 90.99
 § 90.09 HUMANE TREATMENT OF ANIMALS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
    (A)   It shall be unlawful to abandon any animal .
    (B)   It shall be unlawful for any person to inhumanely treat any animal ,
 including, but not limited to, the deprivation of necessities, beating,
 mutilating, torturing, killing, overloading, overworking, or otherwise abuse
-any animal . Nothing herein shall prevent the Animal Shelter from humanely
+any animal . Nothing herein shall prevent Animal Services from humanely
 euthanizing any animal .
    (C)   It shall be unlawful for any person to exhibit, display, or keep any
-animal without providing adequate food , adequate water , adequate shelter or
-medical attention.
+animal without providing adequate food , adequate water , adequate shelter ,
+and/or proper medical treatment from a veterinarian as necessary to meet the
+health and safety needs of the animal.
    (D)   Any animal which is chained, tied, or otherwise restrained shall be
 provided no less than 10 feet of chain, rope, and the like with a swivel
 attached to prevent entanglement.
@@ -5578,107 +5590,92 @@ or any Police Officer shall rescue any animal confined in such a manner.
 securing the animal so that the animal cannot jump out.
 (Ord. O-02-04, passed 1-21-04; Am. Ord. O-05-12, passed 4-18-12; Am. Ord. O-09-
 13, passed 8-21-13; Am. Ord. O-04-22, passed 5-4-22; Am. Ord. O-12- 24, passed
-12-18-24) Penalty, see §
+12-18-24; Am. Ord. O-11-25, passed 12-17-25) Penalty, see §
 90.99
 § 90.10 MANDATORY SPAY/NEUTER PROGRAM FOR COUNTY ANIMAL SHELTER.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
-   (A)   All dogs and cats adopted from the Campbell County Animal Shelter
-shall be surgically altered prior to adoption to prevent breeding.
+   (A)   All dogs and cats adopted from Campbell County Animal Services shall
+be surgically altered prior to adoption to prevent breeding.
    (B)   For the purpose of this section ADOPTED includes animals  reclaimed by
 their owners .
    (C)   If the animal is too young to be surgically altered, the adopter shall
 place a $10 cash/check hold and pick up the animal once it has been altered.
 (Ord. O-16-2000, passed 9-20-00; Am. Ord. O-03-03, passed 3-19-03; Am. Ord. O-
-02-16, passed 5-18-16; Am. Ord. O-11-16, passed 9-7-16) Penalty, see §
+02-16, passed 5-18-16; Am. Ord. O-11-16, passed 9-7-16; Am. Ord. O-11-25,
+passed 12-17-25) Penalty, see §
 90.99
 § 90.11 HUMANE ANIMAL CAGES.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
    (A)   If an individual who borrows a humane cage  fails to return the cage
 in the same condition as it was borrowed, or fails to reimburse the county  for
-its replacement cost as defined in the Animal Shelter  policy manual, then that
+its replacement cost as defined in the Animal Services policy manual, then that
 individual shall be guilty of a Class B misdemeanor.
    (B)   It shall be the duties of all peace officers to enforce this chapter
 and to cite violations of same to district court.
-(Ord. O-11-2002, passed 6-19-02) Penalty, see §
+(Ord. O-11-2002, passed 6-19-02; Am. Ord. O-11-25, passed 12-17-25) Penalty,
+see §
 90.99
 § 90.12 LICENSING AND REGISTRATION OF DOGS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 10-25, adopted 12-17-2025, effective 7-1-2026). The text of
-the amendment will be incorporated below when the ordinance is codified.
    (A)   (1)   The owners of all dogs six months or older that are owned,
-harbored or maintained in the county shall license and register their dog (s)
-with the Campbell County Animal Services in accordance with this chapter and
-the Kentucky Revised Statutes.
-      (2)   Licenses shall be issued during regular working hours at the
-Campbell County Animal Services, 1989 Poplar Ridge Road, Campbell County,
-Kentucky.
+harbored, or maintained in the incorporated or unincorporated areas of the
+county shall license and register their dog(s) with Campbell County Animal
+Services annually by completing a license application in accordance with this
+chapter and the Kentucky Revised Statutes.
+      (2)   Licenses shall be issued during regular working hours at Campbell
+County Animal Services, 1989 Poplar Ridge Road, Melbourne, Campbell County,
+Kentucky. Applications for a dog license may also be submitted on the Campbell
+County Animal Services website.
    (B)   (1)   Dog licenses shall be due each year on or before July 1.
       (2)   Any person who becomes the owner of a dog six months or older that
-is not already licensed after July 1 of any year , shall forthwith apply for
-and procure a license and tag for his or her dog in the same manner as the
-annual tag is obtained.
-   (C)   As required by KRS Chapter 258, dog ownowners ers must supply proof a
-rabies vaccination at the time they apply for the license.
-   (D)    Dog licenses shall cost $5.00 per tag.
-   (E)   Upon payment, the owner shall be issued a certificate of registration,
-and a license tag to be attached to the dog ’s collar and worn at all times.
-   (F)   Any individual who owns and harbors or maintains a dog (s) six months
-or older who fail to register, license, and attach dog tag to said dog (s)
-shall be found in violation of a Class B misdemeanor.
+is not already licensed after July 1 of any year, shall apply for and procure a
+license and tag for his or her dog in the same manner as the annual tag is
+obtained. Said license shall be obtained within thirty (30) days of acquiring
+or possessing the dog(s).
+   (C)   As required by KRS Chapter 258, dog owners must supply proof a rabies
+vaccination at the time they apply for the license.
+   (D)   Upon submission of a completede license application, the owner shall
+be issued a certificate of registration, and a license tag which must be
+attached to the dog’s collar and worn at all times.
+   (E)   Any individual who owns and harbors or maintains a dog six months or
+older who fails to register, license, and/or attach dog tag to said dog shall
+be found in violation of a Class B misdemeanor.
 (Ord. O-10-2002, passed 6-19-02; Am. Ord. O-05- 12, passed 4-18-12; Am. Ord. O-
 11-16, passed 9-7- 16; Am. Ord. O-04-22, passed 5-4-22; Am. Ord. O- 12-24,
-passed 12-18-24) Penalty, see §
+passed 12-18-24; Am. Ord. O-10-25, passed 12-17-25) Penalty, see §
 90.99
 Statutory reference:
    County to establish and enforce animal licensing program, see KRS 258.135
 § 90.13 MICROCHIPPING OF DOGS AND CATS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
    (A)   A mandatory microchipping program is hereby ordered for all dogs and
-cats adopted from the Campbell County Animal Shelter.
-   (B)   The Campbell County Animal Shelter shall provide to the general public
-microchipping services for licensed dogs and cats .
+cats adopted from the Campbell County Animal Services.
+   (B)   Campbell County Animal Services shall provide to the general public
+microchipping services for licensed dogs and cats.
    (C)   Any animal claimed by their owner will be charged a fee for
 microchipping and the animal microchipped if the animal is not chipped already.
-(Ord. O-18-2002, passed 10-2-02; Am. Ord. O-05-12, passed 4-18-12)
+(Ord. O-18-2002, passed 10-2-02; Am. Ord. O-05-12, passed 4-18-12; Am. Ord. O-
+11-25, passed 12-17-25)
 § 90.14 HEARTWORM TESTING OF DOGS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
    A mandatory heartworm-testing program is hereby ordered for all dogs over
 seven months adopted from the Campbell County Animal Shelter.
 (Ord. O-19-2002, passed 10-2-02; Am. Ord. O-11-16, passed 9-7-16)
 § 90.15 FELINE LEUKEMIA/FIV TESTING FOR CATS.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
    A mandatory feline leukemia/FIV-testing program is hereby ordered for all
-cats adopted from the Campbell County Animal Shelter. Community cats that are
-or will be ear-tipped are exempt from feline leukemia/FIV testing.
-(Ord. O-20-2002, passed 10-2-02; Am. Ord. O-11-16, passed 9-7-16)
+cats adopted from Campbell County Animal Services. Community cats that are or
+will be ear-tipped are exempt from feline leukemia/FIV testing.
+(Ord. O-20-2002, passed 10-2-02; Am. Ord. O-11-16, passed 9-7-16; Am. Ord. O-
+11-25, passed 12-17-25)
 § 90.16 ANIMALS AND LIVESTOCK TO BE UNDER CONTROL.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been ADDED by new
-legislation (Ord. 11-25, adopted 12-17-2025). The text of the amendment will be
-incorporated below when the ordinance is codified.
- 
+   When livestock are running at large, the Animal Services Director/Animal
+Control Officer or the police shall make reasonable efforts to notify the owner
+as soon as possible. If reasonably possible and feasible, the owner of the
+livestock shall be notified prior to any capture, impoundment, and/or return of
+the livestock to its owner.
+(Ord. O-11-25, passed 12-17-25)
 § 90.17 COST OF CARE.
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
-IMAGES/0-0-0-2752.png]Publisher's Note: This Section has been ADDED by new
-legislation (Ord. 10-25, adopted 12-17-2025, effective 7-1-2026). The text of
-the amendment will be incorporated below when the ordinance is codified.
- 
+   In addition to any penalty established under any animal cruelty law or as
+established in §
+90.99, the owner of any animal seized or impounded pursuant to any section in
+this chapter shall be liable civilly to the county for the cost of care of the
+seized or impounded animal regardless of whether the animal is reclaimed.
+(Ord. O-11-25, passed 12-17-25)
 COMMERCIAL ANIMAL ESTABLISHMENTS
 § 90.25 DEFINITION.
    In addition to the definitions provided in §
@@ -5703,7 +5700,7 @@ each dog and cat from their cage to allow them to move around freely to
 exercise for some period of time.
    (D)   All commercial animal establishment shall provide adequate sanitation.
 Each cage or enclosure shall be maintained as follows:
-      (1)   Cages or enclosures containing dogs or cats , of any age, shall be
+      (1)   Cages or enclosures containing dogs or cats, of any age, shall be
 cleaned with hot water, disinfectant and detergent daily (including holidays),
 or more if conditions require additional cleaning or disinfecting to keep
 animals out of contact with feces or urine. Litter boxes shall be cleaned daily
@@ -5791,11 +5788,11 @@ commercial breeding license.
 establishments .
    (A)   All commercial breeding establishments shall provide each dog with
 adequate exercise and socialization as follows:
-      (1)   Allow each dog , at least once daily, unfettered access to an
+      (1)   Allow each dog, at least once daily, unfettered access to an
 exercise area wherein dogs can extend to full stride, play, and engage in other
 types of stimulation.
       (2)   Provide at least 30 minutes per day of meaningful socialization
-with humans and compatible dogs .
+with humans and compatible dogs.
    (B)   All cages or enclosures must be designed and constructed of suitable
 materials so that they are structurally sound and kept in good repair. Cages or
 enclosures shall be maintained as follows:
@@ -5858,8 +5855,8 @@ demonstrate compliance with all applicable local laws and regulations;
          (b)   Has not received a violation for any local laws or regulations
 in the previous two years;
          (c)   Files a written request in person with Animal Services
-justifying harboring between 13 and 50 dogs , demonstrating the ability to care
-for more than 12 dogs , and stating how many dogs the facility owns/harbors or
+justifying harboring between 13 and 50 dogs, demonstrating the ability to care
+for more than 12 dogs, and stating how many dogs the facility owns/harbors or
 plans to own/harbor;
          (d)   Pays a $30 request fee;
          (e)   Passes an inspection by Animals Services within 30 days of the
@@ -5876,30 +5873,30 @@ and timeline to downsize the facility.
 staffing at the facility 12 hours a day to attend to the animals .
    (I)   Any owners or operators of a commercial breeding establishment who
 chooses not to keep a dog must make all reasonable efforts to find placement
-with an adoptive family, animal rescue, or other appropriate owner for that dog
-.
+with an adoptive family, animal rescue, or other appropriate owner for that
+dog.
 Ord. O-12-24, passed 12-18-24
 PET SALES
 § 90.30 DOG AND CAT SALES PROHIBITED.
    (A)   It shall be unlawful for any pet shop located in Campbell County to
 display, offer for sale, deliver, barter, auction, give away, transfer, sell
-any live dog , puppy, cat or kitten. Nothing in this division shall be
-construed to prohibit the provision of space to an animal shelter or animal
-rescue to publicly showcase dogs , puppies, cats or kittens available for
-adoption; provided that the pet shop shall not have an ownership interest in
-any of the animals offered for adoption and shall not receive a fee for
-providing such space. Nothing in this division shall be construed to prohibit
-home-based breeding operations as discussed in §§
+any live dog, puppy, cat or kitten. Nothing in this division shall be construed
+to prohibit the provision of space to an animal shelter or animal rescue to
+publicly showcase dogs, puppies, cats or kittens available for adoption;
+provided that the pet shop shall not have an ownership interest in any of the
+animals offered for adoption and shall not receive a fee for providing such
+space. Nothing in this division shall be construed to prohibit home-based
+breeding operations as discussed in §§
 90.28 and
 90.29.
-   (B)   It shall be unlawful for any person to offer for sale any dog , puppy,
+   (B)   It shall be unlawful for any person to offer for sale any dog, puppy,
 cat or kitten at or on any street, public right-of-way, parkway, median, park,
 recreation area, outdoor market, booth, flea market, roadside stand, temporary
 site or parking lot regardless of whether such access is authorized by the
-owner . This division shall not apply to the display or offer for sale of dogs
-, puppies, cats or kittens by an animal shelter or animal rescue organization,
-or the display of dogs , puppies, cats or kittens as part of a state or county
-fair exhibition, 4-H program, or similar exhibitions or educational programs.
+owner . This division shall not apply to the display or offer for sale of dogs,
+puppies, cats or kittens by an animal shelter or animal rescue organization, or
+the display of dogs, puppies, cats or kittens as part of a state or county fair
+exhibition, 4-H program, or similar exhibitions or educational programs.
 (Ord. O-12-24, passed 12-18-24)
 DANGEROUS ANIMALS
 § 90.40 KEEPING RESTRICTED.
@@ -27241,7 +27238,7 @@ O-02- 2-
  
  
 TABLE V: ZONING MAP CHANGES
-[https://export.amlegal.com/media/f7c12ba3df6b6ddc35a74236431f6d38113a2778/
+[https://export.amlegal.com/media/f491a391340dd1c0a1d2c3aa2789775a276d9d9c/
 IMAGES/0-0-0-2752.png]Publisher's Note: This Table has been AMENDED by new
 legislation (Ord. 13-24, adopted 12-18-2024). The text of the amendment will be
 incorporated below when the ordinance is codified.
@@ -27829,6 +27826,7 @@ Ch. 227                 150.99
 243.155                 153.02
 243.520                 111.23(A)
 Ch. 258                 90.12
+258.015                 90.01
 258.135                 90.12
 258.265                 90.01,
                         90.02
@@ -28621,6 +28619,13 @@ O-07-25   6-18-25     71.01
 O-08-25   6-18-25     72.09,
                       72.99
 O-09-25   10-15-25    Ch. 73, Sch. I
+O-10-25   12-17-25    90.12
+                      90.01,
+                      90.03,
+O-11-25   12-17-25    90.09 -
+                      90.11,
+                      90.13 -
+                      90.17
                      
  
 REFERENCES TO RESOLUTIONS
