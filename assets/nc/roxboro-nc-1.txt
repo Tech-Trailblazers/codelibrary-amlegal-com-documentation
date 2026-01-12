@@ -1,23 +1,24 @@
 Roxboro, North Carolina
 Code of Ordinances
-2024 S-10 Supplement contains:
-Local legislation current through 12-12-23
-State legislation current through 2023 A.L.S. #5
+2025 S-11 Supplement contains:
+Local legislation current through 9-9-25
+State legislation current through 2025 A.L.S. #2
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
 Cincinnati, Ohio 45202
 (800) 445-5588 www.amlegal.com
 CITY OFFICIALS
-2022 - 2025
-Merilyn P. Newell
+   2025 - 2028
+Cynthia C. Petty
 Mayor
+Shaina B. Outlaw
+Mayor Pro-Tem
 CITY COUNCIL
-Cynthia Petty
 Tim Chandler
-Shaina Outlaw
 Mark Phillips
-Peter Baker
+Dustin Brann
+Kendra Coggins
 Brooks Lockhart
 City Manager
 The Brough Law Firm
@@ -800,12 +801,12 @@ separate offense.
 punishable pursuant to division (A) of this section if, when tried for that
 violation, the person produces proof of compliance with the provisions of this
 code of ordinances through any of the following:
-      (1)   No new alleged violations of the provision within 30 days from the
-date of the initial alleged violation.
-      (2)   The person provides proof of a good-faith effort to seek assistance
-to address any underlying factors related to unemployment, homelessness, mental
-health, or substance abuse that might relate to the person's ability to comply
-with the provisions of this code of ordinances.
+      (1)   No new alleged violations of the provision within 12 months from
+the date of the initial alleged violation.
+      (2)   The person provides documented proof of a good-faith effort to seek
+assistance to address any underlying factors related to unemployment,
+homelessness, mental health, or substance abuse that might relate to the
+person's ability to comply with the provisions of this code of ordinances.
 (G.S. § 14-4(a), (c))
 Statutory reference:
    For provisions concerning enforcement of ordinances, see G.S. § 160A-175
@@ -8378,9 +8379,11 @@ two hours.
 70.99
 SCHEDULE II. UPTOWN.
    For the purposes of this schedule, Uptown shall be construed as an area
-bounded as follows: on the east by Foushee Street, on the north by Morehead
-Street, on the west by Madison Boulevard and on the south by Gordon Street.
-Unless otherwise expressly stated in a permit issued pursuant to
+bounded as follows: on the east by the eastern-most portion of Foushee Street,
+on the north by the southern-most portion of Morehead Street, on the west by
+the eastern-most portion of Madison Boulevard and on the south by the southern-
+most portion of Bardem Street. Unless otherwise expressly stated in a permit
+issued pursuant to
 Chapter 95, the area shall have restricted parking of motor vehicles as
 follows:
    (A)   On-street parking between 9:00 a.m. and 5:00 p.m., on all weekdays,
@@ -8423,7 +8426,7 @@ penalties specified in this section shall constitute a separate offense.
 action, including injunctions or orders of abatement.
       (4)   The city may enforce this chapter by any one or a combination of
 the foregoing remedies.
-(Ord. passed 5-10-16) Penalty, see §
+(Ord. passed 5-10-16; Am. Ord. 02-2025, passed 9-9-25) Penalty, see §
 70.99
 Cross-reference:
    Junked and abandoned motor vehicles, see
@@ -9705,21 +9708,29 @@ structures shall only be issued following the procedures of Chapters
 152.
 (Ord. passed 10-17-17)
 § 93.04 SUMMARY ABATEMENT PROCEDURE.
-   If the owner of any property fails to comply with a notice given pursuant to
-this chapter, within ten (10) days after the service of such notice under §§
-93.03(A)(1) or (3), or within 13 days under §
-93.03(A)(2), the owner shall be subject to prosecution for violation of this
-chapter in accordance with law and each day that such failure continues shall
-be a separate offense. In addition, the city may have the condition described
-in the notice abated, removed or otherwise corrected and all expenses incurred
-thereby shall be chargeable to and paid by the owner of the property and shall
-be collected as a property tax. All such expenses are a lien against the real
-property on which the work was completed. In all violations of §
-93.02(A), an administrative fee of $100 will be assessed and charged to the
-owner of the real property. In the case of one or more violations of §
-93.02(A) through (T), an hourly administrative fee will be added to the cost of
-abatement. The hourly rate will be established by the City Council.
-(Ord. passed 10-17-17)
+   If the owner of any property fails to comply with a notice of violation
+given pursuant to this chapter, within ten (10) days after the service of such
+notice under §§
+93.03(A)(1) or (3), or within thirteen (13) days under §
+93.03(A)(2), the provisions of this chapter may be enforced and the violation
+may be remedied by any one, all, or a combination of the following remedies,
+and each day’s continuing violation shall be a separate and distinct offense:
+   (A)   By a civil penalty of $50 for each day that the violation remains
+uncorrected, commencing three days following the date that the city notifies
+the owner via First Class Mail and Certified Mail of the intent to impose a
+civil penalty, and all civil penalties accrued may be recovered by the city in
+a civil action in the nature of debt if the owner does not pay the penalty
+within 30 days of the city’s mailed notice of intent to impose a civil penalty;
+   (B)   By an appropriate equitable remedy issued by a court of competent
+jurisdiction, including enforcement by injunction and order of abatement under
+G.S. § 160A-175(e); and/or
+   (C)   By action of the city to summarily remove, abate, or remedy the
+nuisance if it is dangerous or prejudicial to the public health or safety, with
+the expense of the action constituting a lien as provided for under G.S. § 160-
+193. In all violations of §
+93.02, where summary abatement is performed, an administrative fee of $100 will
+be assessed and charged to the owner of the real property.
+(Ord. passed 10-17-17; Am. Ord. 03-2025, passed 9-9-25)
 § 93.05 PROCEDURE IS ALTERNATIVE.
    The procedure set forth in this chapter shall be in addition to any other
 remedies that may now or hereafter exist under law for the abatement of public
@@ -16189,6 +16200,7 @@ Ch. 159                   31.77
 159-25(a)                 31.77
 159-28(b)                 37.51
 159-33                    37.81
+160-193                   93.04
 Ch. 160A                  36.01
 Ch. 160A, Art. 5          150.04
 Ch. 160A, Art. 7, Part 2  Charter, Sec.
@@ -16223,7 +16235,8 @@ Ch. 160A, Art. 19, Part 6 151.10,
                           151.99
 160A-175(a)               97.07
 160A-175(d)               97.07
-160A-175(e)               97.07
+160A-175(e)               93.04,
+                          97.07
 160A-188                  92.25
 160A-189                  130.02
                           53.191,
@@ -16796,4 +16809,6 @@ Ord. No.   Date Passed Code Section
 AO-2023-01 10-12-23    T.S.O. I
 AO-2023-02 12-12-23    T.S.O. I
 AO-2023-03 12-12-23    T.S.O. I
+02-2025    9-9-25      Ch. 76, Sch. I
+03-2025    9-9-25      93.04
  
