@@ -1,6 +1,6 @@
 SACRAMENTO CITY CODE
-The code is current through Supplement No. 3, October 2025, and includes
-Ordinance 2025-0030, passed October 21, 2025.
+The code is current through Supplement No. 3, December 2025, and includes
+Ordinance 2025-0039, passed December 9, 2025.
  
 Published by:
 American Legal Publishing Corporation
@@ -18,8 +18,8 @@ published by American Legal Publishing. The code will be periodically updated
 to incorporate new legislation.
    Detailed instructions for using the code are included at the front of this
 volume. An ordinance list and index are located at the end of the code.
-   The code is current through Supplement No. 3, October 2025, and includes
-Ordinance 2025-0030, passed October 21, 2025.
+   The code is current through Supplement No. 3, December 2025, and includes
+Ordinance 2025-0039, passed December 9, 2025.
 CHARTER
 Article I. Introductory
 § 1   Name.
@@ -4382,7 +4382,7 @@ Article II. Definitions
 Article III. Contribution Limitations
 2.13.050   Contribution limitations.
 2.13.055   Filing of statement of organization large political committee prior
-to making contributions.
+to making contributions that exceed the contribution limits applied to persons.
 2.13.060   Aggregation of contributions.
 2.13.065   Written solicitations by candidates.
 2.13.070   Transfers of funds or contributions by committees to controlled
@@ -4726,17 +4726,18 @@ taken by the city council by ordinance. (Ord. 2025-0009 § 1; Ord. 2023-0006 §
 2003-010 § 1; Ord. 2000-048 § 1)
 2.13.055   Filing of statement of organization large political committee prior
 to making contributions that exceed the contribution limits applied to persons.
-   Not less than seven calendar days prior to making a contribution to a
-candidate in an amount that itself or in combination with other contributions
-previously made to the candidate exceeds the amount that a person may
-contribute to a candidate pursuant to Sections
+   The first time in every election cycle that a large political committee
+makes a contribution to a candidate in an amount that itself or in combination
+with other contributions previously made to the candidate exceeds the amount
+that a person may contribute to a candidate pursuant to sections
 2.13.050(A)(1) and
-2.13.050(B)(1), a large political committee shall file with the city clerk the
-following documents:
-      1.   Statement of organization large political committee; and
-      2.   A copy of the large political committee's most recent statement of
+2.13.050(B)(1), the large political committee shall file with the city clerk,
+prior to making the contribution, the following documents:
+   1.   Statement of organization large political committee; and
+   2.   A copy of the large political committee's most recent statement of
 organization recipient committee (California Form 410) filed pursuant to the
-Act and the Regulations. (Ord. 2005-072 § 3; Ord. 2000-048 § 1)
+Act and the Regulations. (Ord. 2025-0037 § 1; Ord. 2005-072 § 3; Ord. 2000-048
+§ 1)
 2.13.060   Aggregation of contributions.
    For the purposes of the contribution limitations contained in this chapter,
 contributions of two or more persons or entities shall be aggregated as
@@ -65968,7 +65969,7 @@ maintenance, control and use of the parking spaces and regulating parking of
 vehicles in the parking meter zones. (Ord. 2000-028 § 2(c)(xii); Ord. 2000-007
 § 13; prior code § 25.08.142)
 10.40.140   Exhibit.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15318.png]
 (Ord. 2025-0019 § 4)
 Chapter 10.42
@@ -74019,7 +74020,7 @@ the application is deemed denied under subsection (A)(3) of Section
    The city manager or designee may adopt administrative regulations and
 application forms that are consistent with this chapter and further its
 purpose. (Ord. 2012-040 § 1)
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-14999.png]
 Chapter 12.76
 SACRAMENTO MARINA AND SPECIAL USE AREAS*
@@ -78951,7 +78952,7 @@ Section
 13.08.360 of this chapter shall be paid to the redevelopment agency of the city
 to reimburse said agency for cost incurred in construction of oversized trunk
 sewers with the district for the benefit of owners within the district.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15001.png]
 (Prior code § 36.12.904)
 Chapter 13.10
@@ -83618,7 +83619,6 @@ Chapters:
 15.32   Amendments to the California Residential Code
 15.34   Amendments to the California Existing Building Code
 15.36   2022 California Fire Code
-15.38   Amendments to the California Green Building Standards Code
 15.40   Construction Site Regulations
 15.44   Wrecking and Demolition of Buildings
 15.48   Moving Buildings
@@ -83653,7 +83653,7 @@ Sections:
 15.04.020   Purpose.
 15.04.030   Applicability of code.
 15.04.040   Definitions.
-15.04.050   Adoption of the 2022 California Building Standards Code.
+15.04.050   Adoption of the 2025 California Building Standards Code.
 15.04.060   Violation-Penalty.
 15.04.070   Violation-A public nuisance.
 15.04.080   Authority of city attorney in case of violations.
@@ -83693,18 +83693,19 @@ installed on any property or used on or within any building or structure. (Ord.
 this section:
    "Building official," "administrative authority," "director," "enforcing
 authority," and "manager" mean the chief building official.
-   "CBC" means the California Building Code, 2022 Edition, Volumes 1 and 2.
-   "CEBC" means the California Existing Building Code, 2022 Edition.
-   "CEC" means the California Electrical Code, 2022 Edition.
-   "CEnC" means the California Energy Code, 2022 Edition.
-   "CGC" means the California Green Building Standards Code, 2022 Edition.
-   "CHBC" means the California Historical Building Code, 2022 Edition.
+   "CBC" means the California Building Code, 2025 Edition, Volumes 1 and 2.
+   "CEBC" means the California Existing Building Code, 2025 Edition.
+   "CEC" means the California Electrical Code, 2025 Edition.
+   "CEnC" means the California Energy Code, 2025 Edition.
+   "CGC" means the California Green Building Standards Code, 2025 Edition.
+   "CHBC" means the California Historical Building Code, 2025 Edition.
    "Chief building official" means the manager of the building division or
 authorized representatives.
-   "CMC" means the California Mechanical Code, 2022 Edition.
-   "CPC" means the California Plumbing Code, 2022 Edition.
-   "CRC" means the California Residential Code, 2022 Edition.
-   "CRSC" means the California Referenced Standards Code, 2022 Edition.
+   "CMC" means the California Mechanical Code, 2025 Edition.
+   "CPC" means the California Plumbing Code, 2025 Edition.
+   "CRC" means the California Residential Code, 2025 Edition.
+   "CRSC" means the California Referenced Standards Code, 2025 Edition.
+   "CWUIC" means the California Wildland-Urban Interface Code, 2025 Edition.
    "Electric vehicle charging station" or "charging station" means any level of
 electric vehicle supply equipment station that is designed and built in
 compliance with Article 625 of the CEC and delivers electricity from a source
@@ -83723,37 +83724,38 @@ kilowatts thermal; conforms to all applicable state fire, structural,
 electrical, and other building codes as adopted or amended by the city;
 conforms to the requirements of California Civil_Code section 714, subdivision
 (c)(3); is installed on a single-unit dwelling or duplex dwelling; and does not
-exceed the maximum legal building height. (Ord. 2022-0026 § 2; Ord. 2019-0042 §
-2; Ord. 2016-0052 § 2; Ord. 2016-0037 § 1; Ord. 2015-0032 § 1; Ord. 2014-0001 §
-2; Ord. 2011-026 § 2)
-15.04.050   Adoption of the 2022 California Building Standards Code.
-   The building standards included in the following parts of the 2022
+exceed the maximum legal building height. (Ord. 2025-0031 § 2; Ord. 2022-0026 §
+2; Ord. 2019-0042 § 2; Ord. 2016-0052 § 2; Ord. 2016-0037 § 1; Ord. 2015-0032 §
+1; Ord. 2014-0001 § 2; Ord. 2011-026 § 2)
+15.04.050   Adoption of the 2025 California Building Standards Code.
+   The building standards included in the following parts of the 2025
 California_Building_Standards_Code, Title 24 of the California_Code_of
 Regulations, are adopted by reference and incorporated in this code, except as
 expressly amended or superseded by the provisions of this code:
-   A.   The CBC, including Appendices C, I, and P, which is based on and which
-amends the provisions of the 2021 International Building Code, as published by
+   A.   The CBC, including Appendices C, I, and Q, which is based on and which
+amends the provisions of the 2024 International Building Code, as published by
 the International Code Council.
-   B.   The CRC, including Appendices AH, AJ, AK, and AZ, which is based on and
-which amends the provisions of the 2021 International Residential Code, as
+   B.   The CRC, including Appendices BF, BO, BG, and CJ, which is based on and
+which amends the provisions of the 2024 International Residential Code, as
 published by the International Code Council.
-   C.   The CPC, which is based on and which amends the provisions of the 2021
-Uniform Plumbing Code, as published by the International Association of
-Plumbing and Mechanical Officials.
-   D.   The CMC, which is based on and which amends the provisions of the 2021
-Uniform Mechanical Code, as published by the International Association of
-Plumbing and Mechanical Officials.
-   E.   The CEC, which is based on and which amends the provisions of the 2020
+   C.   The CEC, which is based on and which amends the provisions of the 2023
 National Electrical Code, as published by the National Fire Protection
 Association.
-   F.   The CGC.
-   G.   The CEnC.
-   H.   The CEBC, including Appendix A Chapter A-1 and Appendix A Chapter A-3,
-which amends the provisions of the 2021 International Existing Building Code,
+   D.   The CMC, which is based on and which amends the provisions of the 2024
+Uniform Mechanical Code, as published by the International Association of
+Plumbing and Mechanical Officials.
+   E.   The CPC, which is based on and which amends the provisions of the 2024
+Uniform Plumbing Code, as published by the International Association of
+Plumbing and Mechanical Officials.
+   F.   The CEnC.
+   G.   The CWUIC.
+   H.   The CHBC.
+   I.   The CEBC, including Appendix A Chapter A-1 and Appendix A Chapter A-3,
+which amends the provisions of the 2024 International Existing Building Code,
 as published by the International Code Council.
-   I.   The CHBC.
-   J.   The CRSC. (Ord. 2022-0026 § 3; Ord. 2019-0042 § 3; Ord. 2019-0001 § 1;
-Ord. 2016-0052 § 3; Ord. 2014-0001 § 3; Ord. 2011-026 § 2)
+   J.   The CGC.
+   K.   The CRSC. (Ord. 2025-0031 § 3; Ord. 2022-0026 § 3; Ord. 2019-0042 § 3;
+Ord. 2019-0001 § 1; Ord. 2016-0052 § 3; Ord. 2014-0001 § 3; Ord. 2011-026 § 2)
 15.04.060   Violation-Penalty.
    A.   No responsible party, whether as owner, lessee, sublessee or occupant,
 shall erect, construct, enlarge, alter, repair, move, improve, remove,
@@ -83944,9 +83946,10 @@ solar energy systems.
 stations.
 15.08.010   Permits-Permit procedures.
    Except as provided in this code, all permits shall be obtained as required
-by and in accordance with the 2022 California_Building_Standards_Code as
-adopted in this title 15. (Ord. 2022-0026 § 4; Ord. 2019-0042 § 4; Ord. 2016-
-0052 § 4; Ord. 2014-0001 § 4; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
+by and in accordance with the 2025 California_Building_Standards_Code as
+adopted in this title 15. (Ord. 2025-0031 § 4; Ord. 2022-0026 § 4; Ord. 2019-
+0042 § 4; Ord. 2016-0052 § 4; Ord. 2014-0001 § 4; Ord. 2011-026 § 3; Ord. 2010-
+014 § 2)
 15.08.020   Permits-To whom permits may be issued.
    A permit to do or to cause to be done any work regulated by this code shall
 be issued only to the property owner, an authorized agent of the property
@@ -83957,9 +83960,9 @@ as specified, in state law. (Ord. 2011-026 § 3; Ord. 2010-014 § 2)
 permit. (Ord. 2011-026 § 3; Ord. 2010-014 § 2)
 15.08.040   Permits-Exemptions.
    No permit is required for work that is exempt from the requirement to obtain
-a permit as provided for in the 2022 California_Building_Standards_Code as
-adopted herein. (Ord. 2022-0026 § 5; Ord. 2019-0042 § 5; Ord. 2016-0052 § 5;
-Ord. 2014-0001 § 5; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
+a permit as provided for in the 2025 California_Building_Standards_Code as
+adopted herein. (Ord. 2025-0031 § 5; Ord. 2022-0026 § 5; Ord. 2019-0042 § 5;
+Ord. 2016-0052 § 5; Ord. 2014-0001 § 5; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
 15.08.050   Permits-Fees.
    A.   Fees shall be charged to cover all aspects of administration of the
 building permit program under this title, including, but not limited to,
@@ -83980,7 +83983,7 @@ based fees and when hourly-based fees shall be charged.
 under this chapter shall be established by resolution of the city council.
 (Ord. 2011-026 § 3; Ord. 2010-014 § 2)
 15.08.060   Permits-Applications.
-   In addition to the requirements of the 2022 California_Building_Standards
+   In addition to the requirements of the 2025 California_Building_Standards
 Code as adopted in this title 15, the following shall be included with an
 application for a permit:
    A.   All declarations, authorizations, and notices required by this code or
@@ -83990,22 +83993,22 @@ construction lending agency, and the authorization to act on property owner's
 behalf, as applicable and fully executed; and
    B.   A plan review fee, where plans are required, unless a plan review fee
 is paid at the time of pre-application plan review; provided, that
-      1.   If the plan review fee is to be based on an hourly rate and not the
+   1.   If the plan review fee is to be based on an hourly rate and not the
 estimated value of the work to be done, a deposit shall be paid at the time of
 application submittal and the balance shall be billed as plan review is
 conducted. The plan review fee shall be paid in full prior to issuance of the
 building permit; and
-      2.   If the plans submitted are incomplete or are changed so as to
-require additional plan review, an additional plan review fee shall be charged.
-(Ord. 2022-0026 § 6; Ord. 2019-0042 § 6; Ord. 2016-0052 § 6; Ord. 2014-0001 §
-6; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
+   2.   If the plans submitted are incomplete or are changed so as to require
+additional plan review, an additional plan review fee shall be charged. (Ord.
+2025-0031 § 6; Ord. 2022-0026 § 6; Ord. 2019-0042 § 6; Ord. 2016-0052 § 6; Ord.
+2014-0001 § 6; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
 15.08.070   Permits-Permit issuance.
-   In addition to the requirements of the 2022 California_Building_Standards
+   In addition to the requirements of the 2025 California_Building_Standards
 Code as adopted in this title 15, the following provisions shall apply to the
 issuance of a permit:
    A.   When an owner-builder declaration has been executed with a permit
 application, no permit shall be issued until the notice to the property owner
-required under California Health_and_Safety_Code section 19825 has been
+required under California Health and Safety Code section 19825 has been
 completed and signed by the owner of the property on which the proposed work is
 to be located and submitted to the chief building official.
    B.   No permit shall be issued until the applicant has paid the building
@@ -84019,9 +84022,50 @@ approval.
    C.   Issuance of a building permit shall not entitle the permit holder to
 commence the work authorized by the permit unless and until the permit holder
 has obtained all other approvals required by, and has complied with, all other
-applicable laws, rules, and regulations relating to the proposed work. (Ord.
-2022-0026 § 7; Ord. 2019-0042 § 7; Ord. 2016-0052 § 7; Ord. 2014-0001 § 7; Ord.
-2011-026 § 3; Ord. 2010-014 § 2)
+applicable laws, rules, and regulations relating to the proposed work.
+   D.   Building permits for one or more residential dwelling units located in
+a subdivision approved under
+chapter 17.868 are subject to the following.
+      1.   A building permit will be issued prior to recording a subdivision
+map (a final map or parcel map) for one or more residential dwelling units
+located in a subdivision approved under
+chapter 17.868 if all the following requirements are met:
+         a.   The applicant received approval of a tentative map and housing
+development pursuant to
+chapter 17.868.
+         b.   The applicant submitted a building permit application deemed
+complete and compliant pursuant to section 65913.3 of the California Government
+Code.
+         c.   Before issuance of the permit, improvement plans are submitted
+and completed by the subdivider and accepted by the director of public works
+and the director of utilities.
+         d.   Before issuance of the permit, as determined by the City, the
+applicant enters into an agreement with the city to construct any improvements,
+including sewer requirements identified in the tentative map approved under
+chapter 17.868. As determined by the city, the permittee shall provide a
+performance bond to secure the faithful performance of the contractual
+obligations to construct improvements in an amount not to exceed 300 percent of
+the total estimated costs of the improvements.
+         e.   Before issuance of the permit, the applicant executes, and
+records irrevocable offers of dedication as determined by the city to guarantee
+any dedications identified in the approved tentative map.
+      2.   The city shall condition the issuance of a permit on the applicant
+submitting proof to the satisfaction of the city of a recorded covenant and
+agreement enforceable by the city that the applicant and the applicant's
+successors and assignees agree that the permit is issued on the condition that
+a certificate of occupancy or final inspection will not be issued unless the
+final map or parcel map has been recorded. No residential dwelling unit can be
+occupied until such a certificate or inspection has been approved.
+      3.   Notwithstanding subsection 1, the city may deny issuance of a
+building permit if the building official makes a written finding, based upon a
+preponderance of the evidence, that construction of the proposed structure or
+structures before recordation of the final map or parcel map would have a
+specific adverse impact (as defined in California Government_Code section
+65589.5, subdivision (d)(2)) upon public health and safety and for which there
+is no feasible method to satisfactorily mitigate or avoid the specific, adverse
+impact. (Ord. 2025-0038 § 2; Ord. 2025-0031 § 7; Ord. 2022-0026 § 7; Ord. 2019-
+0042 § 7; Ord. 2016-0052 § 7; Ord. 2014-0001 § 7; Ord. 2011-026 § 3; Ord. 2010-
+014 § 2)
 15.08.080   Work without permits-Additional fee for work done without a permit.
    Where work for which a permit is required is commenced prior to the
 obtaining of the required permit(s), the chief building official shall charge
@@ -84121,11 +84165,12 @@ hundred eighty (180) days upon written request by the permit holder showing
 that circumstances beyond the control of the permit holder have prevented
 action from being taken. No permit shall be extended more than once.
    C.   Building permits issued to repair under
-Chapter 8.96 or 8.100 of this code shall expire in sixty (60) days from the
-date such permit is issued unless the housing code advisory and appeals board
-authorizes a longer period of time in which to complete the work in which event
-such permit will expire at the end of such longer period of time. (Ord. 2019-
-0042 § 8; Ord. 2011-026 § 3; Ord. 2010-014 § 2)
+Chapter 8.96 or
+8.100 of this code shall expire in sixty (60) days from the date such permit is
+issued unless the housing code advisory and appeals board authorizes a longer
+period of time in which to complete the work in which event such permit will
+expire at the end of such longer period of time. (Ord. 2019-0042 § 8; Ord.
+2011-026 § 3; Ord. 2010-014 § 2)
 15.08.150   Inspections-Lot survey.
    A survey of the lot on which construction of a building is planned may be
 required by the chief building official, at the permit holder's expense, to
@@ -84380,27 +84425,29 @@ Sections:
 15.20.020   Catchlines of sections.
 15.20.030   Local amendments to the CBC.
 15.20.010   Amendments to the CBC.
-   The CBC is amended as set forth in this chapter. (Ord. 2022-0026 § 8; Ord.
-2019-0042 § 9; Ord. 2014-0001 § 8)
+   The CBC is amended as set forth in this chapter. (Ord. 2025-0031 § 8; Ord.
+2022-0026 § 8; Ord. 2019-0042 § 9; Ord. 2014-0001 § 8)
 15.20.020   Catchlines of sections.
    For the purposes of this chapter, and notwithstanding the provisions of
 section
 1.04.060, the catchlines (or titles) of sections in this chapter shall be
-deemed to be part of such sections. (Ord. 2022-0026 § 8; Ord. 2019-0042 § 9;
-Ord. 2014-0001 § 8)
+deemed to be part of such sections. (Ord. 2025-0031 § 8; Ord. 2022-0026 § 8;
+Ord. 2019-0042 § 9; Ord. 2014-0001 § 8)
 15.20.030   Local amendments to the CBC.
    A.   Subsection 502.1.1 is added to the end of the CBC section 502.1 to read
 as follows:
-      502.1.1 Address Illumination. Addressing shall be illuminated at night in
+   502.1.1 Address Illumination. Addressing shall be illuminated at night in
 all new buildings. Address signs shall be internally or externally illuminated.
 When the luminance or the face of a sign is from an external source, it shall
 have an intensity of not less than 5.0 foot-candles. Internally illuminated
 signs shall provide equivalent luminance.
-   B.   CBC section 1208.4 is amended to read as follows:
-      1208.4 Efficiency dwelling units. Efficiency dwelling units shall comply
+   B.   CBC section 1208.5 is amended to read as follows:
+   1208.5 Efficiency dwelling units. Efficiency dwelling units shall comply
 with the following:
-      1.   The unit shall be occupied by no more than two persons and have a
-living room of not less than 150 square feet (13.9 m²) of floor area.
+      1.   The unit's habitable space shall comply with sections 1208.1 through
+1208.4. Notwithstanding section 1208.3, the unit shall be occupied by no more
+than two persons and have a minimum floor area of not less than 150 square feet
+(13.9 m²) of floor area.
       2.   The unit shall be provided with a separate closet.
       3.   For other than Accessible, adaptable dwelling units, the unit shall
 be provided with a kitchen sink, cooking appliance and refrigerator, each
@@ -84408,30 +84455,29 @@ having a clear working space of not less than 30 inches (762 mm) in front.
 Light and ventilation conforming to this code shall be provided.
       4.   The unit shall be provided with a separate bathroom containing a
 water closet, lavatory and bathtub or shower.
-   C.   CBC Appendix C section 104.1 is amended to read as follows:
-C104.1 Exit facilities: Exits shall be provided in accordance with Chapter 10
-and Chapter 11A or 11B as applicable.
-(Ord. 2022-0026 § 8; Ord. 2019-0042 § 9; Ord. 2017-0042 § 5; Ord. 2014-0001 §
-8)
+   C.   CBC Appendix C (agricultural buildings) section 104.1 is amended to
+read as follows:
+   C104.1 Exit facilities: Exits shall be provided in accordance with Chapter
+10 and Chapter 11A or 11B as applicable.
+(Ord. 2025-0031 § 8; Ord. 2022-0026 § 8; Ord. 2019-0042 § 9; Ord. 2017-0042 §
+5; Ord. 2014-0001 § 8)
 Chapter 15.24
 AMENDMENTS TO THE CALIFORNIA PLUMBING CODE*
 Sections:
 15.24.010   Amendments to the CPC.
 15.24.020   Catchlines of sections.
 15.24.030   Local amendments to the CPC.
-15.24.040   User-supervisor declaration.
-15.24.050   Operation of gray water system.
 *   Prior code history: Ord. 2008-056; prior code §§ 9.04.200-9.04.210 and
 9.04.223-9.04.225.
 15.24.010   Amendments to the CPC.
-   The CPC is amended as set forth in this chapter. (Ord. 2022-0026 § 9; Ord.
-2016-0052 § 8; Ord. 2014-0001 § 9; Ord. 2011-026 § 5)
+   The CPC is amended as set forth in this chapter. (Ord. 2025-0031 § 9; Ord.
+2022-0026 § 9; Ord. 2016-0052 § 8; Ord. 2014-0001 § 9; Ord. 2011-026 § 5)
 15.24.020   Catchlines of sections.
    For the purposes of this chapter, and notwithstanding the provisions of
 section
 1.04.060, the catchlines (or titles) of sections in this chapter shall be
-deemed to be part of such sections. (Ord. 2022-0026 § 9; Ord. 2016-0052 § 8;
-Ord. 2014-0001 § 9; Ord. 2011-026 § 5)
+deemed to be part of such sections. (Ord. 2025-0031 § 9; Ord. 2022-0026 § 9;
+Ord. 2016-0052 § 8; Ord. 2014-0001 § 9; Ord. 2011-026 § 5)
 15.24.030   Local amendments to the CPC.
    A.   CPC section 312.4 is amended to read as follows:
    Corrosion, Erosion, and Mechanical Damage. Each system of buried ferrous
@@ -84448,143 +84494,48 @@ installed according to the same standards or by the use of Table 312.4 of this
 code.
    When Table 312.4 is used, the piping system shall be installed according to
 the following requirements:
-      1.   Galvanic anodes for cathodic protection of ferrous piping shall be
+   1.   Galvanic anodes for cathodic protection of ferrous piping shall be
 buried not less than three feet below grade, and below the bottom of the pipe
 to be protected. They shall be not less than four feet horizontally from any
 buried metallic pipe. Before backfilling, the anode shall be flooded with a
 minimum of five gallons of water.
-      2.   Connecting of the anode to the pipe, when made less than six inches
-above grade, shall be with a thermite weld. Connections six inches or more
-above grade may be made by the use of an approved electrical service grounding
-clamp.
-      3.   Water supply piping shall be isolated at the connection of the
-utility or private tap from the water main and at each building foundation line
+      Connecting of the anode to the pipe, when made less than six inches above
+grade, shall be with a thermite weld. Connections six inches or more above
+grade may be made by the use of an approved electrical service grounding clamp.
+   2.   Water supply piping shall be isolated at the connection of the utility
+or private tap from the water main and at each building foundation line
 adjacent to the full way shut-off valve.
-      4.   Gas supply piping shall be isolated adjacent to each building
+   3.   Gas supply piping shall be isolated adjacent to each building
 foundation line or at the appliance when located outside the building and from
 the serving gas supplier's service equipment.
-      5.   Approved isolation fittings shall be located a minimum of six inches
+   4.   Approved isolation fittings shall be located a minimum of six inches
 above grade, except at the water tap.
-      6.   Any piping laid in the same trench with pipe requiring cathodic
+   5.   Any piping laid in the same trench with pipe requiring cathodic
 protection shall be separated laterally a minimum of 12 inches, and piping
 installed diagonally above pipe requiring cathodic protection shall be
 separated vertically a minimum of six inches. All separations shall be
 maintained with clean earth in accordance with CPC section 314.
-      7.   All piping regulated by this code and subject to undue corrosion,
-erosion or mechanical damage shall be protected in an approved manner.
+      All piping regulated by this code and subject to undue corrosion, erosion
+or mechanical damage shall be protected in an approved manner.
    B.   Table 312.4 is added to Chapter 3 of the CPC to read as follows:
-Table 312.4. Anode Selection Chart
- 
+   Table 312.4. Anode Selection Chart
  
 Allowable Length of Coated and Wrapped Buried Ferrous Gas or Water Pipe
-Pipe Size
-Anode Size   1/2"   3/4" & 1" 1-1/4" & 1-1/2" 2"     3"     4"
-1 lb. anode  50 ft  -         -               -      -      -
-3 lb. anode  150 ft 100 ft    50 ft           50 ft  -      -
-9 lb. anode  500 ft 200 ft    200 ft          150 ft 100 ft 100 ft
-17 lb. anode -      500 ft    350 ft          300 ft 250 ft 150 ft
-32 lb. anode -      -         500 ft          500 ft 450 ft 350 ft
+   Pipe Size
+Anod e Size   1/2 "  3/4 " & 1" 1-1/4" & 1-1/2" 2"     3"      4"
+1 lb. anod e  50 ft  -          -               -      -       -
+3 lb. anod e  150 ft 100 ft     50 ft           50 ft  -       -
+9 lb. anod e  500 ft 200 ft     200 ft          150 ft 10 0 ft 100 ft
+17 lb. anod e -      500 ft     350 ft          300 ft 25 0 ft 150 ft
+32 lb. anod e -      -          500 ft          500 ft 45 0 ft 350 ft
  
    C.   Subsection 1101.12.3 is added to CPC section 1101.12 to read as
 follows:
    For the purpose of sizing roof drains, conductors, leaders, gutters, and
 storm sewers, the rainfall rate used for calculations shall be 3 inches per
 hour.
-   D.   CPC section
-1503.1.4 is added to read as follows:
-      1503.1.4 Subsurface Irrigation
-   For building permit applications filed on or after July 1, 2023, buildings
-that are 10,000 square feet or greater must include a gray water system to
-provide subsurface irrigation as provided in this chapter.
-   Exceptions:
-      (1)   Gray water systems are not required for any buildings or parts of a
-building with a California Building Code, Chapter 3 R-2, R-2.1, R-3, R-3.1, or
-R-4 occupancy classification.
-      (2)   Gray water systems are not required for additions and improvements,
-including tenant improvements, in existing buildings as defined in the
-California Building Code.
-      (3)   Gray water systems are not required for a child-care center;
-grocery store to be constructed in a food desert; mini storage, locker
-building; or warehouse, distribution center.
-   E.   Exception (3) is added to section 1503.3 to read as follows:
-      (3)   A potable water supply may supplement a gray water system to
-provide subsurface irrigation through the use of an air gap as specified in
-Table 603.2.
-   F.   CPC section
-1506.1.1 is added to read as follows:
-      1506.1.1 Installation of separate, additional piping system for on-site
-treated nonpotable gray water systems
-   For building permit applications filed on or after July 1, 2023, buildings
-that are 50,000 square feet or greater must include installation of a separate,
-additional piping system for an on-site treated nonpotable gray water system
-for water closets and urinals.
-   Exceptions:
-      (1)   Installation of a separate, additional piping system for an on-site
-treated nonpotable gray water system is not required for any buildings or parts
-of a building with a California Building Code, Chapter 3 R-2, R-2.1, R-3, R-
-3.1, or R-4 occupancy classification.
-      (2)   Installation of a separate, additional piping system for an on-site
-treated nonpotable gray water system is not required for additions and
-improvements, including tenant improvements, in existing buildings as defined
-in the California Building Code.
-      (3)   Installation of a separate, additional piping system for an on-site
-treated nonpotable gray water system is not required for a child-care center;
-grocery store to be constructed in a food desert; mini storage, locker
-building; or warehouse, distribution center.
-   G.   Exception (3) is added to Section 1506.4 to read as follows:
-      (3)   A potable water supply may be connected to a separate, additional
-piping system for an on-site treated nonpotable gray water system for water
-closets and urinals through the use of a reduced pressure principle backflow
-prevention assembly as specified in Table 603.2. Upon introduction of an on-
-site treated nonpotable water source to the separate piping system, an air gap
-shall be installed pursuant to Table 603.2.
-   H.   The following definition is added to California Plumbing Code section
-205.0:
-   Child-care Center. "Child-care center" has the same meaning as defined in
-California Building Code section 202.
-   I.   The following definition is added to California Plumbing Code section
-208.0:
-   Food Desert. A census tract that has (i) a median household income at or
-below 80% of the Sacramento County median household income and (ii) at least
-33% of the census tract's population living more than one mile from an existing
-grocery store.
-   J.   The following definition is added to California Plumbing Code section
-209.0:
-   Grocery Store. A building or a portion of a building with a California
-Building Code, Chapter 3, Section 309, Group M occupancy classification with
-more than 50% gross floor area devoted to the sale of non-taxable merchandise.
-   K.   The following definition is added to California Plumbing Code section
-215.0:
-   Mini storage, locker building. A building that offers individually secured
-units or surface space for the storage of goods, other than hazardous
-materials, for rental to the public, each of which is accessible only by the
-renter of the individual unit or space.
-   L.   The following definition is added to California Plumbing Code section
-225.0:
-   Warehouse, distribution center. A building used primarily for the long-term
-or short-term storage of goods and materials awaiting transportation or
-distribution, and not generally accessible to the general public. Incidental
-storage, repair, and maintenance of trucks associated with the distribution of
-goods from the warehouse are allowed.
-(Ord. 2022-0031 § 2; Ord. 2022-0026 § 9; Ord. 2016-0052 § 8; Ord. 2014-0001 §
-9; Ord. 2011-026 § 5)
-15.24.040   User-supervisor declaration.
-   Before the issuance of a certificate of occupancy for a building that
-includes a gray water system; an on-site treated nonpotable gray water system;
-or a separate, additional piping system for an on-site treated nonpotable gray
-water system for water closets and urinals, the building owner shall execute a
-user-supervisor declaration on a form prescribed by the director of utilities
-or designee. The user-supervisor declaration must identify the person
-responsible for the avoidance of cross-connections during the installation,
-operation, and maintenance of a gray water system; an on-site treated
-nonpotable gray water system; or a separate, additional piping system for an
-on-site treated nonpotable gray water system for water closets and urinals.
-(Ord. 2022-0031 § 3)
-15.24.050   Operation of gray water system.
-   At no time during the operation of a gray water system may gray water be
-used in spray irrigation, be allowed to pond or runoff, or be discharged
-directly into or reach any storm sewer system or any surface body of water.
-(Ord. 2022-0031 § 4)
+(Ord. 2025-0031 § 9; Ord. 2022-0031 § 2; Ord. 2022-0026 § 9; Ord. 2016-0052 §
+8; Ord. 2014-0001 § 9; Ord. 2011-026 § 5)
 Chapter 15.32
 AMENDMENTS TO THE CALIFORNIA RESIDENTIAL CODE
 Sections:
@@ -84592,22 +84543,23 @@ Sections:
 15.32.020   Catchlines of sections.
 15.32.030   Local amendments to the CRC.
 15.32.010   Amendments to the CRC.
-   The CRC is amended as set forth in this chapter. (Ord. 2022-0026 § 11; Ord.
-2014-0001 § 11)
+   The CRC is amended as set forth in this chapter. (Ord. 2025-0031 § 10; Ord.
+2022-0026 § 11; Ord. 2014-0001 § 11)
 15.32.020   Catchlines of sections.
    For the purposes of this chapter, and notwithstanding the provisions of
 section
 1.04.060, the catchlines (or titles) of sections in this chapter shall be
-deemed to be part of such sections. (Ord. 2022-0026 § 11; Ord. 2014-0001 § 11)
+deemed to be part of such sections. (Ord. 2025-0031 § 10; Ord. 2022-0026 § 11;
+Ord. 2014-0001 § 11)
 15.32.030   Local amendments to the CRC.
-   Subsection R319.1.2 is added to the end of the CRC Section R319.1 to read as
+   Subsection R308.1.2 is added to the end of the CRC Section R308.1 to read as
 follows:
-R319.1.2 Address Illumination. Addressing shall be illuminated at night in all
-new buildings. Address signs shall be internally or externally illuminated.
+   R308.1.2 Address Illumination. Addressing shall be illuminated at night in
+all new buildings. Address signs shall be internally or externally illuminated.
 When the luminance or the face of a sign is from an external source, it shall
 have an intensity of not less than 5.0 foot-candles. Internally illuminated
 signs shall provide equivalent luminance.
-(Ord. 2022-0026 § 11; Ord. 2014-0001 § 11)
+(Ord. 2025-0031 § 10; Ord. 2022-0026 § 11; Ord. 2014-0001 § 11)
 Chapter 15.34
 AMENDMENTS TO THE CALIFORNIA EXISTING BUILDING CODE
 Sections:
@@ -84615,28 +84567,24 @@ Sections:
 15.34.020   Catchlines of sections.
 15.34.030   Local amendments to the CEBC.
 15.34.010   Amendments to the CEBC.
-   The CEBC is amended as set forth in this chapter. (Ord. 2022-0026 § 12; Ord.
-2019-0042 § 10)
+   The CEBC is amended as set forth in this chapter. (Ord. 2025-0031 § 11; Ord.
+2022-0026 § 12; Ord. 2019-0042 § 10)
 15.34.020   Catchlines of sections.
    For the purposes of this chapter, and notwithstanding the provisions of
 section
 1.04.060, the catchlines (or titles) of sections in this chapter shall be
-deemed to be part of such sections. (Ord. 2022-0026 § 12; Ord. 2019-0042 § 10)
+deemed to be part of such sections. (Ord. 2025-0031 § 11; Ord. 2022-0026 § 12;
+Ord. 2019-0042 § 10)
 15.34.030   Local amendments to the CEBC.
-   A.   Subsection 317.1.4 is added to the end of CEBC section 317.1 to read as
-follows:
-      317.1.4. As amended and adopted, the provisions of section 317 through
-section 322 establish minimum standards for earthquake evaluation and design
-for retrofit of existing structures that are within the regulatory authority of
-the city or for which the city is the enforcing agency.
-   B.   Subsection 317.3.1.1 is added to the end of CEBC section 317.3.1 to
-read as follows:
-      317.3.1.1. Subsection 317.3.1 is applicable to existing structures that
-are within the regulatory authority of the city or for which the city is the
-enforcing agency.
-   C.   Subsections 503.4, 503.5, 503.6, 503.7, 503.8, 503.9, 503.10, 503.11,
-503.12, 503.13, and 503.14 are adopted. (Ord. 2022-0026 § 12; Ord. 2019-0042 §
-10)
+   The following is added to the end of CEBC section 304.3:
+   A seismic evaluation of the building or structure shall be required where
+the total construction cost, not including cost of furnishings, fixtures and
+equipment, or normal maintenance for the building exceed 25 percent of the
+construction cost for the replacement of the existing building. The
+construction cost include the cost for prior building modifications that
+occurred after adoption of the 1995 California Building Code and that did not
+require seismic retrofit.
+(Ord. 2025-0031 § 11; Ord. 2022-0026 § 12; Ord. 2019-0042 § 10)
 Chapter 15.36
 2022 CALIFORNIA FIRE CODE
 Sections:
@@ -85461,142 +85409,6 @@ effective date of this ordinance. The provisions of the Sacramento City Code as
 they exist prior to the effective date of this ordinance shall continue to be
 operative and effective with regard to any such actions or proceedings. (Ord.
 2023-0014 § 3)
-Chapter 15.38
-AMENDMENTS TO THE CALIFORNIA GREEN BUILDING STANDARDS CODE
-Sections:
-15.38.010   Amendments to the CGC.
-15.38.020   Catchlines of sections.
-15.38.030   Local amendments to the CGC.
-15.38.040   Infeasibility waiver determination process and appeals.
-15.38.010   Amendments to the CGC.
-   The CGC is amended as set forth in this chapter. (Ord. 2022-027 § 3; Ord.
-2021-0015 § 2)
-15.38.020   Catchlines of sections.
-   For the purposes of this chapter, and notwithstanding the provisions of
-section
-1.04.060, the catchlines (or titles) of sections in this chapter are part of
-such sections. (Ord. 2022-0027 § 3; Ord. 2021-0015 § 2)
-15.38.030   Local amendments to the CGC.
-   A.   Section 101.12 is added to read as follows:
-   101.12 New Building Electrification
-   101.12.1
-   For building permit applications filed on or after January 1, 2023, except
-as provided in subsections 101.12.6 and 101.12.7, all newly constructed
-buildings that are three stories or less shall be all-electric buildings.
-   101.12.2
-   For building permit applications filed on or after January 1, 2026, except
-as provided in subsection 101.12.7, all newly constructed buildings shall be
-all-electric buildings.
-      101.12.3
-   For the purposes of all-electric building requirements, the term "newly
-constructed building" as defined in Section 202 does not include additions,
-improvements, or tenant improvements, to "existing buildings" as defined in the
-CBC.
-   101.12.4
-   Except as provided in subsections 101.12.6 and 101.12.7, building permits
-shall not be issued to convert all-electric buildings that are three stories or
-less into mixed-fuel buildings when the initial building permit application is
-filed on or after January 1, 2023.
-   101.12.5
-   Except as provided in subsection 101.12.7, building permits shall not be
-issued to convert all electric buildings into mixed-fuel buildings when the
-initial building permit application is filed on or after January 1, 2026.
-   101.12.6
-   Limited exemptions. For building permit applications filed on or before
-December 31, 2025, an applicant may request one of the following limited
-exemptions to construct a mixed fuel building:
-         a.   Ground floor food service establishment for the area of the
-building with cooking equipment. The building official shall grant the
-exemption only for fuel gas piping, fixtures, or infrastructure necessary for
-cooking equipment within the designated food service area.
-         b.   Manufacturing or industrial facilities for the area of the
-building with process loads. The building official shall grant this exemption
-only for the area of the building with process loads.
-         c.   Water-heating systems and equipment in regulated affordable
-housing for those portions of the building where virtual net energy metering is
-unavailable.
-   If the technology to require construction of an all?electric building for
-ground?floor food?service establishments, manufacturing facilities, industrial
-facilities, or regulated affordable housing is not feasible and available by
-July 1, 2025, the City Council shall consider extending the building permit
-application filing deadline for the limited exemption until technology is
-feasible and available.
-   The section 101.12.1 and section 101.12.2 requirements to construct all-
-electric buildings shall not apply to sectors with limited exemptions as
-described above (ground floor food service establishments for the area of the
-building with cooking equipment, areas of manufacturing or industrial
-facilities with process loads, or affordable housing without virtual net energy
-metering) until January 1, 2026. If the technology is not feasible or readily
-available, the exemption shall continue for however long is necessary to
-achieve the technology.
-   Once a project is granted a limited exemption, the limited exemption remains
-throughout the construction process; the building is permitted to remain mixed-
-fuel regardless of technological advances.
-   101.12.7
-   Infeasibility.
-   The building official may waive the requirements of subsections 101.12.1 or
-101.12.2 only for those portions of the building if a building permit applicant
-establishes, to the satisfaction of the building official that it is infeasible
-to comply with the requirements because of the type of building, physical site
-conditions, commercial availability of electric appliances or equipment,
-necessary operational requirements, electrical infrastructure requirements, or
-the public health, safety, or economic welfare in the event of an electric grid
-outage.
-   Once a project is granted an infeasibility waiver and is issued a building
-permit, the infeasibility waiver remains throughout the construction process;
-the building is permitted to remain mixed-fuel regardless of technological
-advances.
-   B.   The following definitions are added to section 202 to read as follows:
-   ALL-ELECTRIC BUILDING means a building that does not have fuel gas piping
-installed on the lot or within the building; and that uses electricity as the
-sole source of energy, except for emergency power systems that are required to
-serve essential facilities or are otherwise required by law or regulation.
-   COOKING EQUIPMENT means equipment, including ovens, ranges, brewing kettles,
-and cooking appliances, that are intended for commercial use in a restaurant,
-brewery, or other business establishment where food or beverages are prepared
-and served for consumption on-site or off-site, other than a cottage food
-operation as defined in California Health_and_Safety_Code section 113758.
-   EMERGENCY POWER SYSTEM has the same meaning as in California Building Code
-section 202.
-   ESSENTIAL FACILITIES has the same meaning as in California Building Code
-section 202.
-   FOOD-SERVICE ESTABLISHMENT means a building with cooking equipment where
-food or beverages are prepared and served for consumption on-site or off-site.
-   FUEL GAS has the same meaning as in California Mechanical Code section 202
-and California Plumbing Code section 208.
-   MANUFACTURING OR INDUSTRIAL FACILITY means a building with the occupancy
-classifications defined in the California Building Code, Chapter 3, Section
-306, Group F or Section 313, Group L.
-   MIXED-FUEL BUILDING means a building that includes fuel gas piping and that
-is capable of using both fuel gas and electricity as sources of energy.
-   PROCESS LOAD means an energy load resulting from a process.
-   REGULATED AFFORDABLE HOUSING means a building to be occupied by low or
-moderate income households as defined in California Health_and_Safety_Code
-section 50093; offered at an affordable rent as defined in California Health
-and_Safety_Code section 50053 for a period of at least 30 years; and subject to
-restriction for a period of at least 30 years under a recorded regulatory
-agreement between the property owner and a local, state, or federal agency.
-   VIRTUAL NET ENERGY METERING means a billing arrangement that allows
-multi?tenant building owners to install a single solar system to cover the
-electricity load of both common and tenant areas connected at the same service
-delivery point. The solar production is fed back to the grid, then allocated to
-each tenant and common area's monthly bill.
-(Ord. 2022-0027 § 3; Ord. 2021-0015 § 2)
-15.38.040   Infeasibility waiver determination process and appeals.
-   The building official shall develop guidelines establishing a process to
-consider infeasibility waivers under section
-15.38.030.A. The guidelines must be developed in consultation with relevant
-industry experts and practitioners, including the Sacramento Municipal Utility
-District. The process must include, but not is not limited to, a meeting during
-which the building permit applicant can present evidence to support the claim
-of infeasibility; a timely written decision granting or denying the
-infeasibility waiver that includes the reasons for the decision; and the
-ability for a building permit applicant to appeal the infeasibility-waiver
-decision in accordance with chapter
-1.24 by filing a notice of appeal within 10 business days after the written
-decision is sent to the building permit applicant. The guidelines shall not be
-effective until approved by resolution of the City Council. (Ord. 2022-0027 §
-3; Ord. 2021-0015 § 2)
 Chapter 15.40
 CONSTRUCTION SITE REGULATIONS
 Article I Use of Public Property
@@ -88823,7 +88635,7 @@ City of Sacramento Jan Feb Mar Apr Ma y Jun Jul Aug Sep Oct Nov Dec Annual ETo
  
 (Ord. 2015-0038 § 2)
 15.92 Appx. B   Sample water efficient landscape worksheet.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15014.png]
 ETAF Calculations
 Regular Landscape Areas
@@ -92428,7 +92240,7 @@ Article III . Signs Permitted in Zoning Districts of City
 15.148.180   F flood zone.
 15.148.190   CBD-SPD and arts and entertainment district.
 15.148.191   ESC sign district.
-15.148.193   Railyards SPD.
+15.148.193   Railyards sign district.
 15.148.195   TO transit overlay zone.
 Article IV . General Requirements and Limitations
 15.148.200   Additional regulations established.
@@ -93141,7 +92953,7 @@ established by chapter
 17.442.
    "ESC sign district" means the special sign district that has the boundary
 shown on this map:
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15018.png]
    "ESC monument sign" means a low-profile, freestanding sign that is erected
 with its base on the ground or on a solid-appearing support substantially
@@ -93194,7 +93006,7 @@ images, parts, or illumination that changes less than one time in a 24-hour
 period qualifies as a non-animated sign.
    "Plaza" means the off-street area within the ESC sign district that is
 identified on the following map:
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15016.png]
    "Plaza kiosk" means a small, pedestrian-oriented, free-standing structure
 that is within the plaza and used to display information.
@@ -93337,7 +93149,7 @@ illumination.
 is 120 square feet.
             v.   Display areas must have at least 60% open area or transparency
 to allow visual access beyond or through the sign. For example:
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15020.png]
             vi.   Must be similar in their physical characteristics and
 visually compatible with buildings and other structures in the ESC sign
@@ -93411,7 +93223,7 @@ grade and 20 feet away from the plane of the display (determined by a line that
 is within 6 degrees of a line perpendicular to the plane of the display).
    Step Two. Use the following formula to determine the "measurement distance"
 (the "display area" in the radicand is in square feet):
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15023.png]
    Step Three. Use the following formulas to calculate the display's equivalent
 maximum brightness during the day and at night:
@@ -93639,10 +93451,10 @@ repair to the sign owner.
 2.84 are not subject to this section or to site plan and design review.
    D.   Zone map, sign levels, sign types, illumination hours, display areas.
       1.   Map of zones.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15027.png]
       2.   Vertical sign levels.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15025.png]
       3.   Types of signs allowed in the ESC sign district.
  
@@ -93735,7 +93547,7 @@ instead of wall signs and projected-image signs. The banner may display general
 advertising, but neither it nor its mounting devices may extend past or wrap
 around the stairwell (north and south faces) or impede the use of, or access
 to, the stairwell in any way.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15029.png]
 Northwest corner (primary & secondary facades)   Southeast corner (secondary &
 primary facades)
@@ -93773,7 +93585,7 @@ E.2.g.
 joints.
          i.   A single roof-mounted sign may be installed, similar in style,
 size, and location of the historic roof sign.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15031.png]
 Northwest corner (primary & secondary facades)   Southeast corner (secondary &
 primary facades)
@@ -93797,7 +93609,7 @@ Tuesday, Wednesday, and Thursday and until midnight on Friday and Saturday.
          f.   Either a wall sign (which may display general advertising) or a
 mural may be installed on one of the secondary facades, with a maximum total
 display area of 900 square feet.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15033.png]
 Southeast corner (primary facades)   Northeast corner (secondary facades)
    F.   Prohibited signs. Except as otherwise provided, the following signs are
@@ -93818,10 +93630,10 @@ complies with this chapter, as determined by the director, except as otherwise
 provided by this section. When determining compliance, the director shall not
 consider the content of messages on the sign except to the extent needed to
 comply with federal or state law.
-   H.   Term of ESC sign district and removal of signs.
-      1.   This section
+   H.    Term of ESC sign district and removal of signs.
+      1.    This section
 15.148.191 expires automatically, as do all permits issued under this section
-and all rights created by those permits, at 11:59 p.m. on December 31, 2034.
+and all rights created by those permits, at 11:59 p.m. on December 31, 2049.
       2.   This section
 15.148.191 terminates automatically, as do all permits issued under this
 section and all rights created by those permits, if the document titled
@@ -93935,11 +93747,175 @@ Less than 20         Up to $500      Up to $500       Up to $500
 1.28.010.D.4 govern appeals of the administrative penalties assessed under this
 section, except that the appeal fee is the lesser of 10% of the penalties or
 $500 rather than the fee prescribed in subsection
-1.28.010.D.4.b. (Ord. 2019-0035 § 2)
-15.148.193   Railyards SPD.
-   Signs within the Railyards SPD must comply with all provisions of this
-chapter. (Ord. 2016-0045 § 3; Ord. 2016-0010 § 14; Ord. 2013-0021 § 63; Ord.
-2007-102 § 1)
+1.28.010.D.4.b. (Ord. 2025-0036 § 1; Ord. 2019-0035 § 2)
+15.148.193   Railyards sign district.
+   A.   Definitions. In addition to the definitions in sections
+1.04.020 and
+15.148.1170 and
+chapter 17.108, the following definitions apply in this section.
+      1.   "City-leased property" means real property in which the city has a
+leasehold interest.
+      2.   "City-owned property" means real property the city owns in fee.
+      3.   "Freeway-oriented digital billboard" means a digital billboard that
+is oriented toward Interstate 5 and is within 660 feet of the Interstate 5
+right-of-way, determined by measuring 660 feet from the edge of the right-of-
+way along a line perpendicular to the center line of the main traveled way.
+      4.   "Grade" means the lowest point of elevation of the finished surface
+of the ground, paving, or sidewalk within the area between a building and the
+property line or, when the property line is more than 5 feet from the building,
+between the building and a line 5 feet from the building. Light wells, stair
+wells, and driveways will not be considered in determining the lowest point of
+elevation.
+      5.   "Large entertainment venue" means a permanent building or structure
+that is used primarily for entertainment (such as music, cultural, performing
+arts, and similar events); is the primary use of the site; and has a maximum
+occupant load determined by the chief building official to be at least 2,000
+persons, but which has fewer than 10,000 fixed permanent seats.
+      6.   "Marquee" means a permanent, three-sided roof-like structure that
+projects from and is supported by a building, extending over a public right-of-
+way to provide shelter from the elements which incorporates signage, such as
+the name of the establishment or current show playing.
+      7.   "Primary user" means the person who has the right to use the largest
+portion of a large entertainment venue, measured in square feet of floor area.
+      8.   "Railyards" means the Railyards special planning district
+established by
+chapter 17.440.
+      9.   "Railyards sign district" means the special sign district with the
+boundary shown on this map:
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15320.png]
+      10.    "Static digital display " means a sign face that display s images
+throug h the use of grid lights, cathode-ray projections, light-emitting diodes
+(LEDs), plasma screens, liquid-crystal displays (LCDs), fiber optics, or other
+electronic media or functionally equivalent technology that does not change
+more than once per day.
+      11.   "Subdistrict 1" means the area of the Railyards sign district shown
+in subsection D.1 below.
+      12.   "Subdistrict 2" means the area of the Railyards sign district shown
+in subsection D.2 below. The boundary of subdistrict 2 corresponds to the
+boundary of the Central Shops Historic District in exhibit A of Ordinance No.
+2023-0016.
+      13.   "Subdistrict 3" means the area of the Railyards sign district shown
+in subsection D.3 below.
+      14.   "Subdistrict 4" means the area of the Railyards sign district shown
+in subsection D.4 below.
+      15.   "Subdistrict 5" means the area of the Railyards sign district shown
+in subsection D.5 below.
+   B.    Purp ose. The Rail yard s sign distr ict is inten ded to estab lish an
+iconic civic environment that integrates the Railyards into the downtown area
+by linking the Golden 1 Center and Downtown Commons to the historic Central
+Shops and soccer stadium through enhanced pathways and digital wayfinding.
+Signage is a key element in achieving this goal; therefore, this section
+establishes a dynamic and creative sign program for the Railyards special
+planning district, preserves the district's character, implements the adopted
+Railyards development guidelines, and authorizes types and locations of signs
+that would otherwise be prohibited under
+chapter 15.148 (Signs) or title 17 (Planning and Development Code) — in sum, to
+authorize types and location of signage that will enhance the public's overall
+experience at the Railyards and complement the buildings, structures, and
+public spaces within the Railyards. This section is also intended to protect
+public health and safety by regulating the type, number, and location of signs
+within the Railyards that might distract motorists and pedestrians or be a
+nuisance for the occupants of buildings near the Railyards.
+   C.   Except as provided in this section, signs within the Railyards sign
+district must comply with all provisions of this chapter.
+   D.   Subdistrict maps.
+      1.   Map of subdistrict 1.
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15322.png]
+      2.    Map of subdistrict 2.
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15324.png]
+      3.     Map of subdistrict 3.
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15326.png]
+      4.     Map of subdistrict 4.
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15328.png]
+      5.    Map of subdistrict 5.
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
+IMAGES/0-0-0-15330.png]
+   E.    Subdistrict 1. [Reserved]
+   F.    Subdistrict 2. [Reserved]
+   G.    Subdistrict 3.
+      1.    Agreements for digital billboards. Notwithstanding anything to the
+contrary in this chapter (including section
+15.148.640) or in any ordinance not codified in this chapter (including
+Ordinance No. 2007-079), the city council may approve agreements that authorize
+the construction of digital billboards on city-owned or city-leased property
+within subdistrict 3 of the Railyards sign district, subject to the following
+provisions:
+         a.   No more than five digital billboards may be authorized.
+         b.   Digital billboards are allowed only on city-leased property or
+city-owned property in the C-3-SPD and R-5-SPD zones.
+         c.   The following provisions apply to all digital billboards other
+than freeway-oriented digital billboards—
+            i.   Except as provided in subsection G.1.c.ii below, the maximum
+height of a digital billboard structure, measured from grade to the top of the
+digital billboard structure, is 70 feet.
+            ii.   If a digital billboard is adjacent to subdistrict 2, the
+maximum height of the digital billboard structure, measured from grade to the
+top of the billboard structure, is 45 feet.
+            iii.   Except as provided in subsection G.1.c.i v below, the max
+mum area of each digital-display face of a digital billboard is 700 square
+feet, and each digital billboard may have either one or two digital-display
+faces, except that digital billboards in the R-5-SPD zone are limited to one
+digital-display face, which must be oriented away from the Railyards sign
+district.
+            iv.   If a digital billboard is adjacent to subdistrict 2, the
+maximum area of each digital-display face of the digital billboard is 500
+square feet, and each digital billboard may have up to three digital-display
+faces.
+            v.   The hours of operation for a digital billboard are from 6 a.m.
+to midnight.
+         d.   The following provisions apply to freeway-oriented digital
+billboards—
+            i.   The maximum height of a freeway-oriented digital billboard
+structure, measured from grade to the top of the billboard structure, is 100
+feet; and
+            ii.   The maximum area of each digital-display face of a freeway-
+oriented digital billboard is 1,200 square feet, and each freeway-oriented
+digital billboard may have either one or two digital-display faces.
+         e.   A digital billboard may display only a series of still images,
+each of which is displayed for at least eight seconds. The still images may not
+move or present the appearance of motion and may not use flashing,
+scintillating, blinking, or traveling lights or any other means not providing
+constant illumination. Transition or blank screen time between still images may
+not exceed one second.
+         f.   The owner of the digital billboard or billboards authorized by
+the agreement (or an affiliate of the owner) must agree to, among other things,
+at no cost to the city, remove the digital billboard or billboards from the
+city-owned or city-leased property at the expiration of the agreement's term,
+which may not exceed 35 years, and restore the property to its pre-agreement
+condition.
+         g.   The owner of the digital billboard must comply with all
+applicable federal, state, or local laws when constructing, operating,
+improving, maintaining, repairing, and removing the digital billboard,
+including the Highway Beautification Act of 1965 (23 U.S.C. § 131), the Outdoor
+Advertising Act (Cal. Bus. & Prof. Code, § 5200 et seq.), the regulations
+promulgated to implement the Outdoor Advertising Act (4 Cal. Code Regs. § 2242
+(c) et seq.), and this chapter.
+         h.   The city council must find that each digital billboard identified
+in the agreement satisfies the following:
+            i.   It complies with the requirements of this section and this
+chapter.
+            ii.   It is compatible with the uses and structures on the city-
+owned or city-leased property and in the surrounding area, including parks,
+trails, and other public facilities and amenities.
+            iii.   It will not interfere with on-site access, circulation, or
+visibility.
+            iv.   It will not create a traffic or safety hazard.
+            v.   It will not result in any undue or significant increase in
+visual clutter in the area surrounding the city-owned or city-leased property.
+      2.   The city must comply with the California Environmental Quality Act
+(Cal. Pub. Resources Code, § 21000 et seq.) before approving an agreement that
+authorizes a digital billboard.
+      3.   Site plan and design review under chapter 17.808 for digital
+billboards is subject to state-level review as provided in section
+17.812.010.D. Deviations may be approved under section
+17.808.120.
+   H.   Subdistrict 4. [Reserved]
+   I.   Subdistrict 5. [Reserved] (Ord. 2025-0032 § 2)
 15.148.195   TO transit overlay zone.
    A.   RMX-TO Zone.
       1.   In the RMX-TO zone, residential uses shall be allowed signs as
@@ -95224,7 +95200,7 @@ candelas, as applicable.
       Step Two. Determine the "measurement distance" using the following
 formula (the "display area" in the radicand is the area of the display in
 square feet):
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15035.png]
       Step Three. Use the following formulas to calculate the display's maximum
 allowed brightness at night and during the day:
@@ -95530,7 +95506,7 @@ display).
          b.   Step Two. Use the following formula to determine the "measurement
 distance" (the "display area" in the radicand is the area of the display in
 square feet):
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15037.png]
          c.   Step Three. Use the following formulas, calculate the display's
 equivalent maximum brightness during the day and at night:
@@ -97113,6 +97089,8 @@ Amendments Act of 1988 and the California Fair Employment and Housing Act
 17.860   Ministerial Approval for Infill Housing Projects
 17.864   Ministerial Approval for Two Dwelling Units on a Lot and Urban Lot
 Splits
+17.868   Ministerial Approval of Development Projects of 10 or Fewer Dwelling
+Units on Urban Lots
 17.876   Low Barrier Navigation Centers
 17.880   Supportive Housing
 Division IX
@@ -97623,7 +97601,7 @@ accessible and open to the public.
    "Arts and entertainment district" means that area shown in Exhibit A.
 Exhibit A
 Arts and Entertainment District
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15039.png]
    "Assembly-cultural, religious, social" means a meeting place at which the
 public or membership groups are assembled regularly or occasionally, including
@@ -107183,7 +107161,7 @@ subject to the provisions of this section and designates ground-floor retail
 requirements of either 75% or 50% for each individual block-face, as shown.
 Exhibit A
 Required Retail Frontage
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15129.png]
       2.   Retail, pedestrian-oriented, and personal service classifications
 indicated on Table 1 shall occupy a minimum of 50% to 75% of the street-
@@ -107288,22 +107266,22 @@ are illustrated on the map in Exhibits D, E, F, and G to this chapter. The
 setback requirements apply notwithstanding any other provision of this title to
 the contrary.
 Exhibit B
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15043.png]
 Exhibit C
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15045.png]
 Exhibit D
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15047.png]
 Exhibit E
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15049.png]
 Exhibit F
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15051.png]
 Exhibit G
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15053.png]
 (Ord. 2025-0 007 § 12; Ord. 2018-0 017 § 2; Ord. 2013-0 020 § 1; Ord. 2013-
 0 007 § 1)
@@ -114608,7 +114586,7 @@ provided in this chapter, or other provisions of this title or code. (Ord.
 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.312.130   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-26.png]
  
 Exhibit B
@@ -115291,17 +115269,17 @@ east and west sides of Stockton Boulevard, between 2nd Avenue on the north and
 65th Street on the south. The SPD boundaries are identified in
 Exhibit A.
 Exhibit A-Map of Broadway/Stockton SPD Boundaries
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-28.jpg]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-30.jpg]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-32.jpg]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-34.jpg]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-36.jpg]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-38.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.404.030   Special land use regulations.
@@ -115367,10 +115345,10 @@ the east, 69th Street/Elvas Avenue to the north, and Q Street to the south. The
 boundaries of the Folsom Boulevard West SPD are shown on
 Exhibit A.
 Exhibit A - Map of Folsom Boulevard West SPD Boundaries
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15131.png]
  
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15133.png]
 (Ord. 2020-0043 § 2)
 17.408.030   Special land use regulations.
@@ -115419,7 +115397,7 @@ on the west and Watt Avenue on the east. The boundaries of the Folsom Boulevard
 East SPD are shown on
 Exhibit B.
 Exhibit B - Map of Folsom Boulevard East SPD Boundaries
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-42.jpg]
 (Ord. 2020-0043 § 3)
 17.409.030   Special land use regulations.
@@ -115584,10 +115562,10 @@ McClellan Heights and Parker Homes SPD and require a conditional use permit:
 2013-0007 § 1)
 17.412.040   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-44.jpg]
 Exhibit B
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-46.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 Chapter 17.416
@@ -115629,7 +115607,7 @@ east side and portions of the west side of Northgate Boulevard south of Patio
 Avenue and north of Garden Highway. The zone is depicted on the map in Exhibit
 A.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-48.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.416.030   Prohibited uses.
@@ -115662,7 +115640,7 @@ these urban neighborhoods; and
    C.   Provide the opportunity for a balanced mixture of uses in neighborhoods
 adjacent to transit facilities and transportation corridors.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15135.png]
 (Ord. 2018-0014 § 2; Ord. 2018-0004 § 1; Ord. 2013-0020 § 1; Ord. 2013-0007 §
 1)
@@ -115754,7 +115732,7 @@ conditions. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 The boundaries of the Del Paso Boulevard/Arden Way SPD are shown on the map set
 out at the end of this section as Exhibit A.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-52.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.424.030   Del Paso Boulevard/Arden Way SPD special regulations.
@@ -115948,7 +115926,7 @@ for 10 to 15 dwelling units per net acre. Housing types within the area
 designated for 8 to 12 dwelling units per acre are limited to detached single-
 unit dwellings.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-54.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.428.040   Del Paso Nuevo SPD-Institutional uses.
@@ -115981,7 +115959,7 @@ Army Depot reuse plan. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 The Sacramento Army Depot SPD is that area shown on Exhibit A set out at the
 end of this section.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-56.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.432.030   Sacramento Army Depot SPD-Allowed uses.
@@ -116269,15 +116247,15 @@ of occupancy or approval of final inspection of the repair or reconstruction
 work, whichever is later. (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.436.070   Exhibits.
 Exhibit A: River District Specific Plan Boundary
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15137.png]
  
 Exhibit B: Maximum Allowed Height (Measured from Existing Grade)
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15139.png]
  
 Exhibit C: Ground Floor Retail Accommodation
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15141.png]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 Chapter 17.440
@@ -116829,13 +116807,13 @@ development agreement that addresses parking on the unimproved or vacant
 parcel. (Ord. 2016-0045 § 2)
 17.440.140   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15143.png]
 Exhibit B
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15145.png]
 Exhibit C
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15147.png]
 (Ord. 2021-0011 § 14)
 Chapter 17.442
@@ -117511,16 +117489,16 @@ building devoted to industrial and commercial uses; and
 devoted to industrial and commercial uses. (Ord. 2018-0013 § 8)
 17.444.150   Exhibits.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15149.png]
 Exhibit B
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15151.png]
 Exhibit C
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15153.png]
 Exhibit D
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15155.png]
 (Ord. 2021-0011 § 15; Ord. 2020-0034 § 2; Ord. 2018-0013 § 8)
 Chapter 17.448
@@ -117561,7 +117539,7 @@ the west, and, on the east, the eastern boundary of the town of Freeport as it
 existed at the time of annexation into the city, as depicted in the map in
 Exhibit A at the end of this section.
 Exhibit A: Freeport Special Planning District (SPD) Boundary Map
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-78.jpg]
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
 17.448.030   Freeport SPD-Land use regulations.
@@ -120777,7 +120755,7 @@ established as shown in
 Figure 17.608-1: Central Business and Arts & Entertainment, Urban, Traditional,
 and Suburban.
 Figure 17.608-1
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-15157.png]
  
    B.   Maximum number of off-street vehicle parking spaces. Table 17.608.030B
@@ -121653,7 +121631,7 @@ right-of-way line, whichever is furthest from the street centerline. The back
 of the sidewalk is the edge of the sidewalk furthest from the street
 centerline.
 Exhibit A
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-82.png]
  
    D.   Maintenance. Maintenance of the wall or fence is the responsibility of
@@ -121950,9 +121928,9 @@ CalTrans sound wall design criteria and the CalTrans standard construction
 drawings of approved sound wall types.
    H.   In areas where terrain, grade, and access control allow, walls may be
 constructed within the state right-of-way under a CalTrans encroachment permit.
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-84.png]
-[https://export.amlegal.com/media/5a8c063f3a90d4e536b49a61e189fd268288595d/
+[https://export.amlegal.com/media/c181694a7da3c07c404d856687e382080f2d02ad/
 IMAGES/0-0-0-86.png]
  
 (Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
@@ -128904,6 +128882,206 @@ subdivision (d)(2) of section 65589.5 of the California Government_Code, upon
 public health and safety or the physical environment and for which there is no
 feasible method to satisfactorily mitigate or avoid the specific, adverse
 impact. (Ord. 2021-0035, § 3)
+Chapter 17.868
+Ministerial Approval of Development Projects of 10 or Fewer Dwelling Units on
+Urban Lots
+Sections:
+   
+17.868.010   Purpose and intent.
+   
+17.868.020   Application requirements.
+   
+17.868.030   General requirements.
+   
+17.868.040   Housing developments eligible for ministerial review under
+California Government_Code section 65852.28.
+   
+17.868.050   Subdivision maps eligible for ministerial review under California
+Government_Code section 66499.41.
+17.868.010   Purpose and intent.
+The purpose of this chapter is to comply with California Government_Code
+sections 65852.28 and 66499.41 related to housing developments and subdivision
+maps that are eligible for ministerial review. (Ord. 2025-0038 § 3)
+17.868.020 Application requirements.
+   A.   Administrative permit. A development project consisting of both a
+housing development and a subdivision map will be granted an administrative
+permit if it complies with the requirements of this chapter, except as provided
+in subsection F. An application made pursuant to this chapter must include both
+a housing development and subdivision map.
+   B.   Conflicting laws. In the case of a conflict between the standards in
+this chapter and standards set forth in California Government_Code sections
+65852.28 and 66499.41, the provisions of the California Government_Code
+prevail.
+   C.   Approval or denial. An application submitted pursuant to this chapter
+must either be approved or denied within 60 days from the date the city
+receives a complete application. If denied, the city shall provide the
+applicant with a written list of items that are defective or deficient and a
+description of how the applicant can remedy the application.
+   D.   Deemed approval. If the city does not deny the application in
+accordance with subsection C above, the project will be deemed to satisfy the
+requirements of this chapter and will be granted an administrative permit and
+administratively-approved tentative map.
+   E.   Time to resubmit. Notwithstanding section
+17.800.050, if an application for an administrative permit under this chapter
+is denied pursuant to subsection C above, a new application may be filed at any
+time.
+   F.   Findings for denial. An application made pursuant to this chapter may
+be denied for reasons unrelated to noncompliance with the requirements of this
+chapter if, based upon a preponderance of the evidence, the city determines the
+proposed housing development project or subdivision map would have a specific,
+adverse impact (as defined in California Government_Code section 65589.5,
+subdivision (d)(2)), upon public health and safety for which there is no
+feasible method to satisfactorily mitigate or avoid the specific, adverse
+impact. (Ord. 2025-0038 § 3)
+17.868.030 General requirements.
+   A.   An application under this chapter must be for a housing development and
+subdivision map located on a site that satisfies all the following—
+      1.   The site is located within one or more of following—
+         a.   R-1, R-1A, R-1B, R-2, R-2A, R-2B, R-3, R-3A, R-4, R-4A, R-5, RMX,
+RO, OB, OB-2, OB-3, EC, SC, C-1, C-2, C-3, or M-T zones;
+         b.   C-4, M-1, M-1(S), M-2, or M-2(S) zones located within the central
+city; or
+         c.   RE zone if the site is vacant (as defined in California
+Government_Code section 66499.41, subdivision (a)(2));
+      2.   The site meets the locational criteria in California Government_Code
+sections 65852.28 and 66499.41;
+      3.   The site was not established under this chapter, including a
+designated remainder parcel described in section
+17.868.050.A.2, or section
+17.864.030; and
+      4.   If located on a site identified in the city's 2021-2029 housing
+element, the site has a total capacity of 10 or fewer dwelling units, as shown
+in the housing element sites inventory table. (Ord. 2025-0038 § 3)
+17.868.040   Housing developments eligible for ministerial review under
+California Government Code section 65852.28.
+   A.   Development standards.
+      1.   Height. The maximum height of the applicable zone applies, unless
+that requirement would physically preclude a housing development proposed to be
+built to the density of 30 dwelling units per acre.
+      2.   Density.
+         a.   The maximum density is 10 dwelling units.
+         b.   Accessory dwelling units and junior accessory dwelling units are
+not included in the calculation of density.
+         c.   If located on a site not identified in the city's 2021-2029
+housing element—
+            i.   If the applicable zone includes a maximum density, the minimum
+density is the greater of the following—
+               (A)   66% of the maximum allowable residential density; or
+               (B)   19.8 dwelling units per acre;
+            ii.   If the applicable zone does not include a maximum density,
+the minimum density is 19.8 dwelling units per acre; and
+            iii.   The area of any designated remainder parcel described in
+section 17.868.050.A.2 is excluded from the calculation of residential density
+under this subsection.
+         d.   If located on a site identified in the city's 2021-2029 housing
+element—
+            i.   The minimum density is equal to the total capacity of dwelling
+units, as shown in the housing element site inventory table; and
+            ii.   All low or very low-income units specified in the city's
+2021-2029 housing element for that site are required for a period of at least
+45 years.
+      3.   Floor area ratio.
+         a.   If there are fewer than 3 dwelling units, the maximum floor area
+ratio standards established in the general plan apply, unless that requirement
+would physically preclude a housing development proposed to be built to the
+density of 30 dwelling units per acre.
+         b.   If there are 3 to 7 dwelling units, the maximum floor area ratio
+is 1.0, or the maximum floor area ratio established in the general plan,
+whichever is greater.
+         c.   If there are 8 to 10 dwelling units, the maximum floor area ratio
+is 1.25, or the maximum floor area ratio established in the general plan,
+whichever is greater.
+      4.   Maximum area. The average floor area of dwelling units may not
+exceed 1,750 net habitable square feet (as defined in Government_Code section
+66499.41, subdivision (a)(6)).
+      5.   Lot coverage. The lot coverage of the applicable zone applies,
+unless that requirement would physically preclude a housing development
+proposed to be built to the density of 30 dwelling units per acre.
+      6.   Setbacks.
+         a.   Front-yard setback. The front-yard setback of the applicable zone
+applies, unless that requirement would physically preclude a housing
+development proposed to be built to the density of 30 dwelling units per net
+acre.
+         b.   Interior side-yard setback. The minimum interior side-yard
+setback is four feet unless a less restrictive setback is required by the
+applicable zone.
+         c.   Street side-yard setback. The minimum street side-yard setback is
+four feet unless a less restrictive setback is required by the applicable zone.
+         d.   Rear-yard setback. The minimum rear-yard setback is four feet
+unless a less restrictive setback is required by the applicable zone.
+         e.   Notwithstanding subsections 6.a, 6.b, 6.c, and 6.d above-
+            i.   No setback is required for an existing structure, or a
+structure constructed in the same location and to the same dimensions as an
+existing structure.
+            ii.   No setback is required between dwelling units. All dwelling
+units must comply with the applicable standards in title 15 of the Sacramento
+City Code.
+   B.   Design standards. The city's objective design standards apply as
+provided for in California Government_Code section 65852.28 and as set forth in
+the Citywide Infill Housing Design Standards.
+   C.   Parking. No vehicle parking spaces are required. If any vehicle parking
+spaces are provided, they must comply with the applicable objective standards
+set forth in
+chapter 17.608.
+   D.   Other standards.
+      1.   Before issuance of a certificate of occupancy or final inspection
+for any dwelling unit with alley access, the alley must be named as required by
+the city and a street sign must be installed as required by the city.
+      2.   All other applicable city objective standards apply.
+      3.   All requirements of California Government_Code sections 65852.28 and
+66499.41 apply.
+      4.   All objective standards set forth in an applicable Airport Land Use
+Compatibility Plan, adopted pursuant to California Public Utilities Code
+sections 21670 through 21679.5, apply. (Ord. 2025-0038 § 3)
+17.868.050   Subdivision maps eligible for ministerial review under California
+Government Code section 66499.41.
+   A.   An application made pursuant to this chapter must include a subdivision
+map that satisfies all the requirements in California Government_Code section
+66499.41 and is subject to all the following:
+      1.   The site proposed to be subdivided must be—
+         i.   5 acres or less; or
+         ii.   1.5 acres or less if located within the RE zone.
+      2.   The proposed subdivision must result in 10 or fewer parcels, not
+including a designated remainder parcel, as defined in California Government
+Code section 66424.6, that—
+         i.   Retains existing land uses or structures;
+         ii.   Does not contain any new dwelling units; and
+         iii.   Is not exclusively dedicated to serving the housing development
+project
+      3.   The minimum parcel size is—
+         i.   600 square feet; or
+         ii.   1,200 square feet if located in the RE zone.
+      4.   There is no minimum or maximum standard for lot width, lot depth, or
+frontage.
+      5.   All applicable objective Subdivision Map Act and city map
+requirements apply.
+      6.   All parcels will be served by the city's water and sewer systems in
+accordance with title 13 of the Sacramento City Code.
+      7.   The California Building Standards Code, as set forth in title 24 of
+the California Code of Regulations and title 15 of the Sacramento City Code
+apply.
+      8.   The subdivision will not result in any existing dwelling unit being
+alienable separate from the title to any other existing dwelling unit on the
+site.
+   B.   The subdivider may sell, lease, or finance any parcel resulting from a
+subdivision under this section if the parcel is the subject of a valid or
+expired administrative permit for a housing development that complies with
+section
+17.868.040. This does not apply to a designated remainder parcel described in
+section
+17.868.050.A.2.
+   C.   A remainder parcel designated on a map for a subdivision under this
+section may not be sold until after—
+      1.   The final map for the subdivision approved under this section is
+recorded; and
+      2.   A certificate of compliance for the remainder parcel is recorded;
+provided, however, no application for the certificate of compliance for the
+remainder parcel may be filed before the final map is recorded.
+   D.   Subdivisions created in accordance with this chapter that result in
+four or more lots, not including a designated remainder parcel described in
+section
+17.868.050.A.2, may be further subdivided under section
+17.864.030. (Ord. 2025-0038 § 3)
 Chapter 17.876
 LOW BARRIER NAVIGATION CENTERS
 Sections:
@@ -145293,7 +145471,7 @@ No.
 2007- Amends §§ 17.20.010(A), 17.20.030; repeals and replaces Ch. 17.124, zoning
 101   (Repealed by 2013-0007)
 2007- Adds § 15.198.193, Sacramento Railyards special planning district (15.198)
-102
+102   (Repealed by 2025-0032)
 2007- Nominates and adds the Central Shops Historic District to the Sacramento Register
 103   of Historic and Cultural Resources (Repealed by 2016-0047)
 2007- Approves development agreement (Special)
@@ -145958,7 +146136,7 @@ No.
       2.60, 3.76, 5.32, 5.68, 5.80, 5.88, 5.108, 8.04, 8.68, 8.96, 8.100, 9.32, 9.44,
       10.44, 12.24, 12.52, 12.84, 13.04, 15.04, 15.08, 15.44, 15.48, 15.52, 15.72,
       15.88, 15.120, 15.144, 15.148, 15.156, 18.04, 18.16, 18.20, 18.24) (§ 2.60.070
-      repealed by 2024-0032)
+      repealed by 2024-0032; § 15.148.193 repealed by 2025-0032)
 2013- Repeals Ch. 2.100, solid waste advisory committee (Repealer)
 0022
 2013- Adds certain property to Sacramento Register of Historic & Cultural Resources
@@ -146208,7 +146386,7 @@ No.
 0010  15.148.810-15.148.820, 15.148.850-15.148.870, 15.148.900, 15.148.910, 15.148.940,
       15.148.990, 15.148.1010, 15.148.1030-15.148.1070, 15.148.1110, 15.148.1150 and
       15.148.1170; repeals §§ 15.148.880, 15.148.890, 15.148.920 and Ord. 2007-079,
-      signs (15.148)
+      signs (15.148) (§ 15.148.193 repealed by 2025-0032)
 2016- Amends §§ 3.100.090 and 3.112.090, payment of charge-effective date (3.100, 3.112)
 0011
 2016- Adds § 15.104.045 and Ch. 17.810; amends §§ 15.104.020, 17.108.070, 17.108.220 and
@@ -146281,7 +146459,7 @@ No.
 0044
 2016- Amends §§ 15.148.193, 17.108.220, 17.808.220 and 17.812.060; repeals and replaces
 0045  Ch. 17.440, railyards special planning district (15.148, 17.108, 17.440, 17.808,
-      17.812)
+      17.812) (§ 15.148.193 repealed by 2025-0032)
 2016- Rezone (Special)
 0046
 2016- Repeals Ord. 2007-103, Central Shops Historic District (Repealer)
@@ -146373,10 +146551,10 @@ No.
 2017- Amends §§ 17.108.140, 17.216.710,17.216.910, 17.220.110, 17.220.210, 17.220.310,
 0029  17.220.410, 17.220.510, 17.220.610; adds § 17.228.129, marijuana (17.108, 17.216,
       17.220, 17.228) (§ 17.228.129 repealed by Ord. 2017-0059)
-2017- Adds Art. VI to Ch. 5.150, §§ 5.150.860—5.150.1110; amends § 5.150.020, marijuana
-0030  manufacturing (5.150)
-2017- Adds Art. VI to Ch. 5.150, §§ 5.150.860-5.150.1110; amends § 5.150.020, marijuana
-0031  manufacturing (5.150)
+2017- Amending Section 5.150.020 and Adding Article VI of Chapter 5.150 to City Code
+0030  Relating to Marijuana Manufacturing Businesses
+2017- Amending Section 5.150.020 of, and Adding Article V of Chapter 5.150 to, the
+0031  Sacramento City Code, Relating to Marijuana Testing Laboratories
 2017- Amends contract with the California Public Employees' Retirement System (Special)
 0032
 2017- Amends § 10.76.010(B), bicycles on sidewalks (10.76)
@@ -146870,7 +147048,8 @@ No.
 2021- Rezone (Special)
 0014
 2021- Adds Ch. 15.38; amends §§ 17.108.060, 17.608.020(H), 17.608.040 and 17.608.060,
-0015  green building standards and electric vehicles (15.38, 17.108, 17.608)
+0015  green building standards and electric vehicles (15.38, 17.108, 17.608) (Ch. 15.38
+      repealed by 2025-0031)
       Amends §§ 5.04.010, 5.04.030-5.04.060, 5.04.080(B), 5.04.090-5.04.110, 5.04.130,
 2021- 5.04.170, 5.04.180, 5.04.210, 5.04.220, 5.04.260-5.04.290, 5.04.330(D) and (E),
 0016  17.228.210(J), 17.408.030(D)(3) and 17.409.030(D)(3); repeals and replaces Ch.
@@ -146990,8 +147169,8 @@ No.
 2022- 15.20.010-15.20.030, 15.24.010-15.24.030, 15.32.010-15.32.030 and 15.34.010-
 0026  15.34.030; repeals Ch. 15.28, building codes (15.04, 15.08, 15.20, 15.24, 15.32,
       15.34)
-2022- Amends Ch. 15.38; repeals Ch. 15.30, green building code (15.38)
-0027
+2022- Amends Ch. 15.38; repeals Ch. 15.30, green building code (15.38) (Repealed by
+0027  2025-0031)
 2022- Amends §§ 5.28.270 and 5.28.320, relating to the Sacramento Metropolitan Cable
 0028  Television Commis-sion (5.28)
 2022- Repeals and replaces Ch. 15.36, California Fire Code (Repealed by 2023-0014)
@@ -146999,7 +147178,7 @@ No.
 2022- Amends §§ 8.136.020 and 8.136.080, registration of vacant lots (8.136)
 0030
 2022- Adds §§ 15.24.040 and 15.24.050; amends § 15.24.030, alternate water systems
-0031  (15.24)
+0031  (15.24) (§§ 15.24.040 and 15.24.050 repealed by 2025-0031)
 2022- Amends § 3.28.180, use of transient occupancy tax receipts (3.28)
 0032
 2023- Tax levy (Special)
@@ -147263,6 +147442,25 @@ No.
 0029
 2025- Amends § 12.50.040, entertainment zone locations (12.50)
 0030
+2025- Amends §§ 15.04.040, 15.04.050, 15.08.010, 15.08.040, 15.08.060, 15.08.070, Ch.
+0031  15.20, Ch. 15.24, Ch. 15.32, and Ch. 15.34; repeals Ch. 15.38 (15.04, 15.08,
+      15.20, 15.24, 15.32, 15.34, 15.38)
+2025- Repeals § 15.148.193; adds § 15.148.193, railyards sign district (15.148)
+0032
+2025- Development agreement (Special)
+0033
+2025- Development agreement (Special)
+0034
+2025- Prezone (Special)
+0035
+2025- Amends § 15.148.191, ESC sign district (15.148)
+0036
+2025- Amends § 2.13.055, campaign contribution limitations (2.13)
+0037
+2025- Amends § 15.08.070; adds Ch. 17.868, development projects and permits (15.08,
+0038  17.868)
+2025- Rezone (Special)
+0039
       
  
  
