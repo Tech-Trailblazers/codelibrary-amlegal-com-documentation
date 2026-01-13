@@ -1,7 +1,7 @@
 CITY OF WASECA, MINNESOTA
 CODE OF ORDINANCES
-2025 S-26 Supplement contains:
-Local legislation current through Ordinance 1128, passed 7-1-2025
+2025 S-27 Supplement contains:
+Local legislation current through Ordinance 1130, passed 8-6-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -6639,13 +6639,18 @@ Bureau of Mines on any structure.
 (`86 Code, § 9.52) (Am. Ord. 785, passed 2-5-02) Penalty, see §
 91.99
 § 91.21 GRASS, WEEDS AND TREES IN STREETS.
-   (A)   The city shall have control and supervision over all shrubs and trees
-upon, or overhanging all streets, rights-of-way or other public property, and
-all grass plats upon streets or other public property.
+   (A)   The city shall have control and supervision over all vegetation,
+shrubs, and trees on, or overhanging all streets, rights-of-way, or other
+public property, and all grass plats upon streets, rights- of-way, or other
+public property.
    (B)   Every owner of property abutting on any street shall cause the grass
 and weeds to be cut from the property. If the grass or weeds in such a place
-attain a height in excess of six inches it shall be prima facie evidence of a
-failure to comply with this section.
+attain a height in excess of eight inches it shall be prima facie evidence of a
+failure to comply with this section. This section shall not apply to homeowners
+that have created a natural garden pursuant to Minnesota Statutes and have
+provided the city with notice of the same. Said notice shall advise the city of
+the area that will be used as a natural garden and include a list of the plant
+species that will be planted in that area.
    (C)   A permit must be obtained at City Hall before planting any tree in any
 right-of-way within the corporate limits of the city. Trees are to be purchased
 and planted by the property owner of the land abutting the right-of-way or by
@@ -6653,7 +6658,7 @@ the person retained by the property owner. Varieties of trees approved are
 trees of the hardwood variety, good appearance, adaptable to the climate, long
 life cycle and generally free from injurious insects and diseases. No person
 shall plant bushes, shrubs or hedges within a city right-of-way. The City
-Council shall adopt a tree planting permit policy within city rights-of-way.
+Council shall adopt a tree planting permit policy within city rights- of-way.
    (D)   The city will perform all trimming of right-of-way trees. Residents,
 through a permit process, may contract a tree service to trim an adjacent
 right-of-way tree. The property owner shall bear the entire cost of tree
@@ -6665,11 +6670,7 @@ property. Topping is defined as the severe cutting back of limbs to stubs
 within the tree’s crown to such a degree so as to remove the normal canopy and
 disfigure the tree. Any person or firm which has received approval for the
 trimming of trees on public property or right-of-way shall use trimming
-practices as outlined in the city’s tree policy. Trees severely damaged by
-storms or other causes, or certain trees under utility wires or other
-obstructions where other pruninq practices are impractical may be exempted from
-this subchapter according to city tree policy. Violation of this section shall
-be considered a misdemeanor.
+practices as outlined in the city’
       (2)   Every owner of any property upon which any tree overhanging any
 street or right-of-way is located, shall trim the branches of the tree in a
 manner that the branches shall not obstruct the light of any street light or
@@ -6710,7 +6711,7 @@ collected.
    (H)   No person shall willfully damage, injure, mar, deface or destroy any
 street tree, park tree or other trees on public property. Violation of this
 section shall be considered a misdemeanor.
-(Ord. 791, passed 5-7-02) Penalty, see §
+(Ord. 791, passed 5-7-02; Am. Ord. 1122, passed 4-15-25) Penalty, see §
 91.99
 § 91.22 NOISE, NOISY PARTIES OR GATHERINGS AND ELECTRONIC SOUND SYSTEM/AUDIO
 EQUIPMENT.
@@ -6770,7 +6771,7 @@ outside edge of the projected intersection of the designated shoulders in the
 case of rural design sections, or in the case of combination urban and rural
 design sections, the projected intersection of the gutter line and the
 projected outside edge of the shoulder.
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1148.gif]
  
 (Ord. 884, passed 12-6-05)
@@ -6871,7 +6872,9 @@ the city.
       (3)   Brushpiles which are fire hazards or otherwise detrimental to the
 health or appearance of a neighborhood.
    (C)   Grass, weeds and leaves; unkempt and/or unattended.
-      (1)   Any grass or weeds taller than six inches in height; or
+      (1)   Any grass or weeds taller than eight inches in height except for
+those planted within a natural garden area as prescribed in §
+91.21(B); or
       (2)   Grass clippings or leaves raked or placed in city streets or upon
 any city right-of-way.
       (3)   See also: city-adopted version of the 2024 IPMC, Section 302.4.
@@ -6959,7 +6962,7 @@ the person or property of anyone.
 91.20.
 (`86 Code, § 8.55) (Am. Ord. 687, passed 11-19-96; Am. Ord. 780, passed 11-20-
 01; Am. Ord. 792, passed 5-7-02; Am. Ord. 1016, passed 3-18-14; Am. Ord. 1117,
-passed 8-20-24)
+passed 8-20-24; Am. Ord. 1122, passed 4-15-25)
 Cross-reference:
    Adoption of International Property Maintenance Code, see §
 150.35
@@ -7526,6 +7529,10 @@ unless declared so by the right-of-way user.
 of-way.
    CITY. The City of Waseca, Minnesota. For purposes of §
 94.47, CITY means its elected officials, officers, employees and agents.
+   COLLOCATE or COLLOCATION. To install, mount, maintain, modify, operate, or
+replace a small wireless facility on, under, within, or adjacent to an existing
+wireless support structure or utility pole that is owned privately, or by the
+city or other governmental unit.
    CONSTRUCTION PERFORMANCE BOND. Any of the following forms of security
 provided at permittee’s option:
       (1)   Individual project bond;
@@ -7593,6 +7600,9 @@ and cost of litigation relating to the interpretation of Minnesota Session Laws
 1997, Chapter 123; M.S. §§ 237.162 or 237.163, as they may be amended from time
 to time, or any ordinance enacted under those sections, or the city fees and
 costs related to appeals taken pursuant hereto.
+   MICRO WIRELESS FACILITY. A small wireless facility that is no larger than 24
+inches long, 15 inches wide, and 12 inches high, and whose exterior antenna, if
+any, is not longer than 11 inches.
    OBSTRUCT. To place any tangible object in a right-of-way so as to hinder
 free and open passage over that or any part of the right-of-way.
    OBSTRUCTION PERMIT. The permit which, pursuant to this section, must be
@@ -7657,6 +7667,21 @@ ordinance to use the public right-of-way.
    SEASONAL RESTRICTION. A limitation on the approval of non-emergency
 excavation permits during the winter season as established in §
 94.27.
+   SMALL WIRELESS FACILITY. A wireless facility that meets both of the
+following qualifications:
+      (1)   Each antenna is located inside an enclosure of no more than six
+cubic feet in volume or, in the case of an antenna that has exposed elements,
+the antenna and all its exposed elements could fit within such an enclosure;
+and
+      (2)   All other wireless equipment associated with the small wireless
+facility provided such equipment is, in aggregate, no more than 28 cubic feet
+in volume, not including electric meters, concealment elements,
+telecommunications demarcation boxes, battery backup power systems, grounding
+equipment, power transfer switches, cutoff switches, cable, conduit, vertical
+cable runs for the connection of power and other services, and any equipment
+concealed from public view within or behind an existing structure or
+concealment.
+      (3)   A micro wireless facility.
    SUPPLEMENTARY APPLICATION. An application made to excavate or obstruct more
 of the right-of-way than allowed in, or to extend, a permit that had already
 been issued.
@@ -7669,6 +7694,8 @@ full restoration.
 equal to or greater than the width of the pavement.
    TWO-YEAR PLAN. Those projects adopted by the city for construction within
 the next two years as part of the city’s CIP.
+   UTILITY POLE. A pole that is used in whole or in part to facilitate
+telecommunications or electric service.
    UTILITY SERVICE.
       (1)   Those services provided by a public utility as defined in M.S. §
 216B.02 (4) and (6), as they may be amended from time to time;
@@ -7681,7 +7708,19 @@ provided by a local government unit;
       (5)   Those services provided by a cooperative electric association
 organized under M.S. Ch. 308A, as it may be amended from time to time; and
       (6)   Water, sewer, steam, cooling or heating services.
-(Ord. 732, passed 4-5-99; Am. Ord. 1100, passed 3-15-22)
+   WIRELESS FACILITY. Equipment at a fixed location that enables the provision
+of wireless services between user equipment and a wireless service network,
+including equipment associated with wireless service, a radio transceiver,
+antenna, coaxial or fiber-optic cable, regular and backup power supplies, and a
+small wireless facility, but not including wireless support structures,
+wireline backhaul facilities, or cables between utility poles or wireless
+support structures, or not otherwise immediately adjacent to and directly
+associated with a specific antenna.
+   WIRELESS SUPPORT STRUCTURE. A new or existing structure in a right-of-way
+designed to support or capable of supporting small wireless facilities, as
+reasonably determined by the city.
+(Ord. 732, passed 4-5-99; Am. Ord. 1070, passed 6-18-19; Am. Ord. 1100, passed
+3-15-22)
 § 94.21 ADMINISTRATION.
    The Director is the principal city official responsible for the
 administration of the rights-of-way, right-of-way permits and the ordinances
@@ -7787,8 +7826,9 @@ efforts to anticipate and plan for the project.
 (Ord. 732, passed 4-5-99)
 § 94.25 PERMIT REQUIREMENT.
    (A)   Except as otherwise provided in this code, no person may obstruct or
-excavate any right-of-way without first having obtained the appropriate right-
-of-way permit from the Director to do so.
+excavate any right-of-way, or install or place facilities in the right-of-way,
+without first having obtained the appropriate right-of-way permit from the
+Director to do so.
       (1)   Excavation permit. An excavation permit is required by a registrant
 to excavate that part of the right-of-way described in the permit and to hinder
 free and open passage over the specified portion of the right-of-way by placing
@@ -7805,6 +7845,12 @@ for the same project. An obstruction permit shall be required for the placing
 of such as construction materials, barricades, gravel, dirt, dumpsters or any
 other obstruction that precludes free and open passage of pedestrians or
 vehicles.
+      (3)   Small wireless facility permit. A small wireless facility permit is
+required by a registrant to erect or install a wireless support structure, to
+collocate a small wireless facility, or to otherwise install a small wireless
+facility in the specified portion of the right-of-way, to the extent specified
+therein, provided that such permit shall remain in effect for the length of
+time the facility is in use, unless lawfully revoked.
    (B)   No person may excavate or obstruct the right-of-way beyond the date or
 dates specified in the permit unless the person:
       (1)   Makes a supplementary application for another right-of-way permit
@@ -7818,7 +7864,8 @@ Director.
    (D)   Permits issued under this subchapter shall be conspicuously displayed
 or otherwise available at all times at the indicated work site and shall be
 available for inspection by the Director.
-(Ord. 732, passed 4-5-99; Am. Ord. 886, passed 10-18-05)
+(Ord. 732, passed 4-5-99; Am. Ord. 886, passed 10-18-05; Am. Ord. 1070, passed
+6-18-19)
 § 94.26 PERMIT APPLICATIONS.
    (A)   Application for a permit is made to the Director.
    (B)   Right-of-way permit applications shall contain and will be considered
@@ -7858,7 +7905,8 @@ situations will be considered.
 permit and the performance of the applicant thereunder to protect the health,
 safety and welfare or when necessary to protect the right-of-way and its
 current use.
-(Ord. 732, passed 4-5-99; Am. Ord. 1100, passed 3-15-22)
+(Ord. 732, passed 4-5-99; Am. Ord. 1070, passed 6-18-19; Am. Ord. 1100, passed
+3-15-22)
 § 94.28 PERMIT FEES.
    (A)   The excavation permit fee shall be established by the city in an
 amount consistent with Minnesota Public Utility Commission’s Rule 7919.1000.
@@ -7875,7 +7923,7 @@ for a breach are not refundable.
    (A)   Timing. The work to be done under the excavation permit, and the
 patching and restoration of the right-of-way as required herein, must be
 completed within the dates specified in the permit. New permits or permit
-extensions shall be only granted if work could not reasonably be completed due
+extensions shall only be granted if work could not reasonably be completed due
 to extraordinary circumstances beyond the control of the permittee.
    (B)   Patch and restoration. The permittee shall patch its own work. The
 city, at its sole discretion, may choose either to have the permittee restore
@@ -7990,12 +8038,13 @@ circumstances beyond the control of the permittee.
    (A)   Obtaining a right-of-way permit does not relieve permittee of its duty
 to obtain all other necessary permits, licenses and authority and to pay all
 fees required by the city or other applicable rule, law or regulation. A
-permittee shall comply with all requirements of local, state and federal laws,
-including M.S. §§ 216D.01 through 216D.09 (“One Call Excavation Notice
-System”), as they may be amended from time to time. A permittee shall perform
-all work in conformance with all applicable codes and established rules and
-regulations and is responsible for all work done in the right-of-way pursuant
-to its permit, regardless of who does the work.
+permittee shall comply with all requirements, including aesthetic requirements,
+of local, state and federal laws, including M.S. §§ 216D.01 through 216D.09
+(“One Call Excavation Notice System”), as they may be amended from time to
+time. A permittee shall perform all work in conformance with all applicable
+codes and established rules and regulations and is responsible for all work
+done in the right-of-way pursuant to its permit, regardless of who does the
+work.
    (B)   Except in an emergency, and with the approval of the Director, no
 right-of-way obstruction or excavation may be done when seasonally prohibited
 or when conditions are unreasonable for the work.
@@ -8007,7 +8056,7 @@ parked within or next to a permit area, unless parked in conformance with city
 parking regulations.
       (3)   The loading or unloading of trucks must be done solely within the
 defined permit area unless specifically authorized by the permit.
-(Ord. 732, passed 4-5-99)
+(Ord. 732, passed 4-5-99; Am. Ord. 1070, passed 6-18-19)
 § 94.33 DENIAL OF PERMIT.
    The Director may deny a permit for failure to meet the requirements and
 conditions of this subchapter or if the Director determines that the denial is
@@ -9292,15 +9341,15 @@ create custom cigars or cigar-like products.
    ELECTRONIC DELIVERY DEVICES. Any product containing or delivering nicotine,
 lobelia, or any other substance intended for human consumption that can be used
 by a person in the delivery of nicotine or any other substance through
-inhalation of vapor from the product. ELECTRONIC DELIVERY DEVICE includes any
-component part of such a product, whether or not sold separately. ELECTRONIC
-DELIVERY DEVICE shall not include any product that has been approved or
-otherwise certified by the United States Food and Drug Administration for legal
-sales for use in tobacco-cessation treatment or other medical purposes, and is
-being marketed and sold solely for that approved purpose.
-   LICENSED PRODUCTS. Collectively refers to any tobacco, tobacco-related
-device, tobacco-related product, electronic delivery device, or nicotine or
-lobelia delivery product.
+inhalation of aerosol or vapor from the product. ELECTRONIC DELIVERY DEVICE
+includes any component part of such a product, whether or not sold separately.
+ELECTRONIC DELIVERY DEVICE shall not include any product that has been approved
+or otherwise certified by the United States Food and Drug Administration for
+legal sales for use in tobacco-cessation treatment or other medical purposes,
+and is being marketed and sold solely for that approved purpose.
+   LICENSED PRODUCTS. The term that collectively refers to any tobacco,
+tobacco-related device, tobacco-related product, electronic delivery device, or
+nicotine or lobelia delivery product.
    NICOTINE OR LOBELIA DELIVERY PRODUCT. Any product containing or delivering
 nicotine or lobelia intended for human consumption, or any part of such a
 product, that is not tobacco or an electronic delivery device as defined in
@@ -12883,20 +12932,23 @@ city any cannon, gun, pistol or other firearm, firecracker, rocket or other
 fireworks, air gun, air rifle, or other similar device commonly referred to as
 a BB gun. This does not include fireworks approved by Minnesota State Statute.
 (Ord. 916, passed 11-21-06)
-§ 133.04 EXCEPTIONS.
+§ 133.04 EXCEPTION.
    (A)   Nothing in §
 133.02 shall prohibit the possession of the articles therein mentioned if the
 purpose of such possession is for public exhibition by museums or collectors of
 art.
    (B)   Nothing in §
-133.03 shall apply to a display of fireworks by an organization or group of
+133.03 shall apply to a display of fireworks by an organization or a group of
 organizations authorized in writing by the Council, or to a peace officer in
-the discharge of his duty, or to a person in the lawful defense of his person
-or family, or to the discharge of air guns, air rifles, or other similar
-devices commonly referred to as BB guns by participants in educational or
-training activities conducted by organizations approved by resolution of the
-City Council.
-(Ord. 916, passed 11-21-06)
+the discharge of his or her duty, or to a person in the lawful defense of his
+or her person, or to a governmental agency or its designee when the
+governmental agency is enacting a wildlife management plan in conjunction with
+either the Minnesota Department of Natural Resources or the U.S. Fish and
+Wildlife Service as approved by resolution of the City Council, or the
+discharge of air guns, air rifles, or other similar devices commonly referred
+to as BB guns by participants in educational or training activities conducted
+by organizations approved by resolution of the City Council.
+(Ord. 916, passed 11-21-06; Am. Ord. 1120, passed 3-4-25)
 § 133.05 POSSESSION AND SALE OF FIREWORKS.
    It is unlawful for any person to sell, or have in possession, for any
 purpose other than as allowed in §
@@ -14292,7 +14344,7 @@ areas to be platted shall be provided by the Community Development Director.
 These recommendations will be included in plans provided to the Waseca City
 Council with the preliminary plat.
    (B)   Classification width.
-      (1)   Residential districts, five feet;
+      (1)   Residential districts, five feet; and
       (2)   Commercial districts, eight feet; and
       (3)   Industrial districts, five feet.
    (C)   Sidewalks shall slope 1.5% away from the property line (cross slope)
@@ -14490,8 +14542,7 @@ be within a drainage easement.
       (2)   Preliminary street grades and drainage;
       (3)   Centerline street elevations at 100 foot stations with high and low
 points; and
-      
-      (4)   Cul-de-sac frontage along property lines with spot elevations.
+      (4)   Cul-de-sac frontages along property lines with spot elevations.
    (E)   Street grade. Centerline street gradients shall be in accordance with
 §
 151.045.
@@ -15243,28 +15294,30 @@ foot per linear foot of business frontage.
 I-1, Limited Industry or B-1, Central Business District.
       (2)   On property zoned B-3, Limited Business, pylon signs shall be
 allowed only on property that has frontage directly on State Street or Elm
-Avenue, or any frontage road thereof.
+Avenue, or any frontage road thereof. The support pole of the pylon sign shall
+be concealed with a decorative shroud.
       (3)   Maximum sign area and height:
  
-Lot Area         Maximum Height Pylon Sign Maximum Area (feet squared)
-(feet squared)
-Less than 6,000  20             50
-6,000 - 12,000   24             80
-12,000 - 24,000  28             120
-24,000 - 48,000  32             160
-More than 48,000 36             180
+Lot Area         Maximum Height (feet) Pylon Sign Maximum Area (square feet)
+(square feet)
+Less than 6,000  20                    50
+6,000 - 12,000   24                    80
+12,000 - 24,000  28                    120
+24,000 - 48,000  32                    160
+More than 48,000 36                    180
  
       (4)   Maximum number per business: one per 300 feet of business lot
 frontage. (One for frontage up to 300 feet with additional sign allowed for
 every 300 feet beyond initial 300-foot frontage.)
       (5)   Minimum setback, pylon sign: pylon structure shall be situated
 within lot line boundaries. In all other areas, no sign attached to a pylon
-structure shall project over the public right-of-way.
+structure shall project over the public right-of-way. The support pole of the
+pylon sign shall be concealed with a decorative shroud.
    (D)   Building face sign maximum.
-      (1)   Two feet squared per linear foot of business frontage;
-      (2)   One foot squared for each front foot of building siding on a street
+      (1)   Two square feet per linear foot of business frontage;
+      (2)   One square foot for each front foot of building siding on a street
 (side of corner lot);
-      (3)   One foot squared for each linear foot of building rear, viewable by
+      (3)   One square foot for each linear foot of building rear, viewable by
 pedestrians or vehicular traffic; and
       (4)   Maximum area for any building face sign shall be 100 square feet in
 central business and neighborhood business district and 180 square feet in
@@ -15319,7 +15372,7 @@ south of 2nd Avenue South, the lots between State Street and a line that
 corresponds to the easterly line of the above noted alleys, as shown in Figure
 1.
 Figure 1. Electronic Message Boards Prohibited
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1428.jpg]
  
       (11)   Existing electronic message signs/boards shall meet the
@@ -15389,8 +15442,9 @@ sign or one Level 2 special informational sign, but not both. Where a building
 contains more than one tenant, the maximum number of projecting sign and Level
 1 or Level 2 special informational sign combinations indicated above is per
 building rather than per individual business.
-   (M)   Billboard; highway business and industrial areas only.
-      (1)   Maximum area, 350 feet squared;
+   (M)   Billboard; permitted only on property zoned I-2, Moderate Industry
+District.
+      (1)   Maximum area, 350 square feet;
       (2)   Maximum height, 25 feet;
       (3)   Minimum setback from highway right-of-way, 45 feet; and
       (4)   Minimum spacing, 600 feet, with 600-foot buffer between residential
@@ -15432,8 +15486,8 @@ exceed the maximum area for a building face sign;
 inlcuding recommendations from the Historical Preservation Commission, and the
 Waseca Planning Commission.
 (`86 Code, § 9.83) (Ord. 779, passed 11-20-01; Am. Ord. 926, passed 6-5-07; Am.
-Ord. 973, passed 11-1-11; Am. Ord. 976, passed 12-6-11; Am. Ord. 988, passed
-11-5-13)
+Ord. 973, passed 11- 1-11; Am. Ord. 976, passed 12-6-11; Am. Ord. 988, passed
+11-5-13; Am. Ord. 1122, passed 4-15-25)
 § 152.12 PERFORMANCE STANDARDS; RESIDENTIAL AREAS.
    (A)   Wall signs; maximum area.
       (1)   Two square feet, single-family to four-plex identification signs
@@ -16595,7 +16649,7 @@ this chapter of physical regulations are for illustrative purposes only, and
 may not be consistent with all listed requirements. In all cases, the
 dimensional requirement text of this chapter shall control.
 (Ord. 1040, passed 1-5-16; Am. Ord. 1128, passed 7-1-25)
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1733.jpg]
  
 RESIDENTIAL DISTRICTS
@@ -16665,15 +16719,15 @@ units                            --  C   C   --  --  154.109 -
 Manufactured (mobile) home parks --  C   C   C   P   154.109 -
                                                      154.143
 Over-night care facility or                          §§
-group home, state- licensed or   P   P   C   C   --  154.109 -
+group home, state-licensed or    P   P   C   C   --  154.109 -
 non-licensed, serving 6 or fewer                     154.143
 persons
 Over-night care facility or                          §§
-group home, state- licensed or   --  C   C   C   --  154.109 -
+group home, state-licensed or    --  C   P   P   --  154.109 -
 non-licensed, serving 7 through                      154.143
 16 persons
                                                      §§
-Seniors’ housing               --  C   C   P   --  154.109 -
+Senior housing                   --  C   C   P   --  154.109 -
                                                      154.143
                                                      §§
 Single-family detached dwellings P   P   --  --  --  154.109 -
@@ -16757,7 +16811,8 @@ Swimming pools; hot tubs              P   P   P   P   P   154.148 -
 Wind energy conversion systems        C   C   --  --  --  154.148 -
                                                           154.169
  
-(Ord. 1040, passed 1-5-16; Am. Ord. 1103, passed 9-20-22)
+(Ord. 1040, passed 1-5-16; Am. Ord. 1103, passed 9-20-22; Am. Ord. 1122, passed
+4-15-25)
 § 154.015 R-1, SUBURBAN RESIDENTIAL DISTRICT.
    (A)   Purpose. The purpose of this district is to allow low-density single-
 family detached dwellings in the developing portions of the city where city
@@ -16936,15 +16991,15 @@ shall equal the front setback of the adjacent house.
  
 Table 4-8: Minimum Lot Dimensions, R-2 District
  
-                                         Area   Width Depth
-Single-family detached dwelling          8,000  66    120
-   Non-corner lot                     10,800 90    120
+                                                  Area   Width Depth
+Single-family detached dwelling                   8,400  70    120
+   Non-corner lot                              10,800 90    120
    Corner lot
-Two- or three-family dwelling (per unit) 5,000  120   120
-Townhouse (per dwelling unit)            4,000  --    --
-Apartment building (per dwelling unit)   3,000  --    --
-   Seniors’ housing                 2,000
-   Apartments                         4,000  --    --
+Two- or three-family dwelling (per dwelling unit) 5,000  50    100
+Townhouse (per dwelling unit)                     4,000  --    --
+Apartment building (per dwelling unit)            3,000  --    --
+   Senior housing                              2,000
+   Apartments                                  4,000  --    --
    Townhouses
  
 Table 4-9: Maximum Structure Height, R-2 District
@@ -17008,7 +17063,7 @@ to all uses are presented in §§
 154.148 through
 154.169, General Development Requirements.
 (Ord. 1040, passed 1-5-16; Am. Ord. 1078, passed 7-21-20; Am. Ord. 1109, passed
-8-15-23)
+8-15-23; Am. Ord. 1122, passed 4-15-25)
 § 154.017 R-3, MULTI-FAMILY DISTRICT, LOW AND MEDIUM DENSITY.
    (A)   Purpose. The major purpose of this district is to allow low-density
 multi-family dwelling (two to 15 units), including apartments and townhouses in
@@ -17077,10 +17132,10 @@ setback shall equal the front setback of the adjacent house.
 Table 4-12: Minimum Lot Dimensions, R-3 District
  
                                                   Area  Width Depth
-Two- or three-family dwelling (per dwelling unit) 5,000 120   120
+Two- or three-family dwelling (per dwelling unit) 5,000 50    100
 Townhouse (per dwelling unit)                     4,000 --    --
 Apartment building (per dwelling unit)            3,000 --    --
-Seniors’ housing (per unit)                     1,750
+Senior housing (per unit)                         1,750
    Apartments                                  3,750 --    --
    Townhouses
  
@@ -17145,7 +17200,8 @@ that have specific requirements.
    (I)   General development requirements. See §§
 154.148 through
 154.169, General Development Requirements.
-(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23)
+(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23; Am. Ord. 1122, passed
+4-15-25)
 § 154.018 R-4, MULTI-FAMILY DISTRICT, HIGH DENSITY.
    (A)   Purpose. The major purpose of this district is to allow multi-family
 dwellings (15 or more units), including apartments and townhouses in
@@ -17203,12 +17259,12 @@ setback shall equal the front setback of the adjacent house.
  
 Table 4-16: Minimum Lot Dimensions, R-4 District
  
-                                       Area  Width Depth
-Two- or three-family dwelling          5,000 120   120
-Townhouse (per dwelling unit)          4,000 --    --
-Apartment building (per dwelling unit) 3,000 --    --
-Seniors’ housing                     1,500
-   Apartments                       3,500 --    --
+                                                  Area  Width Depth
+Two- or three-family dwelling (per dwelling unit) 5,000 50    100
+Townhouse (per dwelling unit)                     4,000 --    --
+Apartment building (per dwelling unit)            3,000 --    --
+Senior housing                                    1,500
+   Apartments                                  3,500 --    --
    Townhouses
  
 Table 4-17: Maximum Structure Height, R-4 District
@@ -17270,7 +17326,8 @@ that have specific requirements.
 to all uses are presented in §§
 154.148 through
 154.169, General Development Requirements.
-(Ord. 1040, passed 1-5-16)
+(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23; Am. Ord. 1122, passed
+4-15-25)
 § 154.019 R-M, MANUFACTURED HOME COMMUNITY DISTRICT.
    (A)   Purpose. The purpose of this district is to allow manufactured or
 mobile home communities in appropriate areas of the city.
@@ -17438,6 +17495,7 @@ sales                            --  P   P   --   154.109 -
 Cultural facilities including
 museums, libraries, art studios  P   P   P   --    
 and art galleries
+Custom meat processing           --  --  C   C     
                                                   §§
 Day care, commercial child       P   P   P   --   154.109 -
                                                   154.144
@@ -17458,8 +17516,8 @@ Hotel or motel                   P   P   --  P     
                                                   §§
 Kennel, commercial               --  --  --  P    154.109 -
                                                   154.144
-Lower-potency hemp edible        P   P   P   P    § 154.145
-retailer
+Lower-potency hemp edible        P   P   P   P    §
+retailer                                          154.145
 Mixed-use building, commercial   P   P   P   --    
 and residential
 Nursing homes                    P   P   P   --    
@@ -17539,8 +17597,8 @@ businesses
 Wind energy systems          --  C   --  C    154.109 -
                                               154.144
  
-(Am. Ord. 1086, passed 4-20-21; Am. Ord. 1109, passed 8-12-23; Am. Ord. 1118,
-passed 6-3-25)
+(Am. Ord. 1086, passed 4-20-21; Am. Ord. 1107, passed 4-18-23; Am. Ord. 1109,
+passed 8-12-23; Am. Ord. 1118, passed 6-3-25)
 § 154.023 B-1, CENTRAL BUSINESS DISTRICT.
    (A)   Purpose. The B-1 District is intended to allow a mixture of retail
 and/or service businesses, civic and governmental institutions, housing above
@@ -17879,8 +17937,8 @@ Cannabis businesses: cultivator
 (including medical),
 manufacturer (including medical
 and lower-potency hemp edible),
-mezzobusiness (excluding retail  --  P            § 154.145
-sales), testing facility,
+mezzobusiness (excluding retail  --  P            §
+sales), testing facility,                         154.145
 wholesaler, transporter,
 microbusiness (excluding retail
 sales) and medical combined
@@ -17889,6 +17947,7 @@ Cellular telephone relay                          §§
 facilities                       C   C            154.109 -
                                                   154.144
 Construction trades shops        P   P             
+Custom meat processing           C   C             
 Distillation of bone, coal, tar, --  --            
 petroleum, grain or wood alcohol
 Drugs and pharmaceutical         C   P             
@@ -18005,7 +18064,8 @@ Wind energy conversion systems      P   P            154.148 -
                                                      154.169
  
 (Ord. 1040, passed 1-5-16; Am. Ord. 1083, passed 11-17-20; Am. Ord. 1098,
-passed 9-21-21; Am. Ord. 1116, passed 8-20-24; Am. Ord. 1118, passed 6-3-25)
+passed 9-21-21; Am. Ord. 1107, passed 4-18-23; Am. Ord. 1116, passed 8-20-24;
+Am. Ord. 1118, passed 6-3-25)
 § 154.030 I-1, LIMITED INDUSTRY DISTRICT.
    (A)   Purpose. The purpose of the I-1, Limited Industry District is to
 provide locations for light industrial, office, logistics and business service
@@ -18098,7 +18158,7 @@ Conditional Uses. Refer also to §§
       (2)   Manufacturing or bulk storage of explosives;
       (3)   Fertilizer manufacturing, compost or storage processing of garbage,
 offal, dead animals, refuse or rancid fats;
-      (4)   Livestock feeding yards, slaughter houses or processing plants; and
+      (4)   Livestock feeding yards, slaughter houses or rendering plants; and
       (5)   Any industry that creates an excessive odor, noise or air pollution
 problem.
    (F)   Dimensional requirements.
@@ -18145,8 +18205,8 @@ to all uses are presented in §§
 154.148 through
 154.169, General Development Requirements. All buildings are subject to the
 exterior building requirements section of the General Development Requirements.
-(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23; Am. Ord. 1116, passed
-8-20-24; Am. Ord. 1118, passed 6-3-25)
+(Ord. 1040, passed 1-5-16; Am. Ord. 1107, passed 4-18-23; Am. Ord. 1109, passed
+8-15-23; Am. Ord. 1116, passed 8-20-24; Am. Ord. 1118, passed 6-3-25)
 URBAN AND RURAL SERVICE DISTRICTS
 § 154.032 URBAN AND RURAL SERVICE DISTRICTS.
    (A)   Establishment of tax districts. Pursuant to M.S. § 272.67, the City of
@@ -20315,7 +20375,7 @@ Public Welfare, Public Welfare Manual 11-31-30 as adopted or amended.
    (C)   The minimum lot size for a commercial daycare facility shall be 30,000
 square feet.
    (D)   Where a commercial daycare facility immediately abuts any residential
-use ore zoning district, a visual screen, at least six feet in height, shall be
+use or zoning district, a visual screen, at least six feet in height, shall be
 constructed along or near the shared property line. Screening materials may
 include a combination of fences, plants, raised planters, masonry walls or
 other screening devices that meet the intent of this requirement.
@@ -21410,7 +21470,7 @@ streets within the shaded area of the clear sight triangle shown below.
 back from the imaginary line of the extended curb as shown below. If there are
 no curbs, the measurement will be from the point of intersection of the
 pavement.
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1735.jpg]
  
    (B)   Corners less than 90 degrees. For lots with an interior angle of less
@@ -21449,13 +21509,11 @@ lanes and shall have a maximum slope of 10%. The City Engineer may, at their
 discretion, allow adjustments to commercial, industrial, and institutional
 driveway widths, flares, or radii to accommodate large trucks.
 Figure 15-1: Residential Driveway Detail
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1867.png]
  
-      (5)   The maximum width of a driveway when located in front of the living
-portion of a house shall be 12 feet.
-   (B)   Building access by fire emergency vehicles.
-      (1)   Driveways shall be installed and sites shall be designed to meet
+   (B)    Building access by fire emergency vehicles.
+      (1)    Driveways shall be installed and sites shall be designed to meet
 the requirements of § 503 of the Minnesota Fire Code. Generally, this means
 that a fire truck must be able to park within working distance of a water
 source and still be within 150 feet of any portion of the exterior wall of a
@@ -21483,7 +21541,8 @@ for multiple-family housing developments.
    (F)   Minimum length of driveways. Any driveway terminating at a garage
 shall provide at least 20 feet of parking space between the garage door and a
 property boundary line, a sidewalk or a private access road.
-(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23)
+(Ord. 1040, passed 1-5-16; Am. Ord. 1109, passed 8-15-23; Am. Ord. 1122, passed
+4-15-25)
 § 154.156 EROSION CONTROL AND STORMWATER MANAGEMENT.
    (A)   Purpose.
       (1)   During the construction process, soil is highly vulnerable to
@@ -21511,9 +21570,9 @@ the NPDES construction general permit, as amended, and the filing or approval
 requirements of the Waseca Soil and Water Conservation District.
       (3)   Stormwater management plan.
          (a)   All parties responsible for a project that creates and
-reconstructs to a combined total of one acre or more of impervious surfaces
-must adhere to the stormwater management standards and specifications of this
-chapter, the city’s current MS5 Permit, and the city’s engineering design
+reconstructs a combined total of one acre or more of impervious surfaces must
+adhere to the stormwater management standards and specifications of this
+chapter, the city’s current MS4 Permit, and the city’s engineering design
 standards.
          (b)   Stormwater management plans shall also be consistent with the
 NPDES construction general permit, as amended, and the filing or approval
@@ -21623,9 +21682,9 @@ maintenance needs by performing all necessary work to place the stormwater
 practices in proper working condition. In the event that the stormwater
 practice becomes a danger to public safety or public health, the city shall
 notify the responsible party in writing. Upon receipt of that notice, the
-responsible party shall have thirty days to perform maintenance and repair of
-the facility in an approved manner. After proper notice, the city may specially
-assess the owner(s) of the stormwater practices for the costs of conducting an
+responsible party shall have 30 days to perform maintenance and repair of the
+facility in an approved manner. After proper notice, the city may specially
+assess the owner(s) of stormwater practices for the costs of conducting an
 inspection, maintenance, and repair work, and any applicable penalties, and
 those costs shall be assessed against the property and collected along with
 ordinary taxes by the county.
@@ -21745,9 +21804,10 @@ existing floor area and parking lot expansions less than 50% of the existing
 parking area. Individual detached (single-family) houses are exempt from this
 landscaping section except for sub-section (C), below. Plats that create lots
 for more than one detached house are subject to these regulations, however.
-   (C)   Plantings for single-family detached houses. Single-family detached
-houses shall have at least one overstory tree per house, with a minimum caliper
-size of 2.0 inches.
+   (C)   Plantings for single-family detached houses, twin homes, duplexes, and
+triplexes. Single-family detached houses, twin homes, duplexes, and triplexes
+shall have at least one overstory tree per dwelling unit, with a minimum
+caliper size of 2.0 inches.
    (D)   Planting plan required. Each application for site plan review shall
 include a planting plan, drawn to scale by a professional landscape architect
 or nursery landscape designer, which shall address:
@@ -21795,8 +21855,6 @@ olive, and Buckthorn.
 street edge: aspen, apple, black locust, black walnut, butternut, catalpa,
 cherry, Douglas fir, fir, juniper, larch, mulberry, plum, poplar, spruce,
 willow and yew.
-      (5)   Sod. Sod shall be used in boulevard areas rather than seed to
-establish turf grass.
    (F)   Tree and woodland protection.
       (1)   Natural forest and woodland areas shall be preserved to the extent
 practical, and substantial tree stands shall be incorporated into site
@@ -21919,11 +21977,11 @@ minimum rate shown in Table 15-2, Number of Overstory Trees Required, above.
 berms, raised planters, mason ry walls, or other screening devices that meet
 the intent of this requirement.
 Figure 15-1: Illustration of parking lot perimeter screening
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1737.jpg]
  
 Figure 15-2: Perimeter landscaping required between a parking lot and a street
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1739.jpg]
  
       (3)   Islands in parking lots.
@@ -22035,7 +22093,7 @@ proper proceedings for the abatement thereof.
 such a manner that no barbed ends shall be at the top except in industrial
 districts, or on public property for security purposes.
          (d)   That side of the fence considered to be the face (the side
-opposite the post) shall face abutting property, except for farm fences.
+opposite the post) shall face abutting property.
          (e)   No person shall construct or erect any electrical or barbed wire
 fence, except for Essential Services for which security is imperative or to
 contain intensively used facilities for raising animals.
@@ -22067,7 +22125,7 @@ abutting lot, that portion of the rear lot line equal to the front setback of
 the house on the abutting lot shall not be fenced to a height of more than four
 feet. If the abutting lot is undeveloped, the height of the rear lot fence
 shall be reduced at the normal front setback line.
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1741.jpg]
  
    Figure 15-3: Fence height limitations where a rear lot line abuts a side lot
@@ -22083,9 +22141,11 @@ construction, height, or length may be permitted in any non-residential
 district by issuance of a building permit from the Community Development
 Department. Findings shall be made that the fence is necessary to protect,
 buffer, or improve the premises for which the fence is intended.
-      (4)   Seasonal/snow fencing. The allowed duration for putting up a
-seasonal or snow fence is between November 1 and March 31 of every year.
-(Ord. 1040, passed 1-5-16; Am. Ord. 1098, passed 9-21-21)
+      (4)   Seasonal/snow fencing.
+         (a)   The allowed duration for putting up a seasonal or snow fence is
+between November 1 and March 31 of every year.
+(Ord. 1040, passed 1-5-16; Am. Ord. 1098, passed 9-21-21; Am. Ord. 1122, passed
+4-15-25)
 § 154.160 LIGHTING, EXTERIOR.
    (A)   Generally. In all districts, any lighting used to illuminate an off-
 street parking area, sign or other structure shall be arranged so as to deflect
@@ -22509,10 +22569,10 @@ specific development requirements for this chapter.
 right-of-way.
       (4)   A zoning permit and a site plan shall be submitted for review for
 secondary parking.
-      (5)   Example. Frame the outline of the area with two x three landscape
-timbers to the desired height, anchored into the ground with re-rod, and fill
-the area with crushed rock. See Figure 15-2.
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+      (5)   Example. Frame the outline of the area with 2x3 landscape timbers
+to the desired height, anchored into the ground with re-rod, and fill the area
+with crushed rock. See Figure 15-2.
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1865.png]
  
 (Ord. 1040, passed 1-5-16; Am. Ord. 1098, passed 9-21-21)
@@ -23322,16 +23382,16 @@ materially alter items approved in the Development Plan; and/or
          (e)   Major changes are proposed that could potentially create an
 adverse impact on stormwater quality, stormwater quantity management, or other
 stormwater management ordinance requirements.
-      (2)   If, in the opinion of the Community Development and
-EngineeringDepartments, a proposed change will substantially affect the terms
-of the original approval or would result in significant adverse impacts on the
+      (2)   If, in the opinion of the Community Development and Engineering
+Departments, a proposed change will substantially affect the terms of the
+original approval or would result in significant adverse impacts on the
 surrounding properties or the city at large, then a re-submittal of a new
 development plan may be required pursuant to the provisions of this section.
    (G)   Time limit. Unless a written extension request is submitted and
 approved by the Community Development and Engineering Departments, an approved
 site plan shall expire upon either:
       (1)   A new site plan for the property is submitted to and approved by
-the Community Development Department; or
+the Community Development and Engineering Departments; or
       (2)   A building permit has not been issued within one year from the date
 of site plan approval.
    (H)   Inspection and enforcement. Prior to issuance of a certificate of
@@ -24353,7 +24413,7 @@ horizontal surface area of impervious surface on a given lot.
 connecting the midpoint of the front lot line to the midpoint of the rear lot
 line, or to the rear most point of the lot when there is no rear lot line (see
 Figure 17-1 for examples).
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1743.jpg]
  
          (f)   Lot or street frontage. In the case of a building lot abutting
@@ -24375,7 +24435,7 @@ two side lot lines along the edge of the lot opposite from the front line.
 the front and rear lot lines regardless of whether it abuts a right-of-way or
 another lot line.
    Figure 17-2: Yards, lot lines and building lines
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1745.jpg]
  
          (h)   Lot types.
@@ -24399,7 +24459,7 @@ frontage on a street other than an alley.
             7.   Unit lot. A specialized lot created within a base lot simply
 for the purpose of defining ownership for certain multi family dwelling types.
    Figure 17-3: Types of lots
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1747.jpg]
  
          (i)   Lot width.
@@ -24408,7 +24468,7 @@ the endpoints determined by the intersection of the side lot lines and the
 required front yard setback.
             2.     The width of a corner lot shall be calcula ted from the side
 with the least frontage on a right-of -way.
-[https://export.amlegal.com/media/1d416050d10f78a23db0d0b048bee34fe59730db/
+[https://export.amlegal.com/media/280ce75c981ec6369c7ca3de474db16cc010d409/
 IMAGES/0-0-0-1749.jpg]
  
       Figure 17-4: The gray lines in Figure 17-4 run along the required front
@@ -24875,6 +24935,10 @@ CONVENIENCE STORE usually includes auto fuel sales but not vehicle repair. A
 car wash may be allowed as an accessory use.
    CREMATORY. A facility containing furnaces for the reduction of dead bodies
 to ashes by fire.
+   CUSTOM MEAT PROCESSING. A facility for the indoors-only processing of meat
+and poultry for wholesale and retail sales, including activities related to the
+cutting, smoking, grinding, and packaging of meat and poultry products, but
+specifically excluding slaughtering or rendering.
    DAY CARE OF NON-RESIDENTIAL CARE PROGRAM. Care, supervision, rehabilitation,
 training or habilitation of a person provided outside the person’s own home and
 provided for fewer than 24 hours a day, including adult day care programs. NON-
@@ -25216,6 +25280,10 @@ and products, and perform other actions authorized under a medical cannabis
 combination license pursuant to M.S. Chapter 342.
    METES AND BOUNDS. A method of property description by means of their
 direction and distance from an easily identifiable point.
+   MIXED-USE BUILDING. A building that may include commercial and residential
+land uses in one building or a series of buildings. Commercial, office, and
+residential land uses are permitted on the ground floor and/or the upper
+floors.
    MOBILE HOME. See MANUFACTURED HOME.
    MODULAR HOME. A non-mobile housing unit that is basically fabricated at a
 central factory and transported to a building site where final installations
@@ -25709,7 +25777,8 @@ not, for which the property lines are coincident with the outer walls of the
 building on one or more sides. May include single-family detached or townhouse
 dwelling units but not condominium apartments.
 (Ord. 1040, passed 1-5-16; Am. Ord. 1050, passed 9-20-16; Am. Ord. 1078, passed
-7-21-20; Am. Ord. 1113, passed 2-20-24; Am. Ord. 1118, passed 6-3-25)
+7-21-20; Am. Ord. 1107, passed 4-18-23; Am. Ord. 1113, passed 2-20-24; Am. Ord.
+1118, passed 6-3-25; Am. Ord. 1122, passed 4-15-25)
 CHAPTER 155: HERITAGE PRESERVATION COMMISSION
 Section
    
@@ -26139,6 +26208,9 @@ Ord. No. Date Passed Description
                      Foods Packaged Foods, LLC
 1093     9-21-2021   Annexing property that abuts the city from Woodville
                      Township
+                     Annexing property that abuts the city from Woodville
+1129     8-6-2025    Township, Parcel ID No. 120170200, owned by Bernard
+                     Matejcek
                     
  
 TABLE II: FRANCHISE AGREEMENTS
@@ -26449,6 +26521,8 @@ No.  Passed
      5-20-  Rezoning real property at Parcel Nos. 170170850, 170200850, and 170170875
 1125 2025   from R-3, Multi-Family District, Low and Medium Density to R-2, Urban
             Residential District
+1130 8-6-   Adding a Heritage Preservation District Overlay designation to the Waseca
+     2025   Commercial Historic District
            
  
 TABLE VIII: RATES AND CHARGES; PENALTIES
@@ -27405,6 +27479,10 @@ Ord. No. Date Passed Code Section
                      111.08,
                      111.10,
                      111.12
+                     94.20,
+1070     6-18-19     94.25,
+                     94.27,
+                     94.32
 1071     5-7-19      96.04
 1072     7-16-19     T.S.O. II
 1073     7-16-19     T.S.O. II
@@ -27462,6 +27540,10 @@ Ord. No. Date Passed Code Section
                      154.178
 1105     3-21-23     T.S.O. VII
 1106     3-21-23     T.S.O. V
+                     154.022,
+1107     4-18-23     154.029,
+                     154.031,
+                     154.202
 1108     7-18-23     T.S.O. XI
                      154.015 -
                      154.018,
@@ -27497,14 +27579,26 @@ Ord. No. Date Passed Code Section
                      154.031,
                      154.145,
                      154.202
+1120     3-4-25      133.04
 1121     4-1-25      50.04,
                      52.05
+                     91.21,
+                     91.37,
+                     152.11,
+                     154.014,
+1122     4-15-25     154.016 -
+                     154.018,
+                     154.155,
+                     154.159,
+                     154.202
 1124     5-20-25     T.S.O. VII
 1125     5-20-25     T.S.O. VII
 1126     6-17-25     T.S.O. V
 1127     6-3-25      T.S.O. III
 1128     7-1-25      154.012,
                      154.032
+1129     8-6-25      T.S.O. I
+1130     8-6-25      T.S.O. VII
                     
  
  
