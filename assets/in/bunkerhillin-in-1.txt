@@ -1,6 +1,8 @@
 TOWN OF BUNKER HILL, INDIANA
 CODE OF ORDINANCES
-Local legislation current through ordinace 1, 2018, passed 4-22-2024
+2025 S-1 Supplement contains:
+Local legislation current through Ord. 4, 2018, passed 8-11-2025
+State legislation current through 2025 ALS Pamphlet #3
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -133,26 +135,30 @@ representing words and letters. Where the written signature of a person is
 required, the terms mean the proper handwriting of the person or the person’s
 mark.
       YEAR. One calendar year, unless otherwise expressly provided.
-(I.C. 1-1-4-5)
+Statutory reference:
+   For similar provisions under state law, see I.C. 1-1-4-5
 § 10.06 SEVERABILITY.
-   (A)   If any section of this code now enacted or subsequently amended or its
-application to any person or circumstances is held invalid, the invalidity does
-not affect other sections that can be given effect without the invalid section
-or application.
-   (B)   Except in the case of a section or amendment to this code containing a
+   (A)   If any provision of this code as now or later amended or its
+application to any person or circumstance is held invalid, the invalidity does
+not affect other provisions that can be given effect without the invalid
+provision or application.
+   (B)   (1)   Except in the case of an amendment to this code containing a
 nonseverability provision, each division or part of every section is severable.
-If any portion or application of a section is held invalid, the invalidity does
-not affect the remainder of the section unless:
-      (1)   The remainder is so essentially and inseparably connected with and
-so dependent upon the invalid provision or application that it cannot be
+If any provision or application of a section is held invalid, the invalidity
+does not affect the remainder of the section unless:
+         (a)   The remainder is so essentially and inseparably connected with,
+and so dependent upon, the invalid provision or application that it cannot be
 presumed that the remainder would have been enacted without the invalid
 provision or application; or
-      (2)   The remainder is incomplete and incapable of being executed in
+         (b)   The remainder is incomplete and incapable of being executed in
 accordance with the legislative intent without the invalid provision or
 application.
-   (C)   This section applies to every section of this code regardless of
-whether a section was enacted before or after the passage of this code.
-   (D)   The repeal of a section or amendment stating that the provisions of a
+      (2)   This division (B) applies to every section, regardless of whether
+enacted before or after the passage of P.L. 2025-242, sec. 5. The General
+Assembly may preserve the legislative history of this division (B) by adoption
+of a concurrent resolution and publication of the resolution in the legislative
+journals.
+   (C)   The repeal of a section or amendment stating that the provisions of a
 chapter, subchapter or section are severable as provided in division (B) above
 does not affect the operation of division (B) with respect to that chapter,
 subchapter or section.
@@ -1424,7 +1430,7 @@ compensation; and
          (b)   The individual’s employment with the unit is terminated followed
 by immediate re- employment by the unit, without loss of payroll time.
       (2)   These policies do not apply to performance of duties as a:
-         (a)   A precinct election officer, as defined in I.C. 3-5-2-40.1; or
+         (a)   A precinct election officer, as defined in I.C.  3-5-2.1-82 ; or
          (b)   A volunteer firefighter.
       (3)   This statute does not abrogate or affect an employment contract
 with a unit that:
@@ -1826,6 +1832,8 @@ Clerk-Treasurer by the programs listed in division (A)(1) above, the Clerk-
 Treasurer shall account, by separate line item in the User Fee Fund, for
 receipt and disbursement of each of the above described fees.
 (Ord. 7, 2004, passed 8-10-2004)
+Editor’s note:
+   I.C. 33-19-8-3 was repealed by P.L. 98-2004, Sec. 164
 § 34.19 LOCAL LAW ENFORCEMENT FUND.
    The Town Council hereby establishes a Local Law Enforcement Continuing
 Education Fund.
@@ -2107,6 +2115,8 @@ Bureau Ordinance.
    (D)   Payment of civil penalties not to exceed $250 and subject to the
 schedule set forth in I.C. 33-36-3 by the Town Council.
 (Am. Ord. 1-2006, passed 7-10-2017)
+Editor’s note:
+   I.C. 33-36-3 was repealed by P.L. 98-2004, Sec. 164
 § 35.04 RIGHT TO TRIAL.
    Any person charged with an ordinance violation is entitled to a trial before
 a court as provided by law. Any person wishing to exercise this right to trial
@@ -2482,15 +2492,15 @@ Public Sewage Utility
    
 51.37   Notice of violation
    
-51.38   Liability for violations
+51.38   Liability
    
 51.39   Powers and authority of inspectors
    
-51.40   Application for service
+51.40   Application for sewer service
    
 51.41   Failure to make application for sewer service; delinquency
    
-51.42   One time charges
+51.42   One-time charges
    
 51.43   Monthly charges
    
@@ -2531,7 +2541,7 @@ from sanitary sewage.
    INSPECTOR. Any person(s) duly authorized by the town to inspect and approve
 the installation of building sewers and their connection to the public sewer
 systems.
-   MAY. The act referred to is permissive.
+   MAY. This term constitutes permissive or discretionary authority.
    NATURAL OUTLET. Any outlet into a water course, pond, ditch, lake or other
 body, or surface waters, or groundwaters, and any public or private channel,
 watercourse, open or tile ditch or sewer which does not pass through or have a
@@ -2558,9 +2568,9 @@ surface water and groundwater are not intentionally admitted.
    SEWAGE. A combination of water-carried wastes from residences, business
 buildings, institutions and industrial establishments, or any structure or
 facility whatsoever.
-   SEWAGE WORKS. All facilities for collecting, pumping, heating and disposing
+   SEWAGE WORKS. All facilities for collecting, pumping, treating and disposing
 of sewage.
-   SHALL. The act referred to is mandatory.
+   SHALL. This term constitutes mandatory or required authority.
    STORM SEWER or STORM DRAIN. A sewer which carried stormwaters and surface
 waters and drainage but excludes sewage and polluted industrial wastes.
    SUPERINTENDENT. The Superintendent of the municipal sewage works of the town
@@ -2568,7 +2578,7 @@ or his or her authorized deputy, agent or representative.
    SUSPENDED SOLIDS. Solids that either float on the surface of, or in
 suspension in, water, sewage or other liquids or are removable by laboratory
 filtering.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.02 DELINQUENCY AND CUT-OFFS.
    Sewage rates as set forth in this chapter will be charged on a monthly
 basis, with bills being sent on or about the first of the month shall be
@@ -2592,10 +2602,9 @@ moving to another residence must pay the previous bill in full. If the account
 holder is moving into another residence and plans on putting the new residence
 in someone else’s name, he or she must still pay the previous bill prior to the
 new service being turned on. A new deposit will be required.
-   (F)   Upon having sewage disconnected, any account holder may provide a
-forwarding address for the purpose of either sending a refund or issuing a
-credit on the final bill, minus the deposit.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+   (F)   Upon having sewage disconnected, please provide a forwarding address.
+We will then minus your deposit and send you a refund on your final bill.
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.03 HARDSHIPS.
    If an established hardship can be determined by the Clerk-Treasurer from
 evidence presented by the petitioner, a payment schedule for delinquent utility
@@ -2624,7 +2633,7 @@ $800.01 to $900            $75 + penalty
 $900.01 to $1,000          $84 + penalty
 $l,000.01 to beyond        1/2 of delinquency + penalty
  
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 SEWAGE DISPOSAL WHERE PUBLIC SEWER IS UNAVAILABLE
 § 51.15 PUBLIC SEWER UNAVAILABLE.
    Where a public sewer is not available under §§
@@ -2653,7 +2662,7 @@ owner or person without first obtaining a permit from the town. The application
 for such permit shall be in writing; upon a form to be provided by the town;
 submitted to the Building Commissioner; and shall include location, description
 and specifications of the proposed system, the nature of the improvement to be
-served thereby and such other information deemed necessary by the Building
+served thereby, and such other information deemed necessary by the Building
 Commissioner. The Building Commissioner shall approve or reject such
 application as the proposed system conforms or fails to conform to the
 provisions of this section. Approval of such application shall permit
@@ -2661,9 +2670,9 @@ construction and installation in accordance therewith. No permit for such
 system shall be issued until construction and installation is completed in
 accordance with the terms of this section and to the satisfaction of the
 Building Commissioner. The Building Commissioner shall be permitted to inspect
-the installation at any stage of construction, and the applicant for such
-permit shall notify the Building Commissioner when the work is ready for final
-inspection, before any underground portions are covered. The Building
+the installation at any stage of construction, at any event the application for
+such permit shall notify the Building Commissioner when the work is ready for
+final inspection, before any underground portions are covered. The Building
 Commissioner upon final inspection shall issue such permit as such system
 conforms or fails to conform to the provisions of this section. A refusal to
 issue such permit shall be accompanied by written reasons therefor.
@@ -2677,18 +2686,19 @@ Building Commissioner in compliance with the provisions of this section.
 connected to such sewer and all provisions of §§
 51.35 through
 51.44 complied with, within 90 days after the date of official notice to do so,
-and the private sewage disposal system or other facility intended or used for
+and the private sewage disposal system or other facility intended used for
 disposal of sewage or human or animal excrement shall be forthwith abandoned
 and filled with clean bank-run gravel, dirt or suitable material.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
+Penalty, see §
 50.99
 § 51.16 BUILDING SEWERS AND CONNECTIONS.
    No unauthorized person shall uncover, make a connection with, open or tap
 into, use, alter or disturb any public sewer or appurtenance thereof without
 first obtaining a written permit from the town. The application for the permit
 shall be in writing upon a form to be provided by the town, submitted to the
-Superintendent; and shall include location, specifications, nature of the
-improvements to be served and other information deemed necessary by the
+Superintendent and shall include location, specifications, nature of the
+improvements to be served and such other information deemed necessary by the
 Superintendent. A permit fee of $25 shall be paid to the Clerk-Treasurer upon
 application for the permit. The permit shall be issued after the
 Superintendent’s final approval of the application and work thereunder in
@@ -2716,22 +2726,22 @@ be of cast iron, soil pipe, except that vitrified clay pipe or concrete pipe
 may be accepted if laid on a stable, improved bed or cradle approved by said
 Inspector.
    (E)   All joints and connections shall be made gastight and watertight.
-Vitrified clay sewer pipe shall be fitted with factory made resilient
+Vitrified clay sewer pipe shall be fitted with factory made resilient,
 compression joints meeting the current A.S.T.M. Specifications for Vitrified
 Clay Pipe Joints Having Resilient Properties (designation C425). Concrete sewer
 pipe joints shall be made of rubber ring, flexible compression type, similar
 and equal to the joints specified for vitrified clay pipes.
    (F)   The size and slope of the building sewers shall be subject to the
-approval of said inspection, but in no event shall the diameter be less than
+approval of said inspections but in no event shall the diameter be less than
 six inches. The slope of such six-inch pipe shall not be less than one-eighth
 inch per foot.
    (G)   Whenever possible, the building sewer shall be brought to the building
 at an elevation below the basement floor. No building sewer shall be laid
-parallel to, or within three feet of any bearing wall, which might thereby by
-weakened. The depth shall be sufficient to afford protection from host. All
+parallel to, or within three feet of any bear wall, which might thereby by
+weakened. The depth shall be sufficient to afford protection from frost. All
 excavations required for the installation of a building sewer shall be open
 trench work unless otherwise approved by the Inspector. Pipe laying and back
-fill shall be performed in accordance with current A.S.T.M. specifications,
+fill shall be performed in accordance with current A.S.T.M. specifications
 except that no backfill shall be placed until the work has been inspected by
 said Inspector or his or her representative.
    (H)   In all buildings in which any building drain is too low to permit
@@ -2754,7 +2764,7 @@ Building Commissioner. The owner shall be the executor of such application for
 a building construction permit and agree to indemnify and hold harmless the
 town from any loss, damage, claims or actions that may directly or indirectly
 be occasioned by installation of building sewer.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.17 PROHIBITED DISCHARGES.
    (A)   It shall be unlawful for any person to discharge on or into any drain,
 sewer, ditch, waterway or public place within said town any garbage, raw sewage
@@ -2768,7 +2778,8 @@ down spouts and any suspicious water hookups. At the expiration of said 90-day
 grace period, any improper hookups discovered will subject the owner of such
 property to penalties stated in §
 50.99.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 § 51.18 CONSTRUCTION REQUIREMENTS.
    It shall be unlawful for any person, occupant or owner, whether in or out of
@@ -2777,9 +2788,10 @@ improvement in the town a sewage disposal system which does not include and
 utilize a septic tank disposal system conforming to the requirements of this
 subchapter, and which does not also include an effluent disposal system
 conforming to the requirements of this subchapter in those instances where
-septic tank effluent cannot be or is not discharged into public drain, sewer or
+septic tank effluent cannot or is not discharged into public drain, sewer or
 ditch.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 § 51.19 SEPTIC TANKS.
    (A)   No septic tank or septic tank effluent disposal system shall be built,
@@ -2791,7 +2803,8 @@ Environmental Management.
 tiles shall be standard sanitary sealed point tile, and in no instance shall
 clay or field tile or concrete joints be used, except in a standard effluent
 disposal system.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 § 51.20 PERMIT TO CONSTRUCT.
    No sewage disposal system shall be built, constructed, installed or
@@ -2811,7 +2824,8 @@ to conform to this subchapter. Any person feeling aggrieved by an action of the
 above parties may appeal such action in person or in writing to the Town
 Council at any regular or special meeting thereof. The Town Council may
 confirm, amend or reverse the actions of the above parties.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 § 51.21 TAPS AND CONNECTIONS.
    No tap shall be made into any public sewer or drain, connection or cut made
@@ -2820,7 +2834,8 @@ of any nature in the town, by any person, for a sewage disposal system which
 does not conform to this subchapter and without first having obtained a permit,
 as provided in §
 51.20.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 PUBLIC SEWAGE UTILITY
 § 51.35 USE OF PUBLIC SEWERS.
@@ -2859,7 +2874,7 @@ objectionable characteristics shall be subject to the review and approval of
 the Superintendent, who may prescribe limits on the strength and character of
 these waters or wastes. When necessary, in the opinion of the Superintendent,
 the owner shall provide, at his or her expense, such preliminary treatments as
-may be necessary to heat these wastes prior to discharge to the public sewer.
+may be necessary to treat these wastes prior to discharge to the public sewer.
 Plans, specifications and any other pertinent information relating to proposed
 treatment facilities shall be submitted for approval by said Superintendent and
 the State Department of Environmental Management, and no construction of said
@@ -2878,13 +2893,15 @@ manhole or upon suitable samples taken at said control manhole.
       (3)   In the event that no special control manhole has been required, the
 control manhole shall be considered to be the nearest downstream manhole in the
 public sewer to the point at which the building sewer is connected.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
+Penalty, see §
 50.99
 § 51.36 PROTECTION FROM DAMAGE.
    No unauthorized person shall maliciously, willfully or negligently break,
 damage, destroy, uncover, deface or tamper with any structure, appurtenance or
 equipment which is part of the municipal sewage works.
-(Am. Ord. 4, 2018, passed 5-21-2019) Penalty, see §
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+Penalty, see §
 50.99
 § 51.37 NOTICE OF VIOLATION.
    Any person found to be violating any provision of this subchapter, shall be
@@ -2892,27 +2909,27 @@ served by the town with written notice stating the nature of the violation and
 providing a reasonable time limit for the satisfactory correction thereof. The
 offender shall permanently cease all violations within the period of time
 stated in such notice.
-(Am. Ord. 4, 2018, passed 5-21-2019)
-§ 51.38 LIABILITY FOR VIOLATIONS.
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+§ 51.38 LIABILITY.
    Any person violating the provisions of this subchapter shall become liable
 to the town for any expense or damage occasioned by the town by reason of such
 violations.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
 § 51.39 POWERS AND AUTHORITY OF INSPECTORS.
    The Superintendents, Inspector and other duly authorized employees of the
 town, bearing proper credentials and identification, shall be permitted to
 enter upon all properties for the purpose of inspection, observation,
 measurement, sampling and testing and accordance with the provisions of this
 chapter.
-(Am. Ord. 4, 2018, passed 5-21-2019)
-§ 51.40 APPLICATION FOR SERVICE.
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
+§ 51.40 APPLICATION FOR SEWER SERVICE.
    Application for service shall be filed with the Clerk-Treasurer upon a form
 to be supplied by the town. The application shall state the name of the
 applicant and the premises to be served. The application for sewer service
 shall be issued and registered in the same name as the person in whom the town
 water service for such premises is registered in those instances where such
 premises are served by the town waterworks utilities.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
 § 51.41 FAILURE TO MAKE APPLICATION FOR SEWER SERVICE; DELINQUENCY.
    (A)   No town water service shall be transferred or connected until and
 unless the water service applicant completes an application for sewer service
@@ -2920,56 +2937,58 @@ as herein provided in those instances where the premises are serviced by both
 water and sewer service.
    (B)   The failure of a person to complete an application for sewer service
 within 30 days after such sewer service commences shall be considered
-delinquent, and there shall be a sewer service charge for the amount of such
-deposit, subject to the same penalty, conditions and enforcement as provided
-delinquent sewer service charges.
-(Am. Ord. 4, 2018, passed 5-21-2019)
-§ 51.42 ONE TIME CHARGES.
+delinquent, and a sewer service charge for the amount of such deposit, subject
+to the same penalty, conditions and enforcement as provided delinquent sewer
+service charges.
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
+§ 51.42 ONE-TIME CHARGES.
    (A)   Prior to sewer services being activated to a residence, business or
 industrial location, a deposit fee and a connection fee must be paid to the
-Clerk-Treasurer at least seven days prior to the connection date requested:
-      (1)   Deposit fee: $75; and
+Clerk-Treasurer at least seven days prior to the connection date requested.
+      (1)   Deposit fee: $85; and
       (2)   (a)   Connection fee:
  
-5/8-inch to 3/4-inch meter $750
-1-inch meter               $1,875
-1-1/4-inch meter           $3,000
-1-1/2-inch meter           $4,350
-2-inch meter               $7,500
+5/8-inch to 3/4-inch meter $875
+1-inch meter               $2,175
+1-1/4-inch meter           $3,475
+1-1/2-inch meter           $5,025
+2-inch meter               $8,675
  
-         (b)   Over two inches will be an equivalency ratio determined by the
+         (b)   Over two-inch will be an equivalency ratio determined by the
 Town Council on an individual case basis.
-   (B)   To cap the water/sewer pits costs $25 per pit. To remove the sewer/
-water pits costs $250 per pit.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+   (B)   Retire of service water/sewer. To cap the water/sewer pits costs $25
+per pit. To remove the sewer/water pits costs $250 per pit.
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
 § 51.43 MONTHLY CHARGES.
    (A)   Monthly flow rate charges.
  
-                    Effective Upon Adoption  Effective January 1, 2019
-First 2,500 gallons $20.90 per 1,000 gallons $21.84 per 1,000 gallons
-Next 2,500 gallons  $14.29 per 1,000 gallons $14.93 per 1,000 gallons
-Next 5,000 gallons  $13.32 per 1,000 gallons $13.92 per 1,000 gallons
-Next 10,000 gallons $11.82 per 1,000 gallons $12.35 per 1,000 gallons
-Over 20,000 gallons $10.16 per 1,000 gallons $10,65 per 1,000 gallons
+                    Effective Prior to August 11, Effective August 11, 2025
+                    2025
+First 2,500 gallons $21.84 per 1,000 gallons      $25.27 per 1,000 gallons
+Next 2,500 gallons  $14.93 per 1,000 gallons      $17.27 per 1,000 gallons
+Next 5,000 gallons  $13.92 per 1,000 gallons      $16.11 per 1,000 gallons
+Next 10,000 gallons $12.35 per 1,000 gallons      $14.29 per 1,000 gallons
+Over 20,000 gallons $10.65 per 1,000 gallons      $12.32 per 1,000 gallons
  
    (B)   Minimum monthly charges at 2,500 gallons.
  
-                           Effective Upon Adoption Effective January 1, 2019
-Sewage only customers      $80.81                  $84.45
-Water and sewage customers $52.25                  $54.60
+                           Effective Prior to August Effective August 11, 2025
+                           11, 2025
+Water and sewage customers $54.60                    $63.15
+Sewage only customers      $84.45                    $97.70
  
-   (C)   Monthly flow rate for the County Regional Sewer District.
+   (C)   Monthly flow rate for the Miami County Regional Sewer District.
  
-                  Effective Upon Adoption Effective January 1, 2019
-Per 1,000 gallons $2                      $2.85
+                  Effective Prior to August 11, 2025 Effective August 11, 2025
+Per 1,000 gallons $2.85                              $2.85
  
-   (D)   Adjustments. Any water that would not be processed at the sewage plant
-may be adjusted; said unprocessed water could be as a result of leaks or water
-that is used to fill a swimming pool. Customer does not have to be eligible for
-water adjustment to be eligible for a sewage adjustment. Adjustments will be
-made in the same manner as in §
+   (D)   Sewage bill adjustments. Any water that would not be processed at the
+sewage plant may be adjusted; said unprocessed water could be as a result of
+leaks or water that is used to fill a swimming pool. Customer does not have to
+be eligible for water adjustment to be eligible for a sewage adjustment.
+Adjustments will be made in the same manner as in §
 51.44(A)(3) and (A)(4).
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
 § 51.44 SEWER BILL ADJUSTMENTS.
    (A)   Generally speaking, what happens to the water after it leaves the
 meter is the responsibility of the customer. At times however, through no one’s
@@ -2992,12 +3011,13 @@ Filling of pool w/garden hose                Yes
 Garden/hose left running                     Yes
 Leak in basement/crawl space                 Yes
 Leak in buried piping                        Yes
-Leak under skirting of mobile home           Yes
+Leak under skirting in mobile home           Yes
 Leaking faucet or commode                    Yes
 Water left running to prevent pipe freeze-up Yes
  
-      (4)   If a customer runs their water to prevent pipes from freezing, he
-or she shall be allowed up to 200 gallons a month in an adjustment.
+      (4)   Freezing weather. If a customer runs their water to prevent pipes
+from freezing, he or she shall be allowed up to 200 gallons a month in an
+adjustment.
       (5)   If an adjustment is in order, the Clerk-Treasurer’s office will
 determine a period of previous usage that was reasonably consistent over a
 period of four months to determine an average usage. The average usage will be
@@ -3014,29 +3034,26 @@ with the Town Foreperson.
       (2)   A meter will be placed on the hydrant for a reading.
       (3)   Once the Utility Clerk receives the reading, the amount will be
 adjusted to the next month’s utility bill.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019 ; Am. 2, Ord. 4, 2018, passed 8-11-2025 )
 BILLING
 § 51.55 ACCOUNTS AND RECORDS.
-   (A)   It is hereby made the duty of the Clerk-Treasurer of the town to
-render bills for sewage service, and all other charges in connection with the
-operation of the town’s sewage works, and to collect all monies due therein.
-   (B)   The Clerk-Treasurer shall establish a proper system of accounts and
-shall keep proper records, books and accounts in which complete and correct,
-entries shall be made of all transactions relative to the sewage service. The
-Town Council shall cause to be made audits by an independent auditing firm in
-the books showing receipts and disbursements at intervals of their choosing.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+   The Clerk-Treasurer shall establish a proper system of accounts and shall
+keep proper records, books and accounts in which complete and correct entries
+shall be made of all transactions relative to the sewage service. The Town
+Council shall cause to be made audits by an independent auditing firm in the
+books showing receipts and disbursements at intervals of their choosing.
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.56 DISPOSITION OF FUNDS.
    All revenues and monies derived from the operation of the sewer system shall
 be paid to and held by the Clerk-Treasurer, separate and apart from all other
 funds of the town. Said funds shall be deposited separate funds, and said
 Clerk-Treasurer shall administer these funds in the manner set forth by state
 statutes and ordinances of the town.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.57 RETURNED CHECKS.
    All checks returned for non-sufficient funds shall be charged $25 plus bank
 fees.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.58 LIABILITY.
    The owner of the premises and the occupant/user of the sewage service shall
 be jointly and severally liable for said service. Deposits, as outlined in §
@@ -3044,12 +3061,12 @@ be jointly and severally liable for said service. Deposits, as outlined in §
 shall be returned to the applicant without interest. Such deposits shall be
 deposited and administered in separate accounts as designated in §
 51.56.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.59 UNCLAIMED DEPOSIT FEES.
    Unclaimed deposit fees for sewage become the property of the town upon
 expiration of the following time limits and shall be transferred to the
 respective cash operating fund: sewage deposits, seven years.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.60 DEPOSIT RETURN.
    (A)   All deposits shall be held for two years. If the account holder has
 not claimed within one year after the two years, the deposit is then forfeited
@@ -3058,7 +3075,7 @@ responsibility to request the return. The deposit will only be returned at the
 request of the account holder, in writing.
    (B)   The account holder cannot have any delinquent bills nor have been
 delinquent within the past 12 months of the request.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 § 51.61 CREDIT TO ACCOUNT FOR OVERPAYMENT.
    Any account that has an overpayment from an estimated bill, credit from an
 overcharge, credit from an adjustment or overpayment, the account holder shall
@@ -3066,7 +3083,7 @@ be given a credit to their account. No cash refund shall be given. In order to
 obtain this credit, the account holder must present a letter in writing to the
 Town Council. The account holder must provide documentation to support the
 credit refund.
-(Am. Ord. 4, 2018, passed 5-21-2019)
+(Am. Ord. 4, 2018, passed 5-21-2019; Am. 2, Ord. 4, 2018, passed 8-11-2025)
 CHAPTER 52: WATER
 Section
 General Provisions
@@ -9393,9 +9410,9 @@ the opportunity to be heard at the above mentioned time and place.
                         By:                                                            
                            President / Town of Bunker Hill Plan Commission
  
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1131.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1133.jpg]
 CHAPTER 154: ZONING
 Section
@@ -11831,21 +11848,21 @@ Shoe & leather shop                     X  X
 Sporting goods                          X  X
 Variety shop                            X  X
 Wholesale warehouse                        X        X   X
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1135.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1137.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1139.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1141.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1143.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1145.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1147.jpg]
-[https://export.amlegal.com/media/69ded9ffa3f2e912b0792768c903415170572999/
+[https://export.amlegal.com/media/97ff7efdfd8f20e79e116b737805c5055b08598a/
 IMAGES/0-0-0-1149.jpg]
 CHAPTER 155: GROWTH MANAGEMENT PLAN
 Section
@@ -11882,6 +11899,9 @@ Ord./Res. No. Date Passed Description
                           Agreement between the Town of Bunker Hill and Pipe
 4             5-20-1974   Creek Township for the establishment and maintenance
                           of a park and recreation facility.
+                          Agreement between the Town of Bunker Hill and VW
+—           9-12-2025   Waste Services d/b/a On Point Waste Services for
+                          trash pickup services.
                          
  
 TABLE II: ANNEXATIONS
@@ -11956,155 +11976,154 @@ References to Resolutions
 References to Ordinances
 REFERENCES TO INDIANA CODE
 I.C. Section Code Section
-I.C. Section        Code Section
-1-1-1-5             10.04
-1-1-1-7             10.12
-1-1-1-8             10.06
-1-1-4-5             10.05
-1-1-5-1             10.11
-1-1-6-1             10.08
-3-5-2-40.1          33.02
-4-2-6-16            33.02
-5-2-1-9             32.22
-5-2-1-9(f)          32.02
-5-2-8-2             34.19
-5-3-1               Ch. 153, App. A, 3-3;
-                    Ch. 153, App. A, 3-4
-                    Ch. 152, App. A, 1-5;
-5-3-1-2             Ch. 152, App. A, 1-7;
-                    Ch. 152, App. A, 1-8
-5-3-1-4             Ch. 152, App. A, 1-5
-5-11-1-27           34.35
-5-11-13-1           33.02
-5-14-1.5            30.04
-5-14-1.5-1 et seq.  Ch. 154, App. A, 1-7-2
-5-14-1.5-3          Ch. 153, App. A, 3-3
-5-14-1.5-3.1        30.08
-5-14-1.5-6.1        30.03
-5-22                33.02;
-                    34.02
-5-22 et seq.        34.02
-5-22-10             34.02
-6-3.6-9-17(h)(1)(A) 34.20
-8-1.5-3-4.1         52.15
-8-22-3-1            34.20
-8-22-3-2            34.20
-8-23-5              34.20
-8-23-30             34.20
-9-21-1-2            70.01
-9-21-1-2(c)         70.02
-9-21-4-3(b)         70.05
-9-21-5-6            71.01
-9-21-5-6(a)(1)      71.01
-9-21-5-6(a)(4)      71.01
-9-21-9-3            73.19
-9-21-11-14          73.99
-9-21-16-7           72.01
-9-22-1              90.05
-9-22-1-1            90.02
-9-22-1-3            90.08
-9-22-1-4            90.03
-9-22-1-7            90.04
-9-22-1-27           90.07
-9-22-1-30           90.07
-9-22-1-32           90.06
-9-25-4              73.38
-12-7-2-28.2         Ch. 154, App. A, 1-13
-12-7-2-28.4         Ch. 154, App. A, 1-13
-12-7-2-28.6         Ch. 154, App. A, 1-13
-12-7-2-28.8         Ch. 154, App. A, 1-13
-12-7-2-29           Ch. 154, App. A, 1-13
-14-8-2-5.7          73.35
-14-8-2-185          73.35
-22-9-1-4 et seq.    96.02
-22-9.5-1 et seq.    96.01
-22-9.5-2-2          96.02
-22-9.5-2-3          96.02
-22-9.5-2-4          96.02
-22-9.5-2-8          96.02
-22-9.5-2-9          96.02
-22-9.5-2-11         96.02
-22-9.5-2-13         96.02
-22-9.5-3            96.03
-22-9.5-3 et seq.    96.09
-22-9.5-4-8          96.10
-22-9.5-5            96.02
-22-9.5-5-1          96.03
-22-9.5-6            96.02;
-                    96.10
-22-15-4             150.04
-31-37-3             130.01
-32-30-6-6           92.02
-32-30-6-7           92.01
-32-30-6-8           92.03;
-                    92.99
-33-19-8-3           34.18
-33-36-3             35.03
-35-33-1-1           31.21
-35-45-1-2           130.02
-35-45-1-3           130.03
-35-46-3-1           91.03;
-                    91.99
-35-46-3-7           91.99
-35-50               130.99
-36-1-3-4            Ch. 153, App. A, 1-4
-36-1-3-8            Ch. 153, App. A, 1-14;
-                    Ch. 154, App. A, 3-8-1
-36-1-3-8(a)(10)     10.99;
-                    50.99
-36-1-7-7            31.21
-36-1-12             33.02
-36-1-20.2           33.02
-36-4-6-9            31.01
-36-5-1-10.1         30.01
-36-5-2-3            30.01
-36-5-2-4.1          30.01
-36-5-2-8            31.01
-36-5-5.6            31.01
-36-5-7-3            31.02
-36-5-7-4            31.02;
-                    31.21
-36-7-1-2            Ch. 153, App. A, 2-2
-36-7-3-10           Ch. 153, App. A, 1-12
-36-7-4-203          Ch. 154, App. A, 1-10-1
-36-7-4-205          Ch. 154, App. A, 1-8
-                    Ch. 153, App. A, 1-4;
-36-7-4-700          Ch. 153, App. A, 2-2;
-                    Ch. 153, App. A, Forms
-36-7-4-701          Ch. 153, App. A, 2-2
-36-7-4-708          Ch. 153, App. A, 3-3
-36-7-4-711          Ch. 153, App. A, 1-12
-36-7-4-901          Ch. 154, App. A, 1-10-1
-36-7-4-902          Ch. 154, App. A, 1-10-1
-36-7-4-918.4        Ch. 154, App. A, 1-10-2;
-                    Ch. 154, App. A, 2-8
-                    Ch. 152, App. A, 1-2;
-36-7-4-1500         Ch. 152, App. A, 1-5;
-                    Ch. 152, App. A, 1-10
-                    151.02;
-36-7-9              151.07;
-                    151.09
-36-7-9-2            151.03
-36-7-9-4            151.06;
-                    151.07
-36-7-9-5            151.05
-36-7-9-5(a)(2)      151.07
-36-7-9-14           151.09
-36-7-9-28           151.99
-36-7-10.1-3(b)(1)   94.09
-36-7-10.1-3(b)(2)   94.01
-36-7-10.1-3(b)(3)   94.02
-36-7-10.1-3(b)(4)   94.03
-36-7-10.1-3(b)(5)   94.04
-36-7-10.1-3(b)(6)   94.05
-36-7-10.1-3(b)(7)   94.08
-36-7-10.1-5         94.07
-36-9-16-1 et seq.   34.15
-36-10-3-4           93.25
-36-10-3-5           93.26
-36-10-3-6           93.26
-36-10-3-8           93.27
-                    
+I.C. Section         Code Section
+1-1-1-5              10.04
+1-1-1-7              10.12
+1-1-1-8              10.06
+1-1-4-5              10.05
+1-1-5-1              10.11
+1-1-6-1              10.08
+3-5-2.1-82           33.02
+4-2-6-16             33.02
+5-2-1-9              32.22
+5-2-1-9(f)           32.02
+5-2-8-2              34.19
+5-3-1                Ch. 153, App. A, 3-3;
+                     Ch. 153, App. A, 3-4
+                     Ch. 152, App. A, 1-5;
+5-3-1-2              Ch. 152, App. A, 1-7;
+                     Ch. 152, App. A, 1-8
+5-3-1-4              Ch. 152, App. A, 1-5
+5-11-1-27            34.35
+5-11-13-1            33.02
+5-14-1.5             30.04
+5-14-1.5-1 et seq.   Ch. 154, App. A, 1-7-2
+5-14-1.5-3           Ch. 153, App. A, 3-3
+5-14-1.5-3.1         30.08
+5-14-1.5-6.1         30.03
+5-22                 33.02;
+                     34.02
+5-22 et seq.         34.02
+5-22-10              34.02
+6-3.6-9-17(h)(1)(A)  34.20
+8-1.5-3-9            52.15
+8-22-3-1             34.20
+8-22-3-2             34.20
+8-23-5               34.20
+8-23-30              34.20
+9-21-1-2             70.01
+9-21-1-2(c)          70.02
+9-21-4-3(b)          70.05
+9-21-5-6             71.01
+9-21-5-6(a)(1)       71.01
+9-21-5-6(a)(4)       71.01
+9-21-9-3             73.19
+9-21-11-14           73.99
+9-21-16-7            72.01
+9-22-1               90.05
+9-22-1-1             90.02
+9-22-1-3             90.08
+9-22-1-4             90.03
+9-22-1-7             90.04
+9-22-1-27            90.07
+9-22-1-30            90.07
+9-22-1-32            90.06
+9-25-4               73.38
+12-7-2-28.2          Ch. 154, App. A, 1-13
+12-7-2-28.4          Ch. 154, App. A, 1-13
+12-7-2-28.6          Ch. 154, App. A, 1-13
+12-7-2-28.8          Ch. 154, App. A, 1-13
+12-7-2-29            Ch. 154, App. A, 1-13
+14-8-2-5.7           73.35
+14-8-2-185           73.35
+22-9-1-4 et seq.     96.02
+22-9.5-1 et seq.     96.01
+22-9.5-2-2           96.02
+22-9.5-2-3           96.02
+22-9.5-2-4           96.02
+22-9.5-2-8           96.02
+22-9.5-2-9           96.02
+22-9.5-2-11          96.02
+22-9.5-2-13          96.02
+22-9.5-3             96.03
+22-9.5-3 et seq.     96.09
+22-9.5-4-8           96.10
+22-9.5-5             96.02
+22-9.5-5-1           96.03
+22-9.5-6             96.02;
+                     96.10
+22-15-4              150.04
+31-37-3              130.01
+32-30-6-6            92.02
+32-30-6-7            92.01
+32-30-6-8            92.03;
+                     92.99
+33-19-8-3 (Repealed) 34.18
+33-36-3 (Repealed)   35.03
+35-33-1-1            31.21
+35-45-1-2            130.02
+35-45-1-3            130.03
+35-46-3-1            91.03;
+                     91.99
+35-46-3-7            91.99
+35-50                130.99
+36-1-3-4             Ch. 153, App. A, 1-4
+36-1-3-8             Ch. 153, App. A, 1-14;
+                     Ch. 154, App. A, 3-8-1
+36-1-3-8(a)(10)      10.99;
+                     50.99
+36-1-7-7             31.21
+36-1-12              33.02
+36-1-20.2            33.02
+36-4-6-9             31.01
+36-5-1-10.1          30.01
+36-5-2-3             30.01
+36-5-2-4.1           30.01
+36-5-2-8             31.01
+36-5-7-3             31.02
+36-5-7-4             31.02;
+                     31.21
+36-7-1-2             Ch. 153, App. A, 2-2
+36-7-3-10            Ch. 153, App. A, 1-12
+36-7-4-203           Ch. 154, App. A, 1-10-1
+36-7-4-205           Ch. 154, App. A, 1-8
+                     Ch. 153, App. A, 1-4;
+36-7-4-700           Ch. 153, App. A, 2-2;
+                     Ch. 153, App. A, Forms
+36-7-4-701           Ch. 153, App. A, 2-2
+36-7-4-708           Ch. 153, App. A, 3-3
+36-7-4-711           Ch. 153, App. A, 1-12
+36-7-4-901           Ch. 154, App. A, 1-10-1
+36-7-4-902           Ch. 154, App. A, 1-10-1
+36-7-4-918.4         Ch. 154, App. A, 1-10-2;
+                     Ch. 154, App. A, 2-8
+                     Ch. 152, App. A, 1-2;
+36-7-4-1500          Ch. 152, App. A, 1-5;
+                     Ch. 152, App. A, 1-10
+                     151.02;
+36-7-9               151.07;
+                     151.09
+36-7-9-2             151.03
+36-7-9-4             151.06;
+                     151.07
+36-7-9-5             151.05
+36-7-9-5(a)(2)       151.07
+36-7-9-14            151.09
+36-7-9-28            151.99
+36-7-10.1-3(b)(1)    94.09
+36-7-10.1-3(b)(2)    94.01
+36-7-10.1-3(b)(3)    94.02
+36-7-10.1-3(b)(4)    94.03
+36-7-10.1-3(b)(5)    94.04
+36-7-10.1-3(b)(6)    94.05
+36-7-10.1-3(b)(7)    94.08
+36-7-10.1-5          94.07
+36-9-16-1 et seq.    34.15
+36-10-3-4            93.25
+36-10-3-5            93.26
+36-10-3-6            93.26
+36-10-3-8            93.27
+                     
  
 REFERENCES TO PRIOR CODE
 Prior Code Section 2024 Code Section
@@ -12244,185 +12263,194 @@ Res. No. Date Passed  Code Section
  
 REFERENCES TO ORDINANCES
 Ord. No. Date Passed  Code Section
-Ord. No. Date Passed  Code Section
-                        131.01;
-                        131.02;
-                        131.15;
-3, 1998  - -            131.16;
-                        131.30—
-                        131.34;
-                        131.99
-                        132.01—
-1, 2003  - -            132.03;
-                        132.99
-                        53.01;
-5, 2012  - -            53.02;
-                        53.99
-83       5-1-1924       TSO Table V
-110      3-6-1940       110.01;
-                        110.02
-2        7-2-1959       TSO Table III
-3        11-20-1959     TSO Table III
-1        7-8-1960       TSO Table III
-1        5-6-1964       TSO Table I
-3        8-4-1965       TSO Table IV
-5        8-4-1965       34.15
-1        3-1-1967       TSO Table I
-4        3-21-1967      TSO Table III
-7        7-5-1967       TSO Table III
-4        5-20-1974      TSO Table I
-3        4-22-1985      TSO Table V
-3        4-14-1993      TSO Table IV
-4        7-1-1993       TSO Table V
-9        8-30-1993      TSO Table V
-2        7-6-1994       TSO Table VI
-3        9-14-1994      TSO Table VI
-4        11-12-1996     TSO Table II
-13       - -1997        Ch. 74, Sched. I;
-                        Ch. 75, Sched. I
-3        9-3-1997       94.01—
-                        94.09
-                        150.01—
-4        9-10-1997      150.18;
-                        150.99
--        9-16-1997      155.01
-                        92.01—
-5        9-16-1997      92.04;
-                        92.99
-6        9-16-1997      130.01
-                        91.01—
-7        9-16-1997      91.09;
-                        91.99
-                        91.20—
-8        9-16-1997      91.32;
-                        91.99
-                        152.01;
--        10-21-1997     153.01;
-                        154.01
-9        10-21-1997     90.01—
-                        90.08
-12       10-21-1997     TSO Table V
-                        93.01;
-                        93.08—
-10       11-5-1997      93.10;
-                        93.13;
-                        93.26;
-                        93.27
-                        150.01—
--        11-18-1997     150.18;
-                        150.99
-11       11-18-1997     32.01—
-                        32.07
-                        70.01—
-                        70.08;
-                        70.99;
-                        71.01;
-                        71.02;
-16       11-18-1997     72.01—
-                        72.06;
-                        73.01;
-                        73.02;
-                        73.99;
-                        Ch. 74, Sched. I;
-                        Ch. 75, Sched. I
-3        2-4-1998       131.99
-                        154.01;
-                        Ch. 154, Appendix A, 1-13;
--        7-21-1998      Ch. 154, Appendix A, 2-12-1;
-                        Ch. 154, Appendix A, 2-12-2;
-                        Ch. 154, Appendix A, 2-12-4;
-                        Ch. 154, Appendix A, 2-12-7
-4, 1998  9-2-1998       33.01
-1        4-13-2004      34.01
-                        151.01—
-1, 2000  5-11-2004      151.09;
-                        151.99
-3, 2004  6-8-2004       34.17
-6, 2004  8-10-2004      35.09
-7, 2004  8-10-2004      34.18
-8, 2004  8-10-2004      34.19
-                        71.03;
-13       12-11-2007     71.04;
-                        Ch. 74, Sched. I;
-                        Ch. 74, Sched. II
-2        5-22-2008      TSO Table V
-2        9-8-2009       130.01—
-                        130.03
-                        93.02—
-                        93.07;
-                        93.11—
-10, 2004 4-13-2010      93.13;
-                        93.25;
-                        93.26;
-                        93.99
-                        92.01—
-5        8-10-2010      92.04;
-                        92.99
-4        1-11-2011      150.09;
-                        150.17
-4        5-10-2011      TSO Table V
-6        9-27-2011      TSO Table V
-14, 2012 6- -2012       33.02
-6, 1997  - -2015        130.01—
-                        130.03
-1, 2009  - -2015        34.16
-4, 2015  7-8-2015       91.45
-                        50.01;
-                        50.02;
-1, 2010  1-11-2016      50.15—
-                        50.22;
-                        50.24;
-                        50.99
-1, 2016  4-11-2016      111.01—
-                        111.09
-1, 2005  6-13-2016      32.22
-2, 2016  6-13-2016      34.35—
-                        34.39
-3, 2016  6-13-2016      34.20
-5, 2004  6-13-2016      31.15—
-                        31.21
-5, 2016  6-13-2016      TSO Table V
-3, 2005  6-12-2017      34.02
-4-2017   6-22-2017      95.01
-1-2006   7-10-2017      35.01—
-                        35.08
-                        30.01—
-2-2017   7-10-2017      30.08;
-                        31.01—
-                        31.04
-3        7-10-2017      94.04
-                        73.35—
-3, 2017  7-10-2017      73.44;
-                        73.99
-7, 2017  11-13-2017     34.21
-                        52.01—
-                        52.03;
-3, 2018  4-9-2018       52.15—
-                        52.29;
-                        52.40—
-                        52.46
-8, 2018  12-10-2018     33.03
-1, 2019  1-14-2019      96.01—
-                        96.10
-6, 2019  4-15-2019      TSO Table V
-                        51.01—
-                        51.03;
-                        51.15—
-4, 2018  5-21-2019      51.21;
-                        51.35—
-                        51.44;
-                        51.55—
-                        51.61
-                        73.15—
-8, 2012  7-12-2021      73.23;
-                        73.99
-2, 2005  12-12-2022     34.50—
-                        34.57
-3, 2022  12-12-2022     32.21
-4, 2022  12-12-2022     32.20
-5, 2022  12-27-2022     32.35—
-                        32.38
-1, 2018  5-8-2023       53.03
-1, 2018  4-22-2024      53.03
-                       
+Ord. No.       Date Passed  Code Section
+                              131.01;
+                              131.02;
+                              131.15;
+3, 1998        - -            131.16;
+                              131.30—
+                              131.34;
+                              131.99
+                              132.01—
+1, 2003        - -            132.03;
+                              132.99
+                              53.01;
+5, 2012        - -            53.02;
+                              53.99
+83             5-1-1924       TSO Table V
+110            3-6-1940       110.01;
+                              110.02
+2              7-2-1959       TSO Table III
+3              11-20-1959     TSO Table III
+1              7-8-1960       TSO Table III
+1              5-6-1964       TSO Table I
+3              8-4-1965       TSO Table IV
+5              8-4-1965       34.15
+1              3-1-1967       TSO Table I
+4              3-21-1967      TSO Table III
+7              7-5-1967       TSO Table III
+4              5-20-1974      TSO Table I
+3              4-22-1985      TSO Table V
+3              4-14-1993      TSO Table IV
+4              7-1-1993       TSO Table V
+9              8-30-1993      TSO Table V
+2              7-6-1994       TSO Table VI
+3              9-14-1994      TSO Table VI
+4              11-12-1996     TSO Table II
+13             - -1997        Ch. 74, Sched. I;
+                              Ch. 75, Sched. I
+3              9-3-1997       94.01—
+                              94.09
+                              150.01—
+4              9-10-1997      150.18;
+                              150.99
+-              9-16-1997      155.01
+                              92.01—
+5              9-16-1997      92.04;
+                              92.99
+6              9-16-1997      130.01
+                              91.01—
+7              9-16-1997      91.09;
+                              91.99
+                              91.20—
+8              9-16-1997      91.32;
+                              91.99
+                              152.01;
+-              10-21-1997     153.01;
+                              154.01
+9              10-21-1997     90.01—
+                              90.08
+12             10-21-1997     TSO Table V
+                              93.01;
+                              93.08—
+10             11-5-1997      93.10;
+                              93.13;
+                              93.26;
+                              93.27
+                              150.01—
+-              11-18-1997     150.18;
+                              150.99
+11             11-18-1997     32.01—
+                              32.07
+                              70.01—
+                              70.08;
+                              70.99;
+                              71.01;
+                              71.02;
+16             11-18-1997     72.01—
+                              72.06;
+                              73.01;
+                              73.02;
+                              73.99;
+                              Ch. 74, Sched. I;
+                              Ch. 75, Sched. I
+3              2-4-1998       131.99
+                              154.01;
+                              Ch. 154, Appendix A, 1-13;
+-              7-21-1998      Ch. 154, Appendix A, 2-12-1;
+                              Ch. 154, Appendix A, 2-12-2;
+                              Ch. 154, Appendix A, 2-12-4;
+                              Ch. 154, Appendix A, 2-12-7
+4, 1998        9-2-1998       33.01
+1              4-13-2004      34.01
+                              151.01—
+1, 2000        5-11-2004      151.09;
+                              151.99
+3, 2004        6-8-2004       34.17
+6, 2004        8-10-2004      35.09
+7, 2004        8-10-2004      34.18
+8, 2004        8-10-2004      34.19
+                              71.03;
+13             12-11-2007     71.04;
+                              Ch. 74, Sched. I;
+                              Ch. 74, Sched. II
+2              5-22-2008      TSO Table V
+2              9-8-2009       130.01—
+                              130.03
+                              93.02—
+                              93.07;
+                              93.11—
+10, 2004       4-13-2010      93.13;
+                              93.25;
+                              93.26;
+                              93.99
+                              92.01—
+5              8-10-2010      92.04;
+                              92.99
+4              1-11-2011      150.09;
+                              150.17
+4              5-10-2011      TSO Table V
+6              9-27-2011      TSO Table V
+14, 2012       6- -2012       33.02
+6, 1997        - -2015        130.01—
+                              130.03
+1, 2009        - -2015        34.16
+4, 2015        7-8-2015       91.45
+                              50.01;
+                              50.02;
+1, 2010        1-11-2016      50.15—
+                              50.22;
+                              50.24;
+                              50.99
+1, 2016        4-11-2016      111.01—
+                              111.09
+1, 2005        6-13-2016      32.22
+2, 2016        6-13-2016      34.35—
+                              34.39
+3, 2016        6-13-2016      34.20
+5, 2004        6-13-2016      31.15—
+                              31.21
+5, 2016        6-13-2016      TSO Table V
+3, 2005        6-12-2017      34.02
+4-2017         6-22-2017      95.01
+1-2006         7-10-2017      35.01—
+                              35.08
+                              30.01—
+2-2017         7-10-2017      30.08;
+                              31.01—
+                              31.04
+3              7-10-2017      94.04
+                              73.35—
+3, 2017        7-10-2017      73.44;
+                              73.99
+7, 2017        11-13-2017     34.21
+                              52.01—
+                              52.03;
+3, 2018        4-9-2018       52.15—
+                              52.29;
+                              52.40—
+                              52.46
+8, 2018        12-10-2018     33.03
+1, 2019        1-14-2019      96.01—
+                              96.10
+6, 2019        4-15-2019      TSO Table V
+                              51.01—
+                              51.03;
+                              51.15—
+4, 2018        5-21-2019      51.21;
+                              51.35—
+                              51.44;
+                              51.55—
+                              51.61
+                              73.15—
+8, 2012        7-12-2021      73.23;
+                              73.99
+2, 2005        12-12-2022     34.50—
+                              34.57
+3, 2022        12-12-2022     32.21
+4, 2022        12-12-2022     32.20
+5, 2022        12-27-2022     32.35—
+                              32.38
+1, 2018        5-8-2023       53.03
+1, 2018        4-22-2024      53.03
+                              51.03—
+                              51.03;
+                              51.15—
+Am. 2, 4, 2018 8-11-2025      51.21;
+                              51.35—
+                              51.44;
+                              51.55—
+                              51.61
+—            9-12-2025      TSO Table I
+                             
  
