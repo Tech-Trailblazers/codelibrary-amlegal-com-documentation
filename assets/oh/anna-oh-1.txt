@@ -1,7 +1,7 @@
 VILLAGE OF ANNA, OHIO
 CODE OF ORDINANCES
-2024 S-13 Supplement contains:
-Local legislation current through Ord. 24-1843, passed 1-23-2024
+2024 S-14 Supplement contains:
+Local legislation current through Ord. 25-1865, passed 6-10-2025
 State legislation current through June 30, 2023
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -40612,7 +40612,10 @@ contained in the aforementioned plan shall conform to the recommendations of
 the Planning Commission based upon these regulations.
    (C)   In addition, no final plat shall be approved if in conflict with an
 existing zoning regulation.
-(Ord. passed 1-12-1999)
+   (D)   All plats approved by Council will be considered ready for
+construction and can no longer be used as farm ground or any other agricultural
+use.
+(Ord. passed 1-12-1999; Am. Ord. 25-1865, passed 6-10-2025)
 § 152.007 INTERPRETATION AND SEPARABILITY.
    (A)   Interpretation. In their interpretation and application, provisions of
 these regulations shall be held to be the minimum requirements for the
@@ -40686,6 +40689,11 @@ Construction Standards and Drawings.
       DEAD-END STREET. See THOROUGHFARE.
       DEDICATION. The appropriation of land to the Village of Anna by its owner
 for any public use.
+      DEVELOPED LAND. Land that has been improved with buildings or facilities,
+making it reasonably capable of being used for a specific purpose. This can
+include residential, commercial, industrial, or other types of land uses.
+Developed land often includes improvements like roads, utilities, and other
+infrastructure necessary for the intended use.
       DEVELOPER. Any person, subdivider, partnership, or corporation or duly
 authorized agent who constructs or contracts to construct improvements on
 subdivided land.
@@ -40845,7 +40853,8 @@ characteristics of the uses.
       ZONING REGULATIONS. The zoning regulations for the Village of Anna which
 regulates the use of land by districts or zones and as the same may be amended
 or supplemented.
-(Ord. passed 1-12-1999; Am. Ord. 1579-11, passed 9-13-2011)
+(Ord. passed 1-12-1999; Am. Ord. 1579-11, passed 9-13-2011; Am. Ord. 25-1865,
+passed 6-10-2025)
 MINOR SUBDIVISION
 § 152.035 MINOR SUBDIVISION CONDITIONS.
    Subdivision proposals may, at the discretion of the Zoning Administrator, be
@@ -41661,12 +41670,18 @@ constructs a sidewalk is responsible for curb-ramps at intersections and any
 sidewalk located on a public access that may be dedicated to the village at a
 later time. Homeowners will be required to install sidewalks on individual
 properties within six months of finalized building construction (occupation of
-the building). Two years after that particular phase of the subdivision is
-accepted and once 50% of the lots within that particular phase of the
-subdivision are developed, sidewalks must be installed on all lots by whomever
-owns the properties. If the sidewalks are not installed, the village will
-perform the installation and assess the property owner for all cost incurred.
-(Ord. passed 1-12-1999) Penalty, see §
+the building) and new subdivisions as follows:
+      (1)   Two years after that particular phase of a new subdivision roads,
+water, sewer and storm lines are accepted by the village.
+      (2)   Once 75% of the lots within that particular phase of the
+subdivision are developed.
+      (3)   The property owner shall install sidewalks if construction begins
+and both the two years and 75% are not met because the development has stopped
+for more than one year.
+   (C)   Sidewalks must be installed on all lots by the property owner. If the
+sidewalks are not installed, the village will perform the installation and
+assess the property owner for all cost incurred.
+(Ord. passed 1-12-1999; Am. Ord. 25-1865, passed 6-10-2025) Penalty, see §
 152.999
 § 152.120 BLOCKS.
    The following regulations shall govern the design and layout of blocks.
@@ -42420,7 +42435,7 @@ henceforth be subject to all appropriate regulations of the extended districts.
 In the event of a partial vacation, the adjoining district, or district nearest
 the portion vacated, shall be extended automatically to include all the vacated
 area.
-[https://export.amlegal.com/media/d242f48f8c3ea0b378b53d29c8e581801b2dcaa5/
+[https://export.amlegal.com/media/79e412173f32641549ef5df65e9b38d808889edb/
 IMAGES/0-0-0-3970.jpg]
  
 (Ord. 1227-98, passed 1-12-1999; Am. Ord. 1574-11, passed 6-14-2011)  Penalty,
@@ -43087,7 +43102,7 @@ disposal.
    (L)   The developer has proposed to install all necessary infrastructure
 improvements, including streets, sidewalks, storm drainage systems and
 utilities according to village specifications.
-[https://export.amlegal.com/media/d242f48f8c3ea0b378b53d29c8e581801b2dcaa5/
+[https://export.amlegal.com/media/79e412173f32641549ef5df65e9b38d808889edb/
 IMAGES/0-0-0-3972.jpg]
  
 (Ord. 1227-98, passed 1-12-1999; Am. Ord. 1574-11, passed 6-14-2011)
@@ -45252,7 +45267,7 @@ violation, shall each be guilty of a separate offense and upon conviction
 thereof shall be imprisoned as herein provided.
 (Ord. 1227-98, passed 1-12-1999)
 APPENDIX A: OFFICIAL ZONING DISTRICT MAP
-[https://export.amlegal.com/media/d242f48f8c3ea0b378b53d29c8e581801b2dcaa5/
+[https://export.amlegal.com/media/79e412173f32641549ef5df65e9b38d808889edb/
 IMAGES/0-0-0-3119.bmp]
 (Ord. 1227-98, passed 1-12-1999)
 TABLE OF SPECIAL ORDINANCES
@@ -47363,6 +47378,9 @@ Ord. No.   Date Passed Code Section
 23-1840    10-24-2023  153.177
 24-1842    1-9-2024    TSO Table XIV
 24-1843    1-23-2024   91.04
+                       152.006,
+25-1865    6-10-2025   152.020,
+                       152.119
                       
  
  
