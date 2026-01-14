@@ -1,7 +1,7 @@
 BLUE ISLAND, ILLINOIS
 CODE OF ORDINANCES
-2025 S-3 Supplement contains:
-Local legislation passed through November 25, 2025
+2026 S-3 Supplement contains:
+Local legislation passed through December 16, 2025
 State legislation current through Illinois Legislative Service, 2024 Pamphlet
 No. 3
  
@@ -9292,7 +9292,7 @@ attempt to commit, a felony or in violation of the Cannabis Control Act;
 attempt to commit, an offense in violation of the Illinois Controlled
 Substances Act:
       (5)   Operation or use of a motor vehicle in the commission of, or in the
-attempt to commit, an offense in violation of Section 24-1, 24-1.5, or 24-3.1
+attempt to commit, an offense in violation of Section 24-1, 24-1.6, or 24-3.1
 of the Criminal Code of 1961 or the Criminal Code of 2012;
       (6)   Driving while a driver's license, permit, or privilege to operate a
 motor vehicle is suspended or revoked pursuant to Section 6-303 of the Illinois
@@ -9343,7 +9343,7 @@ with a law enforcement agency in a timely manner.
 follows:
  
 Offense                                   Amount
-625 ILCS 5/11-204                         $1,500
+625 ILCS 5/11-204 and 625 ILCS 5/11-204.1 $1,500
 625 ILCS 5/11-501;                        $1,000
 720 ILCS 5/24-1 through 720 ILCS 5/24-3.9
 Any other offense referenced in §        $500.00
@@ -9358,7 +9358,7 @@ provision of this subchapter, a motor vehicle impounded pursuant to this
 subchapter shall not be released if it is being held as evidence in connection
 with a criminal investigation or proceeding, is subject to a lawful court
 order, or is otherwise required by law to remain impounded.
-(Ord. 2025-063, passed 11-25-2025)
+(Ord. 2025-063, passed 11-25-2025; Ord. 2025-076, passed 12-16-2025)
 § 70.041 IMPOUNDMENT HEARINGS.
    (A)   Procedure. After a motor vehicle has been impounded pursuant to this
 subchapter, the vehicle shall be released if the owner, lessee, or lienholder
@@ -11936,6 +11936,8 @@ Greenwood Avenue between 123rd Street and   One-way southbound traffic only
 Grunewald Avenue
 Public Alley West of Western Avenue between One-way southbound traffic only
 123rd Street and James Grunewald Street
+Lewis Street between Greenwood Avenue and   One-way eastbound only
+Western Avenue
  
    (B)   Signage. Appropriate signs shall be erected by the Public Works
 Department on the street designated above informing the public regarding the
@@ -11943,7 +11945,8 @@ one-way traffic requirements.
    (C)   Penalty. The operator of any vehicle violating or failing to comply
 with any provisions of this schedule shall be fined not less than $50 and not
 more than $750 for each offense.
-(Ord. 2022-014, passed 2-22-2022; Ord. 2025-046, passed 8-26-2025)
+(Ord. 2022-014, passed 2-22-2022; Ord. 2025-046, passed 8-26-2025; Ord. 2025-
+075, passed 12-16-2025)
 SCHEDULE II. STOP STREETS.
    (A)   The operator of any vehicle proceeding on the streets and in the
 directions hereinafter designated, said street being within the City of Blue
@@ -42005,7 +42008,8 @@ Adult-Use Cannabis Business                                                   
    Cannabis Processing Organization                                                    S          S           
    Cannabis Transporting Organization                                                  S          S           
 Animal Service                                                                                                 
-   Sales and Grooming                                              P          P          P                    P
+   Dog Grooming                                         S           P          P          P                    P
+   Sales and Animal Grooming                                       P          P          P                    P
    Shelter, Kennel, Doggy Daycare                                  S          S          P                    S
    Veterinary Clinic, Animal Hospital                              P          P          P                    P
 Art Studio or Gallery (may include artisanal)              S           P          P          P                    P
@@ -42247,7 +42251,8 @@ less than six feet in width unless it abuts a street or alley
 passed 10-11-2022; Ord. 2022- 062, passed 10-25-2022; Ord. 2024-001, passed 1-
 23-2024; Ord. 2025-017, passed 4-22-2025; Ord. 2025-022, passed 5-27-2025; Ord.
 2025-025, passed 5-27-2025; Ord. 2025-034, passed 6-24-2025; Ord. 2025-036,
-passed 6-24-2025; Ord. 2025-070, passed 11-25-2025)
+passed 6-24-2025; Ord. 2025-070, passed 11-25-2025; Ord. 2025-077, passed 12-
+16-2025)
 § 165.024 BUILDING LINE SETBACK FROM ALLEYS IN ALL DISTRICTS.
    (A)   No building shall be erected, moved or altered on any lot in any
 district when such lot borders on an alley so as to place any wall thereof
@@ -46334,6 +46339,7 @@ ILCS Section                   Code Section
 625 ILCS 5/6-303               70.087
 625 ILCS 5/7-601(b)            70.087
 625 ILCS 5/11-204              70.040
+625 ILCS 5/11-204.1            70.040
                                11.02,
 625 ILCS 5/11-208.3            11.03,
                                11.08
@@ -48859,5 +48865,8 @@ Ord. No.  Date Passed Code Section
 2025-064  11-25-2025  90.050 -
                       90.053
 2025-070  11-25-2025  165.023
+2025-075  12-16-2025  Ch. 76, Sch. I
+2025-076  12-16-2025  70.040
+2025-077  12-16-2025  165.023
                      
    
