@@ -20,13 +20,13 @@ is correctly set forth and constitutes the Codified Ordinances of Hudson, Ohio,
                         /s/   Aparna Wheeler
                            Clerk of Council
 OFFICIALS
-CHRISTOPHER A. BANWEG
 MICHAEL BIRD
-CHRISTOPHER W. FOSTER
+KYLE BREZOVEC
+SAMANTHA D’ERAMO
 PATRICIA GOETZ
-KAREN E. HEATER
-NICOLE V. KOWALSKI
-SKYLAR J. SUTTON
+SKYLAR SUTTON
+AMANDA WEINSTEIN
+DAN WHITE
 City Council Members
 JEFFREY L. ANZEVINO
 Mayor
@@ -3419,6 +3419,9 @@ Adopting Ordinance                          606.165,
                                              220.03,
 25-173                     12-2-25           220.031,
                                              220.10
+25-163                     11-25-25          410.01
+25-167                     1-6-25            Pt. 12, Appendix A
+25-168                     1-6-25            1203.01
                                             
  
 TABLES OF SPECIAL ORDINANCES
@@ -3919,6 +3922,21 @@ Res. 20-141    11-4-20     and emergency access easement agreement with the
                            Vacating a portion of a sanitary sewer easement and
 Res. 22-94     8-16-22     accepting the dedication of a sanitary sewer
                            easement in Colony Park.
+                           Authorizing the City Manager to enter into a water
+                           and electric access easement agreement and a
+Res. 25-59     4-8-25      sidewalk easement agreement with 5698 Hudson LLC for
+                           the property at the southwest corner of Terex Road
+                           and Hudson Drive.
+                           Authorizing the City Manager to enter into storm
+Res. 25-100    7-8-25      water easements for the 1900 Middleton Road Drainage
+                           Improvement Project.
+                           Authorizing the City Manager to enter into an access
+Res. 25-115    8-19-25     and stormwater easement agreement with the Country
+                           Club of Hudson located at 2155 Middleton Road.
+                           Authorizing the City Manager to enter into contracts
+Res. 25-116    8-19-25     for the acquisition of temporary easements for the
+                           Downtown Pedestrian Safety Project (PID# 120285) for
+                           right-of-way purposes.
                           
  
 TABLE C - VACATING OF STREETS AND ALLEYS
@@ -4141,6 +4159,10 @@ Res. 96-209 12-18-96    Dedication plat for sanitary sewer and other utility
                         Accepting dedication of the public streets, easements,
 21-143      12-7-21     and public improvements within Lake Christine
                         subdivision.
+                        Accepting the dedication of the public street and
+25-148      10-7-25     easements along Franklin Street, entering into easement
+                        agreements with property owners, and vacating a portion
+                        of Franklin Street.
                        
  
 TABLE E - ACQUISITION AND DISPOSAL OF REAL PROPERTY
@@ -4561,6 +4583,24 @@ Res.           Authorizing the City Manager to enter into a contract with Lake F
 Res.           Authorizing the City Manager to enter into a purchase and sale agreement with
 24-   11-12-24 Norfolk Southern Railway Company for the purchase of approximately 10.77
 121            acres located at parcel No. 30-04145.
+Res.           Authorizing the City Manager to enter into an agreement with Mr. Daniel
+25-40 3-4-25   Steidl for the purchase of a 14.75 acres of Parcel No. 32-02675 located on
+               South Main Street.
+Res.           Authorizing the City Manager to enter into an agreement with owners of a
+25-41 3-4-25   property located at Parcel No. 32-01646, for the purchase of 14.22 acres of a
+               16.9 acre parcel.
+Res.           Authorizing the City Manager to enter into an agreement with Mr. Arthur
+25-42 3-4-25   Joseph Jr. and Nancy L. Stokes, owners of a property located at Parcel No.
+               32-01642, for the purchase of 6.66 acres of an 11.5 acre parcel.
+Res.           Authorizing the City Manager to enter into an agreement with the owners of a
+25-67 4-15-25  property located at Parcel No. 3001552, for the exchange of approximately
+               .14405 acres with a City property located at Parcel No. 3001315.
+Res.           Authorizing the City Manager to enter into an agreement for the sale of
+25-   9-2-25   approximately 0.1705 acres of City property located at Parcel No. 30-01315.
+123
+Res.           Authorizing the City Manager to proceed with the transfer of vacant land
+25-   10-21-25 through the side lot and vacant land transfer program of the Summit County
+158            Land Bank, an Ohio Nonprofit Community Improvement Corporation.
               
  
 TABLE F - LEASE OF REAL PROPERTY
@@ -4781,6 +4821,12 @@ Res. 12-6-  Authorizing the City Manager to execute addenda to leases for space 
 Res.        Authorizing the City Manager to enter into a lease agreement With Christ
 24-  5-7-24 Community Chapel and its Men of the Word Bible Study for space at City Hall.
 38
+Res.        Authorizing the City Manager to enter a lease agreement with the Hudson Fire
+25-  4-8-25 Museum and Historical Education Society, Ltd.
+64
+Res. 12-16- Authorizing the City Manager to execute amendments to leases for space at
+25-  25     1769 and 1566 Georgetown Road for use by the City Public Works Department
+191         through August 31, 2027.
            
  
 TABLE G - GRADE LEVELS AND CHANGE OF STREET NAME
@@ -5088,6 +5134,12 @@ Res.          Approving the application for placement of land in a current agric
 Res.          Approving the application for placement of land in a current agricultural use
 23-  4-18-23  district for purposes of R.C. § 929.02 for Vincent Roman, 7005 Walters Road.
 36
+Res.          Approving the application for placement of land in a current agricultural use
+25-  3-18-25  district for purposes of R.C. § 929.02 for Charles P. and Susan Robinson, 7936
+44            Ravenna Road.
+Res.          Approving the application for placement of land in a current agricultural use
+25-  5-6-25   district for purposes of R.C. § 929.02 for JoAnn Poulton, 5457 Stow Road.
+65
              
  
 TABLE J - LICENSE AGREEMENTS
@@ -11122,7 +11174,7 @@ Darrow Rd.           Barlow Rd.           railroad overpass  35
 Darrow Rd.           Baldwin St.          Valleyview Rd.     35
 Darrow Rd.           Valleyview Rd.       N. Corp. Line      45
 First St.            W. Streetsboro St.   Clinton St.        25
-Hines Hill Rd.       W. Corp. Line        Prospect           45
+Hines Hill Rd.       W. Corp. Line        Prospect St.       35
 Hines Hill Rd.       Prospect             Darrow Rd.         35
 Hudson-Aurora Rd.    Hayden Pkwy. North   E. Corp. Line      35
 Hudson Dr.           Darrow Rd.           S. Corp. Line      35
@@ -11157,7 +11209,8 @@ intent of this schedule to increase the speed limit in school zones during
 applicable school zone hours.
 (Ord. 95-234. Passed 3-6-96; Ord. 05-133. Passed 9-21-05; Ord. 07-29. Passed 4-
 18-07; Ord. 10-93. Passed 8-4-10; Ord. 20-153. Passed 12-1-20; Ord. 21-9.
-Passed 2-16-21; Ord. 24–5. Passed 1-16-24; Ord. 24-49. Passed 5-21-24.)
+Passed 2-16-21; Ord. 24–5. Passed 1-16-24; Ord. 24-49. Passed 5-21-24; Ord. 25-
+163. Passed 11-25-25.)
 410.02 SCHEDULE II - NO LEFT TURNS.
    Following are the no-left turn intersections in the City:
  
@@ -50703,7 +50756,7 @@ or other development approval shall be issued for a lot that does not meet the
 minimum lot area requirements of this Code, except as otherwise allowed in this
 Code.
 Figure 1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6521.png]
  
    (b)   Lot Width Measurement. Lot width refers to the horizontal distance
@@ -50714,7 +50767,7 @@ between the side lot lines along a line that is parallel to the front lot line
 and located the minimum front setback distance from the front lot line. (See
 Figure 1)
 Figure 2
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6525.png]
  
    (c)   Setbacks–Building and Structure Setbacks from Lot Line. Setbacks shall
@@ -50755,7 +50808,7 @@ yard, where the rear or side yard abuts an alley, one-half of the width of the
 alley may be included as a portion of the required rear or side yard, subject
 to the limits in division (c)(3)B. of this section. (See Figure 3)
 Figure 3
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6527.png]
  
          B.    No building where a side or rear yard is required shall be
@@ -50778,7 +50831,7 @@ of the highest roof beam on a flat or shed roof, the deck level on a mansard
 roof, or the average distance between the eaves and the apex of a gable, hip,
 or gambrel roof. (See Figure 4)
 Figure 4
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6531.png]
  
       (2)   Measurement of maximum fence height in feet. Height shall be
@@ -51481,7 +51534,59 @@ writing to an extension of time.
 type of development application is set forth in Appendix A to this Code. The
 schedule of submittal requirements shall be reviewed annually and shall be
 adjusted by resolution, if necessary, by City Council.
-(Ord. 18-93. Passed 10-15-19.)
+   (k)   Transfer of Planning Commission Approval.
+      (1)   Construction conformity: Where Planning Commission approval has
+been given, all new construction must be consistent with the plans and
+representations submitted by an applicant to the Planning Commission and the
+Community Development Department in order to obtain a zoning certificate. As
+used in this subsection (k) "approval" shall mean final approval by the
+Planning Commission or, in the event of an appeal, the final order of any
+reviewing body or court.
+      (2)   Prohibition on approval transfer: Unless the process in this
+section is followed, Planning Commission approval cannot be transferred to a
+subsequent landowner or developer at any time: (1) during the year immediately
+following the approval; or, (2) prior to the completion of compliant
+construction, whichever period is longer.
+      (3)   Revocation of approval: Planning Commission approval is immediately
+rendered void and revoked as a matter of law if a property is transferred to an
+unaffiliated owner or developer other than the entity originally represented to
+be the developer at time of approval where a zoning certificate has been issued
+under this code and at least one of the following has not occurred:
+         A.   Twelve months have not passed since the last approval was issued;
+         B.   Construction has not been completed; or
+         C.   The process in subsection (d) has not been completed.
+         As used in this subsection (k), "unaffiliated owner" shall be a person
+or entity that did not appear as part of the initial application and public
+hearing before the Planning Commission. An unaffiliated owner is not a person
+or entity that had a majority of ownership interest in the original owner which
+received approval and has the same or substantially similar ownership interest
+in the entity to which the property is being transferred.
+      (4)   Transfer application and process: Planning Commission approvals may
+be transferred to a subsequent landowner prior to the issuance of all final
+inspections and approvals the Planning Commission and the Community Development
+Department so long as the prospective owner has submitted an application and
+appeared at a hearing before the Planning Commission wherein the prospective
+new owner/applicant expressly agrees to abide by all prior conditions and plans
+approved by the Planning Commission. In the event any prospective purchaser
+seeks to modify the development, conditions, and/or plans, it must
+affirmatively identify any changes in the development. The applicant must also
+post a performance bond in the amount of no less than 110 percent of the
+project's estimated improvements.
+      (5)   Prohibited transfers: Transfer of applications under paragraph (4)
+above cannot be filed if any of the following apply:
+         A.   At least fifty percent of the originally projected construction
+costs have been incurred in furtherance of the development described in the
+Planning Commission approval;
+         B.   If the purchasing party refuses to abide by all initial terms and
+conditions attached to the Planning Commission approval;
+         C.   If the applicant intended to sell the property and did not
+disclose this prior to the issuance of Planning Commission approval;
+         D.   If the purchasing party was known to the applicant and was not
+disclosed to the Planning Commission prior to the issuance of the Planning
+Commission approval; or
+         E.   If the Planning Commission approval was obtained as a result of
+fraud, deception, or any other improper method.
+(Ord. 18-93. Passed 10-15-19; Ord. 25-168. Passed 1-6-26.)
 1203.02   CORE DEVELOPMENT REVIEW PROCEDURE.
    All development applications are subject to the following seven-step "core"
 approval procedure, unless variations or exceptions to the core procedure are
@@ -53066,7 +53171,7 @@ specifically included within any of the districts shown on the official zoning
 map, such land shall automatically be classified in District 2, Rural
 Residential Conservation.
 Official Zoning District Map in easy to read PDF, click HERE
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6985.jpg]
  
 (Ord. 18-93. Passed 10-15-19.)
@@ -53698,7 +53803,7 @@ the street or perpendicular to a radius of the curve of the street extended
 through the approximate center of the main mass, if the street is curved.
          B.   Principal residential structures–single-family attached.
 Figure 6.
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6539.png]
  
             2.   The front wall of the principal structure, or the front wall
@@ -54752,7 +54857,7 @@ line (i.e., perpendicular to the Route 91 right-of-way). (See Figure 7)
 create an interior space or courtyard, in which parking areas or private open
 space may be located. (See Figure 7)
 Figure 7.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6545.png]
  
          C.    Loading and service docks shall be sited either at the rear of
@@ -58808,23 +58913,23 @@ this section, the required bufferyard may be satisfied concurrently with the
 requirements of division (m) of this section by the more intensive planting and
 the more extensive width required by either this division or division (m) of
 this section.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6555.png]
  
 Figure 10: Bufferyard A - Minimal
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6551.png]
 Figure 11: Bufferyard B - Minimal
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6557.png]
  
 Figure 12: Bufferyard C - Moderate
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6561.png]
  
 Figure 13: Bufferyard D - Substantial
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6563.png]
  
 Figure 14: Bufferyard E - Major
@@ -58945,7 +59050,7 @@ size in vehicular use areas less than 30,000 square feet and no individual area
 shall be larger than 2,000 square feet in vehicular use areas over 30,000
 square feet. Individual landscape areas larger than above are permitted as long
 as the additional area is in excess of the required minimum total.
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6565.png]
  
 Figure 15: Interior Landscape Requirements
@@ -58956,7 +59061,7 @@ width of five feet exclusive of vehicle overhang. (See Figure 16)
 material that will achieve an effective, opaque screen of a height of at least
 three feet within two years of installation. The perimeter buffer zone shall
 also contain deciduous trees and allow adequate snow storage area.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6567.png]
    Figure 16: Perimeter Landscape Requirements
          C.   When perimeter landscaping of parking lots is required even in
@@ -58966,7 +59071,7 @@ requirements of division (g) of this section by the more intensive planting and
 the more extensive width required by either this division or division (g) of
 this section.
       (4)   Vehicle overhang.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6571.png]
  
 Figure 17: Vehicle Overhang
@@ -59123,7 +59228,7 @@ eight feet of limbless trunk shall be permitted within the sight distance
 triangle. In the case of a City street intersection, the sight triangle shall
 consist of the area between points twenty feet along both intersecting streets
 from their respective edge of pavements. (See Figure 18)
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6575.png]
  
 Figure 18: Clear Sight Triangles
@@ -60012,7 +60117,7 @@ with similar hours and parking requirements as those uses sharing the parking
 facilities remain for the life of the development.
       (4)    Shared parking spaces shall be located no more than 300 feet from
 the uses they are intended to serve.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6577.png]
  
    Figure 21: Shared Parking Facilities Encouraged
@@ -60077,12 +60182,12 @@ feasible. Parking spaces shall not be located along entry drives within thirty
 feet of the right-of-way or easement line (and at greater distances as may be
 required by the Planning Commission depending on traffic generation and parking
 lot size). (See Figure 22)
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6579.png]
  
 Figure 22: Parking Stall and Aisle Layout (letters reference headings in the
 above table)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6581.png]
 Figure 23: Parking Along Entry Drives
    (n)    Maneuverability Areas. In order to promote adequate maneuverability,
@@ -60139,7 +60244,7 @@ encroach on pedestrian circulation or the required setback for desirable plant
 growth. Where wheel stops are used, the paved area of the parking stall length
 required in division (k) of this section and illustrated in Figure 22
 (Dimension "C") shall not be reduced.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6583.png]
  
 Figure 24: Stall Dimensions with Continuous Curbs
@@ -61125,7 +61230,7 @@ the sign area when the area of the protrusion is less than twenty-five percent
 of the open space included in the sign area. For the purposes of this section,
 only the open space within the sign area that is located above and below the
 majority of the letters shall be included in the calculation. See Figure 1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6587.png]
 Figure 1. Calculation of open space area and area of minor protrusion
          D.   For ground signs, projecting signs, and A-Frame signs:
@@ -61141,7 +61246,7 @@ sign area.
 projecting sign and the wall to which it is attached, and lighting fixtures and
 associated brackets shall not be included in the calculation of sign area. See
 Figure 2.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6589.png]
  
 Figure 2. Calculation of sign area
@@ -61173,7 +61278,7 @@ building frontage for a building unit shall be measured from the centerline of
 the party walls defining the building unit.
       (4)    Determining window area.  Determining window area. The window area
 of a building shall be the total glass area of framed window opening
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6720.png]
  
    (d)   Signs in Nonresidential Districts. Signs in nonresidential districts
@@ -62042,13 +62147,13 @@ Bufferyard "E". No structure shall be permitted within a required bufferyard
 other than a wall, fence, or earth berm. A driveway in the side yard that
 connects a paving area on the lot to the street shall not encroach into the
 bufferyard.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6593.png]
  
 Figure 1: Bufferyard D - Substantial[https://export.amlegal.com/media/
-cbbbfba71ee94e32624de318a23d43f922765a04/IMAGES/0-0-0-6079.gif]
+4cb4df172925303de616852176726ea4e7f3d3c2/IMAGES/0-0-0-6079.gif]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6595.png]
  
 Figure 2: Bufferyard E - Major
@@ -62085,7 +62190,7 @@ less than 160 square feet of interior landscaped parking lot areas with a
 minimum planting width of nine feet.
             3.   Each landscape area shall contain at least one tree and four
 shrubs. (See Figure 3)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6597.png]
  
 Figure 3: Interior Landscape Requirements
@@ -62105,7 +62210,7 @@ screen of a height of at least three feet within two years of installation. The
 perimeter plantings shall also contain deciduous trees.
             3.   Perimeter landscaping is not required in addition to a
 required bufferyard. (See Figure 4)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6599.png]
  
    Figure 4: Landscaping for Parking Lots
@@ -62147,12 +62252,12 @@ eight feet of limbless trunk shall be permitted within the sight distance
 triangle. In the case of a City street intersection, the sight triangle shall
 consist of the area between points twenty feet along both intersecting streets
 from their respective edge of pavements. (See Figure 6) [https://
-export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/IMAGES/0-0-0-
+export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/IMAGES/0-0-0-
 6085.gif]
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6601.png]
 Figure 5: Vehicle Overhang
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6603.png]
  
 Figure 6: Clear Sight Lines
@@ -62777,10 +62882,10 @@ area and width requirements specified in Chapter
    (c)   Corner Lots. Corner lots shall be configured only as shown in Figure
 30a, below. The configuration of corner lots illustrated in Figure 30b, below
 shall be prohibited in all districts.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6605.png] 
 Figure 30a
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6607.png]
  
 Figure 30b
@@ -65528,237 +65633,175 @@ amended.
 Passed 1-4-22; Ord. 23-154. Passed 4-9-24; Ord. 25-57. Passed 6-3-25; Ord. 25-
 92. Passed 10-7-25.)
 APPENDIX A - SUBMITTAL REQUIREMENTS
-Index:
-   Core Submittal Requirements
-   Pre-Application Review
-   Site Plan Review (Other than Minor Development)
-   Conceptual Site Plan Review
-   Site Plan Review for Minor Development
-   Tree and Vegetation Plan
-   Landscaping/Bufferyard Plan
-   Off-Street Parking and Loading
-   Exterior Lighting Plan
-   Minor Modifications
-   Minor Subdivision
-   Preliminary Subdivision Plan
-   Final Subdivision Plat
-   Improvement Plans
-   Preliminary Planned Development (PD) Plan
-   Final Planned Development (PD) Plan
-   Development Agreements
-   Zoning Code Map Amendment
-   Zoning Code Text Amendment
-   Conditional Use Application
-   Variance
-   Appeals to the BZBA of Administrative Decisions
-   Enlargement, Extension, Replacement, or Substitution of a Nonconforming Use
-or Structure
-   Architecture and Historic Board of Review
 Core Submittal Requirements (as Applicable)
-   1.   A complete application form provided by the Community Development
-Department, copies of the plan or plat as required, and the required fee as
-established by City Council.
-   2.   Name of Development or Subdivision; names of adjacent subdivisions.
-   3.   Name and address, including telephone number of legal owner or agent of
-property, and citation of last instrument conveying title to each parcel of
-property involved in the current proposal, giving grantor, grantee, date, and
-land records reference.
-   4.   All existing subdivision plat notes, deed restrictions and/or
+   1.   A complete application provided by the Community Development Department
+and the required fee as established by City Council.
+   2.   Name and address, including telephone number of legal owner or agent of
+property.
+   3.   All existing subdivision plat notes, deed restrictions and/or
 restrictive covenants registered on the subject parcel.
-   5.   Name and address, including telephone number, fax number and/or e-mail
-address of the professional person(s) responsible for site or subdivision
-design, for the design of public improvements, and for surveys.
-   6.   Name and address of adjoining property owners from the latest
-assessment rolls within five hundred (500) feet of any perimeter property line
-of the site or subdivision.
-   7.   A vicinity map, locating the subject property and showing streets and
-other general development of the surrounding area.
-   8.   A drawing of the subject property at the required scale, with north
-arrow and date. This will include the location of the property by municipality
-and parcel number according to County real estate records. All plans and plan
-revisions shall be dated: month, day, year.
-   9.   The approximate location, dimensions, and areas of all proposed or
-existing lots. A statement of the proposed use of the building sites or lots.
-Include the existing land use of the site and adjacent land, and location of
-existing buildings within 200 feet of the property line of the site or
-subdivision. Where applicable, list of lots, blocks, parcels and applicable
-acreages.
-   10.   The approximate location, dimensions, and area of all parcels of land
-proposed to be set aside for open space, park or other public use, or for the
-use of property owners in the proposed development.
-   11.   Location of property lines, existing easements and other restrictions,
+   4.   Name and address, including telephone number and e-mail address of the
+professional person(s) responsible for site or subdivision design, for the
+design of public improvements, and for surveys.
+   5.   A drawing of the subject property to scale, with north arrow and date.
+All plans and plan revisions shall be dated: month, day, year.
+   6.   The location, dimensions, and areas of all proposed or existing lots.
+   7.   A statement of the proposed use of the building sites or lots. Include
+the existing land use of the site and adjacent land, and location of existing
+buildings within 200 feet of the property line of the site or subdivision.
+Where applicable, list of lots, blocks, parcels and applicable acreages.
+   8.   Location of property lines, existing easements and other restrictions,
 railroad rights-of-way, watercourses, wetlands, other natural features such as
-steep slope, rock out croppings and existing wooded areas. Also indicate limits
+steep slope, rock outcroppings and existing wooded areas. Also indicate limits
 of 100 year flood boundaries as defined by the Flood Insurance Rate Maps (FIRM)
-of the U.S. Department of Housing and Urban Development. (Available for review
-at the Community Development Department).
-   12.   Tree and Vegetation Plan and Landscaping/Bufferyard Plan. (see
-following submittal requirements list).
-   13.   Location, width, and names of all existing streets within or
+of the U.S. Department of Housing and Urban Development.
+   9.   Location, width, and names of all existing streets within or
 immediately adjacent to the property.
-   14.   The approximate location and widths of proposed streets, and
+   10.   The approximate location and widths of proposed streets, and
 easements.
-   15.   Location, sizes, elevations and slopes of existing sewers, water
-mains, storm drains, fire hydrants, culverts, gas, electric and telephone lines
-and other underground structures within the tract and immediately adjacent
-thereto; existing utility poles on or immediately adjacent to the site and
-utility rights-of-way.
-   16.   Preliminary proposals for connection with existing water supply and
+   11.   Location, sizes, elevations and slopes of existing sewers, water
+mains, storm drains, fire hydrants, culverts, gas, electric and telephone
+lines, well and septic systems, and other underground structures within the
+tract and immediately adjacent thereto; existing utility poles on or
+immediately adjacent to the site and utility rights-of-way.
+   12.   Preliminary proposals for connection with existing water supply and
 sanitary sewage systems, preliminary provisions for storm water management;
 plans shall show the relationship with existing utility capacities.
-   17.   Location of all existing oil and gas wells, easements, tank batteries,
+   13.   Location of all existing oil and gas wells, easements, tank batteries,
 flow and sale lines, ingress and egress roads, and other activities usually
 associated with such oil and gas extraction within five hundred (500) feet of
 the site or subdivision boundaries.
-   18.   A map of existing topography.
-   19.   Zoning classifications and district boundaries applicable to the site
-or subdivision and surrounding property.
-   20.   Demonstration of compliance with the requirements of this Land
-Development Code on any plans or proposals submitted. Provide check list of all
-materials submitted with dates of submission.
-   21.   Anticipated impact on traffic levels and off-site circulation system.
-Traffic impact study demonstrating peak hour level of service pre-development
-and post-development and any recommended mitigation. Traffic impact studies
-shall be in accordance with the Hudson Guideline Manual for the "Preparation of
-a Traffic Impact Study." See Section
+   14.   A map of existing topography.
+   15.   A completed check list provided by the Community Development
+Department of all materials submitted.
+   16.   Traffic impact study, or trip generation analysis, as determined by
+the Engineering Department, demonstrating peak hour level of service pre-
+development and post-development and any recommended mitigation. Traffic impact
+studies shall be in accordance with the Hudson Guideline Manual for the
+"Preparation of a Traffic Impact Study." See Section
 1207.13 Transportation, Circulation and Pedestrian Linkage.
-   22.   Anticipated phases of development and timing. A development schedule
+   17.   Anticipated phases of development and timing. A development schedule
 shall indicate the approximate date when construction of the project or stages
 of the same can be expected to be completed, including the proposed phasing of
 construction of public improvements and recreational and common space areas.
-   23.   Sketch Plan or Site Specific Development Plan shall include the
-following information:
-      a.   Uses proposed;
-      b.   Intensity or density of uses proposed;
-      c.   Location of public and private open space;
-      d.   Location of existing and proposed buildings on the site;
-      e.   Road, street, and pedestrian networks proposed.
-   24.   Anything that is digitally produced submitted in a format acceptable
-to the City.
-   25.   Storm Water Pollution Prevention Plan.
-   26.   Current deed.
-   27.   Written authorization of all owners on deed.
-   28.   Any special natural area or environmental study or report as requested
-by the Planning Director.
-   29.   All existing subdivision plat notes, deed restrictions and/or
-restrictive covenants registered on the subject parcel.
-   30.   Subject property is staked at time of application (property
-boundaries, building envelope, limits of disturbance, parking areas).
-   31.   Record and application for an approval status of all necessary permits
+   18.   Site Development Plan shall include the following information:
+      a.   Intensity or density of uses proposed;
+      b.   The approximate location, dimensions, and area of all parcels of
+land proposed to be set aside for open space, park or other public use, or for
+the use of the property owners in the proposed development.
+      c.   Location of existing and proposed buildings on the site;
+      d.   Road, street, and pedestrian networks proposed.
+   19.   Current deed.
+   20.   Any environmental study or report as requested by the Community
+Development Department.
+   21.   Subject property is staked at time of application, by a licensed
+surveyor or civil engineer (property boundaries, building envelope, limits of
+disturbance, parking areas).
+   22.   Schedule of applications and approval status of all necessary permits
 from state and county officials.
+   23.   Disclosure of any current or pending contracts related to the
+property.
 Pre-Application Review 
-   Submittal Requirements for Pre-Application Review. The following core
-requirements shall be submitted as part of the application materials:
-   1, 2, 3, 5, and 23.
+   Submittal Requirements for Pre-Application Review.
+   1.   Concept site plan depicting approximate property boundaries, proposed
+improvements, and setbacks.
+   2.   Detailed description of proposed use.
 Site Plan Review (Other than Minor Development) 
-   Core requirements except for 23. In addition, the following information
+   Core requirements except for 18. In addition, the following information
 shall be submitted:
-   32.   A drawing of the subject property at a scale not less than one (1)
-inch equals one hundred (100) feet, on sheets no larger than thirty (30) inches
-by forty-two (42) inches.
-   33.   Legal description of the property.
-   34.   Indication of building envelopes and proposed limits of clearing.
-   35.   Approximate square footage and approximate dimensions of each lot and
-the total acreage of the subject property.
-   36.   Site/building plan(s) shall include the following:
+   1.   Site/building plan(s) shall include the following:
       a.   Location of every existing and proposed building with the number of
 floors and gross floor area.
-      b.   For multi-family residential developments, a statement of the
-average project density as well as the maximum density per acre in the project
-must be provided.
+      b.   For residential developments, a calculation of the project density
+as well as the maximum density per acre in the project must be provided.
       c.   All modifications, changes, or additions to existing building(s) and
 structure(s) including floor area, heights, and setbacks.
-      d.   Location and type of all proposed uses including approximate number
-of acres, gross floor area, and height as well as the approximate area of any
-proposed open space including the location of any proposed recreational
-amenities.
+      d.   Location and type of all proposed uses including number of acres,
+gross floor area, and height as well as the area of any proposed open space
+including the location of any proposed recreational amenities.
       e.   Location of all proposed pedestrian walkways.
-      f.   Location and type of buffering proposed between single family
-residential, multi-family residential, and non-residential uses.
-      g.   A description of the location and screening of waste facilities,
-loading facilities and other service structures.
-   37.   A map of existing topography plotted in at least two (2) foot
-intervals. Identification of the environmental features of the site including
-soil types, wetland areas, and wetland related vegetation; surficial and
-subsurficial geologic formations; and any other significant natural features.
-The City has a copy of the report containing the Index of Ecological Integrity
-Scores and applicant shall confer with Community Development staff prior to
-submitting application, to see which IEI elements should be included in the
-application.
-   38.   The location and size of existing wells, and septic tanks.
-   39.   Sign plan.
-   40.   Either a copy of the notice of intent (NOI) application, or a
-statement that a notice of intent to file for a permit demonstrating compliance
-with National Pollution Discharge Elimination System (NPDES) will be sought.
-   41.   Demonstrated compliance with the U.S. Army Corps of Engineer and Ohio
-EPA approvals for any activities disturbing wetland areas, including copies of
-permits.
-   42.   Submittal of Improvement Plan(s) (See submittal requirements above).
-   43.   Performance bond(s) for required improvements.
-      In tabular form, indicate the following information concerning the site:
-total area of site, total impervious cover, percentage of site covered by
+      f.   Depiction of the location and screening of waste facilities, loading
+facilities and other service structures.
+      g.   Distances between buildings.
+   2.   A map of existing topography plotted in at least two (2) foot
+intervals.
+   3.   The City has a copy of the report containing the Index of Ecological
+Integrity Scores and applicant shall confer with Community Development staff
+prior to submitting application, to see which IEI elements should be included
+in the application.
+   4.   The location and size of existing wells, and septic tanks.
+   5.   Depiction of any proposed ground signs. Wetland delineation or
+verification letter, performed by a qualified professional, at the request of
+the City.
+   6.   Submittal of Site Improvement Plan(s) (See submittal requirements
+above).
+   7.   Submittal of itemized Engineer's estimate. The applicant will be
+required to submit a performance bond(s) for required improvements prior to the
+issuance of a zoning certificate.
+      a.   Tabular form, indicate the following information concerning the
+site: total area of site, total impervious cover, percentage of site covered by
 impervious cover, total building coverage, floor area to lot area ratio, gross
 flow area, % total area of undisturbed land with a breakdown by use.
-      In tabular form indicate the following information for each building:
+      b.   Tabular form indicate the following information for each building:
 proposed use and square footage for each use within each structure on the site,
 number of stories, actual height, finished floor elevation, foundation type,
 and total square footage for building and for each floor.
-   44.   Distances between buildings.
-   45.   8½ × 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting.
-   46.   Location of external transformers or other equipment and detail of
+   8.   Location of external transformers or other equipment and detail of
 proposed screening.
-   47.   Finished floor elevation of the ground floor and entrances to all
+   9.   Finished floor elevation of the ground floor and entrances to all
 buildings.
-   48.   Any other information deemed necessary by the City to make a fully
+   10.   Surveyed site plan signed/stamped by a licensed surveyor or civil
+engineer.
+   11.   Storm Water Pollution Prevention Plan.
+   12.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the site plan.
 Conceptual Site Plan Review
-   1.   A completed application form, a fee in the amount of $250, and plan
-review escrow to be determined based on the size of the project.
-   2.   The name of the proposed development and the names of adjacent
-subdivisions.
-   3.   Contact information of the owner and citation of the last instrument
-conveying title.
+   1.   A completed application form, provided by the Community Development
+Department, and the required fee as established by City Council.
+   2.   The name of the proposed development.
+   3.   Name, address, and telephone number of the legal owner or agent of the
+property.
    4.   Contact information of the designer(s), engineer(s), and surveyor(s).
-   5.   Twelve (12) copies of plans that include:
+   5.   Plans that include:
       a.   Site plan showing all existing and proposed buildings, parking
 (including number of spaces), and access drive(s).
-      b.   Environmental inventory including soil conditions, tree inventory,
-water features, wetlands, and any other natural topographical features.
+      b.   Preliminary environmental inventory including tree cover, water
+features, known wetlands, and any other natural topographical features.
       c.   Preliminary grading plan.
       d.   Stormwater management concept plan.
       e.   Uses proposed.
       f.   Intensity or density of uses proposed.
-      g.   Location of public and private open space if required.
+      g.   Location of public and private open space.
       h.   Road, street, and pedestrian networks proposed.
+      i.   Previous studies, inventories, and reports related to the site
+performed within the past ten years.
    6.   Any other information deemed necessary to provide informed feedback on
 the plan.
 Site Plan Review for Minor Development 
-   Core requirements except for: 6, 14, 15, 21, 22 and 23. (Minor Development
+   Core requirements except for: 10, 11, 16, 17, 18, and 21. (Minor Development
 is defined in Chapter
 1203.09(d))
 Tree and Vegetation Plan
    Tree and Vegetation Plan Submittal Requirements. The following application
 materials shall be submitted:
-   7.   A general site survey of all existing vegetation and tree cover on the
+   1.   A general site survey of all existing vegetation and tree cover on the
 site, by type, general location, density of vegetation, and percentage of site
 covered by tree canopy, including:
       a.   Deciduous trees;
       b.   Coniferous trees;
       c.   Woody shrubs;
-   8.   A field-based survey depicting the location and species of all
+   2.   A field-based survey depicting the location and species of all
 individual trees measuring 6 inches DBH and larger located inside of and within
 25 feet of the proposed limits of disturbance. All trees greater than 6 inches
 DBH that are proposed to be removed shall be noted on the survey.
-   9.   Cost estimate of Tree and Vegetation Planting Improvements by a
+   3.   Cost estimate of Tree and Vegetation Planting Improvements by a
 Registered Landscape Architect or qualified professional. This estimate will be
 used to determine the amount of security required for the development. The
 applicant will be required to submit a Letter of Credit for 125% of the value
 of the landscape estimate prior to issuance of a Zoning Certificate.
 Landscaping/Bufferyard Plan 
    Plans must be at a reasonable scale to indicate all types of proposed
-landscaping improvements at a minimum of 1 inch = 20 feet and shall include the
-following information:
+landscaping improvements:
    1.   North arrow and scale.
    2.   The name of applicant/owner.
    3.   The dates the plans are submitted or revised.
@@ -65767,43 +65810,44 @@ planted areas, utility poles, fire hydrants, light standards, signs, retaining
 walls, screens, fences, and other permanent features to be added and/or
 retained on site, including materials and techniques used.
    5.   All existing plant material to be removed or retained.
-   6.   All existing and proposed streets, sidewalks, curbs and gutters,
+   6.   Location and type of buffering proposed between single family
+residential, multi- family residential, and non-residential.
+   7.   All existing and proposed streets, sidewalks, curbs and gutters,
 railroad tracks, drainage ditches and other public or semi-public improvements
 within and immediately adjacent to the site.
-   7.   Contour lines shall be shown if the grades are in excess of six percent
+   8.   Contour lines shall be shown if the grades are in excess of six percent
 (6%) slope.
-   8.   Proposed elevation at sufficient locations and existing elevations of
+   9.   Proposed elevation at sufficient locations and existing elevations of
 the site to clearly show the drainage patterns.
-   9.   All property lines and easements.
-   10.   Proposed limits of disturbance.
-   11.   Included on all plans shall be a table listing the existing plant
+   10.   All property lines and easements.
+   11.   Proposed limits of disturbance.
+   12.   Included on all plans shall be a table listing the existing plant
 material to be retained and all proposed new plant material. This shall include
 the common and botanical names, sizes and other remarks as appropriate to
 describe the material selection.
-   12.   Details shall be shown for the planting of trees, shrubs and ground
+   13.   Details shall be shown for the planting of trees, shrubs and ground
 cover within the bufferyard or landscaped area. Indicate placement of
 vegetation to mitigate any trees removed.
-   13.   Cost estimate of Landscaping Improvements by a Registered Landscape
+   14.   Cost estimate of Landscaping Improvements by a Registered Landscape
 Architect or qualified professional. This estimate will be used to determine
 the amount of security required for the development. The applicant will be
 required to submit a Letter of Credit for 125% of the value of the landscape
 estimate prior to issuance of a Zoning Certificate.
-   14.   Proposed treatment of all ground surfaces.
-   15.   Proposed landscape areas and general treatment such as berming,
+   15.   Proposed treatment of all ground surfaces.
+   16.   Proposed landscape areas and general treatment such as berming,
 planting, sodding and walkways.
-   16.   Plant list stating common name, caliper and quantity of proposed
-planting.
    17.   Typical planting specifications.
    18.   Location, proposed use, height and specifications (where applicable)
 of buildings and other structures, such as retaining walls, fences, outdoor
-storage tanks, air conditioning units and waste disposal units.
-   19.   Detail of any proposed tree protection measures (i.e. tree guards).
+storage tanks, air conditioning units, external transformers, and waste
+disposal units.
+   19.   Detail and location of any proposed tree protection measures (i.e.
+tree guards/fencing).
    20.   Location of proposed roof-top mechanical equipment and detail of
 proposed screening.
-   21.   Location of external transformers and detail of proposed screening.
 Off-Street Parking and Loading 
-   The following shall be indicated on plan drawings submitted (done at a
-minimum scale of 1 inch = 20 feet).
+   The following shall be indicated on scaled plan drawings submitted (done at
+a minimum scale of 1 inch = 20 feet).
    1.   Number and location of off-street parking including handicapped,
 bicycle and motorcycle parking including typical dimensions of each.
    2.   The arrangement of parking aisles.
@@ -65816,48 +65860,45 @@ adjacent to the property.
 the parking lot with interior and perimeter landscaping indicated.
    8.   Typical cross sections of pavement.
    9.   Stormwater drainage facilities.
-   10.   Any other information deemed necessary by the City to make a fully
-informed and deliberate decision on the parking plan.
-   11.   Setbacks of parking areas to property lines.
-   12.   Location and dimensions and required screening of loading areas.
-   13.   Widths of all unobstructed access roadways and driveways with
+   10.   Setbacks of parking areas to property lines.
+   11.   Location and dimensions and required screening of loading areas.
+   12.   Widths of all unobstructed access roadways and driveways with
 appropriate finished grades, widths, lengths, turnarounds and turning radii.
-   14.   All frontage roads, intersections, entrance/exit ramps and driveways
+   13.   All frontage roads, intersections, entrance/exit ramps and driveways
 abutting and adjacent to subject property within 300' of side property lines.
-   15.   Proposed operation of driveways on site plan (i.e. one-way or two-
+   14.   Proposed operation of driveways on site plan (i.e. one-way or two-
 way), identifying and labeling all physical barriers to vehicular access.
-   16.   Physical obstructions (utility poles, trees, storm sewer inlets etc.)
+   15.   Physical obstructions (utility poles, trees, storm sewer inlets etc.)
 in ROW which could affect sidewalks/driveway locations.
-   17.   Dimensions of vertical clearance within fire lanes.
-   18.   All off-street parking; number of required and provided parking spaces
+   16.   Dimensions of vertical clearance within fire lanes.
+   17.   All off-street parking; number of required and provided parking spaces
 including location, number and type (standard, compact, handicapped) of actual
 parking spaces, dimension parking stall depth and width, stall angle, aisle
 width and width on internal driveways, number each parking space, show
 structural supports, turning radii, circulation and ramp grades in parking
 garages.
-   19.   Location of all sidewalks pedestrian ramps between the off-site
+    18.   Location of all sidewalks pedestrian ramps between the off-site
 parking and the public entrances of the use, if handicapped spaces are located
 off-site.
-   20.   Queue spaces or queuing areas for drive-through uses.
-   21.   Location of external refuse collection areas and detail of proposed
+   19.   Queue spaces or queuing areas for drive-through uses.
+   20.   Location of external refuse collection areas and detail of proposed
 external refuse facility and screening.
-   22.   Location of all loading and man doors.
-   23.   Location of outdoor storage.
+   21.   Location of all loading and man doors.
+   22.   Location of outdoor storage.
 Exterior Lighting Plan 
    The following materials shall be submitted:
    1.   A layout of proposed all freestanding and wall-mounted lamp locations
 on site plan and landscaping plan.
    2.   Footcandle data included on a template from the light manufacturer
 which shows the ISO footcandle contours for the given fixture.
-   3.   Description of the equipment (catalogue cuts).
-   4.   Glare control devices.
-   5.   Lamps.
-   6.   Mounting heights and means.
-   7.   Data shall be provided showing the cutoff angle of proposed lamps and
+   3.   Description of the equipment (catalogue cuts) including glare control
+devices.
+   4.   Mounting heights and means.
+   5.   Data shall be provided showing the cutoff angle of proposed lamps and
 demonstrating that nuisance glare is being minimized.
 Minor Modifications 
    The following core requirements shall be submitted as part of the
-application materials: 1, 2, 3 and 5. In addition, the following application
+application materials: 1, 2, and 4. In addition, the following application
 materials shall be submitted:
    1.   What is proposed to be modified and an explanation of why the change is
 being requested.
@@ -65869,109 +65910,92 @@ modifications set forth in Section
 1203.08 of this Code.
    4.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   5.   Any other information deemed necessary by the City to make a fully
-informed decision on the proposed minor modification.
 Minor Subdivision
-   Core requirements except for 6, 7, 10, 14, 15, 21, 22, and 23. In addition,
-the following information shall be submitted:
-   1.   A drawing of the subject property at a scale of not more than one (1)
-inch equals one hundred (100) feet. Acceptable plat sizes may be 8½ × 14; 11 ×
-17; 12 × 18; 18 × 24; or 24 × 36.
+   Core requirements except for 10, 11, 16, 17, and 18. In addition, the
+following information shall be submitted:
+   1.   A scaled drawing of the subject property.
    2.   Tract and plat boundary lines, with length of courses to 1/100 foot and
 bearings to minutes.
    3.   Bearings and distances to street lines, section corners or permanent
-monuments.
-   4.   Section lines tied to lines of subdivision by distances and bearings.
-   5.   Length of all arcs, chords, radii, angles, curvature and tangent
+monuments. The lines of the subdivision tied to section lines or monumented
+intersections by distance and bearings.
+   4.   Length of all arcs, chords, radii, angles, curvature and tangent
 bearings.
-   6.   Precise location and description of all monuments.
-   7.   Minimum or intended building setback lines on all sublots.
-   8.   Certification of the plat by engineer or surveyor to the effect that
+   5.   Precise location and description of all monuments.
+   6.   Minimum or intended building setback lines with preliminary footprints
+on all sublots.
+   7.   Certification of the plat by engineer or surveyor to the effect that
 the plat represents a correct survey made by him and that all the monuments
 shown thereon actually exist, and that their location, size and material are as
 shown.
-   9.   Legal description(s) of the subject parcel and lots.
-   10.   Lot letters and lines to identify each inlot or site and inlots,
+   8.   Legal description(s) of the subject parcel and lots.
+   9.   Lot letters and lines to identify each inlot or site and inlots,
 outlots, or fractional lots within such plat, with precise property dimensions
 in feet and hundredths and with bearings or angles to street and alley or
 crosswalk way lines. All inlots or sites shall be identified by letter,
 consecutively starting with the letter "A."
-   11.   Protective covenants shall be shown on the plat. However, they may be
+   10.   Protective covenants shall be shown on the plat. However, they may be
 recorded as a part thereof in the form of a separate instrument provided
 appropriate reference is plainly shown on the plat.
-   12.   All easements for rights-of-way provided for public services or
+   11.   All easements for rights-of-way provided for public services or
 utilities and any limitations of such easements.
-   13.   If applicable, demonstrated compliance with the U.S. Army Corps of
-Engineers and Ohio EPA approvals for any activities disturbing wetland areas,
-including copies of permits.
-   14.   Space for stamp of approval by City of Hudson Planning Commission.
-   15.   Space for statement of approval by City Engineer with one line for
+   12.   Wetland delineation or verification letter, performed by a qualified
+professional, at the request of the City.
+   13.   Space for stamp of approval by City of Hudson Planning Commission.
+   14.   Space for statement of approval by City Engineer with one line for
 signature and date.
-   16.   Space for statement of approval by City Manager with one line for
+   15.   Space for statement of approval by City Manager with one line for
 signature and date.
-   17.   Notarized certification by owner of adoption of plat.
-   18.   Any other information deemed necessary by the City to make a fully
+   16.   Notarized certification by owner of adoption of plat.
+   17.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the minor subdivision approval.
-   19.   Approximate square footage of each lot and the total acreage of the
+   18.   Approximate square footage of each lot and the total acreage of the
 subject property.
-   20.   Where a lot consolidation occurs, space for the following statement,
-with the blanks filled in as applicable: (The above described Parcel (letter)
-shall be attached to the Parcel (letter) owned by (name) located immediately to
-the (north/south/east/west) and shall not be sold separately therefrom without
-prior approval of the City of Hudson Planning Commission or its successor.
-   21.   Recording Fee: The applicant agrees to pay the costs of recording of
-the plat by the Summit County Auditor. The City will return said original,
-recorded plat.
-   22.   Eight and one-half (8½) by eleven (11) reduction of the site plans to
-be submitted prior to scheduled Board or Commission Meeting.
 Preliminary Subdivision Plan 
-   Core requirements, except for 23, 25 and 26. In addition, the following
+   Core requirements, except for 18 and 19. In addition, the following
 information shall be submitted:
-   1.   A drawing of the subject property at a scale of no more than one (1)
-inch equals one hundred (100) feet, on sheets not larger than thirty inches by
-forty-two inches.
+   1.   A scaled drawing of the subject property.
    2.   Section lines tied to lines of subdivision by distances and bearings.
+The lines of the subdivision tied to section lines or monumented intersections
+by distance and bearings.
    3.   Boundaries of the development indicated by a heavy line.
-   4.   Minimum or intended building setback lines on all sublots or sites.
+   4.   Minimum or intended building setback lines with indication of building
+envelopes on all sublots or sites.
    5.   Approximate square footage of each lot and the total acreage of the
 subject property.
-   6.   Indication of building envelopes and proposed limits of disturbance.
+   6.   Proposed limits of disturbance.
    7.   Preliminary landscaping plan. Include which trees are to be removed and
 where replaced.
    8.   Identification of the environmental features of the site including soil
-types, wetland areas, and wetland related vegetation; surficial and
-subsurficial geologic formations; and any other significant natural features
-on-site or within 200 feet of the project boundary. The City has a copy of the
-report containing the Index of Ecological Integrity Scores and applicant shall
-confer with Community Development Department staff prior to submitting
-application, to see which IEI elements should be included in the application.
-   9.   A map of existing topography plotted in at least two (2) foot
-intervals.
-   10.   Grading Plan showing finished contours at one (1) foot intervals.
-   11.   The location and size of existing wells, and septic tanks.
-   12.   If applicable, demonstrated compliance with the U.S. Army Corps of
-Engineers and Ohio EPA approvals for any activities disturbing wetland areas,
-including copies of permits.
-   13.   Any other information deemed necessary by the City to make a fully
+types, wetland areas; surficial and subsurficial geologic formations; and any
+other significant natural features on-site or within 200 feet of the project
+boundary. The City has a copy of the report containing the Index of Ecological
+Integrity Scores and applicant shall confer with Community Development
+Department staff prior to submitting application, to see which IEI elements
+should be included in the application.
+   9.   Grading Plan showing finished contours at one (1) foot intervals.
+   10.   Preliminary Stormwater Pollution Prevention Plan.
+   11.   Wetland delineation or verification letter, performed by a qualified
+professional, at the request of the City.
+   12.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the Preliminary Subdivision Plan.
-   14.   A context diagram that graphically depicts how the development plan
+   13.   A context diagram that graphically depicts how the development plan
 relates to its surrounding neighborhood or community context including the
 pedestrian, bike and street network within a minimum of 200 feet of the
 proposal on all sides.
-   15.   Eight and one-half (8½) by eleven (11) reduction of the site plans to
+   14.   Eight and one-half (8½) by eleven (11) reduction of the site plans to
 be submitted prior to scheduled Board or Commission Meeting.
 Final Subdivision Plat 
-   Core requirements, except for 23. In addition the following information
+   Core requirements, except for 18. In addition the following information
 shall be submitted:
-   1.   A drawing of the subject property at a scale of no more than one (1)
-inch equals one hundred (100) feet, on sheets not larger than thirty by forty-
-two inches in size.
+   1.   A scaled drawing of the subject property.
    2.   Indication of all parcels intended to be dedicated for public use.
    3.   Tract and plat boundary lines, with length of courses to 1/100 foot and
 bearings to minutes.
    4.   Bearings and distances to nearest established street lines, section
 corners or other permanent monuments.
-   5.   Sections lines tied to lines of subdivision by distances and bearings.
+   5.   The lines of the subdivision tied to section lines or monumented
+intersections by distance and bearings.
    6.   Length of all arcs, chords, radii, angles, curvature and tangent
 bearings.
    7.   Precise location and description of all monuments.
@@ -65988,15 +66012,14 @@ separate instrument provided appropriate reference is plainly shown on plat.
 to the effect that the plat represents a correct survey made by him and that
 all the monuments shown thereon actually exist, and that their location, size,
 and material area as shown.
-   12.   If applicable, demonstrated compliance with the U.S. Army Corps of
-Engineers and Ohio EPA approvals for any activities disturbing wetland areas,
-including copies of permits.
+   12.   Wetland delineation or verification letter, performed by a qualified
+professional, at the request of the City.
    13.   Either a copy of the notice of intent (NOI) application, or a
 statement that a notice of intent to file for a permit demonstrating compliance
 with National Pollution Discharge Elimination System (NPDES) will be sought
 from the Ohio EPA.
    14.   An approved Preliminary Subdivision Plan.
-   15.   Approved Improvement Plan(s) (see following for submittal
+   15.   Approved Site Improvement Plan(s) (see following for submittal
 requirements).
    16.   Performance bond(s) or other satisfactory guarantee(s) for
 improvements.
@@ -66010,26 +66033,20 @@ signature and date.
 of streets and/or public spaces.
    21.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the Final Subdivision Plat.
-   22.   Approximate square footage of each lot and the total acreage of the
-subject property.
+   22.   Square footage of each lot and the total acreage of the subject
+property.
    23.   The deed volume and page of adjoining properties or the name and
 cabinet and slide or plat book and page of any plats which adjoin the area
 survey or platted.
-   24.   Where a lot consolidation occurs, space for the following statement,
-with the blanks filled in as applicable: "The above described Parcel (letter)
-shall be attached to the Parcel (letter) owned by (name) located immediately to
-the (north/south/east/west) and shall not be sold separately therefrom without
-prior approval of the City of Hudson Planning Commission or its successor."
-   25.   Recording Fee: The applicant agrees to pay the costs of recording of
-the plat by the County of Summit Auditor.
-   26.   8½ × 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting. The City will retain said original, recorded plat.
-Improvement Plans 
-   Construction plans shall be prepared for all required improvements. Plans
-shall be drawn at a scale of no more than one (1) inch equals fifty (50) feet.
+   24.   Storm Water Pollution Prevention Plan.
+   25.   Tree and Vegetation Plan (see separate submittal requirements list).
+   26.   Landscaping/Bufferyard Plan (see separate submittal requirements
+list).
+Site Improvement Plans 
+   Scaled construction plans shall be prepared for all required improvements.
 The following shall be shown:
-   1.   Sidewalks and street circulation plan, which shall include the
-following:
+   1.   Sidewalks and street circulation plan as applicable, which shall
+include the following:
       a.   The location, grade, centerline radius and arc length of curves,
 pavement right-of- way and name of all proposed streets. Radii of all curves,
 lengths of tangents, and central angles on all streets shall be shown. Typical
@@ -66041,13 +66058,13 @@ sacs.
       d.   Emergency ingress and egress plan.
    2.   Plans and profiles showing the locations and typical cross-section of
 street pavements including curbs and gutters, sidewalks, drainage easements,
-servitudes, rights-of-way, manholes, and catch basins; the location, size and
-invert elevations of existing and proposed sanitary sewers, stormwater drains,
-and fire hydrants, showing connection to any existing or proposed utility
-systems; and exact location and size of all water, gas, or other underground
-utilities or structures.
-   3.   Indication of building envelopes and limits of clearing, show where
-vegetation and trees are to be removed and where replaced.
+servitudes, rights-of-way, manholes, and catch basins; the location, size
+invert, and rim elevations of existing and proposed sanitary sewers, stormwater
+drains, and fire hydrants, showing connection to any existing or proposed
+utility systems; and exact location and size of all water, gas, or other
+underground utilities or structures.
+   3.   Indication of building envelopes, limits of clearing and disturbance.
+Show where vegetation and trees are to be removed and where replaced.
    4.   Tree protection and mitigation plan. (See Tree and Vegetation Plan
 Submittal Requirements)
    5.   Landscaping/Buffering Plan. (See Landscaping/Bufferyard Plan Submittal
@@ -66056,62 +66073,63 @@ Requirements)
    7.   Stormwater Pollution Prevention Plan.
    8.   Exterior Lighting Plan (See Exterior Lighting Plan Submittal
 Requirements).
-   9.   Drainage Plan including any proposed locations and sizes of stormwater
-runoff retention/ detention basins, sealed by a Professional Engineer.
+   9.   Drainage Plan with calculations including any proposed locations and
+sizes of stormwater runoff retention/ detention basins, sealed by a
+Professional Engineer.
    10.   Off-street Parking and Loading Plan.
-   11.   Estimates of construction costs for required improvements.
-   12.   Any other information deemed necessary by the City to make a fully
-informed and deliberate decision on the Improvement Plans.
-   13.   Proposed stormwater management water quality techniques, and erosion
+   11.   Estimates of construction costs for required site improvements to
+include:
+      a.   Categories including, but not limited to, site grading, utility
+improvements, stormwater improvements, landscaping, sedimentation controls, and
+any other category requested by the City Engineer.
+      b.   Date and author of estimate.
+      c.   Stamp from a licensed engineer.
+   12.   Proposed stormwater management water quality techniques, and erosion
 and sedimentation control measures to be used during and after construction.
-   14.   Retaining walls (top and bottom of wall spot elevations).
-   15.   Where applicable, localized high-point for all driveway entrances.
-   16.   Inverts and top of grate elevations for catch basins and manholes.
-   17.   8½ x 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting.
+   13.   Retaining walls (top and bottom of wall spot elevations).
+   14.   Where applicable, localized high-point for all driveway entrances.
+   15.   Inverts and top of grate elevations for catch basins and manholes.
 Preliminary Planned Development (PD) Plan 
-   Core requirements, except for 23, 25 and 26.
+   Core requirements, except for 18 and 19.
    Also include the same additional requirements as for a Preliminary
 Subdivision Plan. See submittal requirements for Preliminary Subdivision Plan,
 above. In addition, for Preliminary Planned Development Plans in District 5,
-applicant must submit Architectural Elevations. 8½ x 11 reduction of the site
-plans to be submitted prior to scheduled Board or Commission Meeting.
+applicant must submit Architectural Elevations.
 Final Planned Development (PD) Plan
-   Core requirements, except for 23; plus the same additional requirements as
+   Core requirements, except for 18; plus the same additional requirements as
 for a Final Subdivision Plat. See submittal requirements for Final Subdivision
 Plat above. In addition, the following information shall be submitted:
    1.   An approved Preliminary Planned Development (PD) Plan.
    2.   Any zoning or subdivision standards which are proposed to be modified
 or varied.
-   3.   8½ × 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting.
 Development Agreements 
    The following core requirements shall be submitted as part of the
-application materials: 1, 2, 3, 10, 20, 22 and 23.
+application materials: 1, 2, 15, 17 and 18.
    In addition, the following information shall be submitted.
-   4.   Identification of parties to the agreement, including any third party
+   1.   Identification of parties to the agreement, including any third party
 agencies.
-   5.   Description of project, including list of uses, density or intensity of
+   2.   Description of project, including list of uses, density or intensity of
 uses, and height and size of uses.
-   6.   List of discretionary land use approvals that project has received to
+   3.   List of discretionary land use approvals that project has received to
 date.
-   7.   List of discretionary land use approvals that project still needs to
+   4.   List of discretionary land use approvals that project still needs to
 obtain from City.
-   8.   Identification of protections developer is seeking from City with the
+   5.   Identification of protections developer is seeking from City with the
 development agreement.
-   9.   List of public benefits that the developer will offer to the City as
+   6.   List of public benefits that the developer will offer to the City as
 consideration for the development agreement.
-   10.   Requested term of the development agreement.
-   11.   Sufficient information, including a detailed narrative statement, to
+   7.   Requested term of the development agreement.
+   8.   Sufficient information, including a detailed narrative statement, to
 enable a finding by the City that the development agreement and proposed
 project are consistent with the goals, policies, and purposes of the applicable
 Zone District and the City of Hudson Comprehensive Plan.
-   12.   Affidavit of applicant, which establishes ownership and that the
+   9.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   13.   Any other information deemed necessary by the City to make a fully
+   10.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the development agreement.
 Zoning Code Map Amendment 
-   Core requirements except for 4 and 15:
+   The following core requirements shall be submitted as part of the
+application materials: 1, 2, 3, 5, 6, 8, and 19:
    In addition the following application materials shall be submitted:
    1.   Legal description(s) of the subject parcel and lots.
       A statement of why the proposed zoning change is being requested and what
@@ -66139,8 +66157,7 @@ information being provided is correct.
 informed and deliberate decision on the Zoning Code Map Amendment.
 Zoning Code Text Amendment 
    Submittal Requirements for Zoning Code Text Amendment. The following core
-requirements shall be submitted as part of the application materials: 1, 3, 6
-and 24.
+requirements shall be submitted as part of the application materials: 1 and 2.
    In addition the following application materials shall be submitted:
    1.   Text amendment proposed wording, and a written explanation of why
 change is requested.
@@ -66150,70 +66167,79 @@ information being provided is correct.
    4.   If the text amendment would add an additional use to a Zone District,
 then a site specific development plan according to the above requirements for a
 Zoning Code Map amendment should be submitted.
-   5.   Any other information deemed necessary by the City to make a fully
-informed and deliberate decision on the text amendment.
 Conditional Use Application 
-   Core requirements except for 4, 10, and 15.
+   Core requirements except for 3 and 11.
    In addition, the following application materials shall be submitted:
-   6.   A development plan of the entire property being considered, drawn to a
-scale of not more than one (1) inch equals one hundred (100) feet, and showing
-the proposed site/building/sign plans.
-   7.   Statement of compliance with all required conditions as set forth in
+   1.   A scaled development plan of the entire property being considered,
+showing the proposed site/building/sign plans.
+   2.   Statement of compliance with all required conditions as set forth in
 Section
 1203.05 of Land Development Code.
-   8.   Affidavit of applicant, which establishes ownership and that the
+   3.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   9.   Any other information deemed necessary by the City to make a fully
-informed and deliberate decision on the conditional use application.
-   10.   8½ x 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting.
 Variance 
    Submittal Requirements for Variance. The following core requirements shall
-be submitted as part of the application materials: 1, 3, 6, 8, and 9.
+be submitted as part of the application materials: 1, 2, 5, and 6.
    In addition the following application materials shall be submitted:
-   11.   Statement of compliance with standards of approval of variances set
+   1.   Statement of compliance with standards of approval of variances set
 forth in Section
 1204.03 of Land Development Code.
-   12.   If applicable, proposed site/building/sign plans, illustrating
+   2.   If applicable, proposed site/building/sign plans, illustrating
 locations of required front, side and rear yard setback lines.
-   13.   Land Development Code Sections applicable to request for variance.
-   14.   Affidavit of applicant, which establishes ownership and that the
+   3.   Land Development Code Sections applicable to request for variance.
+   4.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   15.   Any other information deemed necessary by the City to make a fully
+   5.   Photographs documenting the site and project area.
+   6.   Surveyed site plan signed/stamped by a licensed surveyor or civil
+engineer.
+   7.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the variance request.
-   16.   Explanation of any variance request from including reason(s) and
+   8.   Explanation of any variance request from including reason(s) and
 justification(s) for the request(s).
-   17.   8½ x 11 reduction of the site plans to be submitted prior to scheduled
-Board or Commission Meeting.
 Appeals to the BZBA of Administrative Decisions 
    The following core requirements shall be submitted as part of the
-application materials: 1, 3 and 6. In addition, the following application
+application materials: 1 and 2. In addition, the following application
 materials shall be submitted:
-   18.   All records of proceedings and documents pertaining to the decision
+   1.   All records of proceedings and documents pertaining to the decision
 being appealed.
-   19.   Land Development Code Ordinance Sections applicable to the appeal.
-   20.   Affidavit of applicant, which establishes ownership and that the
+   2.   Land Development Code Ordinance Sections applicable to the appeal.
+   3.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   21.   Any other information deemed necessary by the City to make a fully
+   4.   Written decision from the Architectural and Historic Board of Review,
+Planning Commission, or City Manager (or his designee).
+   5.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the variance request.
 Enlargement, Extension, Replacement, or Substitution of a Nonconforming Use or
 Structure. 
    The following core requirements shall be submitted as part of the
-application materials: 1, 3, 6, 8, 9, and 23. In addition, the following
+application materials: 1, 2, 5, 6, and 18. In addition, the following
 application materials shall be submitted:
-   22.   Proposed site/building/parking plans, illustrating locations of
+   1.   Proposed site/building/parking plans, illustrating locations of
 required front, side and rear yard setback lines. Such plans shall also
 illustrate size and location of existing building(s), as well as proposed areas
 of expansion.
-   23.   Statement of compliance with standards of approval for nonconforming
-use/structure standards set forth in Section 1206.05 of this Code.
-   24.   Affidavit of applicant, which establishes ownership and that the
+   2.   Statement of compliance with standards of approval for nonconforming
+use/structure standards set forth in Section
+1206.05 of this Code.
+   3.   Affidavit of applicant, which establishes ownership and that the
 information being provided is correct.
-   25.   Any other information deemed necessary by the City to make a fully
+   4.   Photographs of the site and the project area.
+   5.   Any other information deemed necessary by the City to make a fully
 informed and deliberate decision on the proposed request.
 Architecture and Historic Board of Review 
-(SEE SEPARATE INFORMATION)
-(Ord. 18-93. Passed 10-15-19.)
+   1.   Scaled site plan including the location of existing and proposed
+buildings, structures, and paved areas on the site. For alterations to existing
+buildings the site plan shall highlight the area of proposed work.
+   2.   Scaled architectural elevations depicting full-height and width
+facades, type and extent of exterior finishes, all openings including
+fenestration and overall vertical building heights. The elevations shall
+indicate treatment of visible mechanical equipment and abutting topography and
+grade relationship.
+   3.   Scaled floor plan(s) with room use indicated.
+   4.   Photographs of all sides of existing structures and the project area.
+   5.   Roof plan including all roof pitches.
+   6.   Product specification sheets of all proposed exterior materials.
+(Ord. 18-93. Passed 10-15-19; Ord. 25-167. Passed 1-6-26.)
 APPENDIX B. - INDEX OF ECOLOGICAL INTEGRITY (IEI)
 INDIVIDUAL METRIC & COMPOSITE SCORES
 Introduction 
@@ -66969,7 +66995,7 @@ by the AHBR to ensure compliance with these Standards.
          (ii)    Signs that are two (2) square feet or less in area shall be
 reviewed by the Department of Community Development to ensure compliance with
 these Standards
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6609.png]
  
    e.   Applicants shall, when required pursuant to this section, submit a Sign
@@ -67035,7 +67061,7 @@ district and under what conditions from II-3. Types/District Chart.
 that will be altered or built. Once the type is identified, the building design
 will be subject to all applicable Standards in Part III and to the type
 Standards for that type which are enumerated in Part IV of these Standards.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6611.png]
 Section II-3 - Type/Districts Chart
 Types District 1 District 2  District 3  District 4 District District District District 8  District  District
@@ -67134,10 +67160,10 @@ places the lot directly in the line of sight. All other siting and orientation
 requirements shall apply.
          (ii)   An attached garage shall be sited so that its door is not
 visible from the primary direction of approach.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6613.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6615.png]
  
       (6)    The overall design of the building and the site should take into
@@ -67172,10 +67198,10 @@ radius from the front door of the proposed house. (3G) 
       (2)   The following shall determine whether buildings "look alike".
          (i)   Buildings which are different in type (as described in Part IV
 of these Standards) do not, by definition, look alike. (2) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6619.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6621.png]
  
          (ii)    Buildings which are the same type must differ from one another
@@ -67360,7 +67386,7 @@ minor recesses or projections in the main body. (4) 
    b.   Mass. The main body must be the largest visible mass.
       (1)   Rear wings may not be larger or taller than the main body of the
 structure, but they may be the same height.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6623.png]
  
       (2)   For new construction, an attached garage may be located in the main
@@ -67438,7 +67464,7 @@ Section IV-2. - Two Story Single Mass
 wings, except for small wings which extend from the rear of the main body. The
 main body is two stories tall. In most cases, there are no significant recesses
 in the mass of the main body but there can be projections. (5) 
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6625.png]
  
    b.   Mass. The main body must be the largest visible mass.
@@ -67520,7 +67546,7 @@ body is a single story and centrally located in the structure and the front
 door is located in the main body. There are one or two wings which are smaller
 in size. There may be recesses and projections in the masses of the main body
 or wings. (6) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6629.png]
  
    b.   Mass. The main body must be the largest visible mass.
@@ -67619,7 +67645,7 @@ projections from these masses. (7) 
    b.   Mass. The main body must be the largest visible mass.
       (1)   Wings may not be larger or taller than the main body of the
 structure, but they may be the same height.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6627.png]
  
       (2)   The front face of the main body must sit forward at least 18" from
@@ -67711,7 +67737,7 @@ attached to each other. It does not have a dominant (forward) main body, but
 may have one or more central masses to which other masses are attached. Most of
 the building is two stories tall. It may have more than one entrance, and
 several subordinate wings or projections. (8) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6631.png]
  
    b.   Mass. This type may only be used for a structure which has a first
@@ -67723,7 +67749,7 @@ smaller in height than the central masses.
       (3)   Wings may thrust forward from a central mass.
       (4)   An attached garage may not be located within a wing or a central
 mass that is the most forward of all the masses. (9) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6633.png]
       (5)    At least one entrance must face the street.
     c.   Ro of. The same roof shape must be used throughout the building for
@@ -67808,7 +67834,7 @@ the entrance of an ell house is located in the part of the ell body furthermost
 from the street. (12) The two parts of the ell body are the same in height and
 similar in size. The ell body is usually two stories tall, but it may be a
 single story.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6635.png]
  
 Subordinate wings may also be present; these may be one or two stories. In most
@@ -67910,7 +67936,7 @@ and are a single story. (15a) 
    b.   Mass. The main body must be the largest visible mass.
       (1)   Wings may not be larger or taller than the main body of the
 structure, but they may be the same height.
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6637.png]
  
       (2)   The front face of the main body must sit forward at least 18" from
@@ -68003,7 +68029,7 @@ the building, that is, the smaller masses ("intersectin g masses") all
 intersect and overlap it. It sometimes sits slightly behind one or two smaller
 intersecting masses. The main body and intersecting masses may be one or two
 stories tall. (16) 
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6639.png]
  
    b.   Mass. The main body must contain the front entrance and it must be the
@@ -68104,7 +68130,7 @@ into structural bays. The storefront is the area which infills the structural
 bay on the ground floor. Each bay usually contains a single store, but stores
 may fill more than one bay and have more than one storefront. The upper floor
 usually is quite distinct in design from the lower floor. (20) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6641.png]
  
    b.   Mass. The building is a single mass.
@@ -68133,7 +68159,7 @@ material than the wall of the building.
       (4)   Variety in the design of storefronts is desirable to create a
 lively and attractive pedestrian environment. There shall be no requirement
 that storefronts in one building use the same design elements.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6643.png] 
  
       (5)     Signs and awnings, if used, shall fit entirely within the width
@@ -68187,7 +68213,7 @@ overwhelming length of the building's walls down into smaller, repetitive
 pieces. These pieces, called bays, constitute the basic unit of the building's
 design. There are sometimes multiple entrances along the front (long side). The
 long type building may also have a continuous arcade. (24) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6645.png]
    b.   Mass. The mass of the building is a single block with multiple bays.
       (1)   The separation of one bay from another on the building's exterior
@@ -68217,7 +68243,7 @@ main entrance lobby, or other special functions.
    f.   Details. Details include sign bands, cornices, railings, corner boards,
 foundation walls, special brick coursing, lightweight decorative attachments
 and downspouts and gutters.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6647.png]
  
       (1)   Some details may vary from bay to bay in order to make the division
@@ -68362,7 +68388,7 @@ encouraged when the architecture of the building(s) suggests variety. For
 example, the downtown area consists of a number of different buildings each
 exhibiting its own unique design and character. Signs on these different
 buildings should reflect a similar amount of diversity. (44) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6649.png]
  
    b.   Storefronts with common architectural elements should have signs that
@@ -68387,7 +68413,7 @@ placement for a sign panel (46)(47) , then individual letters are encouraged
 unless there is a clear location for adding panels, such as establishing one or
 more repetitive, common architectural features in order to create a repetitive
 sequence. (48) 
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6651.png]
  
    d.    When ever a new or renovated sign is proposed for an existing
@@ -68409,7 +68435,7 @@ the building's colors.
 Section V-3. - Specific Standards for Window Signs, Projecting Signs, and
 Ground Signs
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6653.png] 
    a.   Projecting Signs. The size of the lettering and graphics on a
 projecting sign should be appropriate for viewing by pedestrians.
@@ -68421,7 +68447,7 @@ design elements with the building and the sign(s) attached to the building.
 its ground sign should be placed on a solid base
  
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6655.png]
       (3)    Approved year-round landscaping shall be used around the base of
 the sign to screen lighting fixtures and sources in compliance with the Land
@@ -68431,7 +68457,7 @@ a ground sign may be exempt from the sign area calculation. (50) 
       (5)   Signs on structural supports separated from the ground by air are
 more appropriately located in front of buildings located closer to the street.
 (51)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6657.png]
  
       (6)   Ground signs should be spaced or combined along the street frontage
@@ -68448,7 +68474,7 @@ sign is to occupy:
       (1)   A sign (whether comprised of a panel or individual letters) should
 not exceed approximately 70% of the height and length of the signable area of
 the building. (52)(53)(54) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6659.png]
  
       (2)    The lettering within a sign panel shoul d not exceed approximately
@@ -68480,7 +68506,7 @@ comprehendible the sign.
 logo, word, abbreviation or number, or a grouping of letters and numbers which
 together convey meaning. For signs combining different shapes, each shape may
 be considered an item of information. (55) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6661.png]
  
       (4)   Lettering and numbers less than three (3) inches in height should
@@ -68574,7 +68600,7 @@ Masses. A mass of a building is any one of the following: the main body, an
 "ell body", a wing, an intersecting mass or a central mass. Masses are usually
 distinguished by their plan and should be identifiable by a change in the roof
 height or direction.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6617.png]
  
 A Main Body is usually centrally located in the plan, is the largest (footprint
@@ -68612,7 +68638,7 @@ timbers, cornice boards, and other details. (28) Materials which are the same
 but are a different color or texture shall not be considered different
 materials for the purposes of these Design Standards. For the purposes of these
 guidelines, the following are considered different materials from one another:
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6670.png] 
  
    Standard face brick
@@ -68627,7 +68653,7 @@ siding
    Metal panels
    Concrete: pre-cast, tilt wall or poured-in-place
    Stucco or stucco-like material
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6668.png]
  
 Openings. 
@@ -68639,7 +68665,7 @@ limited by the guidelines.
 Some slight variations are allowed in typical windows.
 Windows which are the same proportion and style as the typical window, but are
 larger or smaller, may be counted as typical windows. (29) 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6672.png]
  
 Windows which are the same width and style as the typical window, but are
@@ -68653,12 +68679,12 @@ used on all typical windows on the ground floor). (32) 
 as "special" when:
 The internal divisions (for example, mullions) of the window are different than
 the typical window. (33) 
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6674.png]
  
 The window has additional lights added to it, for example, a fan light or side
 lights. (34)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6676.png]
  
 The window is a different width and height than the typical window, and is not
@@ -68680,7 +68706,7 @@ Details. Consistent use of details is required by the standards for most types.
 Examples of consistent use of details include: same cornice carried all around
 a single mass, window shutters used on all the upper level typical windows of a
 single mass, exposed foundation walls treated the same in a single mass. (36) 
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6678.png]
  
 Projections. Projections are areas of a building plan which push out from the
@@ -68693,7 +68719,7 @@ Architectural Style. Most architectural styles are allowed in Hudson. However,
 some architectural styles normally have massing elements which may not be
 allowed in Hudson. For the purposes of these guidelines, the following are
 considered to be different styles from one another:
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6680.png]
 Victorian
 Queen Anne
@@ -68715,7 +68741,7 @@ A good reference book for stylistic definition is the Field Guide to American
 Houses. Not all elements of a building need to conform to the style in order
 for that building to be classified as a particular style for the purposes of
 these guidelines.
- [https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+ [https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6682.png]
  
 At the discretion of the AHBR, eclectic or unclassifiable buildings which are
@@ -70622,7 +70648,7 @@ Company, Advance Products & Systems, Inc., or equal, and shall be installed in
 accordance with the manufacturer's instructions. Blocking shall be notched to
 secure banding to blocking without slipping off. Two sets of blocks or chocks
 shall be used per pipe segment. See Figure 2.5.2.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6782.png]
  
    The annular space between the encasement pipe and the carrier pipe shall be
@@ -70736,11 +70762,11 @@ specified in Item 2.12. Valves in manholes shall be installed as shown in plan
 on Figure 2.9.1 and in Section on Figure 2.9.2, and shall be complete with a
 handwheel, an extension stem and guides.
 Figure 2.9.1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6778.png]
  
 Figure 2.9.2
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6784.png]
  
 2.10 - AIR RELEASE VALVES
@@ -70755,7 +70781,7 @@ pipe shall be provided with a hose bibb to permit connection of hose to allow
 ease of use.
    Each air release valve shall be complete with a manhole as subsequently
 specified in Item 2.12. See Figure 2.10.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6786.png]
  
 2.11 - VALVE BOXES
@@ -70772,7 +70798,7 @@ Bibby St. Croix or an approved equal.
 sidewalks shall have expansion joint material around that portion of the box in
 the concrete. The concrete collar shall terminate three inches below final
 grade.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6788.png]
  
    After installation, valve boxes shall be checked to ensure the box is not
@@ -70791,7 +70817,7 @@ Figure 2.9.1. for butterfly valve and manhole details,
 Figure 2.10.1 for air release valve and manhole details, and Figure 2.13.1 for
 blowoff chamber details.
 Figure 2.13.1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6801.png]
  
    All manholes shall be provided with a removable top slab constructed of
@@ -70846,11 +70872,11 @@ iron flush box with non-locking lid. Operating nuts shall be standard AWWA
 hydrant type operating nuts. See Figure 2.14.1 for a post type flushing
 assembly and Figure 2.14.2 for a flush-type flushing assembly.
 Figure 2.14.1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6809.png]
  
 Figure 2.14.2
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6811.png]
  
    Watch valves shall be gate valves as previously specified in Item 2.6. Valve
@@ -70865,20 +70891,20 @@ and valve box, piping (mainline tee, and anchoring pipe and fittings as
 required), and appurtenances. (See Figures 2.15.1, 2.15.2, 2.15.3 and 2.15.4)
 Installation shall be as specified in Item 2.20.
 Figure 2.15.1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6821.png]
  
  
 Figure 2.15.2
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6823.png]
  
 Figure 2.15.3
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6825.png]
  
 Figure 2.15.4
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6827.png]
  
    B.   Fire Hydrants - Fire hydrants shall be of the compression type, opening
@@ -70943,7 +70969,7 @@ disturbed by the Contractor's operations shall be seeded as previously
 specified in
 Section 1.
 Figure 2.15.5
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6831.png]
  
    F.   Fire Department Connection - Private fire suppression systems shall be
@@ -70952,7 +70978,7 @@ This assembly shall be tied into the fire suppression system from within the
 building and extend to outside the building to the location as determined by
 the City Fire Department.
 Figure 2.15.6
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6835.png]
  
 2.16 - BACKFLOW PREVENTION DEVICES, ENCLOSURES AND THERMAL EXPANSION CONTROL
@@ -71026,7 +71052,7 @@ installed. The expansion tank shall be installed in the cold water service
 piping on the supply side of the hot water heater prior to any control valves.
 The size of the expansion tank is based upon the size of the hot water heater
 and may be determined by referring to the manufacturer recommendations.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5897.png]
    E.   Backflow Prevention Device Enclosure - The enclosure, depending on
 location, may be an existing or new building which is heated; and which meets
@@ -71042,7 +71068,7 @@ styles shall fully enclose the backflow preventer assembly, valves, handwheels
 and stems, and be constructed on an ODOT Class QC concrete pad, as recommended
 by the manufacturer. The heating and electrical requirements shall comply with
 manufacturer's recommendations. See Figure 2.16.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6839.png]
  
 2.17 - BACTERIA SAMPLING AND FLUSHING ASSEMBLIES
@@ -71061,7 +71087,7 @@ approval from the City. The bacteria sampling and flushing assembly shall not
 be removed until the Contractor has received written notice that the main has
 passed all bacteriological tests per AWWA C651-92;
 Section 7.3 and Ohio EPA requirements. See Figure 2.17.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6843.png]
  
    Materials for bacteria sampling and flushing assemblies shall be as
@@ -71082,11 +71108,11 @@ Owner of the property being served. Service connections shall be installed
 prior to the new mains being tested and disinfected and placed in service. For
 service connections greater than 2-inch diameter, see Figure 2.18.2.
 Figure 2.18.1
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6849.png]
  
 Figure 2.18.2. 
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6851.png]
  
    Service connections shall include the furnishing and installation of tapping
@@ -71163,7 +71189,7 @@ barrel.
       B.   Granular Backfill - The granular backfill shall meet the
 requirements of ODOT Item 304 crushed limestone or controlled density backfill
 in accordance with fig. 2.25.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6855.png]
  
    Trenches within railroad right-of-way, except for longitudinal occupancy,
@@ -71295,7 +71321,7 @@ vertical support for the bridging, including any lateral bracing necessary to
 provide a firm and substantial support. Supports and bracing shall be of native
 hardwood and shall be furnished and installed by the Contractor. (See Figure
 2.22.1)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6859.png]
  
    Above ground (aerial) utilities, including power, telephone and cable
@@ -71322,7 +71348,7 @@ not to displace or damage the pipe or joints.
 drawings. Concrete encasement shall be square in cross section, shall have a
 minimum thickness of 6 inches at pipe bells, and shall be of the length noted.
 (See Figure 2.24.1)
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-6863.png]
  
 2.25 - BACKFILLING
@@ -71595,7 +71621,7 @@ on for 18 hours, and then, the test pressure shall be maintained for an
 additional two hours by pumping water from the container. At the end of the two
 hour period, the water used shall be measured and the loss by leakage shall not
 exceed that as determined by the following formula:
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5899.png]
    in which L is the allowable leakage in gallons per hour; S is the length of
 pipe tested in feet; D is the nominal diameter of the pipe in inches; and P is
@@ -71905,7 +71931,7 @@ blocked up in such a way as to prevent the entrance of foreign material, but
 allowing leakage to pass in the event of same within the encasement pipe. See
 Figure 4.5.1.
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5903.png]
    Blocking shall be accomplished using wood blocks or approved casing chocks.
 Wood blocking shall be as shown on the drawings. Wood blocks shall be of
@@ -71917,7 +71943,7 @@ Company, Advance Products & Systems, Inc., or equal, and shall be installed in
 accordance with the manufacturer's instructions. Blocking shall be notched to
 secure banding to blocking without slippage. Two sets of blocks or chocks shall
 be used per pipe segment. See Figure 4.5.2.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5905.png]
  
    The annular space between the encasement pipe and the carrier pipe shall be
@@ -71978,7 +72004,7 @@ required soil borings.
 bottom reinforcement tied to side reinforcement to form an integral structure.
 Walls shall have a minimum thickness of 1/12 the base I.D. plus one (1) inch.
 See Figure 4.6.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5907.png]
  
    Bases shall incorporate provisions for making a flexible joint between the
@@ -72012,15 +72038,15 @@ shallow to accommodate a cone section shall have a reinforced flat slab top.
 Flat slab tops shall be designed to withstand H-20 traffic loading and design
 calculations shall be submitted to the City. See Figure 4.6.4.
 Figure 4.6.2
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5909.png]
  
 Figure 4.6.3
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5911.png]
  
 Figure 4.6.4
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5913.png]
  
    Adjoining riser sections shall be firmly keyed together by means of tongue
@@ -72040,7 +72066,7 @@ The rings shall each be set in a full bed of mortar composed of 1 part, by
 volume, Portland cement and 2 parts clean, hard sand. The interior of the grade
 rings shall be mortared to provide a smooth common surface from frame to top.
 See Figure 4.6.5.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5915.png]
  
    When the manhole frame is to be anchored to the manhole top, as subsequently
@@ -72146,7 +72172,7 @@ the vertical pipe and the connection at the main sewer. The riser shall be
 fixed in place for its full height by providing thoroughly tamped pipe
 embedment material. Clean-outs shall be allowed as required and/or approved by
 City. See Figure 4.10.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5917.png]
  
    Where required, stormwater connections shall be installed within steel
@@ -72166,7 +72192,7 @@ location is referenced in accordance with Figure 4.10.2. A two (2) inch square
 oak pole shall be accurately placed over the termini of all such stormwater
 connections and shall extend vertically to flush with the surface of the ground
 so that it can be located.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5919.png]
  
    NO STORMWATER CONNECTIONS SHALL BE TIED INTO THE STORM SEWERS PRIOR TO THE
@@ -72180,7 +72206,7 @@ crushed limestone #57 shall extend four (4) inches below the pipe barrel to six
 (6) inches above the pipe barrel for 12-inch through 24 diameter sewer, and six
 (6) below the pipe barrel to six (6) inches above the pipe barrel for 30- inch
 through 60-inch diameter sewer. See Figure 4.17.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5923.png]
  
    Concrete encasement and concrete pipe cradles shall be ODOT Class C
@@ -72251,7 +72277,7 @@ foundation, the Contractor shall provide vertical support for the bridging,
 including any lateral bracing necessary to provide a firm and substantial
 support. Supports and bracing shall be of native hardwood and shall be
 furnished and installed by the Contractor. See Figure 4.15.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5921.png]
  
    The drawings shall indicate the location of existing utilities, in
@@ -72331,7 +72357,7 @@ less than 98% of maximum density as determined in accordance with ASTM D1557
 drawings. Concrete encasement shall be square in cross section, shall have a
 minimum thickness of six (6) inches at pipe bells, and shall be of the length
 as shown on plan/profile drawings or as required. See Figure 4.17.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5923.png]
  
    This shall include the materials and construction of concrete pipe cradles
@@ -72339,7 +72365,7 @@ to support the new pipes where they cross over existing pipes in the locations
 noted on the drawings. Damage to existing pipes resulting from the Contractor's
 operations shall be repaired or replacements made to the satisfaction of the
 City by and at the expense of the Contractor. See Figure 4.17.2.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5925.png]
  
    If the material found at the specified depths of excavation below the
@@ -72372,7 +72398,7 @@ outside of the pipe walls. At crossings, one full length of pipe shall be
 installed so both joints will be as far from the main as possible. If
 necessary, existing water mains shall be relocated under proposed sewers. See
 Figure 4.18.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5927.png]
  
 (Ord. 18-104. Passed 8-21-18; Ord. 24-151. Passed 1-7-25.)
@@ -72397,7 +72423,7 @@ granular material shall also be provided for backfilling any portion of the
 trenches falling within that area below a line drawn at 45 degrees to the
 horizontal from the surface at the edge of the pavement or back of curb and
 above the horizontal plane of the pipe embedment material. See Figure 4.19.1.
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5929.png]
  
    For trenches within existing or proposed paved streets, alleys, driveways
@@ -72660,46 +72686,46 @@ obstructions.
 shall be flushed and cleaned before it is accepted.
 (Ord. 18-104. Passed 8-21-18; Ord. 24-151. Passed 1-7-25.)
 FIGURE 4.5.1 - FIGURE 4.19.1 in easy to print PDF, click HERE
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5903.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5905.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5907.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5909.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5911.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5913.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5915.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5917.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5919.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5921.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5923.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5925.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5927.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5929.png]
  
 SECTION 5. STORM WATER MANAGEMENT
@@ -73260,7 +73286,7 @@ IV. DETENTION BASIN EASEMENTS
 1207.07(d)(5) - Stormwater management/drainage/erosion control.
 (Ord. 18-104. Passed 8-21-18; Ord. 24-151. Passed 1-7-25.)
 FIGURE 5.5.1 in PDF, click here
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5936.png]
 SECTION 6. - EASEMENTS AND RIGHTS-OF-WAY
 GENERAL REQUIREMENTS
@@ -73435,10 +73461,10 @@ the City. The temporary roadway easement is to be abandoned after the removal,
 extension, or completion of the temporary roadway facility and/or temporary
 cul-de-sac and the land shall revert back to the respective property owners.
 FIGURE 6.5.1 AND 6.10.1 in PDF, click HERE
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5942.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5944.png]
 SECTION 7. - ROADWAY
 GENERAL REQUIREMENTS 
@@ -73845,19 +73871,19 @@ the structure to the street.
 7.1.1 and
 7.1.5.
 FIGURES 7.1.1 - 7.1.5 in PDF, click HERE
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5950.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5952.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5954.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5956.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5958.png]
 (Ord. No. 16-131 , § 2, 9-6-2016)
 SECTION 8. - TRAFFIC MAINTENANCE
@@ -74337,10 +74363,10 @@ Figure 10.5 &
 structures (bridges, etc) shall be approved on a case by case basis by the
 Hudson Engineering and Hudson Public Power.
 FIGURE 10.5 and 10.8 in PDF, click HERE
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5964.png]
  
-[https://export.amlegal.com/media/cbbbfba71ee94e32624de318a23d43f922765a04/
+[https://export.amlegal.com/media/4cb4df172925303de616852176726ea4e7f3d3c2/
 IMAGES/0-0-0-5966.png]
  
 TITLE FOUR - Administration and Enforcement
