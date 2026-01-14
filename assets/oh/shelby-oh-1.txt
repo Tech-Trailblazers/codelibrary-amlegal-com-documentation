@@ -1,7 +1,7 @@
 CODIFIED ORDINANCES OF
 CITY OF SHELBY, OHIO
-2025 S-16 Supplement contains:
-Local legislation current through November 4, 2025
+2026 S-16 Supplement contains:
+Local legislation current through December 1, 2025
 State legislation current through December 31, 2011
 Published by:
 American Legal Publishing
@@ -1458,6 +1458,8 @@ TITLE TWO - GENERAL PROVISIONS
 216.   CREDIT CARD POLICY
          
 217.   IMPERMISSIBLE EXPENDITURES
+         
+218.   CYBERSECURITY PROGRAM
 CHAPTER 202: CODIFIED ORDINANCES
 Section
    
@@ -2468,6 +2470,47 @@ working pursuant to a contract, to abide by this section may result in
 discipline, which may include dismissal, as well as any potential civil or
 criminal sanctions under the law.
 (Ord. 4-2024, passed 4-15-2024)
+CHAPTER 218: CYBERSECURITY PROGRAM
+Section
+   
+218.01   Purpose
+   
+218.02   Cybersecurity program
+   
+218.03   Prohibition of ransom payments
+§ 218.01 PURPOSE.
+   The policy document establishes the City of Shelby's compliance with Ohio
+House Bill 96 (effective September 30, 2025), which sets forth cybersecurity
+requirements for local governments. The policy supplements existing IT and
+Disaster Recovery Plans by defining governance, controls, and responsibilities
+to ensure protection of city systems, data, and public services.
+(Ord. 34-2025, passed 12-1-2025)
+§ 218.02 CYBERSECURITY PROGRAM.
+   (a)   The City of Shelby hereby adopts a cybersecurity program consistent
+with the requirements of R.C. § 9.64(C) and aligned with generally accepted
+practices, such as the NIST Cybersecurity Framework.
+   (b)   The cybersecurity program shall implement the NIST Cybersecurity
+Framework to identify and mitigate risks, assess potential impacts, detect and
+respond to threats, restore affected systems, and maintain ongoing projection
+of city assets and data. The program shall include annual cybersecurity
+training for all employees, align with state and federal practices, and ensure
+third-party providers meet applicable security standards to achieve practical,
+measurable, and cost-effective improvements in defending against cyber threats
+such as ransomware and phishing.
+   (c)   The Mayor as Director of Public Service and Safety in coordination
+with IT Service Provider, shall oversee the implementation, documentation, and
+annual review of the cybersecurity program to ensure continued alignment with
+state requirements and practices.
+   (d)   All records and documents related to the city's cybersecurity program
+are exempt from public records disclosure, consistent with R.C. § 9.64(E).
+(Ord. 34-2025, passed 12-1-2025)
+§ 218.03 PROHIBITION OF RANSOM PAYMENTS.
+   That in the event of a ransomware incident, the city shall not pay or
+otherwise comply with a ransom demand without formal approval from City
+Council, by ordinance or resolution, that specifically states why the payment
+or compliance with the ransom demand is in the best interest of the City of
+Shelby, Ohio.
+(Ord. 34-2025, passed 12-1-2025)
 TITLE FOUR - LEGISLATION
       Chapter
          
@@ -30981,8 +31024,7 @@ female genitals, or female breast; or
 anus, male genitals, female genitals, or areola of the female breast.
       (25)   “Operates” means to control or hold primary responsibility for the
 operation of a sexually oriented business, either as a business entity, as an
-individual, or as part of a group of individuals with shared responsibility.
-“Operate”
+individual, or as part of a group of individuals with shared responsibility. “
       (26)   “Operator” means any individual on the premises of a sexually
 oriented business who causes the business to function or who puts or keeps in
 operation the business or who is authorized to manage the business or exercise
@@ -46387,7 +46429,7 @@ to approval of a subdivision plat. The subdivider shall provide and install
 within the proposed survey or subdivision the minimum improvements set forth in
 Table 2.
 TABLE 2
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2970.jpg]
  
    (b)   Notes to
@@ -47041,7 +47083,7 @@ VI.   Parks and Transportation Plan
    
 VII.   Sample Forms
 APPENDIX I: THREE-MILE LIMIT FOR SUBDIVISION REGULATIONS
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2973.jpg]
  
 APPENDIX II: MAJOR AND MINOR SUBDIVISION CHARTS
@@ -47136,11 +47178,11 @@ tract has been completely subdivided" applies only to the necessity for
 replatting to accomplish changes in an already subdivided tract.
    EXAMPLES:
       Example A.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2976.jpg]
  
       Example B.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2979.jpg]
  
    1.   A owns 20 acres and sells four acres to B. (minor subdivision)
@@ -47149,7 +47191,7 @@ IMAGES/0-0-0-2979.jpg]
       b.   Minor Subdivision - Yes
       c.   B is the original tract - not the A
       Example C.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2982.jpg]
  
    1.   A owns 121 acres and sells as follows:
@@ -47167,7 +47209,7 @@ after the "original tract" has been "completely subdivided?" What is the
       c.   This would be a minor subdivision and 15 acres is the original
 tract.
       Example D.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2985.jpg]
  
    1.   A owns 120 acres and sells 30 acres to B.
@@ -47177,7 +47219,7 @@ more is less than five acres. If so, then it is a minor subdivision.
    4.   B then divides Lot Nos. 2, 3 and 4 each in half creating six new lots
 of 3.75 acres each. (This is a major subdvision.)
       Example E.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2988.jpg]
  
    1.   A owns five acres and divides it into five parcels, the largest of
@@ -47187,23 +47229,23 @@ which is 2-1/2 acres.
    3.   B then divides the 2-1/2 acres into five 1/2-acre parcels.
       a.   Is this a minor or a major subdivision? Minor.
       b.   What is the original tract? The 2-1/2 acres, not the five acres.
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2991.jpg]
  
 APPENDIX III: TYPICAL PRELIMINARY SUBDIVISION PLAT
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2994.jpg]
  
 APPENDIX IV: TYPICAL FINAL SUBDIVISION PLAT
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-2997.jpg]
  
 APPENDIX V: OPEN SPACE AND THOROUGHFARE PLAN
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-3956.png]
  
 APPENDIX VI: PARKS AND TRANSPORTATION PLAN
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-3958.png]
  
 APPENDIX VII: SAMPLE FORMS
@@ -52294,7 +52336,7 @@ BASED UPON THIS APPLICATION, A NONCONFORMITY CERTIFICATE IS ISSUED.
 Date                     Zoning Inspector
 Click_here_to_see_the_above_application_in_a_PDF_document.
 APPENDIX VI – THOROUGHFARE PLAN (1990)
-[https://export.amlegal.com/media/47e6b5354dd74897d3215b76d9bd7475964d2495/
+[https://export.amlegal.com/media/1fb374a27ebf37e1e3b325ffc4294479ee79905c/
 IMAGES/0-0-0-3006.jpg]
  
 PART FOURTEEN: BUILDING AND HOUSING
@@ -61342,6 +61384,8 @@ Rev. Ord.,p. 126)
 26-2025                        11-3-2025           1044.08
 27-2025                        10-6-2025           1050.02
 28-2025                        10-6-2025           1044.02
+34-2025                        12-1-2025           218.01–
+                                                   218.03
                                                   
  
  
