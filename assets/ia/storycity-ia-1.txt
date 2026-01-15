@@ -202,6 +202,25 @@ Oct-24    7.05, 7.08               341      10-16-23  Fiscal Management
           35.13                    354      9-16-24   Fire Official Citations
           50.08                    355      9-16-24   Adult Establishments
           60.02, 65.09             356      9-16-24   Pedestrians' Right-of-Way
+Dec-25  69.11                    357      11-4-24   Snow Emergency Parking
+          Ch. 158                  358      11-4-24   Vacant Building
+                                                      Registration
+          99.07(1)                 359      11-18-24  Sewer User Charge
+          Ch. 166                  360      2-17-25   Zoning Map
+          99.07(1)                 361      5-19-25   Sewer User Charge
+          Ch. 138                  362      8-4-25    Street Grade
+          Ch. 166                  363      8-18-25   Zoning Map
+          41.13(2)                 364      10-20-25  Fireworks
+          5.07(1)                  365      10-20-25  Conflict of Interest
+          120.05(8)                366      10-20-25  Prohibited Acts
+          Ch. 121                  367      10-20-25  Cigarette and Tobacco
+                                                      Permits
+          55.19                    368      10-20-25  Service Animals
+          7.05(4)(D)(1), 7.05(6)   369      10-20-25  Public Hearing
+                                                      Requirements
+          22.03, 22.04(1)          370      9-15-25   Library Board
+          Ch. 9, Ord. 85 & Ord.    370      12-15-25  Urban Revitalization Area
+          132
                                                       
  
  
@@ -642,10 +661,15 @@ contract entered into in violation of this section is void. The provisions of
 this section do not apply to:
 (Code of Iowa, Sec. 362.5)
    1.   Compensation of Officers. The payment of lawful compensation of a City
-officer or employee holding more than one City office or position, the holding
-of which is not incompatible with another public office or is not prohibited by
-law.
-(Code of Iowa, Sec. 362.5[3a])
+officer, volunteer firefighter as defined in Section 85.61 of the Code of Iowa,
+emergency medical care provider as defined in Section 147A.1 of the Code of
+Iowa, or employee holding more than one City office or position, the holding of
+which is not incompatible with another public office or is not prohibited by
+law. This subsection shall not be construed to prohibit nominal stipends,
+compensation, incentives, or benefits for volunteer firefighters or emergency
+medical care providers.
+(Code of Iowa, Sec. 362.5(3)(a))
+(Ord. 365 – Dec. 25 Supp.)
    2.   Investment of Funds. The designation of a bank or trust company as a
 depository, paying agent, or for investment of funds.
 (Code of Iowa, Sec. 362.5[3b])
@@ -905,11 +929,12 @@ not related to the proposed property tax amounts and the information in the
 statements shall not be conducted at the public hearing. After all testimony
 has been received and considered, the governing body may decrease, but not
 increase, the proposed property tax amount to be included in the City's budget.
-         (1)   Notice of the public hearing shall be published not less than 10
-nor more than 20 days prior to the hearing, in a newspaper published at least
-once weekly and having general circulation in the City. However, if the City
-has a population of 200 or less, publication may be made by posting in three
-public places in the City.
+         (1)   Notice of the public hearing shall be published not less than
+four or more than 20 days in a newspaper published at least once weekly and
+having general circulation in the City. However, if the City has a population
+of 200 or less, publication may be made by posting in three public places in
+the City.
+(Ord. 369 – Dec. 25 Supp.)
          (2)   Notice of the hearing shall also be posted and clearly
 identified on the City's internet site for public viewing beginning on the date
 of the newspaper publication and shall be maintained on the City's internet
@@ -932,16 +957,17 @@ newspaper to publish the notice.
    5.   Council Review. The Council shall review the proposed budget and may
 make any adjustments it deems appropriate in the budget before accepting such
 proposal for publication, hearing, and final adoption.
-   6.   Notice of Hearing. Following, and not until the requirements, of
-Subsection 4 of this section, are completed, the Council shall set a time and
-place for public hearing on the budget to be held before April 30 and shall
-publish notice of the hearing not less than 10 nor more than 20 days before the
+   6.   Notice of Hearing. Following, and not until completion of requirements,
+of Subsection 4 of this section, the Council shall set a time and place for
+public hearing on the budget to be held before April 30 and shall publish
+notice of the hearing not less than four or more than 20 days before the
 hearing. A summary of the proposed budget and a description of the procedure
 for protesting the City budget under Section 384.19 of the Code of Iowa, in the
 form prescribed by the Director of the Department of Management, shall be
 included in the notice. Proof of publication of the notice under this
 subsection must be filed with the County Auditor.
 (Code of Iowa, Sec. 384.16[3])
+(Ord. 369 – Dec. 25 Supp.)
    7.   Copies of Budget on File. Not less than 20 days before the date that
 the budget must be certified to the County Auditor and not less than 10 days
 before the public hearing, the Clerk shall make available a sufficient number
@@ -1085,13 +1111,11 @@ repeal, have been adopted designating Urban Revitalization Areas in the City
 and remain in full force and effect.
 ORDINANCE NO. ADOPTED  NAME OF AREA
 66            7-20-92  Story City Residential Revitalization Area
-85            8-15-94  Story City Industrial Revitalization Area
 86            9-19-94  Story City Industrial Revitalization Area Southwest
 114           7-21-97  Industrial Revitalization Area East
 125           11-17-97 Central Business District Urban Revitalization Area
 126           12-15-97 Amended Story City Industrial Revitalization Area
                        Southwest
-132           8-17-98  Amended Story City Industrial Revitalization Area
 160           5-20-02  Amended Story City Industrial Revitalization Area
                        Southwest
 177           11-1-04  Eby Revitalization Area
@@ -1100,6 +1124,7 @@ ORDINANCE NO. ADOPTED  NAME OF AREA
 273           8-6-18   Mall Revitalization Area
 346           2-5-24   Amended Mall Revitalization Area
 347           2-5-24   Amended I-35 Business Park Revitalization Area
+370           12-15-25 Story City Industrial Revitalization Area
  
 CHAPTER 10
 ECONOMIC DEVELOPMENT PROPERTY TAX EXEMPTION
@@ -1701,14 +1726,17 @@ consists of seven members. All members are to be appointed by the Mayor with
 the approval of the Council. Note: Approved by voters on September 13, 2022
 (Ord. 329 – Sep. 23 Supp.)
 22.03   QUALIFICATIONS OF TRUSTEES.
-All members of the Board shall be bona fide citizens and residents of the City.
-Members shall be over the age of eighteen (18) years.
+At least five members of the Board shall be bona fide citizens and residents of
+the City, and no more than two members of the Board may be nonresidents of the
+City. Members shall be over the age of eighteen (18) years.
+(Ord. 370 – Dec. 25 Supp.)
 22.04   ORGANIZATION OF THE BOARD.
 The organization of the Board shall be as follows:
-   1.   Term of Office. All appointments to the Board shall be for six years,
-except to fill vacancies. Each term shall commence on July 1. Appointments
-shall be made every two years of one-third the total number or as near as
-possible, to stagger the terms.
+   1.   Term of Office. All appointments to the Board shall be for three years,
+except to fill vacancies. Each Member’s term shall commence on July 1.
+Appointments shall be made every year of one-third the total number of Members
+of the Board, or as near as possible, to stagger the terms.
+(Ord. 370 – Dec. 25 Supp.)
    2.   Vacancies. The position of any Trustee shall be vacated if such member
 moves permanently from the City and shall be deemed vacated if such member is
 absent from six (6) consecutive regular meetings of the Board, except in the
@@ -2853,63 +2881,76 @@ following:
 enumerated in Iowa Code Section 727.2, Subsection 1, (as amended by Senate File
 489) which definitions are incorporated herein by reference.
    2.   Consumer fireworks.
-      Use and Explosion. The use and explosion of consumer fireworks is
-prohibited within the corporate limits of the City of Story City.
-      Sale, Transfer, and Purchase.
-      Sale. The sale of consumer fireworks shall at all times be conducted in
-accordance with the provisions of the Iowa Code and the administrative rules
-adopted by the Iowa State Fire Marshal relating to the sale, transfer, and
-purchase of consumer fireworks. Accordingly, it shall be unlawful to sell
-consumer fireworks without meeting the requirements specified in the Iowa Code
-and by the State Fire Marshal. The following additional requirements or
-limitations must also be met:
-            (i)   Approved consumer fireworks sales meeting the requirements of
+      A.   Use and Explosion. It is unlawful for any person to use or explode
+consumer fireworks within the City outside of the following dates which are
+allowed by Section 364.2(6) of the Code of Iowa:
+         (1)   July 3 between the hours of 9:00 a.m. and 10:00 p.m.
+            a.   Except when July 3 falls on a Saturday or Sunday preceding
+July 4, in which fireworks shall be allowed between the hours of 9:00 a.m. and
+11:00 p.m.
+         (2)   July 4 between the hours of 9:00 a.m. and 11:00 p.m.
+         (3)   December 31 between the hours of 9:00 a.m. and 12:30 a.m. on the
+immediately following day.
+      This paragraph does not apply to novelties.
+      B.   City Allowed Dates.
+         (1)   No other dates or times permitted.
+      C.   It is unlawful for any person to use consumer fireworks on real
+property other than that person’s real property or on the real property of a
+person who has consented to the use of consumer fireworks on that property.
+      D.   A person shall not use consumer firework on any public property
+(parks, streets, sidewalks, trails, right-of-way etc.), unless approved by the
+Council.
+      E.   Sale, Transfer, and Purchase.
+         (1)   Sale. The sale of consumer fireworks shall at all times be
+conducted in accordance with the provisions of the Iowa Code and the
+administrative rules adopted by the Iowa State Fire Marshal relating to the
+sale, transfer, and purchase of consumer fireworks. Accordingly, it shall be
+unlawful to sell consumer fireworks without meeting the requirements specified
+in the Iowa Code and by the State Fire Marshal. The following additional
+requirements or limitations must also be met:
+            a.   Approved consumer fireworks sales meeting the requirements of
 this chapter shall be allowed only between June 1 and July 8 and from December
 10 until January 3.
-            (ii)   Approved consumer fireworks sales meeting the requirements
-of this chapter shall be allowed only from an approved permanent structure or
+            b.   Approved consumer fireworks sales meeting the requirements of
+this chapter shall be allowed only from an approved permanent structure or
 building, located in the C-1 Highway Commercial District or the M-1, M-1A and
 M-2 Industrial Districts.
-      Requirements. Prior to engaging in the sale of consumer fireworks, a
-person, firm, partnership, or entity who sells consumer fireworks shall (i)
-provide the Fire Chief of the City of Story City with proof of a valid and
-current license issued by the State Fire Marshal, (ii) obtain a permit from the
-Fire Chief following inspection of the property, building, or premise from
-which sales will be conducted. Said permit shall be effective for one year from
-the date of issuance. Issuance of a new permit shall only be made after re-
-inspection of the property, building, or premises by the Fire Chief.
-      Fire Inspection. Any permanent structure or building intended for the
-sale of consumer fireworks shall have an initial fire inspection completed by
-the Fire Chief prior to engaging in the sale of consumer fireworks. The Fire
-Chief or the Chief’s designee shall cause an annual inspection to occur meeting
-the requirements of the National Fire Protection Code 1124 (2006 edition) and
-the current fire code adopted by the City of Story City. An annual inspection
-fee in the amount of $100.00 shall be assessed.  
-      Transient Merchants. A person, firm, partnership, or entity who sells
-consumer fireworks and meets the definition of a Transient Merchant, as that
-term is defined in
+         (2)   Requirements. Prior to engaging in the sale of consumer
+fireworks, a person, firm, partnership, or entity who sells consumer fireworks
+shall (i) provide the Fire Chief of the City of Story City with proof of a
+valid and current license issued by the State Fire Marshal, (ii) obtain a
+permit from the Fire Chief following inspection of the property, building, or
+premise from which sales will be conducted. Said permit shall be effective for
+one year from the date of issuance. Issuance of a new permit shall only be made
+after re-inspection of the property, building, or premises by the Fire Chief.
+         (3)   Fire Inspection. Any permanent structure or building intended
+for the sale of consumer fireworks shall have an initial fire inspection
+completed by the Fire Chief prior to engaging in the sale of consumer
+fireworks. The Fire Chief or the Chief’s designee shall cause an annual
+inspection to occur meeting the requirements of the National Fire Protection
+Code 1124 (2006 edition) and the current fire code adopted by the City of Story
+City. An annual inspection fee in the amount of $100.00 shall be assessed.    
+         (4)   Transient Merchants. A person, firm, partnership, or entity who
+sells consumer fireworks and meets the definition of a Transient Merchant, as
+that term is defined in
 Chapter 122 of the Story City Code of Ordinances, shall be subject to the
 provisions provided in said
 Chapter 122 of the Story City Code of Ordinances.
-      Notice of Prohibition of Use and Explosion. Any person, firm,
-partnership, or entity who sells consumer fireworks under this chapter shall
-display in a prominent location on the premises a notice that the use and
-explosion of consumer fireworks is prohibited within the corporate limits of
-the City of Story City, Iowa.
-      Revocation of Fireworks Sales Permit. The Fire Chief may, for cause,
-revoke the permit for the sale of consumer fireworks. An appeal of the decision
-may be taken to the City Administrator by filing a written notice with the City
-Clerk. The written notice must be filed with the City Clerk within ten (10)
-days of the Fire Chief’s decision to revoke the permit. The City Administrator
-shall schedule a hearing on the appeal within seven (7) days from the receipt
-of the notice. The appeal shall stay the decision of the Fire Chief unless the
-City Administrator directs otherwise. At the hearing, the applicant shall have
-the opportunity to present evidence or arguments the applicant may have as to
-why the action of the Fire Chief should not be approved by the City
+         (5)   Revocation of Fireworks Sales Permit. The Fire Chief may, for
+cause, revoke the permit for the sale of consumer fireworks. An appeal of the
+decision may be taken to the City Administrator by filing a written notice with
+the City Clerk. The written notice must be filed with the City Clerk within ten
+(10) days of the Fire Chief’s decision to revoke the permit. The City
+Administrator shall schedule a hearing on the appeal within seven (7) days from
+the receipt of the notice. The appeal shall stay the decision of the Fire Chief
+unless the City Administrator directs otherwise. At the hearing, the applicant
+shall have the opportunity to present evidence or arguments the applicant may
+have as to why the action of the Fire Chief should not be approved by the City
 Administrator. The City Administrator shall render a written decision on the
 appeal within seven (7) days after the hearing. The decision of the City
 Administrator shall be final. The parties may extend the time limits set forth
 herein by mutual agreement.
+(Ord. 364 – Dec. 25 Supp.)
    3.   Display Fireworks. It is unlawful for any person to offer for sale,
 expose for sale, sell at retail, or use or explode any display fireworks;
 provided the City may, upon application in writing, grant a permit for the
@@ -3626,17 +3667,18 @@ Chapter 50 of this Code of Ordinances.
 (Code of Iowa, Sec. 364.12[3a])
 CHAPTER 55
 ANIMAL PROTECTION AND CONTROL
-55.01 Definitions                  55.10 Rabies Vaccination
-55.02 Animal Neglect               55.11 Owner’s Duty
-55.03 Livestock Neglect            55.12 Confinement
-55.04 Abandonment of Cats and Dogs 55.13 At Large: Impoundment
-55.05 Livestock                    55.14 Disposition of Animals
-55.06 At Large Prohibited          55.15 Impounding Costs
-55.07 Damage or Interference       55.16 Pet Awards Prohibited
-55.08 Annoyance or Disturbance     55.17 Tampering With a Rabies Vaccination
+55.01 Definitions                  55.11 Owner’s Duty
+55.02 Animal Neglect               55.12 Confinement
+55.03 Livestock Neglect            55.13 At Large: Impoundment
+55.04 Abandonment of Cats and Dogs 55.14 Disposition of Animals
+55.05 Livestock                    55.15 Impounding Costs
+55.06 At Large Prohibited          55.16 Pet Awards Prohibited
+55.07 Damage or Interference       55.17 Tampering With a Rabies Vaccination
                                    Tag
-55.09 Vicious Dogs                 55.18 Tampering With an Electronic Handling
+55.08 Annoyance or Disturbance     55.18 Tampering With an Electronic Handling
                                    Device
+55.09 Vicious Dogs                 55.19 False Representation of Service Animal
+55.10 Rabies Vaccination
  
 55.01   DEFINITIONS.
 The following terms are defined for use in this chapter.
@@ -3963,6 +4005,16 @@ to take action by the owner.
       C.   A veterinarian.
       D.   An animal shelter or pound.
 (Ord. 308 – Jun. 21 Supp.)
+55.19   FALSE REPRESENTATION OF SERVICE ANIMAL.
+A person commits the offense of intentional misrepresentation of an animal as a
+service animal or a service-animal-in-training if, for the purpose of obtaining
+any of the rights or privileges set forth in State or federal law, the person
+intentionally misrepresents an animal in one’s possession as one’s service
+animal or service-animal-in-training or a person with a disability’s service
+animal or service-animal-in-training whom the person is assisting by
+controlling.
+(Code of Iowa, Section 216C.11(3)(B))
+(Ord. 368 – Dec. 25 Supp.)
 CHAPTER 60
 ADMINISTRATION OF TRAFFIC CODE
  
@@ -5051,28 +5103,28 @@ recreational vehicle, or boat unit at any time upon any portion of any street,
 except for such reasonable time as may be necessary to load or unload
 passengers, freight or merchandise.
 69.11   SNOW EMERGENCY.
-   1.   No person shall park, abandon or leave unattended any vehicle on any
+   1.   No person shall, park, abandon or leave unattended any vehicle on any
 public street, alley or parking areas in the public right-of-way and
 immediately adjacent to the traveled portion of a street during any snow
 emergency parking ban unless the snow has been removed or plowed from the
 street, alley or parking areas in the public right-of-way and immediately
 adjacent to the traveled portion of a street and the snow has ceased to fall. A
-snow emergency parking ban shall begin when the National Weather Service
-predicts that two (2) or more inches of snow or ice will fall in the Story City
-area or two (2) or more inches of snow or ice has fallen in the Story City
-area, and shall continue through the duration of the snow or ice storm and the
-forty-eight-hour period after cessation of the storm, except as above provided
-upon streets which have been fully opened. As used in this section, “fully
-opened” means the snow has been removed or plowed from curb to curb or edge
-line to edge line.
-   2.   The emergency shall be extended or shortened when conditions warrant
-upon proclamation by the City Administrator.
+snow emergency parking ban shall begin when one (1) or more inches of snow or
+ice has fallen in the Story City area, and shall continue through the duration
+of the snow or ice storm and the forty-eight-hour period after cessation of the
+storm, except as above provided upon streets which have been fully opened. As
+used in this section, “fully opened” means the snow has been removed or plowed
+from curb to curb or edge line to edge line.
+   2.   Notifications. Signs shall be erected at the main entrances to the City
+notifying the public that parking restrictions are in effect. It shall not
+require a public declaration or announcement by the City.
    3.   The foregoing prohibition shall be modified within the downtown area as
 follows:
       A.   On Broad Street from Park Avenue to Elm Avenue.
       B.   On Pennsylvania Avenue from Washington Street to Story Street.
 Said prohibition shall be between 2:30 a.m. to 6:00 a.m. unless otherwise
 specified in the declaration.
+(Ord. 357 – Dec. 25 Supp.)
 69.12   PARKING LIMITED TO THREE HOURS.
    1.   Broad Street. Vehicles shall not be parked continuously in excess of
 three (3) hours on Broad Street from Elm Avenue to Park Avenue, between the
@@ -7667,6 +7719,10 @@ Beginning with the May billing in 2026, the user charge rate shall be $6.61 per
 Beginning with the May billing in 2027, the user charge rate shall be $7.40 per
 100 cubic feet of water as determined in the preceding section.
 (Ord. 349 - Oct. 24 Supp.)
+      1.   Beginning with the June 2025 billing, sewer user charge for sewer
+only customers within the City of Story City shall be based on a volume of
+554.90 cubic feet of water per month.
+(Ord. 361 – Dec. 25 Supp.)
 99.08   SPECIAL RATES.
 For those users who contribute wastewater, the strength of which is greater
 than normal domestic sewage and/or the total flow exceeds 50,000 gpd (6,684 cf/
@@ -10242,9 +10298,10 @@ liquor in any container except the original package purchased from the Iowa
 Department of Revenue and except mixed drinks or cocktails mixed on the
 premises for immediate consumption. However, mixed drinks or cocktails that are
 mixed on the premises and are not for immediate consumption may be consumed on
-the licensed premises, subject to rules adopted by the Iowa Department of
-Revenue.
-(Code of Iowa, Sec. 123.49[2d])
+the licensed premises, subject to Section 123.49, Subsection 2, Paragraph D,
+Subparagraphs (2), (3), and (4) of the Code of Iowa.
+(Code of Iowa, Sec. 123.49(2)(d)(2), (3), and (4))
+(Ord. 366 – Dec. 25 Supp.)
    9.   Reuse for packaging alcoholic liquor or wine any container or
 receptacle used originally for packaging alcoholic liquor or wine; or
 adulterate, by the addition of any substance, the contents or remaining
@@ -10290,74 +10347,100 @@ the age of 21.   
 CHAPTER 121
 CIGARETTE AND TOBACCO PERMITS
  
-121.01 Definitions             121.06 Refunds
-121.02 Permit Required         121.07 Persons Under Legal Age
-121.03 Application             121.08 Self-Service Sales Prohibited
-121.04 Fees                    121.09 Permit Revocation
-121.05 Issuance and Expiration
+121.01 Definitions     121.07 Expiration
+121.02 Permit Required 121.08 Refunds
+121.03 Application     121.09 Persons Under Legal Age
+121.04 City Approval   121.10 Self-Service Sales Prohibited
+121.05 Fees            121.11 Permit Revocation
+121.06 Issuance
  
 121.01   DEFINITIONS.
 For use in this chapter the following terms are defined:
 (Code of Iowa, Sec. 453A.1)
-   1.   “Carton” means a box or container of any kind in which ten or more
-packages or packs of cigarettes or tobacco products are offered for sale, sold,
-or otherwise distributed to consumers.
+   1.   “Alternative nicotine product” means a product, not consisting of or
+containing tobacco, that provides for the ingestion into the body of nicotine,
+whether by chewing, absorbing, dissolving, inhaling, snorting, or sniffing, or
+by any other means. “Alternative nicotine product” does not include cigarettes,
+tobacco products, or vapor products, or a product that is regulated as a drug
+or device by the United States Food and Drug Administration under Chapter V of
+the Federal Food, Drug, and Cosmetic Act.
    2.   “Cigarette” means any roll for smoking made wholly or in part of
 tobacco, or any substitute for tobacco, irrespective of size or shape and
 irrespective of tobacco or any substitute for tobacco being flavored,
-adulterated or mixed with any other ingredient, where such roll has a wrapper
-or cover made of paper or any other material. However, this definition is not
-to be construed to include cigars.
-   3.   “Package” or “pack” means a container of any kind in which cigarettes
-or tobacco products are offered for sale, sold, or otherwise distributed to
-consumers.
+adulterated, or mixed with any other ingredient, where such roll has a wrapper
+or cover made of paper or any other material. However, cigarettes shall not be
+construed to include cigars.
+   3.   “Department” means the State Department of Revenue.
    4.   “Place of business” means any place where cigarettes, tobacco products,
-alternative nicotine products, or vapor products are sold, stored or kept for
+alternative nicotine products, or vapor products are sold, stored, or kept for
 the purpose of sale or consumption by a retailer.
-(Ord. 266 – Jul. 18 Supp.)
-   5.   “Retailer” means every person who sells, distributes or offers for sale
-for consumption, or possesses for the purpose of sale for consumption,
-cigarettes, irrespective of the quantity or amount or the number of sales or
-who engages in the business of selling tobacco products to ultimate consumers.
+   5.   “Retailer” means every person who sells, distributes, or offers for
+sale for consumption, or possesses for the purpose of sale for consumption,
+cigarettes, alternative nicotine products, or vapor products, irrespective of
+the quantity or amount or the number of sales, or who engages in the business
+of selling tobacco, tobacco products, alternative nicotine products, or vapor
+products to ultimate consumers.
    6.   “Self-service display” means any manner of product display, placement,
 or storage from which a person purchasing the product may take possession of
 the product, prior to purchase, without assistance from the retailer or
 employee of the retailer, in removing the product from a restricted access
 location.
    7.   “Tobacco products” means the following: cigars; little cigars;
-cheroots; stogies; periques; granulated, plug cut, crimp cut, ready rubbed and
+cheroots; stogies; periques; granulated, plug cut, crimp cut, ready rubbed, and
 other smoking tobacco; snuff; cavendish; plug and twist tobacco; fine-cut and
-other chewing tobaccos; shorts or refuse scraps, clippings, cuttings and
+other chewing tobaccos; shorts or refuse scraps, clippings, cuttings, and
 sweepings of tobacco; and other kinds and forms of tobacco prepared in such
 manner as to be suitable for chewing or smoking in a pipe or otherwise, or for
 both chewing and smoking, but does not mean cigarettes.
+   8.   “Vapor product” means any noncombustible product, which may or may not
+contain nicotine, that employs a heating element, power source, electronic
+circuit, or other electronic, chemical, or mechanical means, regardless of
+shape or size, that can be used to produce vapor from a solution or other
+substance. “Vapor product” includes an electronic cigarette, electronic cigar,
+electronic cigarillo, electronic pipe, or similar product or device, and any
+cartridge or other container of a solution or other substance, which may or may
+not contain nicotine, that is intended to be used with or in an electronic
+cigarette, electronic cigar, electronic cigarillo, electronic pipe, or similar
+product or device. “Vapor product” does not include a product regulated as a
+drug or device by the United States Food and Drug Administration under Chapter
+V of the Federal Food, Drug, and Cosmetic Act.
 121.02   PERMIT REQUIRED.
-   1.   Cigarette Permits. It is unlawful for any person, other than a holder
-of a retail permit, to sell cigarettes at retail and no retailer shall
-distribute, sell, or solicit the sale of any cigarettes within the City without
-a valid permit for each place of business. The permit shall, at all times, be
-publicly displayed at the place of business so as to be easily seen by the
-public and the persons authorized to inspect the place of business.
-(Code of Iowa, Sec. 453A.13)
-   2.   Tobacco Permits. It is unlawful for any person to engage in the
-business of a retailer of tobacco products at any place of business without
-first having received a permit as a tobacco products retailer for each place of
-business owned or operated by the retailer.
-(Code of Iowa, Sec. 453A.47A)
-A retailer who holds a cigarette permit is not required to also obtain a
-tobacco permit. However, if a retailer only holds a cigarette permit and that
-permit is suspended, revoked, or expired, the retailer shall not sell any
-cigarettes or tobacco products during such time.
+   1.   Retail Cigarette Permits. It is unlawful for any person, other than a
+holder of a retail permit, to sell cigarettes, alternative nicotine products,
+or vapor products at retail and no retailer shall distribute, sell, or solicit
+the sale of any cigarettes, alternative nicotine products, or vapor products
+within the City without a valid permit for each place of business. The permit
+shall, at all times, be publicly displayed at the place of business so as to be
+easily seen by the public and the persons authorized to inspect the place of
+business.
+(Code of Iowa, Sec. 453A.13(1))
+   2.   Retail Tobacco Permits. It is unlawful for any person to engage in the
+business of a retailer of tobacco, tobacco products, alternative nicotine
+products, or vapor products at any place of business without first having
+received a permit as a retailer for each place of business owned or operated by
+the retailer.
+(Code of Iowa, Sec. 453A.47A(1))
+A retailer who holds a retail cigarette permit is not required to also obtain a
+retail tobacco permit. However, if a retailer only holds a retail cigarette
+permit and that permit is suspended, revoked, or expired, the retailer shall
+not sell any tobacco, tobacco products, alternative nicotine products, or vapor
+products, during such time.
+(Code of Iowa, Sec. 453A.47A(4))
 121.03   APPLICATION.
-A completed application on forms furnished by the State Department of Revenue
-or on forms made available or approved by the Department and accompanied by the
-required fee shall be filed with the Clerk. Renewal applications shall be filed
-at least five (5) days prior to the last regular meeting of the Council in
-June. If a renewal application is not timely filed, and a special Council
-meeting is called to act on the application, the costs of such special meeting
-shall be paid by the applicant.
-(Code of Iowa, Sec. 453A.13 & 453A.47A)
-121.04   FEES.
+A retailer shall submit to the department an application on forms furnished by
+the department, accompanied by the required fees and adequate bond as provided
+in Section 453A.14, of the Code of Iowa. Applications, any supporting
+documentation, and the associated fees shall be submitted electronically to the
+department.
+(Code of Iowa, Sec. 453A.13(5))
+121.04   CITY APPROVAL.
+The City may approve retail permit applications for applicants with a place of
+business within the City limits. The City shall use the electronic portal of
+the department to process retail permit applications. Upon approval of a retail
+permit application by the City the department shall issue the permit to the
+applicant on behalf of the City.
+(Code of Iowa, Sec. 453A.13(2))
+121.05   FEES.
 The fee for a retail cigarette or tobacco permit shall be as follows:
 (Code of Iowa, Sec. 453A.13 & 453A.47A)
  
@@ -10367,19 +10450,19 @@ October, November or December $ 56.25
 January, February or March    $ 37.50
 April, May or June            $ 18.75
  
-121.05   ISSUANCE AND EXPIRATION.
-Upon proper application and payment of the required fee, a permit shall be
-issued. Each permit issued shall describe clearly the place of business for
-which it is issued and shall be nonassignable. All permits expire on June 30 of
-each year. The Clerk shall submit a duplicate of any application for a permit
-to the Iowa Department of Revenue within 30 days of issuance of a permit.
-(Ord. 342 - Oct. 24 Supp.)
-121.06   REFUNDS.
+121.06   ISSUANCE.
+Each permit issued shall describe clearly the place of business for which it is
+issued and shall be nonassignable.
+121.07   EXPIRATION.
 A retailer may surrender an unrevoked permit and receive a refund from the
 City, except during April, May, or June, in accordance with the schedule of
 refunds as provided in Section 453A.13 or 453A.47A of the Code of Iowa.
-(Code of Iowa, 453A.13 & 453A.47A)
-121.07   PERSONS UNDER LEGAL AGE.
+121.08   REFUNDS.
+A retailer may surrender an unrevoked permit and receive a refund from the
+City, except during April, May, or June, in accordance with the schedule of
+refunds as provided in Section 453A.13 or 453A.47A of the Code of Iowa.
+(Code of Iowa, 453A.13(4) and 453A.47A(8))
+121.09   PERSONS UNDER LEGAL AGE.
 A person shall not sell, give, or otherwise supply any tobacco, tobacco
 products, alternative nicotine products, vapor products, or cigarettes to any
 person under 21 years of age. The provision of this section includes
@@ -10410,15 +10493,14 @@ of the notice to the place of business as it appears on the application for a
 permit. The notice shall state the reason for the contemplated action and the
 time and place at which the retailer may appear and be heard.
 (Code of Iowa, Sec. 453A.2, 453A.22 and 453A.36[6])
-(Ord. 307 – Jun. 21 Supp.)
-121.08   SELF-SERVICE SALES PROHIBITED.
+121.10   SELF-SERVICE SALES PROHIBITED.
 Beginning January 1, 1999, except for the sale of cigarettes through a
 cigarette vending machine as provided in Section 453A.36(6) of the Code of
 Iowa, a retailer shall not sell or offer for sale cigarettes or tobacco
 products, in a quantity of less than a carton, through the use of a self-
 service display.
 (Code of Iowa, Sec. 453A.36A)
-121.09   PERMIT REVOCATION.
+121.11   PERMIT REVOCATION.
 Following a written notice and an opportunity for a hearing, as provided by the
 Code of Iowa, the Council may also revoke a permit issued pursuant to this
 chapter for a violation of Division I of Chapter 453A of the Code of Iowa or
@@ -10427,8 +10509,7 @@ issued to the permit holder for any place of business, or to any other person
 for the place of business at which the violation occurred, until one year has
 expired from the date of revocation, unless good cause to the contrary is shown
 to the Council. The Clerk shall report the revocation or suspension of a retail
-permit to the Alcoholic Beverages Division of the Department of Commerce within
-thirty (30) days of the revocation or suspension.
+permit to the department within 30 days of the revocation or suspension.
 (Code of Iowa, Sec. 453A.22)
 CHAPTER 122
 PEDDLERS, SOLICITORS AND TRANSIENT MERCHANTS
@@ -11254,6 +11335,7 @@ ORDINANCE NO. ADOPTED            ORDINANCE NO. ADOPTED
 256           March 6, 2017
 257           March 6, 2017
 326           June 6, 2022
+362           August 4, 2025
  
 CHAPTER 139
 NAMING OF STREETS
@@ -12617,6 +12699,373 @@ request shall be presented to the City Council. Said cost may then be assessed
 in accordance with Iowa law. This shall not prevent action from being taken
 during emergency situations with City Administrator’s approval. This shall be
 done in accordance with Iowa law and established procedures.
+CHAPTER 158
+VACANT BUILDING REGISTRATION
+ 
+158.01 Purpose         158.04 Vacant Building Maintenance Requirements
+158.02 Definitions     158.05 Enforcement and Penalties
+158.03 Permit Required  
+ 
+158.01   PURPOSE.
+The purpose of this chapter is to identify and register vacant commercial
+buildings in the C-2 Central Business District that may present a fire hazard,
+become an attractive nuisance, detract from private or public efforts to
+rehabilitate or maintain surrounding buildings, or present a hazard to the
+health, safety, and welfare of the public; to set forth the responsibilities of
+owners of vacant buildings and structures; and to encourage the rehabilitation
+of vacant buildings.
+158.02   DEFINITIONS.
+The following words, terms, and phrases, when used in this chapter, have the
+meanings ascribed to them in this section, unless the context of their usage
+clearly indicates a different meaning. All other terms defined elsewhere in
+this code shall be as defined therein.
+   1.   “Accessory Building or Structure,” a subordinate building or structure
+located on the same lot as an existing principal building, which is incidental
+and subordinate to the principal building.
+   2.   “Actively Marketed,” a vacant commercial or industrial building that
+displays a "For Sale" sign prominently visible to the public, and the property
+is listed for sale for a reasonable price on the local multiple listing service
+by a licensed realtor. An asking price not greater than one hundred and fifty
+percent (150%) of the total assessed value, as determined by the county
+assessor, is presumptively a "reasonable price." Or the property is offered for
+lease at a proposed rent that is comparable with the rental market throughout
+the city.
+   3.   “Boarding or Boarded,” the act of securing a building from unauthorized
+entry by attaching boards or similar rigid materials to doors and windows, for
+the purpose of preventing unauthorized entry (boarding), or the result thereof
+(boarded).
+   4.   “Commercial Building,” a building constructed for or intended to be
+used by one or more property users or employees engaged in work, for which
+compensation is intended to be received for goods, services, entertainment, or
+other fungible activities, or a building where commercial or personal storage
+is the principal use.
+   5.   “Form of Display,” Installation and display of goods, artifacts,
+historic photos, items of local interest, or other items arranged in and
+visible through first floor display windows, to avoid the appearance of
+vacancy.
+   6.   “Mixed-Use Building,” a commercial building that also contains a
+residential function, where all or part of the ground floor area is dedicated
+to commercial functions. The commercial function of a mixed-use building shall
+be considered the same as a commercial building for the purposes of this
+chapter.
+   7.   “Owner,” any person, in whose name a property is titled, and any person
+with a recorded contract interest in the property, and any person, agent,
+servicing company, firm, third party, or financial institution that has an
+interest in the property as a result of an assignment, sale, mortgage, transfer
+of a mortgage, or similar instrument, or having an agreement with any one of
+the above for the purpose of securing and/or managing the property.
+   8.   “Principal Building,” a building within which is conducted the
+principal function of the lot on which the building is located.
+   9.   “Properly Maintained,” A vacant building that is maintained in
+accordance with the requirements of this chapter.
+   10.   “Secured,” all accessible means of ingress and egress to a vacant
+structure, including but not limited to all exterior doorways and windows, are
+locked, boarded, or otherwise obstructed so as to prevent unauthorized entry.
+   11.   “Vacant,” a building or structure that is unoccupied or unused, or a
+building that does not contain a lawful commercial function that is open for
+business or is actively operated, with the exception of holidays and seasonal
+businesses, and also meets one or more of the following:
+      A.   The building is unsecured or is secured by means other than those
+used in the design of the building.
+      B.   The building is declared a dangerous building or otherwise unfit for
+occupancy, as determined by the City Administrator or their designee.
+      C.   The building is not in compliance with the building code, fire code,
+or property maintenance code adopted by the City.
+      D.   The building has or contains nuisance, property maintenance, health
+and safety, or zoning violations; or
+      E.   The building is not receiving all public utilities necessary for
+occupancy.
+   A building that is being used strictly for storage that otherwise meets the
+above requirements shall be considered to be vacant, unless storage is the
+principal function of the building and premises and if such storage is
+permitted under applicable zoning.
+158.03   PERMIT REQUIRED.
+   1.   Applicability. The owner of any principal building or structure that is
+vacant shall apply for a vacant building permit within one hundred and twenty
+(120) days of the building becoming vacant. Any accessory building or structure
+on the same lot with a vacant principal building is also considered to be
+vacant, regardless of any use or occupancy of the accessory building or
+structure.
+   2.   Exemptions. The owner of a vacant building may, in writing and prior to
+expiration of the one hundred and twenty (120)-day registration period, request
+an exemption from the requirements of this chapter, provided that the one or
+more of the following conditions exists:
+      A.   The building is under active construction/renovation and has a valid
+building permit, until the expiration of the longest running active building
+permit.
+      B.   The building has suffered fire damage, flood damage, damage caused
+by extreme weather conditions, or weakening of the structural integrity of the
+building resulting from an accident or other cause not of the owner's own
+making; provided that the owner will initiate renovation or demolition within
+one (1) year of the date the damage occurred and has provided a commitment to
+do so in writing.
+      C.   The building is actively marketed, as defined in this chapter; in
+which case the building may be exempted for a period of up to twelve (12)
+months from the start of vacancy, subject to the following:
+         (1)   The owner shall present proof of listing the property for sale
+or lease to the City Administrator, according to the definitional requirements
+of "actively marketed" in section 158.02(2), above. The City Administrator or
+his/her designee may request proof of continued compliance with this
+requirement at any time during the twelve (12) month period and may rescind the
+exemption if such proof is not provided.
+         (2)   If the property is offered for sale, the City Administrator may
+deny this exemption if the listing price is one hundred fifty percent (150%) or
+greater than the assessed value of the real estate as determined by the County
+Assessor. However, if the owner provides either a certified appraisal or a
+licensed realtor's opinion of cost justifying the listing price, the exemption
+may be granted. If the property is offered for lease, the owner shall provide
+proof that the property is offered for a lease at a proposed rent that is
+comparable with the rental market throughout the city.
+      D.   The owner of the building provides proof of imminent sale,
+rehabilitation, or otherwise lawful renovation or occupation of the building,
+which may occur during or after the one hundred and twenty (120)-day
+registration period; however, to qualify for the exemption, the owner must also
+show that the sale, construction, or occupation will occur within one (1) year
+of becoming vacant. Proof shall be in the form of an executed real estate
+purchase agreement, construction contract, or other legally enforceable
+agreement or contract, any of which must remain in force until the sale,
+occupation, or project is complete.
+      E.   Any commercial or industrial building or structure determined to be
+vital for purpose of economic development by the City Administrator.
+      F.   Any vacant building owned by the City of Story City.
+      G.   An owner of a vacant building that does not qualify for an exemption
+under the above may request an exemption for a period of up to twelve (12)
+months from the provisions of this chapter by filing a written application with
+the City Administrator. The applicant shall present justification for the
+exemption and shall show proof that the need for the exemption is not due to
+action or inaction by the applicant or by any other party with control of the
+property. In determining whether a request for exemption should be granted, the
+City Administrator shall consider all of the following:
+         (1)   The applicant's prior record as it pertains to the city’s
+building code, fire code, property maintenance code, nuisance regulations, or
+other relevant city code violations;
+         (2)   the amount of vacant property the applicant currently owns or
+controls within the City; and
+         (3)   the length of time that the building for which the exception is
+sought has been vacant.
+   3.   Application. The owner of a vacant building shall apply for a vacant
+building permit. A complete application shall include the following:
+      A.   Name of the Owner and means of contacting the owner during business
+and non-business hours.
+      B.   Name and contact information for any manager or other party
+responsible for the property other than the owner.
+      C.   The names and addresses of all known contract and lien holders and
+any other party with an ownership interest in the vacant building.
+      D.   Proof of insurance: one hundred thousand dollars ($100,000) in
+general liability coverage, and fire and casualty coverage equal to no less
+than replacement value as determined by the insurance provider, or a minimum of
+fifty thousand dollars ($50,000).
+      E.   A Vacant Building Plan, as outlined below.
+   4.   Vacant Building Plan. A plan for maintenance, disposal, or removal of
+the vacant building, in accordance with this chapter, shall accompany the
+permit application. The applicant shall select a Vacant Building Plan from one
+of the following three categories:
+      A.   Demolition. If the vacant commercial or industrial building is to be
+demolished, the Vacant Building Plan shall include a proposed time frame for
+demolition, which shall not exceed nine (9) months in duration.
+      B.   Secured Structure. If the vacant commercial or industrial building
+is expected to remain vacant, the Vacant Building Plan shall contain all of the
+following:
+         (1)   A plan for fire alarm and fire protection, if required by the
+Fire Marshal.
+         (2)   A plan of action to remedy any public nuisance existing in the
+building or on the property, within thirty (30) days of permit issuance.
+         (3)   A lighting plan for the exterior of the building and property,
+walkways adjacent thereto, parking or loading areas, and nighttime illumination
+of areas and walkways of the building and property that may be vulnerable to
+vandalism or vagrancy, including a regular maintenance plan for all exterior
+lighting and illumination fixtures.
+         (4)   A plan to secure the building. Boarding or other covering of
+windows and doors must comply with section 158.04(1) of this chapter.
+         (5)   A plan to maintain the vacant commercial or industrial building
+and property in compliance with the Vacant Building Maintenance Standards set
+forth in section 158.04 of this chapter.
+      C.   Rehabilitation. If the owner of the vacant building intends to
+return it to lawful occupancy or function, the Vacant Building Plan shall
+include a rehabilitation time frame for the building and property, which shall
+not exceed twelve (12) months. A valid building permit, or a written waiver
+from the City Administrator that a permit is not required, shall be obtained
+within three (3) months of the issuance of the Vacant Building Permit. The City
+Administrator may grant an extension of time upon receipt of a written
+statement from the owner detailing any unavoidable delays causing the need for
+the extension. The rehabilitation shall conform to all applicable laws and the
+owner shall obtain all required permits. The owner shall keep the building
+secured and in compliance with the Vacant Building Maintenance Standards as
+provided in section 158.04 of this chapter at all times during rehabilitation.
+   5.   Fees. The City Council shall pass a resolution stating the amount of
+all fees and costs of all penalties.
+      A.   Initial Fee. The initial fee is due at the time of initial
+registration of the vacant building.
+      B.   Renewal Fee. The renewal fee is due one (1) year after issuance of
+the initial registration of the vacant building. The Resolution setting fees
+shall establish the renewal fee in an amount higher than the initial fee and
+shall require that the amount of the renewal fee increase each additional year
+a renewal is required, provided that the resolution may determine a maximum fee
+after a specified number of years have passed.
+      C.   Refund.
+         (1)   If the vacant building is occupied or otherwise brought into
+lawful use within three (3) months after issuance of the permit, seventy-five
+(75) percent of the fees paid for that year shall be refunded to the owner.
+         (2)   If the vacant building is occupied or otherwise brought into
+lawful use more than three (3) months but less than six (6) months after
+issuance of the permit, fifty (50) percent of the fees paid for that year shall
+be refunded to the owner.
+         (3)   No refund shall be granted if the vacant building is occupied or
+otherwise brought into lawful use six (6) months or more after issuance of the
+vacant building permit.
+   6.   Requirements.
+      A.   Length of Registration. A registration permit shall be valid for one
+(1) year.
+      B.   Renewal.
+         (1)   If the building remains vacant on the date of expiration of the
+permit, the owner shall be granted a thirty (30) day grace period to renew the
+permit and pay required fees; however, the renewal year shall commence one day
+after expiration of the prior registration.
+         (2)   The owner shall submit a new Vacant Building Plan at the time of
+renewal, unless the owner certifies in writing that there will be no change to
+the Vacant Building Plan already on file.
+      C.   Consent to Entry. An applicant for a permit or for a renewal shall
+consent to the entry of the City Administrator, or his/her designee, at all
+reasonable hours and upon reasonable notice for the purpose of inspection.
+Refusal to consent to entry shall be a violation of this chapter. In addition
+to issuing a municipal infraction citation in the event of refusal, the City
+may file a complaint under oath to a court of competent jurisdiction requesting
+a warrant and shall complete the inspection upon issuance of a warrant by the
+court.
+      D.   Consent to Emergency Inspections or Emergency Repairs. An applicant
+for a permit or for a renewal shall consent to the entry of the City
+Administrator, or their designee, if the City Administrator, or their designee,
+has reason to believe than an emergency exists with respect to the building or
+structure that creates, or tends to create, an imminent hazard to health,
+welfare, or safety of the public. If the City Administrator, or their designee,
+believes that such an emergency exists, then the City Administrator, or their
+designee, may enter the building to inspect the premises, without notifying the
+responsible party or obtaining a warrant. If the City Administrator, or their
+designee, finds an emergency situation exists that presents an imminent hazard
+to the health, welfare or safety of the general public, then the City
+Administrator, or their designee, may cause any reasonable action, including
+the employment of necessary labor and materials, to perform emergency repairs
+to alleviate the hazard. The owner shall pay costs incurred in the performance
+of emergency repairs; and if not paid by the owner, the City may place a lien
+against the property to recover the costs.
+      E.   Cooperation by the Owner or Responsible Person. All owners holding a
+permit and responsible persons identified in a permit application shall
+cooperate with and facilitate inspections of the premises at reasonable times
+pursuant to reasonable notice. Obstructing a duly authorized inspection,
+including refusing entry or access to portions of the building subject to the
+permit, shall be a violation of this chapter. The owner shall notify the City
+Administrator within thirty (30) business days of any changes to the contact
+information of the owner or responsible person.
+      F.   Continued Compliance. For the Vacant Building Permit to remain
+valid, the building or structure shall continuously comply with the filed
+Vacant Building Plan and the Vacant Building Maintenance Requirements of this
+chapter, below. Failure to maintain the building in accordance with this
+chapter shall be a violation of the City Code.
+   7.   Process.
+      A.   Inspections.
+         (1)   Upon receipt of a complete initial application or renewal
+application, including payment of required fees, the City Administrator or his/
+her designee shall schedule an inspection.
+         (2)   The City Administrator or his/her designee shall prepare an
+inspection report, noting the condition of the property and any deficiencies
+from the requirements of this chapter. The owner shall receive a copy of the
+inspection report.
+      B.   Vacant Building Permit. Upon a finding by the City Administrator
+that the vacant building is secure, is not hazardous, and does not present a
+public nuisance, the City Administrator shall issue a Vacant Building Permit.
+      C.   If the Vacant Building Permit is denied, the City Administrator
+shall notify the applicant in writing of the deficiencies. The applicant shall
+be given a reasonable amount of time to correct deficiencies, which shall in no
+case extend beyond thirty (30) days, unless extended by the City Administrator.
+Failure to secure a valid permit shall be a violation of this chapter.
+   8.   Appeals. Any determination of the City Administrator may be appealed to
+the City Council. A request for a hearing must be made in writing and delivered
+to the City Administrator within seven (7) working days from the date the
+determinations being appealed is communicated to the owner. If an appeal is not
+filed as set forth herein, it will be conclusively presumed that the City
+Administrator’s determination is correct. The findings of the Council shall be
+conclusive.
+   9.   Sale or Transfer. The owner may sell or transfer the permit to a new
+owner, who shall be subject to the Vacant Building Plan and any other
+conditions imposed on the permit. The new owner shall notify the City of the
+transfer and provide contact information for the new owner and any new
+management or other person responsible for maintaining or operating the
+property within 30 days of the transfer. Failure to notify the City of a
+transfer as required shall be a violation of the City Code.
+158.04   VACANT BUILDING MAINTENANCE REQUIREMENTS.
+   1.   Maintenance Requirements. All buildings or structures subject to the
+application shall be adequately protected from intrusion by trespassers and
+pests, and from deterioration by the weather. The building must also comply
+with the approved Vacant Building Plan and the following Vacant Building
+Maintenance Standards:
+      A.   Building Openings. All doors, windows, areaways, and other openings
+shall be weathertight and secured against entry by birds, vermin, and
+trespassers.
+      B.   Waste Removal. All waste, debris, rubbish, and garbage shall be
+removed from the interior of the building or structure and surrounding
+premises, on an ongoing basis.
+      C.   Roofs. The roof and flashings shall be sound and tight, not admit
+moisture, or have defects that could admit moisture, rain, or roof draining,
+and shall allow for sufficient drainage to prevent dampness or deterioration in
+the interior of the building. Where present, parapets shall be structurally
+sound and kept in good repair.
+      D.   Drainage. The building storm drainage system shall be functional and
+installed in an approved manner and shall allow discharge in an approved
+manner.
+      E.   Building Structure. The building shall be maintained in good repair
+and structurally sound. The building shall be maintained in a manner that does
+not pose a threat to public health, safety, or welfare.
+      F.   Structural Members. The structural members shall be free of
+deterioration and capable of safely bearing imposed dead and live loads.
+      G.   Foundation Walls. The foundation walls shall be maintained
+structurally sound so as not to pose a threat to the public health, safety, and
+welfare. The foundation shall be capable of supporting the load that normal use
+places upon it, and shall be free from open cracks and breaks, free from leaks,
+and be secure from entry and infiltration by vermin.
+      H.   Exterior Walls. The exterior walls shall be free of holes, breaks,
+and loose or rotting materials. Exposed metal, wood, or other surfaces shall be
+protected from the elements and against decay or rust by periodic applications
+of weather-coating materials, such as paint, stain, or similar surface
+treatment. Brick, stone, or other materials shall be maintained to be
+structurally secure.
+      I.   Decorative Features and Appurtenances. The cornices, belt courses,
+corbels, terra cotta trim, decorative metal façade, wall facings and similar
+decorative features and appurtenances shall be safe, anchored, and in good
+repair. Exposed metal, wood, or other surfaces shall be protected from the
+elements and against decay or rust by periodic applications of weather coating
+materials, such as paint, stain, or similar surface treatment.
+      J.   Overhanging Extensions. All balconies, canopies, marquees, signs,
+awnings, stairways, fire escapes, standpipes, exhaust ducts, and similar
+features shall be in good repair, anchored, safe and sound. Exposed metal,
+wood, or other surfaces shall be protected from the elements and against decay
+or rust by periodic applications of weather coating materials, such as paint or
+similar surface treatment.
+      K.   Chimneys and Towers. Chimneys, cooling towers, smokestacks and
+similar features shall be structurally safe and in good repair. Exposed metal,
+wood, brick, stone, or other surfaces shall be protected from the elements and
+against decay or rust by periodic applications of weather-coating materials.
+      L.   Walkways. Public walkways shall be in good repair, shall be safe for
+pedestrian travel, and shall be free of snow and ice. Snow and ice removal
+shall be completed in accordance with the requirements of this City Code.
+      M.   Accessory Building/Structures. Accessory buildings or structures
+such as garages, sheds, and fences shall be free from safety, health, and fire
+hazards, and shall be kept in good repair.
+      N.   Exterior Premises. The surrounding premises upon which the structure
+or building is located shall be clean, safe, sanitary, free from waste,
+rubbish, garbage, excessive vegetation, and other nuisances; shall not be used
+for exterior storage; and shall not pose a threat to public health, safety, or
+welfare.
+158.05   ENFORCEMENT AND PENALTIES.
+   1.   Any violation of a provision of this chapter is a municipal infraction,
+as provided in Chapter 3 of this City Code, for which the City may issue a
+citation. Each day that the violation continues shall constitute a separate
+violation.
+   2.   Abatement of Violations. The issuance of a municipal infraction
+citation shall not preclude the City from instituting appropriate action to
+restrain, correct, or abate a violation, or to prevent illegal occupancy of a
+structure or premises, or to stop an illegal act, conduct business, or
+utilization of the structure or premises.
+(Ch. 158 - Ord. 358 – Dec. 25 Supp.)
 CHAPTER 160
 FLOOD PLAIN MANAGEMENT
  
@@ -14046,25 +14495,25 @@ of this Zoning Code and delineated on the official Zoning Map in which
 requirements for the use of land, the building and development standards are
 prescribed. Within each district, all requirements are uniform.
 LOT AND YARD DEFINITIONS
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2071.png]
 CELLAR, BASEMENT, HALF STORY, STORY
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2073.png]
 BUILDING HEIGHTS
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2075.png]
 SIGN TYPES
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2077.png]
 SIGN AREAS
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2079.png]
 MINIMUM SETBACK
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2081.png]
 AVERAGE SETBACK
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2083.png]
 PARKING STALL REQUIREMENTS:
  
@@ -14076,7 +14525,7 @@ Degree of Angle Stall to Curb  Aisle Width  Curb Length
 90              19.0'          24.0'        9.0'
  
 TYPICAL PARKING LOT LAYOUT
-[https://export.amlegal.com/media/1b6bacc437b557149809ee337d4b21774286ee56/
+[https://export.amlegal.com/media/46c163e0dead9bb5baea0e67bfec2559cafc7208/
 IMAGES/0-0-0-2085.png]
  
  
@@ -16537,8 +16986,8 @@ ORDINANCE ADOPTED  ORDINANCE ADOPTED
 122       6-6-79   303       10-19-20
 123       7-12-79  315       6-21-21
 139       3-3-82   333       2-6-23
-151       11-17-82
-155       9-6-83
+151       11-17-82 360       2-17-25
+155       9-6-83   363       8-18-25
 156       9-6-83
 163       4-6-87
 165       4-20-87

@@ -199,6 +199,16 @@ Jun-25    165.01(5)                1768      4-21-25  Zoning Map
           160.02(8)                1779      6-2-25   Fire Code
           Ch. 32                   1780      6-2-25   Wellness Campus Board
           41.14(2)(A)              1781      6-16-25  Fireworks
+Dec-25    25.03                    1782      9-15-25  Utility Board Trustees
+          55.21                    1783      10-20-25 Service Animals
+          120.05(8)                1784      10-20-25 Prohibited Sales and Acts
+          Ch.121                   1785      10-20-25 Cigarette and Tobacco
+                                                      Permits
+          17.04                    1786      10-20-25 Council Meetings
+          165.01(5)                1787      11-3-25  Zoning Map
+          165.02(5)(D)             1788      11-3-25  Public Hearing Notice
+          66.05                    1789      11-17-25 Truck Routes
+          106.09(1)                1790      12-15-25 Recycling Fee
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -1281,15 +1291,7 @@ maintain records of its proceedings.
    5.   Compelling Attendance. Any three members of the Council can compel the
 attendance of the absent members at any regular, adjourned, or duly called
 meeting, by serving a written notice upon the absent members to attend at once.
-   6.   Committee Meetings. The affairs of the City shall be under the study of
-one committee of the Council which shall act in an advisory capacity to the
-Council as a whole. The purpose of this committee is to make policy and program
-recommendations to the full Council. The duties of the committee shall be to
-establish policy and program recommendations to the Council concerning the
-protection and preservation of the rights, privileges and property of the City
-or of its residents, and the preservation and improvement of the peace, safety,
-health, welfare, comfort and convenience of its residents. The committee shall
-consist of all Council members.
+Ord. 1786 – Dec. 25 Supp.)
 17.05 APPOINTMENTS.
 The Council shall appoint the following officials and prescribe their powers,
 duties, compensation, and term of office:
@@ -1868,14 +1870,15 @@ also authorized to provide telecommunication services.
 25.03 APPOINTMENT OF TRUSTEES.
 The Mayor shall appoint, subject to the approval of the Council, five persons
 to serve as trustees for staggered six-year terms. No public officer or
-salaried employee of the City may serve on the utility board. Terms shall
+salaried employee of the city may serve on the utility board. Terms shall
 commence on July 1 beginning with appointments made in 2020 and shall continue
 until a successor is appointed but in no event more than six months following
 the end of the term. No trustee shall hold office for a period in excess of two
 complete six-year terms plus any partial term for which the trustee might have
 been appointed. Trustees must be residents of the corporate limits of the City
-of Indianola.
-(Ord. 1721 - Dec. 23 Supp.)
+of Indianola and must have at least one (1) service provided by Indianola
+Municipal Utility (IMU).
+(Ord. 1782 – Dec. 25 Supp.)
 25.04 BOND.
 Each trustee shall execute and furnish a bond in the amount of $2,500.00, which
 bond shall be filed with the Clerk.
@@ -4037,18 +4040,19 @@ Chapter 50 of this Code of Ordinances.
 (Code of Iowa, Sec. 364.12[3a])
 CHAPTER 55
 ANIMAL PROTECTION AND CONTROL
-55.01 Definitions                  55.11 Animal Waste
-55.02 Animal Neglect               55.12 Rabies Vaccination
-55.03 Livestock Neglect            55.13 Owner’s Duty
-55.04 Abandonment of Cats and Dogs 55.14 Confinement
-55.05 Livestock                    55.15 At Large: Impoundment
-55.06 Bee Keeping                  55.16 Authorized Off-Leash Dog Park
-55.07 Bird Sanctuary               55.17 Pet Awards Prohibited
-55.08 At Large Prohibited          55.18 Tampering With a Rabies Vaccination
+55.01 Definitions                  55.12 Rabies Vaccination
+55.02 Animal Neglect               55.13 Owner’s Duty
+55.03 Livestock Neglect            55.14 Confinement
+55.04 Abandonment of Cats and Dogs 55.15 At Large: Impoundment
+55.05 Livestock                    55.16 Authorized Off-Leash Dog Park
+55.06 Bee Keeping                  55.17 Pet Awards Prohibited
+55.07 Bird Sanctuary               55.18 Tampering With a Rabies Vaccination
                                    Tag
-55.09 Damage or Interference       55.19  Tampering With an Electronic Handling
+55.08 At Large Prohibited          55.19  Tampering With an Electronic Handling
                                    Device
-55.10 Annoyance or Disturbance     55.20 Urban Chickens
+55.09 Damage or Interference       55.20 Urban Chickens
+55.10 Annoyance or Disturbance     55.21 False Representation Of Service Animal
+55.11 Animal Waste                  
  
 55.01 DEFINITIONS.  
 The following terms are defined for use in this chapter.
@@ -4440,6 +4444,16 @@ hazard or that interferes with the use or enjoyment of neighboring property is
 a nuisance and may be abated under the general nuisance abatement provisions of
 Indianola Municipal Code Chapter 50.
 (Ord. 1750 - Oct. 24 Supp.)
+55.21   FALSE REPRESENTATION OF SERVICE ANIMAL.
+A person commits the offense of intentional misrepresentation of an animal as a
+service animal or a service-animal-in-training if, for the purpose of obtaining
+any of the rights or privileges set forth in State or federal law, the person
+intentionally misrepresents an animal in one’s possession as one’s service
+animal or service-animal-in-training or a person with a disability’s service
+animal or service-animal-in-training whom the person is assisting by
+controlling.
+(Code of Iowa, Section 216C.11(3)(B))
+(Ord. 1783 – Dec. 25 Supp.)
 CHAPTER 56
 DANGEROUS OR VICIOUS ANIMALS
  
@@ -5382,25 +5396,76 @@ such maximum load limits, and no person shall drive a vehicle weighing, loaded
 or unloaded, upon said bridge in excess of such posted limit.
 (Code of Iowa, Sec. 321.471)
 66.05 TRUCK ROUTES.
-When truck routes have been designated, any motor vehicle exceeding established
-weight limits shall comply with the following:
-   1.   Use of Established Routes. Every such motor vehicle having no fixed
-terminal within the City or making no scheduled or definite stops within the
-City for the purpose of loading or unloading shall travel over or upon those
-streets within the City designated as truck routes and none other.
-(Code of Iowa, Sec. 321.473)
-   2.   Deliveries Off Truck Route. Any such motor vehicle, when loaded or
+Purpose. To protect residential neighborhoods, preserve road infrastructure,
+and promote safety, the City designates specific truck routes for vehicles
+exceeding established weight limits.
+   1.   Designated Routes. Every commercial vehicle which has a gross weight in
+excess of 12,000 pounds, loaded or unloaded, shall be operated only upon the
+following streets, which are hereby designated as truck routes:
+Street              From             To
+Clinton Avenue      Jefferson Way    5th (North) Street
+Hillcrest Avenue    Jefferson Way    17th (North) Street
+Iowa Avenue         Jefferson Way    15th (North) Street
+Girard Avenue       Jefferson Way    6th (North) Street
+6th (North) Street  Iowa Avenue      Girard Avenue
+14th (North) Street Hillcrest Avenue Iowa Avenue
+15th Street         2nd Avenue       Iowa Avenue
+17th (North) Street Hillcrest Avenue Termination Point south of Hillcrest
+                                     Avenue
+ 
+   2.   Definitions. Unless the context clearly indicates or requires a
+different meaning, words used in the present tense shall include the future;
+“shall” is mandatory and not directory.
+      A.   “Truck” means any vehicle designed or operated for the
+transportation of property and whose total weight loaded or unloaded exceeds
+12,000 pounds.
+      B.   “Truck Route” means a street designated by the City Council for
+truck traffic in or through the City.
+   3.   Exceptions. The restrictions imposed by Section 66.05(1) hereof do not
+apply to the following:
+      A.   Emergency vehicles operating on any City street;
+      B.   School buses or public transit buses operating on any City street;
+      C.   Trucks owned or operated by the City, public utilities, or
+contractors engaged in maintenance, repair, or construction of streets, public
+improvements, or utilities;
+      D.   Waste collection vehicles operated by authorized private contractors
+while performing solid waste, recycling, or refuse collection services on any
+City street;
+      E.   Trucks traveling on officially established detour routes approved
+through the construction or site plan review process;
+      F.   Trucks temporarily leaving the designated route when necessary for
+business purposes, provided they leave and reenter at the nearest
+intersections;
+      G.   Trucks operating on paved streets for deliveries or pickups,
+entering at the intersection closest to the destination and proceeding no
+further than the next intersection after completing the delivery or pickup;
+      H.   Commercial vehicles with a gross weight up to and including 12,000
+pounds, loaded or unloaded, which are allowed free and unrestricted use of all
+paved City streets.
+   4.   Posting of Signs. The City shall cause truck route prohibitions and
+limitations to be designated by appropriate signs posted upon the truck route.
+However, such signs shall not prohibit necessary local operation on a city
+street for the purpose of a pick up or delivery.
+   5.   Enforcement and Penalties. Violation of Indianola City Ordinance
+Section 65.05 shall constitute a simple misdemeanor subject to the penalty(ies)
+provided in Chapter 4 of this Code of Ordinances with the fine being determined
+by dividing the difference between the actual weight and the maximum weight
+established by the ordinance or resolution by one hundred, and multiplying the
+quotient by two dollars.
+(Iowa Code 321.473(3)(a))
+   6.   Deliveries Off Truck Route. Any such motor vehicle, when loaded or
 empty, having a fixed terminal, making a scheduled or definite stop within the
 City for the purpose of loading or unloading, shall proceed over or upon the
 designated routes to the nearest point of its scheduled or definite stop and
 shall proceed thereto, load or unload and return, by the most direct route to
 its point of departure from said designated route.
 (Code of Iowa, Sec. 321.473)
-   3.   Employer’s Responsibility. The owner, or any other person, employing or
+   7.   Employer’s Responsibility. The owner, or any other person, employing or
 otherwise directing the driver of any vehicle shall not require or knowingly
 permit the operation of such vehicle upon a street in any manner contrary to
 this section.
 (Code of Iowa, Sec. 321.473)
+(Ord. 1789 – Dec. 25 Supp.)
 CHAPTER 67
 PEDESTRIANS
  
@@ -9052,9 +9117,9 @@ or eligible to be served and there shall be levied and collected a fee therefor
 in accordance with the following:
 (Goreham vs. Des Moines, 1970, 179 NW 2nd, 449)
    1.   Fee. The fee for recyclable collection and disposal service, used or
-available, is six dollars and -forty-one cents) ($6.41) for each residential
+available, is six dollars and seventy cents ($6.70) for each residential
 premises.
-(Ord. 1760 - Jan. 25 Supp.)
+(Ord. 1790 – Dec. 25 Supp.)
    2.   Payment of Bills. All recycling fees shall be due and payable under the
 same terms and conditions provided for payment of a combined service account as
 contained in Section 99.09 of this Code of Ordinances. Services may be
@@ -10099,13 +10164,14 @@ disorderly conduct on the premises covered by the license or permit.
 covered by the license.
 (Code of Iowa, Sec. 123.49[2j])
    8.   Keep on premises covered by a retail alcohol license any alcoholic
-liquor in any container except the original package purchased from the
-Alcoholic Beverages Division of the State Department of Commerce and except
-mixed drinks or cocktails mixed on the premises for immediate consumption.
-However, mixed drinks or cocktails that are mixed on the premises and are not
-for immediate consumption may be consumed on the licensed premises, subject to
-rules adopted by the Alcoholic Beverages Division.
-(Code of Iowa, Sec. 123.49[2d])
+liquor in any container except the original package purchased from the Iowa
+Department of Revenue and except mixed drinks or cocktails mixed on the
+premises for immediate consumption. However, mixed drinks or cocktails that are
+mixed on the premises and are not for immediate consumption may be consumed on
+the licensed premises, subject to Section 123.49, Subsection 2, Paragraph D,
+Subparagraphs (2), (3), and (4) of the Code of Iowa.
+(Code of Iowa, Sec. 123.49(2)(d)(2), (3), and (4))
+(Ord. 1784 – Dec. 25 Supp.)
    9.   Reuse for packaging alcoholic liquor or wine any container or
 receptacle used originally for packaging alcoholic liquor or wine; or
 adulterate, by the addition of any substance, the contents or remaining
@@ -10221,11 +10287,12 @@ construction has started and taken place while the license was in effect.
 CHAPTER 121
 CIGARETTE AND TOBACCO PERMITS
  
-121.01 Definitions             121.06 Refunds
-121.02 Permit Required         121.07 Persons Under Legal Age
-121.03 Application             121.08 Self-Service Sales Prohibited
-121.04 Fees                    121.09 Permit Revocation
-121.05 Issuance and Expiration
+121.01 Definitions     121.07 Expiration
+121.02 Permit Required 121.08 Refunds
+121.03 Application     121.09 Persons Under Legal Age
+121.04 City Approval   121.10 Self-Service Sales Prohibited
+121.05 Fees            121.11 Permit Revocation
+121.06 Issuance         
  
 121.01 DEFINITIONS.
 For use in this chapter the following terms are defined:
@@ -10241,30 +10308,31 @@ the Federal Food, Drug, and Cosmetic Act.
 tobacco, or any substitute for tobacco, irrespective of size or shape and
 irrespective of tobacco or any substitute for tobacco being flavored,
 adulterated, or mixed with any other ingredient, where such roll has a wrapper
-or cover made of paper or any other material. However, cigarette shall not be
+or cover made of paper or any other material. However, cigarettes shall not be
 construed to include cigars.
-   3.   “Place of business” means any place where cigarettes, tobacco products,
+    3.   “Department” means the State Department of Revenue.
+   4.   “Place of business” means any place where cigarettes, tobacco products,
 alternative nicotine products, or vapor products are sold, stored, or kept for
 the purpose of sale or consumption by a retailer.
-   4.   “Retailer” means every person who sells, distributes or offers for sale
-for consumption, or possesses for the purpose of sale for consumption,
+   5.   “Retailer” means every person who sells, distributes, or offers for
+sale for consumption, or possesses for the purpose of sale for consumption,
 cigarettes, alternative nicotine products, or vapor products, irrespective of
 the quantity or amount or the number of sales, or who engages in the business
 of selling tobacco, tobacco products, alternative nicotine products, or vapor
 products to ultimate consumers.
-   5.   “Self-service display” means any manner of product display, placement,
+   6.   “Self-service display” means any manner of product display, placement,
 or storage from which a person purchasing the product may take possession of
 the product, prior to purchase, without assistance from the retailer or
 employee of the retailer, in removing the product from a restricted access
 location.
-   6.   “Tobacco products” means the following: cigars; little cigars;
-cheroots; stogies; periques; granulated, plug cut, crimp cut, ready rubbed and
+   7.   “Tobacco products” means the following: cigars; little cigars;
+cheroots; stogies; periques; granulated, plug cut, crimp cut, ready rubbed, and
 other smoking tobacco; snuff; cavendish; plug and twist tobacco; fine-cut and
-other chewing tobaccos; shorts or refuse scraps, clippings, cuttings and
+other chewing tobaccos; shorts or refuse scraps, clippings, cuttings, and
 sweepings of tobacco; and other kinds and forms of tobacco prepared in such
 manner as to be suitable for chewing or smoking in a pipe or otherwise, or for
 both chewing and smoking, but does not mean cigarettes.
-   7.   “Vapor product” means any noncombustible product, which may or may not
+   8.   “Vapor product” means any noncombustible product, which may or may not
 contain nicotine, that employs a heating element, power source, electronic
 circuit, or other electronic, chemical, or mechanical means, regardless of
 shape or size, that can be used to produce vapor from a solution or other
@@ -10285,51 +10353,58 @@ within the City without a valid permit for each place of business. The permit
 shall, at all times, be publicly displayed at the place of business so as to be
 easily seen by the public and the persons authorized to inspect the place of
 business.
-(Code of Iowa, Sec. 453A.13)
+(Code of Iowa, Sec. 453A.13(1))
    2.   Retail Tobacco Permits. It is unlawful for any person to engage in the
 business of a retailer of tobacco, tobacco products, alternative nicotine
 products, or vapor products at any place of business without first having
 received a permit as a retailer for each place of business owned or operated by
 the retailer.
-(Code of Iowa, Sec. 453A.47A)
+(Code of Iowa, Sec. 453A.47A(1))
 A retailer who holds a retail cigarette permit is not required to also obtain a
 retail tobacco permit. However, if a retailer only holds a retail cigarette
 permit and that permit is suspended, revoked, or expired, the retailer shall
 not sell any tobacco, tobacco products, alternative nicotine products, or vapor
 products, during such time.
+(Code of Iowa, Sec. 453A.47A(4))
 121.03 APPLICATION.
-A completed application on forms furnished by the State Department of Revenue
-or on forms made available or approved by the Department and accompanied by the
-required fee shall be filed with the Clerk. Renewal applications shall be filed
-at least five days prior to the last regular meeting of the Council in June. If
-a renewal application is not timely filed, and a special Council meeting is
-called to act on the application, the costs of such special meeting shall be
-paid by the applicant.
-(Code of Iowa, Sec. 453A.13 & 453A.47A)
-121.04 FEES.
+A retailer shall submit to the department an application on forms furnished by
+the department, accompanied by the required fees and adequate bond as provided
+in Section 453A.14, of the Code of Iowa. Applications, any supporting
+documentation, and the associated fees shall be submitted electronically to the
+department.
+(Code of Iowa, Sec. 453A.13(5))
+121.04 CITY APPROVAL.
+The City may approve retail permit applications for applicants with a place of
+business within the City limits. The City shall use the electronic portal of
+the department to process retail permit applications. Upon approval of a retail
+permit application by the City the department shall issue the permit to the
+applicant on behalf of the City.
+(Code of Iowa, Sec. 453A.13(2))
+121.05 FEES.
 The fee for a retail cigarette or tobacco permit shall be as follows:
-(Code of Iowa, Sec. 453A.13 & 453A.47A)
- 
+(Code of Iowa, Sec. 453A.13(3)(b) and 453A.47A(7))
  
 FOR PERMITS GRANTED DURING:   FEE:
-July, August or September     $ 75.00
-October, November or December $ 56.25
-January, February or March    $ 37.50
-April, May or June            $ 18.75
+July, August or September     $100.00
+October, November or December $ 75.00
+January, February or March    $ 50.00
+April, May or June            $ 25.00
  
-121.05 ISSUANCE AND EXPIRATION.
-Upon proper application and payment of the required fee, a permit shall be
-issued. Each permit issued shall describe clearly the place of business for
-which it is issued and shall be nonassignable. All permits expire on June 30 of
-each year. The Clerk shall submit a duplicate of any application for a permit
-to the Alcoholic Beverages Division of the Department of Commerce within 30
-days of issuance of a permit.
-121.06 REFUNDS.
+121.06 ISSUANCE .
+Each permit issued shall describe clearly the place of business for which it is
+issued and shall be nonassignable.
+(Code of Iowa, Sec. 453A.13(9))
+121.07 EXPIRATION.
+All permits shall expire on June 30 of each year. A permit shall not be granted
+or issued until the applicant has paid the fees to the department for the next
+period ending on June 30.
+(Code of Iowa, Sec. 453A.13(3)(a))
+121.08 REFUNDS.
 A retailer may surrender an unrevoked permit and receive a refund from the
 City, except during April, May, or June, in accordance with the schedule of
 refunds as provided in Section 453A.13 or 453A.47A of the Code of Iowa.
-(Code of Iowa, 453A.13 & 453A.47A)
-121.07 PERSONS UNDER LEGAL AGE.
+(Code of Iowa, 453A.13(4) and 453A.47A(8))
+121.09 PERSONS UNDER LEGAL AGE.
 A person shall not sell, give, or otherwise supply any tobacco, tobacco
 products, alternative nicotine products, vapor products, or cigarettes to any
 person under 21 years of age. The provision of this section includes
@@ -10360,14 +10435,13 @@ of the notice to the place of business as it appears on the application for a
 permit. The notice shall state the reason for the contemplated action and the
 time and place at which the retailer may appear and be heard.
 (Code of Iowa, Sec. 453A.2, 453A.22 and 453A.36[6])
-(Ord. 1644 - Sep. 20 Supp.)
-121.08 SELF-SERVICE SALES PROHIBITED.
+121.10 SELF-SERVICE SALES PROHIBITED.
 Except for the sale of cigarettes through a cigarette vending machine as
-provided in Section 453A.36[6] of the Code of Iowa, a retailer shall not sell
+provided in Section 453A.36(6) of the Code of Iowa, a retailer shall not sell
 or offer for sale tobacco, tobacco products, alternative nicotine products,
 vapor products, or cigarettes through the use of a self-service display.
 (Code of Iowa, Sec. 453A.36A)
-121.09 PERMIT REVOCATION.
+121.11 PERMIT REVOCATION.
 Following a written notice and an opportunity for a hearing, as provided by the
 Code of Iowa, the Council may also revoke a permit issued pursuant to this
 chapter for a violation of Division I of Chapter 453A of the Code of Iowa or
@@ -10376,9 +10450,9 @@ issued to the permit holder for any place of business, or to any other person
 for the place of business at which the violation occurred, until one year has
 expired from the date of revocation, unless good cause to the contrary is shown
 to the Council. The Clerk shall report the revocation or suspension of a retail
-permit to the Alcoholic Beverages Division of the Department of Commerce within
-30 days of the revocation or suspension.
+permit to the department within 30 days of the revocation or suspension.
 (Code of Iowa, Sec. 453A.22)
+(Ch. 121 - Ord. 1785 – Dec. 25 Supp.)
 CHAPTER 122
 PEDDLERS, SOLICITORS AND TRANSIENT MERCHANTS
 122.01 Purpose                   122.13 Hearing
@@ -13991,7 +14065,7 @@ including Appendix Chapters M, as published by the International Code Council,
 are hereby revised:
    1.   Section R101.1. Insert: City of Indianola, Iowa
    2.   Table R301.2 (1) Insert:
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-1875.png]
  
    3.   Section P2603.6.1 Insert: 48 inches and 48 inches
@@ -14249,7 +14323,7 @@ accordance with the following Table ‘Foundation Walls for Conventional Light
 Frame Construction’ may be used:
 Table R404.1.3.2.3 - ‘Foundation Walls for Conventional Light Frame
 Construction’
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-1877.png]
  
    27.   Add Code Section: IRC R506.2.4. Insert the following language and
@@ -18132,7 +18206,7 @@ contained or subsequently established has been denied by the Council, then no
 new petition covering the same property or the same property and additional
 property shall be filed with or considered by the Council until one year shall
 have elapsed from the date of filing of the first petition.
-      D.   Public Hearing Noticing. Not less than seven nor more than 20 days'
+      D.   Public Hearing Noticing. Not less than four nor more than 20 days’
 notice of the time and place of the City Council hearing to consider any
 proposed amendment or change in the Zoning Ordinance or zoning district
 boundaries shall be published in a newspaper having general circulation in the
@@ -18148,11 +18222,11 @@ remain in place until the City Council has taken final action on the amendment.
 first class mail 10 days prior to the meeting to all property owners within 200
 feet of the boundary of the property requesting an amendment to its zoning
 district boundaries.
-         (3)   Not less than seven nor more than 20 days' notice of the time
-and place of the City Council hearing to consider any proposed amendment or
-change in the Zoning Ordinance or zoning district boundaries shall be published
-in a newspaper having general circulation in the City.
-(Ord. 1737 - Oct. 24 Supp.)
+         (3)   Not less than four nor more than 20 days’ notice of the time and
+place of the City Council hearing to consider any proposed amendment or change
+in the Zoning Ordinance or zoning district boundaries shall be published in a
+newspaper having general circulation in the City.
+(Ord. 1788 – Dec. 25 Supp.)
       E.   Filing Fees. Before any action is taken as provided in this section,
 the owner or owners of the property requesting the proposed changed in the
 district regulations or district boundaries shall pay to the City Clerk the fee
@@ -23120,7 +23194,7 @@ the base of the sign being a minimum of 80% of the width of the widest
 component of the sign. Said signs may be doubled signed, perpendicular or
 parallel to the adjoining roadway but in no case shall consist of more than 2
 sign faces.
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2136.png]
  
       JJ.   “Non-commercial sign” means any sign containing an ideological,
@@ -23164,7 +23238,7 @@ distant electronic device, such that the image does not originate from the
 plane of the wall, structure, sidewalk, or other surface.
       TT.   “Projecting sign” means any sign which is attached to a building or
 other structure and extends more than 12 inches beyond the building.
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2134.png]
  
       UU.   “Public school district sign” means any type of sign that is
@@ -23172,7 +23246,7 @@ constructed or placed by a public school district on property owned or leased
 by that public school district.
       VV.   “Raceway” means an enclosed channel designed expressly for holding
 wires, cables, or bus bars on which a sign in mounted.
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2132.png]
  
       WW.   “Raceway, pan style” is a sign raceway that is shaped and contoured
@@ -23226,7 +23300,7 @@ advertisements, or other commercial speech nor shall a work of art contain
 images, letters, symbols or other representations designed to identify or
 market any commercial activities contained upon the site on which it is
 located.
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2130.png]
  
    4.   GENERAL REQUIREMENTS.
@@ -23701,7 +23775,7 @@ defined elsewhere in this article.
 contiguous rectangles, squares or circles that enclose the extreme points or
 edges of all copy, logos and symbols of said sign.
 Figure 165.10.5
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2128.png]
  
       B.   Formula B. The sign area is the area of one rectangle, square or
@@ -23709,7 +23783,7 @@ circle that encloses the extreme points or edges of all areas where copy may be
 placed on a sign. This area does not include structural or architectural
 features of the sign where copy will not be located.
 Figure 165.10.6
-[https://export.amlegal.com/media/60ff0ffee43f59904a0ebd763e444fb7a844a74f/
+[https://export.amlegal.com/media/fe8076d1f788a99b7c9dda5d2d705bc528330c83/
 IMAGES/0-0-0-2126.png]
  
    11.   ENFORCEMENT AUTHORITY. The Zoning Administrator is hereby authorized
@@ -23898,6 +23972,7 @@ ORDINANCE NO. DATE ADOPTED ORDINANCE NO. DATE ADOPTED
 1766          3-24-25
 1767          3-24-25
 1768          4-21-25
+1787          11-3-25
 (Ch 165 - Ord. 1660 – Sep. 21 Supp.)
 CHAPTER 166
 SITE PLAN
