@@ -513,39 +513,22 @@ Section
    
 31.01   Pay rates
    
-31.02   Compensation of elected officials
+31.02   Mayor
    
-31.03   Mayor
+31.03   City Clerk
    
-31.04   City Clerk
-   
-31.05   City Treasurer
+31.04   City Treasurer
 § 31.01 PAY RATES.
-   (A)   The Mayor, City Commissioners, and City Clerk shall be compensated for
-each regular or special City Commission that they attend. Said compensation
-shall be determined by the Commissioners at the beginning of each fiscal year.
-   (B)   The current compensation is as follows:
-      (1)   Mayor: $150 per month;
-      (2)   Treasurer: $750 per month;
-      (3)   Clerk: $75 per meeting attended; and
-      (4)   Commissioner: $75 per meeting attended.
-§ 31.02 COMPENSATION OF ELECTED OFFICIALS.
-   (A)   The compensation of the Mayor is fixed at $500 per month.
-   (B)   The compensation of the City Clerk/Treasurer is fixed at $75 per
-month.
-   (C)   The compensation of each City Commissioner is fixed at $75 per month.
-   (D)   Payments shall be paid the last day of the month quarterly in March,
-June, September, and December of the calendar year.
-   (E)   The Mayor, City Clerk, and Commissioners receiving compensation shall
-be responsible for all federal, state, and local income taxes thereon and
-receive a 1099 tax form annually.
-§ 31.03 MAYOR.
+   The Mayor, City Commissioners, and City Clerk shall be compensated for each
+regular or special City Commission that they attend. Said compensation shall be
+determined by the Commissioners at the beginning of each fiscal year.
+§ 31.02 MAYOR.
    (A)   The Mayor shall preside at all meetings of the Commission and may vote
 in all proceedings.
    (B)   An appointment of all non-elected city officials shall require
 nomination by a Commission member and approval (majority vote) by the City
 Commission.
-§ 31.04 CITY CLERK.
+§ 31.03 CITY CLERK.
    (A)   There is created a non-elective city office to be known as the “City
 Clerk.”
    (B)   The City Clerk shall be appointed by the Commission.
@@ -557,7 +540,7 @@ not be limited to, the following:
       (2)   Performance of all duties and responsibilities required by a city
 clerk by statute or ordinance.
    (E)   The salary of the City Clerk is to be determined by the Commission.
-§ 31.05 CITY TREASURER.
+§ 31.04 CITY TREASURER.
    (A)   The City Treasurer shall receive and safely keep all city funds coming
 into his or her hands. He or she shall pay out city funds and debts of the
 city.
@@ -786,9 +769,7 @@ Financial Disclosure
    
 34.38   Control and maintenance of the statements of financial interests
    
-34.39   Contents of the financial interest statement
-   
-34.40   Noncompliance with filing requirement
+34.39   Noncompliance with filing requirement
 Enforcement
    
 34.55   Board of Ethics created
@@ -1126,36 +1107,7 @@ candidate for elected city office was not elected or nominated, the Board shall
 cause to be destroyed any statements of financial interests or copies of those
 statements filed by the person.
 (Ord. 94-03, passed - -1994)
-§ 34.39 CONTENTS OF THE FINANCIAL INTEREST STATEMENT.
-   (A)   The statement of financial interests shall include the following
-information for the preceding calendar year:
-      (1)   The name, current business address, business telephone number, and
-home address of the filer;
-      (2)   Title of the filer’s office, office sought, or position of
-employment;
-      (3)   Occupation and employer of the filer;
-      (4)   Information that identifies each source of the individual’s income
-other than employment of the filer and the filer’s immediate family members
-exceeding $15,000 during the preceding calendar year, and the nature of the
-income (for example, commission, dividends, and the like), except that no filer
-shall be required to specify the amount of such income, and no filer shall be
-required to disclose income that is derived from Social Security, retirement
-fund, disability insurance, maintenance or child support, or income from any
-source which is not currently doing business with the city, has not done
-business with the city in the preceding year, and/or is not currently seeking
-to do business with the city; and
-      (5)   The name and address of any business located within or outside the
-state in which the filer or any immediate family member of the filer had,
-during the preceding calendar year, an interest exceeding $15,000 at fair
-market value, or an ownership interest of 5% or more, except that no filer
-shall be required to disclose an ownership interest in any business which is
-not currently doing business with the city, has not done business with the city
-in the preceding year, and/or is not currently seeking to do business with the
-city.
-   (B)   Nothing in this section shall be construed to require an officer or
-employee to disclose any specific dollar amount nor the names of individual
-clients or customers of businesses listed as sources of income.
-§ 34.40 NONCOMPLIANCE WITH FILING REQUIREMENT.
+§ 34.39 NONCOMPLIANCE WITH FILING REQUIREMENT.
    The Board of Ethics, or the designated administrative official, shall notify
 by certified mail each person required to file a statement of financial
 interests who fails to file the statement by the due date, files an incomplete
@@ -1589,9 +1541,10 @@ Section
    It shall be unlawful to operate or drive any vehicle on any street or road
 of the city at a greater rate of speed than is reasonable or prudent, having
 regard for the traffic and the use of the highways, provided that there shall
-be a maximum rate of speed of 25 mph on all streets and roads, and no person
+be a maximum rate of speed of 20 mph on all streets and roads, and no person
 shall operate any vehicle in excess thereof.
-(Ord. 3, passed 6-2-1958; Ord. passed 6-4-1973) Penalty, see §
+(Ord. 3, passed 6-2-1958; Ord. passed 6-4-1973; Motion passed 12-5-2023)
+Penalty, see §
 70.99
 § 70.02 STOP INTERSECTIONS.
    Any person operating a motor vehicle who fails to observe a stop sign at any
@@ -1960,9 +1913,9 @@ separately herein.
    (A)   Temporary storage units and temporary dumpster units shall be allowed
 only upon the issuance of a permit by the city. Permits shall be displayed on
 the outside of the container in such manner as to be plainly visible from the
-nearest street. The fee for permits shall be $50 per unit, except that there
-shall be no fee if such containers are to be located on a site for less than
-seven days.
+nearest street. The fee for permits shall be $50 per unit per month, as set
+forth in §
+150.05.
    (B)   Each permit application must be filled out and signed by the owners of
 the lot on which the temporary storage unit is to be located and contain all
 relevant contact information for both the owners and the company from which the
@@ -2922,8 +2875,7 @@ Ord. No. Date Passed  Code Section
                         34.15 -
                         34.23;
 94-03    - -1994        34.35 -
-                        35.38;
-                        34.40;
+                        34.39;
                         34.55 
                         34.65;
                         34.99
