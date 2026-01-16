@@ -59,6 +59,20 @@ Jan-24    92.10                   2023-01  1-3-23   Temporary Vacancy
                                                     Rezoning from R-1 (Single
           Ch. 165                 2023-11  11-20-23 Family Residential) to I-1
                                                     (General Industrial)
+Dec-25    65.02(32); 65.04(30)    2024-01  4-15-24  Stop or Yield Required
+          169.06(6)               2024-02  5-20-24  Prohibited Signs
+                                                    Rezoning from R-1 (Single
+          Ch. 165                 2025-01  2-3-25   Family Residential) to C-2
+                                                    (General Commercial)
+          25.01                   2025-02  4-7-25   Airport Commission
+          Ch. 111                 2025-03  9-2-25   Electirc Franchise
+          Ch. 110                 2025-04  9-2-25   Natural Gas Franchise
+          92.02                   2025-05  9-15-25  Rates for Water Service
+          Ch. 76                  2025-06  8-18-25  Bicycle and Micromobility
+                                                    Regulations
+          141.06                  2025-07  8-18-25  Minimum Road Maintenance
+          Ch. 78                  2025-08  10-6-25  Golf Carts on City Streets
+          Ch. 79                  2025-09  10-6-25  ATV/ORVs on City Streets
  
  
 CHAPTER 1
@@ -1940,9 +1954,10 @@ AIRPORT COMMISSION
 25.04 Compensation         25.08 Annual Report
  
 25.01   AIRPORT COMMISSION.
-There is hereby created an Airport Commission consisting of five members who
-shall be residents of the City.
-(Code of Iowa, Sec. 330.20)
+There is hereby created an Airport Commission consisting of five members. At
+least three of the five members must be bona fide residents of the City of
+Humboldt. Two members may be bona fide residents of Humboldt County.
+(Section 25.01 – Ord. 2025-02 – Dec. 25 Supp.)
 25.02   APPOINTMENT AND TERM.
 Commissioners shall be appointed by the Council for staggered terms of six
 years.
@@ -4242,13 +4257,16 @@ stop at 13th Street North (Highway 169).
 stop at 11th Avenue North.
    29.   Sumner Avenue SW. Vehicles traveling south on Sumner Avenue SW shall
 stop at 13th Street SW
-( Ord. 2019-03 - Oct. 20 Supp.)
+(Ord. 2019-03 - Oct. 20 Supp.)
    30.   13th Street SW. Vehicles traveling north on 13th Street SW shall stop
 at Sumner Avenue SW.
 (Ord. 2019-03 - Oct. 20 Supp.)
    31.   Forest Boulevard. Vehicles traveling north on Forest Boulevard shall
 stop at Elmhurst Avenue.   
 (Ord. 2023-03 – Jan. 24 Supp.)
+   32.   “A” Street. Vehicles traveling south on “A” Street shall stop at First
+Avenue South.      
+(Ord. 2024-01 – Dec. 25 Supp.)
 65.03   FOUR-WAY STOP INTERSECTIONS.
 Every driver of a vehicle shall stop before entering the following designated
 four-way stop intersections:
@@ -4324,9 +4342,8 @@ Street Southwest shall yield at Ninth Avenue Southwest.
 Sumner Avenue.
    18.   Rainbow Drive. Vehicles traveling west on Rainbow Drive shall yield at
 Fifteenth Street.
-   19.   Thirteenth Street N. Frontage Road N.
-         Vehicles traveling south on Thirteenth Street N. Frontage Road N.
-shall yield at Twelfth Avenue North.
+   19.   Thirteenth Street N. Frontage Road N. Vehicles traveling south on
+Thirteenth Street N. Frontage Road N. shall yield at Twelfth Avenue North.
    20.   Fifteenth Street North. Vehicles traveling north on Fifteenth Street
 North shall yield at Sixteenth Avenue North.
    21.   Third Avenue North. Vehicles traveling east on Third Avenue North
@@ -4347,8 +4364,7 @@ shall yield at Second Street South.
 yield at Taft Street South.
    29.   Eighth Avenue North. Vehicles traveling west on Eighth Avenue North
 shall yield at Eighteenth Street North.
-   30.   “A” Street. Vehicles traveling south on “A” Street shall yield at
-First Avenue South.
+   30.   (Repealed by Ordinance No. 2024-01 – Dec. 25 Supp.)
    31.   Seventh Avenue North. Vehicles traveling on Seventh Avenue North shall
 yield at West River Drive.
 65.05   SCHOOL STOPS.
@@ -4971,104 +4987,196 @@ enforcement officer and shall file an accident report, in accordance with State
 law.
 (Code of Iowa, Sec. 321G.10 & 321I.11)
 CHAPTER 76
-BICYCLE REGULATIONS
+BICYCLE AND MICROMOBILITY REGULATIONS
+76.01 Purpose                          76.09 Carrying Articles
+76.02 Definitions                      76.10 Riding on Sidewalks
+76.03 Traffic Code Applies             76.11 Towing
+76.04 Double Riding Restricted         76.12 Improper Riding
+76.05 Two Abreast Limit                76.13 Parking
+76.06 Speed                            76.14 Equipment Requirements
+76.07 Right of Way                     76.15 Special Penalty
+76.08 Emerging from Alley or Driveways
  
-76.01 Scope of Regulations            76.08 Riding on Sidewalks
-76.02 Traffic Code Applies            76.09 Towing
-76.03 Double Riding Restricted        76.10 Improper Riding
-76.04 Two Abreast Limit               76.11 Parking
-76.05 Speed                           76.12 Equipment Requirements
-76.06 Emerging from Alley or Driveway 76.13 Special Penalty
-76.07 Carrying Articles
- 
-76.01   SCOPE OF REGULATIONS.
-These regulations shall apply whenever a bicycle is operated upon any street or
-upon any public path set aside for the exclusive use of bicycles, subject to
-those exceptions stated herein.
-(Code of Iowa, Sec. 321.236[10])
-76.02   TRAFFIC CODE APPLIES.
-Every person riding a bicycle upon a roadway shall be granted all of the rights
-and shall be subject to all of the duties applicable to the driver of a vehicle
-by the laws of the State declaring rules of the road applicable to vehicles or
-by the Traffic Code of the City applicable to the driver of a vehicle, except
-as to those provisions that by their nature can have no application. Whenever
-such person dismounts from a bicycle, the person shall be subject to all
-regulations applicable to pedestrians.
+76.01   PURPOSE.
+The purpose of this chapter is to set forth regulations for operating bicycles,
+electric scooters and other micromobility devices on the City’s streets,
+sidewalks, and multi-use trails.
+(Code of Iowa, Sec. 321.236(10))
+76.02   DEFINITIONS.
+   1.   “Bicycle” means either of the following: (1) a device having up to four
+wheels and having at least one saddle or seat for the use of a rider which is
+propelled by human power. (2) A low-speed electric bicycle.
+   2.   “Electric scooter” means a device weighing less than one hundred pounds
+that is equipped with two or three wheels, handlebars, and an electric motor,
+and which is solely powered by the rider or by an electric motor capable of
+propelling the device without additional propulsion supplied by the rider, at a
+maximum speed on a paved level surface of no more than twenty miles per hour,
+or both.
+   3.   “Low-speed electric bicycle” means a device having a saddle or seat for
+the use of a rider, up to four wheels, equipped with fully operable pedals, and
+an electric motor of less than seven hundred fifty watts that meets the
+requirements of one of the following classes:
+      A.   “Class 1 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used to provide assistance only when
+the rider is pedaling and that ceases to provide assistance when the bicycle
+reaches a speed of twenty miles per hour or more.
+      B.   “Class 2 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used exclusively to propel the
+bicycle and that is not capable of providing assistance when the bicycle
+reaches a speed of twenty miles per hour or more.
+      C.   “Class 3 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used to provide assistance only when
+the rider is pedaling and that ceases to provide assistance when the bicycle
+reaches a speed of twenty-eight miles per hour or more.
+   4.   “Micromobility device” means a mobility device under one hundred fifty
+pounds, which may be equipped with an electric motor for assistance or sole
+propulsion, designed for conveying the operator, with speeds of less than
+twenty miles per hour.
+   5.   “Multi-use trail” means a way or place for the use and travel of
+bicycles, pedestrians, or other authorized conveyances, the use of which is
+controlled by the City, designated by the multi-use trail maps, as approved by
+resolution by the City Council, and no multi-use trail shall be considered as a
+street or highway.
+   6.   “Other power-driven mobility device (OPDMD)” means any mobility device
+powered by batteries, fuel, or other engines that is used by individuals with
+mobility disabilities for the purpose of locomotion, including golf carts,
+electronic personal assistance mobility devices, or any mobility device
+designed to operate in areas without defined pedestrian routes, but that is not
+a wheelchair.
+76.03   TRAFFIC CODE APPLIES.
+Every person riding a bicycle, electric scooter, or other micromobility device
+upon a roadway or in a bicycle lane shall be granted all of the rights and
+shall be subject to all of the duties applicable to the driver of a vehicle by
+the laws of the State declaring rules of the road applicable to vehicles or by
+the Traffic Code of the City applicable to the driver of a vehicle, except as
+to those provisions that by their nature can have no application. Bicycles,
+electric scooters, or other micromobility devices are not subject to
+registration, licensure, titling, inspection, and proof of financial liability
+coverage provision of the Code of Iowa, Chapter 321. Riders of bicycles,
+electric scooters, or other micromobility devices are not required to have
+possession of a driver’s license or permit. Whenever such person dismounts from
+a bicycle, the person shall be subject to all regulations applicable to
+pedestrians.
 (Code of Iowa, Sec. 321.234)
-76.03   DOUBLE RIDING RESTRICTED.
+76.04   DOUBLE RIDING RESTRICTED.
 A person propelling a bicycle shall not ride other than astride a permanent and
-regular seat attached thereto. No bicycle shall be used to carry more persons
-at one time than the number for which it is designed and equipped.
-(Code of Iowa, Sec. 321.234[3 and 4])
-76.04   TWO ABREAST LIMIT.
-Persons riding bicycles upon a roadway shall not ride more than two abreast
-except on paths or parts of roadways set aside for the exclusive use of
-bicycles. All bicycles ridden on the roadway shall be kept to the right and
-shall be operated as near as practicable to the right-hand edge of the roadway.
-(Code of Iowa, Sec. 321.236[10])
-76.05   SPEED.
+regular seat attached thereto. No bicycle, electric scooter, or micromobility
+device shall be used to carry more persons at one time than the number for
+which it is designed and equipped.
+(Code of Iowa, Sec. 321.234(3) and (4))
+76.05   TWO ABREAST LIMIT.
+Persons riding bicycles, electric scooters, or micromobility devices upon a
+roadway shall not ride more than two abreast except on paths or parts of
+roadways set aside for the exclusive use of bicycles. All bicycles ridden on
+the roadway shall be kept to the right and shall be operated as near as
+practicable to the right-hand edge of the roadway.
+(Code of Iowa, Sec. 321.236(10))
+76.06   SPEED.
 No person shall operate a bicycle at a speed greater than is reasonable and
 prudent under the conditions then existing.
-(Code of Iowa, Sec. 321.236[10])
-76.06   EMERGING FROM ALLEY OR DRIVEWAY.
-The operator of a bicycle emerging from an alley, driveway or building shall,
-upon approaching a sidewalk or the sidewalk area extending across any alleyway,
-yield the right-of-way to all pedestrians approaching on said sidewalk or
-sidewalk area, and upon entering the roadway shall yield the right-of-way to
-all vehicles approaching on said roadway.
-(Code of Iowa, Sec. 321.236[10])
-76.07   CARRYING ARTICLES.
+(Code of Iowa, Sec. 321.236(10))
+76.07   RIGHT OF WAY.
+Riders of electric scooters, low speed electric bicycles, and other electric
+personal transportation devices shall yield right of way to pedestrians, human-
+powered bicycles, and other human-powered conveyances. Riders of bicycles and
+other human powered devices shall yield right of way to pedestrians.
+76.08   EMERGING FROM ALLEY OR DRIVEWAY.
+The operator of a bicycle electric scooter, or other micromobility devices
+emerging from an alley, driveway or building shall, upon approaching a sidewalk
+or the sidewalk area extending across any alleyway, yield the right-of-way to
+all pedestrians approaching on said sidewalk or sidewalk area, and upon
+entering the roadway shall yield the right-of-way to all vehicles approaching
+on said roadway.
+(Code of Iowa, Sec. 321.236(10))
+76.09   CARRYING ARTICLES.
 No person operating a bicycle shall carry any package, bundle or article that
 prevents the rider from keeping at least one hand upon the handlebars.
-(Code of Iowa, Sec. 321.236[10])
-76.08   RIDING ON SIDEWALKS.
-The following provisions apply to riding bicycles on sidewalks:
-   1.   Business District. No person shall ride a bicycle upon any sidewalk
-within the Central Business District, defined as all areas within an area zoned
-C-1 Central Business District on the Official Zoning Map of the City.
+(Code of Iowa, Sec. 321.236(10))
+76.10   RIDING ON SIDEWALKS.
+The following provisions apply to riding bicycles, electric scooters, and
+micromobility devices on sidewalks:
+   1.   Business District. No person shall ride a bicycle, electric scooter, or
+micromobility device upon any sidewalk on Sumner Avenue from 8th Street to 4th
+Street.
    2.   Other Locations. When signs are erected on any sidewalk or roadway
 prohibiting the riding of bicycles thereon by any person, no person shall
 disobey the signs.
-(Code of Iowa, Sec. 321.236[10])
+(Code of Iowa, Sec. 321.236(10))
    3.   Yield Right-of-Way. Whenever any person is riding a bicycle upon a
 sidewalk, such person shall yield the right-of-way to any pedestrian and shall
 give audible signal before overtaking and passing.
-(Code of Iowa, Sec. 321.236[10])
-76.09   TOWING.
-It is unlawful for any person riding a bicycle to be towed or to tow any other
-vehicle upon the streets of the City unless the vehicle is manufactured for
-such use.
-76.10   IMPROPER RIDING.
+(Code of Iowa, Sec. 321.236(10))
+76.11   TOWING.
+It is unlawful for any person riding a bicycle, electric scooter, or
+micromobility device to be towed or to tow any other vehicle upon the streets
+of the City unless the vehicle is manufactured for such use.
+76.12   IMPROPER RIDING.
 No person shall ride a bicycle in an irregular or reckless manner such as
 zigzagging, stunting, speeding, or otherwise so as to disregard the safety of
 the operator or others.
-76.11   PARKING.
-No person shall park a bicycle upon a street other than upon the roadway
-against the curb or upon the sidewalk in a rack to support the bicycle or
-against a building or at the curb, in such a manner as to afford the least
-obstruction to pedestrian traffic.
-(Code of Iowa, Sec. 321.236[10])
-76.12   EQUIPMENT REQUIREMENTS.
-Every person riding a bicycle shall be responsible for providing and using
-equipment as provided herein:
-   1.   Lamps Required. Every bicycle when in use at nighttime shall be
-equipped with a lamp on the front emitting a white light visible from a
-distance of at least 300 feet to the front and with a lamp on the rear
+76.13   PARKING.
+   1.   Parking of a bicycle, electric scooter, or micromobility device may be
+allowed:
+      A.   Upon a street against or near the curb,
+      B.   Upon the area between the sidewalk and the roadway,
+      C.   In a designated parking area for the device, or;
+      D.   Against the wall of a building in such a manner as to afford
+pedestrian traffic clear movement in accordance with the American’s with
+Disabilities Act.
+   2.   Bicycles, electric scooters, or other micromobility devices shall not
+be parked in such a way as to impede access to:
+      A.   A fire hydrant;
+      B.   A US Postal Service mailbox;
+      C.   A crosswalk or curb ramp;
+      D.   Loading zones;
+      E.   Transit zones, including bus stops, shelters, or other passenger
+waiting areas;
+      F.   Accessible parking spaces;
+      G.   Street furniture or amenities that required pedestrian access;
+      H.   Entryways; and
+      I.   Driveways.
+76.14   EQUIPMENT REQUIREMENTS.
+Every person riding a bicycle, electric scooter, or other micromobility device
+shall be responsible for providing and using equipment as provided herein:
+   1.   Lamps Required. Every device when in use between sunset to sunrise and
+when weather conditions provide insufficient lighting to render clearly
+discernable persons and vehicles on the road at a distance of 300 feet ahead,
+shall be equipped with a lamp on the front emitting a white light visible from
+a distance of at least 300 feet to the front and with a lamp on the rear
 exhibiting a red light visible from a distance of 300 feet to the rear, except
-that a red reflector on the rear, of a type that is visible from all distances
-from 50 feet to 300 feet to the rear when directly in front of lawful upper
-beams of headlamps on a motor vehicle, may be used in lieu of a rear light.
+that a red reflector on the rear, may be used in lieu of a rear light. The
+lamps or reflector may be attached to the rider of the device rather than the
+device itself provided the visibility requirements are met. A peace 7 officer
+riding a police bicycle is not required to use either front or rear lamps if
+duty so requires.
+(Code of Iowa, Sec. 321.384 and Sec. 321.397)
 (Code of Iowa, Sec. 321.397)
-   2.   Brakes Required. Every bicycle shall be equipped with a brake that will
+   2.   Equivalent equipment such as headlamps and red-light attachments to the
+head, back, arm, or leg may be used in lieu of a lamp on the front and a red
+light on the rear of the device.
+   3.   A citation issued for failure to have a front or rear lamp or red
+reflector on a bicycle, electric scooter, or personal transportation device or
+on a rider of any of these devices as required shall first provide for a
+seventy-two hour period within which the person charged with the violation
+shall replace or repair the lamp. If the person complies with the directive to
+replace or repair the headlamp or rear lamp within the allotted time period,
+the citation shall be expunged. If the person fails to comply within the
+allotted time period, the citation shall be processed in the same manner as
+other citations.
+   4.   A device shall not be equipped with and a person shall not use upon
+such device any siren or whistle. This shall not apply to bicycles ridden by
+peace officer in the line of duty.
+   5.   Brakes Required. Every bicycle shall be equipped with a brake that will
 enable the operator to make the braked wheel skid on dry, level, clean
 pavement.
-(Code of Iowa, Sec. 321.236[10])
-76.13   SPECIAL PENALTY.
+(Code of Iowa, Sec. 321.236(10))
+76.15   SPECIAL PENALTY.
 Any person violating the provisions of this chapter may, in lieu of the
 scheduled fine for bicyclists or standard penalty provided for violations of
 this Code of Ordinances, allow the person’s bicycle to be impounded by the City
-for not less than five days for the first offense, 10 days for a second offense
-and 30 days for a third offense.
+for not less than five days for the first offense, ten days for a second
+offense and thirty days for a third offense.
+(Chapter 76 – Ord. 2025-06 – Dec. 25 Supp.)
 CHAPTER 77
 SKATEBOARDS AND SKATES
  
@@ -5094,117 +5202,252 @@ pedestrian and shall give audible signal before overtaking and passing.
 No person shall ride a skateboard or in-line skates in a reckless manner so as
 to endanger the safety of the operator or others.
 CHAPTER 78
-GOLF CARTS, ATV/ORVs ON CITY STREETS
+GOLF CARTS ON CITY STREETS
  
 78.01 Purpose             78.06 Financial Responsibility
 78.02 Definitions         78.07 Permits
-78.03 Permitted Operation 78.08 Permitted Use Snow Removal
+78.03 Permitted Operation 78.08 Exception for Community Events
 78.04 Prohibited Streets  78.09 Penalty
 78.05 Restrictions
  
 78.01   PURPOSE.
-The purpose of this Chapter is to regulate the use and operation of golf carts
-and ATV/ORVs on certain designated streets within the City of Humboldt pursuant
-to the provisions of Iowa Code Sections 321.247 and 321I.10.
+The purpose of this chapter is to regulate the use and operation of golf carts
+on certain designated streets within the City of Humboldt pursuant to the
+provisions of Iowa Code Sections 321.247.
 78.02   DEFINITIONS.  
-For use in this Chapter the following terms are defined as follows:
-   1.   “Golf cart” means a four-wheeled recreational vehicle generally used
-for transportation of person(s) in the sport of golf that is either electric
-powered or gas powered, with an engine displacement of less than 351 cubic
-centimeters and a total dry weight of less than 800 pounds.
-   2.   “All-terrain vehicle” (“ATV”) means a motorized flotation-tire vehicle
-with not less than three and not more than six low pressure tires, that is
-limited in engine displacement to less than 1,000 cubic centimeters and in
-total dry weight to less than 1,000 pounds and that has a seat or saddle
-designed to be straddled by the operator and handlebars for steering control.
-   3.   “Off-road utility vehicle” (“ORV”) means a motorized vehicle with not
-less than four and not more than eight non-highway tires or rubberized tracks
-that has a seat that is of bucket or bench design, not intended to be straddled
-by the operator, and a steering wheel or control levers for control.
+For use in this chapter the following terms are defined as follows:
+   1.   “Golf cart” means a four-wheeled recreational vehicle generally
+designed and used for transportation of person(s) in the sport of golf that is
+either electric powered or gas powered, with an engine displacement of less
+than 351 cubic centimeters and a total dry weight of less than 800 pounds. Note
+that a vehicle with the appearance of a “golf cart” but satisfying the
+requirements of 49 CFR 571.500 (i.e., is a “low-speed vehicle”) is not subject
+to this chapter but rather to the Code of Iowa 321.381A.
 78.03   PERMITTED OPERATION.
-Except for those streets designated in this 78.04 and subject to the
-restrictions set forth in 78.05, golf carts and ATV/ORVs may be operated upon
-the streets of Humboldt by persons 18 years or older who have a valid Iowa
-driver’s license.
+Except for those streets designated in Section
+78.04 and subject to the restrictions set forth in Section
+78.05, golf carts may be operated upon the streets of Humboldt, by persons 16
+years or older who have a valid Iowa Driver’s License and a permit as set forth
+in Section
+78.07.
 78.04   PROHIBITED STREETS.
-   1.   No golf cart or ATV/ORVs shall be operated on the following streets
-within the City limits of Humboldt, Highway 169 (13th Street), Highway 3 (10th
-Avenue North), 5th Street, 6th Avenue North, and Sumner Avenue between 8th and
-4th Streets.
-   2.   Direct Crossing. An ATV/ORV may make a direct crossing of a highway or
-street provided all of the following occur:
+   1.   No golf cart shall be operated on the following streets within the City
+limits of Humboldt-Highway 169 (13th Street), Highway 3 (10th Avenue North),
+5th Street, 6th Avenue North, and Sumner Avenue between 8th and 4th Streets.
+   2.   Direct Crossing. A golf cart may make a direct crossing of a highway or
+street referenced in Paragraph 1 above if all of the following occur:
       A.   The crossing is made at an angle of approximately ninety degrees to
 the direction of the highway or street and at a place where no obstruction
 prevents a quick and safe crossing.
       B.   The ATV/ORV is brought to a complete stop before crossing the
 shoulder or main traveled way of the highway.
-      C.   The driver yields the right-of-way to all oncoming traffic which
-constitutes an immediate hazard.
+      C.   The driver yields the right-of-way to all oncoming traffic and
+pedestrians.
       D.   In crossing a divided highway, the crossing is made only at an
 intersection of such highway with another public street or highway.
       E.   The crossing is made from a street, roadway, or highway designated
 as an all-terrain vehicle trail by a State agency, County, or City to a street,
 roadway, or highway designated as an all-terrain vehicle trail by a State
 agency, County, or City.
-      F.   Golf carts and ATV/ORVs must yield to all on-coming traffic and
-pedestrians.
 78.05   RESTRICTIONS.
-   1.   Golf carts or ATV/ORVs may only be operated on permitted City streets
-and alleys between sunrise and sunset.
-   2.   No golf cart or ATV/ORV shall be operated in the City at a speed in
-excess of 25 miles per hour.
-   3.   No golf cart or ATV/ORV shall be operated or parked upon public
-sidewalks or trails.
-   4.   No person shall operate a golf cart or ATV/ORV in a careless, reckless
-or negligent manner endangering the person or property of another or causing
+   1.   Golf carts may only be operated on permitted City streets and alleys
+between sunrise and sunset.
+   2.   No golf cart shall be operated in the City at a speed in excess of 25
+miles per hour.
+   3.   No golf cart shall be operated or parked upon public sidewalks, trails,
+or the portion of a street right-of-way between the curb or edge of street
+paving and the sidewalk, commonly referred to as the “parking.”
+   4.   No person shall operate a golf cart in a careless, reckless or
+negligent manner endangering the person or property of another or causing
 injury or damage to same.
-   5.   No golf cart or ATV/ORV shall carry more passengers than the golf cart
-or ATV/ORV has designed seating for, and all riders must remain seated.
-   6.   All golf carts or ATV/ORVs operated upon City streets shall be equipped
-with the following, all of which shall be in good condition and/or proper
-working order:
-      A.   A slow moving vehicle sign or rear tail lights;
+   5.   No golf cart shall carry more passengers than the golf cart or has
+designed seating for, and all riders must remain seated.
+   6.   All golf carts or operated upon City streets shall be equipped with the
+following, all of which shall be in good condition and/or proper working order:
+      A.   A slow moving vehicle sign displayed on the rear of the golf cart;
+and;
       B.   A safety flag that is 30 square inches and displayed so the bottom
 of the flag is either at least five feet in the air above the ground, or the
 bottom of the flag shall be above the top of the roofline; and
       C.   Adequate brakes.
-   7.   No golf cart or ATV/ORV shall be operated while under the influence of
+      D.   Any other safety equipment which may be required for golf carts by
+Chapter 321 of the Code of Iowa.
+   7.   No golf cart shall be operated while under the influence of
 intoxicating liquor, narcotics or habit-forming drugs.
-   8.   No golf cart or ATV/ORV shall be operated on public streets or alleys
-with an open container of alcohol as referred to in §321.284 of the Code of
-Iowa.
+   8.   No golf cart shall be operated on public streets or alleys with an open
+container of alcohol as referred to in §321.284 of the Code of Iowa.
 78.06   FINANCIAL RESPONSIBILITY.
-The owner or operator of a golf cart or ATV/ORV must maintain and provide proof
-of financial responsibility to the same extent as is required under Iowa Code
+The owner or operator of a golf cart must maintain and provide proof of
+financial responsibility to the same extent as is required under Iowa Code
 §321.2013 upon request by a peace officer or City official. The owner or
-operator of a golf cart or ATV/ORV is liable for any injury or damage
-occasioned by the negligent operation of the golf cart or ATV/ORV.
+operator of a golf cart is liable for any injury or damage occasioned by the
+negligent operation of the golf cart.
 78.07   PERMITS.
-No person shall operate a golf cart or ATV/ORV on any public street or alley in
-the City of Humboldt, for any purpose, unless the operator possesses a permit
-issued by the Humboldt City Clerk.
-   1.   Golf cart or ATV/ORV owners may apply for a permit from the City Clerk
-on forms provided by the City.
+No person shall operate a golf cart on any public street or alley in the City
+of Humboldt, for any purpose, unless the operator possesses a permit issued by
+the Humboldt City Clerk.
+   1.   Golf cart owners may apply for a permit from the City Clerk on forms
+provided by the City.
    2.   The Clerk shall not issue a permit until the owner/operator has
 provided the following:
-      A.   Evidence that the permittee is at least 18 years of age, and
+      A.   Evidence that the permittee is at least 16 years of age, and
 possesses a valid State-issued driver’s license.
       B.   Proof of financial responsibility pursuant to Section
 78.06.
-      C.   That the ATV/ORV is properly registered with the State.
-   3.   All permits shall be issued for a specific golf cart or ATV/ORV.
-Permit holders will be issued a sticker that must be affixed to the rear of the
-golf cart or ATV/ORV and be, at all times, visible to any police officer or
-City official.
+   3.   All permits shall be issued for a specific golf cart. Permit holders
+will be issued a sticker that must be affixed to the rear of the golf cart and
+be, at all times, visible to any police officer or City official.
    4.   The fee for such permits shall be set by resolution. Permits will be
 valid for one year from January 1 through December 31. Permits may be purchased
 at any time during the year but will be valid only through December 31.
-   5.   A permit may be suspended up to 60 days by the police department upon
+   5.   A permit may be suspended up to 60 days by the Police Department upon
 finding evidence that the permit holder has violated the conditions of the
 permit or has abused the privilege of being a permit holder. The permittee may
 request a hearing in front of the City Council to have their permit reinstated.
-There will be no refund of the permit fee in the event of a suspension.
-78.08   PERMITTED USE SNOW REMOVAL.
+There will be no refund of the permit fee in the event of a suspension. Nothing
+in this paragraph shall prevent the City from also proceeding under the
+provisions of Section
+78.09.
+78.08   EXCEPTION FOR COMMUNITY EVENTS.
+The Chief of Police may grant exceptions and allow any type of golf cart to be
+used on any City street by community and civic organizations for community
+events.
+78.09   PENALTY.
+   1.   Any person guilty of violating the provisions herein shall be guilty of
+a misdemeanor and shall be subject to a fine of seventy-five dollars ($75.00)
+and revocation of the City of Humboldt permit for a period of six months.
+   2.   Any person guilty of violating this ordinance two times in a twelve
+(12) month period shall be subject to a fine of one hundred fifty ($150.00) and
+revocation of the City of Humboldt permit for a period of one year.
+   3.   Any person guilty of violating this ordinance three times shall be
+subject to a fine of three hundred dollars ($300.00) and permanent revocation
+of the City of Humboldt permit.
+   4.   A violation of the provisions of this chapter may also be deemed a
+municipal infraction subject to a civil penalty of up to $750.00 per offense or
+may be subject to prosecution under Iowa Code for any scheduled violation.
+(Chapter 78 – Ord. 2025-08 – Dec. 25 Supp.)
+CHAPTER 79
+ATV/ORVS ON CITY STREETS
+ 
+79.01 Purpose              79.07 Financial Responsibility
+79.02 Definitions          79.08 Accident Reports
+79.03 Permitted Operations 79.09 Exceptions
+79.04 General Regulations  79.10 Permitted Use for Snow Removal
+79.05 Prohibited Streets   79.11 Penalty
+79.06 Restrictions
+ 
+79.01   PURPOSE.
+The purpose of this chapter is to regulate the use and operation of ATV/ORVs on
+certain designated streets within the City of Humboldt pursuant to the
+provisions of Iowa Code Sections 321.247 and 321I.
+79.02   DEFINITIONS.
+For use in this chapter, the following terms are defined as follows:
+   1.   “All-terrain vehicle” (“ATV”) means a motorized flotation-tire vehicle
+with not less than three and not more than six low pressure tires, that is
+limited in engine displacement to less than 1,000 cubic centimeters and in
+total dry weight to less than 1,000 pounds and that has a seat or saddle
+designed to be straddled by the operator and handlebars for steering control.
+   2.   “Off-road utility vehicle” (“ORV”) means a motorized vehicle with not
+less than four and not more than eight non-highway tires or rubberized tracks
+that has a seat that is of bucket or bench design, not intended to be straddled
+by the operator, and a steering wheel or control levers for control.
+79.03   PERMITTED OPERATION.
+Except for those streets designated in Section
+79.04 and subject to the restrictions set forth in Section
+79.05, s and ATV/ORVs may be operated upon the streets of Humboldt by persons
+18 years or older who have a valid Iowa Driver’s License.
+79.04   GENERAL REGULATIONS.
+No person shall operate an ATV or ORV the City in violation of Chapter 321I of
+the Code of Iowa or in violation of rules established by the Natural Resource
+Commission of the Department of Natural Resources governing their registration,
+equipment and manner of operation.
+(Code of Iowa, Ch.321G and Ch. 321I)
+79.05   PROHIBITED STREETS.
+   1.   No ATV/ORVs shall be operated on the following streets within the City
+limits of Humboldt-Highway 169 (13th Street), Highway 3 (10th Avenue North),
+5th Street, 6th Avenue North, and Sumner Avenue between 8th and 4th Streets.
+   2.   Direct Crossing. An ATV/ORV may make a direct crossing of a highway or
+street referenced in Paragraph 1 above if all of the following occur:
+      A.   The crossing is made at an angle of approximately ninety degrees to
+the direction of the highway or street and at a place where no obstruction
+prevents a quick and safe crossing.
+      B.   The ATV/ORV is brought to a complete stop before crossing the
+shoulder or main traveled way of the highway.
+      C.   The driver yields the right-of-way to all oncoming traffic and
+pedestrians.
+      D.   In crossing a divided highway, the crossing is made only at an
+intersection of such highway with another public street or highway.
+      E.   The crossing is made from a street, roadway, or highway designated
+as an all-terrain vehicle trail by a State agency, County, or City to a street,
+roadway, or highway designated as an all-terrain vehicle trail by a State
+agency, County, or City.
+79.06   RESTRICTIONS.
+   1.   The owner of an ATV or ORV shall maintain a current Iowa Department of
+Natural Resources registration title through the County Recorder. The
+registration certification shall be kept in the vehicle or on the person of the
+operator of said ATV or ORV when in use and shall be provided to a law
+enforcement officer upon request. The owner shall display the registration
+decal or nonresident user permit decal as specified in the Code of Iowa. The
+registration requirements of this chapter shall not apply to an ATV or ORV
+operated for purposes as defined in Section 321.234A of the Code of Iowa.
+   2.   No UTV shall be operated at a speed in excess of thirty-five (35) miles
+per hour or more than the posted speed limit if less than thirty-five miles per
+hour, nor shall any UTV be operated at a speed greater than is reasonable and
+proper for the existing conditions.
+   3.   No ATV/ORV shall be operated or parked upon public sidewalks, trails or
+the portion of a street right-of-way between the curb or edge of street paving
+and the sidewalk, commonly referred to as the “parking.”
+   4.   No person shall operate ATV/ORV in a careless, reckless or negligent
+manner endangering the person or property of another or causing injury or
+damage to same.
+   5.   No ATV/ORV shall carry more passengers than ATV/ORV has designed
+seating for, and all riders must remain seated.
+   6.   All ATV/ORVs operated upon City streets shall be equipped with the
+following, all of which shall be in good condition and/or proper working order:
+      A.   A slow moving vehicle sign displayed on the rear of the ATV/ORV..;
+      B.   Adequate brakes and break lights
+      C.   .Mufflers. No person shall operate an ATV/ORV that is constructed or
+altered in a manner that noise emitted from the machine exceeds 96 decibels on
+the A scale when measured in the manner prescribed in the revised 2008-05,
+Society of Automotive Engineers Standard J1287, titled “Measurement of Exhaust
+Sound Pressure Levels of Stationary Motorcycles.”
+      D.   Headlight and Taillight. Every ATV/ORV must have a lighted headlight
+and taillight from sunset to sunrise and at such other times when conditions
+provide insufficient lighting to render clearly discernible persons and
+vehicles at a distance of five hundred feet ahead.
+      E.   Any other safety equipment which may be required on ATV or ORV by
+Chapter 321 of the Code of Iowa.
+   7.   No ATV/ORV shall be operated while under the influence of intoxicating
+liquor, narcotics or habit-forming drugs.
+   8.   No ATV/ORV shall be operated on public streets or alleys with an open
+container of alcohol as referred to in §321.284 of the Code of Iowa.
+   9.   Any person operating an ATV/OTV shall strictly adhere to all traffic
+signs and signals and all other traffic rules and regulations, and shall obey
+the orders and direction of any law enforcement officer authorized to direct or
+regulate traffic. No person shall leave an ATV/ORV unattended on public
+property while the motor is running or the keys are in the ignition switch.
+79.07   FINANCIAL RESPONSIBILITY.
+The owner or operator of an ATV/ORV must maintain and provide proof of
+financial responsibility to the same extent as is required under Iowa Code
+§321.2013 upon request by a peace officer or City official. The owner or
+operator of a or ATV/ORV is liable for any injury or damage occasioned by the
+negligent operation of the or ATV/ORV.
+79.08   ACCIDENT REPORTS.
+Whenever an ATV/ORV is involved in an accident resulting in injury or death to
+anyone or property damage amounting to one thousand five hundred dollars
+($1,500.00) or more, either the operator or someone acting for the operator
+shall immediately notify a law enforcement officer and shall file an accident
+report, in accordance with State law.
+(Code of Iowa, Sec. 321G.10 and 321I.11)
+79.09   EXCEPTIONS.
+   1.   The Chief of Police may grant exceptions and allow any type of golf
+cart to be used on any City street by community and civic organizations for
+community events.
+   2.   An ATV/ORV may be used as an authorized emergency vehicle by a peace
+officer, or any fire or emergency services personnel in the line of duty. Any
+such user is excepted from compliance with the requirements of this chapter and
+may act in accordance with Iowa Code Section 321.231.
+79.10   PERMITTED USE FOR SNOW REMOVAL.
    1.   Beginning November 1st through and including April 30th of each year, a
 person 16 years or older (persons under the age of 18 must possess an ATV
 safety certificate, issued by the Iowa Department of Natural Resources) may
@@ -5215,8 +5458,8 @@ following:
       A.   Sumner Avenue
       B.   U.S. Highway 169
       C.   Iowa Highway 3
-   2.   Direct Crossing as set forth in Section
-78.04(2).
+   2.   Direct crossing as set forth in Section
+79.04(2).
    3.   All ATVs operated upon a public street, alley, or sidewalk pursuant to
 this section shall:
       A.   Be registered and numbered with the Humboldt County Recorder as
@@ -5226,14 +5469,12 @@ public land;
 brakes;
       C.   Comply with the provisions of Iowa Code §321I.14; and
       D.   Comply with all applicable traffic laws.
-78.09   PENALTY.
-A violation of the provisions of this Chapter shall be deemed to be a municipal
+79.11   PENALTY.
+A violation of the provisions of this chapter shall be deemed to be a municipal
 infraction, subject to a civil penalty of up to $750.00 per offense. An
 offender may also be subject to prosecution under Iowa Code for any scheduled
-violation. Any person who commits two violations of this Chapter within a 24
-month period shall have their permit to operate a golf cart or ATV/ORV revoked,
-with no chance of reissuance for a period of 12 months from the date of
-revocation.
+violation.
+(Chapter 79 – Ord. 2025-09 – Dec. 25 Supp.)
 CHAPTER 80
 ABANDONED VEHICLES
  
@@ -5633,32 +5874,50 @@ or not.
 92.02   RATES FOR SERVICE.
 Water service shall be furnished at the following monthly rates within the
 City:
-(Code of Iowa, Sec. 384.84)
-   1.   Water Base Charge               $14.46
-   2.   Usage Charge:
-      A.   First 5,000 gallons            $8.71/1,000 gallons
-      B.   Next 5,000 gallons            $7.10/1,000 gallons
-      C.   Next 10,000 gallons            $6.59/1,000 gallons
-      D.   Next 9,999,999 gallons         $5.98/1,000 gallons
-   3.   Rates for Irrigation Meters. All water furnished to irrigation meters
-by the City of Humboldt will be metered and the following rates to each
-consumer not including any applicable state tax or federal tax shall be:
-      A.   First 5,000 gallons            $8.71/1,000 gallons
-      B.   Next 5,000 gallons            $7.10/1,000 gallons
-      C.   Next 10,000 gallons            $6.59/1,000 gallons
-      D.   Next 9,999,999 gallons         $5.98/1,000 gallons
-   4.   Rates for Bulk Water Sales. All water furnished to third parties from
+   1.
+ 
+Gallons Used Per Month 10/10/2025         06/10/26           06/10/27
+
+(Billed per 1,000      10% Usage Increase 10% Usage Increase 5% Usage Increase
+Gallons Used)
+Base Rate              $20.00             $20.00             $20.00
+First 5,000 Gallons    $9.58              $10.54             $11.07
+Next 5,000 Gallons     $7.81              $8.59              $9.02
+Next 10,000 Gallons    $7.25              $7.98              $8.38
+Next 9,999,999 Gallons $6.58              $7.24              $7.60
+ 
+   2.   Rates for Irrigation Meters. Irrigation meters can be rented from the
+City of Humboldt upon payment of a deposit and non-refundable fee set annually
+by resolution. All water furnished to irrigation meters by the City of Humboldt
+will be metered and the following rates to each consumer not including any
+applicable State tax or federal tax shall be:
+ 
+Gallons Used Per Month 10/10/2025         06/10/26           06/10/27
+
+(Billed per 1,000      10% Usage Increase 10% Usage Increase 5% Usage Increase
+Gallons Used)
+First 5,000 Gallons    $9.58              $10.54             $11.07
+Next 5,000 Gallons     $7.81              $8.59              $9.02
+Next 10,000 Gallons    $7.25              $7.98              $8.38
+Next 9,999,999 Gallons $6.58              $7.24              $7.60
+ 
+   3.   Rates for Bulk Water Sales. All water furnished to third parties from
 hydrants and any other source provided by the City shall be metered and the
-following rates to each consumer not including any applicable state tax or
+following rates to each consumer not including any applicable State tax or
 federal tax shall be:
-      A.   Service Charge             $31.50
-      B.   First 5,000 gallons             $8.71/1,000 gallons
-      C.   Next 5,000 gallons             $7.10/1,000 gallons
-      D.   Next 10,000 gallons             $6.59/1,000 gallons
-      E.   Next 9,999,999 gallons           $5.98/1,000 gallons
-Bulk sales of water shall be approved in advance by the Street Superintendent
-or the City Administrator.
-(Section 92.02 - Ord. 2020-05 - Oct. 20 Supp.)
+ 
+Gallons Used Per Month 10/10/2025         06/10/26           06/10/27
+
+(Billed per 1,000      10% Usage Increase 10% Usage Increase 5% Usage Increase
+Gallons Used)
+First 5,000 Gallons    $9.58              $10.54             $11.07
+Next 5,000 Gallons     $7.81              $8.59              $9.02
+Next 10,000 Gallons    $7.25              $7.98              $8.38
+Next 9,999,999 Gallons $6.58              $7.24              $7.60
+ 
+   Bulk sales of water shall be approved in advance by the Street
+Superintendent or the City Administrator.
+(Section 92.02 – Ord. 2025-05 – Dec. 25 Supp.)
 92.03   RATES FOR FIRE PROTECTION.
 In addition to the rates in effect, there shall be a surcharge of “Fire
 Protection” for sprinkler systems for fire extinguishment and for the
@@ -6981,187 +7240,484 @@ property taxes.
 (Code of Iowa, Sec. 384.84)
 CHAPTER 110
 NATURAL GAS FRANCHISE
- 
-110.01 Grant of Franchise                 110.06 City Held Harmless
-110.02 Restrictions and Limitations       110.07 Compliance with Iowa Utilities
-                                          Board Regulations
-110.03 Excavation Rights                  110.08 Iowa Laws and Regulations
-110.04 Costs of Locations and Relocations 110.09 Assignment
-110.05 Excavations
+110.01 Grant of Franchise                 110.11 Applicable Regulations
+110.02 Restrictions and Limitations       110.12 Quantity and Quality
+110.03 Excavation Rights                  110.13 Police Regulations
+110.04 Costs of Locations and Relocations 110.14 Franchise Fees
+110.05 Excavations                        110.15 Management Fees
+110.06 Utility Easements                  110.16 Termination
+110.07 Relocation Not Required            110.17 Severability
+110.08 Relocation Reimbursement           110.18 Waiver Trail by Jury
+110.09 City Held Harmless                 110.19 Rights and Privileges
+110.10 Information                        110.20 Effective Date
  
 110.01 GRANT OF FRANCHISE.
 There is hereby granted to MidAmerican Energy Company, an Iowa corporation,
-hereinafter called “Company,” and to its successors and assigns the non-
-exclusive right and franchise to acquire, construct, erect, maintain and
-operate in the City a gas distribution system, to furnish natural gas along,
-under and upon the streets, avenues and alleys to serve customers within and
-without the City and to furnish and sell natural gas to the City and its
-inhabitants. For the term of the franchise the Company is granted the right of
-eminent domain, the exercise of which is subject to Council approval upon
-application by the Company. The franchise shall be effective for a 25-year
-period from and after the effective date of the ordinance codified herein† 4 ;
-provided, however, there may be a re-evaluation prior to the end of the tenth
-year, with the opportunity for both parties to request amendments. If neither
-party requests such re-evaluation by means of a written notice to the other
-party during the last 60 days of year 10, then the franchise shall continue
-without change for the remaining 15 years.
+(hereinafter called “Company,”) and to its successors and assigns the right and
+non-exclusive franchise to acquire, construct, erect, maintain and operate in
+the City of Humboldt, Iowa, (hereinafter called “City,”) a gas distribution
+system, to furnish natural gas along, under and upon the right-of-way, streets,
+avenues, alleys and public places to serve customers within and without the
+City and to furnish and sell natural gas to the City and its inhabitants. For
+the term of this franchise, the Company is granted the right of eminent domain,
+the exercise of which is subject to City Council approval upon application by
+the Company. This franchise shall be effective for a twenty-five (25) year
+period from and after the effective date of this ordinance. †  
  
 Notes
-  † EDITOR’S NOTE: Ordinance No. 2000-04 granting a gas franchise to MidAmerican
-4 Energy Company was passed and approved by the Council on May 15, 2000. Voters
-  approved the franchise on July 11, 2000, by a vote of 1,042 to 228. MidAmerican
-  Energy Company filed letter of acceptance on July 25, 2000.
-110.02    RESTRICTIONS AND LIMITATIONS.
+�EDITOR’S NOTE:  Ordinance No. 2025-04 granting a gas franchise to MidAmerican
+  Energy Company was passed and approved by the Council on September 2, 2025.
+110.02 RESTRICTIONS AND LIMITATIONS.
 The rights and privileges hereby granted are subject to the restrictions and
-limitations of Chapter 364 of the Code of Iowa.
-110.03    EXCAVATION RIGHTS.
+limitations of Chapter 364 of the Code of Iowa 2025, or as subsequently amended
+or changed.
+110.03 EXCAVATION RIGHTS.
 The Company shall have the right to excavate in any public street for the
-purpose of laying, re-laying, repairing or extending gas pipes, mains,
-conduits, and other facilities, provided that the same shall be so placed as
-not to interfere with the construction of any water pipes, drain or sewer (or
-the flow of water therefrom) which have been or may hereafter be located by
-authority of the City.
-110.04    COSTS OF LOCATIONS AND RELOCATIONS.
-The Company shall, at its cost and expense, locate and relocate its
-installations in, on, over or under any public street or alley in the City in
-such manner as the City may at any time reasonably require for the purposes of
-facilitating the construction, reconstruction, maintenance or repair of the
-street or alley or any public improvement of, in or about any such street or
-alley or reasonably promoting the efficient operation of any such improvement.
-If the City has a reasonable alternative route for the street, alley or public
-improvements, which alternative route would not cause the relocation of the
-Company installations, the City may consider selecting said alternative route.
-If project funds from a source other than the City are available to pay for the
-relocation of utility facilities, the City shall use its best efforts to secure
-said funds and provide them to the Company to compensate the Company for the
-costs of relocation.
-110.05    EXCAVATIONS.
+purpose of laying, relaying, repairing or extending gas pipes, mains, conduits,
+and other facilities, provided that the same shall be so placed as not to
+unreasonably interfere with any above or below-ground utility services or
+facilities which have been or may hereafter be located by or under authority of
+the City.
+110.04 COSTS OF LOCATIONS AND RELOCATIONS.
+The Company shall, excluding facilities located in private easements or public
+utility easements (whether titled in Company exclusively or in Company and
+other entities), in accordance with Iowa law including Company’s tariff on file
+with and made effective by the Iowa Utilities Commission as may subsequently be
+amended (“Tariff,”) at its cost and expense, locate and relocate its existing
+facilities or equipment in, on, over or under any public street or alley in the
+City in such manner as the City may reasonably require for the purposes of
+facilitating the construction reconstruction, maintenance or repair of the
+street or alley. The Company shall not be required to pay any City permits as
+needed as a result of City required relocation. Relocation expenses for other
+hard surfaces, including pedestrian and non-motorized vehicle pathways, will be
+paid by the City. If the City has a reasonable alternative route for the
+street, alley or public improvements or an alternative construction method,
+which would not cause the relocation of the Company installations, the City
+shall select said alternative route, or construction method. The City shall be
+responsible for surveying and staking the right-of-way for City projects that
+require the Company to relocate Company facilities. If requested the City shall
+provide, at no cost to the Company, copies of its relocation plan and profile
+and cross-section drawings. If tree and vegetation removal must be completed by
+the City as part of the City’s project and are necessary whether or not utility
+facilities must be relocated, the City at its own cost shall be responsible for
+said removals. If the timing of the tree/vegetation removal does not coincide
+with the Company facilities relocation schedule and Company must remove trees/
+vegetation that are included in the City’s portion of the project, the City
+shall either remove the material at its cost or reimburse the Company for the
+expenses incurred to remove said vegetation or trees. If project funds from a
+source other than the City are available to pay for the relocation of utility
+facilities, the City shall attempt to secure said funds and provide them to the
+Company to compensate the Company for the costs of relocation.
+110.05 EXCAVATIONS.
 In making excavations in any streets, avenues, alleys and public places for the
 installation of gas pipes, conduits or apparatus, Company shall not
 unreasonably obstruct the use of the streets and shall replace the surface,
-restoring the original condition as nearly as practicable.
-110.06    CITY HELD HARMLESS.
-Company shall indemnify and save harmless the City from any and all claims,
-suits, losses, damages, costs or expenses on account of injury or damage to any
-person or property, caused or occasioned, or allegedly caused or occasioned, in
-whole or in part, by Company’s negligence in construction, reconstruction,
-excavation, operation or maintenance of the gas utilities authorized by the
-franchise, provided, however, that the Company shall not be obligated to
-defend, indemnify and save harmless the City for any costs or damages arising
-from the negligence of the City, its officers, employees or agents.
-110.07    COMPLIANCE WITH IOWA UTILITIES BOARD REGULATIONS.
+restoring it to the condition as existed immediately prior to excavation.
+Company agrees any replacement of road surface shall conform to current City
+Code regarding its depth and composition. The Company shall not be required to
+restore or modify public right of way, sidewalks or other areas in or adjacent
+to the Company project to a condition superior to its immediate previously
+existing condition or to a condition exceeding its previously existing
+condition to the extent any alterations are required for the City to comply
+with City, State or federal rules, regulations or laws.
+110.06 UTILITY EASEMENTS.
+The City’s vacating a street, avenue, alley, public ground or public right-of-
+way shall not deprive the Company of its right to operate and maintain existing
+facilities on, below, above, or beneath the vacated property. Prior to the City
+abandoning or vacating any street, avenue, alley or public ground where the
+Company has facilities in the vicinity, the City shall provide Company with not
+less than sixty (60) days advance notice of the City’s proposed action and,
+upon request grant the Company a utility easement covering existing and future
+facilities and activities. If the City fails to grant the Company a utility
+easement for said facilities prior to abandoning or vacating a street, avenue,
+alley or public ground, the City shall at its cost and expense obtain easements
+for the existing Company facilities.
+110.07 RELOCATION NOT REQUIRED.
+The Company shall not be required to relocate, at its cost and expense, Company
+facilities in the public right of way that have been relocated at Company
+expense at the direction of the City at any time during the previous ten (10)
+years.
+110.08 RELOCATION REIMBURSEMENT.
+Pursuant to relocation of Company facilities as may be required here under, if
+the City orders or requests the Company to relocate its existing facilities or
+equipment in order to directly or indirectly facilitate the project of a
+commercial or private developer or other non-public entity, City shall
+reimburse or the City shall require the developer or non-public entity to
+reimburse the Company for the cost of such relocation as a precondition to
+relocation. The Company shall not be required to relocate in order to
+facilitate such private project at its expense.
+110.09 CITY HELD HARMLESS.
+The Company shall indemnify and save harmless the City from any and all claims,
+suits, losses, damages, costs or expenses, on account of injury or damage to
+any person or property, to the extent caused or occasioned by the Company’s
+negligence in construction, reconstruction, excavation, operation or
+maintenance of the natural gas facilities authorized by the franchise,
+provided, however, that the Company shall not be obligated to defend, indemnify
+and save harmless the City for any costs or damages to the extent arising from
+the negligence of the City, its officers, employees or agents.
+110.10 INFORMATION.
+Upon reasonable request, the Company shall provide the City, on a project
+specific basis, information indicating the horizontal location, relative to
+boundaries of the right of way, of all equipment which it owns or over which it
+has control that is located in the public right of way, including documents,
+maps and other information in paper or electronic or other forms
+(“Information”). The Company and City recognize the Information may in whole or
+part be considered a confidential record under State or federal law or both.
+Upon receipt of a request from a third party for information concerning
+information about the Company’s facilities within the City, the City will
+promptly submit same to Company. If the Company believes any of the information
+requested constitutes a trade secret which may otherwise be protected from
+public disclosure by State or federal law, or otherwise exempt from disclosure
+under the provisions of the Freedom of Information Act, the Federal Energy
+Regulatory Commission Critical Energy Infrastructure requirements pursuant to
+18 CFR 388.112 and 388.113, or Chapter 22 of the Code of Iowa, as such statues
+and regulations may be amended from time to time, then the Company shall
+provide the City with a written explanation of the basis for such assertion of
+confidentiality or exemption from disclosure within ten (10) days.
+110.11 APPLICABLE REGULATIONS.
 The Company shall extend its mains and pipes and operate and maintain the
 system in accordance with the applicable regulations of the Iowa Utilities
-Board or its successor.
-110.08    IOWA LAWS AND REGULATIONS.
-During the term of the franchise the Company shall furnish natural gas in the
-quantity and quality consistent with applicable Iowa laws and regulations.
-110.09    ASSIGNMENT.
-The franchise shall apply to and bind the City and Company, their successors
-and assigns, provided that any transfer or assignment by the Company shall be
-subject to the approval by the Council by resolution, which approval shall not
-be unreasonably withheld, except that no consent shall be required for any
-assignment or transfer by merger, consolidation or reorganization. The City
-shall have sixty days from receipt of notice of assignment or transfer to adopt
-the resolution. If the City fails to adopt a resolution affirming or rejecting
-the assignment or transfer during the 60-day period, the assignment or transfer
-shall be deemed approved. The Company shall provide notice to the City in the
-event of any proposed transfer or assignment.
+Commission or its successors and Iowa law.
+110.12 QUANTITY AND QUALITY.
+During the term of this franchise, the Company shall furnish natural gas in the
+quantity and quality consistent and in accordance with the applicable
+regulations of the Iowa Utilities Commission the Company’s tariff made
+effective by the Iowa Utilities Commission or its successors and Iowa law.
+110.13 POLICE REGULATIONS.
+All reasonable and proper police regulations shall be adopted and enforced by
+the City for the protection of the facilities of the Company.
+110.14 FRANCHISE FEE.
+A franchise fee of one (1) percent is imposed upon, and shall be collected
+from, the natural gas customers of the Company receiving service and located
+within the corporate limits of the City. The franchise fee shall be imposed
+upon the gross receipts, minus uncollectible accounts, generated from sales of
+natural gas and distribution service with the following conditions.
+   1.   The franchise fee shall be remitted by the Company to the City on or
+before the last business day of the calendar quarter following the close of the
+calendar quarter in which the franchise fee is charged.
+   2.   City agrees to modify the level of franchise fees imposed only once in
+any 24-month period.
+   3.   The Company will use its best efforts to commence collection of
+franchise fees on or before the first Company billing cycle of the first
+calendar month following ninety (90) days of receipt of information required of
+the City to implement the franchise fee, including the City’s documentation of
+customer classes subject to or exempted from City-imposed franchise fee.
+   4.   City shall be solely responsible for identifying customer classes
+subject to or exempt from paying the City imposed franchise fee. The Company
+shall have no obligation to collect franchise fees from customers in annexed
+areas until and unless such ordinances have been provided to the Company by
+certified mail. The Company shall commence collecting franchise fees in the
+annexed areas no sooner than sixty (60) days after receiving annexation
+ordinances from the City.
+   5.   Company shall not, under any circumstances, be required to return or
+refund any franchise fees that have been collected from customers and remitted
+to the City. In the event the Company is required to provide data or
+information in defense of the City’s imposition of franchise fees, or the
+Company is required to assist the City in identifying customers or calculating
+any franchise fee refunds for groups of or individual customers the City shall
+reimburse the Company for the expenses incurred by the Company to provide such
+data or information.
+110.15 MANAGEMENT FEES.
+Upon implementation of a franchise fee, the City shall not, pursuant to Chapter
+480A.6 of the Code of Iowa, impose or charge Company right-of-way management
+fees for permits for Company construction, maintenance, repairs, excavation,
+pavement cutting or inspections of Company work sites and projects or related
+matters.
+110.16 TERMINATION.
+Either City or Company (“party”) may terminate this franchise if the other
+party shall be materially in breach of its provisions. Upon the occurrence of a
+material breach, the non-breaching party shall provide the breaching party with
+notification by certified mail specifying the alleged breach. The breaching
+party shall have sixty (60) days to cure the breach, unless it notifies the
+non-breaching party, and the parties agree upon a shorter or longer period for
+cure. If the breach is not cured within the cure period, the non-breaching
+party may terminate this franchise. A party shall not be considered to be in
+breach of this franchise if it has operated in compliance with State or federal
+law. A party shall not be considered to have breached this franchise if the
+alleged breach is the result of the actions of a third party or the other
+party.
+110.17 SEVERABILITY.
+If any section, provision, or part of this ordinance shall be adjudged to be
+invalid or unconstitutional, such adjudication shall not affect the validity of
+the ordinance as a whole or any section, provision, or apart thereof not
+adjudged invalid or unconstitutional.
+110.18 WAIVER TRAIL BY JURY.
+To the fullest extent permitted by law, each of the parties hereto waives any
+right it may have to a trial by jury in respect of litigation directly or
+indirectly arising out of, under or in connection with this agreement. Each
+party further waives any right to consolidate any action in which a jury trial
+has been waived with any other action in which a jury trial cannot be or has
+not been waived.
+110.19 RIGHTS AND PRIVILEGES.
+This ordinance and the rights and privileges herein granted shall become
+effective and binding upon its approval and passage in accordance with Iowa law
+and the written acceptance by the Company. The City shall provide Company with
+an original signed and sealed copy of this ordinance within ten (10) days of
+its final passage. The Company shall file in the office of the Clerk of the
+City, its acceptance in writing of all the terms and provisions of this
+ordinance. Following City Council approval, this ordinance shall be published
+in accordance with the Code of Iowa. The effective date of this ordinance shall
+be the date of publication.
+110.20 EFFECTIVE DATE.
+Upon the effective date of this ordinance, all prior natural gas franchises
+granted to the Company to furnish natural gas to the City and its inhabitants
+are hereby repealed and all other ordinances or parts of ordinances in conflict
+herewith are also hereby repealed.
+(Chapter 110 – Ord. 2025-04 – Dec. 25 Supp.)
 CHAPTER 111
 ELECTRIC FRANCHISE
- 
-111.01 Franchise Granted            111.06 Indemnification
-111.02 Rights and Privileges        111.07 Applicable Regulations
-111.03 Poles and Wires              111.08 Quantity and Quality
-111.04 Construction and Maintenance 111.09 Franchise Fee
-111.05 Excavations
+111.01 Franchise Granted            111.11 Information
+111.02 Rights and Privileges        111.12 Applicable Regulations
+111.03 Poles and Wires              111.13 Franchise Fee
+111.04 Construction and Maintenance 111.14 Management Fees
+111.05 Excavations                  111.15 Binding
+111.06 Utility Easements            111.16 Termination
+111.07 Relocation Not Required      111.17 Severability
+111.08 Relocation Reimbursement     111.18 Waiver Trail by Jury
+111.09 Indemnification              111.19 Acceptance
+111.10 Pruning and Vegetation       111.20 Effective Date
  
 111.01 FRANCHISE GRANTED.
 There is hereby granted to MidAmerican Energy Company, an Iowa corporation,
-hereinafter called the “Company,” and its successors and assigns, the right and
-franchise to acquire, construct, erect, maintain and operate in the City of
-Humboldt, Iowa, hereinafter called the “City,” a system for the transmission
-and distribution of electric energy and communications signals along, under,
-over and upon the streets, avenues, alleys and public places to serve customers
-within and without the City, and to furnish and sell electric energy to the
-City and its inhabitants. For the term of this franchise the Company is granted
-the right of eminent domain, the exercise of which is subject to City Council
-approval upon application by the Company. This franchise shall be effective for
-a 16 year period from and after the effective date of the ordinance codified by
-this chapter† 5  and shall expire on September 11, 2025.
+(hereinafter called “Company,”) and its successors and assigns, the right and
+non-exclusive franchise to acquire, construct, erect, maintain and operate in
+the City of Humboldt, Iowa, (hereinafter called the “City,”) a system for the
+transmission and distribution of electric energy and communications signals
+along, under, over and upon the streets, avenues, rights of way and alleys to
+serve customers within the City, and to furnish and sell electric energy to the
+City and its inhabitants. The Company is granted the right to exercise of
+powers of eminent domain, subject to City Council approval. This franchise
+shall be effective for a twenty-five (25) year period from and after the
+effective date of this ordinance. †
  
 Notes
-5 † EDITOR’S NOTE: Ordinance No. 2009-05, adopting an electric franchise for the
-  City, was passed and adopted on April 6, 2009.
-111.02    RIGHTS AND PRIVILEGES.
+�EDITOR’S NOTE: Ordinance No. 2025-03, adopting an electric franchise for the
+  City, was passed and adopted on September 2, 2025.
+111.02 RIGHTS AND PRIVILEGES.
 The rights and privileges hereby granted are subject to the restrictions and
-limitations of Chapter 364 of the Code of Iowa 2007 or as subsequently amended
+limitations of Chapter 364 of the Code of Iowa 2025 or as subsequently amended
 or changed.
-111.03    POLES AND WIRES.
+111.03 POLES AND WIRES.
 The Company shall have the right to erect all necessary poles and to place
-thereon the necessary wires, fixtures and accessories as well as excavate and
-bury conductors for the distribution of electric energy and communications
-signals in and through the City, but all said conduits and poles shall be
-placed as not to interfere with the construction of any water pipes, drain or
-sewer, or the flow of water therefrom, which have been or may hereafter be
-located by authority of the City. The Company is authorized and empowered to
-prune or remove at Company expense any tree extending into any street, alley or
-public grounds to maintain electric reliability, safety, to restore utility
-service and to prevent limbs, branches or trunks from interfering with the
-wires and facilities of the Company. The pruning of trees shall be done to
-current nationally accepted safety and utility industry standards.
-111.04    CONSTRUCTION AND MAINTENANCE.
-The Company shall, at its cost and expense, locate and relocate its
-installations in, on, over or under any public street or alley in the City in
-such manner as the City may at any time reasonably require for the purposes of
-facilitating the construction, reconstruction, maintenance or repair of the
-street or alley or any public improvement of, in or about any such street or
-alley or reasonably promoting the efficient operation of any such improvement.
-If the City has a reasonable alternative route for the street, alley or public
-improvements or an alternative construction method, which would not cause the
-relocation of the Company installations, the City shall consider but is not
-required to select said alternative route, or construction method. If
-relocation of the Company facilities could be avoided by relocating other
-franchisee’s or facility user’s equipment and facilities or by using a
-different method to perform the street and/or curbing construction, and said
-other cost of construction or relocation is less than the Company’s, the City
-shall consider but is not required to select the route or method that is less
-expensive. The Company will notify the City if project funds from a source
-other than the City are available to pay for the relocation of utility
-facilities, the City shall attempt to secure said funds and provide them to the
-Company to compensate the Company for the costs of relocation.
-111.05    EXCAVATIONS.
-In making excavations in any public streets, avenues, alleys and public places
-for the excavation of conduits or the erection of poles and wires or other
-appliances the Company shall not unreasonably obstruct the use of the streets.
-The Company shall replace the surface, restoring the original condition as
-nearly as practicable in compliance with the Humboldt City Code. The Company
-shall obtain a City permit prior to cutting or excavating any public street,
-avenue or alley. In the event of an emergency situation or electric outage the
-Company is authorized to make all necessary repairs. The Company shall file for
-the permit after the emergency has been abated or electric service restored.
-111.06    INDEMNIFICATION.
-The Company shall indemnify and save harmless the City from any and all claims,
-suits, losses, damages, costs or expenses, on account of injury or damage to
-any person or property, caused or occasioned in whole or in part, by the
+thereon the necessary wires, fixtures and accessories as well as to excavate
+and bury conduits and conductors for the distribution of the electric energy
+and communications signals in and through the City, provided the same shall be
+placed in accord with this franchise and City Code regulations of the City,
+regarding the placement of structures, facilities, accessories or other objects
+in the right of way, including ordinances which assign corridors or other
+placements to users of the right of way and requirements which may be adopted
+regarding separation of structures, facilities, accessories or other objects.
+111.04 CONSTRUCTION AND MAINTENANCE.
+The Company shall, excluding facilities located in private easements or public
+utility easements (whether titled in Company exclusively or in Company and
+other entities), in accordance with Iowa law including Company’s Tariff on file
+with and made effective by the Iowa Utilities Commission as may subsequently be
+amended (“Tariff,”) at its cost and expense, locate and relocate its existing
+installations located in, on, over or under the right-of-way of any public
+street, right of way or alley in the City in such a manner as the City may
+require for the purposes of facilitating the construction, reconstruction,
+maintenance or repair of the street or alley. The Company shall not be required
+to pay any City permits as needed as a result of City required relocation.
+Relocation expenses for other hard surfaces, including pedestrian and non-
+motorized vehicle pathways, will be paid by the City. If the City has a
+reasonable alternative route for the street, right of way or alley or an
+alternative construction method, which would not cause the relocation of
+Company installations or would minimize the cost or expense of relocation of
+Company installations, the City and Company shall work together to consider
+said alternative route or construction method. The City shall, in the extension
+or modification of streets and roads, make provision for the placement of
+company service lines and facilities on City-owned right of way without charge
+to Company. In planning for the extension or modification of streets, the City
+shall, to extent practicable design such changes to limit the need for
+relocation of Company facilities. The City shall be responsible for surveying
+and staking the right-of-way for City projects that require the Company to
+relocate Company facilities. If requested, the City shall provide, at no cost
+to the Company, copies of the relocation plan and profile and cross-section
+drawings. If vegetation and tree removals must be completed by the City as part
+of the City’s relocation plan, the City at its own cost shall be responsible
+for said removals or shall reimburse the Company for the expenses incurred for
+said removals if performed by the Company. If project funds from a source other
+than the City are available to pay for the relocation of utility facilities,
+the City shall use its best efforts to secure said funds and provide them to
+the Company to compensate the Company for the costs of relocation.
+111.05 EXCAVATIONS.
+In making excavations in any streets, avenues and public places for the
+installation, maintenance or repair of conductor, conduits or the erection of
+poles and wires or other appliances, the Company shall not unreasonably
+obstruct the use of the streets. The Company in making such excavations shall,
+if required by ordinance, obtain a City permit therefore and provide City
+representatives with advance notice prior to the actual commencement of the
+work, and shall comply with all provisions and requirements of the City in is
+regulation of the use of City right of way in performing such work. In
+emergencies which require immediate excavation, the Company may proceed with
+the work without first applying for or obtaining the permit, provided, however,
+that Company shall apply for and obtain the excavation permit as soon as
+possible after commencing such emergency work. The Company shall comply with
+all provisions and requirements of the City in its regulation of the use of
+City right of way in performing such work. The Company shall comply with all
+City ordinances regarding paving cuts, placement of facilities and restoration
+of pavement and other public infrastructure. The Company shall replace the
+surface, restoring the condition as existed prior to the Company’s excavation
+but shall not be required to improve or modify the public right of way,
+sidewalk or other areas in or adjacent to the Company project to a condition
+superior to its immediate previously existing condition. Company shall complete
+all repairs in a timely manner. Company agrees any replacement of road surface
+shall conform to current City ordinances regarding its depth and composition.
+111.06 UTILITY EASEMENTS.
+Vacating a street, avenue, alley, public ground or public right-of-way shall
+not deprive the Company of its right to operate and maintain existing
+facilities and their replacements on, below, above, or beneath the vacated
+property. Prior to the City abandoning or vacating any street, avenue, alley or
+public ground where the Company has electric facilities, the City shall grant
+the Company a utility easement for said facilities. If the City fails to grant
+the Company a utility easement for said facilities prior to abandoning or
+vacating a street, avenue, alley or public ground, the City shall at its cost
+and expense obtain easements for the existing Company facilities.
+111.07 RELOCATION NOT REQUIRED.
+The Company shall not be required to relocate, at its cost and expense, Company
+facilities in the public right of way that have been relocated at Company
+expense at the direction of the City in the previous ten (10) years.
+111.08 RELOCATION REIMBURSEMENT.
+Pursuant to relocation of Company facilities, if the City orders or requests
+the Company to relocate its existing facilities or equipment in order to
+directly facilitate a project for the primary benefit of a commercial or
+private developer or other non-public entity, the City shall require the
+developer or non-public entity to reimburse the Company for the cost of such
+relocation as a precondition to relocation of its existing facilities or
+equipment. The Company shall not be required to relocate in order to facilitate
+such private project at its expense.
+111.09 INDEMNIFICATION.
+The Company shall indemnify, save and hold harmless the City from any and all
+claims, suits, losses, damages, costs or expenses, on account of injury or
+damage to any person or property, to the extent caused or occasioned by the
 Company’s negligence in construction, reconstruction, excavation, operation or
 maintenance of the electric facilities authorized by this franchise; provided,
 however, that the Company shall not be obligated to defend, indemnify and save
-harmless the City for any costs or damages arising from the negligence of the
-City, its officers, employees or agents.
-111.07    APPLICABLE REGULATIONS.
+harmless the City for any costs or damages to the extent arising from the
+negligence of the City, its officers, employees or agents.
+111.10 PRUNING AND VEGETATION.
+The pruning and removal of vegetation and trees shall be done in accordance
+with current nationally accepted safety and utility industry standards and
+federal and State law, rules and regulations. The Company is authorized and
+empowered to prune or remove at Company expense, any tree extending into any
+street, avenue, right of way, alley, public place or public grounds to maintain
+electric reliability, safety, to restore utility service and to prevent limbs,
+branches, or trunks from interfering with the wires and facilities of the
+Company. The pruning and removal of vegetation and trees shall be completed in
+accordance with nationally accepted safety and utility standards, NSI Z133.1-
+2012, American National Standard for Arboricultural Operations-Safety
+Requirements, and ANSI A300 (Part 1) – 2008 Pruning, (Revision of ANSI A300
+Part 1-2001) American National Standard for Tree, Shrub, and other Woody Plant
+Management – Standard of Practices (Pruning) or subsequent revisions to these
+standards, and City ordinances regarding the pruning of trees that incorporate
+by reference that standard.
+111.11 INFORMATION.
+Upon reasonable request, the Company shall provide the City, on a project
+specific basis, information indicating the horizontal location, relative to
+boundaries of the right of way, of all equipment which it owns or over which it
+has control that is located in City right of way, including documents, maps and
+other information in paper or electronic or other forms (“Information”). The
+Company and City recognize the Information may in whole or part be considered a
+confidential record under State or federal law or both. Therefore, City shall
+not release any Information without prior consent of the Company and shall
+return the Information to Company upon request. City recognizes that Company
+claims the Information may constitute a trade secret or is otherwise protected
+from public disclosure by State or federal law on other grounds, and agrees to
+retain the Information in its non-public files. Furthermore, the City agrees
+that no documents, maps or other Information provided to the City by the
+Company shall be made available to the public or other entities if such
+documents or Information are exempt from disclosure under the provision of the
+Freedom of Information Act, the Federal Energy Regulatory Commission Critical
+Energy Infrastructure requirements pursuant to 18 CFR 388.112 and 388.113, or
+Chapter 22 of the Code of Iowa, as such statues and regulations may be amended
+from time to time.
+111.12 APPLICABLE REGULATIONS.
 The Company shall construct, operate and maintain its facilities in accordance
-with the applicable regulations of the Iowa Utilities Board or its successors.
-111.08    QUANTITY AND QUALITY.
-During the term of this franchise, the Company shall furnish electric energy in
-the quantity and quality consistent with applicable Iowa laws and regulations.
-111.09    FRANCHISE FEE.
-The City reserves the right to impose a franchise fee pursuant to the Iowa
-Code. The franchise fee shall only be imposed through the adoption of an
-ordinance authorizing said franchise fee. The City shall work with the Company
-to develop a methodology and timeline to implement the franchise fee. The City
-shall provide the Company with written notice no less than 90-days in advance
-of the effective date of any franchise fee enacted by the City.
+with the applicable regulations of the Iowa Utilities Commission or its
+successors and Iowa law. During the term of this franchise, the Company shall
+furnish electric energy in the quantity and quality consistent with and in
+accordance with the applicable regulations of the Iowa Utilities Commission,
+the Company’s tariff and made effective by the Iowa Utilities Commission or its
+successors and Iowa law.
+111.13 FRANCHISE FEE.
+There is hereby imposed upon the customers a franchise fee of one (1) percent
+upon the gross revenues, minus uncollectible accounts, generated from sales of
+electricity and distribution service, pursuant to the Tariff, by the Company
+within the corporate limits of the City. The franchise fee shall be remitted by
+the Company to the City on or before the last business day of the calendar
+quarter following the close of the calendar quarter in which the franchise fee
+is charged.
+   1.   City agrees to modify the level of franchise fees imposed only once in
+any 24-month period.
+   2.   Company will use its best efforts to commence collection of franchise
+fees on or before the first Company billing cycle of the first calendar month
+following ninety (90) days of receipt of information required of the City to
+implement the franchise fee, including the City’s documentation of customer
+classes subject to or exempted from City-imposed franchise fee.
+   3.   City shall be solely responsible for identifying customer classes
+subject to or exempt from paying the City imposed franchise fee. The Company
+shall have no obligation to collect franchise fees from customers in annexed
+areas until and unless such ordinances have been provided to the Company by
+certified mail. The Company shall commence collecting franchise fees in the
+annexed areas no sooner than sixty (60) days after receiving annexation
+ordinances from the City.
+   4.   Company shall not, under any circumstances be required to return or
+refund any franchise fees that have been collected from customers and remitted
+to the City. In the event the Company is required to provide data or
+information in defense of the City’s imposition of franchise fees or the
+Company is required to assist the City in identifying customers or calculating
+any franchise fee refunds for groups of or individual customers the City shall
+reimburse the Company for the expenses incurred by the Company to provide such
+date or information.
+111.14 MANAGEMENT FEES.
+The City shall not, pursuant to Chapter 480A.6 of the Code of Iowa, impose or
+charge right of way management fees upon the Company or fees for permits for
+Company construction, maintenance, repairs, excavation, pavement cutting or
+inspections of Company work sites and projects or related matters.
+111.15 BINDING.
+This franchise shall apply to and bind the City and Company and their successor
+and assigns.
+111.16 TERMINATION.
+Either City or Company (“party”) may terminate this franchise if the other
+party shall be materially in breach of its provisions. Upon the occurrence of a
+material breach, the non-breaching party shall provide the breaching party with
+notification by certified mail specifying the alleged breach. The breaching
+party shall have sixty (60) days to cure the breach, unless it notifies the
+non-breaching party, and the parties agree upon a longer period for cure. If
+the breach is not cured within the cure period, the non-breaching party may
+terminate this franchise. A party shall not be considered to be in breach of
+this franchise if it has operated in compliance with State or federal law. A
+party shall not be considered to have breached this franchise if the alleged
+breach is the result of the actions of a third party or the other party.
+111.17 SEVERABILITY.
+If any of the provisions of this franchise ordinance are for any reason
+declared to be illegal or void, the lawful provisions of this franchise
+ordinance, which are severable from said unlawful provisions, shall be and
+remain in full force and effect, the same as if the franchise ordinance
+contained no illegal or void provisions.
+111.18 WAIVER TRIAL BY JURY.
+To the fullest extent permitted by law, each of the parties hereto waives any
+right it may have to a trial by jury in respect of litigation directly or
+indirectly arising out of, under or in connection with this agreement. Each
+party further waives any right to consolidate any action in which a jury trial
+has been waived with any other action in which a jury trial cannot be or has
+not been waived.
+111.19 ACCEPTANCE.
+This ordinance and the rights and privileges herein granted shall become
+effective and binding upon its approval and passage in accordance with Iowa law
+and the written acceptance by the Company. The City shall provide Company with
+an original signed and sealed copy of this ordinance within 10 days of its
+final passage. The Company shall file in the office of the Clerk of the City,
+its acceptance in writing of all the terms and provisions of this ordinance.
+Following City Council approval, this ordinance shall be published in
+accordance with the Code of Iowa. The effective date of this ordinance shall be
+the date of publication.
+111.20 EFFECTIVE DATE.
+Upon the effective date of this ordinance, all prior franchises granted to the
+Company to furnish electric service to the City and its inhabitants are hereby
+repealed and all other ordinances or parts of ordinances in conflict herewith
+are also hereby repealed.
+(Chapter 111 – Ord. 2025-03 – Dec. 25 Supp.)
 CHAPTER 115
 CEMETERY
  
@@ -8616,8 +9172,7 @@ receiving minimum maintenance:
 (north end).
    2.   Twentieth Street from the north lot line of Lots 72-73, West River
 Acres, Plat III, to Iowa Highway 3.
-   3.   Platted Twenty-Third Street from north lot line of Lots 54-55, West
-River Acres, Plat III, to Iowa Highway 3.
+(Section 141.06 – Ord. 2025-07 – Dec. 25 Supp.)
 141.07    IMPROVEMENTS TO MINIMUM MAINTENANCE STREETS.
 At such time as those streets designated herein are improved to the standards
 as stipulated in
@@ -12291,7 +12846,7 @@ Unnumbered    January 3, 1977    2013-07       March 4, 2013
 446           December 20, 1979  2023-05       June 5, 2023
 447           December 20, 1979  2023-06       June 5, 2023
 457           November 3, 1980   2023-11       November 20, 2023
-459           November 17, 1980
+459           November 17, 1980  2025-01       February 3, 2025
 461           June 15, 1981
 462           July 6, 1981
 471           October 18, 1982
@@ -13509,12 +14064,15 @@ accordance with this chapter.
    5.   Signs which are not securely affixed to the ground, or affixed in a
 permanent manner to an approved supporting structure.
    6.   Signs attached to, painted on, or placed on any vehicle including a
-trailer that is parked in public view on private property. This provision is
-not to be construed as prohibiting the identification of a firm or its
-principal products on a vehicle operating during the normal course of business
-or parked after business hours, provided parking takes place as inconspicuously
-as possible and the duration of the parking does not exceed a period of any 16
+trailer that is parked in public view on private property for more than sixty
+(60) days each calendar year. Any sign placed in this manner is to be temporary
+and must be removed within the sixty (60) day period. This provision is not to
+be construed as prohibiting the identification of a firm or its principal
+products on a vehicle operating during the normal course of business or parked
+after business hours, provided parking takes place as inconspicuously as
+possible and the duration of the parking does not exceed a period of any 16
 continuous hours, except on weekends or holidays.
+(Subsection 6 – Ord. 2024-02 – Dec. 25 Supp.)
    7.   Off-premises advertising signs, except as authorized under Section
 169.10 of this chapter.
    8.   “Sold” signs, displayed more than 10 days following the removal of the
