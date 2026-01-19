@@ -1,9 +1,9 @@
 Codified Ordinances of the City of
 Grove City, Ohio
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6799.jpg]
-2025 Replacement Pages contain:
-Local legislation current through 8-4-25
+2026 Replacement Pages contain:
+Local legislation current through 12-15-25
 State legislation current through 12-31-24
 Published by:
 American Legal Publishing
@@ -8311,6 +8311,8 @@ C08-25    3-17-25  1135.09
 C19-25    6-2-25   192.021
 C31-25    8-4-25   1135.09
 C32-25    8-4-25   331.44
+C49-25    12-15-25 550.01 to 550.08
+C50-25    12-15-25 376.02
                   
  
  
@@ -32084,17 +32086,20 @@ under-speed vehicle from proceeding across an intersection of a street or
 highway having a speed limit greater than 35 miles per hour or the streets
 listed in division (b).
    (h)   No person shall operate a low- speed or under-speed vehicle upon any
-sidewalk or shared-use path.
-   (i)   Except as otherwise provided in this division, whoever violates
-division (a), (b), (c), (d), (f), or (h) of this section is guilty of a minor
-misdemeanor. If within one year of the offense, the offender previously has
-been convicted of or pleaded guilty to one predicate motor vehicle or traffic
-offense, whoever violates this section is guilty of a misdemeanor of the fourth
-degree. If within one year of the offense, the offender previously has been
-convicted of two or more predicate motor vehicle or traffic offenses, whoever
-violates this section is guilty of a misdemeanor of the third degree.
+sidewalk.
+   (i)   No person shall operate a low-speed or under-speed vehicle upon a
+shared-use path unless the path is posted with appropriate signs specifically
+permitting use by low-speed or under-speed vehicles.
+   (j)   Except as otherwise provided in this division, whoever violates
+division (a), (b), (c), (d), (f), (h) or (i) of this section is guilty of a
+minor misdemeanor. If within one year of the offense, the offender previously
+has been convicted of or pleaded guilty to one predicate motor vehicle or
+traffic offense, whoever violates this section is guilty of a misdemeanor of
+the fourth degree. If within one year of the offense, the offender previously
+has been convicted of two or more predicate motor vehicle or traffic offenses,
+whoever violates this section is guilty of a misdemeanor of the third degree.
 (Ord. C46-19. Passed 10-21-19; Ord. C28-20. Passed 7-20-20; Ord. C24-23. Passed
-7-3-23.)
+7-3-23; Ord. C50-25. Passed 12-15- 25.)
 PART FIVE - GENERAL OFFENSES CODE
    
 Chap. 501.   General Provisions and Penalty.
@@ -32134,6 +32139,8 @@ Chap. 543.   Trees, Weeds and Shrubs.
 Chap. 545.   Theft and Fraud.
    
 Chap. 549.   Weapons and Explosives.
+   
+Chap. 550.   Unlawful Discrimination Prohibited
 CHAPTER 501
 General Provisions and Penalty
 501.01   Definitions.
@@ -46473,6 +46480,782 @@ manufacturer’s serial number was inscribed at the time of its manufacture.
 549.99   PENALTY.
    (EDITOR’S NOTE: See Section
 501.99 for penalties applicable to any misdemeanor classification.)
+CHAPTER 550
+Unlawful Discrimination Prohibited
+550.01   Definitions.
+550.02   Unlawful discriminatory employment practices.
+550.03   Unlawful discriminatory housing practices.
+550.04   Unlawful discriminatory practices in public accommodations.
+550.05   Complaint procedure.
+550.06   Failure to comply with City subpoena.
+550.07   Failure to comply with order of hearing officer.
+550.08   Failure to pay financial sanctions imposed by the hearing officer.
+550.01   DEFINITIONS.
+   For the purpose of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   (a)   "Age." At least 40 years old, except as otherwise provided in this
+chapter.
+   (b)   "Aggrieved individual." An individual who claims to have been injured
+by an unlawful discriminatory act or practice described in this chapter.
+   (c)   “Burial lot." Any lot for the burial of deceased individuals within
+any public burial ground or cemetery, including, but not limited to, cemeteries
+owned and operated by companies or associations incorporated for cemetery
+purposes.
+   (d)   "Common use areas." Rooms, spaces, or elements inside or outside a
+building that are made available for the use of residents of the building or
+their guests, and includes, but is not limited to, hallways, lounges, lobbies,
+laundry rooms, refuse rooms, mail rooms, recreational areas, and passageways
+among and between buildings.
+   (e)   "Complainant." An aggrieved individual who, pursuant to the provisions
+of this section, files a written complaint alleging an unlawful discriminatory
+act or practice with the Law Director.
+   (f)   "Controlled substance." Has the same meaning as in Ohio R.C. 3719.01.
+   (g)   "Covered multifamily dwellings." Buildings consisting of four or more
+units if such buildings have one or more elevators and ground floor units in
+other buildings consisting of four or more units.
+   (h)   "Disability" or "disabled." A physical or mental impairment that
+substantially limits one or more major life activities, including the functions
+of caring for one's self, performing manual tasks, walking, seeing, hearing,
+speaking, breathing, learning, and working; a record of a physical or mental
+impairment. "Disability" does not include any physiological disorder or
+condition, mental or psychological disorder, or disease or condition caused by
+an illegal use of any controlled substance if an employer, employment agency,
+personnel placement service, labor organization, or joint labor-management
+committee acts on the basis of that illegal use.
+   (i)   "Disabled tenant." A tenant or prospective tenant who is an individual
+with a disability.
+   (j)   "Discriminate." To differentiate and to treat differently people based
+on any protected class as defined herein.
+   (k)   "Discriminatory restrictive covenant." Any specification in a deed,
+land contract, or lease limiting the transfer, rental lease or other use of any
+housing accommodations because of race, color, religion sex, national origin,
+age, familial status disability, pregnancy sexual orientation gender identity,
+or gender expression, as a condition of affiliation or approval.
+   (l)   "Dwelling unit." A single unit of residence for a family of one or
+more individuals.
+   (m)   "Employee." An individual employed by any employer but does not
+include any individual employed in the domestic service of any person.
+   (n)   "Employer." Includes any person who regularly employs for compensation
+four or more individuals, excluding the employer's parents, spouse, and
+children, including any person acting directly or indirectly in the interest of
+an employer, but does not include the United States or any State or political
+subdivision of a State, except for the City of Grove City, its departments,
+boards, commissions, and authorities.
+   (o)   "Employment agency." Any person who regularly endeavors, with or
+without compensation, to procure opportunities for employment or to procure,
+recruit, refer, or place employees.
+   (p)   "Familial status." Demonstrating any of the following characteristics,
+where "family" also includes an individual:
+      (1)   One or more individuals who are under 18 years of age and who are
+domiciled with a parent or guardian having legal custody of the individual or
+domiciled, with the written permission of the parent or guardian having legal
+custody, with a designee of the parent or guardian;
+      (2)   Any individual who is pregnant or in the process of securing legal
+custody of any individual who is under 18 years of age.
+   (q)   "Gender expression." The external appearance of one's gender, usually
+expressed through behavior or appearance which may or may not conform to
+socially defined behaviors and characteristics typically associated with being
+either masculine or feminine.
+   (r)   "Gender identity." An individual's sense of having, or being perceived
+as having, a gender that may or may not be those traditionally associated with
+the individual's assigned sex at birth.
+   (s)   "Hearing officer." The person appointed by the City Administrator or
+the Administrator's designee to conduct a mediation and/or administrative
+hearing based on a complaint filed with the City alleging a discriminatory act
+or practice.
+   (t)   "Housing accommodations." Any buildings or structure or portion
+thereof which is used or occupied or is intended, arranged, or designed to be
+used or occupied as a home residence, dwelling, dwelling unit, or sleeping
+place of one or more individuals, groups or families whether or not living
+independently of each other; and any vacant land offered for sale or lease. It
+also includes any housing accommodations held or offered for sale or rent by a
+real estate broker, salesman, or agent, or by any other person pursuant to
+authorization of the owner, by the owner, or by such person's legal
+representative. "Housing accommodations" does not include any housing
+accommodations owned or operated by a religious organization when they are
+owned or operated for other than a commercial purpose and offered to
+individuals of the same religion.
+   (u)   "Labor organization." Any organization which exists for the purpose,
+in whole or in part, of collective bargaining or for other mutual aid or
+protection in relation to employment.
+   (v)   "Law Director." The City of Grove City Law Director.
+   (w)   "Person." One or more individuals, partnerships, associations,
+organizations, corporations, legal representatives trustees, and trustees in
+bankruptcy receivers, and other organized groups of persons. It also includes,
+but is not limited to, any owner, lessor, assignor, builder, manager, broker,
+salesman, agent, employee, lending institution, and the City of Grove City.
+   (x)   "Physical or mental impairment." Includes any of the following:
+      (1)   Any physiological disorder or condition, cosmetic disfigurement, or
+anatomical loss affecting one or more of the following body systems:
+neurological; musculoskeletal; special sense organs; respiratory, including
+speech organs; cardiovascular; reproductive; digestive; genitor-urinary; hemic
+and lymphatic; skin; and endocrine.
+      (2)   Any mental or psychological disorder, including, but not limited
+to, orthopedic, visual, speech, and hearing impairments, cerebral palsy,
+autism, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart
+disease, diabetes, sickle cell, human immunodeficiency virus infection,
+intellectual disabilities, emotional illness, drug addiction, and alcoholism.
+      (3)   "Physical or mental impairment" does not include any of the
+following:
+         A.   Pedophilia, exhibitionism, voyeurism, or other sexual behavior
+disorders;
+         B.   Compulsive gambling, kleptomania, or pyromania; or
+         C.   Psychoactive substance use disorders resulting from current
+illegal use of controlled substances.
+   (y)   "Place of public accommodation." Any restaurant, bar, hotel, motel,
+bank or other financial services institution, barbershop, public transportation
+by air, land, or water, theater, store, other place for the sale of
+merchandise, or any other place of public accommodations, advantages,
+facilities, or privileges available to the public, provided it shall not apply
+to an agency of government other than the City.
+   (z)   "Protected class." A classification of individuals based on one or
+more of the following characteristics: race, color, religion, sex, national
+rigin, age disability, military status, status as a veteran or special disabled
+veteran, ancestry, familial status, pregnancy, sexual orientation, gender
+identity, or gender expression.
+   (aa)   "Public use areas." Interior or exterior rooms or spaces of a
+privately owned building that are made available to the public.
+   (bb)   "Religious organization." A not-for-profit church or integrated
+auxiliary of a church, as those terms are used by the United States Internal
+Revenue Service and includes any school that incorporates substantial religious
+teachings or religious practices of that church in that school. Religious
+organization does not include any hospital or medical facility that offers
+medical services to the public.
+   (cc)   "Respondent." The person who is alleged to have committed unlawful
+discriminatory acts or practices and who is identified in a written complaint
+filed by a complainant.
+   (dd)   "Senior citizen." An individual at least 60 years old.
+   (ee)   "Sex." Male or female. The terms "because of sex" and "on the basis
+of sex" include pregnancy, any illness arising out of and occurring during the
+course of pregnancy, childbirth, or related medical conditions.
+   (ff)   "Sexual orientation." An individual's actual or perceived
+heterosexuality, homosexuality, or bisexuality.
+   (gg)   "Unlawful discriminatory practice." Any act prohibited by Chapter 550
+of the Grove City Codified Ordinances.
+(Ord. C49-25. Passed 12-15-25.)
+550.02   UNLAWFUL DISCRIMINATORY EMPLOYMENT PRACTICES.
+   (a)   It shall be an unlawful discriminatory practice, except where based
+upon applicable federal regulations:
+      (1)   For any employer, because of an individual being in a protected
+class to fire without cause, to refuse to hire, or otherwise to discriminate
+against that individual with respect to hiring, tenure, terms, conditions, or
+privileges of employment, or any matter directly or indirectly related to
+employment.
+      (2)   For any employment agency to establish, announce, or follow a
+policy of denying or limiting the membership opportunities of any individual or
+group of individuals because of their inclusion in a protected class, or to
+comply with a request from an employer if the request directly or indirectly
+indicates that the employer fails to comply with the divisions of this chapter.
+      (3)   For any labor organization to limit or restrict its membership
+because of an individual being in a protected class or to discriminate against
+or limit the employment opportunities of any individual as an employee because
+of that individual being in a protected class.
+      (4)   For any employer, employment agency, or labor organization to
+publish or circulate, or to cause to be published or circulated, any notice or
+advertisement relating to employment or membership which indicates any
+preference, limitation, specifications, or discrimination based upon a
+protected class.
+      (5)   For any employment agency to refuse or fail to accept, register,
+classify properly, or refer for employment or otherwise to discriminate against
+any individual because of their membership in a protected class.
+      (6)   For any employer, employment agency, or labor organization to use
+in the recruitment or hiring of individuals, any employment agency, placement
+service, labor organization, training school or center, or any other employee-
+referring source, proven to discriminate against individuals because of an
+individual's protected class.
+      (7)   For any labor organization to discriminate against any individual
+or limit that individual's employment opportunities, or otherwise adversely
+affect that individual's status as an employee, or that individual's wages,
+hours, or employment conditions, because of their membership in a protected
+class.
+      (8)   For an employment agency to comply with, accommodate, or otherwise
+assist with locating an employee related to a request from an employer if the
+request indicates, directly or indirectly, that the employer fails, or may
+fail, to comply with this chapter.
+      (9)   For any labor organization to limit or classify its membership on
+the basis of any protected class.
+      (10)   Except where based on a bona fide occupational qualification
+certified in advance by an agency of the state or federal government or a
+political subdivision, for any employer, employment agency, personnel placement
+service, or labor organization, prior to employment or admission to membership,
+to either:
+         A.   Elicit or attempt to elicit any information concerning the
+protected class status of an applicant for employment or membership;
+         B.   Use any form of application for employment or personnel or
+membership seeking to elicit information regarding an individual's protected
+class status. However, an employer, employment agency, or labor organization
+holding a contract with the government of the United States may be required to
+follow federal law as a condition of the contract.
+      (11)   For any employer, employment agency or labor organization to
+discriminate against any individual because that individual has opposed any
+practice forbidden by this chapter, or because that individual has made a
+complaint or assisted in any manner in any investigation or proceeding under
+Section 550.05.
+      (12)   For any employer to discriminate against an individual with a
+disability by:
+         A.   Limiting, segregating, or classifying a job applicant or employee
+in a way that adversely affects the opportunities or status of such applicant
+or employee because of the disability of such applicant or employee;
+         B.   Denying employment opportunities to a job applicant or employee
+who is an otherwise qualified individual with a disability, if such denial is
+based on the need of such employer to make reasonable accommodations to the
+physical or mental impairments of the employee or applicant;
+         C.   Failing to make reasonable accommodations to the known physical
+or mental limitations of an otherwise qualified individual who is an applicant
+or employee, unless the employer can demonstrate that the accommodation would
+impose an undue hardship on the operation of the business of the employer;
+         D.   Denying employment opportunities to a job applicant or employee
+who is an otherwise qualified individual with a disability, on the basis of
+such disabled individual's use of a service animal, provided nothing in this
+section shall be construed to require any employer, as a reasonable
+accommodation, to provide a service animal to a disabled individual.
+      (13)   For any employer to discriminate against a birth parent because of
+pregnancy, childbirth, or related medical conditions for any employment-related
+purposes, including receipt of benefits under fringe benefit programs, or to
+fail to treat a birth parent with pregnancy related conditions the same as
+other individuals not so affected but similar in their ability or inability to
+work.
+      (14)   It shall be an unlawful employment practice for a covered entity
+to:
+         A.   Not make reasonable accommodations to the known limitations
+related to the pregnancy, childbirth, or related medical conditions of a job
+applicant or employee, unless such covered entity can demonstrate that the
+accommodation would impose an undue hardship on the operation of the business
+of such covered entity;
+         B.   Require a job applicant or employee affected by pregnancy,
+childbirth, or related medical conditions to accept an accommodation that such
+applicant or employee chooses not to accept, if such accommodation is
+unnecessary to enable the applicant or employee to perform their job;
+         C.   Deny employment opportunities to a job applicant or employee, if
+such denial is based on the need of the covered entity to make reasonable
+accommodations to the known limitations related to the pregnancy, childbirth,
+or related medical conditions of an employee or applicant;
+         D.   Require an employee to take leave, whether paid or unpaid, if
+another reasonable accommodation can be provided to the known limitations
+related to the pregnancy, childbirth, or related medical conditions of an
+employee; or
+         E.   Take adverse action in terms, conditions, or privileges of
+employment against an employee on account of the employee requesting or using a
+reasonable accommodation to the known limitations related to the pregnancy,
+childbirth, or related medical conditions of the employee.
+      (15)   For any employer to discriminate against an employee or potential
+employee because of age in offering any job opening or in the discharge of an
+employee without just cause who is physically able to perform the duties and
+otherwise meets the established requirements of the job and laws pertaining to
+the relationship between employer and employee.
+   (b)   With regard to age, it shall not be an unlawful discriminatory
+practice and it shall not constitute a violation of this chapter for any
+employer, employment agency, joint labor-management committee controlling
+apprenticeship training programs, or labor organization to:
+      (1)   Establish bona fide employment qualifications reasonably related to
+the particular business or occupation that may include standards for skill,
+aptitude, physical capability, intelligence, education, maturation, and
+experience;
+      (2)   Observe the terms of a bona fide seniority system or any bona fide
+employee benefit plan, including, but not limited to, a retirement, pension, or
+insurance plan, that is not a subterfuge to evade the purposes of this section.
+However, no such employee benefit plan shall excuse the failure to hire any
+individual, and no such seniority system or employee benefit plan shall require
+or permit the involuntary retirement of any individual, because of the
+individual's age except as provided for in the "Age Discrimination in
+Employment Act Amendment of 1978," 29 U.S.C.A. 623, as amended by the "Age
+Discrimination in Employment Act Amendments of 1986," 29 U.S.C.A. 623, as
+amended, or as later amended;
+      (3)   Retire an employee who has attained 65 years of age who, for the
+two-year period immediately before retirement, was employed in a bona fide
+executive or a high policymaking position, if the employee is entitled to an
+immediate nonforfeitable annual retirement benefit from a pension, profit-
+sharing, savings, or deferred compensation plan, or any combination of those
+plans of the employer, which equals, in the aggregate, at least $44,000, in
+accordance with the conditions of the "Age Discrimination in Employment Act
+Amendment of 1978," 29 U.S.C.A. 631, as amended by the "Age Discrimination in
+Employment Act Amendments of 1986," 29 U.S.C.A. 631, as amended, or as later
+amended;
+      (4)   Observe the terms of any bona fide apprenticeship program if the
+program is registered with the Ohio apprenticeship council pursuant to Ohio
+R.C. 4139.01 to 4139.06 and is approved by the federal committee on
+apprenticeship of the United States Department of Labor.
+   (c)   Nothing in this chapter shall be construed to prohibit any of the
+following:
+      (1)   The designation of uniform age the attainment of which is necessary
+for public employees to receive pension or other retirement benefits pursuant
+to Ohio R.C. Chapters 145, 742, 3307, 3309, or 5505;
+      (2)   The establishment of maximum age requirements for original
+appointment to a police department or fire department pursuant to Ohio R.C.
+124.41 and 124.42;
+      (3)   Any establishment of a maximum age not in conflict with federal law
+that may be established by a municipal charter, municipal ordinance, or
+resolution of a board of township trustees for original appointment as a police
+officer or firefighter;
+      (4)   Any establishment of a mandatory retirement provision not in
+conflict with state, federal law, or local charter, municipal ordinance, or
+resolution pertaining to police officers and firefighters.
+   (d)   Nothing in this section shall be construed to require an individual
+with a disability to be employed or trained under circumstances that would
+significantly increase the occupational hazards affecting either the individual
+with a disability, other employees, the general public, or the facilities in
+which the work is to be performed, or to require the employment or training of
+an individual with a disability in a job that requires the individual with a
+disability routinely to undertake any task, the performance of which is
+substantially and inherently impaired by the individual's disability.
+   (e)   Nothing in this chapter shall prohibit an employer, employment agency,
+personnel placement service, labor organization, or joint labor-management
+committee from:
+      (1)   Adopting or administering reasonable policies or procedures,
+including, but not limited to, testing for the illegal use of any controlled
+substance, that are designed to ensure that an individual no longer is engaging
+in the illegal use of any controlled substance. For purposes of this chapter, a
+test to determine the illegal use of any controlled substance does not include
+a medical examination;
+      (2)   Prohibiting the illegal use of controlled substances and the use of
+alcohol at the workplace by employees;
+      (3)   Requiring that employees not be under the influence of alcohol or
+not be engaged in the illegal use of any controlled substance at the workplace;
+      (4)   Requiring that employees behave in conformance with the
+requirements established under "The Drug-Free Workplace Act of 1988," 41
+U.S.C.A. 701, as amended;
+      (5)   Holding an employee who engages in the illegal use of any
+controlled substance or who is an alcoholic to the same qualification standards
+for employment or job performance, and the same behavior, to which the
+employer, employment agency, personnel placement service, labor organization,
+or joint labor-management committee holds other employees, even if any
+unsatisfactory performance or behavior is related to an employee's illegal use
+of a controlled substance or alcoholism;
+      (6)   Exercising other authority recognized in the "Americans with
+Disabilities Act of 1990," 42 U.S.C.A. 12101, as amended, including, but not
+limited to, requiring employees to comply with any applicable federal
+standards.
+   (f)   For any person, whether or not an employer, employment agency or labor
+organization, to aid, incite, compel, coerce, or participate in the doing of
+any act declared to be an unlawful discriminatory practice, or to obstruct or
+prevent any person from enforcing or complying with the provisions of this
+section, or to attempt directly or indirectly to commit any act declared by
+this section to be an unlawful discriminatory practice, or to obstruct or
+prevent any person from enforcing or complying with the provisions of this
+section.
+   (g)   This section does not apply to a religious corporation, association,
+educational institution, or society with respect to the employment of an
+individual of a particular religion to perform work connected with the carrying
+on by that religious corporation, association, educational institution, or
+society of its activities.
+(Ord. C49-25. Passed 12-15-25.)
+550.03   UNLAWFUL DISCRIMINATORY HOUSING PRACTICES.
+   (a)   Subject to Ohio R.C. 4112.024 it shall be an unlawful discriminatory
+housing practice for any person or entity to do any of the following:
+      (1)   Refuse to sell, transfer, assign, rent, lease, sublease, or finance
+housing accommodations, refuse to negotiate for the sale or rental of housing
+accommodations, or otherwise deny or make unavailable housing accommodations
+because of an individual's membership in a protected class.
+      (2)   Represent to any individual that housing accommodations are not
+available for inspection, sale, or rental, when in fact they are available, and
+the representation of unavailability is based on the individual seeking
+accommodation being a member of a protected class.
+      (3)   Discriminate against any individual in the making or purchasing of
+loans or the provision of other financial assistance for the acquisition,
+construction, rehabilitation, repair, or maintenance of housing accommodations,
+or any individual in the making or purchasing of loans or the provision of
+other financial assistance that is secured by residential real estate, because
+of that individual being in a protected class, or because the neighborhood in
+which the housing accommodations are located is composed of one or more
+protected classes, provided that the person, whether an individual,
+corporation, or association of any type, lends money as one of the principal
+aspects or incident to the person's principal business and not only as a party
+of the purchase price of an owner-occupied residence the person is selling nor
+merely causally or occasionally renting to a relative or friend.
+      (4)   Discriminate against any individual in the terms or conditions of
+selling, transferring, assigning, renting, or subleasing any housing
+accommodations or in furnishing facilities, services, or privileges in
+connection with the ownership, occupancy, or use of any housing accommodations,
+including the sale of fire, extended coverage, or homeowners insurance, because
+the individual is in a protected class, or because of the composition, in terms
+of protected class, of the neighborhood in which the housing accommodations are
+located.
+      (5)   Discriminate against any individual in the terms or conditions of
+any loan of money, whether or not secured by a mortgage or otherwise, for the
+acquisition, construction, rehabilitation, repair, or maintenance of housing
+accommodations because of the individual being a member of a protected class,
+or because of the composition, in terms of protected class, of the neighborhood
+in which the housing accommodations are located.
+      (6)   Refuse to consider without prejudice the combined income of both
+lawfully-married spouses for the purpose of extending mortgage credit to a
+married couple or either member of a married couple.
+      (7)   Except as otherwise provided in this section, make any inquiry,
+elicit any information, or use any form of application containing questions or
+entries concerning an individual's protected class status in connection with
+the sale or lease of any housing accommodations or the loan of any money,
+whether or not secured by mortgage or otherwise, for the acquisition,
+construction, rehabilitation, repair, or maintenance of housing accommodations.
+Any person may make inquiries, and make and keep records, concerning an
+individual's status as a member of a protected class for the purpose of
+monitoring compliance with this chapter.
+      (8)   Include in any deed, land contract, transfer, rental, or lease of
+housing accommodations any discriminatory restrictive covenant, or honor or
+exercise, or attempt to honor or exercise, any discriminatory restrictive
+covenant.
+      (9)   Induce or solicit, or attempt to induce or solicit, a housing
+accommodations listing, sale, or transaction by representing that a change has
+occurred or may occur with respect to the protected class composition of the
+neighborhood in which the housing accommodations are located, or induce or
+solicit, or attempt to induce or solicit, a housing accommodations listing,
+sale, or transaction by representing that the presence or anticipated presence
+of individuals of any protected class in the neighborhood will or may have
+results including, but not limited to, the following:
+         A.   The lowering of property values;
+         B.   A change in the composition, in terms of a protected class, of
+the neighborhood;
+         C.   An increase in criminal or antisocial behavior in the
+neighborhood;
+         D.   A decline in the quality of the schools serving the neighborhood.
+      (10)   Discourage or attempt to discourage the purchase by a prospective
+purchaser of housing accommodations, by representing that any neighborhood has
+undergone or might undergo a change in composition with respect to a protected
+class.
+      (11)   Deny any individual access to or membership or participation in
+any multiple-listing service, real estate broker's organization, or other
+service, organization, or facility relating to the business of selling or
+renting housing accommodations, or discriminate against any individual in the
+terms or conditions of that access, membership, or participation, because of
+the individual being in a protected class.
+      (12)   Discriminate in any manner against any individual because that
+individual has opposed any unlawful practice defined in this chapter, or
+because that individual has made a charge, testified, assisted, or participated
+in any manner, in any investigation, proceeding, or hearing under the
+provisions of this chapter.
+      (13)   Refuse to sell, transfer, assign, rent, lease, sublease, or
+finance, or otherwise deny or withhold, a burial lot from any individual
+because of that individual being in a protected class, or because of any
+prospective owner or user of the lot being in a protected class.
+      (14)   Discriminate in the sale or rental of, or otherwise make
+unavailable or deny, housing accommodations to any buyer or renter because of
+the protected class status of any of the following:
+         A.   The buyer or renter;
+         B.   An individual residing in or intending to reside in the housing
+accommodations after they are sold, rented, or made available;
+         C.   Any individual associated with the individual described in this
+section.
+      (15)   Discriminate in the terms, conditions or privileges of the sale or
+rental of housing accommodations to any individual or in the provision of
+services or facilities to any individual in connection with the housing
+accommodations because of the protected class of any of the following:
+         A.   That individual;
+         B.   An individual residing in or intending to reside in the housing
+accommodations after they are sold, rented, or made available;
+         C.   Any individual associated with the individual described in this
+section.
+      (16)   Except as otherwise provided in this section, make an inquiry of
+an applicant to determine the protected class of the applicant for the sale or
+resale of housing accommodations, an individual residing in or intending to
+reside in the housing accommodations after they are sold, rented, or made
+available, or any individual associated with such individuals. The following
+inquiries may be made of all applicants for the sale or rental of housing
+accommodations, regardless of the applicant's protected class:
+         A.   An inquiry into an applicant's ability to meet the requirements
+of ownership or tenancy;
+         B.   An inquiry to determine whether an applicant is qualified for
+housing accommodations available only to individuals with disabilities or
+individuals with a particular type of disability;
+         C.   An inquiry to determine whether an applicant is qualified for a
+priority available to individuals with disabilities or individuals with a
+particular type of disability;
+         D.   An inquiry to determine whether an applicant currently uses a
+controlled substance m violation of Ohio R.C. 2925.11 or a substantively
+comparable municipal ordinance;
+         E.   An inquiry to determine whether an applicant at any time has been
+convicted of or pleaded guilty to any offense, an element of which is the
+illegal sale, offer to sell, cultivation, manufacture, other production,
+shipment, transportation, delivery, or other distribution of a controlled
+substance.
+      (17)   Refuse to permit, at the expense of an individual with a
+disability, reasonable modifications of existing housing accommodations that
+are occupied or to be occupied by the individual with a disability, if the
+modifications may be necessary to afford the individual with a disability full
+enjoyment of the housing accommodations. This division does not preclude a
+landlord of housing accommodations that are rented or to be rented to a
+disabled tenant from conditioning permission for a proposed modification upon
+the disabled tenant's doing one or more of the following:
+         A.   Providing a reasonable description of the proposed modification
+and reasonable assurances that the proposed modification will be made in a
+workerlike manner and that any required building permits will be obtained prior
+to the commencement of the proposed modification;
+         B.   Agreeing to restore at the end of the tenancy the interior of the
+housing accommodations to the condition they were in prior to the proposed
+modification, but subject to reasonable wear and tear during the period of
+occupancy, if it is reasonable for the landlord to condition permission for the
+proposed modification upon the agreement;
+         C.   Paying into an interest bearing escrow account that is in the
+landlord's name, over a reasonable period of time, a reasonable amount of money
+not to exceed the projected costs at the end of the tenancy for the restoration
+of the interior of the housing accommodations to the condition they were in
+prior to the proposed modification, but subject to reasonable wear and tear
+during the period of occupancy, if the landlord finds the account reasonably
+necessary to ensure the availability of funds for the restoration work. The
+interest earned in connection with an escrow account described in this division
+shall accrue to the benefit of the disabled tenant who makes payments into the
+account.
+      (18)   Condition permission for a proposed modification of a dwelling
+unit upon a disabled tenant's payment of a security deposit that exceeds the
+customarily required security deposit of all tenants of the particular housing
+accommodations.
+      (19)   Refuse to make reasonable accommodations in rules, policies,
+practices, or services when necessary to afford an individual with a disability
+equal opportunity to use and enjoy a dwelling unit, including associated public
+and common use areas.
+      (20)   Fail to comply with the standards and rules adopted under Ohio
+R.C. 3781.111(A).
+      (21)   Discriminate against any individual in the selling, brokering, or
+appraising of real property because of the individual being in a protected
+class.
+      (22)   Fail to design and construct covered multifamily dwellings for
+first occupancy in accordance with the following conditions:
+         A.   The dwellings shall have at least one building entrance on an
+accessible route, unless it is impractical to do so because of the terrain or
+unusual characteristics of the site;
+         B.   With respect to dwellings that have a building entrance on an
+accessible route, all of the following apply:
+            1.   The public use areas and common use areas of the dwellings
+shall be readily accessible to and usable by an individual with a disability.
+            2.   All the doors designed to allow passage into and within all
+premises shall be sufficiently wide to allow passage by an individual with a
+disability who is in a wheelchair.
+            3.   All premises within covered multifamily dwelling units shall
+contain an accessible route into and through the dwelling; all light switches,
+electrical outlets, thermostats, and other environmental controls within such
+units shall be in accessible locations; the bathroom walls within such units
+shall contain reinforcements to allow later installation of grab bars; and the
+kitchens and bathrooms within such units shall be designed and constructed in a
+manner that enables an individual in a wheelchair to maneuver about such rooms.
+      (23)   For any person to discriminate in any manner against any
+individual because that individual has opposed any unlawful discriminatory
+practice defined in this section or because that individual has made a charge,
+testified, assisted, or participated in any manner in any investigation,
+proceeding, or hearing under this chapter or Ohio R.C. 4112.01 to 4112.07.
+      (24)   For any person to knowingly aid or abet the doing of any act
+declared by this section to be an unlawful discriminatory practice, to
+knowingly obstruct or prevent any person from complying with this chapter or
+any order issued under it, or to knowingly attempt directly or indirectly to
+commit any act declared by this section to be an unlawful discriminatory
+practice.
+   (b)   Nothing in this chapter limits the applicability of any reasonable
+local state, or federal restrictions regarding the maximum number of occupants
+permitted to occupy housing accommodations.
+   (c)   Nothing in this chapter shall bar any bona fide private or fraternal
+organization that incidental to its primary purpose, owns or operates lodgings
+for other than a commercial purpose, from limiting the rental or occupancy of
+the lodgings to its members or from giving preference to its members.
+   (d)   Nothing in this chapter prohibits owners or managers of housing
+accommodations from implementing reasonable occupancy standards based on the
+number and size of sleeping areas or bedrooms and the overall size of a
+dwelling unit, provided that the standards are not implemented to circumvent
+the purposes of this chapter and are formulated, implemented, and interpreted
+in a manner consistent with this chapter and any applicable local, state, or
+federal restrictions regarding the maximum number of occupants permitted to
+occupy housing accommodations.
+   (e)   Nothing in this chapter requires that housing accommodations be made
+available to an individual whose tenancy would constitute a direct threat to
+the health or safety of other individuals or whose tenancy would result in
+substantial physical damage to the property of others.
+   (f)   Nothing in this chapter pertaining to unlawful discriminatory
+practices shall be construed to apply to "housing for older persons" as defined
+and provided in 42 U.S.C. 3607(b)(2), as amended.
+   (g)   Nothing in this chapter shall be construed to require any person
+selling or renting property to modify the property in any way or to exercise a
+higher degree of care for an individual with a disability, to relieve any
+individual with a disability of any obligation generally imposed on all
+individuals regardless of disability in a written lease, rental agreement, or
+contract of purchase or sale, or to forbid distinctions based on the inability
+to fulfill the terms and conditions, including financial obligations, of the
+lease, agreement, or contract.
+(Ord. C49-25. Passed 12-15-25.)
+550.04   UNLAWFUL DISCRIMINATORY PRACTICES IN PUBLIC ACCOMMODATIONS.
+   (a)   No owner, operator, or manager of a place of public accommodation
+shall deny to any individual or permit any employee to deny to any individual,
+except for reasons applicable to all individuals regardless of them being in a
+protected class, the full enjoyment of the accommodations, advantages,
+facilities, or privileges of the place of public accommodation.
+   (b)   No owner, operator, or manager of a place of public accommodation
+shall deny to any individual with a disability the full enjoyment of the
+accommodations, advantages, facilities, or privileges of the place of public
+accommodation because of such individual's use of a service animal, provided:
+      (1)   The disabled individual using the service animal may be prohibited
+from having the service animal present in the place of public accommodation if:
+         A.   The animal is out of control, as provided by 28 CFR 35.136(d),
+and the animal's handler does not take effective action to control it; or
+         B.   The animal is not housebroken.
+      (2)   If it is not readily apparent what service a service animal
+provides, the owner, operator, manager, or an employee of a place of public
+accommodation may make the following two inquiries:
+         A.   Whether the service animal is required because of the disabled
+individual's disability, provided an inquiry may not be made as to:
+            1.   The disabled individual's disability; or
+            2.   The disabled individual's medical condition or requirements.
+         B.   What work or tasks has the animal been trained to perform,
+provided an inquiry may not be made as to any special identification or
+training documentation for the animal, and the animal shall not be required to
+demonstrate its training or abilities.
+      (3)   The owner, operator, manager, or employees of a place of public
+accommodation are not required to provide care or food for the service animal.
+   (c)   No person shall aid, abet, or participate in the doing of any act
+declared to be an unlawful discriminatory practice under this section.
+   (d)   Unless otherwise prohibited by law, nothing in this section shall be
+construed to prohibit any person from offering senior citizen price discounts
+or other privileges exclusively for the benefit of senior citizens.
+   (e)   Nothing in this section shall prohibit a religious or denominational
+institution, organization, society, or association or any nonprofit charitable
+or education organization that is operated, supervised, or controlled by or in
+connection with a religious organization from limiting its offerings of goods,
+services, facilities, and accommodations to persons of the same religion, or
+from giving preference to such persons, provided that such offerings mentioned
+above are not, in fact, offered for commercial purposes or supported by public
+funds.
+   (f)   Nothing in this section shall be construed to require the modification
+of existing facilities or the construction of new or additional facilities.
+(Ord. C49-25. Passed 12-15-25.)
+550.05   COMPLAINT PROCEDURE.
+   (a)   Filing a complaint.
+      (1)   An individual may file with the Grove City Law Director a
+notarized, sworn statement in writing which alleges facts and circumstances,
+including relevant locations, dates, times, and individuals, of an unlawful
+discriminatory act(s) or practice(s), that said acts occurred within the City
+of Grove City corporate limits, that the discriminatory act or practice was
+directed at the complainant, and which identifies the person who committed the
+alleged unlawful discriminatory act or practice.
+      (2)   At the same time the complaint is filed, the complainant shall
+provide in writing the complainant's mailing address, telephone number, and
+email address to the Law Director.
+      (3)   The complaint shall be rejected by the Law Director if any of the
+following apply:
+         A.   The complaint is presented more than 180 days after the most
+recent unlawful discriminatory act or practice alleged in the complaint;
+         B.   The incident did not occur within the City of Grove City;
+         C.   A collective bargaining agreement to which the City is a party
+requires the investigation to be conducted pursuant to that agreement's terms;
+         D.   The complaint fails to include all of the information required by
+division (a)(1) of this section or fails to provide contact information as
+required by division (a)(2) of this section.
+      (4)   The Law Director shall date stamp the complaint immediately upon
+receipt and provide a copy to the City Administrator.
+      (5)   The Law Director shall retain the original date stamped complaint
+and shall open and maintain a file on the matter during the pendency of any
+actions related to the complaint and for as long as required by the City's
+Records Retention Schedule.
+   (b)   Investigation of complaint.
+      (1)   A.   If the charge of discrimination alleges a violation based on a
+protected class and/or any other class or characteristic protected under state
+or federal law, then the Law Director shall instruct the complainant to file a
+charge of discrimination with the Ohio Civil Rights Commission (OCRC) or Equal
+Employment Opportunity Commission (EEOC). The Law Director shall provide this
+direction and contact information for the OCRC or EEOC to the complainant
+within ten days of the charge being filed with the City.
+         B.   If the OCRC or EEOC refuses to review the complaint because of a
+lack of time or resources, the complainant may, within 30 days of the refusal,
+request the Law Director to review the original charges filed and to proceed
+under divisions (b)(2) through (b)(5) and (c). If the OCRC or EEOC dismisses a
+complaint for lack of probable cause, the Law Director shall have no authority
+to review the complaint and the City's file of the complaint shall be closed.
+      (2)   Upon receipt of the copy of the complaint and a determination that
+the discrimination alleged is not already protected under state or federal law,
+the Law Director, in consultation with the Mayor, shall hire outside counsel to
+perform an independent review and investigation of the complaint and the
+situation and acts outlined therein.
+      (3)   Outside counsel shall perform all necessary fact-finding including
+interviews of the complainant, witnesses, and respondent as well as any
+additional necessary steps to determine if probable cause for the complaint
+exists.
+      (4)   Upon completion of the investigation, outside counsel shall provide
+a written determination to the Law Director about whether or not probable cause
+exists for the complaint.
+      (5)   Upon receipt of outside counsel's determination, the Law Director,
+in consultation with the City, can either dismiss the complaint or forward the
+complaint to an independent hearing officer. The Law Director retains the
+authority to forward the complaint to a hearing officer, appointed by the
+Mayor, even if outside counsel determines there is not probable cause for the
+complaint.
+   (c)   Role and duties of hearing officer.
+      (1)   If a hearing officer is appointed, the hearing officer shall have
+the authority to:
+         A.   Schedule and oversee a mediation between the complainant and
+respondent;
+         B.   Conduct an administrative hearing;
+         C.   Provide to all the parties, witnesses, and Law Director timely
+notice of the hearing date, time, and location;
+         D.   Set, change as necessary, and timely communicate to the parties
+such reasonable procedural rules as the hearing officer deems appropriate;
+         E.   Issue subpoenas and direct the exchange of discovery.
+      (2)   At the conclusion of the administrative hearing the hearing officer
+shall issue to the parties and the Law Director a final written decision to
+include findings of fact and conclusions of law:
+         A.   If the hearing officer finds the respondent either did engage or
+continues to engage in unlawful discriminatory acts or practices under this
+chapter, and the hearing officer deems it appropriate, the hearing officer's
+final written decision may include the issuance to the respondent of orders to
+cease and desist and imposition of such other sanctions as provided by this
+chapter; or
+         B.   If the hearing officer deems it appropriate, the hearing
+officer's final written decision may include the issuance of a notice of
+dismissal.
+      (3)   If the final decision of the hearing officer includes the issuance
+to the respondent of orders to cease and desist the unlawful discriminatory
+acts or practices, such orders to cease and desist shall specify a time period
+for the respondent's compliance.
+      (4)   The final decision of the hearing officer may include the
+imposition upon the respondent of reasonable costs of the outside counsel. The
+costs of the hearing officer shall not be assessed against the respondent.
+Attorney fees shall not be assessed against the respondent. Damages and other
+expenses incurred by the complainant shall not be assessed against the
+respondent.
+      (5)   The final decision of the hearing officer may include the
+imposition upon the respondent of a civil penalty payable to the City as
+follows:
+         A.   For a first-time offense, a civil penalty not to exceed $1,000;
+         B.   If the respondent has been found by the Hearing Officer to have
+committed one violation of this chapter during the five-year period immediately
+preceding the date upon which the complaint was filed with the Law Director, a
+civil penalty not to exceed $2,500;
+         C.   If the respondent has been found by the hearing officer to have
+committed two or more violations of this chapter during the five-year period
+immediately preceding the date upon which the complaint was filed with the Law
+Director, a civil penalty not to exceed $5,000.
+      (6)   The final decision of the hearing officer may not include any
+orders for reinstatement of employment, refund of monies paid, or other
+mitigation of damages, or any other orders for corrections or sanctions, except
+as provided in this section.
+      (7)   The final decision of the hearing officer shall be in writing and
+served by ordinary mail on the respondent and complainant. The documents shall
+be deemed received and properly served upon the respondent five days following
+the mailing thereof. Copies of the final decision shall also be sent to the Law
+Director.
+      (8)   The decision of the hearing officer may be appealed pursuant to the
+provisions of Ohio R.C. Chapter 2506.
+   (d)   City of Grove City as respondent.
+      (1)   If the Hearing Officer finds a violation occurred, and the
+respondent is the City of Grove City or one of its boards, commissions,
+departments, divisions, officials, or employees, the hearing officer shall
+issue a notice of violation, without any orders and without specifying any
+sanction and the hearing officer shall take no further action.
+      (2)   If the hearing officer issues a notice of violation to the City, at
+a reasonable time following receipt of the notice of violation, the City
+Council shall, at an open public meeting of City Council, take such actions and
+impose such remedies as City Council deems appropriate.
+(Ord. C49-25. Passed 12-15-25.)
+550.06   FAILURE TO COMPLY WITH CITY SUBPOENA.
+   No person shall fail to comply with a subpoena issued by the hearing
+officer. Whoever violates this section is guilty of failure to comply with a
+Grove City subpoena, a misdemeanor of the fourth degree.
+(Ord. C49-25. Passed 12-15-25.)
+550.07   FAILURE TO COMPLY WITH ORDER OF HEARING OFFICER.
+   No person shall fail to comply with any portion of an order issued by the
+hearing officer within 30 days following service of the order or such period as
+the order provides, whichever is greater. Whoever violates this section is
+guilty of failure to comply with an order of the hearing officer, a misdemeanor
+of the first degree.
+(Ord. C49-25. Passed 12-15-25.)
+550.08   FAILURE TO PAY FINANCIAL SANCTIONS IMPOSED BY THE BEARING OFFICER.
+   If a civil penalty, costs or both are imposed by the hearing officer on the
+respondent, and any portion remains unpaid 30 days following service of the
+order or following the expiration of the time period designated by the hearing
+officer, the City may institute civil enforcement proceedings against the
+respondent.
+(Ord. C49-25. Passed 12-15-25.)
 PART SEVEN - BUSINESS REGULATION CODE
    
 Chap. 701.   Amusement Devices. (Repealed)
@@ -55094,7 +55877,7 @@ the United States. A rule or regulation in conflict therewith shall be null,
 void and of no consequence.
 (Ord. 78-87. Passed 9-8-87.)
    Required Spacing Diagrams and Table
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-7146.png]
    The maximum lawful speed limit is that maximum limit which is in full force
 and effect for a distance of not less than one-fourth mile from the center
@@ -58635,24 +59418,24 @@ continues. A separate offense shall be deemed committed for the unlawful
 destruction of each tree six inches (6") or greater.
 (Ord. C6-86. Passed 3-3-86; Ord. C58-97. Passed 11-17-97.)
 Ch. 1136, Exhibit A
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6802.jpg]
  
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6805.jpg]
  
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6808.jpg]
  
 Ch. 1136, Exhibit B
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6811.jpg]
  
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6814.jpg]
  
 Ch. 1136, Exhibit C
-[https://export.amlegal.com/media/4398a20df61a236f19621dde8a69f7e7b6824315/
+[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
 IMAGES/0-0-0-6817.jpg]
  
 Ch. 1136, Exhibit D – Compatibility of Zoning Classifications for Vehicular Use
