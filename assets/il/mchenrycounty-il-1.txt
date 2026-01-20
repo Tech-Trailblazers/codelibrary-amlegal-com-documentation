@@ -1,8 +1,8 @@
 MCHENRY COUNTY, ILLINOIS
 CODE OF ORDINANCES
-2024 S-4 Supplement contains:
-Local legislation current through Ord. O-202304-12-016, passed 4-18-2023
-State legislation current through ALS 2023 Pamphlet No. 5
+2025 S-5 Supplement contains:
+Local legislation current through Ord. A25-0037, passed 8-19-2025
+State legislation current through ALS 2025 Pamphlet No. 1
  
 Published by:
 American Legal Publishing
@@ -1624,21 +1624,21 @@ Contact the Records Manager if replacement labels are needed.
 The box pick-up will be scheduled upon delivery of the labels. Note: improperly
 labeled or prepared boxes will not be transferred to storage.
    Figure 1 - Transfer Process Flowchart
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-29.png]
 Appendix B
    Figure 2 - Offsite Storage Transmittal Form
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-31.png]
    Figure 3 - Standard Box Label
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-33.png]
 Appendix C
    Figure 4 - Records Retrieval Request Form
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-35.png]
 Appendix D
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-37.png]
 (Res. R-200305-16-116, passed 5-6-2003)
 CHAPTER 2.48: MCHENRY COUNTY PURCHASING ORDINANCE
@@ -6348,6 +6348,8 @@ Commission
    
 5.08.080   License required
    
+5.08.085   Requirements for all licenses
+   
 5.08.090   Classification of licenses—fees
    
 5.08.100   Issuance of licenses—procedure and application
@@ -6355,6 +6357,8 @@ Commission
 5.08.110   Requirement of retail liquor license
    
 5.08.120   Persons/entities ineligible to receive license
+   
+5.08.125   Termination
    
 5.08.130   Form of license issued
    
@@ -6409,23 +6413,42 @@ of McHenry shall be protected and temperance in the consumption of alcoholic
 liquors shall be fostered and promoted, the following has been adopted by the
 Board of the County of McHenry. This Ordinance shall be liberally construed to
 affect the above goals.
-(Ord. O-201406-12-020, § 1, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 1, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.020 DEFINITIONS.
    ACT. The Illinois Liquor Control Act of 1934, as amended (235 ILCS 5/1-1 et
 seq.).
+   AGRITOURISM BUSINESS. A business which conducts activities on an existing
+agricultural operation for the purpose of attracting the public for the
+enjoyment, education, or active involvement in the activities of the
+agricultural operation. When determining whether a business is an agritourism
+business, the Liquor Commissioner shall defer to the definitions and standards
+contained in the McHenry County Unified Development Ordinance.
    ALCOHOLIC LIQUOR. Any spirits, wine, beer, ale or other liquor, containing
 more than one-half of one per cent of alcohol by volume, which is capable of
 being consumed as a beverage by a human being.
    LAW & GOVERNMENT/LIQUOR COMMITTEE MEMBER. An assistant Liquor Control
 Commissioner for McHenry County, Illinois.
    BANQUET HALL FACILITIES. A business conducted on premises at which an
-activity is catering of private parties, either exclusively or in conjunction
+activity is catering of private functions, either exclusively or in conjunction
 with a “restaurant” business; and, whereat there is service for consumption at
 tables of a full multiple course meal at a prearranged fixed unit price, or
 hors d’oeuvres, buffet or smorgasbord, and at which alcoholic liquor may be
 served or sold as incidental to such food services. Each of such private
-parties must be prearranged and under sponsorship of a particular person or
+functions must be prearranged and under sponsorship of a particular person or
 organization.
+   BEER. Beverage obtained by the alcoholic fermentation of an infusion or
+concoction of barley, or other grain, malt and hops in water, and includes,
+among other things, beer, ale, stout, lager beer, porter and the like
+synonymous with the phrase “beer” as defined by and used in “an act relating to
+alcoholic liquors”.
+   BREWPUB. A person who manufactures beer only at a designated premises to
+make sales to importing distributors, distributors, and to nonlicensees for use
+and consumption only, who stores beer at the designated premises, and who is
+allowed to sell at retail from the licensed premises, provided that a brewpub
+licensee shall not sell for off premises consumption more than fifty thousand
+(50,000) gallons per year synonymous with the phrase “brewpub” as defined by
+and used in “an act relating to alcoholic liquors”.
    BOWLING ALLEY. Every establishment or building, or part of an establishment
 or building, wherein the game of bowling, played with composition balls and ten
 pins, is played.
@@ -6459,7 +6482,11 @@ gasoline and/or limited groceries and sundries for sale, the retail sale of
 alcoholic liquors being incidental thereto. The area for display of alcoholic
 liquors shall be limited to ten percent (10%) of the retail floor display area
 in such an establishment.
-   HOTEL AND MOTEL. Every building or other structure kept, used, maintained,
+   DISTILLED SPIRITS. A beverage which contains alcohol obtained by
+distillation, mixed with water or other substance in solution, and includes
+brandy, rum, whiskey, gin, or other spirituous liquors, and such liquors when
+rectified, blended or otherwise, mixed with alcohol or other substances.
+   HOTEL AND MOTEL.  Every building or other structure kept, used, maintained,
 advertised and held out to the public to be a place where food is actually
 served and consumed and sleeping accommodations are offered for adequate pay to
 travelers and guests, whether transient, permanent or residential, in which ten
@@ -6472,6 +6499,13 @@ dining room equipment and capacity.
    PERSON. Any natural person, firm, partnership, association or corporation.
    PREMISES. Any permanent physical structure or building from which alcoholic
 liquors are sold.
+   PRIVATE FUNCTION. A prearranged private party, function, or event for a
+specific social or business occasion, either by invitation or reservation and
+not open to the general public, where the guests in
+attendance are served on the premises or within the property lines of the
+premises designated and used exclusively for the private party, function, or
+event synonymous with the phrase “private function” as defined by and used in
+“an act relating to alcoholic liquors”.
    RESTAURANT. Any public place kept, used, maintained, advertised and held out
 to the public as a place where meals are served, and where meals are actually
 and regularly served, without sleeping accommodations, such space being
@@ -6494,14 +6528,15 @@ contents of fruits, or vegetables, containing sugar, including such beverages
 when fortified by the addition of alcohol or spirits.
    WINE-MAKER. A person engaged in the making of less than 50,000 gallons of
 wine annually.
-(Ord. O-201406-12-020, § 2, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 2, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.030 MCHENRY COUNTY LIQUOR CONTROL COMMISSIONER, LAW & GOVERNMENT/LIQUOR
 COMMITTEE MEMBERS.
    A.   The Chairman of the County Board for the County of McHenry, Illinois
 shall be the McHenry County Liquor Control Commissioner in and for all areas
 outside corporate limits of any city, town or village and lying within the
 corporate limits of the County of McHenry, and he/she shall be assisted by
-eight (8) members of the County Board and shall be designated as Assistant
+seven (7) members of the County Board and shall be designated as Assistant
 Liquor Control Commissioners for McHenry County. The Assistant Liquor Control
 Commissioners shall assist the McHenry County Liquor Control Commissioner in an
 exercise of powers and performance of his/her duties as such Commissioner. The
@@ -6510,7 +6545,8 @@ County Liquor Control Commission.
    B.   The Commissioner shall have the power to delegate authority to County
 employees as may be necessary to carry out the administrative functions related
 to the provisions of this Ordinance.
-(Ord. O-201406-12-020, § 3, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 3, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.040 COMPENSATION OF COMMISSIONER AND LAW & GOVERNMENT/LIQUOR COMMITTEE
 MEMBERS.
    A.   The Commissioner and the members of the Law & Government/Liquor
@@ -6518,23 +6554,27 @@ Committee shall receive no annual salary or compensation for their services
 related to the duties of the McHenry County Liquor Control Commission in
 addition to their salaries and mileage reimbursement as the County Board
 Chairman and County Board Members, respectively.
-(Ord. O-201406-12-020, § 4, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 4, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.050 COMMISSION TO INCLUDE AGENCY.
    When in this Ordinance the Commission shall be referred to, it shall include
 the Commission and any committee or other agency appointed by such
 Commissioner.
-(Ord. O-201406-12-020, § 5, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 5, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.060 POWERS AND DUTIES OF COMMISSIONER AND COMMISSION.
    The Commissioner and the Commission, in addition to the powers and duties
 herein given and provided, shall have all the powers and duties as provided for
 in the Act.
-(Ord. O-201406-12-020, § 6, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 6, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.070 FILING WITH COUNTY CLERK THE APPOINTMENTS OF MEMBERS OF THE
 COMMISSION.
    The Commissioner shall file a copy of an appointment of the members of the
 Commission in the Office of the County Clerk of McHenry County, Illinois within
 five (5) days after their respective appointments.
-(Ord. O-201406-12-020, § 7, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 7, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.080 LICENSE REQUIRED.
    A.   No person, firm, partnership, association or corporation shall act as a
 retailer of alcoholic liquor or engage in a business of selling, offering for
@@ -6546,37 +6586,62 @@ hereinafter provided.
    B.   No Person shall manufacture, bottle, blend, sell, barter, transport,
 deliver, furnish with or without cost or possess any alcoholic liquor for
 beverage purposes, except as specifically provided for in the Act.
-(Ord. O-201406-12-020, § 8, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 8, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
+§ 5.08.085 REQUIREMENTS FOR ALL LICENSES.
+   In addition to the requirements stated herein, all licensees shall provide
+proof to the Commission of the appropriate license, where applicable, obtained
+from the State Commission within thirty (30) days of licensee’s receipt of the
+license from the State Commission. Failure to comply with this section may
+result in the penalties prescribed in this Ordinance or the Act where allowable
+by law, including but not limited to, denial of application for any subsequent
+license.
+(Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.090 CLASSIFICATION OF LICENSES—FEES.
-   A.   The Commissioner shall have powers to grant liquor licenses for selling
-at retail of alcoholic liquor for a period beginning on the first day of May of
-any year and ending on the thirtieth (30th) day of April of the next year. Such
-licenses shall be and are hereby divided into the following categories and none
-other, to wit:
+   A.   The Commissioner shall have the power to grant liquor licenses for
+selling at retail of alcoholic liquor for a period beginning on the first day
+of May of any year and ending on the thirtieth (30th) day of April of the next
+year. Such licenses shall be and are hereby divided into the following
+categories and none other, to wit:
       1.   Class “A”: License shall authorize retail sale on premises of
 alcoholic liquor for consumption on the premises or retail sale of unbroken
 packaged liquor for consumption off the premise on all days, such license being
 subject to the time restrictions set forth in §
 5.08.240A. of this Ordinance. The fee for a Class “A” license shall be
-$1,500.00 (one thousand five hundred and no/100 dollars).
+$1,500.00 (one thousand five hundred and no/100 dollars). New, full and
+complete Class “A” License applications received by the Liquor Commission on or
+after December 5th of each calendar year may, in the discretion of the Liquor
+Commission, receive a reduced application fee of $800.00 (eight hundred and no/
+100 dollars). The reduced application fee shall not be applicable to renewal
+applications.
       2.   Class “B”: License shall authorize retail sale on premises, in
 unbroken packages, of alcoholic liquor for consumption off the premises on all
 days, such license being subject to time restrictions set forth in §
 5.08.240A. of this Ordinance. The fee for a Class “B” license shall be
-$1,500.00 (one thousand five hundred and no/100 dollars).
+$1,500.00 (one thousand five hundred and no/100 dollars). New, full and
+complete Class “B” License applications received by the Liquor Commission on or
+after December 5th of each calendar year may, in the discretion of the Liquor
+Commission, receive a reduced application fee of $800.00 (eight hundred and no/
+100 dollars). The reduced application fee shall not be applicable to renewal
+applications.
       3.   Class “C”: License shall authorize a caterer to serve alcoholic
 liquor as an incidental part of a food service that serves prepared meals which
 excludes the serving of snacks as a primary meal, either on or off-site,
 subject to time restrictions in §
 5.08.240A. of this Ordinance. The Fee for a Class “C” license shall be
-$1,500.00 (one thousand five hundred and no/100 dollars).
+$1,500.00 (one thousand five hundred and no/100 dollars). New, full and
+complete Class “C” License applications received by the Liquor Commission on or
+after December 5th of each calendar year may, in the discretion of the Liquor
+Commission, receive a reduced application fee of $800.00 (eight hundred and no/
+100 dollars). The reduced application fee shall not be applicable to renewal
+applications.
       4.   Class “D”: License shall authorize the retail sale of alcoholic
 beverages for consumption beyond the confines of the premises specified in the
 license but within the property lines of the property upon which the premises
 is located. The requirements for obtaining a Class “D” license shall be the
 same as for a current license. No person shall be eligible for a Class “D”
 license who has not been issued a current Class “A” liquor license. The fee for
-a Class “D” license shall be $500.00 (five hundred and no/100 dollars).
+a Class “D” license shall be $100.00 (one hundred and no/100 dollars).
       5.   Class “E”: License shall authorize retail sale on premises of
 alcoholic liquor for the consumption on the premises or retail sale of unbroken
 packaged liquor for consumption off the premise, for a fee of $800.00. Said
@@ -6590,22 +6655,35 @@ A Class “F” license may be issued only to charitable groups, or non-profit
 associations or corporations, religious corporations or government entities, as
 allowed by law, upon a determination by the Commissioner that the retail sale
 of alcoholic liquor will be for a charitable or civic purpose. No more than
-three (3) Class F licenses shall be issued to any such organization or
+three (3) Class F” licenses shall be issued to any such organization or
 association in any one license year, such year beginning May 1 and ending April
 30. In addition, prior to the issuance of a Class F License, the applicant
 shall submit the following items to the Commissioner: (1) location upon the
 premises where alcohol is to be sold; (2) a safety plan for the event including
 crowd control, security if necessary, and the prevention of underage drinking;
-(3) a list of members who will be selling alcohol during the event; and (4)
+(3) a list of members who will be selling alcohol during the event; (4)
 official documentation that the licensee has authority from the charitable or
-non-profit group to apply for the license. Class “F” Licenses shall be reviewed
+non-profit group to apply for the license, and (5) dram shop liability
+insurance in the amount consistent with Section
+5.08.100, Subsection 14 of this Ordinance. Class “F” Licenses shall be reviewed
 for compliance with the requirements set forth in this paragraph and may be
 signed by the Commissioner unless the Commissioner decides, in his discretion,
 to impose other requirements on a Class “F” License as may be appropriate upon
-reviewing the above submitted information. The Commissioner may also submit the
-application to the Commission for review and recommendation. The Commission may
-impose other requirements on a Class “F” License as may be appropriate upon
-reviewing the above submitted information.
+reviewing the above submitted information. As a condition of this Class “F”
+license, in addition to any other conditions that may be imposed by the
+Commissioner within his or her discretion, Class “F” licensees shall not,
+directly, or indirectly, sell or otherwise distribute to any authorized patron
+or consumer more two (2) standard alcoholic drinks in a single transaction or
+interaction. For the purposes of this section, a standard alcoholic drink shall
+not be more than 16 fluid ounces of beer or seltzer, 1.75 fluid ounces of
+liquor, or five (5) ounces of wine. In addition to the above-listed prohibited
+amounts, Class “F” licensees shall not complete one transaction or interaction
+and immediately thereafter begin another transaction or interaction to the same
+authorized patron or consumer. A reasonable amount of time between transactions
+or interactions must occur. The Commissioner may also submit the application to
+the Commission for review and recommendation. The Commission may impose other
+requirements on a Class “F” License as may be appropriate upon reviewing the
+above submitted information.
          b.   Twenty-four (24) hour license shall be $125.00 (one hundred
 twenty-five and no/100 dollars), provided that the license may be extended to
 an additional four consecutive calendar days at a fee of $75.00 (seventy-five
@@ -6613,63 +6691,161 @@ and no/100 dollars) for each additional 24 hour period or fraction thereof.
 Such license is subject to the time restrictions set forth in §
 5.08.240A. of this Ordinance.
       7.   Class “S”: License shall authorize the retail sale on premises of
-alcoholic liquor for consumption on the premises for a 24 hour period. A class
+alcoholic liquor for consumption on the premises for a 24-hour period. A class
 “S” license shall only be issued to an organization or corporation which holds
 a current and valid liquor license from the State of Illinois and either the
 County of McHenry or a municipality located within the corporate boundaries of
 McHenry County. The aforementioned municipal license must grant the licensee
 substantially similar authorization to sell or serve alcoholic liquor as either
 of the McHenry County class “A”, “B”, or “C”, licenses. A Class “S” license
-shall be issued for the sole purpose of obtaining local liquor authority
-approval from McHenry County pursuant to an application for a State of Illinois
-Special Use Permit Liquor License. Failure to obtain a State of Illinois
-Special Use Permit within 60 days of being issued a Class “S” license shall
-render the Class “S” license void. A Class “S” license must be issued for each
-twenty-four (24) hour period of an event. Separate Class “S” licenses may be
-issued for consecutive 24 hour periods of the same event. No more than ten (10)
-Class “S” licenses shall be issued to any organization or corporation in any
-one license year, such year beginning May 1, and ending April 30. Prior to the
-issuance of a Class “S” license, the applicant shall submit the following items
-to the Liquor Control Commission, (1) a completed Class “S” license application
-providing information relating to the applicant as well as detailing the event,
-(2) a copy of the applicant’s current local and state liquor license, (3) a
-temporary use permit or other zoning authorization from the McHenry County
-Planning and Development Department for the event, (4) a list of individuals
-who will be selling or serving alcohol at the event, and (5) a description of
-the location of the premises where the event will occur. Class “S” Licenses
-shall be reviewed for compliance with the requirements set forth in this
-paragraph and may be signed by the Commissioner unless the Commissioner
-decides, in his discretion, to impose other requirements on a Class “S” License
-as may be appropriate upon reviewing the above submitted information. The
-Commissioner may also submit the application to the Commission for review and
-recommendation. The Commission may impose other requirements on a Class “S”
-License as may be appropriate upon reviewing the above submitted information.
+must be issued for each twenty-four (24) hour period of an event. Separate
+Class “S” licenses may be issued for consecutive 24-hour periods of the same
+event. No more than ten (10) Class “S” licenses shall be issued to any
+organization or corporation in any one license year, such year beginning May 1,
+and ending April 30. Prior to the issuance of a Class “S” license, the
+applicant shall submit the following items to the Liquor Control Commission,
+(1) a completed Class “S” license application providing information relating to
+the applicant as well as detailing the event, (2) a copy of the applicant’s
+current local and state liquor license, (3) a temporary use permit or other
+zoning authorization from the McHenry County Planning and Development
+Department for the event, (4) a list of individuals who will be selling or
+serving alcohol at the event, (5) a description of the location of the premises
+where the event will occur, and (6) dram shop liability insurance in the amount
+consistent with Section
+5.08.100, Subsection 14 of this Ordinance. Class “S” Licenses shall be reviewed
+for compliance with the requirements set forth in this paragraph and may be
+signed by the Commissioner unless the Commissioner decides, in his discretion,
+to impose other requirements on a Class “S” License as may be appropriate upon
+reviewing the above submitted information. As a condition of this Class “S”
+license, in addition to any other conditions that may be imposed by the
+Commissioner within his or her discretion, Class “S” licensees shall not,
+directly, or indirectly, sell or otherwise distribute to any authorized patron
+or consumer more two (2) standard alcoholic drinks in a single transaction or
+interaction. For the purposes of this section, a standard alcoholic drink shall
+not be more than 16 fluid ounces of beer or seltzer, 1.75 fluid ounces of
+liquor, or five (5) ounces of wine. In addition to the above-listed prohibited
+amounts, Class “S” licensees shall not complete one transaction or interaction
+and immediately thereafter begin another transaction or interaction to the same
+authorized patron or consumer. A reasonable amount of time between transactions
+or interactions must occur. The Commissioner may also submit the application to
+the Commission for review and recommendation. The Commission may impose other
+requirements on a Class “S” License as may be appropriate upon reviewing the
+above submitted information.
    A Class “S” license is subject to the time restrictions set forth in §
 5.08.240A of this Ordinance. The fee for a Class “S” license shall be $150.00
 (one hundred and fifty and no/100 dollars) for each twenty-four (24) hour
 period.
-      8.   Class “W”: A wine-maker’s license shall authorize the manufacture of
-less than 50,000 gallons of wine, within the premises specified, and the
-storage and sale of such wine, per year to distributors in the state and
-persons outside the state, as may be permitted by law. Such license shall allow
-the retail sale of wine, by a wine-maker as defined previously, within the
-premises specified, not more than 50,000 gallons of wine per year, for use or
-consumption, either on premises or off premises in original packaging, and for
-wine tasting for which remuneration may or may not be received. Such license
-being subject to time restrictions set forth in §
-5.08.240A of this Ordinance. The annual license fee shall be $1,500.00.
-   B.   Other than Class “E” or “F” or “S” licenses, if a new application for a
-liquor license is made during the last six months of any license year, the
-license fee shall be one-half the appropriate regular fee.
-(Ord. O-201406-12-020, § 9, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+      8.   Class “W”: Class W Licenses; Brewpub/Winemaker/Distiller: Such
+license shall authorize the retail sale of beer, wine, or distilled spirits
+within the premises specified, for consumption on the premises and retail sales
+of beer, wine, or distilled spirits by original package for consumption off the
+premises provided, however, that the licensee shall not sell for off premises
+consumption more than fifty thousand (50,000) gallons per year.
+   Such license being subject to time restrictions set forth in §
+5.08.240A of this Ordinance. The annual license fee shall be $1,500.00. New,
+full and complete Class “W” License applications received by the Liquor
+Commission on or after December 5th of each calendar year may, in the
+discretion of the Liquor Commission, receive a reduced application fee of
+$800.00 (eight hundred and no/100 dollars). The reduced application fee shall
+not be applicable to renewal applications.
+      9.   A Class “M” license shall authorize the retail sale of beer or wine
+for consumption on premises for a continuous period of 31 days. A Class “M”
+license shall only be issued to Agritourism Businesses.
+   Hours of Operation: 12:00 P.M. (noon) to 12:00 A.M. (midnight)
+   Prior to the issuance of a Class “M” license, the applicant shall submit the
+following items to the Liquor Control Commission:
+         a.   a completed Class “M” license application providing information
+relating to the applicant as well as detailing the event,
+         b.   a temporary use permit or other zoning authorization from the
+McHenry County Planning and Development Department for the event,
+         c.   a designated liquor manager, and
+         d.   a site plan for describing where wine or beer will be served and
+consumed.
+         e.   dram shop liability insurance in the amount consistent with
+Section
+5.08.100, Subsection 14 of this Ordinance.
+   Class “M” Licenses shall be reviewed for compliance with the requirements
+set forth in this paragraph and may be signed by the Commissioner unless the
+Commissioner decides, in his discretion, to impose other requirements on a
+Class “M” License as may be appropriate upon reviewing the above submitted
+information. As a condition of this Class “M” license, in addition to any other
+conditions that may be imposed by the Commissioner within his or her
+discretion, Class “M” licensees shall not, directly, or indirectly, sell or
+otherwise distribute to any authorized patron or consumer more two (2) standard
+alcoholic drinks in a single transaction or interaction. For the purposes of
+this section, a standard alcoholic drink shall not be more than 16 fluid ounces
+of beer or seltzer, 1.75 fluid ounces of liquor, or five (5) ounces of wine. In
+addition to the above-listed prohibited amounts, Class “M” licensees shall not
+complete one transaction or interaction and immediately thereafter begin
+another transaction or interaction to the same authorized patron or consumer. A
+reasonable amount of time between transactions or interactions must occur. The
+Commissioner may also submit the application to the Commission for review and
+recommendation. The Commission may impose other requirements on a Class “M”
+License as may be appropriate upon reviewing the above submitted information.
+   Class “M” licensees shall comply with all other requirements of this
+ordinance, the McHenry County Unified Development Ordinance, the McHenry County
+Health Ordinance, and all applicable state and federal laws.
+   The cost for a Class “M” license shall be $25 per month. No more than 6
+class “M” licenses shall be issued for a single location per year.
+      10.   REQUIREMENTS FOR BRING YOUR OWN BOTTLE (BYOB) ESTABLISHMENTS AND
+CORKAGE PERMIT: It shall be unlawful for any restaurant establishment without a
+liquor license to permit the consumption of any alcoholic beverage on the
+premises without a corkage permit. The fee for a corkage permit shall be $50.00
+annually and shall be subject to the initial application, renewal application,
+and eligibility requirements provided in this Ordinance not inconsistent with
+this section. A corkage permit issued pursuant to this section authorizes
+restaurants or banquet facilities, without liquor licenses, to permit
+consumption of "wine" and or “beer”, as defined in this code, on the premises
+upon the conditions set forth herein.
+         a.   No more than seven hundred fifty milliliters (750 ml) of wine or
+48 oz of beer per patron over the age of twenty-one (21) shall be permitted to
+be uncorked.
+         b.   Only patrons seated at tables or booths shall be permitted to
+consume wine or beer that has been provided by the patron.
+         c.   Wine or beer may only be consumed by individuals who order and
+are served a meal by the licensee.
+         d.   Every container of wine or beer brought onto the premises by a
+patron must be opened by restaurant personnel, and it shall be unlawful for any
+patron to leave the premises with a partially consumed container of wine or
+beer unless the package has been re-sealed by restaurant personnel in the
+manner prescribed by the Liquor Commissioner.
+         e.   Wine or beer may only be uncorked by restaurant personnel between
+the hours of twelve o'clock (12:00) noon and eleven o'clock (11:00) P.M.
+         f.   Possession and/or consumption of alcoholic liquor by any person
+under age twenty-one (21) is prohibited.
+         g.   Restaurants may at their discretion charge corkage fees.
+         h.   BASSET training shall be required of all persons who serve
+alcoholic liquor, all management personnel working on the premises, and anyone
+whose job description entails the checking of identification. A "state
+certified BASSET program" shall be defined as a BASSET program licensed by the
+state of Illinois liquor control commission as required by 235 Illinois
+Compiled Statutes 5/3-12(11.1).
+   All licensed BASSET providers shall be required to have on file all licenses
+and certificates to prove current qualifications and provide a certificate of
+course completion and a card to participants as proof of completion. A
+photocopy of certificates of completion for all owners, managers, employees, or
+agents required to have BASSET training shall be maintained on the premises in
+a manner that will allow inspection, upon demand, by any designee, of the state
+of Illinois or McHenry County. Any new owner, manager, employee, or agent
+requiring BASSET training shall within ninety (90) days from the beginning of
+their employment with that licensee, complete an Illinois liquor control
+commission BASSET approved seller/server training program and shall until
+completion of the BASSET program work under the supervision of a person who has
+completed BASSET training.
+         i.   Restaurants must provide proof dram shop liability insurance
+pursuant to Section
+5.08.100, Subsection 14 of this Ordinance.
+(Ord. O-201406-12-020, § 9, passed 6-17-2014; Ord. 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.100 ISSUANCE OF LICENSES—PROCEDURE AND APPLICATION.
    A.   Forms of application for a license under this Ordinance shall be
-furnished by the McHenry County Liquor Commissioner, and applicants for a
-license under this Ordinance shall secure the necessary forms from said McHenry
-County Liquor Commissioner and such application or applications shall be in
-writing and under oath and shall be filed with the McHenry County Liquor
-Commissioner and shall become a permanent record of the Commission and shall
-contain the following information, vis:
+furnished by the McHenry County Liquor Commissioner. Applicants for a license
+under this Ordinance shall secure the necessary forms from said McHenry County
+Liquor Commissioner and such application or applications shall be submitted
+electronically pursuant to the requirements set forth by the Liquor Commission,
+shall be electronically signed under oath, shall be filed with the McHenry
+County Liquor Commissioner, shall become a permanent record of the Commission,
+and shall contain the following information, vis:
       1.   Applicant’s name and residential address. If the premises are
 leased, name and address of the landlord, and a copy of lease. Lease must be in
 name of applicant and for the entire license period;
@@ -6680,10 +6856,10 @@ with the McHenry County Clerk;
       5.   In a case of a partnership, date of formation of the partnership; in
 case of an Illinois corporation, date of its incorporation; or in a case of a
 foreign corporation, the State where it was incorporated and date of its
-becoming qualified under the “Business Corporation Act of 1983” (805 ILCS 5/
+becoming qualified under the “Business Corporation Act of 1983" (805 ILCS 5/
 1.01 et seq.) to transact business in the State of Illinois.
       6.   Applicant’s Retailer’s Occupation Tax (ROT) Registration Number;
-whether the applicant is delinquent in the payment of the Retailer’s Occupation
+where the applicant is delinquent in the payment of the Retailer’s Occupation
 Tax (Sales Tax), and if so, the reasons therefore;
       7.   Whether the applicant is delinquent under the thirty (30) day credit
 law, and if so, the reasons therefore;
@@ -6749,8 +6925,9 @@ information to the Commissioner within ten (10) days shall be deemed a
 violation of this Ordinance.
          c.   If the applicant reports a felony conviction as required under
 subsection A.10. above of this Section, such conviction may be considered by
-the Commissioner in determining qualifications for licensing, but shall not
-operate as a bar to licensing.
+the Commissioner in determining qualifications for licensing consistent with
+the provisions set forth in §
+5.08.120A of this Ordinance.
          d.   If said application is made on behalf of a partnership, the
 application must be signed by at least one of the partners. Applications made
 on behalf of an association, club or corporation must be signed by one officer
@@ -6767,24 +6944,25 @@ licensee. Licensees who add or change corporate officers or partners so that
 said new corporate officer or partners now own 30% or more of stock shall not
 be deemed a renewal for the next application period and shall be subject to
 paying the Application fee.
-   D.   1.   All licensees who change any part of their corporate structure
-including; changes to partnership agreements, articles of incorporation, or add
+   D.   1.   All licensees who change any part of their corporate structure,
+including changes to partnership agreements, articles of incorporation, or add
 or change partners or corporate officers who own 5% or more of ownership stock
-in the licensed entity shall notify the Commissioner of said change within 10
+in the licensed entity, shall notify the Commissioner of said change within 10
 days after such change takes effect. The licensee shall have 60 days after
-notifying the Commissioner to have any new partners or corporate officers
-approved by the Commissioner. The application fee for changes to corporate
-officers shall be $100 for each new officer. If the application of a new
-partner or corporate officer is approved within 60 days of said applicant
-assuming their new position, no application fee shall be required at renewal.
-Failure to comply with this provision shall result in the licensee being
-assessed the full application fee at the time their license renewal. Changes in
-ownership constituting 30% or more of stock shall be assessed the application
-fee at the next renewal, pursuant to subsection C. above of this Ordinance,
-regardless of compliance with this subsection.
+notifying the Commissioner to
+have any new partners or corporate officers approved by the Commissioner. The
+application fee for changes to corporate officers shall be $100 for each new
+officer. If the application of a new partner or corporate officer is approved
+within 60 days of said applicant assuming their new position, no application
+fee shall be required at renewal. Failure to comply with this provision shall
+result in the licensee being assessed the full application fee at the time
+their license renewal. Changes in ownership constituting 30% or more of stock
+shall be assessed the application fee at the next renewal, pursuant to
+subsection C. above of this Ordinance, regardless of compliance with this
+subsection.
       2.   New Partners or Officers: New partners or officers must file an
 application with the Commissioner prior to being interviewed and considered for
-approval by the Commissioner. New partners or officers shall be finger printed
+approval by the Commissioner. New partners or officers shall be fingerprinted
 and photographed by the McHenry County Sheriff’s Office. Thereupon, said
 photographs shall be placed in the Commissioner’s files, and file with their
 application letters of recommendation from at least three (3) individuals, who
@@ -6814,15 +6992,17 @@ serving as a manager by any of the provisions of §
       2.   On an annual basis, after the second manager application and
 interview, applicants shall pay an additional fee of $75.00 (seventy-five and
 00/100 dollars) per manager interview.
-(Ord. O-201406-12-020, § 10, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 10, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.110 REQUIREMENT OF RETAIL LIQUOR LICENSE.
    A.   For licenses issued after May 1, 2010, for all original or renewal
-applications for class A, B, C, and E liquor licenses shall be accompanied with
-proof of completion of a State certified Beverage Alcohol Sellers and Servers
-Education and Training (BASSET) program for all persons who sell or serve
-alcoholic beverages, all management personnel working on premises, and anyone
-whose job description entails the checking of identification for the purchases
-of alcoholic beverages, pursuant to that license.
+applications for class A, B, C, and E liquor licenses and for all original or
+renewal applications for a Corkage Permit shall be accompanied with proof of
+completion of a State certified Beverage Alcohol Sellers and Servers Education
+and Training (BASSET) program for all persons who sell or serve alcoholic
+beverages, all management personnel working on premises, and anyone whose job
+description entails the checking of identification for the purchases of
+alcoholic beverages, pursuant to that license.
    B.   A state certified BASSET training program shall be defined as a BASSET
 program licensed by the State of Illinois Liquor Control Commission (ILCC) as
 required by 235 ILCS 5/3-12(11.1) and 6-27 and Title 77 of Illinois
@@ -6835,11 +7015,12 @@ shall within ninety (90) days from the beginning of their employment with that
 licensee, complete an ILCC BASSET approved seller/server training program and
 shall until completion of the BASSET program work under the supervision of a
 person who has completed BASSET training.
-   D.   A photo copy of certificate of completion for all owners, managers,
+   D.   A photocopy of certificate of completion for all owners, managers,
 employees, or agents required by this ordinance to have BASSET training shall
 be maintained, by the establishment, in manner that will allow inspection, upon
 demand, by any designee of both the state or local liquor control authorities.
-(Ord. O-201406-12-020, § 11, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 11, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.120 PERSONS/ENTITIES INELIGIBLE TO RECEIVE LICENSE.
    A.   No license of any kind issued by the Commissioner shall be issued to:
       1.   A person who is not domiciled in the County of McHenry, Illinois,
@@ -6862,7 +7043,7 @@ in Section 5-130 of the Juvenile Court Act of 1987.
 an individual who was 17 years old at the time of the offense and before
 January 1, 2014, unless the nature of the offense required the individual to be
 tried as an adult.
-         c.   Records of arrest not followed by a conviction.
+         c.   Records of arrest not followed by conviction.
          d.   Convictions overturned by a higher court.
          e.   Convictions or arrest that have been sealed or expunged.
       6.   The Commission, upon a finding that an applicant for a license was
@@ -6872,7 +7053,7 @@ evidence of rehabilitation and mitigating factors contained in the applicant’s
 record, including any of the following factors and evidence, to determine if
 the conviction will impair the ability of the applicant to engage in the
 position for which a license is sought:
-         a.   the lack of direct relation of the offense for which the
+         a.   the lack of direction relation of the offense for which the
 applicant was previously convicted to the duties, functions and
 responsibilities of the position for which a license is sought;
          b.   whether 5 years since a felony conviction or 3 years since
@@ -6921,8 +7102,10 @@ of 1983” (805 ILCS 5/101 et seq.).
 unless the manager/agent is domiciled in McHenry County and the manager or
 agent possesses the same qualifications required by the licensee;
       15.   A person who has been convicted of a violation of any Federal or
-State law concerning manufacture, possession or sale of alcoholic liquor or has
-forfeited his bond to appear in court to answer changes for any such violation;
+State law concerning manufacture, possession or sale of alcoholic liquor, has
+forfeited his bond to appear in court to answer changes for any such violation,
+or has failed to appear in court as a condition of pretrial release as directed
+by a court of competent jurisdiction;
       16.   A person or applicant who neither beneficially owns, nor leases for
 full period the premises for which license is issued;
       17.   Any law enforcing public official, including members of local
@@ -6961,7 +7144,22 @@ County of McHenry;
       26.   Any person or entity not able to provide a Certificate of Insurance
 that shows currently in force Liquor Law Liability (Dram Shop) Insurance;
       27.   For any other reason as outlined in the Act.
-(Ord. O-201406-12-020, § 12, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 12, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
+§ 5.08.125 TERMINATION.
+   A.   When a license has been issued to a partnership and a change of
+ownership occurs, resulting in the creation of a partnership interest in a
+person who is not eligible to receive a liquor license, the license shall
+thereby be terminated.
+   B.   When a license has been issued to a corporation and a change takes
+place as to officers, directors, or of shareholders holding more than 5% of the
+stock, or in a manager resulting in the holding of office, or if a change takes
+place in the transfer of shares to one who is not eligible for a license, the
+license shall thereby terminate.
+   C.   When a license has been issued to an individual who becomes ineligible
+to receive a license, the license theretofore issued to the individual shall
+thereby terminate.
+(Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.130 FORM OF LICENSE ISSUED.
    All licenses issued by the Commissioner shall state thereon the name of the
 licensee, the address and description of the premises and of the building for
@@ -6986,13 +7184,15 @@ shall show that the premises to which removal is to be made comply in all
 respects with the requirements of this Act. A transfer may only be requested to
 a premise within the same jurisdiction that issued the original local liquor
 license. A transfer fee of $75.00 will be charged for each request.
-(Ord. O-201406-12-020, § 13, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 13, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.140 DISPLAY OF LICENSE.
    Each licensee shall cause his license issued under the provisions of this
 Ordinance to be framed and hung in plain view in a conspicuous place on the
 licensed premises. All licensees shall comply with the State mandated display
 of warning signs as cited in the Act.
-(Ord. O-201406-12-020, § 14, passed 6-17-2014; Ord. 7468, passed 3-19-2019)   
+(Ord. O-201406-12-020, § 14, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.150 PRIVILEGE GRANTED BY LICENSE— NATURE AS PROPERTY—EXPIRATION OF
 LICENSE—NOT LIABLE TO ATTACHMENT, GARNISHMENT OR EXECUTION— TRANSFERABILITY.
    A license shall be purely a personal privilege and shall expire on April
@@ -7009,7 +7209,8 @@ of alcoholic liquor under order of an appropriate court, and may exercise the
 privileges of the deceased or such insolvency or bankruptcy until expiration of
 such license but not longer than six months after the death, bankruptcy or
 insolvency of such licensee.
-(Ord. O-201406-12-020, § 15, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 15, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.160 RENEWAL OF LICENSES.
    A.   Any licensee may renew his license at the expiration thereof, provided
 he is qualified to receive a license and the premise for which such renewal
@@ -7047,7 +7248,19 @@ the Commissioner requests that application for renewal be submitted to the Law
 application for a renewal license fail to be identical to the previous year’s
 application, that application and liquor license may be submitted to the Law &
 Government/Liquor Committee for review and recommendation.
-(Ord. O-201406-12-020, § 16, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+   G.   For Class A, B, C, and W license renewals, full and completed renewal
+applications received on or after April 1st but prior to April 14th, the
+license fee shall be an additional 10% of the original license fee for that
+Class of license. For Class A, B, C, and W license renewals, full and completed
+renewal applications received on or after April 15th, the license fee shall be
+an additional 50% of the original license fee for that Class of license. For
+Corkage Permit renewals, full and completed renewal applications received on or
+after April 1st but prior to April 14th, the license fee shall be an additional
+10% of the original license fee. For Corkage Permit renewals, full and
+completed renewal applications received on or after April 15th, the license fee
+shall be an additional 50% of the original license fee.
+(Ord. O-201406-12-020, § 16, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.170 ANNUAL REPORT BY LICENSED CORPORATION.
    A.   Each corporation licensed under this Ordinance shall file an annual
 report on a form provided by the Commission setting forth:
@@ -7073,7 +7286,8 @@ Ordinance, shall be subject to suspension, as provided under §
 thirty (30) days of the issuance of either a new class or new shares of stock
 or of the transfer of five percent (5%) or more of already issued shares to new
 shareholders.
-(Ord. O-201406-12-020, § 17, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 17, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.180 SALES IN STATE AND COUNTY BUILDINGS.
    No alcoholic liquors shall be sold, delivered or consumed in any building
 belonging to or under control of the County of McHenry. No person shall furnish
@@ -7081,7 +7295,8 @@ any alcoholic liquor to any prisoner confined in jail, except on a physician’s
 prescription for medicinal purposes. No person shall furnish any alcoholic
 liquor to any patient of Valley-Hi Nursing Home, except on a physician’s
 prescription for medicinal purposes.
-(Ord. O-201406-12-020, § 18, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 18, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.190 SALES.
    A.   No licensee, nor any officer, associate, member, representative, agent
 or employee of such licensee shall sell, give or deliver alcoholic liquor to
@@ -7099,7 +7314,8 @@ government, or subdivision or agency thereof, including, but not limited to a
 motor vehicle operator’s license, a registration certificate issued under the
 Federal Selective Service Act (50 U.S.C., App. §§ 451 et seq.), or an
 identification card issued to a member of the Armed Forces.
-(Ord. O-201406-12-020, § 19, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 19, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.200 ATTIRE, ENTERTAINERS, VISUAL DISPLAYS, CONDUCT, ETC. ON PREMISES.
    A.   The following acts or conduct are prohibited on licensed premises.
       1.   Performance of acts, or simulated acts of sexual intercourse,
@@ -7154,15 +7370,18 @@ finding or complaint issued under the McHenry County Noise and/or Nuisance
 Ordinance shall subject the licensee to a hearing on the citation before the
 Commissioner or the Law & Government/Liquor Committee at the discretion of the
 Commissioner.
-(Ord. O-201406-12-020, § 20, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 20, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.210 SANITARY AND SAFETY CONDITIONS OF PREMISES.
    Failure to conform to the McHenry County Public Health Ordinance may be
 considered sufficient cause for revocation or suspension of license.
-(Ord. O-201406-12-020, § 21, passed 6-17-2014; Ord 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 21, passed 6-17-2014; Ord 7468, passed 3-19-2019; Ord.
+O-202312-018-078, passed 12-19-2023)
 § 5.08.220 DISORDERLY CONDUCT NOT TO BE PERMITTED ON PREMISES.
    No licensee under this Ordinance shall permit any disorderly conduct or
 disturbance of peace thereon.
-(Ord. O-201406-12-020, § 22, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 22, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.230 RECORDS OF LICENSES ISSUED.
    The Commissioner shall keep or cause to be kept a record of all such
 licenses issued by him/her and shall furnish a list of such licenses to the
@@ -7170,7 +7389,8 @@ County Clerk, Sheriff and State’s Attorney, and upon issuance of any new
 license or upon expiration and failure to renew or revocation of any old
 license, the Commissioner shall give written notice of such action to each of
 these officers within 48 hours of such action.
-(Ord. O-201406-12-020, § 23, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 23, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.240 OPENING AND CLOSING HOURS.
    A.   No alcoholic liquor shall be sold or furnished at retail in McHenry
 County outside the corporate limits of any city, village or incorporated town
@@ -7185,7 +7405,8 @@ clubs, as defined in this Ordinance and in the Act, and the premises of a
 convenience store, as defined in this Ordinance, may be kept open in addition
 to the hours referred to in subsection A. above of this Section for purposes
 other than the sale of alcoholic liquor.
-(Ord. O-201406-12-020, § 24, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 24, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.250 COMPLAINT OF VIOLATION—HEARING.
    A complaint may be filed with the Commissioner by no less than any five
 residents of the County of McHenry stating that any retailer licensee, subject
@@ -7204,7 +7425,8 @@ accordance with §§
 5.08.310 of this Ordinance, and shall serve a copy of the Complaint and notice
 upon the licensee of the time and place of such hearing. Such notice shall be
 served at least three (3) days prior to the hearing.
-(Ord. O-201406-12-020, § 25, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 25, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.260 PROCEDURE BEFORE COMMISSION ON CITATIONS.
    A.   The Commissioner shall have a right to proceed originally by citation
 and notice of hearing to require any licensee of said Commissioner to appear at
@@ -7228,7 +7450,8 @@ reasonable attempts to serve the licensee have failed, service shall be by
 publication in a newspaper of general circulation within McHenry County.
    E.   Said licensee named in said citation and notice of hearing shall appear
 at the time and place designated in said citation and notice hearing.
-(Ord. O-201406-12-020, § 26, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 26, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.270 REVOCATION OR SUSPENSION OF LOCAL LICENSE—NOTICE—HEARING—
 APPEAL—PENALTIES.
    A.   The Commissioner may fine any license issued if he or she has
@@ -7283,7 +7506,8 @@ Commissioner’s order to suspend or revoke the license at the first hearing, th
 appellant shall cease to engage in the business for which the license was
 issued, until the Commissioner’s order is terminated by its own provisions or
 reversed upon rehearing or by the Courts.
-(Ord. O-201406-12-020, § 27, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 27, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.280 PROCEDURE BEFORE COMMISSION ON REQUEST FOR CONTINUANCE OF ANY
 HEARING.
    A.   A request for continuance of any hearing in any matter before the
@@ -7293,7 +7517,8 @@ hearing.
    B.   The Commission may, in its discretion, grant a continuance if
 extenuating and unusual circumstances are presented in support of the request
 for continuance.
-(Ord. O-201406-12-020, § 28, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 28, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.290 COMMISSIONER’S REPORT.
    A.   The Commissioner shall report in writing to the Illinois Liquor Control
 Commission within ten (10) days after any hearing has been held before such
@@ -7303,7 +7528,8 @@ established by the State Commission.
    B.   The report from the Commissioner shall specify the time and place where
 the hearing was held, whether a suspension or revocation was entered therein,
 or what other disposition was made or entered in such Commissioner’s report.
-(Ord. O-201406-12-020, § 29, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 29, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.300 APPEALS FROM ORDER OF COMMISSIONER.
    Any order or action by a Commissioner levying a fine or refusing to levy a
 fine on a licensee, granting or refusing to grant a license, revoking or
@@ -7318,7 +7544,8 @@ within five (5) days after the notice of the filing of such appeal, if the
 appellant licensee pays for the costs of the transcript. The appeal shall be
 limited to a review of the official record of the proceedings before the
 Commission.
-(Ord. O-201406-12-020, § 30, passed 6-17-2014; Ord. 7468, passed 3-19-2019)   
+(Ord. O-201406-12-020, § 30, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.310 OWNER OF PREMISES PERMITTING VIOLATION—ACTS OF AGENT OR
 EMPLOYEE—LIABILITY OF LICENSEE— KNOWLEDGE.
    A.   If the owner of the licensed premises or any person from whom the
@@ -7334,7 +7561,8 @@ manager or other agent or employee of any licensee, shall be deemed and held to
 be the act of such employer and licensee, and said employer or licensee shall
 be punishable in the same manner as if said act or omission had been done or
 omitted by him personally.
-(Ord. O-201406-12-020, § 31, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 31, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.320 PENALTIES.
    A.   Whenever any licensee shall be convicted of any violation of this
 Ordinance or the Act, or his license shall be revoked and no appeal is taken
@@ -7350,19 +7578,21 @@ said license and as to said premises.
    C.   In addition to the above penalties, any person who violates any
 provision of the Ordinance shall be guilty of a petty offense and fined not
 more than $500.00 (five hundred and 00/100 dollars).
-(Ord. O-201406-12-020, § 32, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 32, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.330 SEVERABILITY CLAUSE.
    If any section, subsection, sentence, clause, phrase or portion of this
 Ordinance is for any reason held invalid or unconstitutional by any court of
 competent jurisdiction, such portion shall be deemed a separate, distinct and
 independent provision and such holding shall not affect the validity of the
 remaining portions hereof.
-(Ord. O-201406-12-020, § 33, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+(Ord. O-201406-12-020, § 33, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 § 5.08.340 REPEAL OF PRIOR ORDINANCES.
    All ordinances or parts thereof in conflict with the provision of this
-amended Ordinance are hereby
-repealed.
-(Ord. O-201406-12-020, § 34, passed 6-17-2014; Ord. 7468, passed 3-19-2019)
+amended Ordinance are hereby repealed.
+(Ord. O-201406-12-020, § 34, passed 6-17-2014; Ord. 7468, passed 3-19-2019;
+Ord. O-202312-018-078, passed 12-19-2023)
 CHAPTER 5.12: RAFFLES
 Section
    
@@ -10760,10 +10990,6 @@ pool.
 health significance.
 (Ord. O-201711-51-031, passed 11-14-2017)
 § 8.04.080 REQUIREMENTS.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
-IMAGES/0-0-0-2891.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Public_Health_Ord_7-15-2025, passed 7-15-2025). The text of the
-amendment will be incorporated below when the amending legislation is codified.
    The following are declared public health nuisances prejudicial to the public
 health:
    A.   To cause or suffer the carcass of any animal or any offal or filth to
@@ -10775,7 +11001,7 @@ properly disposed of within twenty-four (24) hours of a death of an animal.
 offensive waste; Provided, that, acceptable storage of livestock manure on a
 farm is permitted when this storage is in compliance with State and local laws,
 ordinances, and regulations.
-   C.   Maintaining garbage containers, which are not vermin and rodent proof.
+   C.   Maintaining garbage contains, which are not vermin and rodent proof.
    D.   Allowing any infestation in a structure or on a property of pests or
 vermin that may be involved in transmission of communicable diseases or failing
 to remove conditions in a structure or on a property that may permit such
@@ -10794,49 +11020,51 @@ from the property.
    I.   Offering used mattresses, swimsuits, wigs, and other personal items for
 sale to the public unless these items are sanitized as approved by the Health
 Authority.
-   J.   Failing to provide a potable water supply sufficient in quantity and
+   J.   Failure of a personal care provider to sanitize multi-use personal care
+tools or equipment including but not limited to combs, hairbrushes, nail
+clippers, foot spa basins, etc. using an EPA approved sanitizer or
+disinfectant, per the label directions, after each use, between separate
+individuals.
+   K.   Failing to provide a potable water supply sufficient in quantity and
 pressure to adequately serve all plumbing fixtures therein, in any building in
 which people live, work or assemble.
-   K.   Operating a tanning facility without a valid permit issued by the
+   L.   Operating a tanning facility without a valid permit issued by the
 Illinois Department of Public Health contrary to the provisions of the Illinois
 Tanning Facility Permit Act or the Illinois Department of Public Health Tanning
 Facilities Code.
-   L.   Operating a tattoo and/or body piercing establishment without a valid
+   M.   Operating a tattoo and/or body piercing establishment without a valid
 registration issued by the Illinois Department of Public Health contrary to the
 provisions of the Illinois Tattoo and Body Piercing Establishment Registration
 Act or the Illinois Department of Public Health Body Art Code.
-(Ord. O-201711-51-031, passed 11-14-2017)
+(Ord. O-201711-51-031, passed 11-14-2017; Ord., passed 7-15-2025)
 § 8.04.090 OPEN BURNING OF LANDSCAPE WASTE.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
-IMAGES/0-0-0-2891.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Public_Health_Ord_7-15-2025, passed 7-15-2025). The text of the
-amendment will be incorporated below when the amending legislation is codified.
    A.   INTENT AND PURPOSE. Whereas, open burning creates a risk of losses due
 to fire and impairs air quality, regulation of open burning is necessary to
 protect the public health, safety, and welfare.
    B.   REQUIREMENTS
       1.   Exemptions
-         a.   Subsections B.2.a. and B.2.b.; B.3.b.1–3.; and B.4.b. shall not
+         a.   Subsections B.2.a. and B.2.b.; B.3. c.1-3.; and B.4.b. shall not
 apply to prescribed burns associated with ecologic restoration or natural
 landscape management, any burning of landscape waste for purposes of habitat
 reclamation, or firefighter training.
-         b.   Subsections B.2.a. and B.2.b.; B.3.b.1–3.; and B.4.b. shall not
-apply to the burning of brush for purposes of domestic fireplaces or cooking or
-external fireplaces, or to self-contained outdoor wood-burning devices or
-fireplaces.
-         c.   Subsections B.2.a. and B.2.b.; B.3.b.1–3.; and B.4.b. shall not
+         b.   Subsections B.2.a. and B.2.b.; B.3.c.1-3.; and B.4.b. shall not
+apply to the burning of brush for purposes of cooking, heating or recreational
+fires in domestic fireplaces or self-contained outdoor wood- burning devices.
+         c.   Subsections B.2.a. and B.2.b.; B.3.c.1-3.; and B.4.b. shall not
 apply to the open burning of brush for purposes of recreational fires.
-         d.   B.2.a. and B.2.b.; B.3.b.1–3.; and B.4.b. shall not apply to the
+         d.   B.2.a. and B.2.b.; B.3.c.1-3.; and B.4.b. shall not apply to the
 open burning of brush for purposes of ceremonial fires or bonfires provided
 that notice of any ceremonial fire or bonfire has been given to the fire
 protection district or fire department serving the area where the fire is to
 take place and a permit has been obtained from the McHenry County Department of
-Health. Failure to obtain a permit from the McHenry County Department of Health
-prior to conducting a ceremonial fire utilizing brush shall be deemed a
-violation of this article. Failure to notify the applicable fire protection
-district or fire department and obtain permission prior to conducting a
-ceremonial fire utilizing brush shall be deemed a violation of this article.
-         e.   Subsection B.3.b.(1) shall not apply where the fire is located
+Health. Permit applications shall be submitted to the Department at least 2
+business days prior to the date of the ceremonial fire or bonfire. Failure to
+obtain a permit from the McHenry County Department of Health prior to
+conducting a ceremonial fire utilizing brush shall be deemed a violation of
+this article. Failure to notify the applicable fire protection district or fire
+department and obtain permission prior to conducting a ceremonial fire
+utilizing brush shall be deemed a violation of this article.
+         e.   Subsection B.3.c.(1) shall not apply where the fire is located
 five hundred feet (500') or greater from a habitable structure.
       2.   Prohibition
          a.   Open burning of landscape waste shall not take place within one
@@ -10890,28 +11118,33 @@ responsible for the enforcement of this Ordinance. Any enforcement officer of
 the McHenry County Department of Health, law enforcement agency, fire
 department or fire protection district is hereby authorized to enforce the
 provisions of this article.
-         b.   Any person who violates any provision of this article shall be
-punished by a fine of one hundred dollars ($100) for a first time offense and a
-fine of up to one thousand dollars ($1,000) for offenses subsequent to the
-first offense. The burning of any toxic material and any prior convictions
-under this article shall be considered factors in aggravation for purposes of
-the assessment of any fines.
+         b.   Any person who violates any provision of §
+8.04.090 shall be subject to the penalty and injunctive relief set forth in §
+8.04.050 of Article I. The burning of any toxic material and any prior
+convictions under this article shall be considered factors in aggravation for
+purposes of the assessment of any fines.
       6.   This Ordinance does not supersede any requirements of a government
 entity that may be more restrictive.
-(Ord. O-201711-51-031, passed 11-14-17)
+(Ord. O-201711-51-031, passed 11-14-17; Ord., passed 7-15-2025)
 § 8.04.100 BARRIERS FOR RESIDENTIAL SWIMMING POOLS, SPAS AND HOT TUBS.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
-IMAGES/0-0-0-2891.png]Publisher's Note: This Section has been AMENDED by new
-legislation (Public_Health_Ord_7-15-2025, passed 7-15-2025). The text of the
-amendment will be incorporated below when the amending legislation is codified.
    A.   INTENT AND PURPOSE.
       1.   The provisions of this document shall control the design of barriers
 for residential swimming pools, spas and hot tubs. These design controls are
 intended to provide protection against potential drowning and near drowning to
 children under the age of five (5) by restricting access to swimming pools,
-spas and hot tubs.
-      2.   This Section applies to all residential swimming pools, spas and hot
-tubs in McHenry County unless a more stringent local Ordinance exists.
+spas and hot tubs
+      2.   Applicability:
+         a.   All residential swimming pools, spas and hot tubs, located in
+unincorporated McHenry County, that meet the requirements of §
+8.04.100B15 or §
+8.04.100B16 as of July 15, 2025 are subject to this Section. All other
+residential swimming pools, spas and hot tubs located in unincorporated McHenry
+County are subject to the applicable barrier regulation adopted by the McHenry
+County Board and enforced by the McHenry County Department of Planning &
+Development.
+         b.   Residential swimming pools, spas and hot tubs located inside the
+boundaries of a municipality within McHenry County are subject to the relevant
+municipal pool barrier regulation.
    B.   REQUIREMENTS
       1.   Usage: In no case shall a swimming pool, hot tub or spa be put into
 use until it is in compliance with the following requirements and any
@@ -10941,22 +11174,22 @@ normal construction tolerances and tooled masonry joints.
       7.   Barrier horizontal and vertical members less than 45 inches: Where
 the barrier is composed of horizontal and vertical members and the distance
 between the tops of the horizontal members is less than 45 inches, spacing
-between the vertical members shall not exceed 1¾ inches in width. Where there
+between the vertical members shall not exceed 1 ¾ inches in width. Where there
 are decorative cutouts within vertical members, spacing within the cutouts
-shall not exceed 1¾ inches in width.
+shall not exceed 1 ¾ inches in width.
       8.   Barrier horizontal and vertical members 45 inches or more: Where the
 barrier is composed of horizontal and vertical members of 45 inches or more,
 spacing between vertical members shall not exceed four (4) inches. Where there
 are decorative cutouts within vertical members, spacing within the cutouts
-shall not exceed 1¾ inches in width.
+shall not exceed 1 ¾ inches in width.
       9.   Mesh size for chain link: Maximum mesh size for chain link fences
-shall be a 1¼ inch square unless the fence is provided with slats fastened at
-the top or bottom which reduce the openings to no more than 1¾ inches.
+shall be a 1 ¼ inch square unless the fence is provided with slats fastened at
+the top or bottom which reduce the openings to no more than 1 ¾ inches.
       10.   Barrier diagonal members: Where the barrier is composed of diagonal
 members, such as a lattice fence, the maximum opening formed by the diagonal
-members shall be no more than 1¾ inches.
+members shall be no more than 1 ¾ inches.
       11.   Access gates: Access gates shall comply with the requirements of
-subsections B.1. through B.10. above, and shall be equipped to accommodate a
+subsections B.1 through B.10 above, and shall be equipped to accommodate a
 locking device. Pedestrian access gates shall open outwards away from the pool
 and shall be self-closing and have a self-latching device. Gates other than
 pedestrian access gates shall have a self-latching device. Where the release
@@ -10990,15 +11223,14 @@ from the provisions of this document. Swimming pools with safety covers shall
 not be exempt. ASTM F1346-91 (Replaces ES 13-89). Emergency performance
 Specification for Safety covers and labeling requirements for covers for Spas
 and Hot Tubs.
-         b.   Swimming pools/spas/ hot tubs located greater than 500 feet from
+         b.   Swimming pools/spas/hot tubs located greater than 500 feet from
 neighboring residence and that have been in existence prior to January 1, 1992
 shall be exempt from all requirements of §
 8.04.100, until such time that a neighboring residence is located within 500
 feet of the existing swimming pool.
          c.   The mesh size for chain link barriers in existence prior to
-October 18, 1994, that are no larger than 2¼ inches square, providing an
-opening of no more than 3-1/5 inches shall be exempt from subsection B.9.
-above.
+October 18, 1994, that are no larger than 2 ¼ inches square, providing an
+opening of no more than 3 1/5 inches shall be exempt from subsection B.9. above
          d.   Swimming pools/spas/hot tubs that have been in existence prior to
 January 1, 1992 and for which there exists an occupancy certificate issued by
 the County after August 21, 1990. This exemption shall only apply to pools,
@@ -11007,29 +11239,30 @@ spas, and hot tubs that have been issued an occupancy certificate under the
 BOCA National Building Code.
       16.   Variances:
          a.   Intent: it is the intent of §
-8.04.100 of the McHenry County Public Health Ordinance that all swimming pools,
-spas and hot tubs have an effective barrier to discourage access of youngsters
-(less than 5 years of age). However it is recognized that unique circumstances
-may exist that would preclude immediate compliance with all parts of §
-8.04.100 for swimming pools/spas/hot tubs in existence prior to January 1,
+8.04.100  of the McHenry County Public Health Ordinance that all swimming
+pools, spas and hot tubs have an effective barrier to discourage access of
+youngsters (less than 5 years of age). However, it is recognized that unique
+circumstances may exist that would preclude immediate compliance with all parts
+of §
+8.04.100  for swimming pools/spas/hot tubs in existence prior to January 1,
 1992.
          b.   Standards for a Variance: Variations from the regulations of this
 ordinance may be granted in each of the following instances:
             (1)   For the swimming pools/spas/hot tubs built prior to January
 1, 1992, and that require measurement specifications as set forth in this
-Ordinance, may be granted a variance provided that the “as built” configuration
+Ordinance, may be granted a variance provided that the "as built" configuration
 does not deviate by more than 15% of the measurement specifications. The
 Petitioner shall be exempt from the notice requirements of subsection B.16.c.
 below.
             (2)   
-               (a)   Furthermore, a Variance may be granted where evidence is
+               (a)    Furthermore, a Variance may be granted where evidence is
 presented and demonstrates:
-                  i.   The swimming pools/spas/hot tubs have been built prior
+                  i.    The swimming pools/spas/hot tubs have been built prior
 to January 1. 1992.
-                  ii.   The swimming pools/spas/ hot tubs are located 200 feet
+                  ii.    The swimming pools/spas/hot tubs are located 200 feet
 to 500 feet from a neighboring residence or less than fifty feet from a natural
 barrier.
-                  iii.   The granting of the variation will not be detrimental
+                  iii.    The granting of the variation will not be detrimental
 to the public welfare or injurious to other property or improvements in the
 neighborhood in which the property is located
                (b)   The Petitioner shall provide notice as set forth in
@@ -11040,7 +11273,7 @@ record of all property abutting the property designated in the petition for a
 variation. If said property designated in the Petition is bounded by a public
 road or street, alley or any other public way, such notice shall be sent to all
 of the most recent real estate taxpayers abutting the public road or street,
-alley or any other public way directly across the Petitioner’s property. All
+alley or any other public way directly across the Petitioner's property. All
 such notices shall be mailed not more than thirty (30) days nor less than
 fifteen (15) days in advance of filing the petition for variance. The
 Petitioner shall file a sworn affidavit containing a copy of the notice, the
@@ -11052,20 +11285,25 @@ within 10 days from the date of filing the petition, approve or disapprove the
 petition, notifying the petitioner to that effect in writing. A variance shall
 be valid for five (5) years.
          e.   Recording:
-            (1)   Where a petition is approved for a variance within 10 days of
-said approval, the Petitioner shall file for record with the recorder's office
-a notice of variance which shall prescribe the following information.
-               (a)   Grantee(s) name – Owner(s)
-               (b)   Grantee(s) Address
+            (1)   Where a petition is approved for a variance, within 10 days
+of said approval, the Petitioner shall file a record with the McHenry County
+Recorder's Office a notice of variance which shall prescribe the following
+information:
+               (a)    Grantee(s) name - Owner(s)
+               (b)    Grantee(s) Address
                (c)   Legal Description of the Property
-               (d)   Property Index Number
+               (d)    Property Index Number
                (e)   A statement of Variance and its Duration
                (f)   Name and Address of Preparer
-            (2)   The Petitioner shall submit to the Department a certified
-copy of the notice of variation within 10 days of its recording.
          f.   Appeals: Appeals may be made in accordance with Article I of the
 McHenry County Public Health Ordinance.
-(Ord. O-201711-51-031, passed 11-14-2017)
+      17   Swimming pools, spas and hot tubs located in unincorporated McHenry
+County that no longer meet the requirements of §
+8.04.100 B15 or §
+8.04.100 B16 shall be provided with a barrier that complies with the current
+requirements for swimming pool, spa and hot tub barriers, as enforced by the
+McHenry County Department of Planning & Development.
+(Ord. O-201711-51-031, passed 11-14-2017; Ord., passed 7-15-2025)
 ARTICLE III. FOOD
 § 8.04.110 PURPOSE.
    This Ordinance shall be liberally construed and applied to promote its
@@ -14626,40 +14864,40 @@ Illustration 7: Mound Design on a Sloping Site
 ILLUSTRATION 1: SYSTEM TYPES.
 Also see
 Table 1 and corresponding notes
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-42.png]
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 2: DETAIL OF LOW PRESSURE PIPE DISTRIBUTION.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-44.png]
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 3: WATER TABLE OBSERVATION Well Construction.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-46.png]
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 4: TYPE IV AT GRADE ON SLOPING SITE.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-48.png]
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-50.png]
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 5: TYPE IV AT GRADE LEVEL SITE.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-52.png]
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-54.png]
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 6: TYPE V MOUND SYSTEM LEVEL SITE.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-56.png]
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-58.png]
 BASAL AREA = (B) X (A+I+J)
 (Ord. O-201711-51-031, passed 11-14-2017)
 ILLUSTRATION 7: TYPE V MOUND SYSTEM SLOPING SITE.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-60.png]
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-62.png]
 BASAL AREA = (B) X (A+I)
 (Ord. O-201711-51-031, passed 11-14-2017)
@@ -19924,7 +20162,7 @@ Emergency Access driveways. All gates and related appurtenances shall be
 located outside of the County Highway right-of-way.
 (Ord. O-200811-82-068, passed 11-6-2008)
 § 10.12.230 ACCESS CLASSIFICATION MAP.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-64.png]
 (Ord. O-200811-82-068, passed 11-6-2008)
 ARTICLE V. REQUIRED HIGHWAY IMPROVEMENTS
@@ -20218,10 +20456,10 @@ Classification Map shall be based on the traffic volumes developed in the
 Traffic Impact Study and the requirements of
 Figure 10.12B.
    Figure 10.12A
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-66.png]
    Figure 10.12B
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-68.png]
 (Ord. O-200811-82-068, passed 11-6-2008)
 § 10.12.270 JOINT HIGHWAY IMPROVEMENTS.
@@ -28942,9 +29180,6 @@ due cause shown.
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, § 5.9; Ord. O-201803-ZBA-10-08,
 passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018)
 § 16.20.100 TEMPORARY USE PERMIT.
-Publisher's Note: This Section has been AMENDED by new legislation (Ord. O-
-202312-ZBA-074, passed 12-19-2023). The text of the amendment will be
-incorporated below when the amending legislation is codified.
    A.   Purpose. A temporary use permit authorizes the temporary use of land
 and structures for certain events and structures that are non-permanent in
 nature. A temporary use permit authorizes only those temporary uses that occur
@@ -28959,6 +29194,10 @@ determining compliance with this Ordinance and issuing a temporary use permit.
       1.    An application for a temporary use permit shall be filed with the
 Zoning Enforcement Officer in accordance with the requirements in §
 16.16.020 (Application) at least 30 days in advance of the date of the event.
+The Zoning Enforcement Officer may allow application close than 30 days in
+advance of the date of the event. An increased permit application fee may be
+assessed for permit applications submitted close than 30 days in advance of the
+date of the event.
       2.   The Zoning Enforcement Officer may grant temporary use permits for
 those temporary uses listed in §
 16.56.040 (Temporary Use Standards) when it is determined that the proposed
@@ -28971,7 +29210,7 @@ regulations. The Zoning Enforcement Officer or County Board may impose other
 conditions as part of the temporary use permit approval to achieve the purposes
 of this Ordinance and to protect the public health, safety, and welfare.
       4.   Multiple event periods require a temporary use permit for each
-scheduled event.
+scheduled event period.
       5.   The temporary use permit is issued for the days of the event. A
 temporary use permit is not required for the additional days necessary for
 event set-up or clean-up.
@@ -28986,22 +29225,23 @@ by a temporary use will not have undue detrimental effects on surrounding
 streets and uses, and does not block handicapped or fire lanes.
       4.   The temporary use will not unreasonably reduce the amount of parking
 spaces available for use in connection with any permanent uses located on the
-lot in question.
+same zoning lot.
       5.   The temporary use will not conflict with another previously
-authorized temporary use for the same site.
-      6.   Provisions have been made for waste disposal (solid and human) and
-for clearing debris, to be approved by the Department of Health.
+authorized temporary use for the same zoning lot.
+      6.   Provisions have been made for waste disposal (solid, animal, and
+human) and for clearing debris, to be approved by the Department of Health.
       7.   Temporary food establishments will be operated in accordance with
 County ordinances, to be approved by the Department of Health.
       8.   A security plan acceptable to the McHenry County Sheriff with
-security personnel provided by an Illinois-licensed security contractor agency
-licensed by the State of Illinois Department of Financial and Professional
-Regulations to provide such security services, or by the Sheriff’s Department.
+security personnel
+provided by an Illinois-licensed security contractor agency licensed by the
+State of Illinois Department of Financial and Professional Regulations to
+provide such security services, or by the Sheriff’s Department.
       9.   The location of paved or graded ingress and egress for emergency,
 police, and regulatory traffic, including parking areas and traffic control
 locations.
-      10.   General liability insurance is required for all temporary use
-events. If the temporary use permit is for a fireworks display, the County
+      10.   General liability insurance in an amount determined by the Zoning
+Enforcement Officer is required for all temporary use events. McHenry County
 shall be listed as a named insured. Additionally, dram shop insurance is
 required for any temporary use event at which liquor is to be sold.
       11.   If applicable, the appropriate liquor license, issued pursuant to
@@ -29009,18 +29249,18 @@ the McHenry County Liquor Control Ordinance.
       12.   All other state and/or federal permits have been issued, as
 required.
       13.   The maximum number of persons to be on-site per day, including
-participants and spectators.
+staff, participants and spectators.
       14.   All structures used for a temporary use meet the building-code
 requirements for that occupancy.
       15.   The time required for event set-up and tear-down is specified and
-reasonable.
+reasonable, as determined by the Zoning Enforcement Officer.
       16.   All temporary use events with an anticipated attendance of greater
-than 2,500 shall have an Incident Action Plan approved by the McHenry County
-Emergency Management Agency. The Incident Action Plan shall include law
-enforcement, fire, public health, and public works/transportation roles and
-responsibilities during the operational periods of the event. The McHenry
-County Emergency Management Agency will coordinate development of the Incident
-Action Plan with the applicant and appropriate agencies.
+than 500 at any given time shall have an Incident Action Plan approved by the
+McHenry County Emergency Management Agency. The Incident Action Plan shall
+include law enforcement, fire, public health, and public works/transportation
+roles and responsibilities during the operational periods of the event. The
+McHenry County Emergency Management Agency will coordinate development of the
+Incident Action Plan with the applicant and appropriate agencies.
    F.   Violations. Noncompliance with this section or violation of any terms
 of a temporary use permit may result in the reduction of the number of
 temporary use permits for which a property is eligible in a calendar year, or
@@ -29029,7 +29269,8 @@ property for a period of one (1) year from the date of the noncompliance or
 violation.
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, § 5.10; Ord. O-201803-ZBA-10-08,
-passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018)
+passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. O-2023-12-ZBA-
+074, passed 12-19-2023)
 CHAPTER 16.24: SUBDIVISION APPLICATIONS
 Section
    
@@ -30677,9 +30918,6 @@ and any other applicable County ordinances.
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, § 8.5; Ord. O-201803-ZBA-10-08,
 passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018)
 § 16.32.060 ZONING DISTRICT USES.
-Publisher's Note: This Section has been AMENDED by new legislation (Ord. O-
-202312-ZBA-074, passed 12-19-2023). The text of the amendment will be
-incorporated below when the amending legislation is codified.
    
 Table 16.32-1 : Zoning District Uses lists permitted, conditional, and
 temporary uses for the zoning districts of this Ordinance.
@@ -30900,7 +31138,7 @@ Temporary Contractor’s T    T  T  T  T  T  T  T  T  T  T  T T  T  16.56.040B.
 Office
 Temporary Emergency      T  T  T  T  T  T  T  T  T             16.56.040C.
 Residence
-Temporary Entertainment  T                  T  T  T  T T    16.56.040D.
+Temporary Entertainment  T  T                T  T  T  T T    16.56.040D.
 Event
 Temporary Farmers Market T  T  T              T  T  T  T T    16.56.040E.
 Temporary Fireworks      T  T  T  T  T  T  T  T  T  T  T  T  T T  T  16.56.040F.
@@ -30951,8 +31189,8 @@ operation.
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016; Ord. O-201803-ZBA-10-08, passed
 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. O-201911-ZBA-057,
-passed 11-19-2019; Ord. O-202201-ZBA- 002, passed 1-18-2021; Ord. O-202304-12-
-016, passed 4-18-2023)
+passed 11-19-2019; Ord. O-202201-ZBA-002, passed 1-18-2021; Ord. O-202304-12-
+016, passed 4-18-2023; Ord. O-202312-ZBA-074, passed 12-19-2023)
 CHAPTER 16.36: AGRICULTURAL ZONING DISTRICTS
 Section
    
@@ -31273,6 +31511,8 @@ Section
 Resource Groundwater Protection Areas Overlay Districts
    
 16.52.040   Legacy Neighborhood Overlay District
+   
+16.52.050   Bay View Beach on the Fox River Subdivision Overlay District
 § 16.52.010 PURPOSE.
    Overlay zoning districts create special controls in certain areas of the
 County that have special characteristics or development issues. The intent of
@@ -31537,6 +31777,54 @@ established in this section shall apply.
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, § 13.5, 13.4; Ord. O-201803-ZBA-
 10-08, passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. O-201911-
 ZBA-057, passed 11-19-2019; Ord. O-202201-ZBA-002, passed 1-18-2021)
+§ 16.52.050 BAY VIEW BEACH ON THE FOX RIVER SUBDIVISION OVERLAY DISTRICT.
+   A.   Purpose. The Bay View Beach on the Fox River Subdivision Overlay
+District is intended to accommodate redevelopment and rehabilitation of
+accessory structures on specific nonconforming water-covered lots and parcels
+created prior to March 4, 2025.
+   B.   Eligibility of Lots and Parcels.
+      1.   For a lot or parcel to be eligible for the Bay View Beach on the Fox
+River Subdivision Overlay District supplemental standards, it must meet the
+following criteria:
+         a.   The lot or parcel must be located within the Bay View Beach on
+the Fox River Subdivision Overlay District mapped area (see Appendix B)
+         b.   The lot or parcel must have been recorded in the McHenry County
+Recorder's Office prior to March 4, 2025.
+   C.   Bay View Beach on the Fox River Subdivision Overlay District
+Supplemental Standards. Bay View Beach on the Fox River Subdivision Overlay
+District supplemental standards are a set of allowances and flexibilities
+affecting standards for development.
+      1.   Supplemental Standards for Accessory Structures.
+         a.   Accessory structures which were constructed prior to March 4,
+2025, may be replaced, altered, or rehabilitated so long as the new structure
+does not exceed the footprint. height. and setbacks of the existing accessory
+structure, when such development does not comply with Table 16.52-2: Bay View
+Beach on the Fox River Overlay District Bulk and Setback Regulations.
+         b.   Accessory structures which do not meet §
+16.52.050.C.1.a requirements must comply with Table 16.52-2: Bay View Beach on
+the Fox River Overlay District Bulk and Setback Regulations.
+      2.   Permits for accessory structures on parcels meeting
+16.52.050.B. eligibility may not be issued until a deed restriction is recorded
+tying the property with the accessory structure with a parcel under common
+ownership within the Bay View Beach on the Fox River Subdivision.
+      3.   Structures may be rehabilitated, replaced, altered, or expanded so
+long as such development complies with Table 16.52-2: Bay View Beach on the Fox
+River Subdivision Overlay District Bulk and Setback Regulations.
+Table 16.52-2: Bay View Beach on the Fox River Subdivision Overlay District
+Bulk and Setback Regulations
+Table 16.52-2: Bay View Beach on the Fox River Subdivision Overlay District
+Bulk and Setback Regulations
+                                   Accessory Structures
+Maximum Building Height             35'
+Maximum Building Coverage           50%
+Maximum Impervious Surface Coverage 50%
+Minimum Street Setback              5'
+Minimum Interior Side Setback       5'
+Minimum Waterfront Rear Setback1    0'
+Minimum Space Between Structures    5'
+ 
+(Ord. Z25-0037, passed 8-19-2025)
+ 
 CHAPTER 16.56: USE STANDARDS
 Section
    
@@ -34068,9 +34356,6 @@ passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. O-201911-ZBA-
 057, passed 11-19-2019; Ord. O-202201-ZBA-002, passed 1-18-2021; Ord. O-202304-
 12-016, passed 4-18-2023)
 § 16.56.040 TEMPORARY USE STANDARDS.
-Publisher's Note: This Section has been AMENDED by new legislation (Ord. O-
-202312-ZBA-074, passed 12-19-2023). The text of the amendment will be
-incorporated below when the amending legislation is codified.
    A temporary use permit (see §
 16.20.100, Temporary Use Permit) is required for temporary uses. Such permits
 are issued in accordance with the procedures established in §
@@ -34157,12 +34442,13 @@ times.
          e.   A description of crowd control and security measures with
 security personnel provided by an Illinois-licensed security contractor agency
 licensed by the State of Illinois Department of Financial and Professional
-Regulations to provide such security services, or by the Sheriff’s Department.
+Regulations to provide such security services, or by the McHenry County
+Sheriff’s Department.
       2.   Temporary entertainment events are limited to three (3) events per
 calendar year, with a minimum of four (4) days between events, and a maximum
-duration of three (3) days per event, in any district except for residential
-zoning districts, which are limited to one (1) event with a maximum duration of
-one (1) day.
+duration of three (3) days per event, in any district except for estate and
+residential zoning districts, on parcels with a minimum lot area of five (5)
+acres.
       3.   Any permanent structures utilized during the event must meet all
 building code requirements for the proposed occupancy.
       4.   All outdoor sales areas, outdoor seating areas, outdoor activities,
@@ -34191,6 +34477,14 @@ capacity, as determined by the Health Department.
          e.   Campfire and bonfire locations must be shown on the site plan but
 will be allowed only if there is no objection by the fire department having
 jurisdiction.
+      8.   Rodeos are subject to the following additional standard:
+         a.   All Illinois Licensed Doctor of Veterinary Medicine must be
+present and available to treat animals throughout the duration of the event.
+         b.   Emergency medical services provided or approved by the regulating
+Fire District shall be on site for the duration of the event.
+         c.   Lighting shall be provided along the ingress and egress aisles
+including parking areas and traffic control locations. Ambient lighting levels
+shall be no less than 5 footcandles.
    E.   Temporary Farmers Market.
       1.   Except in the commercial, office, and industrial zoning districts,
 temporary farmers market events must be incidental to and directly supportive
@@ -34319,7 +34613,7 @@ jurisdiction.
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, § 14.4; Ord. O-201803-ZBA-10-08,
 passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. O-202208-ZBA-
-031, passed 8-16-2022)
+031, passed 8-16-2022; Ord. O-202312-ZBA-074,passed 12-19-2023)
 § 16.56.050 ACCESSORY STRUCTURE AND USE STANDARDS.
    All accessory structures and uses are subject to the requirements of this
 section and the requirements of §
@@ -34622,7 +34916,7 @@ yard.
          c.   Open fences are exempt from building permits, however
 construction in or near a floodplain or wetland area may require a stormwater
 review or stormwater permit.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2195.jpg]
  
    I.   Home Occupations. A home occupation is an accessory use, and shall be
@@ -35121,7 +35415,7 @@ lot lines between the front, interior side, and rear lot lines, for the
 required minimum depth specified by the zoning district in which the lot is
 located, measured perpendicular to the applicable lot line.
 Figure 16.60-1: Required Setbacks
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2197.jpg]
  
          a.    For residential uses in the agricultural and residential zoning
@@ -35281,7 +35575,7 @@ the side of the principal building to the interior side lot.
       3.   The effective rear yard extends from the closest point of the rear
 of the principal building to the rear lot line.
 Figure 16.60-2: Effective Yards
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2199.jpg]
  
    E.   Contiguous Lots or Parcels. In the event that the construction of a
@@ -35305,7 +35599,7 @@ building heights.
 16.56.050A. (Accessory Structures – General Regulations) for accessory
 structure height limits.
 Figure 16.60-3: Principal Building Height Measurement
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2201.jpg]
  
       2.   Exempt Structures. The following structures or their appurtenances
@@ -35347,7 +35641,7 @@ Figure 16.60-4)
 long as it is done in conjunction with a temporary use permit or for primarily
 decorative purposes, such as holiday lighting.
 Figure 16.60-4: Exterior Lighting
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2203.jpg]
  
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
@@ -35459,7 +35753,7 @@ improvement requirements of buffer yards between land uses and/or zoning
 districts within the rear or interior side yard. (See
 Figure 16.60-5: Buffer Yard Landscape)
 Figure 16.60-5: BUFFER YARD LANDSCAPE
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2205.jpg]
  
       1.   As of the effective date of this Ordinance, buffer yards are
@@ -35554,7 +35848,7 @@ through curbing or alternate designs to prevent damage to landscape from
 vehicles. Protection designs that allow water to infiltrate into landscape are
 encouraged.
 Figure 16.60-6: Parking Lot Perimeter Landscape
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2293.jpg]
  
       3.   Parking Lot Interior Landscape. (See
@@ -35588,7 +35882,7 @@ curbing or alternate designs to prevent damage to landscape from vehicles.
 Protection designs that allow water to infiltrate into landscape are
 encouraged.
 Figure 16.60-7: Interior Parking Lot Landscape
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2297.jpg]
  
 (Ord. O-201803-ZBA-10-08, passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-
@@ -35859,7 +36153,7 @@ spaces are identified as being restricted to compact cars.
       6.   All parking spaces shall have a minimum vertical clearance of seven
 (7) feet.
 Figure 16.64-1: Off-Street Parking Dimensions
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2303.jpg]
  
  
@@ -35948,7 +36242,7 @@ the site and do not obstruct access to required parking or loading spaces.
    D.   Stacking spaces shall begin behind the vehicle parked at a last point
 of service, such as a service window or car wash bay.
 Figure 16.64-2: Stacking Spaces 
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2305.jpg]
  
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
@@ -36271,7 +36565,7 @@ adjacent property owners have been contacted in writing regarding the provision
 of cross-access. (See
 Figure 16.64-3: Cross-Access Easement)
 Figure 16.64-3: Cross-Access Easement
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2319.jpg]
  
       2.   Joint use driveways and cross-access easements shall incorporate the
@@ -36494,7 +36788,7 @@ be permitted to install and maintain signage on the adjacent parcel at the
 point of access, provided such signage shall meet all other requirements of
 this ordinance.
 Figure 16.72-1: Sight Triangle
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2325.jpg]
  
 (Ord. O-20141 0-10-035, passed 10-14-201 4; Ord. O-201601 -ZBA-00 6, passed 1-
@@ -36577,15 +36871,15 @@ that the sign complies with the maximum illumination standards.
       7.   All digital signs must be programmed to automatically revert to a
 full black screen in the event of a malfunction.
 Figure 16.72-2: Measurement of Sign Area
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2339.jpg]
  
 Figure 16.72-3: Computation of Sign Angle for Sign Area
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2337.jpg]
  
 Figure 16.72-4: Measure ment of Sign Height
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2335.jpg]
  
    D.   Audio. No sign may emit sounds, including recorded messages and/or
@@ -36754,7 +37048,7 @@ roof sheltering fuel pumps at gas stations. Such signs are regulated as wall
 signs.
       7.   Digital sign components are prohibited.
 Figure 16.72-7: Awnings and Canopies
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2349.jpg]
  
    B.    Ground Signs.
@@ -36811,7 +37105,7 @@ I-1 District 50sf              8'           60 sf             25'
 I-2 District 50sf              8'           60 sf             25'
  
 Figure 16.72-8: Ground Sign
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2347.jpg]
  
    C.   Projecting Sign.
@@ -36838,7 +37132,7 @@ permitted on projecting signs provided that illumination is concentrated on the
 area of the sign face only. Projecting signs may be internally illuminated.
       7.   Projecting signs shall not contain a digital sign component.
 Figure 16.72-9: Projecting Sign
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2345.jpg]
  
    D.   Wall Sign.
@@ -36867,7 +37161,7 @@ the total sign area.
       7.   Wall signs must maintain a minimum vertical clearance of seven feet
 and six inches (7' 6") above the ground.
 Figure 16.72-10: Wall Sign
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2343.jpg]
  
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
@@ -38411,7 +38705,7 @@ nonconformity.
 lot area and/or minimum lot frontage and will not create any new nonconformity.
          e.   When specifically permitted by this Ordinance.
 Figure 16.80-1: Nonconforming Structure Examples
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2371.jpg]
  
       2.   In the event that any nonconforming structure is damaged or
@@ -38447,7 +38741,7 @@ structure complies with the required side yard setbacks and does not increase
 the degree of the existing nonconformity or otherwise violate this Ordinance.
 (See Figure 16.80-2: Vertical Extension of Nonconforming Walls)
 Figure 16.80-2: Vertical Extension of Nonconforming Walls
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2377.jpg]
  
 (Ord. O-201410 -10-035, passed 10-14-201 4; Ord. O-201601- ZBA-006, passed 1-
@@ -38587,38 +38881,45 @@ III Special Resources Groundwater Protection areas identified by the Illinois
 Pollution Control Board, and as may be amended from time to time.
    •   The Legacy Neighborhood (LN) Overlay District is identified by the
 included maps.
+   •   The Bay View Beach on the Fox River Subdivision Overlay District is
+identified by he included map.
 (Ord. O-201410-10-035, passed 10-14-2014; Ord. O-201601-ZBA-006, passed 1-19-
 2016; Ord. O-201603-ZBA-010, passed 3-17-2016, App. B; Ord. O-201803-ZBA-10-08,
-passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018)
+passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018; Ord. Z25-0037, passed
+8-19-2025)
    SARA OVERLAY DISTRICT
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2403.jpg]
  
    CLASS III OVERLAY DISTRICT
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2401.jpg]
  
    LEGACY WATERFRONT NEIGHBORHOOD (LN) OVERLAY DISTRICT
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2399.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2397.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2395.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2393.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2391.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2389.jpg]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2387.jpg]
+ 
+   Bay View Beach on the Fox Rive Subdivision Overlay District Map
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
+IMAGES/0-0-0-2923.jpg]
  
 APPENDIX C: BEST MANAGEMENT PRACTICES FOR WIND ENERGY SYSTEMS.
 OVERVIEW
@@ -38737,7 +39038,7 @@ passed 3-19-2018; Ord. O-201808-10-033, passed 8-21-2018)
 APPENDIX D: ROAD CLASSIFICATION MAP.
    Refer to the following map and descriptions to determine the location of
 arterials and strategic regional arterials in the County.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2470.jpg]
  
 ARTERIALS
@@ -41605,7 +41906,7 @@ utility and service devices, and has no permanently attached additions.
 FIGURE 1
 How to Elevate Your Floodplain Building
 (IDNR Floodplain Management in Illinois Quick Guide, 2001)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2560.jpg]
  
             ( 2)    Elevation on a crawl space, stilts, piles, walls, etc. A
@@ -41640,7 +41941,7 @@ where the requirements of this Ordinance exceed FEMA guidelines;
    FIGURE 2
    Enclosures Below the BFE
 (IDNR Floodplain Management in Illinois Quick Guide, 2001)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2558.jpg]
  
                v.    The foundation and supporting members shall be anchored
@@ -41712,7 +42013,7 @@ requirements of this Ordinance exceed FEMA guidelines.
 FIGURE 3
 Accessory Structures
 (IDNR Floodplain Management in Illinois Quick Guide, 2001)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2556.jpg]
  
       1 2.    Substantial Improvement Standards. In addition to other
@@ -42848,32 +43149,32 @@ above that accomplished by FEMA and IDNR/OWR.
 (Ord. O-2020-09-15, passed 9-19-2020)
 APPENDICES
 § 17.60.150 APPENDIX 1: PERMITTING FLOWCHARTS.   
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2871.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2873.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2875.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2877.png]
  
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2879.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2881.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2883.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2885.png]
  
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2887.png]
 (Ord. O-2020-09-15, passed 9-15-2020; Ord. O-202009-10-030, passed 9-15-2020)
 § 17.60.160 APPENDIX 2: STANDARD SOIL EROSION AND SEDIMENT CONTROL NOTES.
@@ -42969,7 +43270,7 @@ COUNTY.
    Angel, J. R., M. Markus, K. A. Wang, B. M. Kerschner, S. Singh. 2020.
 Precipitation Frequency Study for Illinois. Illinois State Water Survey
 Bulletin 75, Champaign, IL.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2851.png]
  
  
@@ -43069,11 +43370,11 @@ shall only be allowed where all habitable buildings are above the BFE.
 § 17.60.200 APPENDIX 6: DETENTION VOLUME VS. PERCENT IMPERVIOUS CHART FOR
 MCHENRY COUNTY.
 Unit Area Detention Volume (NIPC, 1991)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2603.jpg]
 (Ord. O-2020-09-15, passed 9-15-2020)
 § 17.60.220  APPENDIX 7: IDNR/OWR DAM SAFETY PERMIT FLOWCHART.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2601.jpg]
 (Ord. O-2020-09-15, passed 9-15-2020)
 § 17.60.230 APPENDIX 8: PUBLIC BODIES OF WATER IN MCHENRY COUNTY.
@@ -43097,7 +43398,7 @@ NOTE: The above lists are provided by IDNR/OWR. An IDNR/OWR permit is required
 for regulated development within the listed waterways and adjacent wetlands.
 (Ord. O-2020-09-15, passed 9-15-2020)
 § 17.60.240 APPENDIX 9: MCHENRY COUNTY WATERSHEDS.
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2611.jpg]
  
 (Ord. O-2020-09-15, passed 9-15-2020)
@@ -43513,7 +43814,7 @@ equivalent compensatory storage for all lost floodplain storage volume.
    FIGURE 4
    Understanding the Floodway
 (IDNR Floodplain Management in Illinois Quick Guide, 2001)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2621.jpg]
  
        detention facility (detention pond/detention basin): A man-made
@@ -43615,7 +43916,7 @@ floodway.
 prone area subject to the base flood.
    FIGURE 5
    Flood Hazard Areas
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2619.jpg]
  
       Flood Hazard Area Development: Regulated development located partially or
@@ -43648,7 +43949,7 @@ AR, AR/AE, AR/AO, AR/AH, or AR/A.
    FIGURE 6
    Understanding the Riverine Floodplain
    (IDNR Floodplain Management in Illinois Quick Guide, 2001)
-[https://export.amlegal.com/media/38534809c61127d0edbdfc562dc063c115658fd8/
+[https://export.amlegal.com/media/dc35502b86a4338eaea1c8b43c1d7ab28c96f219/
 IMAGES/0-0-0-2617.jpg]
  
       floodplain management: An overall program of corrective and preventive
@@ -44508,10 +44809,10 @@ ILCS Cites                       Code Section
 510 ILCS 5/1 et seq.             8.04.830
 510 ILCS 5/1                     8.04.820
 510 ILCS 6/7                     8.04.870
-510 ILCS 201/                    16.56.050
 510 ILCS 70/1                    8.04.820
 510 ILCS 70/3                    8.04.820
 510 ILCS 70/13                   8.04.820
+510 ILCS 201/                    16.56.050
 520 ILCS 10/11                   16.56.030 ,
                                  17.60.050
 525 ILCS 30/                     16.08.020
@@ -45005,6 +45306,15 @@ O-202301-12-003    1-17-2023   16.24.010—
 O-202304-12-016    4-18-2023   16.20.050,
                                16.32.060,
                                16.56.030
+O-202312-018-078   12-19-2023  5.08.010—
+                               5.08.340
+                               16.20.100,
+O-202312-ZBA-074   12-19-2023  16.32.060,
+                               16.56.040
+-                  7-15-2025   8.04.080 —
+                               8.04.100
+Z25-0037           8-19-2025   16.52.050,
+                               Title 16 App. B
                               
  
  
