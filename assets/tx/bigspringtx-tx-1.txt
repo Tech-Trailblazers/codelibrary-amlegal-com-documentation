@@ -1,7 +1,7 @@
 BIG SPRING, TEXAS
 CITY CODE
-2025 S-2 Supplement contains:
-Legislation current through Ord. 009-2025, passed 5-13-2025
+2026 S-3 Supplement contains:
+Legislation current through Ord. 042-2025, passed 12-9-2025
  
 Published by:
 American Legal Publishing
@@ -235,12 +235,28 @@ Charter Amd. of 11- 2-2021   Include      6
 026-2024        7-23-2024    Include      2025 S-1
 031-2024        9-24-2024    Omit         2025 S-1
 032-2024        10-8-2024    Include      2025 S-1
-001-2025        1-28-2025    Include      2025 S-1
-003-2025        3-25-2025    Include      2025 S-1
-005-2025        4-8-2025     Include      2025 S-1
-006-2025        4-22-2025    Include      2025 S-1
-008-2025        5-13-2025    Include      2025 S-1
-009-2025        5-13-2025    Include      2025 S-1
+001-2025        1-28-2025    Include      2025 S-2
+003-2025        3-25-2025    Include      2025 S-2
+005-2025        4-8-2025     Include      2025 S-2
+006-2025        4-22-2025    Include      2025 S-2
+008-2025        5-13-2025    Include      2025 S-2
+009-2025        5-13-2025    Include      2025 S-2
+010-2025        5-27-2025    Include      2026 S-3
+014-2025        6-24-2025    Include      2026 S-3
+015-2025        7-8-2025     Include      2026 S-3
+016-2025        7-8-2025     Include      2026 S-3
+017-2025        7-8-2025     Include      2026 S-3
+020-2025        8-26-2025    Include      2026 S-3
+023-2025        9-23-2025    Include      2026 S-3
+029-2025        9-23-2025    Include      2026 S-3
+030-2025        9-23-2025    Include      2026 S-3
+032-2025        10-28-2025   Include      2026 S-3
+033-2025        10-28-2025   Include      2026 S-3
+034-2025        10-28-2025   Omit         2026 S-3
+035-2025        10-28-2025   Include      2026 S-3
+036-2025        10-14-2025   Include      2026 S-3
+037-2025        10-28-2025   Include      2026 S-3
+042-2025        12-9-2025    Include      2026 S-3
  
 PART I
 CHARTER OF THE CITY OF BIG SPRING 1
@@ -1409,9 +1425,24 @@ special, although permanent in effect.
    (b)   All such ordinances or resolutions are hereby recognized as continuing
 in full force and effect to the same extent as if set out at length in this
 Code.
+Sec. 1-12. Removal of the mental state element for offenses punishable by a
+$500.00 fine or less.
+   Unless otherwise specifically set forth in this Code, or in superior law,
+allegations and evidence of a culpable mental state are not required for proof
+of an offense for which the maximum fine is $500.00 or less.
+(Ord. 014-2025, § 2, 6-24-2025)
 Chapter 2 ADMINISTRATION
 ARTICLE I. IN GENERAL
-Secs. 2-1—2-18. Reserved.
+Sec. 2-1. Exemption of city property from execution.
+   Any property owned or held by the City of Big Spring is not subject to any
+kind of execution.
+(Ord. No. 010-2025, § 2, 5-27-2025)
+Sec. 2-2. Exemption of city from garnishment.
+   No fund of the city shall be subject to garnishment and neither the city nor
+any of its officers or agents shall ever be required to answer in any
+garnishment proceedings.
+(Ord. No. 010-2025, § 3, 5-27-2025)
+Secs. 2-3—2-18. Reserved.
 ARTICLE II. CITY COUNCIL
 Sec. 2-19. Reimbursement of expenses of city council.
    (a)   Certain expenses of a nonpersonal and city-related nature may be
@@ -1508,20 +1539,16 @@ council
    (c)   Submission deadlines. Items submitted for inclusion in a meeting
 agenda shall be delivered or transmitted to the city manager no later than as
 follows:
-      (1)   Ordinances and resolutions shall be in writing and be delivered or
-transmitted to the city manager by 12:00 p.m. the Thursday preceding the
-regular council meeting. Copies of the proposed ordinance or resolution, in the
-form required for adoption, shall be available at the office of the city
-secretary and shall be furnished to citizens, upon request to the city
-secretary, before first reading and, if amended, shall be available and
-furnished in the amended form for as long as the proposed ordinance is before
-council.
-      (2)   Any agenda item, other than an ordinance or resolution, shall be in
-writing and be delivered or transmitted to the city manager by 5:00 p.m. on the
-Tuesday previous to the regular Tuesday meeting or at least 72 hours in advance
-of any other scheduled meeting, except for emergency items and emergency
-meetings.
-      (3)   Emergency items may be added to the agenda up to two hours previous
+      (1)   Any agenda items shall be in writing and be delivered or
+transmitted to the city manager or the city secretary no later than two (2)
+days before the required posting day of three (3) business days before the
+scheduled date of the meeting, with exceptions upon approval of the city
+manager. Copies of the proposed ordinance or resolution, in the form required
+for adoption, shall be available at the office of the city secretary and shall
+be furnished to citizens, upon request to the city secretary, before first
+reading and, if amended, shall be available and furnished in the amended form
+for as long as the proposed ordinance is before council.
+      (2)   Emergency items may be added to the agenda up to two hours previous
 to a meeting. Cases of emergency and urgent public necessity are limited to
 imminent threats to public health and safety or reasonably unforeseeable
 situations requiring immediate action by the city council.
@@ -1536,22 +1563,25 @@ item from an agenda except pursuant to this subsection.
 first reading shall be included for a second reading no later than the
 subsequent regular agenda.
 (Prior Code, § 1-173; Ord. No. 012-2020, § 3, 4-28-2020; Ord. No. 029-2021, §
-1, 6-22-2021; Ord. No. 020-2022, § 1, 6-14-2022)
+1, 6-22-2021; Ord. No. 020-2022, § 1, 6-14-2022; Ord. No. 020-2025, § 1, 8-26-
+2025)
 Sec. 2-23. Regular, emergency and special meetings.
    (a)   The regular meetings of the city council are held at 5:30 p.m. on the
 second and fourth Tuesdays of each month. The agenda of regular meetings shall
-be posted at least 72 hours in advance.
+be posted at least three (3) business days before the scheduled date of the
+meeting.
    (b)   An emergency meeting may be announced two hours previous to such a
 meeting.
    (c)   An emergency or special meeting shall be called by any of the
 following: the mayor; three council members; the city secretary; or the city
 manager.
-   (d)   A special meeting shall be publicly announced pursuant to the 72-hour
-advance notification procedure.
+   (d)   A special meeting shall be publicly announced pursuant to the three
+(3) business days before the scheduled date of the meeting.
    (e)   Posting agendas shall follow the requirements of the Texas Open
 Meetings Act, codified as Government Code Chapter 551, the Charter, and
 Ordinances.
-(Prior Code, § 1-174; Ord. No. 012-2020, § 4, 4-28-2020)
+(Prior Code, § 1-174; Ord. No. 012-2020, § 4, 4-28-2020; Ord. No. 020-2025, §
+2, 8- 26-2025)
 State law reference(s)—Notice of meetings, Texas Government Code §§ 551.043,
 551.045.
 Sec. 2-24. Executive sessions.
@@ -1588,9 +1618,9 @@ the Texas Open Meetings Act, codified as Government Code Chapter 551, shall be
 observed in calling workshop sessions.
       (1)   Workshops to be called. Workshops shall be called by the city
 secretary upon request of the mayor, city manager, or a majority of the members
-of the city council and shall be publicly announced pursuant to the 72-hour
-notification procedure, as required by the Texas Open Meetings Act, codified as
-Government Code Chapter 551.
+of the city council and shall be publicly posted at least three (3) business
+days before the scheduled date of the workshop, as required by the Texas Open
+Meetings Act, codified as Government Code Chapter 551.
       (2)   Workshop agenda. The workshop agenda shall be prepared by the city
 manager and shall include any items requested by councilmembers. Deliberations,
 as defined by the Texas Open Meetings Act (Texas Government Code ch. 551),
@@ -1599,7 +1629,8 @@ shall only be held on those items described in a timely posted workshop agenda.
 departments shall require the department head to be present.
       (4)   Priorities. One workshop per year shall be devoted entirely to the
 review and establishment of short and long range city priorities.
-(Prior Code, § 1-176; Ord. No. 012-2020, § 6, 4-28-2020)
+(Prior Code, § 1-176; Ord. No. 012-2020, § 6, 4-28-2020; Ord. No. 020-2025, §
+3, 8- 26-2025)
 Sec. 2-26. Media.
    (a)   All regular meetings, special meetings, emergency meetings, workshop
 meetings, and city board meetings will be called and conducted in accordance
@@ -1690,24 +1721,27 @@ Ord. of 9-27-2016; Ord. No. 047-2019, § 1, 12-10-2019; Ord. No. 016-2022, § 1,
 Sec. 2-58. Director of finance.
    (a)   The city manager shall appoint the director of finance and may remove
 him or her at will.
-   (b)   Pursuant to its authority under the Charter of the City of Big Spring,
-Article VI, Section 12, city council hereby reassigns those duties listed in
-subsection (c) from the city secretary to the director of finance.
-   (c)   The director of finance is assigned the following duties: that of the
-general accountant of the city and keeping regular accounts of the receipts and
-disbursements of the city; showing under proper heads each cause of receipt or
-disbursement; keeping a register of bonds and other evidences of indebtedness
-issued by the city, of all evidences of indebtedness due and payable to the
-city, noting the particulars thereof; and examining all claims and accounts
-filed against the city and noting approval of such as are found correct and
-disapproval of others.
+   (b)   Reserved.
+   (c)   The director of finance shall be the head of the department of
+finance, and is assigned the following duties: that of the general accountant
+of the city and keeping regular accounts of the receipts and disbursements of
+the city; showing under proper heads each cause of receipt or disbursement;
+keeping a register of bonds and other evidences of indebtedness issued by the
+city, of all evidences of indebtedness due and payable to the city, noting the
+particulars thereof; and examining all claims and accounts filed against the
+city and noting approval of such as are found correct and disapproval of
+others.
    (d)   The director of finance shall have the duties of the city treasurer.
    (e)   The director of finance shall have other duties as the city manager
 may direct.
    (f)   The duty to countersign all warrants drawing money upon city accounts
 shall remain that of the city secretary.
-(Ord. No. 008-2021, § 1, 2-9-2021)
-Secs. 2-59—2-87. Reserved.
+(Ord. No. 008-2021, § 1, 2-9-2021; Ord. No. 033-025, § 1, 10-28-2025)
+Sec. 2-59. Director of public works.
+   The city manager shall appoint the director of public works and may remove
+him or her at will.
+(Ord. No. 033-025, § 2, 10-28-2025)
+Secs. 2-60—2-87. Reserved.
 ARTICLE IV. EMPLOYEES BENEFITS
 DIVISION 1. GENERALLY
 Sec. 2-88. Withdrawal from social security; establishment of deferred
@@ -1970,11 +2004,10 @@ Code § 853.404(d).
 Secs. 2-120—2-136. Reserved.
 ARTICLE V. FINANCE
 DIVISION 1. GENERALLY
-Sec. 2-137. Exemption of city from garnishment.
-   Pursuant to V.T.C.A., Local Government Code § 101.023, no fund of the city
-shall be subject to garnishment and neither the city nor any of its officers or
-agents shall ever be required to answer in any garnishment proceedings.
-(Prior Code, § 7-18; Ord. of 10-8-1985; Ord. No. 025-2021, § 1, 6-8-2021)
+Sec. 2-137. Reserved.
+   Editor’s note—Ord. No. 010-2025, § 3, adopted June 2, 2025 moved § 2- 137 to
+§ 2-2, and is derived from Prior Code, § 7-18, Ord. of 10-8-1985; Ord. No. 025-
+2021, § 1, 6-8-2021.
 Sec. 2-138. Returned checks, service charge.
    A service charge of $25.00 shall be levied against the drawer of any bill of
 exchange payable to the city and not honored by the drawer. Anyone levying a
@@ -2017,31 +2050,35 @@ payment of rental to the city.
 (Prior Code, § 1-23; Ord. of 12-9-1980)
 Secs. 2-141—2-163. Reserved.
 DIVISION 2. CAPITAL REPLACEMENT FUND
-Sec. 2-164. Capital Replacement Fund.
-   There is hereby established a fund account to be known as the Capital
-Replacement Fund (CRF). Said fund shall be for the purpose of financing capital
-improvements, new capital equipment and/or replacement of capital equipment for
-the departments within the city. The funds currently in the account number 06
-and future funds, specifically allocated to the CRF by city council, pay back
-and interest from departments securing loans from the fund shall be maintained
-in this account.
-(Prior Code, § 1-116; Ord. of 3-27-1990)
-Sec. 2-165. Loan approvals.
-   (a)   The major division directors may submit to the city manager proposals
-for the acquisitions of new capital equipment, replacement capital equipment
-and/or capital improvements within their area of responsibility. The request
-must be fully justified and funds must be available in the CRF for the project.
-After review, the city manager may forward the request to the city council for
-their consideration. The city council, upon favorable consideration of the
-request, shall pass a resolution delineating the authorization of the funds,
-the payback period and interest rate to be paid for the use of the monies.
-   (b)   The division director, upon second reading of the resolution
-authorizing the funds, shall follow the procedures outlined in the purchasing
-manual for the procurement of the equipment, facilities or services.
-   (c)   The division director shall include the annual payment of principal
-and interest in the department budget proposals.
-(Prior Code, § 1-117; Ord. of 3-27-1990)
-Secs. 2-166—2-183. Reserved.
+Sec. 2-164. Establishment of Capital Replacement Fund.
+   There is hereby created a special fund to be known as the Capital
+Replacement Fund (CRF). The CRF shall be funded through appropriations from the
+General Fund and shall be used exclusively for capital purchases and
+improvements for departments operating under enterprise funds, including but
+not limited to water, wastewater, and solid waste services.
+(Prior Code, § 1-116; Ord. of 3-27-1990; Ord. No. 032-2025, § 2, 10-28-2025)
+Sec. 2-165. Loan structure and repayment terms.
+   (a)   Loans from the CRF to enterprise fund departments shall be authorized
+by resolution of the City Council upon recommendation by the City Manager and
+Director of Finance.
+   (b)   Each loan shall include:
+      -A defined principal amount.
+      -A repayment schedule not to exceed five (5) fiscal years.
+      -An interest rate set annually by the City Council, not less than average
+rate earned by the General Fund on its investments.
+   (c)   Repayments shall be made annually and shall include both principal and
+interest. All repayments shall be deposited back into the General Fund.
+   (d)   The borrowing department shall include the repayment obligation in its
+annual operating budget.
+(Prior Code, § 1-117; Ord. of 3-27-1990; Ord. No. 032-2025, § 2, 10-28-2025)
+Sec. 2-166. Administration and reporting.
+   (a)   The Director of Finance shall maintain records of all CRF
+transactions, including loan agreements, repayment schedules, and interest
+calculations.
+   (b)   An annual report shall be presented to the City Council detailing the
+status of the CRF, outstanding loans, and repayments.
+(Ord. No. 032-2025, § 2, 10-28-2025)
+Secs. 2-167—2-183. Reserved.
 DIVISION 3. MISCELLANEOUS FUNDS
 Sec. 2-184. Municipal Solid Waste Management Resource Conservation Recovery Act
 (MSWRCRA).
@@ -4325,22 +4362,45 @@ Chapter 10 AVIATION 1
 Notes
 1 State law reference(s)—Aviation, Texas Transportation Code ch. 21 et seq.
 ARTICLE I. IN GENERAL
-Sec. 10-1. Reserved.
-Sec. 10-2 Vehicle and pedestrian communications in airport movement areas.
+Secs. 10-1—10-16. Reserved.
+ARTICLE II. AERONAUTICAL ACTIVITIES AND SERVICES AT
+BIG SPRING AIRPORT AND INDUSTRIAL PARK 2
+ 
+Notes
+2 State law reference(s)—County and municipal airports, Texas Transportation
+  Code ch. 22.
+DIVISION 1. GENERALLY
+Sec. 10-17.   Big Spring McMahon-Wrinkle Airport rules and regulations.
+   (a)   Use of airport restricted. No person shall use the airport for any
+activity, unless approved in writing by the City of Big Spring. The airport was
+developed with aid from the State of Texas and the United States. These grants
+include a number of obligations and commitments to the general and flying
+public, to the state, and to the United States. Any provision of these
+regulations, any lease, or any practice carried out on or for the airport shall
+be subordinate to the indenture, and if at variance with the grant
+requirements, unilaterally reformable at the option of the city or Federal
+Aviation Administration ("FAA") for conformity with these grants.
+   (b)   A fair and reasonable opportunity, without discrimination, shall be
+accorded to all operators to qualify or compete for available airport
+facilities and the furnishing of selected aeronautical services subject to the
+minimum standards and requirements established by the city and set forth in
+this article.
+(Ord. No. 017-2025, § 3, 7-8-2025)
+Sec. 10-18. Vehicle and pedestrian communications in airport movement areas.
    (a)   Definitions. In this section:
-      (1)   "Aircraft" means any weight-carrying structure for navigation in
-the air and which obtains support by the dynamic reaction of the air to any
+   (1)   "Aircraft" means any weight-carrying structure for navigation in the
+air and which obtains support by the dynamic reaction of the air to any
 obstruction connected with the structure. Gliders or ultralights, either
 powered or unpowered, helicopters, hot air balloons and airships will be
 considered aircraft.
-      (2)   "Airport" means all of the land, improvements, facilities and
+   (2)   "Airport" means all of the land, improvements, facilities and
 development of the Big Spring McMahon-Wrinkle Airpark.
-      (3)   "Director" means the director of the airport.
-      (4)   "Movement area" means the runways, taxiways and other landing areas
-of the airport which are utilized for taxiing, hover taxiing, air taxiing and
+   (3)   "Director" means the director of the airport.
+   (4)   "Movement area" means the runways, taxiways and other landing areas of
+the airport which are utilized for taxiing, hover taxiing, air taxiing and
 landings and takeoffs of aircraft, exclusive of ramp areas.
-      (5)   "Vehicle" or "motor vehicle" means any automobile, golf cart,
-truck, bus, motorcycle, recreational vehicle, bicycle, pushcart, fuel servicing
+   (5)   "Vehicle" or "motor vehicle" means any automobile, golf cart, truck,
+bus, motorcycle, recreational vehicle, bicycle, pushcart, fuel servicing
 vehicle, tug, or any other device in or by which a person or property is or may
 be transported or drawn on a roadway, other than a device used exclusively on
 stationary rails or tracks.
@@ -4350,786 +4410,36 @@ pedestrians and all other motor vehicles at the airport.
 across any portion of the movement area unless that person has received proper
 authorization from the director or authorized designee to walk or drive on or
 across any portion of the movement area and:
-      (1)   Is in and maintains constant contact with the authorized UNICOM
+   (1)   Is in and maintains constant contact with the authorized UNICOM
 operator by way of two-way radio; or
-      (2)   Is under escort by an individual who is in and maintains constant
+   (2)   Is under escort by an individual who is in and maintains constant
 contact with the authorized UNICOM operator by way of two-way radio.
    (d)   A violation of this section shall constitute a misdemeanor criminal
 offense punishable by a fine not to exceed $500.00.
-(Ord. No. 027-2022, § 1, 7-26-2022)
-Secs. 10-3—10-18. Reserved.
-ARTICLE II. AERONAUTICAL ACTIVITIES AND SERVICES AT
-BIG SPRING AIRPORT AND INDUSTRIAL PARK 2
- 
-Notes
-2 State law reference(s)—County and municipal airports, Texas Transportation
-  Code ch. 22.
-DIVISION 1. GENERALLY
-Sec. 10-19. General statement of policy.
-   (a)   A fair and reasonable opportunity, without discrimination, shall be
-accorded to all operators to qualify or compete for available airport
-facilities and the furnishing of selected aeronautical services subject to the
-minimum standards and requirements established by the city and set forth in
-this article.
-   (b)   Contingent upon qualifications, meeting the established minimum
-standards, the execution of a written agreement with the city, and the payment
-of the prescribed rentals, fees and charges, the operator shall have the right
-and privilege of engaging in and conducting the authorized activities on the
-city's airport as specified by the written contract. The granting of such right
-and privilege, however, shall not be construed in any manner as affording the
-operator any exclusive right of use of the premises and facilities of the
-airport, other than those premises which may be leased exclusively to him, and
-then only to the extent provided in a written agreement. The city reserves and
-retains the right for the use of the airport by others who may desire to use
-the same, pursuant to applicable federal, state and local laws, ordinances,
-codes, minimum standards, and other regulatory measures pertaining to such use.
-The city reserves the further right to designate the specific airport areas in
-which aeronautical services may be conducted. Such designation shall give
-consideration to the nature and extent of the operation and the lands available
-for such purpose, consistent with the orderly and safe operation of the
-airport.
-(Prior Code, § 10-1; Ord. of 6-22-1982)
-Sec. 10-20. Definitions of a commercial aviation operator; activities.
-   A commercial aviation operator is defined as a person, firm or corporation
-engaging in any activity which involves or makes possible the operation of
-aircraft, or which contributes to, or is required for the safety of aircraft
-operations for profit. Authorized activities shall be strictly limited to any
-one, or a combination, of the following aeronautical services performed in full
-compliance with the specific activity standards hereinafter set forth:
-      (1)   Aircraft sales (new and/or used).
-      (2)   Airframe and power plant repair facilities.
-      (3)   Aircraft rental.
-      (4)   Flight training.
-      (5)   Line services (aircraft fuels and oil dispensing).
-      (6)   Specialized aircraft repair services (radios, propellers,
-instruments and accessories).
-      (7)   Aircraft charter and air taxi.
-      (8)   Specialized commercial flying services.
-      (9)   Multiple services.
-      (10)   Commercial aviation operators subleasing from another commercial
-operator on the airport.
-      (11)   Nonprofit flying clubs and similar nonprofit corporations even
-though they may provide flight instruction, rental aircraft, and other services
-for their members only, are not considered commercial aviation operators for
-purpose, of these standards. Any other activities not specifically provided for
-in the minimum standards will normally be subject to negotiation.
-(Prior Code, § 10-2; Ord. of 6-22-1982)
-Sec. 10-21. Pre-qualification requirements.
-   The prospective operator shall submit, in written form to the city manager
-or his designated representative at the time of his application, the following
-information and, thereafter, such additional information as may be requested by
-the city:
-      (1)   Intended scope of activities. As a condition precedent to the
-granting of an operating privilege on the airport, the prospective operator
-must submit a detailed description of the scope of the intended operation and
-location, and the means and methods to be employed to accomplish the
-contemplated operating standards and requirements, in order to provide high-
-quality service to the aviation and general public in the Big Spring air
-service area, including the following:
-         a.   The services to be offered.
-         b.   The amount of land to be leased.
-         c.   The building space to be constructed or leased.
-         d.   The number and type of aircraft to be provided.
-         e.   The number of persons to be employed.
-         f.   The number and types of insurance coverage to be maintained.
-         g.   Evidence of financial capability to perform and provide the
-proposed services and facilities.
-         h.   The intended location and layout plan of any proposed or future
-development.
-      (2)   Financial responsibility. The prospective operator must provide a
-statement, satisfactory to the city, in evidence of his financial
-responsibility, from a bank or trust company doing business in the area or from
-such other source that may be acceptable to the city and readily verified
-through normal banking channels. The prospective operator must also demonstrate
-financial capability to initiate operations and for the construction of
-improvements and appurtenances that may be required commensurate with the
-concept of the proposed operation, and shall also indicate his ability to
-provide working capital to carry on the contemplated operations, once
-initiated.
-      (3)   Experience. The prospective operator shall furnish the city with a
-statement of his past experience in the specified aviation services selected by
-him and to be supplied by him on the city's airport.
-(Prior Code, § 10-3; Ord. of 6-22-1982)
-Sec. 10-22. General requirements.
-   (a)   Requirement of a written agreement. Prior to the commencement of
-operations, the prospective operator will be required to enter into a written
-agreement with the city, which agreement will recite the terms and conditions
-under which he will operate his business on the airport, including, but not
-limited to, the term of agreement; the rentals, fees and charges; the rights,
-privileges and obligations of the respective parties and other relevant
-covenants. Neither the conditions herein contained nor those set forth in the
-schedule of minimum standards and requirements represent a complete recitation
-of the provisions to be included in the written agreement. Such contract
-provisions, however, will not change or modify the minimum standards
-requirements, or be inconsistent therewith.
-   (b)   Site development standards.
-      (1)   Physical facilities.
-         a.   The minimum space requirements, as hereinafter provided, shall be
-satisfied with one building, attached buildings, or separate buildings. A
-hangar building shall have at least one door that will accommodate aircraft for
-that particular operation.
-         b.   The operator shall provide a paved walkway within the leased area
-to accommodate pedestrian access to the operator's office from the parking lot,
-and telephone facilities for customer use. Floor space allotments shall include
-office, customer lounge, and restroom facilities, all properly heated and
-lighted.
-      (2)   Personnel. The operator shall have in his employ, and on duty
-during operating hours, trained personnel in such numbers as are required to
-meet the minimum standards and requirements set forth in an efficient manner
-for each aeronautical service being performed. The operator shall also provide
-a responsible person in the office to supervise the operations in the leased
-area on the airport and with authorization to represent and act for, and on
-behalf of, the operator during all business hours. All personnel hereinafter
-required to hold Federal Aviation Administration certificates and ratings shall
-maintain such certificates and ratings.
-   (c)   Insurance. The operator shall procure and maintain insurance of the
-types and in the minimum limits set forth in the schedule of minimum standards
-for the respective categories of aeronautical services. The insurance company
-writing the required policy shall be licensed to do business in the state.
-Where more than one aeronautical service is proposed, the minimum limits will
-vary dependent upon the nature of individual services in such combination. All
-insurance, which the operator is required by the city to carry and keep in
-force, shall include the city, the city council, the airport and industrial
-park steering committee and aviation committees, the airport board, the city
-manager of the city, and the officers, agents and employees of the city as
-additional named insured. The operator shall furnish evidence of his compliance
-with this requirement to the city manager or his designated representative and
-will furnish additional certification as evidence of changes in insurance not
-less than ten days prior to any such change, if the change results in a
-reduction in overages, and not more than five days after such change if the
-change results in an increase in overages. The applicable insurance coverage
-shall be in force during the period of construction of the operator's
-facilities and/or prior to his entry upon the airport for the conduct of his
-business.
-   (d)   General lease clauses. These lease clauses shall be contained as a
-minimum in all leases between the city and operator engaged in any aeronautical
-service on the airport.
-      (1)   Notwithstanding any other or inconsistent provision of this
-agreement, during the performance of this agreement, lessee, for itself, its
-heirs, personal representatives, successors in interest and assigns, as part of
-the consideration for this agreement, does hereby covenant and agree, as a
-covenant running with the land, that:
-         a.   No person on the grounds of race, color, religion, sex, or
-national origin shall be excluded from participation in, denied the benefit of,
-or otherwise be subjected to discrimination in the use of the premises.
-         b.   In the construction of any improvements on, over or under the
-premises, and the furnishing of services therein or thereon, no person on the
-grounds of race, color, religion, sex, or national origin shall be excluded
-from participation in, denied the benefits of, or otherwise be subjected to
-discrimination.
-         c.   The lessee shall use the premises in compliance with all other
-requirements imposed by or pursuant to 49 CFR 21, sub-title A, Department of
-Transportation, Office of the Secretary, Nondiscrimination in Federally
-Assisted Programs of the Department of Transportation—Effectuation of Title VI
-of the Civil Rights Act of 1954, and as said regulations may be amended.
-         d.   In the event of breach of any of the above nondiscrimination
-covenants, the lessor shall have the right to terminate this agreement and to
-reenter and repossess the premises and hold the same as if said agreement had
-never been made or issued. This provision does not become effective until the
-procedures of 49 CFR 21 have been followed and completed, including expiration
-of appeal rights.
-      (2)   Aircraft service by owner or operator of aircraft. No right granted
-herein shall operate to prevent any person, firm or corporation operating
-aircraft on the airport from performing any services on its own aircraft with
-its own regular employees (including, but not limited to, maintenance and
-repair) that it may choose to perform.
-      (3)   Non-exclusive rights. It is not the intent of this agreement to
-grant to the lessee the exclusive right to provide any or all of the services
-described in this article at any time during the term of this agreement. The
-lessor reserves the right, at its sole discretion, to grant others certain
-rights and privileges upon the airport which are identical in part or in whole
-to those granted to the lessee. However, the lessor does covenant and agree
-that:
-         a.   It shall enforce all minimum operating standards or requirements
-for all aeronautical endeavors and activities conducted at the airport;
-         b.   Any other operator of aeronautical endeavors or activities will
-not be permitted to operate on the airport under rates, terms or conditions
-which are more favorable than those set forth in this agreement; and
-         c.   It will not permit the conduct of any aeronautical endeavor or
-activity at the airport except under an approved lease and operating agreement.
-      (4)   Airport development. The city reserves the right to further develop
-or improve the landing area of the airport as it sees fit, regardless of the
-views of the operator, and without interference or hindrance. If the physical
-development of the airport requires the relocation of the operator, the city
-agrees to provide a comparable location with similar facilities, and agrees to
-relocate all operator-owned buildings or provide similar facilities for the
-operator at no cost.
-      (5)   City's rights. The city reserves the right (but shall not be
-obligated to the operator) to maintain and keep in repair the landing area of
-the airport and all publicly owned facilities of the same together with the
-right to direct and control all activities of the operator in this regard.
-      (6)   War or national emergency. During any time of war or national
-emergency, the city shall have the right to lease the landing area or any part
-thereof to the United States Government for military use and, if such lease is
-executed, the provisions of this instrument insofar as they are inconsistent
-with the provisions of the lease to the government, shall be suspended or
-modified in whatever manner is appropriate to the situation.
-      (7)   Airport obstructions. The city reserves the right to take any
-action it considers necessary to protect the aerial approaches of the airport
-against obstruction, together with the right to prevent the operator from
-erecting, or permitting to be erected, any building or other structure on the
-airport which, in the opinion of the city, would limit the usefulness of the
-airport or constitute a hazard to aircraft.
-      (8)   Subordination. This agreement shall be subject and subordinate to
-the provisions of the indenture and the amendment to indenture whereby the
-lessor derived title to the premises from the United States and to any existing
-or future agreement between the lessor and the United States, or any agency
-thereof, relative to the operation or maintenance of the airport, the execution
-of which has been or may be required as a condition precedent to the
-expenditure of federal funds for the development or operation of the airport;
-provided, however, that the lessor shall, to the extent permitted by law, use
-its best efforts to cause any such agreements to include provisions protecting
-and preserving the rights of the lessee in and to the premises, and to
-compensation for the taking thereof, interference therewith and damage thereto,
-caused by such agreement or by actions of lessors of the United States pursuant
-thereto.
-      (9)   Compliance with laws, etc. The lessee shall comply with all
-federal, state and local laws, rules and regulations which may apply to the
-conduct of the business contemplated, including rules and regulations
-promulgated by the lessor, and the lessee shall keep in effect and post in a
-prominent place all necessary and/or required licenses or permits.
-      (10)   Indemnity. To the extent not covered by insurance carried in favor
-of the lessor, the lessee shall keep and hold harmless the lessor from and
-against any and all claims, demands, suits, judgments, costs and expenses
-asserted by any person, including agents or employees of lessor or lessee, by
-reason of death or injury to persons or loss or damage to property, resulting
-from the lessee's operations, or anything done or omitted by the lessee, under
-this agreement except to the extent that such claims, demands, suits,
-judgments, costs and expenses may be attributed to the acts or omissions of the
-lessor or its agent or employees.
-      (11)   Misrepresentation. This agreement constitutes the entire
-understanding between the parties, and as of its effective date, supersedes all
-prior or independent agreements between the parties covering the subject matter
-hereof. Any change or modification hereof must be in writing signed by both
-parties.
-   (e)   Miscellaneous. The prospective operator may select one or a
-combination of the aeronautical services covered by the city's minimum
-standards and requirements. Where more than one activity is proposed, the
-minimum requirements will vary (dependent upon the nature of individual
-services in such combination) but will not necessarily be cumulative in all
-instances. Because of these variables, the applicable minimum standards on
-combinations of services will be discussed with the prospective operator at the
-time of his application or, otherwise, during lease negotiations.
-   The pertinent minimum standards and requirements for any commercial aviation
-operator will be predicated upon the nature of his initial business venture.
-If, at a later date, the business is expanded to encompass new and additional
-types of services, the negotiated minimum standards established for these
-additional services shall immediately apply.
-(Prior Code, § 10-4; Ord. of 6-22-1982)
-Secs. 10-23—10-47. Reserved.
+(Ord. No. 017-2025, § 4, 7-8-2025)
+Sec. 10-19. Rules and regulations.
+   The City Council adopts the Big Spring McMahon-Wrinkle Airport Rules and
+Regulations which are attached Ord. No. 017-2025 as Exhibit "A" and apply to
+operators and tenants of the airport. The rules and regulations are not
+codified, but copies of the same are on file with the City Secretary's office
+and the Airport Director's office and may be reviewed during normal business
+hours at the locations of those offices. Any changes or amendments to the rules
+and regulations shall be approved by the city council.(Ord. No. 017-2025, § 5,
+7-8-2025)
+   *State law reference(s)—County and municipal airports, Texas Transportation
+Code ch. 22.
+Secs. 10-20—10-47. Reserved.
 DIVISION 2. MINIMUM STANDARDS FOR COMMERCIAL AERONAUTICAL ACTIVITIES AND
 SERVICES
-Sec. 10-48. Aircraft sales (new and/or used).
-   (a)   Statement of concept. An aircraft sales operator is a person, firm, or
-corporation engaged in the sale of new and/or used aircraft through franchises,
-or licensed dealership or distributorship (either on a retail or wholesale
-basis) of an aircraft manufacturer or otherwise; and provides such repair,
-services and parts as necessary to meet any guarantee or warranty on new and/or
-used aircraft sold by him.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area not less than 18,000
-square feet of ground space to provide for outside display and storage of
-aircraft on which shall be erected a building providing at least 3,000 square
-feet of floor space for aircraft storage, and at least 800 square feet of floor
-space for office, restrooms, customer lounge and telephone facilities for
-customer use; auto parking space with minimum accommodations for ten
-automobiles (no on-street parking), a paved walkway, all within the leased area
-and sufficient to accommodate the operator's activities.
-      (2)   The operator shall provide necessary and satisfactory arrangements
-for the repair and servicing of aircraft, but only for the duration of any
-sales guarantee or warranty period. Servicing facilities may be provided
-through written agreement with a repair shop operator at the Big Spring
-Airport. The operator shall meet the requirements set forth by the franchisor
-for parts inventory and shall have the minimum number of aircraft as set forth
-by the franchisor.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Passenger liability
-                 Each passenger, each accident $75,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(C) Hangar keepers liability (if applicable):
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-five days a week.
-      (5)   The operator shall have in his employ (and on duty during operating
-hours) trained personnel in such numbers as are required to meet the minimum
-standards and requirements set forth in an efficient manner, but never less
-than one person possessing the minimum requirements of the FAA to perform the
-duties required in this activity.
-(Prior Code, § 10-11)
-Sec. 10-49. Repair station facilities (airframe, power plant).
-   (a)   Statement of concept. An aircraft engine and airframe maintenance and
-repair operator is a person, firm or corporation (or a combination of)
-providing airframe and power plant overhaul and repair services, with at least
-one person currently certified by the Federal Aviation Administration with
-ratings appropriate to the work being performed. This category of aeronautical
-services shall also include the sale of aircraft parts and accessories, but
-such is not an exclusive right.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space on which shall be erected a building
-providing at least 3,000 square feet of floor space for airframe and power
-plant overhaul and repair services and at least 800 square feet of floor space
-for office, restrooms, customer lounge and telephone facilities for customer
-use; auto parking with minimum accommodations for ten automobiles (no on-street
-parking), a paved walkway, all within the leased area and sufficient to
-accommodate the operator's activities.
-      (2)   The operator shall provide sufficient equipment, supplies and
-availability of parts to perform maintenance in accordance with manufacturers'
-recommendations or equivalent for the types of aircraft upon which he performs
-maintenance.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $50,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $50,000.00
-(C) Hangar keepers liability:
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-five days a week.
-      (5)   The operator shall have in his employ (and on duty during operating
-hours) trained personnel in such numbers as are required to meet the minimum
-standards and requirements set forth in an efficient manner, but never less
-than one person currently certified by the Federal Aviation Administration with
-rating appropriate to the work being performed and with access to an AI.
-(Prior Code, § 10-12; Ord. of 6-22-1982)
-Sec. 10-50. Aircraft rental.
-   (a)   Statement of concept. An aircraft rental operator is a person, firm or
-corporation engaged in the rental of aircraft to the public.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space on which shall be erected a building
-providing at least 3,000 square feet of floor space for aircraft storage, and
-at least 800 square feet of floor space for office, restrooms, customer lounge
-and telephone facilities for customer use; auto parking space with minimum
-accommodations for ten automobiles (no on-street parking), a paved walkway, all
-within the leased area and sufficient to accommodate the operator's activities.
-      (2)   The operator shall have available for rental, either owned or under
-written lease to operator, a sufficient number of aircraft properly certified
-to handle the proposed scope of his operation, but not less than four certified
-and currently air-worthy aircraft, at least two of which must be four-place
-aircraft.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Passenger liability
-                 Each passenger, each accident $75,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(C) Hangar keepers liability (if applicable):
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-seven days a week.
-      (5)   The operator shall have in his employ (and on duty during operating
-hours) trained personnel in such numbers as are required to meet the minimum
-standards set forth in an efficient manner.
-(Prior Code, § 10-13; Ord. of 6-22-1982)
-Sec. 10-51. Flight training.
-   (a)   Statement of concept. A flight training operator is a person, firm or
-corporation engaged in instructing pilots in dual and solo flight training, in
-fixed and/or rotary wing aircraft, and provides such related ground school
-instruction as is necessary preparatory to taking a written examination and
-flight check ride for the category or categories of pilots' licenses and
-ratings involved.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space on which shall be erected a building
-providing at least 3,000 square feet of floor space for aircraft storage, and
-at least 1,200 square feet of floor space for office, restrooms, customer
-lounge and telephone facilities for customer use; auto parking space with
-minimum accommodations for ten automobiles (no on-street parking), a paved
-walkway, all within the leased area and sufficient to accommodate the
-operator's activities.
-      (2)   The operator shall have available for use in flight training,
-either owned or under written lease to operator, a sufficient number of
-aircraft properly certificated to handle the proposed scope of his student
-operation, but not less than three properly certificated aircraft, at least one
-of which must be a four-place aircraft, and at least one of which must be
-equipped for and capable of use in instrument flight instruction.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $100,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $100,000.00
-(C) Hangar keepers liability:
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-five days a week.
-      (5)   The operator shall have on duty, on a full-time basis, at least one
-flight instructor who has been currently certificated by the Federal Aviation
-Administration to provide the type of flight training offered; and shall have
-available on call, on a part-time basis, at least one flight instructor who has
-been currently certificated by the Federal Aviation Administration to provide
-the type of flight training offered which shall include at least private,
-commercial and instrument ratings.
-(Prior Code, § 10-14; Ord. of 6-22-1982)
-Sec. 10-52. Line services (aircraft fuels and oil dispensing).
-   (a)   Statement of concept. Line services shall include the sale and into-
-plane delivery of recognized brands of aviation fuels, lubricants and other
-related petroleum products. The operator shall provide servicing of aircraft,
-including ramp assistance and the parking, storage and tie down of aircraft.
-   (b)   Minimum standards. The operator shall lease from the city an area not
-less than 18,000 square feet of ground space on which shall be erected a
-building providing at least 800 square feet of floor space for office,
-restrooms, customer lounge and telephone facilities for customer use; auto
-parking space with a minimum accommodations for ten automobiles (no on-street
-parking), a paved walkway, all within the leased area and sufficient to
-accommodate the operator's activities.
-   (c)   Fuel storage. Facilities for two 1,200 gallon trucks of aircraft fuels
-if two popular grades of fuel are available, must be provided by the operator
-in a fuel storage area to be designated by the city manager, or his authorized
-representative. The charges for the use of airport property for storage
-facilities will be negotiated prior to contract establishment. Aboveground
-storage will be permitted in a city designated fuel farm.
-   (d)   Refueling. The operator will provide pumps for dispensing the aviation
-fuel at a central location. If a mobile dispenser is provided, it shall have
-metered fuel dispensers for the number of grades of fuel sold by the operator,
-separate dispensing pumps and meters for each grade of fuel. The mobile
-dispenser shall meet all applicable safety requirements and shall have a
-reliable metering device subject to independent inspection.
-   (e)   Product quality control and safety.
-      (1)   Must identify delivery of fuel as to proper grade.
-         a.   Be sure all compartments and valves are sealed; record seal
-numbers.
-         b.   Color and military specifications.
-         c.   Check truck tank sump for contamination, by use of industry
-accepted methods.
-      (2)   Check storage tanks for water and contamination; neither will
-exceed industry accepted standards.
-      (3)   All turbine fuels must be filtered before entering storage tanks.
-      (4)   Daily checks for water and contamination must be made by use of
-industry accepted methods.
-      (5)   Fuel may be removed only through an industry approved filtration
-system.
-      (6)   Filters must be of multiple cartridge type provided with visual
-filter container contamination equipment. The filters must also be equipped
-with differential pressure measuring equipment.
-      (7)   All equipment, mobile and otherwise, must be color coded, placarded
-and identifiable in accordance with industry accepted standards.
-      (8)   For turbine fuels, under-tank loading will be required.
-      (9)   At the beginning of each day, unless the trucks are refilled during
-the working day from underground storage, a visual sump check of both the tank
-and filter will be made to determine contamination.
-      (10)   For turbine fuel, in addition, a mechanical or chemical check will
-also be made.
-      (11)   In addition to the above preventative measures, the vendor will
-also be required to make weekly, monthly, semi-annual and annual filtration
-equipment inspections to determine that they meet industry accepted standards,
-and the vendor will replace same as required.
-      (12)   At all places in the foregoing where inspections are required, the
-vendor will be responsible for keeping duplicate written records in an
-acceptable form, and at the end of each month will, upon request, provide the
-city manager or his designated representative with the duplicate copy.
-      (13)   The vendor will be required to provide safety facilities to meet
-the requirements established by the owner.
-   (f)   Minor repair service. The operator shall provide such minor repair
-service not requiring a certificated mechanical rating, and cabin services, to
-general aviation aircraft as can be performed efficiently on the ramp or other
-apron parking area, but only within the premises leased to the operator or upon
-such other areas as the city manager or his designated representative may
-authorize.
-   (g)   Equipment needed. The operator shall procure and maintain tools,
-jacks, towing equipment, tire repairing equipment, energizers and starters, air
-compressors and fire extinguishers, as appropriate and necessary for the
-servicing of general aviation aircraft using the airport. All equipment shall
-be maintained and operated in accordance with local, state and federal
-industrial codes.
-   (h)   Insurance requirements.
-(1) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $50,000.00
-(2) Hangar keepers liability (if applicable):
-    Each accident $300,000.00
-(3) Motor vehicle liability:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $50,000.00
- 
-   (i)   Hours of operation. The operator shall have his premises open and
-available 5½ days per week, but be subject to call 24 hours per day seven days
-a week.
-   (j)   Employee requirements. The operator shall have in his employ, and on
-duty during operating hours, trained personnel in such numbers as are required
-to meet the minimum standards and requirements set forth in an efficient
-manner.
-(Prior Code, § 10-15; Ord. of 6-22-1982)
-Sec. 10-53. Specialized aircraft repair services radios, propellers,
-instruments and accessories.
-   (a)   Statement of concept. A specialized aircraft repair service operator
-is a person, firm or corporation engaged in a business capable of providing a
-shop or a combination of Federal Aviation Administration certified shops for
-the repair of aircraft radios, propellers, instruments and accessories, but
-such is not an exclusive right.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space on which shall be erected a building
-providing at least 800 square feet of floor space to house all equipment, and
-to provide an office, shop, restrooms, customer lounge and telephone facilities
-for customer use; auto parking accommodations for five automobiles (no on-
-street parking), a paved walkway, all within the leased area and sufficient to
-accommodate the operator's activities and operations. The avionics portion of
-the services offered must maintain current the qualifications of Class I and
-Class II FAA designated repair station.
-      (2)   The operator shall obtain and maintain, as a minimum, the repair
-station certificates as required by the Federal Aviation Administration, which
-are applicable to the operations contemplated. The operator may furnish one, or
-if desired, any combination of the services mentioned above.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person              $100,000.00
-                 For more than one person $300,000.00
-    Property damage
-                 Each accident            $50,000.00
-(B) Hangar keepers liability:
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-five days a week.
-      (5)   The operator shall have in his employ and on duty during operating
-hours trained personnel in such numbers as are required to meet the minimum
-standards set forth in this category in an efficient manner, at least one of
-who is currently certificated as Federal Aviation Administration-rated radio,
-instrument or propeller repairman.
-(Prior Code, § 10-16)
-Sec. 10-54. Aircraft charter and air taxi.
-   (a)   Statement of concept. An aircraft charter (commercial operator) and an
-air taxi operator is a person, firm or corporation engaged in the business of
-providing air transportation (persons or property) to the general public for
-hire, either on a charter basis (commercial operations) or as an air taxi
-operator, as defined in the Federal Aviation Act of 1958, or as said act may be
-supplemented or amended from time to time.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space on which shall be erected a building
-providing for at least 3,000 square feet of floor space for aircraft storage,
-and at least 1,200 square feet of floor space for office, restroom, customer
-lounge and telephone facilities for customer use; auto parking space with
-minimum accommodations for ten automobiles (no on-street parking), a paved
-walkway, all within the leased area and sufficient to accommodate the
-operator's activities.
-      (2)   The operator shall provide aircraft necessary to meet FAR part 135,
-section 135.25 (14 CFR 135.25), which is quoted below:
-         a.   Each certificate holder must have the exclusive use of at least
-one aircraft that meets the requirements for at least one kind of operation
-authorized in his operations specifications. In addition, for each kind of
-operation for which he does not have the exclusive use of an aircraft, he must
-have available for use under a written agreement (including arrangements for
-performing required maintenance) at least one aircraft that meets the
-requirements for that kind of operation. However, this subsection does not
-prohibit the operator from using the aircraft for other than air taxi or
-commercial operations, or require him to have exclusive use of each aircraft
-that he uses.
-         b.   For the purposes of subsection (b)(2)a of this section, a person
-has exclusive use of an aircraft if he has the sole possession, control, and
-use of it for flight, as owner, or has a written agreement (including
-arrangements for the performance of required maintenance) giving him that
-possession, control and use for at least six consecutive months.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Passenger liability
-                 Each passenger, each accident $75,000.00
-    Property damage
-                 Each accident                 $100,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Property damage
-                 Each accident                 $100,000.00
-(C) Hangar keepers liability:
-    Each accident $300,000.00
- 
-      (4)   The operator shall have his premises open and services available
-seven days a week.
-      (5)   The operator shall have in his employ and on duty during operating
-hours, trained personnel in such numbers as are required to meet the minimum
-standards set forth in this category in an efficient manner, but never less
-than one Federal Aviation Administration currently certificated commercial
-pilot and otherwise appropriately rated to permit the flight activity offered
-by operator. The operator shall have available sufficient qualified operating
-crews and satisfactory number of personnel for checking in passengers, handling
-of luggage and ticketing. The prospective operator shall provide reasonable
-assurance of a continued availability of qualified operating crews and approved
-aircraft within a reasonable or specified maximum notice period.
-   (c)   Air taxi companies not based on Big Spring Airport and Industrial
-Park, but who are providing scheduled service to and from the airport, are
-exempted from these minimum standards and requirements.
-(Prior Code, § 10-17; Ord. of 6-22-1982)
-Sec. 10-55. Specialized commercial flying service.
-   (a)   Statement of concept. A specialized commercial flying services
-operator is a person, firm or corporation engaged in air transportation for
-hire for the purpose of providing the use of aircraft for the activities listed
-below:
-      (1)   Nonstop sightseeing flights that begin and end at the same airport
-within a 25-mile-radius of the airport.
-      (2)   Crop-dusting, seeding, spraying and bird chasing.
-      (3)   Banner towing and aerial advertising.
-      (4)   Firefighting.
-      (5)   Power line or pipeline patrol.
-      (6)   Any other operations specifically excluded from part 135 of the
-Federal Aviation Regulations.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-18,000 square feet of ground space, on which shall be constructed auto parking
-space with minimum accommodations for five automobiles (no on-street parking),
-a paved walkway, all within the leased area and sufficient to accommodate the
-operator's activities. Section (a)(1) of this section will require a building
-with a minimum of 800 square feet. In case of crop-dusting, aerial application,
-or other commercial use of chemicals, operator shall provide a centrally
-drained, paved area of not less than 3,000 square feet for aircraft loading,
-washing and servicing. Operator shall also provide for the safe storage and
-containment of noxious chemical materials. Such facilities will be a location
-on the Big Spring Airport and Industrial Park which will provide the greatest
-safeguard to the public.
-      (2)   The operator shall provide and have based on his leasehold, either
-owned or under written lease to operator, not less than one airworthy aircraft,
-suitably equipped for, and meeting all the requirements of the Federal Aviation
-Administration and applicable regulations of the state with respect to the type
-of operations to be performed.
-In the case of crop dusting or aerial application, the operator shall provide
-tank trucks for the handling of liquid spray and mixing liquids. The operator
-shall also provide adequate ground equipment for the safe handling and safe
-loading of dusting materials.
-      (3)   The operator performing the services under this category will be
-required to carry the following types of insurance in the limits specified:
-(A) Aircraft liability:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Passenger liability (where applicable)
-                 Each passenger, each accident $100,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(B) Comprehensive public liability and comprehensive property damage:
-    Bodily injury (each accident)
-                 Each person                   $100,000.00
-                 For more than one person      $300,000.00
-    Property damage
-                 Each accident                 $50,000.00
-(C) Hanger keepers liability (where applicable):
-    Each accident $300,000.00
- 
-      (4)   The operator shall have in his employ, and on duty during operating
-hours, trained personnel in such numbers as may be required to meet the minimum
-standards herein set forth in an efficient manner, but never less than one
-person holding a current Federal Aviation Administration commercial
-certificate, properly rated for the aircraft to be used and the type of
-operation to be performed.
-(Prior Code, § 10-18; Ord. of 6-22-1982)
-Sec. 10-56. Multiple services.
-   (a)   Statement of concept. A multiple services operator is a person, firm
-or corporation engaged in any two or more of the aeronautical services for
-which minimum standards have been hereinbefore provided.
-   (b)   Minimum standards.
-      (1)   The operator shall lease from the city an area of not less than
-36,000 square feet of ground space for aircraft storage, parking and other use
-in accordance with the services to be offered, on which shall be erected a
-building providing at least 4,000 square feet for aircraft storage, and at
-least 1,200 square feet for office, restrooms, customer lounge and telephone
-facilities for customer use; auto parking space with minimum accommodations for
-15 automobiles (no on-street parking), a paved walkway, and a paved aircraft
-apron, all within the leased area and sufficient to accommodate the operator's
-activities and operations to be provided.
-         a.   If flight training is one of the multiple services offered, the
-operator shall provide classroom and briefing room facilities in the
-aforementioned building.
-         b.   If crop-dusting, serial application, or other commercial use of
-chemicals are part of the multiple services offered, the operator shall provide
-a centrally drained, paved area of not less than 3,000 square feet for aircraft
-loading, washing, and servicing. Operator shall also provide for the safe
-loading and unloading, storage, and containment of noxious chemical materials.
-Such facilities will be in a location on the Big Spring Airport and Industrial
-Park.
-         c.   The building for aircraft storage will not be required if none of
-the individual services provided requires such a building under these
-standards. The standards for multiple services involving only line services,
-specialized repair services, and specialized commercial flying services will
-require only 18,000 square feet of ground space, 800 square feet of office
-space, and parking for five automobiles.
-      (2)   The operator shall comply with the aircraft requirements, including
-the equipment thereon, for each aeronautical service to be performed except as
-hereinafter provided.
-         a.   Multiple uses can be made of all aircraft except aircraft used
-for crop-dusting, aerial application, or other commercial use of chemicals.
-         b.   The operator, except if he is performing combinations of multiple
-services for which aircraft are not required, shall have available and based at
-the airport, either owned by the operator or under written lease to the
-operator, not less than two certified and currently airworthy aircraft,
-suitably equipped and capable of flight, to meet the minimum standards and
-requirements as hereinbefore provided for each aeronautical service to be
-performed. The operator shall provide the equipment and services required to
-meet the minimum standards as hereinbefore provided for each aeronautical
-service the operator is performing.
-      (3)   The operator shall procure and maintain, during the term of his
-agreement, as a minimum, insurance coverage which is equal to the highest of
-the minimum limits set for the respective categories of aeronautical services
-being performed by the operator.
-      (4)   The operator shall have in his employ, and on duty during operating
-hours, trained personnel in such numbers as are required to meet the minimum
-standards and requirements set forth, in an efficient manner, for each
-aeronautical service being performed by the operator. Multiple responsibilities
-may be assigned to meet the personnel requirements for each aeronautical
-service being performed by the operator.
-(Prior Code, § 10-19; Ord. of 6-22-1982)
-Sec. 10-57. Commercial aviation of operator's subleasing from another
-commercial operator on the airport.
-   Standards for sublease operations. Such operators shall meet all of the
-minimum standards established by the city for the category, or categories of
-services, to be furnished by the operator, except for the lease of land and
-construction of facilities.
-(Prior Code, § 10-20; Ord. of 6-22-1982)
+Sec. 10-48. Minimum standards.
+   The city council adopts the Big Spring McMahon-Wrinkle Airport Minimum
+Standards which are attached to Ord. No. 016-2025 as Exhibit “A” and apply to
+operators and tenants of the airport. The minimum standards are not codified,
+but copies of the same are on file with the city secretary’s office and the
+airport director’s office and may be reviewed during normal business hours at
+the locations of those offices. Any changes or amendments to the minimum
+standards shall be approved by the city council.
+(Ord. No. 016-2025, § 2, 7-8-2025)
 Chapter 12 BUILDINGS AND BUILDING REGULATIONS 1
  
 Notes
@@ -11640,26 +10950,10 @@ Chapter 34 MUNICIPAL COURT 1
  
 Notes
 1 State law reference(s)—Municipal courts, Texas Government Code ch. 29.
-Sec. 34-1. Municipal court security fee.
-   The municipal court, by and through the municipal judge or the court clerk
-is hereby authorized to charge and collect a special fee of $3.00 collected
-from each defendant convicted in municipal court as a security fee as a cost of
-court as authorized by Texas Code of Criminal Procedure art. 102.017. The fee
-is collected by the clerk of the court and remitted to the treasurer for
-deposit in the municipal court building fund. Money in the fund may be used
-only to finance the following items when used for the purpose of providing
-security services for buildings housing a municipal court:
-      (1)   The purchase or repair of X-ray machines and conveying systems;
-      (2)   Handheld metal detectors;
-      (3)   Walk through metal detectors;
-      (4)   Identification cards and systems;
-      (5)   Electronic locking and surveillance equipment;
-      (6)   Bailiffs, deputy sheriffs, deputy constables, or contract security
-personnel during times when they are providing appropriate security services;
-      (7)   Signage;
-      (8)   Confiscated weapon inventory and tracking systems; and
-      (9)   Locks, chains, or other security hardware.
-(Prior Code, § 12-8; Ord. of 10-13-1987; Ord. of 9-26-1995)
+Sec. 34-1. Reserved.
+   Editor's note—Ord. No. 015-2025, § 2, adopted July 8, 2025, repealed § 34-1,
+which pertained to municipal court security fees and derived from Prior Code, §
+12-8; Ord. of 10-13-1987; Ord. of 9-26-1995.
 Sec. 34-2. Authority to issue citations to appear in municipal court.
    All municipal officers and employees are authorized to issue citations to
 appear in municipal court for violations of ordinances that they are authorized
@@ -11667,26 +10961,10 @@ to enforce, provided that a citation shall be issued to a person only when
 there is probable cause to believe that there is probable cause that person is
 criminally responsible for the violation.
 (Prior Code, § 12-9; Ord. of 10-13-1987; Ord. of 12-12-1995)
-Sec. 34-3. Municipal court technology fund established and fee authorized.
-   The municipal court, by and through the municipal judge or the court clerk,
-is hereby authorized to charge and collect a special fee of $4.00 from a
-defendant convicted of a misdemeanor offense in municipal court as a technology
-fee as a cost of court as authorized by Texas Code of Criminal Procedure art.
-102.0172. The fee is collected by the clerk of the court and remitted to the
-municipal treasurer for deposit in the municipal court technology fund. Money
-in the fund may only be used to finance the following items when used for the
-purpose of providing financing for the purchase of technological enhancements
-for municipal court. The fund may only be used to finance the purchase of
-technological enhancements for the municipal court, including:
-      (1)   Computer systems;
-      (2)   Computer networks;
-      (3)   Computer hardware;
-      (4)   Computer software;
-      (5)   Imaging systems;
-      (6)   Electronic kiosks;
-      (7)   Electronic ticket writers; and
-      (8)   Docket management systems.
-(Prior Code, § 12-10; Ord. of 10-13-1987; Ord. of 8-24-1999)
+Sec. 34-3. Reserved.
+   Editor's note—Ord. No. 015-2025, § 3, adopted July 8, 2025, repealed § 34-1,
+which pertained to municipal court technology funds and fees and derived from
+Prior Code, § 12-10; Ord. of 10-13-1987; Ord. of 8-24-1999.
 Sec. 34-4. Reserved.
 Ord. No. 013-2020, § 1, adopted May 12, 2020, repealed § 34-4, which pertained
 to online payment and convenience fee and derived from Prior Code, § 12-11;
@@ -12720,7 +11998,7 @@ Such an appeal must be filed by the appeal deadline. While an appeal is
 pending, the city shall not abate or remove the public nuisance. A court of
 competent jurisdiction may issue necessary orders to enforce the procedures
 under this article.
-(Ord. No. 003-2025, §  2, 3-25-2025)
+(Ord. No. 003-2025, § 2, 3-25-2025)
 Chapter 38 OFFENSES AND MISCELLANEOUS PROVISIONS 1
  
 Notes
@@ -12823,12 +12101,9 @@ Sec. 38-9. Reserved.
 minors and derived from Prior Code §§ 14-29, 14-29-1, Ord. of 7-26-1994; Ord.
 of 5-22-2001; Ord. of 9-1-2009; Ord. of 9-11-2012; Ord. of 9-8-2015; Ord. No.
 038-2018; Ord. No. 036-2021.
-Sec. 38-10. Removal of the mental state element for offenses punishable by a
-$500.00 fine or less.
-   Unless otherwise specifically set forth in this Code, or in state law as
-adopted, allegations and evidence of culpable mental state are not required for
-proof of an offense for which the maximum fine is $500.00 or less.
-(Ord. No. 019-2020, § 1, 7-14-2020)
+Sec. 38-10. Reserved.
+   Ord. 014-2025, § 2, 6-24-2025 moved § 38-10 to § 1-12, and is derived from
+Ord. No. 019-2020, § 1, 7-14-2020.
 Sec. 38-11. Administrative search warrants.
    (a)   The City of Big Spring designates each code enforcement officer, fire
 marshal, and building official under the Texas Code of Criminal Procedure §
@@ -14016,16 +13291,31 @@ the city against any claims and/or damages that arise from the use through the
 providing of a surety bond or policy in the amount of $100,000.00/$300,000.00
 in the form and content approved by the city attorney.
 (Prior Code, § 6-145a; Ord. of 11-26-1991)
-Secs. 40-206—40-233. Reserved.
+Secs. 40-206—40-229. Reserved.
 ARTICLE VII. COMANCHE TRAIL GOLF COURSE
+Sec. 40-230. Golf manager.
+   The golf manager shall report to the Director of Public Works, except if the
+City Manager files a letter with the City Secretary assigning the golf manager
+to report to another employee.
+(Ord. No. 036-2025, § 3, 10-28-2025)
+Sec. 40-231. Comache Trail Golf Course hours.
+   The Comache Trail Golf Course shall be closed for purposes of maintenance on
+the second and fourth Monday of each month. The City Manager’s authority to set
+hours for the Comache Trail Golf Couse is otherwise unaffected.
+(Ord. No. 036-2025, § 3, 10-28-2025)
+Sec. 40-232. Reserved.
+Sec. 40-233. Reserved.
 Sec. 40-234. Golf course fees.
 The following fees shall be paid for the use of the municipal golf course:
       (1)   Daily green fees:
- 
-Weekday                               $27.00
-Weekday—Senior citizen age 65 or ove$22.00
-Weekday—Junior golfer (17 or younger$17.00
-Weekend and holiday                   $32.00
+Weekday                                                              $37
+Big Spring resident discount, Weekday                                -$10
+Weekday—Senior citizen age 65 or over                              $32
+Big Spring resident discount, Weekday, Senior citizen age 65 or over -$10
+Weekday—Junior golfer (17 or younger)                              $22
+Big Spring resident discount, Junior golfer (17 or younger)          -$5
+Weekend and holiday                                                  $42
+Big Spring resident discount, Weekend and holiday                    -$10
  
    Twilight discount—A 50 percent discount to all daily green fees applies if
 play starts after 4:00 p.m. during daylight saving time or after 3:00 p.m.,
@@ -14036,26 +13326,50 @@ Team Memberships that are purchased through the school shall be valid beginning
 September 1st of the school year and expire August 31 the following year. This
 includes the use of the driving range during class times but only while under
 the instruction of a coach.
- 
-Individual                                   $1,200.00
-Individual—Senior (65 years of age or older$900.00
-Individual—Junior (17 or younger)          $200.00
-Individual—Junior Golf Team                $200.00
-Family                                       $1,800.00
-Family—Senior (65 or older)                $1,400.00
+Individual                                                            $1,600
+Big Spring resident discount, Individual                              -$400
+Individual—Senior (65 years of age or older)                        $1,300
+Big Spring resident discount, Individual—Senior (65 years of age or -$400
+older)
+Individual—Junior (17 or younger)                                   $300
+Big Spring resident discount, Individual—Junior (17 or younger)     -$100
+Individual—Junior Golf Team                                         $300
+Big Spring resident discount, Individual—Junior Golf Team           -$100
+Family                                                                $2,200
+Big Spring resident discount, Family                                  -$400
+Family—Senior (65 or older)                                         $1,800
+Big Spring resident discount, Family—Senior (65 or older)           -$400
  
          b.   Definitions. The following words, terms and phrases, when used in
 this subsection (2), shall have the meanings ascribed to them in this
 subsection (2)b, except where the context clearly indicates a different
 meaning:
-      Family play is a family membership defined as four members of a family
-living in the same household.
-      Unlimited play means that a golfer can play on the course anytime it is
-open for business and he or she has a scheduled- tee time. Please note that
+            Family play is a family membership defined as four members of a
+family living in the same household.
+            Junior golf teams are limited to those from school districts that
+have at least some of their territory within the territory of the City of Big
+Spring.
+          Unlimited play means that a golfer can play on the course anytime it
+is open for business and he or she has a scheduled tee time. Please note that
 when tournaments are scheduled, the course is not considered open for business.
+      c.   1.   To qualify for a Big Spring resident discount, an individual
+must show proof of residency in the City of Big Spring, or a public school
+district that is partially or fully coextensive with the City of Big Spring,
+which at the time of the adoption of the ordinance include Big Spring
+Independent School District, Coahoma Independent School District, and Forsan
+Independent School District, which may include a government-issued personal ID
+card with photograph, or other documentation if approved by the golf manager.
+         2.   If an individual or family believes they were denied a discount
+in error, they may appeal the matter to the City Manager or the City Manager’s
+designee, who shall have the final authority to grant or deny a discount. An
+appeal must be filed in writing with the City Secretary within 30 days of the
+denial.
+         3.   No discounts will be provided after payment is accepted except by
+appeal.
+         4.   Only one discount is allowed per individual.
       (3)   Shed fees:
  
-Annual cart shed rental $720.00
+Annual cart shed rental $720
  
          a.   All golf cart sheds shall be rented on an annual basis only. The
 rental period will be in effect from October 1 through September 30 of each
@@ -14066,10 +13380,10 @@ current annual trail fee in the cart shed renter's name.
 use of private carts on Comanche Trail Municipal Golf Course. This amount is
 payable by either an annual or daily fee.
  
-Annual private cart fee $300.00
+Annual private cart fee $300
 (Must have a current annual membership)
-Daily private cart fee  $12.50 for 1 rider
-                       $25.00 for 2 riders
+Daily private cart fee  $13.50 for 1 rider
+                       $27 for 2 riders
  
       (5)   Miscellaneous: For the purposes of this subsection only: "retiree"
 or "retirees" shall be limited to those former employees who retired from the
@@ -14081,25 +13395,26 @@ $185.00 annually. This fee will allow the employee or retiree and one
 designated family member living in the same household to play the course.
          b.   Golf course employees are not subject to green fees.
          c.   The city manager, or his designee, may grant reciprocal course
-courtesy agreements to visiting golf professionals and/or superintendents.
+courtesy agreements to visiting golf professionals, golf managers and/or
+superintendents.
       (6)   Driving range fees:
 a.   The driving range fees shall be as follows:
  
-Large bucket of range balls (around 75 balls) $6.00
-Small bucket of range balls (around 45 balls) $4.00
-                                              
-Annual driving range fee                      $250.00
+Large bucket of range balls (around 75 balls)                             $6
+Small bucket of range balls (around 45 balls)                             $4
+                                                                          
+Annual driving range fee
+(This is for 12 months of unlimited usage of the driving range along with $250
+an unlimited supply of driving range balls with the provision that all
+balls and buckets will remain the property of the city golf course.)
  
-(This is for 12 months of unlimited usage of the driving range along with an
-unlimited supply of driving range balls with the provision that all balls and
-buckets will remain the property of the city golf course.)
 (Prior Code, § 6-146; Ord. of 11-27-1979; Ord. of 4-10-1984; Ord. of 5-27-1986;
 Ord. of 7-8-1986; Ord. of 2-24-1987; Ord. of 9-24-1991; Ord. of 3-23-1993; Ord.
 of 10-24-1995; Ord. of 3-24-1998; Ord. of 9-24-2002; Ord. of 10-8-2002; Ord. of
 8-24-2004; Ord. of 1-25-2005; Ord. of 5-12-2009; Ord. of 3-8-2010; Ord. of 9-
 27-2011; Ord. of 9-24-2013; Ord. of 8-8-2014; Ord. No. 017-2019, § 1, 4-9-2019;
 Ord. No. 007-2020, § 1, 2-25-2020; Ord. No. 023-2022, § 1, 6-14-2022; Ord. No.
-032-2024, § 1, 10-8-2024)
+032-2024, § 1, 10-8-2024; Ord. No. 035-2025, § 2, 10-28-2025)
 Sec. 40-235. Tournaments.
    Tournaments shall be permitted at the Comanche Trail Golf Course under the
 following rules:
@@ -14116,16 +13431,17 @@ than 60 participants, the fee will be reduced to $40 per round of golf played;
 associated with normal use of the golf course. Participants in school sponsored
 tournaments will be charged the junior twilight fee, regardless of when the
 tournament is held;
-   (e)   The golf course superintendent shall decide all regulations for
-tournaments, and shall have the power to schedule any tournament, and to deny
-any tournament request; and
+   (e)   The golf course manager shall decide all regulations for tournaments,
+and shall have the power to schedule any tournament, and to deny any tournament
+request; and
    (f)   Those denied a tournament or are aggrieved by a tournament schedule or
-regulation by the golf course superintendent may appeal to city council by
-written request to the city secretary, which shall have the power to waive
-subsections (a) and (e) by resolution for a particular tournament.
+regulation by the golf course manager may appeal to city council by written
+request to the city secretary, which shall have the power to waive subsections
+(a) and
+   (e)   by resolution for a particular tournament.
 (Prior Code, § 6-147; Ord. of 6-27-2000; Ord. of 12-14-2010; Ord. of 9-24-2011;
 Ord. of 9-24-2013; Ord. No. 007-2020, § 1, 2-25-2020; Ord. No. 032-2024, § 1,
-10-8-2024)
+10-8-2024; Ord. No. 035-2025, § 2, 10-28-2025)
 Sec. 40-236. Golf cart rules and fees.
    (a)   All golf cart sheds shall only be leased to one person; however, a
 spouse may be included on the lease.
@@ -14150,11 +13466,11 @@ months.
    (g)   Rental fees of golf carts to play within Comanche Trail Golf Course
 will be as follows:
  
-1 cart for 9 holes of play  $12.50
-1 cart for 18 holes of play $25.00
+1 cart for 9 holes of play  $13.50
+1 cart for 18 holes of play $27
  
 (Prior Code, § 6-148; Ord. of 8-26-1997; Ord. of 5-12-2009; Ord. of 9-27-2011;
-Ord. No. 007-2020, § 1, 2-25-2020)
+Ord. No. 007-2020, § 1, 2-25-2020; Ord. No. 035-2025, § 2, 10-28-2025)
 Secs. 40-237—40-297. Reserved.
 ARTICLE VIII. POTTON HOUSE
 Sec. 40-298. Rules and regulations.
@@ -14266,26 +13582,31 @@ each day of concession sales thereafter. Concession providers must obtain a
 city food safety permit and pay all applicable fees.
       (2)   Cotton Mize Field.
          a.   All sport tournaments or other recreational uses of Cotton Mize
-Field must be scheduled through the city's convention and visitors' bureau no
-less than 14 days prior to the event and sponsors must pay a $100.00 refundable
+Field must be scheduled through the city’s Community Services Department no
+less than 14 days prior to the event and renters must pay a $100.00 refundable
 deposit and a $100.00 per day nonrefundable fee. If lighting is to be used, the
-sponsor must pay an additional $20.00 per field, per hour fee in advance. The
+renter must pay an additional $20.00 per field, per hour fee in advance. The
 city will refund the deposit to the activity sponsor after completion of the
-event and an inspection for any necessary cleaning or repairs. The sponsor must
+event and an inspection for any necessary cleaning or repairs. The renter must
 pay all necessary cleaning, repair expenses and lighting fees for any
 additional lighting hours before the balance of the deposit is refunded.
-         b.   Concessions. Any person providing concessions at a non-league
+         b.   Concessions. Any person providing concessions for a non-league
 activity must pay a $100.00 set up fee for outside concession stands. This fee
 shall apply for up to four days of concession sales with an additional $75.00
 per concession stand fee for each day of concession sales thereafter.
-Concession providers must obtain a city food safety permit and pay all
-applicable fees.
-      (3)   For purposes of this section, a day shall consist of a 24-hour-
-period commencing at 12:00 midnight. All applicants shall agree to comply with
-all rules or regulations for the use of the Big Spring ballfield areas as
+Concession providers must be able to obtain or already have the required food
+safety permit and have paid all applicable fees.
+      c.   Practices. Practicing is to be allowed on Cotton Mize field for
+$25.00 for 1 1/2 hours. Bases will be set, but no striping will be applied to
+the field. If lights are needed, it will be an additional $25.00 for the exact
+time of practice scheduled. All practices must be held within normal allotted
+park hours.
+   (3)   For purposes of this section, a day shall consist of a 24-hour-period
+commencing at 12:00 midnight. All applicants shall agree to comply with all
+rules or regulations for the use of the Big Spring ballfield areas as
 promulgated by the city.
 (Prior Code, § 6-182; Ord. of 8-7-2012; Ord. No. 043-2019, § 1(6-182), 11-12-
-2019)
+2019; Ord. No. 042-2025, § 1, 12-9-2025)
 Secs. 40-332—40-350. Reserved.
 ARTICLE X. RUSS MCEWEN AQUATIC CENTER
 Sec. 40-351. Fees.
@@ -15048,24 +14369,24 @@ Sec. 44-41. Rates.
    (a)   Residential rates.
       (1)   Picked up once a week only:
  
-(1) Single-family dwelling units                         $23.29
-(2) Additional roll out for single-family dwelling units $11.65
+(1) Single-family dwelling units                         $23.99
+(2) Additional roll out for single-family dwelling units $12.00
  
    (b)   Commercial rates.
       (1)   One collection each week:
  
-(a) 1.5 cu. yd. container $40.05
-(b) 3 cu. yd. container   $51.43
+(a) 1.5 cu. yd. container $41.25
+(b) 3 cu. yd. container   $52.97
  
       (2)   Two collections weekly:
  
-(a) 1.5 cu. yd. container $80.10
-(b) 3 cu. yd. container   $102.86
+(a) 1.5 cu. yd. container $82.50
+(b) 3 cu. yd. container   $105.95
  
       (3)   Four collections weekly:
  
-(a) 1.5 cu. yd. container $160.18
-(b) 3 cu. yd. container   $205.71
+(a) 1.5 cu. yd. container $164.99
+(b) 3 cu. yd. container   $211.88
  
       (4)   Roll-off container and compactor service:
  
@@ -15118,7 +14439,7 @@ Ord. of 9-24-1996; Ord. of 9-23-1997; Ord. of 9-28-1999; Ord. of 9-25-2001;
 Ord. of 10-28-2003; Ord. of 9-28-2004; Ord. of 12-14-2004; Ord. of 9-23-2008;
 Ord. of 7-23-2013; Ord. of 9-11-2014; Ord. of 12-9-2014; Ord. No. 057-2018, §
 1, 12-11-2018; Ord. No. 029-2019, § 1, 8-27-2019; Ord. No. 033-2021, § 1, 7-27-
-2021; Ord. No. 036-2022, § 1, 9-27-2022)
+2021; Ord. No. 036-2022, § 1, 9-27-2022; Ord. No. 030-2025, § 1, 9-23-2025)
 Sec. 44-42. Failure to pay.
    The charge fixed in this article for the removal and disposal of MSW at the
 city landfill shall be entered by the finance director as a charge against each
@@ -15653,7 +14974,7 @@ Transportation Code § 541.303.
  
 Table A
 [https://export.amlegal.com/media/        Back of curb or where back of curb
-315f8ab000984ee52da7b870abfc5c2630e7aea9/ would be if there were a curb
+9edd638c686543b968146057d7f04f96bffcf6fe/ would be if there were a curb
 IMAGES/0-0-0-1956.png]
  
    (b)   The city manager or his designee is hereby instructed to give notice
@@ -17108,43 +16429,111 @@ zones.
    (a)   Definitions. The following words, terms and phrases, when used in this
 section, shall have the meanings ascribed to them in this subsection, except
 where the context clearly indicates a different meaning:
-      Academic session means the period of time in which students of a public
+   Academic session shall mean the period of time in which students of a public
 or private school attend classes.
-      School bus loading/unloading zone means a designated place on a street in
-which a school bus stops to load or unload passengers.
-      School zone means any public highway or street that is immediately
-adjacent to the property of a public or private school designated and marked as
-a school zone within the city limits.
-   (b)   Designated in certain locations or areas. The following described
-locations or areas within the city are hereby designated "school zones" or
-"school bus loading/unloading zones" and no person shall drive a motor vehicle
-in any direction within said areas or locations at a speed greater than is
-reasonable or prudent under the circumstances then existing. The speed limit
-specified hereinafter shall be lawful, but any speed in excess of the limit so
-specified during the hours set forth hereinafter for each location or area
-shall be prima facie evidence that the speed is not reasonable or prudent and
-is unlawful on the days school is in session.
-      (1)   Twenty mph in a school zone on a day in which academic sessions are
-held from 7:00 a.m. to 9:30 a.m. and from 2:30 p.m. to 4:30 p.m.; and
-      (2)   Twenty mph in a school bus loading/unloading zone on a day in which
-academic sessions are held from 7:00 a.m. to 9:30 p.m. and from 2:30 p.m. to 4:
-30 p.m.:
-         a.   On Airbase Road from a point 460 feet south of the south right-
-of-way line of West 13th Street to a point 88 feet north of the north right-of-
-way line of West 13th Street; and
-         b.   On West 16th Street from the west right-of-way line of Lark
-Street to the east right-of-way line of Mesa Street.
-   (c)   Installation of school and school bus loading/unloading signs and
-markings. The city manager, or his designee, is hereby authorized and directed
-to erect and install appropriate signs and markings in all school zones and
-school bus loading/unloading zones, in conformance with the Texas Manual of
-Uniform Traffic Control Devices (TMUTCD), indicating and carrying out the
-provisions of this chapter.
+   (b)   School speed limit zones. The following described locations or areas
+within the city are hereby designated “school speed limit zones” and no person
+shall drive a motor vehicle in any direction within said areas or locations at
+a speed greater than is reasonable or prudent under the circumstances then
+existing. The speed limit specified hereinafter shall be lawful, but any speed
+in excess of the limit so specified during the hours set forth hereinafter for
+each location or area shall be prima facie evidence that the speed is not
+reasonable or prudent and is unlawful on the days school is in session. Twenty
+(20) mph in a School Speed Limit zone on a day in which Academic Sessions are
+held from 7:00 a.m. to 9:30 a.m. and from 2:30 p.m. to 4:30 p.m.
+   (1)   Goliad Middle School and Big Spring Intermediate.
+      (a)   On Goliad Street from a point 15; north of the north right-of- way
+line of 22nd Street to a point 15; south of the south right-of-way line of 17th
+Street.
+      (b)   On 18th Street from a point 850 feet east of east right-of-way line
+of Goliad Street to a point 467 feet west of the west right-of-way line of
+Goliad Street.
+   (2)   Kentwood Elementary School.
+      (a)   On Merrily Drive from the west right-of-way of Ann Drive to the
+west right-of-way line of Shirley Drive.
+   (3)   Bauer Headstart School Readiness Academy.
+      (a)   On North Scurry Street from a point 155 feet north of the north
+right-of-way line of North 10th Street to the south right-of-way line of North
+9th Street.
+      (b)   On Northwest 10th Street from a point 105 feet east of the east
+right-of-way line of North Gregg Street to the east right-of-way line of North
+Scurry Street.
+      (c)   On Northwest/Northeast 9th Street from a point 157 feet east of the
+east right-of-way line of North Gregg Street to a point 130 feet west of the
+west right-of-way line of North Runnels Street.
+   (4)   Marcy Elementary School.
+      (a)   On Connally Street from a point 10 feet south of the south right-
+of-way line of Cecilia Street to the north right-of-way line of Wasson Road.
+      (b)   On Wasson Road from a point of 300 feet east of the east right-of-
+way line of Randolph Blvd. to a point 10 feet east of the west right-of-way
+line to Calvin Street.
+   (5)   Moss Elementary School.
+      (a)   On Baylor Blvd from a point 115 feet south of the south right- of-
+way line of Fordham Ave. to the south right-of-way line of Greenbriar Ave.
+      (b)   On Fordham Ave. from a point 15 feet west of the east right- of-way
+line of Baylor Street to a point 15 feet of the east right-of-way line of
+Marquette Ave.
+      (c)   On Kent Ave. from the north right-of-way line of Greenbriar Ave. to
+the south right-of-way line of Fordham Ave.
+      (d)   On Marquette Ave. from north right-of-way line of Greenbriar Ave.
+to a point 15 feet south of the south right-of-way line of Fordham Ave.
+      (e)   On Greenbriar Ave. from a point 15 feet west of the east right- of-
+way line of Baylor Blvd. to a point east of the east right-of-way line of
+Marquette Ave.
+   (6)   Washington Place Elementary School.
+      (a)   On Birdwell Lane from a point 25 feet north of the north right-of-
+way line of South Monticello Street to a po int 55 feet north of the north
+right-of-way line of North Monticello Street.
+      (b)   On North Monticello Street from a point 90 feet west to the west
+right-of-wav line of College Avenue and to the east right-of-way line of
+Birdwell Lane.
+   (7)   Big Spring High School.
+      (a)   On 10th Street from a point 379 feet east of the east right-of-way
+line of Goliad Street to the west right-of-way line of Owens Street.
+      (b)   On 11th Place from a point 114 feet east of the east right-of-way
+line of Goliad Street to the west right-of-way line of Young Street.
+   (9)   Big Spring Junior High School.
+      (a)   On 6th Street from a point 30 feet east of the right-of-way line of
+Young Street to a point 140 feet east of the right-of-way line of Goliad.
+      (b)   On Owens Street from a point 10 feet south of the right-of-way line
+of 5th Street to a point 20 feet north of the right-of-way line of 10th Street.
+      (c)   On 7th Street from a point 160 feet cast of the right-of-way line
+of Goliad Street to the south right-of-way of 8th Street.
+      (d)   On 8th Street from a point 140 feet east of the right-of-way line
+of Goliad Street to a point 10 feet west of the right-of-way of Caylor Street.
+      (e)   On Benton Street from a point 10 feet south of the right-of- way
+line of 5th Street to a point north of the right-of-way line of 6th Street.
+      (f)   On Austin street from a point 10 feet south of the right-of-way
+line of 5th Street to a point north of the right-of-way line of 6th Street.
+   (10)   Runnels Academy.
+      (a)   On 11th Place from a point 150 feet west of the west right-of- way
+line of Runnels Street to the south right-of-way of 10th St.
+      (b)   On 10th Street from a point 131 feet east of the east right-of- way
+line of Main Street to a point 34 feet west of the west right-of-way line of
+Johnson Street.
+      (c)   On Runnels Street from a point 18 feet south of the south- right-
+of-way line of 9th Street to the north right-of-way of 10th St.
+      (d)   On Johnson Street from a point 83 feet north of the north right-of-
+way line of 11th Place to a point 18 feet south of the south right-of-way line
+of 9th Street.
+   (11)   Pathway Academy.
+      (a)   On 12th Street from a point 16 feet west of the west right-of- way
+line of Young Street to a point 13 feet east of the east right-of-way line on
+Austin Street.
+      (b)   On 13th Street from a point 15 feet west of the west right-of- way
+line of Young Street to a point 11 feet east of the east right-of-way line of
+Austin Street.
+      (c)   On Owens Street from a point 9 feet north of the north right- of-
+way line of 14th Street to a point 75' south of the south right-of-way line of
+11th Place.
+      (d)   On Benton Street from a point 68' south of the south right-of- way
+line of 11th Place to a point 244 feet north of the north right-of-way line of
+14th Street.
 (Prior Code, § 18-73; Ord. of 4-12-1983; Ord. of 4-23-1985; Ord. of 3-28-1995;
 Ord. of 3-25-1997; Ord. of 3-9-2000; Ord. of 10-27-2009; Ord. of 8-14-2012;
 Ord. of 8-27-2013; Ord. No. 023-2017, § 1, 5-9-2017; Ord. No. 041-2017, § 1,
 10-10-2017; Ord. No. 035-2018, § 1, 8-14-2018; Ord. No. 030-2019, § 1, 8-27-
-2019)
+2019; Ord. No. 023-2025, § 2, 9-23-2025)
 State law reference(s)—School speed limits, Texas Transportation Code §
 545.357.
 Sec. 48-11. Speed limits on specified streets.
@@ -17366,65 +16755,11 @@ Sec. 48-15. Driving between vehicles of authorized procession.
 or other authorized procession while they are in motion and when such vehicles
 are conspicuously designated as required in this chapter.
 (Prior Code, § 18-79; Ord. of 8-12-1958)
-Sec. 48-16. Primary truck routes established.
-   (a)   For the purposes of this section, the term "truck" means a single-unit
-vehicle with a manufacturer's gross weight rating of more than 10,000 pounds, a
-single-unit vehicle with tandem axles, or all truck-tractor/semitrailers. The
-term "truck" does not include a "light truck," as defined by the Texas
-Transportation Code § 541.201.
-   (b)   No person shall operate a truck on any street or roadway within the
-city except on the following portions of the following streets, which are
-hereby designated as primary truck routes:
-      (1)   Interstate Highway 20 from the west city limits to the east city
-limits.
-      (2)   U.S. Highway 87 (Gregg Street) from the north city limits to the
-south city limits.
-      (3)   State Highway 350 from the north city limits to U.S. Highway
-Business Route East (Fourth Street).
-      (4)   Interstate 20 Business Route West (Third Street) from its
-intersection with Interstate Highway 20 on the east to its intersection with
-Interstate Highway 20 on the west.
-      (5)   Interstate 20 Business Route East (Fourth Street) from its
-intersection with Interstate Highway 20 on the west to its intersection with
-Interstate Highway 20 on the east.
-      (6)   Farm to Market Road 700 from its intersection with Interstate 20
-Business Route to its intersection with Interstate Highway 20.
-   (c)   Trucks restricted to the streets designated as primary truck routes
-may depart from such route where it is necessary to load or unload merchandise
-at locations situated off of the designated routes unless such route or street
-is posted prohibiting entry by trucks, including, but not limited to, signs
-stating: "No Thru Trucks," "No Through Trucks" or similar signage. Vehicles
-permitted by this subsection to divert from designated truck routes shall
-follow the most direct truck route to the point nearest their ultimate
-destination and provided further, that such vehicles shall not leave designated
-truck routes until they have reached a turning off point that can be described
-as the shortest distance practical to the ultimate destination of the vehicle,
-which is consistent with a reasonable operation of the vehicle; provided,
-further, said vehicle may depart from the designated truck terminal, which is
-defined as an area for trans-shipment of merchandise and service and
-maintenance of trucks, provided that such vehicle proceeds by the most direct
-route that is practicable. Any such vehicles may be driven off the designated
-routes to a public garage or repair shop when reasonably necessary for the
-maintenance and repair of such vehicle; provided, however, that this provision
-shall never be construed as authorizing the repair of vehicles in areas
-otherwise prohibited by the provisions of this Code, or by state law. Any
-person operating any of the aforesaid vehicles upon any street or roadway which
-is not designated a truck route, as provided for hereinabove, shall have in his
-possession for the inspection of police officers his log book or evidence of
-his destination and point of origin to justify the presence of said vehicle on
-a street or roadway other than a designated truck route.
-   (d)   The following vehicles shall be exempt from the provisions of this
-section:
-      (1)   Authorized emergency vehicles (as defined by Texas Transportation
-Code § 541.201).
-      (2)   Municipal and utility service vehicles.
-      (3)   Vehicles transporting hazardous materials as regulated by section
-48-17.
-   (e)   Appropriate signs and marking shall be erected and maintained advising
-the operators of trucks of the streets and highways which have been designated
-as primary truck routes.
-(Prior Code, § 18-80; Ord. of 7-24-1979; Ord. No. 031-2018, § 1, 7-24-2018;
-Ord. No. 034-2018, § 1, 8-14-2018)
+Sec. 48-16. Reserved.
+   Editor’s note—Ord. No. 037-2025, § 3, adopted 10-28-2025 repealed Sec. 48-16
+and pertained to primary truck routes, and derived from Prior Code § 18-80; Ord
+of 7-24-1979; Ord. No. 031-2018, § 1, 7-24-2018; Ord. No. 034-2018, § 1, 8-14-
+2018.
 Sec. 48-17. Truck routes established for vehicles transporting hazardous
 materials.
    (a)   The term "vehicles transporting hazardous materials," as used in this
@@ -17713,11 +17048,11 @@ semitrailer but does not include self-propelled wheelchairs or mechanical
 devices while being used by handicapped individuals.
    (b)   Illustrations.
 Typical Residential Lot
-[https://export.amlegal.com/media/315f8ab000984ee52da7b870abfc5c2630e7aea9/
+[https://export.amlegal.com/media/9edd638c686543b968146057d7f04f96bffcf6fe/
 IMAGES/0-0-0-1958.png]
  
 Corner Residential Lot
-[https://export.amlegal.com/media/315f8ab000984ee52da7b870abfc5c2630e7aea9/
+[https://export.amlegal.com/media/9edd638c686543b968146057d7f04f96bffcf6fe/
 IMAGES/0-0-0-1960.png]
  
 (Prior Code, § 18-128; Ord. of 3-27-2012; Ord. of 2-25-2014)
@@ -18811,6 +18146,77 @@ that a person violated this article while acting to prevent imminent death or
 bodily injury to any person involved in an accident or at the direction of a
 peace officer.
 (Ord. No. 007-2023, § 3, 1-10-2023)
+Secs. 48-215—48-300. Reserved.
+ARTICLE VII. TRUCK ROUTES
+Sec. 48-301. Definitions.
+   The following definitions apply in this article.
+   Interstate Highway 20 includes Interstate Highway 20 and its service roads,
+exit ramps, on ramps, and overpasses.
+   Truck. The term “truck” means a single-unit vehicle with a manufacturer’s
+gross weight rating of more than 10,000 pounds, a single-unit vehicle with
+tandem axles, or all truck-tractor/semi-trailers. The term “truck” does not
+include a “light truck” or “authorized emergency vehicle” as defined by the
+Texas Transportation Code § 541.201, a school bus, a church bus, or a municipal
+or utility service truck.
+   Primary Truck Route. The term “primary” means the route officially
+designated by the city of Big Spring as stated herein. This route is a
+designated roadway designed for the safe and efficient movement of trucks and
+other large commercial vehicles as part of a heavy traffic channel.
+   Within the city means inside the city limits of the City of Big Spring and
+excludes any of the following movement:
+   (1)   Where it is necessary for commercial purposes to load or unload
+materials or merchandise at locations situated off primary routes provided the
+truck leaves and returns to the designated truck route by the most direct route
+available.
+   (2)   Trucks driven off the designated routes to a public garage or repair
+shop when reasonably necessary for the maintenance and repair of such vehicle;
+provided, however, that this provision shall never be construed as authorizing
+the repair of vehicles in areas otherwise prohibited by the provisions of this
+Code, or by state law.
+   (3)   Trucks moving household goods in accordance with the Federal Motor
+Carrier Safety Administration Household Goods program.
+   (4)   For local trucks, traveling to or from a place where a truck can be
+legally parked or stored while not in use, provided the truck leaves and
+returns to the designated truck route by the most direct route available.
+   (5)   A truck shall not be required to enter or exit directly onto the
+designated truck route if such entry or exit would be unsafe from a traffic
+safety standpoint as determined and as so designated by the chief of police.
+(Ord. No. 037-2025, § 2, 10-28-2025)
+Sec. 48-302. Presumption.
+   Any person operating a truck within the city shall have in his possession
+for the inspection of peace officers evidence of his destination and point of
+origin to justify the presence of said vehicle on a street or roadway other
+than a route designated above. Failure to have such evidence in his possession
+shall not be an offense, but shall create a presumption that such person is
+operating the truck within the city. Any person operating a truck upon any
+street or roadway which is not designated a primary truck route, as provided
+for hereinabove, shall have in his possession for the inspection of police
+officers his log book or evidence of his destination and point of origin to
+justify the presence of said truck on a street or roadway other than a
+designated truck route.
+(Ord. No. 037-2025, § 2, 10-28-2025)
+Sec. 48-303. Primary truck routes established.
+   (a)   It shall be unlawful for any person to drive or operate a truck on any
+roadway or highway that is not designated as a primary truck route. The
+following portions of the following and roadways and highways, which are hereby
+designated as primary truck routes. It is a defense to prosecution that the
+truck was not "within the city" as defined in this article:
+   (l)   Interstate Highway 20 from the west city limits to the east city
+limits.
+   (2)   Farm to Market Road 700 (Marcy Drive) from its intersection with
+Business Interstate Highway 20-G to its intersection with Interstate Highway
+20.
+   (3)   Business Interstate Highway 20-G (formerly known as West Highway 80)
+from its intersection with Interstate Highway 20 to its intersection with Farm
+to Market Road 700 (Marcy Drive).
+   (4)   Business Interstate Highway 20-G (Fourth Street) from its intersection
+with Farm to Market Road 700 (Marcy Drive) to Interstate Highway 20.
+   (5)   Business Interstate Highway 20-G (Third Street) from its intersection
+with Interstate Highway 20 to Farm to Market Road 700 (Marcy Drive)
+   (b)   Appropriate signs and marking shall be erected and maintained advising
+the operators of trucks of the streets and highways which have been designated
+as primary truck routes.
+(Ord. No. 037-2025, § 2, 10-28-2025)
 Chapter 50 UTILITIES 1
  
 Notes
@@ -19383,14 +18789,14 @@ in section
    (b)   Water usage rate table:
 Inside City Limits—Residential
 0—2,000 gallons      $1.50 per thousand gallons
-3,000—10,000 gallons $4.60 per thousand gallons
-11,000—20,000 gallons$6.82 per thousand gallons
-21,000—50,000 gallons$7.15 per thousand gallons
->50,000 gallons        $7.50 per thousand gallons
+3,000—10,000 gallons $4.74 per thousand gallons
+11,000—20,000 gallons$7.02 per thousand gallons
+21,000—50,000 gallons$7.36 per thousand gallons
+>50,000 gallons        $7.73 per thousand gallons
 Inside City Limits—Commercial
-0—50,000 gallons     $5.17 per thousand gallons
-51,000—100,000 gallon$6.48 per thousand gallons
->100,000 gallons       $6.90 per thousand gallons
+0—50,000 gallons     $5.32 per thousand gallons
+51,000—100,000 gallon$6.67 per thousand gallons
+>100,000 gallons       $7.11 per thousand gallons
  
 Note: For customers receiving water utility service outside the corporate
 limits of the city, rates for base rate and usage shall be doubled as set forth
@@ -19423,7 +18829,8 @@ consumption shall be computed using the commercial usage rate table in section
 (b) of this section.
 (Prior Code, § 16-70; Ord. of 9-27-2016; Ord. of 10-24-2017; Ord. No. 041-2018,
 § 1, 9-11-2018; Ord. No. 058-2018, § 1, 12-11-2018; Ord. No. 042-2021, § 1, 9-
-28-2021; Ord. No. 035-2022, § 1, 9-27-2022; Ord. No. 044-2023, § 1, 9-26-2023)
+28-2021; Ord. No. 035-2022, § 1, 9-27-2022; Ord. No. 044-2023, § 1, 9-26-2023;
+Ord. No. 029-2025, § 2, 9-23-2025)
 Editor's note(s)—Section 8 of Ord. No. 044-2023 states that "this ordinance
 shall take effect for the October 2023 monthly utility billing cycle."
 Sec. 50-93. Reserved.
@@ -23014,6 +22421,39 @@ Ord. No. 047-2019  12-10-2019 1                 2-57
 009-2025           5-13-2025  2                 1-2
                             3                 38-1
                             4                 38-6
+010-2025           5-27-2025  2 Added           2-1
+                            Rnbd              2-137
+                            as                2-2
+014-2025           6-2-2025   2 Rnbd            38-10
+                            as                1-12
+015-2025           7-8-2025   2 Rpld            34-1
+                            3 Rpld            34-3
+016-2025           7-8-2025   2 Rpld            10-48—10-57
+                            Added             10-48
+017-2025           7-8-2025   3 Added           10-17
+                            4 Rnbd            10-2
+                            as                10-18
+                            5 Rpld            10-19—10-22
+                            Added             10-19
+020-2025           8-26-2025  1                 2-22
+                            2                 2-23
+                            3                 2-25
+023-2025           9-23-2025  2                 48-10
+029-2025           9-23-2025  1                 50-92
+030-2025           9-23-2025  1                 44-41
+032-2025           10-28-2025 2                 2-164,
+                                                2-165
+                            Added             2-166
+033-2025           10-28-2025 1                 2-58
+                            2 Added           2-59
+035-2025           10-28-2025 2                 40-234—
+                                                40-236
+036-2025           10-28-2025 3 Added           40-230—
+                                                40-233
+037-2025           10-28-2025 2 Added           48-301—
+                                                48-303
+                            3 Rpld            48-16
+042-2025           12-9-2025  1                 40-331
                                               
  
 STATE LAW REFERENCE TABLE
@@ -23052,8 +22492,6 @@ Article                           this Code
 2.12                              30-99
 18.05                             38-11
 62.001 et seq.                    Ch. 38, Art. III
-102.017                           34-1
-102.0172                          34-3
  
 Texas Education Code
  
@@ -23316,7 +22754,7 @@ ch. 501                    36-115,
 ch. 541                    48-111
 ch. 541 et seq.            ch. 48 (note)
 541.201                    40-20
-541.201                    48-16
+541.201                    48-301
 541.303                    46-9
 542.202(a)(1)              Ch. 48, Art. IV
 542.202(a)(2)              Ch. 48, Art. IV
