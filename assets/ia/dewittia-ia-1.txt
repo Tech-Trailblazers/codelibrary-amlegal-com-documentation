@@ -41,6 +41,13 @@ Jun-25    55.09                   2024-14  12-2-24  Vicious Dogs
           92.02                   2025-01  2-3-25   Water Rates
           Ch. 127                 2025-02  5-5-25   Mobile Food Vendors
 Jul-25    41.14(3)                2025-03  6-16-25  Fireworks
+Dec-25    Ch.                     2025-04  8-4-25   Animal Protection and
+          55                                        Control
+          Ch.                     2025-05  10-20-25 Zoning Map
+          165
+          Ch.                                       DeWitt Economic Develompent
+          10                      2025-06  11-17-25 District (Deleting
+                                                    Property)
 CHAPTER 1
 CODE OF ORDINANCES
  
@@ -1195,6 +1202,8 @@ ORDINANCE NO. ADOPTED           NAME OF AREA
 2022-01       February 7, 2022  January 2022 Addition to DeWitt Economic
                                 Development District
 2022-03       April 18, 2022    Amends Ord. 2021-04
+2025-06       November 17, 2025 DeWitt Economic Development District (Deleting
+                                Property)
 CHAPTER 11
 DEWITT SELF-SUPPORTED MUNICIPAL IMPROVEMENT DISTRICT
  
@@ -4154,8 +4163,8 @@ into the human body a controlled substance in violation of the Uniform
 Controlled Substances Act, Chapter 124 of the Code of Iowa.
 CHAPTER 55
 ANIMAL PROTECTION AND CONTROL
-55.01 Definitions                  55.14 Regulation of Keeping High-Risk
-                                   Animals
+55.01 Definitions                  55.14 Keeping, Sheltering or Harboring
+                                   Dangerous/Vicious Animals
 55.02 Animal Neglect               55.15 Impoundment of High-Risk Animals
 55.03 Livestock Neglect            55.16 At Large: Impoundment
 55.04 Abandonment of Cats and Dogs 55.17 Disposition of Animals
@@ -4163,111 +4172,115 @@ ANIMAL PROTECTION AND CONTROL
 55.06 At Large Prohibited          55.19 Sterilization
 55.07 Damage or Interference       55.20 Animal Pound
 55.08 Annoyance or Disturbance     55.21 Animal Adoption
-55.09 Vicious Dogs                 55.22 Unhealthful or Unsanitary Conditions
+55.09 Vicious Animal               55.22 Unhealthful or Unsanitary
+                                   Conditions
 55.10 Rabies Vaccination           55.23 Number of Animals Limited
 55.11 Owner’s Duty               55.24 Pet Awards Prohibited
-55.12 Confinement                  55.25 Tampering With A Rabies Vaccination
-                                   Tag
-55.13 High-Risk Animals            55.26 Tampering With An Electronic Handling
-                                   Device
+55.12 Quarantine/Confinement       55.25 Tampering With A Rabies Vaccination
+Requirements                       Tag
+55.13 High-Risk Animals            55.26 Tampering With An Electronic
+                                   Handling Device
  
 55.01   DEFINITIONS.
 The following terms are defined for use in this chapter.
    1.   “Advertise” means to present a commercial message in any medium,
 including (but not limited to) print, radio, television, sign, display, label,
-tag, or articulation.
-(Code of Iowa, Sec. 717E.1)
+tag or articulation.
    2.   “Animal” means a nonhuman vertebrate.
-(Code of Iowa, Sec. 717B.1)
-   3.   “Animal shelter” means a facility which is used to house or contain
-dogs or cats, or both, and which is owned, operated, or maintained by an
-incorporated humane society, animal welfare society, society for the prevention
-of cruelty to animals, or other nonprofit organization devoted to the welfare,
-protection, and humane treatment of such animals.
-(Code of Iowa, Sec. 162.2)
+Ref. (Code of Iowa, Sec. 717B.1)
+   3.   “Animal control officer” means a person designated by the Council to
+perform such duties involving animal control and having authority for the
+enforcement of this chapter.
    4.   “At large” means off the premises of the owner and not under the
 control of a competent person, restrained within a motor vehicle, or housed in
-a veterinary hospital or kennel.
+a veterinary hospital or kennel, on a leash, or at heel beside a competent
+person and obedient to that person’s command
    5.   “Business” means any enterprise relating to any of the following:
-(Code of Iowa, Sec. 717E.1)
       A.   The sale or offer for sale of goods or services.
       B.   A recruitment for employment or membership in an organization.
       C.   A solicitation to make an investment.
       D.   An amusement or entertainment activity.
-   6.   “Commercial establishment” means an animal shelter, boarding kennel,
-commercial breeder, commercial kennel, dealer, pet shop, pound, public auction,
-or research facility.
-(Code of Iowa, Sec. 717.B1)
-   7.   “Dangerous Animal” means and includes any animal which is not naturally
-tamed or gentle; or which is of a wild nature or disposition; or which is
-capable of killing or inflicting serious injury upon human beings and having
-known tendencies, individually or as a species, to do so; or which, because of
-its size or other characteristics, would constitute a danger to human life or
-property if it is not kept or maintained in a safe manner or in secure
-quarters, including, but not limited to, the following animals, which shall be
-deemed as dangerous per se: bears, wolves, wolf hybrid dogs, foxes, coyotes,
-lions, tigers, panthers, lynx, bobcats, elephants, bison, poisonous or venomous
-snakes, poisonous or venomous spiders, poisonous or venomous reptiles or other
-poisonous or venomous animals, alligators, crocodiles, anacondas, pythons, boa
-constrictors, and piranhas.
-   8.   “Fair” means any of the following:
-(Code of Iowa, Sec. 717E.1)
+   6.   “Cat” means a member of the Felis domestica species, male or female,
+whether altered or not.
+   7.   “Dog” means a member of the canine species, male or female, whether
+altered or not.
+   8.   “Dangerous animal-high risk” means and includes any animal which is not
+naturally tamed or gentle; or which is of a wild nature or disposition; or
+which is capable of killing or inflicting serious injury upon human beings and
+having known tendencies, individually or as a species, to do so; or which,
+because of its size or other characteristics, would constitute a danger to
+human life or property if it is not kept or maintained in a safe manner or in
+secure quarters, including, but not limited to, the following animals, which
+shall be deemed as dangerous per se: bears, wolves, wolf hybrid dogs, foxes,
+coyotes, lions, tigers, panthers, lynx, bobcats, elephants, bison, poisonous or
+venomous snakes, poisonous or venomous spiders, poisonous or venomous reptiles
+or other poisonous or venomous animals, alligators, crocodiles, anacondas,
+pythons, boa constrictors, and piranhas. Dangerous animals also include but are
+not limited to:
+      A.   Any cross breed of such animals which have similar characteristics
+of the animals specified above;
+      B.   Any other specific class, species or subspecies of animals declared
+to be high-risk or dangerous by the City Council.
+      C.   Any other animal deemed “dangerous” in accordance with Iowa Code
+§717F.1(5), as amended.
+   9.   “Fair” means any of the following:
       A.   The annual fair and exposition held by the Iowa State Fair Board
 pursuant to Chapter 173 of the Code of Iowa or any fair event conducted by a
 fair under the provisions of Chapter 174 of the Code of Iowa.
       B.   An exhibition of agricultural or manufactured products.
       C.   An event for operation of amusement rides or devices or concession
 booths.
-   9.   “Game” means a “game of chance” or “game of skill” as defined in
+   10.   “Game” means a “game of chance” or “game of skill” as defined in
 Section 99B.1 of the Code of Iowa.
-(Code of Iowa, Sec. 717E.1)
-   10.   “High-risk animals” means any animal that satisfies one or more of the
-following:
-      A.   Chases or approaches a person, domestic animal, fowl, or livestock
-in an apparent attitude of attack, or
-      B.   Attacks a person, domestic animal, fowl, or livestock, or
-      C.   Bites, harms, or attempts to bite or harm a person, domestic animal,
-fowl, or livestock; and
-      D.   Such action, attack, or bite as enumerated above in Paragraphs A, B,
-and C results in a judgment against the owner for a violation of Chapter 55.
-   11.   “Injury” means an animal’s disfigurement; the impairment of an
-animal’s health; or an impairment to the functioning of an animal’s limb or
-organ, or the loss of an animal’s limb or organ.
-(Code of Iowa, Sec. 717.B1)
-   12.   “Livestock” means an animal belonging to the bovine, caprine, equine,
-ovine or porcine species, ostriches, rheas, and emus; farm deer (as defined in
-Section 170.1 of the Code of Iowa); or poultry.
-(Code of Iowa, Sec. 717.1)
-   13.   “Owner” means any person owning, keeping, sheltering, or harboring an
+   11.   “Guard dog” means any dog trained or used to protect persons or
+property by attacking or threatening to attack any person found within the area
+patrolled by the dog and that is either securely enclosed within that area at
+all times or under the continuous control of a trained handler that is 18 yrs
+or older.
+   12.   “Kennel” means any State or federally licensed premises on which dogs
+or cats, six months old or older, are kept or raised for the bona fide purpose
+of sale and which are kept under constant restraint.
+   13.   “Livestock” means an animal belonging to the bovine, caprine, equine,
+ovine or porcine species, ostriches, rheas and emus; farm deer as defined in
+Section 170.1 of the Code of Iowa; or poultry.
+Ref. (Code of Iowa, Sec. 717.1)
+   14.   “Owner” means any person owning, keeping, sheltering or harboring an
 animal.
-   14.   “Pet” means a living dog, cat, or an animal normally maintained in a
+   15.   “Pet” means a living dog, cat, or an animal normally maintained in a
 small tank or cage in or near a residence, including but not limited to a
 rabbit, gerbil, hamster, mouse, parrot, canary, mynah, finch, tropical fish,
 goldfish, snake, turtle, gecko, or iguana.
-(Code of Iowa, Sec. 717E.1)
-   15.   “Pound” means a facility for the prevention of cruelty to animals
+   16.   “Pound” means a facility for the prevention of cruelty to animals
 operated by the State, a municipal corporation, or other political subdivision
 of the State for the purpose of impounding or harboring seized stray, homeless,
 abandoned, or unwanted dogs, cats, or other animals; or a facility operated for
 such a purpose under a contract with any municipal corporation or incorporated
 society.
-(Code of Iowa, Sec. 162.2)
-   16.   “Research facility” means any school or college of medicine,
+Ref. (Code of Iowa, Sec. 162.2)
+   17.   “Research facility” means any school or college of medicine,
 veterinary medicine, pharmacy, dentistry, or osteopathic medicine, or hospital,
 diagnostic or research laboratories, or other educational or scientific
 establishment situated in the State concerned with the investigation of, or
 instruction concerning the structure or function of living organisms, the
 cause, prevention, control, or cure of diseases or abnormal conditions of human
 beings or animals.
-(Code of Iowa, Sec. 162.2)
-   17.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169
+Ref. (Code of Iowa, Sec. 162.2)
+   18.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169
 of the Code of Iowa who practices veterinary medicine in the State.
-(Code of Iowa, Sec. 717.B1)
+   19.   “Vicious animal” means any dog or other animal which, unprovoked and
+in a terrorizing manner, or in apparent attitude of attack, approaches any
+person upon the streets, sidewalks or any public grounds or places; or any dog
+with a known propensity, tendency or disposition to attack unprovoked, to cause
+injury or to otherwise endanger the safety of human beings or domestic animals;
+or any dog which bites, inflicts injury upon, assaults or otherwise attacks a
+human being or domestic animal on public or private property; or any dog or
+other animal owned or harbored primarily or in part for the purpose of fighting
+or any animal trained for fighting.
 55.02   ANIMAL NEGLECT.
    1.   It is unlawful for a person who owns or has custody of an animal and
 confines that animal to fail to provide the animal with any of the following
 conditions for the animal’s welfare:
-(Code of Iowa, Sec. 717B.3)
+Ref. (Code of Iowa, Sec. 717B.3)
       A.   Access to food in an amount and quality reasonably sufficient to
 satisfy the animal’s basic nutrition level to the extent that the animal’s
 health or life is endangered.
@@ -4302,11 +4315,11 @@ following apply:
 of the commercial establishment’s operation.
          (2)   In providing conditions for the welfare of the animal, as
 described in Subsection 1, the person complied with the standard of care
-requirements provided in Section 162.10A[1] of the Code of Iowa, including any
+requirements provided in Section 162.10A(1) of the Code of Iowa, including any
 applicable rules adopted by the Department of Agriculture and Land Stewardship
 applying to: (i) a State licensee or registrant operating pursuant to Section
-162.10A[2a] or [2b] of the Code of Iowa; or (ii) a permittee operating pursuant
-to Section 162.10A[2c] of the Code of Iowa.
+162.10A(2)(a) or (2)(b) of the Code of Iowa; or (ii) a permittee operating
+pursuant to Section 162.10A(2)(c) of the Code of Iowa.
       B.   A research facility if the research facility has been issued or
 renewed a valid authorization by the Department of Agriculture and Land
 Stewardship pursuant to Chapter 162 of the Code of Iowa, and performs functions
@@ -4318,12 +4331,12 @@ fail to provide the livestock with care consistent with customary animal
 husbandry practices, or to deprive the livestock of necessary sustenance, or to
 injure or destroy livestock by any means that causes pain or suffering in a
 manner inconsistent with customary animal husbandry practices.
-(Code of Iowa, Sec. 717.2)
+Ref. (Code of Iowa, Sec. 717.2)
 55.04   ABANDONMENT OF CATS AND DOGS.
 It is unlawful for a person who owns or has custody of a cat or dog to
 relinquish all rights in and duties to care for the cat or dog. This section
 does not apply to any of the following:
-(Code of Iowa, Sec. 717B.8)
+Ref. (Code of Iowa, Sec. 717B.8)
    1.   The delivery of a cat or dog to another person who will accept
 ownership and custody of the cat or dog.
    2.   The delivery of a cat or dog to an animal shelter or pound or that has
@@ -4356,125 +4369,214 @@ It is unlawful for the owner of a dog to allow or permit such dog to cause
 serious annoyance or disturbance to any person by frequent and habitual
 howling, yelping, barking, or otherwise, or by running after or chasing
 persons, bicycles, automobiles, or other vehicles.
-55.09   VICIOUS DOGS.
-It is unlawful for any person to harbor or keep a vicious dog within the City.
-A dog is deemed to be vicious when it has attacked or bitten any person without
-provocation, or when propensity to attack or bite persons exists and is known
-or ought reasonably to be known to the owner. Additionally, any dog that has
-been deemed vicious or declared dangerous by any previous administrative body,
-tribunal, or City Officer for which the animal would be defined as high risk
-according to this chapter, shall immediately report the same to the City in
-writing and become subject to the special precautions required in this chapter
-as well as those applicable sections of
-Chapter 57.
-(Section 55.09 – Ord. 2024-14 – Jun. 25 Supp.)
+55.09   VICIOUS ANIMAL.
+It shall be unlawful for any person to own, keep, or harbor a dangerous/vicious
+animal within the City unless the dangerous/vicious animal is kept in
+accordance with the provisions listed below in Section
+55.13. A person who violates this section shall be subject to a municipal
+infraction which may include the permanent removal of the dangerous/vicious
+animal from the City limits.
+   1.   The Polic Chief is authorized to implement the provisions of Section
+55.12 (quarantine/confinement requirements) in response to a violation of this
+section.
+   2.   In the event an animal has acted in a manner described in Section
+55.01(4) and is found at large or unattended upon any property within the City,
+thereby creating a hazard to life or property, such animal may, at the
+discretion of the Police Chief or his/her designee, be destroyed if it cannot
+safely be confined or captured. The City shall be under no duty to attempt the
+confinement or capture of a dangerous/vicious animal found at large, nor shall
+it have a duty to notify the owner of such animal prior to its destruction.
+   3.   In the event that the Police Chief determines that an animal has acted
+in a manner described in Section
+55.01(19), the Police Chief or his/her designee has discretional authority to
+cite or summons such animal owner before the proper court or refer the matter
+to the City Council to determine disposition.
 55.10   RABIES VACCINATION.
 Every owner of a dog shall obtain a rabies vaccination for such animal. It is
-unlawful for any person to own or have a dog in said person’s possession, six
+unlawful for any person to own or have a dog in the person’s possession, six
 months of age or over, which has not been vaccinated against rabies. Dogs kept
-in State or federally licensed kennels and not allowed to run at large are not
-subject to these vaccination requirements.
-(Code of Iowa, Sec. 351.33)
+in kennels and not allowed to run at large shall not be subject to these
+vaccination requirements.
+Ref. (Code of Iowa, Sec. 351.33)
+Local health and law enforcement officials shall enforce the provisions of
+Sections
+55.10,
+55.12,
+55.15 &
+55.17 relating to vaccination and impoundment of dogs. Such public officials
+shall not be responsible for any accident or disease of a dog resulting from
+the enforcement of the provisions of said sections.
+Ref. (Code of Iowa, Sec. 351.36)
 55.11   OWNER’S DUTY.
-It is the duty of the owner of any dog, cat, or other animal that has bitten or
-attacked a person or any person having knowledge of such bite or attack to
-report this act to a local health or law enforcement official. It is the duty
-of physicians and veterinarians to report to the local board of health the
-existence of any animal known or suspected to be suffering from rabies.
-(Code of Iowa, Sec. 351.38)
-55.12   CONFINEMENT.
-If a local board of health receives information that an animal has bitten a
-person or that a dog or animal is suspected of having rabies, the board shall
-order the owner to confine such animal in the manner it directs. If the owner
-fails to confine such animal in the manner directed, the animal shall be
-apprehended and impounded by such board, and after 10 days the board may
-humanely destroy the animal. If such animal is returned to its owner, the owner
-shall pay the cost of impoundment. This section does not apply if a police
-service dog or a horse used by a law enforcement agency and acting in the
-performance of its duties has bitten a person.
-(Code of Iowa, Sec. 351.39)
+It shall be the duty of the owner of any dog, cat or other animal which has
+bitten or attacked a person or any person having knowledge of such bite or
+attack to report this act to a local health or law enforcement official. It
+shall be the duty of physicians and veterinarians to report to the local board
+of health the existence of any animal known or suspected to be suffering from
+rabies.
+Ref. (Code of Iowa, Sec. 351.38)
+55.12   QUARANTINE/CONFINEMENT REQUIREMENTS.
+In the event that the Police Department or local board of health receives
+information or has reason to believe that: (i) a dog or other animal has bitten
+a person; (ii) a dog or other animal is suspected of having rabies or other
+disease communicable to humas; (iii) a dog or other animal meets the definition
+of a vicious animal or dangerous animal (as defined in Section
+56.01 of this Code of Ordinances); or (iv) a dog or other animal is in
+violation of this Code of Ordinances, the Police Department has the authority
+to immediately take the animal to the approved vet clinic or shelter for the
+purposes of examination/testing and/or observation. It is a violation of this
+chapter for the owner of such a dog or animal to fail to or refuse to produce
+said dog or animal. The Police Chief or his designee may do any of the
+following with regard to a dog or animal that has been seized under this
+chapter:
+   1.   Retain such a dog or animal at the owner’s expense for purposes of
+observation and testing for a period of not to exceed 30 days.
+   2.   Release such animal to the control of its owner pursuant to a written
+agreement and checklist with the owner upon such terms and conditions as the
+Police Chief deems reasonably necessary to ensure public safety including but
+not limited to any one or more of the following:
+      A.   To keep the animal confined to the owner’s premises in an enclosure
+or by any other means approved by the Police Chief.
+      B.   To require the owner to identify the animal by means of a special
+blaze orange collar.
+      C.   To keep the animal securely muzzled, leashed, and under control of a
+person 18 years of age or older who is physically capable of restraining the
+animal and to keep the dog or animal on the owner’s premises at all times.
+      D.   To require the owner to inform by any means, including (but not
+limited to) the postmaster, utility companies, meter readers, or other persons
+who routinely come on the property of the owner that a dangerous/vicious animal
+is on the premises or if the owner moves his or her residence to another
+location within the City, to inform any such persons that the animal is now on
+the new premises.
+      E.   To require the owner to prove financial responsibility for any
+injury or damage which may be caused by the animal by posting a cash or surety
+bond for an amount up to $1,000.00 with the City Clerk.
+      F.   To require all impoundment fees to be paid by the owner before said
+animal is released.
+      G.   To require the owner to agree that any violation of the agreement
+will result in the animal(s) being impounded and destroyed.
+   3.   Refer the matter to the City Council or proper court to determine
+disposition.
+This section does not apply if a police service dog or a horse used by a law
+enforcement agency and acting in the performance of its duties has bitten a
+person.
 55.13   HIGH-RISK ANIMALS.
 It shall be unlawful for any person to own, keep, or harbor a high risk animal
 within the City unless the high risk animal is kept in accordance with Section
 55.14. A person who violates this section shall be subject to a municipal
 infraction which may include the permanent removal of the high-risk animal from
 the City limits.
-55.14   REGULATION OF KEEPING HIGH-RISK ANIMALS.
-   1.   All owners of high-risk animal, as defined in Section
-55.01(10) are required to keep such animal:
-      A.   From running at large;
-      B.   From going into the streets and other public or private place within
-the City unless muzzled, on a leash six feet or less in length, and under the
-control of an individual 18 years of age or older;
-      C.   Under control so as to prevent such animal from attacking or
-injuring persons, domestic animals, fowl, or livestock lawfully on the premises
-of the owner.
-      D.   All high-risk animals as defined in Section
-55.01(10) must be licensed with the Police Department.
-   2.   While on the owner’s property a high-risk animal must be securely
-confined indoors or in a securely enclosed and locked pen or structure,
-suitable to prevent the entry of young children and designed to prevent the
-high-risk animal from escaping. Such pen or structure must have minimum
-dimensions of 5’ x 10’ with height of six feet, and must have secure sides and
-be capped if need be. The enclosure must also provide the high-risk animal
-protection from the elements. Warning signs must be placed on all sides of the
-property and at least two feet from any entrance to the property. The warning
-signs must say “Dangerous Dog” or similar language adequate to warn those
-approaching.
-   3.   A representative of the City or animal control may, in their
-discretion, prior to the high-risk animal’s authorized use, inspect the
-securely enclosed locked pens, signage, and structures.
-   4.   The owner or caretaker of the high-risk animal must be 18 years of age
-or older.
-   5.   A high-risk animal’s owner must spay or neuter and microchip the
-animal. The micro chipping, spaying, or neutering procedure must be done by a
-veterinarian at the owner's expense. The data attached to the microchip must be
-kept current.
-   6.   The owner of a high-risk animal, as defined in Section
-55.01(10), shall have 10 days to comply with the provisions of this section
-once said animal satisfies the elements of Section
-55.01(10).
+55.14   KEEPING, SHELTERING OR HARBORING DANGEROUS/VICIOUS ANIMALS.
+   1.   Every person keeping, sheltering or harboring a dangerous/vicious
+animal shall annually report such f act in writing to the Police Chief,
+together with the following information:
+      A.   The species name of each animal;
+      B.   The number of such animals of each species kept on the premises;
+      C.   A physical description of such animal, including any pet names to
+which it might respond;
+      D.   The location of such animal within the City, including the location
+of the cage or place of confinement upon or in said premises where the animal
+is kept;
+      E.   In the case of poisonous animals, the location of the nearest
+sources of anti-venom of that species.
+   2.   Every person owning, keeping, shelter or harboring a dangerous/vicious
+animal shall:
+      A.   Annually register and pay the required Dangerous/Vicious Animal
+License & registration fee.
+      B.   Keep the animal from running at large;
+      C.   Keep the animal from going into the streets and other public or
+private place within the City unless muzzled, on a leash six feet or less in
+length, and under the control of an individual 18 years of age or older;
+      D.   While the animal is on the owner’s property ensure that it is
+securely confined indoors or in a securely enclosed and locked pen or
+structure, suitable to prevent the entry of young children and designed to
+prevent the dangerous/vicious animal from escaping. Such pen or structure must
+have minimum dimensions of 5’ x 10’ with height of six feet and must have
+secure sides and be capped. The enclosure must also provide the dangerous/
+vicious animal protection from the elements. Warning signs must be placed on
+all sides of the property and at least two feet from any entrance to the
+property. The warning signs must say “Dangerous/Vicious Dog” or similar
+language adequate to warn those approaching. Additionally, a representative of
+the City shall, prior to the high-risk animal’s authorized use and annually
+thereafter, inspect and document the securely enclosed locked pens, signage,
+and structures to ensure compliance requirements and file the document with the
+City Clerk.
+   3.   Every person keeping, sheltering or harboring a dangerous/vicious
+poisonous animal(s) shall be required to keep 10 doses of anti-venom on hand
+and current at all times.
+   4.   No person keeping, sheltering or harboring a dangerous or vicious
+animal shall permit or allow such animal to enter upon or traverse any property
+of another, except when such animal is being transported while in a cage or
+otherwise confined.
+   5.   It is the owner’s responsibility to notify the Police Department
+immediately in the event that a dangerous/vicious animal has escaped and is at
+large.
+   6.   In the event that the Police Chief determines that a dangerous/vicious
+animal is being kept, sheltered or harbored by any person in violation of the
+provisions of this section, the Police Department may issue a citation or
+summons to cause such person to appear before the proper court or refer the
+matter to the City Council to determine disposition.
+   7.   A dangerous/vicious animal’s owner must spay or neuter and microchip
+the animal. The micro chipping, spaying, or neutering procedure must be done by
+a veterinarian at the owner’s expense. The data attached to the microchip must
+be kept current.
+   8.   The owner of a dangerous/vicious animal, as defined in Section
+55.01, shall have 10 days to comply with the provisions of this section once
+said animal satisfies any of the elements of Section
+55.01.
+   9.   Keeping Guard Dogs. The prohibition contained in this section does not
+apply to keeping of guard dogs. However, guard dogs must be kept within a
+structure, or a fenced enclosure as defined in Section
+55.14(4) at all times. Any guard dog found at large may be processed as a
+dangerous/vicious animal pursuant to the provisions of this section. Any
+premises guarded by a guard dog shall be prominently posted with a sign
+containing the words “GUARD DOG” or words of similar importance, and the owner
+of such premises shall inform the Police Department and City Clerk, in writing,
+that a guard dog is on duty at the premises. It is the owner’s responsibility
+to notify the Police Department immediately when a guard dog has escaped and is
+running at large.
 55.15   IMPOUNDMENT OF HIGH-RISK ANIMALS.
-   1.   The Police Department shall immediately seize and impound any high-risk
-animal if:
+   1.   The Police Department shall immediately seize and impound any
+dangerous/vicious animal if:
       A.   The animal is not licensed as required by Section
-55.14(1)(D); or
+55.14(1)(B); or
       B.   The owner does not secure the animal in a proper enclosure; or
       C.   The animal is outside the proper enclosure and not under physical
 restraint of a responsible person 18 years of age or older by a leash not
 longer than six feet or not muzzled.
    2.   Impoundment and Disposition.
-      A.   First Offense. The first time a high-risk animal is seized under
-this section it may be reclaimed by the owner of the animal upon payment of
-impounding and boarding fees, and presentation of proof to the Police
-Department that the requirements of Section
+      A.   First Offense. The first time a dangerous/vicious animal is seized
+under this section it may be reclaimed by the owner of the animal upon payment
+of impounding and boarding fees, and presentation of proof to the Police
+Department that all the applicable requirements of Section
 55.14 have been met. Additionally, the owner shall be subject to a municipal
 infraction. An animal not reclaimed within seven days may be disposed of as
 provided under Section
 55.17, and the owner is liable to the Police Department for costs incurred in
 confining and disposing of the animal.
-      B.   Second Offense. The second time a high-risk animal is seized under
-this section it may be reclaimed by the owner upon payment of impounding and
-boarding fees, and presentation of proof, which shall include a signed
+      B.   Second Offense. The second time a dangerous/vicious animal is seized
+under this section it may be reclaimed by the owner upon payment of impounding
+and boarding fees, and presentation of proof, which shall include a signed
 affidavit from the person taking custody of the animal, to the Police
 Department that the animal will be removed from the City. An animal not
 reclaimed within seven days will be disposed of as provided under Section
 55.17, and the owner is liable to the Police Department for costs incurred in
 confining and disposing of the animal.
-      C.   Third Offense. The third time a high-risk animal is seized under
+      C.   Third Offense. The third time a dangerous animal is seized under
 this section it shall be euthanized and the owner shall be liable to the Police
 Department for the costs incurred in confining and disposing of the animal.
    3.   Any animal believed by the City Administrator, the City Administrator’s
-designee, or the Police Department to be a high risk animal shall be impounded,
-at the owner's expense, until such time as a final resolution is reached or
-until such time the animal is reclaimed by the owner of the animal upon payment
-of impounding and boarding fees, and presentation of proof to the Police
-Department that the requirements of Section
-55.14 have been met..
+designee, or the Police Department to be a dangerous/vicious-animal shall be
+impounded, at the owner's expense, until such time as a final resolution is
+reached or until such time the animal is reclaimed by the owner of the animal
+upon payment of impounding and boarding fees, and presentation of proof to the
+Police Department that all the applicaple requirements of Section
+55.14 have been met.
 55.16   AT LARGE: IMPOUNDMENT.
 Animals found at large in violation of this chapter shall be seized and
-impounded, or at the discretion of the peace officer, the owner may be served a
-summons to appear before a proper court to answer charges made thereunder.
+impounded, and/or at the discretion of the peace officer, the owner may be
+served a summons to appear before a proper court to answer charges made
+thereunder.
 55.17   DISPOSITION OF ANIMALS.
 When an animal has been apprehended and impounded, written notice shall be
 provided to the owner within two days after impoundment, if the owner’s name
@@ -4489,13 +4591,13 @@ animal within seven days from the date that the notice is mailed, or if the
 owner cannot be located within seven days and the animal has not been adopted,
 the animal shall be disposed of in accordance with law or destroyed by
 euthanasia.
-(Code of Iowa, Sec. 351.37, 351.41)
+Ref. (Code of Iowa, Sec. 351.37, 351.41)
 55.18   IMPOUNDING COSTS.
-Impounding fees for animals are $25.00 for the first impoundment of any
+Impoundment fees for each animal is $25.00 for the first impoundment of any
 calendar year and $35.00 for the second and $50.00 for the third and successive
 impoundment of the same animal during any calendar year. In addition to
-impounding fees, boarding costs for animals are $15.00 per day.
-(Code of Iowa, Sec. 351.37 and 351.41)
+impounding fees, boarding costs for animals are $15.00 per day, per animal.
+Ref. (Code of Iowa, Sec. 351.37 and 351.41)
 55.19   STERILIZATION.
 No unclaimed dog or cat shall be released for adoption without being neutered
 or spayed or without a written agreement from the adopter guaranteeing that
@@ -4513,13 +4615,15 @@ destruction of animals as provided in this chapter.
    3.   The animal control personnel, upon impounding any animal pursuant to
 this chapter, shall make a complete registration for such animal, entering the
 date, species, breed, color, and sex of such animal, any tattoo number and
-whether licensed. If such animal is licensed, the name and address of the owner
-and the number of the license tag shall also be entered. The register of
-impounded animals shall be available for inspection during reasonable hours by
-the owners of animals not wearing the required tag when impounded.
+whether licensed. If such animal is chipped or licensed, the name and address
+of the owner and the number of the license tag shall also be entered. The
+register of impounded animals shall be available for inspection during
+reasonable hours by the owners of animals not wearing the required tag when
+impounded.
    4.   The Clerk may be designated as the official agent of the City for the
 purpose of issuing City animal licenses and collecting licensing fees therefore
-pursuant to the provisions of Chapter 57.
+pursuant to the provisions of
+Chapter 57.
    5.   No person shall willfully interfere with, molest, or injure an agent of
 the City authorized to enforce the provisions of this chapter or seek to
 release any animal properly in the custody of such authorized agent.
@@ -4546,14 +4650,11 @@ infraction.
 55.23   NUMBER OF ANIMALS LIMITED.
 The total combined number of cats and dogs over the age of four months which
 may be kept in anyone household shall be limited to five. All animals kept must
-be licensed. This section shall not apply to a person who operates a commercial
-licensed kennel in an area properly zoned therefore. A household with five or
-more registered dogs or cats as of September 8, 2008, have until September 8,
-2010, to comply with this regulation. Any person violating this section may be
-charged with a municipal infraction and be compelled to remove excess animals
-from the property.
+be licensed. This section shall not apply to a person who operates a
+commercially State licensed kennel in an area properly zoned therefore. Any
+person violating this section may be charged with a municipal infraction and be
+compelled to remove excess animals from the property.
 55.24   PET AWARDS PROHIBITED.
-(Code of Iowa, Ch. 717E)
    1.   Prohibition. It is unlawful for any person to award a pet or advertise
 that a pet may be awarded as any of the following:
       A.   A prize for participating in a game.
@@ -4570,9 +4671,9 @@ premises of the pet shop.
 the Izaak Walton League of America; or organizations associated with outdoor
 recreation, hunting, or fishing, including but not limited to the Iowa
 Sportsmen’s Federation.
+Ref. (Code of Iowa, Ch. 717E)
 55.25   TAMPERING WITH A RABIES VACCINATION TAG.
 It is unlawful to tamper with a rabies vaccination tag.
-(Code of Iowa, Sec. 351.45)
    1.   A person commits the offense of tampering with a rabies vaccination tag
 if all of the following apply:
       A.   The person knowingly removes, damages, or destroys a rabies
@@ -4585,9 +4686,9 @@ to take action by the owner.
       B.   A peace officer.
       C.   A veterinarian.
       D.   An animal shelter or pound.
+Ref. (Code of Iowa, Sec. 351.45)
 55.26   TAMPERING WITH AN ELECTRONIC HANDLING DEVICE.
 It is unlawful to tamper with an electronic handling device.
-(Code of Iowa, Sec. 351.46)
    1.   A person commits the offense of tampering with an electronic handling
 device if all of the following apply:
       A.   The person knowingly removes, disables, or destroys an electronic
@@ -4602,6 +4703,8 @@ to take action by the owner.
       B.   A peace officer.
       C.   A veterinarian.
       D.   An animal shelter or pound.
+Ref. (Code of Iowa, Sec. 351.46)
+(Chapter 55 – Ord. 2025-04 – Dec. 25 Supp.)
 CHAPTER 56
 URBAN CHICKENS
  
@@ -13032,7 +13135,7 @@ floor slab reinforced with wire mesh or fiber mesh shall be installed within
 the perimeter beam and shall be formed to allow a continuous pour consisting of
 the required grade beam and floor. (See exhibit A).
 Exhibit A
-[https://export.amlegal.com/media/83282f1360f006ac2a6783cb5525e56af06d9d26/
+[https://export.amlegal.com/media/a3969280cde48ae71605d8fb9fd4bcb31dc2a2ee/
 IMAGES/0-0-0-3224.png]
       C.   Buildings or portions of buildings containing mechanical
 installations and connected to underground utilities shall be supported on a
@@ -15074,6 +15177,7 @@ ORDINANCE ADOPTED           ORDINANCE ADOPTED
 2018-07   December 3, 2018
 2020-05   June 15, 2020
 2024-05   August 19, 2024
+2025-05   October 20, 2025
  
 CHAPTER 170
 SUBDIVISION REGULATIONS
