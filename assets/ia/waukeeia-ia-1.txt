@@ -391,6 +391,17 @@ Nov-25    Ch. 110                   3158     11-3-25  Natural Gas Rates and
                                                       (Projects 2 and 3
                                                       Property)
           Ch. 52                    3167     11-11-25 Noise Control
+Dec-25    Ch. 112                   3168     12-1-25  Cable Television
+                                                      Franchise
+                                                      Amended Kettlestone Phase
+          Ch. 9                     3163-A   12-15-25 1 Commercial Urban
+                                                      Renewal Area (Amendment
+                                                      No. 1) (Correcting)
+                                                      Kettlestone Phase 5
+          Ch. 9                     3165-A   12-15-25 Commercial Urban Renewal
+                                                      Area (Correcting)
+          68.14(1)                  3169     12-15-25 Snow Emergency
+          Ch. 169                   3170     12-15-25 Rezoning from A-1 to C-1A
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -2024,6 +2035,10 @@ Resolution #13-257 10/21/2013 Gateway Economic Development Urban Renewal Plan
 3165               11/17/25   Kettlestone Phase 5 Commercial Urban Renewal Area
 3166               11/17/25   Kettlestone Residential Urban Renewal Area
                               (Projects 2 and 3 Property)
+3163-A             12/15/25   Amended Kettlestone Phase 1 Commercial Urban
+                              Renewal Area (Amendment No. 1) (Correcting)
+3165-A             12/15/25   Kettlestone Phase 5 Commercial Urban Renewal Area
+                              (Correcting)
  
 CHAPTER 15
 MAYOR
@@ -7549,14 +7564,13 @@ allowed to extend over more than two consecutive calendar days.
 (Section 68.13 – Ord. 3070 – Apr. 23 Supp.)
 68.14   SNOW EMERGENCY.
 1.   No person shall park, abandon, or leave unattended any vehicle on any
-public street, alley, or City-owned off-street parking area during snow
-emergency proclaimed by the Public Works Director unless the snow has been
-removed or plowed from said street, alley, or parking area and the snow has
-ceased to fall. A snow emergency parking ban shall continue from its
-proclamation through the duration of the snow or ice storm and the 48-hour
-period after cessation of such storm, except as above provided upon streets
-that have been fully opened.
-(Code of Iowa, 321.236[1])
+public street, alley, or City-owned off-street parking area during a snow
+emergency proclaimed by the Public Works Director. A snow emergency parking ban
+shall continue from its proclamation through the duration of the snow or ice
+storm and the 24-hour period after cessation of such storm or until the Public
+Works Director suspends the snow emergency parking ban.
+(Code of Iowa, 321.236(1))
+(Subsection 1 – Ord. 3169 – Dec. 25 Supp.)
 2.   Publication of Restrictions During Snow Emergency. Such a ban shall be of
 uniform application and the Public Works Department is directed to widely
 publicize the requirements, using all available news media, in early November
@@ -14600,440 +14614,19 @@ provided to the public by the Company pursuant to this chapter.
 CHAPTER 112
 CABLE TELEVISION FRANCHISE
  
-112.01 Franchise Agreement      112.08 Books and Records
-112.02 Definitions              112.09 Insurance and Indemnification
-112.03 Grant of Franchise; Term 112.10 Enforcement and Termination of Franchise
-112.04 Other Ordinances         112.11 Actions of Parties
-112.05 Other Authorizations     112.12 Entire Agreement
-112.06 Standards of Service     112.13 Notices
-112.07 Regulation by City; Fees
+112.01 State Cable Television Franchise 112.02 Franchise Fees
  
-112.01   FRANCHISE AGREEMENT.
-This chapter contains the franchise agreement between the City and MCC Iowa
-LLC, a limited liability company duly organized and validly existing under the
-laws of the state of Delaware, hereinafter referred to as the “Grantee.” The
-City hereby acknowledges that the Grantee has substantially complied with the
-material terms of the current franchise under applicable law, and that the
-financial, legal, and technical ability of the Grantee is reasonably sufficient
-to provide services, facilities, and equipment necessary to meet the future
-cable related needs of the community, and having afforded the public adequate
-notice and opportunity for comment, desires to enter into the franchise with
-the Grantee for the construction and operation of a cable system on the terms
-set forth herein.
-112.02   DEFINITIONS.
-For the purpose of this chapter, the following terms, phrases, words, and
-abbreviations have the meanings ascribed to them in this section.
-1.   “Basic cable” means the lowest priced tier of cable service that includes
-the retransmission of local broadcast television signals.
-2.   “Cable Act” means Title VI of the communications act of 1934, as amended.
-3.   “Cable services” means: (i) the one-way transmission to subscribers of
-video programming or other programming service; and (ii) subscriber
-interaction, if any, which is required for the selection or use of such video
-programming or other programming service.
-4.   “Cable system” means the Grantee’s facility, consisting of a set of closed
-transmission paths and associated signal generation, reception, and control
-equipment that is designed to provide cable service, which includes video
-programming and which is provided to multiple subscribers within the service
-area.
-5.   “FCC” means the Federal Communications Commission or successor
-governmental entity thereto.
-6.   “Gross revenue” means any revenues from the operation of the cable system
-to provide cable services in the service area received by Grantee from
-subscribers; provided, however, gross revenues do not include franchise fees,
-the FCC user fee or any tax, fee, or assessment of general applicability
-collected by the Grantee from subscribers for pass through to a government
-agency.
-7.   “Person” means an individual, partnership, association, joint stock
-company, trust, corporation, or governmental entity.
-8.   “Public way” means the surface of, and the space above and below, any
-public street, highway, freeway, bridge, land path, alley, court, boulevard,
-sidewalk, parkway, way, lane, public way, drive, circle, or other public right-
-of-way, including (but not limited to) public utility easements, dedicated
-utility strips, or rights-of-way dedicated for compatible uses now or hereafter
-held by the City in the service area, which shall entitle the Grantee to the
-use thereof for the purpose of installing, operating, repairing, and
-maintaining the cable system.
-9.   “Service area” means the present boundaries of the City, and includes any
-additions thereto by annexation or other legal means.
-10.   “Standard installation” means 125 feet from the nearest tap to the
-subscriber’s terminal.
-11.   “Subscriber” means a person who lawfully receives cable service of the
-cable system with the Grantee’s express permission.
-112.03   GRANT OF FRANCHISE; TERM.
-The City hereby grants to the Grantee a nonexclusive franchise that authorizes
-the Grantee to construct and operate a cable system in, along, among, upon,
-across, above, over, under, or in any manner connected with public ways within
-the service area, and for that purpose to erect, install, construct, repair,
-replace, reconstruct, maintain, or retain in, on, over, under, upon, across, or
-along any public way such facilities and equipment as may be necessary or
-appurtenant to the cable system for the transmission and distribution of cable
-services, data services, information and other communications services or for
-any other lawful purposes. The franchise granted hereunder shall be for an
-initial term of 15 years commencing on the effective date of the franchise† 14
-, unless otherwise lawfully terminated in accordance with the terms of this
-chapter.
- 
-Notes
-   † EDITOR’S NOTE: The effective date of the franchise is June 15, 2002, and the
-14 franchise shall expire on June 15, 2017, unless extended by the mutual agreement of
-   the parties.
-112.04   OTHER ORDINANCES.
-The Grantee agrees to comply with the terms of any lawfully adopted generally
-applicable local ordinance, to the extent that the provisions of the ordinance
-do not have the effect of limiting the benefits or expanding the obligations of
-the Grantee. Neither party may unilaterally alter the material rights and
-obligations set forth in this chapter. In the event of a conflict between any
-ordinance and the franchise, the franchise shall control.
-112.05   OTHER AUTHORIZATIONS.
-The City shall not permit any person to provide services similar to those
-provided by the Grantee in the service area without first having secured a
-nonexclusive franchise from the City. The City agrees that any grant of
-additional franchises or other authorizations including OVS authorizations by
-the City to provide services similar to those provided by the Grantee pursuant
-to this agreement to any other entity shall cover the entire service area and
-shall not be on terms and conditions more favorable or less burdensome to the
-Grantee of any such additional franchise or other authorization than those
-which are set forth herein. In any renewal of the franchise, the City, should
-it seek to impose increased obligations upon the Grantee, must take into
-account any additional franchises or authorizations previously granted and find
-that the proposed increased obligations in the renewal, are not more burdensome
-and/or less favorable than those contained in any such additional franchises or
-authorizations.
-112.06   STANDARDS OF SERVICE.
-1.   Conditions of Occupancy. The cable system installed by the Grantee
-pursuant to the terms hereof shall be located so as to cause a minimum of
-interference with the proper use of public ways and with the rights and
-reasonable convenience of property owners who own property that adjoins any of
-such public ways.
-2.   Restoration of Public Ways. If during the course of the Grantee’s
-construction, operation, or maintenance of the cable system, there occurs a
-disturbance of any public way by the Grantee, Grantee shall replace and restore
-such public way to a condition reasonably comparable to the condition of the
-public way existing immediately prior to such disturbance.
-3.   Relocation for City. Upon its receipt of reasonable advance written
-notice, to be not less than 10 business days, the Grantee shall protect,
-support, raise, lower, temporarily disconnect, relocate in or remove from the
-public way, any property of the Grantee when lawfully required by the City by
-reason of traffic conditions, public safety, street abandonment, freeway and
-street construction, change or establishment of street grade, installation of
-sewers, drains, gas or water pipes, or any other type of public structures or
-improvements that are not used to compete with the Grantee’s services. The
-Grantee shall in all cases have the right of abandonment of its property.
-4.   Relocation for Third Party. The Grantee shall, on the request of any
-person holding a lawful permit issued by the City, protect, support, raise,
-lower, temporarily disconnect, relocate in or remove from the public way as
-necessary any property of the Grantee; provided: (i) the expense of such is
-paid by said person benefiting from the relocation, including, if required by
-the Grantee, making such payment in advance; and (ii) the Grantee is given
-reasonable advance written notice to prepare for such changes. For purposes of
-this subsection, “reasonable advance written notice” shall be no less than 30
-business days in the event of a temporary relocation, and no less than 120 days
-for a permanent relocation.
-5.   Trimming of Trees and Shrubbery. The Grantee shall have the authority to
-trim trees or other natural growth in order to access and maintain the cable
-system.
-6.   Safety Requirements. Construction, operation, and maintenance of the cable
-system shall be performed in an orderly and workmanlike manner. All such work
-shall be performed in substantial accordance with generally applicable federal,
-State, and local regulations and the National Electric Safety Code.
-7.   Underground Construction. In those areas of the service area where all of
-the transmission or distribution facilities of the respective public utilities
-providing telephone communications and electric services are underground, the
-Grantee likewise shall construct, operate, and maintain its cable system
-underground. Nothing contained in this subsection shall require the Grantee to
-construct, operate, and maintain underground any ground mounted appurtenances.
-8.   Access to Open Trenches. The City agrees to include the Grantee in the
-platting process for any new subdivision. At a minimum, the City agrees to
-require as a condition of issuing a permit for open trenching to any utility or
-developer that: (i) the utility or developer give the Grantee at least 10 days’
-advance written notice of the availability of the open trench; and (ii) the
-utility or developer provide the Grantee with reasonable access to the open
-trench. Notwithstanding the foregoing, the Grantee shall not be required to
-utilize any open trench.
-9.   Required Extensions of Cable System. Grantee agrees to provide cable
-service to all residences in the service area subject to the density
-requirements specified in this subsection. Whenever the Grantee receives a
-request for cable service from a potential subscriber in an unserved area
-contiguous to Grantee’s existing distribution facilities where there are at
-least 10 residences within 1,320 cable bearing strand feet one-fourth cable
-mile) from the portion of the Grantee’s trunk or distribution cable that is to
-be extended, it shall extend its cable system to such subscribers at no cost to
-said subscribers for the cable system extension, other than the published
-standard/nonstandard installation fees charged to all subscribers.
-Notwithstanding the foregoing, the Grantee shall have the right, but not the
-obligation, to extend the cable system into any portion of the service area
-where another operator is providing cable service, into any annexed area that
-is not contiguous to the present service area of the Grantee, or into any area
-that is financially or technically infeasible due to extraordinary
-circumstances, such as a runway or freeway crossing.
-10.   Subscriber Charges For Extensions of Cable System. No subscriber shall be
-refused service arbitrarily. However, if an area does not meet the density
-requirements of subsection 9 of this section, the Grantee shall only be
-required to extend the cable system to subscribers in that area if the
-subscribers are willing to share the capital costs of extending the cable
-system. Specifically, the Grantee shall contribute a capital amount equal to
-the construction cost per mile, multiplied by a fraction whose numerator equals
-the actual number of residences per 1,320 cable bearing strand feet from the
-Grantee’s trunk or distribution cable, and whose denominator equals 10.
-Subscribers who request service hereunder shall bear the remaining cost to
-extend the cable system on a pro rata basis. The Grantee may require that
-payment of the capital contribution in aid of construction borne by such
-potential subscribers be paid in advance. Subscribers shall also be responsible
-for any standard/nonstandard installation charges to extend the cable system
-from the tap to the residence.
-11.   Cable Service to Public Buildings. The Grantee, upon request, shall
-provide without charge, a standard installation and one outlet of basic cable
-to those administrative buildings owned and occupied by the City, fire
-stations, police stations, and K-12 public schools that are passed by its cable
-system. The cable service provided shall not be distributed beyond the
-originally installed outlet without authorization from the Grantee. The cable
-service provided shall not be used for commercial purposes, and such outlets
-shall not be located in areas open to the public. The City shall take
-reasonable precautions to prevent any inappropriate use of the Grantee’s cable
-system or any loss or damage to Grantee’s cable system. The City shall hold the
-Grantee harmless from any and all liability or claims arising out of the
-provision and use of cable service required by this subsection. The Grantee
-shall not be required to provide an outlet to such buildings where a
-nonstandard installation is required, unless the City or building owner/
-occupant agrees to pay the incremental cost of any necessary cable system
-extension and/or nonstandard installation. If additional outlets of basic cable
-are provided to such buildings, the building owner/occupant shall pay the usual
-installation and service fees associated therewith.
-12.   Emergency Use. If the Grantee provides an emergency alert system (EAS),
-such EAS shall be operated in accordance with FCC regulations. The City shall
-permit only appropriately trained and authorized persons to operate the EAS
-equipment and shall take reasonable precautions to prevent any use of the
-Grantee’s cable system in any manner that results in inappropriate use thereof,
-or any loss or damage to the cable system. Except to the extent expressly
-prohibited by law, the City shall hold the Grantee, its employees, officers and
-assigns harmless from any claims arising out of use of the EAS, including, but
-not limited to, reasonable attorney fees and costs.
-13.   Reimbursement of Costs. If funds are available to any person using the
-public way for the purpose of defraying the cost of any of the foregoing, the
-City shall reimburse the Grantee in the same manner in which other persons
-affected by the requirement are reimbursed. If the funds are controlled by
-another governmental entity, the City shall make application for such funds on
-behalf of the Grantee.
-14.   Public Education and Government Access.
-   A.   Grantee shall provide the City with one access channel on the cable
-system designated for public education or government access purposes.
-   B.   The access channel is made available to the City by the Grantee for the
-purpose of cable-casting noncommercial programming by City residents, City
-administration and educational institutions. The City agrees not to use the
-access channels to provide commercial or revenue generating services or
-services that may compete, directly or indirectly, with services provided by
-the Grantee; provided, however, the City may cablecast acknowledgments of
-funding sources and the underwriting of programming costs.
-   C.   The Grantee will provide the City with equipment selected by the City
-from AVI Systems in the amount of $59,350.00 as necessary to originate
-cablecast programming from the Waukee City Hall. The City shall retain
-ownership and shall be responsible for maintenance of all equipment purchased
-by Grantee pursuant to this subsection. The equipment purchase amount shall be
-considered a prepayment of franchise fees as referenced in Subsection 112.07(1)
-of this chapter. The Grantee shall collect and retain franchise fees from
-subscribers until the $59,350.00 payment has been recouped. The Grantee shall
-provide the City with a statement of franchise fees collected to recoup the
-amount of prepayment annually as required in Subsection 112.07(1) of this
-chapter. The Grantee shall pay all franchise fees to the City following
-reimbursement for the PEG access equipment for the remaining term of the
-agreement.
-112.07   REGULATION BY CITY; FEES.
-1.   Franchise Fee. The Grantee shall pay to the City a franchise fee of five
-percent of annual gross revenue, as defined in Section 112.02 of this chapter.
-In accordance with the Cable Act, the 12-month period applicable under the
-franchise for the computation of the franchise fee shall be a calendar year.
-The franchise fee payment shall be due annually and payable within 90 days
-after the close of the preceding calendar year. Each payment shall be
-accompanied by a brief report prepared by a representative of the Grantee
-showing the basis for the computation. The period of limitation for recovery by
-the City of any franchise fee payable hereunder shall be three years from the
-date on which payment by the Grantee is due to the City.
-2.   Rates and Charges. The City may regulate rates for the provision of basic
-cable and equipment as expressly permitted by federal or State law.
-3.   Renewal of Franchise.
-   A.   The City and the Grantee agree that any proceedings undertaken by the
-City that relate to the renewal of the Grantee’s franchise shall be governed by
-and comply with the renewal provisions of federal law.
-   B.   In addition to the procedures set forth in the Cable Act, the City
-agrees to notify the Grantee of all of its assessments regarding the identity
-of future cable related community needs and interests, as well as the past
-performance of the Grantee under the then current franchise term. The City
-further agrees that such assessments shall be provided to the Grantee promptly
-so that the Grantee has adequate time to submit a proposal pursuant to the
-Cable Act and complete renewal of the franchise prior to expiration of its
-term.
-   C.   Notwithstanding anything to the contrary set forth in this subsection,
-the Grantee and the City agree that at any time during the term of the then
-current franchise, while affording the public appropriate notice and
-opportunity to comment in accordance with the provisions of federal law, the
-City and the Grantee may agree to undertake and finalize informal negotiations
-regarding renewal of the then current franchise and the City may grant a
-renewal thereof.
-   D.   The Grantee and the City consider the terms set forth in this
-subsection to be consistent with the express renewal provisions of the Cable
-Act.
-4.   Conditions of Sale. If a renewal or extension of the Grantee’s franchise
-is denied or the franchise is lawfully terminated, and the City either lawfully
-acquires ownership of the cable system or by its actions lawfully effects a
-transfer of ownership of the cable system to another party, any such
-acquisition or transfer shall be at the price determined pursuant to the
-provisions set forth in Section 627 of the Cable Act. The Grantee and the City
-agree that in the case of a final determination of a lawful revocation of the
-franchise, the Grantee shall be given at least 12 months to effectuate a
-transfer of its cable system to a qualified third party. Furthermore, the
-Grantee shall be authorized to continue to operate pursuant to the terms of its
-prior franchise during this period. If, at the end of that time, the Grantee is
-unsuccessful in procuring a qualified transferee or assignee of its cable
-system which is reasonably acceptable to the City, the Grantee and the City may
-avail themselves of any rights they may have pursuant to federal or State law.
-It is further agreed that the Grantee’s continued operation of the cable system
-during the 12-month period shall not be deemed to be a waiver—or an
-extinguishment of—any rights of either the City or the Grantee.
-5.   Transfer of Franchise. The Grantee’s right, title, or interest in the
-franchise shall not be sold, transferred, assigned, or otherwise encumbered,
-other than to an entity controlling, controlled by, or under common control
-with the Grantee, without prior written notice to the City. No such notice
-shall be required, however, for a transfer in trust, by mortgage, by other
-hypothecation, or by assignment of any rights, title, or interest of the
-Grantee in the franchise or cable system in order to secure indebtedness.
-112.08   BOOKS AND RECORDS.
-The Grantee agrees that the City, upon 30 days’ written notice to the Grantee
-and no more than once annually, may review such of its books and records at the
-Grantee’s business office, during normal business hours and on a non-disruptive
-basis, as is reasonably necessary to ensure compliance with the terms of this
-franchise. Such notice shall specifically reference the subsection of the
-franchise which is under review, so that the Grantee may organize the necessary
-books and records for easy access by the City. Alternatively, if the books and
-records are not easily accessible at the local office of the Grantee, the
-Grantee may, at its sole option, choose to pay the reasonable travel costs of
-the City’s representative to view the books and records at the appropriate
-location. The Grantee shall not be required to maintain any books and records
-for franchise compliance purposes longer than three years. Notwithstanding
-anything to the contrary set forth herein, the Grantee shall not be required to
-disclose information that it reasonably deems to be proprietary or confidential
-in nature, or to disclose books and records of any affiliate that is not
-providing cable service in the service area. The City agrees to treat any
-information disclosed by the Grantee as confidential and only to disclose it to
-employees, representatives, and agents thereof that have a need to know, or in
-order to enforce the provisions hereof. The Grantee shall not be required to
-provide subscriber information in violation of Section 631 of the Cable Act.
-112.09   INSURANCE AND INDEMNIFICATION.
-The Grantee shall maintain in full force and effect, at its own cost and
-expense, during the term of the franchise, commercial general liability
-insurance in the amount of $1,000,000.00, combined single limit for bodily
-injury and property damage. The City shall be designated as an additional
-insured. Such insurance shall be non-cancelable except upon 30 days’ prior
-written notice to the City. Upon written request, the Grantee shall provide a
-certificate of insurance showing evidence of the coverage required by this
-section. The Grantee agrees to indemnify, save and hold harmless, and defend
-the City, its officers, boards and employees, from and against any liability
-for damages and for any liability or claims resulting from property damage or
-bodily injury (including accidental death), which arise out of the Grantee’s
-construction, operation, or maintenance of its cable system in the service
-area; provided, the City shall give the Grantee written notice of its
-obligation to indemnify the City within 10 days of receipt of a claim or action
-pursuant to this subsection. Notwithstanding the foregoing, the Grantee shall
-not indemnify the City for any damages, liability, or claims resulting from the
-willful misconduct or negligence of the City.
-112.10   ENFORCEMENT AND TERMINATION OF FRANCHISE
-1.   Notice of Violation. In the event that the City believes that the Grantee
-has not complied with the terms of the franchise, the City shall informally
-discuss the matter with Grantee. If these discussions do not lead to resolution
-of the problem, the City shall notify the Grantee in writing of the exact
-nature of the alleged noncompliance.
-2.   Grantee’s Right To Cure or Respond. The Grantee shall have 30 days from
-receipt of the notice described in Subsection 1 of this section:
-   A.   To respond to the City, contesting the assertion of noncompliance; or
-   B.   To cure such default; or
-   C.   In the event that, by the nature of default, such default cannot be
-cured within the 30-day period, initiate reasonable steps to remedy such
-default and notify the City of the steps being taken and the projected date
-that they will be completed.
-3.   Public Hearing. In the event that the Grantee fails to respond to the
-notice described in subsection 1 of this section pursuant to the procedures set
-forth in subsection 2 of this section, or in the event that the alleged default
-is not remedied within 30 days or the date projected pursuant to Subsection 2
-(C) of this section, if it intends to continue its investigation into the
-default, then the City shall schedule a public hearing. The City shall provide
-the Grantee at least 10 days’ prior written notice of such hearing, which
-specifies the time, place and purpose of such hearing, and provide the Grantee
-the opportunity to be heard.
-4.   Enforcement. Subject to applicable federal and State law, in the event the
-City, after the hearing set forth in Subsection 3 of this section, determines
-that the Grantee is in default of any provision of the franchise, the City may:
-   A.   Seek specific performance of any provision, which reasonably lends
-itself to such remedy, as an alternative to damages; or
-   B.   Commence an action at law for monetary damages or seek other equitable
-relief; or
-   C.   In the case of a substantial default of a material provision of the
-franchise, seek to revoke the franchise in accordance with Subsection 5 of this
-section.
-5.   Revocation:
-   A.   Should the City seek to revoke the franchise after following the
-procedures set forth in Subsections 1 through 4 of this section, the City shall
-give written notice to the Grantee of its intent. The notice shall set forth
-the exact nature of the noncompliance. The Grantee shall have 90 days from such
-notice to object in writing and to state its reasons for such objection. In the
-event the City has not received a satisfactory response from the Grantee, it
-may then seek termination of the franchise at a public hearing. The City shall
-cause to be served upon the Grantee, at least 30 days prior to such public
-hearing, a written notice specifying the time and place of such hearing and
-stating its intent to revoke the franchise.
-   B.   At the designated hearing, Grantee shall be provided a fair opportunity
-for full participation, including the right to be represented by legal counsel,
-to introduce relevant evidence, to require the production of evidence, to
-compel the relevant testimony of the officials, agents, employees or
-consultants of the City, to compel the testimony of other persons as permitted
-by law, and to question witnesses. A complete verbatim record and transcript
-shall be made of such hearing.
-   C.   Following the hearing, the City shall determine whether or not the
-franchise shall be revoked. If the City determines that the franchise shall be
-revoked, the City shall promptly provide Grantee with its decision in writing.
-The Grantee may appeal such determination of the City to an appropriate court,
-which shall have the power to review the decision of the City de novo. Grantee
-shall be entitled to such relief as the court finds appropriate. Such appeal
-must be taken within 60 days of Grantee’s receipt of the determination of the
-City.
-   D.   The City may, at its sole discretion, take any lawful action that it
-deems appropriate to enforce the City’s rights under the franchise in lieu of
-revocation of the franchise.
-6.   Force Majeure.
-   A.   The Grantee shall not be held in default under, or in noncompliance
-with, the provisions of the franchise, or suffer any enforcement or penalty
-relating to noncompliance or default, where such noncompliance or alleged
-defaults occurred or were caused by circumstances reasonably beyond the ability
-of the Grantee to anticipate and control. This provision includes work delays
-caused by waiting for utility providers to service or monitor their utility
-poles to which the Grantee’s cable system is attached, as well as
-unavailability of materials and/or qualified labor to perform the work
-necessary.
-   B.   Furthermore, the parties hereby agree that it is not the City’s
-intention to subject the Grantee to penalties, fines, forfeitures or revocation
-of the franchise for violations of the franchise where the violation was a good
-faith error that resulted in no or minimal negative impact on the subscribers
-within the service area, or where strict performance would result in practical
-difficulties and hardship to the Grantee which outweigh the benefit to be
-derived by the City and/or subscribers.
-112.11   ACTIONS OF PARTIES.
-In any action by the City or the Grantee that is mandated or permitted under
-the terms hereof, such party shall act in a reasonable, expeditious, and timely
-manner. Furthermore, in any instance where approval or consent is required
-under the terms hereof, such approval or consent shall not be unreasonably
-withheld.
-112.12   ENTIRE AGREEMENT.
-The franchise constitutes the entire agreement between the Grantee and the City
-and supersedes all other prior understandings and agreements, oral or written.
-Any amendments to the franchise shall be mutually agreed to in writing by the
-parties.
-112.13   NOTICES.
-Unless expressly otherwise agreed between the parties, every notice or response
-required by this chapter to be served upon the City or the Grantee shall be in
-writing, and shall be deemed to have been duly given to the required party when
-placed in a properly sealed and correctly addressed envelope: (i) upon receipt
-when hand delivered with receipt/acknowledgment; (ii) upon receipt when sent
-certified, registered mail; (iii) within five business days after having been
-posted in the regular mail; or (iv) on the next business day if sent by express
-mail or overnight air courier.
+112.01   STATE CABLE TELEVISION FRANCHISE.
+Effective June 15, 2017, MCC Iowa LLC A/K/A Mediacom began operating its cable
+system under the State Cable Television Franchise statute more particularly set
+forth in Iowa Code Chapter 477A.
+112.02   FRANCHISE FEES.
+Upon the commencement of operations under the State Cable Television Franchise
+under Iowa Code Chapter 477A, at the request of the City, MCC Iowa LLC A/K/
+A Mediacom is required to continue to collect franchise fees previously adopted
+by the City in 2002 under the prior franchise ordinance in the amount of five
+percent as required by Iowa Code Chapter 477A and applicable Iowa law.
+(Chapter 112 – Ord. 3168 – Dec. 25 Supp.)
 CHAPTER 113
 NATURAL GAS FRANCHISE
 113.01 Grant of Franchise; Term     113.12 Compliance with Federal, State,
@@ -22025,27 +21618,27 @@ Health.
 See the following pages for various illustrations, which are applicable to the
 provisions of these zoning regulations:
 CELLAR, BASEMENT, HALF STORY, STORY
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2145.png]
 BUILDING HEIGHTS
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2147.png]
 LOT AND YARD DEFINITIONS
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2149.png]
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2151.png]
 SIGN TYPES
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2153.png]
 SIGN AREAS
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2155.png]
 MINIMUM SETBACK
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2157.png]
 AVERAGE SETBACK
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2159.png]
 PARKING STALL REQUIREMENTS
  
@@ -22057,10 +21650,10 @@ Degree of Angle Stall to Curb Aisle Width Curb Length
 90              19 feet       24 feet     9 feet
  
 TYPICAL PARKING LOT LAYOUT
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2161.png]
 MOBILE HOME PARK SETBACK LINES
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2163.png]
 (Section 165.21 - Ord. 3019 - Mar. 22 Supp.)
 CHAPTER 166
@@ -22968,7 +22561,7 @@ per linear foot of building frontage.
 wall (see Figure 167A).
       (6)   Buildings greater than 50,000 square feet are not subject to the
 square footage maximums listed above.
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2165.png]
 Figure 167A
 Horizontal Multiple Tenant Building Oriented Toward Street Frontage
@@ -22978,7 +22571,7 @@ or tenant signs shall be one square foot of sign area for every linear foot of
 building or tenant frontage. In the event that a tenant occupies more than one
 story, they shall not be permitted to count the frontage on both stories (see
 Figure 167B).
-[https://export.amlegal.com/media/9e2c53d004dccddb9edd6d7edffa4e58ab0c793e/
+[https://export.amlegal.com/media/6febf74db32f03aff1d94beadd7eb64f70cf352d/
 IMAGES/0-0-0-2167.png]
 Figure 167B
 Vertical Multiple Tenant Building Signage
@@ -26444,6 +26037,7 @@ Ordinance No. Date Adopted       Ordinance No. Date Adopted
 3154          October 6, 2025
 3155          October 6, 2025
 3157          October 20, 2025
+3170          December 15, 2025
  
  
  
