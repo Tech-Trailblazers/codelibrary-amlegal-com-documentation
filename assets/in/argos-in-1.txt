@@ -1,8 +1,8 @@
 ARGOS, INDIANA
 CODE OF ORDINANCES
-2023 S-4 Supplement contains:
-Local legislation current through Ord. 2023-06, passed 4-19-2023; and
-State legislation current through 2022 Indiana Legislative Service, Pamphlet
+2026 S-5 Supplement contains:
+Local legislation current through Ord. 2025-03, passed 3- -2025; and
+State legislation current through 2025 Indiana Legislative Service, Pamphlet
 No. 3
 Published by:
 American Legal Publishing
@@ -942,17 +942,32 @@ General Provisions
 33.05   Advanced disbursement of funds
    
 33.06   Electronic funds transfer
-Purchasing
+Public Purchasing Code
    
-33.20   Purchasing Agency
+33.20   Title
    
-33.21   Purchasing rules for the town
+33.21   Definitions
    
-33.22   Purchase of supplies manufactured in the United States
+33.22   Purchasing agencies
    
-33.23   Small business set-aside purchases
+33.23   Establishment of rules and policies
    
-33.24   Purchasing polices available for public inspection
+33.24   Duties and responsibilities of purchasing agents
+   
+33.25   Rules regarding purchasing of materials and supplies
+   
+33.26   Special purchasing methods and special purchases
+   
+33.27   Rules regarding the modification and termination of contracts
+   
+33.28   Rules regarding the purchase of services
+Nepotism Rules Regarding Contracts
+   
+33.30   Definitions
+   
+33.31   Special requirements for contracts involving relatives
+   
+33.32   Annual certification by elected officers
 Funds
    
 33.35   Redevelopment Commission Fund
@@ -1178,43 +1193,236 @@ transfers or payments.
 comply with all other requirements regarding the payment of claims by a
 political subdivision.
 (Ord. 2018-6, passed 11-7-2018)
-PURCHASING
-§ 33.20 PURCHASING AGENCY.
-   (A)   The Town Council (the “Purchasing Agency”) is established as the
-purchasing agency for the town.
-   (B)   The Purchasing Agency shall have all the powers and duties authorized
-under I.C. 5-22, as may be supplemented from time to time by ordinances adopted
-by the Council and policies adopted by the Purchasing Agency.
-   (C)   The Purchasing Agency shall act as the purchasing agency for every
-agency, board, office, branch, bureau, commission, council, department, or
-other establishment of the town.
-   (D)   The Purchasing Agency may designate in writing any employee of the
-town as a purchasing agent:
-      (1)   Town Council members;
-      (2)   Clerk-Treasurer;
-      (3)   First Deputy;
-      (4)   Utility Supervisor;
-      (5)   Full-time Electric Department employees;
-      (6)   Water and Wastewater Superintendent;
-      (7)   Full-time employees of Water and Wastewater Departments;
-      (8)   Chief of Police;
-      (9)   Officers of the Police Department;
-      (10)   Fire Chief;
-      (11)   Ambulance Director;
-      (12)   Officers of Fire and Ambulance Department; and
-      (13)   Park and Recreation Board.
-   (E)   The above identified purchasing agents, except for the Utility
-Supervisor, shall make no purchases that exceed the sum of $2,500 without the
-express prior approval of the Town Council. The Utility Supervisor shall make
-no purchases that exceed the sum of $40,000 without the express prior approval
-of the Town Council.
-(1996 Code, § 46.00) (Ord. 98-9, passed 11-9-1998; Ord. 2022-07, passed 5-4-
-2022)
-§ 33.21 PURCHASING RULES FOR THE TOWN.
-   The following (§§
-33.21 through
-33.23) are the purchasing rules for the town.
-   (A)   Protection of offers; status of documents as public records.
+PUBLIC PURCHASING CODE
+§ 33.20 TITLE.
+   This subchapter shall be known as the "public purchasing code" and shall be
+carried out supplementary to and consistent with the provisions of the Indiana
+Public Purchase Law, codified as I.C. 5-22 et seq.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.21 DEFINITIONS.
+   For the purpose of this subchapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   ADJUSTED OFFER. The offer price of an offeror for preferred supplies as
+determined under I.C. 5-22-15-10.
+   CHANGE ORDER. A written order that:
+      (1)   Is signed by the purchasing agent; and
+      (2)   Directs the contractor to make changes that the contract authorizes
+the purchasing agent to order without the consent of the contractor.
+   CONTRACT MODIFICATION. A written alteration:
+      (1)   In a specification, delivery point, rate of delivery, period of
+performance, price, quantity, or another provision of a contract; and
+      (2)   Accomplished by mutual action of the parties to the contract.
+   CONTRACTOR. A person who has a contract with a governmental body.
+   COST REIMBURSEMENT CONTRACT. A contract that entitles a contract to receive:
+      (1)   Reimbursement for costs that are allowable in accordance with the
+contract terms and the provisions of this subchapter; and
+      (2)   A fee, if any.
+   DATA. Recorded information, regardless of its form or characteristics.
+   DATA PROCESSING. The meaning set forth in I.C. 4-23-16-5(a).
+   DESIGNEE. An authorized representative.
+   ESTABLISHED CATALOG PRICE. The price included in a catalog, price list,
+schedule, or other form that:
+      (1)   Is regularly maintained by the manufacturer or contractor;
+      (2)   Is either published or otherwise available for inspection by
+customers; and
+      (3)   States prices at which sales are currently or were last made to a
+significant number of any category of buyers, or buyers constituting the
+general buying public, for the supplies or services involved.
+   GIFT. A bequest, cooperative agreement, and grant.
+   GOVERNMENT BODY. An agency, a board, a branch, a bureau, a commission, a
+council, a department, an institution, an office, or another establishment of
+political subdivision.
+   INVITATION FOR BIDS. All documents, whether attached or incorporated by
+reference, used for soliciting bids.
+   OFFER. A response to a solicitation. The term includes a bid, proposals and
+quote.
+   OFFEROR. A person that submits an offer to a governmental body.
+   OPERATING AGREEMENT. The meaning set forth in I.C. 5-23-2-7.
+   PERSON. An association, a business, a committee, a corporation, a fiduciary,
+an individual, a joint stock company, a joint venture, a limited liability
+company, a partnership, a sole proprietorship, a trust, or another legal
+entity, organization or group of individuals.
+   PETROLEUM PRODUCTS. For purposes of I.C. 5-22-17-10 and this purchasing
+code, includes:
+      (1)   Gasoline;
+      (2)   Fuel oils;
+      (3)   Lubricants;
+      (4)   Liquid asphalt.
+   POLICY. A governmental body's or purchasing agency's written statement of
+purchasing procedure or substantive purchasing purposes that does not have the
+force and effect of law.
+   POLITICAL SUBDIVISION. The meaning set forth in I.C. 36-1-2-13.
+   PROFESSIONAL. For the purposes of 50 IAC 11:
+      (1)   A person who performs the services of:
+         (a)   Accountant;
+         (b)   Architect;
+         (c)   Attorney;
+         (d)   Construction Manager;
+         (e)   Engineer;
+         (f)   Financial Advisor;
+         (g)   Project Administrator;
+         (h)   Project Manager;
+         (i)   Tax Analyst; or
+         (j)   Other person who provides consulting services.
+      (2)   But not a person who performs services of:
+         (a)   Underwriter;
+         (b)   Investment Banker; or
+         (c)   Real Estate Broker or Salesperson.
+   PUBLIC FUNDS. Money derived from the revenue sources of the governmental
+body and deposited into the general or a special fund of the governmental body.
+PUBLIC FUNDS do not include either of the following:
+      (1)   Money received by any person managing or operating a public
+facility under an authorized operating agreement under I.C. 5-23.
+      (2)   Proceeds of bonds, payable exclusively by a private entity.
+   PURCHASE. Buy, procure, rent, lease, or otherwise acquire. Includes the
+following activities:
+      (1)   Descriptions of requirements.
+      (2)   Solicitation of selection of sources.
+      (3)   Preparation and award of contract.
+      (4)   All phases of contract administration.
+      (5)   All functions that pertain to purchasing.
+   PURCHASE DESCRIPTION. The words used in a solicitation to describe the
+supplies or services to be purchased. Includes specifications attached to, or
+made a part of, the solicitation.
+   PURCHASING AGENCY. A governmental body that is authorized to enter into
+contracts by this subchapter, rules adopted under this subchapter, or by
+another law.
+   PURCHASING AGENT. An individual authorized by a purchasing agency to act as
+an agent for the purchasing agency in the administration of the duties of the
+purchasing agency.
+   REQUEST FOR PROPOSALS (RFP). All documents, whether attached or incorporated
+by reference, used for soliciting proposals.
+   RULE. An order, an ordinance, a resolution, or another procedure by which
+the governmental body is authorized by law to adopt a policy that has the force
+and effect of law.
+   SERVICES. The furnishing of labor, time, or effort by a person, not
+involving the delivery of specific supplies other than printed documents or
+other items are merely incidental to the required performance.
+   SMALL BUSINESS. A business that is independently owned and operated; is not
+dominant in its field of operation; and satisfies the criteria established in
+the purchasing code or in any rules of the municipal purchasing agencies.
+   SMALL BUSINESS SET-ASIDE. A purchase in which the solicitation states that
+offers will be accepted only from small businesses.
+   SOCIAL SERVICES. Services obtained from funds covered by I.C. 12-13-10.
+   SOLICITATION. The procedure by which a governmental body invites persons to
+submit an offer to enter into a contract with the governmental body for the
+purchase or sale of supplies by the governmental body. Includes an invitation
+for bids, a request for proposals, and a request for quotes.
+   SPECIAL FUND. As used with respect to the state, a dedicated fund.
+   SPECIAL PURCHASE. As used with respect to the state, a dedicated fund.
+   SPECIFICATION. A description of the physical or functional characteristics
+of a supply or service or the nature of a supply or service. Includes a
+description of any requirements for inspecting, testing, or preparing a supply
+or service for delivery.
+   STATE AGENCY. The meaning set forth in I.C. 4-13-1-1.
+   STATE EDUCATIONAL INSTITUTION. The meaning set forth in I.C. 20-12-0.5-1.
+   SUPPLIES. Any property. Includes equipment, goods, and materials. Does not
+include an interest in real property.
+   USING AGENCY. A governmental body that uses supplies or services purchased
+under this subchapter.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.22 PURCHASING AGENCIES.
+   (A)   The Town Council, as the Works Board of the municipality, shall serve
+as purchasing agency for the municipality and its executive departments except
+for those executive departments which are expressly subject to the purchasing
+authority of a relevant governing board of jurisdiction. The department subject
+to the jurisdiction of the Works Board include any department that is not
+otherwise subject to another board of jurisdiction and the following:
+      (1)   Public Works Department (town utilities);
+      (2)   Metropolitan Police Department;
+      (3)   Office of the Clerk-Treasurer;
+      (4)   Development Department.
+   (B)   The Parks and Recreation Board shall serve as purchasing agency for
+the Parks and Recreation Department.
+   (C)   The Fire Territory Board shall serve as purchasing agency for the Fire
+Territory and its special taxing district.
+   (D)   The Redevelopment Commission shall serve as purchasing agency for the
+Redevelopment Commission and its special taxing district.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.23 ESTABLISHMENT OF RULES AND POLICIES.
+   (A)   The purchasing agencies of the municipality shall have the authority
+to establish written rules or policies regarding purchases of materials and
+supplies which are not otherwise already provided by ordinance and which the
+agency deems to be in the best interests of municipality and the public.
+   (B)   Such written rules or policies regarding public purchase may provide
+for the limited delegation of authority to the purchasing agent or some other
+party, the authority to make policies of a ministerial nature and the authority
+to carry out certain duties on behalf of the purchasing agency which are of
+ministerial nature.
+   (C)   No rule or policy shall be enacted which permits a purchasing agent to
+enter into or execute any leases or rental agreements of greater than one year
+in duration, any leases with option to purchase of any duration, any capital
+leases of any duration, or any single contract for supplies or services of any
+term which exceeds purchasing value limits set forth in this subchapter without
+the express approval of the purchasing agency.
+   (D)   The Town Council shall have exclusive authority to approve purchases
+involving insurance of any type or term, except where ordinances of the unit
+otherwise permit. No rule may be made in conflict with this provision.
+   (E)   No purchase described in this subchapter can be made without an
+approved appropriation, sufficient resources, or budgetary authority.
+   (F)   Any written rules or policies regarding purchases in conflict with or
+contrary to laws of the state or ordinances of the municipality are null and
+void and unenforceable.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.24 DUTIES AND RESPONSIBILITIES OF PURCHASING AGENTS.
+   (A)   The purchasing agents for the municipality shall act pursuant to the
+provisions of I.C. 5- 22, this code and any rules or policies of the purchasing
+agency not in conflict with the public purchase statute or ordinances of the
+municipality.
+   (B)   Subject to the provisions of § 33.23, purchasing agents for the
+municipality are authorized to enter into agreements in support of the
+following types of purchases without additional approval of the purchasing
+agencies:
+      (1)   Contracts for supplies and services which are one year or less in
+duration and which do not exceed $3,000 in value;
+      (2)   Utility contracts for supplies and services which are one year or
+less in duration and which do not exceed $40,000 in value;
+      (3)   Except as provided in division (B)(2) and (B)(4) of this section,
+contract for services which are one year or less in duration and which do not
+exceed $3,000 in value;
+      (4)   Contracts for services related to financial reporting which do not
+exceed $40,000;
+      (5)   Contracts for the renewing of software licenses and which do not
+exceed $20,000, provided the original licensing and installation agreement was
+approved by the proper purchasing authority;
+      (6)   Nothing in this division shall be construed in derogation of or in
+limitation to the exercise of powers and duties of the municipal fiscal officer
+expressly conferred under I.C. 45-11, 5-13, and 36-5.
+   (C)   In addition to the foregoing, purchasing agents shall:
+      (1)   Receive requisitions of materials from their respective departments
+or offices and, upon their receipt, determine that appropriations are available
+for such purposes, and acquire the items requisitioned in accordance with the
+public purchase law and this code. All contracts of purchase shall be made in
+the municipal department, division or office and be subject to the approval of
+the department or office.
+      (2)   Establish such purchasing and contractual procedures as may best be
+suited to obtain the optimal economic value to the municipality.
+      (3)   Prepare specifications and notices and see that the required
+notices are published where bidding and publication of notices are required by
+law.
+      (4)   Cooperate and consult with the municipal fiscal officer for the
+purpose of ensuring that adequate funds are available prior to making the
+necessary purchases and acquisitions to assure they are within the limits of
+the budget appropriations of the department or division in need of the
+material.
+      (5)   Act when required to sell or exchange any personal property ordered
+to be sold by a municipal department or office in accordance with procedures
+prescribed in law.
+   (D)   The following persons shall serve as purchasing agents for the
+department or office indicated:
+      (1)   The Utility Superintendent or his/her designee for the Utility
+Department.
+      (2)   The Police Chief or his/her designee for the Metropolitan Police
+Department.
+      (3)   The Development Director or his/her designee for the Development
+Department.
+      (4)   The Clerk-Treasurer or his/her designee for the Office of the
+Clerk-Treasurer, for any department or office for which an agent is not
+otherwise expressly provided, and for all executive departments of the
+municipality.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.25 RULES REGARDING PURCHASING OF MATERIALS AND SUPPLIES.
+   (A)   Rules regarding offers; status of documents as public records.
       (1)   Protection of offers prior to opening. The purchasing agent shall
 retain all offers received in a secure location prior to the date and time at
 which offers will be opened in order to prevent disclosure of the contents
@@ -1223,33 +1431,34 @@ prior to the opening of the offers.
 the purchasing agent shall be responsible for maintaining the offers in such a
 manner as to permit evaluation of the offers by the persons responsible for
 evaluating the offers.
-      (3)   Public records status of bids. Bids submitted in response to an
-invitation for bids must be available for public inspection and copying after
-the time of the bid opening.
+      (3)   Public records status of bids. Bids submitted shall contain
+information concerning the proposals available for public inspection and
+copying after the time of the bid opening.
       (4)   Register of proposals. The purchasing agent shall prepare a
 register of proposals for each request for proposals issued which shall contain
 information concerning the proposals available for public inspection and
 copying. Proposals may not be disclosed.
-   (B)   Discussion with offerors responding to a request for proposals. The
-purchasing agent may conduct discussion with, and best and final offers may be
-obtained from, responsible offerors who submit proposals determined to be
-reasonably susceptible of being selected for a contract award.
-   (C)   Delay of opening of offers. When the Town Council makes a written
-determination that is in the town’s best interests, offers may be opened after
-the time stated in the solicitation. The date, time, and place of the
-rescheduled opening must be announced at the time and place of the originally
-scheduled opening.
-   (D)   Evidence of financial responsibility.
-      (1)   Purchases less than $25,000. The purchasing agent may not require
+   (B)   Rules regarding offers; discussions with offerors responding to a
+request for proposals. The purchasing agent may conduct discussions with, and
+best and final offers may be obtained from, responsible offerors who submit
+proposals determined to be reasonably susceptible of being selected for a
+contract award.
+   (C)   Rules regarding offers; delay of opening of offers. When the
+purchasing agency makes a written determination that it is in the
+municipality's best interest, offers may be opened after the time stated in the
+solicitation. The date, time and place of the rescheduled opening must be
+announced at the time and place of the originally scheduled opening.
+   (D)   Rules regarding evidences of financial responsibility.
+      (1)   Purchases less than $50,000. The purchasing agent may not require
 evidence of financial responsibility when the estimated cost of a purchase is
-less than $25,000.
-      (2)   Purchases between $25,000 and $100,000. The solicitation may
+less than $50,000.
+      (2)   Purchases between $50,000 and $150,000. The solicitation may
 include a requirement that an offeror provide evidence of financial
 responsibility. If evidence of financial responsibility is required, the
 solicitation must indicate the kind of evidence that will be acceptable. If a
 bond or certified check is required, it may not exceed 10% of the estimated
-cost of the purchase.
-      (3)   Purchases over $100,000. The solicitation shall include a
+check of the purchase.
+      (3)   Purchases over $150,000. The solicitation shall include a
 requirement that an offeror provide evidence of financial responsibility and
 must indicate the kind of evidence that will be acceptable. If a bond or
 certified check is required, it may not exceed 10% of the estimated cost of the
@@ -1257,89 +1466,282 @@ purchase.
       (4)   Small business set-asides. The purchasing agent may determine that
 no evidence of financial responsibility shall be required for a small business
 set-aside purchase.
-      (5)   Use of RFP for purchases of designated types of supplies. The
-purchasing agent determines that:
-         (a)   It is either not practicable or not advantageous to purchase
-certain types of supplies by sealed competitive bidding; and
-         (b)   Receiving proposals is the preferred method for purchasing the
-following types of supplies:
-            1.   Asphalt;
-            2.   Salt; and
-            3.   Gravel.
-   (E)   Modifications and termination of contracts.
-      (1)   Price adjustments. The purchasing agent may include provisions to
+   (E)   Use of quotes for purchases of materials and supplies valued at least
+$50,000 and not more than $150,000.
+      (1)   If a purchasing agent expects the purchase to be at least $50,000
+and not more than $150,000, the purchasing agent may purchase supplies by
+inviting quotes from at least three persons, known to deal in the lines or
+classes of supplies to be purchased.
+      (2)   The purchasing agent shall mail an invitation to quote at least
+seven days before the time fixed for receiving quotes.
+      (3)   If the purchasing agent receives a satisfactory quote, the
+purchasing agent shall award a contract to the lowest responsible and
+responsive offeror for each line or class of supplies required.
+      (4)   The purchasing agent may reject all quotes.
+      (5)   If the purchasing agent does not receive a quote from a responsible
+and responsive offeror, the purchasing agent may purchase the supplies under
+provisions of I.C. 5-22-10-10.
+   (F)   Small purchases valued at less than $50,000. If a purchasing agent
+expects the purchase to be less than $50,000, the purchasing agent may purchase
+supplies either:
+      (1)   By inviting quotes from at least three persons known to deal in the
+lines or classes of supplies to be purchased; or
+      (2)   By purchase in the open market without inviting or receiving
+quotes.
+   (G)   Purchases valued at more than $150,000.
+      (1)   A purchasing agent shall follow the procedure described in this
+division in awarding a contract for supplies, unless another purchasing method
+is required or authorized by law.
+      (2)   A purchasing agent shall issue an invitation for bids. An
+invitation for bids must include a purchase description; all contractual terms
+and conditions that apply to the purchase; and a statement of the evaluation
+criteria that will be used, including any of the following:
+         (a)   Inspection;
+         (b)   Testing;
+         (c)   Quality;
+         (d)   Workmanship;
+         (e)   Delivery;
+         (f)   Suitability for a particular purpose;
+         (g)   The requirements imposed under I.C. 5-22-3-5;
+         (h)   The time and place for opening bids;
+         (i)   A statement concerning where the bid must be accompanied by a
+certified check or other evidence of financial responsibility that may be
+imposed in accordance with rules or policies of the governmental body;
+         (j)   A statement concerning the conditions under which a bid may be
+canceled or rejected in whole or in part as specified under I.C. 5-22-18-2.
+      (3)   Evaluation criteria that will affect the bid price and be
+considered in the evaluation for an award must be objectively measurable.
+      (4)   Only criteria specified in the invitation for bids may be used in
+bid evaluation.
+      (5)   The purchasing agency shall give notice of the invitation for bids
+in the manner required by I.C. 5-3-1.
+      (6)   The purchasing agency shall open bids publicly in the presence of
+one or more witnesses at the time and place designated in the invitation for
+bids.
+      (7)   Bids must be:
+         (a)   Unconditionally accepted without alteration or correction,
+except as provided in I.C. 5-22-7-11 through 5-22-7-13; and
+         (b)   Evaluated based on the requirements provided in the invitation
+for bids.
+      (8)   A contract must be awarded with reasonable promptness by written
+notice to the lowest responsible and responsive bidder.
+      (9)   Purchasing agency shall maintain the following information which is
+subject to public inspection after each contract award:
+         (a)   The name of each bidder;
+         (b)   The amount of each bid;
+         (c)   Other information required by I.C. 5-22, and ordinances and
+rules adopted pursuant to I.C. 5-22.
+      (10)   The governmental body may adopt rules or establish policies to
+allow any of the following:
+         (a)   Correction or withdrawal of inadvertently erroneous bids before
+or after award.
+         (b)   Cancellation of award or contracts based on a mistake described
+in division (G)(10)(a) of this section.
+      (11)   Except as provided in a rule or policy, a purchasing agency must
+make a written decision to permit the correction or withdrawal of a bid, or
+cancel awards or contracts based on bid mistakes.
+      (12)   After bid opening, a purchasing agency may not permit changes in
+bid prices; or other provisions of bids prejudicial to the interest of the
+governmental body or fair competition.
+      (13)   If a bidder inserts contract terms or bids on specified in the
+invitation for bids, the purchasing agent shall treat the additional material
+as a proposal for addition to the contract and may do any of the following:
+         (a)   Declare the bidder nonresponsive;
+         (b)   Permit the bidder to withdraw the proposed additions to the
+contract in order to meet the requirements and criteria provided in the
+invitation for bids;
+         (c)   Accept any of the proposed additions to the contract, subject to
+this division.
+      (14)   The purchasing agent may not accept proposed additions to the
+contract that are prejudicial to the interest of the governmental body or fair
+competition. Further, a decision of the purchasing agent to permit a change to
+the requirements of the invitation for bids must be supported by a written
+determination by the purchasing agency.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.26 SPECIAL PURCHASING METHODS AND SPECIAL PURCHASES.
+   (A)   Notwithstanding any other provision of this subchapter, a purchasing
+agent may make a purchase under this section without soliciting bids or
+proposals. Purchases authorized under this section shall be known as special
+purchases and must comply with the provisions of this section and I.C. 5-22-10.
+   (B)   A special purchase must be made with competition as is practicable
+under the circumstances.
+   (C)   A purchasing agent shall maintain the contract for records for a
+special purchase in a separate file. A purchasing agent shall include in the
+contract file a written determination of the basis for the special purchase and
+the selection of a particular contractor.
+   (D)   Notwithstanding any other law, a governmental body shall maintain a
+record listing all contracts made under this subchapter for a minimum of five
+years. The record must contain the following information:
+      (1)   Each contractor's name;
+      (2)   The amount and type of each contract;
+      (3)   A description of the supplies purchased under each contract.
+   (E)   A purchasing agent may make a special purchase when there exists,
+under emergency conditions, a threat to public health, welfare, or safety.
+   (F)   A purchasing agent may make a special purchase when there exists a
+unique opportunity to obtain supplies or services at a substantial savings to
+the governmental body.
+   (G)   A purchasing agent may make a special purchase at an auction.
+   (H)   A purchasing agent may make a special purchase of data processing
+contracts or license agreements for software programs, or supplies or services,
+when only one source meets the using agency's reasonable requirements.
+   (I)   A purchasing agent may make a special purchase when:
+      (1)   The compatibility of equipment, accessories, or replacement parts
+is a substantial consideration in the purchase; and
+      (2)   Only one source meets the using agency's reasonable requirements.
+   (J)   A purchasing agent may make a special purchase when purchase of the
+required supplies or services under another purchasing method under this
+subchapter would seriously impair the functioning of the using agency.
+   (K)   A purchasing agent may make a special purchase when the purchasing
+agency has solicited for a purchase under another purchasing method described
+in this subchapter and has not received a responsive offer.
+   (L)   A purchasing agent may make a special purchase for the evaluation of
+supplies or a system containing supplies for any one of the following reasons:
+      (1)   To obtain functional information or comparative data; or
+      (2)   For a purpose that in the judgement of the purchasing agent may
+advance the long- term competitive position of the governmental body.
+   (M)   A purchasing agent may make a special purchase when the market
+structure is based on price but the governmental body is able to receive a
+dollar or percentage discount of the established price.
+   (N)   Subject to divisions (O), (P), or (Q) of this section, a purchasing
+agent may award a contract for a supply when there is only one source for the
+supply and the purchasing agent determines in writing that there is only one
+source for the supply.
+   (O)   A purchasing agent may make a purchase from a person when the
+purchasing agent determines in writing that: supplies can be purchased from the
+person or the person's authorized representative at prices equal to or less
+than the prices stipulated in current federal supply service schedules
+established but the federal General Services Administration; and it is
+advantageous to the governmental body's interest in efficiency and economy.
+   (P)   Purchasing agent may purchase supplies if the purchase is made from a
+person who has a contract with a federal agency and the person's contract with
+the federal agency requires the person to make the supplies available to the
+state or political subdivisions.
+   (Q)   A purchasing agent for a political subdivision may purchase supplies
+if the purchase is made from a person who has a contract with a state agency
+and the person's contract with the state requires the person to make the
+supplies or services available to political subdivisions, as provided in I.C.
+4-13-1.6 or 5-22-17-9.
+   (R)   Subject to division (S) of this section, a purchasing agent may
+acquire supplies if the purchasing agent determines that the governmental body
+can obtain the transfer of supplies from the federal government under I.C. 4-
+13-1.7 at a cost less than would be obtained from purchase of the supplies by
+soliciting bids for proposals.
+   (S)   A governmental body may not make a purchase under division (R) of this
+section if the title to the property will be transferred to the governmental
+body before a sufficient appropriation to pay the costs of the purchase is
+appropriated. However, if the supplies will be transferred to the governmental
+body upon conditional sale or under a lease, a lease with option to purchase,
+or a contract for the use of the supplies, the governmental body may make the
+purchase under this division if there are sufficient funds appropriated to pay
+the consideration required for one year of the agreement.
+   (T)   A purchasing agent who purchases or leases surplus federal materials
+shall, at the time of the purchase or lease, or immediately thereafter, give
+public notice in accordance with I.C. 5-3-1.
+   (U)   A purchasing agent may acquire supplies by accepting a gift for the
+purchasing agent's governmental body.
+   (V)   A purchasing agent may make a special purchase from a public utility
+if the purchase or lease price is a negotiated price that considers the results
+of an independent appraisal that the purchasing agency obtains and an
+independent appraisal that the public utility obtains.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.27 RULES REGARDING THE MODIFICATION AND TERMINATION OF CONTRACTS.
+   (A)   Price adjustments. The purchasing agent may include provisions to
 permit price adjustments in a purchase contract. The following provisions for
-price adjustments may be included:
-         (a)   Price adjustments must be computed by agreement on a fixed price
+price adjustment may be included:
+      (1)   Price adjustments must be accompanied by agreement on a fixed price
 adjustment before the beginning of the pertinent performance or as soon after
 the beginning of performance as possible;
-         (b)   Price adjustments must be computed by unit prices specified in
+      (2)   Price adjustments must be computed by the unit prices specified in
 the contract or subsequently agreed upon;
-         (c)   Price adjustments must be computed by costs attributable to the
-events or situations under such clauses with adjustment of profit or fee, all
-as specified in the contract or subsequently agreed upon;
-         (d)   Price adjustments must be computed in such other manner as the
-contracting parties may mutually agreed upon; or
-         (e)   In the absence of agreement by the parties, price adjustments
-must be computed by a unilateral determination by the governmental body of the
-costs attributable to the events or situations under such clauses with
-adjustment of profit or fee, all as computed by the governmental body in
-accordance with applicable rules adopted by the governmental body.
-      (2)   Adjustments in time of performance. The purchasing agent may
-include provisions in a purchase contract concerning adjustments for time of
+      (3)   Price adjustments must be computed by costs attributed to the
+events or situation under such clauses with adjustment of profit or fee, all as
+specified in the contract or subsequently agreed upon;
+      (4)   Price adjustments must be computed in such other manner as the
+contracting parties may mutually agree upon; or
+      (5)   In the absence of agreement by the parties, price adjustments must
+be computed by a unilateral determination by the governmental body (purchasing
+agency) of the costs attributable to the events or situation under such clauses
+with adjustment of profit or fee, all as computed by the governmental body
+(purchasing agency) in accordance with applicable rules adopted by the
+governmental body (purchasing agency).
+   (B)   Adjustments in time of performance. The purchasing agent may include
+provisions in a purchase contract concerning adjustments for time of
 performance under the contract.
-       (3)   Unilateral rights of the Purchasing Agency. The purchasing agent
-may include in a purchase contract provisions dealing with the unilateral right
-of the Purchasing Agency to order changes in the work within the scope of the
-contract or to order temporary work stoppage or delays in time of performance.
-      (4)   Quantity variations. The purchasing agent may include in a purchase
+   (C)   Unilateral right of town through its purchasing agencies. The
+purchasing agent may include in a purchase contract provisions dealing with the
+unilateral right of the purchasing agency to order changes in the work within
+the scope of the contract or to order temporary work stoppage or delays in time
+of performance.
+   (D)   Quantity variations. The purchasing agent may include in a purchase
 contract provisions dealing with variations between the estimated quantities of
 work in a contract and the actual quantity delivered.
-   (F)   Purchase of services.
-      (1)   The Purchasing Agency determines that each purchasing agent and
-department may purchase services except for the services of attorneys in
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.28 RULES REGARDING THE PURCHASE OF SERVICES.
+   It is hereby determined that the purchasing agency of the relevant
+department may purchase services including the services of attorneys in
 whatever manner the purchaser determines to be reasonable.
-      (2)   The Purchasing Agency may not require any agency, department, or
-office to purchase services in any particular manner.
-(1996 Code, § 46.01) (Ord. 98-10, passed 11-9-1998)
-§ 33.22 PURCHASE OF SUPPLIES MANUFACTURED IN THE UNITED STATES.
-   Supplies manufactured in the United States shall be specified for all town
-purchases and shall be purchased unless the Town Council determines that:
-   (A)   The supplies are not manufactured in the United States in reasonable
-available quantities;
-   (B)   The prices of the supplies manufactured in the United States exceeds
-by an unreasonable amount the price of available and comparable supplies
-manufactured elsewhere;
-   (C)   The quality of the supplies manufactured in the United States is
-substantially less than the quality of comparable priced available supplies
-manufactured elsewhere; or
-   (D)   The purchase of supplies manufactured in the United States is not in
-the public interest.
-(1996 Code, § 46.02) (Ord. 98-11, passed 11-9-1998)
-§ 33.23 SMALL BUSINESS SET-ASIDE PURCHASES.
-   The town hereby determines to establish criteria for determining
-qualifications as a small business and to identify specific supplies for small
-business set-aside purchases.
-   (A)   Qualifications. A business qualifies as a small business if it
-qualifies as a small business under standards established by the State
-Department of Commerce.
-   (B)   Classification of business size. Businesses that are not small
-businesses:
-      (1)   A wholesale business, if its average annual sales for its most
-recently completed fiscal year exceeds $4,000,000;
-      (2)   A construction business, if its average annual receipts for the
-preceding three fiscal years exceeds $4,000,000;
-      (3)   A retail business or business selling services, if its annual sales
-and receipts exceed $500,000; and
-      (4)   A manufacturing business, if it employs more than 100 persons.
-   (C)   State business preference. An offeror is a state business if it is
-owned or operated in the state.
-(1996 Code, § 46.03) (Ord. 98-12, passed 11-9-1998)
-§ 33.24 PURCHASING POLICES AVAILABLE FOR PUBLIC INSPECTION.
-   The purchasing policies of the town, which were approved by the Town Council
-11-9-1998, shall be kept at the office of the Clerk-Treasurer and available for
-public inspection.
-(1996 Code, § 46.04)
+(Ord. 2023-08, passed 6-7-2023)
+NEPOTISM RULES REGARDING CONTRACTS
+§ 33.30 DEFINITIONS.
+   For the purposes of this subchapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   ELECTED OFFICIAL. 
+      (1)   A member of the legislative body of the unit; or
+      (2)   A member of the fiscal body of the town.
+   RELATIVE.
+      (1)   Any of the following:
+         (a)   A spouse;
+         (b)   Parents or stepparent;
+         (c)   A child or stepchild;
+         (d)   A brother, sister, stepbrother, or stepsister;
+         (e)   A niece or nephew;
+         (f)   An aunt or uncle;
+         (g)   A daughter-in-law or son-in-law;
+      (2)   In addition, an adopted child of an individual is treated as a
+natural born child of the individual and the terms "brother" and "sister"
+include a brother or sister by the half blood.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.31 SPECIAL REQUIREMENTS FOR CONTRACTS INVOLVING RELATIVES.
+   (A)   The town, its executive departments and utilities may enter into a
+contract or renew a contract for the procurement of goods and services or a
+contract for public works with an individual who is a relative of an elected
+official; or a business entity that is wholly or partially owned by a relative
+of an elected official, only if requirements of this section are satisfied and
+the elected official does not violate I.C. 35-44-1-3.
+   (B)   The town, its executive departments and utilities may enter into a
+contract or renew a contract with an individual or business entity described in
+division (A) of this section, provided as follows:
+      (1)   The elected official files with the town a full disclosure, which
+must be in writing, describe the contract or purchase to be made by the town,
+describe the relationship that the elected official has to the individual or
+business entity that contracts or purchases, be affirmed under penalty of
+perjury, be submitted to the Town Council of and be accepted by it in a public
+meeting of that body prior to final action on the contract or purchase, and the
+disclosure must be filed, not later than 15 days after final action of the
+contract or purchase, to the State Board of Accounts and the Clerk of the
+Circuit Court of Marshall County;
+      (2)   Further, the appropriate agency or contracting body of the town
+must make a certified statement that the contract amount or purchase price was
+the lowest amount or price bid or offered; or make a certified statement of the
+reasons why the vendor or contractor was selected;
+      (3)   Further still, the town must satisfy any other requirements under
+I.C. 5-22 or 36-1- 12;
+      (4)   An elected official shall also comply with the disclosure
+provisions of I.C. 35-44- 1-3, if applicable.
+   (C)   This section does not affect the initial term of a contract in
+existence at the time the term of office of the elected official of the town
+begins.
+(Ord. 2023-08, passed 6-7-2023)
+§ 33.32 ANNUAL CERTIFICATION BY ELECTED OFFICERS.
+   (A)   Each elected officer of the town as defined herein, shall annually
+certify in writing, subject to the penalties for perjury, that the officer is
+in compliance with this subchapter. An officer shall submit the certification
+to the executive (Town Council President) of the town not later than December
+31 of each year.
+   (B)   The annual report filed by a unit with the State Board of Accounts
+under I.C. 5-11-13-1 must include a statement by the executive of the unit
+stating where the unit has implemented a policy under I.C. 36-1-21.
+(Ord. 2023-08, passed 6-7-2023)
 FUNDS
 § 33.35 REDEVELOPMENT COMMISSION FUND.
    There is hereby established the Redevelopment Commission Fund, which shall
@@ -1903,6 +2305,8 @@ Payment of Utility Bills
 50.18   Reconnection
    
 50.19   Written payment agreements
+   
+50.20   NSF payments
 Cross-reference:
    Electric rates and charges, see §
 52.03
@@ -1951,57 +2355,53 @@ discontinued until such time as the user shall conform to §
 (1996 Code, § 100.22) (Ord. 107, passed 10-20-1942)
 PAYMENT OF UTILITY BILLS
 § 50.15 DUE DATE; HOLIDAY AND WEEKEND EXCEPTION.
-   (A)   Utility bills shall be due and payable on the fifteenth of each month
-at the office of the Clerk-Treasurer.
+   (A)    Utility bills shall be due and payable on the fifteenth of each month
+by 11:59 p.m. at the office of the Clerk-Treasurer.
 (1996 Code, § 103.01)
-   (B)   When the fifteenth of the month falls on a holiday or weekend, utility
-bills may be paid on the next full business day following the fifteenth.
+   (B)   When the fifteenth or twenty-eighth of the month falls on holiday or
+weekend, utility bills must be paid by 7:30 a.m. on the next business day
+following the fifteenth or twenty-eighth day of the month.
 (1996 Code, § 103.02)
-(Ord. 2016-2, passed 3-2-2016)
+(Ord. 2016-2, passed 3-2-2016; Ord. 2024-13, passed 11-13-2024)
 § 50.16 DELINQUENCY PENALTY.
-   Utility customers whose bills are not timely paid as required under §
+    Utility customers whose bills are not timely paid as required under §
 50.15, as applicable, shall without further notice have a 10% penalty assessed
-to the electric, water, sewer, and fire protection portions of their bill.
-(1996 Code, § 103.03) (Ord. 2016-2, passed 3-2-2016)
+to the electric, water, sewer and hydrant maintenance portions of their bill.
+(1996 Code, § 103.03) (Ord. 2016-2, passed 3-2-2016; Ord. 2024-13, passed 11-
+13-2024)
 § 50.17 NOTICE OF DELINQUENCY; DISCONNECTION.
-   (A)   The town utility company shall, upon the failure of any utility
-customer to timely pay their utility bill as required under §
-50.15, as applicable, promptly send a notice by first class U.S. mail to the
-user at the address at which he or she was last billed.
-      (1)   Said notice shall inform the customer that they may request a
-hearing in front of the town Utility Review Board, said hearing to occur before
-the twenty-eighth day of the month. The customer must request this hearing in
-writing by the twenty-first day of the month by submitting this written request
-to the office of the Utility Clerk.
-      (2)   Said notice shall also state that the customer’s utilities will be
-disconnected in any of the following events:
-         (a)   Customer has not timely requested a hearing and fails to pay his
-or her utility bill by the twenty-eighth day of the month;
-         (b)   Customer requests a hearing, but fails to appear and fails to
-pay his or her utility bill by the twenty-eighth day of the month; or
-         (c)   Customer requests a hearing and attends, but fails to abide by
-any and all terms and conditions as specified at the hearing by the Utility
-Review Board.
-   (B)   The utility company shall promptly disconnect the customer’s utilities
-on the twenty-ninth day of the month upon occurrence of any of the above
-events.
-   (C)   The Utility Review Board shall be composed of the Utility
-Superintendent (or his or her representative), a member of the Town Council,
-and a representative of the Utility Clerk’s office. The Utility Review Board
-shall hear and determine issues of customer complaints regarding billing, and
-customer hardships regarding payment of their utility bill. The decision of the
-Utility Review Board shall be final and binding on the customer and the utility
-company. It is the customer’s responsibility to ensure that the town utility
-company has a valid mailing address for the customer, and to contact the town
-utility company for balance notification or a duplicate bill or notice should
-it not arrive in the mail.
-(1996 Code, § 103.04) (Ord. 2016-2, passed 3-2-2016)
+    The town utility company shall, upon the failure of any utility customer to
+timely pay their utility bill as required under §
+50.15, as applicable, promptly send a notice by first-class U.S. mail to the
+user at the address at which he or she was last billed, stating that the
+customer's utilities will be disconnected if utility bill is not paid on
+twenty-eighth day of said month, and that the customer shall be placed on a
+disconnect list. The utility company shall promptly disconnect the customer's
+utilities the next business day. Failure to receive a bill or notice in the
+mail shall not entitle any customer to pay that bill after the designated due
+date. lt is the customer's responsibility to contact the Town Clerk's Office
+for balance notification or a duplicate bill or notice should it not arrive in
+the mail. Additionally, there shall be an administrative charge for being
+placed on the disconnect list, whether service is disconnected or not, and said
+charge shall be $40 for being placed on the electric disconnect list and $40
+for being placed on the water disconnect list. The charge shall be $80 if
+placed on both lists. Minimum monthly payments shall still be due and assessed
+even if service is disconnected.
+(1996 Code, § 103.04) (Ord. 2016-2, passed 3-2-2016; Ord. 2024-13, passed 11-
+13-2024)
 § 50.18 RECONNECTION.
-   When any utility service is disconnected under the provisions of §
+    When any utility service is disconnected under the provisions of §
 50.17 above, it may be required for the customer to pay the entire delinquent
-balance of their utility bill then owing together with a reconnect charge
-before the service will be restored.
-(1996 Code, § 103.05) (Ord. 2016-2, passed 3-2-2016)
+balance of their utility bill then owing together with any administration
+charges before the service will be restored. Additionally, the customer shall
+also pay a reconnection fee as follows:
+ 
+                                                      Electric Water
+Reconnection for non-pay during normal business hours $0       $0
+Reconnection outside of normal business hours         $75      $75
+ 
+(1996 Code, § 103.05) (Ord. 2016-2, passed 3-2-2016; Ord. 2024-13, passed 11-
+13-2024)
 § 50.19 WRITTEN PAYMENT AGREEMENTS.
    Customers who are unable to make payment according to § 50.17 may enter into
 written payment agreements with the town through the Utility Clerk to avoid
@@ -2023,6 +2423,16 @@ disconnect fee in full. Any deviation from the above must be first approved by
 the Town Council at an open meeting.
 (1996 Code, § 103.06) (Ord. 2016-2, passed 3-2-2016; Ord. 2017-8, passed 4-19-
 2017; Ord. 2022-02, passed 2-16-2022)
+§ 50.20 NSF PAYMENTS.
+   Any payment rejected by the payor's financial institution will be subject to
+the penalty of $40. All payments rejected by the payor's financial institution
+will be removed from the payor's account on the date notice is received from
+the financial institution as if the payment was never made. It is the
+responsibility of the payor to make sure payment is made on their utility
+account. If two or more payments are rejected by the payor’s financial
+institution in a 12-month period, only cash, certified check or money orders
+will be accepted for payments on the payors account(s).
+(Ord. 2024-13, passed 11-13-2024)
 CHAPTER 51: GARBAGE COLLECTION
 Section
    
@@ -2055,20 +2465,21 @@ collection and disposal of residential municipal waste and collection and
 disposal of residential recyclable material. Such services and charges shall be
 rendered only to residential units and businesses within the boundaries of the
 corporate limits of the town.
-      (1)   The monthly fee for businesses through the December 31, 2021,
-billing shall be billed at $29.70 billed per month, and residential customers
-to be billed at $19.20 per month, and collected in conjunction with other
-utility services provided by the town starting with the January 1, 2021,
-billing.
-      (2)   The monthly fees, both business and residential, shall increase by
-1.5% for the following one subsequent year to fulfill the current contract.
+      (1)   The monthly fee for commercial addresses beginning January 1, 2025
+shall be billed at $45 billed per month, and residential customers to be billed
+at $21.50 per month, and collected in conjunction with other utility services
+provided by the town starting with the January 1, 2025, billing.
+      (2)   The monthly fees, both commercial and residential, shall increase
+by 5% per year beginning in 2026 and again in 2027 to fulfill the current
+contract.
 (1996 Code, § 52.03)
 (Ord. 450, passed 12-19-1988; Ord. 2006-2, passed 11-15-2006; Ord. 2007-9,
 passed 8-1-2007; Ord. 2010-1, passed 1-6-2010; Ord. 2011-1, passed 1-19-2011;
 Ord. 2012-1, passed 1-18-2012; Ord. 2013-2, passed 1-16-2013; Ord. 2014-1,
 passed 1-22-2014; Ord. 2016-10, passed 8-3-2016; Ord. 2018-3, passed 5-16-2018;
 Ord. 2019-23, passed 12-18-2019; Ord. 2021-01, passed 1-6-2021; Ord. 2021-20,
-passed 1-6-2021)
+passed 1-6-2021; Ord. 2024-01, passed 2-7-2024; Ord. 2024-12, passed 10-23-
+2024)
 § 51.03 TIME FOR PLACEMENT OF CONTAINERS.
    No containers for the storage of garbage shall be placed at the street any
 earlier than 7:00 p.m. the night before any scheduled collection date, and no
@@ -2124,9 +2535,9 @@ Rules and Regulations Governing Electric Service
    
 52.24   Service deposits
    
-52.25   Charge for non-sufficient funds checks
+52.25   Reserved
    
-52.26   Reconnection
+52.26   Reserved
    
 52.27   Past due accounts
    
@@ -2423,28 +2834,8 @@ efforts to locate the person who made such deposit or the heirs of such person,
 shall be presumed to be abandoned and treated in accordance with the laws of
 the State of Indiana.
 (Ord. 2018-1, passed 3-21-2018)
-§ 52.25 CHARGE FOR NON-SUFFICIENT FUNDS CHECKS.
-   A charge will be made to reimburse the utility for its cost in handling a
-check returned by any bank for non-sufficient funds. See Ch. 36, App. A.
-(Ord. 2018-1, passed 3-21-2018)
-§ 52.26 RECONNECTION.
-   (A)   Whenever the service is disconnected for non-payment of bill, or for
-any reason beyond the control of the utility and/or a reconnection of service
-is required by any customer, a reconnect charge as listed below will be paid to
-the utility to cover a part of the cost of disconnection and reconnection of
-service. One fee will be charged when a disconnection and reconnection is
-requested or required.
- 
-For Customers Placed on the Disconnect $40
-List
-During Working Hours (Monday through   $80 Each Occurrence with disconnection
-Friday) 7:00 a.m. to 3:30 p.m.         at the meter
-After Working Hours and/or Weekends/   $150 Each Occurrence with disconnection
-Holidays                               at the meter
- 
-   (B)   Minimum payment still due and payable, whenever service has been
-temporarily disconnected for the benefit of the customer.
-(Ord. 2018-1, passed 3-21-2018; Ord. 2022-03, passed 2-16-2022)
+§ 52.25 RESERVED.
+§ 52.26 RESERVED.
 § 52.27 PAST DUE ACCOUNTS.
    Refer to §§
 50.15 through
@@ -4848,7 +5239,7 @@ CHAPTER 54: WATER SYSTEM
 Section
 General Provisions
    
-54.001   Application
+54.001   Application and administration
    
 54.002   Definitions
    
@@ -4913,13 +5304,6 @@ Main Extension Policy
 54.057   Fee for connection without permit
    
 54.058   Extensions must be accepted by town
-Administration
-   
-54.070   Department of Water Utility; Superintendent
-   
-54.071   Powers of Town Council
-   
-54.072   Changes
 Private Water Wells
    
 54.100   Applicability
@@ -4941,20 +5325,33 @@ Cross-reference:
    Contamination to public water supply, see §
 53.016
 GENERAL PROVISIONS
-§ 54.001 APPLICATION.
-   The rules and regulations of the town, as amended and supplemented, from
-time to time, shall govern all water service rendered or to be rendered by the
-town, shall be binding upon every customer, and shall constitute a part of the
-terms and conditions of every contract for water service, whether expressly
+§ 54.001 APPLICATION AND ADMINISTRATION.
+   (A)   The rules and regulations of the town, as amended and supplemented
+from time to time, shall govern all water service rendered or to be rendered by
+the town, shall be binding upon every customer, and shall constitute a part of
+the terms and conditions of every contract for water service, whether expressly
 incorporated therein or not or whether or not a signed application for water
 service is on file.
+   (B)   There is hereby created a Department of Water Utility which shall be
+responsible to the Town Council for the operation of the town's water utility.
+   (C)   The Town Council shall have all powers necessary for the custody,
+management and operation of said utility under the provisions of I.C. 36-9-2-14
+et seq., and any subsequent amendments thereto.
+   (D)   The Town Council shall, by ordinance, establish rates and charges for
+water supplied by said utility to adequately provide for the operation,
+maintenance, depreciation, and repayment of indebtedness of said utility.
+   (E)   The Town Council shall appoint a Superintendent of said utility who
+shall serve as the head of the Department of Water Utility.
+   (F)   The town reserves the right to modify any rule or regulation, or to
+make such additional regulations as may be found necessary for the better
+protection of the public interest in the management of the town's waterworks.
 (1996 Code, § 104.101) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.002 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
+    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-   CROSS-CONNECTION.  The physical connection between the water supply of the
+   CROSS-CONNECTION. The physical connection between the water supply of the
 town and any private supply on the premises of the customer or any plumbing
 connection or appliance on the premises of the customer through which the town
 supply could become contaminated or chemical or physical properties changed.
@@ -4966,7 +5363,7 @@ associations, governmental agencies or other political subdivisions of the
 state receiving and paying for service other than for residential purposes.
       (2)   RESIDENTIAL CUSTOMER. Persons receiving and paying for service
 exclusively for residential purposes.
-   DISCONNECTION.  The termination or discontinuance of water service.
+   DISCONNECTION. The termination or discontinuance of water service.
    DISTRIBUTION MAIN. The pipe owned by the town which delivers water to:
       (1)   Fire hydrants;
       (2)   Fire lines;
@@ -4979,61 +5376,63 @@ quantity of water supplied to the customer.
    MONTH. The period between any two consecutive regularly scheduled meter
 readings and billings for water service. Such billings are scheduled at
 approximately 30-day intervals.
-   PREMISES. A dwelling, buildings, structure, or parcel of real estate which
-is supplied through a separate service line and meter installation.
+   PREMISES. A dwelling, building, structure, or parcel of real estate which is
+supplied through a separate service line and meter installation.
    PRIVATE MAIN. A privately owned supply main leading from a distribution main
-to one or more customer’s premises. The main is not a part of the town’s system
+to one or more customer's premises. The main is not a part of the town's system
 and is maintained by the customers which it services.
-   SERVICE. Supplying water to premises or customer.
+   SERVICE. Supplying water to premises or customers.
    SERVICE LINE. A supply pipe leading from the tap in the distribution main to
 or into the premises supplied or to be supplied.
    TAP OR CORPORATION COCK. A fitting owned by the town and inserted in the
 distribution main to which the service line or private main is attached.
    TOWN. The Town of Argos.
 (1996 Code, § 104.102) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.003 CUSTOMERS TO INSTALL REMOTE READING WATER METERS.
-   All the customers of the water utility shall install remote reading water
-meters.
+    All the customers of the water utility shall have a radio remote meter
+installed on their water meters.
 (1996 Code, § 104.05) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.004 SPRINKLING RESTRICTIONS.
-   The town may issue orders limiting the use of water for sprinkling of lawns,
-gardens, and similar uses during such periods, times, or days as the water
-storage supply and pumping facilities may require limitation of use for other
-consumer uses.
+    The town may issue orders limiting the use of water for sprinkling of
+lawns, gardens, and similar uses during such periods, times, or days as the
+water storage supply and pumping facilities may require limitation of use for
+other consumer uses.
 (1996 Code, § 104.123) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.005 DISCONNECTION OF WATER LATERALS PRIOR TO RAZING BUILDING.
-   (A)   Prior to razing any portion of any building, the person to whom a
+   (A)    Prior to razing any portion of any building, the person to whom a
 razing permit is issued shall cause all water laterals to be disconnected and
 capped by a plumber, said disconnections to be at property line.
    (B)   Upon completion of capping, the town shall be notified prior to
 backfilling of excavation.
 (1996 Code, § 104.124) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024) Penalty, see §
 54.999
 WATER SERVICE RULES AND REGULATIONS
 § 54.020 COPY OF RULES ON FILE WITH CLERK-TREASURER.
-   A copy of all rates, rules, and regulations under which water service will
+    A copy of all rates, rules, and regulations under which water service will
 be rendered is filed for the convenience of the public in the office of the
 Clerk-Treasurer.
 (1996 Code, § 104.103) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.021 CONTRACTS FOR SERVICE.
-   (A)   A written application for service or a contract properly executed may
+   (A)    A written application for service or a contract properly executed may
 be required from customers (including contractors and builders) before the town
 will supply service. However, the town shall have the right to reject for any
 valid reason, an application. Where unusual construction or equipment expenses
 will be involved in furnishing the service, the town may require the contract
 to be for an appropriate period of time specified by the town when the contract
 is executed. A contract charge, which includes the initial turn-on of service,
-shall be added to the first month’s bill for water service.
+shall be added to the first month's bill for water service. Any and all
+applicable fees and charges shall be paid before water service is provided.
    (B)   It is understood that any application for service accepted by the town
-is subject to a distribution main being, or being made available, adjacent to
-the premises and subject to the terms of any and all contracts concerning the
-main in force at the time of application.
+is subject to a distribution main being available, or being made available,
+adjacent to the premises and subject to the terms of any and all contracts
+concerning the main in force at the time of application.
    (C)   No promise, agreement, or representation by any agent of the town
 shall be binding upon the town unless the same shall have been incorporated in
 a written contract signed and approved by an agent of the town authorized to
@@ -5044,33 +5443,45 @@ A person who made a contract for water service to premises shall be held liable
 for all water service furnished to such premises until such time as the town is
 properly notified to discontinue the service for his or her account and a final
 reading of the meter is obtained. The town shall obtain such final reading as
-soon as possible.
+soon as possible. In the event that water service is shut off by the town for
+any reason whatsoever, the customer shall still be responsible for the minimum
+monthly charges pursuant to this section and/or §
+54.035.
    (E)   Contracts for water service will cover only the premises and uses
 applied for. Customers shall not sell or give away water or grant privileges to
 use water to anyone not specifically included in the contract under penalty of
 discontinuance of service.
    (F)   Upon request, the customer shall provide information to the town
-concerning the devices that are to be connected to the town’s distribution main
+concerning the devices that are to be connected to the town's distribution main
 and the location of the premises. The town may request the customer to provide
 plans and specifications covering the construction on the premises.
 (1996 Code, § 104.104) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.022 CLASSES OF SERVICE.
-   (A)   The town has two classes of service:
+   (A)    The town has two classes of service:
       (1)   A service to supply metered water to residential customers,
 industrial, and municipal users; and
       (2)   Nonresidential customers for commercial, industrial, municipal,
 fire protection uses, sprinkler installations, tank truck filling, contractors,
-and customers service other than residential.
+and customer's services other than residential.
    (B)   All services shall fall into one or the other of these classes.
 (1996 Code, § 104.105) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.023 DEPOSITS.
-   (A)   Owner occupied rates. Any owner-occupied structure serviced by the
-town, shall pay a deposit of $15 against the non-payment of bills for service.
-   (B)   Renter occupied rates. Any renter-occupied structure serviced by the
-town, shall pay a deposit of $75 against the non-payment of bills for service.
+   (A)   Owner occupied rates. For any owner-occupied structure serviced by the
+town, the owner shall pay a deposit against the non-payment of bills for
+service, all as specified in the most recent water rate ordinance filed for the
+convenience of the public in the office of the Town Clerk-Treasurer. Owners
+shall provide a copy of the deed to their real property to establish proof of
+ownership.
+   (B)   Renter occupied rates. For any renter-occupied structure or structure
+being purchased on land contract or similar arrangement (collectively,
+"renter"), and serviced by the town, the renter shall pay a deposit against the
+non-payment of bills for service, all as specified in the most recent water
+rate ordinance filed for the convenience of the public in the office of the
+Town Clerk-Treasurer. Renters shall provide a copy of the written lease or land
+contract to their real property to establish proof of tenancy.
    (C)   Deposit refund.
       (1)   The Clerk-Treasurer of the town shall be authorized to return the
 security deposit of any residential utility customer of the town upon the
@@ -5090,7 +5501,7 @@ to and approval by the Utility Superintendent.
 or waived and thereafter utility services are disconnected for delinquent
 payment, then a new utility deposit and reconnection fee will be required
 before utility service will be reestablished.
-      (4)   The town may, but shall not be required, to apply the customer’s
+      (4)   The town may, but shall not be required, to apply the customer's
 deposit to payment of water bills or any other charge.
       (5)   The deposit, where chargeable, shall be applied against the final
 bill when service has been terminated. Any outstanding credit balance shall be
@@ -5102,9 +5513,10 @@ to locate the person who made such deposit or the heirs of such person, shall
 be presumed to be abandoned and treated in accordance with the laws of the
 state.
 (1996 Code, § 104.106) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024)
 § 54.024 WATER TURN-ON.
-   (A)   Until a contract for water service has been executed and a meter has
+   (A)    Until a contract for water service has been executed and a meter has
 been installed, water shall not be turned on at any premises by anyone but a
 town water employee or authorized representative. No person except an
 authorized employee of the Water Department, Fire Department, or any other
@@ -5113,96 +5525,41 @@ from any hydrant to which water is supplied by the town. When water is required
 by a plumbing contractor to test plumbing before a water contract has been
 executed and a meter installed, a permit shall be obtained by the plumbing
 contractor. It is a violation of the municipal code for anyone except a Water
-Department employee or authorized representative to make such turn-on.
-    (B)   In order to determine that no open spigot or fault exists in the
+Department employee or authorized representative to make such turn-on. Any
+violation of this section shall subject the customer or person to the penalties
+as set forth in §
+54.999.
+   (B)   In order to determine that no open spigot or fault exists in the
 plumbing, a representative of the builder must be on hand at the site of the
 building before water will be turned on by town personnel. When additional
-visits must be made to turn on the service, an additional charge will be made.
-   (C)   When water service is to be transferred and meter has been left in for
-the convenience of the town with the service shut off at the valve ahead of the
-meter, the valve shall be sealed and only an employee of the Water Department
-is authorized to break the seal and provide service.
-   (D)   The customer must notify the town when the billing is to be
+visits must be made to turn on the service, an additional service call fee
+shall be assessed, as specified in the most recent water rate ordinance filed
+for the convenience of the public in the office of the Town Clerk-Treasurer.
+   (C)   The customer must notify the town when the billing is to be
 transferred to a new customer, otherwise the original customer will be billed
 until such record of transfer is made available to the town.
-   (E)   The customer shall install or have installed an operable shut-off
+   (D)   The customer shall install or have installed an operable shut-off
 valve located at the point of entry into the premises before service will be
-turned on or resumed, in the case of a disconnection.
+turned on or resumed, in the case of a disconnection. In the event that the
+shut-off valve is inoperable, an additional service call fee shall be assessed,
+as specified in the most recent water rate ordinance filed for the convenience
+of the public in the office of the Town Clerk-Treasurer.
 (1996 Code, § 104.107) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2010-4, passed - -2010) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2010-4, passed - -2010; Ord. 2024-4,
+passed 5-8-2024) Penalty, see §
 54.999
 § 54.025 SERVICE CONNECTIONS.
-   (A)   Where large connections are made as a part of the initial installation
-of “on-site” mains, they shall be installed by the developer. All other
-connections or taps shall be made by town personnel at the expense of the
-customer or developer. Charges for a three-fourths-inch service shall be $500
-plus the cost of the meter and materials used by the town. The charge for a
-one-inch meter shall be $750 plus the cost of the meter and materials used by
-the town. The charge for any service larger than one inch shall be $1,000 plus
-the cost of the meter and materials and must be installed by contractor. A tap
-order shall be obtained from the town for each service connection.
-   (B)   (1)   When an individual service is sought for acreage or developed
-areas inside or outside the corporate limits of the town, the following water
-users, listed by type of occupancy, shall pay a “user” contribution to
-partially reimburse the town for the supply, treatment, pumping, and storage
-facilities which are required to furnish water to new installations. This
-contribution shall be paid into the town waterworks “Water Facilities Expansion
-Fund”, which is a depository for said contributions. The funds accumulated will
-be used only to assist in financing the cost of construction of the above-
-described facilities when they are required. Payment of the contribution may be
-by lump sum or may be pro-rated by contract over a period of time and added to
-the monthly water bill. The “equivalent” user unit of 1 is based on a single-
-family residence, and the “equivalent” user contribution is hereby initially
-established at $200. The units listed below will presently pay a contribution
-based on the multiplication of the listed decimal times the established user
-contribution. The equivalent user contribution as well as the multiplication
-factors listed below may, from time to time, be updated and changed by the Town
-Council.
-Equivalent User Contribution Multiplier
-Equivalent User Contribution Multiplier
-Airports                          0.03/passenger/day
-Apartments                        0.03/apartment
-Barber shop                       0.25/chair
-Bars and cocktail lounges         0.12/seat
-w/restaurant add                  0.13/seat
-Beauty shops                      0.70/chair
-Bowling alley                     0.40/alley
-w/bar additional                  0.50/alley
-Car washes                        0.018/sq. ft. inside
-Churches                          0.008/member
-Dentist office                    2.5/chair
-Drive-in restaurants              0.12/car space
-Drive-in theaters                 0.20/car space
-Duplex residence                  2.0
-Institutions other than hospitals 0.60/bed
-Launderette                       2.0/machine
-Laundry (commercial)              35.0
-Mobile home park                  1.0/unit
-Motels                            0.90/room
-Offices                           0.25/1,000 sq. ft.
-Physician’s office              1.0/examining room
-Restaurant                        0.10/seat
-Retail space                      0.20/1,000 sq. ft.
-w/fountain service additional     0.05/seat
-Rooming houses                    1.30/renter
-Service stations                  1.5/island
-Single-family residence           1.0
-Swimming pools (commercial)       10.0/1,000 sq. ft.
-Theater                           0.10/seat
-Town house                        1.0/unit
- 
-      (2)   Contributions of users not listed will be computed based on
-estimated usage. All users shall also be billed a monthly water rate based on
-estimated usage. All users shall also be billed a monthly water rate according
-to established rates on file with the Town Clerk-Treasurer. Except for single-
-family residential users where a user has consumed metered water for a
-continuous 18-month period, the town will review its contribution set forth
-based upon usage for the preceding 12-month metered period, and will adjust the
-unit contribution in accordance with actual usage, either upward or downward as
-the metered usage reflects. This adjustment will fix the unit contribution for
-the particular user and no further adjustments will thereafter be made. For the
-purpose of reviewing the unit contribution, the usage of a single-family
-residence will be considered as 5,000 gallons per month.
+   (A)    Where large connections are made as a part of the initial
+installation of "on-site" mains, they shall be installed by the developer. All
+other connections or taps shall be made by town personnel at the expense of the
+customer or developer. A tap order shall be obtained from the town for each
+service connection. A fee, or tap charge, shall be assessed and paid by the
+customer as specified in the most recent water rate ordinance filed for the
+convenience of the public in the office of the Town Clerk-Treasurer.
+   (B)   When a new service is sought inside or outside the corporate limits of
+the town, the customer shall also pay a system development charge as specified
+in the most recent water rate ordinance filed for the convenience of the public
+in the office of the Town Clerk-Treasurer.
    (C)   Each connection to the distribution main shall be installed so that a
 line perpendicular to the long axis of the main at the connection will
 intersect the meter location. Under certain conditions (such as locations where
@@ -5212,26 +5569,29 @@ of the building will intersect both the meter and the connection. A valve shall
 be installed immediately adjacent to the main for connections larger than two
 inches. A corporation stop shall be inserted in the main for connections two
 inches or smaller. Maximum size corporation tap for a six-inch main is one
-inch, for eight-inch and ten-inch mains, one and one-half inches, and for
+inch, for eight-inch and ten- inch mains, one and one-half inches, and for
 larger mains, two inches. For larger size services up to two inches on six-,
 eight- and ten-inch mains, multiple taps and saddles may be used.
+Notwithstanding the above, the Superintendent may modify or alter the above
+specifications at his or her sole discretion.
    (D)   (1)   For each service, a valve shall be installed near the property
 line in the public right-of-way. For service one inch and smaller, the town
 will furnish and install the service pipe from the main to the curb stop.
       (2)   The town reserves the right to locate the stop at:
          (a)   The curb line;
-         (b)   Inside line of the sidewalk; or
+         (b)   The inside line of the sidewalk; or
          (c)   At the property line, the most satisfactory locations for the
 curb stop and service box.
       (3)   For connections larger than one inch, the customer or developer
 shall furnish and install the service stop and service pipe from the valve at
 the distribution main to the property line. Service stop shall be located as
 directed by the town. All valves, pipe, and valve boxes shall conform to
-requirements of the town’s material specifications. Depth of cover for service
-pipe shall be four feet six inches minimum.
+requirements of the town's material specifications. Depth of cover for service
+pipe shall be four feet six inches minimum. Any and all non-conductive water
+lines shall have a tracer wire installed.
    (E)   The customer shall, at his or her own expense, install and maintain
 the service pipe from the curb or service stop to the meter. Service pipes
-between curb stop and meter shall conform to requirements of the town’s
+between curb stop and meter shall conform to requirements of the town's
 material specifications. The town or its authorized representative shall
 inspect each service pipe before the trench is backfilled. As a rule, water
 service will only be furnished to one property through a single service pipe. A
@@ -5244,8 +5604,8 @@ prior to the town installing the tap, the end of the pipe shall be plainly
 marked, or the service pipe shall project above the surface to show its
 locations. Sufficient pipe is to be installed to allow proper location of the
 service stop.
-      (2)   The customer will make the connection between the town’s service
-pipe and the customer’s service pipe if the pipe from the building is installed
+      (2)   The customer will make the connection between the town's service
+pipe and the customer's service pipe if the pipe from the building is installed
 and available.
    (G)   The town will make every reasonable effort to assist the customer or
 developer in scheduling the tapping of the distribution for orderly
@@ -5254,41 +5614,44 @@ installation of the service pipe.
 disturbing or damaging water services or valve boxes, once the services have
 been properly installed, shall be liable for the cost of repairs.
 (1996 Code, § 104.108) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024) Penalty, see §
 54.999
 § 54.026 METERING.
    (A)   (1)   Unless otherwise specified in the contract between the town and
 the customer, the water supplied will be measured by a meter or meters of
 standard manufacture, furnished and installed by the town according to its
-requirements in force and effect as amended from time to time. The customer
+requirements in force and effect and as amended from time to time. The customer
 shall provide for this purpose, free of expense to the town, a suitable area
 near the service entrance either in the basement, or in a location which is
 approved by the town before installation. Residential meters shall be installed
 three feet to three feet, six inches above the floor and as shown in standard
 meter installation drawings which may be obtained from the town.
       (2)   Customer shall provide and maintain suitable means of access to the
-meter with no obstructions of any kind within three feet of the meter. Customer
-shall provide and install an approved shut off valve on the inlet side of the
-meter and a stop and drain valve on the house side of the meter specified by
-the town. One-inch meters shall be installed in yokes. For one and one-half and
-two-inch meters, a spacer and flanges shall be installed as specified by the
-town. As a convenience, the town stocks yokes, flanges, and spacers and will
-upon request sell to the customer. A remote reading device will be installed by
-the town at a mutual agreeable location. For meters one and one-half inches and
-larger, the installation shall conform in all respects to standard meter
-installation details which may be obtained from the town.
+meter with no obstructions of any kind within three feet of the meter. In the
+event that the meter is inaccessible, a meter pit shall be installed at the
+customer's expense. Customer shall provide and install an approved shut off
+valve on the inlet side of the meter and a stop and drain valve on the house
+side of the meter specified by the town. One-inch meters shall be installed in
+meter setters or yokes. For one and one-half and two-inch meters, a spacer and
+flanges shall be installed as specified by the town. As a convenience, the town
+stocks meter setters, yokes, flanges, and spacers and will upon request sell
+these to the customer. A remote reading device will be installed by the town at
+a mutually agreeable location. For meters one and one-half inches and larger,
+the installation shall conform in all respects to standard meter installation
+details which may be obtained from the town.
    (B)   A charge will be made for each meter installation. For new services,
 this charge is included in the connection or tap charge. For customers desiring
 service where existing taps, service lines, and yokes may be used, the charge
-is included in the contract charge. This charge is based on the average cost of
-installing meters and the town may, from time to time, adjust these charges to
-reflect current charges.
+is included in the contract charge. This charge shall be as specified in the
+most recent water rate ordinance filed for the convenience of the public in the
+office of the Town Clerk-Treasurer.
    (C)   If a customer requests for his or her convenience or by his or her
 actions requires that town facilities be redesigned, re-engineered, relocated,
 removed, modified, or reinstalled, the town may require the customer to make
-payment to it of the full cost of performing such service.
+payment to the town of the full cost of performing such service.
    (D)   The town reserves the rights to determine the kind and size of meter
-that shall be used on any service pipe. The water supplied for each customer’s
+that shall be used on any service pipe. The water supplied for each customer's
 premises shall ordinarily be measured by a single meter of standard manufacture
 installed by the town. However, for the convenience of the town, more than one
 meter may be installed for capacity purposes on the same class of service, on
@@ -5296,33 +5659,25 @@ the same premises for the same customer. In this case, meter readings shall be
 aggregated and billed as if from a single meter. When for the convenience of
 the customer, water for a premises is metered at more than one service line,
 each meter shall be billed separately.
-   (E)   When the customer will permanently require for his or her own use and
-convenience one or more additional meter for the same class of service in any
-one premise, the customer may purchase the meter or meters from the town. The
-town will not supply extra meters except for temporary installation. When such
-temporary extra meters are installed at the request of the customer, the
-customer shall be required to pay the cost of all materials required for the
-installation and removal. A rental charge, dependent upon size and type of
-meter, will be made for each extra meter.
-   (F)   The properly authorized agents of the town shall have the right to
+   (E)   The properly authorized agents of the town shall have the right to
 enter upon the premises of the customer at all reasonable times for the purpose
 of inspecting, reading, testing, repairing, or replacing the meter or meters,
 appliances, and equipment used in connection with its service and removing the
 same on the termination of the contact or the discontinuance of the service.
-   (G)   All meters or other appliances and equipment which are furnished by
-and at the expense of the town and which may at any time be on the customer’s
+   (F)   All meters or other appliances and equipment which are furnished by
+and at the expense of the town and which may at any time be on the customer's
 premises shall, unless otherwise expressly provided herein, be and remain the
 property of the town. The customer shall protect such property from freezing
 and from loss or damage and no one who is not a representative of the utility
 shall be permitted to remove such property or tamper therewith.
-   (H)   Ordinary repairs to meters will be made by the town without expense to
+   (G)   Ordinary repairs to meters will be made by the town without expense to
 the customer. Repairs of damage caused by carelessness or neglect on the part
 of the customer including damage from freezing or from hot water, will also be
 made by the town, but the cost of such repairs shall be charged to the
 customer. After a second instance of a damaged meter due to negligence of the
 customer, the town may discontinue service until the customer properly protects
 the meter from damage.
-   (I)   A meter will be tested by the town upon request of the customer, but
+   (H)   A meter will be tested by the town upon request of the customer, but
 not more frequently than once in 12 months. A report of the results of such a
 test will be made to the customer and a complete record of the test will be
 kept on file in the office of the town. The customer may be, and is encouraged
@@ -5330,40 +5685,56 @@ to be, present or have a representative present when the meter is tested. If a
 test requested by the customer established that the meter is over-registering
 more than 2% no charge will be made for the test and the adjustment shall be
 made for the difference during the time of the malfunction up to a period of
-one year. Otherwise the town shall charge the customer for making the test in
-accordance with the schedule on file with the town.
-   (J)   When a residential meter is found to under register in excess of 2% in
+one year. Otherwise, the town shall charge the customer for performing a meter
+test as a special service as specified in the most recent water rate ordinance
+filed for the convenience of the public in the office of the Town Clerk-
+Treasurer.
+   (I)   When a residential meter is found to under register in excess of 2% in
 tests made at the request of the customer, the town may charge the customer for
 the water incorrectly metered for the period equal to one-half of the time
 elapsed since the previous test, but not to exceed six months. If a meter is
 found not to register for any period, the town shall estimate the charge for
 the water used by averaging the amounts registered over similar periods, or
 over corresponding periods in previous years.
-   (K)   For the determination of residential meter accuracy, the town shall
+   (J)   For the determination of residential meter accuracy, the town shall
 use the appropriate test flows specified by the American Water Works
 Association for the various type of meters. Tests on large meters shall be as
 recommended by the water manufacturer. If under registration, the cost of the
 test shall be borne by the customer and if over registration, the cost will be
 borne by the town. Cost of water shall be adjusted as with residential meters.
 (1996 Code, § 104.109) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024) Penalty, see §
 54.999
 § 54.027 METER READINGS AND BILLINGS.
-   (A)   Meters will be read monthly and bills will be rendered monthly
+   (A)    Meters will be read monthly and bills will be rendered monthly
 according to the schedule of rates on file with the town. When weather does not
 permit, pit meters may not be read at monthly intervals at the discretion of
-the Superintendent. If a bill is not paid before the due date indicated on the
-bill, the customer will be considered delinquent and, at any time thereafter
-prior to the payment thereof, the town may, after serving notice, discontinue
-service. Failure to receive the bill shall not affect the right of the town to
-discontinue service for non-payment.
+the Superintendent. All bills for the rates and charges for water use in the
+town will be billed by the town, by and through its Utility Clerk on or about
+the first day of the month in each year, which shall include payments and
+charges for the preceding month. All bills for water service not paid by the
+fifteenth day of the month by 11:59 p.m. shall be subject to a collection or
+deferred payment charge of 10% and shall have notice sent to the customer
+immediately after this charge has been assessed. If a bill is not paid by the
+twenty-eighth day of the month by 11:59 p.m., the customer will be considered
+delinquent, and at any time thereafter prior to the payment thereof, the town
+may discontinue service without further notice. Failure to receive a bill shall
+not affect the right of the town to discontinue service for non-payment. In the
+event that a customer is identified for disconnection after the above deadline,
+and regardless of whether disconnection actually occurs, an additional
+administrative fee shall be assessed and paid by the customer as specified in
+the most recent water rate ordinance filed for the convenience of the public in
+the office of the Town Clerk-Treasurer.
    (B)   All water charges accrue to the customer rather than the premises. If
 a customer moves from premises where he or she has been supplied with water
 service, he or she will be held responsible for the payment of all bills until
 he or she gives proper notice to the town that service is to be discontinued at
 said premises.
    (C)   Bills for public fire protection and private fire protection shall be
-rendered yearly. Rates are on file with the town.
+rendered yearly. Rates are as specified in the most recent water rate ordinance
+filed for the convenience of the public in the office of the Town Clerk-
+Treasurer.
    (D)   All special services for which cash payment is not required will be
 billed with the next regular monthly bill following the date the service was
 performed. Rates for special services are on file with the town.
@@ -5375,17 +5746,8 @@ the bill.
 shall be based on the registration of the meter or meters installed.
    (G)   The town shall make an effort to read meters at least once a month and
 such reading shall be prima facie evidence of the amount of water used. If the
-town is temporarily unable to gain access to a customer’s property, the
-customer shall be billed an estimated charge based on previous meter readings
-unless customer promptly and accurately fills out and mails post card left by
-the meter reader. The first billing made after the meter is read shall be
-adjusted according to the actual meter reading. No more than two estimated
-readings will be allowed. Failure to make meter available or to send in post
-card readings for three consecutive quarters will result in disconnection of
-service. A maximum of four consecutive post card readings, promptly submitted
-by the customer, will be allowed before a customer is required to install an
-outside remote reading device or to make arrangements for a special meter
-reading.
+town is temporarily unable to gain access to a customer's property, the
+customer shall be billed an estimated charge based on previous meter readings.
    (H)   All water passing through meters shall be charged for, whether used,
 wasted, or lost through leakage.
    (I)   Disputing the accuracy of a bill shall not be reason for non-payment
@@ -5393,66 +5755,109 @@ of the bill by the customer. The customer may pay a bill under protest, thus
 giving written notice that redress is being sought. Such written notice must be
 filed with the Clerk-Treasurer prior to the due date of the bill.
 (1996 Code, § 104.110) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.028 MAINTENANCE OF SERVICE LINES AND METER BOXES.
-   (A)   All service lines one inch and smaller from the distribution main to
+   (A)    All service lines one inch and smaller from the distribution main to
 and including the curb stop and box, shall be maintained in good repair at the
 expense of the town, including the replacement thereof if necessitated because
 of corrosion, tuberculation, or other deterioration. However, if replacement is
 necessary due to increased demand or damage caused by the customer, such
-replacement shall be at the customer’s expense.
+replacement shall be at the customer's expense.
    (B)   All service lines and fixtures from the curb stop to the meter, and
 all service lines one inch and larger from the distribution main to the meter,
-shall be installed and maintained at the expense of the owner. Any leaks or
-other defects shall be properly and promptly repaired by him or her. Existing
+shall be installed and maintained at the expense of the customer. Any leaks or
+other defects shall be properly and promptly repaired by the customer. Existing
 services extended to property not adjacent to the water main, whether through
 public or private property, shall be considered a private service line. The
-maintenance of said line shall be the customer’s responsibility, unless said
+maintenance of said line shall be the customer's responsibility, unless said
 line or main has been accepted in writing for maintenance by the town prior to
 its installation. If needed repairs are not made to service lines or private
 lines within five days of notification by the town, the property owners may be
-charged the sum of $5 per day for each day following the five-day period of
-grace that the water wastage is allowed to continue. In cases of emergency, the
+charged the sum of $25 per day for each day following the five-day period of
+grace that the water waste is allowed to continue. In cases of emergency, the
 town will shut off the water, make the repair, and charge the customer for this
 service on the basis of actual cost plus overhead expenses.
    (C)   All meter boxes (including pits or vaults) constructed or installed by
 the owner, regardless of location, and all such boxes constructed or installed
 by the town and located on private property shall be maintained in good repair
-by the town, and any necessary repairs charged to the owner.
-   (D)   Effective upon the adoption of this code, no new private service lines
-or new connections to existing private service lines will be permitted. After
-this date, service will only be furnished to properties located adjacent to a
-water main. Billing made after the meter is read shall be adjusted according to
-the actual meter reading.
+by the town, and any necessary repairs shall be charged to the customer.
+   (D)   No new private service lines or new connections to existing private
+service lines will be permitted. Service will only be furnished to properties
+located adjacent to a water main. Billing made after the meter is read shall be
+adjusted according to the actual meter reading.
 (1996 Code, § 104.111) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024) Penalty, see §
 54.999
 § 54.029 CROSS-CONNECTIONS.
-   (A)   Any cross-connection with other sources of water supply shall be made
-in conformity with the rules and regulations of the State Board of Health and/
-or such requirements as other regulatory bodies may from time to time require
-and/or the rules and regulations of the town in force at that time. Copies of
-the State Board of Health regulations and town requirements are on file for the
-benefit and inspection of parties concerned.
-   (B)   All plumbing shall conform to the State Plumbing Code, which does not
-permit physical connections between the public water supply and waste lines,
-process solution lines, tanks, and the like, unless properly protected by
-approved safety devices.
-   (C)   As a condition to receiving water service, the customer shall grant to
-the town, upon request, the right to enter the customer’s premises to make
-periodic inspections of customer’s piping. The town will report any violations,
-as set out in divisions (A) and (B) above, to both the customer and to the
-respective regulatory authority. The town will not assume responsibility for
-damage, sickness, or death arising from the existence of an improper cross-
-connection or the use or failure of a cross-connection prevention device.
-Failure to correct a noncomplying installation will lead to a disconnection of
-service.
+   (A)   A CROSS CONNECTION shall be defined as any physical connection or
+arrangement between two otherwise separate systems, one of which contains
+potable water from the town water system, and the other, water from a private
+source, water of unknown or questionable safety, or steam, gases, or chemicals,
+whereby there may be a flow from one system to the other, the direction of flow
+depending on the pressure differential between the two systems.
+   (B)   No person, firm, or corporation shall establish or permit to be
+established or maintain or permit to be maintained any cross connection. No
+interconnection shall be established whereby potable water from a private,
+auxiliary, or emergency water supply other than the regular public water supply
+of the town may enter the supply or distribution system of said municipality,
+unless such private, auxiliary, or emergency water supply and the method of
+connection and use of such supply shall have been approved by the town and by
+the Indiana Department of Environmental Management in accordance with 327 IAC
+8-10.
+   (C)   It shall be the duty of the Marshall County Health Department to cause
+inspections to be made of all properties served by the public water system
+where cross connections with the public water system is deemed possible. The
+frequency of inspections and re-inspections based on potential health hazards
+involved shall be established by the Marshall County Health Department.
+   (D)   Upon presentation of credentials, the representative of the Marshall
+County Health Department shall have the right to request entry at any
+reasonable time to examine the property served by a connection to the public
+water system of the town for cross connections. On request, the owner, lessee,
+or occupant of any property so served shall furnish to the inspection agency
+any pertinent information regarding the piping system or systems on such
+property. The refusal of access or refusal of requested pertinent information
+shall be deemed evidence of the presence of cross connections.
+   (E)   The town is hereby authorized and directed to discontinue water
+service to any property wherein any connection in violation of this chapter
+exists, and to take such other precautionary measures deemed necessary to
+eliminate any danger of contamination of the public water system. Water service
+shall be discontinued only after reasonable notice is served on the owner,
+lessee, or occupants of the property or premises where a violation is found or
+suspected to exist. Water service to such property shall not be restored until
+the cross connection(s) has been eliminated in compliance with the provisions
+of this chapter.
+   (F)   If it is deemed by the town that a cross connection or an emergency
+endangers public health, safety, or welfare and requires immediate action, and
+a written finding to that effect is filed with the Clerk of the town and
+delivered to the consumer's premises, service may be immediately discontinued.
+The consumer shall have an opportunity for hearing within ten days of such
+emergency discontinuance.
+   (G)   All consumers using toxic or hazardous liquids, all hospitals,
+mortuaries, wastewater treatment plants, laboratories, and all other hazardous
+users shall install and maintain a reduced pressure principal backflow
+preventer in the main water line serving each building on the premises. The
+backflow preventer must be installed in an easily accessible location not
+subject to flooding or freezing. Reduced pressure principle backflow preventers
+shall not be installed below ground level.
+   (H)   This chapter does not supersede the Indiana Plumbing Code, or IDEM
+Rule 327 IAC 8- 10. In addition to IDEM Rule 327 IAC 8-10-4(c), certain
+customer facilities shall need a backflow prevention device all at the
+discretion of the Superintendent.
+   (I)   If, in the judgment of the Superintendent, an approved backflow
+prevention device is necessary for the safety of the public water system, the
+Superintendent will give notice to the water consumer to install such an
+approved device immediately. The water consumer shall, at his or her own
+expenses, install such an approved device at a location and in a manner
+approved by the Superintendent and shall have inspections and tests made of
+such approved devices as required by the Superintendent in accordance with IDEM
+Rule 327 IAC 8-10.
 (1996 Code, § 104.112) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.030 USE OF BOOSTER PUMPS.
-   (A)   Booster pumps shall not be installed without the written approval of
+   (A)    Booster pumps shall not be installed without the written approval of
 the town.
    (B)   In all booster pump installations, the suction of the pump shall be
 connected to an atmospheric tank being controlled by an automatic float valve
@@ -5461,99 +5866,68 @@ over-flow level of the tank.
    (C)   As an alternative, an approved back flow prevention device may be
 installed on the suction of the pump.
 (1996 Code, § 104.113) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.031 GROUNDWIRES.
-   The town is aware that telephone and electric companies may ground wires to
+    The town is aware that telephone and electric companies may ground wires to
 water lines. The town does not install such connections; derives no benefit
 from them; and tolerates them only because of their reputed importance to safe
 and effective telephone and electric service. When and if they are found to
 appear to be the cause of damage, the town may order them removed, and may
 discontinue service until they are removed.
 (1996 Code, § 104.114) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.032 FIRE PROTECTION SYSTEMS.
-   (A)   (1)   Before any modifications are made to any private fire protection
+   (A)    Before any modifications are made to any private fire protection
 systems or before service is furnished to any new fire protection system
 connected to or proposed to be connected to and supplied with water from the
-town’s distribution mains, final plans shall be filed with and approved by the
-town.
-      (2)   The following shall be shown on the plans:
-         (a)   The number of sprinkler heads to be served;
-         (b)   The sizes and locations of the system piping;
-         (c)   The sizes and locations of all connections to the town’s
+town's distribution mains, final plans shall be filed with and approved by the
+town. The following shall be shown on the plans:
+      (1)   The number of sprinkler heads to be served;
+      (2)   The sizes and locations of the system piping;
+      (3)   The sizes and locations of all connections to the town's
 distribution mains;
-         (d)   The sizes, locations and types of all valves;
-         (e)   The sizes and locations of all hose connections, reels, or
+      (4)   The sizes, locations and types of all valves;
+      (5)   The sizes and locations of all hose connections, reels, or
 cabinets;
-         (f)   The sizes and locations of storage tanks connected to the
-system;
-         (g)   The outlet sizes and locations of all fire hydrants; and
-         (h)   The maximum flow rate in gallons per minute recommended by the
-Insurance Underwriters.
-   (B)   (1)   All fire protection lines within buildings shall be installed in
-such manner that all pipes will be easily accessible for inspection at any
-time. Underground pipes outside of buildings must be placed and maintained at a
+      (6)   The sizes and locations of storage tanks connected to the system;
+      (7)   The outlet sizes and locations of all fire hydrants; and
+      (8)   The maximum flow rate in gallons per minute recommended by the
+insurance underwriters.
+   (B)   All fire protection lines within buildings shall be installed in such
+manner that all pipes will be easily accessible for inspection at any time.
+Underground pipes outside of buildings must be placed and maintained at a
 minimum depth of four and one-half feet. No connections with a fire protection
 system will be permitted to supply water service for commercial or industrial
-use, unless the connection has been approved by the customer’s fire
-underwriter, the town, and the commercial or industrial use is metered.
-      (2)   A private fire protection system without a tank shall be equipped
-with an alarm valve and a check valve. A system with a tank shall have one
-alarm valve and two check valves.
+use, unless the connection has been approved by the customer's fire
+underwriter, the town, and the commercial or industrial use is metered. A
+private fire protection system without a tank shall be equipped with an alarm
+valve and a check valve. A system with a tank shall have one alarm valve and
+two check valves.
 (1996 Code, § 104.115) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.033 THAWING FROZEN SERVICES.
-   (A)   The thawing of frozen customer service lines shall be the
-responsibility of the customer. However, in the event that it becomes necessary
-for the town to assist in the thawing of service lines, an hourly charge shall
-be made as set forth on the schedule maintained at the Clerk-Treasurer’s
-office.
-   (B)   A flat charge shall be made for filling a tank truck. This charge
-shall be a single fee of $5 for service plus the following charge for water for
-each tank filled:
-      (1)   For trucks with capacity up to and over 1,000 gallons - at regular
-established water rates; and
-      (2)   For other miscellaneous special services: charges as filed with the
-town will be made. For services not filed, the actual cost to the town to
-perform the service plus 20% overhead will be charged. These charges may from
-time to time be revised by the town to reflect current costs.
+    The thawing of frozen customer service lines shall be the responsibility of
+the customer. However, in the event that it becomes necessary for the town to
+assist in the thawing of service lines, a charge shall be made as specified in
+the most recent water rate ordinance filed for the convenience of the public in
+the office of the Town Clerk-Treasurer.
 (1996 Code, § 104.116) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2017-9, passed 5-3-2017; Ord. 2024-4,
+passed 5-8-2024)
 § 54.034 SPECIAL SERVICES.
-   (A)   A special service is a temporary service which is expected to
-terminate within 30 days after connection. For all special services such as
-filling swimming pools, large stationary tanks, circuses, carnivals, shows, and
-the like, regular water rates plus the meter installation charge, plus any
-connection expenses shall be charged. For temporary use of a fire hydrant, a
-special permit is required. Fire hydrant use is reserved for emergencies only
-and a special inspection charge after each use will be required in addition to
-the permit charge and a refundable deposit for loan of a hook-up assembly.
-   (B)   (1)   A flat charge shall be made for filling a tank truck. This
-charge shall be a single fee of $5 for service plus the following charge for
-water for each tank filled:
-         (a)   For trucks with capacity up to 1,000 gallons: $1;
-         (b)   For trucks with capacity up to 5,000 gallons: $1.50; and
-         (c)   For trucks with capacity over 5,000 gallons at regular
-established water rates.
-      (2)   For other miscellaneous special services: charges as filed with the
-town will be made. For services not filed, the actual cost to the town to
-perform the service plus 20% overhead will be charged. These charges may from
-time to time be revised by the town to reflect current costs.
-(1996 Code, § 104.117) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
-§ 54.035 DISCONTINUANCE OF SERVICE.
-   (A)   Whenever a customer desires to have service disconnected, he or she
-shall notify the town sufficiently in advance of such desire and of the date on
-which service is to be disconnected, to provide a reasonable time for the town
-to obtain the final meter reading. It shall be the responsibility of the
-customer, property owner, or representative of the property owner to be on site
-at the property ensuring the complete disconnection of service. Either the
-customer, property owner, or representative of the property owner shall sign an
-order to suspend/resume service verifying the completion of the disconnection,
-which form shall also be signed when and if service is resumed.
+   (A)   Whenever a customer desires to have service disconnected, a written
+request must be submitted to the Clerk-Treasurer's office sufficiently in
+advance of such desire and of the date on which service is to be disconnected,
+to provide a reasonable time for the town to obtain the final meter reading. It
+shall be the responsibility of the customer, property owner, or representative
+of the property owner to be on site at the property ensuring the complete
+disconnection of service. Either the customer, property owner, or
+representative of the property owner shall sign an order to suspend/resume
+service verifying the completion of the disconnection, which form shall also be
+signed when and if service is resumed.
    (B)   Whenever a customer desires to have service turned off at the meter
 for any reason, a written request must be submitted to the Clerk-Treasurer's
 office. Shut off and/or non-use of water service for any reason will not exempt
@@ -5564,7 +5938,8 @@ shutting off and turning back on) shall only be conducted during business
 hours. In addition, the customer will be charged the standard rate for turning
 service off and on.
    (C)   A service charge for disconnecting or reconnecting water service shall
-be made as per the schedule maintained at the Clerk-Treasurer’s office.
+be made as specified in the most recent water rate ordinance filed for the
+convenience of the public in the office of the Town Clerk-Treasurer.
    (D)   Where a customer has entered into a contract with the town to take
 service from the town for a definite period of time specified or provided for
 in such contract, customer shall fulfill contract or make such adjustment
@@ -5575,14 +5950,14 @@ the following reasons:
 or property exists;
          (b)   Upon order by any court, or other duly authorized public
 authority;
-         (c)   If fraudulent or unauthorized use of water detected and the town
-has reasonable ground to believe the affected customer is responsible for such
-use;
-         (d)   If the town’s regulating or measuring equipment has been
+         (c)   If fraudulent or unauthorized use of water is detected and the
+town has reasonable grounds to believe the affected customer is responsible for
+such use;
+         (d)   If the town's regulating or measuring equipment has been
 tampered with and the town has reasonable grounds to believe that the affected
 customer is responsible for such tampering;
          (e)   For any use of water unauthorized by the town;
-         (f)   For unapproved cross-connection of a customer’s water pipes to
+         (f)   For unapproved cross-connection of a customer's water pipes to
 any other source of water supply or for permitting any condition to exist about
 the premises that causes or might cause pollution of the public water supply;
          (g)   Where customer has failed to repair any leak in the service pipe
@@ -5602,52 +5977,144 @@ and vaults or where the meter is not protected from damages;
          (l)   For installing a new service pipe and/or appurtenances without a
 permit from the town;
          (m)   For failure to comply with the terms of the contract;
-         (n)   For violation of any of the town’s rules and regulations;
+         (n)   For violation of any of the town's rules and regulations;
          (o)   For any lawful reason;
          (p)   When the town must repair its mains or services; or
-         (q)   When for any reasons there is a lack of water in the
-distribution system.
+         (q)   When for any reason there is a lack of water in the distribution
+system.
       (2)   Discontinuance of service for any of the above reasons shall not
 invalidate any contract and the town shall have the right to enforce any
 contract notwithstanding such discontinuance.
-   (F)   In each case, except those arising under divisions (E)(1)(a), (E)(1)
-(b), (E)(1)(f), (E)(1)(p), or (E)(1)(q) above, the town shall give written
-notice of at least five days either mailed to such customer at his or her
-address as shown upon the town’s records or personally delivered to him or her
-or a person on the premises, advising the customer the reason for the proposed
-discontinuance of service and stating that service will be discontinued if the
-condition continues uncorrected. In cases provided for in divisions (E)(1)(a),
-(E)(1)(b), (E)(1)(f), (E)(1)(p), or (E)(1)(q), the town may discontinue service
-without notice.
+   (F)   In each case, except those arising under divisions (1)(a), (b), (f),
+(p) or (q) above, the town shall give written notice of at least five days
+either mailed to such customer at his or her address as shown upon the town's
+records or personally delivered to him or her or a person on the premises,
+advising the customer the reason for the proposed discontinuance of service and
+stating that service will be discontinued if the condition continues
+uncorrected. In cases provided for in divisions (1)(a), (b), (f), (p), or (q)
+above, the town may discontinue service without notice.
+ 
    (G)   Whenever the service is turned off for reasons other than divisions
-(E)(1)(a), (E)(1)(b), (E)(1)(f), (E)(1)(p), or (E)(1)(q) above, a reconnection
-charge shall be paid after the condition resulting in the turn-off is remedied
-and prior to the restoration of service. This charge shall be determined by the
-town and may, from time to time, be revised to reflect current costs. When
-condition requiring turn-off is not remedied prior to arrival of the town’s
-serviceperson at premises, to make the turn-off and customer then makes remedy,
-a service charge rather than a reconnection charge will be made. Service charge
-shall be one-half the reconnection charge.
+(1)(a), (b), (f), (p) or (q) above, a reconnection charge shall be paid after
+the condition resulting in the turnoff is remedied and prior to the restoration
+of service. This charge shall be determined by the town and may, from time to
+time, be revised to reflect current costs. When a condition requiring turn-off
+is not remedied prior to arrival of the town's service person at premises to
+make the turn-off, and customer then makes remedy, a service charge rather than
+a reconnection charge will be made. Service charge shall be equal to the
+reconnection charge.
    (H)   The remedies provided to the town in these rules and regulations shall
 not be exclusive and shall be in addition to any other remedies which the town
 has at law or in equity.
 (1996 Code, § 104.118) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
 1997; Ord. 99-5, passed 5-10-1999; Ord. 2010-4, passed - -2010; Ord. 2022-09,
-passed 7-20-2023) Penalty, see §
+passed 7-20-2023; Ord. 2024-4, passed 5-8-2024) Penalty, see §
+54.999
+§ 54.035 DISCONTINUANCE OF SERVICE.
+   (A)    Whenever a customer desires to have service disconnected, a written
+request must be submitted to the Clerk-Treasurer's office sufficiently in
+advance of such desire and of the date on which service is to be disconnected,
+to provide a reasonable time for the town to obtain the final meter reading. It
+shall be the responsibility of the customer, property owner, or representative
+of the property owner to be on site at the property ensuring the complete
+disconnection of service. Either the customer, property owner, or
+representative of the property owner shall sign an order to suspend/resume
+service verifying the completion of the disconnection, which form shall also be
+signed when and if service is resumed.
+   (B)   Whenever a customer desires to have service turned off at the meter
+for any reason, a written request must be submitted to the Clerk-Treasurer's
+office. Shut off and/or non-use of water service for any reason will not exempt
+the customer from minimum base charges during the period of non-use or shutoff.
+The Water Department shall be given reasonable notice to shut off the water at
+the meter. Notwithstanding any other section of this code, this service (the
+shutting off and turning back on) shall only be conducted during business
+hours. In addition, the customer will be charged the standard rate for turning
+service off and on.
+   (C)   A service charge for disconnecting or reconnecting water service shall
+be made as specified in the most recent water rate ordinance filed for the
+convenience of the public in the office of the Town Clerk-Treasurer.
+   (D)   Where a customer has entered into a contract with the town to take
+service from the town for a definite period of time specified or provided for
+in such contract, customer shall fulfill contract or make such adjustment
+satisfactory to the town.
+   (E)   (1)   The town may discontinue the service of any customer for any of
+the following reasons:
+         (a)   If a condition dangerous or hazardous to life, physical safety,
+or property exists;
+         (b)   Upon order by any court, or other duly authorized public
+authority;
+         (c)   If fraudulent or unauthorized use of water is detected and the
+town has reasonable grounds to believe the affected customer is responsible for
+such use;
+         (d)   If the town's regulating or measuring equipment has been
+tampered with and the town has reasonable grounds to believe that the affected
+customer is responsible for such tampering;
+         (e)   For any use of water unauthorized by the town;
+         (f)   For unapproved cross-connection of a customer's water pipes to
+any other source of water supply or for permitting any condition to exist about
+the premises that causes or might cause pollution of the public water supply;
+         (g)   Where customer has failed to repair any leak in the service pipe
+or appurtenances between the property line and the meter, or in any private
+fire protection system or other unmetered facilities;
+         (h)   For any tampering or knowingly permitting any tampering or
+interference with any service pipe, service stop, meter seal, or other town
+equipment or appliances without permission of the town;
+         (i)   For failure to pay in accordance with these rules any water
+bills or other charges in connection with water utility service installations
+or facilities;
+         (j)   For failure to provide free and non-hazardous access to the
+premises and meter so that representative of the town may take meter readings,
+make all necessary inspections, and maintain, replace, or remove the meter;
+         (k)   For failure to maintain approved meter settings, including pits
+and vaults or where the meter is not protected from damages;
+         (l)   For installing a new service pipe and/or appurtenances without a
+permit from the town;
+         (m)   For failure to comply with the terms of the contract;
+         (n)   For violation of any of the town's rules and regulations;
+         (o)   For any lawful reason;
+         (p)   When the town must repair its mains or services; or
+         (q)   When for any reason there is a lack of water in the distribution
+system.
+      (2)   Discontinuance of service for any of the above reasons shall not
+invalidate any contract and the town shall have the right to enforce any
+contract notwithstanding such discontinuance.
+   (F)   In each case, except those arising under divisions (1)(a), (b), (f),
+(p) or (q) above, the town shall give written notice of at least five days
+either mailed to such customer at his or her address as shown upon the town's
+records or personally delivered to him or her or a person on the premises,
+advising the customer the reason for the proposed discontinuance of service and
+stating that service will be discontinued if the condition continues
+uncorrected. In cases provided for in divisions (1)(a), (b), (f), (p), or (q)
+above, the town may discontinue service without notice.
+   (G)   Whenever the service is turned off for reasons other than divisions
+(1)(a), (b), (f), (p) or (q) above, a reconnection charge shall be paid after
+the condition resulting in the turnoff is remedied and prior to the restoration
+of service. This charge shall be determined by the town and may, from time to
+time, be revised to reflect current costs. When a condition requiring turn-off
+is not remedied prior to arrival of the town's service person at premises to
+make the turn-off, and customer then makes remedy, a service charge rather than
+a reconnection charge will be made. Service charge shall be equal to the
+reconnection charge.
+   (H)   The remedies provided to the town in these rules and regulations shall
+not be exclusive and shall be in addition to any other remedies which the town
+has at law or in equity.
+(1996 Code, § 104.118) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2010-4, passed - -2010; Ord. 2022-09,
+passed 7-20-2023; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.036 INTERRUPTION OF SERVICE.
-   The town shall not be responsible for damages for any failure to supply
+    The town shall not be responsible for damages for any failure to supply
 water service or for interruption of the supply of water, or for damages
 resulting to a customer or to third persons from the use of water or the
-presence of the town’s devices on the customer’s premises, unless due to fault,
+presence of the town's devices on the customer's premises, unless due to fault,
 defect, or wrong on the part of the town. Neither party shall be liable to the
 other for any failure or delay in case such failure or delay is caused by
 strikes, acts of God, unavoidable accidents, or contingencies beyond its
 control and is not due to fault, neglect, or wrong on their part.
 (1996 Code, § 104.119) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.037 PROTECTIVE DEVICES.
-   (A)   The owner or occupant of every premises receiving water supply shall
+   (A)    The owner or occupant of every premises receiving water supply shall
 apply and maintain suitable means of protection of the premises supply and all
 appliances thereof, against damage arising in any manner from the use of the
 water supply, variation of water pressure, or any interruption of water supply.
@@ -5657,7 +6124,7 @@ shall likewise be provided means for the prevention of the transmission of
 water ram or noise of operation of any valve or appliance through the piping of
 their own or adjacent premises.
    (B)   On all closed systems (i.e., systems having a check valve, pressure
-regulator, or reducing valve, water filter, or softener) an effective pressure
+regulator, reducing valve, water filter, or softener) an effective pressure
 relief valve shall be installed either in the top tapping or the upper side
 tapping of the hot water tank, or on the hot water distributing pipe connection
 at the tank. A one-half-inch drain pipe shall be connected to the relief valve
@@ -5666,31 +6133,32 @@ placed between the hot water tank and the relief valve or on the drain pipe.
    (C)   An air chamber or approved shock absorber shall be installed at the
 terminus of each riser, fixture branch, or hydraulic elevator main for the
 prevention of undue water hammer. The air chamber shall have a diameter not
-less than that of the pipe it serves and a length not less than 15 diameters of
-said supply pipe. Where possible, the air chamber should be provided with a
-valve and drain cock at its base for water drainage and replenishment of air.
+less than that of the pipe it serves and a length not less than fifteen
+diameters of said supply pipe. Where possible, the air chamber should be
+provided with a valve and drain cock at its base for water drainage and
+replenishment of air.
 (1996 Code, § 104.121) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 MAIN EXTENSION POLICY
 § 54.050 DEFINITIONS.
-   For the purpose of this subchapter, the following definitions shall apply
+    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
    DEVELOPER OR OWNER OF REAL ESTATE. The person, firm, company, corporation,
 governmental unit, charitable or not-for-profit organization, or association
 making application for a permit for a main extension or to use an existing
 main.
-   EXISTING SINGLE FAMILY RESIDENCE. A structure occupied by a single
-individual, a single family, or which was suitable for such occupancy.
+   EXISTING SINGLE-FAMILY RESIDENCE. A structure occupied by a single
+individual, a single-family, or which was suitable for such occupancy.
    OFF-SITE MAINS. Mains required to reinforce or extend the present water
 system to the point(s) where the on-site mains are to be located on public
 right-of-way or dedicated easements.
    OVERSIZING. The installation of a main of larger diameter than necessary to
 adequately furnish water to the specific development in which it is installed.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.051 COST TO DEVELOPER FOR MAINS.
-   Based upon the main size required to serve the development, the developer
+    Based upon the main size required to serve the development, the developer
 shall pay the entire cost of all mains within and bordering upon the
 development. Where a development utilizes an existing main, the developer shall
 pay to the town the current cost per foot to install a main of the size
@@ -5700,23 +6168,23 @@ be capable of serving property on the opposite side of the street for which
 availability contributions will be required in the future, the developers cost
 for these mains shall be reduced by 50%.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.052 PERMIT REQUIRED.
-   All developers requiring a connection to, or an extension or reinforcement
+    All developers requiring a connection to, or an extension or reinforcement
 of any water supply transmission main, or water distribution main, owned by the
 town, shall secure a permit and sign a main extension contract prior to
-connecting to any part of the town’s system. As a condition of issuance of a
+connecting to any part of the town's system. As a condition of issuance of a
 permit, all requirements of the town shall be complied with and the cost of
 construction shall be made to the town.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)Penalty, see §
 54.999
 § 54.053 REFUNDING OF COSTS FOR OVERSIZING.
-   (A)   Refunding of costs for oversizing to meet the town’s specifications
+   (A)    Refunding of costs for oversizing to meet the town's specifications
 shall be made only for that portion of the oversizing which lies within or
 adjacent to the area being developed. Cost advanced for reinforcing or
-extending the town’s existing water distribution system in order to provide
+extending the town's existing water distribution system in order to provide
 adequate water service to the development shall also be eligible for refunding.
 All costs advanced by developers which are determined to be eligible for
 refunding shall be refunded without interest.
@@ -5741,12 +6209,12 @@ Increase in Pipe Diameter Reimbursement Per Foot of Pipe Installed
 24                        $3.50
  
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 § 54.054 PLANS TO BE SUBMITTED; EASEMENTS.
-   (A)   The owners of real estate requiring a permit for water services shall
+   (A)    The owners of real estate requiring a permit for water services shall
 submit plans for their on-site water distribution system, including on-site
 transmission lines, to the town for their review and approval before start of
-construction. Plans must comply with the town’s design criteria and material
+construction. Plans must comply with the town's design criteria and material
 and installation specifications. All construction and non-construction costs of
 the on-site system are to be born by the owners of real estate. During
 construction of on-site water system, the owners of real estate shall pay the
@@ -5764,19 +6232,19 @@ site water mains) shall be prepared by the town. All easements shall be made
 out to the town, but shall be obtained by, and if necessary, paid for by the
 owners of real estate. Easements shall also be in a form approved by the town.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.055 DEPOSIT OF FUNDS FOR ENGINEERING COSTS.
-   The owners of real estate applying for water service shall deposit with the
+    The owners of real estate applying for water service shall deposit with the
 town adequate funds or surety of payment to pay engineering and appurtenant
-nonconstruction project costs prior to the town proceeding with preparation of
+non-construction project costs prior to the town proceeding with preparation of
 plans. If the project does not proceed to completion after project costs are
 established, the money so deposited by the owners of real estate shall be
 nonrefundable to the extent they are required to pay incurred expenses. If
 funds are in excess of expenses, they will be returned to the owners of real
 estate making the deposit.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.056 INDIVIDUAL APPLICANTS FOR WATER SERVICE IN DEVELOPED AREAS.
    (A)   (1)   If individual applicants for water service in already developed
@@ -5789,9 +6257,9 @@ project does not proceed to completion after project costs are established, the
 money so deposited by individual applicants shall be nonrefundable to the
 extent they are required to pay expenses; the excess will be returned to the
 individual making the deposit.
-      (2)   All facilities covered by this section of the rule shall be
-constructed in existing dedicated streets, alleys, or easements; or the owners
-of real estate will obtain any required easements.
+      (2)   All facilities covered by this section shall be constructed in
+existing dedicated streets, alleys, or easements; or the owners of real estate
+will obtain any required easements.
    (B)   If already developed acreage and/or platted subdivisions are to be
 provided water service, there shall be added for each individual connection an
 amount which shall be computed as follows:
@@ -5799,73 +6267,46 @@ amount which shall be computed as follows:
 share of the project costs computed on the basis of dividing the entire project
 cost by the number of water connections desirous of service. Project costs
 shall include construction costs determined by public bids, or where main is
-installed by the town, shall be the actual cost plus 20% overhead and
-nonconstruction costs. Nonconstruction costs shall include but not necessarily
-be limited to legal, engineering, inspection, permit, and easement, and project
+installed by the town, shall be the actual cost plus 20% overhead and non-
+construction costs. Non-construction costs shall include but not necessarily be
+limited to legal, engineering, inspection, permit, easement, and project
 administrative costs.
       (2)   Where existing mains are used. Each user shall reimburse the town
 for the present cost of the size main required to provide service and fire
-protection to suit his or her needs for the total front footage of his or her
-lot. For corner lots, the front footage shall include from the centerline of
-the street to the property line. For the portion of the front footage where the
-main can be used by property owners on both sides of the street, the footage
-shall be reduced by 50%.
+protection to suit the needs for the total front footage of the developers/
+owners lot. For corner lots, the front footage shall include from the
+centerline of the street to the property line. For the portion of the front
+footage where the main can be used by property owners on both sides of the
+street, the footage shall be reduced by 50%.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.057 FEE FOR CONNECTION WITHOUT PERMIT.
-   If a connection is made to any transmission line or existing local
+    If a connection is made to any transmission line or existing local
 distribution system without first obtaining a permit, the individual or owners
-of real estate will be subject to a charge of $150 a day for each day the
-connection was unlawfully installed and be required to remove the connection
-until a permit is obtained.
+of real estate will be subject to a charge for each day the connection was
+unlawfully installed and be required to remove the connection until a permit is
+obtained, all as specified in § 54.999.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999) Penalty, see §
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024) Penalty, see §
 54.999
 § 54.058 EXTENSIONS MUST BE ACCEPTED BY TOWN.
-   (A)   All extensions to the town’s water system must be accepted by the town
+   (A)   All extensions to the town's water system must be accepted by the town
 before being permanently connected to the system, and once connected, shall be
 and remain thereafter the sole property of the town without further dedication
-thereof. Warranty and one-year maintenance guarantee on new mains shall be
+thereof. A one-year warranty and maintenance guarantee on new mains shall be
 transferred by the owner to the town. Once accepted, all maintenance and
 repairs become the responsibility of the town.
    (B)   All persons or corporations, their or its survivors, heirs, or assigns
-who shall connect to any water main connected to the town’s system located
-outside the town’s limits, shall agree in writing prior to said connection, to
+who shall connect to any water main connected to the town's system located
+outside the town's limits, shall agree in writing prior to said connection, to
 waive their or its rights to remonstrate against annexation by the town. Such
 agreement, on forms provided by the town, shall be included in the title of
 each affected parcel of property. A copy of the recorded restriction shall be
 filed with the town within 30 days of providing service or service will be
 disconnected until such recorded restriction is delivered to the town.
 (1996 Code, § 104.120) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
-ADMINISTRATION
-§ 54.070 DEPARTMENT OF WATER UTILITY; SUPERINTENDENT.
-   (A)   There is hereby created a Department of Water Utility, which shall be
-responsible to the Town Council for the operation of the town’s water utility.
-(1996 Code, § 104.01)
-   (B)   The Council shall appoint a Superintendent of said utility who shall
-serve as head of the Department of Water Utility.
-(1996 Code, § 104.04)
-(Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-1997; Ord. 99-5, passed 5-
-10-1999)
-§ 54.071 POWERS OF TOWN COUNCIL.
-   (A)   The Town Council shall have all powers necessary for the custody,
-management, and operation of said utility under the provision of I.C. 36-9-2-14
-et seq., and amendments thereto.
-(1996 Code, § 104.02)
-   (B)   The Council shall, by ordinance, establish rates and charges for water
-supplied by said utility to adequately provide for the operation, maintenance,
-depreciation, and repayment of indebtedness of said utility.
-(1996 Code, § 104.03)
-(Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-1997; Ord. 99-5, passed 5-
-10-1999; Ord. 2017-3, passed 3-15-2017)
-§ 54.072 CHANGES.
-   The town reserves the right to modify any rule or regulation, or to make
-such additional regulations as may be found necessary for the better protection
-of the public interest in the management of the town’s waterworks.
-(1996 Code, § 104.122) (Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-
-1997; Ord. 99-5, passed 5-10-1999)
+1997; Ord. 99-5, passed 5-10-1999; Ord. 2024-4, passed 5-8-2024)
 PRIVATE WATER WELLS
 § 54.100 APPLICABILITY.
    For the purposes of this subchapter, PRIVATE WATER WELL means any drilled,
@@ -5874,33 +6315,34 @@ obtaining groundwater, which is owned by any private person or entity. The
 regulations regarding private water wells set forth in this subchapter do not
 apply to municipal drinking water wells or any other water wells owned or
 maintained by the town.
-(Ord. 2020-04, passed 6-17-2020)
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.101 PERMITTING OF PRIVATE WATER WELLS.
    Private water well permits shall be issued by the Clerk-Treasurer's Office
 only after the following conditions have been met:
    (A)   All private water wells shall be located so that no danger of
-pollution from flooding or unsanitary surroundings exists; and
+pollution from flooding or unsanitary surroundings exists;
    (B)   All private water wells shall be located at least 50 feet from any
-property line of applicant's property; and
+property line of applicant's property;
    (C)   Any person acting as a private water well driller must hold a license
 in good standing issued by the Indiana Department of Natural Resources,
-pursuant to I.C. 25-39 and 312 IAC 13; and
+pursuant to I.C. 25-39 and 312 IAC 13;
    (D)   Each proposed private water well, private water well location, and
 private water well design shall meet each condition established by the Indiana
-Department of Environmental Management; and
+Department of Environmental Management;
    (E)   Each private water well permit applicant shall first agree, as a part
-of the permit application (application form is attached as Exhibit A to
-Ordinance 2020-04 and incorporated by reference as if fully set forth herein),
-to consent to the inspection of the private water well drilling process, and
-shall additionally consent to annual inspections and testing of the private
-water well site in addition to all potential cross connection locations with
-the town public water system and the Argos sanitary sewer system; and
+of the permit application (application form is on file and available at the
+office of the Town Clerk-Treasurer, and incorporated by reference as if fully
+set forth herein), to consent to the inspection of the private water well
+drilling process, and shall additionally consent to annual inspections and
+testing of the private water well site in addition to all potential cross
+connection locations with the town public water system and the town sanitary
+sewer system;
    (F)   Any water to be produced from any private water well drilled within
 the corporate town limits shall be used exclusively for irrigation and/or
-agricultural purposes only.
+agricultural purposes only; and
    (G)   Each applicant shall be responsible to follow all federal, state and
 county guidelines concerning the drilling of a private water well.
-(Ord. 2020-04, passed 6-17-2020)
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.102 EXEMPTION FROM PERMIT REQUIREMENTS.
    A private water well driller or any person maintaining or operating a
 private water well may seek an exemption from the permit conditions and
@@ -5910,7 +6352,7 @@ fluoridated water for production will be considered for such exemption, as well
 as any other requests upon good cause shown. The Town Council shall consider
 the input or recommendation, if any, of the Utilities Superintendent before its
 decision with respect to any request for exemption.
-(Ord. 2020-04, passed 6-17-2020)
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.103 PREVENTION OF CONTAMINATION OF PUBLIC WATER SUPPLY AND CROSS
 CONNECTION.
    (A)   Each person maintaining or operating a private water well within the
@@ -5946,20 +6388,22 @@ Responsibility for any damage to the private water well in such event shall
 remain solely the responsibility of the applicant.
    (D)   Each applicant for a private water well permit shall, as a condition
 of the permit, authorize each act of the town authorized in this subchapter.
-Each application shall reference the applicable Town Code section, and the
-applicant shall be entitled to receive a copy of this subchapter at the time of
-application. The representations and agreements of the applicant shall run with
-the private water well, and upon the sale or transfer of any property upon
-which a private water well is located, the transferee shall be required to
-complete and file with the Clerk-Treasurer an application to transfer private
-water well permit, by which the transferee of the private water well permit
-shall agree to be bound to the agreements and authorizations of the original
-applicant.
-(Ord. 2020-04, passed 6-17-2020)
+Each application shall reference the applicable town code section, and the
+applicant shall be entitled to receive a copy of this subchapter of the town
+code at the time of application. The representations and agreements of the
+applicant shall run with the private water well, and upon the sale or transfer
+of any property upon which a private water well is located, the transferee
+shall be required to complete and file with the Clerk-Treasurer an application
+to transfer private water well permit, by which the transferee of the private
+water well permit shall agree to be bound to the agreements and authorizations
+of the original applicant.
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.104 PERMIT FEES AND INSPECTIONS.
    (A)   Each private water well permit application, including applications to
 transfer private water well permit and written requests for exemption from
-permit conditions and requirements, shall be accompanied by a fee of $75.
+permit conditions and requirements, shall be as specified in the most recent
+water rate ordinance filed for the convenience of the public in the office of
+the Town Clerk-Treasurer.
    (B)   The Utilities Superintendent or his designee, may conduct an
 inspection of the premises upon which any private water well is located. Said
 inspection may be conducted to insure that the private water well is being
@@ -5968,11 +6412,11 @@ federal regulations are being met. Said inspection may include, but is not
 limited to confirmation that no cross connections to either the municipal water
 system or the sanitary sewer system have occurred and a determination that the
 backflow prevention device or devices are in proper working order.
-(Ord. 2020-04, passed 6-17-2020)
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.105 APPLICATION TO EXISTING PRIVATE WATER WELLS.
    In order to protect the health and safety of the citizens of the town, the
 provisions of this subchapter shall apply to all existing private water wells.
-(Ord. 2020-04, passed 6-17-2020)
+(Ord. 2020-04, passed 6-17-2020; Ord. 2024-4, passed 5-8-2024)
 § 54.999 PENALTY.
    (A)   Any person who violates any provision of this chapter, for which no
 specific penalty is otherwise provided, shall be subject to §
@@ -5982,18 +6426,18 @@ specific penalty is otherwise provided, shall be subject to §
 Chapter 36, Appendix A, and to payment for the water consumed at the rate of
 $15 per day during the period the water was turned on without authority from
 the town.
-(1996 Code, § 104.107)
    (C)   Each occurrence of meter tampering as in §
 54.035(E), is subject to penalties set forth in
-Chapter 36, Appendix A as well as prosecution under state law.
-(1996 Code, § 104.118)
+Chapter 36, Appendix A, as well as prosecution under state law.
    (D)   A violation of any provision of §§
 54.100 through
 54.105 shall be punishable by fines in accordance with the general penalty
 provisions contained in
-Chapter 36 of this Code of Ordinances.
-(Ord. 502, passed 8-12-1996; Ord. 1997-2, passed 6-9-1997; Ord. 99-5, passed 5-
-10-1999; Ord. 2020-04, passed 6-7-2020)
+Chapter 36, Appendix A.
+   (E)   A violation of §
+54.057 shall be assessed at the rate of $150 per day for each day that the
+unlawful connection is in place.
+(1996 Code, § 104.107) (Ord. 2024-4, passed 5-8-2024)
 TITLE VII: TRAFFIC CODE
    Chapter
       
@@ -6791,6 +7235,9 @@ Kenilworth      Street to
 Street          Weidner Street   30           2014-6          7-16-2014
                 at the town
                 limits
+                From Community
+Marshall Street Park Drive to    30           2024-8          6-12-2024
+                west town limits
                 From Grove                                    7-16-2014; 9-2-
 Marshall Street Street to west   20           2014-6; 2020-07 2020
                 town limits
@@ -6809,104 +7256,105 @@ SCHEDULE II. STOP INTERSECTIONS.
 following intersections and that stop signs shall be erected at these
 locations:
 Intersection Ord. No. Date Passed
-Intersection                                  Ord. No. Date Passed
-Albert Street at East Street                  2014-6   7-16-2014
-Albert Street at South Grove Street           2014-6   7-16-2014
-Albert Street at State Road 10                2014-6   7-16-2014
-Apple Street at North Grove Street            2014-6   7-16-2014
-Broadway Street at South Michigan Street      2014-6   7-16-2014
-Broadway Street at West Street                2014-6   7-16-2014
-Center Street at East South Street            2014-6   7-16-2014
-Cherry Street at Apple Street                 2014-6   7-16-2014
-Cherry Street at North Grove Street           2014-6   7-16-2014
-Church Street at North Michigan Street        2014-6   7-16-2014
-Clinton Street at Indiana Avenue              2014-6   7-16-2014
-Clinton Street at State Road 10               2014-6   7-16-2014
-Clinton Street at Weidner Avenue              2014-6   7-16-2014
-Cul-de-sac at Industrial Park at Dewey Street 2014-6   7-16-2014
-Dewey Street at Pond Street                   2014-6   7-16-2014
-Dewey Street at South Michigan Street         2014-6   7-16-2014
-Dewey Street at U.S. 31                       2014-6   7-16-2014
-Dianne Avenue at State Road 10                2014-6   7-16-2014
-East Street at State Road 10                  2014-6   7-16-2014
-East Church Street at North Maple Street      2014-6   7-16-2014
-East Marshall Street at Railroad Tracks       2014-6   7-16-2014
-East Plum Street at North Grove Street        2014-6   7-16-2014
-East Plum Street at North Maple Street        2014-6   7-16-2014
-East Plum Street at Railroad Tracks           2014-6   7-16-2014
-East Williams Street at Lincoln Street        2014-6   7-16-2014
-East Williams Street at South Maple Street    2014-6   7-16-2014
-First Street at State Road 10                 2014-6   7-16-2014
-Freedom Street at West Marshall Street        2014-6   7-16-2014
-Fremont Street at North Grove Street          2014-6   7-16-2014
-Fremont Street at North Maple Street          2014-6   7-16-2014
-Fremont Street at Railroad Tracks             2014-6   7-16-2014
-Grove Street at State Road 10                 2014-6   7-16-2014
-Heritage Street at West Marshall Street       2014-6   7-16-2014
-Huff Street at East Plum Street               2014-6   7-16-2014
-Huff Street at North Maple Street             2014-6   7-16-2014
-Independence Avenue at Freedom Street         2014-6   7-16-2014
-Independence Avenue at Heritage Street        2014-6   7-16-2014
-Indiana Avenue at North First Street          2014-6   7-16-2014
-Indiana Avenue at State Road 10               2014-6   7-16-2014
-Indiana Avenue at Yearick Street              2014-6   7-16-2014
-Lincoln Street at East South Street           2014-6   7-16-2014
-Lincoln Street at State Road 10               2014-6   7-16-2014
-Logan Street at South Michigan Street         2014-6   7-16-2014
-Maple Street at State Road 10                 2014-6   7-16-2014
-Marshall Street at Grove Street               2014-6   7-16-2014
-Marshall Street at North Michigan Street      2014-6   7-16-2014
-North Street at Maple Street                  2014-6   7-16-2014
-North Street at Michigan Street               2014-6   7-16-2014
-North First Street at West Plum Street        2014-6   7-16-2014
-North Maple Street at East Marshall Street    2014-6   7-16-2014
-North Maple Street at East Plum Street        2014-6   7-16-2014
-North Maple Street at North Street            2014-6   7-16-2014
-North Railroad Street at Marshall Street      2014-6   7-16-2014
-Plum Street at North Michigan Street          2014-6   7-16-2014
-Pond Street at State Road 10                  2014-6   7-16-2014
-Poplar Street at North Maple Street           2014-6   7-16-2014
-Poplar Street at North Michigan Street        2014-6   7-16-2014
-Poplar Street at Railroad Street              2014-6   7-16-2014
-Railroad Street at East Plum Street           2014-6   7-16-2014
-Railroad Street at Fremont Street             2014-6   7-16-2014
-Second Street at Broadway Street              2014-6   7-16-2014
-Second Street at West South Street            2014-6   7-16-2014
-Short Street at Broadway Street               2014-6   7-16-2014
-Smith Street at North First Street            2014-6   7-16-2014
-Smith Street at North Maple Street            2014-6   7-16-2014
-Smith Street at North Michigan Street         2014-6   7-16-2014
-South First Street at Broadway Street         2014-6   7-16-2014
-South First Street at West South Street       2014-6   7-16-2014
-South First Street at West Williams Street    2014-6   7-16-2014
-South Grove Street at East South Street       2014-6   7-16-2014
-South Maple Street at East South Street       2014-6   7-16-2014
-South Maple Street at East Williams Street    2014-6   7-16-2014
-VanVactor Street at East South Street         2014-6   7-16-2014
-VanVactor Street at South Michigan Street     2014-6   7-16-2014
-Washington Street at Fremont Street           2014-6   7-16-2014
-Washington Street at State Road 10            2014-6   7-16-2014
-Weidner Avenue at Pond Street                 2014-6   7-16-2014
-West Street at Broadway Street                2014-6   7-16-2014
-West Street at Dewey Street                   2014-6   7-16-2014
-West Street at State Road 10                  2014-6   7-16-2014
-West Street at West South Street              2014-6   7-16-2014
-West Church Street at Clinton Street          2014-6   7-16-2014
-West Church Street at North First Street      2014-6   7-16-2014
-West Church Street at Yearick Street          2014-6   7-16-2014
-West Marshall Street at U.S. 31               2014-6   7-16-2014
-West Plum Street at North First Street        2014-6   7-16-2014
-West Plum Street at Yearick Street            2014-6   7-16-2014
-West South Street at West Street              2014-6   7-16-2014
-West Williams Street at South First Street    2014-6   7-16-2014
-West Williams Street at West Street           2014-6   7-16-2014
-Westview Court at Indiana Avenue              2014-6   7-16-2014
-Williams Street at South Michigan Street      2014-6   7-16-2014
-Woodland Trail at Pond Street                 2014-6   7-16-2014
-Woodland Trail at State Road 10               2014-6   7-16-2014
-Yearick Street at Indiana Avenue              2014-6   7-16-2014
-Yearick Street at State Road 10               2014-6   7-16-2014
-Yearick Street at West Plum Street            2014-6   7-16-2014
+Intersection                                             Ord. No. Date Passed
+Albert Street at East Street                             2014-6   7-16-2014
+Albert Street at South Grove Street                      2014-6   7-16-2014
+Albert Street at State Road 10                           2014-6   7-16-2014
+Apple Street at North Grove Street                       2014-6   7-16-2014
+Broadway Street at South Michigan Street                 2014-6   7-16-2014
+Broadway Street at West Street                           2014-6   7-16-2014
+Center Street at East South Street                       2014-6   7-16-2014
+Cherry Street at Apple Street                            2014-6   7-16-2014
+Cherry Street at North Grove Street                      2014-6   7-16-2014
+Church Street at North Michigan Street                   2014-6   7-16-2014
+Clinton Street at Indiana Avenue                         2014-6   7-16-2014
+Clinton Street at State Road 10                          2014-6   7-16-2014
+Clinton Street at Weidner Avenue                         2014-6   7-16-2014
+Cul-de-sac at Industrial Park at Dewey Street            2014-6   7-16-2014
+Dewey Street at Pond Street                              2014-6   7-16-2014
+Dewey Street at South Michigan Street                    2014-6   7-16-2014
+Dewey Street at U.S. 31                                  2014-6   7-16-2014
+Dianne Avenue at State Road 10                           2014-6   7-16-2014
+East Street at State Road 10                             2014-6   7-16-2014
+East Church Street at North Maple Street                 2014-6   7-16-2014
+East Marshall Street at Railroad Tracks                  2014-6   7-16-2014
+East Plum Street at North Grove Street                   2014-6   7-16-2014
+East Plum Street at North Maple Street                   2014-6   7-16-2014
+East Plum Street at Railroad Tracks                      2014-6   7-16-2014
+East Williams Street at Lincoln Street                   2014-6   7-16-2014
+East Williams Street at South Maple Street               2014-6   7-16-2014
+First Street at State Road 10                            2014-6   7-16-2014
+Freedom Street at West Marshall Street                   2014-6   7-16-2014
+Fremont Street at North Grove Street                     2014-6   7-16-2014
+Fremont Street at North Maple Street                     2014-6   7-16-2014
+Fremont Street at Railroad Tracks                        2014-6   7-16-2014
+Grove Street at State Road 10                            2014-6   7-16-2014
+Heritage Street at West Marshall Street                  2014-6   7-16-2014
+Huff Street at East Plum Street                          2014-6   7-16-2014
+Huff Street at North Maple Street                        2014-6   7-16-2014
+Independence Avenue at Freedom Street                    2014-6   7-16-2014
+Independence Avenue at Heritage Street                   2014-6   7-16-2014
+Indiana Avenue at North First Street                     2014-6   7-16-2014
+Indiana Avenue at State Road 10                          2014-6   7-16-2014
+Indiana Avenue at Yearick Street                         2014-6   7-16-2014
+Lincoln Street at East South Street                      2014-6   7-16-2014
+Lincoln Street at State Road 10                          2014-6   7-16-2014
+Logan Street at South Michigan Street                    2014-6   7-16-2014
+Maple Street at State Road 10                            2014-6   7-16-2014
+Marshall Street at Community Park Drive (three-way stop) 2024-8   6-12-2024
+Marshall Street at Grove Street                          2014-6   7-16-2014
+Marshall Street at North Michigan Street                 2014-6   7-16-2014
+North Street at Maple Street                             2014-6   7-16-2014
+North Street at Michigan Street                          2014-6   7-16-2014
+North First Street at West Plum Street                   2014-6   7-16-2014
+North Maple Street at East Marshall Street               2014-6   7-16-2014
+North Maple Street at East Plum Street                   2014-6   7-16-2014
+North Maple Street at North Street                       2014-6   7-16-2014
+North Railroad Street at Marshall Street                 2014-6   7-16-2014
+Plum Street at North Michigan Street                     2014-6   7-16-2014
+Pond Street at State Road 10                             2014-6   7-16-2014
+Poplar Street at North Maple Street                      2014-6   7-16-2014
+Poplar Street at North Michigan Street                   2014-6   7-16-2014
+Poplar Street at Railroad Street                         2014-6   7-16-2014
+Railroad Street at East Plum Street                      2014-6   7-16-2014
+Railroad Street at Fremont Street                        2014-6   7-16-2014
+Second Street at Broadway Street                         2014-6   7-16-2014
+Second Street at West South Street                       2014-6   7-16-2014
+Short Street at Broadway Street                          2014-6   7-16-2014
+Smith Street at North First Street                       2014-6   7-16-2014
+Smith Street at North Maple Street                       2014-6   7-16-2014
+Smith Street at North Michigan Street                    2014-6   7-16-2014
+South First Street at Broadway Street                    2014-6   7-16-2014
+South First Street at West South Street                  2014-6   7-16-2014
+South First Street at West Williams Street               2014-6   7-16-2014
+South Grove Street at East South Street                  2014-6   7-16-2014
+South Maple Street at East South Street                  2014-6   7-16-2014
+South Maple Street at East Williams Street               2014-6   7-16-2014
+VanVactor Street at East South Street                    2014-6   7-16-2014
+VanVactor Street at South Michigan Street                2014-6   7-16-2014
+Washington Street at Fremont Street                      2014-6   7-16-2014
+Washington Street at State Road 10                       2014-6   7-16-2014
+Weidner Avenue at Pond Street                            2014-6   7-16-2014
+West Street at Broadway Street                           2014-6   7-16-2014
+West Street at Dewey Street                              2014-6   7-16-2014
+West Street at State Road 10                             2014-6   7-16-2014
+West Street at West South Street                         2014-6   7-16-2014
+West Church Street at Clinton Street                     2014-6   7-16-2014
+West Church Street at North First Street                 2014-6   7-16-2014
+West Church Street at Yearick Street                     2014-6   7-16-2014
+West Marshall Street at U.S. 31                          2014-6   7-16-2014
+West Plum Street at North First Street                   2014-6   7-16-2014
+West Plum Street at Yearick Street                       2014-6   7-16-2014
+West South Street at West Street                         2014-6   7-16-2014
+West Williams Street at South First Street               2014-6   7-16-2014
+West Williams Street at West Street                      2014-6   7-16-2014
+Westview Court at Indiana Avenue                         2014-6   7-16-2014
+Williams Street at South Michigan Street                 2014-6   7-16-2014
+Woodland Trail at Pond Street                            2014-6   7-16-2014
+Woodland Trail at State Road 10                          2014-6   7-16-2014
+Yearick Street at Indiana Avenue                         2014-6   7-16-2014
+Yearick Street at State Road 10                          2014-6   7-16-2014
+Yearick Street at West Plum Street                       2014-6   7-16-2014
  
 (1996 Code, § 61.19) Penalty, see §
 70.99
@@ -7051,6 +7499,8 @@ swine
 90.030   Vaccination of dogs and cats required
    
 90.031   Spaying and neutering of adopted animals
+   
+90.032   Chickens
 Pet Registration; Permit Procedures
    
 90.045   Pet registration
@@ -7376,11 +7826,10 @@ set.
 (1996 Code, § 71.07) (Ord. 2002-4, passed 5-1-2002) Penalty, see §
 90.999
 § 90.026 MAXIMUM NUMBER OF DOGS OR CATS PERMITTED.
-   No more than an aggregate of three dogs or cats over the age of six months
-may be kept on any residential, commercial, or other premises within the town
-unless the owner of the animals holds a valid pet shop/breeder permit,
-whichever may be appropriate.
-(1996 Code, § 71.08) (Ord. 2002-4, passed 5-1-2002) Penalty, see §
+    No more than an aggregate of five dogs or cats over the age of six months
+may be kept on any residential, commercial or other premises within the town.
+(1996 Code, § 71.08) (Ord. 2002-4, passed 5-1-2002; Ord. 2023-10, passed 9-6-
+2023) Penalty, see §
 90.999
 § 90.027 ACREAGE REQUIREMENTS FOR CERTAIN DOMESTIC ANIMALS AND PROHIBITION OF
 SWINE.
@@ -7392,8 +7841,8 @@ be fenced to confine such animals:
          (b)   Donkey, ass, burrow, mule;
          (c)   Sheep;
          (d)   Goat;
-         (e)   Chickens, rooster, geese, turkeys, ducks, or other fowl, except
-racing or homing pigeons;
+         (e)    Geese, turkeys, ducks or other fowl, not to include chickens,
+and also except racing or homing pigeons;
          (f)   Bees; and/or
          (g)   Horses.
       (2)   The maximum number of such animals which may be maintained on such
@@ -7437,7 +7886,8 @@ dispose of the Vietnamese pot-bellied pig’s excrement on a regular basis.
 pig license as outlined above shall result in the revocation of the license.
 The Town Council shall be vested with the authority to determine after due
 notice to the licensee if a violation of the license has occurred.
-(1996 Code, § 71.09) (Ord. 2002-4, passed 5-1-2002) Penalty, see §
+(1996 Code, § 71.09) (Ord. 2002-4, passed 5-1-2002; Ord. 2023-14, passed 10-4-
+2023)  Penalty, see §
 90.999
 § 90.028 REMOVAL OF ANIMAL WASTE AND DEAD ANIMALS.
    (A)   Any owner or his or her agent taking the owner’s dog(s) or cat(s)
@@ -7498,6 +7948,54 @@ facility guaranteeing that such animal shall be neutered or spayed within the
 time limitations specified in this section.
 (1996 Code, § 71.14) (Ord. 2002-4, passed 5-1-2002) Penalty, see §
 90.999
+§ 90.032 CHICKENS.
+   Chickens shall be allowed to be kept in the town, in strict accordance with
+all the following requirements.
+   (A)   A CHICKEN is a Gallus gallus domesticus, a domestic bird typically
+kept on a farm. This definition does not include other fowl, such as, but not
+limited to, peacocks, turkeys, or waterfowl.
+   (B)   No roosters (male chickens) shall be kept under the provisions of this
+section.
+   (C)   There should be no more than six chickens on any parcel of land less
+than five acres in size, nor more than six chickens on multiple parcels of
+land, less than five acres in size, if owned by the same individual or entity.
+Chickens are not permitted on any rental property whatsoever.
+   (D)   Chickens must be kept completely and securely enclosed and under the
+control of the owner and on the owner's property at all times and be restrained
+at all times from leaving the property of the owner.
+   (E)   A CHICKEN COOP, an enclosed, raised structure for harboring chickens
+and provides shelter from the elements, shall be provided. The chicken coop
+must provide adequate sun, shade and ventilation and must be impermeable to
+rodents, wild birds, and predators, including cats and dogs and must provide at
+least ten square feet of space per chicken kept therein. No chicken coop shall
+exceed 75 total square feet in size. No chicken coop shall be situated less
+than a minimum of ten feet from all property lines. For corner lots, the
+chicken coop shall be situated as near as possible to the middle of the lot.
+The chicken coop shall be maintained in a sanitary condition and in compliance
+with all applicable health regulations of the State of Indiana, Marshall
+County, and the town. All chicken waste including manure, bedding, eggshells,
+etc. shall be cleaned and removed on a routine basis, and further shall not be
+disposed of in town trash containers.
+   (F)   Chickens shall be provided with access to feed and clean water at all
+times.
+   (G)   All feed for said chickens shall be stored in containers so as to
+protect against intrusion by rodents and vermin.
+   (H)   Chickens and chicken coops shall be confined to the rear yard of the
+property.
+   (I)   Any chickens kept in accordance with the provisions of this section
+shall be for non-commercial, personal use only and may not be slaughtered on
+the property.
+   (J)   Owners of chickens within the town shall cause the chickens to be
+registered in accordance with the provisions of §
+90.045 (Pet Registration), and §§
+90.051 through and including 90.055.
+   (K)   Any violations of this section shall be subject to applicable
+penalties set forth in §
+90.999, in addition to the enforcement/impoundment procedures as set forth in
+§§
+90.065 through and including
+90.068.
+(Ord. 2023-14, passed 10-4-2023)
 PET REGISTRATION; PERMIT PROCEDURES
 § 90.045 PET REGISTRATION.
    (A)   Any person owning, keeping, harboring, or having custody of any dog or
@@ -7720,7 +8218,8 @@ Dangerous animal/attack dog permit                                        $50
 Pet registration
 Each altered dog or cat
 Each unaltered dog or cat
-Except upon a statement from a licensed veterinarian that neutering shall $2
+Each chicken                                                              $2
+Except upon a statement from a licensed veterinarian that neutering shall $10
 constitute a threat to the health of said animal, the fee shall be        $10
                                                                          $5
 Replacement tag                                                           $2
@@ -7735,7 +8234,8 @@ Pet shop/breeder permit                                                   $50
 permit fees for the town and shall account to and pay over to the Clerk-
 Treasurer such amounts of such fees as required by the animal control contract
 between the town and the Animal Control Agency then in effect.
-(1996 Code, § 71.27) (Ord. 2002-4, passed 5-1-2002) Penalty, see §
+(1996 Code, § 71.27) (Ord. 2002-4, passed 5-1-2002; Ord. 2023-14, passed 10-4-
+2023)  Penalty, see §
 90.999
 § 90.053 INSPECTION.
    (A)   Whenever it is necessary to make an inspection to enforce any of the
@@ -7890,7 +8390,11 @@ committed on each day during or on which a violation occurs or continues.
 90.048(B) shall be guilty of an infraction punishable by a fine of not more
 than $50.
 (1996 Code, § 71.23)
-(Ord. 2002-4, passed 5-1-2002)
+   (E)   Any person violating any of the provisions of §
+90.32 shall be fined not more than $100 for the first offense and not more than
+$200 for each subsequent offense; and a separate offense shall be deemed
+committed on each day during or on which a violation occurs or continues.
+(Ord. 2002-4, passed 5-1-2002; Ord. 2023-14, passed 10-4-2023)
 CHAPTER 91: NUISANCES
 Section
    
@@ -7953,7 +8457,7 @@ property or persons in the vicinity;
    (F)   Open wells. The maintenance of any open or uncovered, or insecurely
 covered cistern, cellar, well, ditch, excavation, or vault situated on private
 premises in an open or unfenced lot or place;
-   (G)   Grass and weeds.
+   (G)   Tall grass, weeds and rank vegetation.
       (1)   Excessively tall grass, weeds, and other rank vegetation growing
 upon any real estate in the town are declared a nuisance.
       (2)   It shall be unlawful for any person to allow or permit any
@@ -7963,41 +8467,57 @@ in the town.
       (3)   It shall be the duty of every person to cut and remove all
 excessively tall grass, weeds, and other rank vegetation from any property
 owned, leased, occupied by, or under the control of such person within the town
-as follows.
+as follows:
          (a)   All grass, weeds, or other rank vegetation shall never exceed a
-maximum height of eight inches at anytime.
+maximum height of eight inches at any time.
          (b)   The destruction of weeds and other rank vegetation by the use of
-a chemical spray shall be deemed in full compliance with this section.
-      (4)   It shall be the duty of every person immediately after mowing, to
+a chemical spray shall be deemed in full compliance with this section after all
+dead vegetation is removed.
+      (4)   It shall be the duty of every person immediately after mowing to
 clean up and remove any and all grass, weeds, leaves, or other rank vegetation
-from any and all public streets, highways, or sidewalks, regarding any property
+from any and all public street, highway or sidewalk, regarding any property
 owned, leased, occupied by, or under the control of such person located within
 the town.
-      (5)   If any person fails to remove or mow such grass, weeds, or rank
-vegetation at such times and in the manner prescribed above, the Street
-Department may cause such grass, weeds, and rank vegetation to be cut and
-removed. The Clerk-Treasurer shall make a certified statement of the actual
-cost incurred by the town in such removal, which shall be delivered to the
-owner of a substantial interest in the real estate by certified mail with a
-return receipt. The owner shall, within 30 days from receipt of such notice,
-pay the amount to the Clerk-Treasurer. The Code Enforcement Officer shall
-provide a written notice to all persons holding a substantial interest in the
-property, prior to the entering onto the property of any such parcel of real
-estate, that they have a reasonable opportunity to bring the property into
-compliance, which notice shall provide not less than ten days for bringing the
-property into compliance. If no such steps are taken, then the expense involved
-may be made a lien against the property, all as pursuant to I.C. 36-1-6-2. If
-the violation described above is a violation that is located outdoors and does
-not involve a building or structure, the town may also issue a bill to the
-owner of the property for the costs incurred by the town in bringing the
-property into compliance with this chapter, including administrative costs and
-removal costs.
-      (6)   If the owner fails to pay said payments in the time prescribed, the
-Clerk-Treasurer shall file a certified copy of the statement of costs in the
-County Auditor’s Office, and the Auditor shall place the amount so claimed on
-the tax duplicate against the land or the land owner affected by the lien, and
-the same shall be collected as taxes are collected. When the cost is fully
-recovered, it shall be deposited in the General Fund of the town.
+      (5)   Penalties.
+         (a)   Warning notices. Persons who violate any provisions of this
+chapter or whose tall grass, weeds or rank vegetation violate any provision of
+this chapter, shall be served with a warning notice requesting immediate
+compliance. If any persons fail to comply with the written warning within ten
+days the town will take the following steps to bring the property into
+compliance.
+         (b)   Citations. Any person who violates any provision of this
+chapter, except where otherwise specified herein, shall be subject to a civil
+forfeiture of not more than $2,500, nor less than $100 for the first offense,
+$150 for the second offense, and $200 for each offense thereafter (see
+Chapter 36, Appendix A). If any violation is continuing, each day's violation
+shall be deemed a separate offense.
+         (c)   Failure to comply. If any person fails to remove or mow such
+grass, weeds, or rank vegetation at such times and in the manner prescribed
+above, the Street Department may cause such grass, weeds, and rank vegetation
+to be cut and removed. The Clerk-Treasurer shall make a certified statement of
+a minimum of $150 for the cost incurred by the town in such removal, plus a $25
+admin fee, $20 certified mail fee and all applicable charges for filing and
+releasing a lien with the Marshall County Recorder's Office. Such a statement
+shall be delivered to the owner of a substantial interest in the real estate by
+certified mail with a return receipt. The owner shall, within 30 days of
+receipt of such notice, pay the amount to the Clerk-Treasurer. The Code
+Enforcement Officer shall provide a written notice to all persons holding a
+substantial interest in the property, prior to the entering onto the property
+of any such parcel of real estate, that they have a reasonable opportunity to
+bring the property into compliance, which notice shall provide not less than
+ten days for bringing the property into compliance. If no such steps are taken,
+then the expense involved may be made a lien against the property, all as
+pursuant to I.C. 36-1-6-2. If the violation described above is a violation that
+is located outdoors and does not involve a building or structure, the town may
+also issue a bill to the owner of the property for the costs incurred by the
+town in bringing the property into compliance with this division, including
+administrative costs and removal costs. If the owner fails to pay said payments
+in the time prescribed, the Clerk-Treasurer shall file a certified copy of the
+statement of costs in the Auditor's Office of Marshall County, and the Auditor
+shall place the amount so claimed on the tax duplicate against the land or the
+land owner affected by the lien, and the same shall be collected as taxes are
+collected; when the cost is fully recovered, it shall be deposited in the
+General Fund of the town.
 (1996 Code, § 70.02)
    (H)   Junked and abandoned vehicles. The Town of Argos hereby adopts and
 incorporates by reference I.C. 9-22-1 et seq . and I.C. 9-13-2-1 as though
@@ -8005,7 +8525,7 @@ fully set forth herein. Additionally, the term "Officer" (I.C. 9-22-1-2), shall
 also include the Town of Argos Development Director.
 (Ord. 87, passed 12-1-1899; Ord. 481, passed 1-23-1993; Ord. 2002-06, passed 6-
 5-2002; Ord. 2012-8, passed 11-21-2012; Ord. 2020-11, passed 12-2-2020; Ord.
-2023-07, passed 4-17-2023) Penalty, see §
+2023-07, passed 4-17-2023; Ord. 2024-07, passed 6-12-2024) Penalty, see §
 91.99
 § 91.03 TEST FOR NUISANCE.
    Whether or not a particular annoyance of the characteristics in §
@@ -9029,9 +9549,9 @@ fees to accommodate increased costs and needed funds for cemetery maintenance
 and acquisition.
 (Ord. 2023-06, passed 4-19-2023)
 § 96.06 GRAVE OPENING CHARGES.
-   (A)   The town may charge reasonable fees for the opening and closing of any
-cemetery plot, prior to and following a burial therein, and including the
-interment of ashes. Such fees shall be set as Attachment A to Ord. 2023-06,
+   (A)    The town may charge reasonable fees for the opening and closing of
+any cemetery plot, prior to and following a burial therein, and including the
+interment of ashes. Such fees shall be set as Attachment A to Ord. 2025-03,
 payable to the Town of Argos.
    (B)   No cemetery plot shall be opened or closed except under the direction
 and control of the town or a funeral director. This division (B) shall not
@@ -9046,53 +9566,22 @@ funeral home that has included that fee as part of the service.
    (D)   The Town Council will designate who is allowed to perform openings and
 closings. No opening is allowed without the knowledge of the Town Council or
 the Clerk-Treasurer's office.
-(Ord. 2023-06, passed 4-19-2023)
+(Ord. 2023-06, passed 4-19-2023; Ord. 2025-03, passed 3- -2025)
 § 96.07 MARKERS OR MEMORIALS; NO MONUMENTS.
-   (A)   All markers and memorials must be comprised of stone or other equally
-durable composition and shall face the same direction as the markers and
-memorials around them.
-   (B)   Temporary markers are considered to be property of the Maple Grove
-Cemetery.
-   (C)   Except for monuments that existed in Maple Grove Cemetery before the
+   Except for monuments that existed in Maple Grove Cemetery before the
 effective date of this chapter, no monument will be allowed or erected in the
 cemetery. For purposes of this chapter, MONUMENT shall be defined as any
-marker, memorial, statue or similar item which exceeds 30 inches in height
+marker, memorial, statue or similar item which exceeds 54 inches in height
 above normal ground level or which has a ground surface area exceeding 32
-inches in width (or 60 inches in width for a double marker), with an overall
-height of no more than 30 inches above ground level, including the foundation.
-Only one marker or memorial shall be permitted per cemetery plot, or one marker
-or memorial in total where two adjoining plots share that one marker or
-memorial. Markers shall be no more than 32 inches in width (or 60 inches in
-width for a double marker), with an overall height of no more than 30 inches
-above ground level, including the foundation.
-   (D)   The footing or foundation upon which any marker or memorial must be
-placed shall be constructed by the town, or such person(s) as may be designated
-by the Town Council. Foundations will only be placed on the approval and
-instruction of the Town Council or the Clerk-Treasurer's office. Fees for such
-work shall be set based on the current rate of the contractor, but payable to
-the Town of Argos.
-   (E)   No foundations/monuments will be constructed/installed on any plot
-which has an unpaid balance due to the cemetery for said plot.
-   (F)   The town is no longer allowing the sale of graves in the "old section"
-(which is defined as plot numbers 1 - 999), however, any foundations being
-poured for plots previously purchased in the old section will have a wash of
-four inches around all sides of the base of the monument.
-   (G)   Foundations in the new section will already be poured. Any part of the
-new section without foundations in place will not be available for sale until
-they are poured.
-   (H)   Should any monument or memorial (including any monument or memorial
-that was in place before this chapter became effective) become unsightly,
-broken, moved off its proper site, dilapidated or a safety hazard, the Town
-Council shall have the right, at the expense of the owner of the cemetery plot,
-to correct the condition or remove the same. The town shall make reasonable
-attempts to contact the owner of the cemetery plot prior to any such work
-beginning.
-   (I)   The maintenance, repair and upkeep of a cemetery memorial, marker, urn
-or similar item is the responsibility of the heirs or family of the person
-buried at that location. The town has no responsibility or liability regarding
-the repair, maintenance or upkeep regarding any such marker, memorial, urn or
-similar item.
-(Ord. 2023-06, passed 4-19-2023)
+inches in width (or 60 inches in width for a double marker), by 20 inches in
+depth, with an overall height of no more than 54 inches above ground level,
+including the foundation. Only one marker or memorial shall be permitted per
+cemetery plot, or one marker or memorial in total where two adjoining plots
+share that one marker or memorial. Markers shall be no more than 32 inches in
+width (or 60 inches in width for a double marker), no more than 20 inches in
+depth, with an overall height of no more than 54 inches above ground level,
+including the foundation.
+(Ord. 2023-06, passed 4-19-2023; Ord. 2024-02, passed 3-13-2024)
 § 96.08 INTERMENT REGULATIONS.
    (A)   Only human remains are allowed in the cemetery.
    (B)   Burial permits are required for all burials.
@@ -10497,7 +10986,9 @@ Section
 as if set forth in full herein.
 (Ord. 2011-5, passed 8-3-2011; Ord. 2015-1, passed 1-21-2015; Ord. 2015-4,
 passed 4-15-2015; Ord. 2019-15, passed 8-7-2019; Ord. 2021-04, passed 2-17-
-2021; Ord. 2021-12, passed 8-18-2021; Ord. 2023-5, passed 3-15-2023)
+2021; Ord. 2021-12, passed 8-18-2021; Ord. 2023-5, passed 3-15-2023; Ord. 2023-
+9, passed 7-19-2023; Ord. 2023-11, passed 9-6-2023; Ord. 2024-05, passed 6-12-
+2024; Ord. 2024-09, passed 8-14-2024)
 TABLE OF SPECIAL ORDINANCES
    Table
       
@@ -10654,13 +11145,35 @@ References to Ordinances
 REFERENCES TO INDIANA CODE
 I.C. Section Code Section
 I.C. Section                  Code Section
+4-13-1-1                      33.21
+4-13-1.6                      33.26
+4-13-1.7                      33.26
+4-23-16-5(a)                  33.21
+5-3-1                         33.25,
+                              33.26
 5-4-1-18                      31.01
 5-11-10                       33.05
+5-11-13-1                     33.32
+5-13                          33.24
 5-13-9-5                      33.02
 5-13-9-5.7                    33.02
 5-13-9-5.7(a)                 33.02
 5-13-9-5.7(b)                 33.02
-5-22                          33.20 
+                              33.24,
+5-22                          33.25,
+                              33.31
+5-22 et seq.                  33.20 
+5-22-3-5                      33.25
+5-22-7-11                     33.25
+5-22-7-13                     33.25
+5-22-10                       33.26
+5-22-10-10                    33.25
+5-22-15-10                    33.21
+5-22-17-9                     33.26
+5-22-17-10                    33.21
+5-22-18-2                     33.25
+5-23                          33.21
+5-23-2-7                      33.21
 6-3.6-9-17(h)(1)(A)           33.37 
 7.1-1-3                       70.01 
 7.1-1-3-5                     70.01,
@@ -10678,8 +11191,10 @@ I.C. Section                  Code Section
 9-21-9-1                      70.60
 9-22-1 et seq.                91.02
 9-22-1-2                      91.02
+12-13-10                      33.21
 14-8-2-185                    70.61
 15-17-6                       90.029
+20-12-0.5-1                   33.21
 22-9-1-4 et seq.              93.02 
 22-9.5-1 et seq.              93.01 
 22-9.5-2-4                    93.02 
@@ -10700,7 +11215,12 @@ I.C. Section                  Code Section
                               93.10 
 25-39                         54.101
 33-36-1 et seq.               36.01
+35-44-1-3                     33.31
+36-1-2-13                     33.21
 36-1-8-11.5                   33.06
+36-1-12                       33.31
+36-1-21                       33.32
+36-5                          33.24
 36-7-9                        150.15 
 36-7-9-1 through 36-7-9-28    150.16 
 36-7-9-2                      150.17 
@@ -10714,7 +11234,7 @@ I.C. Section                  Code Section
                               32.002 
 36-8-9-2                      32.010
 36-8-19-8.5                   33.49
-36-9-2-14 et seq.             54.071 
+36-9-2-14 et seq.             54.001  
 36-9-2-15 et seq.             52.02 
 36-9-15-5                     33.39 
 36-9-16-2                     33.39 
@@ -10724,6 +11244,7 @@ I.C. Section                  Code Section
 36-10-3-10                    32.033 
 36-10-3-11                    32.033 
 36-10-3-17                    32.034 
+45-11                         33.24
                               
  
 REFERENCES TO 1996 CODE
@@ -10847,11 +11368,6 @@ Ch. 16, Exhibit A Ch. 36, App. A
 45.01             33.44
 45.02             33.44
 45.03             33.44
-46.00             33.20
-46.01             33.21
-46.02             33.22
-46.03             33.23
-46.04             33.24
 46A.01            33.41
 46A.02            33.41
 46A.03            33.41
@@ -11048,10 +11564,6 @@ Ch. 16, Exhibit A Ch. 36, App. A
 103.04            50.17
 103.05            50.18
 103.06            50.19
-104.01            54.070
-104.02            54.071
-104.03            54.071
-104.04            54.070
 104.05            54.003
 104.101           54.001
 104.102           54.002
@@ -11077,7 +11589,6 @@ Ch. 16, Exhibit A Ch. 36, App. A
 104.120           54.050 —
                   54.058
 104.121           54.037
-104.122           54.072
 104.123           54.004
 104.124           54.005
 108.01            53.001,
@@ -11165,6 +11676,7 @@ Ch. 16, Exhibit A Ch. 36, App. A
 129.06            92.06
 129.07            92.07
 129.08            92.99
+                  
  
 REFERENCES TO RESOLUTIONS
 Res. No. Date Passed Code Section
@@ -11276,13 +11788,11 @@ C378      8-10-1925   111.25 -
                       30.35 -
                       30.39,
                       54.001 -
-                      54.005,
-502       8-12-1996   54.020 -
+502       8-12-1996   54.005,
+                      54.020 -
                       54.037,
                       54.050 -
                       54.058,
-                      54.070 -
-                      54.072,
                       54.999
                       113.01 -
 297       1-6-1997    113.05,
@@ -11290,11 +11800,9 @@ C378      8-10-1925   111.25 -
                       54.001 -
                       54.005,
                       54.020 -
-                      54.037,
-1997-2    6-9-1997    54.050 -
+1997-2    6-9-1997    54.037,
+                      54.050 -
                       54.058,
-                      54.070 -
-                      54.072,
                       54.999
                       53.001 -
                       53.003,
@@ -11307,10 +11815,6 @@ C378      8-10-1925   111.25 -
                       53.085 -
                       53.092,
                       53.999
-98-9      11-9-1998   33.20
-98-10     11-9-1998   33.21
-98-11     11-9-1998   33.22
-98-12     11-9-1998   33.23
 98-13     11-9-1998   30.35 -
                       30.40
                       53.001 -
@@ -11321,8 +11825,8 @@ C378      8-10-1925   111.25 -
                       53.047,
                       53.060 -
                       53.072,
-                      53.085 -
-99-5      5-10-1999   53.092,
+99-5      5-10-1999   53.085 -
+                      53.092,
                       53.999,
                       54.001 -
                       54.005,
@@ -11330,8 +11834,6 @@ C378      8-10-1925   111.25 -
                       54.037,
                       54.050 -
                       54.058,
-                      54.070 -
-                      54.072,
                       54.999
 99-19     12-28-1999  32.010
 2000-4    4-19-2000   91.23
@@ -11427,7 +11929,6 @@ C378      8-10-1925   111.25 -
 2016-10   8-3-2016    51.02
 2016-12   9-21-2016   30.04
 2016-13   11-16-2016  34.01
-2017-3    3-15-2017   54.071
 2017-11   3-15-2017   35.01
 2017-6    4-19-2017   53.066
 2017-7    4-19-2017   36.05
@@ -11445,7 +11946,9 @@ C378      8-10-1925   111.25 -
 2017-23   - -2017     33.45
                       52.01 -
                       52.05,
-2018-1    3-21-2018   52.20 -
+                      52.20 -
+2018-1    3-21-2018   52.24,
+                      52.27 -
                       52.54,
                       52.99
 2018-3    5-16-2018   51.02
@@ -11499,8 +12002,6 @@ C378      8-10-1925   111.25 -
 2021-11   9-1-2021    TSO VI
 2021-19   12-15-2021  34.01
 2022-02   2-16-2022   50.19
-2022-03   2-16-2022   52.26
-2022-07   5-4-2022    33.20
                       52.32,
                       53.064,
 2022-09   7-20-2022   53.072,
@@ -11512,5 +12013,37 @@ C378      8-10-1925   111.25 -
 2023-07   4-17-2023   91.02
 2023-06   4-19-2023   96.01 -
                       96.25
+                      33.20 -
+2023-08   6-7-2023    33.28,
+                      33.30 -
+                      33.32
+2023-9    7-19-2023   151.01
+2023-10   9-6-2023    90.026
+2023-11   9-6-2023    151.01
+                      90.027,
+2023-14   10-4-2023   90.032,
+                      90.052,
+                      90.999
+2024-01   2-7-2024    51.02
+2024-02   3-13-2024   96.07
+                      54.001 -
+                      54.005,
+                      54.020 -
+                      54.037,
+2024-4    5-8-2024    54.050 -
+                      54.058,
+                      54.100 -
+                      54.105,
+                      54.999
+2024-05   6-12-2024   151.01
+2024-07   6-12-2024   91.02
+2024-8    6-12-2024   Ch. 73, Schs. I,
+                      II
+2024-09   8-14-2024   151.01
+2024-12   10-23-2024  51.02
+                      50.15 -
+2024-13   11-13-2024  50.18,
+                      50.20
+2025-03   3- -2025    96.06
                      
  
