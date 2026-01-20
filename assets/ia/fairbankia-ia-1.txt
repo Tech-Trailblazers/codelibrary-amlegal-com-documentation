@@ -40,6 +40,14 @@ Mar-25    92.02; 92.03       368      3-10-25 Water Rates
           99.01              369      2-26-25 Sewer Rates
           75.10              370      2-10-25 All-Terrain Vehicles and
                                               Snowmobiles
+Dec-25    65.02(10)          371      4-14-25 Stop Signs
+          110.17; 110.18;    372      5-12-25 Gas Service Line Costs Outside
+          110.19                              City Limits
+          110.02(2)          373      6-9-25  Charge for Gas Meter
+          69.03(5)           374      6-9-25  Angle Parking
+          111.05; 111.06     375      8-11-25 Electric Rates
+          Ch. 8              376      8-11-25 2025 Addition to the Fairbank
+                                              Urban Renewal Area
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -893,6 +901,7 @@ ORDINANCE NO. ADOPTED  NAME OF AREA
 285           8-9-04   2004 Addition to the Fairbank Urban Renewal Area
 292           11-14-05 2005 Addition to the Fairbank Urban Renewal Area
 300           10-23-06 2006 Addition to the Fairbank Urban Renewal Area
+376           8-11-25  2025 Addition to the Fairbank Urban Renewal Area
  
 CHAPTER 15
 MAYOR
@@ -3729,9 +3738,9 @@ Street.
 Street.
 9.   Fifth Street. Vehicles traveling south on Fifth Street shall stop at South
 Street.
-10.   Fifth Street. Vehicles traveling south on Fifth Street shall stop at
-Washington Street South.
-(Subsection 10 – Ord. 354 – Sep. 23 Supp.)
+10.   Third Street. Vehicles traveling south on Third Street shall stop at
+Grove Street.
+(Subsection 10 – Ord. 371 – Dec. 25 Supp.)
 11.   Rainbow Drive. Vehicles traveling north on Rainbow Drive shall stop at
 Front Street.
 12.   Cedar Drive. Vehicles traveling east on Cedar Drive shall stop at Fourth
@@ -3918,6 +3927,8 @@ the south;
 south;
 4.   First Street on the east and west sides from Main Street to the first
 alley to the north.
+5.   East Main Street from North Fifth Street to Sixth Street South.
+(Subsection 5 – Ord. 374 – Dec. 25 Supp.)
 69.04   MANNER OF ANGLE PARKING.
 Upon those streets or portions of streets that have been signed or marked for
 angle parking, no person shall park or stand a vehicle other than at an angle
@@ -6521,9 +6532,14 @@ month. The cost of gas is the sum of the index price, demand charges,
 reservation charges, transportation changes and supplier service charges.
 2.   The following monthly rates shall be applied to each entity utilizing
 natural gas from the City and shall be based upon the monthly cost of gas
-computed for that billing cycle. Each recipient of natural gas from the City
-shall pay $4.00/month for each meter utilized, the cost of gas as indicated
-above plus $0.35.
+computed for that billing cycle.
+   A.   Each recipient of natural gas from the City where the property is
+within the City limits shall pay $4.00 per month for each meter utilized and
+the cost of gas as indicated above plus $0.35.
+   B.   Each recipient of natural gas from the City where the property is
+located outside the City limits shall pay $10.00 per month for each meter
+utilized and the cost of gas as indicated above plus $0.35.
+(Subsection 2 – Ord. 373 – Dec. 25 Supp.)
 110.03   GENERAL PROVISIONS.
 1.   Categories of Service. The Council, by resolution, shall from time to time
 establish various rate categories according to cost, service, amount, whether
@@ -6708,54 +6724,11 @@ the best interest of the Utility.
 the Utility. The Utility reserves the right to maintain, repair and replace the
 mains.
 110.17   GAS MAIN EXTENSIONS TO SUBDIVISIONS OUTSIDE CORPORATE CITY LIMITS.
-Whenever an extension of the Utility’s gas mains is necessary to serve a real
-estate subdivision, the gas main extension will include the entire subdivision.
-Prior to the construction of the extension, a refundable investment must be
-made by the developer and/or property owner(s) in the subdivision.
-1.   The refundable investment will be equal to the entire estimated cost to
-serve the subdivision with gas mains; less credit for any gas heating customers
-that have applied for gas service. No interest will be paid on the refundable
-investment. The credit is computed by using the estimated cost per foot for the
-gas main extension, multiplied by 100-feet, multiplied by the number of
-properties that have applied for gas heating service.
-2.   The refundable investment will include the cost of all gas distribution
-mains that are necessary to bring gas to the subdivision. The Utility will
-determine the size of the gas distribution main required to serve the
-subdivision. If it is deemed in the best interest of the Utility to install a
-larger size gas distribution main than the subdivision requires, the Utility
-will pay the difference in estimated cost.
-3.   The cost estimate of construction and revenue to be derived from the main
-extension will be calculated by the Utility. Installation will be subject to
-availability of natural gas.
+(Repealed by Ordinance No. 372 – Dec. 25 Supp.)
 110.18   RETURN OF REFUNDABLE INVESTMENT.
-A refundable investment is subject to return without interest in the following
-manner:
-1.   As additional permanent gas heating customers are connected to the
-subdivision gas mains, the Utility will each quarter refund to the original
-customer or developer who paid the refundable investment an amount equal to
-100-feet, multiplied by the original estimated cost per foot of gas main for
-the extension, multiplied by the number of new additional permanent gas heating
-customers in the subdivision. At no time shall total refunds exceed the
-original investment.
-2.   The refunding period shall be in effect for 10 years from the date the gas
-main was installed. If the Utility is unable to provide gas service to new
-customers during this 10-year period, the time period length will be extended
-as determined by the Utility.
+(Repealed by Ordinance No. 372 – Dec. 25 Supp.)
 110.19   GAS SERVICE LINE COSTS OUTSIDE OF CORPORATE CITY LIMITS.
-The Utility or its contractor will install a gas service line of adequate size
-for the first 100-feet beyond the property line or to the nearest point of the
-building, whichever is less, at no charge to primary gas heating customers.
-Charges for service in excess of the 100-feet will be billed to the customer at
-the actual cost per foot. For customers other than primary gas heating
-customers, the Utility will install a gas service to the nearest point of the
-building with customer paying for the footage from the property line to the
-structure. Installation of the gas service cannot begin until the finished
-grade has been established and dirt has been backfilled around the foundation.
-Before the gas in the home may be turned on, any charges to the customer
-pertaining to the gas service installation must be paid in full. The owner or
-contractor must complete a Location Gas Service form and an Agreement for
-Utilization of Gas Service form with the Utility before the gas service line
-can be installed.
+(Repealed by Ordinance No. 372 – Dec. 25 Supp.)
 CHAPTER 111
 ELECTRIC UTILITY
 111.01 Purpose                       111.12 Temporary Discontinuance
@@ -6790,34 +6763,75 @@ rules and regulations as adopted is on file in the office of the Clerk. The
 rules and regulations contained therein shall apply to all users of the
 municipal electric system.
 111.05   RATES.
-The rates for electric service shall be as follows:
 (Code of Iowa, Sec. 384.84)
-Residential Customers:
-First 600 kWh      $   0.100 per kWh
-Over 600 kWh       $   0.076 per kWh
-Commercial and Government Customers:
-First 600 kWh      $   0.100 per kWh
-Over 600 kWh    $   0.077 per kWh
-City Street Lights $   530.00 per month
-Other Lights
-100/150 Watt       $   8.00 per month
-1,000 Watt         $   35.00 per month
+                        1-Jul-2025 1-Jul-2026 1-Jul-2027 1-Jul-2028 1-Jul-2029
+Residential
+Energy - 0-600 kWh (per $0.130     $0.130     $0.130     $0.130     $0.130
+kWh)
+Energy - over 600 kWh   $0.109     $0.112     $0.115     $0.118     $0.121
+(per kWh)
+Commercial/Government
+Energy - 0-600 kWh (per $0.130     $0.130     $0.130     $0.130     $0.130
+kWh)
+Energy - over 600 kWh   $0.110     $0.113     $0.116     $0.119     $0.122
+(per kWh)
+City Street Lights
+Per month               $506.00    $512.00    $518.00    $524.00    $530.00
+Security Lights (per
+month)
+100/150 Watt            $8.10      $8.20      $8.30      $8.40      $8.50
+1,000 Watt              $35.40     $35.80     $36.20     $36.60     $37.00
  
+                        1-Jul-2030 1-Jul-2031 1-Jul-2032 1-Jul-2033 1-Jul-2034
+Residential
+Energy - 0-600 kWh (per $0.130     $0.130     $0.130     $0.130     $0.130
+kWh)
+Energy - over 600 kWh   $0.123     $0.125     $0.127     $0.129     $0.131
+(per kWh)
+Commercial/Government
+Energy - 0-600 kWh (per $0.130     $0.130     $0.130     $0.130     $0.130
+kWh)
+Energy - over 600 kWh   $0.124     $0.126     $0.128     $0.130     $0.132
+(per kWh)
+City Street Lights
+Per month               $563.00    $542.00    $548.00    $554.00    $560.00
+Security Lights (per
+month)
+100/150 Watt            $8.60      $8.70      $8.80      $8.91      $9.02
+1,000 Watt              $37.44     $37.89     $38.34     $38.80     $39.27
+ 
+(Section 111.05 – Ord. 375 – Dec. 25 Supp.)
 111.06   MONTHLY FACILITY CHARGE.
 A monthly facility charge shall be assessed to each residential customer of the
 utility at the rate of $8.00 per month per meter. A monthly facility charge of
 $5.00 per meter per month shall be assessed for meters to residential customers
 which are classified by the City utility as all electric. A monthly facility
 charge shall be assessed to commercial and government customers with single-
-phase meters at the rate of $8.00 per meter per month. A monthly facility
-charge of $5.00 per meter per month shall be assessed to commercial and
+phase meters at the rate of $8.50 per meter per month. A monthly facility
+charge of $5.50 per meter per month shall be assessed to commercial and
 government customers with single-phase meters which are classified by the City
 utility as all electric. A monthly facility charge shall be assessed to
 commercial and government customers with a three-phase meter at the rate of
-twelve dollars $12.00 per meter per month. A monthly facility charge of $9.00
+twelve dollars $12.50 per meter per month. A monthly facility charge of $9.50
 per meter per month shall be assessed to commercial and government customers
 with a three-phase meter which is classified by the City utility as all
-electric.
+electric. The rate per meter for Commercial/Government shall be increased
+annually beginning July 1, 2026, as follows:
+ 
+Commercial/Government                     7/1/26 7/1/27 7/1/28 7/1/29 7/1/30
+Facility (per month) 1 phase              $9.00  $9.50  $10.00 $10.50 $10.63
+Facility (per month) 1 phase all electric $6.00  $6.50  $7.00  $7.50  $7.59
+Facility (per month) 3 phase              $13.00 $13.50 $14.00 $14.50 $14.67
+Facility (per month) 3 phase all electric $10.00 $10.50 $11.00 $11.50 $11.64
+ 
+ 
+Commercial/Government                     7/1/31 7/1/32 7/1/33 7/1/34
+Facility (per month) 1 phase              $10.75 $10.88 $11.01 $11.15
+Facility (per month) 1 phase all electric $7.68  $7.77  $7.87  $7.96
+Facility (per month) 3 phase              $14.85 $15.03 $15.21 $15.39
+Facility (per month) 3 phase all electric $11.78 $11.92 $12.06 $12.21
+ 
+(Section 111.06 – Ord. 375 – Dec. 25 Supp.)
 111.07   ENERGY COST ADJUSTMENT.
 Rates for service provided above shall contain an Energy Cost Adjustment (ECA),
 based on the rate charged to Fairbank by its power supplier. The ECA shall
