@@ -1,7 +1,7 @@
 VILLAGE OF ORLAND PARK
 VILLAGE CODE
 Ordinance 2989 as Amended
-Updated with local legislation passed through July 21, 2025
+Updated with local legislation passed through December 1, 2025
 Published by:
 AMERICAN LEGAL PUBLISHING
 525 Vine Street, Ste. 310
@@ -3043,14 +3043,20 @@ hearing, of whether a Village Code violation exists. The determination shall be
 in writing and shall include a written finding of fact, decision, and order
 setting forth the fine, penalty, restitution of the Village for any damage
 suffered by the Village, or any other action with which the person found liable
-must comply.
-      8.   Impose penalties consistent with applicable Village Code provisions
-and assess administrative costs in the amount of fifty dollars ($50.00) upon
-finding a party liable for the charged violation. Notwithstanding those
-violations for which the Illinois Municipal Code limits the fine or penalty to
-seven hundred fifty dollars ($750.00) the Hearing Officer shall have the
-authority to impose fines and penalties up to fifty thousand dollars
-($50,000.00).
+must comply. The Hearing Officer’s powers include the imposition of monetary
+penalties, the entry of orders prohibiting further code violations or
+compelling the remediation of existing code violations within a specified time
+frame, and authorizing the Village to take all necessary steps to remediate
+code violations.
+      8.   Impose penalties consistent with applicable Village Code provisions,
+enter orders prohibiting further code violations or compelling the remediation
+of existing code violations within a specified timeframe, and authorizing the
+Village to take all necessary steps to remediate code violations, and assess
+administrative costs in the amount of fifty dollars ($50.00) upon finding a
+party liable for the charged violation. Notwithstanding those violations for
+which the Illinois Municipal Code limits the fine or penalty to seven hundred
+fifty dollars ($750.00) the Hearing Officer shall have the authority to impose
+fines and penalties up to fifty thousand dollars ($50,000.00).
       9.   In no event shall a Hearing Officer have the authority to:
          a.   Impose a penalty of incarceration.
          b.   Impose a fine in excess of $50,000.00
@@ -3126,7 +3132,7 @@ for a program of administrative adjudication of violations of non-vehicular
 regulations; or
       2.   Successfully complete a formal training program pursuant to 65 ILCS
 5/1-2.1-4(c).
-(Amd. Ord. 5566, 12-21-20)
+(Amd. Ord. 5566, 12-21-20; Amd. Ord. 6071, 12-1-25)
 1-14-3:   PROCEDURES:
    The system of administrative adjudication of non-vehicular regulations
 violations shall be conducted in accordance with the following procedures to
@@ -3415,6 +3421,8 @@ SECTION:
 1-16-14:   Claims relating to solicitations
 1-16-15:   Suspensions
 1-16-16:   Ethical standards
+1-16-17:   Vendor disclosures of business relationships
+1-16-18:   Officials’ disclosures of business relationships
 1-16-1: GENERAL PROVISIONS:
    A.   Short title. This Chapter shall be known as the "Orland Park
 Procurement Code."
@@ -3583,7 +3591,10 @@ technical proposal.
          (f)   Important criteria other than price will be considered in
 determining an award.
          (g)   Adequate specifications are not available.
-      (2)   General RFQ or RFP process. Proposals generally shall be solicited
+      (2)   Conflicts of Interest. Proposers shall comply with Section
+1-16-17 when completing the proposal process as part of their required
+submission.
+      (3)   General RFQ or RFP process. Proposals generally shall be solicited
 through an RFQ or RFP as follows:
          (a)   Public notice of the request for proposals/qualifications shall
 be given within a reasonable time, not less than ten calendar business days
@@ -3715,7 +3726,8 @@ be rejected in whole or in part. The Village shall attempt to send notice of
 cancellation to all potential bidders or proposers. The Village shall provide
 the reason or reasons for cancellation or rejection at the request of an
 unsuccessful bidder or proposer.
-(Ord. 5499, 3-21-20; Amd. Ord. 5505, 5-4-20; Amd. Ord. 5900, 5-20-24)
+(Ord. 5499, 3-21-20; Amd. Ord. 5505, 5-4-20; Amd. Ord. 5900, 5-20-24; Amd. Ord.
+6045, 10-6-25)
 1-16-4: TYPES OF CONTRACTS AND CONTRACT ADMINISTRATION:
 The Village may use any form or type of contract that is, in the Village's
 judgment, appropriate for the procurement and that will promote the best
@@ -3845,7 +3857,48 @@ specified in the contract.
 shall be construed to limit the authority of the Procurement Officer to require
 a performance bond or other security in addition to the bonds stated in this
 subsection, or in circumstances other than those specified in this section.
-(Ord. 5499, 3-21-20; Amd. Ord. 5505, 5-4-20)
+   D.   Responsible Bidder Requirements. In determining which bidder is a
+“responsible bidder” on Village public works projects with a value of $25,000
+or more, the bidder must comply with the following criteria, and submit
+acceptable evidence of such compliance, in addition to any other requirements
+as determined from time to time by the Village for the specific type of work to
+be performed:
+      (1)   All applicable laws and Village Codes and Ordinances prerequisite
+to doing business in Illinois and the Village, including required Village
+licenses;
+      (2)   Evidence of compliance with:
+         (a)   Submittal of Federal Employer Tax Identification Number or
+Social Security Number (for individual); and
+         (b)   Provision of Section 2000(e) of Chapter 21, Title 42 of the
+United States Code and Federal Executive Order No. 11246 as amended by
+Executive Order No. 11375 (known as the Equal Opportunity Employer provisions).
+      (3)   Certificates of insurance indicating at least the following
+coverages at minimum limits established by the Village; general liability,
+worker’s compensation, completed operations, automobile, hazardous occupation,
+product liability, and professional liability;
+      (4)   All provisions of the Illinois Prevailing Wage Act, including
+wages, medical and hospitalization insurance and retirement for those trades as
+covered in the Act;
+      (5)   Participation in apprenticeship and training programs approved and
+registered with the United States Department of Labor’s Bureau of
+Apprenticeship and Training or the Illinois Department of Labor, including the
+graduation of at least five (5) apprentices in each of the applicable
+construction crafts in the preceding five (5) years;
+      (6)   The applicable provisions of the Illinois Human Rights Act and the
+rules of the Illinois Human Rights Commission;
+      (7)   Adoption of a Sexual Harassment Policy pursuant to Illinois
+statute;
+      (8)   Furnishing of required Performance and Payment Bonds;
+      (9)   Certificate of no delinquency in the payment of any tax
+administered by the Illinois Department of Revenue;
+      (10)   Certificate that the bidder is not barred from bidding or
+contracting as a result of a violation of either Section 33E-3 or 33E-4 of Ch.
+720, Article 5 of the Illinois Compiled Statutes; and
+      (11)   Evidence that the bidder has not only the financial responsibility
+but also the ability to respond by the discharge of the contractor’s
+obligations in accordance with what is expected or demanded under the terms of
+the contract.
+(Ord. 5499, 3-21-20; Amd. Ord. 5505, 5-4-20; Amd. Ord. 6032, 9-2-25)
 1-16-8: PROCUREMENT OF ARCHITECT, ENGINEER, AND LAND SURVEYING SERVICES:
 As a Home Rule unit, the Village is not required to adhere to the requirements
 of the Illinois Local Government Professional Services Selection Act (50 ILCS
@@ -4109,6 +4162,171 @@ from the subcontractor making the kickback. The Village's recovery from one
 offending party shall not preclude the Village from recovery from other
 offending parties.
 (Ord. 5499, 3-21-20)
+1-16-17: VENDOR DISCLOSURES OF BUSINESS RELATIONSHIPS:
+   A.   Definitions.
+      Appearance of Impropriety: Includes circumstances that would lead a
+reasonable person to believe a conflict exists, even if there is not actual
+conflict.
+      Business Relationship: Includes relationships between vendors and the
+official, their spouse or domestic partner, or any entity in which they have a
+financial interest, if the relationship entitles them to compensation, economic
+opportunity, or payment in excess of $7,500 annually. A Business Relationship
+does not include a political contribution, otherwise duly reported as required
+by law.
+      Business Relationship Disclosure Form: Includes the form to be completed
+by the vendor disclosing any business relationship to the Procurement Officer.
+      Compensation: Includes any money, thing of value, or economic benefit
+conferred on, or received by, any person in return for services rendered, or to
+be rendered, by themself or another.
+      Economic Opportunity: Includes any purchase, sale, lease, contract,
+option, or other transaction or arrangement involving property or services
+wherein an Official may gain an economic benefit.
+      Official: Includes any person (and their spouse or domestic partner)
+employed for the village as a director, department head, Chief of Police, or
+person elected and/or appointed into an elected position for the Village.
+      Payment: Includes the act of paying or a sum of money paid to settle a
+debt or in exchange for goods or services.
+      Political Contribution: Includes any figt, subscription, loan, advance,
+deposit of money, allotment of money, or anything of value given or transferred
+by one person to another, including in cash, by check, by draft, through a
+payroll deduction or allotment plan, by pledge or promise, whether or not
+enforceable, or otherwise, for purposes of influencing in any way the outcome
+of any election in accordance with the Illinois Election Code.
+      Vendor: Includes any person or entity seeking to enter or currently in a
+contractual, financial, or service-based relationship with the Village,
+including Architects, Engineers, and Land Surveying Services set fort in §
+1-16-8.
+         a.   All vendors shall also comply with the conflict-of-interest
+requirements set forth in Section
+1-16-16-A and
+1-16-16-B(1-3)
+   B.   General Disclosure Requirement. Any vendor seeking to enter a
+contractual or financial relationship with the Village shall disclose any
+actual or potential conflict of interest, financial interest, business
+relationship, or appearance of impropriety in connection with the proposed
+transaction. This requirement applies to all contracts, agreements, grants,
+concessions, land sales, leases, and other matters subject to Village approval
+when compensation is greater than $7,500 annually.
+      (1)   Submission of a disclosure does not preclude a vendor from being
+awarded a contract, grant, concession, land sale, lease or other matters
+subject to the Village approval.
+      (2)   Vendors shall promptly file a written disclosure via “Business
+Relationship Disclosure Form” to the Procurement Officer on the submission of
+the bid or proposal, or as soon thereafter as the vendor becomes aware of the
+business relationship.
+         a.   An “Amended Business Relationship Disclosure Form” shall be
+submitted by the vendor to the Procurement Officer as soon thereafter as the
+vendor becomes aware of any business relationships after submitting its initial
+form.
+   C.   Business Relationship with Officials. To avoid even the appearance of
+impropriety, any vendor who has had any business relationship within the
+preceding ten years or reasonably expects such a relationship in the following
+twelve months with a current official or a past official during the preceding
+ten years, where such relationship resulted in or is expected to result in
+financial benefit, shall disclose the following if the relationship entitled
+the current or past official to compensation, economic opportunity, or payment
+in excess of $7.500 annually:
+      (1)   The name of the official or related party;
+      (2)   The nature of the business relationship with the Official;
+      (3)   The date(s) of engagement or expected engagement [month/year];
+      (4)   If the vendor has been acquired or purchased within the preceeding
+five years:
+         a.   The date(s) of acquistion of the vendor; and
+         b.   The name(s) of the preceding vendor, if changed.
+   D.   Posting and Review. The Procurement Officer shall review vendor
+disclosures to determine sufficiency and may request additional information if
+necessary. The vendor shall have not less than ten days from such request to
+cure any defect in the disclosure. The Procurement Officer shall provide the
+disclosure to the Village Board for review and decision making on the next
+steps of the disclosure. The Village Board may post vendor conflict disclosures
+on a publicly accessible website in a searchable format.
+   E.   Penalties against Vendors. Any vendor who fails to submit required
+disclosures, submits incomplete or misleading information, or otherwise
+violates this Section may be subject to:
+      (1)   Oral or written warnings or reprimands.
+      (2)   Disqualification from the bidding process.
+      (3)   Suspensions under Section
+1-16-15.
+      (4)   Termination of any existing contract and/or transactions with the
+Village.
+      (5)   Prohibition from contracting with the Village for up to five years.
+      (6)   In addition to the above remedies, vendors shall be subject to a
+fine of not less than $500 and not more than $2,000 for failing to provide
+additional details regarding the disclosed conflict of interest or business
+relationship if requested by the Procurement Officer. Each day a violation
+continues constitutes a separate and distinct offense to which a separate fine
+shall apply.
+      An official decision shall be made by the Village Board and will include
+information regarding the appeal process.
+   F.   Appeal. Vendors may appeal the Penalties against Vendors by filing a
+written notice of appeal in the office of the Village Clerk within five days.
+The notice of appeal must state each position and reason of the vendor in
+support of the appeal. The Village Board shall consider the appeal and,
+considering all of the facts, circumstances, shall deny the appeal, grant the
+appeal, or grant such other relief as the Village Board determines is
+appropriate. The Village Board, as part of its decision, may decrease or
+increase the length of any suspension. The Village Board shall memorialize its
+decision in writing and promptly provide a copy of its decision the vendor. The
+decision of the Village Board is final.
+(Ord. 6045, 10-6-25)
+1-16-18: OFFICIALS’ DISCLOSURES OF BUSINESS RELATIONSHIPS:
+   A.   Definitions. For purpose of this section, see definitions from Section
+1-16-16A(1-4).
+   B.   General Disclosure Requirement. Any official who becomes aware of a
+contractual or financial relationship with a vendor shall disclose any actual
+or potential conflict of interest, financial interest, business relationship,
+or appearance of impropriety in connection with the proposed vendor’s
+transaction. This requirement applies to all contracts, agreements, grants,
+concessions, land sales, leases, and other matters subject to Village approval
+when compensation is grater than $7,500 annually but excludes political
+contributions under Article 9 of the Illinois Election Code (ILCS 5/art.9).
+      (1)   Officials shall promptly file a written disclosure to the
+Procurement Officer on the submission of the bid or proposal, or as soon
+thereafter as the official becomes aware of the business relationship.
+   C.   Business relationships with Vendors. To avoid even the appearance of
+impropriety, any official who has had any business relationship within the
+preceding ten years or reasonably expects such a relationship in the following
+twelve months with a vendor, where such relationship has resulted in or is
+expected to result in financial benefit, shall disclose the following if the
+relationship entitled the official to compensation, economic opportunity, or
+payment in excess of $7,500 annually:
+      (1)   The name of the vendor or related party;
+      (2)   The nature of the business relationship with the vendor;
+      (3)   The date(s) of engagement or expected engagement [month/year];
+   D.   Posting and Review. The Village Procurement Officer shall review each
+official’s disclosures to determine sufficiency and may request additional
+information if necessary. The official shall have not less than ten days from
+such request to cure any defect in the disclosure. The Procurement Officer
+shall provide the disclosure to the Village Board for review and decision
+making on the next steps of the disclosure. The Village Board may post
+official’s conflict disclosures on a publicly accessible website in a
+searchable format.
+      (1)   Submission of a disclosure is providing full transparency to the
+Village by the official and does not preclude an Official from retention of
+their current position within the Village.
+   E.   Penalties against Officials. Any current official who fails to submit
+required disclosures, submits incomplete or misleading information, or
+otherwise violates this section may be subject to:
+      (1)   Oral or written warnings or reprimands.
+      (2)   Termination of employment.
+      (3)   In addition to the above remedies, officials shall be subject to a
+fine of not less than $500 and not more than $2,000 for failing to provide
+additional details regarding the disclosed conflict of interest or business
+relationship if requested by the Procurement Officer. Each day a violation
+continues constitutes a separate and distinct offense to which a separate fine
+shall apply.
+      An official decision shall be made by the Village Board and will include
+information regarding the appeal process.
+   F.   Appeal. Officials may appeal the Penalties against Officials by filing
+a written notice of appeal in the office of the Village Clerk within five days.
+The notice of appeal must state each position and reason of the official in
+support of the appeal. The Village Board shall consider the appeal and,
+considering all of the facts, circumstances, shall deny the appeal, grant the
+appeal, or grant such other relief as the Village Board Determines is
+appropriate. The Village Board shall memorialize its decision in writing and
+promptly provide a copy of its decision to the official. The decision of the
+Village Board is final.
+(Ord. 6045, 10-6-25)
 CHAPTER 17
 SIGNING AUTHORITY
 SECTION:
@@ -4509,9 +4727,10 @@ minutes shall be filed with the Village Clerk, and the Village Board of
 Trustees shall provide written responses to the said recommendations in a
 timely manner;
    (d)   Chairpersons: The Chairperson of each Board and Commission shall be
-appointed by the Village President with the advice and consent of the Village
-Board of Trustees and the Chairperson’s roles and responsibilities shall be as
-follows:
+appointed by the Village President after considering the recommendation of each
+Board and Commission as to a proposed Chairperson, with the advice and consent
+of the Village Board of Trustees. The Chairperson’s roles and responsibilities
+as follows:
       (i)   Ensure that agendas are prepared for each meeting and to place
 items on the agendas;
       (ii)   Preside over and conduct the meetings; and
@@ -4520,13 +4739,15 @@ items on the agendas;
 Boards and Commissions, but may act as ex-officio members or liaisons to the
 Village President and Board of Trustees as determined appropriate by the
 Village President and Board of Trustees;
-   (f)   Periodic Review: Following each election cycle for the Village
+   (f)   Composition: Each board and commission shall be comprised of up to
+eleven (11) members unless otherwise hereinafter provided.
+   (g)   Periodic Review: Following each election cycle for the Village
 President, a review of existing advisory Boards and Commissions, and their
-affiliated no-for-profit entities, if any, shall be conducted by the Village
+affiliated not-for-profit entities, if any, shall be conducted by the Village
 President and Board of Trustees. Such review shall include the duties,
 responsibilities and by-laws to ensure relevance to current needs and direction
 for amendments as deemed appropriate.
-(Ord. 5283, 3-19-18)
+(Ord. 5283, 3-19-18; Amd. Ord. 6058, 11-3-25)
 CHAPTER 2
 EMERGENCY SERVICES AND DISASTER AGENCY
 SECTION:
@@ -24593,6 +24814,7 @@ CHAPTER 23   ELECTRICITY TAX
 CHAPTER 24   MUNICIPAL GAS USE TAX
 CHAPTER 25   KRATOM, NOVEL SYNTHETIC AND PSYCHOACTIVE DRUG BUSINESSES
 PROHIBITED
+CHAPTER 26   MUNICIPAL GROCERY TAXES
 CHAPTER 1
 BUSINESS LICENSE ADMINISTRATIVE REGULATIONS
 SECTION:
@@ -27047,7 +27269,7 @@ consumption on or off the premises where sold. This license is available at
 table service restaurants. The license fee for a Class A license shall be one
 thousand two hundred sixty dollars ($1,260.00) per annum for 2017, and then one
 thousand three hundred twenty dollars ($1,320.00) for 2018. No more than sixty-
-nine (69) licenses of this class shall be issued and in force at any one time.
+nine (71) licenses of this class shall be issued and in force at any one time.
 (Ord. 4627, 3-7-11; Amd. Ord. 4699, 1-16-12; Amd. Ord. 4699, 4-2-12; Amd. Ord.
 4750, 8-6-12; Amd. Ord. 4757, 9-4-12; Amd. Ord. 4761, 10-15-12; Amd. Ord. 4762,
 11-5-12; Amd. Ord. 4778, 12-17-12; Amd. Ord. 4795, 2-4-13; Amd. Ord. 4814, 4-
@@ -27067,7 +27289,8 @@ Ord. 5534, 7-20-20; Amd. Ord. 5633, 7-19-21; Amd. Ord. 5639, 8-16-21; Amd. Ord.
 22; Amd. Ord. 5805, 5-1-23; Amd. Ord. 5814, 6-19-23; Amd. Ord. 5842, 11-6-23;
 Amd. Ord. 5845, 11-20-23; Amd. Ord. 5881, 4-15-24; Amd. Ord. 5886, 5-6-24; Amd.
 Ord. 5929, 8-19-24; Amd. Ord. 5944, 10-7-24; Amd. Ord. 5948, 10-21-24; Amd.
-Ord. 5983, 2-3- 25; Amd. Ord. 5991, 3-3-25; Amd. Ord. 6004, 4-21-25)
+Ord. 5983, 2-3- 25; Amd. Ord. 5991, 3-3-25; Amd. Ord. 6004, 4-21-25; Amd. Ord.
+6047,10-20-25)
    1.5   Class A-5 License: This license is available to counter service
 restaurants. A Class A-5 license shall entitle the licensee to make sales at
 retail of alcoholic liquor from the premises specified for use or consumption
@@ -27235,9 +27458,9 @@ sale of beer products or other alcoholic beverages, and all applicable business
 and other regulations of the Village. The license fee for a Class H license
 shall be one thousand five hundred eighty dollars ($1,580.00) per annum for
 2017, and then one thousand six hundred sixty dollars ($1,660.00) for 2018. No
-more than one (1) license of this class shall be issued and in force at any one
-time. (Ord. 4307, 11-5-07; Amd. Ord. 4814, 4-15-13; Amd. Ord. 5136, 11-7-16;
-Amd. Ord. 5447, 11-4-19)
+more than zero (0) license of this class shall be issued and in force at any
+one time. (Ord. 4307, 11-5-07; Amd. Ord. 4814, 4-15-13; Amd. Ord. 5136, 11-7-
+16; Amd. Ord. 5447, 11-4-19; Amd. Ord. 6033, 9-15-25)
    9.   Class I License; Comedy Club: A Class I license shall entitle the
 licensee to make sales at retail of alcoholic liquor for use or consumption
 only on the licensed premises where sold, from one (1) to Zero (0), provided,
@@ -32220,16 +32443,16 @@ worship building, or such that it would cause undue economic concentration as
 defined by the Act and regulations thereunder. (Ord. 5431, 9-3-19; Amd. Ord.
 5882, 4-15-24)
 7-18-6: MAXIMUM VIDEO GAMING LICENSES AND TERMINALS:
-   No more than one (1) video gaming license shall be issued and in force at
-any one time for each video gaming establishment and no more than five (5)
-video gaming terminals may be located, maintained or operated in any one (1)
-licensed video gaming establishment. No more than twenty-five (25) video gaming
-licenses shall be issued and in force at one time.
-(Ord. 5431, 9-3-19; Amd. Ord. 5487, 3-2-20; Amd. Ord. 5495, 3-16-20; Amd. Ord.
-5526, 7-6-20; Amd. Ord. 5533, 7-20-20; Amd. Ord. 5627, 7-6-21; Amd. Ord. 5642,
-9-7-21; Amd. Ord. 5684, 1-4-22; Amd. Ord. 5714, 5-2-22; Amd. Ord. 5730, 7-18-
-22; Amd. Ord. 5756, 11-7-22; Am. Ord. 5829, 8-21-23; Amd. Ord. 5887, 5-6-24;
-Amd. Ord. 5922, 8-5-24; Amd. Ord. 5953, 11-4-24; Amd. Ord. 5974, 1-6-25)
+No more than one (1) video gaming license shall be issued and in force at any
+time for each video gaming establishment and no more than five (5) video gaming
+terminals may be located, maintained or operated in any one (1) licensed video
+gaming establishment. No more than twenty-three (23) video gaming licenses
+shall be issued and in force at one time. (Ord. 5431, 9-3-19; Amd. Ord. 5487,
+3-2-20; Amd. Ord. 5495, 3-16-20; Amd. Ord. 5526, 7-6-20; Amd. Ord. 5533, 7-20-
+20; Amd. Ord. 5627, 7-6-21; Amd. Ord. 5642, 9-7-21; Amd. Ord. 5684, 1-4-22;
+Amd. Ord. 5714, 5-2-22; Amd. Ord. 5730, 7-18-22; Amd. Ord. 5756, 11-7-22; Am.
+Ord. 5829, 8-21-23; Amd. Ord. 5887, 5-6-24; Amd. Ord. 5922, 8-5-24; Amd. Ord.
+5953, 11-4-24; Amd. Ord. 5974, 1-6-25; Amd. Ord. 6046, 10-20-25)
 7-18-7: OPERATION OF TERMINALS:
    All video gaming terminals shall at all times be kept, operated, placed and
 monitored pursuant to Illinois state law and applicable regulations including
@@ -33264,6 +33487,39 @@ separate fineable offense. Fines may be assessed in administrative
 adjudication, and/or through a local ordinance violation brought in the Circuit
 Court.
 (Ord. 5883, 4-15-24)
+CHAPTER 26
+MUNICIPAL GROCERY TAXES
+SECTION:
+7-26-1:   Municipal Grocery Retailers’ Tax Imposed
+7-26-2:   Municipal Grocery Service Occupation Tax
+7-26-3:   Illinois Department of Revenue to Administer the Municipal Grocery
+Taxes
+7-26-1: MUNICIPAL GROCERY RETAILERS’ TAX IMPOSED:
+A tax is imposed upon all persons engaged in the business of selling groceries
+at retail in this municipality at the rate of one percent (1%) of the gross
+receipts from such sales made in the course of business while this Ordinance is
+in effect. The imposition of this tax is in accordance with and subject to the
+provisions of Section 8-11-24 of the Illinois Municipal Code (65 ILCS 5/8-11-
+24).
+(Ord. 6031, 9-2-25)
+7-26-2: MUNICIPAL GROCERY SERVICE OCCUPATION TAX:
+A tax is imposed upon all persons engaged in the business of making sales of
+service, who, as an incident to making those sales of service, transfer
+groceries as an incident to a sale of service in this municipality at the rate
+of one percent (1%) of those gross receipts from such sales made in the course
+of such business while this Ordinance is in effect. The imposition of this tax
+is in accordance with and subject to the provisions of Section 8-11-24 of the
+Illinois Municipal Code (65 ILCS 5/8-11-24).
+(Ord. 6031, 9-2-25)
+7-26-3: ILLINOIS DEPARTMENT OF REVENUE TO ADMINISTER THE MUNICIPAL GROCERY
+TAXES:
+The taxes imposed by this Chapter, and all civil penalties that may be assessed
+as an incident thereto, shall be collected and enforced by the Department of
+Revenue of the State of Illinois. The Department of Revenue shall have full
+power to administer and enforce the provisions of this Ordinance in a manner
+consistent with Section 8-11-24 of the Illinois Municipal Code (65 ILCS 5/8-11-
+24).
+(Ord. 6031, 9-2-25)
 TITLE 8 POLICE
 CHAPTER 1   POLICE DEPARTMENT
 CHAPTER 2   ADMINISTRATIVE FEES
