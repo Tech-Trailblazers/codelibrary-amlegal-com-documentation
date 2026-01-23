@@ -9643,7 +9643,7 @@ Wood Street                        Avenue, with Wood Street being the stop
                                    street
 *   For clarification of the noted intersections, see graphic below.
  
-[https://export.amlegal.com/media/68b6777ff31309378d459c2975fd3c06421a9b0d/
+[https://export.amlegal.com/media/79ee657b740549ff7c2cefe4119189e035385eb6/
 IMAGES/0-0-0-1724.jpg]
  
 (Ord. 306, passed 12-7-1970)
@@ -17543,7 +17543,7 @@ damage, neglect or removal shall be constructed in conformance with this
 chapter.
 (Ord. 763, passed 9-15-2004)
 § 152.13 EXHIBIT.
-[https://export.amlegal.com/media/68b6777ff31309378d459c2975fd3c06421a9b0d/
+[https://export.amlegal.com/media/79ee657b740549ff7c2cefe4119189e035385eb6/
 IMAGES/0-0-0-1783.jpg]
  
 (Ord. 763, passed 9-15-2004)
@@ -30455,7 +30455,7 @@ different meaning.
 transmitting or receiving electromagnetic radiation. For the purposes of this
 section, an ANTENNA includes any supporting tower, pole, mast or building to
 which it is affixed.
-      COLORATION. The placement of two or more antenna systems or platforms by
+      COLOCATION. The placement of two or more antenna systems or platforms by
 separate FCC license holders on the same structure, building, water tank or
 utility pole.
       HEIGHT. The height of an antenna or satellite dish shall be measured
@@ -30534,15 +30534,15 @@ nonresidential purpose, including the placement of other support equipment or
 buildings, used in connection with the tower or antenna in any residential
 district, including residentially planned unit developments (PUD).
    (F)   Permitted uses. The following uses are permitted:
-      (1)   Coloration antennas on existing towers in industrial or commercial
+      (1)   Colocation antennas on existing towers in industrial or commercial
 zones, or on publicly owned property; antennas on an existing communication
 tower of any height provided that:
          (a)   The additional antennas are cumulatively no more than 22 feet
 higher than the existing tower;
          (b)   The antenna is neutral in color; and
          (c)   A qualified engineer submits evidence that the existing
-structure can adequately support the proposed coloration apparatus.
-      (2)   Collocating antennas on existing non-tower structures in industrial
+structure can adequately support the proposed colocation apparatus.
+      (2)   Colocating antennas on existing non-tower structures in industrial
 or commercial zones, or on publicly owned property; antennas on an existing
 structure other than a tower (such as a building, water tank, sign, utility
 pole, power pole or other structure), provided that:
@@ -30550,11 +30550,11 @@ pole, power pole or other structure), provided that:
 higher than the existing tower;
          (b)   The antenna is neutral in color; and
          (c)   A qualified engineer submits evidence that the existing
-structure can adequately support the proposed coloration apparatus.
+structure can adequately support the proposed colocation apparatus.
    (G)   Special uses. The following uses may be permitted as special uses
 under the conditions and requirements specified in §
 162.023, in addition to those outlined below:
-      (1)   Collocating antennas on existing non-tower structures or existing
+      (1)   Colocating antennas on existing non-tower structures or existing
 commercial towers in residential districts; antennas on an existing structure
 (such as a building (excluding dwelling units), water tank, sign, utility pole
 or other structure), provided that:
@@ -30562,7 +30562,7 @@ or other structure), provided that:
 higher than the existing tower;
          (b)   The antenna is neutral in color; and
          (c)   A qualified engineer submits evidence that the existing
-structure can adequately support the proposed coloration apparatus.
+structure can adequately support the proposed colocation apparatus.
       (2)   Towers or antennas in commercial or industrial zones or on
 publicly-owned property, antennas or towers of any height, including the
 placement or other supporting equipment and accessory buildings. Any equipment
@@ -30599,7 +30599,7 @@ can be minimized;
 minimize the interruptions of views from the residence to the point of visual
 interest;
          (c)   Minimize visual impacts to the point of visual interest referred
-to above, by demonstrating that coloration or the use of other structures
+to above, by demonstrating that colocation or the use of other structures
 within the service area is not feasible at this time; and
          (d)   Minimize visual impacts varying the setbacks or landscape
 standards that would otherwise be applicable, so long as the overall impact of
@@ -30637,28 +30637,28 @@ of guy wires or external supports. In instances where such a requirement may
 not be feasible, appropriate documentation shall be provided by the petitioner,
 demonstrating why such a tower is not feasible. The applicant will offer
 alternatives to the design so as to minimize the visual impact of the tower.
-      (11)   Coloration protocol. Any special use request for the erection of a
-new tower shall complete the coloration protocol as outlined in division (I)
+      (11)   Colocation protocol. Any special use request for the erection of a
+new tower shall complete the colocation protocol as outlined in division (I)
 below.
-   (I)   Coloration protocol.
+   (I)   Colocation protocol.
       (1)   Purpose. The purpose of this requirement is to create a process
 that will allow providers to equitably share publicly available, nonproprietary
 information among themselves, with interested persons and agencies, and with
 the village, at the time the provider schedules a pre-application conference
-with the village. This coloration protocol is designed to increase the
-likelihood that all reasonable opportunities for coloration have been
+with the village. This colocation protocol is designed to increase the
+likelihood that all reasonable opportunities for colocation have been
 investigated and that the appropriate information has been shared among the
-providers. The village recognizes that coloration is preferable, where
+providers. The village recognizes that colocation is preferable, where
 technologically feasible and visually desirable, as a matter of public policy,
-but that coloration of antennas by providers is not always feasible for
+but that colocation of antennas by providers is not always feasible for
 technical or business reasons. However, if all licensed providers are made
 aware of any pending tower of antenna permit request, the disclosure will allow
-providers to have the maximum amount of time to consider possible coloration
+providers to have the maximum amount of time to consider possible colocation
 opportunities, and will also assure the village that all reasonable
-accommodations for coloration have been investigated.
+accommodations for colocation have been investigated.
       (2)   Pre-application requirement. A pre-application conference is
 required for all proposed support structures.
-      (3)   Coloration request letter requirement. At the time of pre-
+      (3)   Colocation request letter requirement. At the time of pre-
 application conference, the applicant shall demonstrate that the following
 notice was mailed to all other providers rendering service within the village:
          “Pursuant to the requirements of § 162.097 of the Village of Elwood
@@ -30670,29 +30670,29 @@ __________ feet in height for the purpose of providing (Cellular, PCS, etc.)
 service.
          Please inform us whether you have any existing or pending antenna or
 tower facilities located within _________ feet of the proposed facility that
-may be available for possible coloration opportunities. Please provide us with
+may be available for possible colocation opportunities. Please provide us with
 this information within ten business days after the date of this letter. Your
 cooperation is appreciated.”
-      (4)   Applicant’s duty to analyze the feasibility of coloration. If a
-response to coloration request letter is received by an applicant indicating an
-opportunity for coloration, the applicant shall analyze the feasibility of
-coloration. This analysis shall be submitted with an application for any
-support structure. The investigation of the feasibility of coloration shall be
+      (4)   Applicant’s duty to analyze the feasibility of colocation. If a
+response to colocation request letter is received by an applicant indicating an
+opportunity for colocation, the applicant shall analyze the feasibility of
+colocation. This analysis shall be submitted with an application for any
+support structure. The investigation of the feasibility of colocation shall be
 deemed to have occurred if the applicant submits all of the following
 information:
          (a)   A statement from a qualified engineer indicating whether the
-necessary service can or cannot be provided by coloration at the possible
+necessary service can or cannot be provided by colocation at the possible
 location site;
-         (b)   Evidence that the lessor of the possible coloration site either
-agrees or disagrees to coloration on their property;
+         (b)   Evidence that the lessor of the possible colocation site either
+agrees or disagrees to colocation on their property;
          (c)   Evidence that adequate access does or does not exist at the
-possible collocation site to accommodate needed equipment and meet all of the
+possible colocation site to accommodate needed equipment and meet all of the
 site development standards; and
          (d)   Evidence that adequate access does or does not exist at the
-possible collocation site.
-      (5)   Result of coloration feasibility analysis. If the applicant has
+possible colocation site.
+      (5)   Result of colocation feasibility analysis. If the applicant has
 provided information addressing each of the criteria in division (D) above, the
-coloration protocol shall be deemed complete.
+colocation protocol shall be deemed complete.
    (J)   Abandoned facilities. An antenna or satellite dish whose use has been
 discontinued for a period of six consecutive months or longer is hereby
 declared abandoned. Abandoned facilities shall be removed by the property owner
