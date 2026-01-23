@@ -1,7 +1,7 @@
 CODIFIED ORDINANCES
 OF
 WALTON HILLS, OHIO
-Local legislation current through October 15, 2024
+Local legislation current through December 2, 2025
 State legislation current through June 26, 2024
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -12,7 +12,7 @@ CERTIFICATION
 certify that the general and permanent legislation of the Village of Walton
 Hills, Ohio, as revised, arranged, compiled, numbered, codified and printed
 herewith in component codes, is correctly set forth and constitutes the
-Codified Ordinances of Walton Hills, Ohio, 1999, complete to October 15, 2024.
+Codified Ordinances of Walton Hills, Ohio, 1999, complete to December 2, 2025.
                               /s/   David Kolograph
                                  Mayor
  
@@ -1753,7 +1753,7 @@ Adopting Ordinance                         452.05,
 2018-4                     3-20-18          208.06
 2018-5                     3-27-18          1060.02
 2018-8                     6-20-18          1266.05
-2018-9                     5-8-18        414.035
+2018-9                     5-8-18        414.035 (Repealed)
                                             1062.01,
                                             1062.02,
 2018-10                    5-15-18          1062.99,
@@ -2038,6 +2038,7 @@ Adopting Ordinance                         618.05,
                                             698.05
 Adopting Ordinance Repeals                 636.25
 2024-12                    10-15-24         260.18
+2025-15                    12-2-25          414.035
                                            
  
 TABLES OF SPECIAL ORDINANCES
@@ -8533,15 +8534,14 @@ R.C. §§ 4511.61 and 4511.62.
 (ORC 4511.13)
 414.035   TRAFFIC LAW PHOTO-MONITORING DEVICES.
    (a)   Definitions. As used in this section, the meanings of applicable terms
-are as defined in R.C. § 4511.092. In addition, the term "system" may be used
-interchangeably with the term "traffic law photo-monitoring device."
+are as defined in R.C. § 4511. 092. In addition, the term "system" may be used
+interchangeably with the term "traffic law photo -monitoring device."
    (b)   Civil Enforcement System Established.
-      (1)   General.
-         A.   The Village hereby adopts the use of traffic law photo-monitoring
-devices to detect and enforce violations of applicable speed limits in the
-Village. The Village shall operate this system in compliance with all pertinent
-requirements and limitations set forth in R.C. Chapter 4511.
-         B.   A violation of this section shall be deemed a civil violation for
+      (1)   General. The Village hereby adopts the use of traffic law photo-
+monitoring devices to detect and enforce violations of applicable speed limits
+in the Village. The Village shall operate this system in compliance with all
+pertinent requirements and limitations set forth in R.C. Chapter 4511.
+            A violation of this section shall be deemed a civil violation for
 which a fine is assessed. No points shall be assessed against the operating
 record of any person on whom liability is imposed under this section.
       (2)   Prerequisites to system deployment. The Police Chief shall ensure
@@ -8560,14 +8560,18 @@ the Police Chief.
    (c)   Offense.
       (1)   Speeding violation; civil fine. The registered owner of a vehicle
 that is recorded by a traffic law photo-monitoring device being operated at a
-speed greater than the posted speed limit set forth in Section
+speed greater than five miles per hour over the speed limit set forth in
+Section
 434.03  is liable for the following civil penalties:
-         A.   Twelve to 15 miles per hour over the speed limit: $100.
-         B.   Sixteen to 19 miles per hour over the speed limit: $150.
-         C.   Twenty miles per hour or more over the speed limit: $200.
+         A.   Twelve to 15 miles per hour over the speed limit: $175 plus court
+costs/ fees.
+         B.   Sixteen miles per hour or more over the speed limit: $225 plus
+court costs/ fees.
+         C.   Twenty miles per hour or more over the speed limit: $275 plus
+court costs/ fees.
       (2)   Evidence of ownership. It is prima facie evidence that the person
 registered as the owner of the vehicle with the Ohio Bureau of Motor Vehicles,
-or with any other State vehicle registration office, was operating the vehicle
+or with any other state vehicle registration office, was operating the vehicle
 at the time of the offense set out in division (c)(1) of this section.
       (3)   Issuing ticket. Any ticket for a traffic violation set forth in
 this section shall be issued in compliance with R.C. § 4511.096, as follows:
@@ -8607,32 +8611,23 @@ signed electronically;
 the options prescribed in division (d)(1) of this section, specifically to
 include the time, place, and manner in which an administrative appeal may be
 initiated and the procedure for disclaiming liability by submitting an
-affidavit as prescribed in that division;
+affidavit as prescribed in that subsection;
          J.   A warning that failure to exercise one of the options prescribed
 in division (d)(1) of this section is deemed to be an admission of liability
 and waiver of the opportunity to contest the violation.
-      (5)   Payments; default fees. The amount of the penalty shall be paid
-within 30 days from the mailing date of the ticket. If the amount of the
-penalty is not paid within this time, twenty dollars ($20.00) shall be imposed
-as a default fee. Failure to pay the penalty and the twenty dollar ($20.00)
-default fee within 60 days from the date of mailing of the ticket will result
-in the imposition of an additional twenty dollar ($20.00) default fee, bringing
-the default fee to forty dollars ($40.00). Failure to pay the penalty and the
-forty dollar ($40.00) default fee within 90 days from the date of mailing of
-the ticket will result in an additional twenty dollar ($20.00) default fee,
-bringing the default fee to the total amount of sixty dollars ($60.00), and the
-unpaid penalty and default fee shall be forwarded for collection.
-      (6)   Default and collection. Failure to timely elect and perform one of
-the options contained in division (d)(1) of this section shall constitute an
-admission of the violation and a waiver of the opportunity to contest the
-violation. Further, if the registered owner or operator fails to pay the
-penalty within the period set forth in division (c)(5) of this section, the
-penalty, along with the additional late fee(s), may be collected by civil suit
-or other appropriate means of collection.
-      (7)   Other offenses and penalties not abrogated. Nothing in this section
+      (5)   Default and collection of civil penalty. If a judgment for a civil
+penalty under this chapter is issued by the Garfield Heights Municipal Court
+and is not satisfied, the Village may seek payment on the judgment amount,
+together with any applicable interest and cost thereon, in any manner
+authorized by law. In addition to any other fees or charges authorized by this
+chapter in relation to the commission of a traffic law violation thereof, a
+person liable for the penalties established under this chapter may be assessed
+any costs incurred by the Village in the collection of the debt, including but
+not limited to attorney's fees.
+      (6)   Other offenses and penalties not abrogated. Nothing in this section
 shall be construed as altering or limiting Sections
-414.03  or
-434.03 , the criminal penalties imposed by those sections, or the ability of a
+434.03  or
+414.03 , the criminal penalties imposed by those sections, or the ability of a
 police officer to enforce those sections against any offender observed by the
 officer violating either of those sections. Nothing in this section shall be
 construed to limit the liability of an operator of a vehicle for any violation
@@ -8643,8 +8638,8 @@ recipient of a ticket shall elect to do one of the following:
          A.   In accordance with instructions on the ticket, pay the civil
 penalty, thereby failing to contest liability and waiving the opportunity to
 contest the violation;
-         B.   Within 30 days after receipt of the ticket, provide the Police
-Chief with either of the following affidavits:
+         B.   Within 30 days after receipt of the ticket contest the charge as
+instructed by the municipal court with either of the following affidavits:
             1.   An affidavit executed by the registered owner stating that
 another person was operating the vehicle of the registered owner at the time of
 the violation, identifying that person as a designated party who may be held
@@ -8662,39 +8657,39 @@ report about the stolen motor vehicle or license plates was filed with the
 appropriate law enforcement agency prior to the violation or within 48 hours
 after the violation occurred.
          C.   If the registered owner is a motor vehicle leasing dealer or a
-motor vehicle renting dealer, notify the Police Chief of the name and address
-of the lessee or renter of the motor vehicle at the time of the traffic law
-violation. A motor vehicle leasing dealer or motor vehicle renting dealer who
-receives a ticket for an alleged traffic law violation detected by a traffic
-law photo-monitoring device is not liable for a ticket issued for a motor
-vehicle that was in the care, custody, or control of a lessee or renter at the
-time of the alleged violation. The dealer shall not pay such a ticket and
-subsequently attempt to collect a fee or assess the lessee or renter a charge
-for any payment of such a ticket made on behalf of the lessee or renter;
+motor vehicle renting dealer, notify the court of the name and address of the
+lessee or renter of the motor vehicle at the time of the traffic law violation.
+A motor vehicle leasing dealer or motor vehicle renting dealer who receives a
+ticket for an alleged traffic law violation detected by a traffic law photo-
+monitoring device is not liable for a ticket issued for a motor vehicle that
+was in the care, custody, or control of a lessee or renter at the time of the
+alleged violation. The dealer shall not pay such a ticket and subsequently
+attempt to collect a fee or assess the lessee or renter a charge for any
+payment of such a ticket made on behalf of the lessee or renter;
          D.   If the vehicle involved in the traffic law violation is a
 commercial motor vehicle and the ticket is issued to a corporate entity,
-provide to the Police Chief an affidavit, sworn to or affirmed by an agent of
-the corporate entity, that provides the name and address of the employee who
-was operating the motor vehicle at the time of the alleged violation and who is
-the designated party;
-         E.   Contest the ticket by filing a written request for an
-administrative hearing to review the ticket. The person or entity shall file
-the written request not later than 30 days after receipt of the ticket. The
-failure to request a hearing within this time period constitutes a waiver of
-the right to contest the violation and ticket, and is deemed to constitute an
-admission of liability and waiver of the opportunity to contest the violation.
+provide to the court an affidavit, sworn to or affirmed by an agent of the
+corporate entity, that provides the name and address of the employee who was
+operating the motor vehicle at the time of the alleged violation and who is the
+designated party;
+         E.   Contest the ticket by filing a written request for a hearing to
+review the ticket. The person or entity shall file the written request not
+later than 30 days after receipt of the ticket. The failure to request a
+hearing within this time period constitutes a waiver of the right to contest
+the violation and ticket, and is deemed to constitute an admission of liability
+and waiver of the opportunity to contest the violation.
       (2)   A registered owner is not responsible for a traffic law violation
 if, within 30 days after the date of mailing of the ticket, the registered
-owner furnishes an affidavit specified in division (d)(l)B.1. or 2. of this
-section to the Police Chief in a form established by the Village and the
-following conditions are met:
+owner furnishes an affidavit specified in division (d)(1)B.1. or 2. of this
+section in a form established by the Village and the following conditions are
+met:
          A.   If the registered owner submits an affidavit as specified in
-division (d)(l)B.1. of this section, the designated party either accepts
+division (d)(1)B.1. of this section, the designated party either accepts
 liability for the violation by paying the civil penalty or failing to request
 an administrative hearing within 30 days or is determined liable in an
 administrative hearing;
          B.   If the registered owner submits an affidavit as specified in
-division (d)(l)B.2. of this section, the affidavit is supported by a stolen
+division (d)(1)B.2. of this section, the affidavit is supported by a stolen
 vehicle or stolen license plate report as required in that division.
       (3)   If the Village timely receives an affidavit described in division
 (d)(1)B.1. or (d)(1)D. of this section or a notification under division (d)
@@ -8702,30 +8697,29 @@ vehicle or stolen license plate report as required in that division.
 to the designated party. The Village shall send the ticket to the designated
 party by ordinary mail not later than 21 days after receipt of the affidavit or
 notification.
-      (4)   Hearing; procedures.
+      (4)   Hearing; Procedures.
          A.   When a person or entity named in a ticket elects to contest the
 ticket and completes the requirements prescribed in division (d)(1)E. of this
 section in a timely manner, all of the following apply:
-            1.   A hearing officer appointed by the Village shall hear the
-case. The hearing officer shall conduct a hearing not sooner than 21 but not
-later than 45 days after the filing of a written request for the hearing. The
-hearing officer may extend the time period by which a hearing must be conducted
-upon a request for additional time by the person or entity who requested the
-hearing.
+            1.   A hearing officer appointed by the court shall hear the case.
+The hearing officer shall conduct a hearing not sooner than 21 but not later
+than 45 days after the filing of a written request for the hearing. The hearing
+officer may extend the time period by which a hearing must be conducted upon a
+request for additional time by the person or entity who requested the hearing.
             2.   The hearing officer shall ensure that the hearing is open to
 the public. The hearing officer shall post a docket in a conspicuous place near
 the entrance to the hearing room. The hearing officer shall identify on the
 docket, by respondent, the hearings scheduled for that day and the time of each
 hearing. The hearing officer may schedule multiple hearings for the same time
 to allow for occurrences such as nonappearances or admissions of liability.
-            3.   The person who requested the administrative hearing or a
-representative of the entity that requested the hearing shall appear for the
-hearing and may present evidence at the hearing.
+            3.   The person who requested a hearing or a representative of the
+entity that requested the hearing shall appear for the hearing and may present
+evidence at the hearing.
             4.   The hearing officer shall determine whether a preponderance of
 the evidence establishes that the violation alleged in the ticket did in fact
 occur and that the person or entity requesting the review is the person who was
 operating the vehicle at the time of the violation.
-         B.   Determinations:
+         B.   Determinations.
             1.   If the hearing officer finds by a preponderance of the
 evidence that the alleged traffic law violation did in fact occur and that the
 person or entity named in the ticket is the person who was operating the
@@ -8740,16 +8734,15 @@ operating the vehicle at the time of the violation, the hearing officer shall
 issue a written decision finding that the individual or entity is not liable
 for the violation and submit it to the Village or its designee and the person
 or entity named in the ticket.
-            3.   If the person who requested the administrative hearing or a
-representative of the entity that requested the hearing fails to appear at the
-hearing, the hearing officer shall determine that the person or entity is
-liable for the violation. In such a case, the hearing officer shall issue a
-written decision imposing liability for the violation upon the individual or
-entity and submit it to the Village or its designee and the person or entity
-named in the ticket.
+            3.   If the person who requested a hearing or a representative of
+the entity that requested the hearing fails to appear at the hearing, the
+hearing officer shall determine that the person or entity is liable for the
+violation. In such a case, the hearing officer shall issue a written decision
+imposing liability for the violation upon the individual or entity and submit
+it to the Village or its designee and the person or entity named in the ticket.
             4.   The hearing officer shall render a decision on the day a
 hearing takes place.
-         C.   Considerations: The hearing officer may consider any of the
+         C.   Considerations. The hearing officer may consider any of the
 following as an affirmative defense to a traffic law violation provided herein:
             1.   The motor vehicle or license plates of the motor vehicle were
 stolen prior to the occurrence of the violation and were not under the control
@@ -8786,13 +8779,13 @@ Village shall send the ticket by ordinary mail not later than 21 days after
 receipt of the evidence from the hearing officer or the registered owner of the
 identity of the designated party.
          F.   If a designated party who is issued a ticket under this section
-contests the ticket by filing a written request for an administrative hearing
-to review the ticket not later than 30 days after receipt of the ticket, the
-Village shall require the registered owner of the motor vehicle also to attend
-the hearing. If at the hearing involving the designated party the hearing
-officer cannot determine the identity of the operator of the vehicle at the
-time of the violation, the registered owner is liable for the violation. The
-hearing officer then shall issue a written decision imposing liability for the
+contests the ticket by filing a written request for a hearing to review the
+ticket not later than 30 days after receipt of the ticket, the Village shall
+require the registered owner of the motor vehicle also to attend the hearing.
+If at the hearing involving the designated party the hearing officer cannot
+determine the identity of the operator of the vehicle at the time of the
+violation, the registered owner is liable for the violation. The hearing
+officer then shall issue a written decision imposing liability for the
 violation on the registered owner and submit it to the Village or its designee
 and to the registered owner. If the designated party also is a registered owner
 of the vehicle, liability for the violation shall follow the order of
@@ -8800,12 +8793,7 @@ registered owners as listed on the title to the vehicle.
          G.   A person who is named in a ticket for a traffic violation under
 this section may assert a testimonial privilege in accordance with R.C. §
 2317.02(D).
-         H.   A person or entity may appeal a written decision rendered by a
-hearing officer under this section to the Garfield Heights Municipal Court.
-         I.   No decision rendered under this section, and no admission of
-liability under this section or R.C. § 4511.098, is admissible as evidence in
-any other judicial proceeding in this state.
-(Ord. 2017-22. Passed 12-19-17; Ord. 2018-9. Passed 5-8-18.)
+(Ord. 2017-22. Passed 12-19-17; Ord. 2025-15. Passed 12-2-25.)
 414.04   SIGNAL TO CONTROL LANE DIRECTION OF TRAVEL.
    The meanings of lane-use control signal indications are as follows:
    (a)   A Steady Downward Green Arrow. A road user is permitted to drive in
@@ -48767,7 +48755,7 @@ point of the roof for flat roofs; to the deck lines of mansard roofs; and to
 the mean height between eaves and ridge for gable, hip, and gambrel roofs.
 Where a building is located on sloping terrain, the height shall be measured
 from the average ground level of the grade at the building wall.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3831.jpg]
  
       (10)   “Building Line.” An imaginary linear extension of the building
@@ -48854,7 +48842,7 @@ including single-family detached dwellings as defined herein.
 used for one family situated on a lot having a front, side and rear yard and
 separated from all other dwelling units by open space from ground to sky. See
 also Figure 2, Detached Single-Family Dwellings.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3835.jpg]
  
       (27)   “Dwelling Unit.” One or more rooms comprising living, dining,
@@ -49034,7 +49022,7 @@ street lines is 135 degrees or less.
 street.
          C.   “Lot, through.” A lot having frontage on two parallel or
 approximately parallel streets.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3833.jpg]
  
       (60)   “Lot Width.” The horizontal distance between the side lot lines,
@@ -49353,7 +49341,7 @@ the rear of the principal building and the rear line of the lot.
          D.   “Yard, side.” The area between the main building and the side
 line of the lot extending from the front wall to the rear wall of the main
 building.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3837.jpg]
  
       (115)   “Zoning Administrator.” The Village Building Official is
@@ -50942,7 +50930,7 @@ any building may project into setbacks established in Schedule 1266.04 above,
 except for cornices, belt courses, entrance canopies and similar overhanging
 roofed spaces, chimneys, porticos, bays, and steps that may project not more
 than three feet into such setbacks.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3839.jpg]
  
 (Ord. 2009-17. Passed 9-15-2009.)
@@ -56721,7 +56709,7 @@ minor protrusions, and extend outside of the maximum limitation of three
 geometric shapes and are, therefore, exempted from being included as part of
 the sign area. See Figure 1, Calculation of Open Space and Area of Minor
 Protrusion.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3841.jpg]
  
       (4)   For freestanding signs and projecting signs.
@@ -56772,10 +56760,10 @@ its primary frontage. Any business, business unit, and/or building shall be
 limited to two secondary frontages.
 Figure 2
 Illustration of Primary & Secondary Frontage
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3843.jpg]
  
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3845.jpg]
  
    (d)   Determining Window Area. The window area of a building shall be the
@@ -56918,7 +56906,7 @@ thereof. The total area of all freestanding signs shall comply with Schedule
 1296.05(b). (For example, a lot with four hundred feet of frontage would be
 permitted to have two freestanding signs). See Figure 3, Illustration of
 Additional Freestanding Signs for Large Lots.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3847.jpg]
  
       (3)   Signs On Lots with Multiple Public Street Frontages. For lots that
@@ -57519,7 +57507,7 @@ position.
 fixture that is shielded or constructed so that all light emitted is projected
 below a horizontal plane running through the lowest light-emitting part of the
 fixture. See illustration 1 for full cut-off lighting below.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3849.jpg]
  
       (6)   “Glare.” Direct light that causes annoyance, discomfort or loss in
@@ -57542,7 +57530,7 @@ at least four inches.
       (14)   “Uplighting.” Any light source that distributes illumination above
 a 90-degree horizontal plane. See illustration 2 for uplighting below.
    Illustration 2 - Uplighting
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3851.jpg]
  
 (Ord. 2009-17. Passed 9-15-2009.)
@@ -57594,7 +57582,7 @@ the total vehicular surface area within the perimeter of the parking lot,
 including the landscaped islands, parking spaces and all circulation aisles
 except those with no parking spaces or landscaped islands located on either
 side. See Figure 1, Parking Lot Interior Calculation.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3853.jpg]
  
    (b)   Perimeter Landscaping Requirements. In addition to the requirements of
@@ -58106,7 +58094,7 @@ within a clear sight triangle formed by the right-of-way lines of two
 intersecting streets, and a line drawn between two points, each measuring
 twenty feet from the intersection of the right-of-way lines. See Figure 1,
 Visibility at Intersection of Public Streets, below.
-[https://export.amlegal.com/media/7fece461cf53dfb265bdbc4e453988d5e45eb3d0/
+[https://export.amlegal.com/media/5cbc0489ac12daabb5e419e148f2033d8e57183f/
 IMAGES/0-0-0-3855.jpg]
  
 1299.05   OUTDOOR WOOD BURNING BOILERS AND/OR OUTDOOR WOOD FIRED BOILERS
