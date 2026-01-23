@@ -1414,7 +1414,7 @@ determined in accordance with Section 12.8.6 and Equation 12.8-16, as modified
 below:
    
                                           [https://export.amlegal.com/media/
-44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0-6959_1560x525.jpg]
+4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0-6959_1560x525.jpg]
 (12.8.-16)
  
 ??DE: The total seismic design displacement at level
@@ -1423,11 +1423,11 @@ below:
 ????,: The elastic displacement at level ?? from the design earthquake forces.
 ????: The seismic importance factor.
 ??????: The displacement caused by diaphragm deformation at level
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6962_15x15.jpg]
 Adjacent structures on the same property shall be separated by at least ä SS,
 determined as
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6965_9009x946.jpg]
 Where äDE1 and äDE2 are the Design Earthquake Displacements of the adjacent
 structures at their adjacent edges. Where a structure adjoins a property line
@@ -1931,7 +1931,7 @@ requirement shall also apply to the top surface of grade beams supporting
 walls. Footings shall be reinforced with four No. 4 bars. Two bars shall be
 place at the top and bottom of the footings as shown in Figure 1809.3.
 FIGURE 1809.3 STEPPED FOUNDATIONS
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6974_9346x5866.jpg]
 Section 1809.7 and Table 1809.7 of the California Building Code are amended to
 read as follows:
@@ -2165,30 +2165,30 @@ CATEGORY                                                        WALL    LIB  DWB
                                                                         Each
                                                                         end
          [https://export.amlegal.com/media/                     35' -   and
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 0"      =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 0"      =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          6980_693x513.jpg]                                              25'-
                                                                         0"
                                                                         o.c.
                                                                         Each
 A and B                                                                 end
                 [https://export.amlegal.com/media/               and
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          6983_421x475.jpg]                                              25'-
                                                                         0"
                                                                         o.c.
                   [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          6986_238x495.jpg]  
                    [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
 C        6989_210x360.jpg]
                   [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             12'- 6"
          6992_208x374.jpg]
                                                                              SDS < 0.50: Each end and = 25'- 0" o.c. (minimum 21% of wall length)eSDS < 0.50: Each end and = 25'- 0" o.c. (minimum 43% of wall length)e
                                                                              0.5 = SDS < 0.75: Each end and = 25'- 0" o.c. (minimum 32% of wall  0.5 = SDS< 0.75: Each end and = 25'- 0" o.c. (minimum 59% of wall
 D and E           [https://export.amlegal.com/media/                length)e                                                              length)e
-f,g,h    44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 25'- 0" NP   0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 37% of wall 0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 75% of wall 8'- 0"
+f,g,h    4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 25'- 0" NP   0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 37% of wall 0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 75% of wall 8'- 0"
          6995_330x299.jpg]                                                   length)e                                                              length)
                                                                              SDS > 1.00: Each end and = 25'- 0" o.c. (minimum 48% of wall length)eSDS > 1.00: Each end and = 25'- 0" o.c. (minimum 100% of wall
                                                                                                                                                    length)e
@@ -2258,7 +2258,7 @@ shall be placed at one-quarter points and tie-down device uplift capacity shall
 be not less than 3,000 pounds (13 344 N).
  
 FIGURE 2308.10.5.1 – ALTERNATE BRACED WALL PANEL (ABW)
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6998_9327x4884.jpg]
  
 2308.10.5.2 Portal frame with hold-downs (PFH). A PFH shall be constructed in
@@ -2317,7 +2317,7 @@ shall have a length of not less than 24 inches (610 mm)
  
  
 FIGURE 2308.10.5.2 PORTAL FRAME WITH HOLD-DOWNS (PFH)
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7001_9338x6111.jpg]
  
 Section 2308.10.8.1 of the California Building Code is amended to read as
@@ -3234,7 +3234,7 @@ horizontal (10-percent slope).
 For structures located in Seismic Design Categories D 0 , D 1 , or D 2 ,
 stepped footings shall be reinforced with four No. 4 rebar. Two bars shall be
 place at the top and bottom of the footings as shown in Figure R403.1.5.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7027_5760x3705.jpg] 
 FIGURE R403.1.5
 STEPPED FOOTING
@@ -3259,7 +3259,7 @@ follows:
 R503.2.4 Openings in horizontal diaphragms. Openings in horizontal diaphragms
 with a dimension perpendicular to the joist that is greater than 4 feet (1.2 m)
 shall be constructed in accordance with Figure R503.2.4.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7032_9410x5508.jpg]
 1.   Blockings shall be provided beyond headers.
 2.   Metal ties not less than 0.058 inch [1.47 mm (16 galvanized gage)] by 1.5
@@ -3374,7 +3374,7 @@ in-line splices in straight wall lines in accordance with Table R602.3.2. ?
 not more than 1 inch (25 mm). ?
 3.   Omission of the top plate is permitted over headers where the headers are
 adequately tied to adjacent wall sections in accordance with Table R602.3.2. ?
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7035_9367x2841.jpg]
    “Footnote “b” of Table R602.3(2) of the California Residential Code is
 amended to read as follows: 
@@ -3393,10 +3393,10 @@ or as required in Section R602.10.3, whichever is greater.
 Table R602.10.3(3) of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7038_9360x9750.jpg]
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7041_9360x10425.jpg]
 a. Linear interpolation shall be permitted.
 b. Interpolation of bracing length between the Sds  values associated with the
@@ -3425,11 +3425,11 @@ D2.”
 Table R602.10.4 of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7044_9388x9740.jpg]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7047_9317x9049.jpg]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7050_9341x9692.jpg]
  
  
@@ -3445,7 +3445,7 @@ IMAGES/0-0-0-7050_9341x9692.jpg]
 Table R602.10.5 of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7053_9394x11067.jpg]
 For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 mile per hour = 0.447 m/s.
 NP = Not Permitted.
@@ -3461,7 +3461,7 @@ PF is 10 feet in accordance with Figure R602.10.6.4, but wall height�
 Figure R602.10.6.1 of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7056_9313x8170.jpg]
  
  
@@ -3469,7 +3469,7 @@ IMAGES/0-0-0-7056_9313x8170.jpg]
 Figure R602.10.6.2 of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7059_9394x7277.jpg]
 Note: Header shall not extend over more than one opening.
  
@@ -3486,7 +3486,7 @@ Figure R602.10.6.4 of the California Residential Code is amended to read as
 follows:
  
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-7064_8414x6164.jpg]
  
 Section R606.12.2.2.3 of the California Residential Code is amended to read as
@@ -9063,7 +9063,7 @@ determined in accordance with Section 12.8.6 and Equation 12.8-16, as modified
 below:
    
                                           [https://export.amlegal.com/media/
-44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0-9161_1560x525.jpg]
+4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0-9161_1560x525.jpg]
 (12.8.-16)
  
 ??DE: The total seismic design displacement at level
@@ -9072,11 +9072,11 @@ below:
 ????,: The elastic displacement at level ?? from the design earthquake forces.
 ????: The seismic importance factor.
 ??????: The displacement caused by diaphragm deformation at level
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9164_15x15.jpg]
 Adjacent structures on the same property shall be separated by at least ä SS,
 determined as
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9167_9009x946.jpg]
 Where äDE1 and äDE2 are the Design Earthquake Displacements of the adjacent
 structures at their adjacent edges. Where a structure adjoins a property line
@@ -9602,7 +9602,7 @@ place at the top and bottom of the footings as shown in Figure 1809.3.
  
  
 FIGURE 1809.3 STEPPED FOUNDATIONS
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9176_9346x5866.jpg]
 Section 1809.7 and Table 1809.7 of the California Building Code are amended to
 read as follows:
@@ -9846,30 +9846,30 @@ CATEGORY                                                        WALL    LIB  DWB
                                                                         Each
                                                                         end
          [https://export.amlegal.com/media/                     35' -   and
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 0"      =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 0"      =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          9181_693x513.jpg]                                              25'-
                                                                         0"
                                                                         o.c.
                                                                         Each
 A and B                                                                 end
                 [https://export.amlegal.com/media/               and
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" =    Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          9184_421x475.jpg]                                              25'-
                                                                         0"
                                                                         o.c.
                   [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
          9187_238x495.jpg]  
                    [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c.                                           Each end and = 25'- 0" o.c.                                           12'- 6"
 C        9190_210x360.jpg]
                   [https://export.amlegal.com/media/
-         44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             12'- 6"
+         4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 35'- 0" NP   Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             Each end and = 25'- 0" o.c. (minimum 25% of wall length)e             12'- 6"
          9193_208x374.jpg]
                                                                              SDS < 0.50: Each end and = 25'- 0" o.c. (minimum 21% of wall length)eSDS < 0.50: Each end and = 25'- 0" o.c. (minimum 43% of wall length)e
                                                                              0.5 = SDS < 0.75: Each end and = 25'- 0" o.c. (minimum 32% of wall  0.5 = SDS< 0.75: Each end and = 25'- 0" o.c. (minimum 59% of wall
 D and E           [https://export.amlegal.com/media/                length)e                                                              length)e
-f,g,h    44cd77b7e12a8584b432b6ceac274956a65dda55/IMAGES/0-0-0- 25'- 0" NP   0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 37% of wall 0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 75% of wall 8'- 0"
+f,g,h    4b02af99ebcc1048007d249be4617af331de1c38/IMAGES/0-0-0- 25'- 0" NP   0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 37% of wall 0.75 = SDS = 1.00: Each end and = 25'- 0" o.c. (minimum 75% of wall 8'- 0"
          9196_330x299.jpg]                                                   length)e                                                              length)
                                                                              SDS > 1.00: Each end and = 25'- 0" o.c. (minimum 48% of wall length)eSDS > 1.00: Each end and = 25'- 0" o.c. (minimum 100% of wall
                                                                                                                                                    length)e
@@ -9946,7 +9946,7 @@ be not less than 3,000 pounds (13 344 N).
  
  
 FIGURE 2308.10.5.1 – ALTERNATE BRACED WALL PANEL (ABW)
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9199_9327x4884.jpg]
  
 2308.10.5.2 Portal frame with hold-downs (PFH). A PFH shall be constructed in
@@ -9997,7 +9997,7 @@ Where a PFH is installed at the first story of two-story buildings, each panel
 shall have a length of not less than 24 inches (610 mm)
  
 FIGURE 2308.10.5.2 PORTAL FRAME WITH HOLD-DOWNS (PFH)
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9202_9338x6111.jpg]
  
  
@@ -10917,7 +10917,7 @@ horizontal (10-percent slope).
 For structures located in Seismic Design Categories D 0 , D 1 , or D 2 ,
 stepped footings shall be reinforced with four No. 4 rebar. Two bars shall be
 place at the top and bottom of the footings as shown in Figure R403.1.5.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9227_5760x3705.jpg] 
 FIGURE R403.1.5
 STEPPED FOOTING
@@ -10945,7 +10945,7 @@ follows:
 R503.2.4 Openings in horizontal diaphragms. Openings in horizontal diaphragms
 with a dimension perpendicular to the joist that is greater than 4 feet (1.2 m)
 shall be constructed in accordance with Figure R503.2.4.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9232_9410x5508.jpg]
 1.   Blockings shall be provided beyond headers.
 2.   Metal ties not less than 0.058 inch [1.47 mm (16 galvanized gage)] by 1.5
@@ -11058,7 +11058,7 @@ in-line splices in straight wall lines in accordance with Table R602.3.2. ?
 not more than 1 inch (25 mm). ?
 3.   Omission of the top plate is permitted over headers where the headers are
 adequately tied to adjacent wall sections in accordance with Table R602.3.2. ?
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9235_9367x2841.jpg]
    “Footnote “b” of Table R602.3(2) of the California Residential Code is
 amended to read as follows: 
@@ -11080,10 +11080,10 @@ or as required in Section R602.10.3, whichever is greater.
  
 Table R602.10.3(3) of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9238_9360x9750.jpg]
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9241_9360x10425.jpg]
 a. Linear interpolation shall be permitted.
 b. Interpolation of bracing length between the Sds  values associated with the
@@ -11134,11 +11134,11 @@ D2.”
 Table R602.10.4 of the California Residential Code is amended to read as
 follows:
  
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9244_9388x9740.jpg]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9247_9317x9049.jpg]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9250_9341x9692.jpg]
  
  
@@ -11149,7 +11149,7 @@ IMAGES/0-0-0-9250_9341x9692.jpg]
  
 Table R602.10.5 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9253_9394x11067.jpg]
 For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm, 1 mile per hour = 0.447 m/s.
 NP = Not Permitted.
@@ -11164,7 +11164,7 @@ PF is 10 feet in accordance with Figure R602.10.6.4, but wall height�
  
 Figure R602.10.6.1 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9256_9313x8170.jpg]
  
  
@@ -11173,7 +11173,7 @@ IMAGES/0-0-0-9256_9313x8170.jpg]
  
 Figure R602.10.6.2 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9259_9394x7277.jpg]
 Note: Header shall not extend over more than one opening.
  
@@ -11189,7 +11189,7 @@ Note: Header shall not extend over more than one opening.
  
 Figure R602.10.6.4 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-9264_8414x6164.jpg]
  
 Section R606.12.2.2.3 of the California Residential Code is amended to read as
@@ -42934,7 +42934,7 @@ eligible applicant shall obtain written approval from the property owners
 identified by the director of transportation as the next best location for
 installation of speed humps pursuant to subsection
 7-3-504B of this chapter.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5417.gif]
 (Ord. 93-O-2163, eff. 2-26-1993)
 7-3-506: PROCEDURE FOR OBTAINING APPROVAL FROM PERSONS OR ENTITIES TO INSTALL
@@ -49257,7 +49257,7 @@ subdiaphragm shall not exceed 75% of the maximum diaphragm shear.
 Section 1613.5.3 is added to the California Building Code to read as follows:
    1613.5.3 Structural Separation. Modify ASCE 7 Section 12.12.3 Equation
 12.12-1 as follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5921.png]                  (12.12-1)
 Section 1613.6 is added to the California Building Code to read as follows:
    1613.6 Seismic Design Provisions for Hillside Buildings.
@@ -49732,7 +49732,7 @@ in 10 units horizontal (10-percent slope).
 requirement shall also apply to the top surface of grade beams supporting
 walls. Footings shall be reinforced with four No. 4 bars. Two bars shall be
 place at the top and bottom of the footings as shown in Figure 1809.3.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5919.png]
    FIGURE 1809.3
    STEPPED FOOTING
@@ -49936,7 +49936,7 @@ Section 2307.2 is added to the California Building Code to read as follows:
    2307.2 Wood-frame shear walls. Wood-frame shear walls shall be designed and
 constructed in accordance with Section 2306.3 as applicable.
 Table 2308.6.1 of the California Building Code is amended to read as follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5917.png]
 Sections 2308.6.5, 2308.6.5.1, 2308.6.5.2, Figure 2308.6.5.1, and Figure
 2308.6.5.2 of the California Building Code are amended to read as follows:
@@ -49977,7 +49977,7 @@ line.
 wood structural panel sheathing shall be provided on both faces, three anchor
 bolts shall be placed at one-quarter points and tie-down device uplift capacity
 shall be not less than 3,000 pounds (13 344 N).
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5915.png]
    2308.6.5.2 Portal frame with hold-downs (PFH). A PFH shall be constructed in
 accordance with this section and Figure 2308.6.5.2. The adjacent door or window
@@ -50025,7 +50025,7 @@ with the reinforcement required in the continuous foundation located directly
 under the braced wall line.
    Where a PFH is installed at the first story of two-story buildings, each
 panel shall have a length of not less than 24 inches (610 mm)
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5913.png]
 Section 2308.6.8.1 of the California Building Code is amended to read as
 follows:
@@ -50754,7 +50754,7 @@ in 10 units horizontal (10-percent slope).
    For structures located in Seismic Design Categorie s D0, D1, D2 or E,
 stepped footings shall be reinforced with four No. 4 rebar. Two bars shall be
 place at the top and bottom of the footings as shown in Figure R403.1.5.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5911.png]
 FIGURE R403.1.5
 STEPPED FOOTING
@@ -50777,7 +50777,7 @@ follows:
    R503.2.4 Openings in horizontal diaphragms. Openings in horizontal
 diaphragms with a dimension perpendicular to the joist that is greater than 4
 feet (1.2 m) shall be constructed in accordance with Figure R503.2.4.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5925.png]
    1.   Blockings shall be provided beyond headers.
    2.   Metal ties not less than 0.058 inch [1.47 mm (16 galvanized gage)] by
@@ -50858,7 +50858,7 @@ tolerance of not more than 1 inch (25 mm).
       3.   Omission of the top plate is permitted over headers where the
 headers are adequately tied to adjacent wall sections in accordance with Table
 R602.3.2.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5927.png]
 Footnote "b" of Table R602.3(2) of the California Residential Code is amended
 to read as follows:
@@ -50876,9 +50876,9 @@ panel shall have a contributing  length less than 4 inches in length or as
 required in Section R602.10.3, whichever is greater.
 Table R602.10.3(3) of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5931.png]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5929.png]
    a.   Linear interpolation shall be permitted.
    b.   Wall bracing lengths are based on a soil site class "D." Interpolation
@@ -50902,27 +50902,27 @@ SDC D0, D1 and D2. Methods CWD, SFB, PBS, and HPS are not permitted in D0, D1
 and D2.
 Table R602.10.4 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5937.png]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5935.png]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5933.png]
 Table R602.10.5 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5941.png]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5939.png]
 Figure R602.10.6.1 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5947.png]
 Figure R602.10.6.2 of the California Residential Code is amended to read as
 follows:
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5951.png]
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5949.png]
 Section R606.12.2.2.3 of the California Residential Code is amended to read as
 follows:
@@ -69921,7 +69921,7 @@ building within the rear yard exceeds a height of fourteen feet (14') or
 intersects a plane commencing seven feet (7') in height, measured at the rear
 lot line, and extending at a slope of two horizontal to one vertical (2:1)
 toward the interior of the site area. See Figure 1 of this section.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6146.png]
  
    E.   Central R-1 Permit: Notwithstanding any other provision of this
@@ -69975,7 +69975,7 @@ building within the side yard exceeds a height of fourteen feet (14') or
 intersects a plane commencing seven feet (7') in height, measured at the side
 lot line, and extending at a slope of two horizontal to one vertical (2:1)
 toward the interior of the site area. See Figure 1 of this section.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6148.png]
  
    However, notwithstanding the provisions of this subsection, an accessory
@@ -70001,7 +70001,7 @@ building within the rear yard exceeds a height of fourteen feet (14') or
 intersects a plane commencing seven feet (7') in height, measured at the rear
 lot line, and extending at a slope of two horizontal to one vertical (2:1)
 toward the interior of the site area. See Figure 2 of this section.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6150.png]
    For an accessory building located in a required rear yard but outside of the
 required side yard on a site north of Santa Monica Boulevard, the limitations
@@ -71304,7 +71304,7 @@ of "height of wall, fence, or hedge" located in section 10-3-100 of this
 chapter. Further, under no circumstance shall the height of the wall, fence, or
 hedge, measured on the side farther from a property line exceed twelve feet
 (12'). See Figure 1 of this section.
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6152.png]
  
    F.   Series Of Walls: If a series of walls, or portions of a wall, are
@@ -71316,7 +71316,7 @@ of climbing vines or alternative vegetation that will substantially screen the
 walls. Furthermore, the cumulative height of a series of walls shall not exceed
 twelve feet (12') within any fifty-foot (50') perpendicular section cut through
 the wall segments. See Figure 2 of this section
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-6154.png]
  
       1.   Hillside R-1 Permit: A reviewing authority may issue a Hillside R-
@@ -80804,284 +80804,8 @@ article; and
    B.   The subject home occupation will, at all times, comply with all
 requirements of this article and all applicable federal, state, and local laws.
 (Ord. 01-O-2383, eff. 11-2-2001)
-ARTICLE 44. R-1 DESIGN REVIEW
-10-3-4401: PURPOSE AND INTENT:
-The council finds that the scale and massing of buildings in the Central R-
-1 zone is of concern to the community at large. Beverly Hills residential
-neighborhoods have traditionally been renowned for their beauty, quality, and
-value and provide the city's residents with an unparalleled quality of life.
-The characteristics are the product of generous setbacks, gracious
-architecture, and careful attention to detail. However, since the late 1980s
-emerging trends have led some owners and developers in residential areas to
-disregard prevailing styles and neighborhood character in an effort to maximize
-development and density. The council finds that this trend has led to homes
-that greatly overpower the general local "lot to house size" ratio
-("mansionization"). The mansionization of the city's residential neighborhoods
-poses a serious danger that such overbuilding will degrade and depreciate the
-character, image, beauty, and reputation of the city's residential
-neighborhoods with adverse consequences for the quality of life of all
-residents. The bulk and mass of such homes, as well as their general
-appearances, affect the desirability of the immediate area and neighboring
-areas for residential purposes and, by so doing, impair the benefits of
-occupancy of existing property in such areas, impair the stability in value of
-both improved and unimproved real property in such areas, prevent the most
-appropriate development of such areas, produce undesirable conditions affecting
-the health, safety, comfort, and general welfare of the inhabitants of the
-city, and destroy the proper relationship between the taxable value of real
-property in such areas and the cost of municipal services provided therefor. It
-is the purpose of this article to prevent these and other harmful effects of
-such overbuilding in residential neighborhoods and, thus, to promote and
-protect the health, safety, comfort, and general welfare of the community, to
-promote the public convenience and prosperity, to conserve the value of and to
-encourage the most appropriate development within the city's residential
-neighborhoods. (Ord. 04-O-2444, eff. 5-21-2004; amd. Ord. 05-O-2487, eff. 11-7-
-2005; Ord. 06-O-2494, eff. 2-17-2006)
-10-3-4402: DESIGN REVIEW COMMISSION:
-A design review commission is hereby established which shall consist of five
-(5) members who shall be residents of the city. At least one of the members
-shall be a licensed residential architect. If one qualified residential
-architect cannot be found, the council may appoint a landscape architect to
-fill the professional position on the design review commission. In the event no
-person who is a resident of the city is eligible for appointment in the
-designated field, the council may waive the residency requirement. (Ord. 15-O-
-2673, eff. 3-6-2015)
-10-3-4403: APPOINTMENT AND TERM OF OFFICE:
-The members of the design review commission shall be appointed by the council
-as provided in section
-2-2-105 of this code. (Ord. 15-O-2673, eff. 3-6-2015)
-10-3-4404: DUTIES:
-Unless otherwise specified herein, the duties of the design review commission
-shall be as follows:
-   A.   Exercise the authority set forth in this article and as otherwise
-provided in this code;
-   B.   In carrying out its duties pursuant to this code:
-      1.   Review and authorize the overall conceptual design of proposed
-single-family residences in the Central Area of the city, recognizing that some
-minor design details will change when construction drawings are prepared and
-during field construction;
-      2.   Balance the desire for efficient application processing with the
-desire to ensure high quality architectural and landscape designs;
-      3.   Assist applicants in achieving their design objectives, recognize
-individual homeowner interests and allow for a diversity of designs, while
-ensuring overall compatibility to the neighborhood; and
-      4.   Focus greater attention to overall design themes and less to
-ornamental design features, hardware, balcony railings, and other secondary
-features;
-   C.   Develop educational material that aid project applicants in achieving
-high quality design standards and provide guidance to applicants and
-homeowners;
-   D.   Recommend and amend policies as it may deem necessary to implement the
-purposes of this article;
-   E.   Participate in, promote, and conduct public informational and
-educational programs pertaining to single-family urban design;
-   F.   Develop a program to celebrate exemplary single-family residences; and
-   G.   Perform any other functions that may be designated by resolution or
-motion of the city council. (Ord. 15-O-2673, eff. 3-6-2015)
-10-3-4405: RULES:
-The design review commission shall adopt rules and regulations for the conduct
-of its business. (Ord. 04-O-2444, eff. 5-21-2004)
-10-3-4406: SECRETARY:
-The director of planning and community development shall serve as the official
-secretary to the design review commission. The records of all proceedings and
-the basis for all findings shall be available to the council and to the public.
-(Ord. 04-O-2444, eff. 5-21-2004)
-10-3-4407: MEETINGS:
-The design review commission shall meet at intervals at least once a month on
-regularly scheduled dates. Additional meetings shall be arranged in order to
-process applications within the time required by this code. Special meetings
-shall be called in accordance with the provisions of section 54956 of the
-Government Code of the state. (Ord. 04-O-2444, eff. 5-21-2004; amd. Ord. 19-O-
-2795, 12-10-2019)
-10-3-4408: DESIGN REVIEW REQUIRED:
-   A.   Design Review Tracks: No single-family residence located in a Central
-R-1 zone shall be erected, constructed, altered or remodeled unless the
-elevations and plans for the exterior portions and areas visible from the
-street have been first reviewed and approved by the director of planning and
-community development (the "director") or the design review commission, as
-appropriate, in accordance with the provisions of this article. The R-1 design
-review required by this article shall fall into the following two (2) tracks:
-      1.   Track 1; Character Based Review: Under track 1, proposed residential
-development will be reviewed to determine whether it substantially adheres to a
-pure architectural style as outlined in a style catalogue adopted by resolution
-of the council. The materials and elements listed as associated with a
-particular style may be substituted for equivalent or like materials, equal in
-quality and appearance as those outlined in the style catalogue, so long as
-they do not detract from the architectural style to be represented. The style
-catalogue may be amended from time to time by resolution of the council and
-will be maintained by the director. Track 1 reviews will be limited to a
-determination of consistency with the approved style catalogue. If the required
-review determines that the proposed development adheres to an architecturally
-pure style and meets all of the applicable development standards set forth in
-this chapter, the development may be granted a building permit without further
-design review.
-      2.   Track 2; All Other R-1 Review: All other single-family residential
-development that is subject to the provisions of this article and that does not
-meet the criteria for a track 1 review must submit to a full R-1 design review
-in accordance with the provisions of this article.
-   B.   Exemption: The provisions of this article shall not apply to any
-single-family residence located in a Central R-1 zone described in subsection
- 10-3-2426B of this chapter. (Ord. 04-O-2444, eff. 5-21-2004; amd. Ord. 05-O-
-2472, eff. 6-17-2005)
-10-3-4409: REVIEWING AUTHORITY:
-The reviewing authority for the R-1 design review required by this article
-shall be as follows:
-   A.   Track 1; Character Based Guide: Unless otherwise specified, the
-reviewing authority for a track 1 review shall be the director or his or her
-designee. If, in the opinion of the director, an application merits review by
-the design review commission, the director may refer such application to the
-design review commission and the design review commission shall serve as the
-reviewing authority and shall conduct a noticed hearing regarding the request
-for track 1 R-1 design review approval in accordance with the provisions of
-this article.
-   B.   Track 2; All Other Review: The reviewing authority for track 2 review
-shall be the design review commission. (Ord. 04-O-2444, eff. 5-21-2004; amd.
-Ord. 05-O-2472, eff. 6-17-2005)
-10-3-4410: APPLICATION:
-Applications for R-1 design review shall be in writing on a form prescribed by
-the director and shall contain the following information:
-   A.   The name, phone number and address of the applicant.
-   B.   For applications to the director (track 1 reviews), a complete set of
-plans prepared by a licensed architect containing such information specified in
-subsection D or E of this section, as appropriate, as the director deems
-necessary and such additional information as may be required by the director in
-his or her sole discretion.
-   C.   For hearings before the design review commission (track 2 or appeals of
-decisions of the director), eight (8) sets of plans containing the information
-specified in subsection D or E of this section, as appropriate.
-   D.   If the review is for a remodel:
-      1.   A site plan drawn in accordance with the provisions of section
-10-3-3012 of this chapter;
-      2.   A roof plan;
-      3.   A floor plan;
-      4.   Window and door sizes;
-      5.   Elevations of all sides of the residence;
-      6.   Plans detailing all significant architectural features;
-      7.   A conceptual landscape plan;
-      8.   Color and material sample boards;
-      9.   Window examples;
-      10.   Street elevation(s) and color rendering;
-      11.   Photographs of surrounding development.
-   E.   If the review is for a new residence:
-      1.   A site plan drawn in accordance with the provisions of section
-10-3-3012 of this chapter;
-      2.   A roof plan;
-      3.   A floor plan;
-      4.   Window and door sizes;
-      5.   Elevations of all sides of the residence;
-      6.   Plans detailing all significant architectural features;
-      7.   A conceptual landscape plan;
-      8.   Color and material sample boards;
-      9.   Window examples;
-      10.   Street elevation(s) and color rendering;
-      11.   Photographs of surrounding development. (Ord. 04-O-2444, eff. 5-21-
-2004; amd. Ord. 05-O-2472, eff. 6-17-2005)
-10-3-4411: FILING FEES:
-Applications for R-1 design review shall be accompanied by a filing fee
-established from time to time by resolution of the Council. (Ord. 04-O-2444,
-eff. 5-21-2004)
-10-3-4412: TRACK DETERMINATION; CONCEPT REVIEW:
-Upon receipt of a complete application, the Director shall first determine
-which track the review shall proceed under. If the Director determines that the
-proposed development qualifies for a track 1 review, the Director shall conduct
-a review of the plans to determine whether they comply with the requirements of
-the style catalogue. If the Director determines that the proposed development
-requires a track 2 review, the Director shall refer the project to the Design
-Review Commission at the next feasible regular meeting for a hearing, unless an
-extension of time is consented to by the applicant. (Ord. 19-O-2785, eff. 8-16-
-2019)
-10-3-4413: NOTICE OF HEARINGS:
-Noticing shall be completed in accordance with article 2.5 of this chapter and
-the City's public notice guidelines. (Ord. 14-O-2661, eff. 6-20-2014)
-10-3-4414: CONDUCT OF HEARINGS:
-At the time and place fixed for the hearing, the Design Review Commission shall
-hear such relevant evidence as may be presented, either for or against the
-application, in accordance with such rules of procedure as may be established
-by the Design Review Commission; provided, however, at the time and place fixed
-for the hearing or continued hearing, the hearing may be continued or further
-continued for a period of not to exceed fifteen (15) business days at any one
-time unless otherwise agreed to by the applicant, and no further notice of such
-continued hearing need be given. (Ord. 04-O-2444, eff. 5-21-2004)
-10-3-4415: REQUIRED FINDINGS:
-The Design Review Commission may approve, approve with conditions, or
-disapprove the issuance of a building permit in any matter subject to its
-jurisdiction after considering whether the proposed development complies with
-the following criteria:
-   A.   The proposed development's design exhibits an internally compatible
-design scheme;
-   B.   The proposed development's design appropriately minimizes the
-appearance of scale and mass and enhances the garden like quality of the city
-and appropriately maximizes the use of required open space within the proposed
-architectural style;
-   C.   The proposed development will enhance the appearance of the
-neighborhood;
-   D.   The proposed development is designed to balance the reasonable
-expectation of development for the owner with the reasonable expectation of
-privacy of neighbors; and
-   E.   The proposed development respects prevailing site design patterns,
-carefully analyzing the characteristics of the surrounding group of homes, and
-integrates appropriate features that will ensure harmony between old and new.
-If the criteria set forth in this section are met, the application shall be
-approved. When the proposed development does not comply with the criteria set
-forth in this section, the reviewing authority may impose such conditions as it
-deems necessary to bring the proposed development into conformity with the
-provisions of this article. (Ord. 04-O-2444, eff. 5-21-2004)
-10-3-4416: NOTICE OF DECISIONS:
-   A.   Written Decision Required: The action taken by the reviewing authority
-shall be reduced to writing with reasonable promptness after the hearing is
-concluded, setting forth its findings and conclusions. All decisions of the
-design review commission shall be set forth in a resolution signed by chair of
-the commission. If an application is disapproved, the written decision shall
-detail in its findings the criterion or criteria that were not met by the
-proposed development.
-   B.   Notice Of Decision: Within five (5) days after the issuance of a
-decision by the reviewing authority, the director shall cause a copy of the
-decision to be mailed, through the United States mail, postage prepaid, to each
-of the following persons:
-      1.   The applicant, using the address set forth in the application; and
-      2.   Each person affected by the decision who previously filed with the
-director a written request therefor, using the address set forth in such
-written request.
-The failure of the person addressed to receive a copy of the decision shall not
-affect the validity or effectiveness of any decision.
-   C.   Effective Date Of Decision: A decision or order of the design review
-commission or the director shall not become effective until the expiration of
-fourteen (14) calendar days after the date upon which a ruling of the design
-review commission or the director has been made. (Ord. 04-O-2444, eff. 5-21-
-2004)
-10-3-4417: APPEALS:
-   A.   Only the applicant may appeal a decision of the director pursuant to
-this article. The applicant may appeal the decision of the director to the
-design review commission. A written appeal petition on a form prescribed by the
-director shall be filed with the director within fourteen (14) calendar days
-after the date of the decision being appealed. In the event the last day of the
-filing period falls on a nonbusiness day, the appeal period shall be extended
-to include the next business day. The timely filing of the appeal petition is
-jurisdictional. The fee schedule for appeal petitions shall be approved by the
-council and maintained on file by the director of finance administration.
-   B.   The applicant or any aggrieved person may appeal any decision of the
-design review commission to the planning commission in accordance with the
-procedure outlined in subsection A of this section. The decision by the
-planning commission on an R-1 design review application shall be rendered by
-resolution. Such decision may be appealed to the council in the manner provided
-by title 1, chapter 4, article 1 of this code.
-   C.   Any appeal taken pursuant to this section shall be limited to specific
-findings the aggrieved party finds objectionable. The appeal petition shall
-contain a statement of the facts upon which the appeal is taken and shall
-clearly state which findings the appellant is contesting. The hearing before
-the appellate body shall be conducted in accordance with the procedures in this
-article for a track 2 review. The hearing conducted before the appellate body
-shall not be a de novo hearing of the entire application but shall be limited
-to those findings challenged in the appeal. (Ord. 04-O-2444, eff. 5-21-2004;
-amd. Ord. 05-O-2472, eff. 6-17-2005)
-10-3-4418: TIME FOR EXERCISE OF RIGHTS:
-Unless otherwise provided in the resolution granting an R-1 design review
-approval, the exercise of rights granted in such approval shall be commenced in
-accordance with the time limits imposed by section
-10-3-207 of this chapter. (Ord. 04-O-2444, eff. 5-21-2004)
-10-3-4419: EFFECTIVE DATE:
-The provisions of this article shall become effective and be in full force and
-operation at one minute after twelve o'clock (12:01) A.M. on May 21, 2004.
-(Ord. 04-O-2444, eff. 5-21-2004)
+ARTICLE 44. REPEALED
+ 
 ARTICLE 45. RADIO AND TELEVISION ANTENNAS AND WIRELESS TELECOMMUNICATIONS
 ANTENNA FACILITIES
 10-3-4500: PURPOSE AND INTENT:
@@ -86711,7 +86435,7 @@ The exemption applies to foliage on foliage owner's property. Foliage shall be
 maintained in accordance with all other requirements of this code, including
 landscape maintenance standards.
 SAFE HARBOR AREA
-[https://export.amlegal.com/media/44cd77b7e12a8584b432b6ceac274956a65dda55/
+[https://export.amlegal.com/media/4b02af99ebcc1048007d249be4617af331de1c38/
 IMAGES/0-0-0-5461.jpg]
 (Ord. 11-O-2616, eff. 1-6-2012)
 10-8-104: PROCEDURES:
