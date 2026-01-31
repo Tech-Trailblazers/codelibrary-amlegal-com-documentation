@@ -1,10 +1,10 @@
 Rochester, Indiana
 Code of Ordinances
-2024 S-13 Supplement contains:
-Local legislation current through Ord. 10-2023, passed 12-19-23,
-and Res. 08-2023, passed 11-28-23; and
-State legislation current through 2023 Indiana Legislative Service, Pamphlet
-No. 3
+2026 S-14 Supplement contains:
+Local legislation current through Ord. 47-2024, passed 12-17-24,
+and Res. 30-2024, passed 10-7-24; and
+State legislation current through 2025 Indiana Legislative Service, Pamphlet
+No. 33
 Published by:
 AMERICAN LEGAL PUBLISHING
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
@@ -14,14 +14,16 @@ OF
 ROCHESTER, INDIANA
 MUNICIPAL OFFICIALS
 MUNICIPAL OFFICIALS
-MAYOR                     Trent Odell
-CLERK-TREASURER           Beth Stocking
-LAW DIRECTOR              T. Andrew Perkins
-CLERK OF COUNCIL          Beth Stocking
-POLICE CHIEF              Andrew Shotts
-ASSISTANT CHIEF OF POLICE Lieutenant Matt Campbell
-FIRE CHIEF                Thomas Butler
-FIRE DEPARTMENT TRAINER   Captain Thomas J. Dubois
+MAYOR                          Trent Odell
+CLERK-TREASURER                E. Beth Stocking
+LAW DIRECTOR                   T. Andrew Perkins
+CLERK OF COUNCIL               E. Beth Stocking
+POLICE CHIEF                   Andrew Shotts (312 Main Street)
+ASSISTANT CHIEF OF POLICE (Lt) Gerard Ostrom
+FIRE CHIEF                     Thomas J. DuBois
+ASSISTANT FIRE CHIEF           Jamie Gagnon (2006 e. St. Rd. 14)
+FIRE CAPTAIN                   Brandon Cody
+FIRE CAPTAIN                   Alec Descoteaux
  
  
 COUNCIL MEMBERS
@@ -39,8 +41,8 @@ Municipal Address: 320 Main St.
 Phone Number:      574-223-2510
 Fax Number:        574-223-6509
 Website:           Rochester.in.us
-Email:             mayor@rochester.in.us
-                   CT@rochester.in.us
+Email:             Email:   mayor@rochester.in.us
+                      clerk@rochester.in.us
  
 ADOPTING ORDINANCE
 Ordinance Number 10-1999
@@ -304,6 +306,55 @@ Brian Goodman
 ATTEST:
 /s/
 Shoda D. Beehler, Clerk-Treasurer
+ORDINANCE 17-2024
+AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
+THE CITY OF ROCHESTER AND DECLARING AN EMERGENCY
+WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
+completed the 2024 S-13 Supplement to the Code of Ordinances of the Political
+Subdivision, which supplement contains all ordinances of a general and
+permanent nature enacted since the prior supplement to the Code of Ordinances
+of this Political Subdivision; and
+WHEREAS, American Legal Publishing Corporation has recommended the revision or
+addition of certain sections of the Code of Ordinances which are based on or
+make references to sections of the Indiana code; and
+WHEREAS, it is the intent of the Legislative Authority to accept these updated
+sections in accordance with the changes of the law of the State of Indiana; and
+WHEREAS, it is necessary to provide for the usual daily operation of the
+municipality and for the immediate preservation of the public peace, health,
+safety and general welfare of the municipality that this ordinance takes effect
+at an early date.
+NOW, THEREFORE, BE IT ORDAINED by the Common Council of the City of Rochester
+as follows:
+   Section 1.   That the 2024 S-13 supplement to the Code of Ordinances of the
+Political Subdivision as submitted by American Legal Publishing Corporation of
+Cincinnati, Ohio, and as attached hereto, be and the same is hereby adopted by
+reference as if set out in its entirety.
+   Section 2.   Such supplement shall be deemed published as of the day of its
+adoption and approval by the Legislative Authority and the Clerk of the
+Political Subdivision is hereby authorized and ordered to insert such
+supplement into the copy of the Code of Ordinances kept on file in the Office
+of the Clerk-Treasurer.
+   Section 3.   This ordinance is declared to be an emergency measure necessary
+for the immediate preservation of the peace, health, safety and general welfare
+of the people of this municipality and shall take effect at the earliest date
+provided by law.
+Passed by the Common Council of Rochester, Indiana the 27th day of August,
+2024.
+   ROCHESTER COMMON COUNCIL
+/s/                /s/
+Robert Cannedy                  Ruth Gunter
+/s/                                                    
+Brian Fitzwater                     Martin J Smith
+/s/                /s/
+John Garrett                     Amy Roe
+/s/
+Brian Goodman
+               Approved this 27th day of August, 2024.
+                     /s/
+                     Trent Odell, Mayor
+ATTEST:
+/s/
+E. Beth Stocking, Clerk-Treasurer
 TITLE I: GENERAL PROVISIONS
    Chapter
       
@@ -1177,6 +1228,7 @@ Department of Stormwater Management
 32.77   Special taxing district
    
 32.78   Finances
+   32.79   Stormwater user fees
 Fulton County Area Plan Commission
    
 32.90   Adoption
@@ -1455,6 +1507,62 @@ Board, after approval by the Common Council, may assess and collect user fees
 from all of the property of the stormwater district for the operation and
 maintenance of the stormwater system.
 (Ord. 22-2001, passed 11-27-01; Am. Ord. 08-2011, passed 5-24-11)
+§ 32.79 STORMWATER USER FEES.
+   The City Common Council, acting under the authority granted to the city's
+fiscal body by I.C. 8-1.5-5-7(b) to approve a stormwater user fee, adopts and
+approves the stormwater user fees proposed by the City Board of Public Works
+and Safety (acting as the Storm Water Board) in the resolution for the city.
+   (A)   For purposes of this section, an equivalent residential unit ("ERU")
+is defined as the amount of impervious area included upon an average
+residential property. An "impervious area" refers to those surface areas of
+residential and non-residential properties which water will not penetrate and
+from which stormwater runoff will be produced. An impervious area of not more
+than 3,700 square feet shall constitute one ERU.
+   (B)   The monthly storm water user fees shall be uniform for all residential
+properties located in the city, and the same shall be assigned one ERU.
+   (C)   The monthly storm water user fees for all non-residential properties,
+located in the city shall be determined by using a two-step ERU multiplier,
+which shall be:
+      (1)   The quotient obtained by dividing the total square feet of
+impervious surface area within a non-residential property by a divisor of 3,700
+square feet; multiplied by,
+      (2)   The multiplier based on property class type as detailed on the
+following table.
+Property Class ERU Multiplier
+Property Class      ERU Multiplier
+Agricultural U      0.33
+Commercial          1.00
+Commercial U        0.33
+Exempt              0.50
+Exempt U            0.33
+Industrial          1.00
+Industrial U        0.33
+Municipal           0.00
+Municipal U         0.00
+Municipal School    0.50
+Municipal School U  0.33
+Residential condo   1.00
+Residential duplex  1.00
+Residential other   1.00
+Residential SFR     1.00
+Residential triplex 1.00
+Residential U       0.33
+Utility             1.00
+Religious           0.50
+Religious U         0.33
+Charitable          0.50
+Charitable U        0.33
+Notes:
+-“U” indicates unimproved
+-“SFR” indicates single family residential
+-When adjusting multipliers, “residential SFR” should remain at 1.00
+ 
+The product of the two-step multiplier will then be multiplied by the rate per
+ERU to obtain the storm water user fee, except that the monthly storm water
+user fee for a non-residential property located in the city shall not be less
+than one ERU.
+   (D)   The annual fee per ERU shall be $64.
+(Ord. 47-2024, passed 12-17-24)
 FULTON COUNTY AREA PLAN COMMISSION
 § 32.90 ADOPTION.
    (A)   The City Council hereby adopts the Area Planning Law Establishing
@@ -1802,12 +1910,14 @@ Funds
 35.16   Federal Grants Fund
    
 35.17   ARP Fiscal Recovery Fund
+   
+35.18   Water Utility Cash Reserve Fund
 Requirements for Public Purchases
    
 35.20   Establishment of purchasing agency
    
 35.21   Purchasing policy and procedures
-Fixed Asset Capitalization Policy
+Capital Asset Policy
    
 35.30   Purpose; classification of assets
    
@@ -2099,6 +2209,13 @@ exist until terminated by ordinance of the Common Council. Moneys from the Fund
 may not be transferred to another fund of the city.
 (Ord. 07-2021, passed 4-27-21; Am. Res. 07-2022, passed 6-28-22; Am. Res. 03-
 2023, passed 4-25-23)
+§ 35.18 WATER UTILITY CASH RESERVE FUND.
+   (A)   A cash reserve fund is created for the City Water Utility and carried
+on the records of the utility by transferring the cash reserve fund surplus
+earnings in the amount of $405,000.
+   (B)   The City Council may from time to time, by ordinance, transfer
+additional funds from surplus earnings to the Water Utility Cash Reserve Fund.
+(Ord. 41-2024, passed 11-26-24)
 REQUIREMENTS FOR PUBLIC PURCHASES
 § 35.20 ESTABLISHMENT OF PURCHASING AGENCY.
    The Board of Public Works and Safety (the "Purchasing Agency") is
@@ -2137,65 +2254,72 @@ and modernize the city’s purchasing capability and to enhance and assure fisca
 responsibility in the procurement process.
       (2)   The express purpose of the policy is to establish an efficient,
 fiscally responsible purchasing system capable of providing daily service and
-support on an organization wide basis. The policy outlined herein recognizes
+support on an organization-wide basis. The policy outlined herein recognizes
 and addresses the importance of the overall support mission of the procurement
 process and the need for maximizing the value of each tax and utility dollar
 expended. The objectives, policies and procedures set forth in subsequent
-divisions of this policy were written and designed to ensure the citizenry,
-City Council and employees are receiving maximum value for each tax and utility
+sections of this policy were written and designed to ensure the citizenry,
+Common Council and employees receive maximum value for each tax and utility
 dollar spent.
       (3)   The “art” of purchasing is a dynamic process. For this reason, this
-policy shall be reviewed, and will be revised periodically in order to keep
-abreast of, and current with continued developments in the “state of the art”
-as it pertains to purchasing.
+policy shall be reviewed, and will be revised periodically to keep abreast of,
+and current with continued developments in the “state of the art” as it
+pertains to purchasing.
    (B)   Objectives of purchasing system. The objectives of the city’s
 purchasing system are:
-      (1)   To maintain minimum investment in materials inventory,
+      (1)   To maintain minimum investment in materials inventory;
       (2)   To avoid duplication, waste and obsolescence with respect to
-materials,
+materials;
       (3)   To ensure that materials, equipment and services are purchased at
-the lowest prices consistent with quality and performance,
+the lowest prices consistent with quality and performance;
       (4)   To provide adequate controls over city expenditures and financial
-commitments,
+commitments;
       (5)   To obtain quality goods required by city departments and to ensure
-that these goods are at the place needed and the time needed, and
+that these goods are at the place needed and the time needed; and
       (6)   To provide a standardized system of purchasing for use by all city
 departments.
    (C)   Authority to purchase.
       (1)   Routine purchases made by the city may be grouped under the
 following categories:
          (a)   Purchases $150,000 and over.
-         (b)   Purchases over $5,000 and under $75,000.
-         (c)   Purchases under $5,000.
-         (d)   Purchases over $75,000 and under $150,000.
+         (b)   Purchases over $75,000 and under $150,000.
+         (c)   Purchases over $5,000 and under $75,000.
+         (d)   Purchases under $5,000.
          (e)   Charge purchases paid by statement.
       (2)   Each of these categories requires a different level of
 organizational approval:
-         (a)   Purchases in excess of $150,000 are made through the formal bid
+         (a)   Purchases more than $150,000 are made through the formal bid
 procedure, I.C. 5-22-7.
-         (b)   Purchases of $5,000, but less than $75,000, are made through
-informal quote procedure that requires a minimum of three quotes for items
-costing between $5,000 and $75,000. Two quotes are acceptable in circumstances
-that three are unattainable, clarification with the Clerk-Treasurer is
-required. Purchases may be subject to the approval of the department governing
-board.
-         (c)   Purchases of $75,000, but less than $150,000, are made through
+         (b)   Purchases of $75,000, but less than $150,000, are made through
 formal quote procedure that requires a minimum of three quotes for items
 costing between $75,000 and $150,000. Two quotes are acceptable in
 circumstances that three are unattainable, clarification with the Clerk-
 Treasurer is required. Purchases may be subject to the approval of the
 department governing board.
-         (d)   Purchases under $5,000 may be authorized by the department head
-through normal request to purchase and purchase order procedure.
+         (c)   Purchases of $5,000, but less than $75,000, are made through
+informal quote procedure that requires a minimum of three quotes for items
+costing between $5,000 and $75,000. Two quotes are acceptable in circumstances
+that three are unattainable, clarification with the Clerk-Treasurer is
+required. Purchases may be subject to the approval of the department governing
+board.
+         (d)   Purchases under $5,000, may be authorized by the department head
+through normal request to purchase.
+      (3)   Suppliers and employees are strictly prohibited from breaking up a
+single intended purchase into multiple smaller transactions for the purpose of
+circumventing any specified purchasing threshold. This includes, but is not
+limited to, dividing orders, invoices, or payments into smaller increments to
+avoid authorization or approval processes associated with higher-value
+transactions.
    (D)   Competitive bidding.
       (1)   It is the policy of the city to procure needed materials, equipment
 and services at the lowest cost consistent with quality and performance.
-Whenever possible, purchase will be made only after two or more price
-quotations have been obtained through either formal or informal means. The only
-exceptions to this policy are:
-         (a)   Sole-source purchases where only one supplier is available,
-         (b)   Emergency purchases,
-         (c)   Petty cash purchases, and
+Whenever possible, purchase will be made only after three price quotations have
+been obtained through either formal or informal means. Two quotes are
+acceptable in circumstances that three are unattainable, clarification with the
+Clerk-Treasurer is required. The only exceptions to this policy are:
+         (a)   Sole-source purchases where only one supplier is available;
+         (b)   Emergency purchases;
+         (c)   Petty cash purchases; and
          (d)   Certain professional services such as architectural, banking,
 engineering, insurance, and legal.
       (2)   For all other purchases, the following guidelines should be
@@ -2210,21 +2334,23 @@ be documented.
          (b)   Informal written price quotations should be obtained when:
             1.   Specifications are detailed.
             2.   Potential suppliers are not located nearby.
-            3.   Needed items are “made to order.”
+            3.   Needed items are "made to order."
             4.   Cost of item is over $5,000 and is below $75,000.
          (c)   Formal written quotes will be solicited when the cost of items
 exceeds $75,000 but is less than $150,000. This requires a formal letter
 detailing the good or service being solicited and sent to intended vendors. The
 delivery of said letter can be by USPS, hand delivered, or email.
+         (d)   Formal written bids will be solicited when the cost of items
+exceeds $150,000. The bid process will be in accordance with I.C. 5-22-7.
    (E)   Emergency procedures. Covering supplies or services costing in excess
 of $5,000.
       (1)   In case of an actual emergency and with the Clerk-Treasurer’s
 permission, if possible, department heads may purchase directly any supplies or
 services whose immediate procurement is essential to prevent delays in work
-which may vitally affect the life, health and safety, or convenience of
-Rochester residents.
+which may vitally affect the life, health and safety, or convenience of city
+residents.
       (2)   Within two working days, the department shall send to the Clerk-
-Treasurer a purchase order with vendors invoice attached, with a full written
+Treasurer a purchase order with vendor’s invoice attached, with a full written
 report of the circumstances of the emergency. If necessary, the Clerk-Treasurer
 will authorize a confirming purchase order to cover the emergency purchase.
    (F)   Charge account purchases.
@@ -2248,13 +2374,14 @@ internal controls and management oversight.
          (c)   When charging supplies, the vendor’s package advice, packing
 slip, or charge ticket or invoice must be signed by the authorized employee
 receiving the material.
-         (d)   Department heads, or authorized employee, shall confirm receipt
-of the item by initialing the vendor’s package advice, packing slip, or charge
-ticket if a purchase order is not completed.
-         (e)   Each dpartment is responsible to see that all vendor invoices
-are submitted directly from the vendor to the Clerk-Treasurer’s office in a
-timely manner to ensure prompt claims processing. The vendor may email Accounts
-Payable directly.
+         (d)   Department heads, or authorized employee other than the employee
+receiving the material, shall confirm receipt of the item by initialing the
+vendor’s package advice, packing slip, or charge ticket if a purchase order is
+not completed.
+         (e)   Each department is responsible for seeing that all vendor
+invoices are submitted directly from the vendor to the Clerk-Treasurer’s office
+in a timely manner to ensure prompt claims processing. The vendor may email
+Accounts Payable directly.
          (f)   Invoices signed by unauthorized personnel may not be paid.
    (G)   Joint purchasing with the State of Indiana. The city is authorized to
 participate with the State of Indiana in joint purchasing. From time to time,
@@ -2282,7 +2409,7 @@ including dismissal, against an employee who solicits or accepts gifts or
 gratuities of any value whatsoever.
       (3)   Employees attending continuing education conferences may utilize
 the vendor booths/exhibitor hall to acquire novelty items such as but not
-limited to pens, pencils, notepads, and the like. Vendors offering networking
+limited to pens, pencils, notepads, etc. Vendors offering networking
 opportunities including dining opportunities are also acceptable and should not
 construed as a conflict as stated above.
    (J)   Purchasing recycled products and materials. Department heads shall
@@ -2295,13 +2422,13 @@ cycle. The receipt of the purchase order with the necessary information and
 required signature gives authority for each specific purchase. A vendor invoice
 may not be paid unless proper procurement procedures are followed.
       (2)   The following procedure shall be followed for all purchases over
-$5,000 and under $75,000:
-         (a)   Department head or designated city employee (“employee”)
-determines the need for a specific service or item(s). The employee will
+$5,000, and under $75,000:
+         (a)   Department head or designated city employee (employee)
+determines the need for a specific service(s) or item(s). The employee will
 provide the appropriate number of quotes/bids as determined by the guidelines
 outlined above. All charges pertinent to the purchase should be included in the
 quote; freight, labor, type of materials, discounts for a total due, net 30
-days. No sales tax: if sales tax is included, the department head/employee will
+days. No sales tax. If sales tax is included, the department head/employee will
 be responsible for paying the tax out of their pocket.
          (b)   Department head or designated authority reviews purchase request
 and evaluates need for the item or service.
@@ -2311,7 +2438,7 @@ funds are appropriated and available then completes the procurement process.
 request, to the Mayor’s Office for review and signature.
          (e)   The Mayor then forwards the purchase order to the Clerk-
 Treasurer, who reviews the purchase order for accuracy and completeness.
-Additionally, the Clerk-Treasurer will check the budget report and outstanding
+Additionally, the Clerk–Treasurer will check the budget report and outstanding
 purchase orders to verify funds are appropriated and available.
          (f)   The purchase order is then submitted to Accounts Payable for
 review and processing.
@@ -2322,17 +2449,18 @@ specifications and quantities shown on purchase order/invoice.
 as soon as they are created with the accompanying invoice. Nothing will be paid
 using an estimate or quote, all purchases must have an invoice or charge
 account slip.
-         (i)   For purchases under $5,000 the same procedure is followed except
-the request to purchase does not require a purchase order.
+         (i)   For purchases under $5,000, the same procedure is followed
+except the request to purchase does not require a purchase order.
       (3)   This policy and these procedures are designed to ensure proper
 measures are in place to establish an efficient and responsible manner of
 purchasing. The objectives set forth have been designed to ensure standard and
 uniform practices are being implemented in every department of the city. It is
 the desire of the Clerk-Treasurer’s Office and Common Council to provide
-direction and supervision in this area so as to assist and support the quality
-of service to the residents of the city.
-(Ord. 22-1998, passed 7-14-98; Am. Ord. 09-2023, passed 12-19-23)
-FIXED ASSET CAPITALIZATION POLICY
+direction and supervision in this area to assist and support the quality of
+service to the residents of the city.
+(Ord. 22-1998, passed 7-14-98; Am. Ord. 09-2023, passed 12-19-23; Am. Ord. 03-
+2024, passed 1-23-24)
+CAPITAL ASSET POLICY
 § 35.30 PURPOSE; CLASSIFICATION OF ASSETS.
    (A)   Purpose. The purpose of this policy is to facilitate the preparation
 of financial statements in conformity with generally accepted accounting
@@ -2340,18 +2468,18 @@ principles.
    (B)   Classification of assets. Capital assets are personal and real
 property used in the operations of the government that have an expected
 estimated useful life beyond a single period. Capital assets are to include any
-item that falls into one of the following categories:
+item that falls into one of the following categories.
       (1)   Land.
       (2)   Land improvements.
       (3)   Buildings.
       (4)   Machinery and equipment.
       (5)   Vehicles.
       (6)   Computer software.
-      (7)   General infrastructure.
+      (7)   General infrastructure and improvements.
       (8)   Construction in progress.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.31 CAPITALIZATION THRESHOLDS.
-   (A)   To be considered a capital asset for financial reporting purposes, an
+   (A)    To be considered a capital asset for financial reporting purposes, an
 item must be at or above the capitalization threshold and have a unit
 historical cost of $5,000 or more. Assets will remain as part of the property
 record until they are retired or are disposed of, sold, traded in, and the
@@ -2359,32 +2487,33 @@ like, regardless of net book value amount.
    (B)   The capitalization threshold for the following classes of assets shall
 be:
  
-Land                                 N/A
-Land improvements                    $10,000
-Building improvements                $10,000
-Machinery and equipment and vehicles $5,000
-Computer software                    $5,000
-General infrastructure improvements  $50,000
-Construction in progress             N/A
+Land                                    N/A
+Land improvements                       $10,000
+Building improvements                   $10,000
+Machinery and equipment and vehicles    $5,000
+Computer software                       $5,000
+General infrastructure and improvements $50,000
+Construction in progress                N/A
  
-   (C)   With regard to improvements to buildings and general infrastructure, a
-capital outlay must be significant and increase capacity, increase efficiency,
-or extend the asset’s estimated useful life beyond the original expectation.
+   (C)    With regard to improvements to buildings and general infrastructure,
+a capital outlay must be significant and increase capacity, increase
+efficiency, or extend the asset's estimated useful life beyond the original
+expectation.
    (D)   A change in capacity increases the level of service provided by the
 asset. A change in efficiency increases the level of service but without
 increasing the size of the asset or the change maintains the same level of
 service at a lower cost. For example, an addition to a building provides
-increased square footage, hence, the capacity is increased and the capital
+increased square footage, hence, the capacity is increased, and the capital
 outlay is capitalized. Widening a road with additional lanes increases capacity
 and, hence, the capital outlay is capitalized. An extended estimated useful
-life involves a significant alternation, structural change or improvement.
+life involves a significant alteration, structural change or improvement.
    (E)   While substantial repairs and renovations will be reviewed for
 potential capitalization, it is anticipated that most will be expensed in the
 current year. These expenses often merely restore the asset to the original
 service potential but do not necessarily improve the asset.
    (F)   All land, including rights-of-way, is capitalized at the time of
 acquisition regardless of historical costs or fair value if donated.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.32 HISTORICAL COST OR ESTIMATED HISTORICAL COSTS.
    (A)   Prospective reporting. Capital assets are recorded at historical cost
 which includes any ancillary charges necessary to place the asset into its
@@ -2404,48 +2533,48 @@ cost was ascertained. An appropriate cost index (including Consumer Price Index
 and Federal Highway Price Trends) corresponding to an estimated date of
 acquisition/construction was then applied to “deflate” the replacement cost to
 an estimated historical cost.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.33 ESTIMATED USEFUL LIVES OF DEPRECIABLE ASSETS; DEPRECIATION METHOD/
 CONVENTION.
-   (A)   Capital assets have estimated useful lives extending beyond a single
+   (A)    Capital assets have estimated useful lives extending beyond a single
 reporting period (one year) and are depreciated using the straight-line method
 with no allowance for salvage value. The estimated useful lives currently used
 were developed with the input of knowledgeable staff and reflect our
-government’s experience with these assets:
-Land                    Non-depreciable
-Land improvements       20 years
-Buildings               50 years
-Machinery and equipment 5 years
-Vehicles
-Autos                   5 years
-Light trucks            10 years
-Heavy trucks            15 years
-General infrastructure  20 to 100 years
-Computer software       5 years
+government's experience with these assets:
+Land                                    Non-depreciable
+Land improvements                       20 years
+Buildings, building improvements        50 years
+Machinery and equipment                 5 years
+Autos                                   5 years
+Light trucks                            10 years
+Heavy trucks                            15 years
+General infrastructure and improvements 20 to 100 years
+Computer software                       5 years
  
-   (B)   Depreciation will be calculated using the straight-line method and
+   (B)    Depreciation will be calculated using the straight-line method and
 full-year convention. No salvage value or residual value will be recognized.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.34 ASSETS PURCHASE WITH FEDERAL OR STATE GRANTS.
-   Assets at or above a threshold of $5,000 on a unit basis funded with a
+    Assets at or above a threshold of $5,000 on a unit basis funded with a
 federal grant are to be reported for federal compliance purposes,
 notwithstanding §§
 35.60 through
-35.67. To achieve this end a subsidiary list or other indicator is to be
-established and maintained annually and includes all such assets currently in
+35.67. To achieve this end, a subsidiary list or other indicator is to be
+established and maintained annually and include all such assets currently in
 use.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.35 RETIREMENTS.
-   (A)   Retirements apply to all capital assets including land, buildings,
-machinery and equipment, vehicles, and general infrastructure.
+   (A)    Retirements apply to all capital assets including land, buildings,
+machinery and equipment, vehicles (including autos, light trucks and heavy
+trucks), general infrastructure and computer software.
    (B)   When an asset is disposed of, scrapped, sold, subject to demolition,
 and the like, it is to be removed from the property record and the appropriate
-reduction will be made to historical cost, accumulated depreciation, and net
+reduction will be made to historical cost, accumulated depreciation and net
 book value amounts.
    (C)   Retirements will reflect the actual historical cost of the asset when
 the amount is ascertainable. When historical cost is not ascertainable, an
 estimated historical cost will be determined.
-(Ord. 10-2023, passed 12-19-23)
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
 § 35.36 RESPONSIBILITY FOR PROPERTY RECORD MAINTENANCE; PROPERTY CONTROL.
    (A)   Property record maintenance.
       (1)   The Clerk-Treasurer will ensure that reporting for capital assets
@@ -2466,7 +2595,7 @@ annually.
       (4)   To restate, additions of assets at or above the unit capitalization
 threshold of $5,000 are to be reported to the Clerk-Treasurer by the
 departments upon purchase or receipt of the asset. These will be verified per
-the claims process by the Clerk-Treasurer’s office. Transfers and retirements
+the claims process by the Clerk-Treasurer's office. Transfers and retirements
 of assets at or above the $5,000 unit threshold are to be reported as such by
 the departments to the Clerk-Treasurer at the time of the transaction.
    (B)   Property control.
@@ -2484,11 +2613,11 @@ departments utilizing these properties.
       (3)   The Clerk-Treasurer shall determine appropriate means, level of
 detailed data elements, and the system to be utilized. Finally, the Clerk-
 Treasurer shall have the right to request copies of the inventory and/or
-updated inventory of controllable items so as to periodically review the
-information and adherence to policy.
-(Ord. 10-2023, passed 12-19-23)
-MATERIALITY THRESHOLD FOR REPORTING IRREGULAR MATERIAL VARIANCES,
-LOSSES, SHORTAGES, AND THEFTS
+updated inventory of controllable items to periodically review the information
+and adherence to policy.
+(Ord. 10-2023, passed 12-19-23; Am. Ord. 02-2024, passed 1-23-24)
+MATERIALITY THRESHOLD FOR REPORTING IRREGULAR MATERIAL VARIANCES, LOSSES,
+SHORTAGES, AND THEFTS
 § 35.40 POLICY ADOPTED.
    The city hereby endorses the Clerk-Treasurer’s directive as set forth below
 regarding a policy on materiality and a process for reporting material items.
@@ -5774,7 +5903,7 @@ Rates and Charges
    
 52.103   Adjustments for meter leakage
    
-52.104   Disconnection of service
+52.104   Disconnection of service for non-payment
    
 52.105   Testing of meters to determine overcharge
 Capital Charges in Certain Areas
@@ -5918,31 +6047,35 @@ installation, the meter deposit shall be $125.
 water bill, the Waterworks Department shall have the right to charge the same
 against the meter deposit when the unpaid bill shall equal or exceed the amount
 of the meter deposit.
-('79 Code, § 17-39) (Ord. 951, passed 7-26-83; Am. Ord. 32-1985, passed 10-22-
+(‘79 Code, § 17-39) (Ord. 951, passed 7-26-83; Am. Ord. 32-1985, passed 10-22-
 85; Am. Ord. 23-1989, passed 6-13-89; Am. Ord. 09-2006, passed 8-22-06; Am.
-Ord. 10-2021, passed 8-24-21)
+Ord. 10-2021, passed 8-24-21; Am. Ord. 42-2024, passed 23-17-24)
 Cross-reference:
    
 Rates and charges, see §§ 52.095 et seq.
 § 52.018 TAPPING FEES.
    Tap charges shall be made from each customer prior to connection to the
 water system as follows:
-   (A)   All installations completed by the Water Department will be for one
-inch taps only and the fee shall be $5,000. Except as stated in division (B)
-below, no tapping fee shall be incurred when existing infrastructure designed
-to serve multiple properties is dedicated to, and accepted by, the Water
-Department, where no installation is completed by the Water Department.
-   (B)   For installations larger than one inch, the customer is responsible
+   (A)   All installations completed by the Water Department will be for one-
+inch taps only and the fee shall be $1,800. Except as stated in division (C),
+no tapping fee shall be incurred when existing infrastructure designed to serve
+multiple properties is dedicated to, and accepted by, the Water Department,
+where no installation is completed by the Water Department.
+   (B)   In addition, if the line must be placed beneath a road there will be a
+$1,500 road cut fee plus an $800 boring fee. If an outside meter pit must be
+installed, then additional charges may apply based on material and labor costs
+as determined by the Water Department Superintendent.
+   (C)   For installations larger than one inch, the customer is responsible
 for all installation and applicable charges including any damages to the water
 main, meter pit, and/or curb stop. In addition, all installations must be
 inspected and approved by the Water Department prior to service being started.
-Any taps larger than one-inch will also pay the fee listed in division (A) to
+Any taps larger than one inch will also pay the fee listed in division (A) to
 the Water Department.
 (‘79 Code, § 17-40) (Ord. 686, passed 7-27-77; Am. Ord. 703, passed 2-14-78;
 Am. Ord. 3-1991, passed 2-26-91; Am. Ord. 23-1995, passed 11-14-95; Am. Ord.
 04-2013, passed 4-23-13; Am. Ord. 09-2017, passed 11-28-17; Am. Ord. 10-2021,
 passed 8-24-21; Am. Ord. 02-2022, passed 8-23-22; Am. Ord. 07-2023, passed 12-
-19-23)
+19-23; Am. Ord. 10-2024, passed 4-23-24; Am. Ord. 42-2024, passed 12-17-24)
 Cross-reference:
    Rates and charges, see §§
 52.095 et seq.
@@ -5952,16 +6085,16 @@ development charge will be collected from new customers of the water system in
 accordance with the following schedule:
 Meter Size (inches) Meter Ratio System Development Charge
 Meter Size (inches) Meter Ratio System Development Charge
-5/8                 1.0         $ 500
-3/4                 1.5         750
-1                   2.5         1,250
-1-1/2               5.0         2,500
-2                   8.0         4,000
-3                   15.0        7,500
-4                   25.0        12,500
-6                   50.0        25,000
-8                   80.0        40,000
-Unmetered           1.0         500
+5/8                 1.0         $ 1,000
+3/4                 1.5         1,500
+1                   2.5         2,500
+1-1/2               5.0         5,000
+2                   8.0         6,000
+3                   15.0        16,000
+4                   25.0        25,000
+6                   50.0        50,000
+8                   80.0        80,000
+Unmetered           1.0         1,000
  
    (B)   The city shall collect such rates and charges at the same time and the
 same manner as the collection of the water tapping fee. The above system
@@ -5969,7 +6102,7 @@ development fees may be modified upon recommendation of the Water Board when
 investments in water infrastructure made by the developers or private property
 owners result in significant enhancement of the capabilities of the city to
 serve existing or future customers.
-(Ord. 10-2021, passed 8-24-21)
+(Ord. 10-2021, passed 8-24-21; Am. Ord. 42-2024, passed 12-17-24)
 § 52.019 INSTALLATION AND PIPE COSTS.
    (A)   Upon payment of all required fees and costs, the Clerk-Treasurer shall
 issue the water service applicant a receipt and the receipt shall be presented
@@ -6082,11 +6215,12 @@ Penalty, see § 10.99
    The Waterworks Department shall make all water service turn-ons and turn-
 offs. A service charge of $20 will be made to the property owner or water user
 for each turn-on and each turn-off made by the Department Monday through
-Friday, from 7:00 a.m. to 3:00 p.m. A service charge of $40 will be made for
-turn-offs at all other times, and there will be no turn-ons outside normal
-business hours.
+Friday, from 7:00 a.m. to 3:00 p.m. A service charge of $75 will be made for
+turn-offs after business hours and Saturdays. A service charge of $100 will be
+made for turn-offs on Sundays and holidays.
 (‘79 Code, § 17-47) (Ord. 335, passed 8-10-65; Am. Ord. 951, passed 7-26-83;
-Am. Ord. 23-1989, passed 6-13-89; Am. Ord. 10-2021, passed 8-24-21)
+Am. Ord. 23-1989, passed 6-13-89; Am. Ord. 10-2021, passed 8-24-21; Am. Ord.
+11-2024, passed 4-23-24; Am. Ord. 42-2024, passed 12-17-24)
 Cross-reference:
    
 Rates and charges, see §§ 52.095 et seq.
@@ -6462,46 +6596,48 @@ after September 1, 2011:
  
 Metered Rates per Month Rate per 1,000 Gallons Rate per 1,000 Gallons
                         (Inside City)          (Outside City)
-First 2,500             $ 4.90                 $ 5.59
-Next 22,500             4.42                   5.04
-Next 175,000            3.48                   3.97
-Over 200,000            2.14                   2.44
- 
+First 2,500             $ 11.05                $ 12.61
+Next 22,500             8.90                   10.15
+Next 175,000            7.20                   8.22
+Over 200,000            6.10                   6.96
 (‘79 Code, § 17-66) (Ord. 491, passed 11-25-69; Am. Ord. 796, passed 4-22-80;
 Am. Ord. 111-1987, passed 11-10-87; Am. Ord. 8-1990, passed 4-10-90; Am. Ord.
 22-1993, passed 12-28-93; Am. Ord. 19-2001, passed 11-13-01; Am. Ord. 21-2004,
 passed 10-26-04; Am. Ord. 12-2009, passed 9-23-09; Am. Ord. 10-2021, passed 8-
-24-21)
+24-21; Am. Ord. 42-2024, passed 12-17-24)
 § 52.098 MINIMUM MONTHLY CHARGE.
    Each user shall pay a minimum charge in accordance with the following
 applicable size of meter installed, for which the user will be entitled to the
-quantity of water set out in §
-52.097: For usage billed after September 1, 2011:
+quantity of water set out in § 52.097: For usage billed after September 1,
+2011:
 Size of Meter (inches) Gallons Allowed Rate (Inside City) Rate (Outside City)*
 Size of Meter (inches) Gallons Allowed Rate (Inside City) Rate (Outside City)*
-5/8                    2,500              $ 12.25      $ 13.98
-3/4                    5,240              24.35        27.78
-1                      10,754             48.75        55.57
-1 1/4                  17,091             76.75        87.51
-1 1/2                  21,772             97.45        111.10
-2                      28,876             125.20       142.76
-3                      44,923             181.05       206.46
-4                      62,633             242.65       276.77
-6                      104,822            389.50       444.26
+5/8                    2,500              $ 27.65      $ 31.50
+3/4                    5,237              52.00        59.30
+1                      10,758             101.10       115.35
+1 1/4                  17,092             157.50       179.65
+1 1/2                  21,776             199.20       227.20
+2                      28,879             255.80       291.80
+3                      44,928             371.35       423.70
+4                      62,629             498.80       569.20
+6                      104,828            802.65       916.10
+8                      200,000         1,487.90           1,698.40
+10                     287,500         2,021.65           2,307.40
+12                     537,500         3,546.65           4,047.40
  
-* Outside corporate city boundaries rates and charges are approximately 14%
+* Outside corporate city boundaries rates and charges are approximately 14.1%
 higher than the rates and charges for customers inside corporate city
 boundaries.
 (‘79 Code, § 17-67) (Ord. 491, passed 11-25-69; Am. Ord. 796, passed 4-22-80;
 Am. Ord. 111-1987, passed 11-10-87; Am. Ord. 8-1990, passed 4-10-90; Am. Ord.
 22-1993, passed 12-28-93; Am. Ord. 19-2001, passed 11-13-01; Am. Ord. 21-2004,
 passed 10-26-04; Am. Ord. 12-2009, passed 9-23-09; Am. Ord. 10-2021, passed 8-
-24-21)
+24-21; Am. Ord. 42-2024, passed 12-17-24)
 § 52.099 HYDRANT CHARGES; PRIVATE HYDRANTS.
    (A)   Hydrant charges. The annual charge for water service shall be as
 follows:
       Municipal hydrants   $300 per hydrant
-      Private hydrants   $300 per hydrant
+      Private hydrants   $450 per hydrant
    (B)   Private fire hydrants. All private fire hydrants within the city shall
 be located, installed and maintained in accordance with the following:
       (1)   Costs for the installation and maintenance of a private fire
@@ -6544,7 +6680,7 @@ during normal business hours.
 Am. Ord. 111-1987, passed 11-10-87; Am. Ord. 8-1990, passed 4-10-90; Am. Ord.
 22-1993, passed 12-28-93; Am. Ord. 19-2001, passed 11-13-01; Am. Ord. 21-2004,
 passed 10-26-04; Am. Ord. 12-2009, passed 9-23-09; Am. Ord. 10-2021, passed 8-
-24-21)
+24-21; Am. Ord. 42-2024, passed 12-17-24)
 § 52.100 SPRINKLER CONNECTION SYSTEM CHARGE.
    The annual connection charge for water service to a private fire protection
 sprinkling system shall be as follows:
@@ -6560,7 +6696,7 @@ Size (inches) Charge per Annum
 Am. Ord. 111-1987, passed 11-10-87; Am. Ord. 8-1990, passed 4-10-90; Am. Ord.
 22-1993, passed 12-28-93; Am. Ord. 19-2001, passed 11-13-01; Am. Ord. 21-2004,
 passed 10-26-04; Am. Ord. 12-2009, passed 9-23-09; Am. Ord. 10-2021, passed 8-
-24-21)
+24-21; Am. Ord. 42-2024, passed 12-17-24)
 § 52.101 CHARGE TO TEMPORARY USERS.
    Water furnished to temporary users, such as contractors, circuses, and the
 like, shall be charged on the basis of the metered gallonage rates hereinbefore
@@ -6589,12 +6725,12 @@ any bill by reason of any leak that occurs inside of a building.
 Cross-reference:
    
 Meters, see §§ 52.045 et seq.
-§ 52.104 DISCONNECTION OF SERVICE FOR NONPAYMENT.
+§ 52.104 DISCONNECTION OF SERVICE FOR NON-PAYMENT.
    (A)   When the Water Board orders the water of any consumer shut off for
-nonpayment of charges, the supply shall not again be turned on until the
+non-payment of charges, the supply shall not again be turned on until the
 consumer shall pay all charges due and in addition pay a turn-on charge in the
-sum of $50. However, this sum shall be $75 if the consumer’s service has been
-shut off one time in the previous 12 months and $200 if the consumer has been
+sum of $75. However, this sum shall be $125 if the consumer's service has been
+shut off one time in the previous 12 months and $250 if the consumer has been
 shut off two or more times in the previous 12 months. The delinquency
 hereinbefore mentioned shall be held and construed to mean any and all bills
 due the waterworks from the consumer whether the bills shall arise from the
@@ -6608,7 +6744,8 @@ a reasonable time, as determined by the Water Board.
 (‘79 Code, § 17-80) (Ord. 931, passed 12-14-82; Am. Ord. 951, passed 7-26-83;
 Am. Ord. 23-1989, passed 6-13-89; Am. Ord. 09-2006, passed 8-22-06; Am. Ord.
 13-2013, passed 4-23-13; Am. Ord. 03-2019, passed 5-28-19; Am. Ord. 10-2021,
-passed 8-24-21)
+passed 8-24-21; Am. Ord. 11-2024, passed 4-23-24; Am. Ord. 42-2024, passed 12-
+17-24)
 § 52.105 TESTING OF METERS TO DETERMINE OVERCHARGE.
    (A)   Whenever any customer of the Waterworks Department believes that he is
 being overcharged for water service and wishes to have the water meter serving
@@ -6761,7 +6898,7 @@ Section
    
 70.04   Persons exempt from title; authorized emergency vehicles
    
-70.05   Sidewalk/Traffic Safety Commission
+70.05   Sidewalk and Tree Safety Commission
    
 70.06   Disposition of traffic fines and forfeitures
    
@@ -6773,6 +6910,8 @@ Section
    
 70.10   Special provisions for Peace Tree Plaza Shopping Center property
    
+70.11   Street names
+ 
    
 70.99   Penalty
 Statutory reference:
@@ -6851,62 +6990,52 @@ his reckless disregard for the safety of others.
 Penalty, see § 70.99
 Statutory reference:
    Similar provisions, see I.C. 9-21-1-6 through 9-21-1-8
-§ 70.05 SIDEWALK/TRAFFIC SAFETY COMMISSION.
+§ 70.05 SIDEWALK AND TREE COMMISSION.
    (A)   There is hereby established a commission to be entitled and designated
-as the “Rochester Sidewalk/Traffic Safety Advisory Commission.”
-   (B)   (1)   The Commission shall consist of nine members, four being
-officials of the city and five non-officials. No member shall be paid or
-granted any salary or compensation from the city. The four official members
-shall consist of representatives from:
-         (a)   The Police Department;
-         (b)   The Fire Department;
-         (c)   The Street Department; and
-         (d)   The Common Council.
-      (2)   The representative of the Common Council shall serve as Chairperson
-of the Commission.
-   (C)   The members of the Commission shall be appointed by the Mayor upon the
-recommendation of the Common Council and shall serve until their successors are
-appointed.
-   (D)   The President of the Board of Public Works and Safety shall serve as
-an ex officio member without a vote. The Commission is authorized to appoint as
-ex officio members of the Commission any additional members without voting
-privileges by majority vote of the Commission at any meeting where a quorum is
-present.
-   (E)   The Chairperson of the Commission shall appoint the Secretary of the
-Commission who shall have the duty to:
+as the “Rochester Sidewalk and Tree Commission.”
+   (B)   The Commission shall consist of five members. No member shall be paid
+or granted any salary or compensation from the city. The five members shall
+consist of five residents of the city.
+   (C)   The members of the Commission shall be appointed by the Mayor subject
+to approval of the Common Council and shall each serve a one-year term.
+   (D)   The Street Department Superintendent and the Special Projects Manager
+shall both serve as ex officio members of the Commission. The common Council
+may appoint one Council Member to be an ex officio member. The commission is
+also authorized to appoint additional non-voting members by majority vote of
+the commission at any meeting where a quorum is present. Ex officio members
+shall not have voting rights, and no non-voting member shall be counted for
+purposes of quorum.
+   (E)   The members of the Commission shall choose a Chairperson. The
+Chairperson of the Commission shall appoint the Secretary of the Commission who
+shall have the duty to:
       (1)   Send all notices for the meetings of the Commission;
       (2)   Keep and preserve the minutes; have custody and keep all documents
 and papers filed with the Commission; and
       (3)   Perform such other duties as may be prescribed by the Commission.
    (F)   The Commission shall meet on the call of its Chairman or on call by a
-majority of its members. Five members shall constitute a quorum.
+majority of its members. Three members shall constitute a quorum.
    (G)   The responsibilities of the Commission shall include, but not be
 limited to, the following:
       (1)   Developing and implementing coordinated sidewalk and traffic safety
 programs which meet local needs;
-      (2)   Acting in an advisory capacity to the Common Council in the
-coordination of traffic safety activities of the official agencies of the city;
-      (3)   Establishing sidewalk and traffic safety priorities for the city;
-      (4)   Reviewing and approving project applications for funding;
-      (5)   Serving in a liaison capacity between the city and the Indiana
-Department of Traffic Safety in developing the state highway safety program and
-in meeting the national Highway Safety Program Standards;
-      (6)   Promoting public acceptance of official programs proposed or
+      (2)   Establishing sidewalk safety priorities for the city;
+      (3)   Reviewing and approving project applications for funding;
+      (4)   Promoting public acceptance of official programs proposed or
 instigated by the city;
-      (7)   Fostering public knowledge and support of traffic law enforcement
-and traffic engineering problems;
-      (8)   Cooperating with the schools in promoting educational pedestrian
-and traffic safety aids;
-      (9)   Educating the public in pedestrian and traffic safety;
-      (10)   Generally aiding the overall reduction of accidents, injuries and
-deaths on the city streets and sidewalks.
-      (11)   Advise and consult with the Board of Public Works and Safety and
+      (5)   Cooperating with the schools in promoting educational pedestrian
+safety aids;
+      (6)   Educating the public in pedestrian and traffic safety;
+      (7) Generally aiding the overall reduction of accidents, injuries and
+deaths on the city sidewalks.
+      (8) Advising and consulting with the Board of Public Works and Safety and
 city officials as to the work and recommendations of the Commission; and
-      (12)   Work with organized community groups and others to carry forward
+      (9) Working with organized community groups and others to carry forward
 all plans and policies of the Commission as to accident prevention which may be
 approved by the Commission.
+      (10)   Fulfilling all the duties of a City Tree Board described in §
+97.28, or elsewhere in the code.
 (‘79 Code, § 8-5.1) (Ord. 714, passed 4-11-78; Am. Ord. 04-2001, passed 2-27-
-01; Am. Ord. 01-2012, passed 2-28-12)
+01; Am. Ord. 01-2012, passed 2-28-12; Am. Ord. 46-2024, passed 11-26-24)
 § 70.06 DISPOSITION OF TRAFFIC FINES AND FORFEITURES.
    (A)   All fines or forfeitures collected upon conviction or upon the
 forfeiture of bail of any person charged with a violation of any of the
@@ -6996,6 +7125,11 @@ transacting business with a tenant or business occupant of Peace Tree Shopping
 Center.
 (Ord. 32-1997, passed 9-23-97)
 Penalty, see § 10.99
+§ 70.11 STREET NAMES.
+   The authority to name or re-name any street or public way within the city,
+and to hear petitions for the same, shall rest with the Board of Public Works
+and Safety.
+(Ord. 16-2024, passed 8-27-24)
 § 70.99 PENALTY.
    (A)   Unless another penalty is expressly provided, whoever violates any
 provision of this title and any other traffic ordinance of the city shall be
@@ -7779,11 +7913,14 @@ Jefferson Street        From Third Street to    Southbound 13-1999  5-25-99
                         Thirteenth Street
 Madison Street          From Fourteenth Street  Northbound —      - -
                         to Sixth Street
+Park Street             From Twelfth Street to  Northbound 12-2024  6-25-24
+                        Ninth Street
 Peace Tree Village Road From Main Street West   Westbound  14-2017  12-19-17
                         (entire road)
  
 (‘79 Code, § 8-15) (Am. Ord. 13-1999, passed 5-25-99; Am. Ord. 09-2000, passed
-3-28-00; Am. Ord. 16-2005, passed 10-25-05; Am. Ord. 14-2017, passed 12-19-17)
+3-28-00; Am. Ord. 16-2005, passed 10-25-05; Am. Ord. 14-2017, passed 12-19-17;
+Am. Ord. 12-2024, passed 6-25-24)
 Statutory reference:
    Power of city to designate one-way streets, see I.C. 9-21-1-3(a)(4)
 SCHEDULE V. OTHER PROHIBITIONS.
@@ -9084,6 +9221,8 @@ Section
 94.01   Nuisances declared
    
 94.02   Noise
+   
+94.03   Compression brakes
 Statutory reference:
    Motor vehicle noise limits, see I.C. 9-19-8-1 et seq.
    Residual power of city, see I.C. 36-1-3-4 and 36-1-3-5
@@ -9118,6 +9257,10 @@ public address system upon the streets and public places for the purpose of
 directing all vehicular traffic upon them.
 ('79 Code, § 9-16) (Ord. 07-1997,passed 4-8-97)
 Penalty, see § 10.99
+§ 94.03 COMPRESSION BRAKES.
+   The use of compression brakes on motor vehicles is prohibited within the
+city limits unless such use is required by an emergency.
+(Ord. 01-2024, passed 1-23-24)
 CHAPTER 95: PARKS AND RECREATION
 Section
 General Provisions
@@ -9969,7 +10112,7 @@ City Tree Board
    
 97.25   Creation and establishment of City Tree Board
    
-97.26   Term of office
+97.26   (Reserved)
    
 97.27   Compensation
    
@@ -10135,17 +10278,13 @@ types of trees to be planted.
 10.99
 CITY TREE BOARD
 § 97.25 CREATION AND ESTABLISHMENT OF CITY TREE BOARD.
-   There is created a City Tree Board, which shall consist of five residents of
-the city appointed by the Mayor with the approval of the Common Council.
+   There is created a City Tree Board. The City Sidewalk and Tree Commission
+created under §
+70.05 shall serve as the City Tree Board.
 (‘79 Code, § 16-21) (Ord. 12-1990, passed 5-22-90; Am. Ord. 24-1997, passed 8-
-26-97; Am. Ord. 14-2010, passed 12-14-10; Am. Ord. 05-2019, passed 7-23-19)
-§ 97.26 TERM OF OFFICE.
-   The term of office for each of the persons appointed to the City Tree Board
-shall be three years, with no more than two Board member terms to expire in the
-same year. In the event of a vacancy the Mayor, with the approval of the Common
-Council, shall appoint a member to complete the term of office vacated.
-(‘79 Code, § 16-22) (Ord. 12-1990, passed 5-22-90; Am. Ord. 24-1997, passed 8-
-26-97; Am. Ord. 14-2010, passed 12-14-10; Am. Ord. 05-2019, passed 7-23-19)
+26-97; Am. Ord. 14-2010, passed 12-14-10; Am. Ord. 05-2019, passed 7-23-19; Am.
+Ord. 46-2024, passed 11-26-24)
+§ 97.26 (RESERVED).
 § 97.27 COMPENSATION.
    Members of the Tree Board shall serve without compensation.
 (‘79 Code, § 16-23) (Ord. 12-1990, passed 5-22-90; Am. Ord. 24-1997, passed 8-
@@ -11440,13 +11579,15 @@ property or improvements owned by the city, or any of its subsidiaries, for the
 purpose of commercial activity, or for the selling or offering for sale, goods
 or services to the general public.
    (B)   Any person seeking to engage in the activity described in division (A)
-may obtain the permission of the Board of Public Works in advance.
+may obtain the permission of the Board of Public Works in advance, except for
+such activity within a city park, which permission may be obtained from the
+City Board of Park Commissioners.
    (C)   It shall not be considered a violation of this chapter for a person to
 post written notices, advertisements, or offers for commercial activity at a
 location intended for dissemination of such information.
    (D)   Nothing in this chapter supersedes a person’s obligation to comply
 with any applicable responsibilities under Title XI.
-(Ord. 11-2018, passed 11-27-18)
+(Ord. 11-2018, passed 11-27-18; Am. Ord. 20-2024, passed 8-27-24)
 § 119.99 PENALTY.
    Any person who violates this chapter shall be subject to a penalty fine not
 to exceed $100.
@@ -12242,8 +12383,8 @@ hereby referred to, adopted, and made a part hereof, as if fully set out in
 this section.
 (Ord. 11-2000, passed 5-23-00; Am. Ord. 19-2007, passed 11-27-07; Am. Ord. 20-
 2007, passed 11-27-07; Am. Res. 10-2018, passed 11-27-18; Am. Res. 04-2021,
-passed 7-27-21; Am. Res. 08-2022, passed 8- 23-22; Am. Res. 08-2023, passed 11-
-28-23)
+passed 7-27-21; Am. Res. 08-2022, passed 8-23-22; Am. Res. 08-2023, passed 11-
+28-23; Am. Ord. 33-2024, passed 2-25-25)
 CHAPTER 153: FLOOD HAZARD AREAS
 Section
 General Provisions
@@ -13560,6 +13701,9 @@ Ord. No. Date Passed Description
                      Annexing territory adjacent and contiguous to the south of
 12-2005  11-8-05     the present city boundaries, east of Southway 31 and south
                      of the Oakwood and Manchester Meadows subdivisions.
+45-2024  12-17-24    Annexing territory located at 382-388, 390-396, 392, 421,
+                     431, 441, 450 Blacketor Drive.
+                    
  
 TABLE II: BONDS
 Ord. No. Date Passed Description
@@ -13608,6 +13752,11 @@ Res. 1-1998  12-7-98     Appropriating the proceeds of bonds of the Rochester
 03-2021      3-23-21     revenue bonds to provide funds for the refunding of
                          certain previously issued and currently outstanding
                          waterworks revenue bonds.
+Res. 30-2024 10-7-24     Bond resolution of the Water Board of the city.
+                         Authorizing the issuance of waterworks revenue bonds
+34-2024      10-22-24    for the purpose of providing funds to pay the cost of
+                         certain additions, extensions and improvements to the
+                         municipal waterworks.
                         
  
 TABLE III: ECONOMIC DEVELOPMENT
@@ -13736,6 +13885,10 @@ Res. 01-2022 1-25-22     Designating certain property as an economic
                          revitalization area.
 Res. 03-2022 2-22-22     Confirming economic revitalization area described in
                          Res. 01-2022, and approving a tax abatement
+Res. 15-2024 6-25-24     Designating certain real estate as described in
+                         Exhibit A as an economic revitalization area.
+Res. 24-2024 8-27-24     Designating 1329 College Ave as an economic
+                         revitalization area.
                         
  
 TABLE IV: REAL ESTATE TRANSACTIONS
@@ -13876,6 +14029,14 @@ No.  Passed
 01-  2-28-  Vacating that portion of North Lake Center Drive (25 feet wide right-of-way)
 2023 23     lying adjacent to and immediately west of Lot 3BB as said lot is known and
             designated on the North Lake Center Second Replat.
+13-  6-25-  Vacating a 30-foot-wide and 130 feet in length portion of the drive running
+2024 24     east and west lying directly parallel with Lots 22a (Carvey replat) and 21 of
+            Lily’s Park.
+21-  9-24-  Vacating a 30-foot-wide and approximately 395 feet in length running north and
+2024 24     south lying directly parallel between Lot 4 Shobes 3rd Fairview Heights, Lot 20
+            Shobes 3rd Fairview Heights and Lots 15 through 19 Fairview Heights.
+23-  8-27-  Vacating the undeveloped portion of Jay Street bordered by Lots 409 through 411
+2024 24     on the west and Lots 406 through 408 on the east of Lords Addition.
            
  
 TABLE VI: ZONING MAP CHANGES
@@ -14070,6 +14231,7 @@ I.C. Cite               Code Section
 5-16-9-9(c)             72.27
 5-16-9-9(d)             72.28
 5-22                    35.20
+5-22-7                  35.21
 6-1.1-41                35.13
 6-3.6-9-17              35.14
 6-3.6-9-17(h)(1)(A)     35.14
@@ -14090,6 +14252,7 @@ I.C. Cite               Code Section
 8-1.5-5-1 et seq.       32.75,
                         32.76
 8-1.5-5-2               52.095
+8-1.5-5-7(b)            32.79
 8-2.5-5-4(g)            32.76
 Title 9                 Ch. 70
 9-13-2-1 et seq.        70.01
@@ -14634,7 +14797,6 @@ REFERENCES TO 1979 CODE
 16-11             97.11
 16-12             97.12
 16-21             97.25
-16-22             97.26
 16-23             97.27
 16-24             97.28
 16-25             97.29
@@ -14798,16 +14960,18 @@ Ord. No.            Date Passed Description
 23-1989             6-13-89     52.025,
                                 52.102,
                                 52.104
-5-1990              2-13-90     Ch. 75, Sched. II, Ch. 75, Sched. III
+5-1990              2-13-90     Ch. 75, Sched. II,
+                                Ch. 75, Sched. III
 9-1990              4-10-90     32.50 -
                                 32.52
 8-1990              4-10-90     52.096 -
                                 52.102
                                 97.01 -
                                 97.09,
-12-1990             5-22-90     97.11,
-                                97.12,
-                                97.25 -
+                                97.11,
+12-1990             5-22-90     97.12,
+                                97.25,
+                                97.27 -
                                 97.30
 15-1990             7-10-90     52.105
 36-1990             12-24-90    30.01,
@@ -14922,9 +15086,10 @@ Ord. No.            Date Passed Description
 27-1997             8-12-97     Ch. 75, Sched. III
                                 97.01 -
                                 97.09,
-24-1997             8-26-97     97.12,
-                                97.13,
-                                97.25 -
+                                97.12,
+24-1997             8-26-97     97.13,
+                                97.25,
+                                97.27 -
                                 97.30
 25-1997             8-26-97     34.05
 26-1997             8-26-97     Ch. 76, Sched. I
@@ -15121,8 +15286,9 @@ Res. 03-2006        3-28-06     T.S.O. III
 17-2009             10-27-09    T.S.O. V
 07-2010             10-12-10    T.S.O. II
                                 97.01 -
-14-2010             12-14-10    97.13,
-                                97.25 -
+                                97.13,
+14-2010             12-14-10    97.25,
+                                97.27 -
                                 97.30
 03-2011             3-8-11      35.12
 Res. No. 06-2011    3-22-11     T.S.O. IV
@@ -15263,8 +15429,7 @@ Res. 10-2018        11-27-18    152.001
 03-2019             5-28-19     52.104
 04-2019             7-23-19     51.57,
                                 51.58
-05-2019             7-23-19     97.25,
-                                97.26
+05-2019             7-23-19     97.25
 06-2019             8-27-19     Adopting Ordinance
 01-2020             2-25-20     Ch. 75, Sched. III
 Res. 08-2020        10-27-20    T.S.O. III
@@ -15322,6 +15487,39 @@ Res. 08-2023        11-28-23    151.001,
 09-2023             12-19-23    35.21
 10-2023             12-19-23    35.30 -
                                 35.36
+01-2024             1-23-24     94.03
+02-2024             1-23-24     35.30 -
+                                35.36
+03-2024             1-23-24     35.21
+10-2024             4-23-24     52.018
+11-2024             4-23-24     52.025,
+                                52.104
+12-2024             6-25-24     Ch. 75, Sched. IV
+13-2024             6-25-24     T.S.O. V
+Res. 15-2024        6-25-24     T.S.O. III
+16-2024             8-27-24     70.11
+17-2024             8-27-24     Adopting Ordinance
+20-2024             8-27-24     119.02
+21-2024             9-24-24     T.S.O. V
+23-2024             8-27-24     T.S.O. V
+Res. 24-2024        8-27-24     T.S.O. III
+Res. 30-2024        10-7-24     T.S.O. II
+33-2024             2-25-25     152.001
+34-2024             10-22-24    T.S.O. II
+41-2024             11-26-24    32.18
+                                52.017,
+                                52.018,
+                                52.018.1,
+                                52.025,
+42-2024             12-17-24    52.027,
+                                52.098,
+                                52.099,
+                                52.100,
+                                52.104
+45-2024             12-17-24    T.S.O. I
+46-2024             11-26-24    70.05,
+                                97.25
+47-2024             12-17-24    32.79
                                
  
  

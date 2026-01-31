@@ -222,6 +222,11 @@ Aug-25    Ch. 9                    2415     9-9-24   Urban Renewal Area
                                                      Mobile Food Vehicles,
           Ch. 122                  2510     7-14-25  Peddlers, Solicitors, and
                                                      Transient Merchants
+Jan-26    65.02(97)                2511     8-25-25  Stop Intersection
+          69.08(2)                 2512     10-13-25 No Parking Zone
+          114.02                   2513     11-24-25 Golf Course Fees
+          Ch. 155                  2514     12-15-25 Building Codes
+          156.03(17), 156.24(6)    2515     12-15-25 Sign Code
  
 GENERAL CODE PROVISIONS
 CHAPTER 1
@@ -5033,6 +5038,8 @@ following street intersections:
 97.   Vine Street. Vehicles traveling on Vine Street shall stop at the
 following street intersections:
    A.   U.S. Highway No. 30 – southbound only
+   B.   Eleventh Street – southbound only
+(Ord. 2511 –Jan. 26 Supp.)
 98.   Walnut Street. Vehicles traveling on Walnut Street shall stop at the
 following street intersections:
    A.   U.S. Highway No. 30 - northbound only
@@ -5464,9 +5471,12 @@ centerline of Eleventh Street - east side only.
       (1)   From 50 feet north of Tenth Street to the centerline of Eleventh
 Street, Monday through Friday - west side only.
 (Ord. 19-07 - Aug. 19 Supp.)
-2.   Anthony Street – “No Parking This Side.”
-   A.   From East Street to Maple Street – north side only.
-   B.   From Maple Street (north leg) to Walnut Street – south side only.
+2.   Anthony Street
+   A.   “No Parking This Side.”
+      (1)   From Maple Street (north leg) to Walnut Street – south side only.
+   B.   “No Parking Anytime”
+      (1)   From East Street to Maple Street.
+(Ord. 25-12 – Jan. 26 Supp.)
 3.   Bass Street – “No Parking Here To Corner.”
    A.   From 30 feet west of Grant Road to Grant Road – north side only.
 4.   Bella Vista Drive.
@@ -8113,7 +8123,7 @@ runoff and which drains either directly or indirectly to the storm sewer system
 or surface water drainage system of the City.
 6.   “Contributor” means any person, firm, corporation, or other entity or
 organization responsible for the direct or indirect discharge of storm water or
-surface or subsurface waters to the City’
+surface or subsurface waters to the City’s storm water drainage system.
 7.   “Days” means calendar days.
 8.   “Duplex residential property” means two dwelling units joined to each
 other with a common wall or one above the other, on one or two parcels whether
@@ -10608,29 +10618,28 @@ Daily Admission       $7.00
 Kids 3yo & younger    FREE
 114.02 CARROLL MUNICIPAL GOLF COURSE FEES AND CHARGES.
 MEMBERSHIP - ANNUAL FEE
-MEMBERSHIP - ANNUAL       FEE
-Family                    $860.00
-Adult                     $560.00
-Senior                    $505.00
-(65yo & older)
-Senior Couple             $775.00
-(65yo & older-one person)
-Student                   $244.00
-Trail Fees                $200.00
-Cart Rental               $495.00
+MEMBERSHIP - ANNUAL                                   FEE
+Family                                                $900.00
+Adult                                                 $590.00
+Senior (65 years & older)                             $530.00
+Senior Couple (65 years & older - one person minimum) $815.00
+Student                                               $255.00
+Trail Fees                                            $200.00
+Cart Rental (Seasonal)                                $500.00
  
 MISCELLANEOUS
  
-TYPE                 FEE
-Green Fees 9 holes   $20.00
-Green Fees 18 holes  $32.00
-Cart Rental 9 holes  $10.00
-Cart Rental 18 holes $20.00
-Trail Fees 9 holes   $5.00
-Trail Fees 18 holes  $7.50
-The City Council does authorize the Director of Parks and Recreation to adjust
-green fees or allow specials to encourage more rounds of golf.
-(Ord. 2209 - Jan. 23 Supp.)
+TYPE                   FEE
+Green Fees - 9 holes   $25.00
+Green Fees - 18 holes  $35.00
+Cart Rental - 9 holes  $15.00
+Cart Rental - 18 holes $22.00
+Trail Fees - 9 holes   $5.00
+Trail Fees - 18 holes  $7.50
+The City Council authorizes the Director of Parks and Recreation to adjust
+green fees or offer specials and promotional rates as necessary to encourage
+increased play.
+(Ord. 2513 – Jan. 26 Supp.)
 114.03 CARROLL RECREATION CENTER FEES AND CHARGES.
 (Effective July 1, 2025)
 CITY OF CARROLL RESIDENTS
@@ -12891,69 +12900,1140 @@ pruned as to give clear vision to all vehicular traffic approaching from any
 direction.
 CHAPTER 155
 BUILDING CODE
-155.01 Short Title                     155.23 Electrical Permit Fees
-155.02 Purpose                         155.24 Plan Checking Fees
-155.03 Adoption of State Building Code 155.25 Expiration of Plan Check
-155.04 Copies Filed                    155.26 Reinspection Fee
-155.05 Building Official               155.27 Other Inspection Fees
-155.06 Board of Appeals                155.28 Penalty Fee
-155.07 Permits Required                155.29 Inspection Required
-155.08 Emergency Work                  155.30 placeLot Survey
-155.09 Permit Applications             155.31 Concealed Work
-155.10 Indemnity                       155.32 Inspection Record Card
-155.11 Plans and Specifications        155.33 Approvals Required
-155.12 Plan Review                     155.34 Required Inspections
-155.13 Plan Approval                   155.35 Maintenance
-155.14 Partial Plans                   155.36 Special Inspections
-155.15 Retention of Plans              155.37 Special Inspector
-155.16 Issuance of Permits             155.38 Approved Fabricators
-155.17 Validity                        155.39 Request for Inspection
-155.18 Expiration of Permit            155.40 Access
-155.19 Suspension or Revocation        155.41 Power, Fuel and Water Supply
-                                       Connections
-155.20 Building Permit Fees            155.42 Certificate of Occupancy
-155.21 Mechanical Permit Fees          155.43 Violations
-155.22 Plumbing Permit Fees            155.44 Penalty
+155.01 Title                                                      155.28  Expiration of Permit
+155.02 Purpose                                                    155.29  Suspension or
+                                                                  Revocation
+155.03  Administrative Provisions                               155.30  Building Permit Fees
+155.04  Codes Adopted                                           155.31  Mechanical Permit
+                                                                  Fees
+155.05  Adoption of the 2021 International Residential Code     155.32  Plumbing Permit Fees
+155.06  Adoption of the 2021 International Building Code        155.33  Electrical Permit
+                                                                  Fees
+155.07  Adoption of the 2021 International Existing Building Cod155.34  Plan Checking Fees
+155.08  Adoption of the 2024 International Mechanical Code      155.35  Expiration of Plan
+                                                                  Check
+155.09  Adoption of the 2024 Uniform Plumbing Code              155.36  Reinspection Fee
+155.10  Adoption of the 2023 National Electrical Code           155.37  Other Inspection
+                                                                  Fees 
+155.11  Adoption of the 2024 International Fuel Gas Code        155.38  Penalty Fee 
+155.12  Adoption of the 2024 International Property Maintenance 155.39  Inspection Required
+Code
+155.13  Adoption of the 2012 International Energy Conservation  155.40  Lot Survey
+Code
+155.14  Adoption of the 2021 International Fire Code            155.41  Concealed Work
+155.15  Building Official                                       155.42  Inspection Record
+                                                                  Card
+155.16  Board of Appeals                                        155.43  Approvals Required
+155.17  Permits Required                                        155.44  Required Inspections
+155.18  Emergency Work                                          155.45 Maintenance
+155.19  Permit Applications                                     155.46 Special Inspections
+155.20  Indemnity                                               155.47 Special Inspector
+155.21  Plans and Specifications                                155.48 Approved Fabricators
+155.22  Plan Review                                             155.49 Request for
+                                                                  Inspection
+155.23  Plan Approval                                           155.50 Access
+155.24  Partial Plans                                           155.51 Power, Fuel and Water
+                                                                  Supply Connections
+155.25  Retention of Plans                                      155.52 Certificate of
+                                                                  Occupancy
+155.26  Issuance of Permits                                     155.53 Violations
+155.27  Validity                                                155.54 Penalty
  
-155.01 SHORT TITLE.
-This chapter shall be known as the Carroll, Iowa, Building Code, and may be
-cited as such, and will be referred to herein as “this chapter.”
+155.01 TITLE.
+This chapter shall be known as the City of Carroll, Iowa, Building Code, and
+may be cited as such and is referred to herein as the “Building Code.”
 155.02 PURPOSE.
 The purpose of this chapter is to protect public health, property, welfare and
 safety by establishing reasonable minimum requirements for the construction,
 repair, moving, demolition and use of buildings, structures and related
 equipment, fixtures and systems.
-155.03 ADOPTION OF STATE BUILDING CODE.
-Pursuant to published notice and public hearing, as required by law, the Iowa
-State Building Code, promulgated pursuant to Chapter 103A of the Code of Iowa,
-including the one- and two-family dwelling code, is hereby adopted by
-reference. The Building Code shall be amended as follows:
-(Code of Iowa, Sec. 103A.10[2b] and Sec. 380.10)
-1.   Section 3206.3 “Projections” shall be amended to permit awnings to
-protrude no closer than two feet from the curb line, nor shall any awning
-protrude to within 12 inches of any light pole or attachment thereon, nor
-within 12 inches of the sight line from one light pole and attachments to the
-next, in the B-3 District.
-2.   Section 3206.4 “Clearances” shall be amended to require a minimum
-clearance of 8 feet for all awnings including valances in the B-3 District.
-155.04 COPIES FILED.
-Official copies of the aforementioned Iowa State Building Code, the standard
-codes adopted therein, and a certified copy of this chapter are on file in the
-office of the Clerk. Certified copies of this chapter are also on file in the
-office of the State Building Code Commissioner and in the office of the
-Secretary of State.
-(Code of Iowa, Sec. 103A.12 and Sec. 380.8)
-155.05 BUILDING OFFICIAL.
+155.03 ADMINISTRATIVE PROVISIONS.
+Administration of this ordinance shall be as provided in this section and in
+the following sections of the several codes named which are hereby adopted by
+reference to provide procedures for local enforcement of the codes,
+constituting the International Codes. The Building Official or designee,
+designated by the City Council, shall be responsible for the enforcement of the
+International Codes. The Building Official shall be accountable for the
+issuance of all applicable permits under this ordinance which shall include
+building permits issued in compliance with the Zoning Ordinance of the City of
+Carroll. The Building Official shall have the power to render interpretations
+of this code and to adopt and enforce rules and regulations supplemental to
+this code, subject to approval of the Council of the City of Carroll, as the
+Building Official may deem necessary in order to clarify the application of the
+provisions of this code. Such interpretations, rules and regulations shall be
+in conformity with the intent and purpose of this code.
+155.04 CODES ADOPTED.
+The 2021 Edition of the International Series of Codes and its Appendices are
+hereby adopted by reference. Official copies thereof are on file in the office
+of the City Clerk. The 2021 International Code Series (Family of Codes)
+includes:
+   1.   International Residential Code
+   2.   International Building Code
+   3.   International Existing Building Code
+   4.   International Mechanical Code
+   5.   Uniform Plumbing Code
+   6.   National Electrical Code (2023)
+   7.   International Fuel Gas Code
+   8.   International Property Maintenance Code
+   9.   International Energy Conservation Code (2012 Followed by State of Iowa)
+   10.   International Fire Code
+155.05 ADOPTION OF THE 2021 INTERNATIONAL RESIDENTIAL CODE.
+The International Residential Code, 2021 Edition, published by the
+International Code Council, is hereby adopted in full, by reference, including
+Appendix Chapters except for such portions as may hereinafter be deleted,
+modified or amended. The following amendments, modifications, additions and
+deletions to the International Residential Code, 2021 Edition, are hereby made:
+   1.   Insert Section R101.1 to read City of Carroll as the applicable
+jurisdiction.
+   2.   Delete Section R105.2(Building1) and replace as follows:
+      1.   One-story detached accessory structures, provided the floor area
+does not exceed 200 square feet; however, site plan approval shall be obtained
+from the Zoning Department.
+   3.   Delete Sections R105.2(Building 2), R105.2(Building 4), R105.2(Building
+5), and R105.2(Building 10). Replace section R105.2 (5) with the following
+language: Sidewalks shall be permitted and installed in accordance with
+approved site plan for individual lot development.
+   4.   Amend Section R105.6 to include the addition of R105.6.1 Revocation of
+permit. Insert Section R105.6.1 to read: Revocation of Permit. It is the permit
+holder’s responsibility to schedule the required inspections and obtain final
+approvals. Failure to schedule the required inspections and receive approval of
+work authorized by the permit before covering said work or at completion shall
+result in revocation of the permit and void any associated approvals granted by
+the City.  This failure shall also equate to working without a permit in
+violation of City ordinance and no future permits shall be issued to any person
+or company who has outstanding violations of this code or any other laws or
+ordinances of the City.  Failure to contact the City for any inspection or
+follow-up prior to expiration of a permit shall be deemed a violation of this
+code section.  Failure to contact the City for any inspection or follow-up
+prior to expiration of a Temporary Certificate of Occupancy shall also be
+deemed a violation of this code section.  Allowing occupancy of a structure,
+for which a person or company holds a building permit, prior to or without a
+valid Certificate of Occupancy (temporary or final) shall be deemed a violation
+of this code section and no future permits shall be issued to any person or
+company who has outstanding violations of this code or any other laws or
+ordinances of the City. 
+   5.   Add the following to Section R108.2 Schedule of Permit Fees with the
+following language:
+      Permit fees will be derived from the City of Carroll Fee Schedule as
+adopted. The Building Official may authorize refunding of any fee paid
+hereunder which was erroneously paid or collected.
+   6.   Amend Section R110.1 to add the following at the end of the paragraph:
+      On all new construction, all necessary walks, drives and approaches, are
+to be installed before a final Certificate of Occupancy is issued.
+   7.   Table R301.2 to read as follows:
+ 
+Ground Wind Design                         Seismic  Subject To Damage From    Winter Ice Barrier
+Snow   Speed Topographic Special Windborne Design              Frost          Design Underlayment Flood   Air      Mean
+Load   (MPH) Effects     Wind    Debris    Category Weathering Depth Termite  Temp   Required     Hazards Freezing Annual
+                         Region  Zone                                                                     Index    Temp.
+30     115   No          No      No        A        Severe     42    Moderate 0      Yes          Yes     Dec.     2000 48.6
+                                                                                                          2007
+ 
+   8.   Amend Section R301.2.3 to add the following:
+      For purposes of determining snow loads, the minimum ground snow load for
+design purposes shall be 30 pounds per square foot. Subsequent increases or
+decreases shall be allowed as otherwise provided in this code, except that the
+minimum allowable flat roof snow load may be reduced to not less than 80
+percent of the ground snow load.
+   9.   Amend section R302.3 to read:
+      For purposes of fire-resistive separation, two family dwelling units
+shall be considered as townhouses and shall be constructed in accordance with
+R302.2
+   10.   Amend IRC Table 302.6 and replace with the following table:
+TABLE R302.6
+DWELLING-GARAGE SEPARATION
+ 
+SEPARATION  MATERIAL
+From the
+residence   Not less than 5/8-inch “X” gypsum board or equivalent applied to the garage side
+and attics
+From
+habitable
+rooms
+above the
+garage and
+structure
+(s)
+supporting  Not less than 5/8-inch “X” gypsum board or equivalent
+floor/
+ceiling
+assemblies
+used for
+separation
+required
+by this
+section
+Garages
+located
+less than
+5 feet      Not less than 5/8-inch “X” gypsum board or equivalent applied to the interior
+from a      side of exterior walls and ceilings within the garage
+dwelling
+unit on
+the same
+lot
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
+   11.   Delete Section R302.13
+   12.   Amend Section R305.1.1 Exception to read:
+      Existing basements not having a height as specified in this section are
+allowed to be finished with a ceiling height that is not decreased more than
+the minimal measurement created by applying a finished ceiling of gypsum board
+or acoustical ceiling tiles.
+   13.   Amend Section R310.2.3 to add the following exception:
+      A landing may be provided to meet the maximum sill height of forty-four
+(44) inches above the floor or landing provided. The landing shall be not less
+than thirty-six (36) inches wide, not less than twelve (12) inches out from the
+exterior wall, and not more than twenty-four (24) inches in height. The landing
+shall be permanently affixed to the floor below or the wall under the window it
+serves.
+   14.   Amend Section R310.6 Exception to read:
+      New habitable spaces created in an existing basement shall be provided
+with emergency escape and rescue openings in accordance with Section R310.1.
+   15.   Amend Section R311.3.2 Exception to read:
+      A top landing is not required where a stairway of not more than four
+rises is located on the exterior side of a door, provided the door does not
+swing over the stairway.
+   16.   Amend Section R311.7.5.1 to add exception 3 with the following
+language:
+      The dimension of the top and bottom riser of a stair may vary up to 1-
+inch (25.4 mm) from the stairway riser dimension; however, in no case shall the
+riser height exceed seven and three-quarter inches.
+   17.   Amend Section R311.7.8.4 to add exception 3 with the following
+language:
+      Handrails within a dwelling unit or serving an individual dwelling unit
+shall be permitted to be interrupted at one location in a straight stair when
+the rail terminates into a wall or ledge and is offset and immediately
+continues.
+   18.   Delete Section R313.1 and replace with the following:
+      313.1 Townhouses automatic fire sprinkler systems. An automatic
+residential fire sprinkler system shall be installed in townhouses.
+         Exceptions:
+         (1)   An automatic residential fire sprinkler system shall not be
+required where additions or alterations are made to existing townhouses that do
+not have an automatic residential fire sprinkler system installed.
+         (2)   Townhouse structures where the conditioned square footage of the
+entire building is less than eighteen thousand (18,000) square feet. For
+purposes of this section, conditioned space shall be defined as space that can
+be occupied but shall not include garages or attics.
+         (3)   Townhouse structures that contain eight (8) or less dwelling
+units.
+   19.   Delete Section R313.2 and replace with the following:
+      313.2 One and two-family dwelling automatic fire sprinkler systems. An
+automatic residential fire sprinkler system shall be installed in one and two-
+family dwellings.
+         Exceptions:
+         (1)   An automatic residential fire sprinkler system shall not be
+required where additions or alterations are made to existing buildings that are
+not already provided with an automatic residential fire sprinkler system.
+         (2)   One and two-family dwellings containing less than eight thousand
+(8,000) square feet of floor space, excluding attached garages and other
+unenclosed areas.
+   20.   Amend Section R317.1 to add the following:
+      8.   Fences. Residential fences shall be chain link, ornamental iron,
+PVC/Composite, or approved wood. Wood used in fences shall be treated wood, or
+approved wood of natural resistance to decay.
+   21.   Replace Table R403.1(1), (2), (3)with the following:
+TABLE R403.1
+FOUNDATIONS FOR STUD BEARING WALLS
+ 
+                                                             Minimum Depth of
+          Thickness of                                       Foundation Below
+Number of Foundation Walls Minimum Width of Thickness of     Natural Surface
+Stories   Unit Concrete    Footing (inches) Footing (inches) of Ground and
+          Masonry                                            Finish Grade
+                                                             (inches)
+1         8  8             16               8                42
+2         8  8             16               8                42
+3         10 10            18               12               42
+ 
+   22.   Delete Section R403.1.4.1 Exception 1 and replace with the following:
+      Accessory structures up to 200 square feet may be constructed on a 4 inch
+wood deck or 4 inch concrete slab. Protection for detached garages and other
+accessory structures 1024 square feet or less in size, located more than ten
+(10) feet from a dwelling, attached garage, or other principal structures, may
+be accomplished with a floating slab (monolithic). The floating slab shall
+include a thickened slab edge or a minimum eighteen (18) inches thick. Twelve
+inches of the thickened slab shall be below grade and six inches shall be above
+finished grade. The bottom portion of the thickened slab area shall be twelve
+(12) by twelve (12) inches. Two #4 rebar shall be placed within the thickened
+edge continuous around the perimeter of the slab. The floor shall be Portland
+cement concrete not less than four (4) inches thick. Garage floor areas shall
+have all sod and/or debris removed. For detached garages and accessory
+structures exceeding 1024 square feet, a frost protected footing and foundation
+shall be required.
+   23.   Delete Section R403.1.4.1 Exception 2.
+   24.   Amend Section R404.1 to add the following:
+      1.   Scope. Notwithstanding other design requirements of Sections R404.1
+- R404.1.5.2 of the International Residential Code, foundation retaining walls
+for one and two family dwelling occupancies of Type V construction may be
+constructed in accordance with this section, provided that use or building site
+conditions affecting such walls are within the limitations specified in this
+section. Concrete foundation walls shall be selected and constructed in
+accordance with the provisions of Section R404.1.3. Masonry foundation walls
+shall be selected and constructed in accordance with the provisions of Section
+R404.1.2. If backfill prior to a poured in place floor slab is desired, one of
+the following methods to provide bottom lateral support shall be completed: (1)
+a full depth (minimum 1-1/2”) nominal 2” x 4” keyway may be formed into the
+footings to secure the bottom of the foundation wall -or- (2) 36” long vertical
+# 4 rebar may be embedded a minimum of 6” into the footings not to exceed 7’ on
+center spacing.
+   25.   Amend Code Section: IRC R404.1.3.2.3 Insert the following language and
+Table:
+Table R404.1.3.2.3 - ‘Foundation Walls for Conventional Light Frame
+Construction’
+Height of  Thickness of
+Foundation Foundation Walls
+Wall (Net  Unit             Reinforcement
+measured                    Type and
+from top                    placement     Reinforcement Type and placement within Foundation Wall**       Type of
+of                          within        (maximum 12’ span between corners and supporting cross walls) Mortar
+basement                   Foundation
+slab to                     Wall**
+top of
+foundation
+wall)*
+Gross Net  Concrete Masonry Concrete      Masonry                                                         Masonry
+Height of      Thickness of
+Foundation     Foundation Walls
+Wall (Net      Unit
+measured from                                                                              Reinforcement Type and placement within Foundation Wall**       Type of
+top of                          Reinforcement Type and placement within Foundation Wall**  (maximum 12’ span between corners and supporting cross walls) Mortar
+basement slab   
+to top of
+foundation
+wall)*
+Gross Net      Concrete Masonry Concrete                                                   Masonry                                                         Masonry
+      7’ 8”7 1/2” 8”                                                                                                                               Type M or
+                                                                                                                                                           S. Grout &
+                                                                                                                                                           Mortar
+8                               1/2” horizontal bars, placement in the middle, and near  0.075 square inch bar 8’ o.c. vertically in fully grouted     shall meet
+                             the top & bottom – 1/2” bars @ 6’ max. vertically    cells. If block is 12” nominal thickness, may be unreinforced.provisions
+                                                                                                                                                           of Chapter
+                                                                                                                                                           21 IBC
+
+      8’ 8”8”     See                                                                                                                                Same as
+9                     Chapter 1/2” bars 2’ o.c.                                      See Chapter 18 IBC                                              above
+                        18 IBC  horizontally & 20”
+                                vertically o.c.                                            See Chapter 18 IBC                                              Same as
+10    9’ 8”8”     See                                                                                                                                above
+                     Chapter (5/8” bars 2’ o.c.
+                        18 IBC  horizontally & 30”                                                                                                        
+                                vertically o.c.)
+*Concrete floor slab to be nominal 4”. If such floor slab is not provided prior to backfill, provide 1) 36” vertical #4 rebar embedded in the footing @ maximum 7’
+O.C. spacing -and/or- 2) full depth nominal 2”depth x 4”width keyway in footing
+** All reinforcement bars shall meet ASTM A6175 grade 40 minimum and be deformed. Placement of bars shall be in center of wall and meet the provisions of chapters
+18, 19, and 21 of the International Building Code.
+NOTE: Cast in place concrete shall have a compressive strength of 3,000 lbs @ 28 days. Footings shall contain continuous reinforcement of minimum 2 – Y2” diameter
+rebar throughout. Placement of reinforcement and concrete shall meet the requirements of Chapter 19 of the International Building Code.
+NOTE: Material used for backfilling shall be carefully placed granular soil of average or high permeability and shall be drained with an approved drainage system as
+prescribed in Section 1805.4 of the International Building Code. Where soils containing a high percentage of clay, fine silt or similar materials of low permeability
+or expansive soils are encountered or where backfill materials are not drained or an unusually high surcharge is to be placed adjacent to the wall, a specially
+designed wall shall be required.
+Note: Foundation plate or sill anchorage shall be installed in accordance with the respective codes as applicable.
+ 
+   26.    Amend Chapter 11 Energy Efficiency -- Energy Efficiency, of the IRC
+is hereby amended by deleting this chapter and inserting the following:
+      Provisions of the International Energy Conservation Code as currently
+adopted and amended by the Iowa State Building Code Bureau shall apply to all
+matters governing the design and construction of buildings for energy
+efficiency. Administration shall be prescribed in “this code” and the
+regulations shall be known as the Carroll Energy Code.
+   27.   Amend Section R1601.4 to add the following:
+      Section 1601.4 Installation. Duct installation shall comply with sections
+M1601.4.1 through M1601.4.11
+      Section 1601.4.11. Air plenum and duct separation. Air plenums and ducts
+located in floor and wall cavities shall be separated from unconditioned spaces
+by construction with sufficient insulation to meet energy code requirements.
+These areas include but are not limited to exterior walls, cantilevered floors,
+and floors above garages.
+   28.   Delete Section R G2414.5.2 (403.5.2) and replace with the following:
+      Section G2415.5.2 (403.5.2): Corrugated Stainless Steel Tubing (CSST).
+Only CSST with an Arc Resistant Jacket or Covering System listed in accordance
+with ANSI LC-1 (Optional Section 5.16)/CSA 6.26-2016 shall be installed in
+accordance with the terms of its approval, the conditions of listing, the
+manufactures instructions and this code including electrical bonding
+requirements in Section G2411. CSST shall not be used for through wall
+penetrations from the point of delivery of the gas supply to the inside of the
+structure. CSST shall not be installed in locations where subject to physical
+damage unless protected in an approved manner.
+   29.   Delete Section R G2414.5.4 (403.5.5) and replace with the following:
+      Section G2414.5.4 (403.5.5): Corrugated Stainless Steel Tubing. Arc
+resistant corrugated stainless steel tubing shall be listed in accordance with
+ANSI LC 1 (Optional Section 5.16)/CSA 6.26.
+   30.   Add Code Section IRC E3704.7 and insert the following language:
+      3704.7 Prohibited Locations. Feeders supplying a townhome shall not cross
+a property line other than the individual unit served. For the purposes of this
+provision, the term townhome shall mean a single-family dwelling unit
+constructed in a group of two or more attached units in which each unit extends
+from foundation to roof and with a yard or public way on not less than two
+sides.
+      Exception: If a recorded easement is established in a concealed space or
+attic within the townhome unit, feeds are allowed within the easement.
+155.06 ADOPTION OF THE 2021 INTERNATIONAL BUILDING CODE.
+The International By reference Code, 2021 Edition, published by the
+International Code Council, is hereby adopted in full by reference, to include
+Appendix K except for such portions as may hereinafter be deleted, modified or
+amended. The following amendments, modifications, additions and deletions to
+the International Building Code, 2021 Edition, are hereby made:
+   1.   Insert Section 101.1 to read City of Carroll
+   2.   Delete Sections 105.2(Building 2), 105.2(Building 5), 105.2(Building
+6).
+   3.   Amend Section R105.6 to include the addition of R105.6.1 Revocation of
+permit. Insert Section R105.6.1 to read: Revocation of Permit. It is the permit
+holder’s responsibility to schedule the required inspections and obtain final
+approvals. Failure to schedule the required inspections and receive approval of
+work authorized by the permit before covering said work or at completion shall
+result in revocation of the permit and void any associated approvals granted by
+the City. This failure shall also equate to working without a permit in
+violation of City ordinance and no future permits shall be issued to any person
+or company who has outstanding violations of this code or any other laws or
+ordinances of the City. Failure to contact the City for any inspection or
+follow-up prior to expiration of a permit shall be deemed a violation of this
+code section. Failure to contact the City for any inspection or follow-up prior
+to expiration of a Temporary Certificate of Occupancy shall also be deemed a
+violation of this code section. Allowing occupancy of a structure, for which a
+person or company holds a building permit, prior to or without a valid
+Certificate of Occupancy (temporary or final) shall be deemed a violation of
+this code section and no future permits shall be issued to any person or
+company who has outstanding violations of this code or any other laws or
+ordinances of the City.
+   4.   Add the following to Section 109.2 Schedule of Permit Fees with the
+following language:
+      Permit fees will be derived from the City of Carroll Fee Schedule as
+adopted.
+   5.   Add the following to Section R109.3: The Building Valuation will be
+derived from the construction costs for the total work submitted by the
+contractor, or the most current Building Valuation Data Schedule published by
+the International Code Council (ICC). Submitted contractor valuation shall not
+be less than derived valuation through ICC. Published data is utilized by the
+Administrative Official in an effort to maintain consistency and fairness for
+permit fee calculations. It is not intended to reflect actual taxable value.
+   6.   Delete Section 308.5.4 and replace with the following:
+      308.5.4 Eight or fewer persons receiving care in a dwelling unit. A
+facility such as the above within a dwelling unit and having eight or fewer
+persons receiving custodial care shall be classified as a Group R-3 occupancy
+or shall comply with the International Residential Code.
+      Exception:
+      Day Care facilities that provide custodial care for 16 or fewer persons
+for less than 24 hours per day in a single family dwelling, and where
+registered with the State of Iowa Department of Human Services as a child
+development home are permitted to comply with the International Residential
+Code.
+   7.   Delete Section 310.4.1 and replace with the following:
+      310.4.1 Care facilities within a dwelling. Care facilities within a
+dwelling shall adhere to section 308.5.4.
+   8.   Amend Section 423.5 to delete entire section including subsections
+423.5.1 and 423.5.2 and replace with the following language:
+      423.5 Group E occupancy. In areas where the shelter design wind speed for
+tornadoes in 250 mph in accordance with Figure 304.2 (1) of ICC 500, all Group
+E occupancies with a program occupant load of 50 or more shall have a storm
+shelter constructed in accordance with Chapters 1 through 5 & 8 of ICC 500.
+         Exceptions:
+         1    Group E day care facilities.
+         2.   Group E occupancies accessory to place of religious worship.
+         3.   Buildings meeting the requirements for shelter design in ICC 500.
+         4.   Accessory structures to existing group E sites where the
+occupancy classification of said structures are classified as Groups A-5 and U.
+      423.5.1 Required Occupant Capacity. The required occupant capacity of the
+storm shelter shall include all buildings classified as a Group E occupancy on
+the campus or site (whichever is larger) and shall be the greater of the
+following:
+      1.   The total occupant load of the classrooms, vocational rooms and
+offices in the Group E occupancy.
+      2.   The occupant load of any indoor assembly space that is associated
+with the Group E occupancy.
+         Exceptions:
+         1.   Where a new building is being added on an existing Group E site,
+and where the new building is not of sufficient size to accommodate the
+required occupant capacity of the storm shelter for all of the buildings on-
+site, the storm shelter shall at a minimum accommodate the required capacity
+for the new building.
+         2.   Where approved by the code official, the required occupant
+capacity of the shelter shall be permitted to be reduced by the occupant
+capacity of any existing storm shelters on the campus or site.
+      423.5.2 Location. Storm shelters shall be located within the buildings
+they serve, or shall be located where the maximum distance of travel from not
+fewer than one exterior door of each building to a door of the shelter serving
+that building does not exceed 1,000 feet.
+      The installation of portable buildings for utilization on the campus or
+site for educational purposes is considered new construction and classified as
+Group E occupancies.
+         Exception: Existing schools undergoing alterations, additions, or
+construction of new accessory buildings.
+   9.   Delete Code Section: IBC 502.1 (Correlation IFC 505.1) and replace with
+the following language:
+      502.1 Address identification. New and existing buildings shall have
+approved address numbers, building numbers or approved building identification
+placed in a position that is plainly legible and visible from the street or
+road fronting the property. These numbers shall be black or white and shall
+contrast with their background. Where required by the fire code official,
+address numbers shall be provided in greater dimension or additional approved
+locations to facilitate emergency response. Address numbers shall be Arabic
+numbers or alphabetical letters. Numbers and letters shall be a minimum height
+and a minimum stroke width as dictated by Table 502.1. Where access is by means
+of a private road and the building cannot be viewed from the public way, a
+monument, pole or other sign or means shall be used to identify the structure.
+Address numbers shall be maintained.
+Table 502.1
+Minimum Height and Stroke Width
+ 
+Distance from the centerline of Minimum Height (in) Minimum Stroke Width (in)
+the Public Way (ft)
+Less than 100                   4                   1/2
+100 199                         6                   3/4
+200 299                         8                   1
+For each additional 100         Increase 2          Increase 1/2
+a   Exterior suite identification, minimum height shall be 4 inches and stroke
+width shall be ½ inch.
+b   Interior suite identification, minimum height shall be 2 inches and stroke
+width shall be 1/4 inch.
+   10.   Modify IBC Section 716.2.6.1 to add the following language after the
+last sentence:
+      Automatic, self-closing, UL listed hinges may only be installed on the
+dwelling room entry door.
+   11.   Add Section 902.1.1.1 (Correlation IFC 901.4.6.1) to include the
+following language:
+      902.1.1.1 Fire Sprinkler Riser Room. A fire sprinkler riser room shall be
+separated from the electrical room. The riser room shall have no electrical
+panels, devices, or apparatus inside the room other than the outlets or support
+equipment (lighting, air compressor, and heater) required for the use of the
+fire sprinkler system and/or the fire alarm panel. The sprinkler riser room
+shall not be accessed from the electrical room, but the electrical room may be
+accessed from the fire riser room.
+   12.   Add new code section IBC 902.1.5 (Correlation IFC 901.4.6.5 K) to
+include the following language:
+      902.1.5 Temperature Sensor. Provide a low temperature sensor in the fire
+sprinkler riser room. Low Temperature Sensor shall be monitored to prevent
+freezing.
+   13.   Delete Section 903.2.11.1.3 and replace with the following:
+      903.2.11.1.3 Basements. Where any portion of a basement is located more
+than 75 feet (22 860 mm) from openings required by Section 903.2.11.1, the
+basement shall be equipped throughout with an approved automatic sprinkler
+system.
+   14.   Delete Section 903.4.2 and replace with the following:
+      903.4.2 Alarms. An approved weather proof audible device suitable for
+outdoor use with 110 candela visual signal shall be connected to every
+automatic sprinkler system. Such sprinkler water-flow alarm devices shall be
+activated by water flow equivalent to the flow of a single sprinkler of the
+smallest orifice size installed in the system. Alarm devices shall be provided
+on the exterior of the building in an approved location. Where a fire alarm
+system is installed, actuation of the automatic sprinkler system shall actuate
+the building fire alarm system.
+   15.   Amend Section 1008.3.3. to add the following locations with sequential
+numbering:
+      5. Public restrooms containing more than one water closet/urinal or that
+are accessible.
+      6. Meeting and conference rooms with an area greater than 400 square
+feet.
+      7. Classrooms in an E occupancy with an area greater than 400 square
+feet.
+   16.   Amend Section 1009.2 to add the following:
+      11. Components of exterior walking surfaces shall be concrete, asphalt,
+or other approved hard surface.
+   17.   Add Section 1010.1.6.1 with the following language:
+      1010.1.6.1 For landings required by Section 1010.1.5 to be at the same
+elevation on each side of the door, exterior landings at doors shall be
+provided with frost protection.
+   18.   Amend Section 1010.2.2 to add the following:
+      Thumb Turn Locks shall not be allowed.
+   19.   Add the following Section 1013.1.1:
+      1013.1.1 Additional Exit Signs. Exit signs may be required at the
+discretion of the Administrative Official to clarify an exit or exit access.
+   20.   Delete Sections 1013.5 and 1013.6 including 1013.6.1, 1013.6.2 and
+1013.6.3.
+   21.   Add the following Section 1028.5.1:
+      1028.5.1 Components of exterior walking surfaces shall be concrete,
+asphalt, or other approved hard surface.
+   22.   Modify Code Section: IBC 1301.1 and replace with the following
+language:
+      Section 1301.1 Scope. The provisions of the International Energy Code as
+currently adopted and amended by the Iowa State Building Code Bureau shall
+apply to all matters governing the design and construction of buildings for
+energy efficiency. Administration shall be as prescribed in chapter 1 of the
+currently State adoption of the IECC and these regulations shall be known as
+the Martensdale Energy Code.
+   23.   Amend Section 1608.2 to add the following: For purposes of determining
+snow loads, the minimum ground snow load for design purposes shall be 30 pounds
+per square foot. Subsequent increases or decreases shall be allowed as
+otherwise provided in this code, except that the minimum allowable flat roof
+snow load may be reduced to not less than 80 percent of the ground snow load.
+   24.   In Section 1609.1.1 add the following: For purposes of determining
+wind loads, the minimum basic wind speed shall be considered as 115 miles per
+hour; except when referenced documents are based on fastest mile wind
+velocities, Table 1609.3(1) shall be used.
+   25.   Add the following to Section 1807.1 Foundation Retaining Walls for
+Group R Occupancies:
+      1.   Scope. Notwithstanding other design requirements of Chapters 18, 19
+and 21of the International Building Code, foundation retaining walls for Group
+R occupancies of Type V construction may be constructed in accordance with this
+section, provided that use or building site conditions affecting such walls are
+within the limitations specified in this section.
+      2.   Specifications. General specifications for such foundation retaining
+walls shall be as follows:
+Table - ‘Foundation Walls for Conventional Light Frame Construction’
+                   Thickness of
+Height of          Foundation                     Reinforcement type
+Foundation Wall    Walls            Reinforcement and
+(Net measured from Unit             type          placement within
+                                    and placement Foundation Wall**    Type of
+top of basement                                   (maximum 12’ span  Mortar
+slab                                within        between corners and
+to top of                          Foundation    supporting cross
+foundation                          Wall**        walls)
+wall)*
+
+Gross Net          Concrete Masonry Concrete      Masonry              Masonry
+Height of  Thickness of
+Foundation Foundation
+Wall       Walls
+(Net       Unit                                                                       Reinforcement type and
+measured                    Reinforcement type                                        placement within
+from                        and placement                                             Foundation Wall**                                           Type of
+top of                      within Foundation                                         (maximum 12’ span                                         Mortar
+basement                    Wall**                                                    between corners and
+slab                                                                                 supporting cross walls)
+to top of
+foundation
+
+wall)*
+Gross Net  Concrete Masonry Concrete                                                  Masonry                                                     Masonry
+      7’ 7 1/2” 8”
+      8”                                                                                                                                        Type M or
+                                                                                                                                                  S. Grout &
+                            1/2”horizontal bars, placement in the middle, and near  0.075 square inch bar 8’ o.c. vertically in fully grouted Mortar
+8                           the top & bottom – Y2” bars @ 6’ max. vertically    cells. If block is 12” nominal thickness, may be          shall meet
+                                                                                   unreinforced.                                               provisions
+                                                                                                                                                  of Chapter
+                                                                                                                                                  21 IBC
+
+      8’ 8”
+      8”          See                                                                                                                           Same as
+9                   Chapter 1/2” bars 2’ o.c.                                     See Chapter 18 IBC                                          above
+                  18 IBC  horizontally & 20”
+                            vertically o.c.
+10    9’ 8”     See                                                               See Chapter 18 IBC                                          Same as
+      8”          Chapter                                                                                                                       above
+                 18 IBC  (5/8” bars 2’ o.c.                                                                                                
+                            horizontally & 30” vertically o.c.)
+*Concrete floor slab to be nominal 4”. If such floor slab is not provided prior to backfill, provide 1) 36” vertical #4 rebar embedded in the footing @
+maximum 7’ O.C. spacing -and/or- 2) full depth nominal 2”depth x 4”width keyway in footing
+** All reinforcement bars shall meet ASTM A6175 grade 40 minimum and be deformed. Placement of bars shall be in center of wall and meet the provisions of
+chapters 18, 19, and 21 of the International Building Code.
+NOTE: Cast in place concrete shall have a compressive strength of 3,000 lbs @ 28 days. Footings shall contain continuous reinforcement of minimum 2 – 1/2”
+diameter rebar throughout. Placement of reinforcement and concrete shall meet the requirements of Chapter 19 of the International Building Code.
+NOTE: Material used for backfilling shall be carefully placed granular soil of average or high permeability and shall be drained with an approved drainage
+system as prescribed in Section 1805.4 of the International Building Code. Where soils containing a high percentage of clay, fine silt or similar materials
+of low permeability or expansive soils are encountered or where backfill materials are not drained or an unusually high surcharge is to be placed adjacent
+to the wall, a specially designed wall shall be required.
+Note: Foundation plate or sill anchorage shall be installed in accordance with the respective codes as applicable.
+ 
+   26.   Replace Table 1809.7 with the following:
+TABLE 1809.7
+FOUNDATIONS FOR STUD BEARING WALLS
+ 
+                                                         Minimum Depth of
+          Thickness of     Minimum Width of Thickness of Foundation Below
+Number of Foundation Walls Footing          Footing      Natural Surface
+Stories   Unit Concrete    (inches)         (inches)     of Ground and
+          Masonry                                        Finish Grade
+                                                         (inches)
+1         8  8             16               8            42
+2         8  8             16               8            42
+3         10 10            18               12           42
+ 
+155.07 ADOPTION OF THE 2021 INTERNATIONAL EXISTING BUILDING CODE.
+The International Existing Building Code, 2021 Edition, published by the
+International Code Council, is hereby adopted in full by reference, except for
+such portions as may hereinafter be deleted, modified or amended. The following
+amendments, modifications, additions and deletions to the International
+Existing Building Code, 2021 Edition, are hereby made:
+   1.   Add the following to Section 108.2 Schedule of Permit Fees with the
+following language:
+      Permit fees will be derived from the City of Carroll Fee Schedule as
+adopted.
+   2.   Add New Code Section: IEBC 302.6 with the following language:
+      Section 302.6 Fire Protection. Existing buildings containing R-
+2 occupancies shall be made to comply with the International Building Code
+Section 903.2.8 within two (2) years of any of the following situations:
+         1. Fire damage to three or more dwelling units, not including smoke or
+water damage or other damage from fire-fighting operations.
+         2. Issuance of a building permit for a Level III alteration as
+identified in Chapter 6 of the International Existing Building Code.
+155.08 ADOPTION OF THE 2024 INTERNATIONAL MECHANICAL CODE.
+The International Mechanical Code, 2024 Edition, published by the International
+Code Council, is hereby adopted in full by reference, except for such portions
+as may hereinafter be deleted, modified or amended. The following amendments,
+modifications, additions and deletions to the International Mechanical Code,
+2021 Edition, are hereby made:
+   1.   The City of Carroll interprets “NFPA 54 and NFPA 58” as equivalent
+alternatives for design to meet the intent of the 2021 International Fuel Gas
+Code.
+   2.   Amend Section 109.5 to add the following:
+      Permit fees will be derived from the City of Carroll Fee Schedule as
+adopted.
+   3.   Amend Section 306.5 to add the following:
+      If the tenants of a multiple tenant building have, or are allowed to
+have, mechanical facilities on or which penetrate the roof, then roof access
+ladders must be provided for use by all such tenants and their agents and
+contractors in a manner that does not require accessing space under the control
+of another tenant.
+   4.   Delete Section 307.2.4.1 and replace with the following:
+      307.2.4.1 Ductless mini-split system traps. Ductless mini-split equipment
+that produces condensate shall be installed per manufacturer’s instructions.
+   5.   Amend Section 603.1 to add the following:
+      Air plenums and ducts located in floor and wall cavities shall be
+separated from unconditioned space by construction with insulation to meet
+energy code requirements. These areas include but are not limited to exterior
+walls, cantilevered floors, and floors above garages.
+155.09 ADOPTION OF THE 2024 UNIFORM PLUMBING CODE.
+The Uniform Plumbing Code, 2024 Edition, published by the International
+Association of Plumbing and Mechanical Officials and amended by the State of
+Iowa, is hereby adopted in full by reference except for such portions as may
+hereinafter be deleted, modified or amended. The following amendments,
+modifications, additions and deletions to the Uniform Plumbing Code, 2021
+Edition, are hereby made:
+   1.   The City of Carroll interprets the 2021 International Plumbing Code as
+published by the International Code Council as an equivalent alternative to the
+2018 Uniform Plumbing Code.
+   2.   UPC Section 104.5: Delete Table 104.5 and insert the following
+language: permit fees will be derived from the City of Carroll Fee Schedule as
+adopted.
+   3.   Amend Section UPC 407.3 to include the following language at the end of
+the Code section:
+      Tempering devices shall be installed at or as close as possible to the
+point of use.
+   4.   Amend Section UPC 418.3 to include location #5 with the following
+language:
+      Rooms containing a water heater.
+   5.   Amend Section UPC 609.1 to add the following language:
+      Water service piping shall have no less than five feet (5’) of soil
+cover.
+   6.   Amend Section UPC 701.2 to add the following language:
+      (7) The use of SDR 23.5 is an acceptable material for exterior building
+sewers.
+   7.   Amend Section UPC 717.1 to add the following language:
+      717.1.1 Size of Drainage Piping. The main building drain shall be a
+minimum four inch (4”) diameter.
+   8.   Amend Section UPC 718.3.1 to add the following language:
+      718.3.1 Protection from damage. Building sewers less than 42 inches below
+grade shall be cast iron pipe or be protected with an engineered system to
+prevent damage from freezing and frost heave.
+   9.   Amend Section UPC 1014.1 to add the following language:
+      Notwithstanding provisions of section 1014.1, regulations of Fat Oil and
+Grease (FOG) and sizing of FOG removal devices where connected to Wastewater
+Reclamation Authority (WRA) system shall be in accordance with WRA regulations
+for the regulations of industrial wastewater and commercial wastewater.
+   10.   Delete Section UPC 1101.12.2.2.2 Combined System.
+   11.   Amend Section UPC 1208.6.4.4 to add the following language:
+      1208.6.4.4 Corrugated Stainless Steel Tubing. Only CSST with an Arc
+Resistant Jacket or Covering System listed in accordance with ANSI LC-1
+(Optional Section 5.16)/CSA 6.26-2016 shall be installed in accordance with the
+terms of its approval, the conditions of listing, the manufactures instructions
+and this code including electrical bonding requirements in Section 1211.2. CSST
+shall not be used for through wall penetrations from the point of delivery of
+the gas supply to the inside of the structure. CSST shall not be installed in
+locations where subject to physical damage unless protected in an approved
+manner.
+155.10 ADOPTION OF THE 2023 NATIONAL ELECTRICAL CODE.
+The current adopted by the State of Iowa Edition of the National Electrical
+Code, published by the National Fire Protection Association, is hereby adopted
+in full by reference, except for such portions as may hereinafter be deleted,
+modified or amended. The following amendments, modifications, additions and
+deletions to the National Electrical Code, as currently adopted by the State of
+Iowa, are hereby made:
+   1.   Amend Section 90.2 to add the following language:
+      90.2(D) Scope. Permits required. Permits shall be required for work
+contained within the scope of this article. Permit fees will be derived from
+the City of Carroll Fee Schedule as adopted.
+   2.   Delete section 210.8(A). and insert in lieu thereof the following new
+section:
+      210.8 (A) Dwelling Units.
+      All 125-volt receptacles installed in locations specified in 210.8 (A)(1)
+through 2108 (A)(11) shall be ground-fault circuit-interrupter protection for
+personnel.
+         (1)   Bathrooms
+         (2)   Garages and also accessory buildings that have floor located at
+or below grade level not intended to be habitable rooms and limited to storage
+areas, work areas, or similar use
+         (3)   Outdoors
+            Exception to (3) Receptacles that are not readily accessible and
+are supply branch circuits dedicated to electrical snow-melting, deicing, or
+pipeline and Bessel heating equipment shall be permitted to be installed in
+accordance with 426.28m or 427.22, as applicable
+         (4)   Crawl spaces – at or below grade level
+         (5)   Basements
+            Exception to (5): A receptacle supplying only a permanently
+installed fire alarm or burglar alarm system shall not be required to have
+ground-fault circuit-interrupter protection.
+            Informational Note: See 760.41B and 760.121(B) for power supply
+requirements for fire alarm systems.
+            Receptacles installed under the exception to 210.8 (A) (5) shall
+not be considered as meeting the requirements of 210.52(G).
+      (6)   Kitchens – Where the receptacles are installed to serve the
+countertop surfaces
+      (7)   Sinks – Where receptacles are installed within 1.8 m (6 ft) from
+the top inside edge of the bowl of the sink
+      (8)   Boathouses
+      (9)   Bathtubs or shower stalls – Where receptacles are installed within
+1.8 m (6 ft) of the outside edge of the bathtub or shower stall
+      (10)   Laundry areas
+         Exception to (1) through (3), (5) through (8), and (1): Listed locking
+support and mounting receptacles utilized in combination with compatible
+attachment fittings installed for the purpose of serving a ceiling luminaire or
+ceiling fan shall not be required to be ground0fault circuit-interrupter
+protected. If a general-purpose convenience outlet is integral to the ceiling
+luminaire or ceiling fan, GFCI protection shall be provided.
+      (11)   Indoor damp and wet locations
+   3.   Delete section 210.8(F)
+   4.   Add Code Section NEC 215.13 Prohibited Locations with the following
+language:
+      NEC 215.13 Prohibited Locations. Feeders supplying townhomes shall not
+extend through any townhome unit other that the unit served. For the purpose of
+this provision, the term townhome shall mean a single-family dwelling unit
+constructed in a group of two or more attached units in which each unit extends
+from the foundation to roof with a yard or public way on not less than two
+sides.
+      Exception: If a recorded easement is established in a concealed space or
+attic within a townhome unit, feeders are allowed within that easement.
+155.11 ADOPTION OF THE 2024 INTERNATIONAL FUEL GAS CODE.
+The International Fuel Gas Code, 2024 Edition, published by the International
+Code Council, is hereby adopted in full by reference, except for such portions
+as may hereinafter be deleted, modified or amended. The following amendments,
+modifications, additions and deletions to the International Fuel Gas Code, 2024
+Edition are hereby made:
+   1.   Amend Section 106.6.2 to include the following language: Permit fees
+will be derived from the City of Carroll Fee Schedule as adopted.
+   2.   Delete Section 5.6.3.4 and the replace with the following:
+      5.6.3.4 Corrugated Stainless Steel. Only CSST with an Arc Resistant
+Jacket or Covering System listed in accordance with ANSI LC-1 (Optional Section
+5.16)/CSA 6.26-2016 shall be installed in accordance with the terms of its
+approval, the conditions of listing, the manufactures instructions and this
+code including electrical bonding requirements in Section 7.13.2. CSST shall
+not be used for through wall penetrations from the point of delivery of the gas
+supply to the inside of the structure. CSST shall not be installed in locations
+where subject to physical damage unless protected in an approved manner.
+155.12 ADOPTION OF THE 2024 INTERNATIONAL PROPERTY MAINTENANCE CODE.
+That certain document, one copy of which is on file in the office of the
+Building Official, being marked and designated as the International Property
+Maintenance Code, 2024 Edition, as published by the International Code Council,
+Inc., is hereby adopted by reference as the Property Maintenance Code of the
+City of Carroll, in the State of Iowa, for the control of all property,
+buildings and structures as therein provided; and each and all of the
+regulations, provisions, penalties, conditions and terms of said Property
+Maintenance Code are hereby referred to, adopted and made a part hereof, as if
+fully set out in this chapter, with the additions, insertions, deletions and
+changes prescribed in Section 163.02 of the chapter. The following sections are
+hereby revised:
+   1.   Section 101.1. Insert “City of Carroll, Iowa” for Name of Jurisdiction.
+   2.   Section 103.2. Insert “City of Carroll Building Department”.
+   3.   Section 304.14. Screens. Amended to read:
+      304.14 Screens. Shall comply with ordinance 158.08.(8) of the City of
+Carroll Code of Ordinances and any other applicable building codes.
+   4.   Section 106. Means of Appeal. Amended to read:
+      106.1 General. Request for Hearing. Any person ordered to repair
+deficiencies to their properties in regard to the Carroll Property Maintenance
+Code may have a hearing with the City Council to discuss whether a deficiency
+exists. A request for a hearing must be made in writing and delivered to the
+Clerk within the time stated in the notice, or it will be conclusively presumed
+that a deficiency exists, and it must be abated as ordered. The hearing will be
+before the Council at a time and place fixed by the Council. The findings of
+the Council shall be conclusive and, if a nuisance is found to exist, it shall
+be ordered abated within a reasonable time under the circumstances.
+   5.   Section 302.4. Weeds. Amended to read:
+      302.4 – Weeds. Premises and exterior property shall be maintained in
+accordance with 50.08 of the City of Carroll Code of Ordinances.
+   6.   Section 602.3. Heat Supply. Amended to read:
+      602.3 Heat Supply shall comply with ordinance 158.08.(12) of the City of
+Carroll Code of Ordinances and any other applicable building codes.
+   7.   Section 602.4. Occupiable Workspace. Amended to read:
+      Occupiable Workspace – shall comply with Ordinance 158.08.(12) of the
+City of Carroll Code of Ordinances and any other applicable building code.
+   8.   Appendix A – Not adopted.
+   9.   Appendix B – Not adopted.
+155.13 ADOPTION OF THE 2012 INTERNATIONAL ENERGY CONSERVATION CODE.
+The International Energy Conservation Code, 2012 Edition, published by the
+International Code Council, is hereby adopted in full by reference except for
+such portions as may hereinafter be deleted, modified or amended.
+   Amendments, Modifications, Additions and Deletions. The following
+amendments, modifications, additions and deletions to the International Energy
+Conservation Code, 2021 Edition, are hereby made:
+   1.   The provisions of the International Energy Code as currently adopted
+and amended by the Iowa State Building Code Bureau shall apply to all matters
+governing the design and construction of buildings for energy efficiency.
+   2.   Delete Sections 101.1, 101.2, 103.3.1, 103.3.2, 103.3.3, 103.4, 103.5,
+and all of Sections 104, 107, 108 and 109.
+   3.   All energy code compliance inspections shall be completed by a third
+party certified to do such inspections with a report submitted to the Building
+Official showing compliance with the State adopted energy code.
+   4.   Add Code Section C402.1.1.1 Seasonal Structures with the following
+language:
+      C402.1.1.1 Seasonal Structures. The following seasonal type structures
+are exempt from meeting the provisions of this code. (These facilities are
+allowed to have heating and/or cooling equipment for temporary comfort of
+patrons and employees during operating hours.)
+         (1)   Food Service Buildings that serve patrons at amusement parks,
+water parks, and outdoor sporting facilities. The buildings can only be
+occupied by employees, must not be able to allow patrons to be served within
+the facility and must have its sole means of servicing customers, an operable
+exterior serving window.
+         (2)   Restroom Facilities that serve amusement parks, water parks, and
+outdoor sporting facilities.
+   5.   Delete Section C408.2 and replace with the following:
+      Mechanical systems and service water-heating systems commissioning and
+completion requirements. Prior to the final mechanical and plumbing
+inspections, the registered design professional or approved agency shall
+provide evidence of mechanical systems commissioning and completion in
+accordance with the provisions of this section. The Commissioning Agent shall
+be in no way affiliated with the project’s design, installation or sale of
+products, to avoid any conflict of interest. The Commissioning Agent shall be
+accredited by an industry-recognized certification program, to be determined by
+the AHJ.
+155.14 ADOPTION OF THE 2021 INTERNATIONAL FIRE CODE.
+The International Fire Code, 2021 edition, including Appendix Chapters B, C, D,
+I, K, and N (see International Fire Code Section 101.2.1, 2021 edition), as
+published by the International Code Council, is hereby adopted in full by
+reference as the Fire Code of City of Carroll, for regulating and governing the
+safeguarding of life and property from fire and explosion hazards arising from
+the storage, handling and use of hazardous substances, materials and devices,
+and from conditions hazardous to life or property in the occupancy of buildings
+and premises as herein provided; and each and all of the regulations,
+provisions, penalties, conditions and terms of said Fire Code are hereby
+referred to, adopted, and made a part hereof, as if fully set out in this
+legislation, with the additions, insertions, deletions and changes, if any,
+prescribed in Section 2 of this resolution. The following amendments,
+modifications, additions and deletions to the International Fire Code, 2021
+Edition, are hereby made:
+   1.   Section 101.1. Insert: City of Carroll
+   2.   Code Section 109: Refer to Carroll Board of Appeals.
+   3.   Delete Code Section: IFC 308.1.4 Replace with the following language:
+      308.1.4 Open-flame cooking devices. Charcoal burners, other open-flame
+cooking devices, and other devices that produce ashes or embers shall not be
+operated on balconies or within 20 feet (3048 mm) of combustible construction.
+Location of LP containers shall comply with Section 6104. Exceptions:
+         (1)   One- and two-family dwellings, constructed in accordance with
+the International Residential Code.
+         (2)   LP-gas cooking devices having LP-gas container with a water
+capacity not greater than 20 pounds.
+   4.   Insert New Code Section:
+      319.11 Location. Mobile food vehicles shall not be located within 20 feet
+(6096 mm) of buildings, tents, canopies or membrane structures.
+   5.   Insert New Code Section: IFC 503.1.4 Insert the following language:
+      503.1.4 Outdoor Venue Access. A 10 ft. wide emergency access roads
+designed to support 36,000 lb. weight load shall be provided within 350-feet of
+all portions of an outdoor venue (e.g. soccer complex, park, skate park, sports
+fields) to facilitate emergency vehicle access.
+      Exception: The fire code official is authorized to increase the dimension
+of 350 feet where emergency access roads cannot be installed because of
+location on property, topography, waterway, nonnegotiable grades, or other
+similar conditions, and an approved alternative means of emergency access is
+provided.
+   6.   Delete Code Section: IFC 505.1 Replace with the following language:
+      505.1 Address identification. New and existing buildings shall have
+approved address numbers, building numbers or approved building identification
+placed in a position that is plainly legible and visible from the street or
+road fronting the property. These numbers shall be black or white and shall
+contrast with their background. Where required by the fire code official,
+address numbers shall be provided in greater dimension or additional approved
+locations to facilitate emergency response. Address numbers shall be Arabic
+numbers or alphabetical letters. Numbers and letters shall be a minimum height
+and a minimum stroke width as dictated by Table 505.1. Where access is by means
+of a private road and the building cannot be viewed from the public way, a
+monument, pole or other sign or means shall be used to identify the structure.
+Address numbers shall be maintained.
+Table 505.1
+Minimum Height and Stroke Width
+ 
+Distance from the centerline of Minimum Height (in) Minimum Stroke Width (in)
+the Public Way (ft)
+Less than 100                   4                   1/2
+100 199                         6                   3/4
+200 299                         8                   1
+For each additional 100         Increase 2          Increase 1/2
+ 
+a   Exterior suite identification, minimum height shall be 4 inches and stroke
+width shall be ½ inch.
+b   Interior suite identification, minimum height shall be 2 inches and stroke
+width shall be ¼ inch.
+   7.   Modify Code Section: IFC 508.1 Replace with the following language:
+      508.1 General. Where required by other sections of this code, Table
+508.1, and in all buildings classified as high-rise buildings by the
+International Building Code, a fire command center for fire department
+operations shall be provided and shall comply with Sections 508.1.1 through
+508.1.6.
+   8.   Add Code Section: IFC Table 508.1 Add the following language:
+Table 508.1 Fire Command Center Thresholds
+Occupancy Threshold Requiring a Fire Command Center
+Occupancy        Threshold Requiring a Fire Command Center
+Group A          1,000 occupants
+Group E          100,000 gross square feet
+Group F          200,000 gross square feet
+Group H          100,000 gross square feet
+Group I-2 or I-3 100,000 gross square feet
+Group M          100,000 gross square feet
+Group R1         Greater than 200 dwelling units or sleeping units
+Group S          200,000 gross square feet
+ 
+   9.   Modify Code Section IFC 705.2.4 and replace with and add the following
+language:
+      705.2.4 Door Operation. Swinging fire doors shall close from the full
+open position and latch automatically. The door closer shall:
+         (1)   Exert enough force to close and latch the door from any
+partially open position.
+         (2)   Be UL listed and of hydraulic type, spring type shall not be
+allowed.
+   10.   Insert New Code Section: IFC 901.4.6.1.1 (correlation: IBC 902.1.1.1)
+Insert the following language:
+      901.4.6.1.1 Fire Sprinkler Riser Room. A fire sprinkler riser room shall
+be separated from the electrical room. The riser room shall have no electrical
+panels, devices, or apparatus inside the room other than the outlets or support
+equipment (lighting, air compressor, and heater) required for the use of the
+fire sprinkler system and/or the fire alarm panel. The sprinkler riser room
+shall not be exclusively accessed from the electrical room, but the electrical
+room may be accessed from the fire riser room.
+   11.   Insert New Code Section: IFC 901.4.6.5 (correlation IBC 902.1.5)
+Insert the following language:
+      901.4.6.5 Temperature Sensors. Provide a low temperature sensor in the
+fire sprinkler riser room. Low Temperature Sensor shall be monitored to prevent
+freezing.
+   12.   Insert New Code Section IFC 903.3.1.1.3 (correlation: IBC 903.3.1.1.3)
+      903.3.1.1.3 Sprinkler installed under exterior projections. A canopy
+covering a door that is required to be marked as an exit shall be required to
+have fire sprinklers installed outside that door if the canopy extends more
+than 4 feet out from the door and is 12 feet or less in height from the ground
+regardless of whether the canopy is combustible or non-combustible. Canopies
+that have vehicle access under them with door openings shall be required to
+have fire sprinklers installed under the total canopy regardless of whether the
+canopy is combustible or non-combustible.
+   13.   Modify Code Section IFC 903.3.1.2 (correlation: IBC 903.3.1.2) and
+replace with the following language:
+      903.3.1.2 NFPA 13R sprinkler systems. Automatic sprinkler systems in
+Group R occupancies up to and including four stories in height in buildings not
+exceeding 60 feet (18288 mm) in height above grade plane shall be permitted to
+be installed throughout in accordance with NFPA 13R. Attics shall be protected
+throughout with an automatic sprinkler system installed in accordance with NFPA
+13.
+   14.   Modify Code Section: IFC 903.2.11.1.3 (correlation: IBC 903.2.11.1.3)
+Replace with the following language:
+      903.2.11.1.3 Basements. Where any portion of a basement is located more
+than 75 feet (22 860 mm) from openings required by Section 903.2.11.1, the
+basement shall be equipped throughout with an approved automatic sprinkler
+system.
+   15.   Modify Code Section: IFC 903.4.2 (correlation: IBC 903.4.2) Replace
+with the following language:
+      903.4.2 Alarms. An approved weatherproof audible device suitable for
+outdoor use with 110 candela visual signal shall be connected to every
+automatic sprinkler system. Such sprinkler water-flow alarm devices shall be
+activated by water flow equivalent to the flow of a single sprinkler of the
+smallest orifice size installed in the system. Alarm devices shall be provided
+on the exterior of the building in an approved location. Where a fire alarm
+system is installed, actuation of the automatic sprinkler system shall actuate
+the building fire alarm system.
+   16.   Modify Code Section: IFC 1008.3.3 (correlation: IBC 1008.3.3) Replace
+with the following language:
+      1008.3.3 Rooms and spaces. In the event of a power supply failure, an
+emergency electrical system shall automatically illuminate all the following
+areas:
+         (1)   Electrical equipment rooms
+         (2)   Fire command centers
+         (3)   Fire pump rooms
+         (4)   Generator rooms
+         (5)   Public restrooms that contain more than one water closet/urinal
+or that are accessible
+         (6)   Meeting/conference rooms with an area greater than 400 square
+feet.
+         (7)   Classrooms in an E occupancy with an area greater than 400
+square feet.
+   17.   Modify Code Section: IFC 1009.2 (correlation: IBC 1009.2) Insert item
+# 11 with the following language:
+      11. Components of exterior walking surfaces shall be concrete, asphalt,
+or other approved hard surface.
+   18.   Add Code Section: IFC 1010.1.6.1 (correlation: IBC 1010.1.6.1) Insert
+the following language:
+      1010.1.6.1 Frost Protection. Landings required by Section 1010.1.5 to be
+at the same elevation on each side of the door exterior landings at doors shall
+be provided with frost protection.
+   19.   Modify Code Section: IFC 1010.1.9.1 (correlation: IBC 1010.1.9.1)
+Replace with the following language:
+      1010.1.9.1 Hardware. Door handles, pulls, latches, locks and other
+operating devices on doors required to be accessible by Chapter 11 of the
+International Building Code shall not require tight grasping, tight pinching or
+twisting of the wrist to operate. This includes thumb turn locks.
+   20.   Insert Code Section: IFC 1013.1.1 (corrélation: IBC 1013.1.1)
+Language:
+      1013.1. 1 Additional Exit Signs. Exit signs may be required at the
+discretion of the Code Official to clarify an exit or exit access.
+   21.   Modify Code Section: IFC 1014.4 (correlation: IBC 1014.4) Insert item
+# 6 with the following language:
+      Handrails within a dwelling unit or serving an individual dwelling unit
+of groups R-2 and R-3 shall be permitted to be interrupted at one location in a
+straight stair when the rail terminates into a wall or ledge and is offset and
+immediately continues.
+   22.   Add Code Section: IFC 1015.9 (correlation: IBC 1015.9) Insert the
+following language:
+      1015.9 Walking surfaces. A guard shall be provided along retaining walls
+where a finished walking surface such as sidewalks, patios, driveways and
+parking lots or similar is located on the top side of a retaining wall. The
+guard shall be installed along any portion of the wall measuring 30 inches or
+greater in height measured at any point within 36 inches horizontally to the
+edge of the open side. A guard shall not be required along portions of the
+retaining wall where the horizontal distance between the edge of the finished
+walking surface and the face of the wall is greater than 72 inches.
+   23.   Insert Code Section: IFC 1028.5.1 (correlation: IBC 1028.5.1) Insert
+the following language:
+      1028.5.1 Hard Surfaces. Components of exterior walking surfaces shall be
+concrete, asphalt, or other approved hard surface.
+   24.   Insert Code Section: IFC 1031.5.3 (correlation: IBC 1030.4.3) Insert
+the following language:
+      1031.5.3 Window wells drainage. All window wells shall be provided with
+approved drainage.
+   25.   Insert New Code Section: IFC 1203.7 Insert the following language:
+      Section 1203.7 Shutdown of Emergency and Standby Power Systems. In
+addition to the requirements of NFPA 110 for a remote manual stop, a switch of
+an approved type shall be provided to shut down the generator. The switch shall
+be provided at an approved location.
+   26.   Insert New Code Section: IFC 1203.8 Insert the following language:
+      Section 1203.8 Emergency Generator Signs. Main electrical disconnects and
+main breaker panels supplied by the generator shall be provided with approved
+signs.
+      Additionally, doors accessing emergency and standby power systems shall
+be provided with approved signs. When approved switches for emergency power
+shut-down are located remote from the fire alarm annunciator, an approved sign
+shall be provided at fire alarm annunciator. Approved signs shall contain the
+word CAUTION in black letters at least 2 inches (50 mm) high on a yellow
+background. Such warning signs shall be placed so as to be readily discernible.
+   27.   Insert New Section 3106.3.1
+      3106.3.3 Occupancy and means of egress. The number and location of
+emergency egress and escape routes shall be approved by the fire code official.
+Exits shall comply with Chapter 10 and be as remote from each other as
+practical and shall be provided as follows:
+ 
+Occupant Load               Minimum Number of Exits
+1 to 500                    2
+501 to 1,000                3
+1,001 or 1,500              4
+each additional 500 persons 36 additional inches of exit width
+ 
+      3106.3.4 Width. The aggregate clear width of exits shall be a minimum of
+36 inches wide (914mm) for each 500 persons to be accommodated.
+      3106.3.5 Signs. Exits shall be identified with signs that read “EXIT”.
+The signs shall be weather-resistant with lettering on a contrasting
+background. The lettering shall be of sufficient height and brush stroke to be
+immediately visible from 75 feet (22,860mm). Placement of the exit signs shall
+be approved by the fire code official.
+      28.   Insert Code Section: IFC 6104.3.3 Insert the following language:
+      6104.3.3 LP Gas Containers in Group R Occupancies. LP Gas shall not be
+stored or used inside of a building.
+155.15 BUILDING OFFICIAL.
 The City Manager shall appoint the Building Official, who is hereby authorized
 and directed to enforce all the provisions of this chapter. The Building
 Official shall have the following powers and duties:
 (Code of Iowa, Sec. 372.13[4])
-1.   Deputies. In accordance with established procedure and with the approval
-of the City Manager, the Building Official may appoint a chief plans examiner,
-a chief building inspector and other related technical officers and inspectors
-and other employees as shall be authorized from time to time.
-2.   Right of Entry. Whenever necessary to make an inspection to enforce any of
-the provisions of this chapter or whenever the Building Official, or an
+   1.   Deputies. In accordance with established procedure and with the
+approval of the City Manager, the Building Official may appoint a chief plans
+examiner, a chief building inspector and other related technical officers and
+inspectors and other employees as shall be authorized from time to time.
+   2.   Right of Entry. Whenever necessary to make an inspection to enforce any
+of the provisions of this chapter or whenever the Building Official, or an
 authorized representative, has reasonable cause to believe that there exists in
 any building or upon any premises, any condition which makes such building or
 premises unsafe as defined in this chapter, the Building Official, or an
@@ -12973,22 +14053,22 @@ control of any building or premises shall fail or neglect, after proper request
 is made as herein provided, to promptly permit entry therein by the Building
 Official, or an authorized representative, for the purpose of inspection and
 examination pursuant to this chapter.
-3.   Stop Orders. Whenever any work is being done contrary to the provisions of
-this chapter, the Building Official may order the work stopped by notice in
+   3.   Stop Orders. Whenever any work is being done contrary to the provisions
+of this chapter, the Building Official may order the work stopped by notice in
 writing served on any persons engaged in the doing or causing such work to be
 done, and any such persons shall forthwith stop such work until authorized by
 the Building Official to proceed with the work.
-4.   Occupancy Violations. Whenever any building or structure or equipment
+   4.   Occupancy Violations. Whenever any building or structure or equipment
 therein regulated by this chapter is being used contrary to the provisions of
 this chapter, the Building Official may order such use discontinued and the
 structure (or portion thereof) vacated by notice served on any person causing
 such use to be continued. Such person shall discontinue the use within the time
 prescribed by the Building Official after receipt of such notice or make the
 structure (or portion thereof) comply with the requirements of this chapter.
-5.   Liability. The Building Official or any authorized representative charged
-with the enforcement of this chapter, acting in good faith and without malice
-in the discharge of duties, shall not thereby be personally liable for any
-damage that may accrue to persons or property as a result of any act or
+   5.   Liability. The Building Official or any authorized representative
+charged with the enforcement of this chapter, acting in good faith and without
+malice in the discharge of duties, shall not thereby be personally liable for
+any damage that may accrue to persons or property as a result of any act or
 omission in the discharge of such duties. Any suit brought against the Building
 Official or employees because of such act or omission performed by them in the
 enforcement of any provisions of this chapter, shall be defended by legal
@@ -12999,37 +14079,38 @@ damages to persons or property caused by defects, nor shall the code
 enforcement agency or the City be held as assuming any such liability by reason
 of the inspections authorized by this chapter or any certificates of inspection
 under this chapter.
-6.   Cooperation of Other Officials. The Building Official may request, and
+   6.   Cooperation of Other Officials. The Building Official may request, and
 shall receive so far as may be necessary in the discharge of any duties, the
 assistance and cooperation of other officials of the City.
-155.06 BOARD OF APPEALS.
+155.16 BOARD OF APPEALS. 
 A Board of Appeals is hereby created. The Council shall approve Mayoral
 appointment of a Board of Appeals consisting of five members who are qualified
 by experience and training to pass upon matters pertaining to building
 construction.
 (Code of Iowa, Sec. 103A.13; IAC 630-5.3[5])
-1.   Term. Board members are appointed for staggered terms of five (5) years.
-Any vacancy shall be filled for the unexpired portion of the term.
-2.   Compensation. All members shall serve without compensation.
-3.   Secretary. The Board shall appoint a person to serve as the Secretary of
-the Board. In the absence of the Secretary, the Chairperson may appoint another
-to serve for the meeting. The Secretary shall keep minutes of proceedings;
-showing the vote of each member upon question, or if absent or failing to vote,
-indicating such fact and shall keep records of any official actions, all of
-which shall be filed in the office of the Clerk.
-4.   Chairperson and Meetings. The Board shall annually elect a Chairperson at
-the first meeting on or after January 1 of each year. The Board shall have the
-power to call on any City department for assistance in the performance of its
-duties and it shall be the duty of each department to render such assistance.
-5.   Quorum. The presence of three (3) members shall be necessary for a quorum
-and the concurring vote of three members of the Board shall be necessary on all
-matters upon which it is required to consider. The Chairperson or acting
+   1.   Term. Board members are appointed for staggered terms of five (5)
+years. Any vacancy shall be filled for the unexpired portion of the term.
+   2.   Compensation. All members shall serve without compensation.
+   3.   Secretary. The Board shall appoint a person to serve as the Secretary
+of the Board. In the absence of the Secretary, the Chairperson may appoint
+another to serve for the meeting. The Secretary shall keep minutes of
+proceedings; showing the vote of each member upon question, or if absent or
+failing to vote, indicating such fact and shall keep records of any official
+actions, all of which shall be filed in the office of the Clerk.
+   4.   Chairperson and Meetings. The Board shall annually elect a Chairperson
+at the first meeting on or after January 1 of each year. The Board shall have
+the power to call on any City department for assistance in the performance of
+its duties and it shall be the duty of each department to render such
+assistance.
+   5.   Quorum. The presence of three (3) members shall be necessary for a
+quorum and the concurring vote of three members of the Board shall be necessary
+on all matters upon which it is required to consider. The Chairperson or acting
 Chairperson is a voting member of the Board.
-6.   Rules and Regulations. The Board shall adopt, from time to time, subject
-to the approval of the Council, such rules and regulations as it may deem
-necessary to carry into effect the provisions of this chapter.
-7.   Appeals. Appeals to the Board may be taken by any person aggrieved, or by
-any officer, department or board of the City affected by any decision of the
+   6.   Rules and Regulations. The Board shall adopt, from time to time,
+subject to the approval of the Council, such rules and regulations as it may
+deem necessary to carry into effect the provisions of this chapter.
+   7.   Appeals. Appeals to the Board may be taken by any person aggrieved, or
+by any officer, department or board of the City affected by any decision of the
 Building Official. Such appeal shall be taken within a reasonable time as
 provided by the rules of the Board by filing with the Building Official written
 notice of appeal specifying the grounds thereof. The Building Official shall
@@ -13044,56 +14125,56 @@ life or property. In such case, proceedings shall not be stayed otherwise than
 by a restraining order which may be granted by the Board or by a court of
 record on application or notice to the officer from whom appeal was taken on
 due cause shown.
-9.   Powers. The Board shall have the power to hear and decide appeals where it
-is alleged there is error in any order, requirement, decision or determination
-made by the Building Official in the enforcement of State law or any ordinance
-adopted pursuant thereto. The Board shall have the power to review requests for
-use of alternate materials and methods of construction as prescribed in Section
-103A.13 of the Code of Iowa. Persons submitting such request shall provide
-sufficient evidence or proof to substantiate any claim that may be made
-regarding alternate use. If the Board approves such request, the action shall
-be submitted to the State Building Code Commissioner for approval. The approval
-of the Board is not effective until approved by the State Building Code
-Commissioner in writing.
-10.   Initiation of an Appeal. An application by an aggrieved person for an
+   9.   Powers. The Board shall have the power to hear and decide appeals where
+it is alleged there is error in any order, requirement, decision or
+determination made by the Building Official in the enforcement of State law or
+any ordinance adopted pursuant thereto. The Board shall have the power to
+review requests for use of alternate materials and methods of construction as
+prescribed in Section 103A.13 of the Code of Iowa. Persons submitting such
+request shall provide sufficient evidence or proof to substantiate any claim
+that may be made regarding alternate use. If the Board approves such request,
+the action shall be submitted to the State Building Code Commissioner for
+approval. The approval of the Board is not effective until approved by the
+State Building Code Commissioner in writing.
+   10.   Initiation of an Appeal. An application by an aggrieved person for an
 appeal shall be filed with the Building Official. The application shall be
 accompanied by adequate drawings and other descriptive materials constituting a
 record essential to understanding the appeal requested. The application shall
 also be accompanied by a fee of twenty-five dollars ($25.00) payable to the
 General Fund of the City.
-11.   Notice of Meeting. Notice of the time and place of the Board’s meeting
+   11.   Notice of Meeting. Notice of the time and place of the Board’s meeting
 and of the purpose shall be given by the Building Official not less than
 twenty-four (24) hours prior to the meeting.
-155.07 PERMITS REQUIRED.
+155.17 PERMITS REQUIRED.
 Permits shall be required as follows:
 (Code of Iowa, Sec. 103A.19[6])
-1.   New Construction. No person shall erect or construct a new building or
+   1.   New Construction. No person shall erect or construct a new building or
 structure in the City, or cause the same to be done, without first obtaining a
 separate building permit for each such building or structure from the Building
 Official.
-2.   Existing Structures. No person shall enlarge, alter, move, improve,
+   2.   Existing Structures. No person shall enlarge, alter, move, improve,
 remove, convert, or demolish any existing building or structure in the City, or
 cause the same to be done, without first obtaining a separate building permit
 for each such building or structure from the Building Official provided that
 the proposed work exceeds one thousand dollars ($1,000.00) in value.
-3.   Mechanical – New Construction. No person shall install, alter, reconstruct
-or repair any heating, ventilating, cooling, or refrigeration equipment within
-or on a new building or structure unless a permit therefor has been obtained
-from the Building Official except as otherwise provided in this chapter. A
-permit shall not be required for the following:
-   A.   Any portable heating appliance.
-   B.   Any portable ventilating equipment.
-   C.   Any portable cooling unit.
-   D.   Any steam, hot, or chilled water piping within any heating or cooling
-equipment regulated by this chapter.
-   E.   Replacement of any component part or assembly of an appliance which
+   3.   Mechanical – New Construction. No person shall install, alter,
+reconstruct or repair any heating, ventilating, cooling, or refrigeration
+equipment within or on a new building or structure unless a permit therefor has
+been obtained from the Building Official except as otherwise provided in this
+chapter. A permit shall not be required for the following:
+      A.   Any portable heating appliance.
+      B.   Any portable ventilating equipment.
+      C.   Any portable cooling unit.
+      D.   Any steam, hot, or chilled water piping within any heating or
+cooling equipment regulated by this chapter.
+      E.   Replacement of any component part or assembly of an appliance which
 does not alter its original approval and complies with other applicable
 requirements of this chapter.
-   F.   Any portable evaporative cooler.
-   G.   Any refrigerating equipment which is a part of the equipment for which
-a permit has been issued pursuant to the requirements of this chapter.
-   H.   Any unit refrigerating system.
-4.   Mechanical – Existing Structures. No person shall install, alter,
+      F.   Any portable evaporative cooler.
+      G.   Any refrigerating equipment which is a part of the equipment for
+which a permit has been issued pursuant to the requirements of this chapter.
+      H.   Any unit refrigerating system.
+   4.   Mechanical – Existing Structures. No person shall install, alter,
 reconstruct or repair any heating, ventilating, cooling, or refrigeration
 equipment within or on an existing building or structure unless a permit
 therefor has been obtained from the Building Official, provided that the
@@ -13101,11 +14182,11 @@ proposed mechanical work exceeds one thousand dollars ($1,000.00) in value or
 in the case of issuance of mechanical and plumbing permits for the building or
 structure that the combination of mechanical and plumbing work exceeds one
 thousand dollars ($1,000.00) in value.
-5.   Plumbing – New Construction. No person shall install any plumbing or
+   5.   Plumbing – New Construction. No person shall install any plumbing or
 drainage system or part thereof as defined in the Plumbing Code adopted by this
 chapter within or on a new building or structure unless a permit therefor has
 been obtained from the Building Official.
-6.   Plumbing – Existing Structures. No person shall install, alter or
+   6.   Plumbing – Existing Structures. No person shall install, alter or
 reconstruct any plumbing or drainage system or part thereof as defined in the
 Plumbing Code adopted by this chapter within or on an existing building or
 structure unless a permit therefor has been obtained from the Building Official
@@ -13113,49 +14194,50 @@ provided that the proposed plumbing work exceeds one thousand dollars
 ($1,000.00) in value, or, in the case of issuance of plumbing and mechanical
 permits for the same building or structure, that the combination of plumbing
 and mechanical work exceeds $1,000.00 in value.
-7.   Electrical – New Construction. No person shall install any electrical
+   7.   Electrical – New Construction. No person shall install any electrical
 conductor or equipment subject to the provisions of the Electrical Code adopted
 by this chapter within or on a new building or structure unless a permit
 therefor has been obtained from the Building Official.
-8.   Electrical – Existing Structures. No person shall install, alter,
+   8.   Electrical – Existing Structures. No person shall install, alter,
 reconstruct or repair any electrical conductor or equipment subject to the
 provisions of the Electrical Code adopted by this chapter within or on any
 existing building or structure unless a permit therefor has been obtained from
 the Building Official, provided that the electrical work exceeds five hundred
 dollars ($500.00) in value.
-155.08 EMERGENCY WORK.
+155.18 EMERGENCY WORK.
 In emergency situations, work may be initiated without first submitting a
 permit .application and receiving a permit therefor. However, a permit
 application must be submitted within a reasonable time after the passage of the
 critical period. With this one exception, all emergency work must be done in
 accordance with this chapter.
-155.09 PERMIT APPLICATIONS.
+155.19 PERMIT APPLICATIONS.
 Application for permit shall be made as follows:
-1.   Building Permit. To obtain a building permit the applicant shall first
+   1.   Building Permit. To obtain a building permit the applicant shall first
 file an application therefor in writing on a form furnished for that purpose.
 Every such application shall:
-   A.   Identify and describe the work to be covered by the permit for which
+      A.   Identify and describe the work to be covered by the permit for which
 application is made;
-   B.   Describe the land on which the proposed work is to be done, by lot,
+      B.   Describe the land on which the proposed work is to be done, by lot,
 block, tract, and house and street address, or similar description that will
 readily identify and definitely locate the proposed building or work;
-   C.   Indicate the use or occupancy for which the proposed work is intended;
-   D.   Be accompanied by plans and specifications a required in Section
+      C.   Indicate the use or occupancy for which the proposed work is
+intended;
+      D.   Be accompanied by plans and specifications a required in Section
 155.11 of this chapter;
-   E.   State the valuation of the proposed work;
-   F.   Be signed by the permittee or an authorized agent who may be required
-to submit evidence to indicate such authority;
-   G.   Give such other information as reasonably may be required by the
+      E.   State the valuation of the proposed work;
+      F.   Be signed by the permittee or an authorized agent who may be
+required to submit evidence to indicate such authority;
+      G.   Give such other information as reasonably may be required by the
 Building Official.
-2.   Mechanical Permit. To obtain a mechanical permit, the applicant shall file
+   2.   Mechanical Permit. To obtain a mechanical permit, the applicant shall
+file an application on forms furnished for that purpose. The application shall
+contain all information necessary to the lawful enforcement of the provisions
+of this chapter.
+   3.   Plumbing Permit. To obtain a plumbing permit, the applicant shall file
 an application on forms furnished for that purpose. The application shall
 contain all information necessary to the lawful enforcement of the provisions
 of this chapter.
-3.   Plumbing Permit. To obtain a plumbing permit, the applicant shall file an
-application on forms furnished for that purpose. The application shall contain
-all information necessary to the lawful enforcement of the provisions of this
-chapter.
-4.   Electrical Permit. To obtain an electrical permit, the applicant shall
+   4.   Electrical Permit. To obtain an electrical permit, the applicant shall
 first file an application therefor in writing on a form provided for that
 purpose. The application shall include the name and business address of the
 person that is to do the work, a description of the property where the work is
@@ -13163,7 +14245,7 @@ to be done, the name of the owner of the property, the name of the occupant,
 and a general description of the materials to be used, and shall specify the
 particular part or parts of the work that must be inspected as required by this
 chapter.
-155.10 INDEMNITY.
+155.20 INDEMNITY.
 The applicant for any permits under this chapter, by making such application,
 assumes and agrees to pay for all loss or damage to property whatsoever, and
 injury to or death to any person or persons whomsoever, including all cost and
@@ -13178,7 +14260,7 @@ death, costs and expenses, by reason of the foregoing even though acts or
 omissions of the City may have caused or contributed thereto. The foregoing
 provisions shall be deemed to be a part of any permit issued under this chapter
 whether expressly recited therein or not.
-155.11 PLANS AND SPECIFICATIONS.
+155.21 PLANS AND SPECIFICATIONS.
 With each application for a building permit, and when required by the Building
 Official for enforcement of any provisions of this chapter, two (2) sets of
 plans and specifications shall be submitted, the Building Official may require
@@ -13189,16 +14271,16 @@ proposed work will conform to the provisions of this chapter and of all
 applicable laws, ordinances, rules, regulations and orders. The Building
 Official may waive the filing of plans and specifications with an application
 for the following:
-1.   One-story buildings of conventional wood-stud construction with an area
+   1.   One-story buildings of conventional wood-stud construction with an area
 not exceeding six hundred (600) square feet.
-2.   Private garages, carports, sheds, and agricultural buildings of
+   2.   Private garages, carports, sheds, and agricultural buildings of
 conventional wood-stud construction.
-3.   Small and unimportant work.
-155.12 PLAN REVIEW.
+   3.   Small and unimportant work.
+155.22 PLAN REVIEW.
 Required plans and specifications shall be checked by the Building Official.
 Such plans may be reviewed by other City departments or personnel to check
 compliance with the laws and ordinances under their jurisdiction.
-155.13 PLAN APPROVAL.
+155.23 PLAN APPROVAL.
 If checked and the plans and specifications, as filed, appear to conform to the
 requirements of this chapter and other laws and ordinances, the Building
 Official may endorse in writing or stamp on all sets of plans and
@@ -13206,7 +14288,7 @@ specifications, “APPROVED.” Plans and specifications shall not be changed,
 modified, or altered without authorization from the Building Official, and all
 work shall be done in accordance with the approved plans.
 (Code of Iowa, Sec. 103A.19[1])
-155.14 PARTIAL PLANS.
+155.24 PARTIAL PLANS.
 The Building Official may issue a permit for the construction of part of a
 building or structure before the entire plans and specifications for the whole
 building or structure have been submitted or approved; provided adequate
@@ -13214,13 +14296,13 @@ information and detailed statements have been filed complying with all
 pertinent requirements of this chapter. The holder of such permit shall proceed
 at said holder’s own risk without assurance that the permit for the entire
 building or structure will be granted.
-155.15 RETENTION OF PLANS.
+155.25 RETENTION OF PLANS.
 One set of plans, specifications, and computations shall be retained by the
 Building Official for a period of not less than ninety (90) days from date of
 completion of the work covered therein, and one set of plans and specifications
 shall be returned to the applicant, which set shall be kept on such building or
 work at all times during which the work authorized thereby is in progress.
-155.16 ISSUANCE OF PERMITS.
+155.26 ISSUANCE OF PERMITS.
 When the Building Official is satisfied that the work described in an
 application for permit and the plans and specifications filed therewith, if
 required, conforms to the requirements of this chapter and other pertinent laws
@@ -13228,7 +14310,7 @@ and ordinances including any applicable soil erosion control plans, and that
 the fees as specified have been paid in full, the Building Official may issue a
 permit therefor to the applicant.
 (Code of Iowa, Sec. 103A.19[4])
-155.17 VALIDITY.
+155.27 VALIDITY.
 The issuance or granting of a permit or approval of plans and specifications
 shall not be construed to be a permit for, or an approval of, any violation of
 any of the provisions of this chapter. No permit presuming to give authority to
@@ -13239,7 +14321,7 @@ from thereafter requiring the correction of errors in said plans and
 specifications or from preventing building operations being carried on
 thereunder when in violation of this chapter or of any other ordinance of the
 City.
-155.18 EXPIRATION OF PERMIT.
+155.28 EXPIRATION OF PERMIT.
 Every permit issued by the Building Official under the provisions of this
 chapter shall expire by limitation and become null and void, if the building or
 work authorized by such permit is not commenced within 120 days after the date
@@ -13250,12 +14332,12 @@ obtained so to do, and the fee therefor shall be one-half the amount required
 for a new permit for such work, provided no changes have been made or will be
 made in the original plans and specifications for such work; and provided,
 further, such suspension or abandonment has not exceeded one year.
-155.19 SUSPENSION OR REVOCATION.
+155.29 SUSPENSION OR REVOCATION.
 The Building Official may, in writing, suspend or revoke a permit issued under
 provisions of this chapter whenever the permit is issued in error or on the
 basis of incorrect information supplied, or in violation of any ordinance or
 regulation or any of the provisions of this chapter.
-155.20 BUILDING PERMIT FEES.
+155.30 BUILDING PERMIT FEES.
 A fee for each building permit shall be paid to the Building Official as set
 forth herein. The determination of value or valuation under any of the
 provisions of this chapter shall be made by the Building Official. The
@@ -13267,7 +14349,8 @@ work or permanent equipment. The Building Official will use as a guide to
 determine the valuation the latest “Building Valuation Data,” and the “Regional
 Modifiers,” as published by the International Code Council, unless the
 applicant can show that the actual cost will be less.
-1.   Building Permit Fee Schedule.
+   1.   Building Permit Fee Schedule.
+TOTAL VALUATION FEE
 TOTAL VALUATION              FEE
 $1.00 to $1,000.00           $22.00
                              $22.00 for the first $1,000.00 plus $6.25 for each
@@ -13288,182 +14371,183 @@ $500,001.00 to $1,000,000.00 each additional $1,000.00 or fraction thereof, to
 $1,000,001.00 and up         $2,506.00 for the first $1,000,000.00 plus $1.38
                              for each additional $1,000.00 or fraction thereof.
  
-2.   Moving Buildings – Lot to Lot. For a permit for the removal of a building
-or structure from one lot to another, the fee shall be at the rate of one
-dollar ($1.00) per one thousand dollars ($1,000.00) of the estimated value of
-the building or structure in its completed condition after removal, with a
+   2.   Moving Buildings – Lot to Lot. For a permit for the removal of a
+building or structure from one lot to another, the fee shall be at the rate of
+one dollar ($1.00) per one thousand dollars ($1,000.00) of the estimated value
+of the building or structure in its completed condition after removal, with a
 minimum permit fee of twenty-five dollars ($25.00).
-3.   Moving Buildings – Same Lot. For a permit for the removal of a building or
-structure to a new location within the same lot, the fee shall be at the rate
-of ten cents ($.10) per thousand dollars ($1,000.00) of the estimated cost of
-moving, of new foundations and of work necessary to put the building or
+   3.   Moving Buildings – Same Lot. For a permit for the removal of a building
+or structure to a new location within the same lot, the fee shall be at the
+rate of ten cents ($.10) per thousand dollars ($1,000.00) of the estimated cost
+of moving, of new foundations and of work necessary to put the building or
 structure in usable condition in its new location, with a minimum permit fee of
 twenty-five dollars ($25.00).
-4.   Demolition. For a permit for the demolition of a building or structure,
+   4.   Demolition. For a permit for the demolition of a building or structure,
 there shall be a fee of thirty-five dollars ($35.00).
-155.21 MECHANICAL PERMIT FEES.
+155.31 MECHANICAL PERMIT FEES.
 A fee for each mechanical permit shall be paid to the Building Official as set
 forth herein.
-1.   Permit Issuance.
-   A.   For the issuance of each permit – $22.00
-   B.   For issuing each supplemental permit – $3.25
-2.   Unit Fee Schedule.
-   A.   For the installation or relocation of each forced-air or gravity-type
-furnace or burner, including ducts and vents attached to such appliance, up to
-and including 100,000 Btu/h – $6.63.
-   B.   For the installation or relocation of each forced-air or gravity-type
-furnace or burner, including ducts and vents attached to such appliance over
-100,000 Btu/h – $8.13.
-   C.   For the installation or relocation of each floor furnace, including
+   1.   Permit Issuance.
+      A.   For the issuance of each permit – $22.00
+      B.   For issuing each supplemental permit – $3.25
+   2.   Unit Fee Schedule.
+      A.   For the installation or relocation of each forced-air or gravity-
+type furnace or burner, including ducts and vents attached to such appliance,
+up to and including 100,000 Btu/h – $6.63.
+      B.   For the installation or relocation of each forced-air or gravity-
+type furnace or burner, including ducts and vents attached to such appliance
+over 100,000 Btu/h – $8.13.
+      C.   For the installation or relocation of each floor furnace, including
 vent – $6.63.
-   D.   For the installation or relocation of each suspended heater, recessed
-wall heater or floor-mounted unit heater – $6.63.
-   E.   For the installation, relocation or replacement of each appliance vent
-installed and not included in an appliance permit – $3.25.
-   F.   For the repair of, alteration of, or addition to each heating
+      D.   For the installation or relocation of each suspended heater,
+recessed wall heater or floor-mounted unit heater – $6.63.
+      E.   For the installation, relocation or replacement of each appliance
+vent installed and not included in an appliance permit – $3.25.
+      F.   For the repair of, alteration of, or addition to each heating
 appliance, refrigeration unit, cooling unit, absorption unit, or each heating,
 cooling, absorption, or evaporative cooling system, including installation of
 controls regulated by this chapter – $6.13.
-   G.   For the installation or relocation of each boiler or compressor to and
-including three horsepower, or each absorption system to and including 100,000
-Btu/h – $6.63.
-   H.   For the installation or relocation of each boiler or compressor over
+      G.   For the installation or relocation of each boiler or compressor to
+and including three horsepower, or each absorption system to and including
+100,000 Btu/h – $6.63.
+      H.   For the installation or relocation of each boiler or compressor over
 three horsepower to and including 15 horsepower or each absorption system over
 100,000 Btu/h and including 500,000 Btu/h – $12.12.
-   I.   For the installation or relocation of each boiler or compressor over 15
-horsepower to and including 30 horsepower, or each absorption system over
+      I.   For the installation or relocation of each boiler or compressor over
+15 horsepower to and including 30 horsepower, or each absorption system over
 500,000 Btu/h to and including 1,000,000 Btu/h – $16.63.
-   J.   For the installation or relocation of each boiler or compressor over 30
-horsepower to and including 50 horsepower, or for each absorption system over
-1,000,000 Btu/h to and including 1,750,000 Btu/h – $24.75.
-   K.   For the installation or relocation of each boiler or refrigeration
+      J.   For the installation or relocation of each boiler or compressor over
+30 horsepower to and including 50 horsepower, or for each absorption system
+over 1,000,000 Btu/h to and including 1,750,000 Btu/h – $24.75.
+      K.   For the installation or relocation of each boiler or refrigeration
 compressor over 50 horsepower, or each absorption system over 1,750,000 Btu/h –
 $41.38.
-   L.   For each air handling unit to and including 10,000 cubic feet per
+      L.   For each air handling unit to and including 10,000 cubic feet per
 minute, including ducts attached thereto – $4.75. Note: This fee shall not
 apply to an air handling unit which is a portion of a factory assembled
 appliance, cooling unit, evaporative cooler or absorption unit for which a
 permit is required elsewhere in this chapter.
-   M.   For each air handling unit over 10,000 cfm – $8.08.
-   N.   For each evaporative cooler other than portable type – $4.75.
-   O.   For each ventilation fan connected to a single duct – $3.25.
-   P.   For each ventilation system which is not a portion of any heating or
+      M.   For each air handling unit over 10,000 cfm – $8.08.
+      N.   For each evaporative cooler other than portable type – $4.75.
+      O.   For each ventilation fan connected to a single duct – $3.25.
+      P.   For each ventilation system which is not a portion of any heating or
 air conditioning system authorized by a permit – $4.75.
-   Q.   For the installation of each hood which is served by mechanical
+      Q.   For the installation of each hood which is served by mechanical
 exhaust, including the ducts for such hood – $4.75.
-   R.   For the installation or relocation of each domestic type incinerator –
-$8.13.
-   S.   For the installation or relocation or each commercial or industrial
+      R.   For the installation or relocation of each domestic type incinerator
+– $8.13.
+      S.   For the installation or relocation or each commercial or industrial
 type incinerator – $33.25.
-   T.   For each appliance or piece of equipment regulated by this chapter but
-not classed in other appliance categories, or for which no other fee is listed
-in this chapter – $4.25.
-   U.   Permit fees for fuel gas piping shall be as follows:
-      (1)   For each gas piping system of one to four outlets – $2.75;
-      (2)   For each gas piping system of five or more outlets – $0.50 per
+      T.   For each appliance or piece of equipment regulated by this chapter
+but not classed in other appliance categories, or for which no other fee is
+listed in this chapter – $4.25.
+      U.   Permit fees for fuel gas piping shall be as follows:
+         (1)   For each gas piping system of one to four outlets – $2.75;
+         (2)   For each gas piping system of five or more outlets – $0.50 per
 outlet.
-155.22 PLUMBING PERMIT FEES.
+155.32 PLUMBING PERMIT FEES.
 A fee for each plumbing permit shall be paid to the Building Official as set
 forth herein.
-1.   Permit Issuance.
-   A.   For issuing each permit – $20.00.
-   B.   For issuing each supplemental permit – $5.00.
-2.   Unit Fee Schedule.
-   A.   For each plumbing fixture or trap or set of fixtures on one trap
+   1.   Permit Issuance.
+      A.   For issuing each permit – $20.00.
+      B.   For issuing each supplemental permit – $5.00.
+   2.   Unit Fee Schedule.
+      A.   For each plumbing fixture or trap or set of fixtures on one trap
 (including water, drainage piping and backflow protection therefor) – $3.50.
-   B.   For each building sewer and each trailer park sewer – $7.50.
-   C.   Rainwater systems – per drain (inside building) – $3.50.
-   D.   For each cesspool – $12.50.
-   E.   For each private sewage disposal system – $20.00.
-   F.   For each water heater and/or vent – $3.50.
-   G.   For each gas piping system of one to four outlets – $2.50.
-   H.   For each gas piping system of five or more, per outlet – $0.50.
-   I.   For each industrial waste pretreatment interceptor, including its trap
-and vent, excepting kitchen type grease interceptors functioning as fixture
-traps – $3.50.
-   J.   For installation, alteration or repair of water piping and/or water
+      B.   For each building sewer and each trailer park sewer – $7.50.
+      C.   Rainwater systems – per drain (inside building) – $3.50.
+      D.   For each cesspool – $12.50.
+      E.   For each private sewage disposal system – $20.00.
+      F.   For each water heater and/or vent – $3.50.
+      G.   For each gas piping system of one to four outlets – $2.50.
+      H.   For each gas piping system of five or more, per outlet – $0.50.
+      I.   For each industrial waste pretreatment interceptor, including its
+trap and vent, excepting kitchen type grease interceptors functioning as
+fixture traps – $3.50.
+      J.   For installation, alteration or repair of water piping and/or water
 treating equipment – $3.50.
-   K.   For repair or alteration of drainage or vent piping – $3.50.
-   L.   For each lawn sprinkler system on any one meter, including backflow
+      K.   For repair or alteration of drainage or vent piping – $3.50.
+      L.   For each lawn sprinkler system on any one meter, including backflow
 protection devices therefor – $3.50.
-   M.   For atmospheric-type vacuum breakers not included in paragraph L:
-      (1)   one to five – $2.50
-      (2)   over five – $0.50 each
-   N.   For each backflow protective device other than atmospheric type vacuum
-breakers:
-      (1)   two-inch diameter and smaller – $3.50
-      (2)   over two-inch diameter – $7.50
-   O.   For each gray-water system – $20.00.
-155.23 ELECTRICAL PERMIT FEES.
+      M.   For atmospheric-type vacuum breakers not included in paragraph L:
+         (1)   one to five – $2.50
+         (2)   over five – $0.50 each
+      N.   For each backflow protective device other than atmospheric type
+vacuum breakers:
+         (1)   two-inch diameter and smaller – $3.50
+         (2)   over two-inch diameter – $7.50
+      O.   For each gray-water system – $20.00.
+155.33 ELECTRICAL PERMIT FEES.
 A fee for each electrical permit shall be paid to the Building Official as set
 forth herein.
-1.   Permit Issuance.
-   A.   For issuing each permit – $22.00.
-   B.   For issuing each supplemental permit – $4.50.
-2.   System Fee Schedule. (Note: The following do not include permit issuing
+   1.   Permit Issuance.
+      A.   For issuing each permit – $22.00.
+      B.   For issuing each supplemental permit – $4.50.
+   2.   System Fee Schedule. (Note: The following do not include permit issuing
 fee.)
-   A.   New Residential Buildings. The following fees shall include all wiring
-and electrical equipment in or on each building, or other electrical equipment
-on the same premises constructed at the same time.
-      (1)   For new multi-family residential buildings (apartments and
+      A.   New Residential Buildings. The following fees shall include all
+wiring and electrical equipment in or on each building, or other electrical
+equipment on the same premises constructed at the same time.
+         (1)   For new multi-family residential buildings (apartments and
 condominiums) having three or more living units not including the area of
 garages, carports and other noncommercial automobile storage areas constructed
 at the same time, per square foot – $0.023.
-      (2)   For new single- and two-family residential buildings not including
-the area of garages, carports and other minor accessory buildings constructed
-at the same time, per square foot – $0.026.
-      (3)   For other types of residential occupancies and alterations,
+         (2)   For new single- and two-family residential buildings not
+including the area of garages, carports and other minor accessory buildings
+constructed at the same time, per square foot – $0.026.
+         (3)   For other types of residential occupancies and alterations,
 additions and modifications to existing residential buildings, use the Unit Fee
 Schedule in subsection 3 of this section.
-   B.   Private Swimming Pools.
-      (1)   For new private, residential, in-ground, swimming pools for single-
-family and multi-family occupancies including a complete system of necessary
-branch circuit wiring, bonding, grounding, underwater lighting, water pumping
-and other similar electrical equipment directly related to the operation of a
-swimming pool – $22.50 each.
-      (2)   For other types of swimming pools, therapeutic whirlpools, spas and
-alterations to existing swimming pools, use the Unit Fee Schedule in subsection
-3 of this section.
-   C.   Carnivals and Circuses. Carnivals, circuses, or other traveling shows
-or exhibitions utilizing transportable type rides, booths, displays and
+      B.   Private Swimming Pools.
+         (1)   For new private, residential, in-ground, swimming pools for
+single-family and multi-family occupancies including a complete system of
+necessary branch circuit wiring, bonding, grounding, underwater lighting, water
+pumping and other similar electrical equipment directly related to the
+operation of a swimming pool – $22.50 each.
+         (2)   For other types of swimming pools, therapeutic whirlpools, spas
+and alterations to existing swimming pools, use the Unit Fee Schedule in
+subsection 3 of this section.
+      C.   Carnivals and Circuses. Carnivals, circuses, or other traveling
+shows or exhibitions utilizing transportable type rides, booths, displays and
 attractions.
-      (1)   For electric generators and electrically driven rides – $11.25
+         (1)   For electric generators and electrically driven rides – $11.25
 each.
-      (2)   For mechanically driven rides and walk-through attractions or
+         (2)   For mechanically driven rides and walk-through attractions or
 displays having electric lighting – $3.38 each.
-      (3)   For a system of area and booth lighting – $3.38 each.
-      (4)   For permanently installed, rides, booths, displays and attractions,
-use the Unit Fee Schedule in subsection 3 of this section.
-   D.   Temporary Power Service.
-      (1)   For a temporary service power pole or pedestal including all pole
-or pedestal mounted receptacle outlets and appurtenances – $11.25 each.
-      (2)   For a temporary distribution system and temporary lighting and
+         (3)   For a system of area and booth lighting – $3.38 each.
+         (4)   For permanently installed, rides, booths, displays and
+attractions, use the Unit Fee Schedule in subsection 3 of this section.
+      D.   Temporary Power Service.
+         (1)   For a temporary service power pole or pedestal including all
+pole or pedestal mounted receptacle outlets and appurtenances – $11.25 each.
+         (2)   For a temporary distribution system and temporary lighting and
 receptacle outlets for construction sites, decorative light, Christmas tree
 sales lots, fireworks stands, etc. – $5.63 each.
-3.   Unit Fee Schedule. (Note: The following do not include permit issuing
+   3.   Unit Fee Schedule. (Note: The following do not include permit issuing
 fee.)
-   A.   Receptacle, Switch and Lighting Outlets. For receptacle, switch,
+      A.   Receptacle, Switch and Lighting Outlets. For receptacle, switch,
 lighting or other outlets at which current is used or controlled, except
 services, feeders and meters.
-      (1)   First 20 – $0.56 each;
-      (2)   Additional outlets – $0.34 each.
-   Note: For multi-outlet assemblies, each 5 feet or fraction thereof may be
+         (1)   First 20 – $0.56 each;
+         (2)   Additional outlets – $0.34 each.
+      Note: For multi-outlet assemblies, each 5 feet or fraction thereof may be
 considered as one outlet.
-   B.   Lighting Fixtures.
-      (1)   For lighting fixtures, sockets or other lamp holding devices:
-         First 20 – $0.56 each;
-         Additional fixtures – $0.34 each.
-      (2)   For pole or platform mounted lighting fixtures – $0.56 each;
-      (3)   For theatrical type lighting fixtures or assemblies – $0.56 each.
-   C.   Residential Appliances. For fixed residential appliances or receptacle
-outlets for same, including wall mounted electric ovens; counter mounted
-cooking tops; electric ranges, self-contained room, console, or through-wall
-air conditioners; space heaters; food waste grinders; dishwashers; washing
-machines; water heaters; clothes dryers; or other motor operated appliances not
-exceeding one horsepower (HP) in rating – $2.25 each. Note: For other types of
-air conditioners and other motor driven appliances having larger electrical
-ratings, see Power Apparatus, paragraph E.
-   D.   Nonresidential Appliances. For residential appliances and self-
+      B.   Lighting Fixtures.
+         (1)   For lighting fixtures, sockets or other lamp holding devices:
+            First 20 – $0.56 each;
+            Additional fixtures – $0.34 each.
+         (2)   For pole or platform mounted lighting fixtures – $0.56 each;
+         (3)   For theatrical type lighting fixtures or assemblies – $0.56
+each.
+      C.   Residential Appliances. For fixed residential appliances or
+receptacle outlets for same, including wall mounted electric ovens; counter
+mounted cooking tops; electric ranges, self-contained room, console, or
+through-wall air conditioners; space heaters; food waste grinders; dishwashers;
+washing machines; water heaters; clothes dryers; or other motor operated
+appliances not exceeding one horsepower (HP) in rating – $2.25 each. Note: For
+other types of air conditioners and other motor driven appliances having larger
+electrical ratings, see Power Apparatus, paragraph E.
+      D.   Nonresidential Appliances. For residential appliances and self-
 contained factory wired, nonresidential appliances not exceeding one horsepower
 (HP), kilowatt (KW), or kilovolt-ampere (KVA), in rating including medical and
 dental devices; food, beverage, and ice cream cabinets; illuminated show cases;
@@ -13471,49 +14555,50 @@ drinking fountains; vending machines; laundry machines; or other similar types
 of equipment – $2.25 each. Note: For other types of air conditioners and other
 motor driven appliances having larger electrical ratings, see Power Apparatus,
 paragraph E.
-   E.   Power Apparatus. For motors, generators, transformers, rectifiers,
+      E.   Power Apparatus. For motors, generators, transformers, rectifiers,
 synchronous converters, capacitors, industrial heating, air conditioners, and
 heat pumps, cooking or baking equipment and other apparatus, as follows:
 [Ratings in horsepower (HP), kilowatts (KW), kilovolt-amperes (KVA), or
 kilovolt-amperes-reactive (KVAR)]:
-      (1)   Up to and including 1 – $2.25 each;
-      (2)   Over 1 and not over 10 – $5.63 each;
-      (3)   Over 10 and not over 50 – $11.25 each;
-      (4)   Over 50 and not over 100 – $22.50 each;
-      (5)   Over 100 – $33.75 each.
-   Notes: (i) For equipment or appliances having more than one motor,
-transformer, heater, etc., the sum of the combined ratings may be used. (ii)
-These fees include all switches, circuit breakers, contractors, thermostats,
-relays and other directly related control equipment.
-   F.   Busways. For trolley and plug-in type busways, each 100 feet or
+         (1)   Up to and including 1 – $2.25 each;
+         (2)   Over 1 and not over 10 – $5.63 each;
+         (3)   Over 10 and not over 50 – $11.25 each;
+         (4)   Over 50 and not over 100 – $22.50 each;
+         (5)   Over 100 – $33.75 each.
+      Notes: (i) For equipment or appliances having more than one motor,
+transformer, heater, etc., the sum of the combined ratings may be used.
+(ii) These fees include all switches, circuit breakers, contractors,
+thermostats, relays and other directly related control equipment.
+      F.   Busways. For trolley and plug-in type busways, each 100 feet or
 fraction thereof – $3.28 Note: An additional fee will be required for lighting
 fixtures, motors and other appliances that are connected to trolley and plug-in
 type busways. No fee is required for portable tools.
-   G.   Signs, Outline Lighting and Marquees.
-      (1)   For signs, outline lighting systems or marquees supplied from one
-branch circuit – $11.25 each;
-      (2)   For additional branch circuits within the same sign, outline
+      G.   Signs, Outline Lighting and Marquees.
+         (1)   For signs, outline lighting systems or marquees supplied from
+one branch circuit – $11.25 each;
+         (2)   For additional branch circuits within the same sign, outline
 lighting system or marquee – $2.25 each.
-   H.   Services.
-      (1)   For services of 600 volts or less and not over 200 amperes in
+      H.   Services.
+         (1)   For services of 600 volts or less and not over 200 amperes in
 rating – $13.88 each;
-      (2)   For services of 600 volts or less and over 200 amperes to 1000
+         (2)   For services of 600 volts or less and over 200 amperes to 1000
 amperes in rating – $28.13 each;
-      (3)   For services over 600 volts or over 1000 amperes in rating – $56.25
-each.
-   I.   Miscellaneous Apparatus, Conduits and Conductors. For electrical
+         (3)   For services over 600 volts or over 1000 amperes in rating –
+$56.25 each.
+      I.   Miscellaneous Apparatus, Conduits and Conductors. For electrical
 apparatus, conduits and conductors for which a permit is required but for which
-no fee is herein set forth – $8.25. Note: This fee is not applicable when a fee
-is paid for one or more services, outlets, fixtures, appliances, power
-apparatus, busways, signs or other equipment.
-155.24 PLAN CHECKING FEES.
+no fee is herein set forth – $8.25.
+      Note: This fee is not applicable when a fee is paid for one or more
+services, outlets, fixtures, appliances, power apparatus, busways, signs or
+other equipment.
+155.34 PLAN CHECKING FEES.
 When a plan check is required by the Building Official, the fees shall be equal
 to the fee charged to the City by a consultant retained by the City to perform
 such service. The plan check may be waived, when required, if the plans
 submitted are certified by an engineer or architect, registered pursuant to the
 laws of the State, to be in compliance with the requirements of this chapter.
 (Code of Iowa, Sec. 103A.19[5])
-155.25 EXPIRATION OF PLAN CHECK.
+155.35 EXPIRATION OF PLAN CHECK.
 Applications for which no permit is issued within 180 days following the date
 of application shall expire by limitation and plans submitted for checking may
 thereafter be returned to the applicant or destroyed by the Building Official.
@@ -13522,52 +14607,53 @@ period not exceeding 180 days upon written request by the applicant showing
 that circumstances beyond the control of the applicant have prevented action
 from being taken. In order to renew action on an application after expiration,
 the applicant shall resubmit plans and pay a new plan check fee.
-155.26 REINSPECTION FEE.
+155.36 REINSPECTION FEE.
 In the event reinspection is necessary, there shall be paid to the Building
 Official a reinspection fee in the following amounts:
 (Code of Iowa, Sec. 103A.19[5])
-1.   Foundation Inspection – $25.00
-2.   Frame Inspection – $25.00
-3.   Final Inspection – $25.00
-4.   Mechanical Work – $25.00
-5.   Plumbing Work – $25.00
-6.   Electrical Work – $25.00
-155.27 OTHER INSPECTION FEES.
+   1.   Foundation Inspection – $25.00
+   2.   Frame Inspection – $25.00
+   3.   Final Inspection – $25.00
+   4.   Mechanical Work – $25.00
+   5.   Plumbing Work – $25.00
+   6.   Electrical Work – $25.00
+155.37 OTHER INSPECTION FEES.
 In the event that an inspection or review is requested and performed pursuant
 to any of the following items, there shall be paid to the Building Official a
 fee in the following amounts:
-1.   Inspections outside of normal business hours (minimum charge of one hour)
-– $25.00 per hour.
-2.   Inspections for which no fee is specifically indicated – $20.00 per hour.
-3.   Additional plan review required by changes, additions, or revisions to
+   1.   Inspections outside of normal business hours (minimum charge of one
+hour) – $25.00 per hour.
+   2.   Inspections for which no fee is specifically indicated – $20.00 per
+hour.
+   3.   Additional plan review required by changes, additions, or revisions to
 approved plans (minimum charge of one-half hour) – $20.00 per hour.
-155.28 PENALTY FEE.
+155.38 PENALTY FEE.
 Where work for which a permit is required by this chapter is started or
 commenced without obtaining a permit, the fees specified for such permit shall
 be doubled, but the payment of such double fee shall not relieve any persons
 from fully complying with the requirements of this chapter in the execution of
 the work, nor from any other penalties prescribed herein.
 (Code of Iowa, Sec. 103A.19[5])
-155.29 INSPECTION REQUIRED.
+155.39 INSPECTION REQUIRED.
 All construction or work for which a permit is issued may be subject to
 inspection by the Building Official, and certain types of construction may have
 continuous inspection by special inspectors, as specified in Section
 155.37.
 (Code of Iowa, Sec. 103A.19[1])
-155.30 LOT SURVEY.
+155.40 LOT SURVEY.
 A survey of the lot may be required by the Building Official to verify
 compliance of the structure with approved plans.
-155.31 CONCEALED WORK.
+155.41 CONCEALED WORK.
 That portion of any work or equipment intended to be concealed by any permanent
 portion of the building shall not be concealed until inspected and approved.
-155.32 INSPECTION RECORD CARD.
+155.42 INSPECTION RECORD CARD.
 Work requiring a permit shall not be commenced until the permit holder or agent
 shall have posted an inspection record card in a conspicuous place on the front
 premises and in such position as to allow the Building Official conveniently to
 make the required entries thereon regarding inspection of the work. This card
 shall be maintained in such position by the permit holder until the certificate
 of occupancy or satisfactory completion has been issued.
-155.33 APPROVALS REQUIRED.
+155.43 APPROVALS REQUIRED.
 No work may be done on any part of the building or structure beyond the point
 indicated in each successive inspection without first obtaining the written
 approval of the Building Official. Such written approval may be given only
@@ -13575,95 +14661,98 @@ after an inspection has been made of each successive step in the construction
 as indicated by each of the inspections required in Section
 155.34. There may be a final inspection and approval on all buildings and work
 when ready for occupancy and/or completed.
-155.34 REQUIRED INSPECTIONS.
+155.44 REQUIRED INSPECTIONS.
 The Building Official, upon notification from the permit holder or agent, may
 make the following applicable inspections and shall either approve that portion
 of the work as completed or shall notify the permit holder or agent wherein the
 same fails to comply with this chapter.
-1.   Reinforcing Steel or Structural Framework. Reinforcing steel or structural
-framework of any part of any building or structure may not be covered or
-concealed without first obtaining the approval of the Building Official.
-2.   Foundation Inspection. To be made after trenches are excavated and forms
-erected and when all materials for the foundation are delivered on the job.
-Where concrete from a central mixing plant (commonly termed “transit mixed”) is
-to be used, materials need not be on the job.
-3.   Frame Inspection. To be made after the roof, all framing, fire-blocking,
-and bracing are in place and all pipes, chimneys, and vents are complete.
-4.   Mechanical Inspection. To be made before concealment or use.
-5.   Plumbing Inspection. To be made before concealment or use.
-6.   Electrical Inspection. To be made before concealment or use.
-7.   Other Inspections. In addition to the called inspections specified above,
-the Building Official may make or require any other inspections of any
+   1.   Reinforcing Steel or Structural Framework. Reinforcing steel or
+structural framework of any part of any building or structure may not be
+covered or concealed without first obtaining the approval of the Building
+Official.
+   2.   Foundation Inspection. To be made after trenches are excavated and
+forms erected and when all materials for the foundation are delivered on the
+job. Where concrete from a central mixing plant (commonly termed “transit
+mixed”) is to be used, materials need not be on the job.
+   3.   Frame Inspection. To be made after the roof, all framing, fire-
+blocking, and bracing are in place and all pipes, chimneys, and vents are
+complete.
+   4.   Mechanical Inspection. To be made before concealment or use.
+   5.   Plumbing Inspection. To be made before concealment or use.
+   6.   Electrical Inspection. To be made before concealment or use.
+   7.   Other Inspections. In addition to the called inspections specified
+above, the Building Official may make or require any other inspections of any
 construction or work to ascertain compliance with the provisions of this
 chapter and other laws which are enforced by the Building Official.
-8.   Reinspections. Reinspections, and fees therefor, may be required as
+   8.   Reinspections. Reinspections, and fees therefor, may be required as
 follows:
-   A.   A reinspection fee may be assessed for each inspection or reinspection
-when such portion of work for which inspection is called is not complete or
-when corrections called for are not made.
-   B.   This subsection is not to be interpreted as requiring reinspection fees
-the first time a job is rejected for failure to comply with the requirements of
-this chapter, but as controlling the practice of calling for inspections before
-the job is ready for such inspection or reinspection.
-   C.   Reinspection fees may be assessed when the permit card is not properly
-posted on the work site, the approved plans are not readily available to the
-inspector, for failure to provide access on the date for which inspection is
-requested, or for deviating from plans requiring the approval of the Building
-Official.
-   D.   To obtain a reinspection the applicant shall file an application
+      A.   A reinspection fee may be assessed for each inspection or
+reinspection when such portion of work for which inspection is called is not
+complete or when corrections called for are not made.
+      B.   This subsection is not to be interpreted as requiring reinspection
+fees the first time a job is rejected for failure to comply with the
+requirements of this chapter, but as controlling the practice of calling for
+inspections before the job is ready for such inspection or reinspection.
+      C.   Reinspection fees may be assessed when the permit card is not
+properly posted on the work site, the approved plans are not readily available
+to the inspector, for failure to provide access on the date for which
+inspection is requested, or for deviating from plans requiring the approval of
+the Building Official.
+      D.   To obtain a reinspection the applicant shall file an application
 therefor in writing upon a form furnished for that purpose, and pay the
 reinspection fee in accordance with Section
 155.26.
-   E.   In instances where reinspection fees have been assessed no additional
-inspection of the work will be performed until the required fees have been
-paid.
-9.   Final Inspection. To be made after work is completed and/or the building
-ready for occupancy.
-155.35 MAINTENANCE.
+      E.   In instances where reinspection fees have been assessed no
+additional inspection of the work will be performed until the required fees
+have been paid.
+   9.   Final Inspection. To be made after work is completed and/or the
+building ready for occupancy.
+155.45   MAINTENANCE.  
 All buildings or structures, both existing and new, and all parts thereof shall
 be maintained in a safe and sanitary condition. All devices or safeguards which
 are required by this chapter in a building or structure when erected, altered,
 or repaired, shall be maintained in good working order. The owner or designated
 agent shall be responsible for the maintenance of buildings and structures.
-155.36 SPECIAL INSPECTIONS.
+155.46   SPECIAL INSPECTIONS.
 In addition to the inspections to be made as specified in Section
 155.34, the owner or agent shall employ a special inspector who shall be
 present at all times during construction on the following types of work:
-1.   Concrete. On concrete work when the structural design is based on an in
-excess of 2,000 pounds.
-2.   Masonry. Masonry work shall have special inspection when required in the
-State Building Code.
-3.   Welding. On all structural welding.
-4.   Reinforced Gypsum Concrete. When cast-in-place Class B reinforced gypsum
-concrete is being mixed or deposited.
-5.   Special Cases. On special construction or work involving unusual hazards
-or requiring constant inspection.
-6.   Exception. The Building Official may waive the requirement for the
+   1.   Concrete. On concrete work when the structural design is based on an
+[https://export.amlegal.com/media/a220a8f4ebc860951731f920e55dd4adfb10f77c/
+IMAGES/0-0-0-2393_264x264.jpg] in excess of 2,000 pounds.
+   2.   Masonry. Masonry work shall have special inspection when required in
+the State Building Code.
+   3.   Welding. On all structural welding.
+   4.   Reinforced Gypsum Concrete. When cast-in-place Class B reinforced
+gypsum concrete is being mixed or deposited.
+   5.   Special Cases. On special construction or work involving unusual
+hazards or requiring constant inspection.
+   6.   Exception. The Building Official may waive the requirement for the
 employment of a special inspector if it is found that the construction or work
 is such that no unusual hazard exists.
-155.37 SPECIAL INSPECTOR.
+155.47   SPECIAL INSPECTOR.
 The special inspector shall be a qualified person approved by the Building
 Official. The special inspector shall furnish continuous inspection on the
 construction and work requiring the employment of the special inspector. The
 special inspector shall report to the Building Official in writing, noting all
 ordinance violations and other information as required.
-155.38 APPROVED FABRICATORS.
+155.48   APPROVED FABRICATORS.
 Special inspections required by Section
 155.36 and elsewhere in this chapter shall not be required where the work is
 done on the premises of a fabricator approved by the Building Official to
 perform such work without special inspection. The certificate of approval shall
 be subject to revocation by the Building Official if it is found that any work
 done pursuant to the approval is in violation of this chapter.
-155.39 REQUEST FOR INSPECTION.
+155.49   REQUEST FOR INSPECTION.
 The Building Official may require that every request for inspection be filed at
 least one day before such inspection is desired. Such request may be in writing
 or by telephone at the option of the Building Official.
-155.40 ACCESS.
+155.50   ACCESS.
 It shall be the duty of the person requesting inspection to provide access to
 and means for proper inspection. The Building Official shall not be liable for
 any expense entailed in the removal or replacement of any material required to
 allow the inspection.
-155.41 POWER, FUEL AND WATER SUPPLY CONNECTIONS.
+155.51   POWER, FUEL AND WATER SUPPLY CONNECTIONS.
 Systems and/or equipment regulated by this chapter shall not be connected to
 the power, fuel or water supply until authorized by the Building Official,
 except that this section shall not be considered to prohibit the operation of
@@ -13672,44 +14761,46 @@ portion of a building in the event a request for inspection of such equipment
 has been filed with the Building Official not more than twenty-eight (28) hours
 after such replacement work is completed and before any portion of such
 equipment is concealed by any permanent portion of the building.
-155.42 CERTIFICATE OF OCCUPANCY.
+155.52   CERTIFICATE OF OCCUPANCY.
 No building or structure where a certificate of occupancy is required by the
 State Building Code Administration Section shall be used or occupied, and no
 change in the existing occupancy classification of a building or structure or
 portion thereof shall be made until the Building Official has issued a
 certificate of occupancy therefor as provided herein.
 (Code of Iowa, Sec. 103A.19[4])
-1.   Change in Use. Changes in the character or use of a building shall not be
-made except as specified in the State Building Code adopted by this chapter.
-2.   Certificate Issued. After final inspection when it is found that the
+   1.   Change in Use. Changes in the character or use of a building shall not
+be made except as specified in the State Building Code adopted by this chapter.
+   2.   Certificate Issued. After final inspection when it is found that the
 building or structure complies with the provisions of this chapter, the
 Building Official may issue a certificate of occupancy which shall contain the
 following:
-   A.   The building permit number.
-   B.   The address of the building.
-   C.   The name and address of the owner.
-   D.   A description of that portion of the building for which the certificate
-is issued.
-   E.   A statement that the described portion of the building complies with
+      A.   The building permit number.
+      B.   The address of the building.
+      C.   The name and address of the owner.
+      D.   A description of that portion of the building for which the
+certificate is issued.
+      E.   A statement that the described portion of the building complies with
 the requirements of this chapter for group and division of occupancy and the
 use for which the proposed occupancy is classified.
-   F.   The name of the Building Official.
-3.   Temporary Certificate. A temporary certificate of occupancy may be issued
-by the Building Official for the use of a portion or portions of a building or
-structure prior to the completion of the entire building or structure.
-4.   Posting. The certificate of occupancy shall be posted in a conspicuous
+      F.   The name of the Building Official.
+   3.   Temporary Certificate. A temporary certificate of occupancy may be
+issued by the Building Official for the use of a portion or portions of a
+building or structure prior to the completion of the entire building or
+structure.
+   4.   Posting. The certificate of occupancy shall be posted in a conspicuous
 place on the premises and shall not be removed except by the Building Official.
-155.43 VIOLATIONS.
+155.53   VIOLATIONS.
 It is unlawful for any person to erect, construct, enlarge, alter, repair,
 move, improve, remove, convert or demolish, equip, use, occupy, or maintain any
 building or structure in the City, or cause the same to be done, contrary to or
 in violation of any of the provisions of this chapter.
-155.44 PENALTY.
-Any person violating any of the provisions of this chapter shall be deemed
-guilty of a misdemeanor, and each such person shall be deemed guilty of a
-separate offense for each and every day or portion thereof during which any
-violation of any of the provisions of this chapter is committed, continued or
-permitted.
+155.54   PENALTY.  
+Any person violating any of the provisions of this Chapter shall be considered
+in violation of this Chapter. In addition to any other enforcement remedy in
+the Code of Ordinances, the requirements of this Chapter may be enforced under
+the provisions of municipal infractions as set forth in
+Chapter 4 of the Code of Ordinances.
+(Ch. 155 – Ord. 2514 – Jan. 26 Supp.)
 CHAPTER 156
 SIGN CODE
 156.01 Title                       156.15 Exemptions
@@ -13803,7 +14894,9 @@ ground.
 16.   “Sign, portable” means a free standing sign not permanently anchored or
 secured.
 17.   “Sign, projecting” means a sign other than a wall sign, which projects
-from and is supported by a wall of a building or structure.
+from and is supported by a wall of a building or structure. Also referred to as
+a blade sign, herein.
+(Ord. 2515 – Jan. 26 Supp)
 18.   “Sign, roof” means a sign erected upon or above a roof or parapet of a
 building or structure.
 19.   “Sign, service” means a sign identifying rest rooms and other service
@@ -14116,6 +15209,9 @@ this chapter.
 5.   Menu signs are permitted in addition to any other permitted signs within
 the district. However, such signs shall be located to the rear or to the side
 of the principal building located on any lot.
+6.   Blade signs may be allowed to protrude 48 inches from building walls,
+roofs, or parapets.
+(Ord. 2515 – Jan. 26 Supp)
 156.25 OFF-PREMISES SIGNS (BILLBOARDS).
 Notwithstanding any other provisions of this chapter, no off-premises sign will
 be permitted unless all of the following conditions have been met:
@@ -19106,7 +20202,7 @@ in the area used, said building or use shall then and thereafter comply with
 the parking requirement set forth herein.
 F.   On the following page is a Parking Table showing the space requirements
 for various parking angles.
-[https://export.amlegal.com/media/25cd5f19cfb5deec2fe68b14f97371f3c6efc02c/
+[https://export.amlegal.com/media/a220a8f4ebc860951731f920e55dd4adfb10f77c/
 IMAGES/0-0-0-2343.png]
  
 6.   Exceptions. The Board of Adjustment is hereby authorized and empowered,
