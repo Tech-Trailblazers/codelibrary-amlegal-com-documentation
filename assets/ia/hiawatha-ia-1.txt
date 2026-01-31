@@ -143,6 +143,17 @@ Jul-25    Ch. 165                  1005     12-18-24 Zoning Map
           41.15                    1007     6-4-25   Public Exposure
           69.15                    1008     6-4-25   Parking of Unregistered
                                                      Vehicles Illegal
+                                                     Subarea No. 4 of the
+Oct-25    9.03                     1009     8-20-25  Hiawatha Urban
+                                                     Revitalization Area
+          Ch. 165                  1010     10-1-25  Zoning Map
+          Ch. 155                  1011     10-15-25 Building Code
+          Ch. 156                  1012     10-15-25 Plumbing Code
+          Ch. 157                  1013     10-15-25 Electrical Code
+          Ch. 158                  1014     10-15-25 Mechanical Code
+          Ch. 160                  1015     10-15-25 Fire Code
+          Ch. 163                  1016     10-15-25 Housing Code
+          Ch. 164                  1017     10-15-25 Property Maintenance Code
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -2239,8 +2250,10 @@ and 989-A shall remain in full force and effect.
 CHAPTER 9
 URBAN REVITALIZATION
  
-9.01 Designation of Revitalization Area 9.02 Hiawatha Urban Revitalization Area
-                                        Amendment No. 3
+9.01 Designation of Revitalization Area 9.03 Subarea No. 4 of the Hiawatha
+                                        Urban Revitalization Area
+9.02 Hiawatha Urban Revitalization Area
+Amendment No. 3
 9.01   DESIGNATION OF REVITALIZATION AREA.
    In accordance with Chapter 404 of the Code of Iowa, the following described
 area of the City is hereby designated as the Town Village Center Urban
@@ -2667,6 +2680,24 @@ LYG NW'LY OF RR SEC 33 TWP 84 R 7
    2.   The Area shall remain in existence until the designating ordinance, as
 amended, is repealed pursuant to Iowa Code Section 404.7.
 (Section 9.02 – Ord. 980 – Dec. 22 Supp.)
+9.03   SUBAREA NO. 4 OF THE HIAWATHA URBAN REVITALIZATION AREA.
+   1.   That, consistent with the adoption of the 2025 Amended and Restated
+Plan and in accordance with the provisions of the Urban Revitalization Act, the
+area legally described as follows is hereby designated as an urban
+revitalization area, as a subarea of the Hiawatha Urban Revitalization Area of
+the City of Hiawatha, Iowa:
+Subarea No. 4 of Hiawatha Urban Revitalization Area
+P.O.S. #321 PARCEL B
+P.O.S. #321 PARCEL A & HI-TECH 2ND LOT 2
+HI-TECH 2ND LOT 3
+P.O.S. #1041 – REVISED PARCEL A
+HI-TECH 2ND LOT 1
+HI-TECH 1ST LOT 1
+   2.   That Ordinance Nos. 903 and 980 are hereby amended to include the
+above-described Subarea No. 4, and that all other ordinances or parts of
+ordinances in conflict herewith be and the same are hereby repealed to the
+extent of such conflict.
+(Section 9.03 – Ord. 1009 – Oct. 25 Supp.)
 CHAPTER 15
 MAYOR
  
@@ -12433,7 +12464,7 @@ drainage systems, or parts thereof), railroad lines and tracks, wires, cables,
 ducts, pipes, manholes, transformers, poles, towers, steam, traffic signal,
 fire signal or similar service.
 140.04    VISUAL OF RIGHT-OF-WAY DESCRIPTION.
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2399.png]
 140.05    PERMIT REQUIRED.
    For additional regulations and permitting requirements see requirements of:
@@ -14134,26 +14165,27 @@ BUILDING CODE
 155.01 International Building Code     155.15 Opening Protection
 Adopted
 155.02 Amendments to the Building Code 155.16 Fire Protection of Floors
-155.03 Referenced Codes                155.17 Glazing Adjacent to Doors
-155.04 Code Compliance Agency          155.18 Repeal of Section (Window Sills)
-155.05 Flood Hazard Areas              155.19 Automatic Fire Sprinkler Systems
+155.03 Referenced Codes                155.17 Automatic Fire Sprinkler Systems
+155.04 Code Compliance Agency          155.18 Repeal of Section (Window Fall
+                                       Protection)
+155.05 Flood Hazard Areas              155.19 Glazing Adjacent to Doors
 155.06 Work Exempt From Permit         155.20 Slab on Grade Foundations
-155.07 Temporary Structures and Uses   155.21 Foundations Drainage Systems
-155.08 Schedule of Permit Fees         155.22 Accessible Designs
+155.07 Temporary Structures and Uses   155.21 Accessible Design
+155.08 Schedule of Permit Fees         155.22 Fouindations Drainage Systems
 155.09 Valuation                       155.23  Swimming Pools and Spas
 155.10 Refunds                         155.24 Swimming Pool Drainage Systems
 155.11 Reinspection Fees               155.25 Radon Testing
 155.12 Board of Appeals                155.26 Code on File
-155.13 Unsafe Structures               155.27 Condominium Conversion
+155.13 Unsafe Structures and Equipment 155.27 Condominium Conversion
 155.14 Design Criteria
  
 155.01    INTERNATIONAL BUILDING CODE ADOPTED.
    Except as hereinafter added to, deleted, modified or amended, there is
 hereby adopted as the Building Code of the City that certain Building Code
-known as the International Building Code, 2021 Edition including Appendix N:
-Replicable Buildings, and International Residential Code, 2021 Edition Chapters
-2 through 10, including Appendix AF: Radon Control Methods and Appendix AQ:
-Tiny Houses. The provisions of said Building Code shall be controlling in the
+known as the International Building Code, 2024 Edition including Appendix N:
+Replicable Buildings, and International Residential Code, 2024 Edition Chapters
+2 through 10, including Appendix BB: Tiny Houses and Appendix BF: Radon Control
+Methods. The provisions of said Building Code shall be controlling in the
 construction of buildings and other structures and in all matters covered by
 said Building Code within the corporate limits of the City and shall be known
 as the Hiawatha Building Code.
@@ -14165,10 +14197,10 @@ chapter.
 155.03    REFERENCED CODES.
    The Hiawatha Building Code is hereby amended by amending Section 101.4 of
 the International Building Code as follows:
-   IBC 101.4.1 Gas. The provision of the Iowa State Plumbing Code adopted in
-Iowa Administrative Code 641—25 shall apply to the installation of gas piping
-from the point of delivery, gas appliances and related accessories as covered
-in this code.
+   IBC 101.4.1 Gas. The provision of the Hiawatha Plumbing Code as adopted in
+the Hiawatha Code of Ordinances
+Chapter 156 shall apply to the installation of gas piping from the point of
+delivery, gas appliances and related accessories as covered in this code.
    IBC 101.4.2 Mechanical. The provisions of the Hiawatha Mechanical Code as
 adopted in Hiawatha Code of Ordinances
 Chapter 158 shall apply to the installation, alterations, repairs and
@@ -14182,35 +14214,37 @@ Chapter 156 shall apply to the installation, alteration, repair and replacement
 of plumbing systems including equipment, appliances, fixtures, fittings and
 appurtenances, and where connected to a water or sewage system and all aspects
 of a medical gas system.
-    IBC 101.4.4 Property Maintenance.  The provisions of the Hiawatha Property
-Maintenance Code as adopted by Ordinance 164 shall apply to existing structures
-and premises; equipment and facilities; light, ventilation, space heating,
-sanitation, life and fire safety hazards; responsibilities of owners, operators
-and occupants; and occupancy of existing premises and structures.
+   IBC 101.4.4 Property Maintenance. The provisions of the Hiawatha Property
+Maintenance Code as adopted by Ordinance
+Chapter 164 shall apply to existing structures and premises; equipment and
+facilities; light, ventilation, space heating, sanitation, life and fire safety
+hazards; responsibilities of owners, operators and occupants; and occupancy of
+existing premises and structures.
    IBC 101.4.5 Fire Prevention. The provisions of the Hiawatha Fire Code as
-adopted by Ordinance 160 shall apply to matters affecting or relating to
-structures, processes and premises from the hazard of fire and explosion
-arising from the storage, handling or use of structures, materials or devices;
-from conditions hazardous to life, property or public welfare in the occupancy
-of structures or premises; and from the construction, extension, repair,
-alteration or removal of fire suppression, automatic sprinkler systems and
-alarm systems or fire hazards in the structure or on the premises from
-occupancy or operation.
-   IBC 104.4.6 Energy. The provision of the International Energy Conservation
+adopted by Ordinance
+Chapter 160 shall apply to matters affecting or relating to structures,
+processes and premises from the hazard of fire and explosion arising from the
+storage, handling or use of structures, materials or devices; from conditions
+hazardous to life, property or public welfare in the occupancy of structures or
+premises; and from the construction, extension, repair, alteration or removal
+of fire suppression, automatic sprinkler systems and alarm systems or fire
+hazards in the structure or on the premises from occupancy or operation.
+   IBC 101.4.6 Energy. The provision of the International Energy Conservation
 Code 2021 Edition shall apply to all matters governing the design and
 construction of buildings for energy efficiency with the following exception.
    EXCEPTION: Buildings complying with the Iowa Energy Code as adopted by Iowa
-Administrative Code 661—303.1(103A) Scope and applicability of energy
+Administrative Code 661—303.1(103A) scope and applicability of energy
 conservation requirements:
    IBC 101.4.7 to remain unchanged.
    IBC 101.4.8 Electrical. The provisions of the Hiawatha Electrical Code as
-adopted by Ordinance 157 shall be controlling in the installation, alterations,
-repairs, removals, renewals, replacements, connection, disconnection and
-maintenance of all electrical equipment within the corporate limits of the
-City. For the purpose of this chapter, the term “electrical equipment” means
-all materials, wiring, conductors, fittings, devices, appliances, luminaires,
-signs and apparatus or parts thereof comprising an electrical system within a
-structure or facility.
+adopted by Ordinance
+Chapter 157 shall be controlling in the installation, alterations, repairs,
+removals, renewals, replacements, connection, disconnection and maintenance of
+all electrical equipment within the corporate limits of the City. For the
+purpose of this chapter, the term “electrical equipment” means all materials,
+wiring, conductors, fittings, devices, appliances, luminaires, signs and
+apparatus or parts thereof comprising an electrical system within a structure
+or facility.
 155.04    CODE COMPLIANCE AGENCY.
    The Hiawatha Building Code is hereby amended by amending Section 103.1 of
 the International Building Code as follows:
@@ -14219,34 +14253,38 @@ official in charge thereof shall be known as the building official. The
 function of the agency shall be the implementation, administration and
 enforcement of the provisions of this code.
 155.05    FLOOD HAZARD AREAS.
-   The Hiawatha Building Code is hereby amended by deleting Section 104.10.1 of
-the International Building Code and replacing said section as follows:
-   104.10.1 Flood Hazard Areas.  The building official may grant modification
-to provisions required in the flood hazard areas as established by section
-1612.3 in accordance with Hiawatha Ordinance 161.
+   The Hiawatha Building Code is hereby amended by deleting Section 104.2.4.1
+of the International Building Code and replacing said section as follows:
+   104.2.4.1 Flood Hazard Areas. The building official may grant modification
+to provisions required in the flood hazard areas as established by Section
+1612.3 in accordance with Hiawatha Ordinance
+Chapter 161.
 155.06    WORK EXEMPT FROM PERMIT.
-   The Hiawatha Building Code is hereby amended by replacing Item 2 and adding
-Item 14 in Section 105.2 of the International Building Code as follows.
-   2.   The replacement of up to two windows, and/or one exterior door within a
-one-year period when replaced with windows or doors of similar size, style and
-material, and no structural change is required for the framing of the rough
-opening for said windows or door.
-   14.   Decks accessory to one and two family dwellings meeting all of the
-following limits:
+   The Hiawatha Building Code is hereby amended by adding Item 14 and 15 in
+Section 105.2 of the International Building Code as follows.
+   14.   Unenclosed residential decks accessory to one and two family dwellings
+meeting all of the following limits:
       a.   Less than 200 square feet in area and,
-      b.    Less than 30 inches above grade at all points and,
-      c.    Not attached to the main structure.
+      b.   Less than 30 inches above grade at all points and,
+      c.   Not attached to the main structure.
+      d.   Not supporting roof or unusual loads
+      e.   Do not serve the exit door required by R318.2
+   15.   The replacement of up to two windows, and/or one exterior door within
+a one-year period when replaced with windows or doors of similar size, style
+and material, and no structural change is required for the framing of the rough
+opening for said windows or door.
 155.07    TEMPORARY STRUCTURES AND USES.
    The Hiawatha Building Code is hereby amended by amending Section 108.1 of
 the International Building Code as follows:
    108.1 General. The building official is authorized to issue a permit for
 temporary structures and temporary uses in accordance with Hiawatha Unified
-Development Code 165 and this code.
+Development Code
+Chapter 165 and this code.
 155.08    SCHEDULE OF PERMIT FEES. .
    The Hiawatha Building Code is hereby amended by repealing Section 109.2 of
 the International Building Code and by replacing said section with a new
 section as follows:
-   109.2   Schedule of permit fees.  On buildings, structures or alterations
+   109.2   Schedule of permit fees. On buildings, structures or alterations
 requiring a permit, a fee for each permit shall be paid as set forth in Table
 1-A BUILDING PERMIT AND INSPECTION FEE SCHEDULE as adopted by resolution of the
 Hiawatha City Council.
@@ -14262,30 +14300,31 @@ Hiawatha City Council.
    The Hiawatha Building Code is hereby amended by repealing Section 109.6 of
 the International Building Code and by replacing said section with a new
 section as follows:
-   109.6 Refunds.  Refunds shall be as set forth in Table 1-A BUILDING PERMIT
+   109.6 Refunds. Refunds shall be as set forth in Table 1-A BUILDING PERMIT
 AND INSPECTION FEE SCHEDULE as adopted by resolution of the Hiawatha City
 Council.
 155.11    REINSPECTION FEES.
    The Hiawatha Building Code is hereby amended by adding a new Section 109.7
 to the International Building Code as follows:
-   109.7   Reinspections.  A reinspection fee in Table 1-A BUILDING PERMIT AND
-INSPECTION FREE SCHEDULE as adopted by resolution of the Hiawatha City Council
+   109.7   Reinspections. A reinspection fee in Table 1-A BUILDING PERMIT AND
+INSPECTION FEE SCHEDULE as adopted by resolution of the Hiawatha City Council
 may be assessed for each reinspection of a failed inspection.
 155.12    BOARD OF APPEALS.
-   Section 113.1 of the International Building Code shall be replaced as
-follows:
-   113.   General:  Appeals of orders, decisions or determinations made by the
+   Section 113 of the International Building Code shall be amended by deleting
+Sections 113.1 through 113.4 and replacing as follows:
+   113.1 General: Appeals of orders, decisions or determinations made by the
 building official relative to the application and interpretation of this code,
 shall be heard and decided by the Board of Appeals (hereinafter “Board”) as set
-forth in Chapter 159 of the Code of Ordinances.
+forth in
+Chapter 159 of the Code of Ordinances.
 155.13    UNSAFE STRUCTURES AND EQUIPMENT.
    The Hiawatha Building Code is hereby amended by deleting Section 116.1
 through 116.5 of the International Building Code and replacing said sections as
 follows:
    116.1 Dangerous Structures and Premises. Any building found to be a
 “dangerous building” as defined in Hiawatha Code of Ordinances
-Chapter 145 shall be regulated in accordance with Hiawatha Ordinance Chapter
-145 and applicable State of Iowa regulations.
+Chapter 145 shall be regulated in accordance with Hiawatha Ordinance
+Chapter 145 and applicable State of Iowa regulations.
 155.14    DESIGN CRITERIA.
    The Hiawatha Building Code is hereby amended by inserting climate and
 geographical design criteria into Table R301.2 of the International Residential
@@ -14306,135 +14345,137 @@ of the International Residential Code, and by replacing said section with a new
 Section R302.5.1 as follows:
    R302.5.1 Opening protection. Openings from a private garage directly into a
 room used for sleeping purposes shall not be permitted. Other openings between
-the garage and residence shall be equipped with solid wood doors not less than
-1 3/8 inches in thickness, solid or honeycomb-core steel doors not less than 1
-3/8 inches thick, or 20-minute fire-rated doors. Doors shall be self-latching.
+the garage and dwelling unit shall be equipped with solid wood doors not less
+than 1 3/8 inches in thickness, solid or honeycomb-core steel doors not less
+than 1 3/8 inches thick, or 20-minute fire-rated doors. Doors shall be self-
+latching.
 155.16    FIRE PROTECTION OF FLOORS.
    The Hiawatha Building Code is hereby amended by repealing Section R302.13 of
 the International Residential Code and leaving said section blank.
-155.17    GLAZING ADJACENT TO DOORS.
-   The Hiawatha Building Code is hereby amended by repealing Sections R308.4.2
+155.17    AUTOMATIC FIRE SPRINKLER SYSTEMS.
+   The Hiawatha Building Code is hereby amended by repealing Section R309 of
+the International Residential Code, and by replacing said section with a new
+section as follows:
+   SECTION R309 AUTOMATIC FIRE SPRINKLER SYSTEMS
+   R309.1 Townhouse automatic fire sprinkler systems. An automatic residential
+fire sprinkler system shall be installed throughout all attached townhouse
+dwelling units when any of the following conditions exist:
+      1.   The townhouses are constructed in a group of more than four attached
+units.
+      2.   Any individual townhouse dwelling unit of a structure with four or
+fewer attached townhouses has a floor area greater than 4000 square feet on any
+one story or greater than 8000 square feet of total floor area for all stories,
+excluding non-habitable areas separated from the rest of the building by a
+minimum of one-hour fire-resistive construction and containing smoke or heat
+detection interconnected with the dwelling unit smoke detectors.
+      3.   The floor area of the structure, excluding the basement, exceeds
+10,000 square feet regardless of fire separations creating separate buildings,
+fire areas or occupancies.
+      Exception: An automatic residential fire sprinkler system shall not be
+required when additions or alterations are made to existing townhouses that do
+not have an automatic residential fire sprinkler system installed.
+   R309.1.1 Design and installation. Automatic residential fire sprinkler
+systems for townhouses shall be designed and installed in accordance with NFPA
+13D or Section P2904.
+R309.2 One- and two-family dwellings automatic fire sprinkler systems.
+   R309.2 One- and two-family dwellings automatic fire sprinkler systems. An
+automatic residential fire sprinkler system shall be installed in one- and two-
+family dwellings when the following conditions exist:
+      1.   The one- or two-family dwelling has a floor area greater than 4,000
+square feet on any one story or greater than 8,000 square feet of total floor
+area for all stories, excluding non-habitable areas separated from the rest of
+the building by a minimum of one-hour fire-resistive construction and
+containing smoke or heat detection interconnected with the dwelling unit smoke
+detectors.
+      2.   The floor area of the structure, excluding the basement, exceeds
+10,000 square feet regardless of fire separations creating separate buildings,
+fire areas or occupancies.
+      Exception: Two-family homes separated as required for a townhouse shall
+have automatic fire sprinkler requirements as for townhouses.
+      Exception: An automatic residential fire sprinkler system shall not be
+required when additions or alterations are made to existing one- and two-family
+dwellings that do not have an automatic residential fire sprinkler system
+installed.
+   R309.2.1 Design and installation. Automatic residential fire sprinkler
+systems for one- and two-family dwellings shall be designed and installed in
+accordance with NFPA 13D or Section P2904.
+155.18    REPEAL OF SECTION (WINDOW FALL PROTECTION).
+   The Hiawatha Building Code is hereby amended by repealing Section R321.2. of
+the International Residential Code, and leaving said section blank.
+155.19    GLAZING ADJACENT TO DOORS.  
+   The Hiawatha Building Code is hereby amended by repealing Sections R324.4.2
 of the International Residential Code, and by replacing said section with a new
-Section R308.4.2 as follows:
-   R308.4.2 Glazing adjacent to doors. Glazing in an individual fixed or
+Section R324.4.2 as follows:
+   R324.4.2 Glazing adjacent to doors. Glazing in an individual fixed or
 operable panel adjacent to a door where the nearest vertical edge of the
 glazing is within a 24-inch arc of either vertical edge of the door in a closed
 position and where the bottom exposed edge of the glazing is less than 60
 inches above the floor or walking surface shall be considered to be a hazardous
 location.
    Exceptions:
-   1. Decorative glazing.
-   2. Where there is an intervening wall or other permanent barrier between the
-door and the glazing.
-   3. Where access through the door is to a closet or storage area 3 feet or
-less in depth. Glazing in this application shall comply with Section R308.4.3.
-   4. Glazing that is adjacent to the fixed panel of patio doors.
-155.18    REPEAL OF SECTION (WINDOW SILLS).
-   The Hiawatha Building Code is hereby amended by repealing Section R312.2.1
-of the International Residential Code, and leaving said section blank.
-155.19    AUTOMATIC FIRE SPRINKLER SYSTEMS.  
-   The Hiawatha Building Code is hereby amended by repealing Section R313 of
-the International Residential Code, and by replacing said section with a new
-section as follows:
-   SECTION R313 AUTOMATIC FIRE SPRINKLER SYSTEMS
-   R313.1 Townhouse automatic fire sprinkler systems. An automatic residential
-fire sprinkler system shall be installed throughout all attached townhouse
-dwelling units when any of the following conditions exist:
-   1. The townhouses are constructed in a group of more than four attached
-units.
-   2. Any individual townhouse dwelling unit of a structure with four or fewer
-attached townhouses has a floor area greater than 4000 square feet on any one
-story or greater than 8000 square feet of total floor area for all stories,
-excluding non-habitable areas separated from the rest of the building by a
-minimum of one-hour fire-resistive construction and containing smoke or heat
-detection interconnected with the dwelling unit smoke detectors.
-   3. The floor area of the structure, excluding the basement, exceeds 10,000
-square feet regardless of fire separations creating separate buildings, fire
-areas or occupancies.
-      Exception: An automatic residential fire sprinkler system shall not be
-required when additions or alterations are made to existing townhouses that do
-not have an automatic residential fire sprinkler system installed.
-   R313.1.1 Design and installation. Automatic residential fire sprinkler
-systems for townhouses shall be designed and installed in accordance with NFPA
-13D or Section P2904.
-   R313.2 One- and two-family dwellings automatic fire sprinkler systems. An
-automatic residential fire sprinkler system shall be installed in one- and two-
-family dwellings when the following conditions exist:
-      1. The one- or two-family dwelling has a floor area greater than 4,000
-square feet on any one story or greater than 8,000 square feet of total floor
-area for all stories, excluding non-habitable areas separated from the rest of
-the building by a minimum of one-hour fire-resistive construction and
-containing smoke or heat detection interconnected with the dwelling unit smoke
-detectors.
-      2. The floor area of the structure, excluding the basement, exceeds
-10,000 square feet regardless of fire separations creating separate buildings,
-fire areas or occupancies.
-         Exception: Two-family homes separated as required for a townhouse
-shall have automatic fire sprinkler requirements as for townhouses.
-         Exception: An automatic residential fire sprinkler system shall not be
-required when additions or alterations are made to existing one- and two-family
-dwellings that do not have an automatic residential fire sprinkler system
-installed.
-   R313.2.1 Design and installation. Automatic residential fire sprinkler
-systems for one- and two-family dwellings shall be designed and installed in
-accordance with NFPA 13D or Section P2904.
+   1.   Decorative glazing.
+   2.   Where there is an intervening wall or other permanent barrier between
+the door and the glazing.
+   3.   Where access through the door is to a closet or storage area 3 feet or
+less in depth. Glazing in this application shall comply with Section R324.4.3.
+   4.   Glazing that is adjacent to the fixed panel of patio doors.
 155.20    SLAB ON GRADE FOUNDATIONS.  
    The Hiawatha Building Code is hereby amended by deleting Exceptions #1 and
 #2 in Section R403.1.4.1 of the International Residential Code, and replacing
-them with Exception #1 as follows: Exception #3 to remain unchanged.
+them with Exception #1 as follows:
    Exception:
-   1. Frost protection of freestanding structures accessory to 1 and 2-family
+   1.   Frost protection of freestanding structures accessory to 1 and 2-family
 dwellings and with an eave height of 10 feet or less shall not be required.
-155.21    FOUNDATIONS DRAINAGE SYSTEMS.
-   The Hiawatha Building Code is hereby amended by adding a new Section
-1805.4.4 of the International Building Code:
-   1805.4.4 Drainage Discharges. Sub-soil foundation drains shall also
-discharge in accordance with Hiawatha Code Section 97.02.
-155.22    ACCESSIBLE DESIGN.
+155.21    ACCESSIBLE DESIGN.
    The Hiawatha Building Code is hereby amended by repealing Section 1102.1 of
 the International Building Code and by replacing said section with a new
 Section 1102.1 as follows:
    1102.1 Design. Buildings and facilities shall be designed and constructed to
 be accessible in accordance with this code and ICC A117.1 2009 Edition.
+155.22    FOUNDATIONS DRAINAGE SYSTEMS.
+   The Hiawatha Building Code is hereby amended by adding a new Section
+1805.4.4 of the International Building Code:
+   1805.4.4 Drainage Discharges. Sub-soil foundation drains shall also
+discharge in accordance with Hiawatha Code Chapter 97.
 155.23    SWIMMING POOLS AND SPAS.  
    The Hiawatha Building Code is hereby amended by repealing Section 3109 of
 the International Building Code and by replacing said section with a new
-Section 3109 as follows::
-SECTION 3109
-SWIMMING POOLS AND SPAS
-3109.1 General. The design and construction of pools and spas shall comply with
-the International Swimming Pool and Spa Code, 2021 Edition Chapters 2 through
-11 as amended herein.
+Section 3109 as follows:
+   SECTION 3109
+   SWIMMING POOLS AND SPAS
+   3109.1 General. The design and construction of pools and spas shall comply
+with the International Swimming Pool and Spa Code, 2021 Edition Chapters 2
+through 11 as amended herein.
 155.24    SWIMMING POOL DRAINAGE SYSTEMS.
-   Section 320.1 of the International Swimming Pool and Spa Code shall be
+   Section 321.1 of the International Swimming Pool and Spa Code shall be
 amended as follows:
-320.1 Backwash water and draining water: Backwash water and draining water
+   321.1 Backwash water and draining water: Backwash water and draining water
 shall be discharged to the sanitary or storm sewer, or in an approved disposal
 system on the premise, or shall be disposed of by other means approved by the
 State or local authority. Direct connection shall not be made between the end
 of the backwash line and the disposal system. Drains shall discharge through an
 air gap. The site plan for a proposed swimming pool shall indicate where pool
 drainage is to be directed in such a manner that:
-   1. Swimming pool drainage water shall be directed away from any structure
+   1.   Swimming pool drainage water shall be directed away from any structure
 foundation.
-   2. Ponding of surface water shall be avoided.
-   3. Swimming pool drainage water shall be de-chlorinated before being
+   2.   Ponding of surface water shall be avoided.
+   3.   Swimming pool drainage water shall be de-chlorinated before being
 directed to available drainage tile or storm sewer systems. If the swimming
 pool water is not de-chlorinated, it must be directed to the sanitary sewer at
 a controlled flow rate approved by the City. Please Note: Discharge of
 chlorinated water to the storm water system would be a violation of the EPA
 Storm Water Discharge Regulations and could result in a Municipal Infraction
 for an illicit discharge.
-   4. Surface water shall not be discharged to any adjacent private property
+   4.   Surface water shall not be discharged to any adjacent private property
 except upon drainage easements or established waterways shall not be altered so
 that upstream water flow is adversely affected.
-   5. Water flow shall be controlled to avoid excessive volume or velocity
+   5.   Water flow shall be controlled to avoid excessive volume or velocity
 which could cause soil erosion or create other possible hazards.
-   6. Final graded lots shall comply with the grading plan and any terms of the
-memorandum of agreement for the approved subdivision.
+   6.   Final graded lots shall comply with the grading plan and any terms of
+the memorandum of agreement for the approved subdivision.
 155.25    RADON TESTING.
-   The Hiawatha Building Code is hereby amended by repealing Section AF 104
-Testing of the International Residential Code Appendix AF Radon Control
+   The Hiawatha Building Code is hereby amended by repealing Section BE 104
+Testing of the International Residential Code Appendix BE Radon Control
 Methods:
 155.26    CODE ON FILE.
    An official copy of the Hiawatha Building Code hereby adopted, including a
@@ -14448,19 +14489,19 @@ this chapter shall be available in the Building Department Office.
 (condominium) are not required to be updated to comply with the building code
 in effect at the time of the conversion, except the following building code
 provisions shall be complied with:
-   Fire Protection Systems
-   Means of Egress
-   Structural and Life-Safety concerns specifically noted
+   1.   Fire Protection Systems
+   2.   Means of Egress
+   3.   Structural and Life-Safety concerns specifically noted
    The Building Official may waive compliance with any or all of the above
 exceptions where he determines compliance to be unduly burdensome or not
 practical or reasonable given the nature of the structure.
-(Chapter 155 – Ord. 966 – Nov. 21 Supp.)
+(Chapter 155 – Ord. 1011 – Oct. 25 Supp.)
 CHAPTER 156
 PLUMBING CODE
 156.01 Plumbing Code Adopted          156.09 Inspection and Testing of Backflow
                                       Prevention Assemblies
 156.02 Amendments to Plumbing Code    156.10 Reserved
-156.03 Conflicts                      156.11 Drinking Fountain Substitution
+156.03 Conflicts                      156.11 Reserved
 156.04 Adoption by Reference          156.12 Size of Meter and Building Supply
                                       Pipe
 156.05 Administration and Enforcement 156.13 Sand Interceptor Requirements
@@ -14473,8 +14514,8 @@ PLUMBING CODE
 hereby adopted as the Plumbing Code of the City that certain Plumbing Code
 known as the latest version of the State Plumbing Code; Iowa Administrative
 Code Rule 641—25.1 (105) to 641-25.3 (105), and Iowa Administrative Code
-Subrules 25.4(2) to 25.4(9)”d” adopting and amending the Uniform Plumbing Code
-2021 Edition which code is hereby specifically incorporated by reference and
+Subrules 25.4(2) to 25.4(10) adopting and amending the Uniform Plumbing Code
+2024 Edition which code is hereby specifically incorporated by reference and
 shall be known as the Hiawatha Plumbing Code. The provisions of said Plumbing
 Code shall be controlling in the erection, installation, alterations,
 additions, repair, relocation, replacements, maintenance or use of any plumbing
@@ -14490,20 +14531,22 @@ local codes or between this code and applicable State or federal requirements,
 the more stringent shall apply.
 156.04    ADOPTION BY REFERENCE.
    Amend Section 641-25.1(105) of the State Plumbing Code as follows:
-   641-25.1(105) Adoption. Sections 101, 102 and 105 and Chapters 2 to 17 of
-the Unform Plumbing Code, 2021 Edition as published by the International
-Association of Plumbing and Mechanical Officials, 4755 E. Philadelphia Street,
-Ontario, California 91761-2816, are hereby adopted by reference with amendments
-as the State Plumbing Code authorized by Iowa Code Section 105.4. Portion of
-this chapter reproduce excerpts from the 2021 International Plumbing Code;
-Copyright 2020; Washington, D.C.: International Code Council. Such excerpts are
-reproduced with permission, all right reserved. www.ICCSAFE.org.
+   641-25.1(105) Adoption. Sections 101, 102 and 105 and Chapters 2 to 17 and
+Appendix A and M of the Unform Plumbing Code, 2024 Edition as published by the
+International Association of Plumbing and Mechanical Officials, 4755 E.
+Philadelphia Street, Ontario, California 91761-2816, are hereby adopted by
+reference with amendments as the State Plumbing Code authorized by Iowa Code
+Section 105.4. Portion of this chapter reproduce excerpts from the 2024
+International Plumbing Code; Copyright 2023; Washington, D.C.: International
+Code Council www.ICCSAFE.org. Such excerpts are reproduced with permission, all
+right reserved.
 156.05    ADMINISTRATION AND ENFORCEMENT.
    The City of Hiawatha shall administer the permit, inspection, testing, and
 enforcement provisions contained in this code in accordance with the
 administrative chapter IBC Chapter 1 as adopted and amended by the City of
-Hiawatha Ordinance Chapter 155.
-   Exception: Inspections and Testing shall be in accordance with Chapter 1
+Hiawatha Ordinance
+Chapter 155.
+   Exception: inspections and testing shall be in accordance with Chapter 1
 Section 105 of the Uniform Plumbing Code as adopted and amended herein.
 156.06    INSPECTIONS AND TESTING.
    The Hiawatha Plumbing Code is hereby amended by amending the first paragraph
@@ -14527,47 +14570,42 @@ the Uniform Plumbing Code and replacing said section with a new Section
 Registration, inspection and testing of backflow prevention assemblies shall be
 in accordance with the Hiawatha Water Board Rules and Regulations Section 11 b.
 156.10    RESERVED.
-156.11    DRINKING FOUNTAIN SUBSTITUTION.
-   (Repealed by Ordinance 911).
+156.11    RESERVED.
 156.12    SIZE OF METER AND BUILDING SUPPLY PIPE.
    The Hiawatha Plumbing Code is hereby amended by amending Section 610.8 of
 the Uniform Plumbing Code, as follows:
-   610.8 Size of Meter and Building Supply Pipe
-   610.8.1 The size of the meter and the building supply pipe shall be
-determined using Table 610.4 as follows:
-      Items (1) through (5) in Uniform Plumbing Code Section 610.8 to remain
-unchanged.
-      (6) Having located the proper fixture unit value for the required length,
+   (6) Having located the proper fixture unit value for the required length,
 sizes of meter and building supply pipe as found in the two left-hand columns
 shall be applied.
-      No building supply pipe shall be less than one (1) inch (25 mm) diameter.
+   No building supply pipe shall be less than one (1) inch (25 mm) diameter.
+   The Hiawatha Plumbing Code is hereby amended by adding Section 610.8.2 as
+follows:
    610.8.2 General Requirements: The installation of the meter and the building
 supply pipe shall be as follows:
-      610.8.2.1 Remote Reader Conduit. All buildings using City water shall
-have installed a hard metal conduit starting within 12 inches of the water
-meter inside location. The conduit shall not have 90 degree right angle
-fittings. All bends must be sweeping to let wire feed through easily. All
-commercial, industrial and apartments over dwelling units shall install 3/4-
-inch conduit. All residential buildings dwelling units and less including
-single family homes shall have 1/2-inch conduit installed. The conduit shall
-end in a location with the other utility metering devices and be flush with the
-outside of the building.
-      610.8.2.2 Meter Clearances. There shall be suitable place for the meter,
-so as to keep it dry and clean with ready access at all times, and with a
-minimum clear work space of 30 inches deep by six feet high. All valves and
-fittings necessary to provide connection to meter shall be provided by the
-owner.
-      610.8.2.3 Protection of Meters and Equipment. No one shall in any way
+   610.8.2.1 Remote Reader Conduit. All buildings using City water shall have
+installed a hard metal conduit starting within 12 inches of the water meter
+inside location. The conduit shall not have 90 degree right angle fittings. All
+bends must be sweeping to let wire feed through easily. All commercial,
+industrial and apartments over dwelling units shall install 3/4-inch conduit.
+All residential buildings dwelling units and less including single family homes
+shall have 1/2-inch conduit installed. The conduit shall end in a location with
+the other utility metering devices and be flush with the outside of the
+building.
+   610.8.2.2 Meter Clearances. There shall be suitable place for the meter, so
+as to keep it dry and clean with ready access at all times, and with a minimum
+clear work space of 30 inches deep by six feet high. All valves and fittings
+necessary to provide connection to meter shall be provided by the owner.
+   610.8.2.3 Protection of Meters and Equipment. No one shall in any way
 interfere with the proper registration of a water meter, and no one except an
 authorized employee of the Water Department shall break the seal of a meter,
 except the Water Department may grant written permits to plumbers in case of
 emergency to break such seal for draining pipes or stopping water leaks.
-      610.8.2.4 All water meters must be installed prior to requesting final
+   610.8.2.4 All water meters must be installed prior to requesting final
 inspections.
-      610.8.2.5 All water service lines on commercial buildings shall be
-protected with a listed RPZ backflow preventer.
-      610.8.2.6 All water service lines shall be single piece and without
-joints where located under a building.
+   610.8.2.5 All water service lines on commercial buildings shall be protected
+with a listed RPZ backflow preventer.
+   610.8.2.6 All water service lines shall be single piece and without joints
+where located under a building.
 156.13    SAND INTERCEPTOR REQUIREMENTS.
    The Hiawatha Plumbing Code is hereby amended by adding the following new
 Section 1009.8 to the Uniform Plumbing Code as follows:
@@ -14578,7 +14616,8 @@ building and wherein a floor drain is provided.
    The Hiawatha Plumbing Code is amended by adding Section 1101.6.6 to the
 Uniform Plumbing Code as follows.
    1101.6.6 Sub-soil foundation drains shall also discharge in accordance with
-Hiawatha Code Section 97.02
+Hiawatha Code Section
+97.02
 156.15    RESERVED.
 156.16    CODE ON FILE.
    An official copy of the Hiawatha Plumbing Code hereby adopted, including a
@@ -14586,25 +14625,24 @@ certificate by the Clerk as to its adoption and the effective date thereof, is
 on file in the office of the Clerk in City Hall and shall be kept there on
 file, and copies shall be available for public inspection. Copies of this
 chapter shall be available at the Building Department office.
-(Chapter 156 – Ord. 967 – Nov. 21 Supp.)
+(Chapter 156 – Ord. 1012 – Oct. 25 Supp.)
 CHAPTER 157
 ELECTRICAL CODE
  
-157.01 ICC Electrical Code and National 157.06 Smoke Detectors and Carbon
+157.01 ICC Electrical Code and National 157.05 Smoke Detectors and Carbon
 Electrical Code Adopted                 Monoxide Detectors
-157.02 Amendments to the Electrical     157.07 Receptacles
+157.02 Amendments to the Electrical     157.06 Receptacles
 Code
-157.03 Conflicts                        157.08 Remote Water Meter Reader
+157.03 Conflicts                        157.07 Remote Water Meter Reader
                                         Conduit
-157.04 Administration and Enforcement   157.09 Code on File
-157.05 Nonmetallic-Sheathed Cable
+157.04 Administration and Enforcement   157.08 Code on File
  
 157.01    ICC ELECTRICAL CODE AND NATIONAL ELECTRICAL CODE ADOPTED.
    Except as hereinafter amended, there is hereby adopted as the Electrical
-Code of the City of Hiawatha that certain Electrical Code known as the 2021
+Code of the City of Hiawatha that certain Electrical Code known as the 2024
 International Building Code Appendix K, Administrative Provisions as
 promulgated by the International Code Council including the referenced National
-Electrical Code, 2020 Edition, as prepared and edited by the National Fire
+Electrical Code, 2023 Edition, as prepared and edited by the National Fire
 Protection Association, which codes are hereby specifically incorporated by
 reference and shall be known as the Hiawatha Electrical Code. The provisions of
 said Electrical Code shall be controlling in the installation, alterations,
@@ -14628,12 +14666,9 @@ the more stringent shall apply.
    The City of Hiawatha shall administer the permit, inspection, testing, and
 enforcement provisions contained in this code in accordance with the
 administrative chapter IBC Chapter 1 as adopted and amended by the City of
-Hiawatha Ordinance
-Chapter 155 and IBC Appendix K as adopted and amended by this ordinance.
-157.05    NONMETALLIC-SHEATHED CABLE.
-   The Hiawatha Electrical Code is hereby amended by deleting K111.4 of 2021
-International Building Code Appendix K, Administrative Provisions.
-157.06    SMOKE DETECTORS AND CARBON MONOXIDE ALARMS.
+Hiawatha Ordinance Chapter 155 and IBC Appendix K as adopted and amended by
+this ordinance.
+157.05    SMOKE DETECTORS AND CARBON MONOXIDE ALARMS.
    The Hiawatha Electrical Code is hereby amended by adding a new Section
 K111.8 to the International Building Code Appendix K, Administrative
 Provisions, as follows:
@@ -14641,15 +14676,15 @@ Provisions, as follows:
 dwelling or multiple dwelling unit building, smoke alarms and carbon monoxide
 alarms shall be of the type as required by Iowa Administrative Rule 661-210 and
 Chapter 1092 (S.F. 2219), the installation, interconnection, and power supply
-requirement shall be as set forth in the 2021 International Residential Code or
-the 2021 International Building Code which ever applies, for each dwelling
+requirement shall be as set forth in the 2024 International Residential Code or
+the 2024 International Building Code which ever applies, for each dwelling
 unit.
-157.07    RECEPTACLES. 
+157.06    RECEPTACLES. 
    (Section repealed by Ordinance 927 - May 19 Supp.)
-157.08    REMOTE WATER METER READER CONDUIT.
+157.07    REMOTE WATER METER READER CONDUIT.
    The Hiawatha Electrical Code is hereby amended by adding a second paragraph
-to Article 725.3(K) of the National Electrical Code, as follows:
-   Article 725.3(K) 2nd paragraph
+to Article 724.3(I) of the National Electrical Code, as follows:
+   Article 724.3(I) 2nd paragraph
    All buildings using City water shall have installed a metallic conduit
 starting within 12 inches of the water meter inside location. The conduit shall
 not have 90 degree right angle fittings. All bends shall be sweeping to let
@@ -14658,27 +14693,26 @@ buildings over 4-plex shall install ¾ inch conduit. All single family
 dwellings, duplexes, 3-plex and zero lot line dwellings shall have ½ inch
 conduit installed. The conduit shall end with the other utility metering device
 (s) on the outside of the building.
-157.09    CODE ON FILE.
+157.08    CODE ON FILE.
    An official copy of the Hiawatha Electrical Code hereby adopted, including a
 certificate by the Clerk as to its adoption and the effective date thereof, is
 on file in the office of the Clerk in City Hall and shall be kept there on
 file, and copies shall be available for public inspection. Copies of this
 chapter shall be available at the Building Department office.
-(Chapter 157 – Ord. 968 – Nov. 21 Supp.)
+(Chapter 157 – Ord. 1013 – Oct. 25 Supp.)
 CHAPTER 158
 MECHANICAL CODE
  
-158.01 Mechanical Code Adopted           158.06 Local Authority
-158.02 Amendments to the Mechanical Code 158.07 Reserved
-158.03 Conflicts                         158.08 Reserved
-158.04 Adoption by Reference             158.09 Code on File
-158.05 Administration and Enforcement
+158.01 Mechanical Code Adopted           158.05 Local Authority
+158.02 Amendments to the Mechanical Code 158.06 Reserved
+158.03 Conflicts                         158.07 Reserved
+158.04 Adoption by Reference             158.08 Code on File
  
 158.01    MECHANICAL CODE ADOPTED.
    Except as hereinafter added to, deleted, modified or amended, there is
 hereby adopted as the Mechanical Code of the City that certain Mechanical Code
-known as the 2021 State Mechanical Code as adopted in Iowa Administrative Code
-165-61 adopting the International Mechanical Code, 2021 Edition, as prepared
+known as the 2024 State Mechanical Code as adopted in Iowa Administrative Code
+641-61 adopting the International Mechanical Code, 2024 Edition, as prepared
 and published by the International Code Council, which code is hereby
 specifically incorporated by reference and shall be known as the Hiawatha
 Mechanical Code. The provisions of said Mechanical Code shall be controlling in
@@ -14699,31 +14733,30 @@ the more stringent shall apply.
 158.04    ADOPTION BY REFERENCE.  
    Amend Section 641-61.2(105) of the State Mechanical Code as follows:
    641-61.2(105) Adoption by reference. The provisions of the International
-Mechanical Code, 2021 Edition, Chapter 1 Section 108 and Chapters 2 thru 15 as
-published by the International Code Council, 4051 West Flossmoor Road, Country
-Club Hills, IL 60478, are hereby adopted by reference as the requirements for
-the design, installation, maintenance, alteration, and inspection of mechanical
-systems that are permanently installed and utilized to provide control of
-environmental conditions and related processes within buildings and premises in
-Iowa.
-158.05    ADMINISTRATION AND ENFORCEMENT.
-   Delete Section 61.3(1) of the State Mechanical Code.
-158.06    LOCAL AUTHORITY.
+Mechanical Code, 2024 Edition, Chapter 1 Section 108 and Chapters 2 thru 15 as
+published by the International Code Council, www.iccsafee.org, are hereby
+adopted by reference as the requirements for the design, installation,
+maintenance, alteration, and inspection of mechanical systems that are
+permanently installed and utilized to provide control of environmental
+conditions and related processes within buildings and premises in Iowa.
+158.05    LOCAL AUTHORITY.
    Section 61.3(2) of the State Mechanical Code is amended to read as follows:
    Section 61.3(2) Local Authority. The City of Hiawatha shall administer the
 permit, inspection, testing, and enforcement provisions contained in this code
 in accordance with the administrative chapter IBC Chapter 1 as adopted and
 amended by the City of Hiawatha Ordinance
 Chapter 155.
+   Exception: Inspections and testing shall be in accordance with Chapter 1
+Section 108 of the International Mechanical Code as adopted herein.
+158.06    RESERVED.
 158.07    RESERVED.
-158.08    RESERVED.
-158.09    CODE ON FILE.
+158.08    CODE ON FILE.
    An official copy of the Hiawatha Mechanical Code hereby adopted, including a
 certificate by the City Clerk as to its adoption and the effective date
 thereof, is on file in the office of the Clerk in City Hall and shall be kept
 on file; and copies shall be available in the Community Development Department
 for public inspection.
-(Chapter 158 – Ord. 969 – Nov. 21 Supp.)
+(Chapter 158 – Ord. 1014 – Oct. 25 Supp.)
 CHAPTER 159
 BOARD OF APPEALS
  
@@ -14868,294 +14901,302 @@ required to pass under this Code or to affect a variance in such Code.
 (Chapter 159 – Ord. 970 – Nov. 21 Supp.)
 CHAPTER 160
 FIRE CODE
-160.01 Purpose                        160.16 Fire Hydrant Installation
-160.02 Adoption of 2021 International 160.17 Identification of Interior Doors
+160.01 Purpose                        160.18 Construction Documents
+160.02 Adoption of 2021 International 160.19 Qualifications
 Fire Code
-160.03 Fees                           160.18 Construction Documents
-160.04 Amendments to Fire Code       160.19 Qualifications
-160.05 Title                          160.20 Pump and Riser Room Separation
-160.06 Third Party Reviews            160.21 Automatic Fire Sprinkler Systems
-160.07 Required Operational Permits   160.22 Fire Extinguisher Size
-160.08 Required Construction Permits  160.23 Existing Fire Sprinkler Systems
+160.03 Fees                           160.20 Pump and Riser Room Separation
+160.04 Amendments to Fire Code       160.21 Pump and Riser Room Access
+160.05 Title                          160.22 Automatic Fire Sprinkler Systems
+                                      in Townhomes
+160.06 Code Compliance Agency         160.23 Automatic Fire Sprinkler Systems
+                                      in One and Two Family Dwellings
+160.07 Third Party Reviews            160.24 Existing Sprinkler Systems
                                       Monitoring
-160.09 Inspections                    160.24 Fire Alarm Control Panels and Fire
-                                      Alarm Annunciator Panels
-160.10 Board of Appeals               160.25 Existing Fire Alarm Systems
-                                      Monitoring
-160.11 Violation Penalties            160.26 FDC Size
-160.12 Failure to Comply              160.27 Seizure of Fireworks
-160.13 Open Flame Cooking Devices     160.28 Infractions
-160.14  Emergency Evacuation Drill    160.29 Automated External Defibrillators
+160.08 Inspections                    160.25 Kitchen Hood Suppression System
+                                      Notification
+160.09 Violation Penalties            160.26 Fire Alarm Control and Annunciator
+                                      Panels
+160.10 Board of Appeals               160.27 Existing Fire Alarm Systems
+                                      Monintoring
+160.11 Infractions                    160.28 Alarm Transmission Pathways
+160.12 Failure to Comply              160.29 FDC Threads
+160.13 Valet Trash                    160.30 FDC Signs
+160.14  Open Flame Cooking Devices    160.31 FDC Size
+160.15 Emergency Evacuation Drill     160.32 Unlawful Use of Fireworks
 Frequency
-160.15 Clear Space Around Hydrant
+160.16 Clear Space Around Hydrant     160.33 Automated External Defibrillators
+160.17 Fire Hydrant Installation
  
-160.01    PURPOSE.  
-   The purpose of this chapter is to prescribe regulations governing conditions
-hazardous to life and property from fire, hazardous materials, or explosion.
-160.02    ADOPTION OF 2021 INTERNATIONAL FIRE CODE.
-   Thereby is hereby adopted by the City that certain Code known as the
-International Fire Code, 2021 Edition, including Appendix B, D, E, F, G and I,
-as prepared and edited by the International Code Council, Inc. thereof, and the
+160.01 PURPOSE.  
+   The purpose of this code is to establish the minimum requirements for
+providing a reasonable level of life safety and property protection from the
+hazards of fire, explosion or dangerous conditions in new and existing
+buildings, structures and premises, and to provide a reasonable level of safety
+to firefighters and emergency responders during emergency operations.
+160.02 ADOPTION OF 2021 INTERNATIONAL FIRE CODE.
+   Hereby is adopted by the City that certain Code known as the International
+Fire Code, 2024 Edition, including Appendix B, C, D, E, F, G, H, I and K, as
+prepared and edited by the International Code Council, Inc. thereof, and the
 whole thereof, save and except such portions as are hereafter deleted, modified
 or amended; and the same is hereby adopted and incorporated as fully as if set
 out in full herein; and the provisions thereof shall be controlling within the
-limits of the City effective January 1, 2022. Appendix C in the International
-Fire Code, 2021 Edition, will be used as a reference guide.
-160.03    FEES.  
+limits of the City effective January 1, 2026.
+160.03 FEES.  
    Fees for inspections, re-inspections, plans reviews, acceptance testing,
 permits and other services related to enforcement of this Code shall be
 established by the City Council by resolution and paid to the City.
-160.04    AMENDMENTS TO FIRE CODE.  
+160.04 AMENDMENTS TO FIRE CODE.  
    Certain sections and portions of sections of the International Fire Code,
-2018 Edition, are hereby amended, deleted, modified or added to as more
+2024 Edition, are hereby amended, deleted, modified or added to as more
 specifically set forth in the following sections of this chapter.
-160.05    TITLE.  
+160.05 TITLE.  
    The Hiawatha Fire Code is hereby amended by repealing Section 101.1 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
    101.1 Title. These regulations shall be known as the Hiawatha Fire Code,
 hereinafter referred to as “this code.”
-160.06    THIRD PARTY REVIEWS.
-   The Hiawatha Fire Code is hereby amended by adding Section 105.2.5 of the
-International Fire Code, 2021 Edition, as follows:
+160.06 CODE COMPLIANCE AGENCY.
+   The Hiawatha Fire Code is hereby amended by repealing Section 103.1 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
+section, as follows:
+   103.1 Code Compliance Agency. The Hiawatha Fire Department is hereby created
+and the official in charge thereof shall be known as the Fire Code Official.
+The function of the agency shall be the implementation, administration and
+enforcement of the provisions of this code.
+160.07 THIRD PARTY REVIEWS.  
+   The Hiawatha Fire Code is hereby amended by adding Section 105.2.5, of the
+International Fire Code, 2024 Edition, as follows:
    105.2.5 Third Party Reviews. The Fire Code Official at their discretion
 shall send permitting plans to an outside agency for review. The Fire Code
 Official shall choose the plans review agency. The applicant shall pay all fees
 associated with the plan review directly to the outside agency.
-160.07    REQUIRED OPERATIONAL PERMITS.  
-   The Hiawatha Fire Code is hereby amended by repealing Section 105.6, of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+160.08 INSPECTIONS.  
+   The Hiawatha Fire Code is hereby amended by repealing Section 109.2 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
-   105.6 Required operational permits. The Fire Code Official is authorized to
-issue operational permits for the operations set forth in Sections 105.5.1
-through 105.5.8.
-   105.5.1 Amusement buildings.
-   105.5.2 Carnivals and fairs.
-   105.5.3 Explosives.
-   105.5.4 Flammable and combustible liquids.
-   105.5.5 LP-gas.
-   105.5.6 Open burning.
-   105.5.7 Pyrotechnic special effects material.
-   105.5.8 Temporary membrane structure and tents.
-   105.5.9 Mobile Food Preparation Vehicles
-160.08    REQUIRED CONSTRUCTION PERMITS.  
-   The Hiawatha Fire Code is hereby amended by repealing Sections 105.6.1
-through 105.6.6 of the International Fire Code, 2021 Edition, by replacing said
-sections with the new sections, as follows:
-   105.6.1 Automatic fire-extinguishing systems.
-   105.6.2 Emergency responder communication system.
-   105.6.3 Fire alarm and detection systems and related equipment.
-   105.6.4 Flammable and combustible liquids.
-   105.6.5 LP-Gas.
-   105.6.6 Standpipe systems.
-   105.6.7 Fire pumps and related equipment.
-160.09    INSPECTIONS.  
-   The Hiawatha Fire Code is hereby amended by repealing Section 108.2 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+   109.2 Inspections. The Fire Code Official is authorized to conduct or
+require such inspections as are deemed necessary to determine the extent of
+compliance with the provisions of this code and to approve reports of
+inspection by approved agencies or individuals. All reports of such inspections
+shall be prepared and submitted electronically for review and approval.
+Inspection reports shall be certified by qualified persons of such approved
+agency or by the responsible individual. The Fire Code Official is authorized
+to engage such expert opinion as deemed necessary to report on unusual,
+detailed or complex technical issues subject to the approval of the governing
+body. Code official at their discretion shall send plans to an outside agency
+for review. The Fire Code Official shall choose the plans review agency. The
+applicant shall pay all fees associated with the plan review directly to the
+outside agency. A certificate of occupancy shall not be issued until the review
+fees have been paid.
+160.09 VIOLATION PENALTIES.  
+   The Hiawatha Fire Code is hereby amended by repealing Section 113.4 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
-   108.2 Inspections. The Fire Code Official is authorized to conduct such
-inspections as are deemed necessary to determine the extent of compliance with
-the provisions of this code and to approve reports of inspection by approved
-agencies or individuals. All reports of such inspections shall be prepared and
-submitted in writing for review and approval. Inspection reports shall be
-certified by a responsible officer of such approved agency or by the
-responsible individual. The Fire Code Official is authorized to engage such
-expert opinion as deemed necessary to report upon unusual, detailed or complex
-technical issues subject to the approval of the governing body. The Fire Code
-Official at their discretion shall send plans to an outside agency for review.
-The Fire Code Official shall choose the plans review agency. The applicant
-shall pay all fees associated with the plan review directly to the outside
-agency. A certificate of occupancy shall not be issued until the review fees
-have been paid.
-160.10    BOARD OF APPEALS.  
+   113.4 Violation penalties. Any person, firm or corporation violating any of
+the provisions of the Code shall be deemed guilty of a misdemeanor, and each
+such person shall be deemed guilty of a separate offense for each day or
+portion thereof during which any violation of any provisions of this Code is
+committed, continued, or permitted and upon conviction of any such violations
+such person shall be punished in a manner provided in
+Chapter 4 of the Code of Ordinances.
+160.10 BOARD OF APPEALS.  
    The Hiawatha Fire Code is hereby amended by repealing Section 111 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
    Any appeals arising from any act of the administrative authority in the
 determination of the suitability of alternate materials and methods of
 installation or construction and provide reasonable interpretations, and of
 variances from the Fire Code shall be heard by the Board of Appeals
 (hereinafter “Board”) as set forth in
-Chapter 159 of this Code of Ordinances.  
-160.11    VIOLATION PENALTIES. 
-   The Hiawatha Fire Code is hereby amended by repealing Section 112.4 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
-section, as follows:
-   112.4 Violation penalties. Any person, firm or corporation violating any of
-the provisions of the Code shall be deemed guilty of a misdemeanor, and each
-such person shall be deemed guilty of a separate offense for each and every day
-or portion thereof during which any violation of any provisions of this Code is
-committed, continued, or permitted and upon conviction of any such violations
-such person shall be punished in a manner provided in
-Chapter 4 of the Code of Ordinances.
-160.12    FAILURE TO COMPLY.
-   The Hiawatha Fire Code is hereby amended by repealing Section 113.4 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+Chapter 159 of this Code of Ordinances.
+160.11 INFRACTIONS. 
+   The Fire Code Official is herewith authorized to issue and deliver citations
+on forms prepared and approved by the City Attorney’s Office to person/
+s accused of the violation any provisions of this code.
+160.12 FAILURE TO COMPLY.
+   The Hiawatha Fire Code is hereby amended by repealing Section 114.4 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
    113.4 Failure to comply. Any person who shall continue any work after having
 been served with a stop work order, except such work as that person is directed
 to perform to remove a violation or unsafe condition, shall be liable to a fine
 of not less than $750.00 or more than $5,000.00 per day.
-160.13    OPEN FLAME COOKING DEVICES.
-   The Hiawatha Fire Code is hereby amended by repealing Section 308.1.4 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
-section, as follows:
-   308.14 Open-flame cooking devices. Charcoal burners and other open-flame
-cooking devices shall not be operated or stored on combustible balconies or
+160.13 VALET TRASH.
+   The Hiawatha Fire Code is hereby amended by repealing Section 304.1.1, of
+the International Fire Code, 2024 Edition, by replacing said section with the
+new section, as follows:
+   304.1.1 Valet trash. Valet trash collection shall be prohibited in
+multifamily occupancies.
+160.14 OPEN FLAME COOKING DEVICES.  
+   The Hiawatha Fire Code is hereby amended by adding Section 308.1.6.1 to the
+International Fire Code, 2024 Edition, as follows:
+   308.1.6.1 Open flame cooking devices. Charcoal burners and other open flame
+cooking devices shall not be stored or operated on combustible balconies or
 within 10 feet (3048 mm) of combustible construction.
    Exceptions:
-   1.   One-and two-family dwellings.
+   1.   One- and two-family dwellings.
    2.   Where buildings, balconies and decks are protected by an automatic
 sprinkler system.
-   3.   LP-gas cooking devices having LP-gas container with a water capacity
-not greater than 2 ½ pounds [nominal 1 pound (0.454 kg LP gas capacity].
-160.14    EMERGENCY EVACUATION DRILL FREQUENCY.  
-   The Hiawatha Fire Code is hereby amended by repealing Section 405.2 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+   3.   LP-gas cooking devices having LP-gas containers with a water capacity
+not greater than 2-1/2 pounds [nominal 1 pound (0.454 kg) LP-gas capacity].
+160.15 EMERGENCY EVACUATION DRILL FREQUENCY. 
+   The Hiawatha Fire Code is hereby amended by repealing Section 405.3 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
    405.3 Frequency. Required emergency evacuation drills shall be held at the
 intervals specified in Table 405.3 or more frequently where necessary to
-familiarize all occupants with the drill procedure. Fire and evacuation drills
-in Group E occupancies, excluding daycares and preschools shall be conducted in
-accordance with Section 100.31 of the Code of Iowa. Emergency evacuation/fire
-drills shall be conducted at least four times a year. Not less than two drills
-shall be conducted between July 1 and December 31 of each year and not less
-than two drills shall be conducted between January 1 and June 30 of each year.
-160.15 CLEAR SPACE AROUND HYDRANT. 
-   he Hiawatha Fire Code is hereby amended by repealing section 507.5.5 of the
-International Fire Code, 2021 Edition, by replacing said section with the new
+familiarize all occupants with the drill procedure.
+   Exception:
+   Fire and evacuation drills in Group E occupancies, excluding daycares and
+preschools shall be conducted in accordance with Section 100.31 of the Code of
+Iowa. Emergency evacuation/fire drills shall be conducted at least four times a
+year. Not less than two drills shall be conducted between July 1 and December
+31 of each year and not less than two drills shall be conducted between January
+1 and June 30 of each year.
+160.16 CLEAR SPACE AROUND HYDRANT.  
+   The Hiawatha Fire Code is hereby amended by repealing Section 507.5.5 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
 section, as follows:
-   507.5.5 Clear space around hydrants. A 5-foot clear space shall be
-maintained around the circumference of fire hydrants except as otherwise
-required or approved, as measured from the center of the hydrant.
-160.16    FIRE HYDRANT INSTALLATION.  
-   The Hiawatha Fire Code is hereby amended by adding the following sections
-reference fire hydrant installation to the International Fire Code, 2021
+   507.5.5 Clear space around hydrants. A 5-foot clear space as measured from
+the center of the hydrant, shall be maintained around the circumference of fire
+hydrants except as otherwise required or approved.
+160.17 FIRE HYDRANT INSTALLATION.
+   The Hiawatha Fire Code is hereby amended by adding the following sections in
+reference to fire hydrant installation to the International Fire Code, 2024
 Edition. The sections shall read as follows:
-   507.5.7 Fire hydrant Installation. Fire hydrants within the City of Hiawatha
-shall be installed in accordance with the most current adopted Statewide Urban
-Design and Specifications (SUDAS) and local supplements.
+   507.5.7 Fire hydrant installation. Fire hydrants within the City of Hiawatha
+shall be installed in accordance with the most currently adopted Statewide
+Urban Design and Specifications (SUDAS) and local supplements.
    507.5.7.1 Fire hydrant outlet direction. All fire hydrants shall be
 positioned so that the five (5) inch Storz connection is facing the street or
 driveway accessible to Fire Department apparatus.
    507.5.7.2 Fire hydrants threads. All new fire hydrants within the limits of
 the City of Hiawatha shall have National Standard Threads (NST) on the two and
-one-half (2½) inch connections and the five (5) inch connection will have a
+one-half (2½) inch connections and the five (5) inch connection shall be a
 Storz connection.
-   507.5.7.3 Fire hydrant flow. The minimum flow requirements for a water main
-serving a fire hydrant, is the rate of water flow, at a residual pressure of
-twenty pounds per square inch (20 psi) and for a specified duration, as
-specified in Appendix B of this code.
-   507.5.7.4 Fire hydrant height. Fire hydrants shall be installed a minimum of
-eighteen (18) inches from the nominal ground level to the center of the lowest
-water outlet.
-160.17    IDENTIFICATION OF INTERIOR DOORS.
-   The Hiawatha Fire Code is hereby modified by adding a section to Section 509
-of the International Fire Code 2021 Edition, as follows:
-   509.3 Identification of Interior Doors. The Fire Code Official may require
-that certain interior doors be identified. The Fire Code Official shall approve
-the type, size, and location of the sign.
-160.18    CONSTRUCTION DOCUMENTS.  
-   The Hiawatha Fire Code is hereby amended by adding Sections 901.2.2 and
-901.2.3, as follows:
-   901.2.2 Water based fire protection systems. Working plans submitted to the
-Fire Department for water based fire protection systems shall be stamped and
-approved by a qualified person to be in compliance with applicable NFPA
-standards and the Hiawatha Fire Code. Any changes to the working plans shall be
-approved by a qualified person. A qualified person shall have a minimum
+   507.5.7.3 Fire hydrant flow. An approved water supply capable of supplying
+the required fire flow for fire protection with a minimum residual pressure of
+20 PSI, as specified in Appendix B of this code, shall be provided to all
+premises on which facilities, buildings or portions of buildings are hereafter
+constructed or moved into or within the jurisdiction.
+   507.5.7.4 Fire hydrant height. Fire hydrants shall be installed at a minimum
+of eighteen (18) inches from the nominal ground level to the center of the
+lowest water outlet.
+160.18 CONSTRUCTION DOCUMENTS.  
+   The Hiawatha Fire Code is hereby amended by adding Sections 901.2.2 of the
+International Fire Code 2024 Edition, as follows:
+   901.2.2 Construction Documents. All construction documents and calculations
+for all fire protection and life safety systems requiring permits to be issued
+for the installation, rehabilitation or modification of any fire protection and
+life safety system shall be prepared or approved by a person holding a current
 National Institute for Certification in Engineering Technologies [NICET] Level
-III certification for Automatic Sprinkler System Layout. Other qualifications
-may be approved by the Fire Code Official.
-   901.2.3 Fire alarm systems. Working plans submitted to the Fire Department
-by a qualified person for fire alarm systems shall be stamped and approved by a
-qualified person to be in compliance with applicable NFPA standards and the
-Hiawatha Fire Code. Any changes to the working plans shall be approved by a
-qualified person. A qualified person shall have a minimum National Institute
-for Certification in Engineering Technologies [NICET] Level III certification
-for Fire Alarm Systems. Other qualifications may be approved by the Fire Code
-Official.
-160.19    QUALIFICATIONS.
+III certification specific to the system design. Construction documents for
+fire protection and life safety systems shall be submitted for review and
+approval prior to system installation. Other qualifications may be submitted
+for approval by the Fire Code Official.
+160.19 QUALIFICATIONS.
    The Hiawatha Fire Code is hereby amended by adding Sections 901.2.4 to the
-International Fire Code, 2018 Edition, as follows:
+International Fire Code, 2024 Edition, as follows:
    901.2.4 Qualifications. For the installation, inspection and maintenance of
-water-based fire protection systems and fire alarm systems, the contractor must
-be certified by the State Fire Marshal’s Office. When requested by the Fire
-Code Official, the contractor must provide a copy of their certificate.
-160.20    PUMP AND RISER ROOM SEPARATION.  
-   The Hiawatha Fire Code is hereby amended by adding Section 901.4.7 to the
-International Fire Code, 2021 Edition, as follows:
+fire protection and life safety systems requiring permits, the contractor must
+be certified by the State Fire Marshal’s Office for the specific system. When
+requested by the Fire Code Official, the contractor must provide a copy of
+their certificate.
+160.20 PUMP AND RISER ROOM SEPARATION.  
+   The Hiawatha Fire Code is hereby amended by adding Section 901.4.7.5 to the
+International Fire Code, 2024 Edition, as follows:
    901.4.8 Pump and riser room separation. Fire pump and automatic fire
-sprinkler system riser rooms shall be separated from electrical room and have
-no electrical panels inside the rooms other than the outlets required for the
-use of the fire sprinkler system or fire alarm panel. The fire pump and
-automatic fire sprinkler system riser rooms shall have an exterior access door.
-   Exception: Non-mixed use R-2 occupancies or approval by the Fire Code
-Official.
-160.21    AUTOMATIC FIRE SPRINKLER SYSTEMS.
-   The Hiawatha Fire Code is hereby amended by repealing Section 903.2.8.1 of
-the International Fire Code, 2021 Edition, and by replacing said section with a
+sprinkler system riser rooms shall be separated from electrical rooms. Riser
+rooms shall have no electrical panels, transformers or other electrical
+equipment inside the rooms other than required for the use of the fire
+sprinkler system, fire alarm panel or required by the electrical code.
+   Exception:
+   1.   Non-mixed use R-2 occupancies
+   2.   Approval by the Fire Code Official.
+160.21 PUMP AND RISER ROOM ACCESS.
+   The Hiawatha Fire Code is hereby amended by repealing Section 901.4.7.1 of
+the International Fire Code, 2024 Edition, by replacing said section with the
 new section as follows:
-   903.2.8.1 Townhouse automatic fire sprinkler systems. An automatic
+   901.4.7.1 Access. Automatic sprinkler system risers, fire pumps and
+controllers shall not have less than one exterior access door and be provided
+with ready access. Where located in a fire pump room or automatic sprinkler
+system riser room, the door shall be permitted to be locked provided that the
+key is available at all times.
+   Exception:
+   1.   Non-mixed R-2 occupancies
+   2.   Where approved by the Fire Official
+160.22 AUTOMATIC FIRE SPRINKLER SYSTEMS IN TOWNHOMES.
+   The Hiawatha Fire Code is hereby amended by adding Section 903.2.8.4 to the
+International Fire Code, 2024 Edition as follows:
+   903.2.8.4 Townhouse automatic fire sprinkler systems. An automatic
 residential fire sprinkler system shall be installed throughout all attached
 townhouse dwelling units when any of the following conditions exist:
-   1. The townhouses are constructed in a group of more than four attached
+   1.   The townhouses are constructed in a group of more than four attached
 units.
-   2. Any individual townhouse dwelling unit of a structure with four or fewer
-attached townhouses has a floor area greater than 4,000 square feet on any one
-story or greater than 8,000 square feet of total floor area for all stories,
+   2.   Any individual townhouse dwelling unit of a structure with four or
+fewer attached townhouses has a floor area greater than 4,000 square feet on
+any one story or greater than 8,000 square feet combined for all stories,
 excluding non-habitable areas separated from the rest of the building by a
 minimum of one-hour fire-resistive construction and containing smoke or heat
 detection interconnected with the dwelling unit smoke detectors.
-   3. The floor area of the structure, excluding the basement, exceeds 10,000
+   3.   The floor area of the structure, excluding the basement, exceeds 10,000
 square feet regardless of fire separations creating separate buildings, fire
 areas or occupancies.
-   903.2.8.1.1 Design and installation. Automatic residential fire sprinkler
-systems for townhouses shall be designed and installed in accordance with NFPA
-13D or Section P2904.
+160.23 AUTOMATIC FIRE SPRINKLER SYSTEMS IN ONE AND TWO FAMILY DWELLINGS.
+   The Hiawatha Fire Code is hereby amended by adding Section 903.2.8.5 to the
+International Fire Code, 2024 Edition as follows:
    903.2.8.1.2 One- and two-family dwellings automatic fire sprinkler systems.
 An automatic residential fire sprinkler system shall be installed in one- and
 two-family dwellings when the following conditions exist:
-   1. The one or two-family dwelling has a floor area greater than 4,000 square
-feet on any one story or greater than 8,000 square feet or total floor area for
-all stories, excluding non-habitable areas separated from the rest of the
-building by a minimum of one-hour fire-resistive construction and containing
-smoke or heat detection interconnected with the dwelling unit smoke detectors.
-   2. The floor area of the structure, excluding the basement, exceeds 10,000
+   1.   The one or two-family dwelling has a floor area greater than 4,000
+square feet on any one story or greater than 8,000 square feet or total floor
+area for all stories, excluding non-habitable areas separated from the rest of
+the building by a minimum of one-hour fire-resistive construction and
+containing smoke or heat detection interconnected with the dwelling unit smoke
+detectors.
+   2.   The floor area of the structure, excluding the basement, exceeds 10,000
 square feet regardless of fire separations creating separate buildings, fire
 areas or occupancies.
-   Exception: Two-family homes separated as required for a townhouse shall have
+   Exception:
+   1.   Two-family homes separated as required for a townhouse shall have
 automatic fire sprinkler requirements as for townhouses.
-   Exception: An automatic residential fire sprinkler system shall not be
-required when additions or alterations are made to existing one- and two-family
-dwellings that do not have an automatic residential fire sprinkler system
-installed.
-   903.2.8.1.3 Design and installation. Automatic residential fire sprinkler
-systems for one and two-family dwellings shall be designed and installed in
-accordance with NFPA 13D or Section P2904.
-160.22    FIRE EXTINGUISHER SIZE.
-   The Hiawatha Fire Code is hereby amended by adding the following sentence to
-the end of Section 906.3 of the International Fire Code, 2021 Edition, as
-follows:
-   The minimum size and rating of any required portable fire extinguisher for
-Class A, Class B, or Class C hazard shall be 5-lb, 2-A, 10-B C.
-160.23    EXISTING SPRINKLER SYSTEMS MONITORING.
-   The Hiawatha Fire Code is hereby amended by adding Section 907.6.6.4 to the
-International Fire Code, 2021 Edition, as follows:
-   907.6.6.4 Existing sprinkler systems monitoring requirements. Existing
-sprinkler systems shall have all valves controlling the sprinkler system and
-water flow electrically supervised and monitored by an approved UL listed
-Central Station in accordance with Sections 903.4 and 903.4.1 within three
-months from receiving notice unless otherwise approved by the Fire Code
-Official.
-160.24    FIRE ALARM CONTROL PANELS AND FIRE ALARM ANNUNCIATOR PANELS.
-   The Hiawatha Fire Code is hereby amended by adding section 907.1.4 to the
-International Fire Code, 2021 Edition, as follows:
+   2.   An automatic residential fire sprinkler system shall not be required
+when additions or alterations are made to existing one and two-family dwellings
+that do not have an automatic residential fire sprinkler system installed.
+160.24 EXISTING SPRINKLER SYSTEMS MONITORING.
+   The Hiawatha Fire Code is hereby amended by adding section 903.4.2.1 to the
+International Fire Code, 2024 Edition, as follows:
+   903.4.2.1 Existing sprinkler systems monitoring requirements. The
+requirements of 903.4.1, 903.4.2 and 903.4.3 shall apply to all existing
+sprinkler systems regardless of when the system was installed. Installations
+found to not meet these requirements shall have a 3 month period to establish
+compliances.
+160.25 KITCHEN HOOD SUPPRESSION SYSTEM NOTIFICATION.
+   The Hiawatha Fire Code is hereby amended by adding Section 904.14.6 to the
+International Fire Code, 2024 Edition, as follows:
+   904.14.6 System Annunciation. Commercial cooking automatic fire
+extinguishing systems installed in buildings that do not have a fire alarm
+system, shall be connected to an approved audible and visible emergency
+notification device to warn of system discharge. The horn/strobe and signage
+shall be installed in a location approved by the Fire Code Official, typically
+in the kitchen.
+   904.14.6.1 Sign Requirements. A sign shall be mounted on a wall or in close
+proximity of kitchen hood suppression system audible/visual warning device and
+conform to the following.
+   1.   Red sign with white letters
+   2.   Plastic or metal
+   3.   Minimum size 10” x 7”
+   4.   Read as follows: “HOOD SUPPRESSION SYSTEM ACTIVATION -WHEN SOUNDING-
+CALL 911”
+160.26 FIRE ALARM CONTROL AND ANNUNCIATOR PANELS.
+   The Hiawatha Fire Code is hereby amended by adding Section 907.1.4 to the
+International Fire Code, 2024 Edition, as follows:
    907.1.4 Fire Alarm Control Panel and Fire Alarm Annunciator Panels.
 Installation of fire alarm control panels and fire alarm annunciator panels
-shall be installed in accordance with Section 907.1.4.1 through 907.1.4.5.
+shall be installed in accordance with Section907.1.4.1 through 907.1.4.5.
    907.1.4.1 Fire Alarm Panel Height. Installation of fire alarm panels shall
 not exceed 6 feet in height measured from the floor to the top of the panel.
-   Exception: Panel height may be altered by the Fire Code Official.
+   Exception: panel height may be altered by the Fire Code Official.
    907.1.4.2 Number of Fire Alarm Control Panels in Buildings. Only one listed
 fire alarm control panel shall be allowed per building and shall lock in the
 alarm until the system is reset and shall not be canceled by the operation of
@@ -15169,53 +15210,68 @@ signal shall be prohibited.
 the addition of fire alarm annunciator panels based on the size of building and
 access to the building. These panels shall meet the requirements of Sections
 907.1.4 and 907.4.2.
-160.25    EXISTING FIRE ALARM SYSTEMS MONITORING.
-   The Hiawatha Fire Code is hereby amended by adding Section 907.6.6 to the
+160.27 EXISTING FIRE ALARM SYSTEMS MONITORING.
+   The Hiawatha Fire Code is hereby amended by adding Sections 907.6.6.4 to the
+International Fire Code, 2024 Edition, as follows:
+   907.6.6.4 Existing fire alarm systems monitoring requirements. All
+requirements of 9807.6.6 shall apply to all new and existing sprinkler systems.
+Installations found to not meet these requirements shall have a 3 month period
+to establish compliances.
+160.28 ALARM TRANSMISSION PATHWAYS.
+   The Hiawatha Fire Code is hereby amended by adding Section 907.6.6.5 to the
 International Fire Code, 2021 Edition, as follows:
-   907.6.6.4 Existing fire alarm systems monitoring requirements. Existing fire
-alarms systems that are currently not monitored by an approved UL listed
-Central Station shall become monitored within three months from receiving
-notice in accordance with Section 907 unless otherwise approved by the Fire
-Code Official.
-160.26    FDC SIZE.
+   907.6.6.5 Alarm Transmission Pathways. Each separate building requiring fire
+protection and/or a life safety system that is required to be monitored shall
+have all associated equipment contained within the same building and shall not
+extend to other buildings. Each building shall have dedicated dialers, modems,
+and systems for the purpose of monitoring only one building.
+160.29 FDC THREADS.
+   The Hiawatha Fire Code is hereby amended by repealing Section 912.3 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
+section, as follows:
+   912.3 Fire hose threads. Fire hose threads used in connection with standpipe
+systems and Fire Department connections shall be National Standard Thread.
+160.30 FDC SIGNS.
+   The Hiawatha Fire Code is hereby amended by repealing Section 912.5 of the
+International Fire Code, 2024 Edition, by replacing said section with the new
+section, as follows:
+   912.5 Signs. A metal sign with raised letters not less than 1 inch (25 m) in
+size shall be mounted on all new and existing Fire Department connections
+serving automatic sprinklers, standpipes or fire pump connections. Such signs
+shall read: “AUTOMATIC SPRINKLERS,” “STANDPIPES,” “TEST CONNECTION,” “STANDPIPE
+AND AUTOSPKR” or “AUTOSPKR AND STANDPIPE,” or a combination thereof as
+applicable. All new and existing FDC signs shall comply with Sections 912.5.1
+through 912.5.4. Non-compliant Fire Department connections shall be made
+conforming in conjunction with the 5 year inspection of the sprinkler system.
+160.31 FDC SIZE.
    The Hiawatha Fire Code is hereby amended by adding Section 912.8 to the
-International Fire Code, 2021 Edition, as follows:
-   912.8 FDC Size. Minimum Fire Department connection size shall be 2½-inch
+International Fire Code, 2024 Edition, as follows:
+   912.8 FDC Size. Minimum Fire Department connection size shall be 2 1/2 -inch
 National Standard Thread.
-160.27    SEIZURE OF FIREWORKS.
-   The Hiawatha Fire Code is hereby amended by adding sections 5601.7.1, as
+160.32 UNLAWFUL USE OF FIREWORKS.
+   The Hiawatha Fire Code is hereby amended by adding Sections 5601.7.1, as
 follows:
-   5601.7.1 Seizure of fireworks. It shall be unlawful for any person, or
+   5601.7.1 Unlawful use of fireworks. It shall be unlawful for any person, or
 entity, to possess, store, to offer for sale, sell at retail or use or explode
-any fireworks, except as allowed by State law and Hiawatha City Code Chapter
-41. It shall be unlawful for any person, or entity, to use or explode any
-fireworks on any City owned or leased property without a permit approved by the
-Fire Code Official.
-   The Fire Code Official may issue an operational permit for explosives and/or
-pyrotechnic special effects materials for the use of fireworks by artisans in
-pursuit of their trade in accordance with the Fire Code. Every such use or
-display shall be handled by a competent operator approved by the Fire Code
-Official and after proper investigation, not be hazardous to property or
-endanger any person.
-   The Fire Code Official shall seize, take, remove, or cause to be removed, at
-the expense of the owner, all stocks of fireworks offered or exposed for sale,
-stored, or held in violation of the section.
-160.28    INFRACTIONS.
-   The Fire Code Official is herewith authorized to issue and deliver citations
-on forms prepared and approved by the City Attorney’s Office to person accused
-of violation any of the provisions of this code.
-160.29    AUTOMATED EXTERNAL DEFIBRILLATORS.
+any fireworks, except as allowed by State law. It shall be unlawful for any
+person, or entity, to use or explode any fireworks on any City owned or leased
+property without permit approved by the Fire Code Official. The Fire Code
+Official may issue an operational permit for explosives and/or pyrotechnic
+special effects materials for the use of fireworks by artisans in pursuit of
+their trade in accordance with the Fire Code.
+160.33 AUTOMATED EXTERNAL DEFIBRILLATORS.
    1.   Definitions.
       A.   “Automated External Defibrillator” (AED) means a heart monitor and
 defibrillator that meets the requirements of applicable State and federal law.
       B.   “AED owner” means a person or entity that owns or possesses an AED.
    2.   Installation Required. The installation of AEDs is required in all
-occupancies with an occupant load of more than 500 persons. The AED owner shall
-work with the City to identify the number and location of the AED devices.
+occupancies with an occupancy load of more than 500 persons. The AED owner
+shall work with the City to identify the number and location of the AED
+devices.
    3.   Responsibility. The AED owner shall be responsible for the
 installation, maintenance, and training of personnel on the proper use of the
 AED device.
-(Chapter 160 - Ord. 971 - Nov. 21 Supp.)
+(Chapter 160 – Ord. 1015 – Oct. 25 Supp.)
 CHAPTER 161
 FLOOD PLAIN REGULATIONS
 161.01 Statutory Authority            161.15 General Flood Plain District
@@ -16462,10 +16518,11 @@ to define nuisances as a result of the failure to perform such maintenance and
 to provide for the abatement of such nuisances in order to provide for the
 safety and preserve the health and welfare of the citizens of the City.
 163.02    INTERNATIONAL PROPERTY MAINTENANCE CODE ADOPTED.
-   xcept as hereinafter added to, deleted, modified or amended, there is hereby
-adopted as the Housing Code of the City of Hiawatha that certain Code known as
-the International Property Maintenance Code, 2021 Edition, First Printing, as
-prepared and edited by the International Code Council, Inc., as amended by
+   Except as hereinafter added to, deleted, modified or amended, there is
+hereby adopted as the Housing Code of the City of Hiawatha that certain Code
+known as the International Property Maintenance Code, 2024 Edition, First
+Printing, as prepared and edited by the International Code Council, Inc., as
+amended by
 Chapter 164 of this Code of Ordinances (Property Maintenance Code), and the
 provisions of said Property Maintenance Code shall be controlling in
 maintaining minimum requirements and standards of structures and properties
@@ -16481,16 +16538,16 @@ and shall have all the necessary authority to carry out such enforcement. Any
 person designated by the City Manager to enforce this chapter shall be known as
 the Code Enforcement Officer.
 163.05    REGISTRATION AND FEES.
-   1. Registration Required. No person shall operate a long term (occupancy 30
-or more consecutive days) rental dwelling unit, rooming house, congregate
-housing or independent group residence unless the person has first registered
-such rental dwelling unit, rooming house, congregate housing or independent
-group residence with the City. There is a onetime registration fee for all
-rental properties; fee shall be established by resolution of the City Council.
-Failure to pay the registration fee within 30 days following occupancy of the
-dwelling unit, rooming house, congregate housing or independent group residence
-may result in the registration fee being assessed as costs against the property
-for collection in the same manner as a property tax.
+   1.   Registration Required. No person shall operate a non-owner-occupied
+rental dwelling unit, rooming house, congregate housing or independent group
+residence unless the person has first registered such rental dwelling unit,
+rooming house, congregate housing or independent group residence with the City.
+There is a onetime registration fee for all rental properties; fee shall be
+established by resolution of the City Council. Failure to pay the registration
+fee within 30 days following occupancy of the dwelling unit, rooming house,
+congregate housing or independent group residence may result in the
+registration fee being assessed as costs against the property for collection in
+the same manner as a property tax.
    2. Duration of Registration. Such registration shall remain in effect until
 there occurs:
       2.1 A change in ownership or designation of agents of the rental dwelling
@@ -16518,9 +16575,9 @@ in the fee being assessed as costs against the property for collection in the
 same manner as a property tax.
 163.06    PLANS OF INSPECTION.
    The enforcement of the Hiawatha Housing Code shall include:
-   1. A plan for the inspection of all residential dwellings contained within
+   1.   A plan for the inspection of all residential dwellings contained within
 the City upon receipt of complaints.
-   2. A plan for the regular inspection of all rental units, rooming houses,
+   2.   A plan for the regular inspection of all rental units, rooming houses,
 congregate housing, and independent group residences.
 163.07    RESERVED
 163.08    RESERVED.
@@ -16535,23 +16592,22 @@ certificate by the Clerk as to its adoption and the effective date thereof,
 shall be on file in the office of the Clerk in City Hall and shall be kept
 there on file, and copies shall be available for public inspection. A copy of
 this chapter shall be available in the Community Development Department Office.
-(Ch. 163 – Ord. 996 – Jan. 24 Supp.)
+(Ch. 163 – Ord. 1016 – Oct. 25 Supp.)
 CHAPTER 164
 PROPERTY MAINTENANCE
 164.01 Purpose                           164.13 Notices
 164.02 International Property            164.14 Emergency Measures
 Maintenance Code Adopted
-164.03 Amendment to the Property         164.15 Definitions
-Maintenance Code
+164.03 Reserved                          164.15 Definitions
 164.04 Scope and General Requirements    164.16 Vacant Structures and Land
 164.05 Applicability                     164.17 Weeds
 164.06 Authority for Enforcement         164.18 Building Security
 164.07 Refunds                           164.19 Insect Screens
 164.08 Right to Appeal                   164.20 Pest Elimination
-164.09 Board of Appeals                  164.21 Heat Supply and Occupiable Work
+164.09 Reserved                          164.21 Heat Supply and Occupiable Work
                                          Spaces
 164.10 Violations                        164.22 Smoke Alarms and CO Alarms
-164.11 Dangerous Structures and Premises 164.23 Code on File
+164.11 Hazardous Structures and Premises 164.23 Code on File
 164.12 Vacant Building Regulations
  
 164.01 PURPOSE.
@@ -16563,19 +16619,16 @@ safety and preserve the health and welfare of the citizens of the City.
 164.02 INTERNATIONAL PROPERTY MAINTENANCE CODE ADOPTED.
    Except as hereinafter added to, deleted, modified or amended, there is
 hereby adopted as the Property Maintenance Code of the City of Hiawatha that
-certain Code known as the International Property Maintenance Code, 2021
+certain Code known as the International Property Maintenance Code, 2024
 Edition, First Printing, as prepared and edited by the International Code
-Council, Inc., and the provisions of said Property Maintenance Code shall be
-controlling in maintaining minimum requirements and standards of structures and
-properties within the corporate limits of the City.
-164.03 AMENDMENTS TO THE PROPERTY MAINTENANCE CODE.
-   Certain sections and portions of sections of the International Property
-Maintenance Code are hereby amended, deleted, modified or added to as more
-specifically set forth in the following sections of this chapter.
+Council, Inc.,
+164.03 RESERVED.
+ 
 164.04 SCOPE AND GENERAL REQUIREMENTS.
    The Hiawatha Property Maintenance Code is hereby amended by amending Section
-101 of the International Property Maintenance Code by deleting Sections 101.1
-and 101.3 in their entirety. Sections 101.2 and 101.4 shall remain unchanged.
+101.1 of the International Property Maintenance Code as follows:
+   101.1 Title. These regulations shall be known as the Property Maintenance
+Code for the City of Hiawatha, hereinafter referred to as “this code”.
 164.05 APPLICABILITY.
    The Hiawatha Property Maintenance Code is hereby amended by amending Section
 102.3 of the International Property Maintenance Code as follows:
@@ -16602,51 +16655,48 @@ and Inspection Fee Schedule as adopted by resolution of the Hiawatha City
 Council.
 164.08 RIGHT TO APPEAL.
    The Hiawatha Property Maintenance Code is hereby amended by deleting Section
-107 of the International Property Maintenance Code, and by replacing said
+106 of the International Property Maintenance Code, and by replacing said
 section with a new section, as follows:
-   107 Means of Appeal. Any appeals arising from any act of the administrative
+   106 Means of Appeal. Any appeals arising from any act of the administrative
 authority in the determination of the suitability of alternate materials and
 methods of installation or construction and provide reasonable interpretations,
 and of variances from the Hiawatha Property Maintenance Code shall be heard by
-the Board of Appeals.
-164.09 BOARD OF APPEALS.
-   The Hiawatha Property Maintenance Code is hereby amended by amending Section
-108 of the International Property Maintenance Code as follows:
-   108 Board of Appeals. The Board of Appeals shall be appointed and organized
-as set forth in
+the Board of Appeals in accordance with
 Chapter 159 of this Code of Ordinances.
+164.09 RESRVED.
+ 
 164.10 VIOLATIONS.
    The Hiawatha Property Maintenance Code is hereby amended by amending Section
-109.1 of the International Property Maintenance Code as follows:
-   109.1 Unlawful Acts. It shall be unlawful for a person, firm or corporation
+107.1 of the International Property Maintenance Code as follows:
+   107.1 Unlawful Acts. It shall be unlawful for a person, firm or corporation
 to be in conflict with or in violation of any of the provisions of this code. A
 failure to satisfy any of the provisions of the Hiawatha Property Maintenance
 Code shall constitute a nuisance.
-164.11 DANGEROUS STRUCTURES AND PREMISES.
+164.11 HAZARDOUS STRUCTURES AND PREMISES.
    The Hiawatha Property Maintenance Code is hereby amended by replacing
-Section 111.1.5 of the International Property Maintenance Code as follows:
-   111.1.5 Dangerous Structures and Premises. Any building found to be a
-“dangerous building” as defined in Hiawatha Code of Ordinances Chapter 145
-shall be regulated in accordance with Hiawatha Ordinance
-Chapter 145 and applicable State of Iowa regulations.
+Section 109.1.5 of the International Property Maintenance Code as follows:
+   109.1.5 Hazardous Structures and Premises. Any building found to be a
+“unsafe building” as defined in Hiawatha Code of Ordinances
+Chapter 145 shall be regulated in accordance with Hiawatha Ordinance
+Chapter 145 applicable State of Iowa regulations and this Code.
 164.12 VACANT BUILDING REGULATIONS.
-   Section 111.2 is hereby amended to read as follows:
-   111.2 Closing of Vacant Structures. Vacant buildings and structures shall be
+   Section 109.2 is hereby amended to read as follows:
+   109.2 Closing of Vacant Structures. Vacant buildings and structures shall be
 registered and regulated in accordance with Hiawatha Code of Ordinances
-Chapter 148.
-      111.2.1 Authority to disconnect utility services. (This section to remain
+Chapter 148 and this code.
+      109.2.1 Authority to disconnect utility services. (This section to remain
 unchanged.)
 164.13 NOTICE.
    The Hiawatha Property Maintenance Code is hereby amended by deleting Section
-111.4 of the International Property Maintenance Code in its entirety and
+109.4 of the International Property Maintenance Code in its entirety and
 replacing said section as follows:
-   111.4 Notice. Upon discovery of any violation of Section 164 the City shall
-within five days initiate abatement procedures as outlined in
+   109.4 Notice. Upon discovery of any violation of
+Chapter 164 the City shall within five days initiate abatement procedures as
+outlined in
 Chapter 50 of this Code of Ordinances.
 164.14 EMERGENCY MEASURES.
-   The Hiawatha Property Maintenance Code is hereby amended by deleting Section
-112 of the International Property Maintenance Code in its entirety and
-replacing said section as follows:
+   The Hiawatha Property Maintenance Code is hereby amended by replacing
+Section 110.1 of the International Property Maintenance Code as follows:
    112.1 Emergency Measures. Notwithstanding any other provisions of this
 chapter, whenever in the judgment of the Code Enforcement Officer any nuisance
 is an immediate and imminent threat to life and property, the Code Enforcement
@@ -16681,17 +16731,9 @@ Chapter 50.
    The Hiawatha Property Maintenance Code is hereby amended by deleting Section
 304.18.1 thru 304.18.3 of the International Property Maintenance Code.
 164.19 INSECT SCREENS.
-   The Hiawatha Property Maintenance Code is hereby amended by repealing
-Section 304.14 of the International Property Maintenance Code and by replacing
-said section with a new section as follows:
-   304.14 Insect Screens. During the period from January 1 to December 31,
-every door, window and other outside opening required for ventilation of
-habitable rooms, food preparation areas, food service areas or any areas where
-products to be included or utilized in food for human consumption are
-processed, manufactured, packaged or stored shall be supplied with approved
-tightly fitting screens of not less than 16 mesh per inch (16 mesh per 25 mm),
-and every screen door used for insect control shall have self-closing device in
-good working condition.
+   The Hiawatha Property Maintenance Code is hereby amended by adding the dates
+of January 1 to December 31 to the respective Section 304.14 of the
+International Property Maintenance Code.
 164.20 PEST ELIMINATION.
    The Hiawatha Property Maintenance Code is hereby amended by replacing
 Section 309 of the International Property Maintenance Code as follows:
@@ -16712,7 +16754,7 @@ Section 704.6 of the International Property Maintenance Code as follows.
    704.6 Single- and Multiple-Station Smoke Alarms and CO Alarms. Single- and
 multiple-station smoke alarms and CO alarms shall be installed in existing
 Group I-1 and R occupancies in accordance with Sections 704.6.1 through
-704.6.3, Section 705 and Iowa Code Chapter 100.18.
+704.7.1, Section 705 and Iowa Administrative Code 661 Chapters 210 and 211.
 164.23 CODE ON FILE.
    An official copy of the Hiawatha Property Maintenance Code hereby adopted,
 including a certificate by the Clerk as to its adoption and the effective date
@@ -23939,7 +23981,7 @@ Serviceberry           Amelanchier spp.     Select, Cumulus, Princess Diana,
 APPENDIX B
 BUILDING LAYOUT IN DISTRICT CPR-1
  
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2401.png]
 APPENDIX C
 HIAWATHA TREE PLANTING AND CARE
@@ -23951,7 +23993,7 @@ to flourish. For some, planting a tree is something they have done before. For
 others, it may be the first time. Below are the requirements for right-of-way
 planting and guidelines to assist you in planting trees.
 Right-of-Way (ROW) Planting:
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2528.bmp]
 Determining if a Tree is Public.
    The right-of-way is typically between the sidewalk and the curb and/or 15
@@ -24048,7 +24090,7 @@ the tree requires. Be sure to call Iowa One Call when planting on your property
 also.
 Corner Visual Clearance. In order to prevent visual obstruction at
 intersections please do not plant within the site triangle.
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2532.bmp]
 Broadleaf or Coniferous?
    Consider if you prefer a broadleaf or coniferous tree when replacing trees
@@ -25267,6 +25309,7 @@ ORDINANCE ADOPTED  SUBJECT
 1003      12-6-23  Zoning Map
 1005      12-18-24 Zoning Map
 1006      5-21-25  Zoning Map
+1010      10-1-25  Zoning Map
  
  
 CHAPTER 166
@@ -26223,8 +26266,8 @@ Chapter 165 of this Code of Ordinances.
 FIGURES REFERRED TO IN SECTION 166.54:
  
                                           [https://export.amlegal.com/media/        [https://export.amlegal.com/media/
-[https://export.amlegal.com/media/        81abde1d1bb46b8754a23a11fde4c9567b9dab4a/ 81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
-81abde1d1bb46b8754a23a11fde4c9567b9dab4a/ IMAGES/0-0-0-2405.png]                    IMAGES/0-0-0-2407.png]
+[https://export.amlegal.com/media/        3f00f225855c2c4356303be727e7d5b842141c79/ 3f00f225855c2c4356303be727e7d5b842141c79/
+3f00f225855c2c4356303be727e7d5b842141c79/ IMAGES/0-0-0-2405.png]                    IMAGES/0-0-0-2407.png]
 IMAGES/0-0-0-2403.png]
 Figure 1 – Corner Visual Clearance      Figure 2 – Lot, Reversed Corner
                                                                                     Figure 3 – Through Lot
@@ -26817,7 +26860,7 @@ candlepower of one candela).
    3.   “Cut off angle” (of a luminaire) means the angle, measured up from
 nadir, between the vertical axis and the first line of sight at which the light
 source is not visible, displayed as follows:
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2409.png]
    4.   “Cutoff fixture” means a luminaire which has a light distribution where
 the candlepower does not exceed 2.5% of the lamps’ rated initial lumen output
@@ -26862,7 +26905,7 @@ confused with ILLUMINANCE.
 luminaire to the surface area intended to be lit.
    18.   “Nadir” means the vertical line projecting downward to the ground from
 the center of the lens of a luminaire, displayed as follows:
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2411.png]
    19.   “Standard light level” means maximum light level approved for the
 property.
@@ -26922,7 +26965,7 @@ progress under such illumination prior to 11:00 p.m.
 heights or less from the base of the pole (a maximum angle of 63 degrees up
 from nadir or a minimum of 27 degrees down from horizontal), displayed as
 follows:
-[https://export.amlegal.com/media/81abde1d1bb46b8754a23a11fde4c9567b9dab4a/
+[https://export.amlegal.com/media/3f00f225855c2c4356303be727e7d5b842141c79/
 IMAGES/0-0-0-2413.png]
    5.   Light trespass attributable to the recreational facility lighting
 system shall not exceed one-half (0.5) initial horizontal foot candles and two
