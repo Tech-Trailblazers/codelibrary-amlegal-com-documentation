@@ -1,6 +1,6 @@
 BLANCHESTER, OHIO
 CODE OF ORDINANCES
-Local legislation current through 10-9-2025
+Local legislation current through 12-29-2025
 State legislation current through 2-28-2024
 Published by:
 American Legal Publishing Corporation
@@ -2033,6 +2033,8 @@ Section
 35.09   Public records available
    
 35.10   County 9-1-1- Plan
+   
+35.11   Cybersecurity policy
 § 35.01 COUNTY HAZARD MITIGATION PLAN.
     The County Hazard Mitigation Plan is hereby adopted by reference. A full
 copy of the plan can be found in the Fiscal Officer's Office.  
@@ -2298,6 +2300,90 @@ disclosure, see R.C. §  149.43  
 § 35.10 COUNTY 9-1-1 PLAN.
     The villages hereby adopts the County 9-1-1 Plan.  
 (Res. 2024.003, passed 3-28-2024)  
+§ 35.11 CYBERSECURITY POLICY.
+   (A)   Purpose. The purpose of this policy is to establish a framework for
+protecting the confidentiality, integrity, and availability of Village of
+Blanchester's information systems, data, and technology resources in compliance
+with R.C. § 9.64 cybersecurity requirements.
+   (B)   Scope. This policy applies to all elected officials, employees,
+contractors, vendors, and third parties who access or manage Village of
+Blanchester's technology resources, including but not limited to:
+      (1)   Computers, servers, and mobile devices;
+      (2)   Cloud services and hosted applications;
+      (3)   Networks and telecommunications systems; and
+      (4)   Sensitive or confidential data (e.g., financial, law enforcement,
+health-related, or other protected records).
+   (C)   Policy statement. Village of Blanchester is committed to safeguarding
+its information systems against cybersecurity threats and ensuring compliance
+with R.C. § 9.64 by:
+      (1)   Establishing baseline cybersecurity practices.
+      (2)   Providing ongoing cybersecurity awareness training.
+      (3)   Preparing for detection, response, and recovery from incidents.
+      (4)   Reviewing and updating cybersecurity policies annually.
+   (D)   Roles and responsibilities.
+      (1)   Village Council. Approves cybersecurity policy and ensures
+resources are allocated.
+      (2)   Mayor. Oversees policy implementation, coordinates with IT
+providers and legal counsel.
+      (3)   IT Provider (internal or vendor). Implements technical safeguards,
+monitors for threats, and reports incidents.
+      (4)   Employees/users. Follow cybersecurity protocols, complete training,
+and report suspicious activity.
+   (E)   Cybersecurity controls.
+      (1)   Access control.
+         (a)   Require unique user IDs and strong passwords.
+         (b)   Enforce multi-factor authentication (MFA) for remote or
+administrative access.
+         (c)   Limit access to sensitive data on a "least privilege" basis.
+      (2)   Network and system security.
+         (a)   Maintain up-to-date firewalls, antivirus, and intrusion
+detection/prevention.
+         (b)   Apply software patches and updates within 30 days of release.
+         (c)   Segregate critical systems from public networks when possible.
+      (3)   Data protection.
+         (a)   Encrypt sensitive data at rest and in transit.
+         (b)   Regularly back up critical data and test restoration procedures.
+         (c)   Retain records according to adopted record retention schedules
+and R.C. § 149.43.
+      (4)   Incident response.
+         (a)   Designate an Incident Response Lead.
+         (b)   Establish procedures for detecting, reporting, and escalating
+incidents.
+         (c)   In the event of a cybersecurity incident, notify the following
+parties in the manner listed:
+            1.   The Executive Director of the Division of Homeland Security
+within the Department of Public Safety, in a manner prescribed by the Executive
+Director, as soon as possible but not later than seven days after the political
+subdivision discovers the incident;
+            2.   The auditor of state, in a manner prescribed by the Auditor of
+State, as soon as possible but not later than 30 days after the political
+subdivision discovers the incident.
+            3.   Any other parties as required by law.
+         (d)   Conduct a post-incident review and update policies as needed.
+         (e)   Establish procedures for the repair and subsequent maintenance
+of infrastructure after a cybersecurity incident.
+      (5)   Training and awareness.
+         (a)   Require all employees to complete cybersecurity awareness
+training annually.
+         (b)   Provide role-specific training for anyone handling sensitive
+data.
+      (6)   Vendor and third-party management.
+         (a)   Require vendors to comply with Village of Blanchester's
+cybersecurity standards.
+         (b)   Maintain contracts with cybersecurity clauses and breach
+notification requirements.
+   (F)   Compliance and review.
+      (1)   This policy will be reviewed annually and updated to reflect
+changes in technology, law, and organizational needs.
+      (2)   Departments and third-party IT providers must submit evidence of
+compliance to the administrator annually.
+   (G)   Enforcement. Violations of this policy may result in disciplinary
+action up to and including termination of employment or contract, as well as
+potential civil and criminal penalties in accordance with applicable law.
+   (H)   Enforcement. This policy takes effect on September 30, 2025, to meet
+R.C. § 9.64 requirements. Implementation of technical and training requirements
+must be completed no later than June 30, 2026.
+(Res. 2025.025, passed 12-11-2025)
 CHAPTER 36: INCOME TAX
 Section
    
@@ -16120,14 +16206,14 @@ TITLE IX: GENERAL REGULATIONS
 CHAPTER 90: GENERAL PROVISIONS
 Section
    
-90.01   Private swimming pools
+90.01   Private swimming pools, fences, signs and billboards around the same
    
 90.02   Yard sale permit fee
  
    
 90.99   Penalty
-§ 90.01 PRIVATE SWIMMING POOLS.
-   (A)   Definition. For the purpose of this section, the following definition
+§ 90.01 PRIVATE SWIMMING POOLS, FENCES, SIGNS AND BILLBOARDS AROUND THE SAME.
+   (A)   Definitions. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
 meaning.
       SWIMMING POOL. A body of water of artificial construction used for
@@ -16137,7 +16223,7 @@ has more than 150 square feet of water surface area when filled to capacity.
       (1)   No swimming pool or appurtenance shall be located nearer than ten
 feet to the side or rear line of the lot or parcel on which it is situated, or
 nearer to any street than a distance ten feet greater than the building setback
-line as fixed by the Zoning Code. The area of the pool exclusive of decks,
+line as fixed by the Zoning Ordinance. The area of the pool exclusive of decks,
 walks, and other appurtenances shall not exceed 10% of the area of the lot or
 parcel on which it is situated.
       (2)   The top of the walls, decks, or walks of any swimming pool shall
@@ -16166,18 +16252,18 @@ under the fence. Each gate in the fence shall be provided with a secure lock,
 and shall be kept locked at all times when the depth of the water in the pool
 exceeds 18 inches, unless the pool is in use or under the immediate observation
 of a responsible person. No part of any fence shall be located between the
-building setback line fixed by the Zoning Code and the street on which the lot
-or parcel abuts.
+building setback line fixed by the Zoning Ordinance and the street on which the
+lot or parcel abuts.
       (2)   The Planning Commission is empowered to make exceptions to and
 modifications of the above requirement for fences as to existing pools, in
-cases in which, in the Commission’s opinion, such requirements are not
-essential to safety and the enforcement thereof would work hardships in the
+cases in which, in the Commission's opinion, such requirements are not
+essential to safety and the enforcement thereof would work hardships on the
 owners.
    (D)   Lights. All lights used for illuminating the pool or surrounding areas
 shall be designed, located, and installed so as to confine the direct beams to
 the lot or parcel on which the pool is located, and so as not to constitute a
 nuisance or undue annoyance to occupants of abutting property.
-   (E)   Drainage. Provision shall be made for drainage of the pool into a
+   (E)   Drainage. Provisions shall be made for drainage of the pool into a
 public storm sewer where possible, unless there is a ditch or natural
 watercourse of sufficient size and gradient adjacent to the pool location to
 carry off the water satisfactorily. In which case, drainage may be into such
@@ -16201,12 +16287,9 @@ construction has been approved by the Code Enforcement Officer.
 filtration system approved by the Board of Health.
       (4)   No person shall use or maintain any swimming pool in violation of
 this section or of any lawful order of the Code Enforcement Officer, or in
-violation of any regulation of the Board of Health of the village or any order
+violation of any regulation of the Board of Health of this village or any order
 of the Health Commissioner issued pursuant thereto.
-   (G)   Application of section. This section applies to private or
-noncommercial swimming pools. Divisions (C) through (F) apply to all swimming
-pools.
-(Ord. 95.016, passed 12-14-1995)
+(Ord. 2025.027, passed 12-29-2025)
 § 90.02 YARD SALE PERMIT FEE.
    Any person wishing to have a yard sale within the corporation limits of the
 village shall be required to obtain a permit at the Mayor’s Office at a charge
@@ -16215,13 +16298,9 @@ community yard sales account for two of the four allowed sales per year and no
 permit or fee shall be imposed for the community yard sales.
 (Res. 2013.010, passed 4-14-2013)
 § 90.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-specific penalty is prescribed shall be subject to §
+   Any person violating any provision of this chapter for which no specific
+penalty is prescribed shall be subject to §
 10.99 of this code of ordinances.
-   (B)   Violation of §
-90.01 is a minor misdemeanor punishable by an appropriate fine and each day
-during which such violation continues constitutes a separate offense.
-(Ord. 95.016, passed 12-14-1995)
 CHAPTER 91: ANIMALS
 Section
 Animals Running at Large
@@ -17534,102 +17613,115 @@ entire lot or parcel.
 gardens, or cultivated crops and areas which are heavily forested and in a
 natural state.
    (C)   In the case of noncompliance with or violation of this section by any
-person, firm, corporation, or entity, the Code Enforcement Officer shall cause
+person, corporation, or entity, the Code Enforcement Officer shall cause
 written notice of noncompliance to be served upon the person or entity, having
-charge or management of any lot or lands situated within the village who is not
-complying with said ordinance, via regular U.S. mail, and the Code Enforcement
-Officer shall obtain a certificate of mailing from the U.S. Postal Service for
-said mailing. Said notice shall notify him or her that:
+charge or management of any lot or lands situated within the village, who is
+not complying with this section, via regular U.S. mail, and the Zoning
+Commissioner shall obtain a certificate of mailing from the U.S. Postal Service
+for said mailing. Said notice shall notify him or her that:
       (1)   Weeds, grass, or plant growth in excess of eight inches in height
 are growing on such lands and that they must be cut within five days after the
 service of such notice;
       (2)   If the recipient of the notice fails to comply with the notice, the
 village will take whatever action is reasonably necessary to bring this
-property into compliance with this section, including, but not limited to,
+property into compliance with this section, including but not limited to
 causing the vegetation on said property to be cut or abated with herbicides by
-the Street Department, other personnel, or contractors hired by the village; or
+the Street Department other personnel, or contractors hired by the village.
       (3)   The recipient will be billed for all costs of bringing this
 property into compliance, including fees for postage. Should the recipient fail
 to pay said bill within ten days, then said charges will be verified to the
 County Auditor to be assessed with the normal real estate taxes for said
 property.
-   (D)   The notice of noncompliance shall be in substantially similar form to
-the notice which is attached to this section and incorporated herein as though
-rewritten. If the owner, occupant, or other person or entity having charge over
-any property not in compliance with division (A) of this section, is unknown,
-it is sufficient to satisfy the notice requirement of division (C) of this
-section to publish a notice once in a newspaper of general circulation in the
-county.
-   (E)   If the owner, occupant, or any other person or entity, having charge
-or management of any lot or lands not in compliance with this section fails to
-abate said noncompliance within five days after service of the notice required
-by division (C) of this section, then the Code Enforcement Officer shall cause
-the vegetation of said property to be cut or abated with herbicides by the
-Street Department, other personnel, or contractors hired by the village, and
-shall report the actual costs and expenses of said abatement to the Legislative
-Authority. Upon receiving a report of said abatement and the costs thereof from
-the Mayor, the Legislative Authority shall promptly pay the reasonable costs
-and expenses thereof from the General Fund of the village.
-   (F)   The Fiscal Officer shall send a written bill for all costs associated
-with abatement of noncompliance with this section, including the reasonable
-costs of postage for notices, to the owner, occupant, or any other person or
-entity, having charge or management of any lot or lands situated within the
-village, who is in noncompliance with this section. Said written bill shall
-state that the balance is due within ten days after receipt, and shall be sent
-via certified U.S. mail, return receipt requested. Should said mail be returned
-unclaimed, and then a second copy of said bill shall be sent via regular U.S.
-mail, and shall be deemed served upon said person or entity on the date of
-mailing. The Fiscal Officer shall obtain a certificate of mailing from the
-postal service for said regular mail service. Any funds received from any
-person or entity for payment of said bill shall be immediately deposited into
-the General Fund of the village.
-   (G)   Should the owner, occupant, or any other person or entity, fail to pay
-the entire balance due within ten days after service of a written bill pursuant
-to this section, then the Legislative Authority shall make a written return to
-the County Auditor of their action under this section, with a statement of the
-charges for their services, the amount paid for labor, the fees of the officers
-serving the notices, the cost of postage, and a proper description of the
-premises. These amounts, when allowed, shall be entered upon the tax duplicate
-and shall be a lien upon such lands from and after the date of entry and be
-collected as other taxes and returned to the municipality, and deposited to the
-General Fund.
-(Ord. 2011.020, passed 5-26-2011)
+(Ord. 2025.027, passed 12-29-2025)
 § 93.02 LEAVING UNLICENSED MOTOR VEHICLE IN OPEN STORAGE.
-   (A)   Except as otherwise provided by village ordinance, no unlicensed
-vehicles, whether operable or inoperable, may be stored overnight in an outdoor
-location on the premises of any property within the village.
-   (B)   The Zoning Inspector or the Chief of Police shall serve notice either
-by certified mail with return receipt requested or in person, to the person
-having the right to the possession of the property on which unlicensed motor
-vehicles are stored, that within ten days of receipt of the notice, that any
-unlicensed vehicles either be housed in a garage or suitable structure, or
-shall be removed from the property. In the event notice is refused or goes
-unclaimed, notice shall be served by its posting upon the principal structure
-located upon the property.
-   (C)   No person shall willfully leave unlicensed motor vehicles in the open
-for more than ten days after receipt of a notice as provided in this section.
-The fact that unlicensed motor vehicles are so left is prima facie evidence of
-willful failure to comply with the notice, and each subsequent period of 30
-days that a junk motor vehicle continues to be so left constitutes a separate
-offense.
-(Ord. 2017.022, passed 5-25-2017)
+   No unlicensed vehicles, whether operable or inoperable, may be stored
+overnight in an outdoor location on the premises of any property within the
+village.
+(Ord. 2025.027, passed 12-29-2025)
 PUBLIC NUISANCES
 § 93.15 TITLE.
    This subchapter shall be known and cited as the public nuisance ordinance.
-(Ord. 2016.016, passed 8-11-2016)
+(Ord. 2025.027, passed 12-29-2025)
 § 93.16 PUBLIC NUISANCES DEFINED AND PROHIBITED.
-   PUBLIC NUISANCE means whatever annoys, injures, or endangers the safety,
-health, welfare, comfort, or repose of the public; offends public decency or
-aesthetic sensibilities; interferes with, obstructs, or renders dangerous any
-street, highway, navigable lake, or stream; or in any way renders the public
-insecure in life or property, and is hereby declared to be a PUBLIC NUISANCE.
-PUBLIC NUISANCES shall include, but shall not be limited to, whatever is
-forbidden by any provision of this subchapter. No person shall commit, create,
-or maintain any PUBLIC NUISANCE.
-(Ord. 2016.016, passed 8-11-2016)
+   No land or building in any district shall be used or occupied in any manner
+creating dangerous, injurious, noxious or otherwise objectionable conditions
+which could adversely affect the surrounding areas or adjoining premises,
+except that any use permitted by this Zoning Ordinance may be undertaken and
+maintained if acceptable measures and safeguards to reduce dangerous and
+objectionable conditions to acceptable limits as established by the following
+performance requirements:
+   (A)   Fire hazards. Any activity involving the use or storage of flammable
+or explosive materials shall be protected by adequate firefighting and fire-
+prevention equipment and by such safety devices as are normally used in the
+handling of any such material. Such hazards shall be kept removed from adjacent
+activities to a distance which is compatible with the potential danger
+involved.
+   (B)   Radioactivity or electrical disturbance. No activity shall emit
+dangerous radioactivity at any point, or electrical disturbance adversely
+affecting the operation of any equipment at any point other than that of the
+creator of such disturbance.
+   (C)   Noise. Noise shall be so controlled that at the property line on which
+such noise is produced it will not be at a level above that normally
+perceptible from other development at the street right-of-way line on the lot,
+except occasional blast required in normal operation and produced in such
+manner as not to create a hazard. If such blast or other noise creates an
+objectionable noise as determined by the Village Council such noise shall be
+muffled or otherwise controlled. Sirens and related apparatus used solely for
+public purposes are exempt from this regulation.
+   (D)   Vibration. No vibration shall be permitted which is discernible
+without instruments on any adjoining lot or property.
+   (E)   Air pollution. No pollution of air by fly-ash, dust, vapors, odors,
+smoke, or other substances shall be permitted which are harmful to health,
+animals, vegetation, or other property, or which can cause excessive soiling.
+   (F)   Glare. No direct or reflected glare shall be permitted which is
+visible from any property outside an industrial district or from any street.
+   (G)   Erosion. No erosion, by either wind or water, shall be permitted which
+will carry objectionable substances onto neighboring properties.
+   (H)   Water pollution. No pollution of any stream, reservoir, aquifer
+(underground water supply), or other water body within or surrounding the
+village, shall be permitted which would create a serious threat to the health,
+safety or welfare of the residents of the village.
+   (I)   Litter. Litter constituting a detriment to public health which has
+been placed on any property shall be removed. Litter includes any garbage,
+waste, peelings of vegetables or fruit, rubbish, ashes, cans, bottles, wire,
+paper, boxes, parts of automobiles, furniture, glass or oil of an unsightly or
+unsanitary nature, or anything else of an unsightly or unsanitary nature.
+   (J)   Junk. Junk such as abandoned vehicles, household appliances, farm
+equipment, or any other matter, for which no future use is contemplated, or
+which has deteriorated to the point of creating a visual blight on the
+landscape shall be removed from the view from any public road or right-of-way.
+   (K)   Storage containers. No metal storage containers of any kind, including
+but not limited to, metal box containers or shipping containers, shall be used
+as a garage or permanent storage facility or building within the village.
+   (L)   Enforcement provisions. The Code Enforcement Officer or Village
+Council, prior to the issuance of a zoning permit, may require the submission
+of statements and plans indicating the manner in which dangerous and
+objectionable elements involved in processing and in equipment operations are
+to be eliminated or reduced to acceptable limits and tolerance. The Code
+Enforcement Officer shall investigate all complaints, if the Code Enforcement
+Officer finds a property in violation of this subchapter, he or she shall give
+a written notice by registered mail or in person to the owner or person in
+charge of the property requiring him/her to remove the nuisance within 15 days
+(30 days for dilapidated structures) of receipt of the notice. If the nuisance
+is not removed within this period, the Code Enforcement Officer shall hire
+someone to remove the nuisance and bill the owner or person in charge of the
+property for the cost of the labor and any materials used. If the bill is not
+paid, it will be added to the tax duplicate of such property.
+   (M)   Measurement procedures. Methods and procedures of the village for the
+determination of the existence of any dangerous or objectionable elements which
+constitute a public nuisance may utilize any applicable and reliable
+measurement procedures or the village may request the assistance of reputable
+consultants, government organizations, or other sources if authorized by the
+Village Council.
+   (N)   Existing public nuisances subject to discretion of Council. Any public
+nuisance as described in this Zoning Ordinance and existing at the time of its
+adoption shall be subject to the discretion of Village Council prior to any
+action on the part of the village to abate or take any other action against
+such public nuisance. In the utilization of such discretion, the Council shall
+determine what reasonable action, if any, should be taken by the village to
+bring about the partial or total abatement of such public nuisance in question.
+(Ord. 2025.027, passed 12-29-2025)
 § 93.17 PUBLIC NUISANCES PER SE.
-   The following acts, apparatus, accumulations, violations, and activities
-within the village are hereby declared to be public nuisances per se:
    (A)   No person shall throw, place, or leave; or permit the throwing,
 placing, or leaving any of the following substances: organic refuse, food
 wastes, ashes, dead animals, fish, animal bones, hides, rotten soap, grease,
@@ -17637,96 +17729,38 @@ tallow, offal, shell, food containers or wrappings, cans, bottles, jars,
 crockery, garbage, discarded furniture, cartons, boxes, crates, rags, discarded
 clothing, bedding, floor covering, wallpaper, sweepings, waste paper,
 newspapers or magazines, discarded appliances, rubbish, excrement, rot,
-construction debris, including, but not limited to, lumber, bricks, block,
-plumbing, or heating materials, roofing materials, concrete, cement, electrical
-materials or siding, yard debris or rubbish, including, but not limited to,
+construction debris including, but not limited to, lumber, bricks, block,
+plumbing or heating materials, roofing materials, concrete, cement electrical
+materials or siding, yard debris or rubbish including, but not limited to,
 grass clippings, clippings from hedges or shrubs, or detached tree branches,
 industrial waste, unclean or nauseous fluids or gases, in any of the following
 locations:
-      (1)   On the premises of another without permission;
+      (1)   On the premises of another without permission.
       (2)   On any public street, highway, lane, road, alley, public place,
 square, sidewalk, sewers, or any lands within the boundaries of the village
-owned by the village or other municipal corporation;
-      (3)   In any river, lake, stream, or other body of water; or
+owned by the village or other municipal corporation.
+      (3)   In any river, lake, stream, or other body of water.
       (4)   No person shall maintain or permit to remain on their premises, so
 owned, occupied, or possessed by another, substances that constitute a
 dangerous condition or are detrimental to the public health, safety, or welfare
 or may cause sickness or attract flies, insects, rodents, or vermin.
    (B)   The emission of noxious fumes or gas, smoke, ashes, or soot in such
 quantities as to render occupancy of property dangerous to a person of ordinary
-sensibilities;
+sensibilities.
    (C)   The keeping, either inside or outside of any building, structure, or
 dwelling, in a place accessible to children, any abandoned, unattended, unused,
 or discarded icebox, refrigerator, or any airtight container of any kind which
 has a snap latch or other locking device thereon without first removing the
 snap latch or other locking device or the doors from such icebox, refrigerator,
-or other such airtight container;
+or other such airtight container.
    (D)   The registered owner or lessee of a vehicle from which litter is
-thrown, dropped, dumped, deposited, placed, or left is presumed to be the
-person responsible for littering; or
-   (E)   Violating the following noise regulations.
-      (1)   General regulation. It shall be unlawful for the owner of any
-premises within the village, or for the occupant or person in possession of any
-premises within the village, or for any person to knowingly make, allow to be
-made, or to permit to be made upon the premises so owned, occupied, or
-possessed, any excessive, unnecessary, unnatural, repeated, prolonged,
-unusually loud noise, which is clearly audible for a prolonged period of time,
-regardless of whether periodic or intermittent, from nearby properties, within
-the limits of the village.
-      (2)   Specific noise violations. The following recurring noise
-disturbances are hereby declared to be a violation of this subchapter;
-provided, however, that the specification of the same is not to be construed to
-exclude other violations of this subchapter not specifically enumerated below:
-         (a)   The playing of any radio, phonograph, television, or other
-electronic or mechanical sound-producing device, including any musical
-instrument;
-         (b)   The construction, excavation, demolition, alteration, or repair
-of any building or premises in any part of the village, including the streets
-and highways, other than between the hours of 7:00 a.m. and sundown on any day,
-except in cases of urgent necessity in the interest of public health and
-safety. Urgent necessity would include snow plowing, utility repairs, and
-similar situations;
-         (c)   The use of any drum, loudspeaker, or other instrument or device
-for the purpose of attracting attention to any performance, show, sale,
-display, or other commercial purpose; or
-         (d)   The operation of any machinery, equipment, or mechanical device,
-so as to emit unreasonably loud noise or frequent noise.
-      (3)   Exceptions. None of the prohibitions enumerated above shall apply
-to the following:
-         (a)   Any police vehicle, ambulance, fire engine, or emergency vehicle
-while engaged in necessary emergency activities;
-         (b)   Excavation or repair of bridges, streets, or highways or other
-property by or on behalf of the state, village, or county, between sundown and
-7:00 a.m. when the public welfare, safety, and convenience render it impossible
-to perform such work during other hours;
-         (c)   Warning devices emitting sound for warning purposes as
-authorized by law;
-         (d)   Homeowners performing ordinary property maintenance during
-daylight hours, i.e. lawn mowing, general repairs, gardening, snow removal, and
-the like; and
-         (e)   Activities permitted by village action.
-(Ord. 2016.016, passed 8-11-2016)
+thrown, dropped, dumped, deposited, placed or left is presumed to be the person
+responsible for littering.
+(Ord. 2025.027, passed 12-29-2025)
 § 93.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-specific penalty is prescribed shall be subject to §
+   Any person violating any provision of this chapter for which no specific
+penalty is prescribed shall be subject to §
 10.99 of this code of ordinances.
-   (B)   Any person who violates §
-93.02 is guilty of leaving unlicensed motor vehicles in open storage, a minor
-misdemeanor on a first offense and shall be fined not more than $100; on a
-second offense, such person is guilty of a misdemeanor of the fourth degree and
-fined not to exceed $250; and on each subsequent offense a misdemeanor of the
-third degree and fined not to exceed $500.
-   (C)   Any person or other entity who causes or permits to continue a public
-nuisance as prohibited by §§
-93.15 through
-93.17 shall be guilty of a minor misdemeanor as defined by state law and is
-subject to a fine of not more than $100. Each day a violation of §§
-93.15 through
-93.17 continues to exist constitutes a separate violation. A violator of §§
-93.15 through
-93.17 shall also be subject to such additional sanctions, remedies, and
-judicial orders as are authorized under state law.
-(Ord. 2016.016, passed 8-11-2016; Ord. 2017.022, passed 5-25-2017)
 CHAPTER 94: PARKS AND RECREATION
 Section
    
@@ -17890,35 +17924,46 @@ Section
 96.04   Vending machine located on streets, alleys, or sidewalks
    
 96.05   Trees and shrubs between sidewalks and curbs
+   
+96.06   Parking of recreational and camping equipment
+   
+96.07   Food trucks
  
    
 96.99   Penalty
 § 96.01 OBSTRUCTIONS UPON SIDEWALKS.
-   (A)   Establishments of the designated sidewalks (hereinafter “qualifying
-businesses”) may apply for a permit from the Zoning Office for the placement of
-tables, chairs, and benches used in conjunction with the business as follows:
+   This section applies to sidewalks with a width not less than eight feet and
+located: on either side of Main Street from Wall Street east to Wright Street
+west; and on either side of Broadway Street from Center Street south to Fancy
+Street north hereinafter referred "designated sidewalks." Now therefore, be it
+hereby ordained by the Council that any and all obstructions upon the above
+designated sidewalks are hereby prohibited except as follows:
+   (A)   Establishments abutting the designated sidewalks (hereinafter
+"qualifying businesses") may apply for a permit from the Village Zoning Office
+for the placement of tables, chairs and benches used in conjunction with the
+business as follows:
       (1)   Upon the grant of permit from the Zoning Department, the qualifying
-business may place not more than two tables 26 inches in diameter, with not
+business may place not more than two tables (26 inches) in diameter, with not
 more than two chairs at each table, on the sidewalk in front of their
 establishments with the tables abutting the external front wall of the
 business. The tables shall not extend more than 28 inches from the external
-front wall of the business and shall not be more than six feet in length; this
+front wall of the business and shall not be more than six feet in length, this
 can include tables less than six feet but cannot exceed the six feet limit in
-length; and
-      (2)   Upon the grant of permit from the Zoning Department, the qualifying
-business may place not more than two benches in front of the establishment with
-each bench abutting the external front wall of the business, said benches not
-to extend more than 28 inches from the front of the external wall of the
-business nor extend more than six feet in length.
+length.
+      (2)   Upon the grant of permit from the Village Zoning Department the
+qualifying business may place not more than two benches in front of the
+establishment with each bench abutting the external front wall of the business,
+said benches not to extend more than 28 inches from the front of the external
+wall of the business nor extend more than six feet in length.
    (B)   Qualifying business permit holders shall not otherwise obstruct the
-sidewalk or interfere with passers-by and shall be required to keep the
+sidewalk, or interfere with passers-by and shall be required to keep the
 sidewalk and surrounding areas free of trash and debris, with a trash can
 receptacle used during regular business hours.
    (C)   Qualifying business permit holders shall be required to maintain
 premises and general commercial liability insurance in an amount not less than
 $1,000,000 and must provide a certificate evidencing the same at the time of
 application and otherwise upon demand of the Zoning Department.
-(Ord. 2015.027, passed 2-11-2016)
+(Ord. 2025.027, passed 12-29-2025)
 § 96.02 USE OF LOCAL STREETS.
    (A)   Use of local streets. No person shall operate a vehicle exceeding a
 gross weight of five tons, upon any street in the village other than a state
@@ -17958,10 +18003,9 @@ permit granted by the Director of Public Safety shall be cause for immediate
 revocation or suspension of such permit, and denial of request for any future
 permit. Such violation shall also subject the violator to the penalty.
 (Ord. 97.029, passed 1-8-1998)
-§ 96.03 CONSTRUCTION, MAINTENANCE, AND REPAIR OF SIDEWALKS AND
-DRIVEWAYS.
-   (A)   Responsibility for construction, maintenance, and repair.
-      (1)   The construction, maintenance, and repair of all sidewalks and
+§ 96.03 CONSTRUCTION, MAINTENANCE, AND REPAIR OF SIDEWALKS AND DRIVEWAYS.
+   (A)   Responsibility.
+      (1)   The construction, maintenance and repair of all sidewalks and
 driveways within the village shall be the responsibility of and shall be done
 at the expense of the person owning the lot fronting upon any street or alley
 where such improvements may be required to be made.
@@ -17969,59 +18013,60 @@ where such improvements may be required to be made.
 which may involve the reconstruction of an otherwise good sidewalk for other
 good and sufficient reason, the village may perform such work and shall not
 bear the cost thereof. In addition, the village may perform work in connection
-with sidewalk for the public utility regulated by the State Public Utilities
-Commission or a person holding a franchise from the village; providing such
-public utility or person shall pay the cost thereof, including overhead.
+with sidewalk for the public utility regulated by the Public Utilities
+Commission of the State or a person holding a franchise from the village,
+providing such public utility or person shall pay the cost thereof, including
+overhead.
    (B)   Specifications and standards for driveways.
-      (1)   Definition. For the purpose of this division (B), the following
+      (1)   Definitions. For the purpose of this section, the following
 definition shall apply unless the context clearly indicates or requires a
 different meaning.
-         DRIVEWAY. Any paved area constructed within the public right-of-way,
+         DRIVEWAY. Paved area constructed within the public right-of-way,
 connecting the paved public roadway with private property, for the purpose of
 providing access for motor vehicles to private property.
       (2)   Construction modification.
          (a)   The construction of all driveways shall conform to the standards
-and specifications established and on file in the Office of the Code
-Enforcement Officer.
+and specifications established and on file in the Office of the Zoning
+Commissioner.
          (b)   If, at any time, it is found that the driveway provisions set
-forth herein are impracticable for a particular case, the Code Enforcement
-Officer shall be authorized to modify the strict application of the same, so as
-to provide for the safety and convenience of the public, and at the same time
-to avoid undue hardships on the property owner.
+forth here in are impracticable for a particular case, the Zoning Commissioner
+shall be authorized to modify the strict application of the same, so as to
+provide for the safety and convenience of the public, and at the same time to
+avoid undue hardships on the property owner.
    (C)   Permits for sidewalks and driveways. No person shall remove, cut,
-construct, or repair any sidewalk or driveway without first obtaining a permit
-therefore from the Code Enforcement Officer. No charge will be made.
+construct or repair any sidewalk or driveway without first obtaining a permit
+therefore from the Zoning Commissioner. No charge will be made.
    (D)   Required construction and repair.
-      (1)   The Code Enforcement Officer shall, from time to time, cause an
+      (1)   The Zoning Commissioner shall, from time to time, cause an
 inspection to be made of sidewalks and driveways through the village. Should it
 be determined that initial construction is necessary or that sidewalks and/or
 driveways are so defective that they should be repaired, then such construction
 and/or repair shall be affected in the manner provided by R.C. Chapter 729.
       (2)   If any person shall neglect or refuse to make any such improvements
 in accordance with the specifications, and within the time limited in such
-notice, the Council may immediately proceed to have the same done, by contract,
-under the direction of the Code Enforcement Officer, and shall assess the same
-upon such lot fronting on the street or alley where such improvement is made,
-and shall order the Clerk to certify, under his or her official seal, to the
-County Auditor, such unpaid assessment.
-   (E)   Required cleaning of sidewalks. In the event that any owner, occupant,
+notice. Council may immediately proceed to have the same done, by contract,
+under the direction of the Zoning Commissioner, and shall assess the same upon
+such lot fronting on the street or alley where such improvement is made, and
+shall order the Clerk to certify, under her official seal, to the County
+Auditor, such unpaid assessment.
+   (E)   Required cleaning of sidewalks. In the event that any owner, occupant
 or person having charge of property fails to remove snow or ice or otherwise
-keep clean the sidewalks abutting his or her premises as required by ordinance
-authorized under R.C. § 723.011, and after having been notified by service of a
-notice or sending by registered mail a notice to the address of the property in
-question, the Street Supervisor, or his or her agent, shall clean such
-sidewalks and shall bill the costs thereof to the owner, occupant, or person in
-charge. Upon failure of the property owner to pay such bill within 30 days
-after billing, the Council, by resolution, shall cause the costs to be
-certified to the County Auditor, who shall place such costs upon the tax
-duplicate to be collected together with penalties allowed by law as other taxes
-are collects, and to be credited to the village.
-   (F)   Rules and regulations. The Street Supervisor, or his or her agent,
-with the approval of Village Council, shall make and enforce such rules and
-regulations as he or she may deem necessary for the enforcement of the
-provisions hereof, and for the proper determination and collection of the fees
-and charges herein provided.
-(Ord. 2020.032, passed 12-30-2020)
+keep clean the sidewalks abutting his/her premises as required under R.C. §
+723.01, and after having been notified by service of a notice or sending by
+Registered Mail a notice to the address of the property in question, the Street
+Supervisor, or his or her Agent, shall clean such sidewalks, and shall bill the
+costs thereof to the owner, occupant or person in charge. Upon failure of the
+property owner to pay such bill within 30 days after billing, Council, by
+resolution, shall cause the costs to be certified to the County Auditor, who
+shall place such costs upon the tax duplicate to be collected together with
+penalties allowed by law as other taxes are collects, and to be credited to the
+village.
+   (F)   Rules and regulations. The Code Enforcement Officer, with the approval
+of Village Council, shall make and enforce such rules and regulations as he or
+she may deem necessary for the enforcement of the provisions hereof, and for
+the proper determination and collection of the fees and charges herein
+provided.
+(Ord. 2025.027, passed 12-29-2025)
 § 96.04 VENDING MACHINE LOCATED ON STREETS, ALLEYS, OR SIDEWALKS.
    (A)   For the purpose of this section, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18071,24 +18116,199 @@ the condition thereof endangers the life or limb of persons lawfully using the
 streets, or if said tree is interfering or causing damage to any village
 utilities or streets or sidewalks.
 (Ord. 2015.018, passed 8-13-2015)
+§ 96.06 PARKING OF RECREATIONAL AND CAMPING EQUIPMENT.
+   (A)   Definitions. As used in this section, unless the context otherwise
+indicates.
+      BOATS AND BOAT TRAILERS. Include, but is not limited to, boats, floats
+and rafts, plus the  normal equipment to transport the same on the highway.
+      MOTOR HOME. A self-propelled recreational vehicle that has no fifth wheel
+and is constructed with permanently installed facilities for cold storage,
+cooking and consuming food, and for sleeping.
+      RECREATIONAL AND CAMPING EQUIPMENT. Any recreational and camping vehicle,
+travel trailer, motor home, truck camper, tent-type fold out camping trailer,
+and boat trailers and boats.
+      RECREATIONAL AND CAMPING VEHICLE. A vehicular portable structure that
+meets all of the following conditions:
+         (a)   It is designed for the sole purpose of recreational travel.
+         (b)   It is not used for the purpose of engaging in business for
+profit.
+         (c)   It is not used for the purpose of engaging in intrastate
+commerce.
+         (d)   It is not used for the purpose of commerce as defined in 49
+C.F.R. 383.5, as amended.
+         (e)   It is not regulated by the public utilities commission pursuant
+to R.C. Chapter 4919, 4921, or 4923.
+      TENT-TYPE FOLD OUT CAMPING TRAILER. Any vehicle intended to be used, when
+stationary, as a temporary shelter with living and sleeping facilities, subject
+to the following properties and limitations:
+         (a)   A minimum of 25% of the fold out portion of the top and
+sidewalls combined must be constructed of canvas, vinyl or fabric, and form an
+integral part of the shelter.
+         (b)   When folded, the unit must not exceed:
+            1.   Fifteen feet in length, exclusive of bumper and tongue;
+            2.   Sixty inches in height from point of contact with the ground;
+            3.   Eight feet in width; and
+            4.   One-ton gross weight at time of sale.
+      TRAVEL TRAILER. A nonself-propelled recreational vehicle that does not
+exceed an overall length of 35 feet, exclusive of bumper and tongue or
+coupling, and contains less than 320 square feet of space when erected on site.
+TRAVEL TRAILER includes a tent-type fold-out camping trailer as defined in R.C.
+§ 4517.01.
+      TRUCK CAMPER. A nonself-propelled recreational vehicle that does not have
+wheels for road use and is designed to be placed upon and attached to a motor
+vehicle. TRUCK CAMPER does not include truck covers that consist of walls and a
+roof, but do not have floors and facilities enabling them to be used as a
+dwelling.
+   (B)   Parking and storage on residential property.
+      (1)   No recreational or camping equipment parked or stored shall have
+fixed connections to electricity, water, gas or sanitary sewer facilities, and
+at no time shall such equipment be occupied or used for living, sleeping,
+housekeeping or business purposes.
+      (2)   The parking of recreational and camping equipment for the purpose
+of storage shall be permitted on residential property so long as such is not on
+any public street or right-of-way or upon any public property and is properly
+licensed. If the recreational and camping equipment is parked or stored outside
+of a garage, all parts of the load and equipment thereof shall be parked or
+stored to the rear of the front building line of the residence or building
+structure.
+      (3)   An owner or operator whose use of a vehicle as a recreational or
+camping vehicle is only incidental to its primary use for general
+transportation purposes is not deemed to be parking such vehicle for the
+purpose of storage within the meaning of division (B)(2).
+      (4)   Notwithstanding the provisions of division (B)(2) herein,
+recreational and camping equipment may be parked anywhere on the premises for
+the ordinary, customary and reasonable time required for the purpose of
+loading, unloading, outfitting or otherwise preparing for recreational or
+camping use, but not to exceed 24 hours in an 30-day period.
+   (C)   Exceptions and modifications.
+      (1)   Notwithstanding division (B)(1), but subject to division (B)(2), an
+occupied motor home, an occupied travel trailer or a boat trailer may be parked
+on private property for a period not to exceed 72 consecutive hours in any 30-
+day period, provided that the owner or person in charge of such trailer is a
+bona fide guest of the occupant or owner of such private property.
+      (2)   Notwithstanding any other provision of this section to the
+contrary, in the event that access is unavailable to permit moving recreational
+and camping equipment to the rear of the front building line, or in the event
+that space is not available to permit the storage of such equipment on the rear
+of the front building line, then and only in such events, such equipment may be
+parked on the lot forward of the front building line, provided further however,
+that such equipment shall be parked as close to the front building line as
+possible.
+(Ord. 2025.027, passed 12-29-2025)
+§ 96.07 FOOD TRUCKS.
+   (A)   Definitions.  As used in this section, unless the context otherwise
+indicates.
+      FOOD. A raw, cooked or processed edible substance, ice, beverage, or
+ingredient used or intended for use or for sale in whole or part for human
+consumption.
+      MOBILE FOOD LICENSE. The official document issued by the Clinton County
+Health District or by another jurisdiction's health district with the authority
+to license food service operations.
+      MOBILE FOOD SERVICE OPERATION. A food service operation required to be
+licensed under Ohio Revised Code that is operated from a single movable vehicle
+or portable structure that routinely changes location and remains at said
+location for more than 15 minutes.
+      MOBILE FOOD SERVICE OPERATION PERMIT. The permit issued by the Village of
+Blanchester Administrative Office.
+      SPECIAL EVENT. All "party in the park" events hosted by the Village of
+Blanchester Parks Department, Fourth of July, Memorial Day, and during the
+Blanchester homecoming parade
+      VILLAGE. The Village of Blanchester.
+   (B)   Operation in the right-of-way; public property.
+      (1)   No person shall cause a mobile food service operator to operate on
+any public street or sidewalk within the village while such public street or
+sidewalk is open to normal public use.
+      (2)   No person shall cause a mobile food service operator to operate on
+any public street or sidewalk within the village unless the mobile food service
+operation has an existing agreement to participate in a permitted parade or
+special event pursuant.
+      (3)   No person shall cause a mobile food service operator to operate on
+public property, including public parks, unless the mobile food service
+operation has an existing agreement to participate in a permitted parade or
+special event or has otherwise received written permission from the village.
+   (C)   Mobile food service operation permit.
+      (1)   No person shall cause a mobile food service operator to operate in
+the village unless the operator has received a mobile food service operation
+permit from the village.
+      (2)   An application for a mobile food service permit shall be submitted
+to the Village of Blanchester Administrative Office at 318 E Main SL
+Blanchester, OH 45107 on a form provided on the village website. Applicants
+must provide the following documentation upon submittal of the permit
+application:
+         (a)   A copy of a current mobile food license:
+         (b)   Proof of general liability insurance coverage, including without
+limitation, bodily injury and property damage, in coverage amounts of at least
+$1,000,000 per occurrence, and naming the village of as an additional insured,
+in a form that provides that the insurance coverage shall not be cancelled or
+reduced by the insurance carrier without 30 days prior written notice to the
+village;
+         (c)   The application fee for all mobile food service permits shall be
+a quarterly fee of $100;
+         (d)   Mobile food service operation permits are effective on a
+quarterly basis, shall expire after three months, and are not transferrable;
+         (e)   No person shall cause a mobile food service operator to operate
+on private property unless the operator has complied with the private property
+requirements set forth on the village website; and
+         (f)   No person shall cause a mobile food service operator to operate
+in the village, and the village may revoke the operator's mobile food service
+operation permit if the operator's mobile food license has been suspended,
+canceled, or revoked, of if the operator fails to maintain compliance with all
+regulations imposed by the Ohio Department of Health, the Clinton County Health
+District, or any other local, state, or federal agencies.
+   (D)   General regulations.
+      (1)   No person shall cause a mobile food service operator to:
+         (a)   Sell food items, display food items, or conduct vending
+operations to the occupants of vehicles stopped in traffic;
+         (b)   Display food items or place lines or other devices for the
+display of food items on any building or on any utility pole, planter, tree,
+trash container, or other sidewalk fixture;
+         (c)   Place any food items in or upon any street or sidewalk;
+         (d)   Leave a vending device unattended at any time during hours of
+operation;
+         (e)   Utilize loud speakers or other noise-making devices in such a
+way to create a nuisance; and
+         (f)   Conduct business without making available a container suitable
+for the placement of litter.
+      (2)   All mobile food service operations must:
+         (a)   Conspicuously display evidence of their mobile food service
+operation permit issued pursuant to this section;
+         (b)   Be constructed to internally store and contain all waste water
+and grease for proper disposal, to prevent ground water contamination, and to
+prevent discharge of any waste water or grease onto the ground or into any
+storm water sewer within the village;
+         (c)   Obey any lawful order or a police officer to relocate to avoid
+congestion or obstruction during an emergency;
+         (d)   Comply with all requirements of applicable state and local law,
+including, but not limited to, the State of Ohio fire code, the Ohio Uniform
+Food Safety Code, and the village’s traffic and zoning codes.
+         (e)   Exercise reasonable care to ensure that operations do not create
+a health or safety hazard to customers, other users of the sidewalks and
+streets, or persons on abutting property; and
+         (f)   Operate at all times in accordance with the Ohio Uniform Food
+Safety Code.
+         (g)   Mobile food service operations which are parked and operating on
+private property for a duration lasting longer than ten days require a
+temporary zoning permit. The applicant shall specify in their application the
+duration of the requested permit, not to exceed 30 days. At the expiration of
+the temporary zoning permit, the mobile food service operation must vacate the
+property for no less than ten days prior to applying for another temporary
+zoning permit or operating on the property. A temporary zoning permit shall
+cost $35.
+   (E)   Hours of operation. No mobile food shall be conducted before 8:00 a.m.
+or after 9:00 p.m. Monday through Thursday and Sunday, or before 8:00 a.m. or
+after 11:00 p.m. on Friday and Saturday.
+(Ord. 2025.027, passed 12-29-2025)
 § 96.99 PENALTY.
-   (A)   A violation of §
-96.01 shall be a minor misdemeanor punishable by fine not to exceed $100. Each
-day in violation of §
-96.01 shall constitute a separate offense.
-   (B)   Any person violating §
-96.03 shall be fined not more than $50 for each offense.
-   (C)   The penalty for violation of §
+   (A)   The penalty for violation of §
 96.04 shall be considered a minor misdemeanor with a fine of not more than
 $100.
-   (D)   Any person violating the provisions of §
+   (B)   Any person violating the provisions of §
 96.05 shall, within 30 days of notification from the Mayor or Clerk, including
 the Chief of Police or other police officers, be in violation of §
 96.05 and found guilty of a minor misdemeanor, and upon conviction be fined not
 to exceed $50 for any subsequent offense. Any violation shall constitute a
 separate offense for each successive day continued.
-(Ord. 94.009, passed 5-12-1994; Ord. 2015.018, passed 8-13-2015; Ord. 2015.027,
-passed 2-11-2016; Ord. 2020.032, passed 12-30-2020)
+(Ord. 94.009, passed 5-12-1994; Ord. 2015.018, passed 8-13-2015)
 Statutory reference:
    Purposes of misdemeanor sentencing, see R.C. § 2929.21
 TITLE XI: BUSINESS REGULATIONS
@@ -32894,21 +33114,21 @@ the application submitted has been duly approved by the Code Enforcement
 Officer.
 (Ord. 91.017, passed 11-14-1991)
 § 150.03 AWNINGS OR OVERHANGS.
-   (A)   The Code Enforcement Officer, previously identified as its Zoning
-Inspector, shall be responsible for inspecting any awnings or overhangs of any
-building within the village to ensure its safety and secureness.
-   (B)   The Code Enforcement Officer shall have the authority to obtain
-structural assessments and other professional opinions to determine the safety
-of any awning or overhang.
-   (C)   Once the Code Enforcement Officer makes a determination that an
-overhang or awning is structurally unsafe and in need of removal or repair, the
-Code Enforcement Officer shall, at least 30 days prior to the removal or repair
-of any insecure, unsafe, or structurally defective awning or overhang, the
-municipal corporation, or its agent pursuant to an agreement entered into under
-R.C. § 715.261(E), shall give notice by certified mail of its intention with
-respect to such removal or repair to the holders of legal or equitable liens of
-record upon the real property on which such building is located and to owners
-of record of such property.
+   (A)   The Village Code Enforcement Officer shall be responsible for
+inspecting any awnings or overhangs of any building within the village to
+ensure its safety and secureness.
+   (B)   The Village Code Enforcement Officer shall have the authority to
+obtain structural assessments and other professional opinions to determine the
+safety of any awning or overhang.
+   (C)   Once the Village Code Enforcement Officer makes a determination that
+an overhang or awning is structurally unsafe and in need of removal or repair,
+the Village Code Enforcement Officer shall, at least 30 days prior to the
+removal or repair of any insecure, unsafe, or structurally defective awning or
+overhang, the municipal corporation, or its agent pursuant to an agreement
+entered into under R.C. § 715.261(E), shall give notice by certified mail of
+its intention with respect to such removal or repair to the holders of legal or
+equitable liens of record upon the real property on which such building is
+located and to owners of record of such property.
    (D)   The owners of record of such property or the holders of liens of
 record upon such property may enter into an agreement with the village, to
 perform the removal or repair of the insecure, unsafe, or structurally
@@ -32925,18 +33145,18 @@ the date the village incurred expenses in such removal or repair.
    (G)   Any person in receipt of notice of a violation of this section shall
 have 30 days to reach an agreement with the village regarding the removal or
 repair of such awning or overhang, except in an emergency situation as
-contemplated by division (E) of this section.
+contemplated by division (E) herein above.
    (H)   If an agreement is reached and the owner fixes or removes the
 dangerous awning or overhang within 30 days of receiving a non-emergency
-citation under this section, then no further action shall be taken against that
+citation under this section then no further action shall be taken against that
 person and no fine shall be levied.
-   (I)   In any other situation, whether it is by emergency or by the owner’s
+   (I)   In any other situation, whether it is by emergency or by the owner's
 refusal to correct the dangerous situation by removal or repair, then the
 village shall cause such removal or repair to be done and the owner shall then
 owe the village the costs of such endeavor, which shall be collected within 30
-days of said repair or removal. If said costs are paid within time, no further
-action shall be taken against that person and no fine shall be levied.
-(Ord. 2021.041, passed 12-9-2021)
+days of said repair or removal. If said costs are paid within the time no
+further action shall be taken against that person and no fine shall be levied.
+(Ord. 2021.041, passed 12-9-2021; Ord. 2025.027, passed 12-29-2025)
 § 150.04 CERTIFICATE OF OCCUPANCY.
    (A)   No land shall be occupied or used and no building hereafter erected,
 reconstructed, or structurally altered shall be occupied or used, in whole or
@@ -39159,6 +39379,7 @@ Res. 2011.039 9-22-2011   Rezoning parcels 220-005873-0 and 220-006379-6 to an
 Ord. 2024.011 9-12-2024   220071005000000, 22071001002000, 220071001001900, and
                           220071004000000 from B-4 to B-1
 Ord. 2024.021 12-30-2024  Rezoning parcel 220081106000000 from I-1 to B-1
+Ord. 2025.028 12-29-2025  Rezoning parcel 220081503000000 from B-1 to B-5
                          
  
 PARALLEL REFERENCES
@@ -40060,6 +40281,7 @@ Res. No. Date Passed Code Section
 2025.007 4-10-2025   34.63
 2025.009 5-22-2025   34.64
 2025.012 7-10-2025   T.S.O. II
+2025.025 12-11-2025  35.11
                     
  
 REFERENCES TO ORDINANCES
@@ -40137,8 +40359,6 @@ Ord. No. Date Passed Code Section
 94.026   12-8-1994   T.S.O. I
 94.030   12-8-1994   51.03;
                      51.99
-95.016   12-14-1995  90.01;
-                     90.99
 96.001   2-22-1996   T.S.O. VII
 96.003   3-14-1996   111.01
 98.004   - -1998     150.05
@@ -40213,7 +40433,6 @@ Ord. No. Date Passed Code Section
 2010.025 7-22-2010   52.03
 2011.010 3-10-2011   Ch. 78, Sch. I
 2011.017 4-14-2011   T.S.O. II
-2011.020 5-26-2011   93.01
 2011.019 6-9-2011    Ch. 77, Sch. I
 2011.023 6-22-2011   52.02
 2011.033 8-11-2011   154.057
@@ -40228,17 +40447,10 @@ Ord. No. Date Passed Code Section
                      96.99
 2015.026 11-12-2015  33.03
 --       2-1-2016    51.01
-2015.027 2-11-2016   96.01;
-                     96.99
 2016.009 5-12-2016   Ch. 77, Sch. II
 2016.010 5-12-2016   32.03
-                     93.15 —
-2016.016 8-11-2016   93.17;
-                     93.99
 2016.020 11-10-2016  154.182
 2016.026 11-10-2016  33.02
-2017.022 5-25-2017   93.02;
-                     93.99
 2017.040 12-21-2017  T.S.O. VI
 2018.005 2-22-2018   T.S.O. VI
 2018.020 5-10-2018   50.02
@@ -40259,8 +40471,6 @@ Ord. No. Date Passed Code Section
                      95.99
 2020.002 6-11-2020   T.S.O. VI
 2020.004 9-24-2020   53.02
-2020.032 12-30-2020  96.03;
-                     96.99
 2021.013 6-10-2021   32.04
                      151.001 —
                      151.010;
@@ -40311,8 +40521,8 @@ Ord. No. Date Passed Code Section
 2024.013 9-26-2024   32.04
 2024.018 10-10-2024  132.16
 2024.021 12-30-2024  T.S.O. VII
-                     154.090,
-2024.022 12-30-2024  154.136,
+                     154.090;
+2024.022 12-30-2024  154.136;
                      154.182
 2024.024 12-30-2024  33.01
 2025.002 1-23-2025   Adopting Ordinance
@@ -40321,6 +40531,17 @@ Ord. No. Date Passed Code Section
 2025.013 7-10-2025   T.S.O. II
 2025.021 9-11-2025   T.S.O. II
 2025.022 10-9-2025   30.01
+                     90.01;
+                     93.01;
+                     93.02;
+                     93.15—
+2025.027 12-29-2025  93.17;
+                     96.01;
+                     96.03;
+                     96.06;
+                     96.07;
+                     150.03
+2025.028 12-29-2025  T.S.O. VII
                     
  
  
