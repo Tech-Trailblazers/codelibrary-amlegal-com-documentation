@@ -365,6 +365,17 @@ Aug-25    Ch. 165-169 & 180         2024-09  10-22-24 Zoning Regulations
          41.10                     2025-14  6-24-25  Fireworks
          165.09(4), Table 168.06,  2025-15  6-24-25  Zoning Regulations
           168.07(1-86), 169.05(2A)
+Jan-26    Ch. 10                    2025-16  8-12-25  Urban Renewal Area
+         62.07(2)                  2025-17  8-26-25  Special Speed Zones
+         Ch. 165                   2025-18  9-23-25  Zoning Map
+         Ch. 165                   2025-19  9-23-25  Zoning Map
+          15.02(1),15.03, 15.04,
+         17.06, Ch. 19, 21.01,     2025-20  10-28-25 City Officials
+          21.03, 30.06
+         Ch. 165                   2025-21  11-25-25 Zoning Map
+         Ch. 165                   2025-22  12-9-25  Zoning Map
+         Table 67.02 & 62.08       2025-23  12-9-25  Special Speed Zones
+         Ch. 160                   2025-24  12-9-25  Floodplain Management
                                                    
 GENERAL CODE PROVISIONS
 TABLE OF CONTENTS
@@ -1649,6 +1660,8 @@ ORDINANCE NO. ADOPTED           NAME OF AREA
                                 Urban Renewal Area
 2020-01       4-28-20           March, 2020 Addition to the North Liberty Urban
                                 Renewal Area
+2025-16       8-12-25           July, 2025 Addition to the North Liberty Urban
+                                Renewal Area
                                
  
 CHAPTER 11
@@ -1679,13 +1692,13 @@ MAYOR
 15.02 POWERS AND DUTIES.
    The powers and duties of the Mayor are as follows:
    1.   Chief Executive Officer. Act as the chief executive officer of the City
-and presiding officer of the Council, supervise the City Administrator, and
-have the authority to examine all functions of the municipal departments,
-including their records, and to call for special reports from department heads
-at any time.
-(Code of Iowa, Sec. 372.14[1])
+and presiding officer of the Council, and have the authority to examine all
+functions of the municipal departments, including their records, and to call
+for special reports from the City Administrator and department heads at any
+time.
+(Ord. 2025-20 – Jan. 26 Supp.)
    2.   Reports to Council. Make such oral or written reports to the Council as
-required or deemed important.. These reports shall concern municipal affairs
+required or deemed important.. These reports shall concen municipal affairs
 generally, the municipal departments, and recommendations suitable for Council
 action.
    3.   Proclamation of Emergency. Have authority to take command of the police
@@ -1717,18 +1730,17 @@ days or more.
    The Mayor shall appoint the Mayor Pro Tem, and the Mayor also appoints, with
 Council approval, the following officials:
 (Code of Iowa, Sec. 372.4)
-   1.   Police Chief
-   2.   Library Board of Trustees
-   3.   Parks and Recreation Commission
-   4.   Tree and Storm Water Advisory Board
-   5.   Telecommunications Commission
-   6.   Cemetery Board (City members)
-   7.   Planning and Zoning Commission
-   8.   Zoning Board of Adjustment
+   1.   Library Board of Trustees
+   2.   Parks and Recreation Commission
+   3.   Tree and Storm Water Advisory Board
+   4.   Cemetery Board (City members)
+   5.   Planning and Zoning Commission
+   6.   Zoning Board of Adjustment
+(Ord. 2025-20 – Jan. 26 Supp.)
 15.04 COMPENSATION.
-   The salary of the Mayor is $5,000.00 per year, payable in equal monthly
-installments.
+   The salary of the Mayor is $12,000.00 per year.
 (Code of Iowa, Sec. 372.13[8])
+(Ord. 2025-20 – Jan. 26 Supp.)
 15.05 VOTING.
    The Mayor is not a member of the Council and shall not vote as a member of
 the Council.
@@ -1880,9 +1892,9 @@ powers, duties, compensation, and term of office:
    3.   City Administrator
    4.   City Treasurer
 17.06 COMPENSATION.
-   The salary of each Council member is $50.00 for each meeting of the Council
-attended, payable annually.
+   The salary of each Council member is $5,000.00 per year.
 (Code of Iowa, Sec. 372.13[8])
+(Ord. 2025-20 – Jan. 26 Supp.)
 CHAPTER 18
 CITY CLERK
  
@@ -2013,18 +2025,34 @@ payments of interest and principal.
 CHAPTER 19
 CITY TREASURER
  
-19.01 Appointment  19.03 Duties of Treasurer
-19.02 Compensation  
+19.01 Finance Coordinator as Treasurer 19.02 Duties of the Treasurer
  
-19.01 APPOINTMENT.
-   The Council shall appoint by majority vote a City Treasurer to serve at the
-discretion of the Council.
-19.02 COMPENSATION.
-   The Treasurer is paid such compensation as specified by resolution of the
-Council.
-19.03 DUTIES OF TREASURER.
-   The Treasurer shall perform such duties as specified by the Council.
-(Code of Iowa, Sec. 372.13[4])
+19.01 FINANCE COORDINATOR AS TREASURER.
+   The Finance Coordinator is the Treasurer and performs all duties required of
+the Treasurer.
+19.02 DUTIES OF THE TREASURER.
+   The duties of the Treasurer include the following:
+   1.   Custody of Funds. Ensuring the safe custody of all funds of the City in
+the manner provided by law, and Council direction.
+   2.   Record of Funds. Maintaining an accurate record of each separate fund.
+   3.   Record Receipts. Keeping an accurate record of all money or securities
+received by the Treasurer on behalf of the City and specifying the date, from
+whom, and for what purpose the money or securities were received.
+   4.   Record Disbursements. Keeping an accurate account of all disbursements,
+money or property, specifying date, to whom, and from what fund each were paid.
+   5.   Special Assessments. Keeping a separate account of all money received
+by the Treasurer from special assessments.
+   6.   Deposit Funds. Upon receipt of moneys to be held in the Treasurer’s
+custody and belonging to the City, depositing the same in those depositories
+selected by the Council.
+   7.   Reconciliation. Reconciling depository statements with the Treasurer’s
+books and certifying monthly to the Council the balance of cash and investments
+of each fund and amounts received and disbursed.
+   8.   Debt Service. Keeping a register of all bonds outstanding and recording
+all payments of interest and principal.
+   9.   Other Duties. Performing such other duties as specified by the City
+Administrator, Clerk and Council.
+(Ord. 2025-20 – Jan. 26 Supp.)
 CHAPTER 20
 CITY ATTORNEY
  
@@ -2082,37 +2110,36 @@ CITY ADMINISTRATOR
    By virtue of the authority conferred by Chapter 372, Code of Iowa, the
 office of the City Administrator for the City of North Liberty is hereby
 established. The City Administrator shall be appointed by the Council pursuant
-to an employment agreement and shall serve at its direction and that of the
-Mayor, until resignation of that person or until that person's removal by the
-Council in accordance with the terms of the employment agreement. The
-appointment of the City Administrator shall be made on the basis of that
-individual's qualifications and not on a basis of political affiliation.
-(Ord. 2016-16 - May 17 Supp.)
+to an employment agreement and shall serve at its direction, until resignation
+of that person or until that person's removal by the Council in accordance with
+the terms of the employment agreement. The appointment of the City
+Administrator shall be made on the basis of that individual's qualifications
+and not on a basis of political affiliation.
+(Ord. 2025-20 – Jan. 26 Supp.)
 21.02 COMPENSATION.
    The compensation for the City Administrator, including expenses, shall be
 fixed by resolution of the Council.
 21.03 DUTIES.
    1.   The City Administrator is the chief operating officer of the City and
-is responsible to the Council and the Mayor for the administration of all City
-affairs placed in the City Administrator's charge by or under the Iowa Code,
-this Code of Ordinances or the Council. The City Administrator shall perform
-such duties as are required by law and shall have authority to establish and
-direct an organizational structure and issue administrative policies for
-internal operations necessary to carry out the policies of the City Council in
-accordance with and within the scope of the annual budget. More specifically,
-the duties of the City Administrator are as follows:
+is responsible for the administration of all City affairs placed in the City
+Administrator's charge by or under the Iowa Code, this Code of Ordinances or
+the Council. The City Administrator shall perform such duties as are required
+by law and shall have authority to establish and direct an organizational
+structure and issue administrative policies for internal operations necessary
+to carry out the policies of the City Council in accordance with and within the
+scope of the annual budget. More specifically, the duties of the City
+Administrator are as follows:
       A.   To have general supervision and direction of the administration of
 the City government.
       B.   To supervise City staff in the enforcement and execution of this
 Code of Ordinances, policies, and Council directives.
       C.   To attend all meetings of the Council unless excused therefrom by
 the Council or the Mayor.
-      D.   To be directly responsible to the Mayor and the Council for the
-administration of municipal affairs as directed by that body. All City
-departmental administration requiring the attention of the Council shall be
-brought before the Council by the City Administrator. Council involvement in
-administration initiated by the Council must be coordinated through the City
-Administrator.
+      D.   To be directly responsible to the Council for the administration of
+municipal affairs as directed by that body. All City departmental
+administration requiring the attention of the Council shall be brought before
+the Council by the City Administrator. Council involvement in administration
+initiated by the Council must be coordinated through the City Administrator.
       E.   To supervise and direct the official conduct of all non-elected
 officers, departments, and employees of the City.
       F.   To hire such employees of the City for which the Council has
@@ -2120,11 +2147,12 @@ approved the position generally and to discharge employees found incompetent or
 derelict in their duties. Employment and discharge at department head level,
 unless otherwise specifically provided for by ordinance, shall be subject to
 approval upon the Council. The power to hire and discharge shall not apply to
-the Police Chief, Assistant City Administrator, City Clerk, City Attorney, and
-City Treasurer, but the City Administrator shall report to and advise the
-Council and Mayor on the performance of the individuals filling those positions
-suggesting recommendations with regard to their employment, all subject to
-grievance procedures of this Code.
+the , City Clerk or City Attorney, but the City Administrator shall report to
+and advise the Council and Mayor on the performance of the individuals filling
+those positions suggesting recommendations with regard to their employment, all
+subject to grievance procedures of this Code. The City Administrator may
+delegate the power to hire and discharge employees to subordinate department
+heads to the extent the City Administrator deems appropriate.
       G.   Upon order of the Council, to obtain for the City such specialized
 and professional services deemed necessary by the Council and not already
 available to the City.
@@ -2168,9 +2196,8 @@ capital outlay, and services for all departments of the City that have been
 budgeted and appropriated by resolution of the Council and to enforce a program
 to determine that such purchases are received and are of the quality and
 character called for in the appropriate purchase order.
-      S.   To assist the Council and the Planning and Zoning Commission in the
-carrying out of the comprehensive plan and to assist in all other forms of
-planning with the City government.
+      S.   To assist the Council in the carrying out of the comprehensive plan
+and to assist in all other forms of planning with the City government.
       T.   To furnish the goals, as established by the Mayor and the Council
 and the plans therefor, to citizens, businesses, community organizations and
 boards and other interested parties, and to coordinate actions of the City with
@@ -2190,9 +2217,9 @@ of improving municipal operations, including the adoption of programs that
 would be beneficial to the City and to keep the Mayor and the Council advised
 of any new developments which would be beneficial to the City or of some
 detriment to the City.
-   4.   The City Administrator shall perform such other duties as the Mayor and
-the Council may direct.
-(Ord. 2016-16 - May 17 Supp.)
+   4.   The City Administrator shall perform such other duties as the Council
+may direct.
+(Ord. 2025-20 – Jan. 26 Supp.)
 CHAPTER 22
 PUBLIC LIBRARY
  
@@ -2570,15 +2597,14 @@ law.
    Members of the department are designated by rank and receive such
 compensation as shall be determined by resolution of the Council.
 30.06 PEACE OFFICERS APPOINTED AND HIRED.
-   The Mayor shall appoint and has the authority to dismiss the Police Chief,
-subject to the consent of a majority of the Council. The Police Chief shall
-select and has the authority to remove, subject to the approval of the City
-Administrator, the other members of the department. Removal of any members of
-the department that are included in a collective bargaining agreement is
-further subject to any applicable terms and limitations set forth in the
-agreement.
-(Code of Iowa, Sec. 372.4)
-(Ord. 2018-02 - May 18 Supp.)
+   The City Administrator shall appoint and has the authority to dismiss the
+Police Chief, subject to the consent of a majority of the Council. The Police
+Chief shall select and has the authority to remove, subject to the approval of
+the City Administrator, the other members of the department. Removal of any
+members of the department that are included in a collective bargaining
+agreement is further subject to any applicable terms and limitations set forth
+in the agreement.
+(Ord. 2025-20 – Jan. 26 Supp.)
 30.07 POLICE CHIEF: DUTIES.
    As a department head of the City, the Police Chief reports directly to and
 is supervised by the City Administrator. In addition, the Police Chief has the
@@ -6335,17 +6361,11 @@ intersection with Highway 965
 Dubuque Street starting at a point 1,000 feet Southeast of its
 intersection with Juniper Street, and continuing Southeast and East 35 Mph
 to City Limits
-North Liberty Road starting at a point 115' North of its            35 Mph
-intersection with Salm Drive, and continuing South to City Limits
-North Liberty Road starting at a point 115' North of its
-intersection with Salm Drive, and continuing North and West to a    45 Mph
-point on Penn Street, 1,450' East of Penn Street's intersection
-with Juniper Street
-Scales Bend Road starting at its intersection with Highway 965 and
-continuing North to a point 65' North of its intersection with Fox  35 Mph
-Run
-Scales Bend Road starting at a point 65' North of its intersection  40 Mph
-with Fox Run, and continuing North to City Limits
+North Liberty Road starting at a point 350' East of its
+intersection with Juniper Street, and continuing East and South to  35 Mph
+City Limits
+Scales Bend Road starting at its intersection with Highway 965 and  35 Mph
+continuing North to City Limits
 240th Street between its intersections with Highway 965 and Goose   35 Mph
 Lake Circle
 Alexander Way between its intersections with 240th Street and Penn  35 Mph
@@ -6377,53 +6397,54 @@ Sara Court
 Highway 965 starting at a point 590' North of its intersection with 45 Mph
 Sara Court, and continuing South to City Limits
  
+(Ord. 2025-23 – Jan. 26 Supp.)
    3.   Special speed zones within the City governing speed limits on public
 roads adjacent to schools, and which are not otherwise governed by the
 provisions of Chapter 62.05 of this code, are hereby established as set forth
 below in Table 62.08.
 Table 62.08 - Special Speed Zones for Schools
-Special Speed Zone Location                                         Speed Limit
-South Front Street between its intersection with Forevergreen Road  20 Mph
-and a point 150' South of its intersection with Vandello Drive
-South Front Street between a point 120' North of its intersection
-with Nicholas Lane and a point 150' South of its intersection with  20 Mph
-Vandello Drive
-Vandello Drive between its intersection with South Front Street and 20 Mph
-a point 150' West of its intersection with South Front Street
-Windsor Road between its intersection with South Front Street and a 20 Mph
-point 130' East of its intersection with South Front Street
-South Front Street between its intersection with Zeller Street and  20 Mph
-a point 250' South of its intersection with Hackberry Street
-Hackberry Street between its intersection with Front Street and a   20 Mph
-point 200' East of its intersection with South Front Street
-Birch Court between its intersection with South Front Street and a  20 Mph
-point 160' East of its intersection with South Front Street
-Birch Street between its intersection with Autumn Court and its     20 Mph
-intersection with South Front Street
-South Stewart Street between a point 120' South of its easterly     20 Mph
-intersection with Birch Street and said intersection
-East Hickory Street between its intersection with South Front
-Street and a point 175' East of its intersection with South Front   20 Mph
-Street
-North Front Street between a point 350' South of its intersection
-with Centro Way and a point 250' North of its intersection with     20 Mph
-Centro Way
-Centro Way between its intersection with North Front Street and a
-point 585' North and East of its intersection with North Dubuque    20 Mph
-Street
-North Dubuque Street between its intersections with North Front     20 Mph
-Street and Dickinson Drive
-South Kansas Avenue between a point 130' North of its intersection
-with Denison Avenue and a point 540' North of its intersection with 20 Mph
-Saint Andrews Drive
-Saint Andrews Drive between its intersection with South Kansas
-Avenue and a point 300' East of its intersection with Brook Ridge   20 Mph
-Avenue
-Brook Ridge Avenue between its intersection with Saint Andrews
-Drive and a point 140' South of its intersection with Saint Andrews 20 Mph
+Special Speed Zone Location                                              Speed
+                                                                         Limit
+South Front Street between its intersection with Forevergreen Road and a 20 Mph
+point 150' South of its intersection with Vandello Drive
+South Front Street between a point 120' North of its intersection with
+Nicholas Lane and a point 150' South of its intersection with Vandello   20 Mph
 Drive
+Vandello Drive between its intersection with South Front Street and a    20 Mph
+point 150' West of its intersection with South Front Street
+Windsor Road between its intersection with South Front Street and a      20 Mph
+point 130' East of its intersection with South Front Street
+South Front Street between its intersection with Zeller Street and a     20 Mph
+point 250' South of its intersection with Hackberry Street
+Hackberry Street between its intersection with Front Street and a point  20 Mph
+200' East of its intersection with South Front Street
+Hackberry Street between its intersection with the easternmost           20 Mph
+intersection of Bayberry Lane and its eastern terminus
+Juniper Court between its south terminus and a point 130’ north of its 20 Mph
+intersection with Hackberry Street
+Birch Court between its intersection with South Front Street and a point 20 Mph
+160' East of its intersection with South Front Street
+Birch Street between its intersection with Autumn Court and its          20 Mph
+intersection with South Front Street
+South Stewart Street between a point 120' South of its easterly          20 Mph
+intersection with Birch Street and said intersection
+East Hickory Street between its intersection with South Front Street and 20 Mph
+a point 175' East of its intersection with South Front Street
+North Front Street between a point 350' South of its intersection with   20 Mph
+Centro Way and a point 250' North of its intersection with Centro Way
+Centro Way between its intersection with North Front Street and a point  20 Mph
+585' North and East of its intersection with North Dubuque Street
+North Dubuque Street between its intersections with North Front Street   20 Mph
+and Dickinson Drive
+South Kansas Avenue between a point 130' North of its intersection with
+Denison Avenue and a point 540' North of its intersection with Saint     20 Mph
+Andrews Drive
+Saint Andrews Drive between its intersection with South Kansas Avenue    20 Mph
+and a point 300' East of its intersection with Brook Ridge Avenue
+Brook Ridge Avenue between its intersection with Saint Andrews Drive and 20 Mph
+a point 140' South of its intersection with Saint Andrews Drive
  
-(Ord. 2024-01 - Jul. 24 Supp.)
+(Ord. 2025-23 – Jan. 26 Supp.)
 62.08 U-TURNS.
    It is unlawful for a driver to make a U-turn except at an intersection;
 however, U-turns are prohibited within the business district, at intersections
@@ -9208,7 +9229,7 @@ are based on the nature of the premises served, as determined by the
 allocations set forth below on Table 100.03-1. Dwelling types listed in Table
 100.03-1 share the same definitions established for each under Chapter
 168.07 of this Code of Ordinances.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2880.png]
       B.   Nonresidential users. Nonresidential fees are determined by the
 actual impervious area of the premises served. Each nonresidential user is
@@ -9216,7 +9237,7 @@ charged at the base rate of one ERU for each parcel containing up to one ERU of
 impervious area, plus an additional fee for each subsequent ERU of impervious
 area beyond the first on each such parcel, as set forth below in Table 100.03-
 2.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2882.png]
    5.   Billing for Storm Water Utility Fees. All storm water utility fees are
 due and payable under the same terms and conditions provided for payment of a
@@ -17372,6 +17393,796 @@ unit constructed under the International Residential Code.
 permits and other services related to enforcement of this Code shall be
 established by the City Council by resolution and paid to the Fire Department.
 (Ch. 158 - Ord. 2019-09 - Aug. 19 Supp.)
+CHAPTER 160
+FLOODPLAIN MANAGEMENT
+ 
+160.01 Purpose                             160.06 General Floodplain Standards
+160.02 Statutory Authority and Findings of 160.07 Establishment of Variance
+Fact                                       Procedures
+160.03 Definitions                         160.08 Nonconforming Uses
+160.04 General Provisions                  160.09 Penalties for Violation
+160.05 Administration                      160.10 Amendments
+ 
+160.01 PURPOSE.
+   It is the purpose of this chapter to:
+   1.   Protect and preserve the rights, privileges and property within the
+City of North Liberty and to preserve and improve the peace, safety, health,
+welfare, and comfort and convenience of its residents by minimizing flood
+losses, and
+   2.   Reserve sufficient floodplain area for the conveyance of flood flows so
+that flood heights and velocities will not be increased substantially, and
+   3.   Restrict or prohibit uses which are dangerous to health, safety or
+property in times of flood or which cause excessive increases in flood heights
+or velocities, and
+   4.   Require that uses vulnerable to floods, including public facilities
+which serve such uses, be protected against flood damage at the time of initial
+construction or substantial improvement, and
+   5.   Protect individuals from buying lands which may not be suited for
+intended purposes because of flood hazard, and
+   6.   Assure that eligibility is maintained for property owners in the
+community to purchase flood insurance through the National Flood Insurance
+Program.
+160.02 STATUTORY AUTHORITY AND FINDINGS OF FACT.
+   1.   The Legislature of the State of Iowa has in Chapter 364, Code of Iowa,
+as amended, delegated the power to cities to exercise any power and perform any
+function it deems appropriate to protect and preserve the rights, privileges
+and property of the City or of its residents, and to preserve and improve the
+peace, safety, health, welfare, comfort and convenience of its residents.
+   2.   Findings of Fact.
+      A.   The flood hazard areas of the City of North Liberty are subject to
+periodic inundation which can result in loss of life and property, health and
+safety hazards, disruption of commerce and governmental services, extraordinary
+public expenditures for flood protection and relief, and impairment of the tax
+base all of which adversely affect the public health, safety and general
+welfare of the community.
+      B.   These flood losses, hazards, and related adverse effects are caused
+by: (i) The occupancy of flood hazard areas by uses vulnerable to flood damages
+which create hazardous conditions as a result of being inadequately elevated or
+otherwise protected from flooding and (ii) the cumulative effect of
+obstructions on the floodplain causing increases in flood heights and
+velocities.
+      C.   This chapter relies upon engineering methodology for analyzing flood
+hazards which is consistent with the standards established by the Iowa
+Department of Natural Resources.
+160.03 DEFINITIONS.
+   Unless specifically defined below, words or phrases used in this chapter
+shall be interpreted so as to give them the meaning they have in common usage
+and to give this chapter its most reasonable application.
+   1.   “Appurtenant structure” means a structure which is on the same parcel
+of the property as the principal structure to be insured and the use of which
+is incidental to the use of the principal structure.
+   2.   “Base flood” means the flood having one (1) percent chance of being
+equaled or exceeded in any given year
+   3.   “Base flood elevation” (BFE) means the elevation floodwaters would
+reach at a particular site during the occurrence of a base flood event.
+   4.   “Basement” means any enclosed area of a building which has its floor or
+lowest level below ground level (subgrade) on all sides. Also see “lowest
+floor.”
+   5.   “Development” means any man-made change to improved or unimproved real
+estate, including but not limited to buildings or other structures, mining,
+dredging, filling, grading, paving, excavation, drilling operations or storage
+of equipment or materials. “Development” does not include “minor projects” or
+“routine maintenance of existing buildings and facilities” as defined in this
+section. It also does not include gardening, plowing, and similar practices
+that do not involve filling or grading.
+   6.   “Enclosed area below lowest floor” means the floor of the lowest
+enclosed area in a building when all the following criteria are met:
+      A.   The enclosed area is designed to flood to equalize hydrostatic
+pressure during flood events with walls or openings that satisfy the provisions
+of Section 160.06(1)(F)(1) of this chapter, and
+      B.   The enclosed area is unfinished (not carpeted, drywalled, etc.) and
+used solely for low damage potential uses such as building access, parking or
+storage, and
+       C.   Machinery and service facilities (e.g., hot water heater, furnace,
+electrical service) contained in the enclosed area are located at least one (1)
+foot above the base flood elevation, and
+      D.   The enclosed area is not a “basement” as defined in this section.
+   7.   “Existing construction” means any structure for which the “start of
+construction” commenced before the effective date of the first floodplain
+management regulations adopted by the community.
+   8.   “Existing factory-built home park or subdivision” means a factory-built
+home park or subdivision for which the construction of facilities for servicing
+the lots on which the factory-built homes are to be affixed (including at a
+minimum, the installation of utilities, the construction of streets, and either
+final site grading or the pouring of concrete pads) is completed before the
+effective date of the first floodplain management regulations adopted by the
+community.
+   9.   “Expansion of existing factory-built home park or subdivision” means
+the preparation of additional sites by the construction of facilities for
+servicing the lots on which the factory-built homes are to be affixed
+(including at a minimum, the installation of utilities, the construction of
+streets, and either final site grading or the pouring of concrete pads).
+   10.   “Factory-built home” means any structure, designed for residential use
+which is wholly or in substantial part, made, fabricated, formed or assembled
+in manufacturing facilities for installation or assembly and installation, on a
+building site. For the purpose of this Ordinance factory-built homes include
+mobile homes, manufactured homes, and modular homes; and also include
+“recreational vehicles” which are placed on a site for greater than 180
+consecutive days and not fully licensed for and ready for highway use.
+   11.   “Factory-built home park or subdivision” means a parcel or contiguous
+parcels of land divided into two or more factory-built home lots for sale or
+lease.
+   12.   “500-year flood” means a flood, the magnitude of which has a two-
+tenths (0.2) percent chance of being equaled or exceeded in any given year or
+which, on average, will be equaled or exceeded at least once every five hundred
+(500) years.
+   13.   “Flood” means a general and temporary condition of partial or complete
+inundation of normally dry land areas resulting from the overflow of streams or
+rivers or from the unusual and rapid runoff of surface waters from any source.
+   14.   “Flood insurance rate map” (FIRM) means the official map prepared as
+part of (but published separately from) the Flood Insurance Study which
+delineates both the flood hazard areas and the risk premium zones applicable to
+the community.
+   15.   “Flood insurance study” (FIS) means a report published by FEMA for a
+community issued along with the community’s Flood Insurance Rate Map(s). The
+study contains such background data as the base flood discharge and water
+surface elevations that were used to prepare the FIRM.
+   16.   “Floodplain” means any land area susceptible to being inundated by
+water as a result of a flood.
+   17.   “Floodplain management” means an overall program of corrective and
+preventive measures for reducing flood damages and promoting the wise use of
+floodplains, including but not limited to emergency preparedness plans, flood
+control works, floodproofing and floodplain management regulations.
+   18.   “Floodproofing” means any combination of structural and nonstructural
+additions, changes, or adjustments to structures, including utility and
+sanitary facilities, which will reduce or eliminate flood damage to such
+structures.
+   19.   “Floodway” means the channel of a river or stream and those portions
+of the floodplains adjoining the channel, which are reasonably required to
+carry and discharge flood waters or flood flows so that confinement of flood
+flows to the floodway area will not cumulatively increase the water surface
+elevation of the base flood by more than one (1) foot.
+   20.   “Floodway fringe” means those portions of the Special Flood Hazard
+Area outside the floodway.
+   21.   “Highest adjacent grade” means the highest natural elevation of the
+ground surface prior to construction next to the proposed walls of a structure.
+   22.   “Historic structure” means any structure that is:
+      A.   Listed individually in the National Register of Historic Places,
+maintained by the Department of Interior, or preliminarily determined by the
+Secretary of the Interior as meeting the requirements for individual listing of
+the National Register, or
+      B.   Certified or preliminarily determined by the Secretary of the
+Interior as contributing to the historical significance of a registered
+historic district or a district preliminarily determined by the Secretary to
+qualify as a registered historic district, or
+      C.   Individually listed on a state inventory of historic places in
+states with historic preservation programs which have been approved by the
+Secretary of the Interior, or
+      D.   Individually listed on a local inventory of historic places in
+communities with historic preservation programs that have been certified by
+either i) an approved state program as determined by the Secretary of the
+Interior or ii) directly by the Secretary of the Interior in states without
+approved programs.
+   23.   “Lowest floor” floor of the lowest enclosed area in a building
+including a basement except when the criteria listed in the definition of
+Enclosed Area below Lowest Floor are met.
+   24.   “Maximum damage potential development” means hospitals and like
+institutions; buildings or building complexes containing documents, data, or
+instruments of great public value; buildings or building complexes containing
+materials dangerous to the public or fuel storage facilities; power
+installations needed in emergency or other buildings or building complexes
+similar in nature or use.
+   25.   “Minor projects” means minor development activities (except for
+filling, grading and excavating) valued at less than $500.
+   26.   New construction” (new buildings, factory-built home parks) means
+those structures or development for which the start of construction commenced
+on or after the effective date of the first floodplain management regulations
+adopted by the community.
+   27.   “New factory-built home park or subdivision” means a factory-built
+home park or subdivision for which the construction of facilities for servicing
+the lots on which the factory-built homes are to be affixed (including at a
+minimum, the installation of utilities, the construction of streets, and either
+final site grading or the pouring of concrete pads) is completed on or after
+the effective date of the first floodplain management regulations adopted by
+the community.
+   28.   “Recreational vehicle” means a vehicle which is:
+      A.   Built on a single chassis;
+      B.   Four hundred (400) square feet or less when measured at the largest
+horizontal projection;
+      C.   Designed to be self-propelled or permanently towable by a light duty
+truck; and
+      D.   Designed primarily not for use as a permanent dwelling but as a
+temporary living quarters for recreational, camping, travel, or seasonal use.
+   29.   “Repetitive Loss” means a structure covered by an NFIP flood insurance
+policy that has incurred flood-related damages on two occasions during a 10-
+year period on the date of the event for which a second claim is made, in which
+the cost of repairing the flood damage, on average, equaled or exceed 25% of
+the market value of the structure at the time of each such flood event.
+   30.   “Routine maintenance of existing buildings and facilities” means
+repairs necessary to keep a structure in a safe and habitable condition that do
+not trigger a building permit, provided they are not associated with a general
+improvement of the structure or repair of a damaged structure. Such repairs
+include, but are not limited to:
+      A.   Normal maintenance of structures such as re-roofing, replacing
+roofing tiles and replacing siding;
+      B.   Exterior and interior painting, papering, tiling, carpeting,
+cabinets, counter tops and similar finish work;
+      C.   Basement sealing;
+      D.   Repairing or replacing damaged or broken window panes;
+      E.   Repairing plumbing systems, electrical systems, heating or air
+conditioning systems and repairing wells or septic systems.
+   31.   “Special flood hazard area” (SFHA) means the land within a community
+subject to the base flood. This land is identified on the community’s Flood
+Insurance Rate Map as Zone A, A1-30, AE, AH, AO, AR, and/or A99.
+   32.   “Start of construction” includes substantial improvement, and means
+the date the development permit was issued, provided the actual start of
+construction, repair, reconstruction, rehabilitation, addition, placement, or
+other improvement, was within 180 days of the permit date. The actual start
+means either the first placement or permanent construction of a structure on a
+site, such as pouring of a slab or footings, the installation of pile, the
+construction of columns, or any work beyond the stage of excavation; or the
+placement of a factory-built home on a foundation. Permanent construction does
+not include land preparation, such as clearing, grading and filling; nor does
+it include the installation of streets and/or walkways; nor does it include
+excavation for a basement, footings, piers, or foundations or the erection of
+temporary forms; nor does it include the installation on the property of
+accessory buildings such as garages or sheds not occupied as dwelling units or
+not part of the main structure. For a substantial improvement, the actual start
+of construction means the first alteration of any wall, ceiling, floor, or
+other structural part of the building, whether or not that alteration affects
+the external dimensions of the building.
+   33.   “Structure” means anything constructed or erected on the ground or
+attached to the ground, including, but not limited to, buildings, factories,
+sheds, cabins, factory-built homes, storage tanks, grain storage facilities
+and/or other similar uses.
+   34.   “Substantial damage” means damage of any origin sustained by a
+structure whereby the cost of restoring the structure to its before damage
+condition would equal or exceed fifty (50) percent of the market value of the
+structure before the damage occurred. Volunteer labor and donated materials
+shall be included in the estimated cost of repair.
+   35.   “Substantial improvement” means any improvement to a structure which
+satisfies either of the following criteria:
+      A.   Any repair, reconstruction, or improvement of a structure, the cost
+of which equals or exceeds fifty (50) percent of the market value of the
+structure either (i) before the “start of construction” of the improvement, or
+(ii) if the structure has been “substantially damaged” and is being restored,
+before the damage occurred.
+      The term does not, however, include any project for improvement of a
+structure to correct existing violations of state or local health, sanitary, or
+safety code specifications which have been identified by the local code
+enforcement official and which are the minimum necessary to assure safe living
+conditions. The term also does not include any alteration of an “historic
+structure”, provided the alteration will not preclude the structure’s
+designation as an “historic structure”.
+      B.   Any addition which increases the original floor area of a building
+by 25 percent or more. All additions constructed after the effective date of
+the first floodplain management regulations adopted by the community shall be
+added to any proposed addition in determining whether the total increase in
+original floor space would exceed 25 percent.
+   36.   “Variance” means a grant of relief by a community from the terms of
+the floodplain management regulations.
+   37.   “Violation” means the failure of a structure or other development to
+be fully compliant with the community’s floodplain management regulations.
+160.04 GENERAL PROVISIONS.
+   1.   Lands to Which Chapter Applies. The provisions of this chapter shall
+apply to all lands and development which have significant flood hazards. The
+Flood Insurance Rate Map (FIRM) for Johnson County and Incorporated Areas, City
+of North Liberty, Panels 19103C0045F, 19103C0065F, 19103C0160F, and
+19103C0180F, dated December 26, 2025, which were prepared as part of the
+Johnson County Flood Insurance Study, shall be used to identify such flood
+hazard areas and all areas shown thereon to be within the boundaries of the
+base flood shall be considered as having significant flood hazards.. The Flood
+Insurance Study for the County of Johnson County is hereby adopted by reference
+and is made a part of this chapter for the purpose of administering floodplain
+management regulations.
+   2.   The boundaries of the Special Flood Hazard areas shall be determined by
+scaling distances on the official Flood Insurance Rate Map. When an
+interpretation is needed as to the exact location of a boundary, the Code
+Official, or designee shall make the necessary interpretation. The Board of
+Appeals shall hear and decide appeals when it is alleged that there is an error
+in any requirement, decision, or determination made by the Code Official, or
+designee in the enforcement or administration of this chapter.
+   3.   No structure or land shall hereafter be used and no structure shall be
+located, extended, converted or structurally altered without full compliance
+with the terms of this chapter and other applicable regulations which apply to
+uses within the jurisdiction of this chapter.
+   4.   Abrogation and Greater Restrictions. It is not intended by this chapter
+to repeal, abrogate or impair any existing easements, covenants, or deed
+restrictions. However, where this chapter imposes greater restrictions, the
+provision of this chapter shall prevail.
+   5.   Interpretation. In their interpretation and application, the provisions
+of this chapter shall be held to be minimum requirements and shall be liberally
+construed in favor of the governing body and shall not be deemed a limitation
+or repeal of any other powers granted by State statutes.
+   6.   Warning and Disclaimer of Liability. The standards required by this
+chapter are considered reasonable for regulatory purposes. This chapter does
+not imply that areas outside the designated areas of significant flood hazard
+will be free from flooding or flood damages. This chapter shall not create
+liability on the part of the City of North Liberty or any officer or employee
+thereof for any flood damages that result from reliance on this chapter or any
+administrative decision lawfully made there under.
+   7.   Severability. If any section, clause, provision or portion of this
+chapter is adjudged unconstitutional or invalid by a court of competent
+jurisdiction, the remainder of this chapter shall not be affected thereby.
+160.05 ADMINISTRATION.
+   1.   Appointment, Duties and Responsibilities of Local Official.
+      A.   The Code Official, or designee is hereby appointed to implement and
+administer the provisions of this Ordinance and will herein be referred to as
+the Administrator.
+      B.   Duties and responsibilities of the Administrator shall include, but
+not necessarily be limited to the following:
+         (1)   Review all floodplain development permit applications to assure
+that the provisions of this Ordinance will be satisfied.
+         (2)   Review floodplain development applications to assure that all
+necessary permits have been obtained from federal, state and local governmental
+agencies including approval when required from the Department of Natural
+Resources for floodplain construction.
+         (3)   Record and maintain a record of (i) the elevation (in relation
+to North American Vertical Datum 1988) of the lowest floor (including basement)
+of all new or substantially improved structures or (ii) the elevation to which
+new or substantially improved structures have been floodproofed.
+         (4)   Notify adjacent communities/counties and the Department of
+Natural Resources prior to any proposed alteration or relocation of a
+watercourse and submit evidence of such notifications to the Federal Emergency
+Management Agency.
+         (5)   Keep a record of all permits, appeals and such other
+transactions and correspondence pertaining to the administration of this
+Ordinance.
+         (6)   Submit to the Federal Insurance Administrator an annual report
+concerning the community’s participation, utilizing the annual report form
+supplied by the Federal Insurance Administrator.
+         (7)   Notify the Federal Insurance Administrator of any annexations or
+modifications to the community’s boundaries.
+         (8)   Review subdivision proposals to ensure such proposals are
+consistent with the purpose of this ordinance and advise the (BOARD OF APPEALS)
+of potential conflict.
+         (9)   Maintain the accuracy of the community’s Flood Insurance Rate
+Maps when;
+            (a)   Development placed within the floodway results in any of the
+following:
+               (i)   An increase in the Base Flood Elevations, or
+               (ii)   Alteration to the floodway boundary
+            (b)   Development placed in Zones A, AE, AH, and A1-30 that does
+not include a designated floodway that will cause a rise of more than one foot
+in the base elevation; or
+            (c)   Development relocates or alters the channel.
+         Within 6 months of the completion of the development, the applicant
+shall submit to FEMA all scientific and technical data necessary for a Letter
+of Map Revision.
+         (10)   Perform site inspections to ensure compliance with the
+standards of this Ordinance.
+         (11)   Forward all requests for Variances to the Boad of Appeals for
+consideration. Ensure all requests include the information ordinarily submitted
+with applications as well as any additional information deemed necessary to the
+Board of Appeals.
+   2.   Floodplain Development Permit.
+      A.   Permit Required. A Floodplain Development Permit issued by the
+Administrator shall be secured prior to any floodplain development (any man-
+made change to improved and unimproved real estate, including but not limited
+to buildings or other structures, mining, filling, grading, paving, storage of
+materials and equipment, excavation or drilling operations), including the
+placement of factory-built homes.
+      B.   Application for Permit. Application shall be made on forms furnished
+by the Administrator and shall include the following:
+         (1)   Description of the work to be covered by the permit for which
+application is to be made.
+         (2)   Description of the land on which the proposed work is to be done
+(i.e., lot, block, tract, street address or similar description) that will
+readily identify and locate the work to be done.
+         (3)   Location and dimensions of all structures and additions
+         (4)   Indication of the use or occupancy for which the proposed work
+is intended.
+         (5)   Elevation of the base flood.
+         (6)   Elevation (in relation to North American Vertical Datum 1988) of
+the lowest floor (including basement) of structures or of the level to which a
+structure is to be floodproofed.
+         (7)   For structures being improved or rebuilt, the estimated cost of
+improvements and market value of the structure prior to the improvements.
+         (8)   Such other information as the Administrator deems reasonably
+necessary (e.g., drawings or a site plan) for the purpose of this Ordinance.
+       C.   Action on Permit Application. The Administrator shall, within a
+reasonable time, make a determination as to whether the proposed floodplain
+development meets the applicable standards of this Ordinance and shall approve
+or disapprove the application. For disapprovals, the applicant shall be
+informed, in writing, of the specific reasons therefor. The Administrator shall
+not issue permits for variances except as directed by the Board of Appeals.
+      D.   Construction and Use to be as Provided in Application and Plans.
+Floodplain Development Permits based on the basis of approved plans and
+applications authorize only the use, arrangement, and construction set forth in
+such approved plans and applications and no other use, arrangement or
+construction. Any use, arrangement, or construction at variance with that
+authorized shall be deemed a violation of this Ordinance. The applicant shall
+be required to submit certification by a professional engineer or land
+surveyor, as appropriate, registered in the State of Iowa, that the finished
+fill, structure floor elevations, floodproofing, or other flood protection
+measures were accomplished in compliance with the provisions of this Ordinance,
+prior to the use or occupancy of any structure.
+160.06 GENERAL FLOODPLAIN STANDARDS.
+   1.   General Floodplain Standards.
+      A.   All development must be consistent with the need to minimize flood
+damage and meet the following applicable performance standards. Where base
+flood elevations have not been provided in the Flood Insurance Study, the Iowa
+Department of Natural Resources shall be contacted to determine (i) whether the
+land involved is either wholly or partly within the floodway or floodway fringe
+and (ii) the base flood elevation. Until a regulatory floodway is designated,
+no development may increase the Base Flood Elevation more than one (1) foot.
+The applicant will be responsible for providing the Department of Natural
+Resources with sufficient technical information to make such determination.
+      B.   Review by the Iowa Department of Natural Resources is not required
+for the proposed construction of new or replacement bridges or culverts where
+(i) the bridge or culvert is located on a stream that drains less than two (2)
+square miles, and (ii) the bridge or culvert is not associated with a channel
+modification that constitutes a channel change as specified in 567-71.2(2),
+Iowa Administrative Code.
+      C.   All development. All development within the special flood hazard
+areas shall:
+         (1)   Be designed and adequately anchored to prevent flotation,
+collapse or lateral movement.
+         (2)   Use construction methods and practices that will minimize flood
+damage.
+         (3)   Use construction materials and utility equipment that are
+resistant to flood damage.
+      D.   Residential structures.
+         (1)   All new or substantially improved residential structures shall
+have the lowest floor, including basement, elevated a minimum of one (1) foot
+above the base flood elevation. Construction shall be upon compacted fill which
+shall, at all points, be no lower than 1.0 ft. above the base flood elevation
+and extend at such elevation at least 18 feet beyond the limits of any
+structure erected thereon. Alternate methods of elevating (such as piers or
+extended foundations) may be allowed where existing topography, street grades,
+or other factors preclude elevating by fill. In such cases, the methods used
+must be adequate to support the structure as well as withstand the various
+forces and hazards associated with flooding.
+         (2)   All new residential structures located in areas that would
+become isolated due to flooding of surrounding ground shall be provided with a
+means of access that will be passable by wheeled vehicles during the base
+flood. However, this criterion shall not apply where the Administrator
+determines there is sufficient flood warning time for the protection of life
+and property. When estimating flood warning time, consideration shall be given
+to the criteria listed in 567-75.2(3), Iowa Administrative Code.
+      E.   Non-residential structures. All new or substantially improved non-
+residential structures shall have the lowest floor (including basement)
+elevated a minimum of one (1) foot above the base flood elevation, or together
+with attendant utility and sanitary systems, be floodproofed to such a level.
+When floodproofing is utilized, a professional engineer registered in the State
+of Iowa shall certify that the floodproofing methods used are adequate to
+withstand the flood depths, pressures, velocities, impact and uplift forces and
+other factors associated with the base flood; and that the structure, below the
+base flood elevation is watertight with walls substantially impermeable to the
+passage of water. A record of the certification indicating the specific
+elevation (in relation to North American Vertical Datum 1988) to which any
+structures are floodproofed shall be maintained by the Administrator.
+      F.   All new and substantially improved structures
+         (1)   Fully enclosed areas below the “lowest floor” (not including
+basements) that are subject to flooding shall be designed to automatically
+equalize hydrostatic flood forces on exterior walls by allowing for the entry
+and exit of floodwaters. Designs for meeting this requirement must either be
+certified by a registered professional engineer or meet or exceed the following
+minimum criteria:
+            (a)   A minimum of two openings having a total net area of not less
+than one square inch for every square foot of enclosed area subject to flooding
+shall be provided.
+            (b)   The bottom of all openings shall be no higher than one foot
+above grade.
+            (c)   Openings may be equipped with screens, louvers, valves, or
+other coverings or devices provided they permit the automatic entry and exit of
+floodwaters.
+         Such areas shall be used solely for parking of vehicles, building
+access and low damage potential storage.
+         (2)   New and substantially improved structures must be designed (or
+modified) and adequately anchored to prevent flotation, collapse, or lateral
+movement of the structure resulting from hydrodynamic and hydrostatic loads,
+including the effects of buoyancy.
+         (3)   New and substantially improved structures shall be constructed
+with electric meter, electrical service panel box, hot water heater, heating,
+air conditioning, ventilation equipment (including ductwork), and other similar
+machinery and equipment elevated (or in the case of non-residential structures,
+optionally floodproofed to) a minimum of one (1) foot above the base flood
+elevation.
+         (4)   New and substantially improved structures shall be constructed
+with plumbing, gas lines, water/gas meters and other similar service utilities
+either elevated (or in the case of non-residential structures, optionally
+floodproofed to) a minimum of one (1) foot above the base flood elevation or
+designed to be watertight and withstand inundation to such a level.
+      G.   Factory-built homes
+         (1)   All new and substantially improved factory-built homes,
+including those placed in existing factory-built home parks or subdivisions,
+shall be elevated on a permanent foundation such that the lowest floor of the
+structure is a minimum of one (1) foot above the base flood elevation.
+         (2)   All new and substantially improved factory-built homes,
+including those placed in existing factory-built home parks or subdivisions,
+shall be anchored to resist flotation, collapse, or lateral movement. Anchorage
+systems may include, but are not limited to, use of over-the-top or frame ties
+to ground anchors as required by the State Building Code.
+      H.   Utility and Sanitary Systems
+         (1)   On-site waste disposal and water supply systems shall be located
+or designed to avoid impairment to the system or contamination from the system
+during flooding.
+         (2)   All new and replacement sanitary sewage systems shall be
+designed to minimize or eliminate infiltration of flood waters into the system
+as well as the discharge of effluent into flood waters. Wastewater treatment
+facilities (other than on-site systems) shall be provided with a level of flood
+protection equal to or greater than one (1) foot above the base flood
+elevation.
+         (3)   New or replacement water supply systems shall be designed to
+minimize or eliminate infiltration of flood waters into the system. Water
+supply treatment facilities (other than on-site systems) shall be provided with
+a level of protection equal to or greater than one (1) foot above the base
+flood elevation.
+         (4)   Utilities such as gas or electrical systems shall be located and
+constructed to minimize or eliminate flood damage to the system and the risk
+associated with such flood damaged or impaired systems.
+      I.   Storage of materials and equipment. Storage of materials and
+equipment that are flammable, explosive or injurious to human, animal or plant
+life is prohibited unless elevated a minimum of one (1) foot above the base
+flood elevation. Other material and equipment must either be similarly elevated
+or (i) not be subject to major flood damage and be anchored to prevent movement
+due to flood waters or (ii) be readily removable from the area within the time
+available after flood warning.
+      J.   Flood control structural works. Flood control structural works such
+as levees, flood walls, etc. shall provide, at a minimum, protection from the
+base flood with a minimum of 3 ft. of design freeboard and shall provide for
+adequate interior drainage. In addition, structural flood control works shall
+be approved by the Department of Natural Resources.
+      K.   Watercourse alterations. Watercourse alterations or relocations must
+be designed to maintain the flood carrying capacity within the altered or
+relocated portion. In addition, such alterations or relocations must be
+approved by the Department of Natural Resources.
+      L.   Subdivisions. Subdivisions (including factory-built home parks and
+subdivisions) shall be consistent with the need to minimize flood damages and
+shall have adequate drainage provided to reduce exposure to flood damage.
+Development associated with subdivision proposals (including the installation
+of public utilities) shall meet the applicable performance standards of this
+Ordinance. Subdivision proposals intended for residential use shall provide all
+lots with a means of access which will be passable by wheeled vehicles during
+the base flood. Proposals for subdivisions greater than five (5) acres or fifty
+(50) lots (whichever is less) shall include base flood elevation data for those
+areas located within the Special Flood Hazard Area.
+      M.   Accessory Structures to Residential Uses
+         (1)   Detached garages, sheds, and similar structures that are
+incidental to a residential use are exempt from the base flood elevation
+requirements where the following criteria are satisfied:
+            (a)   The structure shall be designed to have low flood damage
+potential. Its size shall not exceed 600 sq. ft. in size. Those portions of the
+structure located less than 1 foot above the base flood elevation must be
+constructed of flood-resistant materials.
+            (b)   The structure shall be used solely for low flood damage
+potential purposes such as vehicle parking and limited storage. The structure
+shall not be used for human habitation.
+            (c)   The structure shall be constructed and placed on the building
+site so as to offer minimum resistance to the flow of floodwaters.
+            (d)   The structure shall be firmly anchored to prevent flotation,
+collapse, and lateral movement which may result in damage to other structures.
+            (e)   The structure’s service facilities such as electrical and
+heating equipment shall be elevated or floodproofed to at least one foot above
+the base flood elevation.
+            (f)   The structure’s walls shall include openings that satisfy the
+provisions of Section 160.06(1)(F)(1) of this Ordinance.
+         (2)   Exemption from the base flood elevation requirements for such a
+structure may result in increased premium rates for flood insurance coverage of
+the structure and its contents.
+      N.   Recreational Vehicles
+         (1)   Recreational vehicles are exempt from the requirements of
+Section 160.06(1)(G) of this Ordinance regarding anchoring and elevation of
+factory-built homes when the following criteria are satisfied:
+             (a)   The recreational vehicle shall be located on the site for
+less than 180 consecutive days, and,
+            (b)   The recreational vehicle must be fully licensed and ready for
+highway use. A recreational vehicle is ready for highway use if it is on its
+wheels or jacking system and is attached to the site only by quick disconnect
+type utilities and security devices and has no permanently attached additions.
+         (2)   Recreational vehicles that are located on the site for more than
+180 consecutive days or are not ready for highway use must satisfy requirements
+of Section 160.06(1)(G) of this Ordinance regarding anchoring and elevation of
+factory-built homes.
+      O.   Pipeline crossings. Pipelines crossing rivers and streams shall be
+buried in the streambed and banks, or otherwise sufficiently protected to
+prevent rupture due to channel degradation and meandering.
+      P.   Maximum Damage Potential Development. All new or substantially
+improved maximum damage potential development shall have the lowest floor
+(including basement) elevated a minimum of one (1) foot above the elevation of
+the 500-year flood, or together with attendant utility and sanitary systems, be
+floodproofed to such a level. When floodproofing is utilized, a professional
+engineer registered in the State of Iowa shall certify that the floodproofing
+methods used are adequate to withstand the flood depths, pressures, velocities,
+impact and uplift forces and other factors associated with the 0.2% annual
+chance flood; and that the structure, below the 0.2% annual chance flood
+elevation is watertight with walls substantially impermeable to the passage of
+water. A record of the certification indicating the specific elevation (in
+relation to North American Vertical Datum 1988) to which any structures are
+floodproofed shall be maintained by the Administrator. Where 0.2% chance flood
+elevation data has not been provided in the Flood Insurance Study, the Iowa
+Department of Natural Resources shall be contacted to compute such data. The
+applicant will be responsible for providing the Department of Natural Resources
+with sufficient technical information to make such determinations.
+   2.   Special Floodway Provisions. In addition to the General Floodplain
+Standards, development within the floodway must meet the following applicable
+standards. The floodway is that portion of the floodplain which must be
+protected from developmental encroachment to allow the free flow of flood
+waters. Where floodway data has been provided in the Flood Insurance Study,
+such data shall be used to define the floodway. Where no floodway data has been
+provided, the Department of Natural Resources shall be contacted to provide a
+floodway delineation. The applicant will be responsible for providing the
+Department of Natural Resources with sufficient technical information to make
+such determination.
+      A.   No development shall be permitted in the floodway that would result
+in any increase in the base flood elevation. Consideration of the effects of
+any development on flood levels shall be based upon the assumption that an
+equal degree of development would be allowed for similarly situated lands.
+      B.   All development within the floodway shall:
+         (1)   Be consistent with the need to minimize flood damage.
+         (2)   Use construction methods and practices that will minimize flood
+damage.
+         (3)   Use construction materials and utility equipment that are
+resistant to flood damage.
+      C.   No development shall affect the capacity or conveyance of the
+channel or floodway of any tributary to the main stream, drainage ditch or any
+other drainage facility or system.
+      D.   Structures, buildings, recreational vehicles, and sanitary and
+utility systems, if permitted, shall meet the applicable General Floodplain
+standards and shall be constructed or aligned to present the minimum possible
+resistance to flood flows.
+      E.   Structures, if permitted, shall have a low flood damage potential
+and shall not be for human habitation.
+      F.   Storage of materials or equipment that are buoyant, flammable,
+explosive or injurious to human, animal or plant life is prohibited. Storage of
+other material may be allowed if readily removable from the floodway within the
+time available after flood warning.
+      G.   Watercourse alterations or relocations (channel changes and
+modifications) must be designed to maintain the flood carrying capacity within
+the altered or relocated portion. In addition, such alterations or relocations
+must be approved by the Department of Natural Resources.
+      H.   Any fill allowed in the floodway must be shown to have some
+beneficial purpose and shall be limited to the minimum amount necessary.
+      I.   Pipeline river or stream crossings shall be buried in the streambed
+and banks or otherwise sufficiently protected to prevent rupture due to channel
+degradation and meandering or due to the action of flood flows.
+160.07 ESTABLISHMENT OF VARIANCE PROCEDURES.
+   1.   The Board of Appeals may authorize upon request in specific cases such
+variances from the terms of this Ordinance that will not be contrary to the
+public interest where, owing to special conditions, a literal enforcement of
+the provisions of this Ordinance will result in unnecessary hardship. Variances
+granted must meet the following applicable standards.
+      A.   Variances shall only be granted upon: (i) a showing of good and
+sufficient cause, (ii) a determination that failure to grant the variance would
+result in exceptional hardship to the applicant, and (iii) a determination that
+the granting of the variance will not result in increased flood heights,
+additional threats to public safety, extraordinary public expense, create
+nuisances, cause fraud on or victimization of the public or conflict with
+existing local codes or ordinances.
+      B.   Variances shall not be issued within any designated floodway if any
+increase in flood levels during the base flood would result. Consideration of
+the effects of any development on flood levels shall be based upon the
+assumption that an equal degree of development would be allowed for similarly
+situated lands.
+      C.   Variances shall only be granted upon a determination that the
+variance is the minimum necessary, considering the flood hazard, to afford
+relief.
+      D.   In cases where the variance involves a lower level of flood
+protection for structures than what is ordinarily required by this Ordinance,
+the applicant shall be notified in writing over the signature of the
+Administrator that: (i) the issuance of a variance will result in increased
+premium rates for flood insurance up to amounts as high as $25 for $100 of
+insurance coverage and (ii) such construction increases risks to life and
+property.
+      E.   All variances granted shall have the concurrence or approval of the
+Department of Natural Resources.
+   2.   Hearings and Decisions of the Board.
+      A.   Hearings. Upon the filing with the Board of an appeal or a request
+for a variance, the Board shall hold a public hearing. The Board shall fix a
+reasonable time for the hearing and give public notice thereof, as well as due
+notice to parties in interest. At the hearing, any party may appear in person
+or by agent or attorney and present written or oral evidence. The Board may
+require the appellant or applicant to provide such information as is reasonably
+deemed necessary and may request the technical assistance and/or evaluation of
+a professional engineer or other expert person or agency, including the
+Department of Natural Resources.
+      B.   Decisions. The Board shall arrive at a decision on an appeal or
+variance within a reasonable time. In passing upon an appeal, the Board may, so
+long as such action is in conformity with the provisions of this chapter,
+reverse or affirm, wholly or in part, or modify the order, requirement,
+decision, or determination appealed from, and it shall make its decision, in
+writing, setting forth the findings of fact and the reasons for its decision.
+In granting a variance, the Board shall consider such factors as contained in
+this section and all other relevant sections of this chapter and may prescribe
+such conditions as contained in Subparagraph (2) of this paragraph.
+         (1)   Factors Upon Which the Decision of the Board Shall Be Based. In
+passing upon applications for variances, the Board shall consider all relevant
+factors specified in other sections of this chapter and:
+            (a)   The danger to life and property due to increased flood
+heights or velocities caused by encroachments.
+            (b)   The danger that materials may be swept on to other land or
+downstream to the injury of others.
+            (c)   The proposed water supply and sanitation systems and the
+ability of these systems to prevent disease, contamination, and unsanitary
+conditions.
+            (d)   The susceptibility of the proposed facility and its contents
+to flood damage and the effect of such damage on the individual owner.
+            (e)   The importance of the services provided by the proposed
+facility to the City.
+            (f)   The requirements of the facility for a floodplain location.
+            (g)   The availability of alternative locations not subject to
+flooding for the proposed use.
+            (h)   The compatibility of the proposed use with existing
+development and development anticipated in the foreseeable future.
+            (i)   The relationship of the proposed use to the comprehensive
+plan and floodplain management program for the area.
+            (j)   The safety of access to the property in times of flood for
+ordinary and emergency vehicles.
+            (k)   The expected heights, velocity, duration, rate of rise and
+sediment transport of the flood water expected at the site.
+            (l)   The cost of providing governmental services during and after
+flood conditions, including maintenance and repair of public utilities (sewer,
+gas, electrical, and water systems), facilities, streets, and bridges.
+            (m)   Such other factors which are relevant to the purpose of this
+chapter.
+         (2)   Conditions Attached to Variances. Upon consideration of the
+factors listed above, the Board may attach such conditions to the granting of
+variances as it deems necessary to further the purpose of this chapter. Such
+conditions may include, but not necessarily be limited to:
+            (a)   Modification of waste disposal and water supply facilities.
+            (b)   Limitation of periods of use and operation.
+            (c)   Imposition of operational controls, sureties, and deed
+restrictions.
+            (d)   Requirements for construction of channel modifications,
+dikes, levees, and other protective measures, provided such are approved by the
+Department of Natural Resources and are deemed the only practical alternative
+to achieving the purpose of this chapter.
+            (e)   Floodproofing measures shall be designed consistent with the
+flood protection elevation for the particular area, flood velocities, duration,
+rate of rise, hydrostatic and hydrodynamic forces, and other factors associated
+with the regulatory flood. The Board shall require that the applicant submit a
+plan or document certified by a registered professional engineer that the
+floodproofing measures are consistent with the regulatory flood protection
+elevation and associated flood factors for the particular area.
+   3.   Conditions Attached to Variances. Upon consideration of the factors
+listed above, the Board of Appeals may attach such conditions to the granting
+of variances as it deems necessary to further the purpose of this Ordinance.
+Such conditions may include, but not necessarily be limited to:
+      A.   Modification of waste disposal and water supply facilities.
+      B.   Limitation of periods of use and operation.
+      C.   Imposition of operational controls, sureties, and deed restrictions.
+      D.   Requirements for construction of channel modifications, dikes,
+levees, and other protective measures, provided such are approved by the
+Department of Natural Resources and are deemed the only practical alternative
+to achieving the purpose of this Ordinance.
+      E.   Floodproofing measures shall be designed consistent with the flood
+protection elevation for the particular area, flood velocities, duration, rate
+of rise, hydrostatic and hydrodynamic forces, and other factors associated with
+the regulatory flood. The Council shall require that the applicant submit a
+plan or document certified by a registered professional engineer that the
+floodproofing measures are consistent with the regulatory flood protection
+elevation and associated flood factors for the particular area.
+   4.   Appeals to the Court. Any person or persons, jointly or severally,
+aggrieved by any decision of the Board may present to a court of record a
+petition, duly verified, setting forth that such decision is illegal, in whole
+or in part, specifying the grounds of the illegality. Such petition shall be
+presented to the court within thirty days after the filing of the decision in
+the office of the Board.
+160.08 NONCONFORMING USES.
+   1.   A structure or the use of a structure or premises which was lawful
+before the passage or amendment of this Ordinance, but which is not in
+conformity with the provisions of this Ordinance, may be continued subject to
+the following conditions:
+      A.   If such use is discontinued for six consecutive months, any future
+use of the building premises shall conform to this chapter.
+       B.   Uses or adjuncts thereof that are or become nuisances shall not be
+entitled to continue as nonconforming uses.
+       C.   If any nonconforming use or structure is destroyed by any means,
+including flood, it shall not be reconstructed if the cost is more than 50
+percent of the market value of the structure before the damage occurred, unless
+it is reconstructed in conformity with the provisions of this chapter. This
+limitation does not include the cost of any alteration to comply with existing
+state or local health, sanitary, building or safety codes or regulations or the
+cost of any alteration of a structure listed on the National Register of
+Historic Places, provided that the alteration shall not preclude its continued
+designation
+      2.   Except as provided in Section 160.08(1)(B), any use which has been
+permitted as a Variance shall be considered a conforming use.
+160.09 PENALTIES FOR VIOLATION.
+   Violations of the provisions of this chapter or failure to Violations of the
+provisions of this Ordinance or failure to comply with any of the requirements
+shall constitute a misdemeanor. Any person who violates this Ordinance or fails
+to comply with any of its requirements shall upon conviction thereof be fined
+not more than $500.00 or imprisoned for not more than 30 days. Nothing herein
+contained prevent the City of North Liberty from taking such other lawful
+action as is necessary to prevent or remedy violation.
+160.10 AMENDMENTS.
+The regulations and standards set forth in this chapter may from time to time
+be amended, supplemented, changed, or repealed. No amendment, supplement,
+change, or modification shall be undertaken without prior approval of the
+Department of Natural Resources.
+(Ch. 160 - Ord. 2025-24 – Jan. 26 Supp.)
 CHAPTER 165
 ZONING CODE – ADMINISTRATIVE
  
@@ -17931,6 +18742,10 @@ ORDINANCE NO. ADOPTED  ORDINANCE NO. ADOPTED
 2025-11       6-24-25
 2025-12       6-24-25
 2025-13       6-24-25
+2025-18       9-23-25
+2025-18       9-23-25
+2025-21       11-25-25
+2025-22       12-9-25
 (Chapter 165 - Ord. 2022-02 – May 22 Supp.)
  
 Notes
@@ -18262,7 +19077,7 @@ the average height between eaves and ridge for gable, hip, and gambrel roofs.
 measured parallel to the lot line. For the purposes of establishing a building
 line, the building wall does not include permitted encroachments of
 architectural features, such as bay windows, eaves, and steps and stoops.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2669.png]
 “Building, main” means a building in which the principal use of the site is
 conducted.
@@ -18301,7 +19116,7 @@ said sidewalks, 25 feet from said corner. Where no sidewalk(s) exist, the area
 shall be measured along the back of curb or edge of roadway pavement, as
 applicable.
 Corner Visual Clearance
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2671.png]
 “Court” means a space, open and unobstructed to the sky, located at or above
 grade level on a lot and bounded on three or more sides by walls of a building.
@@ -18397,7 +19212,7 @@ to its rear.
    A “flag lot” means a lot such that the main building site area (the “flag”)
 is set back from the street on which it fronts and includes an access strip
 (the “pole”) connecting the main building site with the street.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2884.png]
  
 (Ord. 2023-26 – Jan. 24 Supp.)
@@ -18575,7 +19390,7 @@ measured perpendicular to the rear lot line.
 “Yard, required side” means the required minimum distance per the zoning
 district that a principal building must be located from the side lot line,
 measured perpendicular to the interior side lot line.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2673.png]
 “Zoning map” means the map delineating the boundaries of all zoning districts
 which, along with the zoning text, comprises the zoning ordinance.
@@ -20607,11 +21422,11 @@ an abutting parking lot island or landscape area or pedestrian walkway.
 Pedestrian walkways shall not be reduced to less than 5' in width.
  
 Off-Street Parking Space Minimum Dimensions
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2719.png]
  
 Off-Street Parking Space Minimum Dimensions
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2721.png]
  
       B.   Access.
@@ -20651,7 +21466,7 @@ permanently affixed to the paved parking area.
       F.   Setbacks. Off-street parking spaces and drive aisles within a
 parking lot or structure must be designed in accordance with the minimum
 dimensions in Table 169.01-B Off-Street Parking and Loading Setbacks.
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2896.png]
  
    G.   Single-Unit, Two-Unit Zero Lot Line, Duplex and Townhouse Dwellings.
@@ -21059,7 +21874,7 @@ shall be a minimum 90% opaque. Gate supports shall be metal with the
 appropriate diameter to support the gate(s). Hardware must be of sufficient
 strength to accommodate repetitive swinging.
 Figure 169.03
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2841.png]
  
 (Ord. 2022-20 – Aug. 22 Supp.)
@@ -22256,7 +23071,7 @@ sign structure and sign design. Such decorative posts may extend out of the
 ground for a maximum of three feet above the adjacent ground where they are
 installed.
 Monument Signs
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2727.png]
  
 “Marquee” means a permanent roofed structure attached to and supported by the
@@ -22693,7 +23508,7 @@ Mullions are not considered an element that divides window area.
 prohibited.
       D.   A permit is not required for a window sign.
 Window Sign
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2787.png]
  
 173.12 TEMPORARY SIGNS.
@@ -24384,16 +25199,16 @@ _______________________________
 INFORMATIONAL HANDOUTS
 Definitions of Various Yards
 (Residential)
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2127.jpg]
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2129.jpg]
  
 Allowable Fence/Wall Heights in Interior Lots
 (Residential)
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2131.jpg]
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2133.jpg]
  
    Privacy Fence Requirements
@@ -24406,14 +25221,14 @@ height of eight feet.
    An EXCEPTION to the maximum front yard fence height is along a side street
 where a privacy fence may be installed along the rear yard within 15 feet of
 the right-of-way of the street. (See below.)
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2135.jpg]
  
 Front Yard Setback Exceptions
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2137.jpg]
  
 How to Measure Building Height
-[https://export.amlegal.com/media/6d8029ee0f669046dbeefa0a3ad25c7a11a100af/
+[https://export.amlegal.com/media/8234cbc00d8e2db062054021c7096450b8240c18/
 IMAGES/0-0-0-2139.jpg]
  
