@@ -1,7 +1,7 @@
 ETOWAH, TENNESSEE
 CODE OF ORDINANCES
-2023 S-7 Supplement is current through
-Ordinance 882, passed 7-25-2022
+2026 S-8 Supplement is current through
+Ordinance 915, passed 8-25-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -13,16 +13,16 @@ of the
 CITY OF ETOWAH, TENNESSEE
 City Commission
 Burke Garwood, Mayor
-Jim Swayne, Vice Mayor
-Laura Floyd, Commissioner
-John James, Commissioner
+Laura Floyd, Vice Mayor
+Steve Fain, Commissioner
+Diana Elrod, Commissioner
 Gene Keller, Commissioner
  
 Officials
 Russell J. Blair City Manager
 Eva Valentine    Human Resources/Risk Management
 Vacant           City Attorney
-Alison Bull      Finance Director/City Recorder
+Brooke Moses     Finance Director/City Recorder
  
 ADOPTING ORDINANCE
 ORDINANCE NO. 782
@@ -1813,10 +1813,10 @@ Section
 30.05   Code of Ethics
 § 30.01 TIME AND PLACE OF REGULAR MEETINGS.
    The regular meetings of the City Commission shall be held on the fourth
-Monday of each month beginning at 6:30 p.m. in a central meeting room at the
+Monday of each month beginning at 6:00 p.m. in a central meeting room at the
 Etowah Community Center, located at 155 Robinson Street.
 (1994 Code, § 1-101) (Ord. 390, passed - -; Ord. 573, passed 3-22-1999; Ord.
-719, passed 8-22-2011; Ord. 848, passed 2-24-2020)
+719, passed 8-22-2011; Ord. 848, passed 2-24-2020; Ord. 895, passed 1-22-2024)
 § 30.02 ORDER OF BUSINESS.
    At each meeting of the City Commission, the following regular order of
 business shall be observed, unless dispensed with by a majority vote of the
@@ -1833,12 +1833,13 @@ needed corrections;
    (I)   Adjournment.
 (1994 Code, § 1-102) (Ord. 848, passed 2-24-2020)
 § 30.03 GENERAL RULES OF ORDER.
-   The rules of order and parliamentary procedure contained in Robert’s Rules
+   The rules of order and parliamentary procedure contained in Robert's Rules
 of Order, Newly Revised, shall govern the transaction of business by and before
 the City Commission at its meetings in all cases to which they are applicable
 and in which they are not inconsistent with provisions of the charter or this
-code.
-(1994 Code, § 1-103)
+code. This section shall also apply to the Etowah Utilities Board and all
+boards or committees of the city.
+(1994 Code, § 1-103) (Ord. 897, passed 6-24-2024)
 § 30.04 TRAINING FOR BOARD OF COMMISSIONERS.
    The Board of Commissioners encourage each member of the governing body to
 attend Level I of the Elected Officials Academy as presented by the University
@@ -1848,7 +1849,9 @@ encourages attendance of an additional four hours of continuing education each
 year.
 (Res. 1106, passed - -2014)
 § 30.05 CODE OF ETHICS.
-   For provisions on the Code of Ethics, see §§ 35.120 through 35.130.
+   For provisions on the Code of Ethics, see §§
+35.120 through
+35.130.
 CHAPTER 31: ORGANIZATIONS
 Section
    
@@ -2183,32 +2186,34 @@ exception
    
 34.34   When formal sealed bids required
    
-34.35   Newspaper notice inviting bids
+34.35   Exceptions to competitive bidding
    
-34.36   Advertising purchases on bulletin board in the city hall and on the
+34.36   Newspaper notice inviting bids
+   
+34.37   Advertising purchases on bulletin board in the city hall and on the
 city website
    
-34.37   Bid deposits
+34.38   Bid deposits
    
-34.38   Submission, identification, opening and tabulation of bids
+34.39   Submission, identification, opening and tabulation of bids
    
-34.39   Rejection of bids
+34.40   Rejection of bids
    
-34.40   Bids not to be accepted from person in default on payments due city
+34.41   Bids not to be accepted from person in default on payments due city
    
-34.41   Considerations in determining lowest responsible bidder
+34.42   Considerations in determining lowest responsible bidder
    
-34.42   Statement when award not given low bidder
+34.43   Statement when award not given low bidder
    
-34.43   Award in case of tie bids
+34.44   Award in case of tie bids
    
-34.44   Performance bond
+34.45   Performance bond
    
-34.45   Records of bids
+34.46   Records of bids
    
-34.46   Division of purchases or contracts to avoid requirements of subchapter
+34.47   Division of purchases or contracts to avoid requirements of subchapter
    
-34.47   Officers and employees not to have financial interest
+34.48   Officers and employees not to have financial interest
 Cost Recovery
    
 34.60   Purpose
@@ -2442,16 +2447,17 @@ Code Ann. § 12-3-1209
 § 34.30 MANAGER DESIGNATED AS PURCHASING OFFICER.
    The City Manager is hereby designated as the purchasing officer of the city.
 The City Manager is authorized to make purchases whose estimated costs do not
-exceed $8,000.
+exceed $10,000.
 (1994 Code, § 5-401) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022)
+Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022; Ord. 892, passed 8-28-
+2023)
 § 34.31 SUPPLIES, EQUIPMENT AND THE LIKE ACQUIRED BY PURCHASING OFFICER;
 EXCEPTION.
    All supplies, materials, equipment and services of any nature whatsoever
 shall be acquired by the purchasing officer or his or her authorized
 representative, except as otherwise provided in this subchapter.
 (1994 Code, § 5-402) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
 § 34.32 GENERAL PROCEDURE.
    Competitive bids on all supplies, equipment and services, except those
 specified elsewhere in this subchapter, and contracts for public improvements
@@ -2459,69 +2465,135 @@ shall be obtained, whenever practicable, and the purchase or contract awarded
 to the lowest responsible bidder, provided that any or all bids may be rejected
 as prescribed in this subchapter.
 (1994 Code, § 5-403) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
 § 34.33 PURCHASE OF EMERGENCY REPLACEMENT PARTS FOR EXISTING EQUIPMENT.
    Notwithstanding any other provision of this subchapter, the purchase of
 emergency replacement parts or existing equipment shall not require competitive
-bidding. When such emergency purchase amounts to $2,500 or more, a full report
+bidding. When such emergency purchase amounts to $10,000 or more, a full report
 of the emergency purchase shall be filed by the City Manager with the City
 Commission at the next Commission meeting for approval.
 (1994 Code, § 5-404) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
+Ord. 775, passed 6-22-2015; Ord. 884, passed 2-27-2023; Ord. 892, passed 8-28-
+2023)
 § 34.34 WHEN FORMAL SEALED BIDS REQUIRED.
-   Public advertisement and competitive bidding shall be required for the
-purchase of all goods and services exceeding an amount of $10,000 except for
+   (A)   Public advertisement and competitive bidding shall be required for the
+purchase of all goods and services exceeding an amount of $25,000 except for
 those purchases specifically exempted from advertisement and bidding by the
 Municipal Purchasing Act of 1983.
+   (B)   Three written quotations or proposals shall be obtained whenever
+possible without causing unreasonable delay for purchases costing less than the
+$25,000 bid threshold adopted for competitive bidding and public advertisement
+but more than 40% of such bid threshold $10,000.
 (1994 Code, § 5-405) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022)
-§ 34.35 NEWSPAPER NOTICE INVITING BIDS.
+Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022; Ord. 884, passed 2-27-
+2023; Ord. 892, passed 8-28-2023)
+§ 34.35 EXCEPTIONS TO COMPETITIVE BIDDING.
+   Tennessee law requires public advertising and competitive bids for all
+purchases, leases, and lease-purchases except:
+   (A)   Purchases through state contracts (Tenn. Code Ann. § 12-3-1201);
+   (B)   Investments in or purchases from the Local Government Investment Pool
+(LGIP) (Tenn. Code Ann. § 6-56-302);
+   (C)   Purchases from instrumentalities created by two or more cooperating
+governments (Tenn. Code Ann. § 6-56-302);
+   (D)   Purchases of goods and services from nonprofit corporations formed to
+specifically serve municipalities (Tenn. Code Ann. § 6-56-302);
+   (E)   Purchases, leases, or lease-purchases of real property (Tenn. Code
+Ann. § 6-56-304);
+   (F)   Emergency purchases (complete documentation and a report to the
+municipality's governing body and chief executive are required for each
+emergency purchase) (Tenn. Code Ann. § 6-56-304);
+   (G)   Purchases of perishable commodities and fuel and fuel products when
+purchased on the open market (Tenn. Code Ann. § 6-56-304); purchases of natural
+gas and propane for re-sale (Tenn. Code Ann. § 6-56-304);
+   (H)   Purchases, leases, or lease purchases of secondhand articles or
+equipment, etc., from federal, state, or local government units or agencies
+(Tenn. Code Ann. § 6-56-304);
+   (I)   Purchases under $2,500, unless a municipality adopts an ordinance
+increasing the purchase amount to $25,000, when the municipality does not have
+centralized purchasing authority and a full-time purchasing agent (Tenn. Code
+Ann. § 12-3-1212);
+   (J)   Purchases under $2,500, unless a municipality adopts an ordinance
+increasing the purchase amount to $50,000, when the municipality has
+centralized purchasing authority and a full-time purchasing agent (Tenn. Code
+Ann. § 12-3-1212);
+   (K)   Purchases of goods and services from a sole source (Tenn. Code Ann. §
+6-56-304);
+   (L)   Purchases of materials, supplies, commodities, and equipment at public
+auction (Tenn. Code Ann. § 12-2-421);
+   (M)   Purchases of goods and services through a reverse auction (Tenn. Code
+Ann. § 12-3- 1208);
+   (N)   Purchases of energy-related services through contracts (Tenn. Code
+Ann. § 12-4-110);
+   (O)   Purchases of professional service through contracts and contracts for
+architects, engineers, and construction services (Tenn. Code Ann. §§ 12-3-1209
+and 12-4-107);
+   (P)   Purchases for information management services through contracts in
+counties with a population of no less than 470,000 and no more than 480,000
+according to the 1980 census or any subsequent federal census (Tenn. Code Ann.
+§ 12-3-1209);
+   (Q)   Purchases of motor vehicles and intoxicating beverages seized and
+confiscated by the state (Tenn. Code Ann. § 12-2-201);
+   (R)   Purchases of supplies, equipment, and services by another governmental
+entity at the request of a municipality (Tenn. Code Ann. § 12-3-1203);
+   (S)   Purchases made through cooperative purchasing agreements (Tenn. Code
+Ann. §§ 12-3- 1205 and 12-9-101 et seq.);
+   (T)   Purchases of any of the insurance as provided in Tenn. Code Ann. § 29-
+20-407; and
+   (U)   Purchases of articles from TRICOR (Tenn. Code Ann. §§ 41-22-119
+through 41-22-121).
+(Ord. 892, passed 8-28-2023)
+§ 34.36 NEWSPAPER NOTICE INVITING BIDS.
    Notice inviting bids shall be published once in a newspaper of general
 circulation, and at least five days preceding the last day set for the receipt
 of proposals. The newspaper notice shall include a general description of the
 articles to be purchased, shall state where bid blanks and written
 specifications may be secured, and the time and place for opening bids.
 (1994 Code, § 5-406) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.36 ADVERTISING PURCHASES ON BULLETIN BOARD IN THE CITY HALL AND ON THE
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.37 ADVERTISING PURCHASES ON BULLETIN BOARD IN THE CITY HALL AND ON THE
 CITY WEBSITE.
    In addition to the notice provided for in §
 34.35, the purchasing officer shall advertise all pending purchases amounting
-to $2,500 or more by a notice on the public bulletin board in city hall and on
+to $10,000 or more by a notice on the public bulletin board in city hall and on
 the city website.
 (1994 Code, § 5-407) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.37 BID DEPOSITS.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023; Ord. 905, passed 9-23-
+2024)
+§ 34.38 BID DEPOSITS.
    (A)   When deemed necessary, bid deposits may be required, the deposit shall
 be in such amount as the City Manager shall determine and unsuccessful bidders
 shall be entitled a return of the deposits where such has been required.
    (B)   A successful bidder shall forfeit any required deposit upon failure on
 his or her part to enter a contract within five days after the award.
 (1994 Code, § 5-408) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.38 SUBMISSION, IDENTIFICATION, OPENING AND TABULATION OF BIDS.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.39 SUBMISSION, IDENTIFICATION, OPENING AND TABULATION OF BIDS.
    Bids shall be submitted sealed to the purchasing officer and shall be
 identified as bids on the envelope. Such bids shall be opened in public at the
 time and place stated in the public notices, and a tabulation of all bids so
 received shall be posted on the bulletin board in city hall for public
 inspection.
 (1994 Code, § 5-409) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.39 REJECTION OF BIDS.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.40 REJECTION OF BIDS.
    The City Manager shall have and hereby is granted the authority to reject or
 award any or all bids, parts of all bids, or all bids for any one or more
-supplies or contractual services included in the proposed contract, when the
-public interest will be served thereby, except that the award of any bid in
-excess of $8,000 must be submitted to the City Commission for approval.
+supplies or contractual services included in the proposed contract when the
+public interest will be served thereby, and to waive any irregularities in a
+bid, to make awards to more than one bidder or to accept the bid (or bids) that
+in the judgment of the governing body is in the best interest of the city,
+except that the award of any bid in excess of $25,000 must be submitted to the
+City Commission for approval.
 (1994 Code, § 5-410) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022)
-§ 34.40 BIDS NOT TO BE ACCEPTED FROM PERSON IN DEFAULT ON PAYMENTS DUE CITY.
+Ord. 775, passed 6-22-2015; Ord. 882, passed 7-25-2022; Ord. 892, passed 8-28-
+2023; Ord. 905, passed 9-23-2024)
+§ 34.41 BIDS NOT TO BE ACCEPTED FROM PERSON IN DEFAULT ON PAYMENTS DUE CITY.
    The purchasing officer shall not accept the bid of any vendor or contractor
 who is in default on the payment of any taxes, licenses, fees or other moneys
 of whatever nature that may be due the city by such vendor or contractor.
 (1994 Code, § 5-411) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.41 CONSIDERATIONS IN DETERMINING LOWEST RESPONSIBLE BIDDER.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.42 CONSIDERATIONS IN DETERMINING LOWEST RESPONSIBLE BIDDER.
    In determining the lowest responsible bidder, as referred to in §
 34.32, the purchasing officer shall consider:
    (A)   The ability, capacity and skill of bidder to perform the contract or
@@ -2541,15 +2613,16 @@ contractual services to the particular use required;
 for the use of the subject of the contract; and
    (I)   The number and scope of conditions attached to the bid.
 (1994 Code, § 5-412) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.42 STATEMENT WHEN AWARD NOT GIVEN LOW BIDDER.
-   When the award for a bid item of less than $5,000 is not given to the lowest
-bidder, a full and complete statement of the reasons for placing the order
-elsewhere shall be prepared by the purchasing officer and shall be given to the
-City Commission.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.43 STATEMENT WHEN AWARD NOT GIVEN LOW BIDDER.
+   When the award for purchases and contracts in excess of $10,000 is not given
+to the lowest bidder or estimate, a full and complete statement of the reasons
+for placing the order elsewhere shall be prepared by the purchasing officer and
+shall be given to the City Commission.
 (1994 Code, § 5-413) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.43 AWARD IN CASE OF TIE BIDS.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023; Ord. 905, passed 9-23-
+2024)
+§ 34.44 AWARD IN CASE OF TIE BIDS.
    (A)   If all bids received are for the same total amount or unit price,
 quality and service being equal, the contract or purchase order shall be
 awarded to a local bidder.
@@ -2557,37 +2630,37 @@ awarded to a local bidder.
 the lowest tie bids, the purchasing officer shall award the contract to one of
 the tie bidders by drawing lots in public.
 (1994 Code, § 5-414) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.44 PERFORMANCE BOND.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.45 PERFORMANCE BOND.
    The purchasing officer may and hereby is granted authority to require a
 performance bond, before entering a contract, in such amount as he or she shall
 find reasonably necessary to protect the best interests of the city.
 (1994 Code, § 5-415) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.45 RECORDS OF BIDS.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.46 RECORDS OF BIDS.
    The purchasing officer shall keep a record of all open market orders and the
 bids submitted in competition thereon, including a list of the bidders, the
 amounts bid by each, and the method of solicitation and bidding, and such
 records shall be open to public inspection.
 (1994 Code, § 5-416) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.46 DIVISION OF PURCHASES OR CONTRACTS TO AVOID REQUIREMENTS OF SUBCHAPTER.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.47 DIVISION OF PURCHASES OR CONTRACTS TO AVOID REQUIREMENTS OF SUBCHAPTER.
    In determining the amount of a purchase or contract for the purposes of this
 subchapter, the entire purchase price of the goods bought and the total amount
 of charges for work done under a contract shall be considered. No contract or
 purchase shall be subdivided to avoid the requirements of this subchapter
 pertaining to purchases or contracts of $2,500 or more.
 (1994 Code, § 5-417) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
-§ 34.47 OFFICERS AND EMPLOYEES NOT TO HAVE FINANCIAL INTEREST.
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
+§ 34.48 OFFICERS AND EMPLOYEES NOT TO HAVE FINANCIAL INTEREST.
    No purchase shall be made from nor any contract for purchase of services
-made with any officer or employee of the city or any firm or corporation in
-which any officer or employee of the city is financially interested. No officer
-or employee of the city shall accept, directly or indirectly, any fee, rebate,
-money or other thing of value from any person employed by or doing business
-with the city, except on behalf of and for the use of the city.
+made with any officer of the city or any firm or corporation in which any
+officer of the city is financially interested. No officer or employee of the
+city shall accept, directly or indirectly, any fee, rebate, money or other
+thing of value from any person employed by or doing business with the city,
+except on behalf of and for the use of the city.
 (1994 Code, § 5-418) (Ord. 404, passed 9-9-1985; Ord. 457, passed 10-4-1990;
-Ord. 775, passed 6-22-2015)
+Ord. 775, passed 6-22-2015; Ord. 892, passed 8-28-2023)
 COST RECOVERY
 § 34.60 PURPOSE.
    This subchapter is intended to provide for recovery by the city, a body
@@ -4016,6 +4089,11 @@ Section
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
+   BULKY REFUSE. Includes, but is not limited to appliances (stoves,
+refrigerators, water tanks, washing machines), mattresses and box springs,
+electronics, furniture, automotive parts, tires, bedding, furnaces, building
+materials or similar bulky material weighing more than 40 pounds and/or having
+a volume greater than 30 gallons.
    MUNICIPAL CLEAN UP. The city will provide a municipal clean up service
 referred to as “Spring and Fall Clean Up” for no charge once per every spring
 season and once per every fall season. (See §
@@ -4043,7 +4121,8 @@ discarded materials of every kind, all of which is left in front, back or side
 yards, or porches, more than one week; or waste or non-waste building material
 left in front, back or side yards for more than 30 days.
 (1994 Code, § 17-101) (Ord. 434, passed 1-7-1987; Ord. 744, passed 10-29-2013;
-Ord. 826, passed 10-22-2018; Ord. 881, passed 7-25-2022)
+Ord. 826, passed 10-22-2018; Ord. 881, passed 7-25-2022; Ord. 896, passed 3-25-
+2024)
 § 50.02 COLLECTION ROUTES.
    (A)   The city shall collect all refuse and trash within the city. Private
 contractors presently serving locations within the corporate limits shall be
@@ -4055,9 +4134,35 @@ designated and the days and time of collections determined by the Public Works
 Director and approved by the City Manager.
 (1994 Code, § 17-102) (Ord. 434, passed 1-7-1987)
 § 50.03 DUMPING.
-   It shall be unlawful to dump or place any refuse, garbage, trash or ashes on
-any premises in the city, except as specified in this chapter.
-(1994 Code, § 17-103) (Ord. 434, passed 1-7-1987) Penalty, see §
+   (A)   It shall be unlawful to dump or place any refuse, garbage, trash or
+ashes on any premises in the city, except as specified in this chapter.
+   (B)   It shall be a civil offense punishable by fine of no more than $50 per
+day for any person, firm or corporation to willfully place bulky refuse on any
+curb, yard, side yard, alley way, sidewalk, street, vacant lot or to place or
+permit to remain anywhere in the city any bulky refuse for a period of more
+than two business days without having paid and secured a ticket for curbside
+pickup pursuant to § 50.14. Each day such violation is committed shall
+constitute a separate offense.
+   (C)   Collection at property owner's expense. If the property owner of
+record fails or refuses to remedy the condition within the time periods
+established for compliance at the discretion of the Codes Enforcement Officer
+after receiving a citation or notice of violation, the officer shall have the
+authority to immediately cause the bulky refuse to be removed at a cost in
+conformity with reasonable standards, and the cost thereof shall be assessed
+against the owner of the property. Upon the filing of the notice with the
+Office of the Register of Deeds for McMinn County, the costs shall be a lien on
+the property in favor of the municipality, second only to liens of the state,
+county and municipality for taxes, any lien of the municipality for special
+assessments and any valid lien, right or interest in such property duly
+recorded and perfected by filing prior to the filing of such notice. These
+costs shall be placed on the tax rolls of the municipality as a lien and shall
+be added to property tax bills to be collected at the same time and in the same
+manner as property taxes are collected. If the owner fails to pay the costs,
+they may be collected at the same time and in the same manner as delinquent
+property taxes are collected and shall be subject to the same penalty and
+interest as delinquent property taxes.
+(1994 Code, § 17-103) (Ord. 434, passed 1-7-1987; Ord. 896, passed 3-25-2024)
+Penalty, see §
 50.99
 § 50.04 DISPOSAL.
    (A)   It shall be a civil offense to dispose of any refuse, garbage or ashes
@@ -4278,8 +4383,13 @@ provisions of this chapter shall be fined not less than $5, nor more than $50.
 Each day such violation is committed shall constitute a separate offense.
    (B)   If materials are determined to be construction waste, per §
 50.06(B), the homeowner can be fined up to $50 per each offense.
+   (C)   Remedies not exclusive. The remedies provided in this chapter are not
+exclusive or in lieu of other rights and remedies that the city may have. The
+Codes Enforcement Officer, in the exercise of reasonable discretion, may elect
+to issue a citation, notice of violation or to clean up the property at the
+owner's expense.
 (1994 Code, § 17-114) (Ord. 434, passed 1-7-1987; Ord. 720, passed 2-27-2012;
-Ord. 744, passed 10-29-2013)
+Ord. 744, passed 10-29-2013; Ord. 896, passed 3-25-2024)
 CHAPTER 51: SEWERS
 Section
 General Wastewater Regulations
@@ -4315,7 +4425,8 @@ Program
 51.28   Reporting requirements
    
 51.29   Enforcement response plan
-   51.30   Enforcement response guide table
+   
+51.30   Enforcement response guide table
    
 51.31   Fees and billing
    
@@ -4495,10 +4606,10 @@ usually 1,000 gallons to 2,000 gallons in capacity with proper inlet and outlet
 Ts, that provides fat oil and grease (FOG) control for a food services
 establishment (FSE). GREASE INTERCEPTORS will be located outside the FSE,
 unless a variance request has been granted.
-   GREASE TRAP. Grease control equipment identified as an “under the sink”
+   GREASE TRAP. Grease control equipment identified as an "under the sink"
 trap, a small container with baffles, or a floor trap. For a FSE approved to
 install a grease trap, the minimum size requirement is the equivalent of a 20-
-gallon per minute/ 40 pound capacity trap. All GREASE TRAPS will have a flow
+gallon per minute/40 pound capacity trap. All GREASE TRAPS will have a flow
 control restrictor and vent pipe.
    HOLDING TANK WASTE. Any waste from holding tanks such as vessels, chemical
 toilets, campers, trailers, septic tanks and vacuum pump tank trucks.
@@ -4728,7 +4839,8 @@ natural or artificial, public or private, that are contained within, flow
 through or border upon the state or any portion thereof.
    1200-4-14. Chapter 1200-4-14 of the Rules and Regulations of the State of
 Tennessee, Pretreatment Requirements.
-(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016)
+(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016; Ord. 886, passed 6-
+26-2023)
 § 51.04 PROPER WASTE DISPOSAL REQUIRED.
    (A)   It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -5161,9 +5273,9 @@ according to §§
 51.35 of this chapter. Dilution of any wastewater discharge for the purpose of
 satisfying these requirements shall be considered in violation of this
 subchapter.
-Table A: Plant Protection Criteria
+Table A: Plant Protection Criteria**
 Parameter Monthly Maximum Concentration (mg/l)
-Table A: Plant Protection Criteria
+Table A: Plant Protection Criteria**
 Parameter                 Monthly Maximum Concentration (mg/l)
 Arsenic                   0.100 mg/l
 Benzene                   0.013 mg/l
@@ -5193,8 +5305,11 @@ Trichlorethlene           0.100 mg/l
 1,2 Transdichloroethylene 0.008 mg/l
 Zinc                      0.190 mg/l
 * Silver is daily max
+** Plant protection criteria will be on file at the offices of the Etowah
+Utilities and located on our website at www.etowahutilities.com 
  
-(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016)
+(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016; Ord. 886, passed 6-
+26-2023)
 § 51.10 ENFORCEMENT AND ABATEMENT.
    (A)   Violators of these wastewater regulations may be cited to City Court,
 General Sessions Court, Chancery Court or other court of competent
@@ -5258,37 +5373,41 @@ public notice of users found in significant non- compliance.
 discharge pollutants to those levels that are established as Table B: Local
 Limits or other applicable state and federal pretreatment rules which may take
 effect after the passage of this chapter.
-Table B: Local Limits
+Table B: Local Limits*
 Pollutant Daily Maximum Concentration (mg/l)
-Table B: Local Limits
-Pollutant                 Daily Maximum Concentration (mg/l)
-Arsenic                   0.409 mg/l
-Benzene                   0.052 mg/l
-Boron                     34.6196 mg/l
-Cadmium                   0.136 mg/l
-Carbon Tetrachloride      6.155 mg/l
-Chloroform                0.914 mg/l
-Chromium (total)          4.096 mg/l
-Copper                    0.641 mg/l
-Cyanide                   0.251 mg/l
-Ethybenzene               0.163 mg/l
-Lead                      1.153 mg/l
-Manganese                 34.5523 mg/l
-Mercury                   0.006mg/l
-Methylene chloride        0.390 mg/l
-Molybdenum                0.072 mg/l
-Napthalene                0.050 mg/l
-Nickel                    1.011 mg/l
-Phenol                    1.836 mg/l
-Selenium                  0.055 mg/l
-Silver                    0.256 mg/l
-Tetrachloroethylene       0.569 mg/l
-Toluene                   0.875 mg/l
-Total Phthalate           0.688 mg/l
-Trichlorethlene           0.409 mg/l
-1,1,1-Trichoroethane      1.025 mg/l
-1,2 Transdichloroethylene 0.030mg/l
-Zinc                      0.654 mg/l
+Table B: Local Limits*
+Pollutant             Daily Maximum Concentration (mg/l)
+Arsenic               0.409 mg/l
+Benzene               0.052 mg/l
+Boron                 34.6196 mg/l
+Cadmium               0.136 mg/l
+Carbon Tetrachloride  6.155 mg/l
+Chloroform            0.914 mg/l
+Chromium (total)      4.096 mg/l
+Copper                0.641 mg/l
+Cyanide               0.251 mg/l
+Ethybenzene           0.163 mg/l
+Lead                  1.153 mg/l
+Manganese             34.5523 mg/l
+Mercury               0.006mg/l
+Methylene chloride    0.390 mg/l
+Molybdenum            0.072 mg/l
+Napthalene            0.050 mg/l
+Nickel                1.011 mg/l
+Phenol                1.836 mg/l
+Selenium              0.055 mg/l
+Silver                Local limits will be on file at the offices of the Etowah
+                      Utilities and located on our website at www.etowahutilities.com 
+Tetrachloroethylene   0.569 mg/l
+Toluene               0.875 mg/l
+Total Phthalate       0.688 mg/l
+Trichlorethlene       0.409 mg/l
+1,1,1-Trichoroethane  1.025 mg/l
+1,2                   0.030mg/l
+Transdichloroethylene
+Zinc                  0.654 mg/l
+* Local limits will be on file at the offices of the Etowah Utilities and located on
+our website at www.etowahutilities.com 
  
    (E)   Protection of treatment plant influent. The pretreatment coordinator
 shall monitor the treatment works influent for each parameter in Table A: Plant
@@ -5320,7 +5439,8 @@ violation of the NPDES permit, or to exceed industrial pretreatment standards
 for discharge to municipal wastewater treatment systems as imposed or as may be
 imposed by the State Department of Environment and Conservation and/or the
 United States Environmental Protection Agency.
-(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016)
+(Ord. 699, passed 10-26-2009; Ord. 784, passed 4-25-2016; Ord. 886, passed 6-
+26-2023)
 § 51.26 DISCHARGE PERMITS.
    (A)   Application for discharge of commercial or industrial wastewater. All
 users or prospective users which generate commercial or industrial wastewater
@@ -6655,7 +6775,7 @@ referred to as the “25% Rule”. At no time, shall the cleaning frequency exce
 case by case situation with submittal by the FSE documenting proof of proposed
 frequency. Some existing FSEs in Class 2 through 5 will need to consider
 monthly pumping to meet this requirement.
-[https://export.amlegal.com/media/8d3e800db1177de36fadc7ced2af90108b3cd123/
+[https://export.amlegal.com/media/c6a4833cf45482ff8c0a32da3e6bde8f382eff2c/
 IMAGES/0-0-0-1472.jpg]
  
       (4)   Grease interceptor effluent-T will be inspected during cleaning and
@@ -6670,7 +6790,7 @@ compartments will have access manholes at each compartment).
    (F)   Grease trap cleaning/maintenance requirements.
       (1)   All grease traps will have flow control restrictor and vented.
 Failure to have the flow restrictor and venting will be considered a violation.
-[https://export.amlegal.com/media/8d3e800db1177de36fadc7ced2af90108b3cd123/
+[https://export.amlegal.com/media/c6a4833cf45482ff8c0a32da3e6bde8f382eff2c/
 IMAGES/0-0-0-1474.jpg]
  
       (2)   Grease trap minimum size requirement is a 20 gallon per minute/40
@@ -9188,6 +9308,8 @@ TITLE IX: GENERAL REGULATIONS
 91.   HEALTH AND SANITATION; NUISANCES
       
 92.   JUNK AND JUNK VEHICLES
+      
+93.   SMALL WIRELESS FACILITIES INSTALLATION
 CHAPTER 90: ANIMALS
 Section
 General Provisions
@@ -10213,6 +10335,110 @@ for failure to sign the citation in lieu of arrest.
 penalty is prescribed shall be subject to §
 10.99 of this code of ordinances.
 (1994 Code, § 13-405) (Ord. 584, passed 12-13-1999)
+CHAPTER 93: SMALL WIRELESS FACILITIES INSTALLATION
+Section
+   
+93.01   Authority and purpose
+   
+93.02   Definitions
+   
+93.03   Permit requirements
+   
+93.04   Fee structure
+   
+93.05   Maintenance and compliance
+   
+93.06   Enforcement
+§ 93.01 AUTHORITY AND PURPOSE.
+   Pursuant to Tenn. Code Ann., Title 13, Ch. 24, the city hereby establishes
+regulations governing the installation of utility poles for small wireless
+facilities within the city limits. The purpose of this chapter is to:
+   (A)   Provide a clear and consistent permitting process for wireless
+infrastructure deployment.
+   (B)   Ensure the public safety and aesthetic integrity of the city's rights-
+of-way.
+   (C)   Establish reasonable fees to compensate the city for administrative
+and infrastructure costs.
+(Ord. 906, passed 2-24-2025)
+§ 93.02 DEFINITIONS.
+   For the purpose of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   SMALL WIRELESS FACILITY. Radio transmission equipment, antennas, and
+associated equipment having the following characteristics:
+      (1)   Mounted on a utility pole or wireless support structure;
+      (2)   Total volume not exceeding 28 cubic feet;
+      (3)   No more than six cubic feet of equipment is placed on the ground;
+      (4)   Consistent with applicable federal regulations for such facilities.
+   UTILITY POLE. A pole constructed of wood, concrete, metal, or other
+material, typically used to support electric, telephone, or other communication
+lines, lighting, or similar equipment.
+(Ord. 906, passed 2-24-2025)
+§ 93.03 PERMIT REQUIREMENTS.
+   (A)   Permit application. All entities seeking to install utility poles for
+small wireless facilities within the city's rights-of-way must:
+      (1)   Submit a comprehensive written application to the City Manager's
+office;
+      (2)   Provide detailed site plans, including:
+         (a)   Exact proposed location;
+         (b)   Pole specifications;
+         (c)   Equipment dimensions;
+         (d)   Proposed attachment methods.
+      (3)   Demonstrate compliance with all applicable federal, state, and
+local regulations.
+   (B)   Application review. The City Manager or designated representative
+shall:
+      (1)   Review complete applications within 30 business days;
+      (2)   Evaluate compliance with:
+         (a)   Zoning regulations;
+         (b)   Aesthetic standards;
+         (c)   Public safety requirements;
+      (3)   Provide written notification of approval, conditional approval, or
+denial.
+   (C)   Denial criteria. The city may deny an application if the proposed
+installation:
+      (1)   Endangers public safety;
+      (2)   Interferes with existing city infrastructure;
+      (3)   Violates specific design or placement guidelines;
+      (4)   Fails to meet technical or regulatory standards.
+(Ord. 906, passed 2-24-2025)
+§ 93.04 FEE STRUCTURE.
+   (A)   Permit fees. In strict compliance with Tenn. Code Ann. § 13-24-407,
+the city establishes the following fees:
+      (1)   Permit application fee. Not to exceed $100 per small wireless
+facility;
+      (2)   Annual collocation fee. Not to exceed $270 per small wireless
+facility;
+      (3)   Right-of-way access fee. Calculated as follows:
+         (a)   Initial application. Not to exceed $1,000;
+         (b)   Annual fee. $50 per linear foot of occupied right-of-way, not to
+exceed the actual, direct and reasonable costs of managing the right-of-way;
+         (c)   In no case shall the total annual fees exceed the limitations
+prescribed in Tenn. Code Ann. § 13-24-407.
+   (B)   Fee limitations. The city affirms that:
+      (1)   Fees are competitively neutral, technology-neutral, and non-
+discriminatory;
+      (2)   Fees are limited to recovering the city's actual, direct, and
+reasonable costs;
+      (3)   Fees comply with the maximum amounts specified in state law;
+      (4)   Fees shall not be used to generate revenue beyond cost recovery.
+(Ord. 906, passed 2-24-2025)
+§ 93.05 MAINTENANCE AND COMPLIANCE.
+   (A)   Maintenance standards. Permit holders shall:
+      (1)   Maintain facilities in good condition;
+      (2)   Repair or replace damaged equipment within 30 days of notification;
+      (3)   Ensure compliance with all federal and state regulations;
+      (4)   Remove abandoned or non-functional equipment within 90 days.
+   (B)   Revocation. The city may revoke permits for:
+      (1)   Repeated violations of permit conditions;
+      (2)   Failure to maintain facilities;
+      (3)   Non-payment of required fees.
+(Ord. 906, passed 2-24-2025)
+§ 93.06 ENFORCEMENT.
+   Violations of this chapter may result in:
+   (A)   Mandatory equipment removal;
+   (B)   Suspension or revocation of permit;
+   (C)   Legal action to enforce compliance.
+(Ord. 906, passed 2-24-2025)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -11826,6 +12052,8 @@ Section
 130.12   Barbed wire and electrically charged partition fences
    
 130.13   Library rules
+   
+130.14   Public space regulations
  
    
 130.99   Penalty
@@ -12067,6 +12295,93 @@ this section.
 (1994 Code, § 11-706) (Ord. 395, passed 5-28-1985; Ord. 494, passed 9-2-1993)
 Penalty, see §
 130.99
+§ 130.14 PUBLIC SPACE REGULATIONS.
+   (A)   Definitions. For purposes of this section, the following terms shall
+have the meanings ascribed herein:
+      PANHANDLING. To solicit money, goods, services, or other things of value
+from another person, whether by spoken words, bodily gestures, written signs,
+or other means of communication.
+      PUBLIC SPACE. A publicly owned building and premises appurtenant thereto,
+any public park, sidewalk or other right-of-way open to the general public,
+including alleys, bridges, buildings, driveways, parking lots, parks, bridges,
+overpasses, plazas and streets. PUBLIC PLACE also means private property open
+to the public where the owner or occupant does not consent to solicitation.
+      RIGHTS-OF-WAY. The surface of and space above and below any public
+street, sidewalk, alley, court, lane, path, boulevard, drive, or other way held
+by the city for purposes of travel.
+      SOLICIT AND SOLICITATION. Any request in person while in a public place,
+for an immediate grant of money, goods or any other form of gratuity from
+another person when the person making the request is not known to the other
+person who is the subject of such request.
+      CAMP OR CAMPING. To set up, establish, or maintain a temporary or
+permanent place to live, sleep, or store personal belongings, including but not
+limited to sleeping in or under any structure, vehicle, tent, tarpaulin,
+bedding, or other cover.
+   (B)   Panhandling and improper solicitation prohibited.
+      (1)   No person shall engage in panhandling in any public space or right-
+of-way within the city.
+      (2)   No person shall engage in panhandling or soliciting in any of the
+following locations:
+         (a)   Within 25 feet of any entrance or exit of any bank, credit
+union, or automated teller machine;
+         (b)   Within 25 feet of any entrance or exit of any retail
+establishment;
+         (c)   On any public transportation vehicle;
+         (d)   Within any public parking lot;
+         (e)   Within 50 feet of any school property.
+      (3)   Improper solicitation. It is unlawful for any person to solicit in
+the following places during the following conditions:
+         (a)   Soliciting while intentionally or knowingly causing the
+individual being solicited to reasonably fear imminent bodily injury;
+         (b)   Soliciting while intentionally, knowingly or recklessly causing
+bodily injury to the solicited individual;
+         (c)   Soliciting while intentionally or knowingly causing physical
+contact with the solicited individual, and a reasonable person would regard the
+contact as extremely offensive or provocative;
+         (d)   Soliciting while blocking the path of the individual being
+solicited, so that the individual cannot reasonably enter a public place or
+vehicle;
+         (e)   Soliciting while following or accompanying the solicited
+individual without the solicited individual's consent after the solicited
+individual has declined to donate money or something else of value.
+      (4)   Aggressive panhandling. A person commits aggressive panhandling who
+solicits a donation of money or goods in the following manner:
+         (a)   By intentionally touching the person being solicited without the
+person's consent;
+         (b)   By intentionally obstructing the path of the person, or of the
+vehicle of the person, being solicited;
+         (c)   By following a person who is walking away from the person
+soliciting the donation, unless that person has indicated that the person
+wishes to make a donation; or
+         (d)   By making any statement, gesture, or other communication that
+would cause a reasonable person to feel fear of personal harm for refusing a
+solicitation of a donation.
+      (5)   This section shall not apply to the solicitation of funds by
+recognized charitable organizations that have obtained proper permits as
+required by city ordinances.
+   (C)   Camping and overnight sleeping prohibited.
+      (1)   No person shall camp or engage in overnight sleeping on any
+sidewalk, street, alley, or within any doorway of any public or private
+structure within the city.
+      (2)   No person shall camp or engage in overnight sleeping in any public
+space.
+      (3)   No person shall store personal property in any public space in a
+manner that interferes with the intended use of such space or creates a health
+or safety hazard.
+   (D)   Enforcement and penalties.
+      (1)   Any law enforcement officer of the city may issue a citation for
+violation of this chapter.
+      (2)   Violation of any provision of this chapter shall constitute a civil
+offense punishable by a fine not to exceed $50 for each offense.
+      (3)   Violation of division (B)(4) of this chapter shall constitute a
+Class C Misdemeanor pursuant to Tenn. Code Ann. § 39-17-313 (2015).
+      (4)   Each day that a violation continues shall constitute a separate
+offense.
+   (E)   Exceptions. This chapter shall not apply to any persons camping in
+areas specifically designated by the city for such purposes; persons
+participating in permitted events or activities; or persons experiencing a
+medical emergency.
+(Ord. 914, passed 8-25-2025)
 § 130.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -12131,7 +12446,7 @@ Codes Adopted
    
 150.28   Gas Code
    
-150.29   International Property Maintenance Code 2012
+150.29   Property Maintenance Code
    
 150.30   Fire Code
    
@@ -12352,17 +12667,14 @@ CODES ADOPTED
 § 150.25 BUILDING CODE.
    (A)   Building Code adopted. Pursuant to authority granted by Tenn. Code
 Ann. §§ 6-54-501 through 6-54-506, and for the purpose of regulating the
-construction, alteration, repair, use and occupancy, location, maintenance,
+construction, alteration, repair, use, and occupancy, location, maintenance,
 removal and demolition of every building or structure, the International
-Building Code 2012, except for § 113 (Means of Appeal), to the extent that said
-sections conflict with Tenn. Code. Ann. §§ 6-54-1001 et seq., the
-Administrative Hearing Officer Act, and except for Ch. 27, but including
-Appendices B, C, E, F, G, H, I, J and K-8, and the International Residential
-Code 2012 with Appendices E, G, H, J, K and M, as prepared and published by the
-International Code Council, are hereby adopted and incorporated by reference as
-a part of the code and are hereinafter referred to as the “Building Code”.
+Building Code 2018, including appendices and the International Residential Code
+2018 with appendices as prepared and published by the International Code
+Council are hereby adopted and incorporated by reference as a part of this code
+and are hereinafter referred to as the “Building Code.”
 (1994 Code, § 12-101)
-   (B)   Modifications.
+   (B)   Modifications. 
       (1)   Whenever the Building Code refers to the Chief Appointing Authority
 or the Chief Administrator, it shall be deemed to be a reference to the City
 Manager. When the Building Official or Codes Enforcement Officer is named it
@@ -12370,47 +12682,38 @@ shall, for the purposes of the Building Code, mean such person as the City
 Manager shall have appointed or designated to administer and enforce the
 provisions of the Building Code.
       (2)   The exceptions provided in Tenn. Code Ann. § 62-2-102(b) shall
-apply to the requirements for construction documents as found in § 106-1. The
-provisions of Tenn. Code Ann. § 62-2-102(b) are:
-            (b)   It is unlawful for any person other than a registered
-architect or engineer to prepare plans and specifications for any building or
-structure other than the following:
-               (1)   Structures classified as business, factory-industrial,
+apply to the requirements for construction documents as found in § 106.1. The
+provisions of Tenn. Code Ann. § 62- 2-102(b) are:
+         (b)   It is unlawful for any person other than a registered architect
+or engineer to prepare plans and specifications for any building or structure
+other than the following:
+            (1)   Structures classified as business, factory-industrial,
 hazardous, mercantile, residential, and storage occupancies, as such
-occupancies are defined in the 2012 edition of the International Building Code,
-which are:
-                  (A)   Less than three (3) stories in height; and
-                  (B)   Less than five thousand square feet (5,000 sq. ft.) in
+occupancies are defined in the 2018 edition of the International Building Code,
+which are;
+               (A)   Less than three (3) stories in height; and
+               (B)   Less than five thousand square feet (5,000 sq. ft.) in
 total gross area;
-               (2)   One-family and two-family dwellings and domestic
-outbuildings appurtenant thereto; or
-               (3)   Farm buildings not designed or intended for human
-occupancy.
-            (c)   Nothing in this section shall prevent any awarding authority,
+            (2)   One-family and two-family dwellings and domestic outbuildings
+appurtenant thereto; or
+            (3)   Farm buildings not designed or intended for human occupancy.
+         (c)   Nothing in this section shall prevent any awarding authority,
 public or private, from requiring the services of a registered architect,
 engineer or landscape architect for any project.
-      (3)   The schedule of permit fees shall be set by resolution of the City
-Commission as from time to time is necessary.
+      (3)   The schedule of permit fees shall be set by resolution of the Board
+of Commissioners as from time to time is necessary.
 (1994 Code, § 12-102)
-   (C)   Available in Recorder’s office. Pursuant to the requirements of the
-Tenn. Code Ann. § 6-54-502, one copy of the Building Code has been placed on
-file in the Recorder’s (Finance Director’s) office and shall be kept there for
-the use and inspection of the public.
-(1994 Code, § 12-103)
-   (D)   Limitation on demolition permits. The required length of demolition
-permits shall be 60 days for residential structures and 90 days for commercial
-structures.
-(1994 Code, § 12-104)
 (Ord. 355, passed - -; Ord. 469, passed 9-19-1991; Ord. 494, passed 9-2-1993;
-Ord. 497, passed 11-4-1993; Ord. 748, passed 12-16-2013)
+Ord. 497, passed 11-4-1993; Ord. 748, passed 12-16-2013; Ord. 891, passed 7-24-
+2023)
 § 150.26 PLUMBING CODE.
    (A)   Plumbing Code adopted.
       (1)   Pursuant to authority connected with the municipal water or
-sewerage system, the International Plumbing Code 2012, as published by the
+sewerage system, the International Plumbing Code 2018, as published by the
 International Code Council, is hereby adopted and incorporated by reference as
-a part of this code and is hereinafter referred to as the “Plumbing Code”.
+a part of this code and is hereinafter referred to as the “Plumbing Code.”
       (2)   The fees for all plumbing work in the city shall be set by
-resolution of the City Commission, as from time to time are necessary.
+resolution of the Board of Commissioners, as from time to time are necessary.
 (1994 Code, § 12-201)
    (B)   Modifications. Whenever the Building Code refers to the Chief
 Appointing Authority or the Chief Administrator, it shall mean the City
@@ -12418,333 +12721,80 @@ Manager. Whenever Plumbing Official or Inspector is named or referred to, it
 shall mean the person appointed or designated by the City Manager to administer
 and enforce the provisions of the Plumbing Code.
 (1994 Code, § 12-202)
-   (C)   Available in Recorder’s office. Pursuant to the requirements of Tenn.
-Code Ann. § 6-54-502, one copy of the Plumbing Code has been placed on file in
-the Recorder’s (Finance Director’s) office and shall be kept there for the use
-and inspection of the public.
-(1994 Code, § 12-203)
-   (D)   Violations. It shall be a civil offense for any person to violate or
-fail to comply with any provision of the Plumbing Code as herein adopted by
-reference and modified.
-(1994 Code, § 12-204)
-9-2-1993; Ord. 614, passed 5-28-2002; Ord. 748, passed 12-16-2013)
+(Ord. 614, passed 5-28-2002; Ord. 748, passed 12-16-2013; Ord. 891, passed 7-
+24-2023)
 § 150.27 ELECTRICAL CODE.
-   (A)   Electrical Code adopted. Pursuant to authority granted by Tenn. Code
-Ann. §§ 6-54-501 et seq. and for the purpose of providing practical minimum
-standards for the safeguarding of persons and of buildings and their contents
-from hazards arising from the use of electricity, the International Electrical
-Code, 2012 edition, as prepared by the National Fire Protection Association, is
+   Electrical Code adopted. Pursuant to authority granted by Tenn. Code Ann. §§
+6-54-501, et seq. and for the purpose of providing practical minimum standards
+for the safeguarding of persons and of buildings and their contents from
+hazards arising from the use of electricity, the International Electrical Code,
+2018 edition, as prepared by the National Fire Protection Association, is
 hereby adopted and incorporated herein by reference as a part of this code and
-is hereinafter referred to as the “Electrical Code”.
-(1994 Code, § 12-301)
-   (B)   Available in Recorder’s office. Pursuant to the requirements of Tenn.
-Code Ann. §§ 6-54-502, one copy of the Electrical Code has been placed on file
-in the Recorder’s (Finance Director’s) office and shall be kept there for the
-use and inspection of the public.
-(1994 Code, § 12-302)
-   (C)   Permit required for doing electrical work. No electrical work shall be
-done within the city until a permit therefor has been issued by the Deputy
-Electrical Inspector. The term “electrical work” shall not be deemed to include
-minor repairs that do not involve the installation of new wire, conduits,
-machinery, apparatus or other electrical devices generally requiring the
-services of an electrician.
-(1994 Code, § 12-303)
-   (D)   Enforcement. The Electrical Inspector shall be such person as
-designated by state statute. It shall be his or her duty to enforce compliance
-with this section and the Electrical Code, as herein adopted by reference. He
-or she is authorized and directed to make such inspections of electrical
-equipment and wiring and the like as are necessary to ensure compliance with
-the applicable regulations, and may enter any premises or building at any
-reasonable time for the purpose of discharging his or her duties. He or she is
-authorized to refuse or discontinue electrical services to any person or place
-not complying with this section and/or the Electrical Code.
-(1994 Code, § 12-304)
-   (E)   Fees. The Electrical Inspector shall collect the same fees as are
-authorized in Tenn. Code Ann. § 68-102-143 for electrical inspections by Deputy
-Inspectors of the State Fire Marshal.
-(1994 Code, § 12-305)
-(Ord. 497, passed 11-4-1993; Ord. 748, passed 12-16-2013)
+is hereinafter referred to as the “Electrical Code.”
+(1994 Code, § 12-301) (Ord. 497, passed 11-4-1993; Ord. 748, passed 12-16-2013;
+Ord. 891, passed 7-24-2023)
 § 150.28 GAS CODE.
-   (A)   Title and definitions.
-      (1)   This section and the code herein adopted by reference shall be
-known as the “Gas Code of the City of Etowah” and may be cited as such.
-      (2)   The following definitions are provided for the purpose of
-interpretation and administration of the Gas Code.
-         CERTAIN APPLIANCES. Conversion burners, floor furnaces, central
-heating plants, vented wall furnaces, water heaters and boilers.
-         CERTIFICATE OF APPROVAL. A document or tag issued and/or attached by
-the Inspector to the inspected material, piping or appliance installation,
-filled out, together with date, address of the premises and signed by the
-Inspector.
-         GAS COMPANY. Any person distributing gas within the corporate limits
-or authorized and proposing to so engage.
-         INSPECTOR. The person appointed as Inspector, and shall include each
-Assistant Inspector, if any, from time to time acting as such under this
-section by appointment of the City Commission.
-         PERSON. Any individual, partnership, firm, corporation or any other
-organized group of individuals.
-(1994 Code, § 12-401)
-   (B)   Purpose and scope. The purpose of the Gas Code is to provide minimum
-standards, provisions and requirements for safe installation of consumers’ gas
-piping and gas appliances. The Gas Code shall apply to the installation of gas
-piping from the point of delivery, gas appliances and related accessories as
-covered in this Code. All gas piping and gas appliances installed, replaced,
-maintained or repaired within the corporate limits shall conform to the
-requirements of this section and to the International Fuel Gas Code 2012, which
-is hereby incorporated by reference and made a part of this section as if fully
-set forth herein. One copy of the Gas Code shall be kept on file in the office
-of the Finance Director for the use and inspection of the public.
-(1994 Code, § 12-402)
-   (C)   Use of existing piping and appliances. Notwithstanding any provision
-in the Gas Code to the contrary, consumer’s piping installed prior to the
-adoption of the Gas Code or piping installed to supply other than natural gas
-may be converted to natural gas if the Inspector finds, upon inspection and
-proper tests, that such piping will render reasonably satisfactory gas service
-to the consumer and will not in any way endanger life or property; otherwise,
-such piping shall be altered or replaced, in whole or in part, to conform with
-the requirements of the Gas Code.
-(1994 Code, § 12-403)
-   (D)   Bond and license.
-      (1)   No person shall engage in or work at the installation, extension or
-alteration of consumer’s gas piping or certain gas appliances, until such
-person shall have secured a license as hereinafter provided, and shall have
-executed and delivered to the Utilities a good and sufficient bond in the penal
-sum of $10,000, with corporate surety, conditioned for the faithful performance
-of all such work, entered upon or contracted for, in strict accordance and
-compliance with the provisions of the Gas Code. The bond herein required shall
-expire on January 1 next following its approval by the Utilities and,
-thereafter, on January 1 of each year a new bond, in form and substance as
-herein required, shall be given by such person to cover all such work as shall
-be done during such year.
-      (2)   Upon approval of said bond, the person desiring to do such work
-shall secure from the Utilities a non-transferable license, which shall run
-until January 1 next succeeding its issuance, unless sooner revoked. The person
-obtaining a license shall pay any applicable license fees to the Utilities.
-      (3)   Nothing herein contained shall be construed as prohibiting an
-individual from installing or repairing his or her own appliances or
-installing, extending, replacing, altering or repairing consumer’s piping on
-his or her own premises, or as requiring a license or a bond from an individual
-doing such work on his or her own premises; provided, however, all such work
-must be done in conformity with all other provisions of the Gas Code, including
-those relating to permits, inspections and fees.
-(1994 Code, § 12-404)
-   (E)   Gas Inspector and assistants. To provide for the administration and
-enforcement of the Gas Code, the Office of Gas Inspector is hereby created. The
-Inspector, and such assistants as may be necessary in the proper performance of
-the duties of the office, shall be appointed or designated by the City
-Commission and the compensation for such office shall be determined at the time
-of appointment.
-(1994 Code, § 12-405)
-   (F)   Powers and duties of Inspector.
-      (1)   The Inspector is authorized and directed to enforce all of the
-provisions of the Gas Code. Upon presentation of proper credentials, he or she
-may enter any building or premises at reasonable times for the purpose of
-making inspections or preventing violations of the Gas Code.
-      (2)   The Inspector is authorized to disconnect any gas piping or fixture
-or appliance for which a certificate of approval is required, but has not been
-issued with respect to same, or which, upon inspection, shall be found
-defective or in such condition as to endanger life or property. In all cases
-where such a disconnection is made, a notice shall be attached to the piping,
-fixture or appliance disconnected by the Inspector, which notice shall state
-that the same has been disconnected by the Inspector, together with the reason
-or reasons therefor, and it shall be unlawful for any person to remove said
-notice or reconnect said gas piping or fixture or appliance without
-authorization by the Inspector and such gas piping or fixture or appliance
-shall not be put in service or used until the Inspector has attached his or her
-certificate of approval in lieu of his or her prior disconnection notice.
-      (3)   It shall be the duty of the Inspector to confer from time to time
-with representatives of the local Health Department, the local Fire Department
-and the gas company, and otherwise obtain from proper sources all helpful
-information and advice, presenting same to the appropriate officials from time
-to time for their consideration.
-(1994 Code, § 12-406)
-   (G)   Permits.
-      (1)   No person shall install a gas conversion burner, floor furnace,
-central heating plant, vented wall furnace, water heater, boiler, consumer’s
-gas piping or convert existing piping to utilize natural gas without first
-obtaining a permit to do such work from the Utilities; however, permits will
-not be required for setting or connecting other gas appliances, or for the
-repair of leaks in house piping.
-      (2)   When only temporary use of gas is desired, the Inspector may issue
-a permit for such use, for a period of not to exceed 60 days; provided, the
-consumer’s gas piping to be used is given a test equal to that required for a
-final piping inspection.
-      (3)   Except when work in a public street or other public way is
-involved, the gas company shall not be required to obtain permits to set
-meters, or to extend, relocate, remove or repair its service lines, mains or
-other facilities, or for work having to do with its own gas system.
-(1994 Code, § 12-407)
-   (H)   Inspections.
-      (1)   A rough piping inspection shall be made after all new piping
-authorized by the permit has been installed, and before any such piping has
-been covered or concealed or any fixtures or gas appliances have been attached
-thereto.
-      (2)   A final piping inspection shall be made after all piping authorized
-by the permit has been installed and after all portions thereof which are to be
-concealed by plastering or otherwise have been so concealed, and before any
-fixtures or gas appliances have been attached thereto. This inspection shall
-include a pressure test, at which time the piping shall stand an air pressure
-equal to not less than the pressure of a column of mercury six inches in
-height, and the piping shall hold this air pressure for a period of at least
-ten minutes without any perceptible drop. A mercury column gauge shall be used
-for the test. All tools, apparatus, labor and assistance necessary for the test
-shall be furnished by the installer of such piping.
-(1994 Code, § 12-408)
-   (I)   Certificates. The Inspector shall issue a certificate of approval at
-the completion of the work for which a permit for consumer piping has been
-issued if, after inspection, it is found that such work complies with the
-provisions of the Gas Code. A duplicate of each certificate issued covering
-consumer’s gas piping shall be delivered to the gas company and used as its
-authority to render gas service.
-(1994 Code, § 12-409)
-   (J)   Fees.
-      (1)   The total fees for inspection of consumers gas piping at one
-location (including both rough and final piping inspections) shall be $10 for
-one to five outlets, inclusive, and $2 for each outlet above five.
-      (2)   The fees for inspecting conversion burners, floor furnaces, boilers
-or central heating plants shall be $10 for each unit.
-      (3)   The fees for inspecting vented wall furnaces and water heaters
-shall be $2 for each unit.
-      (4)   If the Inspector is called back, after correction of defects are
-noted, an additional fee of $5 shall be made for each such return inspection.
-      (5)   Any and all fees shall be paid by the person to whom the permit is
-issued.
-(1994 Code, § 12-410)
-   (K)   Non-liability. This section shall not be construed as imposing upon
-the city any liability or responsibility for damages to any person injured by
-any defect in any gas piping or appliance mentioned herein, or by installation
-thereof, nor shall the city, or any official or employee thereof, be held as
-assuming any such liability or responsibility by reason of the inspection
-authorized hereunder or the certificate of approval issued by the Inspector.
-(1994 Code, § 12-412)
-(Ord. 494, passed 9-2-1993; Ord. 748, passed 12-16-2013)
-§ 150.29 INTERNATIONAL PROPERTY MAINTENANCE CODE 2012.
-   (A)   Housing Code adopted. Pursuant to authority granted by Tenn. Code Ann.
-§§ 6-54-501 through 6-54-506, and for the purpose of securing the public
-safety, health and general welfare through structural strength, stability,
-sanitation, adequate light, HVAC and ventilation in residential dwellings,
-apartment houses, rooming houses and buildings, structures or premises used as
-such; and for regulating and governing the conditions and maintenance of all
-property, buildings and structures by providing the standards for supplied
-utilities and facilities and other conditions essential to ensure that
-structures are safe, sanitary and fit for occupation and use; and for the
-condemnation of buildings and structures unfit for human occupancy and use, and
-the demolition of such existing structures as provided herein and in Title 15,
-Chapter 154 of the Etowah Municipal Code, the International Properly
-Maintenance Code (2012 Edition), except for §§ 111.1 through 111.8 (Means of
-Appeal) as prepared by the International Codes Council, is hereby adopted and
-adopted by reference as a part of the Etowah Municipal Code and is hereinafter
-referred to as the Housing Code.
+   Gas Code adopted. Pursuant to authority granted by Tenn. Code Ann. §§ 6-54-
+501 et seq. and for the purpose of providing practical minimum standards for
+the safeguarding of persons and of buildings and their contents from hazards
+arising from the use of fuel and gas the International Fuel Gas Code, 2018
+edition, is hereby adopted and incorporated herein by reference as a part of
+this code and is hereinafter referred to as the “Fuel Gas Code.”
+(Ord. 494, passed 9-2-1993; Ord. 748, passed 12-16-2013; Ord. 891, passed 7-24-
+2023)
+§ 150.29 PROPERTY MAINTENANCE CODE.
+   (A)   Property Maintenance Code adopted. Pursuant to authority granted by
+Tenn. Code Ann. §§ 6-54-501 through 6-54-506, and for the purpose of securing
+the public safety, health and general welfare through structural strength,
+stability, sanitation, adequate light, HVAC and ventilation in residential
+dwellings, apartment houses, rooming houses and buildings, structures or
+premises used as such; and for regulating and governing the conditions and
+maintenance of all property, buildings and structures by providing the
+standards for supplied utilities and facilities and other conditions essential
+to ensure that structures are safe, sanitary and fit for occupation and use;
+and for the condemnation of buildings and structures unfit for human occupancy
+and use, and the demolition of such existing structures as provided in Chapter
+150 of this code, the International Property Maintenance Code (2018 edition) as
+prepared by the International Codes Council, is hereby adopted and incorporated
+by reference as a part of the this code and is hereinafter referred to as the
+“Property Maintenance Code.”
 (1994 Code, § 12-501)
-   (B)   Modifications.
-      (1)   Where the Housing Code refers to the Building Official, it shall
-mean the person appointed or designated by the City Manager to administer and
-enforce the provisions of the Housing Code. Where the Department of Law is
-referred to, it shall mean the City Attorney.
-      (2)   Where the Chief Appointing Authority is referred to, it shall mean
-the City Manager.
+   (B)   Modifications. Where the Property Maintenance Code refers to the
+Building Official shall mean the person appointed or designated by the City
+Manager to administer and enforce the provisions of the Housing Code. Where the
+Department of Law is referred to, it shall mean the City Attorney. Where the
+Chief Appointing Authority is referred to, it shall mean the City Manager.
 (1994 Code, § 12-502)
-   (C)   Available in Recorder’s office. Pursuant to the requirements of Tenn.
-Code Ann. § 6-54-502, one copy of the Housing Code with the above modifications
-has been placed on file in the Recorder’s (Finance Director’s) office and shall
-be kept there for the use and inspection of the public.
-(1994 Code, § 12-503)
-   (D)   Violations. It shall be a civil offense for any person to violate or
-fail to comply with any provision of the Housing Code as herein adopted by
-reference and modified.
-9-2-1993; Ord. 497, passed 11-4-1993; Ord. 713, passed 5-23-2011; Ord. 748,
-passed 12-16-2013)
+(Ord. 497, passed 11-4-1993; Ord. 713, passed 5-23-2011; Ord. 748, passed 12-
+16-2013; Ord. 891, passed 7-24-2023)
 § 150.30 FIRE CODE.
-   (A)   Fire Code adopted.
-      (1)   Pursuant to authority granted by Tenn. Code Ann. §§ 6-54-501
-through 6-54-506, and for the purpose of prescribing regulations governing
+   Fire Code adopted. Pursuant to authority granted by Tenn. Code Ann. §§ 6-54-
+501 through 6-54-506, and for the purpose of prescribing regulations governing
 conditions hazardous to life and property from fire or explosion, the
-International Fire Code 2012 edition, as prepared and adopted by the ICC, is
-hereby adopted by reference and included as a part of this Code. Pursuant to
-the requirements of Tenn. Code Ann. § 6-54-502, one copy of the International
-Fire Code has been filed with the City Manager and is available for public use
-and inspection. Said International Fire Code is adopted and incorporated as
-fully as if set out at length herein and shall be controlling with the
-corporate limits.
-      (2)   Excepted from said Fire Code adopted shall be § 903.2.8 of the
-International Fire Code and any other sections which require automatic
-sprinklers or sprinkler systems in any existing or new residential
-construction.
-(1994 Code, § 7-201)
-   (B)   Open burning restriction. After the effective date of these
-regulations, no person shall cause, suffer, allow or permit open burning of any
-kind, except as specifically permitted herein.
-(1994 Code, § 7-202)
-   (C)   Permits. Open burning, as described in this section, may not be
-conducted without permits. Fires used for cooking food, fires for ceremonial or
-recreational purposes, including barbecues and outdoor fireplaces, and fires
-set for the training and instruction of firefighters, do not need a permit.
-This gant of exemption shall in no way relieve the person from the
-consequences, damages or claims resulting from such burning. This exception
-does not relieve the person of the responsibility of using fire-safe practices
-nor from getting a permit from any other agency that may require such.
-(1994 Code, § 7-203)
-   (D)   Conditions. Open burning shall be allowed inside the corporate limits
-of the city only when a valid permit has been obtained from the Fire
-Department. Open burning of leaves, yard waste, refuse or trash shall not be
-permitted in the city, and permits shall not be issued for such activities.
-Prior to any other open burning, including disposal of construction debris or
-land clearing, the person requesting the permit shall be certain that no
-detriment to the public health or damage to the land, water or air will be
-caused. The following conditions shall always be met:
-      (1)   Open burning shall be between the hours of 8:00 a.m. until sundown;
-      (2)   All fires must be completely extinguished by sundown;
-      (3)   All fires must be attended to and under the direct supervision at
-all times of a person or persons that have sufficient capability and equipment
-to provide for complete extinguishment of the fire as needed;
-      (4)   Prevailing winds at the time of ignition must be away from any
-dwelling, structure, major highway or other populated area, the ambient air of
-which may be significantly affected by smoke, fly ash or other air contaminates
-from burning;
-      (5)   Asphaltic material, or items containing natural or synthetic
-rubber, shall not be burned or used to ignite the material to be burned or to
-promote the burning of such material; and
-      (6)   No burning shall be permitted within 30 feet of any structure or
-dwelling.
-(1994 Code, § 7-204)
-   (E)   Application. To obtain a permit required by this section, the
-applicant shall file an application with the Fire Department on the forms
-prescribed by the Department. No fee shall be required to obtain an open
-burning permit. All permits issued shall be displayed while the open burning is
-in progress. The Fire Department shall have the authority to forbid, restrict
-or suspend any and all burning when the Fire Chief or the senior fire officer
-in charge has determined that conditions are unfavorable or hazardous for
-outdoor fires.
-(1994 Code, § 7-205)
-(Ord. 412, passed 5-12-1986; Ord. 494, passed 9-2-1993; Ord. 497, passed 11-4-
-1993; Ord. 585, passed 12-23-1999; Ord. 612, passed 5-28-2002; Ord. 619, passed
-6-27-2002; Ord. 752, passed 1-27-2014)
+International Fire Code 2012 edition, is hereby adopted by reference and
+included as a part of this code.
+(1994 Code, § 7-201) (Ord. 412, passed 5-12-1986; Ord. 494, passed 9-2-1993;
+Ord. 497, passed 11-4-1993; Ord. 585, passed 12-23-1999; Ord. 612, passed 5-28-
+2002; Ord. 619, passed 6-27-2002; Ord. 752, passed 1-27-2014; Ord. 891, passed
+7-24-2023)
 § 150.31 ENERGY CONSERVATION CODE.
-   (A)   Energy Conservation Code adopted. Pursuant to authority granted by
-Tenn. Code Ann. §§ 6-54-501 through 6-54-506 and for the purpose of securing,
-the public safety, health and general welfare through all matters governing the
+   Energy Conservation Code adopted. Pursuant to authority granted by Tenn.
+Code Ann. §§ 6-54-501 through 6-54-506 and for the purpose of securing, the
+public safety, health, and general welfare through all matters governing the
 design and construction of buildings for energy efficiency, the International
-Energy Conservation Code 2012 is hereby adopted and incorporated by reference
+Energy Conservation Code 2018 is hereby adopted and incorporated by reference
 as a part of this code and is hereinafter referred to as the “Energy
-Conservation Code”.
-   (B)   Available in Recorder’s office. Pursuant to the requirements of Tenn.
-Code Ann. § 6-54-502, one copy of the Energy Conservation Code has been place
-on file in the Recorder’s office (Finance Director’s) and shall be kept there
-for the use and inspection of the public.
-(Ord. 748, passed 12-16-2013)
+Conservation Code.”
+(Ord. 748, passed 12-16-2013; Ord. 891, passed 7-24-2023)
 § 150.32 ACCESSIBILITY CODE.
-   (A)   Accessibility Code adopted. Pursuant to authority granted by Tenn.
-Code Ann. §§ 6-54-501 through 6-54-506 and for the purpose of securing the
-public safety, health and general welfare through all matters governing the
-design and construction of buildings for accessibility for all citizens, the
-ADA Accessibility Guidelines for Buildings and Facilities 2012 is hereby
-adopted and incorporated by reference as a part of this code and is hereinafter
-referred to as the “Accessibility Code”.
-   (B)   Available in Recorder’s office. Pursuant to the requirements of Tenn.
-Code Ann. § 6-54-502, one copy of the Accessibility Code has been placed on
-file in the Recorder’s office (Finance Director’s) and shall be kept there for
-the use and inspection of the public.
-(Ord. 748, passed 12-16-2013)
+   Accessibility Code adopted. Pursuant to authority granted by Tenn. Code Ann.
+§§ 6-54-501 through 6-54-506 and for the purpose of securing the public safety,
+health, and general welfare through all matters governing the design and
+construction of buildings for accessibility for all citizens, the ADA
+Accessibility Guidelines for Buildings and Facilities, 2018, is hereby adopted
+and incorporated by reference as a part of this code and is hereinafter
+referred to as the “Accessibility Code.”
+(Ord. 748, passed 12-16-2013; Ord. 891, passed 7-24-2023)
 § 150.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -14313,8 +14363,8 @@ Ord. 702, passed 5-24-2010; Ord. 728, passed 8-27-2012; Ord. 754, passed 3-24-
 9-28-2015; Ord. 774, passed 9-28-2015; Ord. 790, passed 9-26-2016; Ord. 808,
 passed 9-25-2017; Ord. 809, passed 9-25-2017; Ord. 811, passed 12-18-2017; Ord.
 812, passed 11-28-2017; Ord. 813, passed 2-26-2018; Ord. 816, passed 5-21-2018;
-Ord. 836, passed 7-22-2019; Ord. 841, passed 9-23-2019; Ord. 876, passd 6-27-
-2022)
+Ord. 836, passed 7-22-2019; Ord. 841, passed 9-23-2019; Ord. 876, passed 6-27-
+2022; Ord. 907, passed - -; Ord. 911, passed 7-28-2025)
 Editor’s note:
    Ord. 424, and any amendments thereto, are published as separate documents
 and are of record in the office of the city.
@@ -14459,6 +14509,15 @@ Ord. No. Date Passed Description
 731      10-22-2012  North Iowa Avenue and bordering on McMinn County Tax Map
                      107J, Group D, Parcels 2.00, 3.00, 4.00 and 5.00)
 874      6-27-2022   Abandoning an unopened portion of Cooper Street
+894      9-25-2023   Abandoning an unopened alley between Jackson Street and
+                     Charles Street parallel to and east of Athens Pike
+                     Abandoning Green Street right-of-way from the end of the
+900      6-24-2024   pavement adjacent to parcel 118H B 063.00 to the end of
+                     the right-of-way adjacent to parcel 118H B 063.01
+                     Abandoning an unopened alley between Athens Pike and North
+915      8-25-2025   Georgia Avenue from the northern boundary of the
+                     intersection with Williams Street to the property at 720
+                     Athens Pike
                     
  
 TABLE IV: ZONINGS AND REZONINGS
@@ -14566,6 +14625,8 @@ Ord. No. Date Passed Description
                      Rezoning 44.7 acres at the intersection of County Road 801
 875      6-27-2022   and County Road 802 from I-1 Light Industrial to R-
                      2 Medium Density Residential District
+887      5-22-2023   Rezoning 0.34 acres of property on 1232 Highway 411 North
+                     from C-2 Highway Business to R-1 Low Density Residential
                     
  
 TABLE V: ADMINISTRATION
@@ -14597,14 +14658,10 @@ Title 2, Ch. 10                     35.120
 6-54-113                            91.07
 6-54-120                            35.145
 6-54-306                            10.99
-6-54-501 et seq.                    150.27
+6-54-501 et seq.                    150.27,
+                                    150.28
                                     150.25,
 6-54-501 through 6-54-506           150.29—
-                                    150.32
-                                    150.25—
-                                    150.27,
-6-54-502                            150.29,
-                                    150.30—
                                     150.32
 6-54-1001 et seq.                   36.01,
                                     150.11
@@ -14613,6 +14670,8 @@ Title 2, Ch. 10                     35.120
 6-56-106                            Charter,
                                     Art. XVIII, Sec. 9
 6-56-301 through 307                Ch. 34
+6-56-302                            34.35
+6-56-304                            34.35
 7-2-101                             115.32
 7-31-107 through 7-31-111           Charter,
                                     Art. III, Sec. 1
@@ -14625,20 +14684,32 @@ Title 7, Ch. 33                     Charter,
 7-63-101                            92.18
 8-47-101 et seq.                    35.120
 8-50-501 et seq.                    35.120
+12-2-201                            34.35
+12-2-421                            34.35
 12-3-1201                           Ch. 34
 12-3-1202                           Ch. 34
+12-3-1203                           34.35
+12-3-1205                           34.35
 12-3-1207                           Ch. 34
-12-3-1208                           Ch. 34
-12-3-1209                           Ch. 34
+12-3-1208                           Ch. 34,
+                                    34.35
+12-3-1209                           Ch. 34,
+                                    34.35
+12-3-1212                           34.35
 12-4-101                            35.120
 12-4-102                            35.120
 12-4-106                            Ch. 34
+12-4-107                            34.35
+12-4-110                            34.35
+12-9-101 et seq.                    34.35
 Title 13                            31.03
 13-4-101                            31.03
 13-7-201 through 13-7-210           153.01
 Title 13, Ch. 21                    150.01
 13-21-101 et seq.                   150.01,
                                     150.02
+Title 13, Ch. 24                    93.01
+13-24-407                           93.04
 16-18-302                           71.29
 16-18-304                           Charter,
                                     Art. XIX, Sec. 5
@@ -14648,6 +14719,7 @@ Title 13, Ch. 21                    150.01
 27-8-101 et seq.                    51.29
 Title 29, Ch. 16                    Charter,
                                     Art. III, Sec. 1
+29-20-407                           34.35
 29-116-114                          Charter,
                                     Art. III, Sec. 1
 33-10-203                           130.02
@@ -14655,11 +14727,13 @@ Title 29, Ch. 16                    Charter,
 39-16-101 et seq.                   35.120
 39-16-401 et seq.                   35.120
 39-17-310                           130.02
+39-17-313                           130.14
 40-24-104                           Charter,
                                     Art. XIX, Sec. 2
 40-24-105                           Charter,
                                     Art. XIX, Sec. 2
 40-24-105(d)(2)                     32.07
+41-22-119 through 41-22-121         34.35
 47-22-101                           32.07
 49-2-201                            Charter,
                                     Art. XVII, Sec. 4
@@ -14717,7 +14791,6 @@ Title 57, Ch. 6                     34.16
 68-36-401                           152.20
 68-102-108                          Charter,
                                     Art. XVI, Sec. 6
-68-102-143                          150.27
 68-221-201                          51.03
 69-3-115(a)                         51.29
 69-3-115(a)(1)(F)                   51.29
@@ -14813,27 +14886,23 @@ REFERENCES TO 1994 CODE
 5-403     34.32
 5-404     34.33
 5-405     34.34
-5-406     34.35
-5-407     34.36
-5-408     34.37
-5-409     34.38
-5-410     34.39
-5-411     34.40
-5-412     34.41
-5-413     34.42
-5-414     34.43
-5-415     34.44
-5-416     34.45
-5-417     34.46
-5-418     34.47
+5-406     34.36
+5-407     34.37
+5-408     34.38
+5-409     34.39
+5-410     34.40
+5-411     34.41
+5-412     34.42
+5-413     34.43
+5-414     34.44
+5-415     34.45
+5-416     34.46
+5-417     34.47
+5-418     34.48
 6-101     33.01
 6-102     33.02
 6-103     33.03
 7-201     150.30
-7-202     150.30
-7-203     150.30
-7-204     150.30
-7-205     150.30
 8-201     115.30
 8-202     115.30
 8-203     115.30
@@ -14958,34 +15027,14 @@ REFERENCES TO 1994 CODE
           130.99
 12-101    150.25
 12-102    150.25
-12-103    150.25
-12-104    150.25
 12-105    150.99
 12-201    150.26
 12-202    150.26
-12-203    150.26
-12-204    150.26
 12-301    150.27
-12-302    150.27
-12-303    150.27
-12-304    150.27
-12-305    150.27
 12-306    150.99
-12-401    150.28
-12-402    150.28
-12-403    150.28
-12-404    150.28
-12-405    150.28
-12-406    150.28
-12-407    150.28
-12-408    150.28
-12-409    150.28
-12-410    150.28
 12-411    150.99
-12-412    150.28
 12-501    150.29
 12-502    150.29
-12-503    150.29
 13-101    91.01
 13-102    91.02
 13-103    91.03
@@ -15223,8 +15272,10 @@ Ord. No.  Date Passed       Code Section
 395       5-28-1985         130.13
 400       7-22-1985         31.02
 402       8-12-1985         130.03
-404       9-9-1985          34.30—
-                            34.47
+                            34.30—
+404       9-9-1985          34.34,
+                            34.36—
+                            34.48
 406       9-23-1985         31.01
 407       11-25-1985        35.001—
                             35.022
@@ -15264,8 +15315,10 @@ Ord. No.  Date Passed       Code Section
                             90.04
 424       3-19-1987         154.01
 452       3-8-1990          150.99
-457       10-4-1990         34.30—
-                            34.47
+                            34.30——
+457       10-4-1990         34.34,
+                            34.36—
+                            34.48
 468       9-19-1991         150.01—
                             150.12
 469       9-19-1991         150.25,
@@ -15538,8 +15591,10 @@ Ord. No.  Date Passed       Code Section
 767       9-22-2014         TSO Table IV
 769       11-17-2014        TSO Table IV
 771       5-14-2015         154.01
-775       6-22-2015         34.30—
-                            34.47
+                            34.30——
+775       6-22-2015         34.34,
+                            34.36—
+                            34.48
 777       6-22-2015         35.075—
                             35.083
 773       9-28-2015         154.01
@@ -15639,6 +15694,32 @@ Ord. No.  Date Passed       Code Section
                             50.14
                             34.30,
 882       7-25-2022         34.34,
-                            34.39
+                            34.40
+884       2-27-2023         34.33,
+                            34.34
+                            51.03,
+886       6-26-2023         51.09,
+                            51.25
+887       5-22-2023         TSO Table IV
+891       7-24-2023         150.25—
+                            150.32
+892       8-28-2023         34.30—
+                            34.48
+894       9-25-2023         TSO Table III
+895       1-22-2024         30.01
+                            50.01,
+896       3-25-2024         50.03,
+                            50.99
+897       6-24-2024         30.03
+900       6-24-2024         TSO Table III
+                            34.37,
+905       9-23-2024         34.40,
+                            34.43
+906       2-24-2025         93.01—
+                            93.06
+907       - -               154.01
+911       7-28-2025         154.01
+914       8-25-2025         130.14
+915       8-25-2025         TSO Table III
                            
  
