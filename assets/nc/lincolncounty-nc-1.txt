@@ -1,7 +1,7 @@
 COUNTY OF LINCOLN, NORTH CAROLINA
 CODE OF ORDINANCES
-2025 S-9 Supplement contains:
-Local legislation current through Ordinance passed 9-15-2025; and
+2026 S-9 Supplement contains:
+Local legislation current through Ordinance passed 1-5-2026; and
 State legislation current through 2024 North Carolina Legislative Service,
 Pamphlet No. 2
 Published by:
@@ -5976,9 +5976,43 @@ Animal Services
    
 92.10   Rabies control
    
-92.11   (Reserved)
+92.11   Dangerous Dog Ordinance
+      
+92.11.1   Title
+      
+92.11.2   Determination of dangerous and potentially dangerous dogs
+      
+92.11.3   Appeal procedure for dangerous and potentially dangerous dogs
+      
+92.11.4   Confinement and restraint requirements
+      
+92.11.5   Registration and transfer of ownership
+      
+92.11.6   Dangerous dogs from other jurisdictions
+      
+92.11.7   Declassification
+      
+92.11.8   Private action
+      
+92.11.9   Penalties
    
-92.12   Exotic animals
+92.12   Exotic Animals Ordinance
+      
+92.12.1   Title
+      
+92.12.2   Purpose and statutory authorization
+      
+92.12.3   Definitions
+      
+92.12.4   Exemptions and additional requirements
+      
+92.12.5   Unlawful possession
+      
+92.12.6   Pre-existing exotic animals
+      
+92.12.7   Additional prohibitions
+      
+92.12.8   Impoundment and/or disposition of inherently dangerous exotic animals
    
 92.13   Disposition of deceased animals
    
@@ -6001,25 +6035,6 @@ Animal Services
 92.22   Harboring stray animals
    
 92.23   Seizure, forfeiture, and disposition of animals
-Dangerous Dogs
-   
-92.35   Title
-   
-92.36   Determination of dangerous and potentially dangerous dogs
-   
-92.37   Appeal procedure for dangerous and potentially dangerous dogs
-   
-92.38   Confinement and restraint requirements
-   
-92.39   Registration and transfer of ownership
-   
-92.40   Dangerous dogs from other jurisdictions
-   
-92.41   Declassification
-   
-92.42   Private action
-   
-92.43   Penalties for this subchapter
  
    
 92.99   Fees and penalties
@@ -6365,25 +6380,846 @@ this section, any person found to be in violation of this section shall be
 subject to civil penalties as defined in §
 92.99. Each day a violation continues shall be deemed a separate offense.
 (Ord. passed 6-21-2021; Ord. passed 3-21-2022; Ord. passed 9-15-2025)
-§ 92.11 (RESERVED).
-§ 92.12 EXOTIC ANIMALS.
-   (A)   It shall be unlawful for any person to own or display wild or exotic
-animals on any public or private property unless properly registered.
-   (B)   Registration of exotic animals. A current registration shall be
-maintained by the Animal Services Division for every exotic animal. The owner
-of the exotic animal is responsible for ensuring that the exotic animal is
+§ 92.11 DANGEROUS DOG ORDINANCE.
+§ 92.11.1 TITLE.
+   This subchapter (§§
+92.11.1 through
+92.11.9) of the Lincoln County Animal Ordinance shall be considered the Lincoln
+County Dangerous Dog Ordinance.
+(Ord. passed 9-15-2025)
+§ 92.11.2 DETERMINATION OF DANGEROUS AND POTENTIALLY DANGEROUS DOGS.
+   The Animal Services Director or their designee shall determine whether a dog
+is to be declared dangerous or potentially dangerous based on this dangerous
+dog subchapter. Once the dog is deemed dangerous or potentially dangerous, the
+Animal Services Director or designee may impound the dog immediately and notify
+the owner of the dog in writing, including the reason for the determination.
+   (A)   Dangerous dog. A dangerous dog will be classified as either a level 1
+or level 2 dangerous dog based on the following requirements.
+      (1)   Level 1. The dog will be classified as level 1 if the dog:
+         (a)   Killed a person who was not attempting to harm, rob or seriously
+injure the dog's owner or family;
+         (b)   Severely injures a child under the age of 12;
+         (c)   When not on the owner's real property, inflicted severe injury
+to a person;
+         (d)   Was previously declared a level 2 dangerous dog and while out of
+the secure enclosure bit a person;
+         (e)   Was previously declared a level 2 dangerous dog and while out of
+the secure enclosure and not on the owner's real property bit another domestic
+animal;
+         (f)   Was previously declared a potentially dangerous dog and
+inflicted severe injury to a person; or
+         (g)   Was previously declared a potentially dangerous dog and when not
+on the owner's real property killed or inflicted severe injury to a domestic
+animal.
+      (2)   Result if deemed level 1. The Animal Services Director or designee
+shall immediately seize and impound the dog, and order and cause the level 1
+dangerous dog to be humanely destroyed at the expense of the owner. No level 1
+dangerous dog shall be destroyed until after the appeal period has expired.
+      (3)   Level 2. The dog may be classified as level 2 if the dog:
+         (a)   When on the owner's real property inflicted severe injury to a
+person and the person was not attempting to harm, rob or seriously injure the
+dog's owner or family;
+         (b)   Was owned or harbored primarily or in part for the purpose of
+dog fighting, or trained for dog fighting, in violation of G.S. § 14-362.2;
+         (c)   Was previously declared a potentially dangerous dog and when not
+on the owner's real property bit another domestic animal, livestock or other
+chicken/fowl, but did not cause a severe injury; or
+         (d)   Was previously declared a potentially dangerous dog and bit a
+person but did not cause a severe injury.
+      (4)   Result if deemed level 2. A level 2 dangerous dog may be redeemed
+by the owner, provided the owner first complies with those regulations and
+confines the level 2 dangerous dog as required in §
+92.11.4. If the owner fails to redeem the level 2 dangerous dog, or fails to
+provide notice that it will redeem the dog following installation of
+confinement structures, the level 2 dangerous dog shall be humanely destroyed
+at the expense of the owner. No level 2 dangerous dog shall be destroyed until
+after the appeal period has expired.
+   (B)   Potentially dangerous dog. A dog may be classified as a potentially
+dangerous if the dog:
+      (1)   When not on the owner's real property killed or inflicted severe
+injury upon a domestic animal, livestock or other chicken/fowl: or
+      (2)   When not on the owner's real property approached a person in a
+vicious or terrorizing manner in an apparent attitude of attack; or
+      (3)   Inflicted an unprovoked bite to a human.
+      (4)   Result if deemed potentially dangerous. A potentially dangerous dog
+may be redeemed by the owner, provided the owner first agrees to keep the dog
+under restraint and complies with §
+92.11.3.
+   (C)   Exceptions. This chapter does not apply to the following:
+      (1)   A law enforcement dog being used by a law enforcement officer to
+carry out the law enforcement officer's official duties or professional
+responsibilities; or a security dog used by a professional security guard
+registered with the North Carolina Protective Services Board to carry out the
+security guard's official duties or professional responsibilities.
+      (2)   A dog where the injury or damage inflicted by the dog was sustained
+by a domestic animal while the dog was working as a herding dog, or predator
+control dog on the property of or under the control of its owner, and the
+damage or injury was to a specific type of domestic animal appropriate to the
+work of the dog; or
+      (3)   A dog where the injury inflicted by the dog was sustained by a
+person who, at the time of the injury was tormenting, abusing, or assaulting
+the dog; had tormented, abused or assaulted the dog; or was committing or
+attempting to commit a crime.
+(Ord. passed 9-15-2025)
+§ 92.11.3 APPEAL PROCEDURE FOR DANGEROUS AND POTENTIALLY DANGEROUS DOGS.
+   (A)   Right to appeal. The owner of a dog which has been declared dangerous
+or potentially dangerous pursuant to §
+92.11.2 has the right to appeal the determination by filing a written appeal,
+stating the grounds for the appeal, with the Animal Services Director within
+three business days of receipt of the dangerous or potentially dangerous dog
+determination letter. If the owner fails to file the written appeal, the dog
+will be disposed of according to this subchapter.
+      (1)   Any appeal of the Director's decision filed hereunder shall be
+heard by the Dangerous Dog Appellate Board, as established herein. The
+Dangerous Dog Appellate Board shall hold a hearing within ten business days of
+the filing of the written appeal. The appellant will be notified of the Board's
+decision in writing within ten business days following the final decision of
+the Appellate Board.
+      (2)   Following the decision of the Dangerous Dog Appellate Board, the
+appellant (or the county) shall have a right to appeal that decision of the
+Appellate Board. Any appeal shall be filed with the Lincoln County Superior
+Court by filing a notice of appeal and petition for review within 30 days of
+receipt of the final decision of the Appellate Board. This appeal must be
+served on all parties relevant to the appeal, including but not limited to: the
+Animal Services Director and the County Attorney.
+   (B)   Dangerous Dog Appellate Board.
+      (1)   The Dangerous Dog Appellate Board has been established by the Board
+of Commissioners, as follows:
+         (a)   The Board shall be composed of five regular members and two
+alternates, and at least one of the regular members shall be a sworn law
+enforcement officer.
+         (b)   Members and alternates must be residents of Lincoln County and
+appointed by the Board of Commissioners for a period of three years, and each
+member may serve two terms.
+         (c)   A quorum of at least three members (any combination of regular
+members and alternates) must be present at an Appellate Board hearing in order
+for the Appellate Board to conduct business.
+         (d)   Conflict of interest. The members of the Dangerous Dog Appellate
+Board shall be expected to disclose any prior personal involvement they have
+had with the case or other conflicts of interest, and upon a motion of the
+Board, the member making the disclosure may be recused.
+      (2)   Procedural requirements.
+         (a)   All testimony offered at the Appellate Board hearing shall be
+given under oath and recorded by audio recording. The hearing shall be open to
+the public, and the person requesting the appeal may be represented by an
+attorney.
+         (b)   The Animal Services Director or designee shall have the burden
+of demonstrating that this chapter has been violated. The person requesting the
+appeal will be given an opportunity to prove this chapter has not been
+violated. The Animal Services Director or designee will be given a final
+opportunity to clarify any conflicts, ambiguities or inconsistencies created by
+or arising from the statements or evidence.
+         (c)   The Dangerous Dog Appellate Board may ask questions at any time
+during the appeal hearing and may request additional evidence from either
+party, including continuing the hearing in the interest of fairness.
+         (d)   Decision. The Dangerous Dog Appellate Board may rule on the
+appeal in any of the following ways: (1) uphold the decision of the Animal
+Services Director in total; (2) reverse the decision of the Animal Services
+Director in total; or (3) uphold or reverse the decision of the Animal Services
+Director with additional criteria added or removed.
+   (C)   Application of decision. Any decision rendered by the Dangerous Dog
+Appellate Board applies only to the violation(s) appealed and does not prevent
+the Animal Services Department from enforcing a subsequent violation of the
+same provision or any other provision of this chapter. If the Dangerous Dog
+Appellate Board upholds or affirms the decision of the Animal Services Director
+or designee, the owner is responsible for all applicable boarding fees,
+redemption fees and civil penalties.
+   (D)   Failure to appeal. If the owner of the dog does not file a written
+appeal with the Dangerous Dog Appellate Board as provided herein or if the
+owner of the dog does not comply with the confinement requirements as specified
+herein, then the dog becomes the property of the county for disposition.
+(Ord. passed 9-15-2025)
+§ 92.11.4 CONFINEMENT AND RESTRAINT REQUIREMENTS
+   (A)   Level 2 dangerous dog requirements. The owner of a level 2 dangerous
+dog that is required to be confined pursuant to §
+92.11.2 may redeem the dog upon complying with the following:
+      (1)   The owner must file a written notice of intent to comply with the
+enclosure requirements outlined below with the Animal Services Director within
+three business days of receipt of the determination letter. If the owner fails
+to file a written notice, the dog shall become the property of the county and
+shall be disposed of in accordance with this chapter.
+      (2)   Before redemption, a level 2 dangerous dog must be fitted with
+microchip identification, at the owner's expense.
+      (3)   The owner must pay all outstanding fines and fees owed to the
+Animal Services Department.
+      (4)   From the initial notice from the Animal Services Department, the
+owner has 21 calendar days to erect the secure enclosure. If the owner appeals,
+the owner has 21 days to erect the secure enclosure from the date of the final
+decision.
+      (5)   Secure enclosure requirements. The secure enclosure must conform to
+all of the following:
+         (a)   The structure must be a minimum size of 90 square feet and six
+feet tall, with a concrete pad at least two inches thick. If more than one dog
+is to be kept in the enclosure, the floor area must provide at least 90 square
+feet for each dog. The walls and roof of the structure must be constructed of
+welded chain link, of a minimum thickness of 9-gauge, or equivalent gauge
+welded wire, supported by galvanized steel poles at least two and one-half
+inches in diameter. The vertical support poles must be sunk in concrete-filled
+holes at least 18 inches deep and at least eight inches in diameter. The chain
+link fencing must be anchored to the concrete pad with galvanized steel anchors
+at intervals of no more than 12 inches along the perimeter of the pad. The
+entire structure must be freestanding and not attached or anchored to any
+existing fence, building, or structure. The structure must be secured by a pad
+lock.
+         (b)   A warning sign of at least 120 square inches must be visible
+from each side of the structure and visible to any adjoining property.
+         (c)   The secure enclosure must be inspected and approved by the
+Animal Services Director or designee.
+         (d)   The owner of the dog is responsible for ensuring that the
+enclosure is maintained in such a condition to continually meet the
+requirements of this chapter. Failure to maintain or repair the enclosure shall
+subject the owner to penalties under this chapter.
+         (e)   Prior to inspection of the enclosure by the Animal Services
+Director or designee, the dog shall not be returned to the owner's property
+until the shelter and warning signs have been approved. While the structure is
+being erected, the dog must be boarded at the county animal shelter at the
+owner's expense.
+         (f)   Insurance requirement. At the owner's expense, the owner of a
+level 2 dangerous dog shall procure and maintain and provide proof of liability
+insurance in the amount of at least $100,000.
+         (g)   Additional requirements. The Animal Services Director may make
+additional confinement requirements as deemed necessary, and based on the
+circumstances surrounding each specific case.
+      (6)   Maintenance requirements of a level 2 dangerous dog. The owner of a
+level 2 dangerous dog that is required to be confined must comply with the
+following requirements:
+         (a)   A dangerous dog shall not be permitted out of the enclosure
+unless the dog is under physical restraint by a competent person who by means
+of a leash no longer than six feet has the dog firmly under control at all
+times. Voice command and electronic collars are not recognized as adequate
+restraints. A dangerous dog must be muzzled when not on the owner's real
+property.
+         (b)   If the owner can provide detailed written instructions from a
+licensed veterinarian that the dog must remain out of the secure enclosure for
+a specified amount of time due to sickness or injury, then the dog shall
+immediately be housed at a veterinarian clinic until it is medically cleared,
+at which time the dog shall immediately be returned to the secure enclosure.
+Written instructions from a licensed veterinarian must be updated at least
+every 30 days by a licensed veterinarian and provided to the Animal Services
+Division by the owner.
+   (B)   Potentially dangerous dog confinement and maintenance requirements.
+The owner of any potentially dangerous dog may redeem their dog upon complying
+with the following:
+      (1)   At the owner's expense and before redemption, a potentially
+dangerous dog must be fitted with microchip identification.
+      (2)   The owner must pay all outstanding fines and fees due to the Animal
+Services Department.
+      (3)   The owner must keep the dog under restraint at all times. Restraint
+under this section includes:
+         (a)   Controlled by means of a chain or other approved tether no
+longer than 20 feet or a leash no longer than six feet. Voice command and
+electronic collars are not recognized as adequate restraints.
+         (b)   Within a vehicle being driven or parked, and secured in such
+manner as to prevent the animal from escaping or causing injury to persons
+approaching or passing the vehicle. An animal is not under restraint if it is
+in the back of an open-bed pickup.
+         (c)   Within a fenced enclosure adequate to secure the dog so as to
+prevent it from escaping from the owner's real property.
+         (d)   Not permitting the dog to go beyond the owner's real property
+unless the dog is leashed and muzzled.
+         (e)   Comply with any additional requirements as deemed necessary by
+the Director of Animal Services or designee.
+   (C)   Indoor confinement. It shall be at the sole discretion of the Animal
+Services Director to determine if the dog, based on the specifics of its
+designation, is eligible for indoor confinement. Any proposed indoor
+confinement shall be submitted and viewed by the Animal Services Director, or
+their designee, and approved prior to being used for that purpose. However, no
+indoor confinement shall be permitted in a residential structure where a child
+under the age of 12 years old resides, or where an adult that is considered
+vulnerable or incompetent resides.
+   (D)   Penalties. In addition to criminal penalties provided by state law and
+civil penalties set forth in §
+92.99, any person who violates the requirements set forth in this section shall
+be subject to the following sanctions and remedies:
+      (1)   If a dangerous dog is found at large, it shall be seized and
+impounded. An Animal Services Officer is authorized to go upon private property
+to seize the dangerous dog.
+      (2)   The Animal Services Department shall have the right to inspect the
+enclosure at any time. If an inspection of the enclosure reveals that the owner
+has not complied with the requirements for confining and/or restraining the
+dog, an Animal Services Officer may issue a civil penalty in conformity with
+this chapter and may impound the dog.
+      (3)   Subsequent violations. Upon a second violation of this section, the
+dog will be impounded immediately and will become the property of the county
+and will be disposed of in accordance with this chapter.
+(Ord. passed 9-15-2025)
+§ 92.11.5 REGISTRATION AND TRANSFER OF OWNERSHIP.
+   (A)   Registration. A current registration shall be maintained by the Animal
+Services Department for every dog determined to be dangerous or potentially
+dangerous. The owner of the dog is responsible for ensuring that the dog is
 registered. Registrations must include the name and address of the owner,
-identifying information concerning the exotic animal, and any other information
-the Animal Services Division reasonably deems necessary. The owner shall
-register the exotic animal annually with the Animal Services Division during
-the month of January.
-   (C)   Penalty. Violation of this section shall be punishable as a Class 3
-misdemeanor, and any person convicted of the violation shall be subject to
-punishment as provided in G.S. § 14-4. Each day a violation continues shall be
-deemed a separate offense, and said violation may also be enforced as set forth
-in §
-10.99 herein.
-(Ord. passed 6-21-2021; Ord. passed 3-21-2022)
+identifying information concerning the dog, a copy of the certificate of
+insurance, verification of current rabies vaccination, and any other
+information the Animal Services Department deems necessary. The owner shall
+register the dog annually with the Animal Services Department during the month
+of January. If the dog dies, the owner is responsible for notifying Animal
+Services immediately. If ownership is transferred, division (B) below applies.
+   (B)   Transfer of ownership. If the owner of a potentially dangerous or
+dangerous dog transfers ownership or possession of the dog to another person,
+the owner must, ten days prior to the transfer, provide written notice to the
+Animal Services Director or designee stating the intent to transfer the dog and
+the name, telephone number, and address of the new owner or possessor of the
+dog. The new owner must assume all responsibilities regarding the dangerous or
+potentially dangerous dog. The Animal Services Director or designee must
+inspect the new, proposed location to ensure compliance with the written order
+prior to the dog's relocation. If the location does not fall under the
+jurisdiction of this chapter, the Animal Services Director or designee shall
+contact the appropriate animal control or law enforcement agency of the owner's
+intent to relocate the dog in question to a location within such agency's
+jurisdiction and shall provide copies of all records pertaining to the dog to
+the agency prior to the dog's relocation. Any owner of a dog that has been
+deemed level 1 dangerous dog shall not be eligible to transfer ownership as
+delineated herein.
+(Ord. passed 9-15-2025)
+§ 92.11.6 DANGEROUS DOGS FROM OTHER JURISDICTIONS.
+   (A)   An owner bringing into the county a dog that has been classified as
+dangerous or potentially dangerous shall notify Animal Services prior to
+transferring the dog into the county. Once an owner notifies Animal Services of
+a dog's classification as dangerous or potentially dangerous from another
+jurisdiction, the Animal Services Director or designee shall contact that
+jurisdiction to obtain all necessary information to classify the dog according
+to this chapter. Dogs from other jurisdictions must comply with all Lincoln
+County laws after their classification. The Animal Services Director shall have
+the discretion to disallow the transfer of any dangerous dog from another
+jurisdiction.
+   (B)   An owner may appeal the determination of the Animal Services Director
+according to §
+92.11.3.
+   (C)   Penalty. If an owner of a dog that has been classified as dangerous or
+potentially dangerous fails to notify Animal Services of its intent to transfer
+the dog into Lincoln County, then that owner shall be subject to a penalty of
+$500 per animal.
+(Ord. passed 9-15-2025)
+§ 92.11.7 DECLASSIFICATION.
+   Any declaration that an animal is potentially dangerous, or dangerous level
+2 may be petitioned for declassification as provided in this section.
+   (A)   An owner of an animal that has been declared dangerous or potentially
+dangerous under this or a previous version of this chapter may request annually
+that the Animal Services Director or designee submits the declaration in front
+of the Dangerous Dog Appellate Board for review of the declaration. The request
+shall be made in writing on an application provided by Animal Services and
+shall be accompanied by an overall assessment of the animal completed by a
+competent person accredited by the Certification Council for Professional Dog
+Trainers or another recognized and approved body. The assessment shall have an
+emphasis on the behavior underlying the declaration and the owner's ability to
+manage the animal. The Dangerous Dog Appellate Board shall consider revocation
+of the declaration only if no violations of this chapter or, if applicable,
+G.S. §§ 67-4.1 et seq., have occurred within the 18 months preceding the date
+of application for review. The Dangerous Dog Appellate Board shall further
+consider the following matters when reviewing the declaration:
+      (1)   The outcomes of the assessment described in this division;
+      (2)   The nature of the original attack(s) and the reasons for the
+original declaration;
+      (3)   The manner in which the animal has been cared for and managed since
+the declaration was imposed; and
+      (4)   Evidence of whether the animal's behavior has changed since the
+declaration due to the animal's age, environment, training, or other factors.
+   (B)   The Dangerous Dog Appellate Board may revoke the declaration or revise
+the level of danger after considering the application, the assessment, and the
+matters described above. The Dangerous Dog Appellate Board shall issue written
+findings to the owner stating the reason(s) for his or her decision and, if the
+Dangerous Dog Appellate Board has denied the revocation, the date upon which
+the owner may request further review of the declaration by the Dangerous Dog
+Appellate Board. The Dangerous Dog Appellate Board has complete discretion in
+making the decision and any final decision is not subject to appeal.
+   (C)   Any animal that has been deemed potentially dangerous that becomes
+property of Lincoln County may be declassified by the Dangerous Dog Appellate
+Board upon request for additional review by the Animal Services Director, or
+their designee.
+(Ord. passed 9-15-2025)
+§ 92.11.8 PRIVATE ACTION.
+   Nothing in this subchapter shall prevent a private citizen from bringing an
+action against the owner of a dog which has caused injury to the private
+citizen or his or her property for damages or any other loss resulting from the
+dog's conduct being dangerous.
+(Ord. passed 9-15-2025)
+§ 92.11.9 PENALTIES.
+   Any person who violates a provision of this subchapter shall be subject to
+the civil penalties listed in §
+92.99.
+(Ord. passed 9-15-2025)
+§ 92.12 EXOTIC ANIMALS ORDINANCE.
+§ 92.12.1 TITLE.
+   This subchapter (§§ 92.12.1 - 92.12.8) of the Lincoln County Animal
+Ordinance shall be considered the Lincoln County Exotic Animals Ordinance.
+(Ord. passed 1-5-2026)
+§ 92.12.2 PURPOSE AND STATUTORY AUTHORITY.
+   The purpose of the Lincoln County Exotic Animals Ordinance is to protect the
+general public from the inherent risk posed by dangerous exotic animals. These
+risks included, but are not limited to, public health risks associated with the
+spread of disease and safety risks of the general public that may arise from
+the allowance of inherently dangerous animals for private ownership. Pursuant
+to G.S. § 153A-121, the county is authorized to regulate, restrict or prohibit
+the possession or harboring of animals which are dangerous to persons or
+property.
+(Ord. passed 1-5-2026)
+§ 92.12.3 DEFINITIONS.
+   For the purposes of this Lincoln County Exotic Animals Ordinance, the
+following terms, words and their derivations shall have the meaning as defined
+herein, unless the context clearly indicates that another meaning is intended.
+   CROCODILIAN. Any species of the Order Crocodilia, such as crocodiles,
+alligators, caimans, and gavials.
+   EXOTIC ANIMAL. Any (1) crocodilian, (2) inherently dangerous arachnid, (3)
+inherently dangerous exotic mammal, (4) large constricting snake, (5) venomous
+reptile, (6) animal that would ordinarily be confined to a zoo, or (7) any
+mammal designated by the Centers for Disease Control (CDC), the Department of
+Agriculture or any other national or state public health protection agencies as
+embargoed and prohibited. EXOTIC ANIMAL shall not include any animal that is
+specifically excluded in § 92.12.4.
+   INHERENTLY DANGEROUS ARACHNID. All members of Class Arachnida which, due to
+their inherent nature, may be considered dangerous to humans, including only
+arachnids in:
+      (1)   Order Araneae (only spiders which are venomous and their venom is
+considered medically significant, and not including tarantulas); and
+      (2)   Order Scorpionida (all scorpions which are venomous and their venom
+is considered medically significant).
+   INHERENTLY DANGEROUS EXOTIC MAMMAL. Any member of the Canidae, Felidae,
+Ursidae, or Elephantidae families or any member of the order Primates,
+excluding humans, including hybrids thereof, which, due to their inherent
+nature, may be considered dangerous to humans, are exotic animals, and include,
+but are not limited to, any or all of the following orders and families,
+whether bred in the wild or in captivity, and any or all hybrids thereof (all
+animals listed in parenthesis are intended as examples and shall not be
+construed as an exhaustive list or limit the generality of each group of
+animals unless otherwise specified):
+      (1)   Order Artiodactyla (such as hippopotami and giraffes);
+      (2)   Order Carnivora, which includes:
+         (a)   Family Felidae (such as lions, tigers, panthers, leopards,
+jaguars, ocelots, and servals);
+         (b)   Family Canidae (such as such as wolves and jackals);
+         (c)   Family Ursidae (all bears);
+         (d)   Family Mustelidae (such as weasels, martins and minks);
+         (e)   Family Procyonidae (such as coatis);
+         (f)   Family Hyaenidae (all hyenas); and
+         (g)   Family Viverridae (such as civets, genets and mongooses).
+      (3)   Order Edentatia (such as anteaters, armadillos, and sloths);
+      (4)   Order Marsupialia (such as kangaroos and wallabies);
+      (5)   Order Perissodactyla (such as rhinoceroses and tapirs, but not
+horses, donkeys, or mules);
+      (6)   Order Primates (such as lemurs, monkeys, chimpanzees, baboons,
+gorillas, and all other nonhuman primates);
+      (7)   Order Proboscidae (all elephants); and
+      (8)   Order Rodentia (including capybara).
+   LARGE CONSTRICTING SNAKE. Reticulated python, Python reticulatus; Burmese
+python, Python molurus; African rock python, Python sebae; amethystine python,
+Morelia amethistina; and green anaconda, Eunectes murinus; or any of their
+subspecies or hybrids.
+   OWNER. This term shall have the same meaning as set forth in § 92.03. For
+the purposes of this Exotic Animals Ordinance, OWNER shall also include one who
+allows an exotic animal to remain in, be lodged, fed, given shelter or refuge
+within the OWNER'S home, store, yard, enclosure, accessory structure, abandoned
+vehicle or building, place of business or any other premises in which the
+person or entity resides has control of.
+   VENOMOUS REPTILE. All members of the class Reptilia including their
+taxonomic successors, subspecies, or any hybrid thereof, regardless of surgical
+alteration, determined to have the potential to cause serious human injury due
+to the toxic effects of their venom or poison, and includes all venomous
+reptiles of the class Reptilia belonging to the families:
+      (1)   Family Elapidae (all species, including but not limited to coral
+snakes, cobras and mambas);
+      (2)   Family Crotalidae (all species, including but not limited to pit
+vipers);
+      (3)   Family Viperidae (all species, including but not limited to
+cottonmouths);
+      (4)   Family Hydrophiidae (all species, including but not limited to sea
+snakes);
+      (5)   Family Colubridae, but only those belonging to the following:
+         (a)   The genus Rhabdophis (including but not limited to keelback
+snakes);
+         (b)   The genus Balanophis (including but not limited to Sri Lanka
+blossom krait);
+         (c)   The genus Macropisthodon;
+         (d)   The genus Boiga (including but not limited to cat-eyed snakes);
+         (e)   The genus Dispholidus (including but not limited to boomslang);
+         (f)   The genus Thelotornis (including but not limited to twig snake);
+and
+         (g)   The genus Thrasops;
+      (6)   Atractaspididae (all species, including but not limited to mole
+vipers); and
+      (7)   Family Nactricidae (only keelback snakes).
+(Ord. passed 1-5-2026)
+§ 92.12.4 EXEMPTIONS AND ADDITIONAL REQUIREMENTS.
+   (A)   The prohibition set forth in § 92.12.5 shall not apply to:
+      (1)   Veterinary clinics in possession of any inherently dangerous exotic
+animal for the treatment or rehabilitation of the animal;
+      (2)   Any institution operated under licensure and regulation of the U.S.
+Department of Agriculture (USDA);
+      (3)   Any institution accredited by the American Zoo and Aquarium
+Association (AZA) or Zoological Association of America (ZAA);
+      (4)   Any animal control authority or law enforcement officers acting
+under the authority of this Exotic Animals Ordinance;
+      (5)   Persons temporarily transporting any inherently dangerous exotic
+animal(s) through Lincoln County, providing that such transport shall not be
+longer than 24 hours, and the animal(s) is at all times maintained within a
+confinement sufficient to prevent its escape;
+      (6)   Any licensed or accredited research medical institution or
+education institution;
+      (7)   Any person owning or harboring an animal that is indigenous to
+North Carolina or Lincoln County and said animals are regulated and subject to
+the requirements for captivity permits under the rules of the North Carolina
+Wildlife Resources Commission as contained in 15A N.C.A.C. 10H, or any
+successor rules and regulations thereto;
+      (8)   Any person owning or harboring an animal that is regulated as a
+restricted species and subject to the requirements for restricted species
+permits under the rules of the North Carolina Wildlife Resources Commission as
+contained in 15A N.C.A.C. 10B and 15A N.C.A.C. 10C, or any successor rules and
+regulations thereto; and
+      (9)   Any person owning or harboring an inherently dangerous exotic
+animal that is eligible for permitting under § 92.12.5.
+   (B)   Exempted animals. The following animals shall not be considered an
+inherently dangerous exotic animal for the purpose of this Exotic Animals
+Ordinance and shall be excluded from the definition set forth in § 92.12.3. Any
+animals listed in parenthesis are not an exhaustive list and shall serve as
+only examples.
+      (1)   The species Homo sapiens (humans);
+      (2)   All domestic dogs, but not hybrids with wolves, coyotes, or
+jackals;
+      (3)   All domestic cats, but not hybrids with ocelots or margays;
+      (4)   The species Equus caballas (domestic horses);
+      (5)   The species Equus asinus (asses, donkeys);
+      (6)   The following members of the sub-family Bovine: the species Bos
+taurus (cattle), the genus Bison (American buffalo), and the genus Bubalus
+(water buffalo);
+      (7)   The species Ovis ammon aries (sheep);
+      (8)   The species Capra hircus (goats);
+      (9)   The subspecies Sus scrofa domestica (swine);
+      (10)   Domesticated races of the species Gallus gallus or Meleagris
+gallopavo (poultry);
+      (11)   Domesticated races of the species Mesocricetus auratus (golden
+hamsters);
+      (12)   Domesticated races of the subspecies Cavia aperea porcellus
+(guinea pigs);
+      (13)   Domesticated races of rats and mice (white or albino, trained,
+laboratory reared);
+      (14)   Domesticated races of the species Chinchillas lanigera
+(chinchillas);
+      (15)   Domesticated races of the species Oryctolagus cuniculus (rabbits);
+      (16)   Domesticated species of the family Camelid (including camels,
+llamas, and alpacas);
+      (17)   All captive-bred members of the species of the families
+Psittacidae (parrots, parakeets), Anatidae (ducks), Fringillidae (finches),
+Columbidae (doves and pigeons), and Ratite (flightless birds, including
+ostriches, emus, and rheas);
+      (18)   All captive-bred members of the species Serinus canaria of the
+class Aves (canaries);
+      (19)   Domesticated races of the species Carassius auratus (goldfish);
+      (20)   Captive-bred members of the superorder Teleostei of the class
+Osteichthyes (common freshwater and salt-water aquarium fish);
+      (21)   Captive-bred, non-venomous or non-poisonous members of the
+suborder Serpentes (snakes);
+      (22)   Captive-bred members of the suborder Cryptodira (turtles);
+      (23)   All species of the class Insecta (insects) not considered life-
+threatening to humans, specifically including, but not limited to, Apis
+mellifera (common honeybee);
+      (24)   All species of the class Arachnida (spiders, scorpions, and
+related) not considered life-threatening to humans;
+      (25)   Domesticated races of the family Mustelidae (ferrets);
+      (26)   Domesticated races of the family Marsupialia (sugar gliders); and
+      (27)   Any other animal determined by Animal Services Director to be
+exempted from this Exotic Animals Ordinance. The Director may not exempt an
+animal from this Exotic Animals Ordinance that is specifically prohibited
+within the terms of this Exotic Animals Ordinance. Any animal exempted
+hereunder shall a lso be approved by the County Manager.
+   (C)   Reporting and annual permit required. Any animal that is permitted to
+be present in Lincoln County under divisions (A)(1) through (A)(9) above shall
+still be required to:
+      (1)   Annual exempt permit. Any owner or possessor of an exotic animal
+that is owning or possessing within Lincoln County, for more than 48 hours,
+shall be required to obtain an exempt permit from Lincoln County Animal
+Services. To obtain and renew an exempt permit, the owner or possessor shall
+provide the following information:
+         (a)   Name, address and telephone number of the owner(s);
+         (b)   The identifying information for each animal that is located on
+the owner or possessor's property for which the permit is being issued for
+shall include:
+            1.   Type of animal (scientific and common name);
+            2.   Age of animal;
+            3.   Sex of animal; and
+            4.   A picture of each animal being permitted;
+         (c)   Name and telephone number for veterinarian of animal(s), and a
+letter from said veterinarian addressing if the animal is in good health and is
+suitable or eligible for vaccinations; and
+         (d)   Property address for where the animal(s) will be housed.
+      (2)   A written contingency plan which provides:
+         (a)   The responsible party for taking ownership of the animal(s) in
+the case that the owner or possessor dies or becomes incapable of caring for
+the animal(s), and contact information for that individual;
+         (b)   Detailed plan of evacuation during a natural disaster;
+         (c)   Detailed plan of transport procedures within or outside the
+boundaries of Lincoln County; and
+         (d)   Detailed plan for the capture of the grandfathered animal(s) in
+the case of an escape. This plan must include the immediate notification of
+Lincoln County Animal Services and Lincoln County 911. This plan shall also
+include assurances that all necessary equipment intended to be used is
+available.
+      (3)   A copy of any license or allowance provided by the USDA, AZA, or
+N.C. Wildlife Resources Commission for the Exotic Animal which allows for the
+animals' exemption under division (A).
+   (D)   Additional insurance requirement. Any ownership that is exempted under
+division (A) above which allows for the public to enter on to their property
+for viewing of exotic animals shall obtain insurance for the property upon
+where the exotic animals are located and/or viewed in the amount of $1,000,000,
+with Lincoln County named as an additional insured. Proof of said insurance
+shall be provided to Lincoln County Animal Services annually, or upon renewal.
+(Ord. passed 1-5-2026)
+§ 92.12.5 UNLAWFUL POSSESSION.
+   Except as otherwise permitted in this Exotic Animals Ordinance, it shall be
+unlawful for a person to import into, possess, keep, purchase, have custody or
+control of, reproduce or sell within Lincoln County, by any means, an exotic
+animal unless otherwise permitted herein. A violation of this section shall be
+considered a Class 3 misdemeanor and subject to civil penalties in an amount of
+$500 per exotic animal for each violation. Each day that the exotic animal
+remains in Lincoln County shall be considered an additional offense.
+(Ord. passed 1-5-2026)
+§ 92.12.6 PRE-EXISTING EXOTIC ANIMALS.
+   Any exotic animal that is owned or harbored in Lincoln County on February 4,
+2026 and has, or would have been issued, a current permit issued by Lincoln
+County Animal Services pursuant to the previous version of § 92.12, shall be
+entitled to remain in Lincoln County subject to the following:
+   (A)   Permitting for pre-existing exotic animals. An individual owning or
+possessing a pre-existing exotic animal (referred to herein as a "grandfathered
+animal") shall be required to submit within 90 days of the adoption of this
+Exotic Animals Ordinance, an application for grandfathered permit from Lincoln
+County Animal Services.
+   (B)   Application for grandfathered permit. The application for a
+grandfathered permit shall be provided by Lincoln County Animal Services and
+shall contain, at a minimum, the following information and additional
+requirements:
+      (1)   Name, address and telephone number of the owner(s);
+      (2)   The identifying information for each grandfathered animal that is
+located on the owner's property for which the permit is being issued for shall
+include:
+         (a)   Type of animal (scientific and common name);
+         (b)   Age of animal;
+         (c)   Sex of animal; and
+         (d)   A picture of each animal being permitted;
+      (3)   Name and telephone number for veterinarian of the grandfathered
+animal(s), and a letter from said veterinarian addressing if the grandfathered
+animal is in good health and is suitable/eligible for vaccinations;
+      (4)   Property address for where the grandfathered animal(s) will be
+housed, if not at the primary residence of the owner; and
+      (5)   A written contingency plan which provides:
+         (a)   The responsible party for taking ownership of the grandfathered
+animal(s) in the case that the owner dies or becomes incapable of caring for
+the animal(s), and contact information for that individual;
+         (b)   Detailed plan of evacuation during a natural disaster;
+         (c)   Detailed plan of transport procedures within or outside the
+boundaries of Lincoln County; and
+         (d)   Detailed plan for the capture of the grandfathered animal(s) in
+the case of an escape. This plan must include the immediate notification of
+Lincoln County Animal Services and Lincoln County 911. This plan shall also
+include assurances that all necessary equipment intended to be used is
+available.
+      (6)   Additional requirements for crocodilian, large constricting snake
+and venomous reptiles. In addition to the requirements set forth herein, any
+owner of a crocodilian, large constricting snake and venomous reptiles must
+provide:
+         (a)   A copy of the written safety protocol and escape recovery plan
+as required by G.S. Ch. 14, Art. 55.
+         (b)   Certification of compliance with state law. Each owner shall be
+required to attest under penalty of perjury that they are in compliance with,
+and will remain in compliance with, G.S. Ch. 14, Art. 55.
+      (7)   Inspection prior to issuance. Prior to the issuance of a permit
+hereunder, the Animal Services Director shall inspect the premises to confirm
+that, to the best of their knowledge, all containments are sufficient to
+properly contain the grandfathered animal and prevent escape and that all
+requirements under G.S. Ch. 14, Art. 55 are met.
+   (C)   Issuance of permit. Following receipt of a complete application and
+certification as required hereunder, payment of the related fee, and a
+successful inspection by Animal Services, the Animal Services Director shall
+issue a permit under this section, unless grounds for denial exist, as follows:
+      (1)   Permit for inherently dangerous exotic mammals and crocodilians. A
+permit issued to the owner of an inherently dangerous exotic mammal or
+crocodilian shall be specific to each animal and shall not be issued based on
+the number of animals within their possession. Any future renewal shall be
+limited to the specific mammal or crocodilian.
+      (2)   Permit for large constricting snake, venomous reptiles, or
+inherently dangerous arachnids. A permit issued to the owner of a large
+constricting snake, venomous reptiles or arachnids shall be issued to the owner
+based on the number of animals in their possession at the time of issuance.
+This shall be the number permitted to remain under any future renewal.
+   (D)   Annual renewal. Any permit issued hereunder shall be issued for a term
+of one year. Within 30 days of the renewal date, the owner may apply for the
+renewal of the permit which shall contain the same information, and all also
+include information of any change in grandfathered animal(s), including death
+of said animal.
+   (E)   Initial and annual renewal fee. The fee required to be paid for the
+allowance of any grandfathered animal hereunder shall be adopted in the Lincoln
+County Fee Schedule. The Animal Services Director shall not have the authority
+to waive or decrease the fee without express written consent of the County
+Manager.
+   (F)   Denial or revocation of permit. The Animal Services Director shall
+have the authority to deny or revoke a permit issued hereunder for the
+following reasons:
+      (1)   Any disregard or direct violation of this Exotic Animals Ordinance;
+      (2)   The owner has failed to pay fees and penalties required hereunder;
+      (3)   The owner has failed to maintain permitting required hereunder and/
+or has failed to maintain a federal or state license to own, possess, or harbor
+the grandfathered animal;
+      (4)   The owner has failed to have the grandfathered animal current on
+vaccines (if applicable);
+      (5)   The owner has substantially misrepresented or made false statements
+to Lincoln County Animal Services in connection with keeping, owning,
+harboring, or possessing the animal(s);
+      (6)   The owner has failed or refused to allow Lincoln County Animal
+Services to inspect the enclosure or confinement facility during any scheduled
+or non-scheduled visit;
+      (7)   The owner has failed or refused to confine or restrain the animal
+(s) permitted; or
+      (8)   The owner has failed or refused to give Animal Services immediate
+notice of the escape of the animal(s) permitted.
+      (9)   Automatic revocation upon death. Upon the death of an inherently
+dangerous exotic mammal or crocodilian, the permit shall be automatically
+revoked in regard to that specific grandfathered animal unless said permit is
+based on the number of animals, and not a specific animal.
+   (G)   Death of grandfathered inherently dangerous exotic mammal or
+crocodilian. Upon the death of a crocodilian or inherently exotic dangerous
+mammal, the owner shall not be permitted or eligible to obtain a new
+crocodilian or inherently dangerous exotic mammal as a replacement. The owner
+shall notify Lincoln County Animal Services immediately of the death of said
+animal.
+   (H)   Additional animals; breeding prohibited. The owner of any
+grandfathered animal permitted to remain in Lincoln County under the provisions
+of this Exotic Animals Ordinance shall be prohibited from acquiring any
+additional exotic animals to be housed in Lincoln County subject to the terms
+of the permit limits set forth in division (C) above. If any grandfathered
+animal shall breed, then any animal born therefrom that is outside the limits
+set forth in the permit shall be removed from Lincoln County within 30 days of
+the nationally recognized weening period of the specific type of animal.
+   (I)   Microchip of grandfathered animals. In addition to the permitting
+requirement under this section, any grandfathered animal that is considered an
+inherently dangerous exotic mammal shall be required to be microchipped within
+90 days of the issuance of a grandfathered permit. Failure to do so shall
+result in revocation of the permit.
+   (J)   Annual inspections for grandfathered animals. On a yearly basis,
+Animal Services staff shall schedule visits and routine inspections of all
+properties that are permitted under this section. Animal Services staff shall
+confirm that all requirements under G.S. Ch. 14, Art. 55 are met (if
+applicable), and all other requirements under this Exotic Animals Ordinance
+have been met. Failure to meet those requirements shall result in the issuance
+of a citation and ten days to resolve the deficiency. Failure to resolve within
+that timeframe may result in the revocation of said permit.
+   (K)   Quarterly reporting required. On a quarterly schedule that shall be
+established by the Animal Services Director, the owner shall provide a list of
+all grandfathered animals remaining in the possession of the owner.
+(Ord. passed 1-5-2026)
+§ 92.12.7 ADDITIONAL PROHIBITIONS.
+   (A)   Unlawful release. It shall be unlawful for the release or abandonment
+of an exotic animal within Lincoln County intentionally or for the purpose of
+meeting those requirements set forth in § 92.12.5.
+   (B)   Prohibited in public. It shall be unlawful for any person or entity,
+even those exempted from the prohibition under § 92.12.5, to carry or possess
+outside of the confines of the property permitted, any exotic animal. This
+shall include transporting or carrying any exotic animal on government owned
+property and privately owned property where the public is permitted to enter
+including, but not limited to shopping centers, restaurants, and the like.
+   (C)   Exhibition prohibited. It shall be unlawful for any person or entity,
+unless specifically permitted to do so by a federal or state issued permit, to
+operate as an exhibitor or to further allow the public on to the property where
+any exotic animal is located for viewing or interactions with said animals.
+   (D)   Penalty. Violation of any prohibition in divisions (A) through (C)
+above shall be punishable as a Class 3 misdemeanor, and a person may be charged
+with a violation of more than one division herein. ln addition to criminal
+enforcement of this section, any person found to be in violation of this
+section shall be subject to a civil penalty in the amount of $500 for each
+division. Each day a violation continues shall be deemed a separate offense.
+(Ord. passed 1-5-2026)
+§ 92.12.8 IMPOUNDMENT AND/OR DISPOSITION OF INHERENTLY DANGEROUS EXOTIC
+ANIMALS.
+   The following provisions govern the impoundment and/or disposition of exotic
+animals within Lincoln County in contravention of this Exotic Animals
+Ordinance:
+   (A)   Impoundment. The Animal Services Department may immediately take
+custody of an exotic animal if the Animal Control Department determines in its
+discretion that it has facilities sufficient to safely house the animal and
+that the impoundment can be undertaken without injury to persons or property.
+The owner shall be liable for the costs of capture, placement, and care for the
+exotic animal from the time the attempt to capture begins or impoundment occurs
+(whichever happens first) until the time the animal has been relocated to an
+approved facility as set forth hereunder, or has been returned to the owner/
+possessor (in the case of an exempt entity or person), or has been destroyed.
+Recovery of said costs may be in the form of civil penalties.
+      (1)   Bond or deposit. If an exotic animal is impounded as set forth
+herein, the owner must, within 72 hours of impoundment, post a bond or cash
+deposit with Lincoln County in an amount sufficient to guarantee payment of all
+reasonable expenses incurred and expected to be incurred in capturing, caring
+for, and providing shelter for the animal. Any bond shall be approved by the
+Finance Director, or their designee, prior to acceptance.
+         (a)   Reasonable expenses. Reasonable expenses shall include, but are
+not limited to, the estimated cost of feeding, medical care and boarding for a
+period of no less than 30 days, plus the cost associated with the relocation of
+the animal as set forth hereunder.
+         (b)   Relocation. The bond or deposit shall not prevent Animal
+Services from relocating the animal at any time, provided that, upon such
+relocation, the Animal Services Director shall recover under the bond or
+deposit only the sums actually incurred in connection with the expenses.
+         (c)   Extension. Animal Services may, in its discretion, keep the
+animal under its impoundment for a period of not more than 60 days if the
+possessor/owner has made a deposit or bond sufficient to cover said timeframe.
+         (d)   Calculation of bond or deposit. In all cases, the amount of the
+bond or deposit shall be determined by Animal Services and shall be based on
+the current rate of feed, the estimated cost to provide medical care for, and
+to house the animal. In addition, it should also include an expected cost to
+relocate the animal and any costs incurred for capturing the animal, if
+applicable.
+      (2)   Compliance with bond or deposit. If an exotic animal is impounded
+and the owner successfully complies with the provision of a bond or deposit (as
+required herein), then the Director, or their designee, shall attempt to find
+proper and safe housing for said animal outside of Lincoln County through
+placement of the animal with an institution or location with the proper
+accreditation or licensure to accept the animal into their care.
+      (3)   Non-compliance with bond or deposit. If an exotic animal is
+impounded and the owner does not comply with the provision of a bond or deposit
+(as required herein), then the Director, or their designee, may, in their
+discretion, attempt to find proper and safe housing for the animal outside of
+Lincoln County, but is not required to do so.
+      (4)   Exempted ownership under § 92.12.4(A). Any owner that is exempted
+pursuant to § 92.12.4(A) shall not be required to place a bond or deposit as
+set forth in divisions (A)(1) through (3) immediately above. However, any costs
+incurred by the county for the capture and/or impoundment of the animal shall
+be paid to Lincoln County prior to return of the animal, if all of the
+following criteria are met:
+         (a)   The impounded animal escaped or was released from an exempt
+entity or person; and
+         (b)   The animal can safely be impounded and returned to the exempt
+entity or person or can safely be recaptured by said entity or person; and
+         (c)   The exempt entity or person has taken reasonably sufficient
+steps to assure that the animal will not escape or be released in the county
+again; and
+         (d)   The animal has not previously escaped or been released in the
+county.
+   (B)   Animal to remain in care of possessor. If the Animal Services
+Director, or their designee, determines that the exotic animal cannot be
+captured and impounded by the Animal Services Department, the Director may
+authorize and direct the owner/possessor to retain the animal and within a
+period of not more than 30 days, relocate the animal to proper and safe housing
+located outside of Lincoln County with an institution or location with the
+proper accreditation or licensure to accept the animal into their care.
+      (1)   Limited applicability. This provision shall only be available if
+the exotic animal has not caused injury to persons or property, and that the
+possessor/owner has facilities sufficient to safely house the animal in a way
+that prevents said animal from escape or causing any such injury during the
+period for when it is being relocated.
+      (2)   Non-waiver of penalties. The decision of the Animal Services
+Director to allow for the owner/possessor to retain the animal shall not in any
+way constitute a waiver of any civil penalties associated with the violation of
+§ 92.12.5, and said civil penalties shall continue to accrue daily until the
+animal is adequately relocated. In addition, this shall not waive the rights of
+the county for criminal enforcement any violation of this Exotic Animals
+Ordinance.
+   (C)   Destruction of exotic animal. Unless otherwise prohibited by the
+Federal Endangered Species Act or any other applicable federal or state law,
+the Director may immediately destroy an exotic animal in a humane manner if:
+      (1)   It is determined that the exotic animal cannot be taken into
+custody or impounded without injury to person or property; or
+      (2)   The owner of the exotic animal fails to timely post the bond or
+cash deposit as required herein; or
+      (3)   Proper and safe housing cannot be found for the exotic animal as
+set forth herein;
+      (4)   The inherently exotic animal has previously escaped or been
+released from an exempt entity or person within the last year and poses a risk
+to person or property.
+(Ord. passed 1-5-2026)
 § 92.13 DISPOSITION OF DECEASED ANIMALS.
    Animal Services will investigate allegations of improper disposal of animals
 and will coordinate with the County Health Department for concerns on public
@@ -6767,363 +7603,6 @@ such action. Any entry onto private property shall be in accordance with all
 applicable laws and regulations, and Animal Services Officers shall work with
 the Lincoln County Sheriff’s Office or the Lincolnton Police Department, if
 necessary.
-(Ord. passed 9-15-2025)
-DANGEROUS DOGS
-§ 92.35 TITLE.
-   This subchapter (§§
-92.35 through
-92.43) of the Lincoln County Animal Ordinance shall be considered the Lincoln
-County Dangerous Dog Ordinance.
-(Ord. passed 9-15-2025)
-§ 92.36 DETERMINATION OF DANGEROUS AND POTENTIALLY DANGEROUS DOGS.
-   The Animal Services Director or their designee shall determine whether a dog
-is to be declared dangerous or potentially dangerous based on this dangerous
-dog subchapter. Once the dog is deemed dangerous or potentially dangerous, the
-Animal Services Director or designee may impound the dog immediately and notify
-the owner of the dog in writing, including the reason for the determination.
-   (A)   Dangerous dog. A dangerous dog will be classified as either a level 1
-or level 2 dangerous dog based on the following requirements.
-      (1)   Level 1. The dog will be classified as level 1 if the dog:
-         (a)   Killed a person who was not attempting to harm, rob or seriously
-injure the dog's owner or family;
-         (b)   Severely injures a child under the age of 12;
-         (c)   When not on the owner's real property, inflicted severe injury
-to a person;
-         (d)   Was previously declared a level 2 dangerous dog and while out of
-the secure enclosure bit a person;
-         (e)   Was previously declared a level 2 dangerous dog and while out of
-the secure enclosure and not on the owner's real property bit another domestic
-animal;
-         (f)   Was previously declared a potentially dangerous dog and
-inflicted severe injury to a person; or
-         (g)   Was previously declared a potentially dangerous dog and when not
-on the owner's real property killed or inflicted severe injury to a domestic
-animal.
-      (2)   Result if deemed level 1. The Animal Services Director or designee
-shall immediately seize and impound the dog, and order and cause the level 1
-dangerous dog to be humanely destroyed at the expense of the owner. No level 1
-dangerous dog shall be destroyed until after the appeal period has expired.
-      (3)   Level 2. The dog may be classified as Level 2 if the dog:
-         (a)   When on the owner's real property inflicted severe injury to a
-person and the person was not attempting to harm, rob or seriously injure the
-dog's owner or family;
-         (b)   Was owned or harbored primarily or in part for the purpose of
-dog fighting, or trained for dog fighting, in violation of N.C.G.S. § 14-362.2;
-         (c)   Was previously declared a potentially dangerous dog and when not
-on the owner's real property bit another domestic animal, livestock or other
-chicken/fowl, but did not cause a severe injury; or
-         (d)   Was previously declared a potentially dangerous dog and bit a
-person but did not cause a severe injury.
-      (4)   Result if deemed level 2. A level 2 dangerous dog may be redeemed
-by the owner, provided the owner first complies with those regulations and
-confines the level 2 dangerous dog as required in §
-92.38. If the owner fails to redeem the level 2 dangerous dog, or fails to
-provide notice that it will redeem the dog following installation of
-confinement structures, the level 2 dangerous dog shall be humanely destroyed
-at the expense of the owner. No level 2 dangerous dog shall be destroyed until
-after the appeal period has expired.
-   (B)   Potentially dangerous dog. A dog may be classified as a potentially
-dangerous if the dog:
-      (1)   When not on the owner's real property killed or inflicted severe
-injury upon a domestic animal, livestock or other chicken/fowl: or
-      (2)   When not on the owner's real property approached a person in a
-vicious or terrorizing manner in an apparent attitude of attack; or
-      (3)   Inflicted an unprovoked bite to a human.
-      (4)   Result if deemed potentially dangerous. A potentially dangerous dog
-may be redeemed by the owner, provided the owner first agrees to keep the dog
-under restraint and complies with §
-92.37.
-   (C)   Exceptions. This chapter does not apply to the following:
-      (1)   A law enforcement dog being used by a law enforcement officer to
-carry out the law enforcement officer's official duties or professional
-responsibilities; or a security dog used by a professional security guard
-registered with the North Carolina Protective Services Board to carry out the
-security guard's official duties or professional responsibilities.
-      (2)   A dog where the injury or damage inflicted by the dog was sustained
-by a domestic animal while the dog was working as a herding dog, or predator
-control dog on the property of or under the control of its owner, and the
-damage or injury was to a specific type of domestic animal appropriate to the
-work of the dog; or
-      (3)   A dog where the injury inflicted by the dog was sustained by a
-person who, at the time of the injury was tormenting, abusing, or assaulting
-the dog; had tormented, abused or assaulted the dog; or was committing or
-attempting to commit a crime.
-(Ord. passed 9-15-2025)
-§ 92.37 APPEAL PROCEDURE FOR DANGEROUS AND POTENTIALLY DANGEROUS DOGS.
-   (A)   Right to appeal. The owner of a dog which has been declared dangerous
-or potentially dangerous pursuant to §
-92.36 has the right to appeal the determination by filing a written appeal,
-stating the grounds for the appeal, with the Animal Services Director within
-three business days of receipt of the dangerous or potentially dangerous dog
-determination letter. If the owner fails to file the written appeal, the dog
-will be disposed of according to this subchapter.
-      (1)   Any appeal of the Director's decision filed hereunder shall be
-heard by the Dangerous Dog Appellate Board, as established herein. The
-Dangerous Dog Appellate Board shall hold a hearing within ten business days of
-the filing of the written appeal. The appellant will be notified of the Board's
-decision in writing within ten business days following the final decision of
-the Appellate Board.
-      (2)   Following the decision of the Dangerous Dog Appellate Board, the
-appellant (or the county) shall have a right to appeal that decision of the
-Appellate Board. Any appeal shall be filed with the Lincoln County Superior
-Court by filing a notice of appeal and petition for review within 30 days of
-receipt of the final decision of the Appellate Board. This appeal must be
-served on all parties relevant to the appeal, including but not limited to: the
-Animal Services Director and the County Attorney.
-   (B)   Dangerous Dog Appellate Board.
-      (1)   The Dangerous Dog Appellate Board has been established by the Board
-of Commissioners, as follows:
-         (a)   The Board shall be composed of five regular members and two
-alternates, and at least one of the regular members shall be a sworn law
-enforcement officer.
-         (b)   Members and alternates must be residents of Lincoln County and
-appointed by the Board of Commissioners for a period of three years, and each
-member may serve two terms.
-         (c)   A quorum of at least three members (any combination of regular
-members and alternates) must be present at an Appellate Board hearing in order
-for the Appellate Board to conduct business.
-         (d)   Conflict of interest. The members of the Dangerous Dog Appellate
-Board shall be expected to disclose any prior personal involvement they have
-had with the case or other conflicts of interest, and upon a motion of the
-Board, the member making the disclosure may be recused.
-      (2)   Procedural requirements.
-         (a)   All testimony offered at the Appellate Board hearing shall be
-given under oath and recorded by audio recording. The hearing shall be open to
-the public, and the person requesting the appeal may be represented by an
-attorney.
-         (b)   The Animal Services Director or designee shall have the burden
-of demonstrating that this chapter has been violated. The person requesting the
-appeal will be given an opportunity to prove this chapter has not been
-violated. The Animal Services Director or designee will be given a final
-opportunity to clarify any conflicts, ambiguities or inconsistencies created by
-or arising from the statements or evidence.
-         (c)   The Dangerous Dog Appellate Board may ask questions at any time
-during the appeal hearing and may request additional evidence from either
-party, including continuing the hearing in the interest of fairness.
-         (d)   Decision. The Dangerous Dog Appellate Board may rule on the
-appeal in any of the following ways: (1) uphold the decision of the Animal
-Services Director in total; (2) reverse the decision of the Animal Services
-Director in total; or (3) uphold or reverse the decision of the Animal Services
-Director with additional criteria added or removed.
-   (C)   Application of decision. Any decision rendered by the Dangerous Dog
-Appellate Board applies only to the violation(s) appealed and does not prevent
-the Animal Services Department from enforcing a subsequent violation of the
-same provision or any other provision of this chapter. If the Dangerous Dog
-Appellate Board upholds or affirms the decision of the Animal Services Director
-or designee, the owner is responsible for all applicable boarding fees,
-redemption fees and civil penalties.
-   (D)   Failure to appeal. If the owner of the dog does not file a written
-appeal with the Dangerous Dog Appellate Board as provided herein or if the
-owner of the dog does not comply with the confinement requirements as specified
-herein, then the dog becomes the property of the county for disposition.
-(Ord. passed 9-15-2025)
-§ 92.38 CONFINEMENT AND RESTRAINT REQUIREMENTS
-   (A)   Level 2 dangerous dog requirements. The owner of a level 2 dangerous
-dog that is required to be confined pursuant to §
-92.36 may redeem the dog upon complying with the following:
-      (1)   The owner must file a written notice of intent to comply with the
-enclosure requirements outlined below with the Animal Services Director within
-three business days of receipt of the determination letter. If the owner fails
-to file a written notice, the dog shall become the property of the county and
-shall be disposed of in accordance with this chapter.
-      (2)   Before redemption, a level 2 dangerous dog must be fitted with
-microchip identification, at the owner's expense.
-      (3)   The owner must pay all outstanding fines and fees owed to the
-Animal Services Department.
-      (4)   From the initial notice from the Animal Services Department, the
-owner has 21 calendar days to erect the secure enclosure. If the owner appeals,
-the owner has 21 days to erect the secure enclosure from the date of the final
-decision.
-      (5)   Secure enclosure requirements. The secure enclosure must conform to
-all of the following:
-         (a)   The structure must be a minimum size of 90 square feet and six
-feet tall, with a concrete pad at least two inches thick. If more than one dog
-is to be kept in the enclosure, the floor area must provide at least 90 square
-feet for each dog. The walls and roof of the structure must be constructed of
-welded chain link, of a minimum thickness of 9-gauge, or equivalent gauge
-welded wire, supported by galvanized steel poles at least two and one-half
-inches in diameter. The vertical support poles must be sunk in concrete-filled
-holes at least 18 inches deep and at least eight inches in diameter. The chain
-link fencing must be anchored to the concrete pad with galvanized steel anchors
-at intervals of no more than 12 inches along the perimeter of the pad. The
-entire structure must be freestanding and not attached or anchored to any
-existing fence, building, or structure. The structure must be secured by a pad
-lock.
-         (b)   A warning sign of at least 120 square inches must be visible
-from each side of the structure and visible to any adjoining property.
-         (c)   The secure enclosure must be inspected and approved by the
-Animal Services Director or designee.
-         (d)   The owner of the dog is responsible for ensuring that the
-enclosure is maintained in such a condition to continually meet the
-requirements of this chapter. Failure to maintain or repair the enclosure shall
-subject the owner to penalties under this chapter.
-         (e)   Prior to inspection of the enclosure by the Animal Services
-Director or designee, the dog shall not be returned to the owner's property
-until the shelter and warning signs have been approved. While the structure is
-being erected, the dog must be boarded at the county animal shelter at the
-owner's expense.
-         (f)   Insurance requirement. At the owner's expense, the owner of a
-level 2 dangerous dog shall procure and maintain and provide proof of liability
-insurance in the amount of at least $100,000.
-         (g)   Additional requirements. The Animal Services Director may make
-additional confinement requirements as deemed necessary, and based on the
-circumstances surrounding each specific case.
-      (6)   Maintenance requirements of a level 2 dangerous dog. The owner of a
-level 2 dangerous dog that is required to be confined must comply with the
-following requirements:
-         (a)   A dangerous dog shall not be permitted out of the enclosure
-unless the dog is under physical restraint by a competent person who by means
-of a leash no longer than six feet has the dog firmly under control at all
-times. Voice command and electronic collars are not recognized as adequate
-restraints. A dangerous dog must be muzzled when not on the owner's real
-property.
-         (b)   If the owner can provide detailed written instructions from a
-licensed veterinarian that the dog must remain out of the secure enclosure for
-a specified amount of time due to sickness or injury, then the dog shall
-immediately be housed at a veterinarian clinic until it is medically cleared,
-at which time the dog shall immediately be returned to the secure enclosure.
-Written instructions from a licensed veterinarian must be updated at least
-every 30 days by a licensed veterinarian and provided to the Animal Services
-Division by the owner.
-   (B)   Potentially dangerous dog confinement and maintenance requirements.
-The owner of any potentially dangerous dog may redeem their dog upon complying
-with the following:
-      (1)   At the owner's expense and before redemption, a potentially
-dangerous dog must be fitted with microchip identification.
-      (2)   The owner must pay all outstanding fines and fees due to the Animal
-Services Department.
-      (3)   The owner must keep the dog under restraint at all times. Restraint
-under this section includes:
-         (a)   Controlled by means of a chain or other approved tether no
-longer than 20 feet or a leash no longer than six feet. Voice command and
-electronic collars are not recognized as adequate restraints.
-         (b)   Within a vehicle being driven or parked, and secured in such
-manner as to prevent the animal from escaping or causing injury to persons
-approaching or passing the vehicle. An animal is not under restraint if it is
-in the back of an open-bed pickup.
-         (c)   Within a fenced enclosure adequate to secure the dog so as to
-prevent it from escaping from the owner's real property.
-         (d)   Not permitting the dog to go beyond the owner's real property
-unless the dog is leashed and muzzled.
-         (e)   Comply with any additional requirements as deemed necessary by
-the Director of Animal Services or designee.
-   (C)   Indoor confinement. It shall be at the sole discretion of the Animal
-Services Director to determine if the dog, based on the specifics of its
-designation, is eligible for indoor confinement. Any proposed indoor
-confinement shall be submitted and viewed by the Animal Services Director, or
-their designee, and approved prior to being used for that purpose. However, no
-indoor confinement shall be permitted in a residential structure where a child
-under the age of 12 years old resides, or where an adult that is considered
-vulnerable or incompetent resides.
-   (D)   Penalties. In addition to criminal penalties provided by state law and
-civil penalties set forth in §
-92.99, any person who violates the requirements set forth in this section shall
-be subject to the following sanctions and remedies:
-      (1)   If a dangerous dog is found at large, it shall be seized and
-impounded. An Animal Services Officer is authorized to go upon private property
-to seize the dangerous dog.
-      (2)   The Animal Services Department shall have the right to inspect the
-enclosure at any time. If an inspection of the enclosure reveals that the owner
-has not complied with the requirements for confining and/or restraining the
-dog, an Animal Services Officer may issue a civil penalty in conformity with
-this chapter and may impound the dog.
-      (3)   Subsequent violations. Upon a second violation of this section, the
-dog will be impounded immediately and will become the property of the county
-and will be disposed of in accordance with this chapter.
-(Ord. passed 9-15-2025)
-§ 92.39 REGISTRATION AND TRANSFER OF OWNERSHIP.
-   (A)   Registration. A current registration shall be maintained by the Animal
-Services Department for every dog determined to be dangerous or potentially
-dangerous. The owner of the dog is responsible for ensuring that the dog is
-registered. Registrations must include the name and address of the owner,
-identifying information concerning the dog, a copy of the certificate of
-insurance, verification of current rabies vaccination, and any other
-information the Animal Services Department deems necessary. The owner shall
-register the dog annually with the Animal Services Department during the month
-of January. If the dog dies, the owner is responsible for notifying Animal
-Services immediately. If ownership is transferred, division (B) below applies.
-   (B)   Transfer of ownership. If the owner of a potentially dangerous or
-dangerous dog transfers ownership or possession of the dog to another person,
-the owner must, ten days prior to the transfer, provide written notice to the
-Animal Services Director or designee stating the intent to transfer the dog and
-the name, telephone number, and address of the new owner or possessor of the
-dog. The new owner must assume all responsibilities regarding the dangerous or
-potentially dangerous dog. The Animal Services Director or designee must
-inspect the new, proposed location to ensure compliance with the written order
-prior to the dog's relocation. If the location does not fall under the
-jurisdiction of this chapter, the Animal Services Director or designee shall
-contact the appropriate animal control or law enforcement agency of the owner's
-intent to relocate the dog in question to a location within such agency's
-jurisdiction and shall provide copies of all records pertaining to the dog to
-the agency prior to the dog's relocation. Any owner of a dog that has been
-deemed level 1 dangerous dog shall not be eligible to transfer ownership as
-delineated herein.
-(Ord. passed 9-15-2025)
-§ 92.40 DANGEROUS DOGS FROM OTHER JURISDICTIONS.
-   (A)   An owner bringing into the county a dog that has been classified as
-dangerous or potentially dangerous shall notify Animal Services prior to
-transferring the dog into the county. Once an owner notifies Animal Services of
-a dog's classification as dangerous or potentially dangerous from another
-jurisdiction, the Animal Services Director or designee shall contact that
-jurisdiction to obtain all necessary information to classify the dog according
-to this chapter. Dogs from other jurisdictions must comply with all Lincoln
-County laws after their classification. The Animal Services Director shall have
-the discretion to disallow the transfer of any dangerous dog from another
-jurisdiction.
-   (B)   An owner may appeal the determination of the Animal Services Director
-according to § 92.37.
-   (C)   Penalty. If an owner of a dog that has been classified as dangerous or
-potentially dangerous fails to notify Animal Services of its intent to transfer
-the dog into Lincoln County, then that owner shall be subject to a penalty of
-$500 per animal.
-(Ord. passed 9-15-2025)
-§ 92.41 DECLASSIFICATION.
-   Any declaration that an animal is potentially dangerous, or dangerous level
-2 may be petitioned for declassification as provided in this section.
-   (A)   An owner of an animal that has been declared dangerous or potentially
-dangerous under this or a previous version of this chapter may request annually
-that the Animal Services Director or designee submits the declaration in front
-of the Dangerous Dog Appellate Board for review of the declaration. The request
-shall be made in writing on an application provided by Animal Services and
-shall be accompanied by an overall assessment of the animal completed by a
-competent person accredited by the Certification Council for Professional Dog
-Trainers or another recognized and approved body. The assessment shall have an
-emphasis on the behavior underlying the declaration and the owner's ability to
-manage the animal. The Dangerous Dog Appellate Board shall consider revocation
-of the declaration only if no violations of this chapter or, if applicable,
-N.C.G.S. § 67-4.1 et seq., have occurred within the 18 months preceding the
-date of application for review. The Dangerous Dog Appellate Board shall further
-consider the following matters when reviewing the declaration:
-      (1)   The outcomes of the assessment described in this division;
-      (2)   The nature of the original attack(s) and the reasons for the
-original declaration;
-      (3)   The manner in which the animal has been cared for and managed since
-the declaration was imposed; and
-      (4)   Evidence of whether the animal's behavior has changed since the
-declaration due to the animal's age, environment, training, or other factors.
-   (B)   The Dangerous Dog Appellate Board may revoke the declaration or revise
-the level of danger after considering the application, the assessment, and the
-matters described above. The Dangerous Dog Appellate Board shall issue written
-findings to the owner stating the reason(s) for his or her decision and, if the
-Dangerous Dog Appellate Board has denied the revocation, the date upon which
-the owner may request further review of the declaration by the Dangerous Dog
-Appellate Board. The Dangerous Dog Appellate Board has complete discretion in
-making the decision and any final decision is not subject to appeal.
-   (C)   Any animal that has been deemed potentially dangerous that becomes
-property of Lincoln County may be declassified by the Dangerous Dog Appellate
-Board upon request for additional review by the Animal Services Director, or
-their designee.
-(Ord. passed 9-15-2025)
-§ 92.42 PRIVATE ACTION.
-   Nothing in this subchapter shall prevent a private citizen from bringing an
-action against the owner of a dog which has caused injury to the private
-citizen or his or her property for damages or any other loss resulting from the
-dog's conduct being dangerous.
-(Ord. passed 9-15-2025)
-§ 92.43 PENALTIES FOR THIS SUBCHAPTER.
-   Any person who violates a provision of this subchapter shall be subject to
-the civil penalties listed in §
-92.99.
 (Ord. passed 9-15-2025)
 § 92.99 FEES AND PENALTIES.
    (A)   Fees shall be charged in accordance with the Lincoln County fee
@@ -15368,6 +15847,7 @@ G.S. Cite                               Code Section
 1A-1, Rule 4                            152.18,
                                         152.99
 7A-250                                  151.44
+Ch. 14, Art. 55                         92.12.6
                                         10.99,
                                         30.05,
                                         50.05 -
@@ -15390,7 +15870,6 @@ G.S. Cite                               Code Section
                                         91.02,
                                         92.06 -
                                         92.10,
-                                        92.12,
                                         92.13,
                                         92.19,
                                         92.20,
@@ -15403,8 +15882,7 @@ G.S. Cite                               Code Section
 14-190.14                               114.01
 14-288.1                                37.067
 14-288.20A                              32.067
-14-362.2                                92.06,
-                                        92.36
+14-362.2                                92.11.2
 14-409.39(2)                            32.067
 14-409.45 – 14-409.47                 110.03
 14-414                                  95.007,
@@ -15438,7 +15916,7 @@ Ch. 66, Art. 45                         113.03,
 66-421                                  113.25
 66-422                                  113.25
 66-429                                  113.25
-67-4.1 et seq.                          92.41
+67-4.1 et seq.                          92.11.7
 67-30                                   92.05
 67-30 et seq.                        92.03
 Ch. 74, Art. 7                          152.04,
@@ -15525,7 +16003,8 @@ Ch. 153A                                51.024,
 153A-49                                 10.19,
                                         10.20
                                         10.99,
-153A-121                                110.03,
+153A-121                                92.12.2,
+                                        110.03,
                                         151.01
 153A-121(a)                             32.067
                                         10.99,
@@ -15763,7 +16242,7 @@ Ord. No. Date Passed Code Section
                      71.99
                      92.01 -
                      92.10,
--        6-21-2021   92.12 -
+-        6-21-2021   92.13 -
                      92.18,
                      92.99
                      32.001 -
@@ -15832,9 +16311,8 @@ Ord. No. Date Passed Code Section
                      91.99,
                      92.05 -
                      92.10,
-                     92.12,
--        3-21-2022   92.13,
-                     93.04 -
+                     92.13,
+-        3-21-2022   93.04 -
                      93.07,
                      93.09,
                      95.132,
@@ -15956,13 +16434,15 @@ Ord. No. Date Passed Code Section
                      92.01,
                      92.03 -
                      92.10,
-                     92.13,
+                     92.11.1 -
+                     92.11.9,
+-        9-15-2025   92.13,
                      92.15,
--        9-15-2025   92.16,
+                     92.16,
                      92.18 -
                      92.23,
-                     92.35 -
-                     92.43,
                      92.99
+-        1-5-2026    92.12.1 -
+                     92.12.8
                     
  
