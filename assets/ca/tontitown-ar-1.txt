@@ -1,7 +1,7 @@
 TONTITOWN, ARKANSAS
 CODE OF ORDINANCES
-2025 S-63 Supplement contains:
-Local legislation current with legislation passed through May 20, 2025
+2026 S-64 Supplement contains:
+Local legislation current with legislation passed through November 18, 2025
  
 Published by:
 American Legal Publishing
@@ -587,6 +587,8 @@ City Officials
 30.51   Mayor
    
 30.52   City Clerk-Treasurer
+   
+30.53   Building Official
 CITY COUNCIL
 § 30.01 MEETINGS OF THE COUNCIL; TIME AND NOTICE.
    (A)   The date for the regular legislative meetings of the City Council
@@ -684,29 +686,34 @@ pattern; which shall be reduced to writing in the form of an agenda distributed
 to Council members prior to the meeting:
    (A)   Call to order;
    (B)   Roll call;
-   (C)   Pledge of allegiance;
-   (D)   Approval of the agenda;
-   (E)   Approval of the minutes;
-   (F)   Approval of the city financial reports;
-   (G)   Public comment;
+   (C)   Invocation;
+   (D)   Pledge of allegiance;
+   (E)   Approval of the agenda;
+   (F)   Approval of the minutes;
+   (G)   Approval of the city financial reports;
+   (H)   Reports:
       (1)   Museum;
       (2)   Police;
       (3)   Fire;
       (4)   Public works;
-      (5)   Building;
+      (5)   Building; and
       (6)   Planning.
-   (H)   Public comment;
    (I)   Old business; presentation of ordinances, resolutions, motions or
 discussion items;
    (J)   New business; presentation of ordinances, resolutions, motions or
 discussion items;
-   (K)   Reports from the Mayor, the City Council and the City Attorney if any;
-   (L)   Announcements; and
-   (M)   Adjournment.
+   (K)   Public comment; public comment will be limited to one public comment
+period at the end of each regular session (before Adjournment). During public
+comment, citizens may address any agenda or non-agenda item. In order to
+preserve meeting flow, there shall be no additional public comment on agenda
+items earlier in the meeting;
+   (L)   Reports from the Mayor, the City Council and the City Attorney if any;
+   (M)   Announcements; and
+   (N)   Adjournment.   
 (Ord. 2013-02-406, passed 2-5-13; Am. Ord. 2015-01-503, passed 1-6-15; Am. Ord.
 2019-02-828, passed 2-5-19; Am. Ord. 2019-03-832, passed 3-5-19; Am. Ord. 2021-
 02-917, passed 2-2-21; Am. Ord. 2023-02-1031, passed 2-7-23; Am. Ord. 2023-04-
-1046, passed 4-18-23)
+1046, passed 4-18-23; Am. Ord. 2025-11-1236, passed 11-18-25)
 § 30.06  PUBLIC COMMENTS.
    (A)   There shall be a 15-minute public comment period during regular
 meetings of the City Council of not more than 15 minutes in which the City
@@ -892,12 +899,13 @@ laws, ordinances, resolutions and official documents of the city and its
 actions. Only the City Clerk-Treasurer will have the ability to modify or
 adjust the data in the financial documents or records of the city;
 (A.C. § 14-44-109)
-      (2)   Keep a regular and correct written journal of the proceedings of
+      (2)    Keep a regular and correct written journal of the proceedings of
 the City Council; prepare and distribute copies of the Council meeting agenda
-to the Council, Mayor and press/media; train the designated deputy, as
-appointed by the City Council, who is empowered to act in the absence or
+to the Council, Mayor and press/media; train the designated deputies, as
+appointed by the City Council, who are empowered to act in the absence or
 incapacity of the Clerk-Treasurer (unless the Council shall have declared a
-vacancy in the office of the Recorder) (no Deputy Treasurer may be designated);
+vacancy in the office of the Clerk-Treasurer) (no Deputy Treasurer may be
+designated);
 (A.C. § 14-44-109)
       (3)   Submit a written monthly, full report and detailed statements of
 the financial condition of the city, showing receipts, disbursements and the
@@ -959,13 +967,25 @@ appointments may be scheduled by email or calling the City Clerk- Treasurer
 directly.
 (Ord. 2005-3-210, passed 3-15-05; Am. Ord. 2005-3-211, passed 3-15-05; Am. Ord.
 2007-05-289, passed 5-1-07; Am. Ord. 2008-08-320, passed 8-5-08; Am. Ord. 2009-
-02-330, passed 2-3-09; Am. Ord. 2009-04- 336, passed 4-7-09; Am. Ord. 2009-04-
+02-330, passed 2-3-09; Am. Ord. 2009-04-336, passed 4-7-09; Am. Ord. 2009-04-
 337, passed 4-7-09; Am. Ord. 2010-01-350, passed 1-5-10; Am. Ord. 2011-01-370,
 passed 1-5-11; Am. Ord. 2013-02-410, passed 2-5-13; Am. Ord. 2013-04-416,
 passed 4-2-13; Am. Ord. 2015-08-539, passed 8-11-15; Am. Ord. 2020-05-885,
-passed 5-5-20; Am. Ord. 2021-02- 917, passed 2-2-21)
+passed 5-5-20; Am. Ord. 2021-02-917, passed 2-2-21; Am. Ord. 2025-10-1219,
+passed 10-21-25)
 Statutory reference:
    For similar state provisions, see A.C. § 14-44-109
+§ 30.53 BUILDING OFFICIAL.
+   (A)   A position of Building Official for the City of Tontitown is hereby
+created.
+   (B)   The salary or hourly wage for the Building Official will be set in the
+city budget or by a resolution of the City Council.
+   (C)   The Building Official shall perform the duties and carry out the
+responsibilities as defined by the Arkansas Fire Prevention Code or as set
+forth by approved city ordinances, regulations or job description so long as
+such do not conflict with the Arkansas Fire Prevention Code or applicable state
+law.
+(Ord. 2025-10-1220, passed 10-21-25)
 CHAPTER 31: DEPARTMENTS, BOARDS, COMMISSIONS AND COMMITTEES
 Section
    
@@ -3684,24 +3704,30 @@ commercial or industrial.
    (B)   Schedule of sewer rates. The following schedule of sewer rates to be
 applied to the water consumption of users as set forth in the article, Sewer
 Rate Schedule.
-      (1)   Inside the city: the charges to each customer for sewage collection
-and treatment shall he determined each month and shall be the sum of a base and
-a usage charge based on the customer's metered water usage determined as set
-forth in this division and computed using the following schedule of rates, for
-the following time period, after August 20, 2024:
-         (a)   Base charge: $15.23.
-         (b)   All water consumption per month or portion thereof, per 1,000
-gallons: $10.14.
-      (2)   Outside city:
-         (a)   Base charge: $20.56.
-         (b)   All water consumption per month, per 1,000 gallons: $13.70.
-      (3)   Industrial user rate: *
-         (a)   Base charge shall be the same amount as charged fox all other
-customers inside or outside the city.
+      (1)   The charges to each customer for sewage collection and treatment
+shall be determined each month and shall be the sum of a base and a usage
+charge based on the customer's metered water usage determined as set forth in
+this division and computed using the following schedule of rates, for the
+following time period, after September 19, 2025:
+         (a)   Base rates per month:
+ 
+Sewer Service         Inside City Outside City
+Residential           $16.75      $22.62
+(based on 5/8" meter)
+Commercial            $17.51      $23.64
+(based on 5/8" meter)
+Industrial*           $1000.00    $1000.00
+ 
+         (b)   Rates for all water consumption per month or portion thereof,
+per 1,000 gallons:
+ 
+Sewer Service Inside City            Outside City
+Residential   $11.15 per 1,000 gals. $15.07 per 1,000 gals.
+Commercial    $12.17 per 1,000 gals. $15.76 per 1,000 gals.
+Industrial*   $16.83 per 1,000 gals. $22.20 per 1,000 gals.
+ 
 * Industrial user is defined by metered sewer usage in excess of 250,000
 gallons per month.
-         (b)   All sewer generated per month, per 1,000 gallons: $13.46 inside
-city; $17.76 outside the city.
    (C)   Tapping fees. All users of the sewer system shall be required to pay
 tapping fees prior to accessing the sewer system. The cost for a 4-inch service
 tap shall be $500. For any tap larger than 4 inches, the tapping fee shall be
@@ -3749,7 +3775,8 @@ sludge of the treatment works shall pay for such increased costs.
 (Ord. 2006-09-271, passed 9-5-06; Am. Ord. 2011-03-374, passed 3-1-11; Am. Ord.
 2013-03-415, passed 3-5-13; Am. Ord. 2015-10-547, passed 10-6-15; Am. Ord.
 2015-12-561, passed 12-1-15; Am. Ord. 2016-08-594, passed 8-3-16; Am. Ord.
-2019-02-829, passed 2-5-19; Am. Ord. 2024-08-1116, passed 8-20-24)
+2019-02-829, passed 2-5-19; Am. Ord. 2024-08-1116, passed 8-20-24; Am. Ord.
+2025-09-1214, passed 9-16-25)
 § 52.116 BILLING.
    (A)   Users will be billed on the same notice as water charges. Bills will
 be due at the same time and under the same terms as the water bill. Failure to
@@ -6826,12 +6853,12 @@ type of business, type of materials used or stored at each address, the time
 covered and the fee to be paid, and each application shall contain any such
 additional information as may be needed for the proper guidance of the city
 officials in issuing the license applied for.
-   (B)   All applications required hereunder shall be kept and filed by the
-Code Enforcement Officer, Clerk-Treasurer or designee and bear the signature of
-the appropriate official.
+   (B)   All applications required hereunder shall be obtained, kept and filed
+by the Community Development Director or designee with the city Planning
+Department and bear the signature of the appropriate designated official.
    (C)   (1)   Any person or entity which is granted a license under this
-chapter may have said license revoked or suspended if the Code Enforcement
-Officer or designee has reason to believe that grounds exist to justify the
+chapter may have said license revoked or suspended if the Community Development
+Director or designee has reason to believe that grounds exist to justify the
 suspension or revocation of a business license. Such grounds that could support
 the suspension or revocation of a license include:
          (a)   The license holder is operating the business in a dangerously
@@ -6845,13 +6872,13 @@ state or local law or regulation, including city ordinances and regulations, or
 has had a necessary state or city license suspended or revoked.
          (d)   The business license was procured through fraud or
 misrepresentation.
-      (2)   If the Code Enforcement Officer or designee has reason to believe
-the grounds exist that could justify the suspension or revocation of a license,
-a letter sent by first class mail shall be sent to the business mailing address
-shown on the application notifying the business owner of the possible grounds
-to suspend or revoke the license and notifying the business of the time and
-place of a due process hearing which shall be set not less than five days and
-no more than ten days of the date of the letter.
+      (2)   If the Community Development Director or designee has reason to
+believe the grounds exist that could justify the suspension or revocation of a
+license, a letter sent by first class mail shall be sent to the business
+mailing address shown on the application notifying the business owner of the
+possible grounds to suspend or revoke the license and notifying the business of
+the time and place of a due process hearing which shall be set not less than
+five days and no more than ten days of the date of the letter.
       (3)   The Mayor shall designate the appropriate city official or agent as
 the hearing officer to conduct the due process hearing, and this official or
 agent shall receive and hear evidence from city employees or others regarding
@@ -6865,7 +6892,7 @@ the severity of the allegations:
          (c)   Place the license in probation statute for not more than 90 days
 on condition that the grounds leading to the due process hearing will be
 remedied by the business owner and not allowed to reoccur. If the business is
-found to be compliance with the terms of the probation, the probation status
+found to be in compliance with the terms of the probation, the probation status
 shall be lifted by the hearing officer and no further action shall be taken. If
 the hearing officer determines that the business has failed to be in compliance
 with the terms of the probation or if new grounds for suspension or revocation
@@ -6897,19 +6924,19 @@ injunction in a court of competent jurisdiction to prevent the former license
 holder from operating without a license.
       (6)   Any business which operates or conducts business within the city
 limits without the license required by this chapter may be issued a Notice to
-Cease and Desist. Such Notice to Cease and Desist shall be issued by the Code
-Enforcement Officer, Clerk Treasurer or designee and sent by first class mail
-shall be sent to the business mailing address shown on the application. The
-Notice of Cease and Desist may also be provided by to the business by personal
-delivery to the owner of the business or managing agent of the business as
-noted on the application, or by placing a copy of the Notice on the door of the
-business. In addition to any other remedy, due, or enforcement available to the
-city, if any business continues to operate or conduct business in the city
-limits, without the required license or following service of the notice, the
-city may seek an injunction in a court of competent jurisdiction to prevent the
-business from operating without a license.
+Cease and Desist. Such Notice to Cease and Desist shall be issued by the
+Community Development Director or designee and sent by first class mail shall
+be sent to the business mailing address shown on the application. The Notice of
+Cease and Desist may also be provided by to the business by personal delivery
+to the owner of the business or managing agent of the business as noted on the
+application, or by placing a copy of the Notice on the door of the business. In
+addition to any other remedy, due, or enforcement available to the city, if any
+business continues to operate or conduct business in the city limits, without
+the required license or following service of the notice, the city may seek an
+injunction in a court of competent jurisdiction to prevent the business from
+operating without a license.
 (Ord. 141A, passed 4-4-00; Am. Ord. 2012-01-03-386, passed 1-3-12; Am. Ord.
-2022-08-997, passed 8-1-22)
+2022-08-997, passed 8-1-22; Am. Ord. 2025-09-1215, passed 9-16-25)
 § 110.03 APPLICATION OF PROVISIONS.
    (A)   Any person, partnership, corporation or other entity shall be subject
 to the requirements of this chapter if by himself or herself or through an
@@ -7489,10 +7516,13 @@ Chapter
 152.   DEVELOPMENT AND SUBDIVISION REGULATIONS
    
 153.   ZONING REGULATIONS
-      APPENDIX A: FLAG STANDARDS
-      APPENDIX B: MINIMUM DIMENSION STANDARDS
-      APPENDIX C: DISTRICT STANDARDS: COMMERCIAL, INDUSTRIAL, MIXED USE,
-EXCLUSIVE USE LANDFILL
+      
+APPENDIX A: FLAG STANDARDS
+      
+APPENDIX B: MINIMUM DIMENSION STANDARDS
+      
+APPENDIX C: DISTRICT STANDARDS: COMMERCIAL, INDUSTRIAL, MIXED USE, EXCLUSIVE
+USE LANDFILL
    
 154.   PROPERTY MAINTENANCE
    
@@ -10882,7 +10912,7 @@ half times the height of the wall is either:
 lot, or
             2.   Such distance encroaches on any structure.
                Height of wall X 1.5 ≥ adjacent setback
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-3305.jpg]
  
          (b)   Any retaining walls over four feet in height located adjacent to
@@ -10895,7 +10925,7 @@ neighboring property lines.
       (6)   Sight triangle. Retaining walls over 30 inches constructed near
 street intersections shall not be located in the “sight distance triangle,”
 shown below, in order to provide a reasonable degree of traffic visibility.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-3307.jpg]
  
       (7)   Easements.
@@ -10911,7 +10941,7 @@ public or private access easement.
 shall be located no closer to the lower wall than 1.0 times the height of the
 tallest wall.
          Height of largest wall x 1.0 = Distance between walls
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-3309.jpg]
  
    (F)   Slopes. Slopes of 1:1 or steeper shall be required to comply with the
@@ -10998,7 +11028,7 @@ Unsignalized Driveways    40'-60'
 *GLA - Gross lease-able area
  
    Driveway Throat Length
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-3319.jpg]
  
    (E)   Driveway design, location, and construction standards.
@@ -14848,13 +14878,7 @@ unless expressly authorized by the Planning Commission.
 accordance with this code. Proponents of such uses shall show that adequate
 measures will be taken to prevent odor, dust, noise or drainage from becoming a
 nuisance to uses on other properties. No incineration of animal refuse shall be
-permitted on the premises. In a residential district, no more than four farm,
-domestic or household animals over the age of four months shall be kept,
-maintained or harbored. However, in a residential district, the temporary
-keeping, maintaining, or harboring of more than four such animals may be
-allowed in cases of rescue, foster care, or temporary sheltering. Said
-temporary keeping, maintaining, or harboring of more than four animals shall be
-limited to 30 days.
+permitted on the premises.
    (A)   All animals kept in residential areas, as allowed by §§
 153.080 and
 153.083 are intended to be clean, odor free, quiet, non-obtrusive, and healthy
@@ -14864,35 +14888,31 @@ shall be required to have a suitable fence. A fencing plan shall be submitted
 if a conditional use application is required by §
 153.122. Furthermore, it is required that any and all animals be provided with
 appropriate shelter and living conditions at all times.
-   (B)   A minimum of one acre of undeveloped land is required to ensure
-adequate space for animals that require grazing. The number of animals allowed
-per acre may vary depending on the type of animals, the location and geography
-of the property, and the water and nutrients available to the animals.
-Therefore, we recommend owners of grazing animals such as, but not limited to,
-equine, cattle, sheep, goats, and fowl follow local extension office
-recommendations to ensure the health and safety of the animals, the owners, and
-the neighboring properties.
-(Ord. 2017-12-669, passed 12-5-17)
+   (B) The number of animals allowed per acre may vary depending on the type of
+animals, the location and geography of the property, and the water and
+nutrients available to the animals. Therefore, we recommend owners of grazing
+animals such as, but not limited to, equine, cattle, sheep, goats, and fowl
+follow local extension office recommendations to ensure the health and safety
+of the animals, the owners, and the neighboring properties.
+(Ord. 2017-12-669, passed 12-5-17; Am. Ord. 2025-07-1201, passed 7-15-25)
 § 153.171 CHICKEN, HOBBY.
    Hobby chickens allowed in permitted districts shall meet the following
 regulations:
-   (A)   Number permitted. No more than four hens shall be allowed for each
-single-family dwelling. No birds shall be allowed in multi-family complexes.
-   (B)   Roosters prohibited. No roosters shall be allowed.
-   (C)   Slaughter. There shall be no outside slaughtering of birds.
-   (D)   Placement of enclosures. All hen enclosures shall be placed at least
-25 feet from neighboring dwellings and located in a rear or side yard.
-   (E)   Condition of enclosures. All enclosures must be kept in a neat and
+   (A)   Roosters are permitted only on properties of two acres or more. No
+more than one rooster per two acres.
+   (B)   Placement of enclosures. All hen enclosures shall be placed at least
+15 feet from neighboring dwellings and located in a rear or side yard.
+   (C)   Condition of enclosures. All enclosures must be kept in a neat and
 sanitary condition at all times and must be cleaned on a regular basis so as to
 prevent offensive odor.
-   (F)   Food containers. All food used for chickens shall be kept in a
+   (D)   Food containers. All food used for chickens shall be kept in a
 suitable container with a tight-fitting cover so as to be inaccessible to
 rodents.
-   (G)   Applicability. These regulations are not intended to apply to indoor
+   (E)   Applicability. These regulations are not intended to apply to indoor
 birds kept as pets, such as, but not limited to, parrots or parakeets, nor the
 lawful transportation of fowl through the corporate limits of the city. Neither
 shall they apply to poultry kept in areas of the city which are zoned A-1.
-(Ord. 2017-12-669, passed 12-5-17)
+(Ord. 2017-12-669, passed 12-5-17; Am. Ord. 2025-07-1204, passed 7-15-25)
 § 153.172 DETACHED ACCESSORY DWELLING UNITS.
    All detached accessory dwelling units (ADU) must conform to the following
 standards:
@@ -15209,9 +15229,10 @@ proper utility;
 upon a public right- of-way, except for government signs and wall signs, awning
 signs, canopy signs, projecting signs, shingle signs and sandwich board signs
 may encroach as provided herein.
+      (13)   Handwritten signs in nonresidential districts.
    (E)   Vehicles. It shall be unlawful to use a vehicle or trailer as a sign
 in circumvention or violation of any part of this code.
-(Ord. 2018-05-786, passed 5-1-18)
+(Ord. 2018-05-786, passed 5-1-18; Am. Ord. 2025-05-1193, passed 5-20-25)
 § 153.182 SIGNS AUTHORIZED IN EVERY DISTRICT.
    The following provisions sets forth signs that are authorized by §
 153.181(A)(2) above in every district.
@@ -15435,7 +15456,7 @@ Commission
    (C)   The following regulations for each sign type shall apply to any
 permitted use in a zoning district.
       (1)   Awning sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4087.png]
          (a)   Description. A sign where graphics or symbols are painted, sewn
 or otherwise adhered to the awning fabric or material that is soft or flexible
@@ -15461,7 +15482,7 @@ exceed a maximum total amount of 800 square feet.
 Awning -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (2)   Canopy sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4089.png]
          (a)   Description. Any sign that is mounted, painted, or otherwise
 applied on or attached to an architectural canopy or structural protective
@@ -15498,7 +15519,7 @@ of awning signage allowed per free-standing awning.
 Canopy -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (3)    Crown sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4091.png]
          (a)    Description. A wall sign extending not more than three feet
 from the building facade located on the upper horizontal band of a building at
@@ -15527,7 +15548,7 @@ exceed a maximum total amount of 800 square feet.
 Crown -- --  --  --  --  --   --  --      --   --  A   A   A   A   A
  
       (4)    Digital signs.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4093.png]
             (a)    Description. An electronically displayed sign that is static
 or changes messages by any electronic process or remote control. Permanently
@@ -15575,7 +15596,7 @@ malfunctions.
 Digital -- --  --  --  --  --   --  --      --   --  --   A*  A*  A*  A *
 *   Allowable only within 100 feet of the HWY 412 R.O.W.
       (5)   Double post sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4095.png]
          (a)    Description. A permanently affixed sign which is wholly
 independent of a building for support where the primary support is supplied by
@@ -15594,7 +15615,7 @@ the same property, must be a minimum of 500 feet apart.
             A  R-E R-1 R-2 R-3 R-3L R-4 R-MF-16 R-MH N-C C-I C-2 C-T L-I I
 Double Post -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4097.png]
       (6)   Pylon sign. 
          (a)   Description. A sign erected and maintained on a freestanding
@@ -15625,7 +15646,7 @@ lots (the goal is to keep signage evenly spaced along ROWS when possible).
 Pylon -- --  --  --  --  --   --  --      --   --  --  A*  A*  A*  A*
 *   Allowable only within 100 feet of the HWY 412 R.O.W.
       (7)    Monument sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4099.png]
          (a)    Description. A free-standing and permanently affixed sign that
 is supported by a solid base (other than poles) and such that no air space is
@@ -15661,7 +15682,7 @@ structure is allowed on the same property, must be a minimum of 500 feet apart.
 Monument -- C   C   C   C   C    C   C       C    C   A   A   A   A   A
  
       (8)    Projecting sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4101.png]
          (a)    Description. A sign, other than a wall sign, that is mounted to
 the wall or surface of a building or structure and which is supported by a wall
@@ -15690,7 +15711,7 @@ exceed a maximum total amount of 800 square feet.
 Projecting -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (9)   Sandwich board sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4103.png]
          (a)   De scription. A movable sign not secured or attached to the
 ground or surface upon which it is located.
@@ -15712,7 +15733,7 @@ customer entrance or up to eight feet from the facade.
 Sandwich Board -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (10)    Shingle sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4105.png]
          (a)    Desc ription. A small projecting sign that hangs from a bracket
 or support and is located over or near a building entrance.
@@ -15738,7 +15759,7 @@ building.
 Shingle -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (11)    Subdivision sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4107.png]
          (a)   Description. A permanently affixed sign which is wholly
 independent of a building for support attached along its entire width to a
@@ -15759,7 +15780,7 @@ frontage, one on each side of an entrance street into a subdivision.
 Subdivision A A   A   A   A   A    A   A        A    A   A    A   A   A   A
  
       (12)    Wall sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4109.png]
          (a)    Description. Means any attached sign other than a projecting
 sign or a banner sign, which is permanently attached to or painted on any wall
@@ -15791,7 +15812,7 @@ exceed a maximum total amount of 800 square feet per wall.
 Wall -- --  --  --  --  --   --  A       --   A   A   A   A   A   A
  
       (13)    Window sign.
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4111.png]
          (a)    Description. An attached sign that is not a temporary sign and
 which is attached to, painted on, etched or otherwise adhered to a window or
@@ -20869,9 +20890,9 @@ directly or through one of the wireless provider's affiliates for the placement
 of the suspension cables in the right-of-way.
 (Ord. 2019-08-856, passed 8-20-19)
 APPENDIX A: GUIDANCE ILLUSTRATIONS
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4119.png]
-[https://export.amlegal.com/media/4af58f1c296d3a4e1d11b2eef24700169a827b0c/
+[https://export.amlegal.com/media/0eeb6f9b082689a72187eef3dc45831ee57b3251/
 IMAGES/0-0-0-4121.png]
 (Ord. 2019-08-856, passed 8-20-19)
 TABLE OF SPECIAL ORDINANCES
@@ -22737,4 +22758,13 @@ Ord. No.                               Date Passed Code Section
 2024-11-1122                           11-19-24    153.212
 2024-12-1125                           12-17-24    155.04
 2025-05-1180                           5-20-25     153.210
+2025-05-1193                           5-20-25     153.181
+2025-07-1201                           7-15-25     153.170
+2025-07-1204                           7-15-25     153.171
+2025-09-1214                           9-16-25     52.115
+2025-09-1215                           9-16-25     110.02
+2025-10-1219                           10-21-25    30.52
+2025-10-1220                           10-21-25    30.53
+2025-11-1236                           11-18-25    30.05,
+                                                   31.03
                                                   
