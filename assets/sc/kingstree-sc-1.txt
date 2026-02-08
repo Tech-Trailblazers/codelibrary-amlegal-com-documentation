@@ -1,7 +1,7 @@
 KINGSTREE, SOUTH CAROLINA
 CODE OF ORDINANCES
-2025 S-32 Supplement contains:
-Local legislation current through 3-17-2025
+2026 S-33 Supplement contains:
+Local legislation current through 9-15-2025
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -10,12 +10,12 @@ AMERICAN LEGAL PUBLISHING
 TOWN OFFICIALS OF KINGSTREE, SOUTH CAROLINA
 Council Members
 Darren Tisdale, Mayor
-Michelle Butterworth, Mayor Pro Tempore
+Michelle Butterworth
 C.M. (Bubba) Hammet, Jr.
 Frankie White
 Derek Fitts
-Chris Williams
-Stan Williamson
+Edward (Ed) Anderson
+Stan Williamson, Mayor Pro Tempore
 Town Officials
 Town Manager     Kippton W. Coker
 Town Clerk       Erica Goodwin
@@ -2447,20 +2447,27 @@ BILLING PROCEDURES
 fees which shall apply to each residence and place of business in the town.
  
                              In-town          Out of town
-   Residential Roll Cart  $21.00 per month $24.00 per month
-   Small Commercial Busine$21.00 per month  
+   Residential Roll Cart  $24.50 per month $27.50 per month
+   Small Commercial Busine$31.50 per month  
  
    Large Commercial Businesses
-      (1)   4 cubic yard con iners:
-         one pickup per week$40.00 per month
-         two pickups per wee$73.00 per month
-      (2)   6 cubic yard con iners:
-         one pickup per week$53.75 per month
-         two pickups per wee$79.75 per month
-      (3)   8 cubic yard con iners:
-         one pickup per week$67.50 per month
-         two pickups per wee$100.50 per month
+      (1)   2 cubic yard con iners:
+         one pickup per week$128.00 per month
+      (2)   4 cubic yard con iners:
+         one pickup per week$155.00 per month
+         two pickups per wee$325.00 per month
+      (3)   6 cubic yard con iners:
+         one pickup per week$168.00 per month
+         two pickups per wee$358.00 per month
+      (4)   8 cubic yard con iners:
+         one pickup per week$193.00 per month
+         two pickups per wee$410.00 per month
+         one pickup per week$213.00 per month
  
+In addition to the container fees listed above, each residence or place of
+business will be charged and billed as provided for in this chapter, for moving
+or delivering a container and for any overage charges for overfull containers
+in the amount billed to the Town of Kingstree by the service provider.
 All other applicable statutes, ordinances and DHEC regulations will apply.
    (B)   The following monthly landfill fees shall be established as follows:
  Landfill Rates Collection Fee Total
@@ -2477,7 +2484,8 @@ Roll Cart                         $16.50         $21.00         $37.50
 Ord. 94-9, passed 6-29-94; Am. Ord. 95-5, passed 7-17-95; Am. Ord. 98-10,
 passed 9-28-98; Am. Ord. 2006-03, passed 5-15-06; Am. Ord. 2007-02, passed 6-
 25-07; Am. Ord. 2011-08, passed 8-15-11; Am Ord. 2013-016, passed 12-16-13; Am.
-Ord. 2018-13, passed 9-17-18; Am. Ord. 2022-08, passed 12-19-22)
+Ord. 2018-13, passed 9-17-18; Am. Ord. 2022-08, passed 12-19-22; Am. Ord. 2025-
+05, passed 9-15-25)
 § 50.36 FEE TO BE PAID WITH WATER BILL.
    (A)   The charges provided for in §
 50.35 shall be billed to each user of water monthly as an additional charge on
@@ -2983,10 +2991,10 @@ WATER RATE SCHEDULE
 WATER RATE SCHEDULE
                                    Inside Outside
 Residential Water Rates
-Base fee/First 3,000 gallons (min.) $23.75 $27.75
+Base fee/First 3,000 gallons (min.) $28.75 $32.75
 All over 3,000 gallons (per 1,000)  $4.13  $4.13
 Commercial and Industrial Water Rates
-Base fee/First 3,000 gallons (min.) $31.40 $31.40
+Base fee/First 3,000 gallons (min.) $36.40 $36.40
 All over 3,000 gallons (per 1,000)  $4.45  $4.45
  
    (B)   Non-profit organizations shall be charged the same rates as
@@ -2998,7 +3006,8 @@ eligible for the residential rate.
 89; Am. Ord. 91-7, passed 6-24-91; Am. Ord. 93-7, passed 6-28-93; Am. Ord. 97-
 36, passed 11-17-97; Am. Ord. 98-3, passed 5-18- 98; Am. Ord. 2007-02, passed
 6-25-07; Am. Ord. 2009-03, passed 6-15-09; Am. Ord. 2015-01, passed 5-18-15;
-Am. Ord. 2017-06, passed 7-17-17; Am. Ord. 2020-06, passed 6-15-20)
+Am. Ord. 2017-06, passed 7-17-17; Am. Ord. 2020-06, passed 6-15-20; Am. Ord.
+2025-03, passed 7-21-25)
 § 51.46 SEWER CHARGE CALCULATIONS.
    (A)   Sewer rate schedule:
 SEWER RATE SCHEDULE
@@ -8401,7 +8410,8 @@ Business Licenses
 110.99   Penalty
    
 Appendix A: Business License Rate Schedule
-   Appendix B: Business License Class Schedule by NAICS Code
+   
+Appendix B: Business License Class Schedule by NAICS Code
 BUSINESS LICENSES
 § 110.01 LICENSE REQUIRED.
    Every person engaged or intending to engage in any business, calling,
@@ -9027,55 +9037,70 @@ passed 12-3-12; Am. Ord. 2021-07, passed 1-14-22; Am. Ord. 2024-01, passed 2-
 19-24) Penalty, see §
 110.99
 APPENDIX B: BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
-2021 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
-NAICS Sector/Subsector Industry Sector Class
-2021 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
-NAICS Sector/Subsector Industry Sector                                  Class
-11                     Agriculture, forestry, hunting and fishing       1.00
-21                     Mining                                           2.00
-22                     Utilities                                        1.00
-23                     Construction                                     8.10
-31-33                  Manufacturing                                    3.00
-42                     Wholesale trade                                  1.00
-44-45                  Retail trade                                     1.00
-4411                   Automobile Dealers                               9.30
-4412                   Other Motor Vehicle Dealers                      9.30
-48-49                  Transportation and warehousing                   1.00
-482                    Rail Transportation                              8.20
-51                     Information                                      4.00
-517111                 Wired Telecommunications Carriers                8.30
-517112                 Wireless Telecommunications Carriers (except     8.30
-                       Satellite)
-517122                 Agents for Wireless Telecommunications Services  8.30
-52                     Finance and insurance                            7.00
-522298                 Pawnshops                                        9.20
-5241                   Insurance Carriers                               8.40
-5242                   Insurance Brokers for non-admitted Insurance     8.40
-                       Carriers
-53                     Real estate and rental and leasing               7.00
-54                     Professional, scientific, and technical services 5.00
-55                     Management of companies                          7.00
+2025 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
+NAICS Sector/Subs ector Industry Sector Class
+2025 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
+NAICS Sector/Subs ector Industry Sector                                  Class
+11                      Agriculture, forestry, hunting and fishing       1.00
+21                      Mining                                           3.00
+22                      Utilities                                        1.00
+23                      Construction                                     8.10
+31-33                   Manufacturing                                    3.00
+42                      Wholesale trade                                  1.00
+44-45                   Retail trade                                     1.00
+4411                    Automobile Dealers                               9.30
+4412                    Other Motor Vehicle Dealers                      9.30
+48-49                   Transportation and warehousing                   2.00
+482                     Rail Transportation                              8.20
+51                      Information                                      4.00
+517111                  Wired Telecommunications Carriers                8.30
+517112                  Wireless Telecommunications Carriers (except     8.30
+                        Satellite)
+517122                  Agents for Wireless Telecommunications Services  8.30
+52                      Finance and insurance                            7.00
+522298                  Pawnshops                                        9.20
+5241                    Insurance Carriers                               8.40
+5242                    Insurance Brokers for non-admitted Insurance     8.40
+                        Carriers
+53                      Real estate and rental and leasing               6.00
+54                      Professional, scientific, and technical services 4.00
+55                      Management of companies                          7.00
  
-2021 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
-NAICS Sector/Subsector Industry Sector Class
-2021 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
-NAICS Sector/Subsector Industry Sector                                  Class
-56                     Administrative and support and waste management  3.00
-                       and remediation services
-61                     Educational services                             3.00
-62                     Health care and social assistance                4.00
-71                     Arts, entertainment, and recreation              3.00
-713120                 Amusement Parks and Arcades (per machine)        8.51
-713290                 Nonpayout Amusement Machines (per machine)       8.52
-713990                 All Other Amusement and Recreational Industries  8.60
-                       (pool tables)
-721                    Accommodation                                    1.00
-722                    Food services and drinking places                2.00
-722410                 Drinking Places (Alcoholic Beverages)            9.70
-81                     Other services                                   4.00
+2025 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
+NAICS Sector/Subse ctor Industry Sector Class
+2025 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
+NAICS Sector/Subse ctor Industry Sector                                  Class
+56                      Administrative and support and waste management  3.00
+                        and remediation services
+61                      Educational services                             3.00
+62                      Health care and social assistance                3.00
+71                      Arts, entertainment, and recreation              3.00
+713120                  Amusement Parks and Arcades (per machine)        8.51
+713290                  Nonpayout Amusement Machines (per machine)       8.52
+713990                  All Other Amusement and Recreational Industries  8.60
+                        (pool tables)
+721                     Accommodation                                    1.00
+722                     Food services and drinking places                2.00
+722410                  Drinking Places (Alcoholic Beverages)            9.70
+81                      Other services                                   3.00
+                                                                        
+Class 8                 Subclasses                                        
+23                      Construction                                     8.10
+482                     Rail Transportation                              8.20
+517111                  Wired Telecommunications Carriers                8.30
+517112                  Wireless Telecommunications Carriers (except     8.30
+                        Satellite)
+517122                  Agents for Wireless Telecommunications Services  8.30
+5241                    Insurance Carriers                               8.40
+5242                    Insurance Brokers for non-admitted Insurance     8.40
+                        Carriers
+713120                  Amusement Parks and Arcades                      8.51
+713290                  Nonpayout Amusement Machines                     8.52
+713990                  All Other Amusement and Recreational Industries  8.60
+                        (pool tables)
  
 (Ord. 2004-05, passed 7-19-04; Am. Ord. 2021-07, passed 1-14-22; Am. Ord. 2024-
-01, passed 2-19-24)
+01, passed 2-19-24; Am. Ord. 2025-06, passed 9-15-25)
 CHAPTER 111: ADVERTISING
 Section
    
@@ -10317,24 +10342,23 @@ As used herein, PARENT shall also include a court appointed guardian or other
 person that is 18 years of age or older, authorized by the parent, by a court
 order, or by the court appointed guardian to have the care and custody of a
 minor.
-      (5)   PUBLIC PLACE. Any place to which the public or a substantial group
-of the public has access and includes, but is not limited to, streets,
+      (5)   PUBLIC PLACE.    Any place to which the public or a substantial
+group of the public has access and includes, but is not limited to, streets,
 highways, and the common areas of schools, hospitals, apartment houses, office
 building, transport facilities, and shops.
    (B)   Offenses.
       (1)   Minors. It shall be unlawful for a minor to purposefully remain,
 walk, run, stand, drive or ride about in or upon any public place in the town
-between the hours of 12:00 midnight and 6:00 a.m.
+between the hours of 10:00 p.m. and 6:00 a.m.
       (2)   Parents. It shall be unlawful for the parent having legal custody
 of a minor to knowingly allow or permit the minor to be in violation of the
 curfew imposed in division (B)(1) above.
       (3)   Unlawful conduct of owners or operators of establishments.
          (a)   No operator of an establishment or his agents or employees shall
 knowingly permit any minor upon the premises of said establishment between the
-hours of 12:00 midnight Friday and 6:00 a.m. Saturday, or between the hours of
-12:00 midnight Saturday and 6:00 a.m. Sunday, official city time, or between
-the hours of 12:00 p.m. and 6:00 a.m. of the following day, on any other day of
-the week.
+hours of 10:00 p.m. Friday and 6:00 a.m. Saturday, or between the hours of 10:
+00 p.m. Saturday and 6:00 a.m. Sunday, official city time, or between the hours
+of 10:00 p.m. and 6:00 a.m. of the following day, on any other day of the week.
          (b)   No operator of an establishment or his agents or employees shall
 knowingly permit any minor between the ages of 6 and 16 years, inclusive, to
 remain upon the premises of said establishment between the hours of 9:00 a.m.
@@ -10343,23 +10367,23 @@ authorities excusing him from attendance at that particular time or unless
 accompanied by a parent or guardian or a person 21 years of age or older.
       (4)   Parent neglect.
          (a)   No parent shall knowingly permit any minor under the age of 17,
-not exempted under division (C) below to remain in or upon any pubic place or
-any establishment between the hours of 12:00 midnight and 6:00 a.m. Saturday or
-between the hours of 12:00 midnight and 6:00 a.m. Sunday, official town time,
-or between the hours of 12:00 p.m. and 6:00 a.m., of the following day, on any
+not exempted under division (C) below to remain in or upon any public place or
+any establishment between the hours of 10:00 p.m. and 6:00 a.m. Saturday or
+between the hours of 10:00 p.m. and 6:00 a.m. Sunday, official town time, or
+between the hours of 10:00 p.m. and 6:00 a.m., of the following day, on any
 other day of the week.
          (b)   No parent shall knowingly permit any minor between the ages of 6
 and 16 years, inclusive, to remain in or about any public place or any
 establishment between the hours of 9:00 a.m. and 1:45 p.m. during any school
 day unless he/she has written proof from school authorities excusing him from
-attendance at that particular time or unless accompanies by a parent or
+attendance at that particular time or unless accompanied by a parent or
 guardian or a person 21 year of age or older.
          (c)   It shall be unlawful for the parent, guardian, or other person
 having custody or control of any minor between the ages of 6 and 16, inclusive,
 to knowingly permit or, by insufficient control, to allow such minor to be in
-or upon any public place or any establishment between the hours of 12:00
-midnight Saturday and 6:00 a.m. Sunday or between the hours of 11:00 p.m. and
-6:00 a.m. of the following day, on any other day of the week.
+or upon any public place or any establishment between the hours of 10:00 p.m.
+Saturday and 6:00 a.m Sunday or between the hours of 10:00 p.m. and 6:00 a.m.
+of the following day, on any other day of the week.
    (C)   Defenses. It is a defense to prosecution under division (B) of this
 section that:
       (1)   The minor was accompanied by a parent or guardian;
@@ -10398,23 +10422,23 @@ previously been found in violation of division (B) of this section, and once
 previously warned as required in division (D)(1) above, shall again determine
 the minor's name and address and the name and address of the minor's parent and
 guardian. The parent or guardian shall be summoned to the Police Department and
-issued a $50 courtesy summons for violation of curfew after warning. A copy of
-the summons shall be placed in the file of the juvenile, along with the first
+issued a $100 citation for violation of curfew after warning. A copy of the
+summons shall be placed in the file of the juvenile, along with the first
 warning notice. A conference at this time or at a convenient time shall be held
 or scheduled with both parties, with the juvenile officer of the Police
 Department; concerning the necessity of the enforcement of this section and the
 town's expectations of parental control of minors.
       (3)   Third offense. Any police officer, upon finding that a minor in
 violation of division (B) of this section, and that the minor and guardian has
-been first warned twice, $50 summons, in accordance of violation of division
+been first warned twice, $100 citation, in accordance of violation of division
 (B)(2), shall again determine the minor's name and address and the name and
 address of the minor's parent or guardian. A third summons shall be issued
-against the parent or guardian. A $100 courtesy summons shall be issued to said
-parent or guardian. The Police Department shall be responsible for filing all
+against the parent or guardian. A $200 citation shall be issued to said parent
+or guardian. The Police Department shall be responsible for filing all
 necessary papers, pursuant to this section, supply the Municipal Court with all
 necessary documentation, and provide such testimony as required to pursue any
 prosecution under this section against any minor or any parent or guardian.
-(Ord. 94-13, passed 11-24-94) Penalty, see §
+(Ord. 94-13, passed 11-24-94; Am. Ord. 2025-04, passed 7-28-25) Penalty, see §
 133.99
 § 133.04 RIOTS.
    Any person, upon conviction of engaging in a riot, rout or affray when no
@@ -10508,9 +10532,10 @@ fine of not less than $50 nor more than $200.
 133.03 shall be guilty of a misdemeanor as defined in the South Carolina Codes
 of Laws. A parent or guardian of a minor violating §
 133.03 shall be guilty of a misdemeanor, which shall be punishable by a fine of
-not less than $50; second offense $50; third offense $100; fourth offense $150
-and/or ten days incarceration for any violation above the fourth offense.
-(Ord. 94-13, passed 11-24-94)
+not less than$100; second offense $100; third offense $200; fourth offense $300
+and/or ten days incarceration and/or public service time not to exceed 100
+hours for any violation above the fourth offense.
+(Ord. 94-13, passed 11-24-94; Am. Ord. 2025-04, passed 7-28-25)
 CHAPTER 134: OFFENSES AGAINST JUSTICE AND ADMINISTRATION
 Section
    
@@ -13177,6 +13202,10 @@ Res.    8-9-22 Authorizing municipal state highway project agreement concerning 
 2022-03        Street and MLK Jr.
 Res.    - -22  First amendment to the municipal materials management agreement between the
 2022-05        town and Allied Services, LLC dba Republic Services of Lee County.
+Res.    5-10-  Amendment to Gate Fee (Tipping Fee) Reimbursement Contract between the Town
+2025-0  25     of Kingstree and Williamsburg County, regarding garbage collection services
+               and fees.
+              
  
 TABLE III: FRANCHISES
 Ord. No. Date Passed Description
@@ -14398,6 +14427,7 @@ Res. No. Date Passed Code Section
 2018-06  10-29-18    T.S.O. II
 2022-03  8-9-22      T.S.O. II
 2022-05  - -22       T.S.O. II
+2025-04  5-10-25     T.S.O. II
                     
  
 REFERENCES TO ORDINANCES
@@ -14909,5 +14939,10 @@ Ord. No. Date Passed Code Section
 2024-11  10-21-24    51.42
 2024-12  11-18-24    150.07
 2025-01  3-17-25     54.100
+2025-03  7-21-25     51.45
+2025-04  7-28-25     133.03,
+                     133.99
+2025-05  9-15-25     50.35
+2025-06  9-15-25     Ch. 110, Appendix B
                     
  
