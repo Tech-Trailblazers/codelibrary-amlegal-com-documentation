@@ -3,15 +3,15 @@ of
 KELLOGG, IDAHO
 1961
 Code current through:
-Ord. 639, passed 4-9-2025
+Ord. 642, passed 11-12-2025
 Published by:
 American Legal Publishing
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
 1-833-226-3439 * www.amlegal.com
 PREFACE
          This code of the City of Kellogg, as supplemented, contains ordinances
-up to and including ordinance 639, passed April 9, 2025. Ordinances of the City
-adopted after said ordinance supersede the provisions of this code to the
+up to and including ordinance 642, passed November 12, 2025. Ordinances of the
+City adopted after said ordinance supersede the provisions of this code to the
 extent that they are in conflict or inconsistent therewith. Consult the City
 office in order to ascertain whether any particular provision of the code has
 been amended, superseded or repealed.
@@ -47,11 +47,11 @@ P.M.
    Approved by the Mayor this 16th day of November, 1961.
  
                               [https://export.amlegal.com/media/
-a4d8b7595fa501ded350362c871b0bc1a217b435/IMAGES/0-0-0-41.png]
+9b30d26b7abd7091baed27496ab385a516d41727/IMAGES/0-0-0-41.png]
 (Seal)
  
 Attest:
-[https://export.amlegal.com/media/a4d8b7595fa501ded350362c871b0bc1a217b435/
+[https://export.amlegal.com/media/9b30d26b7abd7091baed27496ab385a516d41727/
 IMAGES/0-0-0-43.png]
  
 TITLE 1
@@ -249,7 +249,7 @@ lower portion of the space within the inner circle shall be the word "County"
 in Gothic style type. Upon and across the center of the space within the inner
 circle shall be the word "Seal" in Roman style type.
 A facsimile of the above described seal follows:
-[https://export.amlegal.com/media/a4d8b7595fa501ded350362c871b0bc1a217b435/
+[https://export.amlegal.com/media/9b30d26b7abd7091baed27496ab385a516d41727/
 IMAGES/0-0-0-1300.png]
  
 (1961 Code)
@@ -4132,8 +4132,7 @@ propulsion.
 (Ord. 429, 3-12-1997)
 6-1-2: CONCEALED WEAPONS:
 Repealed by Ordinances No. 637 to correspond with Idaho Code Title 18, Chapter
-33 as amended.
-(Ord. 429, 3-12-1997; amd. Ord. 636, 3-12-2025)
+33 as amended. (Ord. 429, 3-12-1997; amd. Ord. 636, 3-12-2025)
 6-1-3: DISCHARGE OF FIREARMS PROHIBITED:
 It shall be a misdemeanor for any person to discharge firearms, bow and arrow,
 slingshot, or other device capable of propelling an object with sufficient
@@ -6355,15 +6354,31 @@ which owners or occupants of abutting property or lands and other persons have
 no legal right of access to or from the same, except at such points only and in
 such manner as may be determined by the public authority having jurisdiction
 over such highway, street, or roadway.
-CROSSWALK: A. That part of a roadway at an intersection included within the
+CROSSWALK:
+   A.    That part of a roadway at an intersection included within the
 connections of the lateral lines of the sidewalk on opposite sides of the
 highway measured from the curbs, or in the absence of curbs from the edges of
 the traversable roadway.
-B. Any portion of a roadway at an intersection or elsewhere distinctly
+   B.    Any portion of a roadway at an intersection or elsewhere distinctly
 indicated for pedestrian crossing by lines or other markings on the surface.
 CURB LOADING ZONE: A space adjacent to a curb reserved for the exclusive use of
 vehicles during the loading or unloading of passengers or materials.
 DRIVER: Every person who drives or is in actual physical control of a vehicle.
+ELECTRIC ASSISTED BICYCLE (E-BIKE): A bicycle equipped with fully operable
+pedals and an electric motor of less than seven hundred fifty (750) watts that
+meets one (1) of the following criteria:
+   A.   "Class 1 electric-assisted bicycle" means an electric-assisted bicycle
+equipped with a motor that provides assistance only when the rider is pedaling
+and ceases when the rider stops pedaling or when the bicycle reaches the speed
+of twenty (20) miles per hour.
+   B.   "Class 2 electric-assisted bicycle" means an electric-assisted bicycle
+equipped with a motor that may be used exclusively to propel the bicycle and
+that is not capable of providing assistance when the bicycle reaches the speed
+of twenty (20) miles per hour.
+   C.   "Class 3 electric-assisted bicycle" means an electric-assisted bicycle
+equipped with a motor that provides assistance only when the rider is pedaling
+and ceases when the rider stops pedaling or when the bicycle reaches the speed
+of twenty-eight (28) miles per hour.
 FREIGHT CURB LOADING ZONE: A space adjacent to a curb for the exclusive use of
 vehicles during the loading or unloading of freight.
 INTERSECTION: The area embraced within the prolongation or connection of the
@@ -6373,12 +6388,38 @@ right angles, or the area which within vehicles traveling upon different
 highways joining at any other angle may come in conflict.
 LANED ROADWAY: A roadway which is divided into two (2) or more clearly marked
 lanes for vehicular traffic.
-MOTOR VEHICLES: Every vehicle which is self-propelled and every vehicle which
-is propelled by electric power obtained from overhead trolley wires, but not
-operated upon rails.
-MOTORCYCLE: Every motor vehicle having a saddle for the use of the rider and
-designed to travel on not more than three (3) wheels in contact with the
-ground, but excluding a tractor.
+MOTOR VEHICLES: Every vehicle that is self-propelled, and for the purpose of
+titling and registration meets federal motor vehicle safety standards as
+defined in section 49-107, Idaho Code. Motor vehicle does not include vehicles
+moved solely by human power, electric personal assistive mobility devices,
+personal delivery devices, electric-assisted bicycles, and motorized
+wheelchairs or other such vehicles that are specifically exempt from titling or
+registration requirements under title 49, Idaho Code as amended.
+MOPED: A limited-speed motor-driven cycle having wheels less than twenty (20)
+inches in diameter and:
+   A.   Motorized propulsion that is not capable of propelling the vehicle at a
+speed in excess of thirty (30) miles per hour on level ground, whether two (2)
+or three (3) wheels are in contact with the ground during operation. If an
+internal combustion engine is used, the displacement shall not exceed fifty
+(50) cubic centimeters and the moped shall have a power drive system that
+functions directly or automatically without clutching or shifting by the
+operator after the drive system is engaged; or
+   B.   Two (2) wheels or three (3) wheels with no pedals, which is powered
+solely by electrical energy, has an automatic transmission, a motor which
+produces less than two (2) gross brake horsepower, is capable of propelling the
+device at a maximum speed of not more than thirty (30) miles per hour on level
+ground and, as originally manufactured, meets federal motor vehicle safety
+standards for motor-driven cycles. A moped is not required to be titled and no
+motorcycle endorsement is required for its operator.
+A moped does not include an electric-assisted bicycle.
+MOTORCYCLE: Every motor vehicle having a seat or saddle for the use of the
+rider, designed to travel on not more than three (3) wheels in contact with the
+ground or designed to travel on two (2) wheels in contact with the ground which
+is modified by the addition of two (2) stabilizing wheels on the rear of the
+motor vehicle, that meets the federal motor vehicle safety standards as
+originally designed, and includes a converted motorbike, but does not include a
+motor-driven cycle, a motorbike, a tractor, an electric-assisted bicycle, or a
+moped.
 OFFICIAL TIME STANDARD: Whenever certain hours are named herein they shall mean
 mountain standard time.
 OFFICIAL TRAFFIC CONTROL DEVICES: All signs, signals, markings, and devices not
@@ -6439,7 +6480,7 @@ herein shall be deemed to refer to the police department.
 VEHICLES: Every device in, upon, or by which any person or property is or may
 be transported or drawn upon a highway, except devices moved by human power or
 used exclusively upon stationary tracks or rails. (1961 Code; amd. per
-correspondence dated 5-2-2003)
+correspondence dated 5-2-2003; Ord. 642, 11-12-2025)
 10-2-2: TRAFFIC ADMINISTRATION:
    A.   Police Administration: There is hereby established within the police
 department a traffic division to be under the control of the chief of police or
@@ -7474,7 +7515,7 @@ adjacent to a state highway within the limits of the city. (Ord. 308, 12-13-
 It shall be unlawful for any person:
    A.   To ride or operate or cause to be operated any skateboard, roller
 skates, human powered scooters, or other toy vehicles on any sidewalk or street
-specified in subsection E of this section, within the city of Kellogg, Idaho.
+specified in subsection F of this section, within the city of Kellogg, Idaho.
    B.   Bicycles shall not be operated on any sidewalk of any street specified
 in subsection E of this section in the city of Kellogg, Idaho, and shall not be
 parked on any sidewalks in such a manner as to obstruct or impede the movement
@@ -7482,28 +7523,32 @@ of pedestrians, motor vehicles, or other vehicles, or to cause damage to trees,
 shrubs, other plants, or other property. Bicycles may be operated pursuant to
 all laws applicable to motor vehicles on all city streets and public parking
 lots.
-   C.   Nothing in this section shall prohibit the mayor and/or city council
+   C.   It shall be unlawful for any person to operate a motor vehicle upon any
+posted non-motorized pathway or sidewalk. This includes any vehicle which is
+self-propelled by electric power generated by means other than active pedaling
+by the operator.
+   D.   Nothing in this section shall prohibit the mayor and/or city council
 from allowing bicycles, skateboards, roller skates, or human powered scooters,
 or other toy vehicles to serve as exhibits or demonstrations. Such exhibits or
 demonstrations shall be by permit only.
-   D.   Nothing in this section shall be construed to prohibit the use of
+   E.   Nothing in this section shall be construed to prohibit the use of
 bicycles on sidewalks for law enforcement purposes by any law enforcement
 agency.
-   E.   The prohibitions specified in subsections A and B of this section apply
+   F.   The prohibitions specified in subsections A and B of this section apply
 to the following streets and adjacent sidewalks within the city of Kellogg,
 Idaho:
-   Division Street: From Portland Avenue north to Railroad Avenue.
-   Hill Street: From McKinley Avenue north to Railroad Avenue.
-   Main Street: From Idaho Avenue, including the Kellogg town square, south to
-two hundred feet (200') past Market Avenue.
-   Market Avenue: From Main Street east to alley between Main and Division
+      Division Street: From Portland Avenue north to Railroad Avenue.
+      Hill Street: From McKinley Avenue north to Railroad Avenue.
+      Main Street: From Idaho Avenue, including the Kellogg town square, south
+to two hundred feet (200') past Market Avenue.
+      Market Avenue: From Main Street east to alley between Main and Division
 Streets.
-   McKinley Avenue: From Division Street west to Hill Street.
-   Portland Avenue: From Main Street east to Division Street and Southside west
-to alley between Main and Second Streets.
-   F.   A violation of this section shall constitute an infraction, which shall
+      McKinley Avenue: From Division Street west to Hill Street.
+      Portland Avenue: From Main Street east to Division Street and Southside
+west to alley between Main and Second Streets.
+   G.   A violation of this section shall constitute an infraction, which shall
 be punished in accordance with Idaho Code 49-1503 and Idaho infraction rule 9.
-(Ord. 404, 4-12-1995)
+(Ord. 404, 4-12-1995; amd. Ord. 642, 11-12-2025)
 CHAPTER 3
 DRUNK AND NEGLIGENT DRIVING
 SECTION:
@@ -9331,15 +9376,15 @@ otherwise provided in this chapter the maximum sign surface area permitted on
 any lot in any residential district is four (4) square feet. The time and
 quantity limitations defined .within this section are imposed to avoid visual
 clutter, the development of litter, traffic hazard or other adverse effects.
-   F.   Computation Of Sign Area: The surface area of a sign shall be computed
+   G.   Computation Of Sign Area: The surface area of a sign shall be computed
 by including the entire area of the sign. The sign surface area of a double
 faced; back-to-back sign shall be calculated by using the area of only one side
 of such sign (the larger side if there is a size difference).
-   G.   Illumination Of Signs: Lighting directed toward a sign shall be
+   H.   Illumination Of Signs: Lighting directed toward a sign shall be
 shielded so that it illuminates only the face of the sign and does not create a
 nuisance. No sign may contain or be illuminated by repeated, strobe-like
 flashing or intermittent lights or lights changing degrees of intensity.
-   H.   Sign Restrictions and Prohibitions:
+   I.   Sign Restrictions and Prohibitions:
       1.   No sign may be located so that it interferes with the view necessary
 for motorists to proceed safely through intersections or to enter onto or exit
 from public streets or private roads.
@@ -9386,10 +9431,10 @@ inspected by the Building Official.
 D. Signs Excluded from Permitting: subsection 10.)
       9.   No development may be allotted more than one freestanding sign per
 business or location.
-   I.   Maintenance Of Signs: All signs and components thereof, including
+   J.   Maintenance Of Signs: All signs and components thereof, including
 supports, braces, and anchors, shall be kept in a state of good repair and
 appearance.
-   J.   Nonconforming Signs: Subject to the following, nonconforming signs that
+   K.   Nonconforming Signs: Subject to the following, nonconforming signs that
 were otherwise lawful on the effective date of these regulations, or as
 amended, may be continued. A nonconforming sign may not be moved, altered,
 expanded, or replaced except to bring the sign into complete conformity with
@@ -9401,7 +9446,7 @@ provisions of this title.
 be repaired and renovated so long as the cost of such work does not exceed,
 within any twelve (12) month period, fifty percent (50%) of the value of such
 sign.
-   K.   Removal and Disposition of Nonconforming signs: Except as otherwise
+   L.   Removal and Disposition of Nonconforming signs: Except as otherwise
 provided in this chapter, any sign which is located on property which becomes
 vacant and unoccupied for a period of two (2) months or more, or any sign which
 pertains to a time, event, or purpose which no longer applies, shall be deemed
@@ -9418,15 +9463,15 @@ immediately with or without notice.
       4.   Any temporary sign found to be in violation of regulations must be
 removed immediately upon receipt of verbal and or written warning from the
 Planning Administrator or their designee.
-    L.   Appeals. Appeals from decisions made by the administrator or designee
+   M.   Appeals. Appeals from decisions made by the administrator or designee
 shall be made to the Planning and Zoning Commission. Appeals from the
 provisions or enforcement of this chapter shall be made as provided in section
 11-7-7 of this code.
-   M.   Penalty. Any person violating any provision of this chapter shall be
+   N.   Penalty. Any person violating any provision of this chapter shall be
 guilty of an infraction and shall be punished in accordance with provisions of
 section 11-12-2 of this code. A separate offense shall be deemed to be
-committed for each day a violation occurs or continues.
-(Ord. 595, 6-13-2018; amd. Ord. 626, 5-8-2024; Ord. 633, 12-11-2024)
+committed for each day a violation occurs or continues. (Ord. 595, 6-13-2018;
+amd. Ord. 626, 5-8-2024; Ord. 633, 12-11-2024)
 11-9-9: EXPIRATION OF PERMITS:
 Permits, when granted, will be valid for the period of time requested or
 conditioned during the approval process or according to the following for
@@ -11770,7 +11815,7 @@ Where:
  LGIA  = Length of GIA, in feet (ft)
  
 UNIFORM RECTANGULAR GRASSED INFILTRATION AREA AND IMPERVIOUS SURFACE AREA
-[https://export.amlegal.com/media/a4d8b7595fa501ded350362c871b0bc1a217b435/
+[https://export.amlegal.com/media/9b30d26b7abd7091baed27496ab385a516d41727/
 IMAGES/0-0-0-1832.png]
  
 TRAPEZOIDAL CROSS SECTION
