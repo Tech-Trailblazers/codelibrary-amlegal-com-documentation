@@ -1,7 +1,7 @@
 TOWN OF OCCOQUAN, VIRGINIA
 CODE OF ORDINANCES
-2026 S-23 Supplement contains:
-Local legislation current through Ord. O-2025-14, passed - -
+2026 S-24 Supplement contains:
+Local legislation current through Ord. O-2026-02, passed 1-20-2026
  
 Published by:
 American Legal Publishing
@@ -4979,6 +4979,24 @@ Article 92.30 - Refuse; Vegetation
 92.34   Removal
    
 92.35   Grass, weeds, and other foreign growth
+Article 92.40 - Light
+   
+92.40   Declaration of findings and policy
+   
+92.41   Definitions
+   
+92.42   Administration and enforcement
+   
+92.43   Violations
+   
+92.44   Maximum permissible light levels and correlated color temperature
+generally
+   
+92.45   Specific prohibitions
+   
+92.46   Exemptions
+   
+92.47   Measurement procedures
  
    
 92.99   Penalty
@@ -5531,6 +5549,282 @@ owner of the property and may be collected by the town as taxes and levies are
 collected.
 (1998 Code, § 30-36) (Ord. O-2025-01, passed 2-4-2025; Ord. O-2025-09, passed
 8-6-2025)
+ARTICLE 92.40 - LIGHT
+§ 92.40 DECLARATION OF FINDINGS AND POLICY.
+   The Town Council hereby finds and declares that light pollution caused by
+excessive light and glare is a serious hazard to the public health, welfare,
+commerce, peace and safety and the quality of life; that a substantial body of
+science and technology exists by which light pollution caused by excessive
+light and glare may be substantially abated; that the people have a right to
+and should be ensured an environment free from light pollution caused by
+excessive light and glare that may jeopardize the public health, welfare,
+commerce, peace and safety, degrade the quality of life, or have adverse
+effects on birds, other wildlife and nocturnal ecosystems; and that preventing
+such light pollution caused by excessive light and glare serves a substantial
+governmental interest.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.41 DEFINITIONS.
+   For purposes of this article the following definitions shall apply unless
+the context clearly indicates or requires a different meaning.
+   ANSI/IES. The Illuminating Engineering Society (IES) is an American National
+Standards Institute (ANSI)-recognized Standards Development Organization. ANSI/
+IES Recommended Practices are universally recognized as authoritative
+references for indoor and outdoor lighting applications.
+   ARTIFICIAL LIGHT AT NIGHT (ALAN). Light that is created from human
+technology, rather than a naturally occurring process. Also sometimes known as
+anthropogenic lighting.
+   CORRELATED COLOR TEMPERATURE (CCT). The measured color appearance of light
+emitted by a light source described using a nominal value stated in kelvins
+(K). Lower CCTs (1800 K to 2200 K) appear very warm or amber. Medium CCTs (2700
+K to 3900 K) appear “warm white” or “neutral white,” similar to standard
+incandescent bulbs. High CCTs (4000 K and higher) appear “cool white” or
+“blue.”
+   DARKSKY. DarkSky International is a non-profit organization that works to
+restore the nighttime environment and combat light pollution. They manage the
+DarkSky Approved Luminaires Program that promotes high-quality lighting for
+outdoor environments that minimizes light pollution, including sky glow, light
+trespass, obtrusive light, and harmful impacts to people, wildlife, and plants.
+For a luminaire to be DarkSky-approved, it must demonstrate that it meets the
+five principles for responsible outdoor lighting:
+      (1)   All light should have a clear purpose;
+      (2)   Light should be directed only to where it is needed;
+      (3)   Light should be no brighter than necessary;
+      (4)   Light should be used only when it is useful; and
+      (5)   Warmer-color lights should be used where possible.
+   DAYTIME. The local time of day between the hours of 6:00 a.m. and 10:00 p.m.
+weekdays, and from 9:00 a.m. to 10:00 p.m. on Saturdays, Sundays and legal
+holidays observed by the town government unless otherwise specified.
+   FESTOON. A strand of bulbs or lamp sources attached to a flexible cable or
+within a tube that runs between two points. Also commonly referred to as
+illuminated tubing or string lights.
+   FLOODLAMP OR FLOODLIGHT. A specific form of lamp designed to direct its
+output in a specific direction (a beam) but with a diffusing glass envelope.
+Such lamps are so designated by the manufacturers and are typically used in
+residential outdoor area lighting.
+   FOOTCANDLE (fc). A quantitative unit of measure referring to illuminance.
+One footcandle is equal to one lumen uniformly distributed over an area of one
+square foot. It is the luminous flux per unit area in the Imperial system. One
+footcandle equals approximately 10.764 lux.
+   FULLY SHIELDED. A luminaire designed or shielded in such a manner that no
+light is emitted, either directly or indirectly, at or above a horizontal plane
+running through the lowest light-emitting part of the luminaire. No part of the
+bulb may extend past the horizontal plane of the fully opaque material of the
+luminaire. Also commonly referred to as full cutoff fixtures.
+   GLARE. The visual sensation produced by a bright light source within the
+visual field that is sufficiently brighter than the level to which the eyes are
+adapted. This sensation can cause annoyance, discomfort or cause an individual
+to squint or turn away, which is detrimental to navigation and public safety at
+night. The magnitude of glare depends on such factors as the size, position,
+brightness of the source, and on the brightness level to which the eyes are
+adapted.
+   HIGH INTENSITY DISCHARGE LAMP. A mercury vapor, metal halide or high- or
+low-pressure sodium lamp.
+   ILLUMINANCE. Measured in lux or footcandles (fc), the total luminous flux
+incident at a point on a surface.
+   INITIAL LUMENS. The lumens emitted from a lamp as specified by the
+manufacturer of the lamp.
+   LAMP. The component of a luminaire that produces light. A lamp is also
+commonly referred to as a bulb.
+   LIGHT LEVEL. The maintained luminance or illuminance value.
+   LIGHT POLLUTION. Excessive or unnecessary light traveling into areas where
+it is not needed or wanted. This can be in the form of light trespass, glare,
+or upward emitted light that contributes to sky glow. All forms of light
+pollution at night have negative impacts on health and welfare.
+   LIGHT TRESPASS. Unwanted light entering another property without purpose or
+permission.
+   LUMEN (lm). A standard unit of measurement for visible light (luminous flux)
+of a light source or lamp.
+   LUMINAIRE. A complete lighting unit consisting of a lamp or lamps together
+with the components designed to distribute the light, to position and protect
+the lamps, and to connect the lamps to the power supply. A luminaire is also
+commonly referred to as a fixture or lighting fixture when permanently attached
+to real estate.
+   LUMINANCE. The intensity of light emitted from a surface per unit area in a
+given direction.
+   LUX. The SI metric system unit of measure for illuminance. One hundred lux
+equals approximately nine (9.29) footcandles.
+   OPAQUE. A material that does not transmit light from an internal
+illumination source.
+   NIGHTTIME. Those times excluded from the definition of DAYTIME.
+   PROPERTY BOUNDARY. An imaginary line along the ground surface, and its
+vertical extension, which separates the real property owned, leased, or
+otherwise legally controlled by one person or entity from that owned, leased,
+or otherwise legally controlled by another, including intra-building real
+property divisions.
+   PUBLIC AREA. Any real property owned by any unit of government, including,
+but not limited to, public rights-of-way, sidewalks, parks, and buildings.
+   RESIDENTIAL AREA. Any building or other structure in which one or more
+persons resides on a permanent or temporary basis, including, but not limited
+to, houses, apartments, condominiums, hotels, and motels.
+   RESIDENTIAL PROPERTY. For the purposes of this article, properties used for
+residential use purposes regardless of its zoning district.
+   SEASONAL LIGHTING. Exterior or site lighting that is portable, temporary,
+decorative, and used in connection with national holidays and other cultural
+traditions. This includes but is not limited to string lighting, icicle
+lighting, and lighted inflatables, none of which are intended for general
+illumination use.
+   SECURITY LIGHTING. Illumination used specifically to protect people,
+property, and infrastructure from criminal threat.
+   THIS ARTICLE. This subchapter of Ch. 92 of this code.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.42 ADMINISTRATION AND ENFORCEMENT.
+   (A)   The police department may issue a summons for violations of this
+article and may be assisted by other town departments as required.
+   (B)   Nothing in this section shall preclude a private citizen from
+obtaining a magistrate’s summons based upon a probable cause determination by
+the magistrate’s office.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.43 VIOLATIONS.
+   (A)   Criminal violation. Any person who owns or is in possession of
+property where light emanates from or is in charge of the source of light, is
+guilty of the following offenses if that light violates the provisions of this
+article. A person may be charged with separate offense for any violation set
+forth in this article, once every 24 hour period regardless of whether the
+violation emanates from the same lamp, luminaire, or property.
+      (1)   For offenses that occur and for which the person received a summons
+prior to that person having been found by a court of competent jurisdiction to
+be in violation of this article, a Class 4 misdemeanor; and
+      (2)   For any other additional offenses by the same person within 12
+months of that person having been found in violation of this article,
+regardless of whether the violation emanates from the same lamp, luminaire or
+property, a Class 2 misdemeanor.
+   (B)   Any person issued a summons punishable under this article, shall give
+a written promise to appear at such time and place specified on the summons and
+they shall be released from custody. However, if that person fails or refuses
+to discontinue the use of the lamp or luminaire in violation of this article,
+the officer may proceed to arrest without a warrant according to the provisions
+of VA Code § 19.2-82.
+   (C)   In addition to and not in lieu of the penalties prescribed in this
+section, the town may apply to the Circuit Court for an injunction against the
+continuing violation of any of the provisions of this article and may seek any
+other remedy or relief authorized by law.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.44 MAXIMUM PERMISSIBLE LIGHT LEVELS AND CORRELATED COLOR TEMPERATURE
+GENERALLY.
+   (A)   Except as otherwise provided in this article, any light which emanates
+from any source and which exceeds the maximum permissible light levels or
+correlated color temperature (CCT) established in this section below is hereby
+prohibited. Such light levels or CCT shall be measured at the property boundary
+of the property upon which the luminaire or light source exists or at any point
+within any other property affected by the light.
+   (B)   Light level. All exterior light fixtures shall be fully shielded and
+individual lamps in outdoor fixtures shall not exceed 2,800 initial lumens.
+   (C)   Light trespass. Light trespass, vertical or horizontal, shall not
+exceed one-half footcandles, or 5.382 lux, at the property line of the property
+upon which the light source exists or at any point within any other property
+affected by the light.
+   (D)   Correlated color temperature (CCT). The maximum allowable CCT for
+exterior luminaires is 3900 K.
+   (E)   Persons performing construction of public projects, repair or
+maintenance work for such projects, or persons performing work for private or
+public utilities for the repair of facilities or restoration of services shall
+not be subject to the levels enumerated above.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.45 SPECIFIC PROHIBITIONS.
+   Except as expressly provided otherwise in this article, the following are
+prohibited exterior lighting and violations of this article:
+   (A)   Exterior lighting that interferes with the safe movement of motor
+vehicles, cyclists, and pedestrians in the public right-of-way by creating the
+experience of glare. Prohibited lighting that contributes to glare includes,
+but is not limited to:
+      (1)   Any lighting that is shined into oncoming traffic or crosswalks and
+disables the vision of a motor vehicle operator, cyclist or pedestrian, has a
+motion sensor triggered from motion past the property line, or involves
+distracting motion video;
+      (2)   Any light that is strobing or blinking. However, festoons or
+seasonal lighting that are used on a temporary basis not exceeding a total of
+60 calendar days per calendar year only when such lighting does not shine into
+oncoming traffic or crosswalks and does not disable the vision of a motor
+vehicle operator, cyclist, or pedestrian shall be allowed; or
+      (3)   Any lighting that contributes to traffic control confusion (e.g.,
+sources resembling or imitating first responders or law-enforcement, traffic,
+or railroad signals).
+   (B)   Beacons and searchlights, except for emergency use by authorized first
+responders.
+   (C)   Laser source light or any similar high intensity light when projected
+above the horizontal plane.
+   (D)   Structure-mounted floodlights that are adjustable and outward-facing.
+However, floodlights used for security lighting shall be allowed during
+nighttime hours if they are exclusively controlled by motion detection in
+compliance with §
+92.46(A).
+   (E)   High intensity discharge lamps, including but not limited to low-
+pressure sodium and mercury vapor light sources.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.46 EXEMPTIONS.
+   The following activities or sources of light shall be exempt from the
+prohibitions set forth in this article:
+   (A)   Luminaires used for security lighting purposes that are activated
+exclusively by motion detection that shall return to their prior state no
+greater than 15 minutes after activity is no longer detected.
+   (B)   Lighting on state-maintained roadways. Luminaires installed on public
+utility poles in a public right-of-way or public streetlights and any lighting
+of town parks, facilities, or other public areas.
+   (C)   Temporary lighting approved for special events, festivals, and
+community benefit, provided the approved lighting still meets §
+92.45 for specific prohibitions and §
+92.44(C) for light trespass and it does not exceed a CCT of 3900 K.
+   (D)   Underwater lighting used for the illumination of swimming pools and
+fountains.
+   (E)   Lighting that is mandated by federal or state law, including but not
+limited to: navigational lighting systems regulated by the Federal Aviation
+Administration; any conflicting building code or Department of Transportation
+illumination requirements; lighting for first responders, emergency procedures,
+and worker safety mandated by the Virginia Department of Labor and Industry or
+Federal Occupational Safety and Health Administration regulations.
+   (F)   Any luminaire that was approved by the Town Zoning Administrator
+pursuant to site plan approval for the use on the property, until such
+luminaire is replaced. After a replacement, the luminaire is no longer exempt
+from the application of this article. Replacement of a luminaire shall mean a
+change of fixture type or change to the mounting height or location of a
+fixture. Routine lighting fixture maintenance, such as changing lamps or light
+bulbs, ballast, starter, photo control, and other similar components shall not
+constitute replacement and shall be permitted provided such changes do not
+result in an increase to CCT or higher lumen output.
+(Ord. O-2026-02, passed 1-20-2026)
+§ 92.47 MEASUREMENT PROCEDURES.
+   When this article requires measurement of the light level or CCT, the
+measurement shall be as follows.
+   (A)   Illumination limits and CCT are measured vertically 1.5 meters (five
+feet) above grade with the meter held perpendicular to the ground and aimed
+toward the light source in question. Unless otherwise specified, limits are
+measured at any location along a property line or at any point within any other
+property affected by the light.
+   (B)   If a luminaire is equipped with more than one lamp, the lumens of the
+lamp with the highest initial lumens shall determine the lumens emitted.
+   (C)   Method of measurement. Illumination levels shall be measured with a
+photoelectric photometer having a spectral response similar to that of the
+human eye, following the standard spectral luminous efficiency curve adopted by
+the International Commission on Illumination (CIE). The instruments shall be
+maintained in calibration and good working order. A calibration shall be made
+at the time of any light measurement. Measurements recorded shall be taken so
+as to provide a proper representation of the light source.
+   (D)   Unless otherwise specified in this article, the measurement shall be
+made at:
+      (1)   The property boundary on which such light is generated;
+      (2)   Any point within the receiving property affected by the light; or
+      (3)   Any public area including, but not limited to, any public streets,
+docks or sidewalks.
+   (E)   When at the time of measurement of illumination levels or CCT there
+are sources of light visible by the individual operating the photometer that
+originate from properties other than the property from which the illumination
+level or CCT is being measured, there shall be a rebuttable presumption that
+the measurement obtained originated from the property from which the
+illumination level or CCT was being measured. The property owner, possessor of
+the property where the light emanates, or the individual in charge of the
+source of light may rebut the presumption that the luminaire violates:
+      (1)   The light level limitations of §
+92.44(B) or CCT limitations of §
+92.44(D) by providing proof that the initial lumens or CCT of the lamp, as
+found on the manufacturer’s stamp or label on the lamp, is below the maximum
+values provided herein; and
+      (2)   The light trespass limitations of §
+92.44(C) if they turn off the light and the enforcement official takes a second
+illumination level reading, subtracts the second reading with the luminaire off
+from the first reading, and the difference does not exceed the limitation found
+in §
+92.44(C).
+(Ord. O-2026-02, passed 1-20-2026)
 § 92.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -12388,11 +12682,11 @@ Council may exercise any of the powers and duties as to arts and cultural
 districts permitted under VA Code § 15.2-1129.1, as amended.
 (1998 Code, § 8-4) (Ord. O-2017-02, passed 7-18-2017)
 § 154.05 MAP OF THE NOVA ARTS AND CULTURAL DISTRICT.
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1523.jpg]
 (1998 Code, § 8-5)
 § 154.06 MAP OF THE TOWN SEGMENT OF THE NOVA ARTS AND CULTURAL DISTRICT.
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1525.jpg]
 (1998 Code, § 8-6)
 CHAPTER 155: SITE PLAN
@@ -14009,6 +14303,9 @@ Special Use Permits
 157.246   Duration and expiration of permit
    
 157.247   Revocation of special use permits
+   
+157.248   Special use permits for tobacco, vape, cannabis, or psychoactive
+speciality establishment
 Zoning Amendments
    
 157.260   Initiation of amendments
@@ -17073,6 +17370,161 @@ of the permit.
 Council may, based on evidence provided and the nature of the violations,
 revoke the special use permit.
 (1998 Code, § 66-308) (Ord. passed 9-5-2017)
+§ 157.248 SPECIAL USE PERMITS FOR TOBACCO, VAPE, CANNABIS, OR PSYCHOACTIVE
+SPECIALITY ESTABLISHMENT.
+   (A)   Definitions. For purposes of this section, the following definitions
+shall apply:
+      ON-PREMISES CONSUMPTION ESTABLISHMENT.
+         (a)   Any establishment, whether public or private, membership-based
+or otherwise, that allows the use, sampling, or consumption of tobacco, vape,
+hemp, cannabinoid, kratom, or other psychoactive products on the premises.
+         (b)   Such use shall be considered a TOBACCO, VAPE, CANNABIS, OR
+PSYCHOACTIVE SPECIALTY ESTABLISHMENT for zoning purposes, regardless of whether
+products are sold or whether the business is designated as a private club or
+social venue.
+      TOBACCO, VAPE, CANNABIS, OR PSYCHOACTIVE SPECIALTY ESTABLISHMENT.
+         (a)   A commercial establishment in which 10% or more of the floor
+area, inventory value, or gross sales is devoted to the display, sale,
+exchange, or delivery of any combination of the following items intended for
+human consumption, inhalation, or ingestion:
+            1.   Tobacco, cigarettes, cigars, pipes, rolling papers, or other
+tobacco- related products;
+            2.   Electronic cigarettes, vaping devices, e-liquids, or similar
+vapor- producing products;
+            3.   Cannabidiol (CBD), tetrahydrocannabinol (THC), Delta-8, Delta-
+9, Delta-10, or any other cannabinoid-containing product, whether derived from
+hemp or marijuana, that is intended to be consumed, ingested, or inhaled;
+            4.   Any paraphernalia or accessory items used for the consumption
+of such products, including but not limited to pipes, hookahs, grinders, or
+similar devices; and
+            5.   Any herbal, synthetic, or natural psychoactive substance,
+including kratom (Mitragyna speciosa) and any products containing its active
+alkaloids (mitragynine or 7-hydroxymitragynine), whether in raw, extract, or
+derivative form, intended for ingestion, inhalation, or other human
+consumption.
+         (b)   For purposes of this definition, the sale of paraphernalia or
+accessories used for the consumption of such products shall be considered part
+of the same use category, regardless of whether the consumable products
+themselves are sold on the premises.
+         (c)   This definition also includes any business that holds itself out
+by signage, advertising, or trade name as primarily engaged in such sales,
+regardless of the actual percentage of merchandise.
+         (d)   This definition shall not include:
+            1.   Topical or cosmetic products, such as creams, lotions, or
+balms, that are not marketed or intended for ingestion, inhalation, transdermal
+psychoactive absorption, or other forms of human consumption; and
+            2.   Pharmacies or licensed medical dispensaries operating under
+state law.
+         (e)   This definition is intended solely for zoning and land-use
+classification purposes and does not regulate or prohibit any product
+authorized for sale under federal or state law.
+   (B)   Applicability. The use category tobacco, vape, cannabis, or
+psychoactive specialty establishment shall be permitted only by special use
+permit within the B-1, Business District, and shall be prohibited in all other
+zoning districts.
+   (C)   Separation requirements. No such use shall be located within a
+building containing a residential use, nor within 450 feet of any child day
+care center, park, or place of worship. No two such uses shall be located
+within 450 feet of one another.
+   (D)   Conditions of approval.
+      (1)   In addition to any other conditions deemed necessary by the Town
+Council to mitigate the potential zoning impacts of a tobacco, vape, cannabis,
+or psychoactive specialty establishment, the following standards are
+established pursuant to VA Code § 15.2-2286(A)(3) as reasonable conditions to
+ensure the compatibility of such uses with surrounding properties and the
+public welfare and shall apply to all tobacco, vape, cannabis, or psychoactive
+specialty establishments approved by special use permit:
+         (a)   Operational and public safety standards.
+            1.   Hours of operation shall be limited to 9:00 a.m. to 9:00 p.m.
+            2.   Adequate exterior lighting and security cameras shall be
+provided and maintained in accordance with a lighting and security plan
+approved by the Town Council and made a condition of the special use permit.
+            3.   The business will register and maintain an active alarm system
+and after-hours emergency contact with the town throughout the life of the
+special use permit.
+            4.   No exterior seating, tables, benches, vending equipment, or
+other fixtures designed for customer congregation shall be installed or allowed
+to remain outside the building.
+            5.   Compliance with all Fire Marshal and Building Code standards
+for storage of lithium-ion batteries or other flammable materials is required.
+         (b)   Residential compatibility standards.
+            1.   Ventilation and exhaust systems shall be designed, operated,
+and maintained to prevent the escape of odors noticeable to a person of
+ordinary sensitivity to adjacent residential dwellings or pedestrian areas. If
+the business involves storage, handling, or packaging of aromatic or powdered
+products (including hemp flower, kratom, or flavored e-liquids), additional
+filtration or odor control measures may be required based on generally accepted
+industry standards such as ASHRAE Standard 62.1 (Ventilation for Acceptable
+Indoor Air Quality) or equivalent, as verified by a licensed mechanical
+engineer.
+            2.   On-premises consumption, sampling, or product use is
+prohibited.
+         (c)   Design and aesthetic standards.
+            1.   Windows shall remain visually open; physical obstructions,
+opaque films and heavily tinted glass are prohibited.
+            2.   No display racks, product shelving, or promotional merchandise
+shall be placed outside the building.
+            3.   Products, packaging, or advertising visible from the public
+right-of- way shall not depict or simulate drug paraphernalia.
+            4.   Interior window displays shall be limited to professionally
+printed signage or merchandise typical of a retail storefront and shall be
+arranged to maintain visibility into the sales area from the public right-of-
+way.
+            5.   Lighting shall be designed to minimize glare onto sidewalks
+and adjacent buildings and shall not include flashing or color-changing effects
+visible from the public right- of-way.
+      (2)   All improvements or equipment necessary to comply with these
+standards shall be installed and maintained by the business operator at their
+expense.
+   (E)   Duration and recertification. Special use permits issued for such
+establishments shall be valid for a period of five years from the date of
+approval, unless otherwise specified by the Town Council. Each permit holder
+shall submit an annual certification of compliance confirming adherence to all
+conditions of approval. Failure to file certification or violation of any
+condition may constitute grounds for revocation pursuant to VA Code §§ 15.2-
+2208 or 15.2-2286.
+   (F)   Enforcement, reporting, and revocation.
+      (1)   The Zoning Administrator shall have a right of entry during all
+hours of operation to inspect any establishment operating under this section
+for compliance with all special use permit conditions.
+      (2)   Each permit holder shall file an annual report with the town as
+part of its recertification process. The report shall include:
+         (a)   The percentage of floor area and display space devoted to
+products listed in division (A);
+         (b)   The percentage of annual gross sales derived from such products;
+and
+         (c)   A certification, signed by the business owner or manager,
+attesting that these figures are true and that the establishment remains in
+compliance with all conditions of approval.
+      (3)   Information submitted under this section shall be treated as
+confidential to the extent permitted by Virginia law and used solely for zoning
+and business license compliance purposes.
+      (4)   (a)   The town reserves the right to audit the information
+contained in the annual report at reasonable times and upon reasonable notice.
+Such audits may include inspection of premises, review of sales records, or
+verification through the town’s business-license reporting process. Businesses
+found to have under-reported the percentage of specialty sales may be deemed in
+violation of this section and subject to enforcement under VA Code § 15.2-2208.
+         (b)   Information demonstrating a violation of the special use permit
+may include, but is not limited to, discrepancies between reported and observed
+floor area devoted to such products, inconsistencies in sales figures disclosed
+to the town under business license reporting, or failure to provide requested
+documentation during an audit.
+      (5)   Failure to submit the annual report or to cooperate with an audit
+shall constitute a violation of this section and may result in suspension or
+revocation of the special use permit following notice and hearing before the
+Town Council.
+      (6)   Upon finding a violation, the Zoning Administrator shall issue a
+written notice of violation specifying the corrective action required and the
+time period for compliance before referral for enforcement or revocation.
+      (7)   Each day a violation continues shall constitute a separate offense.
+Nothing herein limits the authority of the town to pursue civil penalties,
+injunctive relief, or any other remedy authorized by Virginia law.
+      (8)   Nothing in this section limits the authority of law enforcement to
+enforce any state or federal law relating to controlled substances or public
+nuisance. The Town Manager or designee may establish forms and procedures
+necessary to implement this section.
+(Ord. O-2026-01, passed 1-20-2026)
 ZONING AMENDMENTS
 § 157.260 INITIATION OF AMENDMENTS.
    (A)   The text of this chapter and any zoning district boundary shown on the
@@ -17573,18 +18025,18 @@ protection of adjacent properties and roadways may be required.
       (2)   All applications for lighted outdoor recreational facilities shall
 include an accurate photometric plan in conjunction with a site plan for the
 proposed field and associated facilities.
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1515.jpg]
 Figure 1: Full Cut-off Lighting Fixture
 Source: Fairfax County, Virginia Zoning Ordiance - Appendix 2 (Illustrations)
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1517.jpg]
 Figure 2: Full Cut-Off Light Fixtures
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1519.jpg]
 Figure 3: Mounting Height
 Source: Fairfax County, Virginia Zoning Ordinance - Appendix 2 (Illustrations)
-[https://export.amlegal.com/media/3367ce084fd808cff6f87a31a7478bc9ca08957c/
+[https://export.amlegal.com/media/c655ae1660a44f0faa2002169dc206ef5c808fee/
 IMAGES/0-0-0-1521.jpg]
 Figure 4: Photometric Plan
 Source: Hubbell Outdoor Lighting
@@ -18358,6 +18810,7 @@ VA Code                 Code Section
 15.2-2204               156.004,
                         157.181,
                         157.241
+15.2-2208               157.248
 15.2-2209.1             156.085,
                         157.011
 15.2-2214               33.04,
@@ -18369,6 +18822,8 @@ VA Code                 Code Section
 15.2-2280 et seq.       Ch. 157,
                         157.001
 15.2-2283               157.151
+15.2-2286               157.248
+15.2-2286(A)(3)         157.248
 15.2-2286A(4)           157.228
 15.2-2306.A.3           157.182
 15.2-2311               157.008,
@@ -18460,10 +18915,11 @@ VA Code                 Code Section
 18.2-460                136.01
 18.2-510                Ch. 90
 19.2-8                  Ch. 150
+19.2-82                 92.43
 19.2-393 et seq.        Ch. 92
 20-103                  131.12
 24.2-310 E              157.304
-itle 27, Chapter 9      91.02
+Title 27, Chapter 9     91.02
 27-36                   34.15,
                         34.16
 Title 28.2              152.03
@@ -19629,5 +20085,8 @@ O-2025-12 10-21-2025  157.309,
                       157.320,
                       157.321
 O-2025-14 - -         32.03
+O-2026-01 1-20-2026   157.248
+O-2026-02 1-20-2026   92.40—
+                      92.47
                      
  
