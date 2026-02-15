@@ -1,9 +1,9 @@
 VILLAGE OF PEOTONE, ILLINOIS
 CODE OF ORDINANCES
-2025 S-46 Supplement contains:
-Local legislation current through Ord. 25-10, passed10-27-25; and
-State legislation current through Illinois Legislative Service, 2023 Pamphlet
-No. 6
+2026 S-46 Supplement contains:
+Local legislation current through Ord. 25-14, passed12-15-25; and
+State legislation current through Illinois Legislative Service, 2025 Pamphlet
+No. 3
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -24923,12 +24923,7 @@ enforced by the Illinois Department of Revenue in accordance with the
 provisions of ILCS Ch. 65, Act 5, § 8-11-24, as amended. The Illinois
 Department of Revenue shall have full power to administer and enforce the
 provisions of this chapter.
-   (D)   The failure to timely collect or remit all taxes due under this
-chapter, or to otherwise comply with state law, is a violation of this code and
-is subject to penalty, and may be subject to suspension and/or revocation of
-any business license issued by the village. Each failure to collect or remit
-the tax imposed hereby shall constitute a separate violation.
-(Ord. 25-05, passed 6-9-25)
+(Ord. 25-05, passed 6-9-25; Am. Ord. 25-13, passed 12-15-25)
 CHAPTER 128: MUNICIPAL GROCERY SERVICE OCCUPATION TAX
 Section
    
@@ -24937,8 +24932,9 @@ Section
    (A)   Beginning January 1, 2026, a tax is hereby imposed upon all persons
 engaged in the village in the business of making sales of service, who, as an
 incident to making those sales of service, transfer groceries as an incident to
-a sale of service at the rate of 1% of the gross receipts from such sales made
-in the course of such business while this chapter is in effect.
+a sale of service at the rate of 1% of the selling price of all groceries
+transferred by such serviceman as an incident to a sale of service while this
+chapter is in effect.
    (B)   The imposition of this tax is in accordance with and subject to the
 provisions of ILCS Ch. 65, Act 5, § 8-11-24.
    (C)   The tax imposed by this chapter, and all civil penalties that may be
@@ -24952,7 +24948,7 @@ chapter, or to otherwise comply with state law, is a violation of this code and
 is subject to penalty, and may be subject to suspension and/or revocation of
 any business license issued by the village. Each failure to collect or remit
 the tax imposed hereby shall constitute a separate violation.
-(Ord. 25-05, passed 6-9-25)
+(Ord. 25-05, passed 6-9-25; Am. Ord. 25-13, passed 12-15-25)
 TITLE XIII: GENERAL OFFENSES
       Chapter
          
@@ -26008,22 +26004,25 @@ Technical Codes
    
 150.111   Technical codes
    
-150.112   2015 International Building Code
+150.112   2021 International Building Code
    
-150.113   2015 International Residential Code
+150.113   2021 International Residential Code
    
-150.114   2015 International Mechanical Code
+150.114   2021 International Mechanical Code
    
-150.115   2015 International Fire Code
+150.115   2021 International Fire Code
    
-150.116   2015 International Property Maintenance Code
+150.116   2021 International Property Maintenance Code
    
-150.117   2015 ICC Electric Code Administrative Provisions/ 2014 NFPA 70
-National Electric Code
+150.117   2020 NFPA 70 National Electric Code
    
-150.118   2015 International Fuel Gas Code
+150.118   2021 International Fuel Gas Code
    
-150.119   2015 International Energy Conservation Code
+150.119   Illinois Energy Conservation Code
+   
+150.120   2021 International Existing Building Code
+   
+150.121   2021 International Swimming Pool and Spa Code
  
    
 150.999   Penalties
@@ -27120,326 +27119,1339 @@ requirements by using a compilation of data from the following technical codes.
 § 150.111 TECHNICAL CODES.
    The technical codes listed below are hereby adopted as the building codes of
 the village for the control of buildings and structures as herein provided.
-   2015 International Building Code
-   2015 International Residential Code
-   2015 International Mechanical Code
-   2015 International Fire Code
-   2015 International Property Maintenance Code
+   2021 International Building Code
+   2021 International Residential Code
+   2021 International Mechanical Code
+   2021 International Fire Code
+   2021 International Property Maintenance Code
    Illinois Plumbing Code (latest edition)
-   2015 ICC Electric Code Administrative Provisions/ 2014 NFPA 70 National
-Electric Code
-   The Illinois Accessibility Code, as amended
-   2015 International Fuel Gas Code
-   2015 International Energy Code
+   2020 National Electric Code (NFPA 70), as amended
+   The Illinois Accessibility Code (latest edition)
+   2021 International Fuel Gas Code
+   The Illinois Energy Conservation Code (IECC) (latest edition)
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.112 2015 INTERNATIONAL BUILDING CODE.
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-14, passed 12-15-25)
+§ 150.112 2021 INTERNATIONAL BUILDING CODE.
    (A)    Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2015 International Building
+fully set out herein that certain code known as the 2021 International Building
 Code, prepared and published by the International Code Council, Inc., together
 with the additions, insertions, deletions and changes hereinafter set forth,
 three copies of which have been on file for a period of more than 30 days prior
 to the adoption of this code and now are on file in the office of the Village
 Clerk.
    (B)   Amendments. The following additions, insertions, deletions and changes
-are hereby made to the ICC Building Code.
+are hereby made to the 2021 ICC Building Code.
       (1)   Section 101.1 Title.
          Amend by deleting the word and punctuation marks, “(Name of
 Jurisdiction)” and in place thereof inserting the words “The Village of
 Peotone”.
-      (2)   Section 101.1.4.3 Plumbing.
-         Delete the International Plumbing Code and insert Illinois Plumbing
-Code (77 Illinois Administration Code 890) published by the Illinois Department
-of Health.
-      (3)   Section 102.2 Other laws. Add:
-         The Village of Peotone zoning ordinance shall prevail concerning
-zoning regulations, signs, performance standards, accessory uses, and other
-matters covered by that ordinance.
-      (4)   Section 110 Certificate of occupancy. Add the following section:
-         There will be a 24-hour grace period between passing the final
-inspection and the issuance of the certificate of occupancy. The contractor
-shall schedule the final inspection with a minimum 24-hour notice.
-      (5)   Section 113 Board of Appeals. Delete this section in its entirety
-and add the following:
-         The Village Board of the Village of Peotone shall act as the appeals
-board. Also, reference the 2015 Property Maintenance Code, section 111.
-      (6)   Section 301.2 General. Add the following:
-         The Village of Peotone zoning ordinance shall prevail concerning
-zoning regulations, signs, performance standards, accessory uses, and other
-matters covered by that ordinance.
-      (7)   Section 406.3.4.1 Separations. Delete in its entirety and insert
-the following:
-         Private garages, located beneath rooms in residential buildings, shall
-have walls, partitions, floors, ceilings, and structural steel members
-separating the garage space from the adjacent interior spaces constructed to a
-minimum one-hour fire resistance rating. All bearing and non-bearing walls
-under the garage shall have a one-hour fire rating. Attached private garages
-shall be completely separated from the adjacent interior spaces and the attic
-area by means of five-eighths-inch gypsum board or equivalent applied to the
-garage side. The sills of all door openings between the garage and adjacent
-interior spaces shall be raised not less than four (4) inches above the garage
-floor.
-      (8)   Delete Chapter 11 and insert the Illinois Accessibility Code,
-current edition.
-      (9)   Section 1805.1.1 Footings and foundations. Add the following
-section:
-         All footings and walls to be poured in place concrete. Alternative
-methods are to be approved by the Building Official.
-      (10)   Section 1805.4.2 Foundation drain. Add the following sentence to
-the end of this section:
-         All foundation drains shall incorporate the use of a minimum four-inch
-perforated tile.
-      (11)   Section 2111.14.1 Factory-built fireplaces. Add the following new
-section:
-         Hearth extensions for approved factory-built fireplaces shall extend
-not less than sixteen (16) inches in front of, and at least eight (8) inches
-beyond each side of the fireplace opening.
-      (12)   Chapter 27 and 28 Electrical and mechanical. Add the following new
-section:
-         All components, i.e., boxes, conduit, wire ways, luminaries, ductwork,
-equipment, ceiling grid or other items, shall not be supported from the roof
-deck or the bottom cord of the bar joist, unless the licensed design
-professional of record specifically designed the structure to support the load
-of the additional equipment, and noted so on the applicable building plan
-sheets.
-      (13)   Section 508.9 Basements required in new residential construction.
-         (A)   All principal residential buildings shall be required to have a
-basement equal in size to at least one-half of the ground floor area of the
-building, excluding garages.
-         (B)   For purposes of this section, basement shall be defined as that
-portion of a building which is wholly or partly below grade such that the
-vertical distance from the average grade to the floor is greater than the
-vertical distance from the average grade to the ceiling. Basements shall have a
-minimum floor to ceiling height of seven feet.
-         (C)   Bi-levels, tri-levels, and walkouts which have living areas in
-conformance with specifications in paragraphs (A) and (B) of this section shall
-be considered in compliance with this section, and shall not be required to
-construct a separate basement.
-      (14)   Section 705.3 Add: “All attached dwelling units not equipped with
-a fire sprinkler system installed in accordance with NFPA 13 shall be required
-to install masonry firewalls in common walls. Masonry firewalls shall extend
-from the lowest elevation to the peak of the roof.”
-      (15)   The provisions of Sections 508.9 and 705.3 of this be in effect
-for all building permits issued on or after adoptions date of this section.
+      (2)   Section 103.1 Title.
+         Amend by deleting the word and punctuation marks, "(Name of
+Department)" and in place thereof inserting the words "Building Department".
+      (3)   Section 105.2
+         Work exempt from building permit. Delete the following items from the
+building list:
+            1.   One-story detached accessory structures used as tool and
+storage sheds, playhouses and similar uses, provided that the floor area is not
+greater than 120 square feet (11 m2).
+            2.   Fences not over 7 feet (2134 mm) high.
+            3.   Oil derricks.
+            4.   Retaining walls that are not over 4 feet (1219 mm) in height
+measured from the bottom of the footing to the top of the wall, unless
+supporting a surcharge or impounding Class I, II or IIIA liquids.
+            5.   Water tanks supported directly on grade if the capacity is not
+greater than 5,000 gallons (18,925 L) and the ratio of height to diameter or
+width is not greater than 2:1.
+            6.   Sidewalks and driveways not more than 30 inches (762 mm) above
+adjacent grade, and not over any basement or story below and are not part of an
+accessible route.
+            7.   Temporary motion picture, television and theater stage sets
+and scenery.
+      (4)   Section 105.2.1 Emergency Repairs. Amend by adding a new sentence
+at the end of this subsection, to read as follows:
+         Where equipment replacements and repairs must be performed in an
+emergency situation, the permit application shall be submitted within the next
+working business day to the building official. An emergency situation shall
+include where a delay in the work leads to immediate danger to the occupants of
+the building or will result in significant damage to the property.
+      (5)   Section 107.2 Construction Documents. Amend this section to read as
+follows:
+         Construction documents shall be in accordance with Sections 107.2.1
+through 107.2.8. All Resubmittals shall be complete sets unless directed by the
+building official.
+      (6)   Section 107.6 Design Credentials. Add a new Section 107.6 Design
+Credentials, to read as follows:
+         A design professional shall prepare and submit construction documents
+for any commercial project in accordance with Illinois laws governing design
+professionals.
+      (7)   Section 109.2.1 Third Party Agency Costs. Add a new Section 109.2.1
+Third Party Agency Costs, to read as follows:
+         The building official is authorized to pass along the costs of any
+third party agencies used to evaluate, review, or inspect a project overseen by
+the Building Department. The implementation of these costs shall be established
+in policy in conjunction with the adopted fee schedule.
+      (8)   Section 113 Means of Appeal. Delete Section 113.3 and add new
+subsections to read as follows:
+         113,1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         Section 113.5 Board of appeals members. The board of appeals of the
+Village shall consist of the voting members of the village board. The building
+official shall be an ex officio member of said Board when it sits as the board
+of appeals but shall not vote on any matter before the board.
+         Section 113.6 Conflict of interest. A member with any personal,
+professional or financial interest in a matter before the board shall declare
+such interest and refrain from participating in discussions, deliberations and
+voting on such matters.
+         Section 113.7 Rules and procedures. The board shall establish policies
+and procedures necessary to carry out its duties consistent with the provisions
+of this code and applicable state law. The procedures shall not require
+compliance with strict rules of evidence, but shall mandate that only relevant
+information be presented.
+         Section 113.8 Board decision. The board shall only modify or reverse
+the decision of the building official by a concurring vote of majority of
+members.
+         Section 113.9 Resolution. The decision of the board shall be by
+resolution. Every decision shall be promptly filed in writing in the office of
+the building official within five (5) business days and shall be open to the
+public for inspection. A copy shall be furnished to the appellant or the
+appellant's representative and to the building official.
+         Section 113.10 Court review. Any person, whether or not a previous
+party of the appeal, shall have the right to apply to the appropriate court for
+a writ of certiorari to correct errors of law. Application for review shall be
+made in the manner and time required by law following the filing of the
+decision in the office of the chief administrative officer.
+      (9)   Section 114.4 Violation Penalties. Replace the section with the
+following:
+         Any person who violates a provision of this code or fails to comply
+with any of the requirements thereof or who erects, constructs, alters or
+repairs a building or structure in violation of the approved construction
+documents or directive of the building official, or of a permit or certificate
+issued under the provisions of this code, shall be subject to penalties as
+prescribed by law and subject to the fines established by the Village of
+Peotone.
+      (10)   Section 903.1.2 Sprinkler System Backflow Replacement. Add a new
+Section 903.1.2 Sprinkler System Backflow Replacement, to read as follows:
+         Whenever an existing fire sprinkler system's backflow prevention
+device is added or replaced with a different make, model, etc, the system shall
+be recalculated to ensure that the design density is satisfied. Should the
+design density be inadequate, the automatic sprinkler system shall be
+redesigned as needed to follow the required design density.
+         Additionally, systems that require reconfiguration of the riser
+assembly to accommodate the new backflow device shall also include a means to
+forward flush the fire sprinkler backflow device, if one is not already
+provided. That forward flush shall be of a type that does not require the
+system to be taken offline or disassembled to complete the testing.
+      (11)   Section 903.2 Where required. Delete the following subsections:
+         1.   903.2,1 Group A.
+         2.   903.2.1.1 Group A-1.
+         3.   903.2.1.2 Group A-2.
+         4.   903.2.1.3 Group A-3.
+         5.   903.2.1.4 Group A-4.
+         6.   903.2.1.5 Group A-5.
+         7.   903.2.1.5.1 Spaces under grandstand or bleachers.
+         8.   903.2.3 Group E.
+         9.   903.2.4 Group F-1.
+         10.   903.2.4.1 Woodworking operations.
+         11.   903.2.4.3 Group F-1 upholstered furniture or mattresses.
+         12.   903.2.7 Group M.
+         13.   903.2.9 Group S-1.
+         14.   903.2.9.1 Repair garages.
+         15.   903.2.92 Bulk storage of tires.
+         16.   903.2.9.4 Group S-1 upholstered furniture or mattresses.
+         17.   903.2.10 Group S-2 parking garages.
+         18.   903.2.10.1 Commercial parking garages.
+         Replace with the following section:
+         Section 903.2.1 Sprinkler New Construction. Group A-1, A-2, A-3, A-4,
+A- 5, B, E, F-1, F-2, M, S-1, S-2, and U shall be provided an automatic
+sprinkler system that meets 903.3.1.1 throughout buildings and portions thereof
+used as one of the use groups noted.
+         Exemption: Single story buildings that is less than five thousand
+square feet (5,000 sq. ft.) as defined by the total fire area. The building
+shall have no stories below grade or mezzanine. The structure shall also have a
+minimum separation distance of twenty feet (20'-0") from lot lines or other
+building(s) on the same lot.
+      (12)   Section 903.4.1 Monitoring. Revise the section to read as follows:
+         Alarm, supervisory and trouble signals shall be distinctly different
+and shall be automatically transmitted to the fire department dispatch center.
+         Exception: Backflow prevention device test valves located in limited
+area sprinkler system supply piping shall be locked in the open position. In
+occupancies required to be equipped with a fire alarm system, the backflow
+preventer valves shall be electrically supervised by a tamper switch installed
+in accordance with NFPA 72 and separately annunciated.
+      (13)   Section 903.4.2 Alarms. Replace the section with the following:
+         An approved audible and visual strobe with a red lens, located on the
+exterior of the building in an approved location, shall be connected to each
+automatic sprinkler system. Such sprinkler waterflow alarm devices shall be
+activated by water flow equivalent to the flow of a single sprinkler of the
+smallest orifice size installed in the system. Where a fire alarm system is
+installed, actuation of the automatic sprinkler system shall actuate the
+building fire alarm system.
+      (14)   Section 907.6.6.1 Transmission of alarm signals. Amend the section
+to read as follows:
+         907.6.6.1 Transmission of alarm signals. Transmission of alarm signals
+to a supervising station shall be in accordance with NFPA 72. When the fire
+alarm system is capable of reporting by point (device ID, type, location,
+description) the fire alarm monitoring equipment shall be equipped with the
+capability to transmit the by point (device ID, type, location, description)
+data.
+      (15)   Section 912.1.1 Fire Department Connection Style. Add a new
+Section 912.1.1 Fire Department Connection Style, to read as follows:
+         The fire department connection shall be a five inch (5") storz on a
+thirty degree angle (30°).
+      (16)   Section 912.6 Backflow Protection. Revise the section as follows:
+         The potable water supply to automatic sprinkler and standpipe systems
+shall be protected against backflow as required by the Illinois Plumbing Code.
+      (17)   Chapter 11 Accessibility. Delete this chapter in its entirety.
+Refer to the Illinois Accessibility Code.
+      (18)   Chapter 13 Energy Efficiency. Delete this chapter in its entirety.
+Refer to the Illinois Energy Conservation Code.
+      (19)   Section 1807.1.4 Permanent wood foundation systems. Delete this
+section in its entirety. Wood foundation systems are prohibited.
+      (20)   Chapter 29 Plumbing. Delete this chapter in its entirety. Refer to
+the Illinois Plumbing Code.
+         (21)   Adopt Appendix G Flood-Resistant Construction.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 07-15,
-passed 8-27-07; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
+passed 8-27-07; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19;
+Am. Ord. 25-14, passed 12-15-25)
 Editor’s note:
    The provisions of division (B)(13) and (14) of this section shall be in
 effect for all building permits issued on or after September 25, 2017.
-§ 150.113 2015 INTERNATIONAL RESIDENTIAL CODE.
+§ 150.113 2021 INTERNATIONAL RESIDENTIAL CODE.
    (A)   Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2015 International
-Residential Code, as prepared and published by the International Code Council,
-together with the additions, insertions, deletions and changes hereinafter set
-forth, three copies of which have been on file for a period of more than 30
-days prior to the adoption of this code and now are on file in the office of
-the Village Clerk.
+fully set out herein that certain code known as the 2021 International
+Residential Code for one- and two-family dwellings, as prepared and published
+by the International Code Council, together with the additions, insertions,
+deletions and changes hereinafter set forth, three copies of which have been on
+file for a period of more than 30 days prior to the adoption of this code and
+now are on file in the office of the Village Clerk.
    (B)   Amendments. The following additions, insertions, deletions and changes
-are hereby made to the 2015 International Residential Code.
+are hereby made to the 2021 International Residential Code.
       (1)   Section R101.1 Insert the Village of Peotone.
-      (2)   Section R105.2 Delete in its entirety.
-      (3)   Table R301.2(1) The following information shall be inserted into
-the table.
- 
-                      SUBJECT TO DAMAGE FROM                    Ice
-Ground Wind  Seismic             Frost                   Winter Shield-  Air      Mean
-Snow   Speed Design   Weathering Line  Termite  Decay    Design Under-   Freezing Annual
-Load         Category            Depth                   Temp   layment  Index    Temp
-
-                                       Moderate Slight
-25     115   B        Severe     42"   to heavy to       10ºF  Required 1700     50ºF
-                                                moderate
- 
-      (4)   Section R309 Add the following:
-         Garage gas curbs. A four (4) inch minimum height gas curb shall be
-provided at each wall common with the attached garage and residence. A
-foundation wall may be utilized as a gas curb only if four (4) inches of
-foundation exposed above the garage floor slab at each common wall.
-      (5)   Section R309.5 Fire sprinklers. Delete this section in its
-entirety.
-      (6)   Section R313 Automatic fire sprinkler systems. Delete this section
-in its entirety.
-      (7)   Section R401.1 Delete section and replace with the following:
-         The provisions of this chapter shall control the design and
-construction of the foundation and foundation spaces for buildings. In addition
-to the provisions of this chapter, the design and construction of foundations
-in flood hazard areas as established by Table R301.2 (1) shall meet the
-provisions of Section R322. All columns supported by concrete to be structural
-steel or approved material by the Building Official.
+      (2)   Section R103.1 Creation of enforcement agency. Replace the section
+with the following:
+         The Building Department is hereby created and the official in charge
+thereof shall be known as the building official. The function of the agency
+shall be the implementation, administration and enforcement of the provisions
+of this code.
+      (3)   Section R105.2 Work exempt from building permit. Delete the
+following items from the building list:
+         1.   One-story detached accessory structures used as tool and storage
+sheds, playhouses and similar uses, provided that the floor area is not greater
+than 200 square feet (18.58 m2).
+         2.   Fences not over 7 feet (2134 mm) high.
+         3.   Retaining walls that are not over 4 feet (1219 mm) in height
+measured from the bottom of the footing to the top of the wall, unless
+supporting a surcharge or impounding Class I, II or 11IA liquids.
+         4.   Water tanks supported directly on grade if the capacity is not
+greater than 5,000 gallons (18 925 L) and the ratio of height to diameter or
+width is not greater than 2:1.
+      (4)   Section R105.2.1 Emergency Repairs. Add a new sentence at the end
+of this subsection as follows:
+         Where equipment replacements and repairs must be performed in an
+emergency situation, the permit application shall be submitted within the next
+working business day to the building official. An emergency situation shall
+include where a delay in the work leads to immediate danger to the occupants of
+the building or will result in significant damage to the property.
+      (5)   Section R106 Construction Documents. Add a new subsection as
+follows:
+         R106.6 Design Credentials. Single Family Projects that are new
+construction or additions are required to be prepared by a design professional
+or under the direction of the building official. All Resubmittals shall be
+complete sets unless directed by the building official.
+      (6)   Section R108 Fees. Add a new subsection as follows:
+         R108.2.1 Third Party Agency Costs. The building official is authorized
+to pass along the costs of any third party agencies used to evaluate, review,
+or inspect a project overseen by the Building Department. The implementation of
+these costs shall be established in policy in conjunction with the adopted fee
+schedule.
+      (7)   Section R112 Board of Appeals. Delete Section 112.3 and add new
+subsections as follows:
+         112.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         R112.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         R112.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         R112.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         R112.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         R112.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         R112.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (8)   Section R113.4 Violation Penalties. Delete this subsection and
+replace with the following:
+         R113.4 Violation Penalties. Any person who violates a provision of
+this code or fails to comply with any of the requirements thereof or who
+erects, constructs, alters or repairs a building or structure in violation of
+the approved construction documents or directive of the building official, or
+of a permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+      (9)   Section 202 Definitions. Add the following definition:
+         Engineered Lumber shall be defined as group of lumber products that
+are structural members manufactured to serve as an alternative to nominal
+lumber, joists, or other traditional structural members. Examples include but
+are not limited to the following:
+         1.   Wood I-Joists.
+         2.   Trusses.
+         3.   Open Web Joists.
+         4.   Glulam.
+         5.   Laminated strand Lumber (LSL).
+         6.   Laminated veneer lumber (LVL).
+         7.   Parallel Strand lumber (PSL).
+      (10)   Section R301 Design Criteria. Add the following:
+         Ground Snow Load: 25
+         Wind Design Speed (mph): 115
+         Topographic Effects: No
+         Special Wind Region: No
+         Windborne Debris Zone: No
+         Seismic Design Category: A
+         Subject to Damage From:
+            Weathering: Severe
+            Frost Line Depth: 42 Inches
+            Termite: Moderate to Heavy
+            Ice Barrier Underlayment Required: Yes
+            Flood Hazards: See FEMA Map
+         Air Freezing Index: 2000
+         Mean Annual Temp: 50°F
+         Manual J Design Criteria
+         Elevation: 705 ft
+         Altitude Correction Factor: 1
+         Coincident Wet Bulb: 76°F
+         Indoor Winter Design Relative Humidity: 40
+         Indoor Winter Design Dry-Bulb Temperature: 70°F
+         Outdoor Winter Design Dry-Bulb Temperature: 2°F
+         Heating Temperature Difference: 72°F
+         Latitude: 38
+         Daily Range: M
+         Summer Design Gains: 37
+         Indoor Summer Design Relative Humidity: 50
+         Indoor Summer Dry-Bulb Temperature: 75°F
+         Outdoor Summary Design Dry-Bulb Temperature: 93°F
+         Cooling Temperature Difference: 18°F
+      (11)   Section R302.2.2 Common Walls. Remove this subsection and replace
+with the following:
+         R302.2.2 Common Walls. Common walls separating townhouse units shall
+be assigned a fire-resistance rating in accordance with the common wall shall
+be not less than a 2-hour fire-resistance-rated wall assembly tested in
+accordance with ASTM E119, UL 263 or Section 703.2.2 of the International
+Building Code and shall be rated for fire exposure from both sides. Common
+walls shall extend to and be tight against the exterior sheathing of the
+exterior walls, or the inside face of exterior walls without stud cavities, and
+the underside of the roof sheathing. The common wall shared by two townhouse
+units shall be constructed without plumbing or mechanical equipment, ducts or
+vents, other than water-filled fire sprinkler piping in the cavity of the
+common wall. Electrical installations shall be in accordance with Chapters 34
+through 43. Penetrations of the membrane of common walls for electrical outlet
+boxes shall be in accordance with Section R302.4.
+         Exception:   Common walls are permitted to extend to and be tight
+against the inside of the exterior walls if the cavity between the end of the
+common wall and the exterior sheathing is filled with a minimum of two 2-inch
+nominal thickness wood studs.
+      (12)   Section R313 Automatic Fire Sprinkler Systems. Delete and replace
+with the following:
+            R313.1 Dwelling Unit automatic sprinkler systems. An automatic
+sprinkler system shall be installed in dwelling units which contain a fire area
+that meets or exceeds five thousand and five hundred square feet (5,500 sq.
+ft.).
+         Exception:   Exception: An automatic sprinkler system shall not be
+required for additions or alterations to existing buildings that are not
+already provided with a sprinkler system.
+         R313.1.1 Design and installation. Automatic sprinkler systems shall be
+designed and installed in accordance with Section P2904 or NFPA 13D.
+      (13)   Section R314.2.2 Alterations, repairs and additions. Replace
+Exemption #1 with the following:
+         Work involving the exterior surfaces of dwellings, such as the
+replacement of roofing or siding, the addition or replacement of windows or
+doors, or the addition of a porch or deck. Exterior work that includes
+electrical is not included in this exemption.
+      (14)   Section R315.2.2. Alternations, repairs and additions. Replace
+Exemption 31 with the following:
+         Work involving the exterior surfaces of dwellings, such as the
+replacement of roofing or siding, the addition or replacement of windows or
+doors, or the addition of a porch or deck. Exterior work that includes
+electrical is not included in this exemption.
+      (15)   Section R328.8 Protection from impact. Delete the subsection and
+replace with the following:
+         R328.8 Protection from impact. Energy Storage Systems installed in a
+location subject to vehicle damage. Common locations that require impact
+protection include:
+         1.   The normal travel path of the vehicle will be less than eighteen
+inches (18") from the front of the equipment.
+         The equipment is located within three feet (3'-0") of the front/rear
+of normal travel path of the vehicle.
+      (16)   Section R328.8.1. Protection from impact. Add the following
+subsection:
+         R328.8.1 Impact protection design. The impact protection barriers
+shall be built to International Fire Code Section 312 Vehicle Impact
+Protection, or a design approved by the building official.
+      (17)   Section R401.4.1 Geotechnical evaluation. Add the following
+sentence:
+         Unless evidence in the form of an evaluation is provided the design
+values shall be fifteen hundred pounds per square foot (1,500 lbs/sg. ft.).
+      (18)   Section R402.1 Wood Foundation. Delete this subsection.
+      (19)   Section R403.2 Footings for Wood Foundations. Delete this
+subsection.
+      (20)   Section R404.2 Wood Foundation Walls. Delete this subsection.
+      (21)   Section R404.4 Retaining Walls. Add the following subsection:
+         R404.4.1 Retaining Walls Design. Retaining walls greater than twenty-
+four inches (24") in height shall be designed by an Illinois licensed design
+professional.
+      (22)   Section 406.3 Damp-proofing for wood foundations. Delete this
+subsection.
+      (23)   Section 602 Wood Wall Framing. Add the following subsection:
+         R602.13 Detached Garage Bracing. Detached Garages can conform to this
+section, the requirements of R602.10 Wall Bracing, or R602.12 Simplified Wall
+Bracing. This section is derived from those sections utilizing a one story
+structure with a design speed of 115 mph. The detached garage shall conform to
+the following requirements:
+         1.   Max size thirty feet in any direction.
+         2.   Roof eave-to-ridge height 10 feet max.
+         3.   Story Height 10 feet max.
+         4.   Continuously sheathed in 3/8" wood structural panel.
+         5.   No openings within 24" of the corners.
+         6.   No pony walls.
+         7.   Blocking shall be provided where the sheathing edge does not
+match where a stud is provided.
+         8.   1,000 pound tension straps shall be utilized.
+         9.   Garage door portal frame shall have the following features (see
+figure R602.10.6.3).
+            a.   30" minimum panels on either side.
+            b.   Panels are double studs on either end of panel.
+            c.   Sheathing shall be fastened to header with 8D common nails in
+3" grid.
+            d.   Header shall be a minimum of 3" x 11-1/4".
+            e.   Top plat shall be fastened to header with two rows of 16D
+nails at 3" on center.
+            f.   Panel shall have 8D common box nails at 3" on center in all
+framing (studs, blocking, and sills).
+      (24)   Part IV Energy Conservation. Delete this Section which contains
+Chapter 11. Refer to the Illinois Energy Conservation Code.
+      (25)   Part VII Plumbing. Delete this Section which contains Chapters 25
+- 33. Refer to the Illinois Plumbing Code.
+      (26)   Part VIII Electrical. Delete this Section which contains Chapters
+34 - 43. Refer to the National Electrical Code as Adopted by the Village of
+Peotone.
+      (27)   Adopt the following appendixes:
+         Appendix AF Radon Control Methods.
+         Appendix AJ Existing Buildings and Structures.
+         Appendix AK Sound Transmission.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 06-18,
 passed 12-26-06; Am. Ord. 07-15, passed 8-27-07; Am. Ord. 09-06, passed 4-27-
-09; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.114 2015 INTERNATIONAL MECHANICAL CODE.
+09; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-
+14, passed 12-15-25)
+§ 150.114 2021 INTERNATIONAL MECHANICAL CODE.
    (A)   Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2015 International
-Mechanical Code and 2015 International Fuel Gas Code, prepared and published by
-the International Code Council, together with the additions, insertions,
-deletions and changes hereinafter set forth, three copies of each of which have
-been on the for a period of more than 30 days prior to the adoption of these
-codes and now are on file in the office of the Village Clerk.
+fully set out herein that certain code known as the 2021 International
+Mechanical Code, prepared and published by the International Code Council,
+together with the additions, insertions, deletions and changes hereinafter set
+forth, three copies of each of which have been on file for a period of more
+than 30 days prior to the adoption of this code and now are on file in the
+office of the Village Clerk.
    (B)   Amendments. The following additions, insertions, deletions and changes
-are hereby made to the International Mechanical Code.
+are hereby made to the 2021 International Mechanical Code.
       (1)   Section 101.1 Insert “Village of Peotone, Will County, Illinois”.
-      (2)   Section 106.5.2 Delete the entire section and see the Village of
-Peotone Fee Schedule.
-      (3)   Section 108.4 The fines shall be established by the Village of
-Peotone Fee Schedule.
-      (4)   Section 603.5 Nonmetallic ducts. Delete Fibrous Glass Duct
-Construction.
-      (5)   Section 603.5.1 Gypsum ducts. Delete entirely.
-      (6)   Section 603.6.1.1 Duct length is hereby amended by the addition of
-the following:
-         Flexible air ducts shall be limited to six feet (6') in length.
-      (7)   Section 603.6.2.1 Connector length is hereby amended by the
-addition of the following:
-         Flexible air connectors shall be limited to six feet (6') in length.
+      (2)   Section 103.1 Insert "Building Department" for "(Name of
+Department]".
+      (3)   Section 106.1 Where Required. Add a new sentence at the end of this
+subsection's exemption so it reads as follows:
+         Where equipment and appliance replacements or repairs must be
+performed in an emergency situation, the permit application shall be submitted
+within the next working business day of the department of mechanical
+inspection. An emergency situation shall include where a delay in the work
+leads to immediate danger to the occupants of the building or will result in
+significant damage to the property.
+      (4)   Section 107 Construction Documents. Add the following subsections:
+         107.1.1 Resubmittal Documents. All Resubmittals shall be complete sets
+unless directed by the building official.
+         107.1.2 Design Credentials. A Design Professional shall prepare and
+submit construction documents for any commercial project in accordance with the
+Illinois Design Professionals Act.
+         107.1.3 Hood & Duct Submittals. Construction documents that contain
+hood and duct systems per Section 506 & 507 shall provide the location, layout,
+type, make, model, and any relevant information at time of submittal.
+      (5)   Section 109.2.1 Third Party Agency Costs. The building official is
+authorized to pass along the costs of any third party agencies used to
+evaluate, review, or inspect a project overseen by the Building Department. The
+implementation of these costs shall be established in policy in conjunction
+with the adopted fee schedule.
+      (6)   Section 113 Means of Appeals. Delete subsection 113.3 and add the
+following subsections:
+         113.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         113.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         113.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         113.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         113.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         113.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         113.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (7)   Section 114.1 Board of appeals. Delete the section.
+      (8)   Section 115.4 Violation Penalties. Delete the subsection and
+replace with the following:
+         115.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+      (9)   Section 507 Commercial Kitchen Hoods. Add the following subsection:
+         507.3.4 Low Volume Commercial Kitchen Appliances. Commercial buildings
+that contain a kitchen range outside of a dwelling unit that is not subject to
+another provision of this code and are utilized infrequently or in low duration
+(these include commercial office break rooms, religious institution's kitchens
+that only serve staff, and similar locales) are subject to the following
+requirements:
+         1.   They shall have a Type II hood installed over the range as
+outlined in IMG 507.3.4.
+         2.   A hood suppression system shall be installed that conforms to
+International Building Code and International Fire Code Section 904 Alternative
+Automatic Fire-Extinguishing Systems.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 09-06,
-passed 4-27-09; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.115 2015 INTERNATIONAL FIRE CODE.
+passed 4-27-09; Am. Ord. 17-15, passed 9-25-17; Am. Ord. 19-36, passed 9-9-19;
+Am. Ord. 25-14, passed 12-15-25)
+§ 150.115 2021 INTERNATIONAL FIRE CODE.
    (A)   Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2015 International Fire
+fully set out herein that certain code known as the 2021 International Fire
 Code, prepared and published by the International Code Council, together with
 the additions, insertions, deletions and changes hereinafter set forth, three
 copies of which have been on file for a period of more than 30 days prior to
 the adoption of this code and now are on file in the office of the Village
 Clerk.
    (B)   Amendments. The following additions, insertions and changes are hereby
-made to the 2015 International Fire Code.
-      (1)   Section 101.1 Any reference in the code to the “authority having
-jurisdiction” shall mean the Village of Peotone.
-      (2)   Delete from 2015 NFPA Life Safety No. 101 Codes.
-         (a)   24.3.5* Extinguishment requirements.
-         (b)   24.3.5.1 All new one- and two-family dwellings shall be
-protected throughout by an approved automatic sprinkler system in accordance
-with 24.3.5.2.
+made to the 2021 International Fire Code.
+      (1)   Section 101.1 Insert "Village of Peotone" for "[Name of
+Jurisdiction]".
+      (2)   Section 103.1 Insert "Building Department" for ‘‘[Name of
+Department]".
+      (3)   Section 105.1.4 Emergency Repairs. Add a new sentence to the end of
+this subsection to read as follows:
+         Where equipment replacements and repairs must be performed in an
+emergency situation, the permit application shall be submitted within the next
+working business day to the fire code official. An emergency situation shall
+include where a delay in the work leads to immediate danger to the occupants of
+the building or will result in significant damage to the property.
+      (4)   Section 106.1 Submittals. Add a new sentence to the end of this
+subsection to read as follows:
+         All Resubmittals shall be complete sets unless directed by the
+building official.
+      (5)   Section 106.1.1. Design credentials. Add a new subsection 106.1.1
+to read as follows:
+         106.1.1 Design Credentials. A design professional shall prepare and
+submit construction documents for any commercial project in accordance with
+Illinois laws governing design professionals.
+      (6)   Section 111 Means of Appeals. Delete subsection 111.3 and add the
+following subsections:
+         111.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         111.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         111.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         111.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         111.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         111.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         111.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (7)   Section 112.4 Violation Penalties. Delete the subsection and
+replace with the following:
+         112.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+      (8)   Section 202 General Definitions. Add the following definitions:
+         BATTERY TYPES. For the purposes of this code, certain types are
+defined as follows.
+         FLOW BATTERY. A type of storage battery that includes chemical
+components dissolved in two different liquids. Ion exchange, which provides the
+flow of electrical current, occurs through the membrane while both liquids
+circulate in their respective spaces.
+         LEAD-ACID BATTERY. A storage battery that is comprised of lead
+electrodes immersed in a solution of water and sulfuric acid electrolyte.
+         LITHIUM METAL POLYMER BATTERY. A storage battery that is similar to
+the lithium-ion battery except that it has a lithium metal anode in the place
+of the traditional carbon or graphite anode.
+         LITHIUM-ION BATTERY. A storage battery with lithium ions serving as
+the charge carriers of the battery. The electrolyte is a polymer mixture of
+carbonates with an inorganic salt and can be in a liquid or a gelled polymer
+form. Lithiated metal oxide is typically a cathode and forms of carbon or
+graphite typically form the anode.
+         NICKEL-CADMIUM (Ni-Cd) BATTERY. An alkaline storage battery in which
+the positive active material is nickel oxide, the negative electrode contains
+cadmium and the electrolyte is a solution of water and potassium hydroxide.
+         NICKEL-METAL HYBRIDE (Ni-MH). An alkaline storage battery in which the
+positive active material is nickel oxide, the negative electrode is an
+intermetallic compound and the electrolyte is usually potassium hydroxide.
+         STATIONARY STORAGE BATTERY. A group of electrochemical cells
+interconnected to supply a nominal voltage of DC power to a suitably connected
+electrical load, designed for service in a permanent location.
+      (9)   Section 307 Open Burning, Recreational Fires and Portable Outdoor
+Fireplaces. Add the following subsection:
+         307.4.2.1 Outdoor Decorative Appliances. Outdoor decorative appliances
+are defined per the International Fuel Gas Code (IFGC) and are recreational
+fires that utilize no solid burning fuel. They utilize a burner supplied by
+propane, natural gas, etc. Unless the manufacturer's listing states otherwise,
+such appliances shall not be operated within fifteen feet (15'-0") of a
+structure or combustible material.
+      (10)   Section 322 Lithium-Ion and Lithium Metal Battery Storage. Add the
+following sections:
+         322.1 General. The storage of lithium-ion and lithium metal batteries
+shall comply with Section 322.
+            Exceptions:
+            1.   New or refurbished batteries installed in the equipment,
+devices or vehicles they are designed to power.
+            2.   New or refurbished batteries packed for use with the
+equipment, devices or vehicles they are designed to power.
+            3.   Batteries in original retail packaging that are rated at not
+more than 300 watt-hours for lithium-ion batteries or contain not more than 25
+grams of lithium metal for lithium metal batteries.
+            4.   Temporary storage of batteries or battery components during
+the battery manufacturing process prior to completion of final quality control
+checks.
+            5.   Temporary storage of batteries during the vehicle
+manufacturing or repair process.
+         322.2 Permits. Permits shall be required for an accumulation of more
+than 15 cubic feet (0.42 m3) of lithium-ion and lithium metal batteries, other
+than batteries listed in the exceptions to Section 321,1, as set forth in
+Section 105.5.28.
+         322.3 Fire safety plan. A fire safety plan shall be provided in
+accordance with Section 404. In addition, the fire safety plan shall include
+emergency response actions to be taken upon detection of a fire or possible
+fire involving lithium-ion or lithium metal battery storage.
+         322.4 Storage requirements. Lithium-ion and lithium metal batteries
+shall be stored in accordance with Section 322.4.1, 322.4.2 or 322.4.3, as
+applicable.
+         322.4.1 Limited indoor storage in containers. Not more than 15 cubic
+feet (0.42 m3) of lithium-ion or lithium metal batteries shall be permitted to
+be stored in containers in accordance with all of the following:
+            1.   Containers shall be open top and constructed of noncombustible
+materials or shall be approved for battery collection.
+            2.   Individual containers and groups of containers shall not
+exceed a capacity of 7.5 cubic feet (0.21 m3).
+            3.   A second container or group of containers shall be separated
+by not less than 3 feet (914 mm) of open space or 10 feet (3048 mm) of space
+that contains combustible materials.
+            4.   Containers shall be located not less than 5 feet (1524 mm)
+from exits or exit access doors.
+         322.4.2 Indoor storage areas. Indoor storage areas for lithium-ion and
+lithium metal batteries, other than those complying with Section 322.4.1, shall
+comply with Sections 322.4.2.1 through 322.4.2.6.
+         322.4.2.1 Technical opinion and report. A technical opinion and report
+complying with Section 104.2.2 shall be prepared to evaluate the fire and
+explosion risks associated with the indoor storage area and to make
+recommendations for fire and explosion protection. The report shall be
+submitted to the fire code official and shall require the fire code official's
+approval prior to issuance of a permit. In addition to the requirements of
+Section 104.2.2, the technical opinion and report shall specifically evaluate
+the following:
+            1.   The potential for deflagration of flammable gases released
+during a thermal runaway event.
+            2.   The basis of design for an automatic sprinkler system or other
+approved fire suppression system. Such design basis shall reference relevant
+full-scale fire testing or another approved method of demonstrating sufficiency
+of the recommended design.
+         Section 322.4.2.2 Construction requirements. Where indoor storage
+areas for lithium-ion and lithium metal batteries are located in a building
+with other uses, battery storage areas shall be separated from the remainder of
+the building by 2-hour rated fire barriers or horizontal assemblies. Fire
+barriers shall be constructed in accordance with Section 707 of the
+International Building Code, and horizontal assemblies shall be constructed in
+accordance with Section 711 of the International Building Code.
+         Exceptions:
+            1.   Where battery storage is contained in one or more approved
+prefabricated portable structures providing a complete 2-hour fireresistance-
+rated enclosure, fire barriers and horizontal assemblies are not required.
+            2.   Where battery storage is limited to new batteries in packaging
+that has been demonstrated to and approved by the fire code official as
+sufficient to isolate a fire in packaging to the package interior, fire
+barriers and horizontal assemblies are not required.
+         Section 322.4.2.3 Fire protection systems. Indoor storage areas for
+lithium-ion and lithium metal batteries shall be protected by an automatic
+sprinkler system complying with Section 903.3.1.1 or an approved alternative
+fire suppression system. The system design shall be based on recommendations in
+the approved technical opinion and report required by Section 322.4.2.1.
+         322.4.2.4 Fire alarm systems. Indoor storage areas for lithium-ion and
+lithium metal batteries shall be provided with an approved automatic fire
+detection and alarm system complying with Section 907, The fire detection
+system shall use air-aspirating smoke detection, radiant energy-sensing fire
+detection or both.
+         322.4.2.5 Explosion control. Where the approved technical opinion and
+report required by Section 322.4.2.1 recommends explosion control, explosion
+control complying with Section 911 shall be provided.
+         322.4.2.6 Reduced requirements for storage of partially charged
+batteries. Indoor storage areas for lithium-ion and lithium metal batteries
+with a demonstrated state of charge not exceeding 30 percent shall not be
+required to comply with Sections 322.4.2.1, 322.4.2.2 and 322.4.2.5, provided
+that procedures for limiting and verifying that the state of charge will not
+exceed 30 percent have been approved.
+         322.4.3 Outdoor storage. Outdoor storage of lithium-ion or lithium
+metal batteries shall comply with Sections 322.4.3.1 through 322.4.3.3.
+         322.4.3.1 Distance from storage to exposures. Outdoor storage of
+lithium-ion or lithium metal batteries, including storage beneath weather
+protection in accordance with Section 414.6.1 of the International Building
+Code, shall comply with one of the following:
+            1.   Battery storage shall be located not less than 20 feet (6096
+mm) from any building, lot line, public street, public alley, public way or
+means of egress.
+            2.   Battery storage shall be located not less than 3 feet (914 mm)
+from any building, lot line, public street, public alley, public way or means
+of egress, where the battery storage is separated by a 2-hour fire-resistance-
+rated assembly without openings or penetrations and extending 5 feet (1524 mm)
+above and to the sides of the battery storage area.
+            3.   Battery storage shall be located not less than 3 feet (914 mm)
+from any building, lot line, public street, public alley, public way or means
+of egress, where batteries are contained in approved, prefabricated portable
+structures providing a complete 2-hour fire-resistance-rated enclosure.
+         322.4.3.2 Storage area size limits and separation. Outdoor storage
+areas for lithium-ion or lithium metal batteries, including storage beneath
+weather protection in accordance with Section 414.6.1 of the International
+Building Code, shall not exceed 900 square feet (83.6 m2). The height of
+battery storage in such areas shall not exceed 10 feet (3048 mm). Multiple
+battery storage areas shall be separated from each other by not less than 10
+feet (3048 mm) of open space.
+         322.4.3.3 Fire detection. Outdoor storage areas for lithium-ion or
+lithium metal batteries, regardless of whether such areas are open, under
+weather protection or in a prefabricated portable structure, shall be provided
+with an approved automatic fire detection and alarm system complying with
+Section 907. The fire detection system shall use radiant energy-sensing fire
+detection.
+      (11)   Section 403 Emergency Preparedness Requirements. Add the following
+subsections:
+         403.10.6 Lithium-ion and lithium metal batteries. An approved fire
+safety and evacuation plan in accordance with Section 404 shall be prepared and
+maintained for occupancies that involve activities for the research and
+development, testing, manufacturing, handling or storage of lithium-ion
+batteries or lithium metal batteries, or the repair or servicing of vehicles
+powered by lithium-ion batteries or lithium metal batteries.
+            Exceptions: A fire safety and evacuation plan is not required for
+the storage or merchandizing of any of the following:
+            1.   New or refurbished batteries installed for use in the
+equipment or vehicles they are designed to power.
+            2.   New or refurbished batteries packed for use with the equipment
+or vehicles they are designed to power for merchandising purposes.
+            3.   New or refurbished lithium-ion batteries rated at not more
+than 300 watt-hours and lithium metal batteries containing not more than 25
+grams of lithium metal in their original retail packaging.
+            4.   The storage, repair and charging activities in detached one-
+and two-family dwellings and townhouses, provided that such devices are for
+personal use.
+            5.   The storage, repair and charging activities associated with
+personal use in sleeping units and dwelling units of Group R-1 and R-
+2 occupancies.
+         403.10.6.1 Mitigation planning. The approved fire safety and
+evacuation plan shall include thermal runaway event mitigation measures. These
+measures shall include activities undertaken to prevent thermal runaway, early
+detection of a thermal runaway event and mitigation measures to be undertaken
+to limit the size and impact of the event on occupants and the facility.
+      (12)   Section 503.1.1 Buildings and Facilities. Add the following
+subsection:
+         503.1.1.1 Limited Site Access Allowance. When the fire apparatus
+access road cannot meet the requirements set forth in this section due to
+technical infeasibility of the site the fire official may approve the use of a
+standpipe system (Class I) as an alternative means for the portion of the
+access road the fire official deems technically infeasible. The feasible
+portion(s) shall be installed.
+      (13)   Section 503.2.4 Turning radius. Revise this subsection as follows:
+         The required turning radius of a fire apparatus access road shall be
+forty- five feet (45') and have a drive width of twenty-seven feet (27') unless
+directed otherwise by the fire code official.
+      (14)   Section 506.3 Key Requirements. Add the following subsections:
+         506.3.1 Identification. Each key shall be identified in an approved
+manner for quick use in case of an emergency.
+         506.3.2 Master Key. Where possible, a single master key shall be
+provided.
+      (15)   Section 507.3 Fire Flow. Add the following subsections:
+         507.3.1 Fire Flow Method. The approved fire flow method shall be
+determined by utilizing IFC Appendix B Fire-Flow Requirements for Buildings.
+         507.3.2 Fire Flow Design for Combined Fire Sprinkler and Fire Hydrant
+System. This section shall apply to sites and facilities that utilize on-site
+water storage that feeds both the fire sprinkler system and the fire hydrants,
+when the fire hydrants are fed from the sprinkler system, or when the fire
+hydrants and fire sprinkler system utilize a common water service to the water
+purveyor's system.
+         A submittal to the fire official of the available site fire flow when
+the fire sprinkler system is fully operational. If the fire flow available is
+less than as required per IFC 507.3.1 than arrangements shall be made to
+provide the minimum flow or at a rate determined by the fire official.
+Otherwise, the fire official shall evaluate the departments standard operating
+procedures and building size up to determine if the fire flow available is to
+be considered sufficient.
+      (16)   Section 510 Emergency Responder Communication Coverage, Add the
+following subsection:
+         510.1.1 Emergency Responder Communication Coverage System Evaluation.
+New Education (E), Institutional (I), or High Hazard (H) Occupancy, any
+building(s) that is of four stories or more, any building(s) that is two (2) or
+more stories below grade, any building(s) that have a footprint of two hundred
+and fifty thousand square feet (250,000 sq, ft.) shall provide an evaluation
+from the designer on whether the building shall require an Emergency Responder
+Communication Coverage (ERCC) system. The evaluation shall provide information
+on the feasibility of the site and if an ERCC system is necessary. The results
+of said evaluation should be reflected in the primary construction documents.
+      (17)   Section 903 Automatic Sprinkler Systems. Make the following
+additions and revisions:
+         Add a new subsection 903.1.2, to read as follows:
+         903.1.2 Sprinkler System Backflow Replacement. Whenever an existing
+fire sprinkler system's backflow prevention device is added or replaced with a
+different make, model, etc., the system shall be recalculated to ensure that
+the design density is satisfied. Should the design density be inadequate, the
+automatic sprinkler system shall be redesigned as needed to be in compliance
+with the required design density. Additionally, systems that require
+reconfiguration of the riser assembly to accommodate the new backflow device
+shall also include a means to forward flush the fire sprinkler backflow device,
+if one is not already provided. That forward flush shall be of a type that does
+not require the system to be taken offline or disassembled to complete the
+testing.
+         Revise section 903.2 as follows:
+         Delete the following subsections:
+         1.   903.2.1 Group A.
+         2.   903.2.1.1 Group A-1.
+         3.   903.2.1.2 Group A-2.
+         4.   903.2.1.3 Group A-3.
+         5.   903.2.1.4 Group A-4.
+         6.   903.2.1.5 Group A-5.
+         7.   903.2.1.5.1 Spaces under grandstand or bleachers.
+         8.   903.2.3 Group E.
+         9.   903.2.4 Group F-1.
+         10.   903.2.4.1 Woodworking operations.
+         11.   903.2.4.3 Group F-1 upholstered furniture or mattresses.
+         12.   903.2.7 Group M.
+         13.   903.2.9 Group S-1.
+         14.   903.2.9.1 Repair garages.
+         15.   903.2.9.2 Bulk storage of tires.
+         16.   903.2.9.4 Group S-1 Upholstered furniture and mattresses.
+         17.   903.2.10 Group S-2 parking garages.
+         18.   903.2.10.1 Commercial parking garages.
+         Replace with the following:
+         903.2.1 Sprinkler New Construction. Group A-1, A-2, A-3, A-4, A-5, B,
+E, F-1, F-2, M, S-1, S-2, and U shall be provided an automatic sprinkler system
+that meets 903.3.1.1 throughout buildings and portions thereof used as one of
+the use groups noted.
+         Exemption: Single story buildings that are less than five thousand
+square feet (5,000 sq. ft.) as defined by the total fire area. The building
+shall have no stories below grade or mezzanine. The structure shall also have a
+minimum separation distance of twenty feet (20'-0") from lot lines or other
+building(s) on the same lot.
+      (18)   Section 903.4.1 Monitoring. Revise this subsection as follows:
+         903.4.1 Monitoring. Alarm, supervisory and trouble signals shall be
+distinctly different and shall be automatically transmitted to the fire
+department dispatch center.
+         Exception: Backflow prevention device test valves located in limited
+area sprinkler system supply piping shall be locked in the open position. In
+occupancies required to be equipped with a fire alarm system, the backflow
+preventer valves shall be electrically supervised by a tamper switch installed
+in accordance with NFPA 72 and separately annunciated.
+      (19)   Section 903.4.2 Alarms. Revise this subsection as follows:
+         903.4.2 Alarms. An approved audible and visual strobe with a red lens,
+located on the exterior of the building in an approved location, shall be
+connected to each automatic sprinkler system. Such sprinkler waterflow alarm
+devices shall be activated by water flow equivalent to the flow of a single
+sprinkler of the smallest orifice size installed in the system. Where a fire
+alarm system is installed, actuation of the automatic sprinkler system shall
+actuate the building fire alarm system.
+      (20)   Section 907.6.6.1 Transmission of alarm signals. Revise this
+subsection as follows:
+         907.6.6.1 Transmission of alarm signals. Transmission of alarm signals
+to a supervising station shall be in accordance with NFPA 72. When the fire
+alarm system is capable of reporting by point (device ID, type, location,
+description) the fire alarm monitoring equipment shall be equipped with the
+capability to transmit the by point (device ID, type, location, description)
+data.
+      (21)   Section 912 Fire Department Connection. Make the following
+additions and revisions:
+         Add a new subsection 912.1.1, to read as follows:
+         912.1.1 Fire Department Connection Style. The fire department
+connection shall be a five inch (5") storz on a thirty degree angle (30°).
+         Revise Section 912.6 as follows:
+         912.6 Backflow Protection. The potable water supply to automatic
+sprinkler and standpipe systems shall be protected against backflow as required
+by the Illinois Plumbing Code.
+      (22)   Section 1107 Energy Storage Systems. Add the following
+subsections:
+         1107.1 Lithium-ion technology energy storage systems. The owner of an
+energy storage system (ESS) utilizing lithium-ion battery technology having
+capacities exceeding the values in Table 1207.1.3 and installed prior to the
+jurisdiction's adoption of the 2018 or later edition of the International Fire
+Code shall provide the fire code official a failure modes and effects analysis
+(FMEA) or other approved hazard mitigation analysis in accordance with Section
+104.2.2 for review and approval.
+         Exception:   Detached one-family and two-family dwellings and
+townhouses.
+         1107.1.1 Early detection. In addition to the requirements of Sections
+1207.1.8.1 and 1207.1.8.2, the analysis shall include an assessment of the
+ability of the installed protection systems to provide for early detection and
+notification of a thermal runaway event in relation to the ability of emergency
+responders to safely mitigate the size and impact of a thermal runaway event.
+         1107.1.2 Corrective action plan. Where hazards are identified by the
+analysis, a plan that includes a timetable for corrective action shall be
+submitted to the fire code official for review and approval. The plan shall
+include actions and system improvements necessary for eliminating or mitigating
+any identified hazards, including listed methods for early detection and
+notification of a thermal runaway event.
+      (23)   Section 1201.1 Scope. Delete this subsection and replace with the
+following:
+         1201.1 Scope. The provisions of this chapter shall apply to the
+installation, operation, maintenance, repair, retrofitting, testing,
+commissioning and decommissioning of energy systems used for generating or
+storing energy, including but not limited to energy storage systems under the
+exclusive control of an electric utility or lawfully designated agency. It
+shall not apply to equipment associated with the generation, control,
+transformation, transmission, or distribution of energy installations that is
+under the exclusive control of an electric utility or lawfully designated
+agency. Energy storage systems regulated by Section 1207 shall comply with this
+chapter, as appropriate, and NFPA 855.
+      (24)   Chapter 80 Referenced Standards. NFPA - Add the following
+standard:
+         855-23 Standard for the Installation of Stationary Energy Storage
+Systems.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.116 2015 INTERNATIONAL PROPERTY MAINTENANCE CODE.
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-14, passed 12-15-25)
+§ 150.116 2021 INTERNATIONAL PROPERTY MAINTENANCE CODE.
    (A)   Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2015 International Property
+fully set out herein that certain code known as the 2021 International Property
 Maintenance Code, published by the International Code Council. together with
 the additions, insertions, deletions and changed hereinafter set forth, three
 copies of which have been on file for a period of more than 30 days prior to
 the adoption of this chapter and now are on file in the office of the Village
 Clerk.
-   (B)   Amendments. The following sections of the 2015 International Property
+   (B)   Amendments. The following sections of the 2021 International Property
 Maintenance Code are hereby amended.
       (1)   Section 101.1 Insert “Village of Peotone, Will County, Illinois”.
-      (2)   Section 112.4 Insert “$250.00” and “$750.00”.
-      (3)   Section 302.10 is added to read as follows:
-         Section 302.10 Landscaping.
-            (A)   Duty to prune. Trees, bushes or other shrubbery on private
-property adjacent to a street right-of-way shall be pruned in such a manner
-that it will not obstruct or shade the streetlights, obstruct the passage of
-pedestrians on sidewalks or vehicles in the street, obstruct the ability to see
-traffic signs, obstruct the view of any intersection or create a public safety
-hazard.
-            (B)   Turf maintenance. Areas where grass turf has been established
-shall be maintained without bare areas of soil or ruts caused by pedestrian or
-vehicle use.
-      (4)   Section 302.11 is added to read as follows:
-         Section 302.11 Trees on commercial properties. Trees on commercial
-properties are the responsibility of the property owner and shall be maintained
-in a healthy condition. Trees on commercial properties are subject to all
-zoning regulations and any applicable development agreements with the Village
-of Peotone.
-      (5)    Section 302.4 Insert “6"”
-      (6)   Section 304.14 Insert dates “May 1” to “October 1”.
-      (7)   Section 602.3 Insert dates “October 1” and “May 1”.
-      (8)   Section 602.4 Insert dates “October 1” and “May 1”.
-      (9)   Chapter 5 Delete the International Plumbing Code and insert the
-Illinois Plumbing Code (77 Illinois Administration Code 890) published by the
-Illinois Department of Health.
+      (2)   Section 103.1 Title. Insert "Building Department" for "[Name of
+Department]"
+      (3)   Section 107 Means of Appeal. Delete subsection 107.3 and add the
+following new subsections as follows:
+         107.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         107.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         107.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         107.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         107.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         107.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         107.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (4)   Section 108 Board of appeals. Delete this section.
+      (5)   Section 109.4 Violation Penalties. Delete the subsection and
+replace with the following:
+         107.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+      (6)   Section 302.4 Weeds. Insert ‘‘8 (eight) inches'' for "[Jurisdiction
+to insert height in inches]".
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 21-16, passed 6-28-21)
-§ 150.117 2015 ICC ELECTRIC CODE ADMINISTRATIVE PROVISIONS/ 2014 NFPA 70
-NATIONAL ELECTRIC CODE.
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 21-16, passed 6-28-21;
+Am. Ord. 25-14, passed 12-15-25)
+§ 150.117 2020 NFPA 70 NATIONAL ELECTRIC CODE.
    (A)   Adoption by reference. There is hereby adopted by reference as if
-fully set out herein that certain code known as the 2014 National Electrical
-Code (NEC), prepared and published by the National Fire Protection Association
-and approved by the American National Standards Institute, together with the
-additions, insertions, deletions and changes hereinafter set forth, three
-copies of which have been on file for a period of more than 30 days prior to
-the adoption of this code and now are on file in the office of the Village
+fully set out herein that certain code known as the 2020 National Electrical
+Code (NFPA 70), prepared and published by the National Fire Protection
+Association and approved by the American National Standards Institute, together
+with the additions, insertions, deletions and changes hereinafter set forth,
+three copies of which have been on file for a period of more than 30 days prior
+to the adoption of this code and now are on file in the office of the Village
 Clerk.
    (B)   Amendments. The following additions, insertions, deletions and changes
-are hereby made to the National Electrical Code.
+are hereby made to the 2020 National Electrical Code.
       (1)   Any reference in the code to the “authority having jurisdiction”
 shall mean the Village of Peotone.
-      (2)   Section 210-8(A)(5) Unfinished basements. Add to this section the
-following subsection: Ground-fault circuit-interrupter protection will not be
-required for ejector pumps, sump pumps and furnaces.
-      (3)   Section 210-8(A)(6) Kitchens. Add to this section the following
-subsection: Ground-fault circuit-interrupter protection will not be required
-for refrigerators. Refrigerators must be on separate circuit.
-      (4)   Section 210-12(A) Dwelling units.
-         (a)   Delete the following subsection: Arc-fault circuit-interrupter
-protection.
-         (b)   Add the following subsection:
-            (A)   Dwelling units. All 120-volt, single-phase, 15- and 20-ampere
-branch circuits supplying outlets or devices installed in dwelling unit
-bedrooms.
-      (5)   Section 230-1. Add to this section the following subsection:
-         Every single-family unit exceeding twelve hundred (1,200) square feet
-erected subsequent to the date of the adoption of this code shall utilize a
-minimum two hundred-ampere service.
-         Every single-family unit exceeding four thousand (4,000) square feet
-erected subsequent to the date of the adoption of this code shall utilize a
-minimum four hundred-ampere service.
-         If two (2) separate 200 ampere panels are utilized to form a 400
-ampere service, a separate sized grounding electrode conductor is required from
-each panel to the street side of the incoming metal water service. A jumper
-conductor between each panel forming a single grounding electrode conductor is
-prohibited. The downsizing of the service entrance neutral conductor is
-prohibited.
-      (6)   All new electric services in the village shall be underground,
-where available, unless otherwise approved by the village.
-      (7)   An approved nonferrous metal tag shall be attached to the ground
-electrode clamp giving warning against its removal.
-      (8)   Nonmetallic-sheathed cable (Romex) shall not be permitted in the
-village.
-      (9)   Section 310-2(b) labeled “Conductor materials.” Delete this
-subsection and insert the sentences: All conductors in this article shall be of
-copper only. Aluminum conductors are prohibited.
-      (10)   Delete Section 406.12(A) Tamper-resistant receptacles in dwelling
-units.
-      (11)   All new electric services in the village shall be underground,
-where available, unless otherwise approved by the village.
-      (12)   An approved nonferrous metal tag shall be attached to the ground
-electrode clamp giving warning against its removal.
-      (13)   Nonmetallic-sheathed cable (Romex) shall not be permitted in the
-village.
+      (2)   Section 90.6 Formal Interpretations. Delete this section and
+replace with the following:
+         90.6 Formal Interpretations. Interpretations of this code shall be
+conducted by the building official, or their assigned agent.
+      (3)   Section 90.10 Permits. Add a new subsection as follows:
+         90.10 Permits. No electrical equipment shall be installed, altered, or
+used without first filing an application with the building department and
+obtaining all required permits. All applications shall be accompanied by plans,
+specifications and schedules in sufficient detail to show the location and
+capacity of all lighting facilities, fire alarm systems, electrical equipment
+and light and power circuits required for all service equipment of the building
+or structure.
+      (4)   Section 230.2 Number of Services. Add the following sentence to the
+end of the section:
+         Accessory buildings and structures to one- and two- family,
+townhouses, and duplexes that are built to the International Residential Code
+shall only be served power by the primary residence unless approved by the
+building official.
+      (5)   Section 334 Type NM & NMC. Delete this section. All branch lines
+shall be of copper conductors. The use of Aluminum (AL)
+      (6)   Section 394 Concealed Knob-and-Tube Wiring. Delete this section.
+      (7)   Section 396 Messenger-Supported Wiring. Delete this section.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.118 2015 INTERNATIONAL FUEL GAS CODE.
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-14, passed 12-15-25)
+§ 150.118 2021 INTERNATIONAL FUEL GAS CODE.
    (A)   Adoption. There is hereby adopted by reference as if fully set out
-herein that certain code known as the 2015 International Fuel Gas Code, current
+herein that certain code known as the 2021 International Fuel Gas Code, current
 edition, as per the State of Illinois, as prepared and published by the
 International Code Council, together with the additions, insertions, deletions
 and changes hereinafter set forth, three copies of which have been on file for
 a period of more than 30 days prior to the adoption of this code and now are on
 file in the office of the Village Clerk.
-   (B)   Amendments.
+   (B)   Amendments. The following sections of the 2021 International Fuel Gas
+Code are hereby amended.
       (1)   Section 101.1 Insert: “Village of Peotone”.
-      (2)   Section 106.6 Delete the entire section and see the Village of
-Peotone Fee Schedule.
-      (3)   Section 108.4 Fines. Fines shall be as established by the Village
-of Peotone Fee Schedule.
+      (2)   Section 103.1 Insert: “Building Department” for “[Name of
+Department]”.
+      (3)   Section 106 Permits. Add a new subsection as follows:
+         106.2.1 Emergency Repairs. Where equipment replacements and repairs
+must be performed in an emergency situation, the permit application shall be
+submitted within the next working business day to the building official. An
+emergency situation shall include where a delay in the work leads to immediate
+danger to the occupants of the building or will result in significant damage to
+the property.
+      (4)   Section 107 Construction Documents. Add new subsections as follows:
+         107.1.1 Resubmittal Documents. All Resubmittals shall be complete sets
+unless directed by the building official.
+         107.1.2 Design Credentials. A design professional shall prepare and
+submit construction documents for any commercial project in accordance with
+Illinois laws governing design professional.
+      (5)   Section 109 Fees. Add a new subsection as follows:
+         109.2.1 Third Party Agency Costs. The building official is authorized
+to pass along the costs of any third party agencies used to evaluate, review,
+or inspect a project overseen by the Building Department. The implementation of
+these costs shall be established in policy in conjunction with the adopted fee
+schedule.
+      (6)   Section 113 Means of Appeals. Delete subsection 113.3 and add new
+subsections as follows:
+         113.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         113.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         113.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         113.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         113.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         113.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         113.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (7)   Section 114.1 Board of appeals. Delete this section.
+      (8)   Section 115.4 Violation Penalties. Delete the subsection and
+replace with the following:
+         115.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
-§ 150.119 2015 INTERNATIONAL ENERGY CONSERVATION CODE.
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-14, passed 12-15-25)
+§ 150.119 ILLINOIS ENERGY CONSERVATION CODE.
    (A)   Adoption. There is hereby adopted by reference as if fully set out
-herein that certain code known as the 2015 International Energy Conservation
-Code, current edition, as per the State of Illinois, as prepared and published
-by the International Code Council, together with the additions, insertions,
-deletions and changes hereinafter set forth, three copies of which have been on
-file for a period of more than 30 days prior to the adoption of this code and
-now are on file in the office of the Village Clerk. The current edition as per
-the State of Illinois International Energy Conservation Code is hereby adopted
-with State of Illinois amendments.
-   (B)   Amendment. Section 101.1 Insert: Village of Peotone.
+herein that certain code known as the Illinois Energy Conservation Code (71
+Ill. Admin. Code 600 et seq.) as promulgated by the Illinois Capital
+Development Board, current edition, and any subsequent amendments adopted by
+the Illinois Capital Development Board thereto, three copies of which have been
+on file for a period of more than 30 days prior to the adoption of this code
+and now are on file in the office of the Village Clerk.
 (Ord. 00-21, passed 10-16-00; Am. Ord. 05-05, passed 4-18-05; Am. Ord. 17-15,
-passed 9-25-17; Am. Ord. 19-36, passed 9-9-19)
+passed 9-25-17; Am. Ord. 19-36, passed 9-9-19; Am. Ord. 25-14, passed 12-15-25)
+§ 150.120 2021 INTERNATIONAL EXISTING BUILDING CODE.
+   (A)   Adoption by reference. There is hereby adopted by reference as if
+fully set out herein that certain code known as the 2021 International Existing
+Building Code, as prepared and published by the International Code Council,
+together with the additions, insertions, deletions and changes hereinafter set
+forth, three copies of which have been on file for a period of more than 30
+days prior to the adoption of this code and now are on file in the office of
+the Village Clerk.
+   (B)   Amendments. The following sections of the 2021 International Existing
+Building Code are hereby amended.
+      (1)   Section 101.1 Insert: "Village of Peotone" for "[Name of
+Jurisdiction]".
+      (2)   Section 103.1 Title. Insert "Building Department" for "[Name of
+Department]".
+      (3)   Section 105.2 Work exempt from permit. Delete Building items
+numbered 1, 3.
+      (4)   Section 105.2.1 Emergency Repairs. Delete this subsection and
+replace with the following:
+         105.2.1 Emergency Repairs. Where equipment replacements and repairs
+must be performed in an emergency situation, the permit application shall be
+submitted within the next working business day to the building official. An
+emergency situation shall include where a delay in the work leads to immediate
+danger to the occupants of the building or will result in significant damage to
+the property.
+      (5)   Section 106 Construction Documents. Add subsection as follows:
+         106.1.1 Resubmittal Documents. All Resubmittals shall be complete sets
+unless directed by the building official.
+         106.1.2 Design Credentials. A design professional shall prepare and
+submit construction documents for any commercial project in accordance with
+Illinois laws governing design professionals.
+      (6)   Section 108 Fees. Add a subsection as follows:
+         108.2.1 Third Party Agency Costs. The building official is authorized
+to pass along the costs of any third party agencies used to evaluate, review,
+or inspect a project overseen by the Building Department. The implementation of
+these costs shall be established in policy in conjunction with the adopted fee
+schedule.
+      (7)   Section 112 Means of Appeals. Delete subsection 112.3 and add new
+subsections as follows:
+         112.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         112.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         112.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         112.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         112.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         112.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         112.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (8)   Section 113.4 Violation Penalties. Delete this subsection and
+replace with the following:
+         113.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+(Ord. 25-14, passed 12-15-25)
+§ 150.121 2021 INTERNATIONAL SWIMMING POOL AND SPA CODE.
+   (A)   Adoption by reference. There is hereby adopted by reference as if
+fully set out herein that certain code known as the 2021 International Swimming
+Pool and Spa Code, as prepared and published by the International Code Council,
+together with the additions, insertions, deletions and changes hereinafter set
+forth, three copies of which have been on file for a period of more than 30
+days prior to the adoption of this code and now are on file in the office of
+the Village Clerk.
+   (B)   Amendments. The following sections of the 2021 International Swimming
+Pool and Spa Code are hereby amended.
+      (1)   Section 101.1 Insert: "Village of Peotone" for "[Name of
+Jurisdiction]".
+      (2)   Section 103.1 Title. Insert "Building Department" for "[Name of
+Department{'}'}".
+      (3)   Section 106 Construction Documents. Add subsections as follows:
+         106.1.1 Resubmittal Documents. All Resubmittals shall be complete sets
+unless directed by the building official.
+         106.1.2 Design Credentials. A design professional shall prepare and
+submit construction documents for any commercial project in accordance with
+Illinois laws governing design professionals.
+      (4)   Section 108 Fees. Add a subsection as follows:
+         108.2.1 Third Party Agency Costs. The building official is authorized
+to pass along the costs of any third party agencies used to evaluate, review,
+or inspect a project overseen by the Building Department. The implementation of
+these costs shall be established in policy in conjunction with the adopted fee
+schedule.
+      (5)   Section 111 Means of Appeals. Delete subsection 111.3 and add
+subsections as follows:
+         111.1.1 Initial Appeal. An initial appeal by the contractor, design,
+professional, owner or their agent about the interpretation or application of
+an adopted code, reference standard, or ordinance shall be made to the building
+official. The appellant has a maximum of ten (10) days to file an appeal and
+the building official has a maximum of ten (10) days to respond. If the
+appellant does not agree with the building official's decision the appellant
+has a maximum of ten (10) days to appeal to the village administrator and the
+village administrator has a maximum of ten (10) days to respond. If the
+appellant does not agree with the village administrator's decision the
+appellant has a maximum of ten (10) days to appeal to the planning and zoning
+commission who will make a recommendation to the village board.
+         111.5 Board of appeals members. The board of appeals of the Village
+shall consist of the voting members of the village board. The building official
+shall be an ex officio member of said board when it sits as the board of
+appeals but shall not vote on any matter before the board.
+         111.6 Conflict of interest. A member with any personal, professional
+or financial interest in a matter before the board shall declare such interest
+and refrain from participating in discussions, deliberations and voting on such
+matters.
+         111.7 Rules and procedures. The board shall establish policies and
+procedures necessary to carry out its duties consistent with the provisions of
+this code and applicable state law. The procedures shall not require compliance
+with strict rules of evidence, but shall mandate that only relevant information
+be presented.
+         111.8 Board decision. The board shall only modify or reverse the
+decision of the building official by a concurring vote of majority of members.
+         111.9 Resolution. The decision of the board shall be by resolution.
+Every decision shall be promptly filed in writing in the office of the building
+official within five (5) business days and shall be open to the public for
+inspection. A copy shall be furnished to the appellant or the appellant's
+representative and to the building official.
+         111.10 Court review. Any person, whether or not a previous party of
+the appeal, shall have the right to apply to the appropriate court for a writ
+of certiorari to correct errors of law. Application for review shall be made in
+the manner and time required by law following the filing of the decision in the
+office of the chief administrative officer.
+      (6)   Section 112 Board of appeals. Delete this section.
+      (7)   Section 113.4 Violation Penalties. Delete this subsection and
+replace with the following:
+         113.4 Violation Penalties. Any person who violates a provision of this
+code or fails to comply with any of the requirements thereof or who erects,
+constructs, alters or repairs a building or structure in violation of the
+approved construction documents or directive of the building official, or of a
+permit or certificate issued under the provisions of this code, shall be
+subject to penalties as prescribed by law and subject to the fines established
+by the Village of Peotone.
+      (8)   Section 305.1 General. Delete this subsection and replace with the
+following:
+         305.1 General. The provisions of this section shall apply to the
+design of barriers for restricting entry into areas having pools and spas.
+(Ord. 25-14, passed 12-15-25)
 PENALTIES
 § 150.999 PENALTIES.
    (A)   Any person, firm, or corporation violating any provision of this
@@ -41216,50 +42228,50 @@ Section
    
 9.   Zoning district map
 § 1. CORNER AND REVERSE CORNER SIDE YARDS - R-1 ONE-FAMILY RESIDENCE DISTRICT.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2567.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 2. CORNER AND REVERSE CORNER SIDE YARDS - R-2 ONE-FAMILY RESIDENCE DISTRICT.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2570.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 3. CORNER AND REVERSE CORNER SIDE YARDS - R-3 ONE-FAMILY RESIDENCE DISTRICT.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2573.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 4. GOOD VISION CLEARANCE.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2576.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 5. EXAMPLE OF RESIDENTIAL LOT TYPES.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2579.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 6. CORNER LOT DIAGRAM.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2582.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 7. LOT TYPES.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2585.jpg]
  
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2588.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 8. LOT WIDTH AND LOT DEPTH EXPLAINED.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2591.jpg]
  
 (Ord. 77-08, passed 6-28-77)
 § 9. ZONING DISTRICT MAP.
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2594.jpg]
  
 Click_here_for_PDF_version_of_appendix_§§_1-9.
@@ -42500,26 +43512,26 @@ be provided in drainage easements. Street ponding and flow depths shall not
 exceed curb heights.
 (Ord. 04-02, § 158.024, passed 4-5-04)
 APPENDIX A: TABLE 1 HUFF QUARTILE DISTRIBUTIONS
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2597.jpg]
  
 Click_here_for_PDF_version_of_Appendix_A.
 APPENDIX B: TABLE 2 RAINFALL DATA FOR CRITICAL DURATION ANALYSIS AND OTHER
 HYDROLOGIC CALCULATIONS
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2600.jpg]
  
 Click_here_for_PDF_version_of_Appendix_B.
 APPENDIX C: DETENTION VOLUME VS. PERCENT IMPERVIOUS
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2603.jpg]
  
 Click_here_for_PDF_version_of_Appendix_C.
 APPENDIX D: STORM MANHOLE DETAIL
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2606.jpg]
  
-[https://export.amlegal.com/media/590734a68876dbefc2c53b17deb304e6cf1f361b/
+[https://export.amlegal.com/media/47ca30b993ad674ca79364975a721fdbcf24caa8/
 IMAGES/0-0-0-2609.jpg]
  
 Click_here_for_PDF_version_of_Appendix_D.
@@ -44878,5 +45890,9 @@ Ord. No. Date Passed Code Section
 25-09    8-11-25     50.20,
                      50.23
 25-10    10-27-25    T.S.O. VI
+25-13    12-15-25    127.01,
+                     128.01
+25-14    12-15-25    150.111 -
+                     150.121
                     
  
