@@ -1,7 +1,7 @@
 OSAKIS, MINNESOTA
 CODE OF ORDINANCES
-2025 S-11 Supplement contains:
-Local legislation current through Ord. 140, passed 12-10-2024
+2026 S-12 Supplement contains:
+Local legislation current through Ord. 144, passed 10-13-2025
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -4994,6 +4994,9 @@ products in a public place.
 misdemeanor and fined up to $300 or the maximum amount for a petty misdemeanor
 allowed by state law.
 (Ord. 137, passed 9-11-2023)
+Cross-reference:
+   Cannabis Businesses, see
+Ch. 125
 WEEDS
 § 90.35 SHORT TITLE.
    This subchapter shall be cited as the Weed Ordinance.
@@ -5509,12 +5512,12 @@ operation of a street lighting system.
    (A)   Duty of owners and occupants. The owner and the occupant of any
 property adjacent to a public sidewalk shall use diligence to keep the walk
 safe for pedestrians. No like owner or occupant shall allow dirt or rubbish to
-remain on the walk longer than 72 hours after its deposit thereon.
+remain on the walk longer than 24 hours after its deposit thereon.
    (B)   Duty of owners and occupants regarding removal of snow and ice. The
 owner and the occupant of any property adjacent to a public sidewalk shall use
 diligence to keep the walk safe for pedestrians by removing snow and ice. No
 like owner or occupant shall allow snow or ice to remain on the sidewalk longer
-than 72 hours after its deposit thereon on the following streets:
+than 24 hours after its deposit thereon on the following streets:
       (1)   All of Nokomis Street, also known as Douglas County Road 82.
       (2)   Main Street, between Second Avenue West and First Avenue East.
       (3)   Oak Street, between Central Avenue and Second Avenue East.
@@ -5524,10 +5527,11 @@ than 72 hours after its deposit thereon on the following streets:
       (7)   All of First Avenue West.
       (8)   All of Second Avenue West.
       (9)   All of Third Avenue West.
+      (10)   Main Street, from Co. Road 3 to Second Avenue West.
    (C)   Removal by city.
       (1)   The City Council shall designate officials who shall remove from
 all public sidewalks identified in division (B) above, all snow and ice as soon
-as possible, beginning 72 hours after any like matter has been deposited
+as possible, beginning 24 hours after any like matter has been deposited
 thereon or after the snow has ceased to fall. The City Council shall also
 designate officials who shall remove dirt and rubbish from all public
 sidewalks, including but not limited to, those identified in division (B)
@@ -5538,7 +5542,7 @@ this section and §
 removal adjacent to each separate lot and parcel, and shall deliver the
 information to the City Clerk/Treasurer.
 (1986 Code, § 302.02) (Am. Ord. 93, passed 11-4-2013; Am. Ord. 94, passed 5-5-
-2014; Am. Ord. 98, passed 12-1-2014)
+2014; Am. Ord. 98, passed 12-1-2014; Am. Ord. 143, passed 9-8-2025)
 § 92.22 [RESERVED]
 § 92.23 PUBLIC HEALTH AND SAFETY HAZARDS.
    (A)   When the city removes or eliminates public health or safety hazards
@@ -8105,7 +8109,7 @@ Chapter
    
 124.   LOCAL LODGING TAX
    
-125.   CANNABIS BUSINESS
+125.   CANNABIS BUSINESSES
 CHAPTER 110: GENERAL LICENSING AND PERMIT PROVISIONS
 Section
    
@@ -10515,35 +10519,485 @@ by this section, shall bear interest at the rate of 8% per annum from the time
 the tax should have been paid until paid. Any interest and penalty shall be
 added to the tax and be collected as part thereof.
 (Ord. 517.01, passed 5-4-1992; Am. Ord. 102, passed 7-6-2015)
-CHAPTER 125: CANNABIS BUSINESS
+CHAPTER 125: CANNABIS BUSINESSES
 Section
+General Provisions
    
-125.01   Definitions
+125.01   Findings and purpose
    
-125.02   Authorization of study
+125.02   Adoption of state law by reference
    
-125.03   Moratorium
+125.03   Authority and jurisdiction
    
-125.04   Term
-§ 125.01 DEFINITIONS.
-   The definitions contained in M.S. § 342.01, as the same may be amended from
-time to time, shall apply to this chapter.
-(Ord. 136, passed 9-11-2023)
-§ 125.02 AUTHORIZATION OF STUDY.
-   City staff are hereby authorized and directed to study reasonable
-restrictions on the time, place, and manner of the operation of cannabis
-businesses with the city and to recommend such restrictions to the City
-Council.
-(Ord. 136, passed 9-11-2023)
-§ 125.03 MORATORIUM.
-   No cannabis business shall be operated within the city while this chapter
-remains in effect.
-(Ord. 136, passed 9-11-2023)
-§ 125.04 TERM.
-   This chapter shall be effective upon its final passage and publication and
-shall continue in effect until January 1, 2025, unless sooner repealed by the
-City Council.
-(Ord. 136, passed 9-11-2023)
+125.04   Enforcement
+   
+125.05   Definitions
+Retail Registration
+   
+125.10   Registration of cannabis retail businesses
+   
+125.11   Preliminary inspection prior to retail registration
+   
+125.12   Response to OCM required
+   
+125.13   Fees
+   
+125.14   Application
+   
+125.15   Application approval
+   
+125.16   Annual compliance checks
+   
+125.17   Location change
+   
+125.18   Renewal of registration
+   
+125.19   Renewal fees
+   
+125.20   Renewal application
+   
+125.21   Suspension of registration
+   
+125.22   Limiting of registrations
+   
+125.23   Hours of operation
+   
+125.24   Advertising
+   
+125.25   Buffer requirements for cannabis businesses
+   
+125.26   Zoning and land use
+Temporary Cannabis Events
+   
+125.35   License or permit required for temporary cannabis events
+   
+125.36   Temporary cannabis event fee
+   
+125.37   Application submittal and review
+Use in Public Places
+   
+125.45   Prohibition of cannabis use in public places
+GENERAL PROVISIONS
+§ 125.01 FINDINGS AND PURPOSE.
+   The City Council for the City of Osakis makes the following legislative
+findings:
+   (A)   The purpose of this chapter is to implement the provisions of M.S. Ch.
+342, which authorizes the city to protect the public health, safety, welfare of
+the city residents by regulating cannabis businesses within the legal
+boundaries of the city.
+   (B)   The City Council for the City of Osakis finds and concludes that the
+proposed provisions are appropriate and lawful land use regulations for the
+City of Osakis, that the proposed amendments will promote the community’s
+interest in reasonable stability in zoning for now and in the future, and that
+the proposed provisions are in the public interest and for the public good.
+(Ord. 142, passed 5-12-2025)
+§ 125.02 ADOPTION OF STATE LAW BY REFERENCE.
+   Except as further restricted or regulated by this chapter, the provisions of
+M.S. Ch. 342, relating to cannabis and hemp regulation and the corresponding
+state rules with respect to the same are hereby adopted and made a part of this
+chapter as if set out herein in full in accordance with M.S. §§ 342.13 and
+342.22, the city may impose further restrictions and regulations within city
+limits. Whenever there is an inconsistency between the provisions of M.S. Ch.
+342, as amended, and the provisions of this chapter, the more restrictive
+provision shall govern, unless preempted by state law.
+(Ord. 142, passed 5-12-2025)
+§ 125.03 AUTHORITY AND JURISDICTION.
+   The City Council for the City of Osakis has the authority to adopt this
+chapter pursuant to:
+   (A)   M.S. § 342.13(c), regarding the authority of a local unit of
+government to adopt reasonable restrictions of the time, place, and manner of
+the operation of a cannabis business provided that such restrictions do not
+prohibit the establishment or operation of cannabis businesses.
+   (B)   M.S. § 342.22, regarding the local registration and enforcement
+requirements of state-licensed cannabis retail businesses and lower-potency
+hemp edible retail businesses.
+   (C)   M.S. § 152.0263, Subd. 5, regarding the use of cannabis in public
+places.
+   (D)   M.S. § 462.357, regarding the authority of a local authority to adopt
+zoning ordinances.
+   (E)   This chapter shall be applicable to the legal boundaries of City of
+Osakis, Minnesota.
+(Ord. 142, passed 5-12-2025)
+§ 125.04 ENFORCEMENT.
+   The Zoning Administrator is responsible for the administration and
+enforcement of this chapter. Any violation of the provisions of this chapter or
+failure to comply with any of its requirements constitutes a misdemeanor and is
+punishable as defined by law. Violations of this chapter can occur regardless
+of whether or not a permit is required for a regulated activity listed in this
+chapter.
+(Ord. 142, passed 5-12-2025)
+§ 125.05 DEFINITIONS.
+   Unless otherwise noted in this section, words and phrases contained in M.S.
+§ 342.01 and the rules promulgated pursuant to any of these acts, shall have
+the same meanings in this chapter.
+   CANNABIS CULTIVATION. A cannabis business licensed to grow cannabis plants
+within the approved amount of space from seed or immature plant to mature
+plant, harvest cannabis flower from mature plant, package and label immature
+plants and seedlings and cannabis flower for sale to other cannabis businesses,
+transport cannabis flower to a cannabis manufacturer located on the same
+premises, and perform other actions approved by the OCM.
+   CANNABIS RETAIL BUSINESSES. A retail location and the retail location(s) of
+mezzo businesses with a retail operations endorsement, microbusinesses with a
+retail operations endorsement, medical combination businesses operating a
+retail location, excluding lower-potency hemp edible retailers.
+   CANNABIS RETAILER. Any person, partnership, firm, corporation, or
+association, foreign or domestic, selling cannabis product to a consumer and
+not for the purpose of resale in any form.
+   DAYCARE. A location licensed with the Minnesota Department of Human Services
+to provide the care of a child in a residence outside the child’s own home for
+gain or otherwise, on a regular basis, for any part of a 24-hour day.
+   LOWER-POTENCY HEMP EDIBLE. As defined under M.S. § 342.01, Subd. 50.
+   OFFICE OF CANNABIS MANAGEMENT. Minnesota Office of Cannabis Management,
+referred to as OCM in this chapter.
+   PLACE, OF PUBLIC ACCOMMODATION. A business, accommodation, refreshment,
+entertainment, recreation, or transportation facility of any kind, whether
+licensed or not, whose goods, services, facilities, privileges, advantages or
+accommodations are extended, offered, sold, or otherwise made available to the
+public.
+   PRELIMINARY LICENSE APPROVAL. OCM pre-approval for a cannabis business
+license for applicants who qualify under M.S. § 342.1.7.
+   PUBLIC PLACE. A public park or trail, public street or sidewalk; any
+enclosed, indoor area used by the general public, including, but not limited
+to, restaurants; bars; any other food or liquor establishment; hospitals;
+nursing homes; auditoriums; arenas; gyms; meeting rooms; common areas of rental
+apartment buildings, and other places of public accommodation.
+   RESIDENTIAL TREATMENT FACILITY. As defined under M.S. § 245.462, Subd. 23.
+   RETAIL REGISTRATION. An approved registration issued by the City of Osakis
+to a state- licensed cannabis retail business.
+   SCHOOL. A public school as defined under M.S. § 120A.05 or a nonpublic
+school that must meet reporting requirements under M.S. § 120A.24.
+   STATE LICENSE. An approved license issued by the State of Minnesota's Office
+of Cannabis Management to a cannabis retail business.
+(Ord. 142, passed 5-12-2025)
+RETAIL REGISTRATION
+§ 125.10 REGISTRATION OF CANNABIS RETAIL BUSINESSES.
+   (A)   Registration required. No individual or entity may operate a state-
+licensed cannabis retail business or lower-potency hemp edible retailer within
+the City of Osakis without first registering with the Zoning Administrator.
+   (B)   Violation; penalty. Any state-licensed cannabis retail business or
+lower-potency hemp edible retailer that sells to a customer or patient within
+the city without valid retail registration shall incur a civil penalty of $500
+for each violation.
+(Ord. 142, passed 5-12-2025)
+§ 125.11 PRELIMINARY INSPECTION PRIOR TO RETAIL REGISTRATION.
+   Prior to issuance of a cannabis retail business registration to a cannabis
+retail business or a lower-potency hemp edible retailer, the city shall conduct
+a preliminary inspection to ensure compliance with local ordinances.
+(Ord. 142, passed 5-12-2025)
+§ 125.12 RESPONSE TO OCM REQUIRED.
+   Pursuant to M.S. Ch. 342, within 30 days of receiving a copy of a state
+license application from OCM, to the extent the city is able, the city shall
+certify on a form provided by OCM whether a proposed cannabis or hemp business
+complies with local zoning ordinances and, if applicable, whether the proposed
+business complies with the state fire code and building code.
+(Ord. 142, passed 5-12-2025)
+§ 125.13 FEES.
+   (A)   A registration fee, as established in the city’s Fee Schedule, shall
+be charged to applicants depending on the type of retail business license
+applied for.
+   (B)   An initial retail registration fee shall not exceed $500 or half the
+amount of an initial state license fee under M.S. § 342.11, whichever is less.
+The initial registration fee shall include the initial retail registration fee
+and the first annual renewal fee.
+   (C)   Any renewal retail registration fee imposed by city shall be charged
+at the time of the second renewal and each subsequent renewal thereafter.
+   (D)   A renewal retail registration fee shall not exceed $1,000 or half the
+amount of a renewal state license fee under M.S. § 342.11, whichever is less.
+   (E)   A medical combination business operating an adult-use retail location
+may only be charged a single registration fee, not to exceed the lesser of a
+single retail registration fee, defined under this section, of the adult-use
+retail business.
+(Ord. 142, passed 5-12-2025)
+§ 125.14 APPLICATION.
+   The city shall issue a retail registration to a state-licensed cannabis
+retail business or lower-potency hemp edible retailer that adheres to the
+requirements of M.S. § 342.22 and this chapter.
+   (A)   An applicant for a retail registration shall fill out an application
+form, as provided by the city. Said form shall include, but is not limited to:
+      (1)   Full name of the property owner and applicant;
+      (2)   Address, email address, and telephone number of the applicant;
+      (3)   The address and parcel ID for the property which the retail
+registration is sought;
+      (4)   Certification that the applicant complies with the requirements of
+local ordinances established pursuant to M.S. § 342.13.
+      (5)   Verification of land use compliance by the Zoning Administrator.
+   (B)   The applicant shall include with the form:
+      (1)   The application fee as required in §
+125.13;
+      (2)   A copy of a valid state license or written notice, of OCM license
+preapproval;
+   (C)   Once an application is considered complete, the Zoning Administrator
+shall inform the applicant as such and forward the application to City Council
+for approval or denial. If the City Council finds cause to deny the
+application, the city shall give notice to the applicant of a hearing before
+the City Council before the application for registration is officially denied.
+The applicant shall have an opportunity to be heard at such hearing.
+   (D)   The application fee shall be non-refundable once processed.
+(Ord. 142, passed 5-12-2025)
+§ 125.15 APPLICATION APPROVAL.
+   (A)   A state-licensed cannabis retail business or lower-potency hemp edible
+retailer registration application shall not be approved or renewed if the
+applicant is unable to meet the requirements of this chapter or would exceed
+the limit on cannabis retail businesses permitted to operate in the city
+pursuant to this chapter.
+   (B)   No registration shall be granted or renewed for operation on any
+premises on which taxes, assessments, utility charges, service charges, or
+other financial claims of the city are delinquent and unpaid.
+   (C)   A state-licensed cannabis retail business or lower-potency hemp edible
+retailer registration application that meets the requirements of this chapter
+shall be approved.
+(Ord. 142, passed 5-12-2025)
+§ 125.16 ANNUAL COMPLIANCE CHECKS.
+   (A)   The city shall complete at minimum one compliance check per calendar
+year of every cannabis business and lower-potency hemp edible retailer to
+assess if the business meets and follows the requirements required under M.S. §
+342.22, Subd. 4(b) and M.S. § 342.24.
+   (B)   The city shall conduct at minimum, one unannounced age verification
+compliance check at least once per calendar year.
+   (C)   Age verification compliance checks shall involve persons at least 17
+years of age but under the age of 21 who, with the prior written consent of a
+parent or guardian if the person is under the age of 18, attempt to purchase
+adult-use cannabis flower, adult-use cannabis products, lower-potency hemp
+edibles, or hemp-derived consumer products under the direct supervision of a
+law enforcement officer or an employee of the local unit of government.
+   (D)   Any failures under this section must be reported to the Office of
+Cannabis Management.
+(Ord. 142, passed 5-12-2025)
+§ 125.17 LOCATION CHANGE.
+   A state-licensed cannabis retail business or lower-potency hemp edible
+retailer shall be required to submit a new application for registration under §
+125.14 if it seeks to move to a new location still within the legal boundaries
+of the City of Osakis.
+(Ord. 142, passed 5-12-2025)
+§ 125.18 RENEWAL OF REGISTRATION.
+   (A)   The City of Osakis shall renew an annual registration of a state-
+licensed cannabis retail business or lower-potency hemp edible retailer at the
+same time OCM renews the cannabis retail business’ license.
+   (B)   A state-licensed cannabis retail business or lower-potency hemp edible
+retailer shall apply to renew registration on a form established by the City of
+Osakis.
+   (C)   A cannabis retail registration issued under this chapter shall not be
+transferred.
+(Ord. 142, passed 5-12-2025)
+§ 125.19 RENEWAL FEES.
+   The City of Osakis may charge a renewal fee for the registration starting at
+the second renewal, as established in the city’s Fee Schedule.
+(Ord. 142, passed 5-12-2025)
+§ 125.20 RENEWAL APPLICATION.
+   The application for renewal of a retail registration shall include, but is
+not limited to:
+   (A)   Items required under §
+125.14 of this chapter.
+   (B)   Other items required by the city and Zoning Administrator to ascertain
+the registration is in compliance with the City Code.
+(Ord. 142, passed 5-12-2025)
+§ 125.21 SUSPENSION OF REGISTRATION.
+   (A)   When suspension is warranted. The city may suspend the registration of
+a cannabis retail business or lower-potency hemp edible retailer if it violates
+this chapter or poses an immediate threat to the health or safety of the
+public. The city shall immediately notify the cannabis retail business or
+lower-potency hemp edible retailer in writing the grounds for the suspension.
+   (B)   Notice of hearing. Prior to imposing a fine or suspending any retail
+registration under divisions (A) or (H) of this section, the city shall provide
+the registered business with written notice of the alleged violations and
+inform the registered business of its right to a hearing on the alleged
+violation.
+   (C)   Hearing. If a registered business accused of violating this chapter or
+the governing state law so requests in writing, filed with the City Clerk, a
+hearing shall be scheduled, the time and place of which shall be published and
+provided by the City Clerk to the accused violator. Hearing requests must be
+made within ten business days of the issuance of the notice of violation and
+delivered to the City Clerk or other designated city officer. Failure to
+properly request a hearing within ten business days of the issuance of the
+notice of violation will terminate the person's right to a hearing and
+constitute waiver of said right to a hearing. The City Clerk or other
+designated city officer will set the time and place for the hearing. Written
+notice of the hearing time and place will be mailed or delivered to the accused
+violator at least ten calendar days prior to the hearing.
+   (D)   Decision. If the City Council determines that a violation of this
+chapter did occur, that decision, along with the City Council’s reasons for
+finding a violation and the penalty to be imposed under his chapter, shall be
+recorded in writing, a copy of which shall be provided to the accused violator
+by in person or mail delivery as soon as practicable following the hearing date
+or the date of any continuance, recess or postponement thereof. Likewise, if
+the City Council finds that no violation occurred or finds grounds for not
+imposing any penalty, such findings shall be recorded and a copy provided to
+the acquitted accused violator in person or by mail delivery as soon as
+practicable.
+   (E)   Notification to OCM. The city shall immediately notify the OCM in
+writing the grounds for the suspension. OCM will provide the city and cannabis
+retail business or lower-potency hemp edible retailer a response to the
+complaint within seven calendar days and perform any necessary inspections
+within 30 calendar days.
+   (F)   Length of suspension. The suspension of a cannabis retail business
+registration may be for up to 30 calendar days, unless OCM suspends the license
+for a longer period. The business may not make sales during this period to
+customers if their registration is suspended.
+   (G)   Reinstatement. The city shall reinstate a registration if the city or
+OCM determines that the violation(s) have been resolved.
+   (H)   Civil penalties. Subject to M.S. § 342.22, Subd. 5(e) the city may
+impose a civil penalty, as specified in the city’s fee schedule, for
+registration violations, not to exceed $2,000.
+(Ord. 142, passed 5-12-2025)
+§ 125.22 LIMITING OF REGISTRATIONS.
+   (A)   If the Counties of Douglas and Todd have one active cannabis retail
+business registration for every 12,500 residents, the City of Osakis shall not
+be required to register additional state-licensed cannabis retail businesses.
+   (B)   In no event shall the City of Osakis have more than one cannabis
+retail business within the City of Osakis boundaries. This limitation shall not
+apply to:
+      (1)   Medical cannabis combination businesses licensed by the OCM, and
+      (2)   Lower-potency hemp edible retailers.
+   (C)   Registration will be first come, first served. The city shall only
+consider completed applications in compliance with §
+125.14.
+(Ord. 142, passed 5-12-2025)
+§ 125.23 HOURS OF OPERATION.
+   Cannabis retail businesses are limited to retail sale of cannabis, cannabis
+flower, cannabis products, lower-potency hemp edibles, or hemp-derived consumer
+products between the hours of 8:00 a.m. and 10:00 p.m., Monday through Saturday
+and 10:00 a.m. until 9:00 p.m. on Sundays.
+(Ord. 142, passed 5-12-2025)
+§ 125.24 ADVERTISING.
+   As allowed under city code for the underlying zoning district and state law.
+Sign permits are required for all signs erected.
+(Ord. 142, passed 5-12-2025)
+§ 125.25 BUFFER REQUIREMENTS FOR CANNABIS BUSINESSES.
+   (A)   The city shall prohibit the operation of a cannabis business:
+      (1)   Within 1,000 feet of a school;
+      (2)   Within 500 feet of a day care;
+      (3)   Within 500 feet of a residential treatment facility;
+      (4)   Within 500 feet of an attraction within a public park that is
+regularly used by minors, including a playground or athletic field; or
+      (5)   Within 500 feet of another cannabis retail business.
+   (B)   Upon application to the Planning Commission, on a case-by-case basis,
+and after a posted public hearing, the Planning Commission may amend the buffer
+requirements, by the use of a Conditional Use Permit application. Applicant
+must pay all CUP fees in addition to any other applicable fee or registration
+fee pursuant to this chapter. The Planning Commission reserves the right to
+reject any and all applications or amend or adjust the applications and
+parameters.
+   (C)   Pursuant to M.S. § 462.367, Subd. 14, nothing in this section shall
+prohibit an active cannabis business or a cannabis business seeking
+registration from continuing operation at the same site if a school, daycare,
+residential treatment facility, or attraction within a public park that is
+regularly used by minors moves within the minimum buffer zone.
+(Ord. 142, passed 5-12-2025)
+§ 125.26 ZONING AND LAND USE.
+   (A)   Cannabis cultivation. Cannabis businesses licensed or endorsed for
+cultivation are a permitted use in the following zoning districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (B)   Cannabis manufacturer. Cannabis businesses licensed or endorsed for
+cannabis manufacturer are a permitted use in the following zoning districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (C)   Hemp manufacturer. Businesses licensed or endorsed for low-potency
+hemp edible manufacturers are a permitted use in the following zoning
+districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (D)   Cannabis wholesale. Cannabis businesses licensed or endorsed for
+wholesale are a permitted use in the following zoning districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (E)   Cannabis retail. Cannabis businesses licensed or endorsed for cannabis
+retail are a conditional use in the C-3 (Highway Commercial) district.
+   (F)   Lower-potency hemp edible retail. Hemp businesses licensed or endorsed
+as lower-potency hemp edible retailers are a permitted use in the following
+zoning districts:
+      (1)   C-1 (Central Commercial)
+      (2)   C-2 (General Commercial)
+      (3)   C-3 (Highway Commercial)
+   (G)   Cannabis transportation. Cannabis businesses licensed or endorsed for
+transportation are a permitted use in the following zoning districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (H)   Cannabis delivery. Cannabis businesses licensed or endorsed for
+delivery are a permitted use in the following zoning districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+   (I)   All other cannabis businesses licensed by the state not listed above.
+All other cannabis businesses licensed by the state are a conditional use in
+the following Zoning Districts:
+      (1)   C-3 (Highway Commercial)
+      (2)   I-1 (General Industrial)
+(Ord. 142, passed 5-12-2025)
+TEMPORARY CANNABIS EVENTS
+§ 125.35 LICENSE OR PERMIT REQUIRED FOR TEMPORARY CANNABIS EVENTS.
+   A license or permit is required to be issued and approved by city prior to
+holding a temporary cannabis event.
+(Ord. 142, passed 5-12-2025)
+§ 125.36 TEMPORARY CANNABIS EVENT FEE.
+   A fee, as established in the city's fee schedule, shall be charged to
+applicants for temporary cannabis events.
+(Ord. 142, passed 5-12-2025)
+§ 125.37 APPLICATION SUBMITTAL AND REVIEW.
+   (A)   The City of Osakis shall require an application for temporary cannabis
+events.
+   (B)   An applicant shall fill out an application form, as provided by the
+city. Said form shall include, but is not limited to:
+      (1)   Full name of the property owner and applicant;
+      (2)   Address, email address, and telephone number of the applicant;
+      (3)   Full site plan;
+      (4)   A depiction of any premises for which the applicant seeks approval
+from the city to designate as an area for on-site consumption of adult-use
+cannabis flower, adult-use cannabis products, lower-potency hemp edibles, hemp-
+derived consumer products, or any combination thereof. The city reserves the
+right to deny any application for on-site consumption at a temporary cannabis
+event with or without denial of the application for the temporary cannabis
+event in its entirety;
+      (5)   Times of operation;
+      (6)   Proof of insurance at least equal to City of Osakis tort liability
+limits under M.S. § 466.04 and naming the city as additional insured; and
+      (7)   Security plan approved by the County Sheriff’s Department or other
+qualified law enforcement agency chosen by the city.
+   (C)   The applicant shall include with the form:
+      (1)   The application fee as required in the city’s fee schedule; and
+      (2)   A copy of the OCM cannabis event license application, submitted
+pursuant to M.S. § 342.39, Subd. 2 or subsequent state licensing requirements.
+   (D)   The application shall be submitted to the City Clerk, or other
+designee for review. If the designee determines that a submitted application is
+incomplete, they shall return the application to the applicant with the notice
+of deficiencies.
+   (E)   Once an application is considered complete, the designee shall inform
+the applicant as such, process the application fees, and forward the
+application to the Osakis City Council that will approve or deny the request
+for approval or denial.
+   (F)   The fee shall be non-refundable once processed.
+   (G)   A request for a temporary cannabis event that meets the requirements
+of this section may be approved if the City Council makes the finding that the
+event is in the best interest of the citizens of the city, will not create
+undue hardships, stress infrastructure, safety, security, environment or
+convenience of the citizens.
+   (H)   A request for a temporary cannabis event that does not meet the
+requirements of this sections shall be denied. The city will notify the
+applicant of the standards not met and the basis for denial.
+   (I)   All events must meet all other applicable city codes for events and
+event approvals.
+   (J)   On-site consumption of cannabis flower, cannabis products, lower-
+potency hemp edibles, hemp- derived consumer products, or any combination of
+those items, if approved by the city, must be limited to the designated area
+approved by the city and, if located in an outdoor area, must be surrounded by
+commercial grade fencing.
+   (K)   All uses of city property must be reviewed and approved by the City
+Council, the City Council reserves the right to reject any application if the
+City Council makes the finding that the request is not in the best interest of
+the city, its citizens, creates a hardship, stresses infrastructure, safety,
+security, the environment or the convenience of the citizens, and reserves the
+right to set a fee for the use of city property commensurate with the costs to
+the city of an individual application on a case-by-case basis.
+(Ord. 142, passed 5-12-2025)
+USE IN PUBLIC PLACES
+§ 125.45 PROHIBITION OF CANNABIS USE IN PUBLIC PLACES.
+   No person shall use cannabis flower, cannabis products, lower-potency hemp
+edibles, or hemp-derived consumer products in a public place or a place of
+public accommodation as prohibited under §
+90.25 of this code.
+(Ord. 142, passed 5-12-2025)
+Cross-reference:
+   Prohibition of cannabis use in public places, see §
+90.25
 TITLE XIII: GENERAL OFFENSES
 Chapter
    
@@ -11186,6 +11640,9 @@ Ord. No. Date Passed Description
 115      4-3-2018    LLC, locally known as Charter Communications, to
                      construct, operate, and maintain a cable system for an
                      initial term of 10 years
+                     Extends current franchise with Northern States Power
+144      10-13-2025  Company to conduct an electric distribution system for a
+                     period of 20 years
                     
  
 PARALLEL REFERENCES
@@ -11216,9 +11673,12 @@ M.S. Cite             Code Section
 85.40–85.45         95.08
 88.16–88.22         90.70;
                       98.45
+120A.05               125.05
+120A.24               125.05
 145A.03               120.01
 152.02                95.03
 152.02, Schedules I–100.01
+152.0263, Subd. 5     125.03
 157.16                118.03
 157.16, Subd. 3       118.03
 168B                  Ch. 75, Sch. I
@@ -11233,6 +11693,7 @@ M.S. Cite             Code Section
 169.522               73.12
 169A                  73.11
 169A.20               73.03
+245.462, Subd. 23     125.05
 326.40                50.06
 329                   113.03
                       118.01;
@@ -11255,8 +11716,24 @@ M.S. Cite             Code Section
 340A.414              118.34
 340A.504              118.32
 340A.509              118.02
+                      125.01;
+342                   125.02;
+                      125.12
 342.01                90.25,
-                      125.01
+                      125.05
+342.01, Subd. 50      125.05
+342.1.7               125.05
+342.11                125.13
+342.13                125.02;
+                      125.14
+342.13(c)             125.03
+                      125.02;
+342.22                125.03;
+                      125.14
+342.22, Subd. 4(b)    125.16
+342.22, Subd. 5(e)    125.21
+342.24                125.16
+342.39, Subd. 2       125.37
                       111.01;
 349                   11.02;
                       111.15
@@ -11284,12 +11761,15 @@ M.S. Cite             Code Section
                       94.07
 444.075               54.01
 462.354, Subd. 1      34.01
+462.357               125.03
 462.357, Subd. 3      34.05
+462.367, Subd. 14     125.25
                       90.01;
 463.15–463.26       92.20;
                       92.23
 463.17                90.23
 466                   92.03
+466.04                125.37
 469.190               124.02
 471.6985              118.53
 514.67                90.01
@@ -11634,14 +12114,20 @@ Ord. No.     Date Passed Code Section
 134          3-13-2023   124.01
 135          7-10-2023   10.98
 Res. 2023-19 7-10-2023   Ch. 10, App. I
-136          9-11-2023   125.01–
-                         125.04
 137          9-11-2023   90.25
 138          2-12-2024   39.01,
                          39.02
                          55.01–
 140          12-10-2024  55.14,
                          55.99
+                         125.01–
+                         125.05;
+                         125.10–
+142          5-12-2025   125.26;
+                         125.35–
+                         125.37;
+                         125.45
+143          9-8-2025    92.21
+144          10-13-2025  TSO II
                         
- 
  
