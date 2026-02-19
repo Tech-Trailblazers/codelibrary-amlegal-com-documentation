@@ -166801,7 +166801,7 @@ Office of the County Attorney
 101 Monroe Street, Third Floor
 Rockville, Maryland 20850
 (240) 777-6700
-November 2025 update includes Regulations effective as of October 7, 2025
+January 2026 update includes Regulations effective as of February 1, 2026
 COPYRIGHT
 BY
 MONTGOMERY COUNTY, MARYLAND
@@ -187262,7 +187262,7 @@ school that begins after (date of Council approval) unless that use was
 previously approved by a Council resolution that remains in force.
 (Administrative History: Reg. No. 4-99AM; Dept.: Public Works and
 Transportation)
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-3321.jpg]
 SEC. 11B-65 DEFINITIONS — REGULATIONS
 COMCOR 11B.65.01. Local Small Business Reserve Program
@@ -202997,10 +202997,9 @@ tree cover by landscaping areas under an approved landscaping plan.
 site per Sections 22A-12(a), (d), and (f) of the Forest Conservation Law.
       (3)   “Applicant” means the person who is applying for a development
 plan, diagrammatic plan, subdivision, floating zone plan, sketch plan, site
-plan, project plan, biohealth priority campus plan, preliminary plan of
-subdivision, administrative subdivision, minor subdivision, sediment control
-permit, special exception/conditional use, mandatory referral, or park
-development plan.
+plan, project plan, expedited approval plan, preliminary plan of subdivision,
+administrative subdivision, minor subdivision, sediment control permit, special
+exception/conditional use, mandatory referral, or park development plan.
       (4)   “Break-even point” means an exact level of forest retention that
 precludes the need for reforestation.
       (5)   “Champion tree” means the largest tree of its species within the
@@ -203158,7 +203157,7 @@ Maryland licensed landscape architect, or other qualified professional approved
 by the State.
       (48)   “Regulated activity” means any of the following activities:
          (a)   Subdivision;
-         (b)   Biohealth priority campus plan;
+         (b)   Expedited approval plan;
          (c)   Site plan;
          (d)   Project plan;
          (e)   Sketch plan;
@@ -203230,8 +203229,9 @@ required under Chapter 19 of the County Code.
 the County Code that was in effect prior to October 30, 2014;
          (10)   a conditional use approved under Section 59.7.3.1 of Chapter 59
 of the County Code;
-         (11)   a mandatory referral; and
-         (12)   a park development plan.
+         (11)   a mandatory referral;
+         (12)   a park development plan, and.
+            an expedited approval plan.
       B.   The general procedure for meeting the requirements of
 Chapter 22A for these plans is:
          (1)   Preparation by a qualified professional, of a natural resources
@@ -203405,7 +203405,13 @@ ground, of 75 percent or more of the diameter of the designated state or County
 champion tree; and
             (d)   trees which have a diameter, measured at 4.5 feet above the
 ground with a diameter of 30 inches or greater; and
-            (e)   a tree which is a specimen of a species.
+            (e)   a tree which is a specimen of a species.;
+            a forest area located in a Tier II or Tier III high quality
+watershed as identified by the Maryland Department of Environment;
+            a forest area located in a water resource protection zone, a
+reservoir watershed or a wellhead protection area;
+         (8)   forests in urban areas as defined in Section 5-1607(c)(i) of the
+Natural Resources Article of the Maryland Code.
       B.   The following areas are not subject to the retention provisions in
 subsection 22A-12(b)(1) of the Forest Conservation Law, but should be given
 consideration for preservation where feasible:
@@ -203529,8 +203535,8 @@ Grown
 Gallon)
 SHRUBS                                                 
 Container
-Grown, 18-24"
-Height        33                 (6)                     
+Grown, 18-24"                    See reference in note
+Height        33                 6                       
 (minimum 3
 gal.)
 Notes:
@@ -203559,7 +203565,7 @@ survival requirements. Reinforcement planting must be 2" trees. All trees to be
 accepted must be healthy and have the main leader intact with minimal deer
 browse.
 6   Shrubs should be evenly distributed over the planting area and among the
-trees.. On a case-by-case basis, shrubs may be substituted with native trees
+trees. On a case-by-case basis, shrubs may be substituted with native trees
 particularly when there is evidence of deer predation or high incidence of non-
 native and invasive plants and materials.
 (7)   An alternative methodology to establish planted forest, such as planting
@@ -203571,20 +203577,22 @@ best methodology for the site. However, the density and survival requirements
 detailed in the table above must be met at a minimum.
  
       F.   Tree Save Plans.
-         (1)   Development applications on tracts which impact significant,
-specimen or champion trees, including those on adjoining properties, are
-required to submit a tree save plan.
-         (2)   Preserving significant, specimen or champion trees, and stands
-of trees which are valuable for compatibility reasons, must be included in
-these plans. If the loss of these trees is shown to be unavoidable, replacement
-must be required.
+         (1)   Development applications on tracts which impact specimen or
+champion trees, including those on adjoining properties, are required to submit
+a tree save plan.
+         (2)   Preserving specimen or champion trees, and stands of trees which
+are valuable for compatibility reasons, must be included in these plans. If the
+loss of these trees is shown to be unavoidable, replacement must be required.
          (3)   The replacement ratio must be determined in the following
 manner:
             (a)   specimen and champion trees must be replaced by a planting
-plan which may be required to include planting or transplanting of large trees;
-            (b)   significant tree stands must be replaced to replace the
-function of the stand; for instance, trees which provide screening must be
-replaced in sufficient kind and number to perform the same function.
+plan at a ratio of 1caliper inch replaced for every 4 inches of trunk diameter
+removed, measured at 4.5 feet above the ground, which may be required to
+include planting or transplanting of large trees;
+            (b)   tree stands in an existing recorded scenic buffer must be
+replaced to replace the function of the stand; for instance, trees which
+provide screening must be replaced in sufficient kind and number to perform the
+same function.
          (4)   The tree save plans must show on-site or off-site trees 6" DBH
 or greater located along the limits of disturbance if the proposed activity
 would impact the critical root zone of those trees, and must identify methods
@@ -203790,7 +203798,8 @@ Procedures for Development Review in COMCOR 50/
 59.00.01.04.
 22A.00.01.10 Inspections
       A.   The Planning Department must conduct field inspections of a site
-subject to an approved forest conservation plan as follows:
+subject to an approved forest conservation plan, tree save plan or confirmed
+forest conservation exemption as follows:
          (1)   after the limits of disturbance have been staked and flagged,
 but before any clearing or grading begins (the purpose of the meeting should be
 to field verify the limits of clearing specified on the approved plan,
@@ -203815,7 +203824,7 @@ for the remaining duration of the maintenance and management period; and
          (7)   at the end of the maintenance and management period to determine
 the level of compliance with the provisions of the planting plan and, if
 appropriate, authorize release of any financial security.
-      B.   .The applicant must:
+      B.   The applicant must:
          (a)   request these inspections at the designated points; and
          (b)   submit to the Planning Department semi-annual reports and
 photographs showing compliance with the provisions of the forest conservation
@@ -204043,8 +204052,9 @@ protective agreement if the Planning Director finds it is consistent with
 County forest conservation objectives.
 22A.00.01.16 Technical Manual for Trees
       Reserved
-(Administrative History: Reg. No. 25-22 (Method 2); Orig. Dept.: Planning
-Board; Supersedes: Reg. No. 3-21, which superseded Reg. No. 18-01AM)
+(Administrative History: Reg. No. 13-25 (Method 2); Orig. Dept.: Planning
+Board; Supersedes: Reg. No. 25-22, which superseded Reg. No. 3-21, which
+superseded Reg. No. 18-01AM)
 CHAPTER 23A. GROUP HOMES — REGULATIONS
 COMCOR
 23A.06.01   Group Residential Care Facilities
@@ -213138,7 +213148,7 @@ higher level of severity; and,
       (4)   The southwest quadrant (lower left) represents rental properties
 with a lower than average number of violations, and violations of a relatively
 lower level of severity (please refer to the illustration below).
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-7161.png]
    (i)   Those rental properties whose coordinates are located within or
 touching any boundary of the northeast quadrant shall be designated as Troubled
@@ -228545,7 +228555,7 @@ involves only:
                (i)   boarding or leaving a stationary motor vehicle; or
                (ii)   the loading or unloading of cargo.
             (C)   The table below shows when a post-accident test is required.
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-6774.png]
             (D)   If an alcohol test required by this section is not
 administered within 2 hours after the accident, a supervisor must prepare and
@@ -235775,7 +235785,7 @@ COMCOR
 COMCOR 33B.00.01 Pesticides
 33B.00.01.01 General Provisions
       A.   Authority. In accordance with the authority conferred under Chapter
-33B, Section 33B-5, of the Montgomery County Code, 2014, as amended
+33B, Section 33B-5, of the Montgomery County Code, 2024, as amended
 (hereinafter referred to as the “Code”), the County Executive hereby
 promulgates this regulation to implement County law pertaining to public
 education and safety measures required of retail sellers of pesticides as set
@@ -235800,9 +235810,6 @@ kitchen, or camp.
 from its natural state by a playground, mulched recreation area, or other
 improvement that is subject to the pesticide use restrictions under Section
 33B-10 of the Code.
-         Waterbody Environment - Any area of land managed by the Parks
-Department within 25 feet of a waterbody that is subject to the pesticide use
-restrictions under Section 33B-14 of the Code.
          Non-bulk Pesticides - Any pesticide distributed, sold, offered for
 sale, packaged, or repackaged in containers designed for less than 10 gallons
 of liquid or less than 56 pounds of dry weight.
@@ -235817,6 +235824,9 @@ appears on or is attached to a pesticide, or its immediate container, and the
 outside container or wrapper of any retail package of pesticide contains
 sufficient instructions for use and caution to satisfy the requirements of
 state and federal pesticide labeling laws.
+         Waterbody Environment - Any area of land managed by the Parks
+Department within 25 feet of a waterbody that is subject to the pesticide use
+restrictions under Section 33B-14 of the Code.
 33B.00.01.02 Display and Storage of Pesticides
       A.   A pesticide retailer must ensure that all pesticides, whenever
 displayed or stored in a retail establishment, are physically separated from
@@ -235886,8 +235896,10 @@ used in anticipation of these species being present or applied to any area of a
 landscaped environment where they are not present.
  
 Scientific Name           Common Name
+Artemisia vulgaris        Mugwort
 Fallopia japonica         Japanese Knotweed
 Ficaria verna             Lesser Celandine
+Houttuynia cordata        Chameleon Plant
 Houttuynia cordata        Chameleon Plant
 Oplismenus undulatifolius Wavyleaf Basketgrass
  
@@ -235905,28 +235917,34 @@ Scientific Name             Common Name
 Aegopodium podagraria       Bishop Weed; Goutweed
 Ailanthus altissima         Tree of Heaven
 Ampelopsis brevipedunculata Porcelain Berry
-Berberis thunbergii         Japanese Barberry
-Celastrus orbiculatus       Oriental Bittersweet
+Artemisia vulgaris          Mugwort
+Berberis thunbergii         Red Barberry
+Celastrus orbiculatus       Round Leaf Bittersweet
 Elaeagnus umbellata         Autumn Olive
 Euonymus fortunei           Winter Creeper
-Fallopia japonica           Japanese Knotweed
+Fallopia japonica           Fleeceflower
 Ficaria verna               Lesser Celandine
-Hedera helix                English Ivy
+Hedera helix                Common Ivy
 Houttuynia cordata          Chameleon Plant
-Humulus japonicus           Japanese Hops
+Humulus japonicus           Wild Hop
 Iris pseudacorus            Yellow Flag Iris
-Lonicera japonica           Japanese Honeysuckle
+Lonicera japonica           Hall’s Honeysuckle
 Lonicera maackii            Amur Honeysuckle
 Lonicera morrowi            Morrow’s Honeysuckle
 Lonicera standishii         Standish’s Honeysuckle
 Lonicera tatarica           Tatarian Honeysuckle
-Microstegium vimineum       Japanese Stiltgrass
+Microstegium vimineum       Packing Grass/Stiltgrass
 Oplismenus undulatifolius   Wavyleaf Basketgrass
 Pennisetum alopecuroides    Fountain Grass
 Persicaria perfoliata       Mile-a-Minute
+Phalaris arundicea          Reed Canary Grass
+Phragmites australis        Phragmites
 Phyllostachys spp.          Running Bamboo
+Pseudosasa japonica         Arrow Bamboo
 Pyrus calleryana ‘BradfordCallery/Bradford Pear
 Rosa multiflora             Multiflora Rose
+Typha spp.                  Cattails
+Trapa spp.                  Water Chestnut
 Wisteria sinensis           Chinese Wisteria
 Wisteria floribunda         Japanese Wisteria
  
@@ -235934,8 +235952,9 @@ Wisteria floribunda         Japanese Wisteria
 33B.00.01.08 Severability
    If a court holds that a portion of this regulation is invalid, the other
 portions remain in effect.
-(Administrative History: Reg. No. 30-19 (Method 2); Dept.: Environmental
-Protection; Supersedes: Reg. No. 23-16AM, which superseded Reg. No. 32-01AMII.)
+(Administrative History: Reg. No. 7-25AM (Method 2); Dept.: Environmental
+Protection; Supersedes: Reg. No. 30-19, which supersedes Reg. No. 23-16AM,
+which superseded Reg. No. 32-01AMII.)
 CHAPTER 35. POLICE — REGULATIONS
 COMCOR
 35.00.01   Emergency Communication Center’s Tape Charge
@@ -236857,7 +236876,7 @@ County Council or, 60 days after it is received by the Council if the Council
 takes no action to either approve or disapprove.
 (Administrative History: Reg. No. 27-96AM (Method 2); Dept.: Environmental
 Protection)
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4063.jpg]
  
 CHAPTER 38A. RADIO, TELEVISION AND ELECTRICAL APPLIANCE INSTALLATION AND
@@ -243838,370 +243857,370 @@ interception of stormwater runoff and pollutant removal from impervious
 surfaces in the right-of-way and P.I.E.
 (Administrative History: Reg. No. 31-08AM (Method 2); Dept.: Transportation)
 ATTACHMENTS FOLLOW
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4596.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4599.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4602.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4605.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4608.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4611.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4614.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-8459.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4617.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4620.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4623.jpg]
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4626.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4629.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4632.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4635.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4638.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4641.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4644.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4647.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4650.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4653.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4656.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4659.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4662.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4665.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4668.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4671.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4674.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4677.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4680.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4683.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4686.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4689.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4692.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4695.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4698.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4701.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4704.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4707.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4710.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4713.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4716.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4719.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4722.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4725.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4728.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4731.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4734.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4737.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4740.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4743.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4746.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4749.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4752.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4755.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4758.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4761.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4764.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4767.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4770.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4773.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4776.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4779.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4782.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4785.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4790.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4793.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4796.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4799.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4802.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4805.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4808.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4811.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4814.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4817.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4820.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4823.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4826.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4829.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4832.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4835.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4838.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4843.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4846.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4849.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4854.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4857.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4862.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4865.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4868.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4871.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4874.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4877.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4880.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4883.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4886.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4889.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4892.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4895.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4900.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4903.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4906.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4909.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4912.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4915.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4918.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4921.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4924.jpg]
  
 Appendix A
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4927.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4930.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4933.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4936.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4939.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4942.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4945.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4950.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4953.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4956.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4961.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4964.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4967.jpg]
  
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-4970.jpg]
  
 MONTGOMERY COUNTY CODE CHAPTER 49, ARTICLE 3. ROAD DESIGN AND CONSTRUCTION
@@ -245095,9 +245114,9 @@ Alternative Review Procedure**
 * Council Resolution 20-112
 ** Council Resolution 17-213
 COMCOR 50.10.01 Administrative Procedures for Development Review
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-7793.jpg]
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-7795.jpg]
 50.10.01.01 Purpose and Applicability
       A.   Purpose. These regulations define administrative procedures for the
@@ -247138,7 +247157,7 @@ must have a maximum width of 8" and a slip-resistant surface.
       DIAGRAM BELOW:
          1.   11" should be 11°
          2.   1.5 should be 1:5
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-6388.jpg]
       E.   Wading Pools.
          1.   Wading pools must be separate and physically set apart from
@@ -251158,7 +251177,7 @@ portions remain in effect.
 This regulation takes effect upon approval by the County Council and applies
 retroactively to the MCGC RISE Zone as of September 28, 2018.
 FIGURE 1
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-7709.png]
  
 (Administrative History: Reg. No. 2-22 (Method 2); Orig. Dept.: Finance)
@@ -251170,18 +251189,14 @@ COMCOR
 COMCOR
 53.17.01    Taxicab Rates
 COMCOR
-53.40.01    Taxicab Insurance
-COMCOR
 53.44A.01    Comparative Ranking System for Issuance of Taxicab Fleet Passenger
 Vehicle Licenses
 COMCOR
 53.107.01   Taxicab Fees*
 COMCOR
-53.110.01   Taxicab Geographic Areas of Service
-COMCOR
 53.223.01   Taxicab Participation in User-Side Subsidy Programs
-COMCOR
-53.229.01   Taxicab Motor Vehicle Model Year
+COMCOR 53.228.01   Calculation of Time When Placing or Removing a Vehicle From
+Service as it Concerns the Age of the Vehicle
 COMCOR
 53.506.01   Temporary Replacement of Accessible Taxicabs
 COMCOR
@@ -251576,9 +251591,11 @@ Works and Transportation)
 ARTICLE I. IN GENERAL, SEC. 53-17 RATES — REGULATIONS
 COMCOR 53.17.01 Taxicab Rates
 53.17.01.01 Taxicab Rates
+The
       A.   Rate for One Passenger:
          Rate for the Initial Charge                     $4.00
-         For each one-fourth mile to fifteen miles               $ .50
+         For each one-fifth mile                     $ .50
+         Night surcharge per trip (between 10 p.m. and 5 a.m.)         $1.00
       B.   Waiting and Traffic Delay Time:
          Rate for time beginning five minutes after the time the taxicab was
 called for
@@ -251592,7 +251609,8 @@ person
 for
          a personal care attendant accompanying a person with disabilities for
 mobility
-         purposes. There is no charge for children under five years of age when
+         purposes. There is no charge for children younger than five years of
+age when
          accompanied by an adult. All other passengers must pay the additional
          passenger charge.                           $1.00
       D.   Personal Service for Loading Items:
@@ -251631,25 +251649,13 @@ encourage taxicab drivers to participate in transit initiatives funded by
 grants to the County.
 The rate for each additional passenger for County Grant trips      $5.00
 53.17.01.04 Effective Date
-This regulation becomes effective when the Council adopts a resolution
-approving the regulation or on a later date specified in the regulation. If the
-Council takes no action of approval or disapproval, the regulation becomes
-automatically effective 61 days after the Council received it, or on any later
-deadline set by regulation.
-(Administrative History: Reg. No. 30-08 (Method 2); Orig. Dept.: Public Works
-and Transportation; Supersedes: Reg. No. 19-05, which superseded Reg. No. 25-
-03, which superseded Reg. No. 23-00, which superseded Reg. No. 39-97 )
-ARTICLE II. TAXICAB LICENSE, SEC. 53-40 INSURANCE REQUIRED OF APPLICANTS —
-REGULATIONS
-COMCOR 53.40.01 Taxicab Insurance
-53.40.01.01 Minimum Insurance Requirements
-      The minimum liability insurance requirements for each taxicab licensed
-under Chapter 53 of the Montgomery County Code, 1994, as amended are:
-      $100,000   Bodily Injury or death each person
-      $300,000   Bodily Injury or death each accident
-      $ 25,000   Property Damage
-   (Administrative History: Reg. No. 42-97 (Method 3); Orig. Dept.: Public
-Works and Transportation)
+This regulation will take effect on February 1, 2026.
+(Administrative History: Reg. No. 23-25 (Method 2); Orig. Dept.:
+Transportation; Supersedes: Reg. No. 30-08, which superseded Reg. No. 19-05,
+which superseded Reg. No. 25-03, which superseded Reg. No. 23-00, which
+superseded Reg. No. 39-97)
+(Administrative History: Reg. No. 42-97 (Method 3); Orig. Dept.: Public Works
+and Transportation, was repealed November 18, 2025 by Reg. No. 6-25.)
 ARTICLE II. TAXICAB LICENSE, SEC. 53-44A FLEET TAXICAB COMPANY LICENSES —
 REGULATIONS
 COMCOR 53.44A.01 Comparative Ranking System for Issuance of Taxicab Fleet
@@ -251746,50 +251752,8 @@ TAXICAB FEES
          5 - 100 PVLs               $10,000 +$500/PVL over 4
          101 + PVLs               $58,000 + $250/PVL over 100
                            $ 50
-ARTICLE II. TAXICAB LICENSE, SEC.53-110 CUSTOMER SERVICE REQUIREMENTS —
-REGULATIONS
-COMCOR 53.110.01 Taxicab Geographic Areas of Service
-53.110.01.01 Background Information
-The Montgomery County Code Chapter 53, Section 53-110(b)(3) requires that a
-regulation be enacted to define taxicab geographic areas of service.
-The purpose of the regulation is to establish specific boundaries for taxicab
-service. Fleets and associations will be required to provide customer service
-data for each of the defined geographic areas. The specific requirements for
-the customer service data appear in a separate regulation.
-53.110.01.02 Geographic Areas of Service
-   The following seven (7) geographic areas of taxicab service are established
-as follows:
-      1.   Area 1 (Total Population 141,255)
-         Taxicab Geographic Areas — Poolesville, Dickerson, Beallsville, Boyds,
-Darnestown, Germantown, Seneca, Barnesville, Martinsburg, Little Bennett,
-Goshen, Clarksburg, Damascus, Patuxent, and Mount Airy
-      Zip Codes — 20874, 20837, 20839, 20842, 20838, 20841, 20876, 20871,
-20872, and 21771
-      2.   Area 2 ( Total Population - 144,595)
-         Taxicab Geographic Areas — Gaithersburg, Gaithersburg City, Montgomery
-Village, and Upper Rock Creek
-         Zip Codes — 20878, 20877, 20879, 20886, and 20882
-      3.   Area 3 (Total Population - 170,220)
-         Taxicab Geographic Areas — Laurel, Olney, Brookeville, Ashton,
-Brinklow, Burtonsville, Cloverly, Four Corners/Kemp Mill, and Colesville
-         Zip Codes — 20833, 20862, 20832, 20860, 20861, 20905, 20866, 20707,
-and 20904
-      4.   Area 4 (Total Population - 115,575)
-         Taxicab Geographic Areas — Rockville, Aspen Hill, and Derwood
-         Zip Codes — 20850, 20851, 20852, 20853, 20855, and 20906
-      5.   Area 5 (Total Population - 78,695)
-         Taxicab Geographic Areas — Potomac and Travilah
-         Zip Codes — 20854
-      6.   Area 6 (Total Population - 133,515)
-         Taxicab Geographic Areas — Bethesda, Chevy Chase, North Bethesda, and
-Cabin John
-         Zip Codes — 20818, 20816, 20817, 20814, 20815, 20892, and 20889
-      7.   Area 7 (Total Population - 143,344)
-         Taxicab Geographic Areas — Silver Spring, Kensington, and Takoma Park
-         Zip Codes — 20902, 20895, 20910, 20901, 20903, and 20912
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
-IMAGES/0-0-0-4122.jpg]
- 
+(Administrative History: Reg. No. 14-06 (Method 2); Orig. Dept.: Public Works
+and Transportation, was repealed November 18, 2025 by Reg. No. 8-25.)
 ARTICLE II. TAXICAB LICENSES, DIVISION 4. ADDITIONAL DUTIES OF FLEETS AND
 ASSOCIATIONS, SEC. 53-223 USER-SIDE SUBSIDY PROGRAMS - PARTICIPATION —
 REGULATIONS
@@ -251813,96 +251777,123 @@ automatically effective 61 days after the Council received it, or on any later
 deadline set by regulation.
 (Administrative History: Reg. No. 21-07 (Method 2); Orig. Dept.: Public Works
 and Transportation)
+ 
 ARTICLE II. TAXICAB LICENSES, DIVISION 5. TAXICAB VEHICLES, SEC. 53-228
-PROCEDURE WHEN VEHICLE PLACED IN OR REMOVED FROM SERVICE — REGULATIONS
-   See also COMCOR
-53.229.01 Taxicab Motor Vehicle Model Year
-ARTICLE II. TAXICAB LICENSES, DIVISION 5. TAXICAB VEHICLES, SEC. 53-229 AGE OF
-VEHICLES — REGULATIONS
-COMCOR 53.229.01 Taxicab Motor Vehicle Model Year
-53.229.01.01 Background Information
-   Montgomery County Code Section 54-104 requires that unless otherwise
-specified in this Chapter, the County Executive may adopt regulations under
-method (2) to administer this Chapter.
-   Section 53-228(g) states that, “Any vehicle placed in service as a taxicab
-must not be more than 4 model years old.” Section 53-229(a) states that, “A
-licensee must not use any vehicle that is more than 7 model years old to
-provide taxicab service in the County. As used in this Chapter, the ‘model
-year’ of a vehicle is the year designated by the vehicle manufacturer, as
-indicated on the vehicle or in the manufacturer’s records. A licensee may
-maintain a vehicle in service until the next December 31 after its seventh
-model year ends if the vehicle passes a comprehensive safety inspection
-performed during the preceding August by a state-certified inspector in good
-standing.
-   The intent of establishing a limit on the age of motor vehicles providing
-taxicab service is that these vehicles, especially in the County which is 500
-square miles, tend to attain a high level of mileage. During the code revision
-in 2004, the intent was to increase the time a motor vehicle could be in
-service from 6 to 7 years with no waiver and no mileage limitation.
-53.229.01.02 Purpose
-   The purpose of the regulation is to establish a written policy to clarify
-placing taxicab motor vehicles in service and removing vehicles from service as
-taxicabs and to establish the calendar day and month for the beginning of each
-model year.
-53.229.01.03 Regulations
-      a.   A model year begins on September 1st of each calendar year.
+REGARDING THE CALCULATION OF TIME WHEN PLACING OR REMOVING A VEHICLE FROM
+SERVICE AS IT CONCERNS THE AGE OF THE VEHICLE — REGULATIONS
+COMCOR 53.228.01 Calculation of Time When Placing or Removing a Vehicle From
+Service as it Concerns the Age of the Vehicle
+53.228.01.01 Purpose
+The purpose of the regulation is to instruct how time will be calculated for
+the purpose of placing taxicab vehicles in service and removing taxicab
+vehicles from service as well as to establish the calendar day and month for
+the beginning and the end of each model year.
+53.228.01.02 Regulations
+a.   A model year begins on September 1 and ends on August 31 of each calendar
+year.
       b.   A new model year motor vehicle is considered to have no age (zero
 years old in its first model year).
       c.   A new model year motor vehicle is considered one year old after
-August 31st.
-      d.   A motor vehicle may be placed in service when it is up to and
-including 4 years old.
-      e.   A vehicle must be taken out of service when it is not safe and
-reliable regardless of the model year.
-53.229.01.04. Model Year Chart
-   Attached to this regulation as Exhibit “A” is a “Model Year Chart.” The
-Chart describes the year(s) in which vehicles can be placed in service and the
-year(s) in which vehicles must be removed from service for Vehicle Model Years
-2000 to 2018. The purpose of this chart is to demonstrate the application of
-this regulation. The inclusion of the Chart is for demonstration purposes and
-does not suggest that this Regulation has a termination date.
-53.229.01.05 Effective Date
-   This regulation becomes effective when the Council adopts a resolution
+August 31.
+d.   A motor vehicle may be placed in service when it is up to and including
+five years old.
+e.   A vehicle must be taken out of service when it is not safe and reliable
+regardless of the model year.
+53.228.01.03 Model Year Charts
+Attached to this regulation are two Model Year Charts which describe the year
+(s) in which certain vehicles can be placed into revenue service and the year
+(s) in which certain vehicles must be removed from revenue service.
+The purpose of the first chart attached as Exhibit “A” is to demonstrate the
+application of this regulation for traditional gas-powered vehicles that are
+not hybrid, electric, or wheelchair accessible sedans for model years 2015
+through 2030 (the “Model Year Chart for Traditional Vehicles”). The inclusion
+of the Model Year Chart for Traditional Vehicles is for demonstration purposes
+and does not suggest that this Regulation has a termination date.
+The purpose of the second chart attached as Exhibit “B” is to demonstrate the
+application of this regulation for electric, hybrid, and wheelchair accessible
+vehicles from 2013 through 2030 (“Model Year Chart for Electric, Hybrid and
+Wheelchair Accessible Vehicles”). The inclusion of the Model Year Chart for
+Electric, Hybrid and Wheelchair Accessible Vehicles is for demonstration
+purposes and does not suggest that this Regulation has a termination date.
+53.228.01.04 Effective Date
+This regulation becomes effective when the Council adopts a resolution
 approving the regulation or on a later date specified in the regulation. If the
-Council takes no action of approval or disapproval, the regulation becomes
-automatically effective 61 days after the Council received it, or on any later
-deadline set by regulation.
-(Administrative History: Reg. No. 25-07 (Method 2); Orig. Dept. Dept. of
-Transportation)
-EXHIBIT “A”
-MODEL YEAR CHART
-                   CALENDAR YEAR
-Vehicle Model Year (September 1st thru August 31st year)
-                   2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
-MODEL YEAR CHART
-                   CALENDAR YEAR
-Vehicle Model Year (September 1st thru August 31st year)
-                   2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
-2018               N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  A
-2017               N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  A    A
-2016               N/A  N/A  N/A  N/A  N/A  N/A  N/A  N/A  A    A    A
-2015               N/A  N/A  N/A  N/A  N/A  N/A  N/A  A    A    A    A
-2014               N/A  N/A  N/A  N/A  N/A  N/A  A    A    A    A    A
-2013               N/A  N/A  N/A  N/A  N/A  A    A    A    A    A    B
-2012               N/A  N/A  N/A  N/A  A    A    A    A    A    B    B
-2011               N/A  N/A  N/A  A    A    A    A    A    B    B    B
-2010               N/A  N/A  A    A    A    A    A    B    B    B    C
-2009               N/A  A    A    A    A    A    B    B    B    C    O
-2008               A    A    A    A    A    B    B    B    C    O    O
-2007               A    A    A    A    B    B    B    C    O    O    O
-2006               A    A    A    B    B    B    C    O    O    O    O
-2005               A    A    B    B    B    C    O    O    O    O    O
-2004               A    B    B    B    C    O    O    O    O    O    O
-2003               B    B    B    C    O    O    O    O    O    O    O
-2002               B    B    C    O    O    O    O    O    O    O    O
-2001               B    C    O    O    O    O    O    O    O    O    O
-2000               C    O    O    O    O    O    O    O    O    O    O
+Council does not approve or disapprove the proposed regulation with 60 days
+after receiving it, or by any subsequent deadline set by resolution, the
+regulation is automatically approved.
+(Administrative History: Reg. No. 5-25 (Method 2); Orig. Dept.: Dept. of
+Transportation; Supersedes: Reg. No. 25-07)
+   EXHIBITS “A” AND “B” FOLLOW
+   EXHIBIT “A”
  
-A = New to 4 model years old (CAN BE PLACED IN SERVICE)
-B = 5 to 7 model years old (CANNOT BE PLACED IN SERVICE)
-C = 8 model years old (MUST BE TAKEN OUT OF SERVICE BY AUGUST 31ST OR WITHIN
-EXTENSION December 31st)
-O = Out of Service
+MODEL YEAR CHART FOR TRADITIONAL VEHICLES
+Vehicle CALENDAR YEAR
+Model   (September 1 thru August 31)
+Year    2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045
+MODEL YEAR CHART FOR TRADITIONAL VEHICLES
+Vehicle CALENDAR YEAR
+Model   (September 1 thru August 31)
+Year    2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045
+2030    N/A  N/A  N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O
+2029    N/A  N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O
+2028    N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O
+2027    N/A  A    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O
+2026    A    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O
+2025    A    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O
+2024    A    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O
+2023    A    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O
+2022    A    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O
+2021    A    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2020    A    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2019    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2018    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2017    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2016    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2015    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+ 
+A = New to five model years old: Eligible to be placed into revenue service.
+B = Six to nine model years old: Eligible to provide taxicab service but not
+for initial placement into revenue service.
+C = Ten model years old: Must be removed from revenue service by August 31 or
+by extension December 31.
+O = Out of Service.
+N/A = Not Applicable.
+ 
+   EXHIBIT “B”
+MODEL YEAR CHART FOR HYBRID, ELECTRIC AND WHEELCHAIR ACCESSIBLE VEHICLES
+Vehicle CALENDAR YEAR
+Model   (September 1 thru August 31)
+Year    2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045
+MODEL YEAR CHART FOR HYBRID, ELECTRIC AND WHEELCHAIR ACCESSIBLE VEHICLES
+Vehicle CALENDAR YEAR
+Model   (September 1 thru August 31)
+Year    2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045
+2030    N/A  N/A  N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O
+2029    N/A  N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O
+2028    N/A  N/A  A    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O
+2027    N/A  A    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O
+2026    A    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O
+2025    A    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O
+2024    A    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O
+2023    A    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O
+2022    A    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O
+2021    A    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O
+2020    A    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O
+2019    B    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2018    B    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2017    B    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2016    B    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2015    B    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2014    B    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+2013    C    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O    O
+ 
+A = New to five model years old: Eligible to be placed into revenue service.
+B = Six to eleven model years old: Eligible to provide taxicab service but not
+for initial placement into revenue service.
+C = Twelve model years old: Must be removed from revenue service by August 31
+or by extension December 31.
+O = Out of Service.
+N/A = Not Applicable.
 ARTICLE V. ACCESSIBILITY, SEC. 53-506 NUMBER OF ACCESSIBLE TAXICAB LICENSES —
 REGULATIONS
 COMCOR 53.506.01 Temporary Replacement of Accessible Taxicabs
@@ -253808,9 +253799,9 @@ least six feet.
 (Administrative History: Reg. No. 18-09AM (Method 2); Orig. Dept.: Permitting
 Services)
 COMCOR 59.00.05 Administrative Procedures for Development Review
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-6911.png]
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-6913.png]
 59.00.05.01 Purpose and Applicability
       A.   Purpose. These regulations define administrative procedures for the
@@ -253927,7 +253918,7 @@ sketch or project plans, preliminary and administrative subdivision plans, site
 plans, and record plats. Figure 1, below summarizes these plans, including
 references to the specific sections of the County Code that contain their
 requirements, and how they fit into the overall regulatory review process.
-[https://export.amlegal.com/media/1d4e17f63f7f356de05bb33932bafbb405966ce0/
+[https://export.amlegal.com/media/7bed3855ccead6dbf7cccb3fd59929eb06cf8462/
 IMAGES/0-0-0-6921.png]
    Figure 1. Land Development Plan Application Types
       B.   Plan Amendments. Proposed changes to a plan that has been approved
@@ -256265,7 +256256,7 @@ Number
 12.21.96AM   49.79.01                                                   21-96AM    Rustic Roads
 12.31.97     11B.45.01                                                  31-97      Disposition of
                                                                                    Real Property
-12.42.97     53.40.01                                                   42-97      Taxicab
+12.42.97     Removed; Repealed 11/18/25                                 42-97      Taxicab
                                                                                    Insurance
                                                                                    Comparative
                                                                                    Ranking System
@@ -256899,7 +256890,7 @@ Number
 31-97      Superseded by 11-13AM; see 11B.45.01                                          Disposition of Real Property
 41-97      21.09.01 Repealed 12/9/14 by Council Resolution 18-15 at County Executive’s Fire and Rescue Service Disaster Plan
            request
-42-97      53.40.01                                                                      Taxicab Insurance
+42-97      53.40.01 - removed; repealed 11/18/25 by Reg. No. 6-25                        Taxicab Insurance
 43-97AM    57.08.01                                                                      Child Safety Handgun Devices
 44-97AM    10B.06.01                                                                     Dispute Resolution Procedures
 45-97      53.44A.01                                                                     Comparative Ranking System for Issuance of Taxicab Fleet Passenger
@@ -257140,7 +257131,7 @@ Number
 11-06      Superseded by 15-07; see 59.00.01                                             Permit Fees and Requirements Related to Construction Debris Reclamation
                                                                                          Facility
 12-06      19.67.02                                                                      Schedule of Fees for Permits, Licenses and Inspections — Method 3
-14-06      53.110.01                                                                     Taxicab Geographic Areas of Service
+14-06      53.110.01 - removed; repealed 11/18/25 by Reg. No. 8-25                       Taxicab Geographic Areas of Service
 16-06      Incorporated into 33.07.01                                                    MCPR Amendment to Extend the Sunset Date
 17-06AM    Superseded by 20-12; see 02.42A.07                                            Requirements for the Supportive Housing Rental Assistance Program
 18-06AM    25B.24.01                                                                     Workforce Housing Program
@@ -257176,7 +257167,7 @@ Number
 22-07      Incorporated into 33.07.01                                                    MCPR Amendment to Extend the Sunset Date
 23-07AM    Incorporated into 33.07.01                                                    Amendments to Sections 8, 9, 10, 11, 12, 15, 17, 21, 22 and 33 of the
                                                                                          MCPR
-25-07AM    53.229.01                                                                     Taxicab Motor Vehicle Model Year
+25-07AM    Superseded by 5-25; see 53.228.01                                             Taxicab Motor Vehicle Model Year
                                                                                          Comprehensive Amendments to the 2001 Montgomery County Personnel
 26-07AM    Superseded by 16- 13AMII; see 33.07.01                                        Regulations (Amendments to Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
                                                                                          12, 13, 14, 15, 16, 17, 19, 21, 22, 25, 29, 30, 31, 32, 33, 34, 35)
@@ -257208,7 +257199,7 @@ Number
 25-08AM    21.02.08 - removed; repealed 9/27/16 by Reg. No. 4-16                         Apparatus Staffing Policy
 26-08      18A.11.01                                                                     Clean Energy Rewards Program
 29-08AM    22.00.05 - removed; repealed 8/1/16 by Reg. No. 9-16                          Fire Safety - Fire Department Apparatus Access and Water Supply
-30-08      53.17.01                                                                      Taxicab Rates
+30-08      Superseded by 23-25; see 53.17.01                                             Taxicab Rates
 31-08AM    49.28.01                                                                      Context Sensitive Road Design Standards
 32-08      Superseded by 1-18AM; see 49.30.01                                            Speed Humps
 34-08AM    57.04.01                                                                      Weapons - Discharge of Guns Within Montgomery County
@@ -257448,7 +257439,7 @@ Number
 23-19      17.02.01                                                                      Adoption of the 2017 National Electric Code
 25-19      Incorporated into 33.07.01                                                    Personnel Regulations; adding Office of Labor Relations
 26-19      Incorporated into 33.07.01                                                    Personnel Regulations; Employee Compensation
-30-19      33B.00.01                                                                     Pesticides - Invasive Species
+30-19      Superseded by 7-25AM; see 33B.00.01                                           Pesticides - Invasive Species
 31-19      Superseded by 13-24; see 08.00.02                                             Adoption of the 2018 IBC, IECC, IMC, IFGC, IRC, ISPSC, and IEBC
 2-20       01A.104.23                                                                    Position Description for Director of Strategic Partnerships
 3-20       Superseded by 1-23; see 01A.104.34                                            Position Description for Assistant Chief of Police (Civilian)
@@ -257500,7 +257491,7 @@ Number
 22-22      01A.104.15                                                                    Position Description for Chief, Public Health Services
 24-22      01A.104.19                                                                    Position Description for Special Projects Manager, Office of Chief
                                                                                          Administrative Officer
-25-22      22A.00.01                                                                     Forest Conservation
+25-22      Superseded by 13-25; see 22A.00.01                                            Forest Conservation
 1-23       Superseded by 17-24; see 01A.104.34                                           Position Description for Assitant Chief of Police (Civilain)
 2-23T      Superseded by 2-23; see 20.76E.01                                             Small Business Innovation Research and Small Business Technology
                                                                                          Transfer Matching Grant Program
@@ -257536,10 +257527,13 @@ Number
 14-24      22.00.07                                                                      Fire Safety Code - Building Construction
 17-24      01A.104.34                                                                    Position Description for Assistant Chief of Police (Civilian)
 18-24      53.801.01                                                                     Transportation Services Improvement Fund
+5-25       53.228.01                                                                     Taxicab Motor Vehicle Model Year
+7-25AM     33B.00.01                                                                     Pesticides - Invasive Species
 9-25       48.08.03                                                                      Systems Benefit Charges - Residential Waste Estimates
 10-25      16.21.01                                                                      Public Election Fund
 11-25      Incorporated into 33.07.01                                                    Personnel Regulations; Service Increments
 12-25      03A.00.01                                                                     Policies, Procedures and Fees for Alarm Businesses and Alarm Users
+13-25      22A.00.01                                                                     Forest Conservation
 14-25      21.23A.01                                                                     Emergency Medical Services Reimbursement Program
 18-25T     Superseded by 18-25; see 29.20.01                                             Establishment of Annual Rental Facility License Fees for Processing
                                                                                          Class 1, Class 2 and Class 3 Apartment Licenses
@@ -257551,6 +257545,7 @@ Number
                                                                                          Communities
 20-25      10B.07.02                                                                     Establishment of Annual Registration Fee for Common Ownership
                                                                                          Communities
+23-25      53.17.01                                                                      Taxicab Rates
 24-25      Incorporated into 33.07.01                                                    Personnel Regulations; Recruitment and Application Rating Procedures
                                                                                         
  
@@ -258079,13 +258074,12 @@ Fee   49.62.01
    State Highway User Revenues for Private Maintenance Roads - Easement and
       Maintenance Requirements for Receipt and Use   24B.00.01
    Taxicab
+      Age of the Vehicle; Calculation of Time When Placing or Removing a
+      Vehicle From Service   53.228.01
       Fees       53.38.01
       Fines      53.603.01
       Fleet Licenses - Comparative Ranking System for Issuance   53.44A.01
-      [Taxicab] Geographic Areas of Service   53.110.01
       Industry Reporting Requirements    53.00.01
-      Insurance    53.40.01
-      [Taxicab] Motor Vehicle Model Year   53.229.01
       Rates       53.17.01
       Temporary Replacement of Accessible Taxicabs   53.506.01
       Wheelchair Accessible Taxicab Vans - Standards   53.12.01
@@ -258631,13 +258625,12 @@ Credit   52.18O.01
     Government-Initiated Change    52.18C.01
    Department of Finance    52.07.01
 Taxicab
+   Age of the Vehicle; Calculation of Time When Placing or Removing a
+    Vehicle From Service   53.228.01
    Fees    53.107.01
    Fines   53.603.01
    Fleet Licenses - Comparative Ranking System for Issuance    53.44A.01
-   Geographic Areas of Service   53.110.01
    Industry Reporting Requirements    53.00.01
-   Insurance    53.40.01
-   Motor Vehicle Model Year   53.229.01
    Participation in User-Sided Subsidy Programs   53.223.01
    Rates    53.17.01
    Temporary Replacement of Accessible Taxicabs   53.506.01
