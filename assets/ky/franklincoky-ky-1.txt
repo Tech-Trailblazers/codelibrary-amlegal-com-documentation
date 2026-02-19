@@ -312,50 +312,50 @@ Ord. No. Eff. Date  Short Title and Code Sections Affected
  
 2026 Ordinances
 Ord. No. Eff. Date Short Title and Code Sections Affected
-Ord. No. Eff. Date  Short Title and Code Sections Affected
-                    Amending code re: General Administration
-1-2026   1-7-2026    
-                    Section affected:
-                    30.001 - 30.006; Adding 30.007
-                    Amending code re: Financial Administration
-2-2026   1-7-2026    
-                    Section affected:
-                    30.020 - 30.024; Adding 30.025
-                    Amending code re: purchasing and contracts
-3-2026   1-7-2026    
-                    Section affected:
-                    30.115 - 30.125; Adding 30.126 - 30.129
-                    Amending code re: Road Department
-4-2026   1-7-2026    
-                    Section affected:
-                    30.135 - 30.138; Repeal 30.139
-                    Amending code re: Operation of County Fiscal Court
-6-2026   1-7-2026    
-                    Section affected:
-                    30.150 - 30.155; Adding 30.156, 30.157
-                    Amending code re: County services
-7-2026   1-7-2026    
-                    Section affected:
-                    Adding 30.159 - 30.169
-                    Amending code re: County policies
-8-2026   1-7-2026    
-                    Section affected:
-                    30.170 - 30.173
-                    Amending code re: investment policy
-9-2026   1-7-2026    
-                    Section affected:
-                    Adding 30.175
-                    Amending code re: internet security
-10-2026  12-18-2026  
-                    Section affected:
-                    Adding 30.176
-                   
-                   
+Ord. No. Eff. Date Short Title and Code Sections Affected
+                   Amending code re: General Administration
+1-2026   1-7-2026   
+                   Section affected:
+                   30.001—30.007
+                   Amending code re: Financial Administration
+2-2026   1-7-2026   
+                   Section affected:
+                   30.020—30.024
+                   Amending code re: purchasing and contracts
+3-2026   1-7-2026   
+                   Section affected:
+                   30.115—30.129
+                   Amending code re: Road Department
+4-2026   1-7-2026   
+                   Section affected:
+                   30.135—30.137
+                   Amending code re: Operation of County Fiscal Court
+6-2026   1-7-2026   
+                   Section affected:
+                   30.150—30.157
+                   Amending code re: County services
+7-2026   1-7-2026   
+                   Section affected:
+                   30.158—30.168
+                   Amending code re: County policies
+8-2026   1-7-2026   
+                   Section affected:
+                   30.170—30.173
+                   Amending code re: investment policy
+9-2026   1-7-2026   
+                   Section affected:
+                   30.174
+                   Amending code re: internet security
+10-2026  1-7-2026   
+                   Section affected:
+                   30.175
+                  
+                  
  
  
 FRANKLIN COUNTY, KENTUCKY
 CODE OF ORDINANCES
-2025 S-5 Supplement current through Ord. 7-2025, passed 7-30-2025
+2026 S-5 Supplement current through Ord. 10-2026, passed 1-7-2026
 State legislation current through KRS Pamphlet 2024
  
 Published by:
@@ -828,18 +828,19 @@ General Administration
    
 30.001   County Judge/Executive
    
-30.002   Appointment procedures for Deputy Judge/Executive
-   
-30.003   Procedures for appointment/removal of administrative personnel and
-members of boards and commissions
-   
-30.004   Procedures for organization/reorganization of county departments and
+30.002   Procedures for organization/reorganization of county departments and
 agencies
    
-30.005   Procedures and reports to Fiscal Court by county administrative
-agencies and public authorities
+30.003   Special districts
    
-30.006   Executive committee
+30.004   County representation on boards and commissions
+   
+30.005   Appointed positions
+   
+30.006   Procedures for appointment/removal of administrative personnel and
+members of boards and commissions
+   
+30.007   County procedures for administrative agencies
 Financial Management
    
 30.020   Budget preparation procedures
@@ -995,60 +996,95 @@ Purchases and Contracts
    
 30.115   Authorization of county contracts
    
-30.116   Selection of vendors and contractors (procedures for sealed bidding)
+30.116   Purchasing duties and delegation
    
-30.117   Procedures for determinations of qualifications of bidders
+30.117   Selection of vendors and contractors (procedures for sealed bidding)
    
-30.118   Procedures prerequisite to use of negotiated process
+30.118   Procedures for determination of qualification of bidders
    
-30.119   Procedures for negotiated process
+30.119   Procedures prerequisite to use of negotiated process
    
-30.120   Small purchase procedures
+30.120   Procedures for negotiated process
    
-30.121   Storage and inventory control
+30.121   Small purchase procedures
    
-30.122   Procedures for disposition of surplus property
+30.122   Hold harmless clause
    
-30.123   Sole source procurement
+30.123   Storage and inventory control (procedures for receiving, storing, and
+disbursing repetitive use items)
    
-30.124   Federal fund procurement
+30.124   Disposition of county surplus property
    
-30.125   Effect of federal grants upon public purchasing units
+30.125   Vendor cards
+   
+30.126   Procurement procedures
+   
+30.127   Sole source procurement
+   
+30.128   Federal fund procurement
+   
+30.129   Effect of federal grants upon public purchasing units
 Delivery of County Services
    
-30.135   Establishment of County Road Department
+30.135   Establishment of Department
    
 30.136   Duties of the Road Supervisor
    
 30.137   County road inventory/condition
    
 30.138   Specifications for county roads
-   
-30.139   Other county services
 Operation of County Fiscal Court
    
-30.150   Procedures for meetings of Fiscal Court
+30.150   Procedures for meetings of the County Fiscal Court
    
 30.151   Presiding officer
    
 30.152   Quorum
    
-30.153   Order of business
+30.153   Disturbing meetings
    
-30.154   Fiscal Court records and minutes
+30.154   Order of business
    
-30.155   Ordinances, orders and resolutions
+30.155   County Fiscal Court minutes
+   
+30.156   Rules of order
+   
+30.157   Ordinances, orders, and resolutions
+   
+30.158   Sheriff services
+   
+30.159   Road Department
+   
+30.160   County road system
+   
+30.161   Parks and recreation
+   
+30.162   Contents of planning and subdivision regulations
+   
+30.163   Law enforcement policies
+   
+30.164   Jail policies
+   
+30.165   Fire Department
+   
+30.166   Planning/Zoning/Code Enforcement Office
+   
+30.167   Occupation Tax Office
+   
+30.168   Lakeview Park
 Other County Policies
    
 30.170   Equal opportunity
    
-30.171   County investment policy
+30.171   Department of Planning, Zoning and Building Code Enforcement
    
-30.172   Department of Planning, Zoning and Building Code Enforcement
+30.172   Acceptable uses of the internet and county e-mail
    
-30.173   Acceptable uses of the internet and county e-mail
+30.173   Protection of personal information
    
-30.174   Protection of personal information
+30.174   County investments policy
+   
+30.175   Internet security
 Editor’s note:
 The following ordinances have amended this chapter: Ord. 7-2015, effective 10-
 16-2015; Ord. 1-2016, effective 3-8-2016; Ord. 2-2016, effective 3-8-2016; Ord.
@@ -1059,148 +1095,189 @@ any amendments to this chapter passed after August 2018 will be included
 directly after the section affected.
 GENERAL ADMINISTRATION
 § 30.001 COUNTY JUDGE/EXECUTIVE.
-   (A)   The County Judge/Executive shall be the chief executive of the county
-and shall have all the powers and perform all the duties of an executive and
-administrative nature consistent with the State Constitution and state
-statutes.
-   (B)   The responsibilities and duties of the County Judge/Executive are
-defined in KRS 67.710.
-   (C)   Additional responsibilities of the County Judge/Executive are found in
-KRS 67.715, which includes organization of county functions, special districts
-and county representation.
-   (D)   The County Judge/Executive may appoint office personnel as permitted
-by KRS 67.710 and consistent with the classification and compensation plan.
-(Ord. 4-2014, passed 7-31-2014, § 1.1)
-§ 30.002 APPOINTMENT PROCEDURES FOR DEPUTY JUDGE/EXECUTIVE.
-   (A)   The County Judge/Executive may designate by written executive order,
-within 30 days of assuming office, a Deputy Judge/Executive who shall serve
-consistent with KRS 67.711 as Judge/ Executive in the absence of the County
-Judge/Executive.
-   (B)   The County Judge/Executive shall be deemed absent when he or she is
-physically absent from the county, physically disabled or prevented by other
-emergency beyond control which would prevent from physically attending meetings
-of the Fiscal Court. A vacation, including one taken within the county, shall
-be considered an absence.
-   (C)   Such appointment of a Deputy Judge/Executive shall continue until such
-time as the County Judge/Executive publishes a written revocation of the
-appointment or makes a new appointment or upon the resignation of the Deputy
-County Judge/Executive.
-   (D)   The Deputy Judge/Executive shall have all administrative powers and
-authority as the County Judge/Executive. The Deputy Judge/Executive shall not
-chair or vote on the Fiscal Court.
-(Ord. 4-2014, passed 7-31-2014, § 1.2)
-§ 30.003 PROCEDURES FOR APPOINTMENT/REMOVAL OF ADMINISTRATIVE PERSONNEL AND
-MEMBERS OF BOARDS AND COMMISSIONS.
-   (A)   The County Judge/Executive shall nominate qualified persons to serve
-on boards and commissions. Such appointments may be placed on the agenda of any
-regular or special meeting of the Fiscal Court. If state law requires approval
-by the Fiscal Court of the nomination, the Fiscal Court shall act on such
-nomination within 60 days. If the Fiscal Court does not act on the nomination
-within the 60- day time period, said nomination will be deemed rejected by the
-Fiscal Court. A majority of the Fiscal Court members present at a meeting shall
-vote in favor of the nomination in order for it to be approved.
-   (B)   The Fiscal Court may require the nominee to appear at a public hearing
-for the purpose of questioning about matters related to the position for which
-he or she has been nominated. The nominee will be notified by mail if this is
-the Court’s intention. The Fiscal Court shall provide the nominee with an
-opportunity to make a statement concerning his or her nomination and
-qualifications.
-   (C)   No person shall be selected as a member of a board or commission if
-that person holds or is employed in a position that is incompatible with the
-one for which he or she is nominated.
-   (D)   In the event the Fiscal Court rejects the nominee, the County Judge/
-Executive shall submit additional nominations, not to exceed ten for any one
-position; and, if Fiscal Court rejects all ten, the County Judge/Executive
-shall appoint a person to serve on a temporary basis, not to exceed one year.
-   (E)   When state law does not require Fiscal Court approval of an
-appointment, the County Judge/Executive shall make that appointment. Within 30
-days of making the appointment, the County Judge/Executive shall notify the
-Fiscal Court in writing of the appointment. The notice may be filed with the
-County Clerk.
-   (F)   Before any board or commission member may be dismissed, that person
-shall be presented, in writing, a list of reasons setting forth the basis for
-the dismissal. The notice shall be delivered via registered mail to the last
-known address of the individual being dismissed. The County Judge/Executive
-shall conduct a termination conference no sooner than ten, and no later than
-21, days after receipt of the reason for dismissal. At the conference, the
-person being dismissed will have the opportunity to respond, to be represented
-by counsel and to call witnesses. The County Judge/Executive shall issue a
-written opinion, which shall contain the findings of fact and his or her
-determination, and shall cause a copy of it to be provided contemporaneously to
-members of the Fiscal Court.
-(Ord. 4-2014, passed 7-31-2014, § 1.3)
-§ 30.004 PROCEDURES FOR ORGANIZATION/REORGANIZATION OF COUNTY DEPARTMENTS AND
+   (A)   The County Judge/Executive shall be the chief executive and
+administrative officer of the county and shall have all the powers and perform
+all the duties of an executive and in an administrative nature consistent with
+the Kentucky Constitution, Kentucky Revised Statutes, and the County Fiscal
+Court.
+   (B)   The responsibilities and/or duties of the County Judge/Executive, as
+defined by KRS 67.710, are as follows:
+      (1)   Provide for the execution of all ordinances and resolutions of the
+County Fiscal Court, execute all contracts entered into by the County Fiscal
+Court, and provide for the execution of all laws by the state subject to
+enforcement by him or by government personnel who are under his direction and
+supervision;
+      (2)   Prepare and submit to the County Fiscal Court for approval an
+administrative code incorporating the details of administrative procedure for
+the operation of the county and review such code and suggest revisions in June
+annually, periodically or at the request of the County Fiscal Court;
+      (3)   Furnish the County Fiscal Court with information concerning the
+operations of all county departments, boards, or commissions, necessary for the
+County Fiscal Court to exercise its powers or as requested by the County Fiscal
+Court;
+      (4)   Require all officials, elected or appointed, whose offices utilize
+county funds, and all boards, special districts, and commissions exclusive of
+city governments and their agencies located within the county to make a
+detailed annual financial report to the County Fiscal Court concerning the
+business and condition of their office, department, board, commission, or
+special districts no later than March 31 annually;
+      (5)   Consistent with procedures set forth in KRS Chapter 68, prepare and
+submit to the County Fiscal Court an annual budget and administer the
+provisions of the budget when adopted by the County Fiscal Court;
+      (6)   Keep the County Fiscal Court fully advised as to the financial
+condition and needs of the county and make such other reports from time to time
+as required by the County Fiscal Court or as he or she deems necessary;
+      (7)   Exercise with the approval of the County Fiscal Court the authority
+to appoint, supervise, suspend, and remove county government personnel (unless
+otherwise provided by state law); and
+      (8)   With the approval of the County Fiscal Court, the County Judge/
+Executive shall make all appointments to or removals of members from such
+boards, commissions, and designated administrative positions, from which the
+County Fiscal Court, charter, law or ordinance may create. The County Judge/
+Executive shall notify the County Fiscal Court of his nomination at the next
+regularly scheduled County Fiscal Court meeting. If approval is required, the
+County Fiscal Court shall vote on confirming the County Judge/Executive's
+nominee and/or conduct said vote within two weeks after being notified of the
+County Judge/Executive's nomination.
+      (9)   When directed by statute or an ordinance of the county to make an
+appointment and fill a vacancy, nominate a person to fill the vacancy within 60
+days of the date of the vacancy. The County Fiscal Court shall approve or
+disapprove the nomination within 45 days of receipt of the nomination. If the
+County Judge/Executive fails to nominate a person within 60 days of the date of
+the vacancy, the County Fiscal Court may fill the vacancy. If the County Fiscal
+Court fails to approve or disapprove a nomination within 45 days of the
+nomination, the County Judge/Executive's nominee is deemed to have been
+approved. If the County Judge Executive disapproves a nomination, the County
+Judge/Executive shall nominate another person to fill the vacancy within 45
+days of the disapproval. If the County Judge/Executive fails to nominate
+another person within 45 days, a majority of the County Fiscal Court may fill
+the vacancy.
+(Ord. 4-2014, passed 7-31-2014, § 1.1; Ord. 1-2026, passed 1-7-2026, § 1)
+§ 30.002 PROCEDURES FOR ORGANIZATION/REORGANIZATION OF COUNTY DEPARTMENTS AND
 AGENCIES.
-   (A)   The County Judge/Executive shall submit to the Fiscal Court a written
-plan, which describes the service and functions to be performed by each
-department, agency, commission or special district both current and proposed.
-   (B)   The plan shall include an organizational chart showing the
-relationship of each department, agency, commission or special district to
-others and the lines of authority. The chart shall be maintained in current
-condition and shall be available for public viewing and inspection during
-normal office hours.
-   (C)   The reorganization plan shall be submitted to the Fiscal Court for
-approval and available for public review at least 15 days prior to its
-effective date.
-(Ord. 4-2014, passed 7-31-2014, § 1.4)
-§ 30.005 PROCEDURES AND REPORTS TO FISCAL COURT BY COUNTY ADMINISTRATIVE
-AGENCIES AND PUBLIC AUTHORITIES.
-   (A)   All county administrative agencies and public authorities subject to
-the Fiscal Court by law shall submit monthly a list to the County Judge/
-Executive of any citizen complaints during the preceding month and include
-steps taken to correct the situation. The County Judge/Executive may request
-such reports be filed more often.
-   (B)   Each administrative agency and public authority authorized and
-established by the county shall submit an annual report to the County Judge/
-Executive within 75 days after the close of each fiscal year. The report must
-include at a minimum:
-      (1)   A descriptive narrative of the functions and activities of the
-authority; and
-      (2)   Those items required by KRS 65A.20 in full with each report, with
-evidence of filing with the County Clerk’s office by July 1 each year.
-   (C)   Each administrative agency and public authority shall file a copy of
-its annual budget and audit with the County Judge/Executive as required by KRS
-65A.20.
-   (D)   All meetings of the boards, commissions, public authorities and
-special districts shall be open to the public, unless exempt by KRS 61.810. A
-record of the proceedings of each meeting shall be maintained in the form of
-minutes and be available for public inspection.
-   (E)   The County Judge/Executive may make a verbal report with
-recommendation to the Fiscal Court at the next meeting following the receipt of
-any of the above-required reports. Prior to the Court meeting described herein,
-the report shall be made available to the Fiscal Court for review.
-(Ord. 4-2014, passed 7-31-2014, § 1.5)
-§ 30.006 EXECUTIVE COMMITTEE.
-   As used herein for purposes of grievance hearings, the Executive Committee
-of the County Fiscal Court shall consist of three magistrates and the Chair of
-the County Ethics Committee. The magistrates shall serve as follows:
-magistrates from Districts 1, 3 and 5 shall serve during the first two years of
-their elected term, beginning January 1 of their term; magistrates from
-Districts 2, 4 and 6 shall serve the second two years of their elected term,
-beginning January 1 of the third year of their terms. In the event of a
-vacancy, upon appointment, the successor magistrate shall fulfill the remainder
-of the two-year term. A quorum shall consist of three members of the Committee.
-(Ord. 4-2014, passed 7-31-2014, § 1.6)
+   (A)   The County Judge/Executive may create, abolish or combine any county
+department or agency or transfer a function from one department or agency to
+another, provided that County Judge/Executive submits a written plan for the
+reorganization to the County Fiscal Court.
+   (B)   The reorganization plan shall state the need, how the reorganization
+will meet the need, the services and functions to be expanded, abolished, or
+reduced as a result of the plan, the long and short term costs, and the plan's
+impact on existing and/or proposed personnel and services.
+   (C)   The plan shall be subject to public inspection at least 60 days prior
+to its effective date. The plan shall be submitted to the County Fiscal Court
+for approval at a meeting of the County Fiscal Court. If not disapproved within
+45 days, the plan shall become effective.
+   (D)   County Judge/Executive or the County Fiscal Court may cause the
+records and accounts of any administrative agency to be examined at any time.
+(Ord. 1-2026, passed 1-7-2026, § 2)
+§ 30.003 SPECIAL DISTRICTS.
+   (A)   With the approval of the County Fiscal Court, the County Judge/
+Executive may create any special district; or abolish or combine any special
+districts, provided such district was created solely by the county.
+(Ord. 1-2026, passed 1-7-2026, § 3)
+§ 30.004 COUNTY REPRESENTATION ON BOARDS AND COMMISSIONS.
+   (A)   The County Judge/Executive shall assure the representation of the
+county on all boards, commissions, special districts, and joint city-county
+programs in which county participation is required.
+   (B)   Every independent board, commission, agency or special district which
+requires participation by county government shall submit a copy of its by-laws
+and a list of its governing body members to the County Judge/Executive and the
+County Fiscal Court within 30 days of the start of the county term of office.
+The independent board, commission, agency, or special district shall submit a
+revised copy of its by-laws within 30 days of their approval when amended and
+monthly/quarterly minutes and financials.
+   (C)   When notification of intent to resign from a board or commission is
+submitted to the County Judge/Executive, the County Fiscal Court will receive
+contemporaneous notification.
+   (D)   The County Judge/Executive or his designee shall have the option to
+meet with the governing body of any board, commission, agency, or special
+district which requires participation by county government at any time.
+(Ord. 1-2026, passed 1-7-2026, § 4)
+§ 30.005 APPOINTED POSITIONS.
+   (A)   The County Judge/Executive may appoint an executive secretary to
+assist with the execution of his administrative duties.
+   (B)   The County Judge/Executive may appoint a Deputy County Judge-
+Executive. The Deputy County Judge/Executive shall perform the duties
+prescribed to the County Judge/Executive in the absence of the County Judge/
+Executive. The County Judge/Executive may be deemed absent when he shall be
+physically absent from the county, physically disabled or prevented by other
+emergency beyond his control which would prevent him from attending meetings of
+the County Fiscal Court. A vacation, including one taken within the county, may
+in the discretion of the County Judge/Executive be considered an absence. The
+Deputy County Judge/Executive shall have all administrative powers, duties, and
+responsibilities as the County Judge/Executive, except that the Deputy County
+Judge/Executive shall not act for the County Judge/Executive as a member or
+presiding officer of the County Fiscal Court.
+   (C)   The County Fiscal Court shall appoint the County Treasurer per KRS
+68.010, and the Treasurer reports to the County Fiscal Court.
+   (D)   Subject to approval of the County Fiscal Court, the County Judge/
+Executive may appoint other personnel to assist with the county’s
+administrative and fiscal duties.
+   (E)   A member of the County Fiscal Court may be appointed by a majority of
+the County Fiscal Court to temporarily assume the duties of the County Judge/
+Executive, when both the County Judge/Executive and Deputy County Judge/
+Executive are absent from the county, are absent from the county during an
+emergency or are incapacitated due to sickness, injury, or mental incompetence.
+(Ord. 1-2026, passed 1-7-2026, § 5)
+§ 30.006 PROCEDURES FOR APPOINTMENT/REMOVAL OF ADMINISTRATIVE PERSONNEL AND
+MEMBERS OF BOARDS AND COMMISSIONS.
+   (A)   The County Judge/Executive shall inform the County Fiscal Court of any
+open position on county boards or commissions, or in designated administrative
+positions at the next County Fiscal Court meeting after the vacancy occurs.
+   (B)   The County Judge/Executive may appoint qualified individuals to
+administrative positions and boards and commissions with the approval of County
+Fiscal Court, notwithstanding those appointees that are exclusively within the
+purview of the County Judge/Executive. See Section 2.1(9)(C). If the County
+Fiscal Court rejects the nomination, the County Judge/Executive shall submit an
+additional nomination(s) for each position, which shall follow the procedures
+set for the in Section 2.1.(9).
+   (C)   The appointment shall be filed and entered by index into the County
+Executive Order Book which shall be maintained in the Office of the County
+Judge/Executive.
+   (D)   The County Fiscal Court shall provide the nominee with an opportunity
+to make a statement to the County Fiscal Court concerning his nomination and
+qualifications.
+   (E)   No person shall be selected as a member of a board or commission or
+for an administrative position if the person holds or is employed in an
+incompatible position.
+(Ord. 1-2026, passed 1-7-2026, § 6)
+§ 30.007 COUNTY PROCEDURES FOR ADMINISTRATIVE AGENCIES.
+   Each county agency shall maintain the following records:
+   (A)   A financial record of the agency's activities. Each county agency
+shall maintain the following records: A financial record of the agency
+activities containing the amount budgeted for the year, the amount expended to
+date and the balance available.
+   (B)   Within 60 days after the close of each fiscal year, each
+administrative agency shall make full report to the County Judge/Executive and
+to the County Fiscal Court. The report shall include a financial statement and
+the general scope of the operation of the agency during the preceding year.
+   (C)   Each administrative agency requesting county budget funds shall submit
+a detailed annual budget request within the time limits established by the
+County Judge/Executive or his or her designee.
+   (D)   Each administrative agency of county shall keep minutes of its
+meetings to reflect on record its official actions.
+(Ord. 1-2026, passed 1-7-2026, § 7)
 FINANCIAL MANAGEMENT
 § 30.020 BUDGET PREPARATION PROCEDURES.
    (A)   County Judge/Executive responsibilities.
       (1)   The County Judge/Executive shall prepare a proposed budget for
 review and adoption by the Fiscal Court as provided in KRS 68.240, as well as
 any rules and regulations prescribed by the state’s Local Finance Officer.
-      (2)   On or before April 1 of each year, every county agency, department,
-public authority and county office that receives county funds shall submit to
-the County Judge/Executive a written budget request showing the amount of funds
-requested and brief explanation of need.
+      (2)    On or before April 1 of each year, every county agency,
+department, public authority and county office that receives county funds shall
+submit to the County Judge/Executive a written budget request the amount of
+funds requested and brief explanation of need.
       (3)   On or before April 1 of each year, the County Judge/Executive,
 County Treasurer and jailer shall prepare and submit a jail budget to the
 Fiscal Court, as required by KRS 441.215.
       (4)   The County Judge/Executive shall submit the complete proposed
 budget in ordinance form for a first reading before the Fiscal Court no later
 than May 1 of each year.
-      (5)   The County Judge/Executive shall cause a copy of the proposed
-budget to be posted in a conspicuous place in the Fiscal Court Building and the
-County Courthouse near the front door ten days before final adoption and shall
-contemporaneously publish the proposed budget on the county website.
+      (5)    Pursuant to KRS 68.260, the County Judge/Executive shall cause a
+copy of the proposed county budget to be posted in a conspicuous place in the
+Fiscal Court Building and the County Courthouse near the front door ten days
+before final adoption and shall contemporaneously publish the proposed budget
+on the county website.
       (6)   The County Judge/Executive shall advertise the notice of adoption
 of the budget ordinance in the local newspaper of general circulation in the
 county and on the county website at least seven, but not more than 21, days
@@ -1221,8 +1298,8 @@ Local Finance Officer for approval as to form and classification.
 Court, the County Judge/ Executive shall cause a summary of the budget
 ordinance to be published in a newspaper of general circulation in the county
 and on the county website.
-      (11)   The County Judge/Executive shall maintain a copy of the budget as
-adopted, together with any amendments adopted thereafter, for public inspection
+      (11)    The County Judge/Executive shall maintain a copy of the budget as
+adopted, together with any amendments adopted together, for public inspection
 and shall publish same on the county website.
    (B)   Fiscal Court responsibilities.
       (1)   Not later than June 1 of each year, the Fiscal Court shall review
@@ -1235,26 +1312,26 @@ Finance Officer.
       (3)   The budget shall be reviewed and approved by the state’s Local
 Finance Officer and then submitted to the Fiscal Court for adoption not later
 than June 30.
-(Ord. 4-2014, passed 7-31-2014, § 2.1)
+(Ord. 4-2014, passed 7-31-2014, § 2.1; Ord. 2-2026, passed 1-7-2026, § 1)
 § 30.021 BUDGET HEARING PROCEDURES AND REQUIREMENTS.
-   (A)   During the county budget preparation process, the Fiscal Court shall
-conduct a public hearing on the County Road Aid (CRA) Fund. The procedure shall
-be as follows:
+   (A)   During the county budget preparation process, the County Fiscal Court
+shall conduct a public hearing on the County Road Aid (CRA) Fund. The procedure
+shall be as follows:
       (1)   Publish notice of the proposed use hearing on the CRA Fund at least
 seven days, but no more than 21 days, in advance of the scheduled hearing; and
       (2)   Copies of the published notice and written minutes of the hearing
 shall be maintained by the County Judge/Executive as public record.
    (B)   Prior to adoption of the county budget and submittal to the state’s
-Local Finance Officer, a budget hearing shall be conducted by the Fiscal Court
-on the Local Government Economic Assistance (LGEA) Fund. The hearing process
-required for the adoption of these two funds may be coordinated in such a
-manner that both requirements (CRA and LGEA) are addressed at the same hearing.
-The proceedings for LGEA hearing shall be as follows.
+Local Finance Officer, a budget hearing shall be conducted by the County Fiscal
+Court on the Local Government Economic Assistance (LGEA) Fund. The hearing
+process required for the adoption of these two funds may be coordinated in such
+a manner that both requirements (CRA and LGEA) are addressed at the same
+hearing. The proceedings for LGEA hearing shall be as follows.
       (1)   Notice of the budget hearing shall be published at least seven
 days, but no more than 21 days, prior to the schedule hearing.
       (2)   Copies of the published notice and written minutes of the hearing
 shall be maintained by the County Judge/Executive.
-(Ord. 4-2014, passed 7-31-2014, § 2.2)
+(Ord. 4-2014, passed 7-31-2014, § 2.2; Ord. 2-2026, passed 1-7-2026, § 2)
 § 30.022 PROCEDURES AND DUTIES OF THE COUNTY TREASURER.
    (A)   The County Treasurer shall keep records and make reports as set forth
 in KRS Ch. 68.
@@ -1273,38 +1350,42 @@ subject to change:
          (c)   Jail Fund;
          (d)   LGEA Fund; and
          (e)   Special accounts as may be necessary.
-      (8)   Prepare financial reports for the Fiscal Court and jailer each
-month pursuant to KRS 68.360 and 441.235;
+      (8)   Prepare financial reports for the County Fiscal Court and jailer
+each month pursuant to KRS 68.360 and 441.235;
       (9)   Prepare a quarterly financial statement for the state’s Local
 Finance Officer;
       (10)   Prepare and publish an annual financial statement pursuant to KRS
 424.220;
       (11)   Countersign checks per the following conditions:
-         (a)   Claim has been reviewed by the Fiscal Court;
+         (a)   Claim has been reviewed by the County Fiscal Court;
          (b)   There is a sufficient fund balance and cash in the bank to cover
 the check; and
          (c)   There is adequate free balance in a properly budgeted
 appropriation account to cover the check.
       (12)   The County Treasurer is the sole officer bonded to receive and
 disburse county funds.
-(Ord. 4-2014, passed 7-31-2014, § 2.3)
+   (C)   Upon completion of 40 approved hours, County Fiscal Court will approve
+a training certification payment to the County Treasurer in an amount equal to
+the budgeted amount set by County Fiscal Court. Documentation should be
+provided and approved by County Fiscal Court prior to payout.
+(Ord. 4-2014, passed 7-31-2014, § 2.3; Ord. 2-2026, passed 1-7-2026, § 3)
 § 30.023 PROCEDURES FOR FISCAL ADMINISTRATION.
    (A)   The County Judge/Executive is responsible for administering the
-provisions of the County Budget Ordinance when adopted by the Fiscal Court. All
-or part of the financial management duties may be assigned to a Finance
-Officer, whose job description shall include, but not be limited to:
+provisions of the County Budget Ordinance when adopted by the County Fiscal
+Court. All or part of the financial management duties may be assigned to a
+Finance Officer, whose job description shall include, but not be limited to:
       (1)   Receipt of all claims against the county;
-      (2)   Prepare and submit a master claims list to the Fiscal Court for
-review;
-      (3)   Prepare checks on claims reviewed by the Fiscal Court;
+      (2)   Prepare and submit a master claims list to the County Fiscal Court
+for review;
+      (3)   Prepare checks on claims reviewed by the County Fiscal Court;
       (4)   Co-sign all checks with County Treasurer;
       (5)   Maintain an appropriations ledger;
       (6)   Prepare a quarterly financial statement, which shall be transmitted
 to the Fiscal Court and State Local Finance Officer, as well as posted in a
-conspicuous place near the front door of the Courthouse and Fiscal Court
+conspicuous place near the front door of the Courthouse and County Fiscal Court
 building;
-      (7)   Present the quarterly financial statement at the next Fiscal Court
-meeting;
+      (7)   Present the quarterly financial statement at the next County Fiscal
+Court meeting;
       (8)   Reconcile the appropriation ledger with the Treasurer’s
 appropriation ledger at least once a month;
       (9)   Issue purchase orders and maintain a purchase order ledger; and
@@ -1312,8 +1393,7 @@ appropriation ledger at least once a month;
 leave and the like.
    (B)   The County Judge/Executive shall pay all financial claims against the
 county after approval by the Fiscal Court. However, some claims as outlined in
-§
-30.024 of this chapter may be paid prior to Fiscal Court approval. All such
+§ 30.024 of this chapter may be paid prior to Fiscal Court approval. All such
 claims shall be within the line item amounts of the county budget.
    (C)   The County Judge/Executive shall be responsible for preparing and
 signing all warrants directing the County Treasurer to make payment authorized
@@ -1322,33 +1402,28 @@ by Fiscal Court and maintaining a record of such warrants.
 prepare records necessitated by the annual county audit. The annual audit shall
 be conducted either by the State Auditor of Public Accounts or a certified
 public accountant.
-(Ord. 4-2014, passed 7-31-2014, § 2.4)
+(Ord. 4-2014, passed 7-31-2014, § 2.4; Ord. 2-2026, passed 1-7-2026, § 3)
 § 30.024 CLAIMS AGAINST THE COUNTY.
    (A)   The County Judge/Executive shall account for all claims against the
 county.
    (B)   Anyone with a claim for payment from county funds shall file it in
 writing in the office of the County Judge/Executive.
    (C)   Each claim shall be recorded by date of receipt and presented to the
-Fiscal Court at its next regular meeting.
+County Fiscal Court at its next regular meeting.
    (D)   Each claim shall designate the budget fund and classification from
 which the claim will be paid and each warrant shall specify the budget fund and
 classification.
-   (E)   All claims shall be presented to the Fiscal Court for review prior to
-payment and the Court, for good cause shown, may order that a claim not be
-paid.
-   (F)   The Fiscal Court may adopt a standing order to pre-approve the payment
-of payroll for county officials and employees, utility bills and recurring
-expenses, such as interest and principal on bonded debt, to be submitted to the
-state’s Local Finance Officer by July 1 of each fiscal year with the county
-budget.
-   (G)   Pre-approved expenses will be provided to the Fiscal Court for
+   (E)   All claims shall be presented to the County Fiscal Court for review
+prior to payment and the Court, for good cause shown, may order that a claim
+not be paid.
+   (F)   The County Fiscal Court may adopt a standing order to pre-approve the
+payment of payroll for county officials and employees, utility bills and
+recurring expenses, such as interest and principal on bonded debt, to be
+submitted to the state’s Local Finance Officer by July 1 of each fiscal year
+with the county budget.
+   (G)   Pre-approved expenses will be provided to the County Fiscal Court for
 information.
-(Ord. 4-2014, passed 7-31-2014, § 2.5)
-§ 30.030 COMMERCIAL DRIVERS LICENSE TRAINING EXPENSES AND CONDITIONS OF
-EMPLOYMENT AGREEMENT
-Publisher's Note: This Section has been ADDED by new legislation (Ord. 9-2022,
-adopted 9-23-2022). The text of the amendment will be incorporated below when
-the ordinance is codified.
+(Ord. 4-2014, passed 7-31-2014, § 2.5; Ord. 2-2026, passed 1-7-2026, § 5)
 PERSONNEL ADMINISTRATION
 § 30.035 STATEMENT OF PURPOSE.
    (A)   The County Fiscal Court recognizes that a personnel system, which
@@ -3717,140 +3792,283 @@ date of termination.
 (Ord. 9-2022, passed 9-23-2022)
 PURCHASES AND CONTRACTS
 § 30.115 AUTHORIZATION OF COUNTY CONTRACTS.
-   Every contract of the county, change or amendment thereto, shall be
-authorized or approved by the County Fiscal Court before it is executed by the
-County Judge/Executive, and every contract, except small purchases, shall be
-prior approved by the County Attorney as to form and legality.
-(Ord. 4-2014, passed 7-31-2014, § 4.1)
-§ 30.116 SELECTION OF VENDORS AND CONTRACTORS (PROCEDURES FOR SEALED BIDDING).
-   (A)   The County Judge/Executive shall place an advertisement in the local
-newspaper of the largest circulation in the county and on the county website at
-least once, but not less than seven, nor more than 21, days before a bid
-opening. The advertisement will include the time and place the bid will be
-opened and the time and place where the specifications may be obtained. If the
-durability of the product, the qualities of the service or other factors are to
-be considered in the bid selection, such factors shall be stated in the
-advertisement.
-   (B)   The County Judge/Executive shall open all bids publicly at the time
-and place stated in the advertisement and shall select the lowest and best bid
-by a qualified bidder. If the lowest bid is not selected, the reasons for the
-selection shall be stated.
-   (C)   The county, at its discretion, and unless otherwise prohibited by law,
-may provide a 5% price advantage to local qualified vendors.
-   (D)   Local qualified vendors are those vendors who: have as their principle
-place of business located in the county and who are licensed and in good
-standing with all local, state and federal licensing requirements. Such
-qualified vendors submitting bids which are 5% or less higher than other
-competing bids may be considered low bids. The Court shall in the required
-advertisement state local qualified bidder criteria.
-   (E)   The County Judge/Executive shall submit the lowest and best bid
-selected to the Fiscal Court for approval.
-   (F)   The County Judge/Executive shall sign the contract on behalf of the
-county upon approval of the Fiscal Court.
-(Ord. 4-2014, passed 7-31-2014, § 4.2)
-§ 30.117 PROCEDURES FOR DETERMINATIONS OF QUALIFICATIONS OF BIDDERS.
-   (A)   Each bidder shall furnish in writing information pertaining to all
-contracts completed in the past two years and a listing of all the financial
-institutions used.
-   (B)   In the event the information is conflicting or incomplete, the County
-Judge/Executive shall make further inquiries of the bidder.
-   (C)   The contractors who have demonstrated, by past performance, the
-ability to perform satisfactorily in accordance with contracts on a timely
-basis and have shown a sound financial structure shall all be considered
-qualified.
-   (D)   The County Judge/Executive may make a written determination as to the
-extent or responsibility of each bidder and shall maintain a list of those who
-qualify as responsible contractors for particular types of supplies, services
-and construction items.
-   (E)   A new business may be exempt from the qualification requirements where
-circumstances warrant.
-(Ord. 4-2014, passed 7-31-2014, § 4.3)
-§ 30.118 PROCEDURES PREREQUISITE TO USE OF NEGOTIATED PROCESS.
-   (A)    The negotiated process may be used instead of advertisement for bids
-if the amount exceeds $22,000 in the following circumstances:
-      (1)   An emergency exists; and
-      (2)   All bids received exceed the amount budgeted.
-   (B)   Before an emergency is declared, the County Judge/Executive shall
-determine whether or not a delay in obtaining bids will result in danger to
-health, safety or property.
+   (A)   Every contract, change or amendment thereto, shall be authorized or
+approved by the County Fiscal Court before being executed by the County Judge/
+Executive, except small purchases. The County Attorney shall review every
+contract of the county, as to form and legality, except for contracts for small
+purchases. Each department head shall submit the contract for review at least
+ten work days prior to the County Fiscal Court meeting.
+   (B)   The County Judge/Executive may approve change orders that do not
+exceed 10% of the overall project scope not to exceed $30,000. Change orders
+that exceed this amount must be approved by the County Fiscal Court. The County
+Fiscal Court must be apprised of all change orders at its next meeting.
+   (C)   All cost overruns shall be reported and explained to County Fiscal
+Court by staff, contractors or appropriate business representatives in person
+at a County Fiscal Court meeting before work proceeds so that all options for
+cost containment can be explored.
+(Ord. 4-2014, passed 7-31-2014, § 4.1; Ord. 3-2026, passed 1-7-2026, § 1)
+§ 30.116 PURCHASING DUTIES AND DELEGATION.
+   The County Judge/Executive may delegate performance of a part or all of the
+following purchasing duties to a purchasing officer or to the departmental
+personnel:
+   (A)   Preparation of specifications, invitations to bid, and solicitations
+for proposals.
+   (B)   Completion of an inquiry and written determination of responsibility
+of bidders and offerors; and the maintaining of lists of pre-qualified,
+responsible contractors for particular types of supplies, services and
+construction items.
+   (C)   Preparation of written determination as to the need for use of the
+negotiated process where appropriate.
+   (D)   Notification of suppliers, through advertisement of other permissible
+methods of invitations to bid, solicitations for proposals, and request for
+quotations.
+   (E)   Evaluation of the responsiveness of each bid and completion of
+appropriate negotiations with offerors.
+   (F)   Cancellation of any invitation to bid upon a written determination
+that such action is in the best interest of the county.
+   (G)   Inspection of the place of business and any operation and the
+examination of any financial information of any offeror engaged in the
+negotiated process with the county; and completion of an audit to be made of
+any contractor under a negotiated contract.
+   (H)   Preparation and maintenance of an inventory of all property of the
+county.
+(Ord. 3-2026, passed 1-7-2026, § 2)
+§ 30.117 SELECTION OF VENDORS AND CONTRACTORS (PROCEDURES FOR SEALED BIDDING).
+   (A)   The agency, department or person requiring supplies, services or
+construction shall submit to the County Judge/Executive a request containing
+specifications and quantities desired.
+   (B)   The County Judge/Executive shall determine the need for each item
+requested, the approximate cost and whether or not the expenditure is provided
+for in the budget.
+   (C)   Any expenditure or contract for materials, supplies (except perishable
+meat, fish, and vegetables), equipment, or for contractual services other than
+professional, involving an expenditure of more than $40,000 shall be subject to
+competitive bidding.
+   (D)   In accordance with KRS 424.260, when the cost of the contract, lease,
+or other agreements for materials, supplies, equipment or contractual services
+other than professional, exceeds $40,000, an invitation for bids notice must be
+authorized by the County Fiscal Court, unless the County Fiscal Court chooses
+to accept the state bid amount (commonly referred to as the state price
+contract) or the national bid price (commonly referred to as national joint
+purchasing alliance) or any other recognized joint bidding cooperative.
+   (E)   The County Judge/Executive or his designee shall adhere to KRS 424.130
+when placing an advertisement in the newspaper of the largest circulation in
+the county at least once not less than seven days nor more than 21 days before
+bid opening. The advertisement shall include the time and place where the
+specifications may be obtained. If the durability of the product, the quality
+of service or other factors are to be considered in bid selection, such factors
+shall be stated in the advertisement. The county may also follow the
+alternative internet and newspaper publication procedures established in KRS
+424.145.
+   (F)   The Office of the County Judge/Executive shall open all bids publicly
+at the time and place stated in the advertisements and the County Judge/
+Executive may recommend the lowest and/or best bid by qualified bidder to the
+County Fiscal Court. Electronic bidding on the internet shall satisfy the
+requirements of this section. The County Fiscal Court is not required to select
+the lowest bid and may consider other factors in bid selection subject to the
+provision that such factors are relevant to the product or service sought. If
+the lowest bid is not selected, the reasons for selection shall be set forth on
+the record of the County Fiscal Court or in a written determination made on the
+record. Said reasons may be set forth and contained in the motion accepting the
+bid for the product and/or the service.
+   (G)   The County Judge/Executive shall have the authority to sign the
+approved contract, if one is used, and shall have further authority to issue a
+purchase order to the vendor.
+(Ord. 3-2026, passed 1-7-2026, § 3)
+§ 30.118 PROCEDURES FOR DETERMINATION OF QUALIFICATION OF BIDDERS.
+   (A)   The County Judge/Executive or his designee may require all bidders to
+provide sufficient information to determine their qualification to provide the
+services or product that is the subject of the competitive bidding.
+   (B)   Contractors who have demonstrated, by past performance, the ability to
+perform satisfactorily in accordance with the contracts on a timely basis and
+have shown a sound financial structure may be determined to be qualified and
+responsible bidders without additional documentation otherwise required of
+other potential bidders.
+(Ord. 3-2026, passed 1-7-2026, § 4)
+§ 30.119 PROCEDURES PREREQUISITE TO USE OF NEGOTIATED PROCESS.
+   (A)   The negotiated process may be used instead of advertising for bids if
+the amount exceeds $40,000 in the following circumstances:
+      (1)   An emergency exists;
+      (2)   Bids exceed available funds;
+      (3)   All bids received are deemed excessive;
+      (4)   The contract is for professional services, pursuant to KRS 45A.380;
+or,
+      (5)   Other circumstances as provided in KRS 45A.380.
+   (B)   Before an emergency is declared the County Judge/Executive shall
+determine whether or not the delay in obtaining bids will result in danger to
+health, safety, property or unreasonable added expense to the county.
    (C)   The County Judge/Executive shall certify the existence of any
-emergency and file a copy of such certificate with the Chief Financial Officer
-of the county.
-(Ord. 4-2014, passed 7-31-2014, § 4.4; Ord. 1-2022, passed 1-20-2022)
-§ 30.119 PROCEDURES FOR NEGOTIATED PROCESS.
+emergency and file a copy of such certificate with the Treasurer. In said
+event, the County Judge/Executive shall notify the County Fiscal Court of the
+emergency determination contemporaneously with certifying the existence of the
+emergency.
+   (D)   In the event all bids submitted are in excess of funds available or in
+the event all bids submitted are unreasonably excessive and/or would constitute
+an unreasonable expenditure of county funds, the County Judge/Executive shall
+prepare a written determination that there are no additional funds available as
+to permit an award to the responsible bidder with the lowest and best bid and
+delay in advertising for additional bids is not in the best interest of the
+county.
+   (E)   The County Fiscal Court must approve all circumstances in which the
+negotiation process is used.
+(Ord. 3-2026, passed 1-7-2026, § 5)
+§ 30.120 PROCEDURES FOR NEGOTIATED PROCESS.
    (A)   When the prerequisites have been met for use of the negotiated
-process, the County Judge/ Executive shall proceed to negotiate with one or
-more suppliers in order to obtain the most advantageous terms for the county.
-   (B)   Professional services shall be negotiated with such persons as are
+process, the County Judge/Executive shall proceed to negotiate with one or more
+suppliers in order to obtain the most advantageous terms for the county.
+   (B)   The County Judge/Executive shall prepare a record of all negotiated
+contracts, showing the items and quantities acquired, name of suppliers, cost
+and date of contract.
+   (C)   Professional services shall be negotiated with such persons as are
 properly licensed to perform such services.
-   (C)   Where more than one bid is received, and all are in excess of the
+   (D)   Where more than one bid was received and all were in excess of the
 amount available, the lowest three bidders shall be notified that the county
 desires to negotiate a contract for a lesser amount based on revised quantities
 or specifications and fix a time limit for submission of proposals.
-   (D)   The County Judge/Executive examines the proposals received and shall
-negotiate with the suppliers for the terms most advantageous to the county.
-   (E)   The best-negotiated proposal shall be submitted to the Fiscal Court
-for approval and award. The County Judge/Executive shall prepare a record of
-all negotiated contracts, showing the items and quantities acquired, name of
-suppliers, cost and date of contract.
-(Ord. 4-2014, passed 7-31-2014, § 4.5)
-§ 30.120 SMALL PURCHASE PROCEDURES.
-   (A)   With prior approval of the County Judge/Executive or designee,
-authorized persons may purchase for their respective departments any supplies,
-services and the like at a cost of $5,000 or less. However, a purchase order or
-vendor’s billing for the purchase shall be submitted to the County Judge/
-Executive for review.
-   (B)   Supplies, services or construction normally supplied, as a unit shall
-not be artificially divided for the sole purpose of using small purchase
-procedures.
-   (C)    Before purchasing any supplies, services, at a cost exceeding $5,000,
-but less than $22,000, authorized persons shall submit to the County Judge/
-Executive a purchase order containing specifications, quantities desired and
-price quotes (three when possible) for the desired supplies or services. The
-County Judge/Executive shall determine the need for the item(s) requested, the
-approximate cost and whether or not the expenditure is provided for in the
-budget. The County Judge/Executive shall then select the price most
-advantageous to the county and purchase accordingly. If two or more local
-suppliers offer the same product at the same price, the County Judge/Executive
-may purchase or authorize a purchase from suppliers on a rotating basis.
-   (D)   A copy of the billing from the vendor along with a copy of the signed
-purchase order shall be submitted to the County Treasurer at the time of
-approval.
-   (E)   All purchases shall be debited from the budget appropriation for the
-department making or requesting such purchase.
-   (F)   No purchase shall be made for an amount that exceeds the sum budgeted
-and appropriated by the County Fiscal Court for such purchases.
-(Ord. 4-2014, passed 7-31-2014, § 4.6; Ord. 1-2022, passed 1-20-2022)
-§ 30.121 STORAGE AND INVENTORY CONTROL.
-   (A)   All county property shall have affixed to it a property control number
-tag. All department heads will ensure that they maintain in their files an
-updated inventory of all property in their possession.
-   (B)   All county-owned vehicles shall have appropriate signage indicating
-the vehicles are county owned and are to be used for official business as
-permitted.
-   (C)   Once a year (preferably during the budget cycle), all county property
-will be inventoried by each department or agency. These updated inventories
-will be submitted to the County Judge/Executive’s office for reconciliation and
-fifing in the county’s master inventory book.
-   (D)   All county inventories shall contain an item inventory number, an item
-description, date of purchase if known, purchase amount if known, and office/
-department/agency where property is assigned for use.
-(Ord. 4-2014, passed 7-31-2014, § 4.7)
-§ 30.122 PROCEDURES FOR DISPOSITION OF SURPLUS PROPERTY.
-   When property becomes surplus due to procurement of new items, the following
-steps will be taken:
-   (A)   The item will be identified on the inventory as a surplus item;
-   (B)   All offices and agencies will be contacted and informed that a surplus
-item exists. If appropriate, items can be transferred within the county as long
-as an accurate audit trail exists and appropriate change documents are prepared
-transferring the item from one agency to another;
-   (C)   Items that are not transferred will be transported to a location to be
-determined by the County Judge/Executive and stored pending disposition; and
-   (D)   Surplus property shall be disposed of pursuant to KRS 67.0802. In the
-event no sales can be had, after offer, the Fiscal Court may declare the
-property in question scrap and dispose of accordingly.
-(Ord. 4-2014, passed 7-31-2014, § 4.8)
-§ 30.123 SOLE SOURCE PROCUREMENT.
+   (E)   The County Judge/Executive shall examine the proposals received and
+shall negotiate with the suppliers for the terms most advantageous to the
+county.
+   (F)   The best negotiated proposal shall be submitted to the County Fiscal
+Court for approval and award.
+(Ord. 3-2026, passed 1-7-2026, § 6)
+§ 30.121 SMALL PURCHASE PROCEDURES.
+   (A)   The County Judge/Executive determines the need for any item requested
+and whether or not the contract is for less than $40,000 and the expenditure is
+provided for in the budget.
+   (B)   For all "small purchases", as defined herein, any purchase exceeding
+the amount of $5,000, the County Judge/Executive or his designee, shall solicit
+three quotes from prospective suppliers or vendors, prior to the purchase and
+then select a purchase most advantageous to the county, in the judgment and
+discretion of the County Judge/Executive.
+   (C)   Purchases of less than $5,000 shall be made in the open market. Every
+effort should be made to get the lowest and best price and to share the
+business among local, responsible vendors.
+   (D)   For all purchases, the designated purchasing agent will prepare a
+purchase order. Copies of the purchase order will be distributed as follows:
+one for the agency requesting the items, one for the purchasing agent, and one
+for the County Judge/Executive.
+   (E)   After the execution of the purchase order, the County Judge/Executive
+enters the anticipated expenditure in the small purchase ledger.
+   (F)   After payment is made, the accounts payable staff files one copy of
+the purchase order in numerical sequence and the other copy alphabetically by
+vendor's name along with the vendor's invoice.
+(Ord. 3-2026, passed 1-7-2026, § 7)
+§ 30.122 HOLD HARMLESS CLAUSE.
+All contracts executed on behalf of the county concerning the purchase of
+services or products shall contain a "hold harmless clause", whereby the
+vendor, provider of services, or seller agrees to hold the county harmless from
+any liability concerning the use of their product or the receipt of their
+service.
+(Ord. 3-2026, passed 1-7-2026, § 8)
+§ 30.123 STORAGE AND INVENTORY CONTROL (PROCEDURES FOR RECEIVING, STORING, AND
+DISBURSING REPETITIVE USE ITEMS).
+   (A)   The inventory file shall contain an item inventory number, item
+description, date purchased, condition, purchase amount, fund source, and
+office assigned for use.
+   (B)   The County Judge/Executive hereby designates the department head for
+receipt and inspection of all property within their department.
+   (C)   Each item shall be inspected upon receipt and items which do not
+conform to specifications shall be rejected with a written notice of such
+rejection given to vendor within ten work days.
+   (D)   The County Judge/Executive will be responsible for establishing an
+inventory record for all property valued over $300 purchased or otherwise owned
+by the county. The inventory file shall be completed by each department head
+and shall contain an item inventory number or serial/model number, item
+description, date purchased, purchase amount, fund source, and office assigned
+for use. The inventory file will be verified by the department head by actual
+inspection at least once a year and the condition of the item noticed and
+dated. See form attached to Ord. 3-2026. Each inventory file shall be turned
+into the County Inventory Officer after yearly inspection and turned into the
+County Judge/Executive no later than March 31.
+(Ord. 3-2026, passed 1-7-2026, § 9)
+§ 30.124 DISPOSITION OF COUNTY SURPLUS PROPERTY.
+   (A)   Real property.
+      (1)   (a)   In the event the County Fiscal Court determines that the
+county has surplus real or personal property and that it will be in the best
+interest of the county to dispose of said real or personal property, the County
+Judge/Executive shall make a written statement which includes:
+            1.   The real or personal property;
+            2.   Its present use and the intended use at the time of
+acquisition;
+            3.   The reasons why it is in the public interest to dispose of it;
+and
+            4.   The method of disposition to be used.
+         (b)   The property may be transferred via the following method:
+            1.   Transferred, with or without compensation, to another
+governmental agency.
+            2.   Sold at public auction following publication of the auction in
+accordance with KRS 424.130(1)(b).
+            3.   Sold by electronic auction following publication of the
+auction, including the uniform resource link (URL) for the site of the
+electronic auction, in accordance with KRS 424.130(1)(b); or
+            4.   Sold by sealed bids. If the bids are unacceptable, the County
+Judge/Executive, by direction of the County Fiscal Court, may negotiate an
+acceptable amount with the bidders.
+      (2)   The aforementioned statement shall be submitted to the County
+Fiscal Court for their action.
+      (3)   All real property that is estimated to be valued at $40,000 shall
+require an appraisal by a certified real property appraiser.
+      (4)   No county real property shall be sold on a negotiated basis for
+less than the appraised value.
+   (B)   Tangible property.
+      (1)   The county office, agency, or person to which responsibility has
+been assigned by the County Judge/Executive to use and take care of a
+particular tangible item or items will notify the County Judge/Executive that a
+particular item is no longer needed or serviceable. The County Judge/Executive
+shall inquire of other county offices to determine if they have need of, or
+want to use, the item.
+      (2)   If no use for the property can be found, the property shall be
+disposed of in the same manner as real property except that no appraisal is
+required.
+(Ord. 3-2026, passed 1-7-2026, § 10)
+§ 30.125 VENDOR CARDS.
+   (A)   A county employee may be issued a vendor card to make purchases which
+are under $1,000, for direct county business purposes only, and included in the
+approved county budget.
+      (1)   Each individual issued a vendor card must acknowledge the
+responsibility of safekeeping and proper use of the card. Employees must keep
+vendor cards in a safe and restricted location at all times. Upon employee
+separation, the card shall be returned to the employee's department head or
+County Treasurer's Office. Each employee shall sign the form entitled "Employee
+Vendor Card Agreement" Form A8.11. These forms should be updated as cards and/
+or employees change.
+      (2)   Any card may be withdrawn from the employee for any reason,
+including real or suspected misuse or noncompliance. All card activity will be
+subject to internal and external audit for compliance with this section of the
+Administrative Code.
+      (3)   Lost or stolen cards or any suspected fraudulent transactions must
+be reported immediately to the vendor's card services department, to the County
+Treasurer's Office and department head. Each department head shall utilize the
+Form B-8.11 for this purpose. A copy of this form shall be sent to the Accounts
+Payable Office for their records. These forms should be updated as cards and/or
+employees change.
+      (4)   Each department head shall maintain a list of cards used in their
+department, including the vendor, employee name, and expiration date of card.
+This list should be routinely updated and shared with the Accounts Payable
+Office.
+   (B)   Procedure for vendor card usage.
+      (1)   Any purchase over $300 must be approved by the employee's
+department head. All purchases must be reviewed and evaluated so that the
+county is receiving the best value for the item.
+      (2)   The employee must ensure that the vendor knows that the purchase is
+tax-exempt and ensure that taxes are not added to the prices of items
+purchased.
+      (3)   Every purchase will be assigned a purchase order number that should
+be reflected on the invoice or receipt. The employee shall retain a copy for
+their records and provide a copy of any transaction information (invoice,
+receipt, etc.) to the Accounts Payable Office to be reconciled.
+      (4)   It is the employee's responsibility to monitor the shipping/order
+documents and transaction receipts and report any discrepancies to their
+department head.
+      (5)   Vendor cards must only be used by the assigned cardholder. The
+employee should always carry their valid ID when making purchases.
+(Ord. 3-2026, passed 1-7-2026, § 11)
+§ 30.126 PROCUREMENT PROCEDURES.
+   The procurement procedures shall be available with the County Fiscal Court
+Accounts Payable Office and shall be completed and submitted with each agenda
+request to the County Fiscal Court Clerk.
+(Ord. 3-2026, passed 1-7-2026, § 12)
+§ 30.127 SOLE SOURCE PROCUREMENT.
    Sole source procurement should be used only when competitive solicitation
 procedures like sealed bids or competitive proposals are not applicable to the
 requirements or are impracticable. Recipients may conduct noncompetitive ("sole
@@ -3861,8 +4079,8 @@ when one or more of the following circumstances apply:
 delay resulting from competitive solicitation.
    (C)   Competition is determined inadequate after solicitation of a number of
 sources.
-(Ord. 7-2021, passed 6-30-2021)
-§ 30.124 FEDERAL FUND PROCUREMENT.
+(Ord. 3-2026, passed 1-7-2026, § 13)
+§ 30.128 FEDERAL FUND PROCUREMENT.
    (A)   Procurement of goods and/or services with federal funds from a
 supplier or contractor should be checked for debarment before purchasing and/or
 awarding a contract or subaward. Debarment should be checked prior to
@@ -3872,53 +4090,50 @@ System for Award Management website (http://www.sam.gov/).
    (B)   All procurement contracts and agreements for both goods and services
 must have the following verbiage contained in the documentation immediately
 adjacent to the signature line:
-"Debarment and Suspension Certification - The contractor (or vendor, or
+      "Debarment and Suspension Certification - The contractor (or vendor, or
 consultant, depending on the transaction) certifies to the best of its
 knowledge and belief that it and its principals are not presently debarred,
 suspended, proposed for debarment, declared ineligible, or voluntarily excluded
 from covered transactions by any Federal department or agency in accordance
 with Executive Order 12549 (2/18/86)."
-(Ord. 7-2021, passed 6-30-2021)
-§ 30.125 EFFECT OF FEDERAL GRANTS UPON PUBLIC PURCHASING UNITS.
+(Ord. 3-2026, passed 1-7-2026, § 14)
+§ 30.129 EFFECT OF FEDERAL GRANTS UPON PUBLIC PURCHASING UNITS.
    If federal grant or other federal requirements differ from the provisions of
 this code or regulations adopted hereunder, nothing in this code or its
 regulations shall inhibit any public purchasing unit from complying with the
 terms and conditions of the federal grant or other federal requirements.
-(Ord. 7-2021, passed 6-30-2021)
+(Ord. 3-2026, passed 1-7-2026, § 15)
 DELIVERY OF COUNTY SERVICES
-§ 30.135 ESTABLISHMENT OF COUNTY ROAD DEPARTMENT.
+§ 30.135 ESTABLISHMENT OF DEPARTMENT.
    (A)   There is hereby created and established a County Road Department
-consisting of a County Road Supervisor and such other employees of said
-department as may from time to time be provided in the job classifications and
-approved by the County Fiscal Court.
-   (B)   The County Judge/Executive with the consent of the Fiscal Court shall
-appoint the County Road Supervisor.
-   (C)    The County Fiscal Court shall set the number and compensation of all
-employees of the road department in §§
-30.035 through
-30.103 of this chapter.
-   (D)   The County Judge/Executive, in accordance with the provisions of §§
-30.035 through
-30.103 of this chapter, shall make all appointments to the Road Department and
-removals.
-(Ord. 4-2014, passed 7-31-2014, § 5.1)
+consisting of a County Road Engineer or County Road Supervisor and such other
+employees of said department as may from time to time be providedfor by the
+County Judge/Executive and the County Fiscal Court.
+   (B)   The County Road Engineer/Supervisor shall be appointed by the County
+Judge/Executive with the approval of the County Fiscal Court and shall serve a
+period of two or four years.
+(Ord. 4-2014, passed 7-31-2014, § 5.1; Ord. 4-2026, passed 1-7-2026, § 1)
 § 30.136 DUTIES OF THE ROAD SUPERVISOR.
-   (A)   The duties of the County Road Supervisor shall be set forth in the
-classification located in §§
-30.098 and
-30.099 of this chapter.
-   (B)   The County Road Supervisor shall be responsible for the performance of
-the Road Department and its functions and all persons who are employees of the
-Road Department shall be subject to the supervision and direction of the Road
-Supervisor.
-(Ord. 4-2014, passed 7-31-2014, § 5.2)
+   (A)   The County Road Engineer/Supervisor shall be the head of the Road
+Department subject to the order and direction of the County Judge/Executive.
+   (B)   The County Road Engineer/Supervisor shall be responsible for the
+performance of the Road Department and its functions and all persons who are
+employees of the Road Department shall be subject to the supervision and
+direction of the County Road Engineer/Supervisor.
+(Ord. 4-2014, passed 7-31-2014, § 5.2; Ord. 4-2026, passed 1-7-2026, § 2)
 § 30.137 COUNTY ROAD INVENTORY/CONDITION.
-   (A)   The County Judge/Executive shall maintain a map that clearly
-identifies all the county- maintained roads.
-   (B)   The County Road Supervisor shall contact all area utilities (city and
-county water services) prior to digging, surfacing or resurfacing any county
-road.
-(Ord. 4-2014, passed 7-31-2014, § 5.3)
+   (A)   The County Road Supervisor/Engineer shall maintain a map(s) that
+clearly identifies all the county-maintained roads. The inventory shall
+identify all roads by name and/or number, list the number and locations of all
+bridges, and any other information that may identify county roads and the
+condition thereof.
+   (B)   At least on a biannual basis, the County Fiscal Court and the County
+Road Supervisor/Engineer shall travel together to review the condition of the
+county roads as determined by each Magistrate or the County Road Supervisor/
+Engineer in regard to their district.
+   (C)   The Road Engineer/Supervisor shall contact all area utilities relative
+to their planned activities prior to surfacing or resurfacing any county road.
+(Ord. 4-2014, passed 7-31-2014, § 5.3; Ord. 4-2026, passed 1-7-2026, § 3)
 § 30.138 SPECIFICATIONS FOR COUNTY ROADS.
    (A)   The County Fiscal Court, in accordance with KRS 179.470, may accept
 roads into the county road system.
@@ -3949,135 +4164,206 @@ maintenance by the county is contained in Ch. 151 of this code of ordinances.
 Any future amendments shall be considered ratified and incorporated as part of
 this chapter.
 (Ord. 4-2014, passed 7-31-2014, § 5.4)
-§ 30.139 OTHER COUNTY SERVICES.
-   (A)   County Fire Department. The County Fire Department is responsible for
-firefighting and emergency response in the unincorporated areas of the county.
-The Fire Department also supports the County Fire Department when the situation
-dictates.
-   (B)   County Planning, Zoning and Code Enforcement Office. This office
-provides building and electrical inspections for all new construction within
-the county. It utilizes the Kentucky Building Code, the CABO One- and Two-
-Family Dwelling Code and the National Electric Code. The office also provides
-planning and zoning services for the residents of the county, as well as
-performing administration of the County Zoning Ordinance (Ord. 7, 2001 Series,
-amending Ord. 2, 1993 Series, electrical fees) (Ord. 6, 2001 Series, amending
-Ord. adopted 6-23-1998), which may be amended as required by state law then in
-effect and to which reference is made for particular amendments.
-   (C)   Occupational Tax Office. This office collects and maintains
-occupational license fees, maintains a listing of all businesses conducting
-business within the county, receives all occupational taxes and posts it to
-appropriate accounts and collects all delinquent occupational license fees
-(Ord. 14, 2007 Series, as amended, and as may be amended by any future
-amendments, which are hereby ratified and for which reference is made for
-additional requirements).
-   (D)   Lakeview Park.
-      (1)   The county’s Lakeview Park was established in July 1991. It is 135
+OPERATION OF COUNTY FISCAL COURT
+§ 30.150 PROCEDURES FOR MEETINGS OF THE COUNTY FISCAL COURT.
+   (A)   The County Judge/Executive shall annually set the dates, times, and
+location for all regular County Fiscal Court meetings via executive order. The
+executive order shall be issued no later than January 1st of each year, except
+in the first year of the term of office, when the executive order shall be
+entered no later than one week from the date the term begins.
+   (B)   All meetings of members of County Fiscal Court at which it has
+jurisdiction to take action shall be open to the public in accordance with the
+Kentucky Open Meetings Act (KRS Ch. 61).
+   (C)   The County Judge/Executive may call a special meeting of the County
+Fiscal Court for the purpose of transacting any business over which the County
+Fiscal Court has jurisdiction.
+   (D)   Whenever the County Judge/Executive is unable, he may refuse to call a
+special meeting. A majority of the County Fiscal Court may call a special
+meeting.
+   (E)   Special meetings shall be called and conducted in accordance with the
+Kentucky Open Meetings Act (KRS Ch. 61) which requires at least 24 hours notice
+including date, time, place, and the agenda to be delivered personally,
+transmitted electronically, by fax, or mailed to every member of the public
+agency as well as each media organization which has filed a written request to
+receive notice of special meetings. In the case of an emergency, a reasonable
+effort shall be made to notify the members of the agency, media organizations
+and public of the emergency meeting. Discussions and action at the emergency
+meeting shall be limited to the emergency for which the meeting is called.
+   (F)   All meetings of the County Fiscal Court may have the ability to be
+conducted by electronic means when electronic means are available.
+(Ord. 4-2014, passed 7-31-2014, § 6.1; Ord. 6-2026, passed 1-7-2026, § 1)
+§ 30.151 PRESIDING OFFICER.
+   (A)   The County Judge/Executive shall be the presiding officer of the
+County Fiscal Court at all regular and special meetings.
+   (B)   If the County Judge/Executive is not present or able to preside, a
+majority of the magistrates shall elect one of their members to preside as set
+forth in Section 2.5(D).
+(Ord. 4-2014, passed 7-31-2014, § 6.2; Ord. 6-2026, passed 1-7-2026, § 2)
+§ 30.152 QUORUM.
+   (A)   Not less than a majority of the members of the County Fiscal Court
+shall constitute a quorum for the transaction of business.
+   (B)   No proposition shall be adopted except with the concurrence of at
+least a majority of the members present; with the exception that passage of an
+ordinance requires a majority of the entire County Fiscal Court.
+(Ord. 4-2014, passed 7-31-2014, § 6.3; Ord. 6-2026, passed 1-7-2026, § 3)
+§ 30.153 DISTURBING MEETINGS.
+   (A)   It shall be unlawful to disturb any meeting of the County Fiscal Court
+or to behave in a disorderly manner at any such meeting.
+   (B)   Any person violating any provision of this section may be prosecuted
+under the appropriate provisions of the Kentucky Penal Code.
+(Ord. 6-2026, passed 1-7-2026, § 4)
+§ 30.154 ORDER OF BUSINESS.
+   (A)   At each regular meeting of the County Fiscal Court an agenda will be
+presented prior to the meeting. This agenda shall be followed unless dispensed
+with by a majority vote of the members present. The County Judge/Executive
+shall have the authority to add amendments to said agenda at any time in the
+event the subject of said amendment is deemed to be in the best interest of the
+county. Amendments to the agenda may also be made by majority vote of the
+County Fiscal Court.
+   (B)   At each special or emergency meeting of the County Fiscal Court, the
+agenda shall be followed with no other topics presented or discussed during the
+special or emergency meeting.
+   (C)   The County Judge/Executive or his designee shall prepare an itemized
+list of all valid bills requiring County Fiscal Court approval. Such list may
+accompany the agenda prepared by the County Judge/Executive. Members of County
+Fiscal Court have the authority and/or are encouraged to review all bills
+requiring County Fiscal Court approval and may do so at the Office of the
+County Treasurer at any time during normal business hours.
+   (D)   No bill shall be approved for payment unless contained in the itemized
+list for the meeting.
+   (E)   A majority of the County Fiscal Court members may vote to forgo
+division (D) above and approve payment of bills not included on the itemized
+list as long as the bill is presented to the County Fiscal Court.
+   (F)   The County Fiscal Court may approve payment of the list of valid bills
+as a whole unless there is an objection voiced to any specific item.
+(; Ord. 6-2026, passed 1-7-2026, § 5)
+§ 30.155 COUNTY FISCAL COURT MINUTES.
+   (A)   The clerk of the County Fiscal Court shall attend all meetings of the
+County Fiscal Court and keep a full and complete record of its action items/
+votes.
+   (B)   The Clerk of the County Fiscal Court shall keep an index of all County
+Fiscal Court records and make such index of all County Fiscal Court records
+available for public inspection in accordance with the Kentucky Open Records
+Act (KRS Ch. 61).
+(Ord. 6-2026, passed 1-7-2026, § 6)
+§ 30.156 RULES OF ORDER.
+   (A)   Except when in conflict with the foregoing provisions, Robert's Rules
+of Order shall govern the deliberations of the County Fiscal Court.
+   (B)   With the approval of a majority of the County Fiscal Court then
+present, the County Judge/Executive may suspend the rules to take action on any
+matter to which suspension is deemed to be in the best interest of the county.
+(Ord. 6-2026, passed 1-7-2026, § 7)
+§ 30.157 ORDINANCES, ORDERS, AND RESOLUTIONS.
+   (A)   An "ordinance" means an official written act of the County Fiscal
+Court, the effect of which is general and lasting in nature, which is
+enforceable within the jurisdiction of the county; or a lawful appropriation of
+money.
+   (B)   All ordinances shall be introduced in writing; relate to one subject
+only; and contain a title which expresses the subject; such as, "An Ordinance
+relating to...."
+   (C)   There shall be inserted between the title and the body of each county
+ordinance an enacting clause written in the following manner: "Be It Ordained
+by the Fiscal Court of the County of Franklin, Commonwealth of Kentucky;"
+   (D)   County ordinances shall be amended by ordinance and only by setting
+out in full each amended section.
+   (E)   No county ordinance shall be passed until it has been read on two
+separate days unless an emergency is properly declared, but ordinances may be
+read by title and a summary only.
+   (F)   No county ordinance shall be passed until it has been published
+pursuant to KRS Chapter 424. Prior to passage, ordinances may be published by
+summary. Publication shall include the time, date and place at which the county
+ordinance will be considered and the place within the county where a copy of
+the full text of the proposed ordinance is available for public inspection. In
+the event consideration for passage is continued from the initial meeting to a
+subsequent date, no further publication is necessary provided that each
+meeting, the time, date, and place of the next meeting is announced.
+   (G)   All county ordinances and amendments hall be published after passage
+and may be published in full or in summary form at the discretion of the County
+Fiscal Court.
+   (H)   Traffic, building, housing, plumbing, electrical, safety and other
+self-contained codes may be adopted by reference if a copy of the code is kept
+with the adopting ordinance and is made apart of the permanent record of the
+county.
+(Ord. 6-2026, passed 1-7-2026, § 8)
+§ 30.158 SHERIFF SERVICES.
+   The Franklin County Sheriff's Office is responsible for the performance of
+various duties relating to the protection of life and property, enforcement of
+criminal and traffic laws, prevention of crime, preservation of the public
+peace, and the apprehension of criminals.
+(Ord. 7-2026, passed 1-7-2026, § 1)
+§ 30.159 ROAD DEPARTMENT.
+   The Road Department shall be responsible for the maintenance, construction,
+and upkeep of all roads and bridges in the county road system. The County Road
+Engineer/Supervisor shall head this department.
+(Ord. 7-2026, passed 1-7-2026, § 2)
+§ 30.160 COUNTY ROAD SYSTEM.
+   The County Fiscal Court shall designate by resolution which roads in the
+county will be on the county road system and maintained by the County Road
+Department. Those roads so designated shall include for county maintenance, but
+not limited to the following all appurtenant bridges, side ditches, headwalls,
+culverts, guard rail systems, signage and traffic control devices unless
+specifically excluded by an agreement.
+(Ord. 7-2026, passed 1-7-2026, § 3)
+§ 30.161 PARKS AND RECREATION.
+   Goals and objectives: to provide quality recreational services to all
+citizens and visitors of the county.
+(Ord. 7-2026, passed 1-7-2026, § 4)
+§ 30.162 CONTENTS OF PLANNING AND SUBDIVISION REGULATIONS.
+   (A)   The county shall provide for comprehensive planning and the
+implementation of subdivision guidelines by county ordinance where not covered
+by KRS.
+   (B)   Building and electrical inspections, as required by state law, shall
+be provided by the County Fiscal Court with duly appointed inspectors through
+the County Planning, Zoning and Building Codes Department.
+(Ord. 7-2026, passed 1-7-2026, § 5)
+§ 30.163 LAW ENFORCEMENT POLICIES.
+   (A)   The Franklin County Sheriff's Department shall develop a "pursuit
+driving" policy, for the purpose of effectuating potential arrest or responding
+to any emergency situation, a use of deadly force policy, and a use of physical
+force policy, and provide same to the County Fiscal Court for review.
+   (B)   The Sheriff shall forward any policy revisions to the County Fiscal
+Court.
+(Ord. 7-2026, passed 1-7-2026, § 6)
+§ 30.164 JAIL POLICIES.
+   This Administrative Code shall be attached to the County Regional Jail
+Policies and Procedures and shall cover any and all areas not stipulated in the
+County Regional Jail Policies and Procedures.
+(Ord. 7-2026, passed 1-7-2026, § 7)
+§ 30.165 FIRE DEPARTMENT.
+   The County Fire Department is responsible for firefighting and emergency
+response in the unincorporated areas of the county. The Fire Department also
+supports the City Fire Department when the situation dictates.
+(Ord. 7-2026, passed 1-7-2026, § 8)
+§ 30.166 PLANNING/ZONING/CODE ENFORCEMENT OFFICE.
+   This office provides building and electrical inspections for all new
+construction within the county. It utilizes the Kentucky Building Code, the
+Kentucky Residential Code and the National Electric Code. The office also
+provides planning and zoning services for the residents of the county, as well
+as performing administration of the County Zoning Ordinance, which may be
+amended as required by state law then in effect and to which reference is made
+for particular amendments.
+(Ord. 7-2026, passed 1-7-2026, § 9)
+§ 30.167 OCCUPATION TAX OFFICE.
+   This office collects and maintains occupational license fees, maintains a
+listing of all businesses conducting business within the county, receives all
+occupational taxes and posts it to appropriate accounts and collects all
+delinquent occupational license fees.
+(Ord. 7-2026, passed 1-7-2026, § 10)
+Cross-reference:
+   Occupational license fees, see Chapter 110.
+§ 30.168 LAKEVIEW PARK.
+   (A)   The county's Lakeview Park was established in July 1991. It is 135
 acres of rolling landscaped grassland on Georgetown Road, Hwy. 460. The main
 attraction of the park is the Carter House, a two-story brick colonial style
-home named for the former owners of the Carter family farm. The Park also
+home named for the former owners of the Carter family farm. The park also
 includes pavilions, softball complexes, soccer fields, horse show rings, a
-walking/running path, playground and a nine-hole, par 3 family golf complex and
-driving range.
-      (2)   The County Lakeview Park Rental Policy is adopted on 10-30-1997, in
+walking/running path, playground and a nine-hole, par three family golf complex
+and driving range.
+   (B)   The County Lakeview Park rental policy is adopted on 10-30-1997, in
 Fiscal Court Order Book 17, page 326, and as may be amended by any future
 amendments, which are hereby ratified and for which reference is made for
 additional requirements.
-(Ord. 4-2014, passed 7-31-2014, § 5.5)
-OPERATION OF COUNTY FISCAL COURT
-§ 30.150 PROCEDURES FOR MEETINGS OF FISCAL COURT.
-   (A)   By January 2 of each year, the County Judge/Executive shall, by
-executive order, fix the dates for the commencement of the regular terms of the
-Fiscal Court. Meetings may be held every three weeks on alternate days of
-Friday morning with work session at 9:00 a.m. to be immediately followed by
-Court, and on Thursday evening with work session at 5:00 p.m. to be immediately
-followed by Court.
-With at least 24-hour advance notice, on an as needed basis, the Fiscal Court
-may schedule special meetings at different days and times other than those
-outlined above.
-   (B)   Fiscal Court meetings in which any public business is discussed or any
-action taken shall be open to the public.
-   (C)   The County Judge/Executive may call a special meeting of the Fiscal
-Court for the purpose of transacting any business over which the Fiscal Court
-has jurisdiction.
-   (D)   Every four years following the swearing in of the new administration
-of the newly-elected county officials, the County Fiscal Court will have its
-first meeting as soon as practical to conduct the business of the county.
-(Ord. 4-2014, passed 7-31-2014, § 6.1)
-§ 30.151 PRESIDING OFFICER.
-   The County Judge/Executive shall be the presiding officer of the Fiscal
-Court at all regular and special meetings.
-(Ord. 4-2014, passed 7-31-2014, § 6.2)
-§ 30.152 QUORUM.
-   Not less than a majority of the members of the Fiscal Court shall constitute
-a quorum for the transaction of business. No proposition shall be adopted,
-except with the concurrence of at least a majority of the members present.
-(Ord. 4-2014, passed 7-31-2014, § 6.3)
-§ 30.153 ORDER OF BUSINESS.
-   (A)   The County Judge/Executive shall have prepared an agenda for each
-Fiscal Court meeting. The Fiscal Court is subject to the provisions of the Open
-Meeting Law, KRS 61.805 to 61.850. The order of the call may be modified:
-      (1)   Call to order and roll call of members to establish a quorum;
-      (2)   County Judge/Executive report;
-      (3)   Presentations to the Court;
-      (4)   Approval of minutes;
-      (5)   First or second readings of ordinances before the Court;
-      (6)   Resolutions before the Court;
-      (7)   Appointments, if any;
-      (8)   Financial issues before the Court;
-      (9)   Departmental reports, if any;
-      (10)   Other business;
-      (11)   Closed sessions if required; and
-      (12)   Adjournment.
-   (B)   The County Judge/Executive shall prepare an information package for
-all Court members containing all items on the agenda.
-   (C)   The County Judge/Executive shall present an itemized list of all valid
-bills requiring Fiscal Court approval. Such list shall accompany the agenda
-prepared and delivered by the County Judge/ Executive pursuant to division (A)
-above.
-   (D)   Except for standing order recurring expenses, no bills shall be
-approved for payment unless presented for the meeting.
-   (E)   The Fiscal Court may approve payment of the list of valid bills as a
-whole unless there is an objection voiced to any specific item.
-   (F)   In certain circumstances, the County Judge/Executive, with the
-approval of at least five votes of the Franklin County Fiscal Court, may
-suspend the rules to take action on any matter to which expediting is deemed to
-be in the best interest of Franklin County. Only one section of the rules may
-be suspended and only one matter may be addressed during that suspension of the
-rules.
-(Ord. 4-2014, passed 7-31-2014, § 6.4; Ord. 17-2023, passed 11-21-2023)
-§ 30.154 FISCAL COURT RECORDS AND MINUTES.
-   (A)   The Fiscal Court Clerk or designee shall attend all meetings of the
-County Fiscal Court.
-   (B)   The County Fiscal Court Clerk shall be responsible for maintenance and
-management of all county records. The Fiscal Court Clerk shall keep an index of
-all records and make such index and records available for public inspection in
-accordance with KRS 61.870 to 61.884.
-(Ord. 4-2014, passed 7-31-2014, § 6.5)
-§ 30.155 ORDINANCES, ORDERS AND RESOLUTIONS.
-   (A)   An ORDINANCE means a general act of the County Fiscal Court
-enforceable by law or an appropriation of money; all other acts are motions,
-orders or resolutions.
-   (B)   All ordinances shall be introduced in writing; relate one subject
-only; and contain a title, which expresses the subject matter concisely.
-   (C)   There shall be inserted between the title and the body of each county
-ordinance an enacting clause written in the following manner: “Be It Ordained
-by the Fiscal Court, the County of Franklin, Commonwealth of Kentucky.”
-   (D)   County ordinances shall have a first reading followed by a second
-reading and adoption by the Fiscal Court.
-   (E)   County ordinances shall be amended by ordinance and only by setting
-out in full each amended section.
-   (F)   No county ordinance shall be passed until it has been published
-pursuant to KRS Ch. 424. Prior to passage, ordinances may be published in
-summary. Publication shall include the time, date and place within the county
-where a copy of the full text of the proposed ordinance is available for public
-inspection. In the event consideration for passage is continued from the
-initial reading to a subsequent date, no further publication is necessary
-provided that at each meeting the time, date and place of the next meeting is
-announced.
-   (G)   All county ordinances and amendments shall be published and shall be
-placed on the county’s website after passage and may be published in full or in
-summary.
-(Ord. 4-2014, passed 7-31-2014, § 6.6)
+(Ord. 7-2026, passed 1-7-2026, § 11)
 OTHER COUNTY POLICIES
 § 30.170 EQUAL OPPORTUNITY.
    (A)   General policy. It has been, and will continue to be, the policy of
@@ -4122,101 +4408,7 @@ compensation, working conditions, promotions, demotions or terminations of its
 employees. Overt efforts will continue to be made to provide opportunities for
 equal employment and equal compensation within the county staff.
 (Ord. 4-2014, passed 7-31-2014, § 7.1)
-§ 30.171 COUNTY INVESTMENT POLICY.
-   (A)   The Fiscal Court of the county hereby adopts the following investment
-policy and strategy with respect to the investment of all funds, as required by
-KRS 66.480.
-   (B)   The county authorizes the following to invest the county’s funds,
-pursuant to the terms and conditions of Res. 20 (1994 Series):
-      (1)   Funds not needed for current expenses or obligations of the county
-may be invested in any of the following:
-         (a)   Obligations of the United States and of its agencies and
-instrumentalities, including obligations subject to repurchase agreements;
-provided that, delivery of these obligations subject to repurchase agreements
-is taken either directly or through an authorized custodian. The investments
-may be accomplished through repurchase agreements reached with sources
-including, but not limited to, national or state banks chartered in the
-commonwealth;
-         (b)   Obligations and contracts for future delivery or purchase of
-obligations backed by the full faith and credit of the United States or a
-United States Government agency, including, but not limited to:
-            1.   United States Treasury;
-            2.   Export-Import Bank of the United States;
-            3.   Farmers Home Administration;
-            4.   Government National Mortgage Corporation; and
-            5.   Merchant Marine bonds.
-         (c)   Obligations of any corporation of the United States government,
-including, but not limited to:
-            1.   Federal Home Loan Mortgage Corporation;
-            2.   Federal Farm Credit Banks;
-            3.   Bank for Cooperatives;
-            4.   Federal Intermediate Credit Banks;
-            5.   Federal Land Banks;
-            6.   Federal Home Loan Banks;
-            7.   Federal National Mortgage Association; and
-            8.   Tennessee Valley Authority.
-         (d)   Certificates of deposit issued by or other interest-bearing
-accounts of any bank or loan institution which are insured by the Federal
-Deposit Insurance Corporation or similar entity permitted by KRS 41.240(4);
-         (e)   Uncollateralized certificates of deposit issued by any bank or
-savings and loan institution rated in one of the three highest categories by a
-nationally recognized rating agency;
-         (f)   Bankers’ acceptance for banks rated in one of the three highest
-categories by a nationally recognized rating agency;
-         (g)   Commercial paper rated in the highest category by a nationally
-recognized rating agency;
-         (h)   Bonds or certificates of indebtedness of this commonwealth and
-of its agencies and instrumentalities; and
-         (i)   Securities issued by a state or local government, or any
-instrumentality or agency thereof, in the United States, and one of the three
-highest categories by a nationally recognized rating agency.
-      (2)   The investment authority outlined above shall be subject to the
-following limitations:
-         (a)   The amount of money invested at any time by the county in one or
-more of the categories outlined above shall not exceed 20% of the total amount
-of money invested by the county;
-         (b)   The county shall not purchase any investment on a margin basis
-or through the use of any similar leveraging technique; and
-         (c)   The county shall not purchase any investment where the principal
-funds are at risk or loss.
-      (3)   The county hereby adopts the following standards for written
-agreements pursuant to which investments are made.
-         (a)   The Fiscal Court should determine who is authorized to sign the
-written agreement, whether that agreement needs to be signed by more than one
-party, whether the agreement as whole will need to be approved by the Fiscal
-Court.
-         (b)   The county should include any other requirements that it may
-want to make as a standard for the written agreement.
-      (4)   The county hereby adopts the following procedures for monitoring
-controls, deposit or retention of investments and collateral:
-         (a)   Working with the county’s investment advisor, the county should
-make such determinations as to how often a report will be received on its
-deposits;
-         (b)   Where the deposits or investments will be physically located;
-         (c)   Whether a third-party custodian is desired or required for the
-collateral;
-         (d)   Whether the county actually wants to take possession and control
-of the investment security or if that will be left with the county’s bank/
-trustee; and
-         (e)   The county should include any additional controls recommended by
-the investment advisor or the County Auditor.
-      (5)   The county hereby adopts the following standards for
-diversification investments, including diversification with respect to the
-types of investments and firm with which the county transacts business: the
-county will determine how much of the investment should be in any one type of
-investment and how all transactions are to be executed.
-      (6)   The county shall use the following standards for the qualification
-of investment agents authorized to transact business with the county: the
-Fiscal Court should determine what criteria to use in selecting an investment
-advisor, such as licensing to do business in the commonwealth, the investment
-advisor’s experience, the capitalization of the investment advisory or any
-other prudent factors the Fiscal Court deems appropriate in its determination
-of whether a particular firm is capable and qualified to transact business with
-the county.
-      (7)   All the county’s investment reports will be prepared and submitted
-on a quarterly basis by the County Treasurer.
-(Res. 20, passed 10-24-1994; Ord. 4-2014, passed 7-31-2014, § 7.2)
-§ 30.172 DEPARTMENT OF PLANNING, ZONING AND BUILDING CODE ENFORCEMENT.
+§ 30.171 DEPARTMENT OF PLANNING, ZONING AND BUILDING CODE ENFORCEMENT.
    (A)   Purpose. In order to ensure that all persons are treated equally and
 fairly, the following policies have been adopted to outline how, when and in
 what manner electrical and building construction projects will be conducted.
@@ -4224,7 +4416,7 @@ what manner electrical and building construction projects will be conducted.
       (1)   All electrical installations require an electrical permit to be
 issued.
       (2)   Only electrical contractors currently licensed by the county, with
-current workers’ compensation and liability insurance (see homeowner exception)
+current workers' compensation and liability insurance (see homeowner exception)
 may file for an electrical permit.
       (3)   If a building permit is required for the construction, no
 electrical inspection can be scheduled or completed until such time as the
@@ -4265,14 +4457,14 @@ basis.
       (3)   At the time the footer inspection is made, all property pins shall
 be in place and string lines run so that it can be determined that the building
 setback lines are in conformance with the subdivision plat or zoning ordinance.
-      (4)   Letters from engineers certifying the construction of the footer
-and the zoning setback lines will not be accepted, unless an inspection has
-been scheduled, and our office fails to notify the property owner or contractor
-that the inspection cannot be made. Letters from engineers will be accepted
-only if the Planning and Building Codes Office requests it when there is a
-disagreement on whether the structure meets the required setbacks and the
-Planning and Building Codes Office agrees to accept an engineer’s or surveyor’s
-survey showing compliance with the required zoning setback lines.
+Letters from engineers certifying the construction of the footer and the zoning
+setback lines will not be accepted, unless an inspection has been scheduled,
+and our office fails to notify the property owner or contractor that the
+inspection cannot be made. Letters from engineers will be accepted only if the
+Planning and Building Codes Office requests it when there is a disagreement on
+whether the structure meets the required setbacks and the Planning and Building
+Codes Office agrees to accept an engineer's or surveyor's survey showing
+compliance with the required zoning setback lines.
       (5)   Contractors or property owners, or their agents, are required to
 meet the inspector on the site at the time of the inspection.
       (6)   A set of the construction plans, approved by the Department of
@@ -4290,24 +4482,24 @@ Zoning and Building Code Enforcement.
       (11)   If work, which is required to be inspected, is covered prior to
 the inspection, the inspector for the Planning and Building Codes office will
 fail the inspection and will require that all work be removed so that the
-inspection can be made. In this event, a reinspection fee will be required to
-be paid prior to the Planning and Building Codes Office scheduling the re-
-inspection.
+inspection can be made. In this vent, a reinspection fee will be required to be
+paid prior to the Planning and Building Codes Office scheduling the
+reinspection.
       (12)   At the time the application for building permit is made, the
-applicant will be required to choose which code (Kentucky Building Code or CABO
-One- and Two-Family Dwelling Code) by which the construction project will be
-reviewed and inspected.
-(Ord. 4-2014, passed 7-31-2014, § 7.3)
-§ 30.173 ACCEPTABLE USES OF THE INTERNET AND COUNTY E-MAIL.
+applicant will be required to choose which code (Kentucky Building Code or the
+Kentucky Residential Code) by which the construction project will be reviewed
+and inspected.
+(Ord. 4-2014, passed 7-31-2014, § 7.3; Ord. 8-2026, passed 1-7-2026, § 3)
+§ 30.172 ACCEPTABLE USES OF THE INTERNET AND COUNTY E-MAIL.
    (A)   General. Each county employee and official shall be issued an official
 county e-mail address, which shall be used and maintained for all official
 business and correspondence of county government.
    (B)   Acceptable uses of the internet and county e-mail. The county-provided
-internet and e-mail access is intended for business purposes only. The county
+internet and email access is intended for business purposes only. The county
 encourages the use of the internet and e-mail because it makes communication
 more efficient and effective. However, internet service and e-mail are county
 property, and their purpose is to facilitate county business. Every user has a
-responsibility to maintain and enhance the county’s public image and to use
+responsibility to maintain and enhance the county's public image and to use
 county e-mail and access to the internet in a productive manner. To ensure that
 all users are responsible, the following guidelines have been established for
 using e-mail and the internet. Any improper use of the internet or e-mail is
@@ -4320,59 +4512,58 @@ materials that are obscene or X-rated. Harassment of any kind is prohibited. No
 messages with derogatory or inflammatory remarks about race, age, disability,
 religion, national origin, physical attributes or sexual preference shall be
 transmitted. No abusive, profane or offensive language is allowed to be
-transmitted through the county’s e-mail or internet system. Electronic media
+transmitted through the county's e-mail or internet system. Electronic media
 may not be used for any purpose which is illegal, deceptive or against county
-policy or contrary to the county’s best interest. Use of county e-mail or
+policy or contrary to the county's best interest. Use of county e-mail or
 internet for personal gain is prohibited.
    (D)   Communications.
-      (1)   Each user is personally responsible for the content of all test,
-audio or images that he or she places or sends over the county’s e-mail/
+      (1)   Each user is personally responsible for the content of all text,
+audio or images that he or she places or sends over the county's e-mail/
 internet system. No e-mail or other electronic communications may be sent which
 hides the identity of the sender or represents the sender as someone else or
-someone from another entity. All messages communicated on the county’s e-mail/
-internet system should contain the user’s name. Excessive personal
+someone from another entity. All messages communicated on the county's email/
+internet system should contain the user's name. Excessive personal
 communications are prohibited. Any messages or information sent by a user to
-another individual outside the county via an electronic network (e.g., bulletin
-board, online service or internet) are statements that reflect on the county.
-While some users include personal “disclaimers” in electronic messages, there
-is still a connection to the county and the statements may be tied to the
+another individual outside the county via an electronic network ( e.g.,
+bulletin board, online service or internet) are statements that reflect on the
+county. While some users include personal "disclaimers" in electronic messages,
+there is still a connection to the county and the statements may be tied to the
 county.
-      (2)   All communications sent by users via the county’s e-mail/internet
+      (2)   All communications sent by users via the county's e-mail/internet
 system must comply with this and other county policies and may not disclose any
 confidential or proprietary information.
    (E)   Downloading and installing software. To prevent computer viruses from
-being transmitted through the county’s e-mail/internet system, there will be no
+being transmitted through the county's e-mail/internet system, there will be no
 unauthorized downloading of any unauthorized software. All software downloaded
 must be registered to the county. Users should contact the County Judge/
 Executive if they have any questions.
    (F)   Copyright issues. Copyrighted material belonging to entities other
-than the county may not be transmitted by users on the county’s e-mail/internet
-system. All users obtaining access to other companies’ or individuals’
+than the county may not be transmitted by users on the county's e-mail/internet
+system. All users obtaining access to other companies' or individuals'
 materials must respect all copyrights and shall not copy, retrieve, modify or
 forward copyrighted materials, except with permission, or as a single copy, to
 reference only. Failure to observe copyright or license agreements may result
-in disciplinary action up to and including termination.
-   (G)   Security. The county routinely monitors usage patterns for its e-mail/
-internet communications. The reasons for this monitoring are many, including
-cost analysis/allocation and the management of the county’s gateway to the
-internet. All messages created, sent or retrieved over the county’s e-mail/
-internet are the property of the county and may be considered public
-information. The county reserves the right to access and monitor all messages
-and files on the county’s e-mail/internet system. Users should not assume
-electronic communications are totally private and should transmit highly
-confidential data in other ways. Passwords and sign-on access codes shall not
-be shared with anyone including co-workers, family members or other
-unauthorized personnel. A user will be designated as system administrator for
-e-mail/Internet purposes. Users shall minimize the risk of disclosing personal
-information via electronic or other means. For more details, see §
-30.174 of this chapter.
+in disciplinary action up to and including termination. The county routinely
+monitors usage patterns for its e-mail/internet communications. The reasons for
+this monitoring are many, including cost analysis/allocation and the management
+of the county's gateway to the internet. All messages created, sent or
+retrieved over the county's e-mail/internet are the property of the county and
+may be considered public information. The county reserves the right to access
+and monitor all messages and files on the county's e-mail/internet system.
+Users should not assume electronic communications are totally private and
+should transmit highly confidential data in other ways. Passwords and sign-on
+access codes shall not be shared with anyone including co-workers, family
+members or other unauthorized personnel. A user will be designated as system
+administrator for e-mail/internet purposes. Users shall minimize the risk of
+disclosing personal information via electronic or other means. For more
+details, see § 30.173 of this chapter.
    (H)   Violations. Any employee who abuses the privilege of county-
-facilitated access to e-mail or the internet will be subject to corrective
+facilitated access to email or the internet will be subject to corrective
 action up to and including termination. If necessary, the county reserves the
-right to advise appropriate officials of any suspected illegal violations.
-(Ord. 4-2014, passed 7-31-2014, § 7.4)
-§ 30.174 PROTECTION OF PERSONAL INFORMATION.
-   (A)   Definition. PERSONAL INFORMATION means an individual’s first name or
+right to advise appropriate official of any suspected illegal violations.
+(Ord. 4-2014, passed 7-31-2014, § 7.4; Ord. 8-2026, passed 1-7-2026, § 4)
+§ 30.173 PROTECTION OF PERSONAL INFORMATION.
+   (A)   Definition. PERSONAL INFORMATION means an individual's first name or
 first initial and last name; personal mark; or unique biometric or genetic
 print or image, in combination with one or more of the following data elements:
       (1)   An account number, credit card number or debit card number that, in
@@ -4381,7 +4572,7 @@ permit access to an account;
       (2)   A Social Security number;
       (3)   A taxpayer identification number that incorporates a Social
 Security number;
-      (4)   A driver’s license number, state identification card number or
+      (4)   A driver's license number, state identification card number or
 other individual identification number issued by any agency;
       (5)   A passport number or other identification number issued by the
 United States government; or
@@ -4410,8 +4601,8 @@ electronic means, it must be sent using appropriate encryption mechanisms.
 non-digital media shall be appropriately disposed. Non-digital media containing
 personal information must be properly stored and secured from view by
 unauthorized persons.
-   (C)   Point of contact. The Judge/Executive shall designate a point of
-contact (“POC”). The POC shall serve the following functions:
+   (C)   Point of contact. The County Judge/Executive shall designate a point
+of contact ("POC"). The POC shall serve the following functions:
       (1)   Maintain the adopted information security policy and be familiar
 with its requirements;
       (2)   Ensure that employees and others with access to personal
@@ -4428,7 +4619,7 @@ controls.
       (2)   Security software should be adequately tested to confirm
 functionality and to ensure that it is minimally disruptive to all associated
 operating systems, communications, applications and other associated software
-systems. Contractual provisions must also ensure that the supplier’s software,
+systems. Contractual provisions must also ensure that the supplier's software,
 by design or configuration, will not introduce any security exposures.
       (3)   The level of protection afforded by security software should be
 commensurate with the sensitivity of the data. For example, if data resides in
@@ -4486,7 +4677,7 @@ compromise, degrade or destroy systems, networks or services;
       (3)   Web: an attack executed from a website or web-based application;
       (4)   E-mail: an attack executed via an e-mail message or attachment;
       (5)   Improper usage: any incident resulting from violation of an
-organization’s acceptable usage policies by an authorized user, excluding the
+organization's acceptable usage policies by an authorized user, excluding the
 above categories;
       (6)   Loss or theft of equipment: the loss or theft of a computing device
 or media used by the organization, such as a laptop or smart phone; and
@@ -4494,7 +4685,7 @@ or media used by the organization, such as a laptop or smart phone; and
 categories.
    (J)   Destruction of records containing personal information.
       (1)   A media retention schedule shall be defined for all media in
-accordance with regulatory requirements. The Fiscal Court shall have a
+accordance with regulatory requirements. The County Fiscal Court shall have a
 document/information retention policy. When records containing personal or
 confidential information are ready for destruction, they shall destroy the
 information completely to ensure that the information cannot be recognized or
@@ -4507,9 +4698,9 @@ implemented:
          (a)   Hire a document disposal contractor to dispose of the material.
 The contractor should be certified by a recognized trade association and should
 use disk sanitizing software and/or equipment approved by the United States
-Department of Defense. The company’s information security policies and
+Department of Defense. The company's information security policies and
 procedures shall be reviewed and evaluated. Additionally, documents shall be
-reviewed such as an independent audit of a disposal company’s operations and/or
+reviewed such as an independent audit of a disposal company's operations and/or
 its compliance with nationally recognized standards;
          (b)   Secure and utilize shredding equipment that performs cross-cut
 or confetti patterns;
@@ -4529,7 +4720,7 @@ to be taken to mitigate the potential misuse of their information.
       (2)   When it has been identified that a security breach has occurred in
 which personal information has been disclosed to, or obtained by, an
 unauthorized person, within three business days the point of contact shall
-notify the County Attorney or Commonwealth’s Attorney, State Police, the
+notify the County Attorney or Commonwealth's Attorney, State Police, the
 Auditor of Public Accounts, the Attorney General and the Commissioner of the
 Department for Local Government and complete form COT-FOT2. The following shall
 be documented:
@@ -4538,7 +4729,7 @@ be documented:
          (c)   Final assessment and corrective action taken; and
          (d)   Final reporting.
       (3)   Incident response procedures can be a reaction to security
-activities such as:   
+activities such as:
          (a)   Unauthorized access to personnel, data or resources;
          (b)   Denial of service attacks;
          (c)   Actual or anticipated widespread malware infections;
@@ -4562,7 +4753,107 @@ minimal disclosure regarding incidents is preferred to prevent unauthorized
 persons from acquiring sensitive information regarding the incident, security
 protocols and similar matters, in an effort to avoid additional disruption and
 financial loss.
-(Ord. 4-2014, passed 7-31-2014, § 7.5)
+(Ord. 4-2014, passed 7-31-2014, § 7.5; Ord. 8-2026, passed 1-7-2026, § 5)
+§ 30.174 COUNTY INVESTMENT POLICY.
+   (A)   The County Fiscal Court hereby adopts the following investment policy
+and strategy with respect to the investment of all funds, as required by KRS
+66.480.
+   (B)   The county authorizes the following to invest the county's funds,
+pursuant to the terms and conditions of this section:
+      (1)   Funds not needed for current expenses or obligations of the county
+may be invested in any of the following:
+         (a)   Obligations of the United States and of its agencies and
+instrumentalities, including obligations subject to repurchase agreements;
+provided that, delivery of these obligations subject to repurchase agreements
+is taken either directly or through an authorized custodian. The investments
+may be accomplished through repurchase agreements reached with sources
+including, but not limited to, national or state banks chartered in the
+Commonwealth of Kentucky.
+         (b)   Obligations and contracts for future delivery or purchase of
+obligations backed by the full faith and credit of the United States or a
+United States Government agency, including, but not limited to:
+            1.   United States Treasury;
+            2.   Export-Import Bank of the United States;
+            3.   Farmers Home Administration;
+            4.   Government National Mortgage Corporation; and
+            5.   Merchant Marine bonds.
+         (c)   Obligations of any corporation of the United States government,
+including, but not limited to:
+            1.   Federal Home Loan Mortgage Corporation;
+            2.   Federal Farm Credit Banks;
+            3.   Bank for Cooperatives;
+            4.   Federal Intermediate Credit Banks;
+            5.   Federal Land Banks;
+            6.   Federal Home Loan Banks;
+            7.   Federal National Mortgage Association; and
+            8.   Tennessee Valley Authority.
+         (d)   Certificates of deposit issued by or other interest-bearing
+accounts of any bank or savings and loan institution having a physical presence
+in Kentucky which are insured by the Federal Deposit Insurance Corporation or
+similar entity or which are collateralized, to the extent uninsured, by any
+obligations, including surety bonds, permitted by KRS 41.240(4);
+         (e)   Uncollateralized certificates of deposit issued by any bank or
+savings and loan institution rated in one of the three highest categories by a
+nationally recognized rating agency;
+         (f)   Bankers' acceptance for banks rated in one of the three highest
+categories by a nationally recognized rating agency;
+         (g)   Commercial paper rated in the highest category by a nationally
+recognized rating agency;
+         (h)   Bonds or certificates of indebtedness of this commonwealth and
+of its agencies and instrumentalities; and
+         (i)   Securities issued by a state or local government, or any
+instrumentality or agency thereof, in the United States, and one of the three
+highest categories by a nationally recognized rating agency.
+      (2)   The investment authority outlined above shall be subject to the
+following limitations:
+         (a)   The amount of money invested at any time by the county in one or
+more of the categories outlined above shall not exceed 20% of the total amount
+of money invested by the county;
+         (b)   The county shall not purchase any investment on a margin basis
+or through the use of any similar leveraging technique; and
+         (c)   The county shall not purchase any investment where the principal
+funds are at risk or loss.
+      (3)   The county hereby adopts the following standards for written
+agreements pursuant to which investments are made.
+         (a)   The County Fiscal Court should determine who is authorized to
+sign the written agreement, whether that agreement needs to be signed by more
+than one party, whether the agreement as whole will need to be approved by the
+County Fiscal Court.
+         (b)   The county should include any other requirements that it may
+want to make as a standard for the written agreement.
+      (4)   The county hereby adopts the following procedures for monitoring
+controls, deposit or retention of investments and collateral:
+         (a)   Working with the county's investment advisor, the county should
+make such determinations as to how often a report will be received on its
+deposits;
+         (b)   Where the deposits or investments will be physically located;
+         (c)   Whether a third-party custodian is desired or required for the
+collateral;
+         (d)   Whether the county actually wants to take possession and control
+of the investment security or if that will be left with the county's bank/
+trustee; and
+         (e)   The county should include any additional controls recommended by
+the investment advisor or the auditor that performs the county audit.
+      (5)   The county hereby adopts the following standards for
+diversification investments, including diversification with respect to the
+types of investments and firm with which the county transacts business: the
+county will determine how much of the investment should be in any one type of
+investment and how all transactions are to be executed.
+      (6)   The county shall use the following standards for the qualification
+of investment agents authorized to transact business with the county: the
+County Fiscal Court should determine what criteria to use in selecting an
+investment advisor, such as licensing to do business in the commonwealth, the
+investment advisor's experience, the capitalization of the investment advisory
+or any other prudent factors the County Fiscal Court deems appropriate in its
+determination of whether a particular firm is capable and qualified to transact
+business with the county.
+      (7)   All the county's investment reports will be prepared and submitted
+on a quarterly basis by the County Treasurer.
+(Ord. 9-2026, passed 1-7-2026, § 1)
+§ 30.175 INTERNET SECURITY.
+   The Franklin County Internet Security Policy is incorporated herein and made
+a part hereof.
+(Ord. 10-2026, passed 1-7-2026)
 CHAPTER 31: OFFICIALS AND ORGANIZATIONS
 Section
    
@@ -8329,6 +8620,9 @@ Section
  
    
 110.99   Penalty
+Cross reference:
+   Occupation Tax Office, see §
+30.167
 § 110.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12592,7 +12886,7 @@ between the eaves and ridge of a gable, hip or gambrel roof. Where buildings
 are set back from the street line, the HEIGHT OF THE BUILDING may be measured
 from the average elevation of the finished lot grade at the front of the
 building.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1317.png]
       BUILDING, SEMI-DETACHED. A building having one party wall common with an
 adjacent building.
@@ -12696,7 +12990,7 @@ space within the surrounding walls of a building or structure (or portion
 thereof), exclusive of bents, shafts and courts.
       FLOOR AREA RATIO (FAR). A ratio determined by dividing the total floor
 area of a building by the area of the lot upon which the building is located:
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1319.png]
       FRATERNITY AND SORORITY. An incorporated organization of persons which
 provides sleeping accommodations, with or without accessory, common rooms,
@@ -12766,7 +13060,7 @@ individuals.
 recorded deed or on a recorded plat. In determining lot area and boundary
 lines, no part thereof within the limits of the street shall be included. The
 word LOT includes the word PLOT.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1321.png]
       LOT, CORNER. A lot at the junction of and fronting on two or more
 intersecting streets or a lot which fronts on one street with a front lot line
@@ -13009,7 +13303,7 @@ any floor and the upper surface of the floor next above; also, any portion of a
 building used for human occupancy between the topmost floor and the roof. A
 basement shall not be counted as a STORY unless the height surface of the first
 story is 50% above the average elevation of the finished lot grade.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1323.png]
       STREET. A public way established by or maintained under public authority,
 or a private way open for public use, or a private way plotted or laid out
@@ -13079,9 +13373,9 @@ required.
 of a corner lot which abuts a side street extending from the front lot line to
 the rear lot line. The STREET SIDE YARD does not include the front yard which
 is the yard between the main street and the face of the main building.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1325.png]
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1327.png]
  
 (Ord. 8, passed 10-23-1987, § 3.01; Ord. 8- 2021, passed 7-23-2021; Ord. 2-
@@ -16482,7 +16776,7 @@ space or any plant growth which obstructs sight lines at elevations between two
 and one-half and nine feet above the crown of the adjacent roadway shall be
 placed or maintained within a triangular area 25 feet along each of the
 intersecting streets to be measured from the property line.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1331.png]
 (Ord. 8, passed 10-23-1987, § 6.05)
 § 155.215 WALLS AND FENCES.
@@ -18979,7 +19273,7 @@ driveways which reduces the number of pedestrian/vehicle conflict points.
       (2)   In those cases where a previously developed site later agrees to
 add a connection point, the use(s) on the subject site shall not be penalized
 for spaces lost in order to accommodate the connection.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1333.png]
    (D)   Parking stalls and drive widths.
       (1)   Each parking area shall provide painted parking stalls of minimum
@@ -18999,9 +19293,9 @@ overhang.
  
       (2)   For purposes of measurement, drives with parking on one side only
 shall be considered as one-way drives.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1335.png]
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1337.png]
    (E)   Parking stalls for small cars.
       (1)   Where parking can be restricted to compact, sub-compact or mini-
@@ -19106,7 +19400,7 @@ shall be provided, with shade trees of at least six feet in height.
 the adjacent pavement, using curb cuts or other methods to ensure that their
 pervious nature is incorporated into the strategy of draining and treating
 surface water from the parking lot.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1339.png]
       (4)   Landscape islands shall be installed to provide landscape foliage
 for a minimum of 15% of the parking area. Such islands may be equally spaced
@@ -19126,14 +19420,14 @@ minimum height screening of landscape material (trees, hedge, berming,
 decorative fencing/wall), except where pre-existing or proposed trees require
 breaks. This screening shall not encroach into the sight triangle at ingress/
 egress points.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1341.png]
          (b)   Note: in parking facilities for less than 20 spaces the interior
 landscape island requirement may be met entirely through the perimeter
 screening requirement. In parking facilities for more than 20 spaces, up to 50%
 of the interior landscape island square footage requirement may be met through
 the perimeter screening requirement.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1343.png]
       (8)   Exterior lighting shall be designed, erected and maintained so that
 light or glare is not directly cast upon adjacent properties or public rights-
@@ -19361,7 +19655,7 @@ interchange ramp intersects the expressway travel pavement.
       MANSARD-STYLE ROOF. A mansard-style roof is a decorative structure, which
 is attached to the fascia of the building, but is not structurally integrated
 into the building. See the attached diagram.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1345.png]
       MEASUREMENTS ALONG THE WAY. The measurement taken along the centerlines
 of a public right-of-way or sequence of intersecting centerlines, but in no
@@ -19601,7 +19895,7 @@ circle, rectangle, triangle or combination thereof, that will encompass the
 extreme limits of the writing, representation, emblem or other display, but not
 including any supporting framework, bracing or decorative fence or wall when
 such fence or wall is clearly incidental to the display itself.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1347.png]
    (B)   Computation of area of multi-faced sign. The sign area for a sign with
 more than one face shall be computed by adding together the area of all sign
@@ -19845,7 +20139,7 @@ shall consist of the area between a point ten feet along the street or driveway
 edge of pavement and a point located along the edge of the state highway
 pavement, the distance an automobile traveling the speed limit can go in six
 seconds, as indicated in the table below.
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1349.png]
 (Ord. 8, passed 10-23-1987, § 11.25)
 § 155.372 PROJECTION.
@@ -20427,7 +20721,7 @@ TABLE OF SPECIAL ORDINANCES
       
 I.   ZONING MAP CHANGES
 TABLE I: ZONING MAP CHANGES
-[https://export.amlegal.com/media/5d75b2633f05f8898a62dee821c1c67454983ae8/
+[https://export.amlegal.com/media/1d7c66b2ee12beb3a8c941ea11727abb125a9bfd/
 IMAGES/0-0-0-1444.png]Publisher's Note: This Table has been AMENDED by new
 legislation (Ord. 7-2025, adopted 7-30-2025). The text of the amendment will be
 incorporated below when the ordinance is codified.
@@ -20535,6 +20829,11 @@ No.  Passed
 7-   7-30-  Rezoning a 5 acre portion of property located at 190 Democrat Drive, identified
 2025 2025   as PVA map number 087-00-00-042.00, from Professional Office District (PO) to
             General Industrial District (IG).
+            Rezoning a 47 acre portion of property at 5700-5930 U.S. 127 South, parcel #53-
+8-   8-27-  00-00-004.00; a 70 acre portion of property at 6238 U.S. 127 South, parcel #053-
+2025 2025   00- 00-007.00; and a 57.696 acre portion of property at 2024 Keaton Lane, parcel
+            #053-00-00-008.00 from Rural Residential District (RR) to Planned Commercial/
+            Planned Industrial District (PC)
            
  
 PARALLEL REFERENCES
@@ -20547,37 +20846,35 @@ KRS Cites                     Code Section
 11A.045(1) and (2)            32.02
 Ch. 13A                       55.04
 Ch. 39 et seq.                Ch. 92
+41.240(4)                     30.174
+45A.380                       30.119
+Ch. 61                        30.150; 50.155
 61.800 to 61.850              31.03
-61.805 to 61.850              30.153;
-                              31.03
-61.810                        30.005;
-                              32.05
-                              30.154;
+61.805 to 61.850              31.03
+61.810                        32.05
 61.870 to 61.884              31.03;
                               155.256
 61.878                        155.402
-61.932                        30.174
+61.932                        30.173
 65.205 et seq.                52.01
 65.205(6)                     52.01
 65.205 through 65.209         52.01
-65A.20                        30.005
 Ch. 66                        150.04
-66.480                        30.171
+66.480                        30.174
                               55.01;
 Ch. 67                        110.01;
                               152.01;
                               153.01
-67.0802                       30.122
 67.083(2)                     51.01
 67.083(3)(c), (h) and (r)     51.01
 67.084                        155.295
-67.710                        30.001;
-                              30.036
+67.710                        30.036
 67.710(7)                     30.058
-67.711                        30.002
-67.715                        30.001
-Ch. 68                        30.022
+Ch. 68                        30.001;
+                              30.022
+68.010                        30.005
 68.240                        30.020
+68.260                        30.020
 68.360                        30.022
 83A.010(6)                    10.02
 83A.010(8)                    10.02
@@ -20670,10 +20967,13 @@ Ch. 342                       30.092;
                               113.01
 Ch. 350                       155.299
 Ch. 401                       55.04
-                              30.155;
 Ch. 424                       155.051;
                               155.071
+424.130                       30.117
+424.130(1)(b)                 30.124
+424.145                       30.117
 424.220                       30.022
+424.260                       30.117
 441.215                       30.020
 441.235                       30.022
 446.010(1)                    10.02
@@ -20713,14 +21013,13 @@ Ch. 424                       155.051;
 446.100                       10.08
 446.110                       10.09
 446.140                       10.01
-451.240(4)                    30.171
 534.040(2)(c)                 10.99
                               
  
 REFERENCES TO RESOLUTIONS
  
-Ord. No. Date Passed Description
-20       10-24-1994  30.171
+Res. No. Date Passed Code Section
+                    
                     
  
 REFERENCES TO ORDINANCES
@@ -20854,20 +21153,17 @@ Ord. No.  Date Passed Code Section
                       130.99
 3-2014    7-11-2014   32.01—
                       32.05
-                      30.001—
-                      30.006;
+                      30.001;
                       30.020—
                       30.024;
                       30.035—
                       30.101;
-4-2014    7-31-2014   30.115—
-                      30.122;
-                      30.135—
-                      30.139;
+4-2014    7-31-2014   30.115;
+                      30.135—30.139;
                       30.150—
-                      30.155;
+                      30.152;
                       30.170—
-                      30.174
+                      30.173
 4-2016    7-1-2016    110.01—
                       110.99
 12-2016   6-24-2016   150.15—
@@ -20919,8 +21215,6 @@ Ord. No.  Date Passed Code Section
 2-2021    3-9-2021    T.S.O. I
 3-2021    4-23-2021   T.S.O. I
 4-2021    4-23-2021   T.S.O. I
-7-2021    6-30-2021   30.123—
-                      30.125
 8-2021    7-23-2021   155.010;
                       155.089
 9-2021    7-23-2021   155.085
@@ -20931,8 +21225,6 @@ Ord. No.  Date Passed Code Section
 12-2021   9-24-2021   T.S.O. I
 13-2021   11-19-2021  31.01
 14-2021   11-19-2021  T.S.O. I
-1-2022    1-20-2022   30.118;
-                      30.120
                       155.010;
 2-2022    2-11-2022   155.085;
                       155.124
@@ -20962,7 +21254,6 @@ Ord. No.  Date Passed Code Section
 14-2023   10-26-2023  T.S.O. I
 15-2023   11-8-2023   30.076
 16-2023   11-21-2023  30.096
-17-2023   11-21-2023  30.153
 18-2023   11-21-2023  113.01,
                       113.04
 19-2023   12-6-2023   T.S.O. I
@@ -20989,6 +21280,23 @@ Ord. No.  Date Passed Code Section
 5-2025    7-16-2025   T.S.O. I
 6-2025    7-16-2025   T.S.O. I
 7-2025    7-30-2025   T.S.O. I
+8-2025    8-27-2025   T.S.O. I
+1-2026    1-7-2026    30.001—
+                      30.007
+2-2026    1-7-2026    30.020—
+                      30.024
+3-2026    1-7-2026    30.115—
+                      30.129
+4-2026    1-7-2026    30.135—
+                      30.137
+6-2026    1-7-2026    30.150—
+                      30.157
+7-2026    1-7-2026    30.158—
+                      30.168
+8-2026    1-7-2026    30.170—
+                      30.173
+9-2026    1-7-2026    30.174
+10-2026   1-7-2026    30.175
                      
  
  
