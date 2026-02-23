@@ -3,7 +3,7 @@ OF
 BANCROFT
 IDAHO
 Code current through:
-Ord. 306, passed December 11, 2023
+Ord. 310, passed August 11, 2025
  
 Published by:
 American Legal Publishing
@@ -11,7 +11,7 @@ American Legal Publishing
 1-833-226-3439 * www.amlegal.com
 PREFACE
          This code of the City of Bancroft, as supplemented, contains
-ordinances up to and including ordinance 306, passed December 11, 2023.
+ordinances up to and including ordinance 310, passed August 11, 2025.
 Ordinances of the City adopted after said ordinance supersede the provisions of
 this code to the extent that they are in conflict or inconsistent therewith.
 Consult the City office in order to ascertain whether any particular provision
@@ -545,7 +545,7 @@ Thence West along the latitudinal centerlines of Sections 25, 26, 27, and 28
 for a distance of 15,640 feet to the True Point of Beginning.
 (Ord., 9-10-2007)
 1-7-4: MAP OF CITY IMPACT AREA:
-[https://export.amlegal.com/media/a617b2e9462213511447dbab7a371645143a4ef4/
+[https://export.amlegal.com/media/16590dc27f0814be6b18f06121d9e9e6ec9e1b5e/
 IMAGES/0-0-0-571.png]
  
 (Ord., 9-10-2007)
@@ -964,30 +964,54 @@ HEALTH, SANITATION AND ENVIRONMENT
 CHAPTER 1
 NUISANCES
 SECTION:
-4-1-1: Nuisance Defined
+4-1-1: Definitions
 4-1-2: Maintaining Prohibited
-4-1-3: Nuisances Enumerated
+4-1-3: Certain Nuisances Enumerated
 4-1-4: Uninvited Peddling
 4-1-5: Abatement Procedure
 4-1-6: Penalty
-4-1-1: NUISANCE DEFINED:
-The term "nuisance", as used in this chapter, is defined as anything which is
-injurious to health or morals, or is indecent or offensive to the senses or an
-obstruction to the free use of property so far as to interfere with the
-comfortable enjoyment of life or property.
-(Ord. 163, 7-2-1962)
+4-1-7: Reservation Of Other Remedies
+4-1-1: DEFINITIONS:
+BLIGHT: A condition characterized by physical deterioration or disrepair
+resulting in unsightly, malodorous, rotting, unhealthy, dilapidated, or unsafe
+structures, personal property, or vegetation. This includes, but is not limited
+to, the presence of debris; dead or damaged landscaping; broken, rotted,
+crumbling, peeling, or rusted material, structures, or surfaces; rotting or
+decaying animal carcasses; or rotting accumulations or piles of garbage or
+vegetation.
+DETERIORATION: A lowering in quality of the condition or appearance of
+vegetation or of any manmade structure or parts thereof. A state of
+deterioration may be characterized by holes, breaks, rot, crumbling, cracking,
+peeling, rusting, or any other evidence of physical decay, disease, neglect,
+lack of maintenance, or any other evidence of insufficient or inadequate upkeep
+or maintenance.
+NUISANCE: Any condition or use of a property which is detrimental to the
+property interests of another, or which causes or tends to cause material
+diminution in the value of other properties in the surrounding area, or any
+condition or use of a property that tends to promote blight or deterioration.
+This includes, but is not limited to, anything which is injurious to the
+health, safety or welfare of individuals, or is offensive to the senses of
+individuals, or is an obstruction of the free use of property so as to
+interfere with the comfortable enjoyment of life or property.
+VEGETATION: All plants, or plant life, taken as a whole, to include cultivars,
+trees, bushes, and weeds.
+WEEDS: Undesirable plant growth that is unkempt, unsightly, deleterious and/or
+injurious to the public. Weeds include noxious weeds as defined by state code,
+grasses, unkempt bushes, and any other plant meeting this description. (Ord.
+308, 7-14-2025)
 4-1-2: MAINTAINING PROHIBITED:
-It shall be unlawful for any person, as owner, lessee, or manager of property
-within the corporate limits of the city, to create, maintain, or cause to exist
-any "nuisance" as defined in this chapter or permit the same to exist on the
-property or premises owned by any person or under his control.
-(Ord. 163, 7-2-1962)
-4-1-3: NUISANCES ENUMERATED:
+It shall be unlawful for any person, whether as owner, lessee, or manager of
+property located within the corporate limits of the city, to create, maintain,
+or cause to exist any "nuisance" as defined in this chapter or permit the same
+to exist on the property or premises owned, leased or otherwise under their
+control. (Ord. 308, 7-14-2025)
+4-1-3: CERTAIN NUISANCES ENUMERATED:
 The following are hereby specifically declared to be nuisances when created,
 maintained, or caused to exist within the corporate limits of the city:
    A.   Unwholesome Or Injurious Substances: The depositing of any filth or any
-foul, offensive, unwholesome, nauseous, or injurious substances upon any public
-thoroughfare or other public place or upon any private property.
+foul, offensive, unwholesome, nauseous, or injurious materials or substances
+upon any public thoroughfare or other public place or upon any private
+property.
    B.   Depositing Debris Into Gutters, Public Ways: Sweeping or depositing of
 any paper, trash, ashes, rubbish or debris into any drain or gutter, or onto
 any public thoroughfare.
@@ -999,7 +1023,7 @@ in the vicinity or to persons passing by on any public thoroughfare.
 of chemicals or mixtures of substances used in the spraying of trees and other
 vegetation on property where the spray of the mixtures or the odors therefrom
 are offensive to the senses and are permitted to drift out over adjoining
-property or other property and come in contact with trees or vegetation or
+property or other property and come in contact with trees, vegetation, or
 people thereon to the injury thereof, or so as to become offensive to the
 senses or an obstruction to the free use of such property, or so as to
 interfere with the comfortable enjoyment of life or property so affected.
@@ -1007,7 +1031,7 @@ interfere with the comfortable enjoyment of life or property so affected.
 the streets, alleys, or public places or any other place that may be seen from
 private residences or by any person passing along the public thoroughfares.
    F.   Defacing Public Toilets: Public toilets whereon appear filthy or
-indecent writings or caricatures; provided, that public toilets shall be all
+indecent writings or depictions; provided, that public toilets shall be all
 toilets resorted to or used not only by the owners or proprietors of the
 building in which the same are located, but also by renters, lessors or other
 persons or by the public.
@@ -1020,44 +1044,83 @@ cause have become foul, nauseous or injurious to health or a menace to health,
 or which give forth odors which are offensive to adjacent residents or to
 persons passing by.
    I.   Carcasses, Other Unwholesome Substances: All carcasses, decaying flesh,
-fish, fowl, or vegetables and all deposits of manure or other unwholesome
-substances and all filthy or offensive water or slops in any private yard or
-premises or when thrown or conducted into or upon any street, alley, public
-ground or any enclosure so as to be unwholesome or offensive or liable to
-become unwholesome or offensive.
-(Ord. 163, 7-2-1962)
+fish, fowl, or vegetables, and all deposits of manure other than for legitimate
+gardening or farming purposes, or other unwholesome substances and all filthy
+or offensive water or slops in any private yard or premises or when thrown or
+conducted into or upon any street, alley, public ground or any enclosure so as
+to be unwholesome or offensive or liable to become unwholesome or offensive.
+   J.   Conditions or Accumulations of Offensive Materials On Land/Outdoor
+Areas: All litter, garbage, debris, waste material, accumulations of broken
+and/or junked appliances and/or furniture, broken glass, piles of mixed
+material, rags, empty barrels, boxes, crates, packing cases, mattresses,
+bedding, or disused or decaying lumber or building materials.
+   K.   Conditions or Accumulations of Unkept Vegetation and/or Weeds: All
+noxious weeds of any height, and weeds, grasses, or plants, other than trees,
+bushes, flowers, or other ornamental plants, exceeding twelve (12) inches in
+height located in the front lawn or any tract of land abutting public property.
+(Ord. 308, 7-14-2025)
 4-1-4: UNINVITED PEDDLING:
 The practice of going in and upon private residences in the city by itinerant
 merchants, transient vendors, solicitors, peddlers, and hawkers of merchandise,
 not having been requested or invited so to do by the owner or occupant of said
 private residences for the purpose of soliciting orders for the sale of goods,
-wares and merchandise, and/or for the purpose of and/or peddling or hawking the
-same, is hereby declared to be a nuisance, and punishable as such nuisance as a
-misdemeanor.
-(Ord. 133, 6-20-1949; amd. 2011 Code)
+wares and merchandise, and/ or for the purpose of and/or peddling or hawking
+the same, is hereby declared to be a nuisance, and punishable as such nuisance
+as a misdemeanor. (Ord. 133, 6-20-1949; amd. 2011 Code; Ord. 308, 7-14-2025)
 4-1-5: ABATEMENT PROCEDURE:
    A.   Property Owner Responsibility: It shall be the duty of the owner of any
 lot, building, or premises whereon any nuisance exists, or the lessee, manager,
 or person in charge thereof, to remove, abate, or destroy any existing nuisance
 without delay.
-   B.   Abatement By City; Cost A Lien:
+   B.   Abatement By City; Cost A Lien and Special Assessment:
       1.   In the event the owner of any lot, building, or premises, or the
 lessee, manager, or person in charge thereof, fails to remove, abate or destroy
 the nuisance without delay, the city may take immediate steps to abate said
 nuisance, remove the same, or destroy such nuisance, and charge the property
 owner, lessee, manager, or person in charge thereof with the reasonable charges
 incurred in the removal, abatement or destruction of the said nuisance.
-      2.   The cost of such removal shall become a lien upon the property on
-which the nuisance existed.
+      2.   The cost of such removal or abatement shall become a lien upon the
+property on which the nuisance existed.
+      3.   The City shall reserve the option to assess and levy against the
+property owner any billed and unpaid costs of abatement as a special assessment
+with property taxes. If the owner or occupant should fail to pay the amount
+owing the city within thirty (30) days of mailing of notice by the city, said
+sum shall be declared delinquent and shall be certified to the tax collector of
+the county by the city clerk not later than the first day of August, and the
+tax collector shall place the same upon the tax roll and collect it in the same
+manner and subject to the same penalties as other city taxes. All money
+received by the city shall be held by the city clerk to reimburse the city for
+money expended for such abatement.
    C.   Notice To Owner; Exception: The said property owner, lessee, manager or
 person in charge thereof shall be given reasonable notice to abate the nuisance
 unless the same constitutes an immediate threat to the health, safety or
-welfare of the citizens of, or the property within, the city.
-(Ord. 206, 9-10-1984)
+welfare of the citizens of, or the property within, the city. Reasonable notice
+shall be deemed to be ten (10) days. (Ord. 206, 9-10-1984; amd. Ord. 308, 7-14-
+2025)
 4-1-6: PENALTY:
-Any person violating any of the provisions of this chapter shall, upon
-conviction thereof, be subject to penalty as provided in section
-1-4-1 of this code. (Ord. 163, 7-2-1962; amd. 2011 Code)
+   A.   First Offense: Any person who violates any provision of this chapter
+shall, upon a first offense, be guilty of an infraction and shall be subject to
+a fine of three hundred dollars ($300). Each day that the nuisance is allowed
+to continue after notice has been given shall constitute a separate offense.
+   B.   Second and Subsequent Offenses: Any second or subsequent violation of
+this chapter by the same person, involving the same or a substantially similar
+nuisance condition within a twelve (12) month period, shall constitute a
+misdemeanor offense. A person convicted of a misdemeanor under this section
+shall be punishable by:
+      1.   A fine not to exceed one thousand dollars ($1,000);
+      2.   Imprisonment in the county jail for a period not to exceed six (6)
+months; or
+      3.   Both such fine and imprisonment.
+   C.   Continuing Violations: Each and every day during which a violation
+continues after the issuance of a citation, notice of violation, or other legal
+notice shall constitute a separate and distinct offense. (Ord. 308, 7-14-2025)
+4-1-7: RESERVATION OF OTHER REMEDIES:
+The City shall not be limited to a single remedy for enforcing nuisance
+violations and all other lawful remedies are preserved and reserved for use by
+the City, including issuance of an infraction or misdemeanor, assigning unpaid
+violation fees to a collection agency for collection, filing a civil complaint
+for collection of unpaid violation fees, and filing a civil complaint for
+nuisance. (Ord. 308, 7-14-2025)
 TITLE 5
 PUBLIC SAFETY
 CHAPTER 1
@@ -1998,6 +2061,7 @@ SECTION:
 6-3-8: Redemption
 6-3-9: Immunity From Damages
 6-3-10: Penalties
+6-3-11: Reservation Of Other Remedies
 6-3-1: DEFINITIONS:
 For the purpose of this chapter, the following terms, phrases, words, and their
 derivations shall have meanings ascribed herein. When not inconsistent with the
@@ -2011,19 +2075,19 @@ CITY: The city of Bancroft, Caribou County, Idaho.
 DIRECTOR OF TRAFFIC: Any city employee or other person designated by the mayor
 or city council to serve in this capacity.
 JUNKED: Any "motor vehicle" or other vehicle as defined in this section, which
-is wrecked, dismantled, partially dismantled, inoperative, abandoned or
-discarded and which is not capable of being licensed and which does not have
+is: A) wrecked, dismantled, partially dismantled, inoperative, abandoned or
+discarded; or B) which is not capable of being licensed and which does not have
 lawfully affixed thereto both unexpired license plate or plates.
 MOTOR VEHICLE: Any vehicle which is self-propelled and/or designed to travel
 along the ground, on water, or through the air, including, but not limited to:
 aircraft, watercraft, automobiles, buses, motor bikes, motor homes,
-motorcycles, motor scooters, trucks, tractors, go-carts, snowmobiles, or other
-self-propelled appurtenances.
+motorcycles, motor scooters, trucks, tractors, go- carts, snowmobiles, or other
+self-propelled conveyances.
 OTHER VEHICLES: Any vehicle which is not self-propelled and/or is designed to
 travel along the ground, on water, or through the air, including, but not
 limited to: camp trailers, mobile homes, boats, boat trailers, campers, farm
-equipment, and other not self-propelled appurtenances and not inhabited or
-affixed to a foundation.
+equipment, and other not self-propelled conveyances or appurtenances which are
+not inhabited or affixed to a foundation.
 PERSON: Any person, firm, partnership, association, corporation, company, or
 organization of any kind.
 PRIVATE PROPERTY: Any real property within the city which is privately owned
@@ -2032,7 +2096,7 @@ PUBLIC PROPERTY: Any street or highway, including the entire width between the
 boundary lines of every road or way publicly maintained for the purpose of
 vehicular travel, and shall also mean any other real property or facility owned
 or operated by any government agency.
-(Ord. 177, 11-7-1977)
+(Ord. 177, 11-7-1977; amd. Ord. 309, 7-22-2025)
 6-3-2: NUISANCE ON PUBLIC OR PRIVATE PROPERTY:
    A.   Public Property:
       1.   No person shall park, store, leave, abandon, junk, or permit the
@@ -2042,59 +2106,56 @@ for a period of time exceeding a forty eight (48) hour period.
       2.   The presence of an abandoned or junked vehicle, or parts thereof, is
 hereby declared to be a nuisance in that it represents a serious hazard to the
 public health, safety, convenience, and welfare of the residents of the city.
-Its removal by a towing service may be authorized by the director of traffic,
-and the responsibility for removal as described in section
-6-3-4 of this chapter will apply. (Ord. 177, 11-7-1977)
+Its removal by a towing or other appropriate service may be authorized by the
+director of traffic, and the responsibility for removal as described in section
+6-3-4 of this chapter will apply.
    B.   Private Property:
       1.   No person shall park, store, leave, abandon, junk or permit the
 parking, storing, junking, or abandoning of any motor vehicle or other vehicle
 of any kind, whether attended or not, upon any private property within the city
-for a period of time exceeding ten (10) days. (Ord. 177, 11-7-1977; amd. 2011
-Code)
-      2.   The presence of an abandoned or junked vehicle or parts thereof can
-be declared to be a nuisance in that it represents a serious hazard to the
+for a period of time exceeding ten (10) days.
+      2.   The presence of an abandoned or junked vehicle or parts thereof on
+private property for more than ten (10) days may be declared to be a nuisance
+by the director of traffic, in that it represents a serious hazard to the
 public safety, health, convenience, and welfare of the residents of the city.
 Such nuisance may be abated as provided in this chapter. This subsection shall
 not apply to any motor vehicle or other vehicle completely enclosed within a
 building on private property, or to any motor vehicle or other vehicle held in
-connection with a business enterprise lawfully licensed by the city and located
-in an area where such a business is permitted by the zoning laws of the city.
-   C.   Complaint: Where a nuisance exists in subsection B of this section, a
-formal complaint must be filed with the director of traffic, mayor and/or the
-city council.
-(Ord. 177, 11-7-1977)
+connection with a business enterprise, such as a repair shop, which is lawfully
+licensed by the city and located in an area where such a business is permitted
+by the zoning laws of the city.
+   C.   Complaint: Before the City takes steps to abate a nuisance as defined
+in this section
+6-3-2(B) a written complaint must be filed with the director of traffic, mayor
+and/or the city council. (Ord. 177, 11-7-1977; amd. 2011 Code)
 6-3-3: NOTICE AND HEARING:
    A.   Notice: Whenever it comes to the attention of the director of traffic
 that any nuisance exists, as described in section
 6-3-2 of this chapter, within the city, a notice in writing shall be served
 upon the registered and/or legal owner of the motor vehicle or other vehicle,
-notifying him of the existence of the nuisance and requesting its removal,
-within forty eight (48) hours, as stated in subsection
-6-3-2A1 of this chapter, and fifteen (15) days following issuance of notice as
-stated in this subsection. The notice shall further advise that, upon failure
-to comply with its terms, the director of traffic or his designee shall
-undertake such removal with the costs incurred thereby to be levied against the
-registered and/or legal owner of the motor vehicle or other vehicle. If the
-registered and/or legal owner cannot be located personally, it shall constitute
-sufficient notice if a copy of the same is posted in a conspicuous place upon
-the motor vehicle and/or other vehicle and duplicate copies of the notice are
-sent by certified mail to the owner of the motor vehicle and/or other vehicle
-to the last known address.
-   B.   Hearing: Persons to whom notices are directed, or their duly authorized
-agents, following a subsection
-6-3-2B of this chapter nuisance, may file a request for hearing before the city
-council within the fifteen (15) day period prescribed herein, for the purpose
-of showing just cause why they should not be required to comply with the terms
-of this chapter. Such hearing shall be held at the next regularly scheduled
-meeting of the city council at least ten (10) days after the filing of the
-request for hearing, and the persons to whom the notice is directed shall be
-advised of the time and place of said hearing at least three (3) days in
-advance thereof. The time remaining for compliance with the notice shall be
-followed upon the filing of a request for hearing and shall not again commence
-to run until the city council has issued its decision. At any such hearing, the
-city and the persons to whom notices have been directed may introduce such
-witnesses and evidence as either party deems necessary.
-(Ord. 177, 11-7-1977)
+notifying the owner of the existence of the nuisance and requesting its
+removal, within forty eight (48) hours.The notice shall further advise that,
+upon failure to comply with its terms, the director of traffic or his designee
+shall undertake such removal with the costs incurred thereby to be levied
+against the registered and/or legal owner of the motor vehicle or other
+vehicle. If the registered and/or legal owner cannot be located personally, it
+shall constitute sufficient notice if a copy of the same is posted in a
+conspicuous place upon the motor vehicle and/or other vehicle and duplicate
+copies of the notice are sent by certified mail to the owner of the motor
+vehicle and/or other vehicle to the last known address.
+   B.   Hearing: Persons to whom removal notices are directed, or their duly
+authorized agents, may submit a request for hearing before the city council
+within fifteen (15) days of service of a notice, for the purpose of showing
+just cause why they should not be required to comply with the terms of this
+chapter. Such hearing shall be held at the next regularly scheduled meeting of
+the city council at least ten (10) days after the filing of the request for
+hearing, and the persons to whom the notice is directed shall be advised of the
+time and place of said hearing at least three (3) days in advance thereof. If a
+hearing before the City Council is timely requested, the City will not take
+further steps to abate the nuisance until such time as the City Council renders
+its decision. At any such hearing, the city and the persons to whom notices
+have been directed may introduce such witnesses and evidence as either party
+deems necessary. (Ord. 177, 11-7-1977; amd. Ord. 309, 7-22-2025)
 6-3-4: RESPONSIBILITY FOR REMOVAL:
 Upon proper notice and opportunity to be heard as specified in section
 6-3-3 of this chapter, the registered and/or legal owner of an abandoned and/or
@@ -2120,29 +2181,30 @@ storage.
    A.   If thirty (30) days have elapsed after impounding a motor vehicle and/
 or other vehicle, and giving notice as authorized in this chapter, during which
 the motor vehicle and/or other vehicle has not been claimed and the city's cost
-paid, the city shall cause the motor vehicle and/or other vehicle to be
-appraised.
-   B.   If the vehicle is appraised at seventy five dollars ($75.00) or less,
+paid, the city shall use reasonable efforts to establish the fair market value
+of the motor vehicle and/or other vehicle. The City may use online appraisal
+websites to obtain the market value.
+   B.   If the vehicle value is seven hundred fifty dollars ($750.00) or less,
 the director of traffic shall execute an affidavit so attesting and describing
 the vehicle, including the numbers of license plates, if any, and stating the
-location and appraised value of the vehicle. The director of traffic may then
+location and approximate value of the vehicle. The director of traffic may then
 summarily dispose of the motor vehicle and/or other vehicle, and execute an
 appropriate certificate of sale or destruction. One copy of such certificate
 shall be filed with the city clerk-treasurer and another copy shall be
 forwarded to the Idaho transportation department, division of motor vehicles.
    C.   If the motor vehicle and/or other vehicle is appraised in excess of
-seventy five dollars ($75.00), the director of traffic shall give notice of
-public sale not less than ten (10) days before the date of the proposed sale.
-Such notice of sale shall include: 1) a statement that the sale is of impounded
-property in the possession of the city; 2) a description of the motor vehicle
-and/or other vehicle; 3) a statement of the terms of sale; 4) a recitation of
-the date, time, and place of sale. The motor vehicle and/or other vehicle shall
-be sold to the highest bidder. At the time of payment of the purchase price,
-the director of traffic shall execute an appropriate certificate of sale, the
-original to be given to the purchaser, one copy to be filed with the city
-clerk-treasurer and another copy to be forwarded to the Idaho transportation
-department division of motor vehicles.
-(Ord. 177, 11-7-1977)
+seven hundred fifty dollars ($750.00), the director of traffic shall give
+notice of public sale not less than ten (10) days before the date of the
+proposed sale. Such notice of sale shall include: 1) a statement that the sale
+is of impounded property in the possession of the city; 2) a description of the
+motor vehicle and/or other vehicle; 3) a statement of the terms of sale; 4) a
+recitation of the date, time, and place of sale. The motor vehicle and/or other
+vehicle shall be sold to the highest bidder. At the time of payment of the
+purchase price, the director of traffic shall execute an appropriate
+certificate of sale, the original to be given to the purchaser, one copy to be
+filed with the city clerk-treasurer and another copy to be forwarded to the
+Idaho transportation department division of motor vehicles. (Ord. 177, 11-7-
+1977; amd. Ord. 309, 7-22-2025)
 6-3-7: PROCEEDS OF SALE:
 When a vehicle located within the corporate limits of the city is authorized to
 be disposed of as set forth in this chapter, the proceeds of the public sale or
@@ -2177,12 +2239,34 @@ separately from the civil action, the city may cause a lien or special
 assessment to be placed directly upon the property of the registered and/or
 legal owner of the motor vehicle and/or other vehicle, for the amount of such
 expenses.
-   B.   Violation A Misdemeanor: Any violation of a provision of this chapter
-shall be unlawful and punishable as a misdemeanor. Each day that such violation
-continues with respect to each motor vehicle and/or other vehicle may be deemed
-a separate offense. Prosecution for such offense shall not preclude a civil
-action for recovery of costs as provided in subsection A of this section.
-(Ord. 177, 11-7-1977)
+   B.   Criminal Action
+      1.   First Offense: Any person who violates any provision of this chapter
+shall, upon a first offense, be guilty of an infraction and shall be subject to
+a fine of three hundred dollars ($300). Each day that the nuisance is allowed
+to continue after notice has been given and the period for compliance has
+expired shall constitute a separate offense. A separate offense shall exist for
+each individual motor vehicle or other vehicle that is deemed to be nuisance
+under this chapter.
+      2.   Second and Subsequent Offenses: Any second or subsequent violation
+of this chapter by the same person, involving the same or a substantially
+similar nuisance condition within a twelve (12) month period, shall constitute
+a misdemeanor offense. A person convicted of a misdemeanor under this section
+shall be punishable by:
+         a.   A fine not to exceed one thousand dollars ($1,000);
+         b.   Imprisonment in the county jail for a period not to exceed six
+(6) months; or
+         c.   Both such fine and imprisonment.
+   C.   Continuing Violations: Each and every day during which a violation
+continues after the issuance of a citation, notice of violation, or other legal
+notice, shall constitute a separate and distinct offense. (Ord. 177, 11-7-1977;
+amd. Ord. 309, 7-22-2025)
+6-3-11: RESERVATION OF OTHER REMEDIES:
+The City shall not be limited to a single remedy for enforcing nuisance,
+junked, or abandoned vehicle violations and all other lawful remedies are
+preserved and reserved for use by the City, including issuance of an infraction
+or misdemeanor, assigning unpaid violation fees to a collection agency for
+collection, filing a civil complaint for collection of unpaid violation fees,
+and filing a civil complaint. (Ord. 309, 7-22-2025)
 TITLE 7
 PUBLIC WAYS AND PROPERTY
 Reserved
