@@ -3346,7 +3346,7 @@ of the State of Illinois. The Department of Revenue shall have full power to
 administer and enforce the provisions of this subchapter.
 (Ord. 2143, passed 6-3-25; Am. Ord. 2165-25, passed 12-16-25)
 § 34.113 CLERK TO FILE.
-   As required under ILCS Ch. 65, Act 5, § 8-11-1.3, the Clerk is hereby
+   As required under ILCS Ch. 65, Act 5, § 8-11-1.1, the Clerk is hereby
 directed to file a certified copy of this subchapter with the Illinois
 Department of Revenue on or before October 1, 2025.
 (Ord. 2143, passed 6-3-25; Am. Ord. 2165-25, passed 12-16-25)
@@ -14164,7 +14164,7 @@ any other public property within the village.
 operated only on the street. No person shall operate a low-speed electric
 bicycle on any sidewalk within the village.
    (B)   Personal mobility devices. Personal mobility devices may be operated
-on any sidewalk in the village, except in the nature center. No person shall
+on any sidewalk in the village, except in the Nature Center. No person shall
 operate a personal mobility device on any public street, roadway, or alley
 within the village, except where necessary to cross a street at a designated
 crosswalk.
@@ -14200,7 +14200,7 @@ guardian.
 chapter unless otherwise stated:
    (A)   Any local, state, or federal police vehicle, fire vehicle, EMS
 vehicle, special district vehicle, county vehicle, Forest Preserve District
-vehicle, or official village vehicle including but not limited to public works
+vehicle, or official village vehicle including but not limited to Public Works
 that is operated by an employee in the course of his or her duties.
    (B)   Motorized wheelchairs, which for the purpose of this chapter, means
 any motorized vehicle or power-driven mobility devices designated for and used
@@ -17071,7 +17071,7 @@ reasonably be expected to spoil or otherwise perish within the next 30 days.
 and having apparent utility or monetary value, except for exempt personal
 property.
    PUBLIC CAMPING. To cause or participate in the establishment of, or the act
-of remaining in or at, a campsite.
+of remaining in or at a campsite.
 (Ord. 2138-25, passed 4-15-25)
 § 101.05 PUBLIC CAMPING PROHIBITED.
    (A)   No person may sleep, nor otherwise engage in public camping, on a
@@ -24434,15 +24434,7 @@ and party wall, and by exterior walls pierced by only windows and normal
 entrance or exit doors.
       Building, Detached: A detached building is one surrounded by open space
 on the same zoning lot.
-   BUILDING HEIGHT. Building height shall be measured as the vertical distance
-from established grade to the highest point of the building. In determining
-height limits, penthouses, roof tanks, bulkheads, chimneys, and similar roof
-structures shall not be included unless the aggregate of such structures exceed
-one-third (1/3) of the area of the roof or the building and provided the height
-of such structures is not more than fifteen (15) feet above the roof level. If
-a penthouse or any other structure provides for residential accommodations or
-commercial use in part or total, then such area providing for such use shall be
-included in the building height measurement.
+ 
    BUILDING LINE. The line nearest the front of and across a zoning lot,
 establishing the minimum open space to be provided between the front line of a
 building or structure and the street right-of-way line. (See Setback Line).
@@ -24796,20 +24788,19 @@ incidental thereto, and consisting of at least sixty (60) acres for each
 standard nine-hole course and thirty (30) acres for nine-hole, par-3 course.
    GRADE (FOR DETERMINATION OF BUILDING OR STRUCTURE HEIGHT). Grade is defined
 as follows:
-      1.   As applied to a building ten feet, zero inches (10'0") or less from
-a street property line, grade shall be the established sidewalk elevation at
-the centerline of the street surface shall be used.
-      2.   As applied to a building more than ten feet, zero inches (10'0")
-from a street property line, grade shall be the average finished ground
-elevations at the building walls.
-      3.   As applied to a building facing two (2) streets having different
-elevations, grade shall be determined by the sidewalk elevation of where no
-sidewalk is established, the elevation at the center line at the street surface
-at the lower level street.
-      4.   Buildings in the Business, Office Research, Regional Office Center
-and Manufacturing Districts, when adjacent to a residence district, the
-building height is to be measured from the average of the grade elevation at
-the property line adjoining the residence district.
+      1.   For principal buildings ten (10) feet or less from any right of way
+line, grade is the sidewalk elevation perpendicular to the center of the front
+building wall; where the is no sidewalk, grade is the street centerline
+elevation perpendicular to the center of the front building wall.
+      2.   For principal buildings more than ten (10) feet from any right of
+way line, grade is the finished ground elevation at the center of the front
+building wall.
+      3.   For a principal building on a lot in a Business, Office Research,
+Regional Office Center or Manufacturing District adjacent to a residence
+district, grade is the average finished elevation of all property lines
+adjoining the residence district.
+      4.   For accessory structures, grade is the finished ground elevation at
+any point along the horizontal extent of the accessory structure.
    GRADING. (See Excavating - Filling).
    GUEST, PERMANENT. A permanent guest is a person who occupies or has the
 right to occupy a hotel or apartment hotel accommodation as his/her domicile
@@ -24840,9 +24831,21 @@ during delivery irrespective of the number of patients received.
 tuberculosis sanitaria, mental or physical hospitals and sanitaria, and
 includes maternity homes, lying-in-homes, and homes for unwed mothers in which
 aid is given during delivery.
-   HEIGHT. Height means when referring to a Telecommunications Tower or other
-structure, the distance measured from the finished grade of the parcel to the
-highest point on the Telecommunications Tower or other structure, including the
+   HEIGHT, BUILDING OR STRUCTURE. Height shall be measured as the vertical
+distance from established grade to the highest point of the building or
+structure. (See definition of Grade).
+   In determining height limits, penthouses, roof tanks, bulkheads, chimneys,
+and similar roof structures shall not be included unless the aggregate of such
+structures exceed one-third (1/3) of the horizontal area of the roof of the
+building or structure and provided the height of such structures is not more
+than fifteen (15) feet above the roof level. If a penthouse or any other
+structure is used in whole or in part for a residential or commercial use, then
+the height of the area containing any such uses shall be included in the
+building height measurement.
+   HEIGHT, TELECOMMUNICATIONS TOWERS AND STRUCTURES. Height when referring to a
+Telecommunications Tower or other telecommunications structure means the
+distance measured from finished grade to the highest point on the
+Telecommunications Tower or other telecommunications structure, including the
 base pad and Antenna Structures.
    HOME OCCUPATION. Home occupation is any gainful occupation or profession
 engaged in by the occupant of a dwelling at or from the dwelling, where such
@@ -25605,8 +25608,8 @@ Am. Ord. 1356-06, passed 12-19-06; Am. Ord. 1469-08, passed 11-18-08; Am. Ord.
 1481-09, passed 3-03-09; Am. Ord. 1527-10, passed 5-18-10; Am. Ord. 1541-10,
 passed 8-17-10; Am. Ord. 1548-10, passed 10-19-10; Am. Ord. 1679-13, passed 12-
 3-13; Am. Ord. 1818-16, passed 10-4-16; Am. Ord. 1912-19, passed 4-2-19; Am.
-Ord. 1916-19, passed 6-18-19; Am. Ord. 2011-22, passed 3-15-22; Am. Ord. 2161-
-25, passed 12-16-25)
+Ord. 1916-19, passed 6-18-19; Am. Ord. 2011-22, passed 3-15-22; Am. Ord. 2139-
+25, passed 5-20-25; Am. Ord. 2161-25, passed 12-16-25)
 § 4.00 GENERAL PROVISIONS.
 § 4.01 INTERPRETATION.
    1.   Minimum Requirement: The provisions herein shall be held to be the
@@ -28939,12 +28942,12 @@ rights-of-way of said streets or highways.
 or use shall not exceed seventy percent (70%) of the lot area.
 (Ord. 963-97, passed 4-8-97)
 § 11.06 BUILDING HEIGHT.
-   Building height shall not exceed thirty (30) feet above the curb level or
-two (2) stories, whichever is lower, except when recommended by the Plan
-Commission and approved by the Village Board, the building height may exceed
-thirty (30) feet above curb level, but not higher than forty (40) feet or more
-than two (2) stories.
-(Ord. 963-97, passed 4-8-97)
+   Building height shall not exceed forty-two (42) feet above grade, or two (2)
+stories, whichever is lower, except when recommended by the Plan Commission and
+approved by the Village Board, the building height may exceed forty-two (42)
+feet above grade, but not higher than fifty (50) feet above grade or more than
+two (2) stories.
+(Ord. 963-97, passed 4-8-97; Am. Ord. 2139-25, passed 5-20-25)
 § 11.07 FLOOR AREA RATIO.
    Subject to requirements set forth under Section
 11.04, Yard Requirements, the floor area ratio shall not exceed zero point
@@ -29488,7 +29491,7 @@ for the most similar listed used, or as determined by the Zoning Administrator.
 06, passed 12-05-06; Am. Ord. 1679-13, passed 12-3-13)
 2025 S-22
 § 12.06 OFF-STREET PARKING CHART.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2702.png]
  
 (Ord. 963-97, passed 4-8-97)
@@ -29927,8 +29930,8 @@ the zoning lot as provided herein.
          (2)   In an R-3 General Residence District, for a multiple-family
 dwelling, a sign may not be more than three (3) square feet in area, such a
 sign may be affixed against the building, but not located higher than one (1)
-story or twenty (20) feet above curb level, whichever is lower. Such a sign may
-also be located in a yard adjoining a street, provided it is not closer to the
+story or twenty (20) feet above grade, whichever is lower. Such a sign may also
+be located in a yard adjoining a street, provided it is not closer to the
 street line than one-half (1/2) the depth of the yard or fifteen (15) feet,
 whichever is less, and does not exceed four (4) feet in height.
          (3)   An exception to these location limitations shall be made for
@@ -30081,7 +30084,7 @@ shall not project more than eighteen (18) inches and shall not be painted,
 pasted or similarly posted directly on the surface of any building, wall or
 fence.
          (6)   No sign shall project higher than the building height, or thirty
-(30) feet above the curb level, whichever is lower.
+(30) feet above grade, whichever is lower.
          (7)   One (1) ground mounted sign shall be permitted for each zoning
 lot unless such lot is a through lot or has double frontage in which case two
 (2) ground signs may be allowed when recommended by the Plan Commission and
@@ -30132,10 +30135,10 @@ provided they are not greater than five (5) feet in height. Pylon signs shall
 be prohibited. (See Section
 13.01.8. - Non-Conforming Existing Signs).
          (4)   No wall sign shall project higher than the building height, or
-twenty (20) feet above the curb level, whichever is lower. Wall signs shall be
-mounted parallel to building facades. Projecting signs shall be mounted
-perpendicular to building facades; may be double-sided; and shall not exceed
-fourteen (14) square feet per face.
+twenty (20) feet above grade, whichever is lower. Wall signs shall be mounted
+parallel to building facades. projecting signs shall be mounted perpendicular
+to building facades; may be double-sided; and shall not exceed fourteen (14)
+square feet per face.
          (5)   A minimum front yard setback of fifteen (15) feet or one-half
 (1/2) of the required front yard setback, whichever is less, shall be
 maintained. Where no front yard setback is required (B-4 District), regulations
@@ -30327,10 +30330,10 @@ on a lot; and each side of a building adjoining a street shall be considered as
 separate building frontage.
       c.   Wall signs shall be affixed flat against the building and shall not
 project therefrom more than eighteen (18) inches.
-      d.   Signs affixed to a building wall shall not project higher than
-thirty (30) feet above curb level, nor higher than the building height,
-whichever is lower, and may not be located upon a chimney spire, tower,
-elevator penthouse, tanks or similar projections.
+      d.   Signs affixed to a building wall shall not project higher than forty
+(40) feet above grade, nor higher than the building height, whichever is lower,
+and may not be located upon a chimney spire, tower, elevator penthouse, tanks
+or similar projections.
       e.   Signs affixed to a building shall not exceed two hundred forty (240)
 square feet per building frontage wherein each side of a building which abuts
 upon a street shall be considered as a separate frontage.
@@ -30366,7 +30369,7 @@ of a new temporary permit is required for each four (4) week time period.
 (Ord. 963-97, passed 4-08-97; Am. Ord. 1168-03, passed 7-15-03; Am. Ord. 1314-
 06, passed 5-02-06; Am. Ord. 1343-06, passed 12-5-06; Am. Ord. 1355-06, passed
 12-5-06; Am. Ord. 1469-08, passed 11-18-08; Am. Ord. 1481-09, passed 3-3-09;
-Am. Ord. 1818-16, passed 10-4-16)
+Am. Ord. 1818-16, passed 10-4-16; Am. Ord. 2139-25, passed 5-20-25)
 § 14.00 ADMINISTRATION.
 § 14.01 GENERAL PROVISIONS.
    1.   Administration. The administration of this Ordinance is hereby vested
@@ -32942,36 +32945,36 @@ requirement may be reduced or waived.
 (Ord. 1382-07, passed 6-5-07)
 ILLUSTRATIONS
 ILLUSTRATION 1 EXAMPLES OF RESIDENTIAL LOT DEFINITIONS.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2722.png]
  
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 2 R-1 SINGLE FAMILY RESIDENT DISTRICT.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2724.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 3 R-2 SINGLE FAMILY RESIDENT DISTRICT.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2726.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 4 R-3 GENERAL RESIDENCE DISTRICT.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2728.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 5 VISION CLEARANCE.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2730.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 6 FENCE LOCATION.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2732.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 7 ILLUSTRATION OF LOT DEFINITIONS (LOT WIDTH, ETC.).
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2734.png]
 (Ord. 963-97, passed 4-8-97)
 ILLUSTRATION 8 BUILDING HEIGHT.
-[https://export.amlegal.com/media/4798e24d6afa22683922c149795ccb73749c405f/
+[https://export.amlegal.com/media/2fe06c91525037e04420aa3f4ac833ae648bbf25/
 IMAGES/0-0-0-2736.png]
 (Ord. 963-97, passed 4-8-97)
 TABLE OF SPECIAL ORDINANCES
@@ -33607,10 +33610,10 @@ Ord. No. Date     Description
                   located at 217 and 219 North Walnut Street.
 2122-24  11-19-24 Authorizing the village to join the Intergovernmental Risk
                   Management Agency.
-2132-25  3-18-25  Authorizing loan agreement to borrow funds from water
-                  pollution control loan program.
-2133-25  3-18-25  Authorizing loan agreement to borrow funds from the public
-                  water supply loan program.
+2132-25  3-18-25  Authorizing loan agreement to borrow funds from Water
+                  Pollution Control Loan Program.
+2133-25  3-18-25  Authorizing loan agreement to borrow funds from the Public
+                  Water Supply Loan Program.
 2141-25  6-3-25   Disposing of surplus Public Works property.
 2164-25  12-2-25  Disposing of surplus Public Works property.
                  
@@ -34587,20 +34590,19 @@ No.
                  Performance Exhaust Inc.).
 2129-25 2-4-25   Approving a variance for signage at 200 Pierce Rd (MEI Systems Inc.).
 2130-25 3-4-25   Adopting the 2025 official zoning map.
-2131-25 3-18-25  Approving additional height for a building addition at 1025 W Thorndale,
+2131-25 3-18-25  Approving additional height for a building addition at 1025 W. Thorndale,
                  RDI.
+2134-25 4-1-25   Approving the stormwater master plan for Hamilton Lakes.
 2136-25 4-15-25  Approving a certificate of appropriateness to construct a new single-
                  family home with an attached garage at 223 N. Elm Street, Case HC 25-001.
-                 Approving a master plan for the NTT Global Data Center Campus, buildings
-2137-25 4-15-25  CH#1, CH#2, CH#3, CH#4, wayfinding, and monument signs with six signs in
-                 excess of 48 square feet.
-2139-25 5-20-25  Amending the height of buildings in the M- Limited Manufacturing District,
-                 to permit a maximum wall sign height up to 40 feet.
+                 Approving a master sign plan for the NTT Global Data Center Campus,
+2137-25 4-15-25  buildings CH#1, CH#2, CH#3, CH#4, wayfinding, and monument signs with six
+                 signs in excess of 48 square feet.
                  Approving variances for front yard setback and a waiver of parking
-2140-25 6-3-25   requirements at the Itasca Park District Recreation Facility, 650 E.
+2140-25 6-3-25   requirements at the Itasca Park District Recreation Facility, 350 E.
                  Irving Park Road.
                  Approving a variance for interior side yard setback and required minimal
-2444-25 6-17-25  separation between principal and accessory buildings at 350 S. Maple
+2144-25 6-17-25  separation between principal and accessory buildings at 350 S. Maple
                  Street.
 2146-25 9-16-25  Approving a variance to permit an increase of the maximum lot coverage in
                  the R-1 Residential District at 1150 Surrey Lane.
@@ -34609,10 +34611,10 @@ No.
                  R-1 Residential District at 624 Walters Lane.
                  Approving a variance to permit a four foot high picket corner side yard
 2148-25 9-16-25  fence to be located within ten feet of the property line, in the R-
-                 1 Residential District at 625 Alexandria Court.
+                 1 Residential District at 625 Alexandra Court.
                  Approving a variance to permit up to eight foot fences along the rear
-2153-25 11-18-25 property lines instead of the maximum height of 6 feet, in the R-
-                 1 Residential District at 1252-1266 Inverness Lane.
+2153-25 11-18-25 property lines instead of the maximum height of six feet, in the R-
+                 1 Residential District at 1252- 1266 Inverness Lane.
 2160-25 12-16-25 Approving a map amendment to rezone from R-1 Residence District to the R-
                  2 Residence District for the property at 6N521 Andrene Ln.
                 
@@ -34756,10 +34758,10 @@ Ch. 65, Act 5, § 1-2-1                      10.99,
 Ch. 65, Act 5, § 1-2-1.1                    10.99
 Ch. 65, Act 5, § 1-2-9                      101.99
 Ch. 65, Act 5, § 3.1-35-10                  32.25
-Ch. 65, Act 5, § 8-11-1.1                   34.047
-                                             34.40,
-Ch. 65, Act 5, § 8-11-1.3,                  34.110,
+Ch. 65, Act 5, § 8-11-1.1                   34.047,
                                              34.113
+Ch. 65, Act 5, § 8-11-1.3,                  34.40,
+                                             34.110
 Ch. 65, Act 5, § 8-11-1.4                   34.111
 Ch. 65, Act 5, § 8-11-2                     34.045,
                                              34.056
@@ -36817,6 +36819,7 @@ Am. Ord. 850-95 8-2-03      30.110
 2131-25         4-15-25     T.S.O. X
 2132-25         3-18-25     T.S.O. III
 2133-25         3-18-25     T.S.O. III
+2134-25         4-1-25      T.S.O. X
                             80.02 -
 2135-25         4-1-25      80.06,
                             80.99
@@ -36825,7 +36828,9 @@ Am. Ord. 850-95 8-2-03      30.110
                             101.01 -
 2138-25         4-15-25     101.08,
                             101.99
-2139-25         5-20-25     T.S.O. X
+                            Ch. 159, App. A, 3.02,
+2139-25         5-20-25     11.06,
+                            13.03
 2140-25         6-3-25      T.S.O. X
 2141-25         6-3-25   T.S.O. III
 2142-25         6-3-25   34.095 -
